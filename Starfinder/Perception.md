@@ -11,7 +11,27 @@ Vous pouvez utiliser tous vos sens (l’ouïe, le goût, le toucher, la vue et l
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>CIRCONSTANCE</td><td>DD</td></tr><tr CLASS="premier"><td>**Entendre le bruit d’un combat**</td><td>0</td></tr><tr CLASS="alt"><td>**Sentir une odeur forte**</td><td>0</td></tr><tr><td>**Écouter le contenu d’une conversation**</td><td>0</td></tr><tr CLASS="alt"><td>**Repérer une créature clairement visible**</td><td>0</td></tr><tr><td>**Déterminer si de la nourriture est consommable**</td><td>5</td></tr><tr CLASS="alt"><td>**Entendre les bruits de pas d’une créature de taille M ou P**</td><td>10</td></tr><tr><td>**Entendre le contenu d’une conversation murmurée**</td><td>15</td></tr><tr CLASS="alt"><td>**Trouver une trappe de cargaison ordinaire et banale**</td><td>15</td></tr><tr><td>**Entendre le bruit d’une porte automatique qui s’ouvre**</td><td>20</td></tr><tr CLASS="alt"><td>**Trouver un compartiment secret ordinaire**</td><td>20</td></tr><tr><td>**Entendre quelqu’un dégainer un pistolet**</td><td>20</td></tr><tr CLASS="alt"><td>**Ressentir le passage d’une créature fouisseuse à 1,50 mètre sous vos pieds**</td><td>25</td></tr><tr><td>**Repérer quelqu’un en train de faire vos poches**</td><td>Opposé à Escamotage</td></tr><tr CLASS="alt"><td>**Repérer une créature qui utilise la Discrétion**</td><td>Opposé à Discrétion</td></tr><tr><td>**Trouver un piège dissimulé**</td><td>Variable en fonction du piège</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>CIRCONSTANCE</td><td>DD</td></tr>
+  <tr CLASS="premier"><td>**Entendre le bruit d’un combat**</td><td>0</td></tr>
+  <tr CLASS="alt"><td>**Sentir une odeur forte**</td><td>0</td></tr>
+  <tr><td>**Écouter le contenu d’une conversation**</td><td>0</td></tr>
+  <tr CLASS="alt"><td>**Repérer une créature clairement visible**</td><td>0</td></tr>
+  <tr><td>**Déterminer si de la nourriture est consommable**</td><td>5</td></tr>
+  <tr CLASS="alt"><td>**Entendre les bruits de pas d’une créature de taille M ou P**</td><td>10</td></tr>
+  <tr><td>**Entendre le contenu d’une conversation murmurée**</td><td>15</td></tr>
+  <tr CLASS="alt"><td>**Trouver une trappe de cargaison ordinaire et banale**</td><td>15</td></tr>
+  <tr><td>**Entendre le bruit d’une porte automatique qui s’ouvre**</td><td>20</td></tr>
+  <tr CLASS="alt"><td>**Trouver un compartiment secret ordinaire**</td><td>20</td></tr>
+  <tr><td>**Entendre quelqu’un dégainer un pistolet**</td><td>20</td></tr>
+  <tr CLASS="alt">
+    <td>**Ressentir le passage d’une créature fouisseuse à 1,50 mètre sous vos pieds**</td>
+    <td>25</td>
+  </tr>
+  <tr><td>**Repérer quelqu’un en train de faire vos poches**</td><td>Opposé à Escamotage</td></tr>
+  <tr CLASS="alt"><td>**Repérer une créature qui utilise la Discrétion**</td><td>Opposé à Discrétion</td></tr>
+  <tr><td>**Trouver un piège dissimulé**</td><td>Variable en fonction du piège</td></tr>
+</table>
 
 </center>
 </div>
@@ -38,7 +58,13 @@ Les DD des tests de Perception effectués pour percer un déguisement sont modif
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>FAMILIARITÉ</td><td>MODIF.AU DD</td></tr><tr CLASS="premier"><td>**Intime -10**</td><td>0</td></tr><tr CLASS="alt"><td>**Amis proches -8**</td><td>0</td></tr><tr><td>**Amis ou associés -6**</td><td>0</td></tr><tr CLASS="alt"><td>**Connu de vue -4**</td><td>5</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>FAMILIARITÉ</td><td>MODIF.AU DD</td></tr>
+  <tr CLASS="premier"><td>**Intime -10**</td><td>0</td></tr>
+  <tr CLASS="alt"><td>**Amis proches -8**</td><td>0</td></tr>
+  <tr><td>**Amis ou associés -6**</td><td>0</td></tr>
+  <tr CLASS="alt"><td>**Connu de vue -4**</td><td>5</td></tr>
+</table>
 
 </center>
 </div>

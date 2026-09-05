@@ -15,7 +15,113 @@ Les vengeurs sacrés sont souvent des prêtres ou des guerriers/prêtres mais bi
 
 <center>
 
-<table CLASS="tablo"><caption>Le vengeur sacré</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[vengeur sacré#CANALISATIONDENERGIE|Canalisation d’énergie]], [[vengeur sacré#BOUCLIERDUVENGEUR|bouclier du vengeur]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[vengeur sacré#STIGMATE|Stigmate]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (extension d’effet)</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[vengeur sacré#COLEREDIVINE|Colère divine]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[vengeur sacré#SANGENFLAMME|Sang enflammé]], [[vengeur sacré#CHATIMENTALIGNE|Châtiment aligné]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[vengeur sacré#CANALISATIONPOLYVALENTE|Canalisation polyvalente]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[vengeur sacré#JUGEMENTDIVIN|Jugement divin]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (quintessence)</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[vengeur sacré#PLUIEDESANG|Pluie de sang]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[vengeur sacré#VENGEANCEDIVINE|Vengeance divine]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le vengeur sacré</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[vengeur sacré#CANALISATIONDENERGIE|Canalisation d’énergie]], [[vengeur sacré#BOUCLIERDUVENGEUR|bouclier du
+      vengeur]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[vengeur sacré#STIGMATE|Stigmate]]</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (extension d’effet)</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[vengeur sacré#COLEREDIVINE|Colère divine]]</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[vengeur sacré#SANGENFLAMME|Sang enflammé]], [[vengeur sacré#CHATIMENTALIGNE|Châtiment aligné]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[vengeur sacré#CANALISATIONPOLYVALENTE|Canalisation polyvalente]]</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[vengeur sacré#JUGEMENTDIVIN|Jugement divin]]</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (quintessence)</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[vengeur sacré#PLUIEDESANG|Pluie de sang]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[vengeur sacré#VENGEANCEDIVINE|Vengeance divine]]</td>
+    <td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td>
+  </tr>
+</table>
 
 </center>
 

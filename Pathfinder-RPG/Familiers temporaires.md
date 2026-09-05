@@ -14,10 +14,115 @@ Si un personnage perd son familier ou que celui-ci meurt, il peut le remplacer u
 
 <center>
 
-<table CLASS="tablo"><caption>Les familiers et les capacités spéciales</caption><tr CLASS="titre"><td>Familier</td><td CLASS="gauche">Capacité spéciale</td></tr><tr CLASS="premier"><td>[[Araignée écarlate]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître gagne un bonus de +3 aux tests d’[[Escalade]]</td></tr><tr CLASS="alt"><td>[[Belette]]</td><td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td></tr><tr><td>[[Chat]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr><tr CLASS="alt"><td>[[Chauve-souris]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Vol]].</td></tr><tr><td>[[Chèvre]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de [[Survie]].</td></tr><tr CLASS="alt"><td>[[Chouette]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Perception]]   
-opposés ou dépendant de la vue dans l’obscurité ou les zones d’ombres.</td></tr><tr><td>[[Cochon]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].</td></tr><tr CLASS="alt"><td>[[Corbeau]]<sup>*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d’[[Estimation]].</td></tr><tr><td>[[Crabe royal]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître gagne un bonus de +2 aux tests de [[BMO]] pour démarrer et maintenir une [[lutte]]</td></tr><tr CLASS="alt"><td>[[Crapaud]]</td><td CLASS="gauche">Le maître obtient +3 [[pv|points de vie]].</td></tr><tr><td>[[Faucon]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Perception]]   
-opposés ou dépendant de la vue sous une lumière vive.</td></tr><tr CLASS="alt"><td>[[Grive]]<sup>*UM*</sup> <sup>**</sup></td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Diplomatie]]</td></tr><tr><td>[[Hérisson]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Volonté]].</td></tr><tr CLASS="alt"><td>[[Lézard]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d’[[Escalade]].</td></tr><tr><td>[[Mille-pattes domestique]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de [[Discrétion]].</td></tr><tr CLASS="alt"><td>[[Pieuvre]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de [[Natation]].</td></tr><tr><td>[[Pieuvre à anneaux bleus]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient +3 aux jets de [[Natation]].</td></tr><tr CLASS="alt"><td>[[Rat]]</td><td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Rat-âne]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr CLASS="alt"><td>[[Renard]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td></tr><tr><td>[[Scorpion vert]]</td><td CLASS="gauche">Le maître obtient un bonus de +4 aux jets d’[[Initiative]].</td></tr><tr CLASS="alt"><td>[[Singe]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].</td></tr><tr><td>[[Tortue]]<sup>*UM*</sup></td><td CLASS="gauche">Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr CLASS="alt"><td>[[Vipère]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Bluff]].</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) Un familier corbeau peut parler une langue (choisie par son maître). C’est un pouvoir surnaturel.  
-(**) Une grive peut apprendre une des langues de son maître comme pouvoir surnaturel*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les familiers et les capacités spéciales</caption>
+  <tr CLASS="titre"><td>Familier</td><td CLASS="gauche">Capacité spéciale</td></tr>
+  <tr CLASS="premier">
+    <td>[[Araignée écarlate]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître gagne un bonus de +3 aux tests d’[[Escalade]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Belette]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td>
+  </tr>
+  <tr><td>[[Chat]]</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr>
+  <tr CLASS="alt">
+    <td>[[Chauve-souris]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Vol]].</td>
+  </tr>
+  <tr>
+    <td>[[Chèvre]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de [[Survie]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Chouette]]</td>
+    <td CLASS="gauche">
+      Le maître obtient un bonus de +3 aux tests de [[Perception]]   
+opposés ou dépendant de la vue dans
+      l’obscurité ou les zones d’ombres.
+    </td>
+  </tr>
+  <tr>
+    <td>[[Cochon]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Corbeau]]<sup>*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d’[[Estimation]].</td>
+  </tr>
+  <tr>
+    <td>[[Crabe royal]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître gagne un bonus de +2 aux tests de [[BMO]] pour démarrer et maintenir une [[lutte]]</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Crapaud]]</td><td CLASS="gauche">Le maître obtient +3 [[pv|points de vie]].</td></tr>
+  <tr>
+    <td>[[Faucon]]</td>
+    <td CLASS="gauche">
+      Le maître obtient un bonus de +3 aux tests de [[Perception]]   
+opposés ou dépendant de la vue sous une
+      lumière vive.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Grive]]<sup>*UM*</sup> <sup>**</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Diplomatie]]</td>
+  </tr>
+  <tr>
+    <td>[[Hérisson]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Volonté]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Lézard]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d’[[Escalade]].</td>
+  </tr>
+  <tr>
+    <td>[[Mille-pattes domestique]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de [[Discrétion]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pieuvre]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de [[Natation]].</td>
+  </tr>
+  <tr>
+    <td>[[Pieuvre à anneaux bleus]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient +3 aux jets de [[Natation]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Rat]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td>
+  </tr>
+  <tr>
+    <td>[[Rat-âne]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Renard]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td>
+  </tr>
+  <tr>
+    <td>[[Scorpion vert]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +4 aux jets d’[[Initiative]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Singe]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].</td>
+  </tr>
+  <tr>
+    <td>[[Tortue]]<sup>*UM*</sup></td>
+    <td CLASS="gauche">Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Vipère]]</td>
+    <td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de [[Bluff]].</td>
+  </tr>
+  <tr>
+    <td COLSPAN="3" CLASS="note">
+      *(*) Un familier corbeau peut parler une langue (choisie par son maître). C’est un pouvoir surnaturel.  
+(**)
+      Une grive peut apprendre une des langues de son maître comme pouvoir surnaturel*
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -40,9 +145,57 @@ Tous les familiers possèdent des pouvoirs spéciaux ou accordent des capacités
 
 <center>
 
-<table CLASS="tablo"><caption>Capacités des familiers</caption><tr CLASS="titre"><td>Niveau de classe  
-du maître</td><td>[[Familiers#AJUSTEMENTDARMURENATURELLE|Ajustement  
-d’armure naturelle]]</td><td>[[Familiers#INTELLIGENCE|Int]]</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1-2</td><td>+1</td><td>6</td><td CLASS="gauche">[[Familiers#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]], [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]]</td></tr><tr CLASS="alt"><td>3-4</td><td>+2</td><td>7</td><td CLASS="gauche">[[Familiers#CONDUIT|Conduit]]</td></tr><tr><td>5-6</td><td>+3</td><td>8</td><td CLASS="gauche">[[Familiers#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]</td></tr><tr CLASS="alt"><td>7-8</td><td>+4</td><td>9</td><td CLASS="gauche">[[Familiers#COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE|Communication avec les animaux de la même espèce]]</td></tr><tr><td>9-10</td><td>+5</td><td>10</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>11-12</td><td>+6</td><td>11</td><td CLASS="gauche">[[Familiers#RESISTANCEALAMAGIE|Résistance à la magie]]</td></tr><tr><td>13-14</td><td>+7</td><td>12</td><td CLASS="gauche">[[Familiers#SCRUTATIONSURLEFAMILIER|Scrutation sur le familier]]</td></tr><tr CLASS="alt"><td>15-16</td><td>+8</td><td>13</td><td CLASS="gauche">-</td></tr><tr><td>17-18</td><td>+9</td><td>14</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>19-20</td><td>+10</td><td>15</td><td CLASS="gauche">-</td></tr></table>
+<table CLASS="tablo">
+  <caption>Capacités des familiers</caption>
+  <tr CLASS="titre">
+    <td>Niveau de classe  
+du maître</td>
+    <td>[[Familiers#AJUSTEMENTDARMURENATURELLE|Ajustement  
+d’armure naturelle]]</td>
+    <td>[[Familiers#INTELLIGENCE|Int]]</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1-2</td>
+    <td>+1</td>
+    <td>6</td>
+    <td CLASS="gauche">
+      [[Familiers#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]],
+      [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]]
+    </td>
+  </tr>
+  <tr CLASS="alt"><td>3-4</td><td>+2</td><td>7</td><td CLASS="gauche">[[Familiers#CONDUIT|Conduit]]</td></tr>
+  <tr>
+    <td>5-6</td>
+    <td>+3</td>
+    <td>8</td>
+    <td CLASS="gauche">[[Familiers#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>7-8</td>
+    <td>+4</td>
+    <td>9</td>
+    <td CLASS="gauche">
+      [[Familiers#COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE|Communication avec les animaux de la même espèce]]
+    </td>
+  </tr>
+  <tr><td>9-10</td><td>+5</td><td>10</td><td CLASS="gauche">-</td></tr>
+  <tr CLASS="alt">
+    <td>11-12</td>
+    <td>+6</td>
+    <td>11</td>
+    <td CLASS="gauche">[[Familiers#RESISTANCEALAMAGIE|Résistance à la magie]]</td>
+  </tr>
+  <tr>
+    <td>13-14</td>
+    <td>+7</td>
+    <td>12</td>
+    <td CLASS="gauche">[[Familiers#SCRUTATIONSURLEFAMILIER|Scrutation sur le familier]]</td>
+  </tr>
+  <tr CLASS="alt"><td>15-16</td><td>+8</td><td>13</td><td CLASS="gauche">-</td></tr>
+  <tr><td>17-18</td><td>+9</td><td>14</td><td CLASS="gauche">-</td></tr>
+  <tr CLASS="alt"><td>19-20</td><td>+10</td><td>15</td><td CLASS="gauche">-</td></tr>
+</table>
 
 </center>
 

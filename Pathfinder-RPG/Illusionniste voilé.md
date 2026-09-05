@@ -13,7 +13,117 @@ Bien que très doués dans toutes les formes d’illusions, les illusionnistes v
 
 <center>
 
-<table CLASS="tablo"><caption>L'illusionniste voilé</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Humain)]], [[Illusionniste voilé#RESERVEDEVOILES|réserve de voiles]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Halfelin)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Illusionniste voilé#RESERVEDEVOILES|Réserve de voiles (auditif)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Elfe)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Illusionniste voilé#RESERVEDEVOILES|Réserve de voiles (tactile)]], [[Illusionniste voilé#VOILERAPIDE|Voile rapide (mouvement)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Gnome)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Illusionniste voilé#VOILERAPIDE|Voile rapide (rapide)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Cyclope)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Illusionniste voilé#RESERVEDEVOILES|Réserve de voiles (sens extraordinaires)]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Naga)]], [[Illusionniste voilé#VERITABLEVOILE|Véritable voile]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'illusionniste voilé</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Humain)]], [[Illusionniste
+      voilé#RESERVEDEVOILES|réserve de voiles]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Halfelin)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Illusionniste voilé#RESERVEDEVOILES|Réserve de voiles (auditif)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Elfe)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Illusionniste voilé#RESERVEDEVOILES|Réserve de voiles (tactile)]], [[Illusionniste voilé#VOILERAPIDE|Voile
+      rapide (mouvement)]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Gnome)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Illusionniste voilé#VOILERAPIDE|Voile rapide (rapide)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Cyclope)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Illusionniste voilé#RESERVEDEVOILES|Réserve de voiles (sens extraordinaires)]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Illusionniste voilé#VOILESDELADEESSE|Voiles de la déesse (Naga)]], [[Illusionniste
+      voilé#VERITABLEVOILE|Véritable voile]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 </center>
 

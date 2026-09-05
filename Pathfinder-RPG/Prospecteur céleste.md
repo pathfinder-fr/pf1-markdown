@@ -15,7 +15,134 @@ Ces nains qui se consacrent passionnément à la réalisation de ce rêve sont c
 
 <center>
 
-<table CLASS="tablo"><caption>Le prospecteur céleste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +1d6, [[Prospecteur céleste#GARDIENDELACITADELLE|gardien de la citadelle]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prospecteur céleste#ARMURERUNIQUE|Armure runique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Prospecteur céleste#COMMUNION|Communion]] 1/semaine</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +2d6, [[Prospecteur céleste#PORTDELARMURENAINE|port de l'armure naine]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Prospecteur céleste#VISIONDANSLENOIR|Vision dans le noir]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Prospecteur céleste#RUNESDERESISTANCE|Runes de résistance]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +3d6, [[Prospecteur céleste#VISIONDANSLENOIR|vision dans le noir]] (+9m)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Prospecteur céleste#PISTESDESANCIENS|Pistes des anciens]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Prospecteur céleste#PILIER|Pilier]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +4d6, [[Prospecteur céleste#APPELAUXARMES|appel aux armes]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le prospecteur céleste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +1d6, [[Prospecteur
+      céleste#GARDIENDELACITADELLE|gardien de la citadelle]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Prospecteur céleste#ARMURERUNIQUE|Armure runique]]</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Prospecteur céleste#COMMUNION|Communion]] 1/semaine</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +2d6, [[Prospecteur céleste#PORTDELARMURENAINE|port de
+      l'armure naine]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Prospecteur céleste#VISIONDANSLENOIR|Vision dans le noir]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Prospecteur céleste#RUNESDERESISTANCE|Runes de résistance]]</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +3d6, [[Prospecteur céleste#VISIONDANSLENOIR|vision
+      dans le noir]] (+9m)
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Prospecteur céleste#PISTESDESANCIENS|Pistes des anciens]]</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Prospecteur céleste#PILIER|Pilier]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +4d6, [[Prospecteur céleste#APPELAUXARMES|appel aux
+      armes]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

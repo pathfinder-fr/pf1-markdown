@@ -36,4 +36,57 @@ La foi du personnage est son bouclier, et il peut également l’utiliser pour d
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Protection</td><td>Sous-domaine de la Défense</td><td>Sous-domaine de la Pureté</td><td>Sous-domaine de la Solitude</td></tr><tr CLASS="premier"><td>1er</td><td>*[[sanctuaire]]*</td><td>*[[bouclier]]*</td><td>*[[protection contre le mal|protection contre le Chaos/Mal/Bien/Loi]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[protection dautrui|protection d’autrui]]*</td><td>*[[Peau décorce|peau d'écorce]]*</td><td>*idem*</td><td>*[[silence]]*</td></tr><tr><td>3e</td><td>*[[protection contre les énergies destructives]]*</td><td>*idem*</td><td>*[[Guérison de la cécitésurdité|guérison de la cécité/surdité]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[immunité contre les sorts]]*</td><td>*idem*</td><td>*idem*</td><td>*[[détection de la scrutation]]*</td></tr><tr><td>5e</td><td>*[[Pathfinder-RPG.sort Résistance à la magie.ashx|résistance à la magie]]*</td><td>*idem*</td><td>*[[pénitence]]*</td><td>*[[mirage]]*</td></tr><tr><td>6e</td><td>*[[zone dantimagie|zone d’antimagie]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[champ de force]]*</td><td>*[[déviation]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[esprit impénétrable]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[sphère prismatique]]*</td><td>*idem*</td><td>*idem*</td><td>*[[Création de demi-plan supérieure]]*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Protection</td>
+    <td>Sous-domaine de la Défense</td>
+    <td>Sous-domaine de la Pureté</td>
+    <td>Sous-domaine de la Solitude</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[sanctuaire]]*</td>
+    <td>*[[bouclier]]*</td>
+    <td>*[[protection contre le mal|protection contre le Chaos/Mal/Bien/Loi]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[protection dautrui|protection d’autrui]]*</td>
+    <td>*[[Peau décorce|peau d'écorce]]*</td>
+    <td>*idem*</td>
+    <td>*[[silence]]*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[protection contre les énergies destructives]]*</td>
+    <td>*idem*</td>
+    <td>*[[Guérison de la cécitésurdité|guérison de la cécité/surdité]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[immunité contre les sorts]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[détection de la scrutation]]*</td>
+  </tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[Pathfinder-RPG.sort Résistance à la magie.ashx|résistance à la magie]]*</td>
+    <td>*idem*</td>
+    <td>*[[pénitence]]*</td>
+    <td>*[[mirage]]*</td>
+  </tr>
+  <tr><td>6e</td><td>*[[zone dantimagie|zone d’antimagie]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[champ de force]]*</td><td>*[[déviation]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[esprit impénétrable]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[sphère prismatique]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[Création de demi-plan supérieure]]*</td>
+  </tr>
+</table>

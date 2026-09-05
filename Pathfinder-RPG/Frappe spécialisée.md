@@ -20,7 +20,26 @@ Le moine sélectionne ses frappes spécialisées parmi les suivantes.
 
 <center>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabtalmoineunchained"><caption>Frappe spécialisée (moine unchained)</caption><tr CLASS="titre"></tr><tr CLASS="premier"><td>[[Frappe spécialisée#BLOCAGEDESPIEDS|Blocage des pieds]]</td><td>[[Frappe spécialisée #BOUSCULADEDUPIED|Bousculade du pied]]</td><td>[[Frappe spécialisée#COUPDECOUDE|Coup de coude]]</td></tr><tr><td>[[Frappe spécialisée#COUPDEPIEDSAUTE|Coup de pied sauté]]</td><td>[[Frappe spécialisée#COUPDEPIEDTOURNOYANT|Coup de pied tournoyant]]</td><td>[[Frappe spécialisée#COUPDEPOINGFRACASSANT|Coup de poing fracassant]]</td></tr><tr><td>[[Frappe spécialisée#COUPDETETE|Coup de tête]]</td><td>[[Frappe spécialisée#COUPDUMARTEAU|Coup du marteau]]</td><td>[[Frappe spécialisée#FAUCHAGEDUPIED|Fauchage du pied]]</td></tr><tr><td>[[Frappe spécialisée#PIROUETTEDEFENSIVE|Pirouette défensive]]</td><td>-</td><td>-</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabtalmoineunchained">
+  <caption>Frappe spécialisée (moine unchained)</caption>
+  <tr CLASS="titre"></tr>
+  <tr CLASS="premier">
+    <td>[[Frappe spécialisée#BLOCAGEDESPIEDS|Blocage des pieds]]</td>
+    <td>[[Frappe spécialisée #BOUSCULADEDUPIED|Bousculade du pied]]</td>
+    <td>[[Frappe spécialisée#COUPDECOUDE|Coup de coude]]</td>
+  </tr>
+  <tr>
+    <td>[[Frappe spécialisée#COUPDEPIEDSAUTE|Coup de pied sauté]]</td>
+    <td>[[Frappe spécialisée#COUPDEPIEDTOURNOYANT|Coup de pied tournoyant]]</td>
+    <td>[[Frappe spécialisée#COUPDEPOINGFRACASSANT|Coup de poing fracassant]]</td>
+  </tr>
+  <tr>
+    <td>[[Frappe spécialisée#COUPDETETE|Coup de tête]]</td>
+    <td>[[Frappe spécialisée#COUPDUMARTEAU|Coup du marteau]]</td>
+    <td>[[Frappe spécialisée#FAUCHAGEDUPIED|Fauchage du pied]]</td>
+  </tr>
+  <tr><td>[[Frappe spécialisée#PIROUETTEDEFENSIVE|Pirouette défensive]]</td><td>-</td><td>-</td></tr>
+</table>
 
 </center>
 

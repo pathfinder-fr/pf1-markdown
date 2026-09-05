@@ -22,6 +22,1202 @@ Peu d’entre eux possèdent de charges (la plupart sont en effet de puissants o
 {s:filtrable}
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des anneaux magiques</caption><tr CLASS="titre"><td WIDTH="24%">Anneau</td><td WIDTH= "3%">Source</td><td WIDTH="62%">Capacités</td><td WIDTH="11%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Anneau du donjon|Donjon]], prisonnier</td><td><sup>MJRA, A&E</sup></td><td>Le porteur est considéré comme le familier du porteur de l’*anneau du donjon de geôlier* pour les sorts *[[scrutation]]* et *[[téléportation]]* et ce dernier sait tout ce qui arrive au porteur (comme avec *[[rapport]]*).</td><td>250 po</td></tr><tr><td>&emsp;[[Anneau du donjon|Donjon]], geôlier</td><td><sup>MJRA, A&E</sup></td><td>Quand le porteur de cet anneau passe un *anneau du donjon de prisonnier* au doigt de quelqu’un, il reçoit les informations d’un sort de *[[rapport]]* lancé sur ce dernier, et le considère comme son familier en ce qui concerne les sorts de *[[scrutation]]* et de *[[téléportation]]*.</td><td>16 000 po</td></tr><tr CLASS="premier"><td>[[Anneau des sceaux magiques|Sceaux magiques]]</td><td><sup>MJRA, A&E</sup></td><td>Permet de lancer *[[signature magique]]* (une rune spécifique) à volonté.</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de contorsions sereines|Contorsions sereines]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de +2 aux tests d'[[Évasion]]. Une fois par jour, permet de lancer *[[coup au but]]*. Permet de manifester le son d'un carillon, d'un petit gong ou d'une cloche à volonté.</td><td>1 200 po</td></tr><tr CLASS="premier"><td>[[Anneau de connaissance des sorts|Connaissance des sorts]]</td><td><sup>A&E</sup></td><td>Permet aux lanceurs de sorts spontanés d’apprendre de nouveaux sorts d'un niveau dépendant du modèle par l’étude.</td><td>—</td></tr><tr><td>&emsp; Type I</td><td><sup>A&E</sup></td><td>Peut contenir des sorts du 1er niveau.</td><td>1 500 po</td></tr><tr><td>&emsp; Type II</td><td><sup>A&E</sup></td><td>Peut contenir des sorts du 2e et du 1er niveau.</td><td>| 6 000 po</td></tr><tr><td>&emsp; Type III</td><td><sup>A&E</sup></td><td>Peut contenir des sorts du 3e niveau ou moins.</td><td>| 13 500 po</td></tr><tr><td>&emsp; Type IV</td><td><sup>A&E</sup></td><td>Peut contenir des sorts du 4e niveau ou moins.</td><td>| 24 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du guetteur borgne|Guetteur borgne]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de compétence de +2 aux tests de [[Perception]] et de [[Survie]]. Une fois par jour, permet de lancer *[[messager animal]]*.</td><td>1 500 po</td></tr><tr CLASS="premier"><td>[[Anneau de magie du sang persistante|Magie du sang persistante]]</td><td><sup>MCA</sup></td><td>Une fois par [[round]], un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut dépenser 1 round de cette capacité pour rallonger la durée d’un sort bénéfique (dont la durée est d’1 round/niveau) qui l’affecte de 2 [[round|rounds]].</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de la main d’outre-tombe|Main d’outre-tombe]]</td><td><sup>A&E</sup></td><td>Permet de toucher une créature mort-vivante (par une attaque de contact au corps à corps) pour l’empêcher d’être soignée ou aidée par l’énergie négative pendant 1d4 [[round|rounds]].</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de protection|Protection]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de parade à la [[CA]] dépendant du modèle.</td><td>—</td></tr><tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>2 000 po</td></tr><tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 8 000 po</td></tr><tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 18 000 po</td></tr><tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 32 000 po</td></tr><tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 50 000 po</td></tr><tr CLASS="premier"><td>[[Anneau dexcellence|Excellence]]</td><td><sup>RSE</sup></td><td>Confère les effets d'un *[[regain dassurance|regain d'assurance]]* en permanence.</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[Dé du carnage]]</td><td><sup>CM</sup></td><td>Lorsqu'un porteur vampirique utilise un pouvoir d'absorption, il peut [[fasciné|fasciner]] sa cible, l'empêchant d'y résister pendant 3 [[round|rounds]].</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de feuille morte|Feuille morte]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[feuille morte]]* dès que son porteur fait une chute d’au moins 1,5 m.</td><td>2 200 po</td></tr><tr CLASS="premier"><td>[[Anneau de subsistance|Subsistance]]</td><td><sup>MJ, A&E</sup></td><td>Après 1 semaine de port, son porteur n’a plus besoin de se nourrir et n’a besoin que de 2 heures pour profiter des effets d’un sommeil complet.</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Anneau descalade|Escalade]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests d’[[Escalade]].</td><td>2 500 po</td></tr><tr><td>&emsp;supérieur</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +10 aux tests d’[[Escalade]].</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de saut|Saut]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]] pour effectuer des sauts en longueur ou en hauteur.</td><td>2 500 po</td></tr><tr><td>&emsp;supérieur</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +10 aux tests d’[[Acrobaties]] pour effectuer des sauts en longueur ou en hauteur.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de nage|Nage]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Natation]].</td><td>2 500 po</td></tr><tr><td>&emsp;supérieur</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +10 aux tests de [[Natation]].</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Anneau guide de Droskar|Guide du travail forcé]]</td><td><sup>D&M</sup></td><td>Une fois par jour, permet de lancer *[[charme-personne]]*. Un suivant du [[Golarion.Droskar|dieu-nain du travail forcé]] peut créer des objets magiques à 50% de leur coût, au risque d'avoir 50% de chance de créer un objet non-fonctionnel.</td><td>2 600 po</td></tr><tr CLASS="premier"><td>[[Anneau dharmonisation naturelle|Harmonisation naturelle]]</td><td><sup>MCA</sup></td><td>Permet de convoquer de nouvelles créatures dépendant le modèle avec les sorts de *[[convocation dalliés naturels I|convocation d’alliés naturels]]*. Une fois par jour, permet de convoquer une créature dépendant du modèle comme avec une *[[convocation dalliés naturels I|convocation d’alliés naturels]]*.</td><td>—</td></tr><tr><td>&emsp; léchi</td><td><sup>MCA</sup></td><td>Ajoute le [[léchi de feuilles]] à la liste de niveau 1, le [[léchi calebasse]] à la liste de niveau 2, le [[léchi fongique]] à la liste de niveau 3 et le [[léchi dalgues|léchi d’algues]] à la liste de niveau 4. Une fois par jour, permet de convoquer un [[léchi de feuilles]] comme avec une *[[convocation dalliés naturels I|convocation d’alliés naturels I]]*.</td><td>2 800 po</td></tr><tr><td>&emsp; kami</td><td><sup>MCA</sup></td><td>Ajoute le [[shikigami]] à la liste de niveau 3, le [[kodama]] à la liste de niveau 5, le [[zuishin]] à la liste de niveau 7 et le [[toshigami]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[shikigami]] comme avec une *[[convocation dalliés naturels III|convocation d’alliés naturels III]]*.</td><td>| 7 800 po</td></tr><tr><td>&emsp; drake</td><td><sup>MCA</sup></td><td>Ajoute le [[drake des forêts]] et le [[drake dombre|drake d'ombre]] à la liste de niveau 4, le [[drake des flammes]] à la liste de niveau 5, le [[drake du froid]] à la liste de niveau 6 et le [[drake du désert]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[drake dombre|drake d'ombre]] comme avec une *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*.</td><td>| 12 880 po</td></tr><tr CLASS="premier"><td>[[Anneau du chevalier-héritier|Chevalier-héritier]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de protection|anneau de protection +1]]*. Une fois par jour, permet de lancer *[[bénédiction darme|bénédiction d'arme]]* et *[[monture de guerre]]*. Permet de se nettoyer (comme avec *[[prestidigitation]]*) à volonté.</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Chevalière profane]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de protection|anneau de protection +1]]*. Une fois par jour, permet de lancer *[[colère]]*. Permet de lancer *[[signature magique]]* à volonté, mais uniquement sur des objets ou des créatures consentantes.</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Anneau daction féroce|Férocité]]</td><td><sup>A&E, MR</sup></td><td>Permet au porteur de repousser un unique état [[États préjudiciables#Chancelant|chancelant]] pendant un maximum de 5 [[round|rounds]].</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de puissante magie du sang|Puissante magie du sang]]</td><td><sup>MCA</sup></td><td>Trois fois par jour, un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut augmenter le [[DD]] du [[jds|jet de sauvegarde]] d’un sort qu’il lance de 1 par une [[action rapide]].</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Ami du tyran]]</td><td><sup>RSE</sup></td><td>Le porteur sait quand il touche un objet ou une créature empoisonnée.</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Anneau déloquence|Éloquence]]</td><td><sup>MCA</sup></td><td>Confère un bonus de compétence de +2 aux tests de [[Bluff]], de [[Diplomatie]] et de [[Représentation]] (déclamation). Permet de comprendre et de parler le commun, l’elfique, le nain et le gnome (ou d’autres langues) même sous une forme incapable de parler. Passe le risque d’échec des sorts à 10 % si un porteur [[assourdi]] tente de lancer un sort à [[composantes|composante verbale]].</td><td>3 500 po</td></tr><tr CLASS="premier"><td>[[Anneau détapes et détoiles|Étapes et étoiles]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de feuille morte]]*. Une fois par jour, permet de lancer *[[projectile magique]]*. Permet de manifester un papillon illusoire dans la case du porteur pendant 1 minute, à volonté.</td><td>3 820 po</td></tr><tr CLASS="premier"><td>[[Anneau de contresort|Contresort]]</td><td><sup>MJ, A&E</sup></td><td>Lorsqu’un sort du 1er au 6e niveau est stocké dedans, contre ce même sort si le porteur en est la cible, une seule fois par sort stocké.</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de magie du sang ancestrale|Magie du sang ancestrale]]</td><td><sup>MCA</sup></td><td>Trois fois par jour, un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut lancer un sort tiré de son [[sanguin#LIGNAGE|lignage de sanguin]] en dépensant un nombre de [[round|rounds]] de rage sanguine égal au niveau du sort lancé au lieu d’un emplacement de sort.</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Anneau aux sept ravissantes couleurs|Ravissantes couleurs]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de protection|anneau de protection +1]]*. Sept fois par jour, permet de se transformer en oiseau chanteur pendant 10 minutes (comme avec *[[forme bestiale IV]]*, statistiques de [[corbeau]]).</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du mastiff rouge|Mastiff rouge]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de protection|anneau de protection +1]]*. Une fois par jour, permet de convoquer un mastiff rouge (comme avec *[[convocation de monstres I]]*, statistiques de [[chien]] [[Archétypes#CREATURECELESTE|céleste]]), et de se transformer en mastiff rouge de taille P (comme avec *[[forme bestiale I]]*).</td><td>4 700 po</td></tr><tr CLASS="premier"><td>[[Anneau des crocs du rat|Crocs du rat]]</td><td><sup>A&E, MR</sup></td><td>Confère une attaque de morsure infligeant 1d4 points de dégâts. Après 1 semaine de port, l’apparence du porteur se rapproche de celle d’un rat.</td><td>5 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de festin glouton|Festin glouton]]</td><td><sup>*ISG*</sup></td><td>Tout ce que le porteur mange est purgé (comme avec *[[purification de nourriture et deau|purification de nourriture et d'eau]]*. Une fois par jour, permet de lancer *[[simulacre de vie]]* après avoir consommé au moins 10 po de vivres.</td><td>5 000 po</td></tr><tr CLASS="premier"><td>[[Anneau des objets déments|Objets déments]]</td><td><sup>MJRA, A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests d’[[Artisanat]] (pièges) et de [[Sabotage]]. Permet d’utiliser ces compétences sans formation.</td><td>5 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du destin repoussé|Destin repoussé]]</td><td><sup>MJRA, A&E</sup></td><td>Permet de repousser des effets néfastes pendant 1 minute une fois par pierre sur l’anneau.</td><td>—</td></tr><tr><td>&emsp; 1 pierre</td><td><sup>MJRA</sup></td><td>Jusqu’à 1 fois.</td><td>5 000 po</td></tr><tr><td>&emsp; 2 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 2 fois.</td><td>| 10 000 po</td></tr><tr><td>&emsp; 3 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 3 fois.</td><td>| 15 000 po</td></tr><tr><td>&emsp; 4 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 4 fois.</td><td>| 20 000 po</td></tr><tr><td>&emsp; 5 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 5 fois.</td><td>| 25 000 po</td></tr><tr><td>&emsp; 6 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 6 fois.</td><td>| 30 000 po</td></tr><tr><td>&emsp; 7 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 7 fois.</td><td>| 35 000 po</td></tr><tr><td>&emsp; 8 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 8 fois.</td><td>| 40 000 po</td></tr><tr><td>&emsp; 9 pierres</td><td><sup>MJRA, A&E</sup></td><td>Jusqu’à 9 fois.</td><td>| 45 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de flamme glorieuse|Flamme glorieuse]]</td><td><sup>*ISG*</sup></td><td>Une fois par jour ou au prix d'une utilisation de [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]], peut créer un rayonnement de flammes blessant les créatures adjacentes au porteur.</td><td>5 400 po</td></tr><tr CLASS="premier"><td>[[Anneau de magie du sang vengeresse|Magie du sang vengeresse]]</td><td><sup>MCA</sup></td><td>Trois fois par jour, un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut lancer un sort dont le temps d’incantation est d’une [[action simple]] ou moins en tant qu’[[attaque dopportunité|attaque d’opportunité]] (il doit inclure la créature qui a provoquée l’attaque, et son incantation n’en provoque pas).</td><td>5 400 po</td></tr><tr CLASS="premier"><td>[[Anneaux de communication|Communication]] (une paire)</td><td><sup>*UI*</sup></td><td>Les porteurs peuvent communiquer à travers leur anneau à 1.5 km de distance.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de gui sacré|Gui sacré]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +2 aux tests de [[Dressage]], de [[Connaissances]] (nature) et d’[[druide#EMPATHIESAUVAGE|empathie sauvage]]. Un porteur avec la capacité [[druide#DEPLACEMENTFACILITE|déplacement facilité]] en profite même dans la végétation créée ou contrôlée par magie. Une fois par jour, permet de lancer *[[gourdin magique]]*.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de métaux en fusion|Métaux en fusion]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau daction féroce|anneau de férocité]]*. Le porteur peut dépenser une charge pour permettre à une arme qu'il manie d'ignorer les RD/fer froid ou les RD/argent pendant 1 minute.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de volée de coups|Volée de coups]]</td><td><sup>A&E, MR</sup></td><td>Deux fois par jour, lorsqu’il prend un adversaire en tenaille, permet d’infliger 1d6 points de dégâts supplémentaires au corps à corps (comme avec une [[roublard#ATTAQUESOURNOISE|attaque sournoise]]).</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de passions inextinguibles|Passions inextinguibles]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de protection|anneau de protection +1]]*. Confère un bonus de compétence de +5 aux tests d'[[Acrobaties]] ainsi qu'un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] contre la maladie.</td><td>6 500 po</td></tr><tr CLASS="premier"><td>[[Anneau d’audace pure|Audace pure]]</td><td><sup>A&E</sup></td><td>Deux fois par jour lorsque le porteur récupère de l’[[pistolier#AUDACE|audace]], permet d’en stocker jusqu’à 2 points dans cet anneau pour les utiliser d’une autre manière.</td><td>6 840 po</td></tr><tr CLASS="premier"><td>[[Anneau daffinité invocatoire|Affinité invocatoire]]</td><td><sup>MCA</sup></td><td>Permet de convoquer de nouvelles créatures dépendant le modèle avec les sorts de *[[convocation de monstres I|convocation de monstres]]*. Une fois par jour, permet de convoquer une créature dépendant du modèle comme avec une *[[convocation de monstres III]]*.</td><td>—</td></tr><tr><td>&emsp; archon</td><td><sup>MCA</sup></td><td>Ajoute l’[[archon annonciateur|annonciateur]] à la liste de niveau 3, l’[[archon légionnaire]] à la liste de niveau 6 et l’[[archon bouclier]] à la liste de niveau 7. Une fois par jour, permet de convoquer un [[archon annonciateur|annonciateur]].</td><td>7 000 po</td></tr><tr><td>&emsp; ange</td><td><sup>MCA</sup></td><td>Ajoute le [[cassisien]] à la liste de niveau 3, le [[déva movanique]] à la liste de niveau 7 et le [[déva monadique]] à la liste de niveau 8. Une fois par jour, permet de convoquer un [[cassisien]].</td><td>| 7 200 po</td></tr><tr><td>&emsp; protéen</td><td><sup>MCA</sup></td><td>Ajoute le [[ver du néant]] à la liste de niveau 3, le [[naunet]] à la liste de niveau 6 et l’[[imentesh]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[ver du néant]].</td><td>| 7 200 po</td></tr><tr><td>&emsp; kyton</td><td><sup>MCA</sup></td><td>Ajoute le [[kyton augure|augure]] à la liste de niveau 3, le [[kyton sacristain|sacristain]] à la liste de niveau 7 et l’[[kyton interlocuteur|interlocuteur]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[kyton augure|augure]].</td><td>| 7 300 po</td></tr><tr><td>&emsp; asura</td><td><sup>MCA</sup></td><td>Ajoute le [[tripurasura]] à la liste de niveau 3, l’[[adhukaït]] à la liste de niveau 6, l’[[upasunda]] à la liste de niveau 7 et l’[[aghasura]] à la liste de niveau 8. Une fois par jour, permet de convoquer un [[tripurasura]].</td><td>| 7 600 po</td></tr><tr><td>&emsp; psychopompe</td><td><sup>MCA</sup></td><td>Ajoute le [[nosoï]] à la liste de niveau 3, la [[catrina]] à la liste de niveau 4, le [[vanth]] à la liste de niveau 6 et le [[morrigna]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[nosoï]].</td><td>| 7 600 po</td></tr><tr><td>&emsp; agathion</td><td><sup>MCA</sup></td><td>Ajoute le [[silvanshie]] à la liste de niveau 3, le [[vulpinal]] à la liste de niveau 5, l’[[avoral]] à la liste de niveau 7 et le [[léonal]] à la liste de niveau 8. Une fois par jour, permet de convoquer un [[silvanshie]].</td><td>| 7 700 po</td></tr><tr><td>&emsp; aéon</td><td><sup>MCA</sup></td><td>Ajoute le [[paraclétus]] à la liste de niveau 3, le [[thélétos]] à la liste de niveau 6 et l’[[akhana]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[paraclétus]].</td><td>| 7 800 po</td></tr><tr><td>&emsp; inévitable</td><td><sup>MCA</sup></td><td>Ajoute l’[[arbitre]] à la liste de niveau 3, le [[zélékhut]] à la liste de niveau 7, le [[kolyarut]] à la liste de niveau 8 et le [[marut]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[arbitre]].</td><td>| 8 100 po</td></tr><tr><td>&emsp; qlippoth</td><td><sup>MCA</sup></td><td>Ajoute le [[cythnigot]] à la liste de niveau 3, le [[shoggti]] à la liste de niveau 6, le [[nyogoth]] à la liste de niveau 7, le [[chernobue]] à la liste de niveau 8 et l’[[augnagar]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[cythnigot]].</td><td>| 8 600 po</td></tr><tr><td>&emsp; div</td><td><sup>MCA</sup></td><td>Ajoute le [[div doru|doru]] à la liste de niveau 3, l’[[div aghash|aghash]] à la liste de niveau 4, la [[div païraka|païraka]] à la liste de niveau 6, le [[div ghawwas|ghawwas]] à la liste de niveau 7, le [[div shira|shira]] à la liste de niveau 8 et le [[div sépide|sépide]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[div doru|doru]].</td><td>| 9 100 po</td></tr><tr><td>&emsp; daémon</td><td><sup>MCA</sup></td><td>Ajoute le [[cacodaémon]] à la liste de niveau 3, le [[ceustodaémon]] à la liste de niveau 5, l’[[hydrodaémon]] à la liste de niveau 6, le [[leukodaémon]] à la liste de niveau 7, le [[derghodaémon]] et le [[méladaémon]] à la liste de niveau 8 et le [[thanadaémon]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[cacodaémon]].</td><td>| 10 600 po</td></tr><tr CLASS="premier"><td>[[Anneau de barrière mentale|Barrière mentale]]</td><td><sup>MJ, A&E</sup></td><td>Immunise aux sorts de *[[détection des pensées]]* et *[[détection du mensonge]]* ainsi qu’aux tentatives de lecture d’alignement magiques.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de la bête|Bête]]</td><td><sup>RSE</sup></td><td>Confère un bonus de +2 à l'[[CA|armure naturelle]]. Confère un bonus et impose un malus à deux caractéristiques dépendant du modèle (respectivement [[Force]] et [[Intelligence]], [[Dextérité]] et [[Sagesse]], ou [[Constitution]] et [[Charisme]]).</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Anneau des crocs de force|Crocs de force]]</td><td><sup>MJRA, A&E</sup></td><td>Absorbe jusqu’à 9 niveaux de sorts lancés sur son porteur sous forme de charges que ce dernier peut dépenser pour envoyer 1 *[[projectile magique]]* par charge dépensée, jusqu’à 5 par [[round]].</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Anneau d’épuisement de force|Épuisement de force]]</td><td><sup>A&E</sup></td><td>Une fois par jour, si le porteur touche une créature avec une attaque à mains nues, il peut imposer un jet de [[Vigueur]] à sa cible, elle perd 1d4 points de [[Force]] et le porteur gagne un bonus d’altération de +2 en [[Force]] sur un échec.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de bouclier de force|Bouclier de force]]</td><td><sup>MJ, A&E</sup></td><td>Peut générer un écu n’imposant aucun malus, à volonté.</td><td>8 500 po</td></tr><tr CLASS="premier"><td>[[Anneau du bélier|Bélier]]</td><td><sup>MJ, A&E</sup></td><td>Contient 50 charges que son porteur peut dépenser pour : infliger des dégâts à distance, [[Manœuvres offensives#BOUSCULADE|bousculer]] une cible, ou enfoncer des portes.</td><td>8 600 po</td></tr><tr CLASS="premier"><td>[[Anneau de l’érudit|Érudit]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Connaissances]] (histoire) ainsi que les effets du sort *[[compréhension des langages]]* en permanence. Tous les 5 jours le porteur peut lancer *[[mythes et légendes]]* sur un sujet qu’il a étudié récemment.</td><td>8 700 po</td></tr><tr CLASS="premier"><td>[[Anneau d’ennemi de prédilection|Ennemi de prédilection]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +2 à la [[CA]] et aux [[valeurs de combat#JETSDESAUVEGARDE|jets de sauvegarde]] contre un adversaire choisi, à volonté.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de maîtrise ki|Maîtrise ki]]</td><td><sup>A&E</sup></td><td>Peut de stocker jusqu’à 2 points de [[moine#RESERVEDEKI|ki]] par une [[action rapide]] pour les utiliser d’une autre manière.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de révélation|Révélation]]</td><td><sup>A&E</sup></td><td>Contient une révélation d’un [[mystères|mystère d’oracle]] nécessitant une condition de niveau dépendant du modèle dont seul un [[oracle]] connaissant le dit mystère peut se servir.</td><td>—</td></tr><tr><td>&emsp; mineure</td><td><sup>A&E</sup></td><td>[[mystères|Mystère d’oracle]] n'exigeant pas de condition ou un niveau d’[[oracle]] inférieur à 6.</td><td>10 000 po</td></tr><tr><td>&emsp; majeure</td><td><sup>A&E</sup></td><td>[[mystères|Mystère d’oracle]] exigeant un niveau d’[[oracle]] de 7 ou plus.</td><td>| 16 000 po</td></tr><tr><td>&emsp; supérieure</td><td><sup>MJRA, A&E</sup></td><td>[[mystères|Mystère d’oracle]] exigeant un niveau d’[[oracle]] de 11 ou plus.</td><td>| 24 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de soins|Soins]]</td><td><sup>A&E</sup></td><td>Augmente la limite de bonus par niveau des sorts d’invocation (guérison) de 2.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Anneau damitié avec les animaux|Amitié avec les animaux]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer *[[charme-animal]]* à volonté.</td><td>10 800 po</td></tr><tr CLASS="premier"><td>[[Anneau de transposition|Transposition]]</td><td><sup>A&E</sup></td><td>Lié avec un autre anneau, il permet au porteur d’échanger de place avec le porteur de ce dernier (comme avec *[[porte dimensionnelle]]*) dans un rayon de 240m une fois par jour.</td><td>10 800 po</td></tr><tr CLASS="premier"><td>[[Anneau de précision tactique|Précision tactique]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Profession]] (soldat) et chaque fois que le porteur reçoit un bonus quantifiable grâce à un [[Dons#DONEQUIPE|don d’équipe]] ou à l’action [[Actions spéciales#AIDERQQN|aider quelqu’un]], il augmente de +1. Cet anneau peut aussi stocker les effets d’un [[Dons#DONEQUIPE|don d’équipe]] dont le porteur bénéficie en permanence.</td><td>11 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du sybarite|Sybarite]]</td><td><sup>A&E, MR</sup></td><td>Confère un bonus de compétence de +4 aux tests de [[Psychologie]] et de [[Connaissances]] (local). Une fois par jour, permet de lancer *[[localisation de créature]]* ou *[[localisation dobjet|localisation d’objet]]*. Permet de localiser le bar ou la taverne la plus proche à volonté.</td><td>11 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de création magique|Création magique]]</td><td><sup>A&E, MR</sup></td><td>Le porteur peut dépenser des emplacements de sorts pour bénéficier de bonus aux tests d’[[Artisanat]] ou de [[Profession]] et peut substituer un test d’[[Art de la magie]] avec un test d’[[Artisanat]] pour identifier un objet fabriqué avec la compétence [[Artisanat]].</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de dynamisation ectoplasmique|Dynamisation ectoplasmique]]</td><td><sup>A&E</sup></td><td>Un [[conjurateur]] peut utiliser sa capacité [[conjurateur#APPELDUCREATEUR|appel du créateur]] pour absorber son [[conjurateur#EIDOLON|eidolon]] afin de gagner 2 points de vie temporaires par [[DV]] de ce dernier.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de leurre|Leurre]]</td><td><sup>A&E</sup></td><td>Lorsque son porteur effectue une [[Actions complexes#RETRAITE|retraite]] ou est [[États préjudiciables#Sansdéfense|sans défense]], le rend [[États préjudiciables#Invisible|invisible]] pendant 3 [[round|rounds]] et fait apparaître 4 *[[double illusoire|doubles illusoires]]* de ce dernier qui s’enfuient dans des directions logiques pendant cette même durée.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de main de fer|Main de fer]]</td><td><sup>A&E</sup></td><td>Permet d’ignorer 5 points de solidité lors de manœuvres de [[manœuvres offensives#DESTRUCTION|destruction]] et annule le malus occasionné par une manœuvre de [[manœuvres offensives#DESARMEMENT|désarmement]] effectuée à mains nues. Une fois par jour, peut faire en sorte que les dégâts de précision d’une attaque aient 50 % de chance d’être annulés.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de résistance aux énergies destructives|Résistance aux énergies destructives]]</td><td><sup>MJ, A&E</sup></td><td>Confère une résistance à un type d’énergie choisi à la fabrication dont le montant dépend du modèle.</td><td>—</td></tr><tr><td>&emsp; mineur</td><td><sup>A&E</sup></td><td>La résistance s’élève à 10.</td><td>12 000 po</td></tr><tr><td>&emsp; majeur</td><td><sup>A&E</sup></td><td>La résistance s’élève à 20.</td><td>| 28 000 po</td></tr><tr><td>&emsp; supérieur</td><td><sup>A&E</sup></td><td>La résistance s’élève à 30.</td><td>| 44 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du troglodyte|Troglodyte]]</td><td><sup>A&E</sup></td><td>Deux fois par jour, peut rendre toutes les créatures [[États préjudiciables#Fiévreux|fiévreuses]] (ou [[États préjudiciables#Nauséeux|nauséeuses]] si elles l’étaient déjà) dans un rayon de 3m pendant 1 [[round]].</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du caméléon|Caméléon]]</td><td><sup>MJ, A&E</sup></td><td>Peut conférer un bonus de compétence de +10 aux tests de [[Discrétion]], ou conférer les effets du sort de *[[déguisement]]*.</td><td>12 700 po</td></tr><tr CLASS="premier"><td>[[Anneau de bataille fantôme|Bataille fantôme]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de la main d’outre-tombe|anneau de main d'outre-tombe]]*. Une fois par jour, permet de lancer *[[déguisement fantomatique]]* et *[[rapidité]]*.</td><td>13 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de l’écumeur des mers|Écumeur des mers]]</td><td><sup>A&E</sup></td><td>Confère une vitesse de nage de 9 mètres et un bonus racial de +8 aux tests de [[Natation]]. Une fois par jour, permet de lancer *[[porte dimensionnelle]]* avec un point de départ et d’arrivée situés dans une étendue d’eau ininterrompue.</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du cacodaémon|Cacodaémon]]</td><td><sup>*BD*</sup></td><td>Peut stocker une *[[création de gemme spirituelle|gemme spirituelle]]*. Permet de communiquer avec télépathie avec l'âme piégée (comme avec *[[communication avec les morts]]*). Une fois par jour, permet de lancer *[[terreur]]*.</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de marche sur londe|Marche sur l’onde]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[marche sur londe|marche sur l’onde]]* à volonté.</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de représailles|Représailles]]</td><td><sup>MJRA, A&E</sup></td><td>Une fois par jour, peut infliger 10d6 points de dégâts (Réflexes, 1/2 dégâts) de feu à toutes les créatures dans un rayon de 9m (6c).</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de résilience|Résilience]]</td><td><sup>MCA</sup></td><td>Quand le porteur récupère un point d’[[audace]] ou de [[panache]] par ses actions, permet de relancer un [[jds|jet de sauvegarde]] contre un état qui l’affecte (avec le [[DD]] originel).</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de résistance intérieure|Résistance intérieure]]</td><td><sup>A&E</sup></td><td>Réduit tous les dégâts ou tous les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de caractéristiques de 2 points, ainsi que toutes les diminutions permanentes de 1 point.</td><td>18 000 po</td></tr><tr><td>&emsp; résistance intérieure majeure</td><td><sup>A&E</sup></td><td>Réduit tous les dégâts ou tous les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de caractéristiques de 4 points, ainsi que toutes les diminutions permanentes de 2 points.</td><td>42 000 po</td></tr><tr><td>&emsp; Résistance intérieure supérieure</td><td><sup>A&E</sup></td><td>Réduit tous les dégâts ou tous les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de caractéristiques de 6 points, ainsi que toutes les diminutions permanentes de 3 points.</td><td>66 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de stockage de sorts|Stockage de sorts]]</td><td><sup>MJ, A&E</sup></td><td>Peut stocker un nombre de niveaux de sorts dépendant du modèle qui doivent être lancés à leur [[NLS]] minimal sans encourir d’échec des sorts profanes dus à l’armure.</td><td>—</td></tr><tr><td>&emsp; mineur</td><td><sup>A&E</sup></td><td>Peut stocker jusqu’à 3 niveaux de sorts.</td><td>18 000 po</td></tr><tr><td>&emsp; majeur</td><td><sup>A&E</sup></td><td>Peut stocker jusqu’à 5 niveaux de sorts.</td><td>| 50 000 po</td></tr><tr><td>&emsp; supérieur</td><td><sup>A&E</sup></td><td>Peut stocker jusqu’à 10 niveaux de sorts.</td><td>| 200 000 po</td></tr><tr CLASS="premier"><td>[[Anneaux de servitude|Servitude]] (une paire)</td><td><sup>*UI*</sup></td><td>Confère au porteur de l'anneau maître un bonus de compétence de +6 aux tests de [[Psychologie]] et les effets d'un *[[rapport]]* constant contre le porteur de l'anneau servant. Une fois par jour, le maître peut lancer *[[mission]]* sur le servant soit en imposant sa volonté soit en acceptant lui-même une *mission* du servant.</td><td>18 200 po</td></tr><tr><td>&emsp;[[Anneaux de servitude supérieurs|Servitude supérieurs]] (une paire)</td><td><sup>*UI*</sup></td><td>La *mission* devient une *[[quête]]* et le maître bénéficie d'un *[[sanctuaire]]* constant contre le servant.</td><td>| 42 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de voile d’énergie|Voile d’énergie]]</td><td><sup>A&E</sup></td><td>Fonctionne comme un [[anneau de résistance aux énergies destructives]] mineur. Une fois par jour, permet d’ignorer les dégâts d’un effet d’acide, de froid, d’électricité ou de feu ciblant le porteur, transformant cet effet en une *[[aura élémentaire]]* du même type d’énergie.</td><td>19 500 po</td></tr><tr CLASS="premier"><td>[[Anneau des arcanes|Arcanes]]</td><td><sup>MJ, A&E</sup></td><td>Multiplie par 2 le nombre d’emplacement(s) de sorts d'un niveau dépendant du modèle que possèdent les lanceurs de sorts profanes.</td><td>—</td></tr><tr><td>&emsp; premiers</td><td><sup>MJ, A&E</sup></td><td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 1er niveau.</td><td>20 000 po</td></tr><tr><td>&emsp; deuxièmes</td><td><sup>MJ, A&E</sup></td><td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 2e niveau.</td><td>| 40 000 po</td></tr><tr><td>&emsp; troisièmes</td><td><sup>MJ, A&E</sup></td><td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 3e niveau.</td><td>| 70 000 po</td></tr><tr><td>&emsp; quatrièmes</td><td><sup>MJ, A&E</sup></td><td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 4e niveau.</td><td>| 100 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de stockage de sort mineur néthysien|Stockage de sort mineur néthysien]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[anneau de stockage de sorts|anneau de stockage de sorts mineur]]*, mais les sorts des domaines de [[Néthys (technique)|Néthys]] sont considérés comme d'un niveau de sort inférieur (minimum 1er).</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de terrible prix|Terrible prix]]</td><td><sup>RSE</sup></td><td>Peut stocker jusqu'à 5 [[pv|points de vie]] sous forme de charges. Les charges peuvent être dépensées pour gagner un bonus de malfaisance équivalent à un [[jet dattaque|jet d'attaque]], [[Valeurs de combat#DEGATS|de dégâts]], [[jds|de sauvegarde]] ou à un [[Compétences|test de compétence]].</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Anneau dinvisibilité|Invisibilité]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[invisibilité]]* à volonté.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de maîtrise magique|Maîtrise magique]]</td><td><sup>A&E</sup></td><td>Peut de stocker jusqu’à 4 points de [[magus#RESERVEMAGIQUE|réserve magique]] par une [[action rapide]] pour les utiliser d’une autre manière.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Anneau desquive totale|Esquive totale]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du pouvoir [[roublard#ESQUIVETOTALE|esquive totale]] en permanence.</td><td>25 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de rayons X|Rayons X]]</td><td><sup>MJ, A&E</sup></td><td>Permet de voir à travers la plupart des solides, jusqu’à 10 minutes par jour sans contre-coup.</td><td>25 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du marchepeste|Marchepeste]]</td><td><sup>*UI*</sup></td><td>Trois fois par jouer, le porteur peut soit appeler 1d3 nuées de rats indépendantes pendant 7 rounds soit lancer *[[porte dimensionnelle]]* depuis et vers une nuée invoquée par cet anneau. Un [[Druide urbain (druide)|druide urbain]] peut obtenir une utilisation supplémentaire en dépensant 3 utilisations de [[Druide#FORMEANIMALE|forme animale]].</td><td>26 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de clignotement|Clignotement]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[clignotement]]* à volonté.</td><td>27 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de lecclésiarque|Ecclésiarque]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Connaissances]] (religion) et de [[Diplomatie]]. Permet au porteur de marquer toute surface (comme avec *[[signature magique]]*) avec le symbole sacré de sa divinité. Le porteur profite d’avantages spéciaux s’il possède le don [[Prestige]]. Une fois par jour, permet de lancer *[[prière]]* et *[[entrer dans une image]]*.</td><td>28 500 po</td></tr><tr CLASS="premier"><td>[[Anneau de magie transcendante|Magie transcendante]]</td><td><sup>CMy</sup></td><td>Trois fois par jour, peut augmenter le [[DD]] des [[jds|jets de sauvegarde]] de 2 et conférer un bonus de +2 aux tests de [[NLS]] pour passer la [[RM]] d'un sort que le porteur lance (un porteur [[mythique]] peut aussi dépenser une utilisation de [[pouvoir mythique]] tous les 2 niveaux du sort pour lancer sa version mythique grâce à ce pouvoir).</td><td>30 000 po</td></tr><tr CLASS="premier"><td>[[Anneau daffaiblissement des énergies|Affaiblissement des énergies]]</td><td><sup>CMy</sup></td><td>Quand le porteur subit des dégâts d’acide, de froid, d’électricité ou de feu, lui confère une [[Résistance (capacité)|résistance]] de 5 contre ces types d'énergies (un porteur [[mythique]] peut dépenser une utilisation de [[pouvoir mythique]] pour profiter d'une [[Immunité (capacité)|immunité]] contre ces énergies à la place), pendant 1 minute. Une fois par jour quand ce pouvoir est utilisé, il peut être transmis aux alliés dans un rayon de 6m.</td><td>31 500 po</td></tr><tr CLASS="premier"><td>[[Anneau de retour|Retour]]</td><td><sup>A&E</sup></td><td>Trois fois par jour, permet de lier une case de 1,5 m de côté à l’anneau. Le porteur peut se téléporter à n’importe quelle case liée dans un rayon de 30 mètres par une [[action rapide]].</td><td>33 600 po</td></tr><tr CLASS="premier"><td>[[Anneau de liberté de mouvement|Liberté de mouvement]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[liberté de mouvement]]* en permanence.</td><td>40 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de protection mutuelle|Protection mutuelle]] (une paire)</td><td><sup>MJ, A&E</sup></td><td>Le porteur d’un des anneaux peut lancer le sort *[[protection dautrui|protection d’autrui]]* sur le porteur de l’autre anneau à volonté et sans limite de portée.</td><td>50 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du feu détoiles|Feu d’étoiles]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer des sorts et de manifester des effets magiques différents s’il est dans une pièce sombre ou à l’extérieur de nuit que s’il est en sous-sol ou à l’intérieur de nuit.</td><td>50 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de maîtrise psychique|Maîtrise psychique]]</td><td><sup>AO</sup></td><td>Confère un emplacement de sort supplémentaire du 1er au 4e niveau aux lanceurs de sorts psychiques.</td><td>50 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de prolongement|Prolongement]]</td><td><sup>A&E</sup></td><td>Chaque fois que le porteur lance un sort à portée personnelle et d’une durée de 10 minutes/niveau ou plus, ce dernier dure 24 heures ou jusqu’à ce que le porteur lance un autre sort à portée personnelle. Un sort prolongé grâce à l’anneau qui ne s’active que lors d’une action spécifique est consommé à l’utilisation.</td><td>56 000 po</td></tr><tr CLASS="premier"><td>[[Anneaux des spiritualistes|Spiritualistes]]</td><td><sup>A&E</sup></td><td>Trois fois par jour, permet de lancer *[[communication avec les morts]]* avec un temps d’incantation de 10 minutes. Trois fois par jour, permet de lancer *[[main spectrale]]*. Les armes maniées par le porteur sont [[spectrale (propriété)|spectrales]]. Confère un bonus de sainteté/malfaisance (dépendant de l’alignement du porteur) de +4 aux jets de sauvegarde contre les énergies positives et négatives.</td><td>70 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de télékinésie|Télékinésie]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer *[[télékinésie]]* à volonté.</td><td>75 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de régénération|Régénération]]</td><td><sup>MJ, A&E</sup></td><td>Immunise contre les pertes de points de vie dues à des saignements. Régénère 1 point de vie par [[round]] et fait repousser les organes perdus (comme avec *[[régénération]]*). Ces effets de régénération ne s’appliquent qu’à ce qui a été perdu quand l’anneau était porté.</td><td>90 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de renvoi des sorts|Renvoi des sorts]]</td><td><sup>MJ, A&E</sup></td><td>Jusqu’à 3 fois par jour, peut renvoyer des niveaux de sort (jusqu’à 9 par jour) dirigés sur le porteur (comme avec *[[renvoi des sorts]]*).</td><td>100 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de la victime fictive|Victime fictive]]</td><td><sup>*UI*</sup></td><td>Une fois par jour, peut manifester un *[[simulacre mineur]]* amélioré à partir d'un cadavre ayant possédé 7 DV ou moins de son vivant.</td><td>101 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de triple souhait|Triple souhait]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer *[[souhait]]* jusqu’à 3 fois.</td><td>120 000 po</td></tr><tr CLASS="premier"><td>[[Anneau du bon génie|Bon génie]]</td><td><sup>MJ, A&E</sup></td><td>Jusqu’à 1 heure par jour, permet de convoquer un [[djinn]] qui sert fidèlement le porteur.</td><td>125 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de psyché secrète|Psyché secrète]]</td><td><sup>AO</sup></td><td>Fonctionne comme un [[anneau de maîtrise psychique]], mais quand son porteur meurt, son âme s’y réfugie (comme avec *[[possession spirituelle dobjet|possession spirituelle d’objet]]* mais sans animer l’objet). Dès qu’une créature l’enfile, l’âme réfugiée dedans peut prendre possession du corps de celle-ci (comme avec *[[possession spirituelle suprême]]*).</td><td>160 000 po</td></tr><tr CLASS="premier"><td>[[Anneau de contrôle des éléments|Contrôle des éléments]]</td><td><sup>MJ, A&E</sup></td><td>Apporte une affinité avec un plan élémentaire (Air, Terre, Feu ou Eau) choisi à la fabrication qui s’éveille d’autant plus après l’accomplissement d’une tâche, permettant de lancer plusieurs sorts en rapport avec ce plan.</td><td>200 000 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des anneaux magiques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="24%">Anneau</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="62%">Capacités</td>
+    <td WIDTH="11%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du donjon|Donjon]], prisonnier</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Le porteur est considéré comme le familier du porteur de l’*anneau du donjon de geôlier* pour les sorts
+      *[[scrutation]]* et *[[téléportation]]* et ce dernier sait tout ce qui arrive au porteur (comme avec
+      *[[rapport]]*).
+    </td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Anneau du donjon|Donjon]], geôlier</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Quand le porteur de cet anneau passe un *anneau du donjon de prisonnier* au doigt de quelqu’un, il reçoit les
+      informations d’un sort de *[[rapport]]* lancé sur ce dernier, et le considère comme son familier en ce qui
+      concerne les sorts de *[[scrutation]]* et de *[[téléportation]]*.
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau des sceaux magiques|Sceaux magiques]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>Permet de lancer *[[signature magique]]* (une rune spécifique) à volonté.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de contorsions sereines|Contorsions sereines]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de +2 aux tests d'[[Évasion]]. Une fois par jour, permet de lancer *[[coup au but]]*. Permet
+      de manifester le son d'un carillon, d'un petit gong ou d'une cloche à volonté.
+    </td>
+    <td>1 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de connaissance des sorts|Connaissance des sorts]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet aux lanceurs de sorts spontanés d’apprendre de nouveaux sorts d'un niveau dépendant du modèle par
+      l’étude.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; Type I</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut contenir des sorts du 1er niveau.</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Type II</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut contenir des sorts du 2e et du 1er niveau.</td>
+    <td>| 6 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Type III</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut contenir des sorts du 3e niveau ou moins.</td>
+    <td>| 13 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Type IV</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut contenir des sorts du 4e niveau ou moins.</td>
+    <td>| 24 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du guetteur borgne|Guetteur borgne]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de compétence de +2 aux tests de [[Perception]] et de [[Survie]]. Une fois par jour, permet
+      de lancer *[[messager animal]]*.
+    </td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de magie du sang persistante|Magie du sang persistante]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par [[round]], un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut dépenser 1 round de
+      cette capacité pour rallonger la durée d’un sort bénéfique (dont la durée est d’1 round/niveau) qui l’affecte
+      de 2 [[round|rounds]].
+    </td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de la main d’outre-tombe|Main d’outre-tombe]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet de toucher une créature mort-vivante (par une attaque de contact au corps à corps) pour l’empêcher
+      d’être soignée ou aidée par l’énergie négative pendant 1d4 [[round|rounds]].
+    </td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de protection|Protection]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère un bonus de parade à la [[CA]] dépendant du modèle.</td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>2 000 po</td></tr>
+  <tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 8 000 po</td></tr>
+  <tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 18 000 po</td></tr>
+  <tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 32 000 po</td></tr>
+  <tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 50 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Anneau dexcellence|Excellence]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Confère les effets d'un *[[regain dassurance|regain d'assurance]]* en permanence.</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dé du carnage]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Lorsqu'un porteur vampirique utilise un pouvoir d'absorption, il peut [[fasciné|fasciner]] sa cible,
+      l'empêchant d'y résister pendant 3 [[round|rounds]].
+    </td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de feuille morte|Feuille morte]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[feuille morte]]* dès que son porteur fait une chute d’au moins 1,5 m.</td>
+    <td>2 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de subsistance|Subsistance]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Après 1 semaine de port, son porteur n’a plus besoin de se nourrir et n’a besoin que de 2 heures pour profiter
+      des effets d’un sommeil complet.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau descalade|Escalade]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère un bonus de compétence de +5 aux tests d’[[Escalade]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;supérieur</td>
+    <td><sup>A&E</sup></td>
+    <td>Confère un bonus de compétence de +10 aux tests d’[[Escalade]].</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de saut|Saut]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]] pour effectuer des sauts en longueur ou en
+      hauteur.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;supérieur</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +10 aux tests d’[[Acrobaties]] pour effectuer des sauts en longueur ou en
+      hauteur.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de nage|Nage]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Confère un bonus de compétence de +5 aux tests de [[Natation]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;supérieur</td>
+    <td><sup>A&E</sup></td>
+    <td>Confère un bonus de compétence de +10 aux tests de [[Natation]].</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau guide de Droskar|Guide du travail forcé]]</td>
+    <td><sup>D&M</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[charme-personne]]*. Un suivant du [[Golarion.Droskar|dieu-nain du
+      travail forcé]] peut créer des objets magiques à 50% de leur coût, au risque d'avoir 50% de chance de créer un
+      objet non-fonctionnel.
+    </td>
+    <td>2 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau dharmonisation naturelle|Harmonisation naturelle]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Permet de convoquer de nouvelles créatures dépendant le modèle avec les sorts de *[[convocation dalliés
+      naturels I|convocation d’alliés naturels]]*. Une fois par jour, permet de convoquer une créature dépendant du
+      modèle comme avec une *[[convocation dalliés naturels I|convocation d’alliés naturels]]*.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; léchi</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[léchi de feuilles]] à la liste de niveau 1, le [[léchi calebasse]] à la liste de niveau 2, le
+      [[léchi fongique]] à la liste de niveau 3 et le [[léchi dalgues|léchi d’algues]] à la liste de niveau 4. Une
+      fois par jour, permet de convoquer un [[léchi de feuilles]] comme avec une *[[convocation dalliés naturels
+      I|convocation d’alliés naturels I]]*.
+    </td>
+    <td>2 800 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; kami</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[shikigami]] à la liste de niveau 3, le [[kodama]] à la liste de niveau 5, le [[zuishin]] à la
+      liste de niveau 7 et le [[toshigami]] à la liste de niveau 9. Une fois par jour, permet de convoquer un
+      [[shikigami]] comme avec une *[[convocation dalliés naturels III|convocation d’alliés naturels III]]*.
+    </td>
+    <td>| 7 800 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; drake</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[drake des forêts]] et le [[drake dombre|drake d'ombre]] à la liste de niveau 4, le [[drake des
+      flammes]] à la liste de niveau 5, le [[drake du froid]] à la liste de niveau 6 et le [[drake du désert]] à la
+      liste de niveau 9. Une fois par jour, permet de convoquer un [[drake dombre|drake d'ombre]] comme avec une
+      *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*.
+    </td>
+    <td>| 12 880 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du chevalier-héritier|Chevalier-héritier]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de protection|anneau de protection +1]]*. Une fois par jour, permet de lancer
+      *[[bénédiction darme|bénédiction d'arme]]* et *[[monture de guerre]]*. Permet de se nettoyer (comme avec
+      *[[prestidigitation]]*) à volonté.
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chevalière profane]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de protection|anneau de protection +1]]*. Une fois par jour, permet de lancer
+      *[[colère]]*. Permet de lancer *[[signature magique]]* à volonté, mais uniquement sur des objets ou des
+      créatures consentantes.
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau daction féroce|Férocité]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Permet au porteur de repousser un unique état [[États préjudiciables#Chancelant|chancelant]] pendant un
+      maximum de 5 [[round|rounds]].
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de puissante magie du sang|Puissante magie du sang]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Trois fois par jour, un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut augmenter le [[DD]] du
+      [[jds|jet de sauvegarde]] d’un sort qu’il lance de 1 par une [[action rapide]].
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ami du tyran]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Le porteur sait quand il touche un objet ou une créature empoisonnée.</td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau déloquence|Éloquence]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère un bonus de compétence de +2 aux tests de [[Bluff]], de [[Diplomatie]] et de [[Représentation]]
+      (déclamation). Permet de comprendre et de parler le commun, l’elfique, le nain et le gnome (ou d’autres
+      langues) même sous une forme incapable de parler. Passe le risque d’échec des sorts à 10 % si un porteur
+      [[assourdi]] tente de lancer un sort à [[composantes|composante verbale]].
+    </td>
+    <td>3 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau détapes et détoiles|Étapes et étoiles]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de feuille morte]]*. Une fois par jour, permet de lancer *[[projectile magique]]*.
+      Permet de manifester un papillon illusoire dans la case du porteur pendant 1 minute, à volonté.
+    </td>
+    <td>3 820 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de contresort|Contresort]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Lorsqu’un sort du 1er au 6e niveau est stocké dedans, contre ce même sort si le porteur en est la cible, une
+      seule fois par sort stocké.
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de magie du sang ancestrale|Magie du sang ancestrale]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Trois fois par jour, un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut lancer un sort tiré de son
+      [[sanguin#LIGNAGE|lignage de sanguin]] en dépensant un nombre de [[round|rounds]] de rage sanguine égal au
+      niveau du sort lancé au lieu d’un emplacement de sort.
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau aux sept ravissantes couleurs|Ravissantes couleurs]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de protection|anneau de protection +1]]*. Sept fois par jour, permet de se
+      transformer en oiseau chanteur pendant 10 minutes (comme avec *[[forme bestiale IV]]*, statistiques de
+      [[corbeau]]).
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du mastiff rouge|Mastiff rouge]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de protection|anneau de protection +1]]*. Une fois par jour, permet de convoquer un
+      mastiff rouge (comme avec *[[convocation de monstres I]]*, statistiques de [[chien]]
+      [[Archétypes#CREATURECELESTE|céleste]]), et de se transformer en mastiff rouge de taille P (comme avec
+      *[[forme bestiale I]]*).
+    </td>
+    <td>4 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau des crocs du rat|Crocs du rat]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Confère une attaque de morsure infligeant 1d4 points de dégâts. Après 1 semaine de port, l’apparence du
+      porteur se rapproche de celle d’un rat.
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de festin glouton|Festin glouton]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Tout ce que le porteur mange est purgé (comme avec *[[purification de nourriture et deau|purification de
+      nourriture et d'eau]]*. Une fois par jour, permet de lancer *[[simulacre de vie]]* après avoir consommé au
+      moins 10 po de vivres.
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau des objets déments|Objets déments]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests d’[[Artisanat]] (pièges) et de [[Sabotage]]. Permet d’utiliser
+      ces compétences sans formation.
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du destin repoussé|Destin repoussé]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>Permet de repousser des effets néfastes pendant 1 minute une fois par pierre sur l’anneau.</td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; 1 pierre</td><td><sup>MJRA</sup></td><td>Jusqu’à 1 fois.</td><td>5 000 po</td></tr>
+  <tr><td>&emsp; 2 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 2 fois.</td><td>| 10 000 po</td></tr>
+  <tr><td>&emsp; 3 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 3 fois.</td><td>| 15 000 po</td></tr>
+  <tr><td>&emsp; 4 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 4 fois.</td><td>| 20 000 po</td></tr>
+  <tr><td>&emsp; 5 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 5 fois.</td><td>| 25 000 po</td></tr>
+  <tr><td>&emsp; 6 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 6 fois.</td><td>| 30 000 po</td></tr>
+  <tr><td>&emsp; 7 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 7 fois.</td><td>| 35 000 po</td></tr>
+  <tr><td>&emsp; 8 pierres</td><td><sup>MJRA</sup></td><td>Jusqu’à 8 fois.</td><td>| 40 000 po</td></tr>
+  <tr><td>&emsp; 9 pierres</td><td><sup>MJRA, A&E</sup></td><td>Jusqu’à 9 fois.</td><td>| 45 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de flamme glorieuse|Flamme glorieuse]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Une fois par jour ou au prix d'une utilisation de [[Prêtre#CANALISATIONDENERGIE|canalisation d'énergie]], peut
+      créer un rayonnement de flammes blessant les créatures adjacentes au porteur.
+    </td>
+    <td>5 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de magie du sang vengeresse|Magie du sang vengeresse]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Trois fois par jour, un [[sanguin]] en [[sanguin#RAGESANGUINE|rage sanguine]] peut lancer un sort dont le
+      temps d’incantation est d’une [[action simple]] ou moins en tant qu’[[attaque dopportunité|attaque
+      d’opportunité]] (il doit inclure la créature qui a provoquée l’attaque, et son incantation n’en provoque pas).
+    </td>
+    <td>5 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneaux de communication|Communication]] (une paire)</td>
+    <td><sup>*UI*</sup></td>
+    <td>Les porteurs peuvent communiquer à travers leur anneau à 1.5 km de distance.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de gui sacré|Gui sacré]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +2 aux tests de [[Dressage]], de [[Connaissances]] (nature) et
+      d’[[druide#EMPATHIESAUVAGE|empathie sauvage]]. Un porteur avec la capacité
+      [[druide#DEPLACEMENTFACILITE|déplacement facilité]] en profite même dans la végétation créée ou contrôlée par
+      magie. Une fois par jour, permet de lancer *[[gourdin magique]]*.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de métaux en fusion|Métaux en fusion]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau daction féroce|anneau de férocité]]*. Le porteur peut dépenser une charge pour
+      permettre à une arme qu'il manie d'ignorer les RD/fer froid ou les RD/argent pendant 1 minute.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de volée de coups|Volée de coups]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Deux fois par jour, lorsqu’il prend un adversaire en tenaille, permet d’infliger 1d6 points de dégâts
+      supplémentaires au corps à corps (comme avec une [[roublard#ATTAQUESOURNOISE|attaque sournoise]]).
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de passions inextinguibles|Passions inextinguibles]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de protection|anneau de protection +1]]*. Confère un bonus de compétence de +5 aux
+      tests d'[[Acrobaties]] ainsi qu'un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] contre la maladie.
+    </td>
+    <td>6 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau d’audace pure|Audace pure]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Deux fois par jour lorsque le porteur récupère de l’[[pistolier#AUDACE|audace]], permet d’en stocker jusqu’à 2
+      points dans cet anneau pour les utiliser d’une autre manière.
+    </td>
+    <td>6 840 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau daffinité invocatoire|Affinité invocatoire]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Permet de convoquer de nouvelles créatures dépendant le modèle avec les sorts de *[[convocation de monstres
+      I|convocation de monstres]]*. Une fois par jour, permet de convoquer une créature dépendant du modèle comme
+      avec une *[[convocation de monstres III]]*.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; archon</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute l’[[archon annonciateur|annonciateur]] à la liste de niveau 3, l’[[archon légionnaire]] à la liste de
+      niveau 6 et l’[[archon bouclier]] à la liste de niveau 7. Une fois par jour, permet de convoquer un [[archon
+      annonciateur|annonciateur]].
+    </td>
+    <td>7 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; ange</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[cassisien]] à la liste de niveau 3, le [[déva movanique]] à la liste de niveau 7 et le [[déva
+      monadique]] à la liste de niveau 8. Une fois par jour, permet de convoquer un [[cassisien]].
+    </td>
+    <td>| 7 200 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; protéen</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[ver du néant]] à la liste de niveau 3, le [[naunet]] à la liste de niveau 6 et l’[[imentesh]] à la
+      liste de niveau 9. Une fois par jour, permet de convoquer un [[ver du néant]].
+    </td>
+    <td>| 7 200 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; kyton</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[kyton augure|augure]] à la liste de niveau 3, le [[kyton sacristain|sacristain]] à la liste de
+      niveau 7 et l’[[kyton interlocuteur|interlocuteur]] à la liste de niveau 9. Une fois par jour, permet de
+      convoquer un [[kyton augure|augure]].
+    </td>
+    <td>| 7 300 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; asura</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[tripurasura]] à la liste de niveau 3, l’[[adhukaït]] à la liste de niveau 6, l’[[upasunda]] à la
+      liste de niveau 7 et l’[[aghasura]] à la liste de niveau 8. Une fois par jour, permet de convoquer un
+      [[tripurasura]].
+    </td>
+    <td>| 7 600 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; psychopompe</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[nosoï]] à la liste de niveau 3, la [[catrina]] à la liste de niveau 4, le [[vanth]] à la liste de
+      niveau 6 et le [[morrigna]] à la liste de niveau 9. Une fois par jour, permet de convoquer un [[nosoï]].
+    </td>
+    <td>| 7 600 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; agathion</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[silvanshie]] à la liste de niveau 3, le [[vulpinal]] à la liste de niveau 5, l’[[avoral]] à la
+      liste de niveau 7 et le [[léonal]] à la liste de niveau 8. Une fois par jour, permet de convoquer un
+      [[silvanshie]].
+    </td>
+    <td>| 7 700 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; aéon</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[paraclétus]] à la liste de niveau 3, le [[thélétos]] à la liste de niveau 6 et l’[[akhana]] à la
+      liste de niveau 9. Une fois par jour, permet de convoquer un [[paraclétus]].
+    </td>
+    <td>| 7 800 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; inévitable</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute l’[[arbitre]] à la liste de niveau 3, le [[zélékhut]] à la liste de niveau 7, le [[kolyarut]] à la
+      liste de niveau 8 et le [[marut]] à la liste de niveau 9. Une fois par jour, permet de convoquer un
+      [[arbitre]].
+    </td>
+    <td>| 8 100 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; qlippoth</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[cythnigot]] à la liste de niveau 3, le [[shoggti]] à la liste de niveau 6, le [[nyogoth]] à la
+      liste de niveau 7, le [[chernobue]] à la liste de niveau 8 et l’[[augnagar]] à la liste de niveau 9. Une fois
+      par jour, permet de convoquer un [[cythnigot]].
+    </td>
+    <td>| 8 600 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; div</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[div doru|doru]] à la liste de niveau 3, l’[[div aghash|aghash]] à la liste de niveau 4, la [[div
+      païraka|païraka]] à la liste de niveau 6, le [[div ghawwas|ghawwas]] à la liste de niveau 7, le [[div
+      shira|shira]] à la liste de niveau 8 et le [[div sépide|sépide]] à la liste de niveau 9. Une fois par jour,
+      permet de convoquer un [[div doru|doru]].
+    </td>
+    <td>| 9 100 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; daémon</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Ajoute le [[cacodaémon]] à la liste de niveau 3, le [[ceustodaémon]] à la liste de niveau 5, l’[[hydrodaémon]]
+      à la liste de niveau 6, le [[leukodaémon]] à la liste de niveau 7, le [[derghodaémon]] et le [[méladaémon]] à
+      la liste de niveau 8 et le [[thanadaémon]] à la liste de niveau 9. Une fois par jour, permet de convoquer un
+      [[cacodaémon]].
+    </td>
+    <td>| 10 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de barrière mentale|Barrière mentale]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Immunise aux sorts de *[[détection des pensées]]* et *[[détection du mensonge]]* ainsi qu’aux tentatives de
+      lecture d’alignement magiques.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de la bête|Bête]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Confère un bonus de +2 à l'[[CA|armure naturelle]]. Confère un bonus et impose un malus à deux
+      caractéristiques dépendant du modèle (respectivement [[Force]] et [[Intelligence]], [[Dextérité]] et
+      [[Sagesse]], ou [[Constitution]] et [[Charisme]]).
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau des crocs de force|Crocs de force]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Absorbe jusqu’à 9 niveaux de sorts lancés sur son porteur sous forme de charges que ce dernier peut dépenser
+      pour envoyer 1 *[[projectile magique]]* par charge dépensée, jusqu’à 5 par [[round]].
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau d’épuisement de force|Épuisement de force]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour, si le porteur touche une créature avec une attaque à mains nues, il peut imposer un jet de
+      [[Vigueur]] à sa cible, elle perd 1d4 points de [[Force]] et le porteur gagne un bonus d’altération de +2 en
+      [[Force]] sur un échec.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de bouclier de force|Bouclier de force]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Peut générer un écu n’imposant aucun malus, à volonté.</td>
+    <td>8 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du bélier|Bélier]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Contient 50 charges que son porteur peut dépenser pour : infliger des dégâts à distance, [[Manœuvres
+      offensives#BOUSCULADE|bousculer]] une cible, ou enfoncer des portes.
+    </td>
+    <td>8 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de l’érudit|Érudit]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Connaissances]] (histoire) ainsi que les effets du sort
+      *[[compréhension des langages]]* en permanence. Tous les 5 jours le porteur peut lancer *[[mythes et
+      légendes]]* sur un sujet qu’il a étudié récemment.
+    </td>
+    <td>8 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau d’ennemi de prédilection|Ennemi de prédilection]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +2 à la [[CA]] et aux [[valeurs de combat#JETSDESAUVEGARDE|jets de sauvegarde]] contre un
+      adversaire choisi, à volonté.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de maîtrise ki|Maîtrise ki]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut de stocker jusqu’à 2 points de [[moine#RESERVEDEKI|ki]] par une [[action rapide]] pour les utiliser d’une
+      autre manière.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de révélation|Révélation]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Contient une révélation d’un [[mystères|mystère d’oracle]] nécessitant une condition de niveau dépendant du
+      modèle dont seul un [[oracle]] connaissant le dit mystère peut se servir.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; mineure</td>
+    <td><sup>A&E</sup></td>
+    <td>[[mystères|Mystère d’oracle]] n'exigeant pas de condition ou un niveau d’[[oracle]] inférieur à 6.</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeure</td>
+    <td><sup>A&E</sup></td>
+    <td>[[mystères|Mystère d’oracle]] exigeant un niveau d’[[oracle]] de 7 ou plus.</td>
+    <td>| 16 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; supérieure</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>[[mystères|Mystère d’oracle]] exigeant un niveau d’[[oracle]] de 11 ou plus.</td>
+    <td>| 24 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de soins|Soins]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Augmente la limite de bonus par niveau des sorts d’invocation (guérison) de 2.</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau damitié avec les animaux|Amitié avec les animaux]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Permet de lancer *[[charme-animal]]* à volonté.</td>
+    <td>10 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de transposition|Transposition]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Lié avec un autre anneau, il permet au porteur d’échanger de place avec le porteur de ce dernier (comme avec
+      *[[porte dimensionnelle]]*) dans un rayon de 240m une fois par jour.
+    </td>
+    <td>10 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de précision tactique|Précision tactique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Profession]] (soldat) et chaque fois que le porteur reçoit
+      un bonus quantifiable grâce à un [[Dons#DONEQUIPE|don d’équipe]] ou à l’action [[Actions
+      spéciales#AIDERQQN|aider quelqu’un]], il augmente de +1. Cet anneau peut aussi stocker les effets d’un
+      [[Dons#DONEQUIPE|don d’équipe]] dont le porteur bénéficie en permanence.
+    </td>
+    <td>11 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du sybarite|Sybarite]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Confère un bonus de compétence de +4 aux tests de [[Psychologie]] et de [[Connaissances]] (local). Une fois
+      par jour, permet de lancer *[[localisation de créature]]* ou *[[localisation dobjet|localisation d’objet]]*.
+      Permet de localiser le bar ou la taverne la plus proche à volonté.
+    </td>
+    <td>11 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de création magique|Création magique]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Le porteur peut dépenser des emplacements de sorts pour bénéficier de bonus aux tests d’[[Artisanat]] ou de
+      [[Profession]] et peut substituer un test d’[[Art de la magie]] avec un test d’[[Artisanat]] pour identifier
+      un objet fabriqué avec la compétence [[Artisanat]].
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de dynamisation ectoplasmique|Dynamisation ectoplasmique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un [[conjurateur]] peut utiliser sa capacité [[conjurateur#APPELDUCREATEUR|appel du créateur]] pour absorber
+      son [[conjurateur#EIDOLON|eidolon]] afin de gagner 2 points de vie temporaires par [[DV]] de ce dernier.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de leurre|Leurre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Lorsque son porteur effectue une [[Actions complexes#RETRAITE|retraite]] ou est [[États
+      préjudiciables#Sansdéfense|sans défense]], le rend [[États préjudiciables#Invisible|invisible]] pendant 3
+      [[round|rounds]] et fait apparaître 4 *[[double illusoire|doubles illusoires]]* de ce dernier qui s’enfuient
+      dans des directions logiques pendant cette même durée.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de main de fer|Main de fer]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet d’ignorer 5 points de solidité lors de manœuvres de [[manœuvres offensives#DESTRUCTION|destruction]] et
+      annule le malus occasionné par une manœuvre de [[manœuvres offensives#DESARMEMENT|désarmement]] effectuée à
+      mains nues. Une fois par jour, peut faire en sorte que les dégâts de précision d’une attaque aient 50 % de
+      chance d’être annulés.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de résistance aux énergies destructives|Résistance aux énergies destructives]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère une résistance à un type d’énergie choisi à la fabrication dont le montant dépend du modèle.</td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; mineur</td><td><sup>A&E</sup></td><td>La résistance s’élève à 10.</td><td>12 000 po</td></tr>
+  <tr><td>&emsp; majeur</td><td><sup>A&E</sup></td><td>La résistance s’élève à 20.</td><td>| 28 000 po</td></tr>
+  <tr><td>&emsp; supérieur</td><td><sup>A&E</sup></td><td>La résistance s’élève à 30.</td><td>| 44 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du troglodyte|Troglodyte]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Deux fois par jour, peut rendre toutes les créatures [[États préjudiciables#Fiévreux|fiévreuses]] (ou [[États
+      préjudiciables#Nauséeux|nauséeuses]] si elles l’étaient déjà) dans un rayon de 3m pendant 1 [[round]].
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du caméléon|Caméléon]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Peut conférer un bonus de compétence de +10 aux tests de [[Discrétion]], ou conférer les effets du sort de
+      *[[déguisement]]*.
+    </td>
+    <td>12 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de bataille fantôme|Bataille fantôme]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de la main d’outre-tombe|anneau de main d'outre-tombe]]*. Une fois par jour, permet
+      de lancer *[[déguisement fantomatique]]* et *[[rapidité]]*.
+    </td>
+    <td>13 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de l’écumeur des mers|Écumeur des mers]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère une vitesse de nage de 9 mètres et un bonus racial de +8 aux tests de [[Natation]]. Une fois par jour,
+      permet de lancer *[[porte dimensionnelle]]* avec un point de départ et d’arrivée situés dans une étendue d’eau
+      ininterrompue.
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du cacodaémon|Cacodaémon]]</td>
+    <td><sup>*BD*</sup></td>
+    <td>
+      Peut stocker une *[[création de gemme spirituelle|gemme spirituelle]]*. Permet de communiquer avec télépathie
+      avec l'âme piégée (comme avec *[[communication avec les morts]]*). Une fois par jour, permet de lancer
+      *[[terreur]]*.
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de marche sur londe|Marche sur l’onde]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[marche sur londe|marche sur l’onde]]* à volonté.</td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de représailles|Représailles]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Une fois par jour, peut infliger 10d6 points de dégâts (Réflexes, 1/2 dégâts) de feu à toutes les créatures
+      dans un rayon de 9m (6c).
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de résilience|Résilience]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Quand le porteur récupère un point d’[[audace]] ou de [[panache]] par ses actions, permet de relancer un
+      [[jds|jet de sauvegarde]] contre un état qui l’affecte (avec le [[DD]] originel).
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de résistance intérieure|Résistance intérieure]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Réduit tous les dégâts ou tous les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de
+      caractéristiques de 2 points, ainsi que toutes les diminutions permanentes de 1 point.
+    </td>
+    <td>18 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; résistance intérieure majeure</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Réduit tous les dégâts ou tous les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de
+      caractéristiques de 4 points, ainsi que toutes les diminutions permanentes de 2 points.
+    </td>
+    <td>42 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Résistance intérieure supérieure</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Réduit tous les dégâts ou tous les [[affaiblissement temporaire (capacité)|affaiblissements temporaires]] de
+      caractéristiques de 6 points, ainsi que toutes les diminutions permanentes de 3 points.
+    </td>
+    <td>66 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de stockage de sorts|Stockage de sorts]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Peut stocker un nombre de niveaux de sorts dépendant du modèle qui doivent être lancés à leur [[NLS]] minimal
+      sans encourir d’échec des sorts profanes dus à l’armure.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; mineur</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut stocker jusqu’à 3 niveaux de sorts.</td>
+    <td>18 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut stocker jusqu’à 5 niveaux de sorts.</td>
+    <td>| 50 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; supérieur</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut stocker jusqu’à 10 niveaux de sorts.</td>
+    <td>| 200 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneaux de servitude|Servitude]] (une paire)</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Confère au porteur de l'anneau maître un bonus de compétence de +6 aux tests de [[Psychologie]] et les effets
+      d'un *[[rapport]]* constant contre le porteur de l'anneau servant. Une fois par jour, le maître peut lancer
+      *[[mission]]* sur le servant soit en imposant sa volonté soit en acceptant lui-même une *mission* du servant.
+    </td>
+    <td>18 200 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Anneaux de servitude supérieurs|Servitude supérieurs]] (une paire)</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      La *mission* devient une *[[quête]]* et le maître bénéficie d'un *[[sanctuaire]]* constant contre le servant.
+    </td>
+    <td>| 42 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de voile d’énergie|Voile d’énergie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Fonctionne comme un [[anneau de résistance aux énergies destructives]] mineur. Une fois par jour, permet
+      d’ignorer les dégâts d’un effet d’acide, de froid, d’électricité ou de feu ciblant le porteur, transformant
+      cet effet en une *[[aura élémentaire]]* du même type d’énergie.
+    </td>
+    <td>19 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau des arcanes|Arcanes]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Multiplie par 2 le nombre d’emplacement(s) de sorts d'un niveau dépendant du modèle que possèdent les lanceurs
+      de sorts profanes.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; premiers</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 1er niveau.</td>
+    <td>20 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; deuxièmes</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 2e niveau.</td>
+    <td>| 40 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; troisièmes</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 3e niveau.</td>
+    <td>| 70 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; quatrièmes</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Multiplie par 2 le nombre d’emplacement(s) de sorts du 4e niveau.</td>
+    <td>| 100 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de stockage de sort mineur néthysien|Stockage de sort mineur néthysien]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[anneau de stockage de sorts|anneau de stockage de sorts mineur]]*, mais les sorts des
+      domaines de [[Néthys (technique)|Néthys]] sont considérés comme d'un niveau de sort inférieur (minimum 1er).
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de terrible prix|Terrible prix]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Peut stocker jusqu'à 5 [[pv|points de vie]] sous forme de charges. Les charges peuvent être dépensées pour
+      gagner un bonus de malfaisance équivalent à un [[jet dattaque|jet d'attaque]], [[Valeurs de combat#DEGATS|de
+      dégâts]], [[jds|de sauvegarde]] ou à un [[Compétences|test de compétence]].
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau dinvisibilité|Invisibilité]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[invisibilité]]* à volonté.</td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de maîtrise magique|Maîtrise magique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut de stocker jusqu’à 4 points de [[magus#RESERVEMAGIQUE|réserve magique]] par une [[action rapide]] pour
+      les utiliser d’une autre manière.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau desquive totale|Esquive totale]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du pouvoir [[roublard#ESQUIVETOTALE|esquive totale]] en permanence.</td>
+    <td>25 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de rayons X|Rayons X]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Permet de voir à travers la plupart des solides, jusqu’à 10 minutes par jour sans contre-coup.</td>
+    <td>25 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du marchepeste|Marchepeste]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Trois fois par jouer, le porteur peut soit appeler 1d3 nuées de rats indépendantes pendant 7 rounds soit
+      lancer *[[porte dimensionnelle]]* depuis et vers une nuée invoquée par cet anneau. Un [[Druide urbain
+      (druide)|druide urbain]] peut obtenir une utilisation supplémentaire en dépensant 3 utilisations de
+      [[Druide#FORMEANIMALE|forme animale]].
+    </td>
+    <td>26 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de clignotement|Clignotement]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[clignotement]]* à volonté.</td>
+    <td>27 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de lecclésiarque|Ecclésiarque]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Connaissances]] (religion) et de [[Diplomatie]]. Permet au
+      porteur de marquer toute surface (comme avec *[[signature magique]]*) avec le symbole sacré de sa divinité. Le
+      porteur profite d’avantages spéciaux s’il possède le don [[Prestige]]. Une fois par jour, permet de lancer
+      *[[prière]]* et *[[entrer dans une image]]*.
+    </td>
+    <td>28 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de magie transcendante|Magie transcendante]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Trois fois par jour, peut augmenter le [[DD]] des [[jds|jets de sauvegarde]] de 2 et conférer un bonus de +2
+      aux tests de [[NLS]] pour passer la [[RM]] d'un sort que le porteur lance (un porteur [[mythique]] peut aussi
+      dépenser une utilisation de [[pouvoir mythique]] tous les 2 niveaux du sort pour lancer sa version mythique
+      grâce à ce pouvoir).
+    </td>
+    <td>30 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau daffaiblissement des énergies|Affaiblissement des énergies]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Quand le porteur subit des dégâts d’acide, de froid, d’électricité ou de feu, lui confère une [[Résistance
+      (capacité)|résistance]] de 5 contre ces types d'énergies (un porteur [[mythique]] peut dépenser une
+      utilisation de [[pouvoir mythique]] pour profiter d'une [[Immunité (capacité)|immunité]] contre ces énergies à
+      la place), pendant 1 minute. Une fois par jour quand ce pouvoir est utilisé, il peut être transmis aux alliés
+      dans un rayon de 6m.
+    </td>
+    <td>31 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de retour|Retour]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Trois fois par jour, permet de lier une case de 1,5 m de côté à l’anneau. Le porteur peut se téléporter à
+      n’importe quelle case liée dans un rayon de 30 mètres par une [[action rapide]].
+    </td>
+    <td>33 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de liberté de mouvement|Liberté de mouvement]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[liberté de mouvement]]* en permanence.</td>
+    <td>40 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de protection mutuelle|Protection mutuelle]] (une paire)</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Le porteur d’un des anneaux peut lancer le sort *[[protection dautrui|protection d’autrui]]* sur le porteur de
+      l’autre anneau à volonté et sans limite de portée.
+    </td>
+    <td>50 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du feu détoiles|Feu d’étoiles]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Permet de lancer des sorts et de manifester des effets magiques différents s’il est dans une pièce sombre ou à
+      l’extérieur de nuit que s’il est en sous-sol ou à l’intérieur de nuit.
+    </td>
+    <td>50 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de maîtrise psychique|Maîtrise psychique]]</td>
+    <td><sup>AO</sup></td>
+    <td>Confère un emplacement de sort supplémentaire du 1er au 4e niveau aux lanceurs de sorts psychiques.</td>
+    <td>50 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de prolongement|Prolongement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Chaque fois que le porteur lance un sort à portée personnelle et d’une durée de 10 minutes/niveau ou plus, ce
+      dernier dure 24 heures ou jusqu’à ce que le porteur lance un autre sort à portée personnelle. Un sort prolongé
+      grâce à l’anneau qui ne s’active que lors d’une action spécifique est consommé à l’utilisation.
+    </td>
+    <td>56 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneaux des spiritualistes|Spiritualistes]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Trois fois par jour, permet de lancer *[[communication avec les morts]]* avec un temps d’incantation de 10
+      minutes. Trois fois par jour, permet de lancer *[[main spectrale]]*. Les armes maniées par le porteur sont
+      [[spectrale (propriété)|spectrales]]. Confère un bonus de sainteté/malfaisance (dépendant de l’alignement du
+      porteur) de +4 aux jets de sauvegarde contre les énergies positives et négatives.
+    </td>
+    <td>70 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de télékinésie|Télékinésie]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Permet de lancer *[[télékinésie]]* à volonté.</td>
+    <td>75 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de régénération|Régénération]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Immunise contre les pertes de points de vie dues à des saignements. Régénère 1 point de vie par [[round]] et
+      fait repousser les organes perdus (comme avec *[[régénération]]*). Ces effets de régénération ne s’appliquent
+      qu’à ce qui a été perdu quand l’anneau était porté.
+    </td>
+    <td>90 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de renvoi des sorts|Renvoi des sorts]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Jusqu’à 3 fois par jour, peut renvoyer des niveaux de sort (jusqu’à 9 par jour) dirigés sur le porteur (comme
+      avec *[[renvoi des sorts]]*).
+    </td>
+    <td>100 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de la victime fictive|Victime fictive]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Une fois par jour, peut manifester un *[[simulacre mineur]]* amélioré à partir d'un cadavre ayant possédé 7 DV
+      ou moins de son vivant.
+    </td>
+    <td>101 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de triple souhait|Triple souhait]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Permet de lancer *[[souhait]]* jusqu’à 3 fois.</td>
+    <td>120 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau du bon génie|Bon génie]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Jusqu’à 1 heure par jour, permet de convoquer un [[djinn]] qui sert fidèlement le porteur.</td>
+    <td>125 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de psyché secrète|Psyché secrète]]</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme un [[anneau de maîtrise psychique]], mais quand son porteur meurt, son âme s’y réfugie (comme
+      avec *[[possession spirituelle dobjet|possession spirituelle d’objet]]* mais sans animer l’objet). Dès qu’une
+      créature l’enfile, l’âme réfugiée dedans peut prendre possession du corps de celle-ci (comme avec
+      *[[possession spirituelle suprême]]*).
+    </td>
+    <td>160 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de contrôle des éléments|Contrôle des éléments]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Apporte une affinité avec un plan élémentaire (Air, Terre, Feu ou Eau) choisi à la fabrication qui s’éveille
+      d’autant plus après l’accomplissement d’une tâche, permettant de lancer plusieurs sorts en rapport avec ce
+      plan.
+    </td>
+    <td>200 000 po</td>
+  </tr>
+</table>
 
 </center>

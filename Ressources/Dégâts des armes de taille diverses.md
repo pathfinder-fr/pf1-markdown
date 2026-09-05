@@ -16,7 +16,166 @@ Voici une petite table que j'ai réalisé pour mes propres besoins au départ de
 
 
 
-<table CLASS="tablo centre"><caption>Dégâts des armes en fonction de leur taille</caption><tr CLASS="titre"><td>Exemple</td><td>Infime</td><td>Minuscule</td><td>Très petit</td><td>Petit</td><td>Moyen</td><td>Grand</td><td>Très grand</td><td>Gigantesque</td><td>Colossal</td></tr><tr CLASS="premier"></tr><tr CLASS="alt"><td>-</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1d1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td></tr><tr><td>-</td><td>—</td><td>—</td><td>—</td><td>1d1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td></tr><tr CLASS="alt"><td>Main nue</td><td>—</td><td>—</td><td>1d1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td></tr><tr><td>Dague</td><td>—</td><td>1d1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>3d6<sup>1</sup></td></tr><tr CLASS="alt"><td>Épée courte</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>3d6<sup>1</sup></td><td>4d6</td></tr><tr><td>Épée longue</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>3d6</td><td>4d6</td><td>6d6</td></tr><tr CLASS="alt"><td>Cimeterre à deux mains</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>2d4</td><td>2d6</td><td>3d6</td><td>4d6</td><td>6d6</td></tr><tr><td>Épée bâtarde</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>1d10</td><td>2d8</td><td>3d8</td><td>4d8</td><td>6d8</td></tr><tr CLASS="alt"><td>Grande hache</td><td>1d4</td><td>1d6</td><td>1d8</td><td>1d10</td><td>1d12</td><td>3d6</td><td>4d6</td><td>6d6</td><td>8d6</td></tr><tr><td>Épée à deux mains</td><td>1d4</td><td>1d6</td><td>1d8</td><td>1d10</td><td>2d6</td><td>3d6</td><td>4d6</td><td>6d6</td><td>8d6</td></tr><tr CLASS="alt"><td>Moine niveau 17</td><td>1d6</td><td>1d8</td><td>1d10</td><td>2d6</td><td>2d8</td><td>3d8</td><td>4d8</td><td>6d8</td><td>8d8</td></tr><tr><td>Moine niveau 20</td><td>1d8</td><td>1d10</td><td>2d6</td><td>2d8</td><td>2d10</td><td>4d8</td><td>6d8</td><td>8d8</td><td>12d8</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Dégâts des armes en fonction de leur taille</caption>
+  <tr CLASS="titre">
+    <td>Exemple</td>
+    <td>Infime</td>
+    <td>Minuscule</td>
+    <td>Très petit</td>
+    <td>Petit</td>
+    <td>Moyen</td>
+    <td>Grand</td>
+    <td>Très grand</td>
+    <td>Gigantesque</td>
+    <td>Colossal</td>
+  </tr>
+  <tr CLASS="premier"></tr>
+  <tr CLASS="alt">
+    <td>-</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Main nue</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+  </tr>
+  <tr>
+    <td>Dague</td>
+    <td>—</td>
+    <td>1d1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>3d6<sup>1</sup></td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Épée courte</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>3d6<sup>1</sup></td>
+    <td>4d6</td>
+  </tr>
+  <tr>
+    <td>Épée longue</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>3d6</td>
+    <td>4d6</td>
+    <td>6d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Cimeterre à deux mains</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>2d4</td>
+    <td>2d6</td>
+    <td>3d6</td>
+    <td>4d6</td>
+    <td>6d6</td>
+  </tr>
+  <tr>
+    <td>Épée bâtarde</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>2d8</td>
+    <td>3d8</td>
+    <td>4d8</td>
+    <td>6d8</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Grande hache</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>1d12</td>
+    <td>3d6</td>
+    <td>4d6</td>
+    <td>6d6</td>
+    <td>8d6</td>
+  </tr>
+  <tr>
+    <td>Épée à deux mains</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>2d6</td>
+    <td>3d6</td>
+    <td>4d6</td>
+    <td>6d6</td>
+    <td>8d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Moine niveau 17</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>3d8</td>
+    <td>4d8</td>
+    <td>6d8</td>
+    <td>8d8</td>
+  </tr>
+  <tr>
+    <td>Moine niveau 20</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>2d10</td>
+    <td>4d8</td>
+    <td>6d8</td>
+    <td>8d8</td>
+    <td>12d8</td>
+  </tr>
+</table>
 
 
 <sup>1</sup> Ces valeurs sont calculées sur base de la règle donnée sur la [faq Païzo](http://paizo.com/paizo/faq/v5748nruor1fm#v5748eaic9t5u). La valeur de 2d8 pourrait aussi être considérée comme correcte car elle provient de la règle concernant les [[Pathfinder-RPG.Attaques naturelles (capacité)|armes naturelles]].

@@ -66,7 +66,31 @@ Voici les options accessibles aux samsarans, d’autres races adaptées peuvent 
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Sang de la vie]]</td><td><sup>MR</sup></td><td>[[samsaran (race)|samsaran]]</td><td>Le samsaran perd 1d4 point de vie pour les accorder à une autre créature</td></tr><tr CLASS="premier"><td>[[Voile de mystère]]</td><td><sup>*ISR*</sup></td><td>1 rangs en [[Bluff]] ; 1 rang en [[Déguisement]] ; [[Kitsune (race)|kitsune]], [[Samsaran (race)|samsaran]], [[Tengu (race)|tengu]] ou [[Wayang (race)|wayang]]</td><td>Contre les autres races humanoïdes, +2 aux jets de Volonté contre les effets mentaux et +3 aux tests de Bluff</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sang de la vie]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[samsaran (race)|samsaran]]</td>
+    <td>Le samsaran perd 1d4 point de vie pour les accorder à une autre créature</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Voile de mystère]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      1 rangs en [[Bluff]] ; 1 rang en [[Déguisement]] ; [[Kitsune (race)|kitsune]], [[Samsaran (race)|samsaran]],
+      [[Tengu (race)|tengu]] ou [[Wayang (race)|wayang]]
+    </td>
+    <td>
+      Contre les autres races humanoïdes, +2 aux jets de Volonté contre les effets mentaux et +3 aux tests de Bluff
+    </td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

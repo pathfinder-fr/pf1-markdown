@@ -20,10 +20,18 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances d’escalade</td><td>Modificateur au DD  
-du test d’Athlétisme</td></tr><tr CLASS="premier"><td>Cheminée dans laquelle on peut  
-s’appuyer contre deux parois opposées</td><td>-10</td></tr><tr><td>Coin où on peut s’appuyer contre  
-deux murs perpendiculaires</td><td>-5</td></tr><tr><td>Surface glissante</td><td>+5</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Circonstances d’escalade</td><td>Modificateur au DD  
+du test d’Athlétisme</td></tr>
+  <tr CLASS="premier">
+    <td>Cheminée dans laquelle on peut  
+s’appuyer contre deux parois opposées</td>
+    <td>-10</td>
+  </tr>
+  <tr><td>Coin où on peut s’appuyer contre  
+deux murs perpendiculaires</td><td>-5</td></tr>
+  <tr><td>Surface glissante</td><td>+5</td></tr>
+</table>
 
 </center></div></div>Le personnage peut utiliser l’Athlétisme pour progresser vers le haut, le bas ou les côtés le long d’une pente fortement inclinée ou d’une paroi (voire d’un plafond muni de prises). Il peut se déplacer au quart de sa vitesse mais peut décider d’évoluer à la moitié de sa vitesse de déplacement en acceptant un malus de -5. S’il rate son test de 1 à 4 points, il ne parvient pas à progresser. S’il rate son test de 5 points ou plus, il chute. Il est impossible d’escalader une surface parfaitement lisse et verticale (ou en dévers).
 
@@ -64,9 +72,19 @@ Le personnage doit avoir les deux mains libres lors d’une escalade, mais il pe
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Courant</td><td>DD du test  
-d’Athlétisme</td></tr><tr CLASS="premier"><td>Eaux calmes</td><td>10</td></tr><tr><td>Eaux agitées</td><td>15</td></tr><tr><td>Eaux très agitées (tempête)</td><td>20*</td></tr><tr CLASS="note"><td | COLSPAN="2">*(*) Il est impossible de faire 10 sur un test  
-d’Athlétisme pour nager dans des eaux très agitées.*</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Courant</td><td>DD du test  
+d’Athlétisme</td></tr>
+  <tr CLASS="premier"><td>Eaux calmes</td><td>10</td></tr>
+  <tr><td>Eaux agitées</td><td>15</td></tr>
+  <tr><td>Eaux très agitées (tempête)</td><td>20*</td></tr>
+  <tr CLASS="note">
+    <td | COLSPAN="2">
+      *(*) Il est impossible de faire 10 sur un test  
+d’Athlétisme pour nager dans des eaux très agitées.*
+    </td>
+  </tr>
+</table>
 
 </center></div></div>La réussite d’un test d’Athlétisme permet à un personnage dans l’eau de nager sur une distance égale à la moitié de sa vitesse de déplacement par une [[action complexe]] ou à son quart par une [[action de mouvement]]. En cas d’échec de 4 points ou moins, il barbote sans parvenir à avancer. En cas d’échec de 5 points ou plus, il coule. Le personnage doit effectuer un test d’Athlétisme pour nager chaque [[round]].
 
@@ -84,16 +102,29 @@ d’Athlétisme pour nager dans des eaux très agitées.*</td></tr></table>
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Saut en longueur</td><td>DD du test  
-d’Athlétisme</td></tr><tr CLASS="premier"><td>1,50 m</td><td>5</td></tr><tr><td>3 m</td><td>10</td></tr><tr><td>4,50 m</td><td>15</td></tr><tr><td>Plus de 4,50 m</td><td>+5 par 1,50 m</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Saut en longueur</td><td>DD du test  
+d’Athlétisme</td></tr>
+  <tr CLASS="premier"><td>1,50 m</td><td>5</td></tr>
+  <tr><td>3 m</td><td>10</td></tr>
+  <tr><td>4,50 m</td><td>15</td></tr>
+  <tr><td>Plus de 4,50 m</td><td>+5 par 1,50 m</td></tr>
+</table>
 
 </center></div></div>
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Saut en hauteur</td><td>DD du test  
-d’Athlétisme</td></tr><tr CLASS="premier"><td>30 cm</td><td>4</td></tr><tr><td>60 cm</td><td>8</td></tr><tr><td>90 cm</td><td>12</td></tr><tr><td>120 cm</td><td>16</td></tr><tr><td>Plus de 120 cm</td><td>+4 par 30 cm</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Saut en hauteur</td><td>DD du test  
+d’Athlétisme</td></tr>
+  <tr CLASS="premier"><td>30 cm</td><td>4</td></tr>
+  <tr><td>60 cm</td><td>8</td></tr>
+  <tr><td>90 cm</td><td>12</td></tr>
+  <tr><td>120 cm</td><td>16</td></tr>
+  <tr><td>Plus de 120 cm</td><td>+4 par 30 cm</td></tr>
+</table>
 
 </center></div></div>Le personnage peut utilise la compétence d’Athlétisme pour sauter. Pour calculer le [[DD]], on divise la distance à traverser par 30 centimètres dans le cas d’un saut en longueur ou la hauteur à atteindre par 7,50 cm dans le cas d’un saut en hauteur.
 

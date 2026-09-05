@@ -82,7 +82,14 @@ R : (Ross Byers) C'est dans la version papier, mais ni le PDF ni le PRD ne le mo
 
 R : (Jason Bulmahn) Les valeurs suivantes sont correctes et oui, c'est supposer être un peu effrayant lorsqu'on l'utilise.
 
-<table CLASS="tablo"><caption>Tableau des allonges du lignage Aberrant</caption><tr CLASS="titre"><td class="gauche">Niveau</td><td class="gauche">Allonge en m (cases)</td></tr><tr CLASS="premier"><td class="gauche">1</td><td class="gauche">1,50 m (1 {s:c}) (= adjacent)</td></tr><tr CLASS="alt"><td class="gauche">3</td><td class="gauche">3 m (2 {s:c}) (1,50 m + 1,50 m)</td></tr><tr><td class="gauche">11</td><td class="gauche">4,50 m (3 {s:c}) (1,50 m + 3 m)</td></tr><tr CLASS="alt"><td class="gauche">17</td><td class="gauche">6 m (4 {s:c}) (1,50 m + 4,50 m)</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tableau des allonges du lignage Aberrant</caption>
+  <tr CLASS="titre"><td class="gauche">Niveau</td><td class="gauche">Allonge en m (cases)</td></tr>
+  <tr CLASS="premier"><td class="gauche">1</td><td class="gauche">1,50 m (1 {s:c}) (= adjacent)</td></tr>
+  <tr CLASS="alt"><td class="gauche">3</td><td class="gauche">3 m (2 {s:c}) (1,50 m + 1,50 m)</td></tr>
+  <tr><td class="gauche">11</td><td class="gauche">4,50 m (3 {s:c}) (1,50 m + 3 m)</td></tr>
+  <tr CLASS="alt"><td class="gauche">17</td><td class="gauche">6 m (4 {s:c}) (1,50 m + 4,50 m)</td></tr>
+</table>
 
 
 **Q : Je suis en train de lire les [[lignages]] d'[[ensorceleur]]. A propos du [[lignage féerique]]. Le Toucher rieur ne mentionne aucun [[jet de sauvegarde]]. Est-ce normal ? Il n'y a pas de [[jet de sauvegarde|JS]] contre le Toucher rieur d'un [[ensorceleur]] de [[lignage féerique]] ?**

@@ -29,6 +29,726 @@ De plus, un bâton peut contenir des sorts de n’importe quel niveau, contraire
 {s:filtrable}
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des bâtons magiques</caption><tr CLASS="titre"><td WIDTH="24%">Bâton</td><td WIDTH= "3%">Source</td><td WIDTH="62%">Capacités</td><td WIDTH="11%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Bâton de soulagement béni|Soulagement béni]]</td><td><sup>A&E</sup></td><td>*[[création deau|création d'eau]]* (1 charge), *[[stabilisation]]* (1 charge), *[[bénédiction]]* (2 charges).</td><td>7 200 po</td></tr><tr CLASS="premier"><td>[[Bâton des arcanes mineures|Arcanes mineures]]</td><td><sup>A&E</sup></td><td>*[[bouclier]]* (1 charge), *[[projectile magique]]* (2 charges).</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Bâton dastuces|Astuces]]</td><td><sup>A&E</sup></td><td>*[[son imaginaire]]* (1 charge), *[[manipulation à distance]]* (1 charge), *[[prestidigitation]]* (1 charge), *[[image silencieuse]]* (2 charges).</td><td>8 800 po</td></tr><tr CLASS="premier"><td>[[Bâton de léclaireur|Éclaireur]]</td><td><sup>A&E</sup></td><td>*[[repérage]]* (1 charge), *[[passage sans trace]]* (1 charge), *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* (2 charges).</td><td>9 600 po</td></tr><tr CLASS="premier"><td>[[Bâton de monstruosification|Monstruosification]]</td><td><sup>MCA</sup></td><td>*[[agrandissement]]* (1 charge), *[[physique monstrueux I]]* (3 charges), voir description.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Bêche du fossoyeur|Fossoyeur]]</td><td><sup>MCA</sup></td><td>*[[excavation expéditive]]* (1 charge), *[[création de fosse]]* (2 charges), *[[fosse hérissée de pieux]]* (5 charges), similaire à une [[Équipement daventurier#Pelle|pelle de maître]].</td><td>12 150 po</td></tr><tr CLASS="premier"><td>[[Bâton détincelles|Étincelles]]</td><td><sup>MCA</sup></td><td>*[[décharge électrique]]* (1 charge), *[[décharge électrique]]* [[Sort intense|intensifiée]] (2 charges), *[[éclair]]* (5 charges), voir description.</td><td>12 650 po</td></tr><tr CLASS="premier"><td>[[Bâton de braises|Braises]]</td><td><sup>MCA</sup></td><td>*[[flammes]]* (1 charge), *[[rayon ardent]]* (2 charges), *[[boule de feu]]* (4 charges), voir description.</td><td>13 100 po</td></tr><tr CLASS="premier"><td>[[Bâton des eidolons|Eidolons]]</td><td><sup>A&E</sup></td><td>*[[régénération deidolon mineure|régénération d’eidolon mineure]]* (1 charge), *[[libération]]* (1 charge), *[[évolution mineure]]* (2 charges).</td><td>14 400 po</td></tr><tr CLASS="premier"><td>[[Bâton dentendement|Entendement]]</td><td><sup>A&E</sup></td><td>*[[compréhension des langages]]* (1 charge), *[[détection de pensées]]* (2 charges), *[[don des langues]]* (2 charges).</td><td>14 400 po</td></tr><tr CLASS="premier"><td>[[Bâton daccompagnement|Accompagnement]]</td><td><sup>A&E</sup></td><td>*[[corde déchardes|corde d’échardes]]* (1 charge), *[[final salvateur]]* (1 charge), *[[allegro]]* (2 charges), voir description.</td><td>14 800 po</td></tr><tr CLASS="premier"><td>[[Bâton denvoûtement|Envoûtement]]</td><td><sup>MJ, A&E</sup></td><td>*[[charme-monstre]]* (2 charges), *[[charme-personne]]* (1 charge).</td><td>17 600 po</td></tr><tr CLASS="premier"><td>[[Bâton de feu|Feu]]</td><td><sup>MJ, A&E</sup></td><td>*[[boule de feu]]* (1 charge), *[[mains brûlantes]]* (1 charge), *[[mur de feu]]* (2 charges).</td><td>18 950 po</td></tr><tr CLASS="premier"><td>[[Bâton de dénigrement|Dénigrement]]</td><td><sup>A&E</sup></td><td>*[[rapetissement]]* (1 charge), *[[rapetissement danimal|rapetissement d'animal]]* (2 charges), *[[réduction dobjet|réduction d’objet]]* (2 charges), *[[rapetissement de groupe]]* (4 charges).</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de courage|Courage]]</td><td><sup>A&E</sup></td><td>*[[bénédiction]]* (1 charge), *[[regain dassurance|regain d'assurance]]* (1 charge), *[[prière]]* (2 charges), *[[délivrance de la paralysie]]* (2 charges).</td><td>20 800 po</td></tr><tr CLASS="premier"><td>[[Bâton de festin et de famine|Festin et famine]]</td><td><sup>A&E</sup></td><td>*[[création deau|création d’eau]]* (1 charge), *[[baie nourricière]]* (1 charge), *[[purification de nourriture et deau|purification de nourriture et d’eau]]* (1 charge), *[[coupe de poussière]]* (2 charges), *[[festin de cendres]]* (2 charges).</td><td>20 800 po</td></tr><tr CLASS="premier"><td>[[Bâton de rigueur|Rigueur]]</td><td><sup>MJRA, A&E</sup></td><td>*[[arme alignée]]* (2 charges), *[[arme magique]]* (1 charge), *[[frayeur]]* (1 charge), *[[imprécation]]* (1 charge), *[[injonction]]* (1 charge).</td><td>20 800 po</td></tr><tr CLASS="premier"><td>[[Bâton dacolyte rivain|Acolyte rivain]]</td><td><sup>MCA</sup></td><td>*[[décharge électrique]]* (1 charge), *[[lévitation]]* (2 charges), *[[sort vol|vol]]* (4 charges), voir description.</td><td>21 600 po</td></tr><tr CLASS="premier"><td>[[Bâton du grand essaim|Grand essaim]]</td><td><sup>MJ, A&E</sup></td><td>*[[fléau dinsectes|fléau d’insectes]]* (3 charges), *[[Nuée grouillante]]* (1 charge).</td><td>22 800 po</td></tr><tr CLASS="premier"><td>[[Bâton dautorité|Autorité]]</td><td><sup>A&E</sup></td><td>*[[silence forcé]]* (1 charge), *[[interrogatoire]]* (1 charge), *[[ennui oppressant]]* (2 charges), similaire à un bâton +1/+1.</td><td>23 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de rayonnement|Rayonnement]]</td><td><sup>A&E</sup></td><td>*[[poussière scintillante]]* (1 charge), *[[lumière du jour]]* (2 charges), *[[lumière brûlante]]* (2 charges), émet une *[[lumière]]*  permanente désactivable.</td><td>23 200 po</td></tr><tr CLASS="premier"><td>[[Bâton totémique zenj|Totémique zenj]]</td><td><sup>MCA</sup></td><td>*[[protection contre le Mal]]* (1 charge), *[[convocation dalliés naturels II|convocation d'alliés naturels II]]* (animaux uniquement, 2 charges), *[[vision des auras]]* (3 charges), *[[convocation dalliés naturels IV|convocation d'alliés naturels IV]]* (animaux uniquement, 4 charges), voir description.</td><td>24 800 po</td></tr><tr CLASS="premier"><td>[[Bâton daltération de taille|Altération de taille]]</td><td><sup>MJ, A&E</sup></td><td>*[[agrandissement]]* (1 charge), *[[agrandissement de groupe]]* (1 charge), *[[rapetissement]]* (1 charge), *[[rapetissement de groupe]]* (1 charge), *[[réduction dobjet|réduction d’objet]]* (1 charge).</td><td>26 150 po</td></tr><tr CLASS="premier"><td>[[Bâton des voyages|Voyages]]</td><td><sup>MJRA, A&E</sup></td><td>*[[détection des collets et des fosses]]* (1 charge), *[[grand pas]]* (1 charge), *[[liberté de mouvement]]* (2 charges), *[[passage sans trace]]* (1 charge), *[[endurance aux énergies destructives]]* (1 charge).</td><td>27 200 po</td></tr><tr CLASS="premier"><td>[[Bâton dacide|Acide]]</td><td><sup>A&E</sup></td><td>*[[contact corrosif]]* (1 charge), *[[flèche acide]]* (2 charges), *[[brume acide]]* (3 charges).</td><td>28 600 po</td></tr><tr CLASS="premier"><td>[[Bâton du Chaos|Chaos]]</td><td><sup>A&E</sup></td><td>*[[arme alignée]]* (1 charge, Chaos uniquement), *[[détection de la Loi]]* (1 charge), *[[marteau du Chaos]]* (2 charges), *[[cercle magique contre la Loi]]* (2 charges).</td><td>29 600 po</td></tr><tr CLASS="premier"><td>[[Bâton de guérison|Guérison]]</td><td><sup>MJ, A&E</sup></td><td>*[[guérison de la cécitésurdité|guérison de la cécité/surdité]]* (2 charges), *[[guérison des maladies]]* (3 charges), *[[restauration partielle]]* (1 charge), *[[soins importants]]* (1 charge).</td><td>29 600 po</td></tr><tr CLASS="premier"><td>[[Bâton de la Loi|Loi]]</td><td><sup>A&E</sup></td><td>*[[arme alignée]]* (1 charge, Loi uniquement), *[[détection du Chaos]]* (1 charge), *[[courroux de lordre|courroux de l’ordre]]* (2 charges), *[[cercle magique contre le Chaos]]* (2 charges).</td><td>29 600 po</td></tr><tr CLASS="premier"><td>[[Bâton maudit|Maudit]]</td><td><sup>A&E</sup></td><td>*[[arme alignée]]* (1 charge, Mal uniquement), *[[détection du Bien]]* (1 charge), *[[ténèbres maudites]]* (2 charges), *[[cercle magique contre le Bien]]* (2 charges).</td><td>29 600 po</td></tr><tr CLASS="premier"><td>[[Bâton sacré|Sacré]]</td><td><sup>A&E</sup></td><td>*[[arme alignée]]* (1 charge, Bien uniquement), *[[détection du Mal]]* (1 charge), *[[châtiment sacré]]* (2 charges), *[[cercle magique contre le Mal]]* (2 charges).</td><td>29 600 po</td></tr><tr CLASS="premier"><td>[[Bâton du maître|Maître]]</td><td><sup>A&E</sup></td><td>*[[rayon affaiblissant]]* (1 charge), *[[main spectrale]]* (1 charge), *[[baiser du vampire]]* (2 charges), similaire à un bâton +1/+1, voir description.</td><td>30 000 po</td></tr><tr CLASS="premier"><td>[[Bâton des araignées|Araginées]]</td><td><sup>A&E</sup></td><td>*[[pattes daraignée|pattes d’araignée]]* (1 charge), *[[toile daraignée|toile d’araignée]]* (1 charge), *[[convocation de monstres III]]* (2 charges, invoque 1d3 araignées géantes uniquement), similaire à un bâton +1/+1.</td><td>30 200 po</td></tr><tr CLASS="premier"><td>[[Bâton délectricité|Électricité]]</td><td><sup>A&E</sup></td><td>*[[décharge électrique]]* (1 charge), *[[éclair]]* (2 charges), *[[éclair multiple]]* (3 charges).</td><td>31 900 po</td></tr><tr CLASS="premier"><td>[[Fléau de lhérétique|Hérétique]]</td><td><sup>A&E</sup></td><td>*[[fustiger]]* (1 charge), *[[injonction]]* (1 charge), *[[zone de vérité]]* (1 charge), *[[dénonciation]]* (2 charges).</td><td>32 000 po</td></tr><tr CLASS="premier"><td>[[Bâton musical|Musical]]</td><td><sup>A&E</sup></td><td>*[[son imaginaire]]* (1 charge), *[[hurlement perçant]]* (1 charge), *[[manipulation des sons]]* (2 charges), *[[mur de son]]* (2 charges), voir description.</td><td>32 000 po</td></tr><tr CLASS="premier"><td>[[Bâton des âmes|Âmes]]</td><td><sup>MJRA, A&E</sup></td><td>*[[communication avec les morts]]* (2 charges), *[[détection des morts-vivants]]* (1 charge), *[[perception de la mort]]* (1 charge), *[[préservation des morts]]* (1 charge), *[[protection contre la mort]]* (2 charges).</td><td>32 800 po</td></tr><tr CLASS="premier"><td>[[Bâton de toxines|Toxines]]</td><td><sup>MJRA, A&E</sup></td><td>*[[brume mortelle]]* (2 charges), *[[nuage nauséabond]]* (1 charge).</td><td>34 200 po</td></tr><tr CLASS="premier"><td>[[Bâton des hurlements|Hurlements]]</td><td><sup>MJRA, A&E</sup></td><td>*[[cacophonie]]* (1 charge), *[[cri]]* (2 charges), *[[fracassement]]* (1 charge).</td><td>36 000 po</td></tr><tr CLASS="premier"><td>[[Bâton du justicier|Justicier]]</td><td><sup>A&E</sup></td><td>*[[bénédiction darme|bénédiction d'arme]]* (1 charge, uniquement sur ce bâton), *[[protection dautrui|protection d'autrui]]* (1 charge), *[[détection du mensonge]]* (2 charges), *[[épée sainte]]* (4 charges, uniquement sur ce bâton), voir description.</td><td>37 310 po</td></tr><tr CLASS="premier"><td>[[Bâton des aspects|Aspects]]</td><td><sup>A&E</sup></td><td>*[[aspect de lours|aspect de l'ours]]* (1 charge), *[[aspect du faucon]]* (1 charge), *[[aspect du cerf]]* (2 charges), *[[aspect du loup]]* (3 charges), similaire à un bâton +1/+1.</td><td>37 600 po</td></tr><tr CLASS="premier"><td>[[Bâton de discrétion|Discrétion]]</td><td><sup>MJRA, A&E</sup></td><td>*[[antidétection]]* (1 charge), *[[déguisement]]* (1 charge), *[[invisibilité]]* (1 charge), *[[invisibilité suprême]]* (2 charges).</td><td>39 300 po</td></tr><tr CLASS="premier"><td>[[Bâton de givre|Givre]]</td><td><sup>MJ, A&E</sup></td><td>*[[cône de froid]]* (3 charges), *[[mur de glace]]* (2 charges), *[[tempête de grêle]]* (1 charge).</td><td>41 400 po</td></tr><tr CLASS="premier"><td>[[Bâton de renforcement|Renforcement]]</td><td><sup>MJRA, A&E</sup></td><td>*[[arme magique suprême]]* (1 charge), *[[endurance de lours|endurance de l'ours]]* (1 charge), *[[force de taureau]]* (1 charge), *[[grâce féline]]* (1 charge).</td><td>41 600 po</td></tr><tr CLASS="premier"><td>[[Bâton des malédictions|Malédictions]]</td><td><sup>A&E</sup></td><td>*[[cécitésurdité|cécité/surdité]]* (1 charge), *[[mauvais présage]]* (1 charge), *[[métamorphose funeste]]* (2 charges), *[[sort malédiction|malédiction]]* (2 charges), voir description.</td><td>43 500 po</td></tr><tr CLASS="premier"><td>[[Bâton de flamme noire|Flamme noire]]</td><td><sup>A&E</sup></td><td>*[[simulacre de vie]]* (1 charge), *[[rayon affaiblissant]]* (1 charge), *[[rayon ardent]]* (1 charge), *[[boule de feu]]* (2 charges), *[[animation des morts]]* (3 charges), similaire à un bâton [[feu (propriété)|de feu]] +1.</td><td>47 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de représentation|Représentation]]</td><td><sup>MJRA, A&E</sup></td><td>*[[apaisement des émotions]]* (1 charge), *[[bagou]]* (1 charge), *[[discours captivant]]* (2 charges), *[[image accomplie]]* (2 charges), *[[lueurs hypnotiques]]* (1 charge), *[[manipulation des sons]]* (2 charges), *[[pyrotechnie]]* (1 charge).</td><td>48 800 po</td></tr><tr CLASS="premier"><td>[[Bâton animé|Animé]]</td><td><sup>A&E</sup></td><td>*[[réparation intégrale]]* (1 charge), *[[réparation]]* (1 charge), *[[animation dobjets|animation d'objets]]* (2 charges).</td><td>49 800 po</td></tr><tr CLASS="premier"><td>[[Bâton des révélations|Révélations]]</td><td><sup>MJRA, A&E</sup></td><td>*[[augure]]* (1 charge), *[[communication avec les morts]]* (1 charge), *[[communion]]* (3 charges), *[[divination]]* (2 charges).</td><td>51 008 po</td></tr><tr CLASS="premier"><td>[[Bâton de clarté|Clarté]]</td><td><sup>MJ, A&E</sup></td><td>*[[explosion de lumière]]* (3 charges), *[[illumination]]* (1 charge), *[[lumière du jour]]* (2 charges), *[[lumières dansantes]]* (1 charge).</td><td>51 500 po</td></tr><tr CLASS="premier"><td>[[Bâton des obstacles|Obstacles]]</td><td><sup>MJRA, A&E</sup></td><td>*[[graisse]]* (1 charge), *[[mur de feu]]* (2 charges), *[[mur de glace]]* (2 charges), *[[mur de pierre]]* (3 charges), *[[mur de vent]]* (1 charge), *[[verrou du mage]]* (1 charge).</td><td>52 850 po</td></tr><tr CLASS="premier"><td>[[Bâton de ciel et terre|Ciel et terre]]</td><td><sup>A&E</sup></td><td>*[[bourrasque]]* (1 charge), *[[façonnage de la pierre]]* (1 charge), *[[marche dans les airs]]* (2 charges), *[[contrôle des vents]]* (2 charges), *[[pierres acérées]]* (2 charges).</td><td>54 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de déplacement|Déplacement]]</td><td><sup>A&E</sup></td><td>*[[porte dimensionnelle]]* (1 charge), *[[sort vol|vol]]* (1 charge), *[[téléportation]]* (2 charges), voir description.</td><td>54 400 po</td></tr><tr CLASS="premier"><td>[[Bâton des trésors|Trésors]]</td><td><sup>MJRA, A&E</sup></td><td>*[[aura magique]]* (1 charge), *[[coffre secret]]* (2 charges), *[[identification]]* (1 charge), *[[localisation dobjet|localisation d'objet]]* (1 charge), *[[mythes et légendes]]* (3 charges).</td><td>55 866 po</td></tr><tr CLASS="premier"><td>[[Bâton des ricanements|Ricanements]]</td><td><sup>MJRA, A&E</sup></td><td>*[[baiser du vampire]]* (2 charges), *[[blessure modérée]]* (1 charge), *[[cécitésurdité|cécité/surdité]]* (1 charge), *[[charme-personne]]* (1 charge), *[[immobilisation de personne]]* (1 charge), *[[sort malédiction|malédiction]]* (2 charges), *[[métamorphose funeste]]* (2 charges).</td><td>56 700 po</td></tr><tr CLASS="premier"><td>[[Bâton des pièges|Pièges]]</td><td><sup>MJRA, A&E</sup></td><td>*[[alarme]]* (1 charge), *[[bouche magique]]* (1 charge), *[[piège à feu]]* (2 charges), *[[piège illusoire]]* (1 charge), *[[runes explosives]]* (2 charges), *[[sceau du serpent]]* (2 charges).</td><td>56 925 po</td></tr><tr CLASS="premier"><td>[[Bâton des rayons|Rayons]]</td><td><sup>MJRA, A&E</sup></td><td>*[[désintégration]]* (3 charges), *[[énergie négative]]* (2 charges), *[[rayon affaiblissant]]* (1 charge), *[[rayon ardent]]* (1 charge), *[[rayon dépuisement|rayon d'épuisement]]* (1 charge).</td><td>57 200 po</td></tr><tr CLASS="premier"><td>[[Bâton de rhétorique|Rhétorique]]</td><td><sup>A&E</sup></td><td>*[[suggestion]]* (1 charge), *[[don des langues]]* (1 charge), *[[dénonciation]]* (2 charges), *[[bagou]]* (2 charges), *[[suggestion de groupe]]* (4 charges).</td><td>57 200 po</td></tr><tr CLASS="premier"><td>[[Bâton de puissance en mithral|Puissance en mithral]]</td><td><sup>A&E</sup></td><td>*[[force de taureau]]* (1 charge), *[[agrandissement]]* (1 charge), *[[télékinésie]]* (3 charges), *[[pétrification]]* (4 charges), similaire à un bâton +2/+2, voir description.</td><td>58 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de défense|Défense]]</td><td><sup>MJ, A&E</sup></td><td>*[[bouclier]]* (1 charge), *[[bouclier de la foi]]* (1 charge), *[[bouclier de la Loi]]* (3 charges), *[[protection dautrui|protection d’autrui]]* (1 charge).</td><td>62 000 po</td></tr><tr CLASS="premier"><td>[[Bâton des plans|Plans]]</td><td><sup>A&E</sup></td><td>*[[adaptation planaire]]* (1 charge), *[[contrat intermédiaire]]* (2 charges), *[[changement de plan]]* (5 charges), voir description.</td><td>63 960 po</td></tr><tr CLASS="premier"><td>[[Bâton des ombres affamées|Ombres affamées]]</td><td><sup>A&E</sup></td><td>*[[ténèbres]]* (1 charge), *[[rayon affaiblissant]]* (1 charge), *[[baiser du vampire]]* (1 charge), *[[énergie négative]]* (2 charges), *[[convocation de monstres V]]* (2 charges, invoque 1 [[ombre]] uniquement), *[[contrat intermédiaire]]* (3 charges, appel 1 [[dévoreur]] uniquement).</td><td>69 300 po</td></tr><tr CLASS="premier"><td>[[Bâton du dragon|Dragon]]</td><td><sup>A&E</sup></td><td>*[[sort vol|vol]]* (1 charge), *[[protection contre les énergies destructives]]* (1 charge), *[[souffle de dragon]]* (2 charges), *[[forme draconique II]]* (4 charges), voir description.</td><td>81 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de sommeil|Sommeil]]</td><td><sup>MJRA, A&E</sup></td><td>*[[cauchemar]]* (2 charges), *[[rayon dépuisement|rayon d'épuisement]]* (1 charge), *[[sommeil profond]]* (1 charge), *[[songe]]* (2 charges), *[[symbole de sommeil]]* (3 charges), *[[vagues de fatigue]]* (2 charges).</td><td>81 766 po</td></tr><tr CLASS="premier"><td>[[Bâton dabjuration|Abjuration]]</td><td><sup>MJ, A&E</sup></td><td>*[[bouclier]]* (1 charge), *[[champ de force]]* (3 charges), *[[dissipation de la magie]]* (1 charge), *[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]* (2 charges), *[[renvoi]]* (2 charges), *[[résistance aux énergies destructives]]* (1 charge).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton dinvocation|Invocation]]</td><td><sup>MJ, A&E</sup></td><td>*[[brume mortelle]]* (2 charges), *[[convocation de monstres VI]]* (3 charges), *[[création mineure]]* (2 charges), *[[nuage nauséabond]]* (1 charge), *[[nuée grouillante]]* (1 charge), *[[serviteur invisible]]* (1 charge).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de divination|Divination]]</td><td><sup>MJ, A&E</sup></td><td>*[[détection des passages secrets]]* (1 charge), *[[don des langues]]* (1 charge), *[[localisation dobjet|localisation d’objet]]* (1 charge), *[[localisation de créature]]* (2 charges), *[[œil indiscret]]* (2 charges), *[[vision lucide]]* (2 charges).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton denchantement|Enchantement]]</td><td><sup>MJ, A&E</sup></td><td>*[[brume mentale]]* (2 charges), *[[désespoir foudroyant]]* (2 charges), *[[fou rire]]* (1 charge), *[[sommeil]]* (1 charge), *[[suggestion]]* (1 charge), *[[suggestion de groupe]]* (3 charges).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton dévocation|Évocation]]</td><td><sup>MJ, A&E</sup></td><td>*[[boule de feu]]* (1 charge), *[[éclair multiple]]* (3 charges), *[[fracassement]]* (1 charge), *[[mur de force]]* (2 charges), *[[projectile magique]]* (1 charge), *[[tempête de grêle]]* (2 charges).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton dillusion|Illusion]]</td><td><sup>MJ, A&E</sup></td><td>*[[déguisement]]* (1 charge), *[[double illusoire]]* (3 charges), *[[image accomplie]]* (1 charge), *[[image miroir]]* (1 charge), *[[image prédéterminée]]* (2 charges), *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* (2 charges).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de nécromancie|Nécromancie]]</td><td><sup>MJ, A&E</sup></td><td>*[[frayeur]]* (1 charge), *[[baiser de la goule]]* (1 charge), *[[immobilisation de morts-vivants]]* (1 charge), *[[énergie négative]]* (2 charges), *[[vagues de fatigue]]* (2 charges), *[[cercle de mort]]* (3 charges).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de transmutation|Transmutation]]</td><td><sup>MJ, A&E</sup></td><td>*[[clignotement]]* (1 charge), *[[désintégration]]* (3 charges), *[[métamorphose]]* (2 charges), *[[métamorphose funeste]]* (2 charges), *[[modification dapparence|modification d’apparence]]* (1 charge), *[[repli expéditif]]* (1 charge).</td><td>82 000 po</td></tr><tr CLASS="premier"><td>[[Bâton météo|Météo]]</td><td><sup>MJRA, A&E</sup></td><td>*[[bourrasque]]* (1 charge), *[[contrôle du climat]]* (3 charges), *[[mur de vent]]* (1 charge), *[[nappe de brouillard]]* (1 charge), *[[tempête de grêle]]* (2 charges), *[[tempête de neige]]* (2 charges).</td><td>84 066 po</td></tr><tr CLASS="premier"><td>[[Bâton de pierre et terre|Pierre et terre]]</td><td><sup>MJ, A&E</sup></td><td>*[[glissement de terrain]]* (1 charge), *[[passe-muraille]]* (1 charge).</td><td>85 800 po</td></tr><tr CLASS="premier"><td>[[Bâton de vision|Vision]]</td><td><sup>MJRA, A&E</sup></td><td>*[[détection de linvisibilité|détection de l'invisibilité]]* (1 charge), *[[œil du mage]]* (1 charge), *[[œil indiscret]]* (2 charges), *[[scrutation]]* (2 charges), *[[vision lucide]]* (3 charges), *[[vision magique]]* (1 charge).</td><td>86666 po</td></tr><tr CLASS="premier"><td>[[Bâton de la forêt profonde|Forêt profonde]]</td><td><sup>MJ, A&E</sup></td><td>*[[animation des plantes]]* (4 charges), *[[charme-animal]]* (1 charge), *[[communication avec les animaux]]* (1 charge), *[[convocation dalliés naturels VI|convocation d’alliés naturels VI]]* (3 charges), *[[mur dépines|mur d’épines]]* (3 charges), *[[peau décorce|peau d’écorce]]* (2 charges), voir description.</td><td>100 400 po</td></tr><tr CLASS="premier"><td>[[Bâton de vie|Vie]]</td><td><sup>MJ, A&E</sup></td><td>*[[guérison suprême]]* (1 charge), *[[rappel à la vie]]* (5 charges).</td><td>109 400 po</td></tr><tr CLASS="premier"><td>[[Bâton aux cent mains|Cent mains]]</td><td><sup>A&E</sup></td><td>*[[main impérieuse]]* (1 charge), *[[main interposée]]* (1 charge), *[[poing serré]]* (2 charges), *[[Poigne agrippeuse]]* (2 charges), *[[main broyeuse]]* (3 charges), *[[manipulation à distance]]* (à volonté).</td><td>109 400 po</td></tr><tr CLASS="premier"><td>[[Bâton vril|Vril]]</td><td><sup>AO</sup></td><td>*[[manipulation à distance]]* (1 charge), *[[soins légers]]* (1 charge), *[[soins modérés]]* (2 charges), *[[télékinésie]]* (2 charges), *[[champ de force]]* (3 charges), voir description</td><td>200 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de transport|Transport]]</td><td><sup>MJ, A&E</sup></td><td>*[[passe-muraille]]* (1 charge), *[[porte de phase]]* (2 charges), *[[porte dimensionnelle]]* (1 charge), *[[projection astrale]]* (2 charges), *[[téléportation suprême]]* (2 charges).</td><td>206 900 po</td></tr><tr CLASS="premier"><td>[[Bâton du hiérophante|Hiérophante]]</td><td><sup>A&E</sup></td><td>*[[bénédiction]]* (1 charge), *[[soins modérés]]* (1 charge), *[[liberté de mouvement]]* (1 charge), *[[immobilisation de personne]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge), *[[prière]]* (1 charge), *[[lumière brûlante]]* (1 charge), *[[soins importants]]* (2 charges), *[[colonne de feu]]* (2 charges), *[[force du colosse]]* (2 charges), *[[vision lucide]]* (2 charges), similaire à un bâton +2/+2, voir description.</td><td>220 000 po</td></tr><tr CLASS="premier"><td>[[Bâton de surpuissance|Surpuissance]]</td><td><sup>MJ, A&E</sup></td><td>*[[boule de feu]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge), *[[cône de froid]]* (2 charges), *[[éclair]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge), *[[flamme éternelle]]* (1 charge), *[[globe dinvulnérabilité renforcée|globe d’invulnérabilité renforcée]]* (2 charges), *[[immobilisation de monstre]]* (2 charges), *[[lévitation]]* (1 charge), *[[mur de force]]* (limité, 2 charges), *[[projectile magique]]* (1 charge), *[[rayon affaiblissant]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge), voir description.</td><td>235 000 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des bâtons magiques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="24%">Bâton</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="62%">Capacités</td>
+    <td WIDTH="11%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de soulagement béni|Soulagement béni]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[création deau|création d'eau]]* (1 charge), *[[stabilisation]]* (1 charge), *[[bénédiction]]* (2 charges).
+    </td>
+    <td>7 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des arcanes mineures|Arcanes mineures]]</td>
+    <td><sup>A&E</sup></td>
+    <td>*[[bouclier]]* (1 charge), *[[projectile magique]]* (2 charges).</td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dastuces|Astuces]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[son imaginaire]]* (1 charge), *[[manipulation à distance]]* (1 charge), *[[prestidigitation]]* (1 charge),
+      *[[image silencieuse]]* (2 charges).
+    </td>
+    <td>8 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de léclaireur|Éclaireur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[repérage]]* (1 charge), *[[passage sans trace]]* (1 charge), *[[convocation dalliés naturels I|convocation
+      d’alliés naturels I]]* (2 charges).
+    </td>
+    <td>9 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de monstruosification|Monstruosification]]</td>
+    <td><sup>MCA</sup></td>
+    <td>*[[agrandissement]]* (1 charge), *[[physique monstrueux I]]* (3 charges), voir description.</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bêche du fossoyeur|Fossoyeur]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      *[[excavation expéditive]]* (1 charge), *[[création de fosse]]* (2 charges), *[[fosse hérissée de pieux]]* (5
+      charges), similaire à une [[Équipement daventurier#Pelle|pelle de maître]].
+    </td>
+    <td>12 150 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton détincelles|Étincelles]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      *[[décharge électrique]]* (1 charge), *[[décharge électrique]]* [[Sort intense|intensifiée]] (2 charges),
+      *[[éclair]]* (5 charges), voir description.
+    </td>
+    <td>12 650 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de braises|Braises]]</td>
+    <td><sup>MCA</sup></td>
+    <td>*[[flammes]]* (1 charge), *[[rayon ardent]]* (2 charges), *[[boule de feu]]* (4 charges), voir description.</td>
+    <td>13 100 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des eidolons|Eidolons]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[régénération deidolon mineure|régénération d’eidolon mineure]]* (1 charge), *[[libération]]* (1 charge),
+      *[[évolution mineure]]* (2 charges).
+    </td>
+    <td>14 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dentendement|Entendement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[compréhension des langages]]* (1 charge), *[[détection de pensées]]* (2 charges), *[[don des langues]]* (2
+      charges).
+    </td>
+    <td>14 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton daccompagnement|Accompagnement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[corde déchardes|corde d’échardes]]* (1 charge), *[[final salvateur]]* (1 charge), *[[allegro]]* (2
+      charges), voir description.
+    </td>
+    <td>14 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton denvoûtement|Envoûtement]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>*[[charme-monstre]]* (2 charges), *[[charme-personne]]* (1 charge).</td>
+    <td>17 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de feu|Feu]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>*[[boule de feu]]* (1 charge), *[[mains brûlantes]]* (1 charge), *[[mur de feu]]* (2 charges).</td>
+    <td>18 950 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de dénigrement|Dénigrement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[rapetissement]]* (1 charge), *[[rapetissement danimal|rapetissement d'animal]]* (2 charges), *[[réduction
+      dobjet|réduction d’objet]]* (2 charges), *[[rapetissement de groupe]]* (4 charges).
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de courage|Courage]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[bénédiction]]* (1 charge), *[[regain dassurance|regain d'assurance]]* (1 charge), *[[prière]]* (2 charges),
+      *[[délivrance de la paralysie]]* (2 charges).
+    </td>
+    <td>20 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de festin et de famine|Festin et famine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[création deau|création d’eau]]* (1 charge), *[[baie nourricière]]* (1 charge), *[[purification de
+      nourriture et deau|purification de nourriture et d’eau]]* (1 charge), *[[coupe de poussière]]* (2 charges),
+      *[[festin de cendres]]* (2 charges).
+    </td>
+    <td>20 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de rigueur|Rigueur]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[arme alignée]]* (2 charges), *[[arme magique]]* (1 charge), *[[frayeur]]* (1 charge), *[[imprécation]]* (1
+      charge), *[[injonction]]* (1 charge).
+    </td>
+    <td>20 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dacolyte rivain|Acolyte rivain]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      *[[décharge électrique]]* (1 charge), *[[lévitation]]* (2 charges), *[[sort vol|vol]]* (4 charges), voir
+      description.
+    </td>
+    <td>21 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du grand essaim|Grand essaim]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>*[[fléau dinsectes|fléau d’insectes]]* (3 charges), *[[Nuée grouillante]]* (1 charge).</td>
+    <td>22 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dautorité|Autorité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[silence forcé]]* (1 charge), *[[interrogatoire]]* (1 charge), *[[ennui oppressant]]* (2 charges), similaire
+      à un bâton +1/+1.
+    </td>
+    <td>23 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de rayonnement|Rayonnement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[poussière scintillante]]* (1 charge), *[[lumière du jour]]* (2 charges), *[[lumière brûlante]]* (2
+      charges), émet une *[[lumière]]*  permanente désactivable.
+    </td>
+    <td>23 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton totémique zenj|Totémique zenj]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      *[[protection contre le Mal]]* (1 charge), *[[convocation dalliés naturels II|convocation d'alliés naturels
+      II]]* (animaux uniquement, 2 charges), *[[vision des auras]]* (3 charges), *[[convocation dalliés naturels
+      IV|convocation d'alliés naturels IV]]* (animaux uniquement, 4 charges), voir description.
+    </td>
+    <td>24 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton daltération de taille|Altération de taille]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[agrandissement]]* (1 charge), *[[agrandissement de groupe]]* (1 charge), *[[rapetissement]]* (1 charge),
+      *[[rapetissement de groupe]]* (1 charge), *[[réduction dobjet|réduction d’objet]]* (1 charge).
+    </td>
+    <td>26 150 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des voyages|Voyages]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[détection des collets et des fosses]]* (1 charge), *[[grand pas]]* (1 charge), *[[liberté de mouvement]]*
+      (2 charges), *[[passage sans trace]]* (1 charge), *[[endurance aux énergies destructives]]* (1 charge).
+    </td>
+    <td>27 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dacide|Acide]]</td>
+    <td><sup>A&E</sup></td>
+    <td>*[[contact corrosif]]* (1 charge), *[[flèche acide]]* (2 charges), *[[brume acide]]* (3 charges).</td>
+    <td>28 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du Chaos|Chaos]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[arme alignée]]* (1 charge, Chaos uniquement), *[[détection de la Loi]]* (1 charge), *[[marteau du Chaos]]*
+      (2 charges), *[[cercle magique contre la Loi]]* (2 charges).
+    </td>
+    <td>29 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de guérison|Guérison]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]* (2 charges), *[[guérison des maladies]]* (3
+      charges), *[[restauration partielle]]* (1 charge), *[[soins importants]]* (1 charge).
+    </td>
+    <td>29 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de la Loi|Loi]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[arme alignée]]* (1 charge, Loi uniquement), *[[détection du Chaos]]* (1 charge), *[[courroux de
+      lordre|courroux de l’ordre]]* (2 charges), *[[cercle magique contre le Chaos]]* (2 charges).
+    </td>
+    <td>29 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton maudit|Maudit]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[arme alignée]]* (1 charge, Mal uniquement), *[[détection du Bien]]* (1 charge), *[[ténèbres maudites]]* (2
+      charges), *[[cercle magique contre le Bien]]* (2 charges).
+    </td>
+    <td>29 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton sacré|Sacré]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[arme alignée]]* (1 charge, Bien uniquement), *[[détection du Mal]]* (1 charge), *[[châtiment sacré]]* (2
+      charges), *[[cercle magique contre le Mal]]* (2 charges).
+    </td>
+    <td>29 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du maître|Maître]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[rayon affaiblissant]]* (1 charge), *[[main spectrale]]* (1 charge), *[[baiser du vampire]]* (2 charges),
+      similaire à un bâton +1/+1, voir description.
+    </td>
+    <td>30 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des araignées|Araginées]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[pattes daraignée|pattes d’araignée]]* (1 charge), *[[toile daraignée|toile d’araignée]]* (1 charge),
+      *[[convocation de monstres III]]* (2 charges, invoque 1d3 araignées géantes uniquement), similaire à un bâton
+      +1/+1.
+    </td>
+    <td>30 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton délectricité|Électricité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>*[[décharge électrique]]* (1 charge), *[[éclair]]* (2 charges), *[[éclair multiple]]* (3 charges).</td>
+    <td>31 900 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléau de lhérétique|Hérétique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[fustiger]]* (1 charge), *[[injonction]]* (1 charge), *[[zone de vérité]]* (1 charge), *[[dénonciation]]* (2
+      charges).
+    </td>
+    <td>32 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton musical|Musical]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[son imaginaire]]* (1 charge), *[[hurlement perçant]]* (1 charge), *[[manipulation des sons]]* (2 charges),
+      *[[mur de son]]* (2 charges), voir description.
+    </td>
+    <td>32 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des âmes|Âmes]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[communication avec les morts]]* (2 charges), *[[détection des morts-vivants]]* (1 charge), *[[perception de
+      la mort]]* (1 charge), *[[préservation des morts]]* (1 charge), *[[protection contre la mort]]* (2 charges).
+    </td>
+    <td>32 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de toxines|Toxines]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>*[[brume mortelle]]* (2 charges), *[[nuage nauséabond]]* (1 charge).</td>
+    <td>34 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des hurlements|Hurlements]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>*[[cacophonie]]* (1 charge), *[[cri]]* (2 charges), *[[fracassement]]* (1 charge).</td>
+    <td>36 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du justicier|Justicier]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[bénédiction darme|bénédiction d'arme]]* (1 charge, uniquement sur ce bâton), *[[protection
+      dautrui|protection d'autrui]]* (1 charge), *[[détection du mensonge]]* (2 charges), *[[épée sainte]]* (4
+      charges, uniquement sur ce bâton), voir description.
+    </td>
+    <td>37 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des aspects|Aspects]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[aspect de lours|aspect de l'ours]]* (1 charge), *[[aspect du faucon]]* (1 charge), *[[aspect du cerf]]* (2
+      charges), *[[aspect du loup]]* (3 charges), similaire à un bâton +1/+1.
+    </td>
+    <td>37 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de discrétion|Discrétion]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[antidétection]]* (1 charge), *[[déguisement]]* (1 charge), *[[invisibilité]]* (1 charge), *[[invisibilité
+      suprême]]* (2 charges).
+    </td>
+    <td>39 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de givre|Givre]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>*[[cône de froid]]* (3 charges), *[[mur de glace]]* (2 charges), *[[tempête de grêle]]* (1 charge).</td>
+    <td>41 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de renforcement|Renforcement]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[arme magique suprême]]* (1 charge), *[[endurance de lours|endurance de l'ours]]* (1 charge), *[[force de
+      taureau]]* (1 charge), *[[grâce féline]]* (1 charge).
+    </td>
+    <td>41 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des malédictions|Malédictions]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[cécitésurdité|cécité/surdité]]* (1 charge), *[[mauvais présage]]* (1 charge), *[[métamorphose funeste]]* (2
+      charges), *[[sort malédiction|malédiction]]* (2 charges), voir description.
+    </td>
+    <td>43 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de flamme noire|Flamme noire]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[simulacre de vie]]* (1 charge), *[[rayon affaiblissant]]* (1 charge), *[[rayon ardent]]* (1 charge),
+      *[[boule de feu]]* (2 charges), *[[animation des morts]]* (3 charges), similaire à un bâton [[feu
+      (propriété)|de feu]] +1.
+    </td>
+    <td>47 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de représentation|Représentation]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[apaisement des émotions]]* (1 charge), *[[bagou]]* (1 charge), *[[discours captivant]]* (2 charges),
+      *[[image accomplie]]* (2 charges), *[[lueurs hypnotiques]]* (1 charge), *[[manipulation des sons]]* (2
+      charges), *[[pyrotechnie]]* (1 charge).
+    </td>
+    <td>48 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton animé|Animé]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[réparation intégrale]]* (1 charge), *[[réparation]]* (1 charge), *[[animation dobjets|animation d'objets]]*
+      (2 charges).
+    </td>
+    <td>49 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des révélations|Révélations]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[augure]]* (1 charge), *[[communication avec les morts]]* (1 charge), *[[communion]]* (3 charges),
+      *[[divination]]* (2 charges).
+    </td>
+    <td>51 008 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de clarté|Clarté]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[explosion de lumière]]* (3 charges), *[[illumination]]* (1 charge), *[[lumière du jour]]* (2 charges),
+      *[[lumières dansantes]]* (1 charge).
+    </td>
+    <td>51 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des obstacles|Obstacles]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[graisse]]* (1 charge), *[[mur de feu]]* (2 charges), *[[mur de glace]]* (2 charges), *[[mur de pierre]]* (3
+      charges), *[[mur de vent]]* (1 charge), *[[verrou du mage]]* (1 charge).
+    </td>
+    <td>52 850 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de ciel et terre|Ciel et terre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[bourrasque]]* (1 charge), *[[façonnage de la pierre]]* (1 charge), *[[marche dans les airs]]* (2 charges),
+      *[[contrôle des vents]]* (2 charges), *[[pierres acérées]]* (2 charges).
+    </td>
+    <td>54 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de déplacement|Déplacement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[porte dimensionnelle]]* (1 charge), *[[sort vol|vol]]* (1 charge), *[[téléportation]]* (2 charges), voir
+      description.
+    </td>
+    <td>54 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des trésors|Trésors]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[aura magique]]* (1 charge), *[[coffre secret]]* (2 charges), *[[identification]]* (1 charge),
+      *[[localisation dobjet|localisation d'objet]]* (1 charge), *[[mythes et légendes]]* (3 charges).
+    </td>
+    <td>55 866 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des ricanements|Ricanements]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[baiser du vampire]]* (2 charges), *[[blessure modérée]]* (1 charge), *[[cécitésurdité|cécité/surdité]]* (1
+      charge), *[[charme-personne]]* (1 charge), *[[immobilisation de personne]]* (1 charge), *[[sort
+      malédiction|malédiction]]* (2 charges), *[[métamorphose funeste]]* (2 charges).
+    </td>
+    <td>56 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des pièges|Pièges]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[alarme]]* (1 charge), *[[bouche magique]]* (1 charge), *[[piège à feu]]* (2 charges), *[[piège illusoire]]*
+      (1 charge), *[[runes explosives]]* (2 charges), *[[sceau du serpent]]* (2 charges).
+    </td>
+    <td>56 925 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des rayons|Rayons]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[désintégration]]* (3 charges), *[[énergie négative]]* (2 charges), *[[rayon affaiblissant]]* (1 charge),
+      *[[rayon ardent]]* (1 charge), *[[rayon dépuisement|rayon d'épuisement]]* (1 charge).
+    </td>
+    <td>57 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de rhétorique|Rhétorique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[suggestion]]* (1 charge), *[[don des langues]]* (1 charge), *[[dénonciation]]* (2 charges), *[[bagou]]* (2
+      charges), *[[suggestion de groupe]]* (4 charges).
+    </td>
+    <td>57 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de puissance en mithral|Puissance en mithral]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[force de taureau]]* (1 charge), *[[agrandissement]]* (1 charge), *[[télékinésie]]* (3 charges),
+      *[[pétrification]]* (4 charges), similaire à un bâton +2/+2, voir description.
+    </td>
+    <td>58 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de défense|Défense]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[bouclier]]* (1 charge), *[[bouclier de la foi]]* (1 charge), *[[bouclier de la Loi]]* (3 charges),
+      *[[protection dautrui|protection d’autrui]]* (1 charge).
+    </td>
+    <td>62 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des plans|Plans]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[adaptation planaire]]* (1 charge), *[[contrat intermédiaire]]* (2 charges), *[[changement de plan]]* (5
+      charges), voir description.
+    </td>
+    <td>63 960 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des ombres affamées|Ombres affamées]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[ténèbres]]* (1 charge), *[[rayon affaiblissant]]* (1 charge), *[[baiser du vampire]]* (1 charge),
+      *[[énergie négative]]* (2 charges), *[[convocation de monstres V]]* (2 charges, invoque 1 [[ombre]]
+      uniquement), *[[contrat intermédiaire]]* (3 charges, appel 1 [[dévoreur]] uniquement).
+    </td>
+    <td>69 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du dragon|Dragon]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[sort vol|vol]]* (1 charge), *[[protection contre les énergies destructives]]* (1 charge), *[[souffle de
+      dragon]]* (2 charges), *[[forme draconique II]]* (4 charges), voir description.
+    </td>
+    <td>81 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de sommeil|Sommeil]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[cauchemar]]* (2 charges), *[[rayon dépuisement|rayon d'épuisement]]* (1 charge), *[[sommeil profond]]* (1
+      charge), *[[songe]]* (2 charges), *[[symbole de sommeil]]* (3 charges), *[[vagues de fatigue]]* (2 charges).
+    </td>
+    <td>81 766 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dabjuration|Abjuration]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[bouclier]]* (1 charge), *[[champ de force]]* (3 charges), *[[dissipation de la magie]]* (1 charge),
+      *[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]* (2 charges), *[[renvoi]]* (2
+      charges), *[[résistance aux énergies destructives]]* (1 charge).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dinvocation|Invocation]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[brume mortelle]]* (2 charges), *[[convocation de monstres VI]]* (3 charges), *[[création mineure]]* (2
+      charges), *[[nuage nauséabond]]* (1 charge), *[[nuée grouillante]]* (1 charge), *[[serviteur invisible]]* (1
+      charge).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de divination|Divination]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[détection des passages secrets]]* (1 charge), *[[don des langues]]* (1 charge), *[[localisation
+      dobjet|localisation d’objet]]* (1 charge), *[[localisation de créature]]* (2 charges), *[[œil indiscret]]* (2
+      charges), *[[vision lucide]]* (2 charges).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton denchantement|Enchantement]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[brume mentale]]* (2 charges), *[[désespoir foudroyant]]* (2 charges), *[[fou rire]]* (1 charge),
+      *[[sommeil]]* (1 charge), *[[suggestion]]* (1 charge), *[[suggestion de groupe]]* (3 charges).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dévocation|Évocation]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[boule de feu]]* (1 charge), *[[éclair multiple]]* (3 charges), *[[fracassement]]* (1 charge), *[[mur de
+      force]]* (2 charges), *[[projectile magique]]* (1 charge), *[[tempête de grêle]]* (2 charges).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton dillusion|Illusion]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[déguisement]]* (1 charge), *[[double illusoire]]* (3 charges), *[[image accomplie]]* (1 charge), *[[image
+      miroir]]* (1 charge), *[[image prédéterminée]]* (2 charges), *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]* (2
+      charges).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de nécromancie|Nécromancie]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[frayeur]]* (1 charge), *[[baiser de la goule]]* (1 charge), *[[immobilisation de morts-vivants]]* (1
+      charge), *[[énergie négative]]* (2 charges), *[[vagues de fatigue]]* (2 charges), *[[cercle de mort]]* (3
+      charges).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de transmutation|Transmutation]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[clignotement]]* (1 charge), *[[désintégration]]* (3 charges), *[[métamorphose]]* (2 charges),
+      *[[métamorphose funeste]]* (2 charges), *[[modification dapparence|modification d’apparence]]* (1 charge),
+      *[[repli expéditif]]* (1 charge).
+    </td>
+    <td>82 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton météo|Météo]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[bourrasque]]* (1 charge), *[[contrôle du climat]]* (3 charges), *[[mur de vent]]* (1 charge), *[[nappe de
+      brouillard]]* (1 charge), *[[tempête de grêle]]* (2 charges), *[[tempête de neige]]* (2 charges).
+    </td>
+    <td>84 066 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de pierre et terre|Pierre et terre]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>*[[glissement de terrain]]* (1 charge), *[[passe-muraille]]* (1 charge).</td>
+    <td>85 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de vision|Vision]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      *[[détection de linvisibilité|détection de l'invisibilité]]* (1 charge), *[[œil du mage]]* (1 charge), *[[œil
+      indiscret]]* (2 charges), *[[scrutation]]* (2 charges), *[[vision lucide]]* (3 charges), *[[vision magique]]*
+      (1 charge).
+    </td>
+    <td>86666 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de la forêt profonde|Forêt profonde]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[animation des plantes]]* (4 charges), *[[charme-animal]]* (1 charge), *[[communication avec les animaux]]*
+      (1 charge), *[[convocation dalliés naturels VI|convocation d’alliés naturels VI]]* (3 charges), *[[mur
+      dépines|mur d’épines]]* (3 charges), *[[peau décorce|peau d’écorce]]* (2 charges), voir description.
+    </td>
+    <td>100 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de vie|Vie]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>*[[guérison suprême]]* (1 charge), *[[rappel à la vie]]* (5 charges).</td>
+    <td>109 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton aux cent mains|Cent mains]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[main impérieuse]]* (1 charge), *[[main interposée]]* (1 charge), *[[poing serré]]* (2 charges), *[[Poigne
+      agrippeuse]]* (2 charges), *[[main broyeuse]]* (3 charges), *[[manipulation à distance]]* (à volonté).
+    </td>
+    <td>109 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton vril|Vril]]</td>
+    <td><sup>AO</sup></td>
+    <td>
+      *[[manipulation à distance]]* (1 charge), *[[soins légers]]* (1 charge), *[[soins modérés]]* (2 charges),
+      *[[télékinésie]]* (2 charges), *[[champ de force]]* (3 charges), voir description
+    </td>
+    <td>200 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de transport|Transport]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[passe-muraille]]* (1 charge), *[[porte de phase]]* (2 charges), *[[porte dimensionnelle]]* (1 charge),
+      *[[projection astrale]]* (2 charges), *[[téléportation suprême]]* (2 charges).
+    </td>
+    <td>206 900 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du hiérophante|Hiérophante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      *[[bénédiction]]* (1 charge), *[[soins modérés]]* (1 charge), *[[liberté de mouvement]]* (1 charge),
+      *[[immobilisation de personne]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge),
+      *[[prière]]* (1 charge), *[[lumière brûlante]]* (1 charge), *[[soins importants]]* (2 charges), *[[colonne de
+      feu]]* (2 charges), *[[force du colosse]]* (2 charges), *[[vision lucide]]* (2 charges), similaire à un bâton
+      +2/+2, voir description.
+    </td>
+    <td>220 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de surpuissance|Surpuissance]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      *[[boule de feu]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge), *[[cône de froid]]*
+      (2 charges), *[[éclair]]* ([[augmentation dintensité|intensité augmentée]] 5e niveau, 1 charge), *[[flamme
+      éternelle]]* (1 charge), *[[globe dinvulnérabilité renforcée|globe d’invulnérabilité renforcée]]* (2 charges),
+      *[[immobilisation de monstre]]* (2 charges), *[[lévitation]]* (1 charge), *[[mur de force]]* (limité, 2
+      charges), *[[projectile magique]]* (1 charge), *[[rayon affaiblissant]]* ([[augmentation dintensité|intensité
+      augmentée]] 5e niveau, 1 charge), voir description.
+    </td>
+    <td>235 000 po</td>
+  </tr>
+</table>
 
 </center>

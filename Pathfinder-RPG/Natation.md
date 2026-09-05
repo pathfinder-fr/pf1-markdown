@@ -24,8 +24,20 @@ Une fois qu’un personnage se trouve sous l’eau, soit parce qu’il a coulé,
 
 <center>
 
-<table CLASS="tablo"><caption>tests de natation</caption><tr CLASS="titre"><td>Courant</td><td>DD du test de Natation</td></tr><tr CLASS="premier"><td>Eaux calmes</td><td>10</td></tr><tr CLASS="alt"><td>Eaux agitées</td><td>15</td></tr><tr><td>Eaux très agitées (par tempête par exemple)</td><td>20*</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Il est impossible de faire 10 sur un test de Natation dans des eaux très   
-agitées, même en l’absence de distractions et de menaces.*</td></tr></table>
+<table CLASS="tablo">
+  <caption>tests de natation</caption>
+  <tr CLASS="titre"><td>Courant</td><td>DD du test de Natation</td></tr>
+  <tr CLASS="premier"><td>Eaux calmes</td><td>10</td></tr>
+  <tr CLASS="alt"><td>Eaux agitées</td><td>15</td></tr>
+  <tr><td>Eaux très agitées (par tempête par exemple)</td><td>20*</td></tr>
+  <tr>
+    <td COLSPAN="2" CLASS="note">
+      *(*) Il est impossible de faire 10 sur un test de Natation dans des eaux très   
+agitées, même en l’absence
+      de distractions et de menaces.*
+    </td>
+  </tr>
+</table>
 
 </center>
 

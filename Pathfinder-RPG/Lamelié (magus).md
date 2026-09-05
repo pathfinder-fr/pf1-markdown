@@ -42,7 +42,61 @@ Certaines lames noires sont très ouvertes au sujet de leur mission mais d’aut
 
 <center>
 
-<table CLASS="tablo"><caption>La progression des lames noires</caption><tr CLASS="titre"><td>Niveau du magus</td><td>Bonus d'altération</td><td>Int</td><td>Sag/Cha</td><td>Ego</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>3-4</td><td>+1</td><td>11</td><td>7</td><td>5</td><td CLASS="gauche">frappe de lame noire, incassable, télépathie, vigilance</td></tr><tr CLASS="alt"><td>5-6</td><td>+2</td><td>12</td><td>8</td><td>8</td><td CLASS="gauche">harmonisation d’énergie</td></tr><tr><td>7-8</td><td>+2</td><td>13</td><td>9</td><td>10</td><td CLASS="gauche">–</td></tr><tr CLASS="alt"><td>9-10</td><td>+3</td><td>14</td><td>10</td><td>12</td><td CLASS="gauche">téléportation de lame</td></tr><tr><td>11-12</td><td>+3</td><td>15</td><td>11</td><td>14</td><td CLASS="gauche">–</td></tr><tr CLASS="alt"><td>13-14</td><td>+4</td><td>16</td><td>12</td><td>16</td><td CLASS="gauche">transfert d’arcane</td></tr><tr><td>15-16</td><td>+4</td><td>17</td><td>13</td><td>18</td><td CLASS="gauche">–</td></tr><tr CLASS="alt"><td>17-18</td><td>+5</td><td>18</td><td>14</td><td>22</td><td CLASS="gauche">défense magique</td></tr><tr><td>19-20</td><td>+5</td><td>19</td><td>15</td><td>24</td><td CLASS="gauche">buveuse de vie</td></tr></table>
+<table CLASS="tablo">
+  <caption>La progression des lames noires</caption>
+  <tr CLASS="titre">
+    <td>Niveau du magus</td>
+    <td>Bonus d'altération</td>
+    <td>Int</td>
+    <td>Sag/Cha</td>
+    <td>Ego</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>3-4</td>
+    <td>+1</td>
+    <td>11</td>
+    <td>7</td>
+    <td>5</td>
+    <td CLASS="gauche">frappe de lame noire, incassable, télépathie, vigilance</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>5-6</td>
+    <td>+2</td>
+    <td>12</td>
+    <td>8</td>
+    <td>8</td>
+    <td CLASS="gauche">harmonisation d’énergie</td>
+  </tr>
+  <tr><td>7-8</td><td>+2</td><td>13</td><td>9</td><td>10</td><td CLASS="gauche">–</td></tr>
+  <tr CLASS="alt">
+    <td>9-10</td>
+    <td>+3</td>
+    <td>14</td>
+    <td>10</td>
+    <td>12</td>
+    <td CLASS="gauche">téléportation de lame</td>
+  </tr>
+  <tr><td>11-12</td><td>+3</td><td>15</td><td>11</td><td>14</td><td CLASS="gauche">–</td></tr>
+  <tr CLASS="alt">
+    <td>13-14</td>
+    <td>+4</td>
+    <td>16</td>
+    <td>12</td>
+    <td>16</td>
+    <td CLASS="gauche">transfert d’arcane</td>
+  </tr>
+  <tr><td>15-16</td><td>+4</td><td>17</td><td>13</td><td>18</td><td CLASS="gauche">–</td></tr>
+  <tr CLASS="alt">
+    <td>17-18</td>
+    <td>+5</td>
+    <td>18</td>
+    <td>14</td>
+    <td>22</td>
+    <td CLASS="gauche">défense magique</td>
+  </tr>
+  <tr><td>19-20</td><td>+5</td><td>19</td><td>15</td><td>24</td><td CLASS="gauche">buveuse de vie</td></tr>
+</table>
 
 </center>
 

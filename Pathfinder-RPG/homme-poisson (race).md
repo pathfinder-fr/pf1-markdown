@@ -66,7 +66,20 @@ Voici les options accessibles aux hommes-poissons, d’autres races adaptées pe
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Chasseur des mers]]</td><td><sup>MR</sup></td><td>[[Expertise du combat]], [[homme-poisson (race)|homme-poisson]]</td><td>Les coups de l'homme poisson déséquilibrent une cible qui nage</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chasseur des mers]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Expertise du combat]], [[homme-poisson (race)|homme-poisson]]</td>
+    <td>Les coups de l'homme poisson déséquilibrent une cible qui nage</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

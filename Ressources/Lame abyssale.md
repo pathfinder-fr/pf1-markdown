@@ -10,7 +10,97 @@ Etant donné la corruption et le danger que représentent ces créatures, il n'e
 
 <center>
 
-<table CLASS="tablo"><caption>La Lame abyssale</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Lame Abyssale#FORCEABYSSE|Force des Abysses]], [[Lame Abyssale#SANG FURIEUX|Sang Furieux]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Lame Abyssale#REGENRAPIDE|Regénération Rapide]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Lame Abyssale#VERITASPECT|Véritable Aspect]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Lame Abyssale#FURIESUP|Furie Supérieure]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Lame Abyssale#BORDABYSSE|Au Bord de l'Abysse]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]], [[Lame Abyssale#VERITLAME|Véritable Lame]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>La Lame abyssale</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Lame Abyssale#FORCEABYSSE|Force des Abysses]], [[Lame Abyssale#SANG FURIEUX|Sang Furieux]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Lame Abyssale#REGENRAPIDE|Regénération Rapide]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Lame Abyssale#VERITASPECT|Véritable Aspect]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Lame Abyssale#FURIESUP|Furie Supérieure]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Lame Abyssale#BORDABYSSE|Au Bord de l'Abysse]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]], [[Lame Abyssale#VERITLAME|Véritable Lame]]</td>
+  </tr>
+</table>
 
 </center>
 

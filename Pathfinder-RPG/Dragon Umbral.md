@@ -57,7 +57,30 @@ chair vivante.
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr><tr CLASS="premier"><td>Dragonnet</td><td>fils de l’ombre, immunité contre le froid</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[ténèbres]]*</td><td>—</td></tr><tr><td>Jeune</td><td>attaques spectrales</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[baiser du vampire]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>souffle de l’ombre, *[[traversée des ombres]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[projection dimage|projection d'image]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>création d’ombres, *[[doigt de mort]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>absorption d’énergie, *[[reflets dombre|reflets d’ombre]]*</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr>
+  <tr CLASS="premier"><td>Dragonnet</td><td>fils de l’ombre, immunité contre le froid</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>*[[ténèbres]]*</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>attaques spectrales</td><td>1</td></tr>
+  <tr CLASS="alt">
+    <td>Adolescent</td>
+    <td>*[[baiser du vampire]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td>
+    <td>3</td>
+  </tr>
+  <tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr>
+  <tr CLASS="alt"><td>Adulte</td><td>souffle de l’ombre, *[[traversée des ombres]]*</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>*[[projection dimage|projection d'image]]*</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>création d’ombres, *[[doigt de mort]]*</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr>
+  <tr CLASS="alt">
+    <td>Grand dracosire</td>
+    <td>absorption d’énergie, *[[reflets dombre|reflets d’ombre]]*</td>
+    <td>19</td>
+  </tr>
+</table>
 
 </center>
 

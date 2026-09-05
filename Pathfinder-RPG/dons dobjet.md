@@ -20,7 +20,135 @@ Les dons de maîtrise d’objets sont accessibles à tous les personnages qui re
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>dons de maîtrise d'objets magiques (WMH et MTT)</caption><tr CLASS="titre"><td WIDTH="22%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Maîtrise de caractéristique]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +4</td><td>La transmutation affectant une armure magique ou un objet merveilleux vous donne un bonus d'amélioration de +2 à une Caractéristique</td></tr><tr CLASS="premier"><td>[[Maîtrise de lénergie|Maîtrise de l’énergie]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 1 rang, Bonus de Base Vigueur +4</td><td>Le registre d'énergie affectant un objet vous permet de puiser de l'énergie pour infliger des dégâts</td></tr><tr CLASS="premier"><td>[[Maîtrise de lévocation darme|Maîtrise de l’évocation d’arme]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +3</td><td>La capacité de votre arme infligeant des dégâts supplémentaires est plus efficace</td></tr><tr CLASS="premier"><td>[[Maîtrise de lillusion|Maîtrise de l’illusion]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4</td><td>L'illusion affectant un objet vous permet de créer une *[[image imparfaite]]*.</td></tr><tr CLASS="premier"><td>[[Maîtrise de la dissipation]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6</td><td>L'abjuration affectant un objet vous permet de lancer *[[dissipation de la magie]]* sur une cible</td></tr><tr CLASS="premier"><td>[[Maîtrise instrumentale]]</td><td>MTT</td><td>capacités *intruments* et *focalisation mentale*</td><td>Les sorts de l'école associée à votre pouvoir de focalisation et vos capacités de focalisation vous permettent de remplir les conditions des dons de maîtrise d'objets magiques</td></tr><tr CLASS="premier"><td>[[Maîtrise de la malédiction]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6</td><td>La nécromancie affectant un objet vous permet de lancer *[[malédiction]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise de la résistance]]</td><td>MTT</td><td>[[Premiers Secours]] 5 rangs, [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +3</td><td>La conjuration affectant un objet magique vous permet de soigner les plus graves atteintes</td></tr><tr CLASS="premier"><td>[[Maîtrise de la restauration]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3</td><td>L'abjuration affectant une armure magique ou un objet merveilleux vous offre un bonus de protection à vos jets de sauvegarde ou de résistance à une énergie</td></tr><tr CLASS="premier"><td>[[Maîtrise de la télékinésie]]*</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7</td><td>Une transmutation importante affectant un objet vous permet de lancer *[[télékinésie]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise de la téléportation]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7</td><td>Une conjuration affectant un objet vous permet de lancer *[[porte dimensionnelle]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise de la vision]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4</td><td>La divination affectant un objet vous permet de lancer *[[vision dans les ténèbres]]* ou *[[détection de linvisibilité|détection de l'invisibilité]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise des objets raciaux]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 6 rangs, Bonus de Base Vigueur +3</td><td>La magie de l'objet associé à votre race vous permet d'utiliser vos pouvoirs magiques raciaux plus souvent</td></tr><tr CLASS="premier"><td>[[Maîtrise du bouclier de force]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3</td><td>L'abjuration affectant un objet vous permet de lancer *[[bouclier]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise du camouflage]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3</td><td>L'illusion affectant un objet merveilleux vous permet de lancer *[[disparition]]* ou *[[invisibilité]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise du charme]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6</td><td>L'enchantement affectant un objet vous permet d'utiliser *[[suggestion]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise du vol]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6</td><td>La transmutation affectant un objet vous permet d'utiliser *[[sort vol|vol]]*</td></tr><tr CLASS="premier"><td>[[Maîtrise symbolique]]</td><td>MTT</td><td>[[UOM|Utilisation d’objets magiques]] 4 rangs, Bonus de Base Vigueur +2</td><td>Votre symbole sacré vous permet d'infliger une décharge destructrice représentative de votre divinité</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>dons de maîtrise d'objets magiques (WMH et MTT)</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de caractéristique]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +4</td>
+    <td>
+      La transmutation affectant une armure magique ou un objet merveilleux vous donne un bonus d'amélioration de +2
+      à une Caractéristique
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de lénergie|Maîtrise de l’énergie]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 1 rang, Bonus de Base Vigueur +4</td>
+    <td>Le registre d'énergie affectant un objet vous permet de puiser de l'énergie pour infliger des dégâts</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de lévocation darme|Maîtrise de l’évocation d’arme]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +3</td>
+    <td>La capacité de votre arme infligeant des dégâts supplémentaires est plus efficace</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de lillusion|Maîtrise de l’illusion]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4</td>
+    <td>L'illusion affectant un objet vous permet de créer une *[[image imparfaite]]*.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la dissipation]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6</td>
+    <td>L'abjuration affectant un objet vous permet de lancer *[[dissipation de la magie]]* sur une cible</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise instrumentale]]</td>
+    <td>MTT</td>
+    <td>capacités *intruments* et *focalisation mentale*</td>
+    <td>
+      Les sorts de l'école associée à votre pouvoir de focalisation et vos capacités de focalisation vous permettent
+      de remplir les conditions des dons de maîtrise d'objets magiques
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la malédiction]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +6</td>
+    <td>La nécromancie affectant un objet vous permet de lancer *[[malédiction]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la résistance]]</td>
+    <td>MTT</td>
+    <td>[[Premiers Secours]] 5 rangs, [[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +3</td>
+    <td>La conjuration affectant un objet magique vous permet de soigner les plus graves atteintes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la restauration]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3</td>
+    <td>
+      L'abjuration affectant une armure magique ou un objet merveilleux vous offre un bonus de protection à vos jets
+      de sauvegarde ou de résistance à une énergie
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la télékinésie]]*</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7</td>
+    <td>Une transmutation importante affectant un objet vous permet de lancer *[[télékinésie]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la téléportation]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 5 rangs, Bonus de Base Vigueur +7</td>
+    <td>Une conjuration affectant un objet vous permet de lancer *[[porte dimensionnelle]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la vision]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +4</td>
+    <td>
+      La divination affectant un objet vous permet de lancer *[[vision dans les ténèbres]]* ou *[[détection de
+      linvisibilité|détection de l'invisibilité]]*
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise des objets raciaux]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 6 rangs, Bonus de Base Vigueur +3</td>
+    <td>La magie de l'objet associé à votre race vous permet d'utiliser vos pouvoirs magiques raciaux plus souvent</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise du bouclier de force]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3</td>
+    <td>L'abjuration affectant un objet vous permet de lancer *[[bouclier]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise du camouflage]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 3 rangs, Bonus de Base Vigueur +3</td>
+    <td>L'illusion affectant un objet merveilleux vous permet de lancer *[[disparition]]* ou *[[invisibilité]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise du charme]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6</td>
+    <td>L'enchantement affectant un objet vous permet d'utiliser *[[suggestion]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise du vol]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 2 rangs, Bonus de Base Vigueur +6</td>
+    <td>La transmutation affectant un objet vous permet d'utiliser *[[sort vol|vol]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise symbolique]]</td>
+    <td>MTT</td>
+    <td>[[UOM|Utilisation d’objets magiques]] 4 rangs, Bonus de Base Vigueur +2</td>
+    <td>Votre symbole sacré vous permet d'infliger une décharge destructrice représentative de votre divinité</td>
+  </tr>
+</table>
 
 </center>
 

@@ -40,8 +40,20 @@ Les malus persistent aussi longtemps que dure le tourment mais les bonus sont «
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Alignements opposés</caption><tr CLASS="titre"><td>Alignement</td><td>Désaccord</td></tr><tr CLASS="premier"><td>LB</td><td>CM</td></tr><tr><td>NB</td><td>NM</td></tr><tr><td>CB</td><td>LM</td></tr><tr><td>LN</td><td>CN</td></tr><tr><td>N</td><td>LB, LM, CB ou CM  
-(en choisir un quand le sort est lancé)</td></tr><tr><td>CN</td><td>LN</td></tr><tr><td>LM</td><td>CB</td></tr><tr><td>NM</td><td>NB</td></tr><tr><td>CM</td><td>LB</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Alignements opposés</caption>
+  <tr CLASS="titre"><td>Alignement</td><td>Désaccord</td></tr>
+  <tr CLASS="premier"><td>LB</td><td>CM</td></tr>
+  <tr><td>NB</td><td>NM</td></tr>
+  <tr><td>CB</td><td>LM</td></tr>
+  <tr><td>LN</td><td>CN</td></tr>
+  <tr><td>N</td><td>LB, LM, CB ou CM  
+(en choisir un quand le sort est lancé)</td></tr>
+  <tr><td>CN</td><td>LN</td></tr>
+  <tr><td>LM</td><td>CB</td></tr>
+  <tr><td>NM</td><td>NB</td></tr>
+  <tr><td>CM</td><td>LB</td></tr>
+</table>
 
 </td></tr></table>
 

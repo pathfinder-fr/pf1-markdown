@@ -100,7 +100,40 @@ Certaines actions complexes ne laissent pas de temps pour un pas de placement.
 Le personnage peut effectuer certaines actions complexes en tant qu’[[Types dactions#SIMPLE|actions simples]], mais uniquement s’il réduit son activité à une seule [[types dactions#SIMPLE|action simple]] par round. La [[Actions complexes|description des actions complexes]] indique si cela est possible.
 
 
-<table CLASS="tablo centre autoalt"><caption>Actions complexes en combat</caption><tr CLASS="titre"><td>[[Actions complexes]]</td><td>[[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Types dactions#NOTE1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Attaque à outrance]]</td><td>Non</td></tr><tr><td>Accrocher une arme à un [[Gantelet darmes (armure)|gantelet d’armes]] (ou la décrocher)</td><td>Oui</td></tr><tr><td>Allumer une [[Torche (objet)|torche]]</td><td>Oui</td></tr><tr><td>[[Charge]]<sup>[[Types dactions#NOTE4|4]]</sup></td><td>Non</td></tr><tr><td>Charger une [[Arbalète lourde (arme)|arbalète lourde]] ou [[Arbalète lourde à répétition (arme)|à répétition]]</td><td>Oui</td></tr><tr><td>[[actions complexes#COURIR|Courir]]</td><td>Oui</td></tr><tr><td>Donner le [[coup de grâce]]</td><td>Oui</td></tr><tr><td>Éteindre des flammes</td><td>Non</td></tr><tr><td>[[Actions simples#LANCERSORT|Lancer un sort de contact]] sur un maximum de six alliés</td><td>Oui</td></tr><tr><td>[[Actions complexes#RETRAITE|Retraite]]<sup>[[Types dactions#NOTE4|4]]</sup></td><td>Non</td></tr><tr><td>Se dégager d’un [[Filet (arme)|filet]]</td><td>Oui</td></tr><tr CLASS="alt"><td>Se préparer à [[Actions spéciales#ARMEASPERSION|lancer une arme à aspersion]]</td><td>Oui</td></tr><tr><td>[[Actions diverses#UTILISERCOMPETENCE|Utiliser une compétence]] exigeant 1 round</td><td>En général oui</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Actions complexes en combat</caption>
+  <tr CLASS="titre">
+    <td>[[Actions complexes]]</td>
+    <td>[[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Types dactions#NOTE1|1]]</sup></td>
+  </tr>
+  <tr CLASS="premier"><td>[[Attaque à outrance]]</td><td>Non</td></tr>
+  <tr>
+    <td>Accrocher une arme à un [[Gantelet darmes (armure)|gantelet d’armes]] (ou la décrocher)</td>
+    <td>Oui</td>
+  </tr>
+  <tr><td>Allumer une [[Torche (objet)|torche]]</td><td>Oui</td></tr>
+  <tr><td>[[Charge]]<sup>[[Types dactions#NOTE4|4]]</sup></td><td>Non</td></tr>
+  <tr>
+    <td>
+      Charger une [[Arbalète lourde (arme)|arbalète lourde]] ou [[Arbalète lourde à répétition (arme)|à répétition]]
+    </td>
+    <td>Oui</td>
+  </tr>
+  <tr><td>[[actions complexes#COURIR|Courir]]</td><td>Oui</td></tr>
+  <tr><td>Donner le [[coup de grâce]]</td><td>Oui</td></tr>
+  <tr><td>Éteindre des flammes</td><td>Non</td></tr>
+  <tr><td>[[Actions simples#LANCERSORT|Lancer un sort de contact]] sur un maximum de six alliés</td><td>Oui</td></tr>
+  <tr><td>[[Actions complexes#RETRAITE|Retraite]]<sup>[[Types dactions#NOTE4|4]]</sup></td><td>Non</td></tr>
+  <tr><td>Se dégager d’un [[Filet (arme)|filet]]</td><td>Oui</td></tr>
+  <tr CLASS="alt">
+    <td>Se préparer à [[Actions spéciales#ARMEASPERSION|lancer une arme à aspersion]]</td>
+    <td>Oui</td>
+  </tr>
+  <tr>
+    <td>[[Actions diverses#UTILISERCOMPETENCE|Utiliser une compétence]] exigeant 1 round</td>
+    <td>En général oui</td>
+  </tr>
+</table>
 
 
 {s:Reference|LIBRE}
@@ -161,7 +194,15 @@ Une action immédiate ressemble fort à une [[Types dactions#RAPIDE|action rapid
 Certaines activités mineures ne comptent même pas comme des [[Types dactions#LIBRE|actions libres]]. Elles ne prennent pas de temps et on les considère comme partie inhérente d’autre chose, comme encocher une flèche lors d’une attaque à l’arc.
 
 
-<table CLASS="tablo centre autoalt"><caption>Non-actions en combat</caption><tr CLASS="titre"><td>Pas d'action</td><td>[[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Types dactions#NOTE1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Pas de placement]] de 1,50 m</td><td>Non</td></tr><tr CLASS="alt"><td>[[Actions modifiant linitiative#RETARDER|Retardement]]</td><td>Non</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Non-actions en combat</caption>
+  <tr CLASS="titre">
+    <td>Pas d'action</td>
+    <td>[[Attaque dopportunité|Attaque d'opportunité]]<sup>[[Types dactions#NOTE1|1]]</sup></td>
+  </tr>
+  <tr CLASS="premier"><td>[[Pas de placement]] de 1,50 m</td><td>Non</td></tr>
+  <tr CLASS="alt"><td>[[Actions modifiant linitiative#RETARDER|Retardement]]</td><td>Non</td></tr>
+</table>
 
 
 ### Actions de type variable en combat

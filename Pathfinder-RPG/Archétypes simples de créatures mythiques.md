@@ -28,8 +28,14 @@ Les créatures ayant l’archétype divin peuvent invoquer le pouvoir des dieux,
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Défenses de l’archétype invincible</caption><tr CLASS="titre"><td>DV</td><td>Résistances aux énergies  
-destructives</td><td>RD</td></tr><tr CLASS="premier"><td>1-4</td><td>5</td><td>-</td></tr><tr><td>5-10</td><td>10</td><td>5/épique</td></tr><tr><td>11+</td><td>15</td><td>10/épique</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Défenses de l’archétype invincible</caption>
+  <tr CLASS="titre"><td>DV</td><td>Résistances aux énergies  
+destructives</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>1-4</td><td>5</td><td>-</td></tr>
+  <tr><td>5-10</td><td>10</td><td>5/épique</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/épique</td></tr>
+</table>
 
 </div></div>Les créatures ayant l’archétype invincible sont extrêmement difficiles à blesser. Elles peuvent supporter des châtiments exceptionnels et poursuivre le combat. Si la créature a 11 dés de vie ou plus, cet archétype simple lui accorde un [[rang mythique]] de 2 au lieu de 1. Les règles abrégées des créatures invincibles sont les mêmes que celles de reconstruction.
 
@@ -40,8 +46,14 @@ destructives</td><td>RD</td></tr><tr CLASS="premier"><td>1-4</td><td>5</td><td>-
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Défenses de l’archétype sauvage</caption><tr CLASS="titre"><td>DV</td><td>Résistances aux énergies  
-destructives</td><td>RD</td></tr><tr CLASS="premier"><td>1-4</td><td>5</td><td>-</td></tr><tr><td>5-10</td><td>10</td><td>5/épique</td></tr><tr><td>11+</td><td>15</td><td>10/épique</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Défenses de l’archétype sauvage</caption>
+  <tr CLASS="titre"><td>DV</td><td>Résistances aux énergies  
+destructives</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>1-4</td><td>5</td><td>-</td></tr>
+  <tr><td>5-10</td><td>10</td><td>5/épique</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/épique</td></tr>
+</table>
 
 </div></div>Les créatures ayant l’archétype sauvage sont indomptées, ce sont des versions primitives de leurs cousines [[non-mythiques]]. Elles ont des griffes plus acérées, des crocs plus longs et une peau plus épaisse. Si la créature a 11 dés de vie ou plus, cet archétype simple lui accorde un [[rang mythique]] de 2 au lieu de 1. Les règles abrégées des créatures sauvages sont les mêmes que celles de reconstruction.
 

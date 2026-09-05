@@ -21,9 +21,65 @@ Ce sort génère sept [[rayon|rayons]] de lumière tourbillonnante qui jaillisse
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>1d8</td><td>Couleur du rayon</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>1</td><td>Rouge</td><td CLASS="gauche">20 points de dégâts de feu ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])</td></tr><tr CLASS="alt"><td>2</td><td>Orange</td><td CLASS="gauche">40 points de dégâts d’acide ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])</td></tr><tr><td>3</td><td>Jaune</td><td CLASS="gauche">80 points de dégâts d’électricité ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])</td></tr><tr CLASS="alt"><td>4</td><td>Vert</td><td CLASS="gauche">[[Poison]] (*fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet primaire* mort ;  
- *effet secondaire* 1 [[Constitution|Con]]/[[round]] ; *guérison* 2 réussites consécutives)*</td></tr><tr><td>5</td><td>Bleu</td><td CLASS="gauche">*[[Pétrification]]* ([[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td></tr><tr CLASS="alt"><td>6</td><td>Indigo</td><td CLASS="gauche">Démence, comme le sort *[[aliénation mentale]]* ([[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td></tr><tr><td>7</td><td>Violet</td><td CLASS="gauche">Cible envoyée dans un autre plan ([[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td></tr><tr CLASS="alt"><td>8</td><td>Cible touchée  
-par deux [[rayon|rayons]]</td><td CLASS="gauche">Rejetez deux fois le dé en ignorant tout nouveau « 8 »</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>1d8</td><td>Couleur du rayon</td><td CLASS="gauche">Effet</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>Rouge</td>
+    <td CLASS="gauche">
+      20 points de dégâts de feu ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>Orange</td>
+    <td CLASS="gauche">
+      40 points de dégâts d’acide ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Jaune</td>
+    <td CLASS="gauche">
+      80 points de dégâts d’électricité ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>Vert</td>
+    <td CLASS="gauche">
+      [[Poison]] (*fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet primaire* mort ;  
+ *effet
+      secondaire* 1 [[Constitution|Con]]/[[round]] ; *guérison* 2 réussites consécutives)*
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Bleu</td>
+    <td CLASS="gauche">*[[Pétrification]]* ([[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>Indigo</td>
+    <td CLASS="gauche">
+      Démence, comme le sort *[[aliénation mentale]]* ([[Volonté]], [[Présentation des
+      sorts#JETSDESAUVEGARDE|annule]])
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Violet</td>
+    <td CLASS="gauche">
+      Cible envoyée dans un autre plan ([[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>Cible touchée  
+par deux [[rayon|rayons]]</td>
+    <td CLASS="gauche">Rejetez deux fois le dé en ignorant tout nouveau « 8 »</td>
+  </tr>
+</table>
 
 
 *(*) Voir les [[poisons]].*

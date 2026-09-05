@@ -14,10 +14,36 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Magie limitée</caption><tr CLASS="titre"><td>Niveau  
-de sort</td><td>NLS (9)*</td><td>NLS (6)</td><td>NLS (4)</td><td>Valeur de  
-caractéristique</td><td>DD</td></tr><tr CLASS="premier"><td>0</td><td>1</td><td>1</td><td>—</td><td>10</td><td>10</td></tr><tr><td>1</td><td>1</td><td>1</td><td>4</td><td>11</td><td>11</td></tr><tr><td>2</td><td>3</td><td>4</td><td>7</td><td>12</td><td>13</td></tr><tr><td>3</td><td>5</td><td>7</td><td>10</td><td>13</td><td>14</td></tr><tr><td>4</td><td>7</td><td>10</td><td>13</td><td>14</td><td>16</td></tr><tr><td>5</td><td>9</td><td>13</td><td>—</td><td>15</td><td>17</td></tr><tr><td>6</td><td>11</td><td>16</td><td>—</td><td>16</td><td>19</td></tr><tr><td>7</td><td>13</td><td>—</td><td>—</td><td>17</td><td>20</td></tr><tr><td>8</td><td>15</td><td>—</td><td>—</td><td>18</td><td>22</td></tr><tr><td>9</td><td>17</td><td>—</td><td>—</td><td>19</td><td>23</td></tr><tr CLASS="note"><td COLSPAN="6">*(*) Pour l’ensorceleur, augmentez de 1 le niveau de lanceur de sorts  
-minimum de tous les sorts de niveau 2 ou plus.*</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Magie limitée</caption>
+  <tr CLASS="titre">
+    <td>Niveau  
+de sort</td>
+    <td>NLS (9)*</td>
+    <td>NLS (6)</td>
+    <td>NLS (4)</td>
+    <td>Valeur de  
+caractéristique</td>
+    <td>DD</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>1</td><td>1</td><td>—</td><td>10</td><td>10</td></tr>
+  <tr><td>1</td><td>1</td><td>1</td><td>4</td><td>11</td><td>11</td></tr>
+  <tr><td>2</td><td>3</td><td>4</td><td>7</td><td>12</td><td>13</td></tr>
+  <tr><td>3</td><td>5</td><td>7</td><td>10</td><td>13</td><td>14</td></tr>
+  <tr><td>4</td><td>7</td><td>10</td><td>13</td><td>14</td><td>16</td></tr>
+  <tr><td>5</td><td>9</td><td>13</td><td>—</td><td>15</td><td>17</td></tr>
+  <tr><td>6</td><td>11</td><td>16</td><td>—</td><td>16</td><td>19</td></tr>
+  <tr><td>7</td><td>13</td><td>—</td><td>—</td><td>17</td><td>20</td></tr>
+  <tr><td>8</td><td>15</td><td>—</td><td>—</td><td>18</td><td>22</td></tr>
+  <tr><td>9</td><td>17</td><td>—</td><td>—</td><td>19</td><td>23</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="6">
+      *(*) Pour l’ensorceleur, augmentez de 1 le niveau de lanceur de sorts  
+minimum de tous les sorts de niveau 2
+      ou plus.*
+    </td>
+  </tr>
+</table>
 
 </center></div></div>Quand un personnage gagne des niveaux de lanceur de sorts selon les règles de magie normales, l’efficacité de ses sorts peut brusquement basculer, nécessitant une réévaluation constante de l’utilité de chacun d’eux. Les règles de la magie limitée ont pour objectif d’adapter plus étroitement la puissance des sorts à leur niveau et de réduire la montée en puissance des lanceurs de sorts.
 
@@ -51,11 +77,26 @@ Si l’effet du pic de magie sauvage obtenu d’après la table est impossible �
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>{s:Reference|EFFETSDEPICUNIVERSELS}Effets de pic universels</caption><tr CLASS="titre"><td>d100</td><td>Effet de pic</td></tr><tr CLASS="premier"><td>01-20</td><td>Le lanceur de sorts subit 1d6 points  
-de dégâts auxquels il ne peut échapper.</td></tr><tr><td>21-80</td><td>Le lanceur de sorts est affecté par  
-une lueur féerique pendant 1 round.</td></tr><tr><td>81-100</td><td>Le lanceur de sorts gagne 1d6 points de vie  
+<table CLASS="tablo autoalt toutgauche">
+  <caption>{s:Reference|EFFETSDEPICUNIVERSELS}Effets de pic universels</caption>
+  <tr CLASS="titre"><td>d100</td><td>Effet de pic</td></tr>
+  <tr CLASS="premier">
+    <td>01-20</td>
+    <td>Le lanceur de sorts subit 1d6 points  
+de dégâts auxquels il ne peut échapper.</td>
+  </tr>
+  <tr><td>21-80</td><td>Le lanceur de sorts est affecté par  
+une lueur féerique pendant 1 round.</td></tr>
+  <tr>
+    <td>81-100</td>
+    <td>
+      Le lanceur de sorts gagne 1d6 points de vie  
 temporaires qui durent 1 heure mais ne se  
-cumulent avec aucun autre point de vie temporaire.</td></tr></table>
+cumulent avec
+      aucun autre point de vie temporaire.
+    </td>
+  </tr>
+</table>
 
 </center></div></div>Les règles concernant le moment où utiliser la magie sauvage sont délibérément floues pour laisser une marge de manœuvre au MJ, mais voici quelques idées d’utilisation, présentées de la plus simple à la plus complexe.
 - **Concentration ratée.** Quand un lanceur rate un [[test de concentration]] et perd son sort, une partie de l’énergie magique est libérée sous forme d’un pic de magie sauvage.
@@ -93,7 +134,83 @@ cumulent avec aucun autre point de vie temporaire.</td></tr></table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><tr><td>39-43</td><td>La zone d’effet ou les cibles du sort sont affectées par un sort de *[[silence]]* pendant 3 [[round|rounds]].</td></tr><tr><td>44-50</td><td>Toutes les cibles du sort sont [[invisible|invisibles]] pendant 1 [[round]] (comme avec une *[[invisibilité]]*).</td></tr><tr><td>51-58</td><td>La zone d’effet du sort est remplie d’une *[[lumière du jour]]*.</td></tr><tr><td>59-64</td><td>Un sort de *[[fracassement]]* affecte un zone de 1,5 mètre de rayon centrée sur chacune des cibles du sort (ou sur la zone d’effet du sort).</td></tr><tr><td>65-71</td><td>La zone d’effet du sort est recouverte de *[[graisse]]*.</td></tr><tr><td>72-74</td><td>Un arbre ou un animal aléatoire, ciblé par le sort ou se trouvant dans la zone d’effet du sort, est affecté par un sort d’*[[éveil]]*.</td></tr><tr><td>75-78</td><td>Un instrument apparaît sur une case adjacente à chaque cible (comme avec une *[[convocation dinstrument|convocation d’instrument]]*).</td></tr><tr><td>79-80</td><td>Toutes les portes dans un rayon de 30 mètres du lanceur de sorts sont affectées par un sort de *[[déblocage]]*.</td></tr><tr><td>81-83</td><td>Le lanceur de sorts se téléporte vers une case de son choix située à côté de la cible du sort ou dans la zone d’effet du sort.</td></tr><tr><td>84-86</td><td>Le prochain sort qui prend pour cible le lanceur de sorts est renvoyé, comme avec un *[[renvoi des sorts]]*.</td></tr><tr><td>87-90</td><td>Le lanceur de sorts gagne 2d6 points de vie temporaires qui durent 1 heure mais ne se cumulent avec aucun autre point de vie temporaire.</td></tr><tr><td>91-92</td><td>Une créature aléatoire issue de la liste du sort *[[convocation de monstres I]]* apparaît sur une case adjacente au lanceur de sorts. Elle est sous le contrôle du lanceur de sorts.</td></tr><tr><td>93-95</td><td>Le lanceur de sorts est affecté par un *[[don des langues]]* pendant 10 minutes.</td></tr><tr><td>96-97</td><td>Le lanceur de sorts est affecté par une *[[rapidité]]* pendant 5 [[round|rounds]].</td></tr><tr><td>98</td><td>Le sort bénéficie d’une [[Extension de durée]].</td></tr><tr><td>99</td><td>Le sort bénéficie d’une [[Quintessence des sorts]].</td></tr><tr><td>100</td><td>L’emplacement de sort utilisé pour lancer le sort n’est pas dépensé.</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%">
+  <tr>
+    <td>39-43</td>
+    <td>
+      La zone d’effet ou les cibles du sort sont affectées par un sort de *[[silence]]* pendant 3 [[round|rounds]].
+    </td>
+  </tr>
+  <tr>
+    <td>44-50</td>
+    <td>
+      Toutes les cibles du sort sont [[invisible|invisibles]] pendant 1 [[round]] (comme avec une
+      *[[invisibilité]]*).
+    </td>
+  </tr>
+  <tr><td>51-58</td><td>La zone d’effet du sort est remplie d’une *[[lumière du jour]]*.</td></tr>
+  <tr>
+    <td>59-64</td>
+    <td>
+      Un sort de *[[fracassement]]* affecte un zone de 1,5 mètre de rayon centrée sur chacune des cibles du sort (ou
+      sur la zone d’effet du sort).
+    </td>
+  </tr>
+  <tr><td>65-71</td><td>La zone d’effet du sort est recouverte de *[[graisse]]*.</td></tr>
+  <tr>
+    <td>72-74</td>
+    <td>
+      Un arbre ou un animal aléatoire, ciblé par le sort ou se trouvant dans la zone d’effet du sort, est affecté
+      par un sort d’*[[éveil]]*.
+    </td>
+  </tr>
+  <tr>
+    <td>75-78</td>
+    <td>
+      Un instrument apparaît sur une case adjacente à chaque cible (comme avec une *[[convocation
+      dinstrument|convocation d’instrument]]*).
+    </td>
+  </tr>
+  <tr>
+    <td>79-80</td>
+    <td>
+      Toutes les portes dans un rayon de 30 mètres du lanceur de sorts sont affectées par un sort de
+      *[[déblocage]]*.
+    </td>
+  </tr>
+  <tr>
+    <td>81-83</td>
+    <td>
+      Le lanceur de sorts se téléporte vers une case de son choix située à côté de la cible du sort ou dans la zone
+      d’effet du sort.
+    </td>
+  </tr>
+  <tr>
+    <td>84-86</td>
+    <td>
+      Le prochain sort qui prend pour cible le lanceur de sorts est renvoyé, comme avec un *[[renvoi des sorts]]*.
+    </td>
+  </tr>
+  <tr>
+    <td>87-90</td>
+    <td>
+      Le lanceur de sorts gagne 2d6 points de vie temporaires qui durent 1 heure mais ne se cumulent avec aucun
+      autre point de vie temporaire.
+    </td>
+  </tr>
+  <tr>
+    <td>91-92</td>
+    <td>
+      Une créature aléatoire issue de la liste du sort *[[convocation de monstres I]]* apparaît sur une case
+      adjacente au lanceur de sorts. Elle est sous le contrôle du lanceur de sorts.
+    </td>
+  </tr>
+  <tr><td>93-95</td><td>Le lanceur de sorts est affecté par un *[[don des langues]]* pendant 10 minutes.</td></tr>
+  <tr><td>96-97</td><td>Le lanceur de sorts est affecté par une *[[rapidité]]* pendant 5 [[round|rounds]].</td></tr>
+  <tr><td>98</td><td>Le sort bénéficie d’une [[Extension de durée]].</td></tr>
+  <tr><td>99</td><td>Le sort bénéficie d’une [[Quintessence des sorts]].</td></tr>
+  <tr><td>100</td><td>L’emplacement de sort utilisé pour lancer le sort n’est pas dépensé.</td></tr>
+</table>
 
 </td></tr></table>
 

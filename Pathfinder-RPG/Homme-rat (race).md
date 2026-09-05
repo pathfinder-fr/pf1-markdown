@@ -102,7 +102,59 @@ Voici les options accessibles aux hommes-rats, d’autres races adaptées peuven
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Cachette commune]]</td><td><sup>CM</sup></td><td>[[Arme en main]], [[BBA]] +1, 1 rang en [[Escamotage]], trait racial [[Homme-rat (race)#Traits_raciaux_standards_7|regroupement]]</td><td>Récupère rapidement des objets portés par les alliés</td></tr><tr CLASS="premier"><td>[[Collectionneur]]</td><td><sup>CM</sup></td><td>[[Homme-rat (race)|Homme-rat]]</td><td>Possède toujours des objets aux hasard sur sa personne au besoin</td></tr><tr CLASS="premier"><td>[[Dents acérées]]</td><td><sup>CM</sup></td><td>[[Homme-rat (race)|Homme-rat]]</td><td>Gain d'une attaque de morsure</td></tr><tr><td>&emsp;[[Rogneur]]</td><td><sup>CM</sup></td><td>[[Dents acérées]], [[Homme-rat (race)|homme-rat]]</td><td>Ignore la solidité des objets avec une morsure puissante</td></tr><tr CLASS="premier"><td>[[Griffe-tranchante]]</td><td><sup>MR</sup></td><td>[[homme-rat (race)|Homme-rat]]</td><td>Le personnage obtient deux attaques de griffes</td></tr><tr CLASS="premier"><td>[[Rat des tunnels]]</td><td><sup>MR</sup></td><td>[[homme-rat (race)|Homme-rat]], trait racial regroupement</td><td>Le personnage est plus difficile à écraser</td></tr><tr><td>&emsp;[[Dents de fouisseur]]</td><td><sup>MR</sup></td><td>[[homme-rat (race)|Homme-rat]], [[griffe-tranchante]], [[rat des tunnels]]</td><td>Le personnage dispose d'une vitesse de creusement</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cachette commune]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      [[Arme en main]], [[BBA]] +1, 1 rang en [[Escamotage]], trait racial [[Homme-rat
+      (race)#Traits_raciaux_standards_7|regroupement]]
+    </td>
+    <td>Récupère rapidement des objets portés par les alliés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collectionneur]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Homme-rat (race)|Homme-rat]]</td>
+    <td>Possède toujours des objets aux hasard sur sa personne au besoin</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dents acérées]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Homme-rat (race)|Homme-rat]]</td>
+    <td>Gain d'une attaque de morsure</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Rogneur]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Dents acérées]], [[Homme-rat (race)|homme-rat]]</td>
+    <td>Ignore la solidité des objets avec une morsure puissante</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Griffe-tranchante]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-rat (race)|Homme-rat]]</td>
+    <td>Le personnage obtient deux attaques de griffes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rat des tunnels]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-rat (race)|Homme-rat]], trait racial regroupement</td>
+    <td>Le personnage est plus difficile à écraser</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Dents de fouisseur]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-rat (race)|Homme-rat]], [[griffe-tranchante]], [[rat des tunnels]]</td>
+    <td>Le personnage dispose d'une vitesse de creusement</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

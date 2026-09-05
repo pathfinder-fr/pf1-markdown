@@ -14,15 +14,38 @@ Ce petit sac a l’air vide et on ne peut plus banal. Quiconque y glisse la main
 
 <table style="width:100%"><tr style="vertical-align: top"><td style="width:33%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Gris</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr><tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Chauve-souris]]</td></tr><tr><td>31-60</td><td CLASS="gauche">[[Rat]]</td></tr><tr><td>61-75</td><td CLASS="gauche">[[Chat]]</td></tr><tr><td>76-90</td><td CLASS="gauche">[[Belette]]</td></tr><tr><td>91-100</td><td CLASS="gauche">[[Chien|Chien de selle]]</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>Gris</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr>
+  <tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Chauve-souris]]</td></tr>
+  <tr><td>31-60</td><td CLASS="gauche">[[Rat]]</td></tr>
+  <tr><td>61-75</td><td CLASS="gauche">[[Chat]]</td></tr>
+  <tr><td>76-90</td><td CLASS="gauche">[[Belette]]</td></tr>
+  <tr><td>91-100</td><td CLASS="gauche">[[Chien|Chien de selle]]</td></tr>
+</table>
 
 </td><td style="width:33%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Rouille</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr><tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Glouton]]</td></tr><tr><td>31–60</td><td CLASS="gauche">[[Loup]]</td></tr><tr><td>61–85</td><td CLASS="gauche">[[Sanglier]]</td></tr><tr><td>86–100</td><td CLASS="gauche">[[Léopard]]</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>Rouille</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr>
+  <tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Glouton]]</td></tr>
+  <tr><td>31–60</td><td CLASS="gauche">[[Loup]]</td></tr>
+  <tr><td>61–85</td><td CLASS="gauche">[[Sanglier]]</td></tr>
+  <tr><td>86–100</td><td CLASS="gauche">[[Léopard]]</td></tr>
+</table>
 
 </td><td style="width:33%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Ocre</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr><tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Grizzly]]</td></tr><tr><td>31–60</td><td CLASS="gauche">[[Lion]]</td></tr><tr><td>61–80</td><td CLASS="gauche">[[Cheval|Destrier lourd]]</td></tr><tr><td>81–90</td><td CLASS="gauche">[[Tigre]]</td></tr><tr><td>91–100</td><td CLASS="gauche">[[Rhinocéros]]</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>Ocre</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr>
+  <tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Grizzly]]</td></tr>
+  <tr><td>31–60</td><td CLASS="gauche">[[Lion]]</td></tr>
+  <tr><td>61–80</td><td CLASS="gauche">[[Cheval|Destrier lourd]]</td></tr>
+  <tr><td>81–90</td><td CLASS="gauche">[[Tigre]]</td></tr>
+  <tr><td>91–100</td><td CLASS="gauche">[[Rhinocéros]]</td></tr>
+</table>
 
 </td></tr></table>
 

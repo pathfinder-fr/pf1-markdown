@@ -188,6 +188,14 @@ de terre.
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Élémentaire</td><td>Taille</td><td>Poids</td></tr><tr CLASS="premier"><td>Petit</td><td>1,20 m</td><td>40 kg</td></tr><tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>375 kg</td></tr><tr><td>Grand</td><td>4,20 m</td><td>3 000 kg</td></tr><tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>24 000 kg</td></tr><tr><td>Noble</td><td>10,80 m</td><td>27 000 kg</td></tr><tr><td>Seigneur</td><td>12 m</td><td>60 000 kg</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Élémentaire</td><td>Taille</td><td>Poids</td></tr>
+  <tr CLASS="premier"><td>Petit</td><td>1,20 m</td><td>40 kg</td></tr>
+  <tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>375 kg</td></tr>
+  <tr><td>Grand</td><td>4,20 m</td><td>3 000 kg</td></tr>
+  <tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>24 000 kg</td></tr>
+  <tr><td>Noble</td><td>10,80 m</td><td>27 000 kg</td></tr>
+  <tr><td>Seigneur</td><td>12 m</td><td>60 000 kg</td></tr>
+</table></center>
 
 </div></td></tr></table>

@@ -16,7 +16,26 @@ Au niveau 15, il peut attribuer une frappe spécialisée à deux de ses attaques
 Le moine sélectionne ses frappes spécialisées parmi les suivantes.
 
 
-<table CLASS="tablo centre toutgauche autoalt" ID="tabtalmoineunchained"><caption>Frappe spécialisée du moine unchained</caption><tr CLASS="titre"><td>Frappes spécialisées</td></tr><tr CLASS="premier"><td>[[Frappes spécialisées#BLOCAGEDESPIEDS|Blocage des pieds]]</td><td>[[Frappes spécialisées#COUPDEPIEDTOURNOYANT|Coup de pied tournoyant]]</td><td>[[Frappes spécialisées#COUPDUMARTEAU|Coup du marteau]]</td></tr><tr><td>[[Frappe spécialisée #BOUSCULADEDUPIED|Bousculade du pied]]</td><td>[[Frappes spécialisées#COUPDEPOINGFRACASSANT|Coup de poing fracassant]]</td><td>[[Frappes spécialisées#FAUCHAGEDUPIED|Fauchage du pied]]</td></tr><tr><td>[[Frappes spécialisées#COUPDECOUDE|Coup de coude]]</td><td>[[Frappes spécialisées#COUPDETETE|Coup de tête]]</td><td>[[Frappes spécialisées#PIROUETTEDEFENSIVE|Pirouette défensive]]</td></tr><tr><td>[[Frappes spécialisées#COUPDEPIEDSAUTE|Coup de pied sauté]]</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt" ID="tabtalmoineunchained">
+  <caption>Frappe spécialisée du moine unchained</caption>
+  <tr CLASS="titre"><td>Frappes spécialisées</td></tr>
+  <tr CLASS="premier">
+    <td>[[Frappes spécialisées#BLOCAGEDESPIEDS|Blocage des pieds]]</td>
+    <td>[[Frappes spécialisées#COUPDEPIEDTOURNOYANT|Coup de pied tournoyant]]</td>
+    <td>[[Frappes spécialisées#COUPDUMARTEAU|Coup du marteau]]</td>
+  </tr>
+  <tr>
+    <td>[[Frappe spécialisée #BOUSCULADEDUPIED|Bousculade du pied]]</td>
+    <td>[[Frappes spécialisées#COUPDEPOINGFRACASSANT|Coup de poing fracassant]]</td>
+    <td>[[Frappes spécialisées#FAUCHAGEDUPIED|Fauchage du pied]]</td>
+  </tr>
+  <tr>
+    <td>[[Frappes spécialisées#COUPDECOUDE|Coup de coude]]</td>
+    <td>[[Frappes spécialisées#COUPDETETE|Coup de tête]]</td>
+    <td>[[Frappes spécialisées#PIROUETTEDEFENSIVE|Pirouette défensive]]</td>
+  </tr>
+  <tr><td>[[Frappes spécialisées#COUPDEPIEDSAUTE|Coup de pied sauté]]</td><td>&emsp;</td><td>&emsp;</td></tr>
+</table>
 
 
 {s:reference|BLOCAGEDESPIEDS}

@@ -36,7 +36,19 @@ Vos engagements envers votre mécène devraient tomber dans l’une des catégor
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille du royaume</td><td>Prix d’un PC</td><td>Taux de change*</td></tr><tr CLASS="premier"><td>01-25</td><td>1 000 po</td><td>500 po</td></tr><tr><td>26-50</td><td>2 000 po</td><td>1 000 po</td></tr><tr><td>51-100</td><td>3 000 po</td><td>1 500 po</td></tr><tr><td>101+</td><td>4 000 po</td><td>2 000 po</td></tr><tr CLASS="note"><td COLSPAN="3">*(*) Si vous faites un retrait auprès de votre trésorerie lors de la phase d’entretien (voir page 218), utilisez ce taux de change pour savoir combien de pièces d’or vous obtenez en échange d’un PC.*</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <tr CLASS="titre"><td>Taille du royaume</td><td>Prix d’un PC</td><td>Taux de change*</td></tr>
+  <tr CLASS="premier"><td>01-25</td><td>1 000 po</td><td>500 po</td></tr>
+  <tr><td>26-50</td><td>2 000 po</td><td>1 000 po</td></tr>
+  <tr><td>51-100</td><td>3 000 po</td><td>1 500 po</td></tr>
+  <tr><td>101+</td><td>4 000 po</td><td>2 000 po</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(*) Si vous faites un retrait auprès de votre trésorerie lors de la phase d’entretien (voir page 218),
+      utilisez ce taux de change pour savoir combien de pièces d’or vous obtenez en échange d’un PC.*
+    </td>
+  </tr>
+</table>
 
 </div></div>Il est très difficile de faire naître un royaume (et c’est probablement pour cela que peu de gens en ont un). Si vous voulez [[Fonder un royaume]] par vos propres moyens, à moins de trouver un mécène ou de bénéficier d’une manne providentielle en ressources, le coût de départ est vraiment handicapant pour la plupart des PJ. Il faut 13 PC rien que pour construire un nouveau village avec une [[Communautés et quartiers#MAISON|maison]] et une [[Communautés et quartiers#AUBERGE|auberge]], c’est-à-dire dans les 50 000 po en pierre, en bois, en force de travail, en nourriture, etc. Pour contrebalancer cela, si vous gérez votre propre petit royaume indépendant, votre [[MJ]] peut vous autoriser à échanger votre or contre des PC à un taux plus avantageux, afin de vous encourager à partir à l’aventure pour gagner d’autres po à convertir en PC. Si vous avez un mécène, vous ne pouvez pas bénéficier de cet avantage car il représente la bonne volonté de votre peuple : les gens voient tous les efforts que vous faites pour votre royaume et ils s’inspirent de vous, afin de bâtir votre royaume au plus vite.
 

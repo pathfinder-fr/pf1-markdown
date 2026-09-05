@@ -17,12 +17,48 @@ Le rendement ne devrait pas excéder 5% par an pour les investissements à faibl
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px;">
 
-<table CLASS="tablo centre autoalt"><caption>Les récompenses d’investissements</caption><tr CLASS="titre"><td>Investissement</td><td>Rendement  
-normal</td><td>Année  
-ratée</td><td>Année  
-normale</td><td>Année  
-réussie</td><td>Bon  
-Rendement</td></tr><tr CLASS="premier"><td COLSPAN=6>Arts</td></tr><tr><td>&emsp;créatifs</td><td>4%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>2d4+1</td></tr><tr><td>&emsp;spectacle</td><td>2%</td><td>01-35</td><td>36-95</td><td>96-00</td><td>2d6+1</td></tr><tr><td>Banque</td><td>2%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr><tr><td COLSPAN=6>Artisanat</td></tr><tr><td>&emsp;normal</td><td>1%</td><td>01-05</td><td>06-95</td><td>96-00</td><td>1d3+1</td></tr><tr><td>&emsp;magique</td><td>5%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>1d8+1</td></tr><tr><td>&emsp;militaire</td><td>5%</td><td>01-15</td><td>16-90</td><td>91-00</td><td>1d6+1</td></tr><tr><td>Carrières</td><td>3%</td><td>01-20</td><td>21-90</td><td>91-00</td><td>1d6+1</td></tr><tr><td>Écuries</td><td>1%</td><td>01-05</td><td>06-98</td><td>99-00</td><td>1d3+1</td></tr><tr><td>Exploration</td><td>2%</td><td>01-40</td><td>41-85</td><td>86-00</td><td>2d8+1</td></tr><tr><td>Grenier à blé/moulin</td><td>3%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d3+1</td></tr><tr><td COLSPAN=6>Guilde</td></tr><tr><td>&emsp;d’assassins</td><td>5%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>2d4+1</td></tr><tr><td>&emsp;d’artisans</td><td>2%</td><td>01-05</td><td>06-98</td><td>99-00</td><td>1d3+1</td></tr><tr><td>&emsp;marchande</td><td>3%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr><tr><td>&emsp;de voleurs</td><td>4%</td><td>01-15</td><td>16-90</td><td>91-00</td><td>1d8+1</td></tr><tr><td COLSPAN=6>Importation</td></tr><tr><td>&emsp;exotique</td><td>5%</td><td>01-30</td><td>31-90</td><td>91-00</td><td>1d10+1</td></tr><tr><td>&emsp;ordinaire</td><td>2%</td><td>01-15</td><td>16-95</td><td>96-00</td><td>1d4+1</td></tr><tr><td>Invention</td><td>3%</td><td>01-40</td><td>41-90</td><td>91-00</td><td>2d6+1</td></tr><tr><td>Protection</td><td>3%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>1d8+1</td></tr><tr><td COLSPAN=6>Recherche</td></tr><tr><td>&emsp;magique</td><td>5%</td><td>01-50</td><td>51-75</td><td>76-00</td><td>2d6+1</td></tr><tr><td>&emsp;normale</td><td>3%</td><td>01-20</td><td>21-85</td><td>86-00</td><td>1d8+1</td></tr><tr><td>Tavernes</td><td>2%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Les récompenses d’investissements</caption>
+  <tr CLASS="titre">
+    <td>Investissement</td>
+    <td>Rendement  
+normal</td>
+    <td>Année  
+ratée</td>
+    <td>Année  
+normale</td>
+    <td>Année  
+réussie</td>
+    <td>Bon  
+Rendement</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN=6>Arts</td></tr>
+  <tr><td>&emsp;créatifs</td><td>4%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>2d4+1</td></tr>
+  <tr><td>&emsp;spectacle</td><td>2%</td><td>01-35</td><td>36-95</td><td>96-00</td><td>2d6+1</td></tr>
+  <tr><td>Banque</td><td>2%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr>
+  <tr><td COLSPAN=6>Artisanat</td></tr>
+  <tr><td>&emsp;normal</td><td>1%</td><td>01-05</td><td>06-95</td><td>96-00</td><td>1d3+1</td></tr>
+  <tr><td>&emsp;magique</td><td>5%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>1d8+1</td></tr>
+  <tr><td>&emsp;militaire</td><td>5%</td><td>01-15</td><td>16-90</td><td>91-00</td><td>1d6+1</td></tr>
+  <tr><td>Carrières</td><td>3%</td><td>01-20</td><td>21-90</td><td>91-00</td><td>1d6+1</td></tr>
+  <tr><td>Écuries</td><td>1%</td><td>01-05</td><td>06-98</td><td>99-00</td><td>1d3+1</td></tr>
+  <tr><td>Exploration</td><td>2%</td><td>01-40</td><td>41-85</td><td>86-00</td><td>2d8+1</td></tr>
+  <tr><td>Grenier à blé/moulin</td><td>3%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d3+1</td></tr>
+  <tr><td COLSPAN=6>Guilde</td></tr>
+  <tr><td>&emsp;d’assassins</td><td>5%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>2d4+1</td></tr>
+  <tr><td>&emsp;d’artisans</td><td>2%</td><td>01-05</td><td>06-98</td><td>99-00</td><td>1d3+1</td></tr>
+  <tr><td>&emsp;marchande</td><td>3%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr>
+  <tr><td>&emsp;de voleurs</td><td>4%</td><td>01-15</td><td>16-90</td><td>91-00</td><td>1d8+1</td></tr>
+  <tr><td COLSPAN=6>Importation</td></tr>
+  <tr><td>&emsp;exotique</td><td>5%</td><td>01-30</td><td>31-90</td><td>91-00</td><td>1d10+1</td></tr>
+  <tr><td>&emsp;ordinaire</td><td>2%</td><td>01-15</td><td>16-95</td><td>96-00</td><td>1d4+1</td></tr>
+  <tr><td>Invention</td><td>3%</td><td>01-40</td><td>41-90</td><td>91-00</td><td>2d6+1</td></tr>
+  <tr><td>Protection</td><td>3%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>1d8+1</td></tr>
+  <tr><td COLSPAN=6>Recherche</td></tr>
+  <tr><td>&emsp;magique</td><td>5%</td><td>01-50</td><td>51-75</td><td>76-00</td><td>2d6+1</td></tr>
+  <tr><td>&emsp;normale</td><td>3%</td><td>01-20</td><td>21-85</td><td>86-00</td><td>1d8+1</td></tr>
+  <tr><td>Tavernes</td><td>2%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr>
+</table>
 
 </div></div>Quand un PJ décide d’investir, demandez au joueur combien d’argent son personnage souhaite apporter. Il s’agit de la mise de fonds et ceci a un effet direct sur la quantité d’argent que l’investissement rapporte chaque année (cf. ci-contre).
 

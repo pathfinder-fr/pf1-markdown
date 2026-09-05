@@ -36,4 +36,51 @@ Le personnage est un érudit et un sage connaissant de nombreuses légendes. Tou
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Connaissance</td><td>Sous-domaine des Aéons</td><td>Sous-domaine de la Mémoire</td><td>Sous-domaine de la Pensée</td></tr><tr CLASS="premier"><td>1er</td><td>*[[compréhension des langages]]*</td><td>*[[sanctuaire]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[détection de pensées]]*</td><td>*idem*</td><td>*[[trou de mémoire]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[communication avec les morts]]*</td><td>*idem*</td><td>*idem*</td><td>*[[recherche de pensées]]*</td></tr><tr><td>4e</td><td>*[[divination]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[vision lucide]]*</td><td>*[[lien télépathique]]*</td><td>*idem*</td><td>*[[lien télépathique]]*</td></tr><tr><td>6e</td><td>*[[orientation]]*</td><td>*[[allié doutreplan|allié d'outreplan]]* <div> (aéons uniquement)</td><td>*[[modification de mémoire]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[mythes et légendes]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[localisation suprême]]*</td><td>*idem*</td><td>*[[moment de prescience]]*</td><td>*[[esprit impénétrable]]*</td></tr><tr><td>9e</td><td>*[[prémonition]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Connaissance</td>
+    <td>Sous-domaine des Aéons</td>
+    <td>Sous-domaine de la Mémoire</td>
+    <td>Sous-domaine de la Pensée</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[compréhension des langages]]*</td>
+    <td>*[[sanctuaire]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[détection de pensées]]*</td><td>*idem*</td><td>*[[trou de mémoire]]*</td><td>*idem*</td></tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[communication avec les morts]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[recherche de pensées]]*</td>
+  </tr>
+  <tr><td>4e</td><td>*[[divination]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[vision lucide]]*</td>
+    <td>*[[lien télépathique]]*</td>
+    <td>*idem*</td>
+    <td>*[[lien télépathique]]*</td>
+  </tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[orientation]]*</td>
+    <td>*[[allié doutreplan|allié d'outreplan]]* <div> (aéons uniquement)</td>
+    <td>*[[modification de mémoire]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>7e</td><td>*[[mythes et légendes]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[localisation suprême]]*</td>
+    <td>*idem*</td>
+    <td>*[[moment de prescience]]*</td>
+    <td>*[[esprit impénétrable]]*</td>
+  </tr>
+  <tr><td>9e</td><td>*[[prémonition]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

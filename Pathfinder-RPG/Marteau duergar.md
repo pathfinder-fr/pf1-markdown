@@ -37,7 +37,23 @@ LastModified: 2026-04-25 17:41
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de duergar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Duergar]]</td><td>1/3</td></tr><tr><td>[[Esclavagiste duergar]]</td><td>1/2</td></tr><tr><td>[[Tireur délite duergar|Tireur d'élite duergar]]</td><td>1/2</td></tr><tr><td>[[Bombardier duergar]]</td><td>1</td></tr><tr><td>[[Enclume duergar]]</td><td>1</td></tr><tr><td>[[Sergent duergar]]</td><td>1</td></tr><tr><td>[[Scarabée crache-noir]]</td><td>3</td></tr><tr><td>[[Lieutenant duergar]]</td><td>5</td></tr><tr><td>[[Capitaine duergar]]</td><td>8</td></tr><tr><td>[[Maître de corvée duergar]]</td><td>9</td></tr><tr><td>[[Marteau duergar]]</td><td>11</td></tr><tr><td>[[Grand prêtre duergar]]</td><td>12</td></tr><tr><td>[[Scarabée juggernaut]]</td><td>14</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de duergar</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Duergar]]</td><td>1/3</td></tr>
+  <tr><td>[[Esclavagiste duergar]]</td><td>1/2</td></tr>
+  <tr><td>[[Tireur délite duergar|Tireur d'élite duergar]]</td><td>1/2</td></tr>
+  <tr><td>[[Bombardier duergar]]</td><td>1</td></tr>
+  <tr><td>[[Enclume duergar]]</td><td>1</td></tr>
+  <tr><td>[[Sergent duergar]]</td><td>1</td></tr>
+  <tr><td>[[Scarabée crache-noir]]</td><td>3</td></tr>
+  <tr><td>[[Lieutenant duergar]]</td><td>5</td></tr>
+  <tr><td>[[Capitaine duergar]]</td><td>8</td></tr>
+  <tr><td>[[Maître de corvée duergar]]</td><td>9</td></tr>
+  <tr><td>[[Marteau duergar]]</td><td>11</td></tr>
+  <tr><td>[[Grand prêtre duergar]]</td><td>12</td></tr>
+  <tr><td>[[Scarabée juggernaut]]</td><td>14</td></tr>
+</table>
 
 </div> Ces guerriers mystiques purgent la société duergar de
 toute corruption.

@@ -15,9 +15,85 @@ Il arrive que le temps joue un rôle important dans une aventure. La table ci-de
 {s:reference|DETERMINATIONALEATOIREDUCLIMAT}
 <center>
 
-<table CLASS="tablo" WIDTH="90%"><caption>Détermination aléatoire du climat</caption><tr CLASS="titre"><td>d%</td><td>Temps</td><td>Région froide</td><td>Région tempérée<sup>[[Climat#NOTE1|1]]</sup></td><td>Désert</td></tr><tr CLASS="premier"><td>01–70</td><td>Normal</td><td>[[Détermination aléatoire du climat#FROID|Froid]], [[Détermination aléatoire du climat#TEMPSCALME|temps calme]]</td><td>Normal pour la saison<sup>[[Climat#NOTE2|2]]</sup></td><td>[[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du climat#TEMPSCALME|temps calme]]</td></tr><tr CLASS="alt"><td>71–80</td><td>Anormal</td><td>[[Détermination aléatoire du climat#VAGUEDECHALEUR|Vague de chaleur]] (01–30) ou   
-[[Détermination aléatoire du climat#COUPDEFROID|coup de froid]] (31-100)</td><td>[[Détermination aléatoire du climat#VAGUEDECHALEUR|Vague de chaleur]] (01–50) ou   
-[[Détermination aléatoire du climat#COUPDEFROID|coup de froid]] (51-100)</td><td>[[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du climat#VENTEUX|venteux]]</td></tr><tr><td>81–90</td><td>Mauvais</td><td>[[Détermination aléatoire du climat#PRECIPITATIONS|Précipitations]] (neige)</td><td>[[Détermination aléatoire du climat#PRECIPITATIONS|Précipitations]] (normales pour la saison)</td><td>[[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du climat#VENTEUX|venteux]]</td></tr><tr CLASS="alt"><td>91–99</td><td>Tempête</td><td>[[Détermination aléatoire du climat#TEMPETE|Tempête de neige]]</td><td>[[Détermination aléatoire du climat#TEMPETE|Orage, Tempête de neige]]</td><td>[[Détermination aléatoire du climat#TEMPETE|Tempête de sable]]</td></tr><tr><td>100</td><td>Violente tempête</td><td>[[Détermination aléatoire du climat#VIOLENTE|Blizzard]]</td><td>[[Détermination aléatoire du climat#VIOLENTE|Cyclone, blizzard, ouragan, tornade]]</td><td>[[Détermination aléatoire du climat#TROMBESDEAU|Trombes d’eau]]</td></tr><tr><td COLSPAN="5" CLASS="note">{s:Reference|NOTE1}(1) Les régions tempérées comprennent les forêts, collines, marécages, montagnes, plaines et mers chaudes.</td></tr><tr><td COLSPAN="5" CLASS="note">{s:Reference|NOTE2}(2) [[Détermination aléatoire du climat#FROID|Froid]] pendant l’hiver, [[Détermination aléatoire du climat#CHAUD|chaud]] pendant l'été, [[Détermination aléatoire du climat#TEMPERE|tempéré]] pendant l'automne et le printemps. En hiver, les régions marécageuses sont toujours légèrement plus chaudes que les autres.</td></tr></table>
+<table CLASS="tablo" WIDTH="90%">
+  <caption>Détermination aléatoire du climat</caption>
+  <tr CLASS="titre">
+    <td>d%</td>
+    <td>Temps</td>
+    <td>Région froide</td>
+    <td>Région tempérée<sup>[[Climat#NOTE1|1]]</sup></td>
+    <td>Désert</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>01–70</td>
+    <td>Normal</td>
+    <td>
+      [[Détermination aléatoire du climat#FROID|Froid]], [[Détermination aléatoire du climat#TEMPSCALME|temps
+      calme]]
+    </td>
+    <td>Normal pour la saison<sup>[[Climat#NOTE2|2]]</sup></td>
+    <td>
+      [[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du
+      climat#TEMPSCALME|temps calme]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>71–80</td>
+    <td>Anormal</td>
+    <td>
+      [[Détermination aléatoire du climat#VAGUEDECHALEUR|Vague de chaleur]] (01–30) ou   
+[[Détermination aléatoire
+      du climat#COUPDEFROID|coup de froid]] (31-100)
+    </td>
+    <td>
+      [[Détermination aléatoire du climat#VAGUEDECHALEUR|Vague de chaleur]] (01–50) ou   
+[[Détermination aléatoire
+      du climat#COUPDEFROID|coup de froid]] (51-100)
+    </td>
+    <td>
+      [[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du
+      climat#VENTEUX|venteux]]
+    </td>
+  </tr>
+  <tr>
+    <td>81–90</td>
+    <td>Mauvais</td>
+    <td>[[Détermination aléatoire du climat#PRECIPITATIONS|Précipitations]] (neige)</td>
+    <td>[[Détermination aléatoire du climat#PRECIPITATIONS|Précipitations]] (normales pour la saison)</td>
+    <td>
+      [[Détermination aléatoire du climat#TRESCHAUD|Très chaud]], [[Détermination aléatoire du
+      climat#VENTEUX|venteux]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>91–99</td>
+    <td>Tempête</td>
+    <td>[[Détermination aléatoire du climat#TEMPETE|Tempête de neige]]</td>
+    <td>[[Détermination aléatoire du climat#TEMPETE|Orage, Tempête de neige]]</td>
+    <td>[[Détermination aléatoire du climat#TEMPETE|Tempête de sable]]</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>Violente tempête</td>
+    <td>[[Détermination aléatoire du climat#VIOLENTE|Blizzard]]</td>
+    <td>[[Détermination aléatoire du climat#VIOLENTE|Cyclone, blizzard, ouragan, tornade]]</td>
+    <td>[[Détermination aléatoire du climat#TROMBESDEAU|Trombes d’eau]]</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5" CLASS="note">
+      {s:Reference|NOTE1}(1) Les régions tempérées comprennent les forêts, collines, marécages, montagnes, plaines
+      et mers chaudes.
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="5" CLASS="note">
+      {s:Reference|NOTE2}(2) [[Détermination aléatoire du climat#FROID|Froid]] pendant l’hiver, [[Détermination
+      aléatoire du climat#CHAUD|chaud]] pendant l'été, [[Détermination aléatoire du climat#TEMPERE|tempéré]] pendant
+      l'automne et le printemps. En hiver, les régions marécageuses sont toujours légèrement plus chaudes que les
+      autres.
+    </td>
+  </tr>
+</table>
 
 </center>
 

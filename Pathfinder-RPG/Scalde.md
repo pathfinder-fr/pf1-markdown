@@ -17,7 +17,320 @@ Categories:
 </div>{s:mca}*Les scaldes sont des poètes, des historiens et des gardiens du savoir qui mettent leurs dons oratoires et leurs chants à profit pour plonger leurs alliés dans une rage frénétique. Ils tempèrent leur violence intérieure avec un vernis de civilisation, chroniquent les batailles héroïques et les exploits de leurs plus grands chefs et racontent ces histoires une fois améliorées pour remporter de nouvelles victoires encore plus sanglantes. La poésie du scalde est tout en nuance et s’interprète souvent de plusieurs manières. Ce personnage dispose de divers talents pour imiter la magie des autres lanceurs de sorts.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLESCALDE}Le scalde</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Scalde#CHANTDERAGE|Chant de rage]],[[Scalde#ECRITUREDEPARCHEMINS|écriture de parchemins]], [[Chants de rage#RAGEINSPIREE|rage inspirée]] +1 (+2 For/Con), [[Scalde#SAVOIRBARDIQUE|savoir bardique]], [[Scalde#TOURSDEMAGIE|tours de magie]]</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Scalde#ERUDITION|Érudition]], [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Chants de rage#CHANTDEMARCHE|Chant de marche]], [[Scalde#POUVOIRDERAGE|pouvoir de rage]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Scalde#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Scalde#RAGEINSPIREE|rage inspirée]] +2</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 1/jour</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Chants de rage#CHANTDEFORCE|Chant de force]], [[Scalde#POUVOIRDERAGE|pouvoir de rage]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Scalde#MAITREDUSAVOIR|Maître du savoir]] 1/jour, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Scalde#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[Scalde#RAGEINSPIREE|rage inspirée]] +3 (+4 For/Con)</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Scalde#POUVOIRDERAGE|Pouvoir de rage]], [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]]1/-</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Chants de rage#CHANTFUNESTE|Chant funeste]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 2/jour</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Scalde#POUVOIRDERAGE|Pouvoir de rage]], [[Scalde#RAGEINSPIREE|rage inspirée]] +4, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Scalde#MAITREDUSAVOIR|Maître du savoir]] 2/jour</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]], [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]] 2/-</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Scalde#POUVOIRDERAGE|Pouvoir de rage]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Scalde#RAGEINSPIREE|Rage inspirée]] +5 (+6 For/Con)</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 3/jour, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Scalde#POUVOIRDERAGE|Pouvoir de rage]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Scalde#MAITREDUSAVOIR|Maître du savoir]] 3/jour, [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]] 3/-</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[Scalde#MAITRESCALDE|Maître scalde]], [[Scalde#RAGEINSPIREE|rage inspirée]] +6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLESCALDE}Le scalde</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Scalde#CHANTDERAGE|Chant de rage]],[[Scalde#ECRITUREDEPARCHEMINS|écriture de parchemins]], [[Chants de
+      rage#RAGEINSPIREE|rage inspirée]] +1 (+2 For/Con), [[Scalde#SAVOIRBARDIQUE|savoir bardique]],
+      [[Scalde#TOURSDEMAGIE|tours de magie]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Scalde#ERUDITION|Érudition]], [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chants de rage#CHANTDEMARCHE|Chant de marche]], [[Scalde#POUVOIRDERAGE|pouvoir de rage]]</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Scalde#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Scalde#RAGEINSPIREE|rage inspirée]] +2</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 1/jour</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Chants de rage#CHANTDEFORCE|Chant de force]], [[Scalde#POUVOIRDERAGE|pouvoir de rage]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Scalde#MAITREDUSAVOIR|Maître du savoir]] 1/jour, [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Scalde#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[Scalde#RAGEINSPIREE|rage inspirée]]
+      +3 (+4 For/Con)
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Scalde#POUVOIRDERAGE|Pouvoir de rage]], [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]]1/-
+    </td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Chants de rage#CHANTFUNESTE|Chant funeste]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 2/jour</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[Scalde#POUVOIRDERAGE|Pouvoir de rage]], [[Scalde#RAGEINSPIREE|rage inspirée]] +4,
+      [[Scalde#VERSATILITEARTISTIQUE|versatilité artistique]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Scalde#MAITREDUSAVOIR|Maître du savoir]] 2/jour</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">
+      [[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]], [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]] 2/-
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Scalde#POUVOIRDERAGE|Pouvoir de rage]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Scalde#RAGEINSPIREE|Rage inspirée]] +5 (+6 For/Con)</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Scalde#COMPREHENSIONDESSORTS|Compréhension des sorts]] 3/jour, [[Scalde#VERSATILITEARTISTIQUE|versatilité
+      artistique]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Scalde#POUVOIRDERAGE|Pouvoir de rage]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">
+      [[Scalde#MAITREDUSAVOIR|Maître du savoir]] 3/jour, [[Scalde#REDUCTIONDEDEGATS|réduction de dégâts]] 3/-
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[Scalde#MAITRESCALDE|Maître scalde]], [[Scalde#RAGEINSPIREE|rage inspirée]] +6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 **Rôle.** Le scalde inspire ses alliés et les pousse souvent à engager l’ennemi au corps à corps. En dehors des combats, c’est un guérisseur et un érudit un peu moins polyvalent qu’un barde mais plus résistant.
@@ -55,7 +368,31 @@ Un scalde connaît un certain nombre de tours de magie (ou sorts de niveau 0) co
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLESORTSCONNUSSCALDE}Sorts de scalde connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLESORTSCONNUSSCALDE}Sorts de scalde connus</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+</table>
 
 </div></div>{s:Reference|SORTS}
 #### Sorts

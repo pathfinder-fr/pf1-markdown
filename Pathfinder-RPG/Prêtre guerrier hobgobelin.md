@@ -48,7 +48,20 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de Hobgobelin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr><tr><td>[[Yzobu]]</td><td>1</td></tr><tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr><tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr><tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr><tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr><tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr><tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr><tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr><tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de Hobgobelin</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr>
+  <tr><td>[[Yzobu]]</td><td>1</td></tr>
+  <tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr>
+  <tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr>
+  <tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr>
+  <tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr>
+  <tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr>
+  <tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr>
+  <tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr>
+  <tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr>
+</table>
 
 </div>Au sein d’une armée d’hobgobelins, les prêtres guerriers occupent le rôle de chefs spirituels et de source d’inspiration. Ils jouent un rôle essentiel dans l’art de la guerre hobgobelin. Ils fournissent peu d’efforts pour soigner leurs alliés et soulager leurs maux et préfèrent accorder de puissants effets à leurs soldats avant une bataille.
 

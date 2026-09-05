@@ -51,7 +51,37 @@ La compétence de Perception permet également de remarquer certains détails da
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="80%"><caption>modificateur des tests de Perception</caption><tr CLASS="titre"><td>Circonstances</td><td>Modificateur au DD du test de Perception</td></tr><tr CLASS="premier"><td>Distance entre le personnage et la source/l’objet/la créature</td><td>+1 par 3 m (2 cases)</td></tr><tr><td>À travers une porte fermée</td><td>+5</td></tr><tr><td>À travers un mur</td><td>+10 par 30 cm d’épaisseur</td></tr><tr><td>Conditions favorables<sup>[[Perception#NOTE1|1]]</sup></td><td>-2</td></tr><tr><td>Conditions défavorables<sup>[[Perception#NOTE1|1]]</sup></td><td>+2</td></tr><tr><td>Conditions exécrables<sup>[[Perception#NOTE2|2]]</sup></td><td>+5</td></tr><tr><td>Le personnage qui réalise le test de Perception est distrait</td><td>+5</td></tr><tr><td>Le personnage qui réalise le test de Perception est endormi</td><td>+10</td></tr><tr><td>La créature/l’objet est invisible</td><td>+20</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE1}*(1) Les conditions favorables et défavorables dépendent du sens qui est employé. Par exemple, une lumière forte peut faciliter les tests liés à la vue alors les tests effectués à la lueur d’une torche ou de la lune seront plus difficiles ; des bruits de fond peuvent augmenter le DD d’un test basé sur l’ouïe ; un mélange d’odeurs peut compliquer les tests relatifs à l’[[odorat]].*</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE2}*(2) Il s’agit de conditions plus extrêmes que les conditions défavorables. Par exemple, un test lié à la vue à la lueur d’une bougie, un test lié à l’ouïe à côté d’un dragon qui rugit ou un test lié à l’[[odorat]] dans une zone où règne une puanteur écrasante.*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="80%">
+  <caption>modificateur des tests de Perception</caption>
+  <tr CLASS="titre"><td>Circonstances</td><td>Modificateur au DD du test de Perception</td></tr>
+  <tr CLASS="premier">
+    <td>Distance entre le personnage et la source/l’objet/la créature</td>
+    <td>+1 par 3 m (2 cases)</td>
+  </tr>
+  <tr><td>À travers une porte fermée</td><td>+5</td></tr>
+  <tr><td>À travers un mur</td><td>+10 par 30 cm d’épaisseur</td></tr>
+  <tr><td>Conditions favorables<sup>[[Perception#NOTE1|1]]</sup></td><td>-2</td></tr>
+  <tr><td>Conditions défavorables<sup>[[Perception#NOTE1|1]]</sup></td><td>+2</td></tr>
+  <tr><td>Conditions exécrables<sup>[[Perception#NOTE2|2]]</sup></td><td>+5</td></tr>
+  <tr><td>Le personnage qui réalise le test de Perception est distrait</td><td>+5</td></tr>
+  <tr><td>Le personnage qui réalise le test de Perception est endormi</td><td>+10</td></tr>
+  <tr><td>La créature/l’objet est invisible</td><td>+20</td></tr>
+  <tr>
+    <td COLSPAN="2" CLASS="note">
+      {s:Reference|NOTE1}*(1) Les conditions favorables et défavorables dépendent du sens qui est employé. Par
+      exemple, une lumière forte peut faciliter les tests liés à la vue alors les tests effectués à la lueur d’une
+      torche ou de la lune seront plus difficiles ; des bruits de fond peuvent augmenter le DD d’un test basé sur
+      l’ouïe ; un mélange d’odeurs peut compliquer les tests relatifs à l’[[odorat]].*
+    </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2" CLASS="note">
+      {s:Reference|NOTE2}*(2) Il s’agit de conditions plus extrêmes que les conditions défavorables. Par exemple, un
+      test lié à la vue à la lueur d’une bougie, un test lié à l’ouïe à côté d’un dragon qui rugit ou un test lié à
+      l’[[odorat]] dans une zone où règne une puanteur écrasante.*
+    </td>
+  </tr>
+</table>
 
 
 

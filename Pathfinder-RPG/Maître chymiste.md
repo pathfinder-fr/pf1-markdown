@@ -14,7 +14,115 @@ Les maîtres chymistes développent deux personnalités qui se partagent un mêm
 
 <center>
 
-<table CLASS="tablo"><caption>Le maître chymiste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td><td CLASS="gauche">[[maître chymiste#FORMEMUTEE|Forme mutée]], [[maître chymiste#LANCEURDEBOMBES|Lanceur de bombes]], [[maître chymiste#MUTATION|Mutation]] 2/jour</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +2</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">-</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 3/jour</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +4</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 4/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">-</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +6</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 5/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le maître chymiste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[maître chymiste#FORMEMUTEE|Forme mutée]], [[maître chymiste#LANCEURDEBOMBES|Lanceur de bombes]], [[maître
+      chymiste#MUTATION|Mutation]] 2/jour
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +2</td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 3/jour</td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +4</td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[maître chymiste#MUTATION|Mutation]] 4/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +6</td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[maître chymiste#MUTATION|Mutation]] 5/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
+    </td>
+    <td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td>
+  </tr>
+</table>
 
 </center>
 

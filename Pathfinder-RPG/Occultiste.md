@@ -16,7 +16,317 @@ Categories:
 </div>{s:AO}*L’occultiste se focalise sur le monde qui l’entoure et développe une conscience aiguë des énergies qui traversent son environnement. Il étudie la magie qui imprègne toute chose, depuis les résonances psychiques émises par les objets ordinaires jusqu’aux puissantes incantations nécessaires pour activer les sorts les plus redoutables. L’occultiste canalise sa force psychique au travers d’instruments : des objets qui lui permettent de concentrer son pouvoir et de produire d’incroyables effets. Pour lui, les instruments sont bien plus que de simples outils. Ce sont des témoignages et des objets liés aux événements du passé. L’occultiste les utilise pour influencer et modifier le présent en ajoutant sa légende aux leurs. Même si certains de ces instruments sont des objets magiques à part entière, la plupart sont des objets, certes simples, mais néanmoins importants pour l’occultiste sur le plan personnel ou historique.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEOCCULTISTE}L'occultiste</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Occultiste#ASTUCES|Astuces]], [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]], [[OCCULTISTE#INSTRUMENTS|instruments 2]], [[Occultiste#POUVOIRDEFOCALISATION|pouvoir de focalisation]]</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Occultiste#EXPERTDESOBJETSMAGIQUES|Expert des objets magiques]], [[OCCULTISTE#INSTRUMENTS|instruments 3]], [[Occultiste#LECTUREDOBJET|lecture d'objet]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Occultiste#TRANSFERTDEFOCALISATION|Transfert de focalisation]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|pouvoir de focalisation]], [[Occultiste#VISIONDESAURAS|vision des auras]]</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 4]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 1]], [[Occultiste#CERCLESMAGIQUES|cercles magiques]]</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 5]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 2]], [[Occultiste#CERCLEDENTRAVE|cercle d'entrave]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 6]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 3]], [[Occultiste#TRACAGEDESCERCLESACCÉLÉRÉ|traçage des cercles accéléré]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 7]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 4]], [[Occultiste#MAITRISEDUNEECOLEINSTRUMENTALE|maîtrise d'une école instrumentale]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEOCCULTISTE}L'occultiste</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Occultiste#ASTUCES|Astuces]], [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]],
+      [[OCCULTISTE#INSTRUMENTS|instruments 2]], [[Occultiste#POUVOIRDEFOCALISATION|pouvoir de focalisation]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Occultiste#EXPERTDESOBJETSMAGIQUES|Expert des objets magiques]], [[OCCULTISTE#INSTRUMENTS|instruments 3]],
+      [[Occultiste#LECTUREDOBJET|lecture d'objet]]
+    </td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Occultiste#TRANSFERTDEFOCALISATION|Transfert de focalisation]]</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Occultiste#POUVOIRDEFOCALISATION|pouvoir de focalisation]], [[Occultiste#VISIONDESAURAS|vision des auras]]
+    </td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 4]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 1]], [[Occultiste#CERCLESMAGIQUES|cercles magiques]]
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 5]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 2]], [[Occultiste#CERCLEDENTRAVE|cercle d'entrave]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 6]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 3]], [[Occultiste#TRACAGEDESCERCLESACCÉLÉRÉ|traçage des cercles
+      accéléré]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[OCCULTISTE#INSTRUMENTS|Instruments 7]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Occultiste#POUVOIRDEFOCALISATION|Pouvoir de focalisation]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Occultiste#APPELDEXTERIEUR|Appel d'Extérieur 4]], [[Occultiste#MAITRISEDUNEECOLEINSTRUMENTALE|maîtrise d'une
+      école instrumentale]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 **Rôle.** Les occultistes sont toujours prêts à voyager en compagnie d’aventuriers, d’explorateurs et d’archéologues, car ces trois catégories d’individus ont un don pour trouver des objets d’une grande importance d’un point de vue historique.

@@ -82,20 +82,400 @@ Concernant les sorts : inutile de faire une liste, on peut déterminer au vol s'
 - Les sorts de niveau inférieur : ils sont tous disponibles, soit parce qu'ils sont mémorisés, soit sous forme de parchemin.
 <center>
 
-<table CLASS="tablo"><caption>Evolution en fonction du niveau</caption><tr CLASS="titre"><td>Niveau</td><td>Carac.  
-principale</td><td>Mod.  
+<table CLASS="tablo">
+  <caption>Evolution en fonction du niveau</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>Carac.  
+principale</td>
+    <td>Mod.  
 carac.  
-associé</td><td>JS  
-(faible)</td><td>JS  
-(fort)</td><td>Attaque  
-(faible)</td><td>Attaque  
-(moyen)</td><td>Attaque  
-(fort)</td><td>CA  
-(sans)</td><td>CA  
-(légère)</td><td>CA  
-(inter.)</td><td>CA  
-(lourde)</td><td>Bonus  
-bouclier</td><td>PV  
-(faibles)</td><td>PV  
-(moyens)</td><td>PV  
-(forts)</td></tr><tr CLASS="premier"><td>1</td><td>16</td><td>+3</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td>+1</td><td>10</td><td>13</td><td>16</td><td>19</td><td>+2</td><td>7</td><td>9</td><td>11</td></tr><tr CLASS="alt"><td>2</td><td>16</td><td>+3</td><td>+0</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td>10</td><td>13</td><td>16</td><td>19</td><td>+2</td><td>11</td><td>14</td><td>17</td></tr><tr><td>3</td><td>16</td><td>+3</td><td>+1</td><td>+3</td><td>+1</td><td>+2</td><td>+3</td><td>10</td><td>13</td><td>16</td><td>19</td><td>+3</td><td>16</td><td>20</td><td>24</td></tr><tr CLASS="alt"><td>4</td><td>17</td><td>+3</td><td>+1</td><td>+4</td><td>+2</td><td>+3</td><td>+4</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+2</td><td>20</td><td>25</td><td>30</td></tr><tr><td>5</td><td>17</td><td>+3</td><td>+1</td><td>+4</td><td>+3</td><td>+4</td><td>+6</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+2</td><td>25</td><td>31</td><td>37</td></tr><tr CLASS="alt"><td>6</td><td>17</td><td>+3</td><td>+3</td><td>+6</td><td>+4</td><td>+5</td><td>+7/+2</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+3</td><td>29</td><td>36</td><td>43</td></tr><tr><td>7</td><td>17</td><td>+3</td><td>+3</td><td>+6</td><td>+4</td><td>+6</td><td>+8/+3</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+3</td><td>34</td><td>42</td><td>50</td></tr><tr CLASS="alt"><td>8</td><td>18</td><td>+4</td><td>+3</td><td>+7</td><td>+5</td><td>+7/+2</td><td>+9/+4</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+2</td><td>38</td><td>47</td><td>56</td></tr><tr><td>9</td><td>18</td><td>+4</td><td>+4</td><td>+7</td><td>+5</td><td>+7/+2</td><td>+10/+5</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+3</td><td>43</td><td>53</td><td>63</td></tr><tr CLASS="alt"><td>10</td><td>18</td><td>+4</td><td>+4</td><td>+8</td><td>+7</td><td>+9/+4</td><td>+12/+7</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+3</td><td>47</td><td>58</td><td>69</td></tr><tr><td>11</td><td>18</td><td>+4</td><td>+4</td><td>+8</td><td>+7</td><td>+10/+5</td><td>+13/+8/+3</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+3</td><td>52</td><td>64</td><td>76</td></tr><tr CLASS="alt"><td>12</td><td>21</td><td>+5</td><td>+6</td><td>+10</td><td>+8/+3</td><td>+11/+6</td><td>+14/+9/+4</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+3</td><td>56</td><td>69</td><td>82</td></tr><tr><td>13</td><td>21</td><td>+5</td><td>+6</td><td>+10</td><td>+8/+3</td><td>+11/+6</td><td>+15/+10/+5</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+3</td><td>61</td><td>75</td><td>89</td></tr><tr CLASS="alt"><td>14</td><td>21</td><td>+5</td><td>+6</td><td>+11</td><td>+9/+4</td><td>+12/+7</td><td>+16/+11/+6</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+3</td><td>65</td><td>80</td><td>95</td></tr><tr><td>15</td><td>21</td><td>+5</td><td>+7</td><td>+11</td><td>+10/+5</td><td>+14/+9/+4</td><td>+18/+13/+8</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+4</td><td>70</td><td>86</td><td>102</td></tr><tr CLASS="alt"><td>16</td><td>24</td><td>+7</td><td>+7</td><td>+12</td><td>+11/+6</td><td>+15/+10/+5</td><td>+19/+14/+9/+4</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+3</td><td>74</td><td>91</td><td>108</td></tr><tr><td>17</td><td>24</td><td>+7</td><td>+7</td><td>+12</td><td>+11/+6</td><td>+15/+10/+5</td><td>+20/+15/+10/+5</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+3</td><td>79</td><td>97</td><td>115</td></tr><tr CLASS="alt"><td>18</td><td>24</td><td>+7</td><td>+9</td><td>+14</td><td>+12/+7</td><td>+16/+11/+6</td><td>+21/+16/+11/+6</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+4</td><td>83</td><td>102</td><td>121</td></tr><tr><td>19</td><td>24</td><td>+7</td><td>+9</td><td>+14</td><td>+12/+7</td><td>+17/+12/+7</td><td>+22/+17/+12/+7</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+4</td><td>88</td><td>108</td><td>128</td></tr><tr CLASS="alt"><td>20</td><td>27</td><td>+8</td><td>+9</td><td>+15</td><td>+14/+9</td><td>+19/+14/+9</td><td>+24/+19/+14/+9</td><td>15</td><td>18</td><td>21</td><td>24</td><td>+3</td><td>92</td><td>113</td><td>134</td></tr></table>
+associé</td>
+    <td>JS  
+(faible)</td>
+    <td>JS  
+(fort)</td>
+    <td>Attaque  
+(faible)</td>
+    <td>Attaque  
+(moyen)</td>
+    <td>Attaque  
+(fort)</td>
+    <td>CA  
+(sans)</td>
+    <td>CA  
+(légère)</td>
+    <td>CA  
+(inter.)</td>
+    <td>CA  
+(lourde)</td>
+    <td>Bonus  
+bouclier</td>
+    <td>PV  
+(faibles)</td>
+    <td>PV  
+(moyens)</td>
+    <td>PV  
+(forts)</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>16</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>10</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>+2</td>
+    <td>7</td>
+    <td>9</td>
+    <td>11</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>16</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>10</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>+2</td>
+    <td>11</td>
+    <td>14</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>16</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>10</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>+3</td>
+    <td>16</td>
+    <td>20</td>
+    <td>24</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>17</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>11</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>+2</td>
+    <td>20</td>
+    <td>25</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>17</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+6</td>
+    <td>11</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>+2</td>
+    <td>25</td>
+    <td>31</td>
+    <td>37</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>17</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+7/+2</td>
+    <td>11</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>+3</td>
+    <td>29</td>
+    <td>36</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>17</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+6</td>
+    <td>+8/+3</td>
+    <td>11</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>+3</td>
+    <td>34</td>
+    <td>42</td>
+    <td>50</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>18</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+7/+2</td>
+    <td>+9/+4</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>+2</td>
+    <td>38</td>
+    <td>47</td>
+    <td>56</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>18</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+7/+2</td>
+    <td>+10/+5</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>+3</td>
+    <td>43</td>
+    <td>53</td>
+    <td>63</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>18</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+7</td>
+    <td>+9/+4</td>
+    <td>+12/+7</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>+3</td>
+    <td>47</td>
+    <td>58</td>
+    <td>69</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>18</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+7</td>
+    <td>+10/+5</td>
+    <td>+13/+8/+3</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>+3</td>
+    <td>52</td>
+    <td>64</td>
+    <td>76</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>21</td>
+    <td>+5</td>
+    <td>+6</td>
+    <td>+10</td>
+    <td>+8/+3</td>
+    <td>+11/+6</td>
+    <td>+14/+9/+4</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>22</td>
+    <td>+3</td>
+    <td>56</td>
+    <td>69</td>
+    <td>82</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>21</td>
+    <td>+5</td>
+    <td>+6</td>
+    <td>+10</td>
+    <td>+8/+3</td>
+    <td>+11/+6</td>
+    <td>+15/+10/+5</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>22</td>
+    <td>+3</td>
+    <td>61</td>
+    <td>75</td>
+    <td>89</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>21</td>
+    <td>+5</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+9/+4</td>
+    <td>+12/+7</td>
+    <td>+16/+11/+6</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>22</td>
+    <td>+3</td>
+    <td>65</td>
+    <td>80</td>
+    <td>95</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>21</td>
+    <td>+5</td>
+    <td>+7</td>
+    <td>+11</td>
+    <td>+10/+5</td>
+    <td>+14/+9/+4</td>
+    <td>+18/+13/+8</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>22</td>
+    <td>+4</td>
+    <td>70</td>
+    <td>86</td>
+    <td>102</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>24</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+12</td>
+    <td>+11/+6</td>
+    <td>+15/+10/+5</td>
+    <td>+19/+14/+9/+4</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>23</td>
+    <td>+3</td>
+    <td>74</td>
+    <td>91</td>
+    <td>108</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>24</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+12</td>
+    <td>+11/+6</td>
+    <td>+15/+10/+5</td>
+    <td>+20/+15/+10/+5</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>23</td>
+    <td>+3</td>
+    <td>79</td>
+    <td>97</td>
+    <td>115</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>24</td>
+    <td>+7</td>
+    <td>+9</td>
+    <td>+14</td>
+    <td>+12/+7</td>
+    <td>+16/+11/+6</td>
+    <td>+21/+16/+11/+6</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>23</td>
+    <td>+4</td>
+    <td>83</td>
+    <td>102</td>
+    <td>121</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>24</td>
+    <td>+7</td>
+    <td>+9</td>
+    <td>+14</td>
+    <td>+12/+7</td>
+    <td>+17/+12/+7</td>
+    <td>+22/+17/+12/+7</td>
+    <td>14</td>
+    <td>17</td>
+    <td>20</td>
+    <td>23</td>
+    <td>+4</td>
+    <td>88</td>
+    <td>108</td>
+    <td>128</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>27</td>
+    <td>+8</td>
+    <td>+9</td>
+    <td>+15</td>
+    <td>+14/+9</td>
+    <td>+19/+14/+9</td>
+    <td>+24/+19/+14/+9</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>24</td>
+    <td>+3</td>
+    <td>92</td>
+    <td>113</td>
+    <td>134</td>
+  </tr>
+</table>

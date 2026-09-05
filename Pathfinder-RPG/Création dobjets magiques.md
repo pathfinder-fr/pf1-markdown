@@ -43,10 +43,167 @@ Techniquement la formule d’<u>[[Création dobjets magiques#ESTIMATION|estimati
 {s:Reference|ESTIMATIONPRIXOM}
 <center>
 
-<table CLASS="tablo"><caption>Estimation du prix des objets magiques</caption><tr CLASS="titre"><td>Effet</td><td CLASS="gauche">Prix de base</td><td CLASS="gauche">Exemples</td></tr><tr CLASS="premier"><td>Bonus à l’armure naturelle (altération)</td><td CLASS="gauche">Bonus au carré x 2 000 po</td><td CLASS="gauche">*[[amulette darmure naturelle|Amulette d’armure naturelle]] +1*</td></tr><tr CLASS="alt"><td>Bonus à la CA (parade)</td><td CLASS="gauche">Bonus au carré x 2 000 po</td><td CLASS="gauche">*[[Anneau de protection]] +3*</td></tr><tr><td>Bonus à la CA (autre)<sup>[[Création dobjets magiques#NOTE1|1]]</sup></td><td CLASS="gauche">Bonus au carré x 2 500 po</td><td CLASS="gauche">*[[Pierre ioun]]* (prisme rose laiteux)</td></tr><tr CLASS="alt"><td>Bonus à une armure (altération)</td><td CLASS="gauche">Bonus au carré x 1 000 po</td><td CLASS="gauche">*Cotte de mailles +1*</td></tr><tr><td>Bonus à une arme (altération)</td><td CLASS="gauche">Bonus au carré x 2 000 po</td><td CLASS="gauche">*Épée longue +1*</td></tr><tr CLASS="alt"><td>Bonus à une caractéristique (altération)</td><td CLASS="gauche">Bonus au carré x 1 000 po</td><td CLASS="gauche">*[[Ceinturon de Dextérité du chat]]*</td></tr><tr><td>Bonus à une compétence (aptitude)</td><td CLASS="gauche">Bonus au carré x 100 po</td><td CLASS="gauche">*[[Cape elfique]]*</td></tr><tr CLASS="alt"><td>Bonus aux sauvegardes (résistance)</td><td CLASS="gauche">Bonus au carré x 1 000 po</td><td CLASS="gauche">*[[Cape de résistance]] +5*</td></tr><tr><td>Bonus aux sauvegardes (autre)<sup>[[Création dobjets magiques#NOTE1|1]]</sup></td><td CLASS="gauche">Bonus au carré x 2 000 po</td><td CLASS="gauche">*[[Pierre porte-bonheur]]*</td></tr><tr CLASS="alt"><td>Résistance à la magie</td><td CLASS="gauche">10 000 po par point au-dessus de [[RM]] 12  
- ([[RM]] 13 minimum)</td><td CLASS="gauche">*[[Chasuble de résistance à la magie]]*</td></tr><tr><td>Sort en bonus</td><td CLASS="gauche">Niveau de sort* au carré x 1 000 po</td><td CLASS="gauche">*[[Perle de thaumaturge]]*</td></tr><tr CLASS="titre"><td>Effet imitant un sort</td><td CLASS="gauche">Prix de base</td><td CLASS="gauche">Exemples</td></tr><tr CLASS="premier"><td>Usage unique, fin d’incantation</td><td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 25 po</td><td CLASS="gauche">*[[parchemins magiques|Parchemin]] de [[rapidité]]*</td></tr><tr CLASS="alt"><td>Usage unique, usage</td><td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 50 po</td><td CLASS="gauche">*[[potions magiques|Potion]] de [[soins légers]]*</td></tr><tr><td>50 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]], potentiel magique</td><td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 750 po</td><td CLASS="gauche">*[[baguettes magiques|Baguette]] de [[boule de feu]]*</td></tr><tr CLASS="alt"><td>Illimité, mot de commande</td><td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 1 800 po</td><td CLASS="gauche">*[[Cape de prestidigitateur]]*</td></tr><tr><td>Illimité, usage ou continu</td><td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 2 000 po<sup>[[Création dobjets magiques#NOTE2|2]]</sup></td><td CLASS="gauche">*[[Lanterne révélatrice]]*</td></tr><tr CLASS="titre"><td>Spécial</td><td CLASS="gauche">Ajustement au prix de base</td><td CLASS="gauche">Exemples</td></tr><tr CLASS="premier"><td>Nombre de [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]] par jour</td><td CLASS="gauche">Diviser par (5/nombre de [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]] par jour)</td><td CLASS="gauche">*[[Bottes de téléportation]]*</td></tr><tr CLASS="alt"><td>N’occupe pas d’emplacement<sup>[[Création dobjets magiques#NOTE3|3]]</sup></td><td CLASS="gauche">Multiplier par 2</td><td CLASS="gauche">*[[Pierre ioun]]*</td></tr><tr><td>Objet à effet multiple</td><td CLASS="gauche">Multiplier le coût le plus bas par 1,5</td><td CLASS="gauche">*[[Casque de mille feux]]*</td></tr><tr CLASS="alt"><td>Chargé (50 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]])</td><td CLASS="gauche">Moitié du coût d’usage illimité</td><td CLASS="gauche">*[[Anneau du bélier]]*</td></tr><tr CLASS="titre"><td>Composante</td><td CLASS="gauche">Coût supplémentaire</td><td CLASS="gauche">Exemple</td></tr><tr CLASS="premier"><td>Arme, armure ou bouclier</td><td CLASS="gauche">Ajouter le coût d’un objet de maître</td><td CLASS="gauche">*Arc long composite +1*</td></tr><tr CLASS="alt"><td>Sort à composante</td><td CLASS="gauche">Ajouter le prix des composantes pour chaque [[Règles relatives aux objets magiques#OBJETSACHARGES|charge]]<sup>[[Création dobjets magiques#NOTE4|4]]</sup></td><td CLASS="gauche">*[[baguettes magiques|Baguette]] de [[peau de pierre]]*</td></tr><tr CLASS="note"><td COLSPAN="3">*(*) Niveau du sort : un sort du niveau 0 vaut deux fois moins qu’un sort du 1er niveau pour ce qui est de déterminer le prix de l’objet.*</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE1} (1) Comme un bonus de chance, d’intuition, sacré ou de malfaisance.*</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE2} (2) Le prix d’un effet continu dépend de la durée du sort. Si elle est exprimée en rounds, le prix est multiplié par 4. Si elle est de 1 minute/niveau,   
-il est multiplié par 2. Si elle est de 10 minutes/niveau, il est multiplié par 1,5. Si elle est de 24 heures ou plus, il est divisé par deux.*</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE3} (3) Un objet qui n’occupe pas d’emplacement vaut le double.*</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE4} (4) Si l’objet est à usage continu ou illimité, déterminez son prix comme s’il avait 100 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]]. Si son utilisation obéit à une limite quotidienne,   
-considérez qu’il a 50 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]].*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Estimation du prix des objets magiques</caption>
+  <tr CLASS="titre"><td>Effet</td><td CLASS="gauche">Prix de base</td><td CLASS="gauche">Exemples</td></tr>
+  <tr CLASS="premier">
+    <td>Bonus à l’armure naturelle (altération)</td>
+    <td CLASS="gauche">Bonus au carré x 2 000 po</td>
+    <td CLASS="gauche">*[[amulette darmure naturelle|Amulette d’armure naturelle]] +1*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Bonus à la CA (parade)</td>
+    <td CLASS="gauche">Bonus au carré x 2 000 po</td>
+    <td CLASS="gauche">*[[Anneau de protection]] +3*</td>
+  </tr>
+  <tr>
+    <td>Bonus à la CA (autre)<sup>[[Création dobjets magiques#NOTE1|1]]</sup></td>
+    <td CLASS="gauche">Bonus au carré x 2 500 po</td>
+    <td CLASS="gauche">*[[Pierre ioun]]* (prisme rose laiteux)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Bonus à une armure (altération)</td>
+    <td CLASS="gauche">Bonus au carré x 1 000 po</td>
+    <td CLASS="gauche">*Cotte de mailles +1*</td>
+  </tr>
+  <tr>
+    <td>Bonus à une arme (altération)</td>
+    <td CLASS="gauche">Bonus au carré x 2 000 po</td>
+    <td CLASS="gauche">*Épée longue +1*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Bonus à une caractéristique (altération)</td>
+    <td CLASS="gauche">Bonus au carré x 1 000 po</td>
+    <td CLASS="gauche">*[[Ceinturon de Dextérité du chat]]*</td>
+  </tr>
+  <tr>
+    <td>Bonus à une compétence (aptitude)</td>
+    <td CLASS="gauche">Bonus au carré x 100 po</td>
+    <td CLASS="gauche">*[[Cape elfique]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Bonus aux sauvegardes (résistance)</td>
+    <td CLASS="gauche">Bonus au carré x 1 000 po</td>
+    <td CLASS="gauche">*[[Cape de résistance]] +5*</td>
+  </tr>
+  <tr>
+    <td>Bonus aux sauvegardes (autre)<sup>[[Création dobjets magiques#NOTE1|1]]</sup></td>
+    <td CLASS="gauche">Bonus au carré x 2 000 po</td>
+    <td CLASS="gauche">*[[Pierre porte-bonheur]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Résistance à la magie</td>
+    <td CLASS="gauche">10 000 po par point au-dessus de [[RM]] 12  
+ ([[RM]] 13 minimum)</td>
+    <td CLASS="gauche">*[[Chasuble de résistance à la magie]]*</td>
+  </tr>
+  <tr>
+    <td>Sort en bonus</td>
+    <td CLASS="gauche">Niveau de sort* au carré x 1 000 po</td>
+    <td CLASS="gauche">*[[Perle de thaumaturge]]*</td>
+  </tr>
+  <tr CLASS="titre">
+    <td>Effet imitant un sort</td>
+    <td CLASS="gauche">Prix de base</td>
+    <td CLASS="gauche">Exemples</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Usage unique, fin d’incantation</td>
+    <td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 25 po</td>
+    <td CLASS="gauche">*[[parchemins magiques|Parchemin]] de [[rapidité]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Usage unique, usage</td>
+    <td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 50 po</td>
+    <td CLASS="gauche">*[[potions magiques|Potion]] de [[soins légers]]*</td>
+  </tr>
+  <tr>
+    <td>50 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]], potentiel magique</td>
+    <td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 750 po</td>
+    <td CLASS="gauche">*[[baguettes magiques|Baguette]] de [[boule de feu]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Illimité, mot de commande</td>
+    <td CLASS="gauche">Niveau du sort* x niveau du lanceur de sorts x 1 800 po</td>
+    <td CLASS="gauche">*[[Cape de prestidigitateur]]*</td>
+  </tr>
+  <tr>
+    <td>Illimité, usage ou continu</td>
+    <td CLASS="gauche">
+      Niveau du sort* x niveau du lanceur de sorts x 2 000 po<sup>[[Création dobjets magiques#NOTE2|2]]</sup>
+    </td>
+    <td CLASS="gauche">*[[Lanterne révélatrice]]*</td>
+  </tr>
+  <tr CLASS="titre">
+    <td>Spécial</td>
+    <td CLASS="gauche">Ajustement au prix de base</td>
+    <td CLASS="gauche">Exemples</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Nombre de [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]] par jour</td>
+    <td CLASS="gauche">
+      Diviser par (5/nombre de [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]] par jour)
+    </td>
+    <td CLASS="gauche">*[[Bottes de téléportation]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>N’occupe pas d’emplacement<sup>[[Création dobjets magiques#NOTE3|3]]</sup></td>
+    <td CLASS="gauche">Multiplier par 2</td>
+    <td CLASS="gauche">*[[Pierre ioun]]*</td>
+  </tr>
+  <tr>
+    <td>Objet à effet multiple</td>
+    <td CLASS="gauche">Multiplier le coût le plus bas par 1,5</td>
+    <td CLASS="gauche">*[[Casque de mille feux]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Chargé (50 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]])</td>
+    <td CLASS="gauche">Moitié du coût d’usage illimité</td>
+    <td CLASS="gauche">*[[Anneau du bélier]]*</td>
+  </tr>
+  <tr CLASS="titre"><td>Composante</td><td CLASS="gauche">Coût supplémentaire</td><td CLASS="gauche">Exemple</td></tr>
+  <tr CLASS="premier">
+    <td>Arme, armure ou bouclier</td>
+    <td CLASS="gauche">Ajouter le coût d’un objet de maître</td>
+    <td CLASS="gauche">*Arc long composite +1*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Sort à composante</td>
+    <td CLASS="gauche">
+      Ajouter le prix des composantes pour chaque [[Règles relatives aux objets magiques#OBJETSACHARGES|charge]]
+      <sup>[[Création dobjets magiques#NOTE4|4]]</sup>
+    </td>
+    <td CLASS="gauche">*[[baguettes magiques|Baguette]] de [[peau de pierre]]*</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(*) Niveau du sort : un sort du niveau 0 vaut deux fois moins qu’un sort du 1er niveau pour ce qui est de
+      déterminer le prix de l’objet.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">*{s:Reference|NOTE1} (1) Comme un bonus de chance, d’intuition, sacré ou de malfaisance.*</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *{s:Reference|NOTE2} (2) Le prix d’un effet continu dépend de la durée du sort. Si elle est exprimée en
+      rounds, le prix est multiplié par 4. Si elle est de 1 minute/niveau,   
+il est multiplié par 2. Si elle est
+      de 10 minutes/niveau, il est multiplié par 1,5. Si elle est de 24 heures ou plus, il est divisé par deux.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">*{s:Reference|NOTE3} (3) Un objet qui n’occupe pas d’emplacement vaut le double.*</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *{s:Reference|NOTE4} (4) Si l’objet est à usage continu ou illimité, déterminez son prix comme s’il avait 100
+      [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]]. Si son utilisation obéit à une limite
+      quotidienne,   
+considérez qu’il a 50 [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]].*
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -123,13 +280,35 @@ Fabriquer une [[armures magiques|armure magique]] requiert 1 jour par tranche de
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Prix de base des baguettes</caption><tr CLASS="titre"><td>Niveau  
-du sort</td><td>[[Druide]]  
+<table CLASS="tablo">
+  <caption>Prix de base des baguettes</caption>
+  <tr CLASS="titre">
+    <td>Niveau  
+du sort</td>
+    <td>[[Druide]]  
 , [[magicien]],  
-[[prêtre]]</td><td>[[Ensorceleur]]</td><td>[[Barde]]</td><td>[[Paladin]],  
-[[rôdeur]]*</td></tr><tr CLASS="premier"><td>0</td><td>375 po</td><td>375 po</td><td>375 po</td><td>—</td></tr><tr CLASS="alt"><td>1er</td><td>750 po</td><td>750 po</td><td>750 po</td><td>750 po</td></tr><tr><td>2e</td><td>4 500 po</td><td>6 000 po</td><td>6 000 po</td><td>6 000 po</td></tr><tr CLASS="alt"><td>3e</td><td>11 250 po</td><td>13 500 po</td><td>15 750 po</td><td>15 750 po</td></tr><tr><td>4e</td><td>21 000 po</td><td>24 000 po</td><td>30 000 po</td><td>30 000 po</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.   
-Les prix sont basés sur le [[niveau de lanceur de sorts]] minimum nécessaire pour fabriquer la [[baguettes magiques|baguette]].   
-Le coût de création d’une [[baguettes magiques|baguette]] est égal à la moitié du prix de base.*</td></tr></table>
+[[prêtre]]</td>
+    <td>[[Ensorceleur]]</td>
+    <td>[[Barde]]</td>
+    <td>[[Paladin]],  
+[[rôdeur]]*</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>375 po</td><td>375 po</td><td>375 po</td><td>—</td></tr>
+  <tr CLASS="alt"><td>1er</td><td>750 po</td><td>750 po</td><td>750 po</td><td>750 po</td></tr>
+  <tr><td>2e</td><td>4 500 po</td><td>6 000 po</td><td>6 000 po</td><td>6 000 po</td></tr>
+  <tr CLASS="alt"><td>3e</td><td>11 250 po</td><td>13 500 po</td><td>15 750 po</td><td>15 750 po</td></tr>
+  <tr><td>4e</td><td>21 000 po</td><td>24 000 po</td><td>30 000 po</td><td>30 000 po</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      *(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.   
+Les prix sont
+      basés sur le [[niveau de lanceur de sorts]] minimum nécessaire pour fabriquer la [[baguettes
+      magiques|baguette]].   
+Le coût de création d’une [[baguettes magiques|baguette]] est égal à la moitié du
+      prix de base.*
+    </td>
+  </tr>
+</table>
 
 </center></div></div>Pour créer des [[baguettes magiques]], le personnage a besoin de quelques matériaux, dont celui dans lequel la baguette sera taillée. Le coût de ces matériaux est inclus dans le coût de création : 375 po x le niveau du sort x le niveau de lanceur de sorts. Une baguette nouvellement créée renferme toujours le maximum de [[Règles relatives aux objets magiques#OBJETSACHARGES|charges]] (50).
 
@@ -184,11 +363,40 @@ Certains [[objets merveilleux]] ajoutent des conditions de création. Référez-
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Prix** de base des parchemins (par classe de créateur)</caption><tr CLASS="titre"><td>Niveau   
-du sort</td><td>[[Druide]], [[magicien]],   
-[[prêtre]]</td><td>[[Ensorceleur]]</td><td>[[Barde]]</td><td>[[Paladin]],   
-[[rôdeur]]*</td></tr><tr CLASS="premier"><td>0</td><td>12 po 5 pa</td><td>12 po 5 pa</td><td>12 po 5 pa</td><td>—</td></tr><tr CLASS="alt"><td>1er</td><td>25 po</td><td>25 po</td><td>25 po</td><td>25 po</td></tr><tr><td>2e</td><td>150 po</td><td>200 po</td><td>200 po</td><td>200 po</td></tr><tr CLASS="alt"><td>3e</td><td>375 po</td><td>450 po</td><td>525 po</td><td>525 po</td></tr><tr><td>4e</td><td>700 po</td><td>800 po</td><td>1 000 po</td><td>1 000 po</td></tr><tr CLASS="alt"><td>5e</td><td>1 125 po</td><td>1 250 po</td><td>1 625 po</td><td>—</td></tr><tr><td>6e</td><td>1 650 po</td><td>1 800 po</td><td>2 400 po</td><td>—</td></tr><tr CLASS="alt"><td>7e</td><td>2 275 po</td><td>2 450 po</td><td>—</td><td>—</td></tr><tr><td>8e</td><td>3 000 po</td><td>3 200 po</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>9e</td><td>3 825 po</td><td>4 050 po</td><td>—</td><td>—</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.*</td></tr><tr CLASS="note"><td COLSPAN="5">*(**) Les prix sont basés sur le [[NLS|niveau de lanceur de sorts]] minimum nécessaire pour écrire le [[parchemins magiques|parchemin]].   
-Le coût de création d’un [[parchemins magiques|parchemin]] est égal à la moitié du prix de base.*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Prix** de base des parchemins (par classe de créateur)</caption>
+  <tr CLASS="titre">
+    <td>Niveau   
+du sort</td>
+    <td>[[Druide]], [[magicien]],   
+[[prêtre]]</td>
+    <td>[[Ensorceleur]]</td>
+    <td>[[Barde]]</td>
+    <td>[[Paladin]],   
+[[rôdeur]]*</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>12 po 5 pa</td><td>12 po 5 pa</td><td>12 po 5 pa</td><td>—</td></tr>
+  <tr CLASS="alt"><td>1er</td><td>25 po</td><td>25 po</td><td>25 po</td><td>25 po</td></tr>
+  <tr><td>2e</td><td>150 po</td><td>200 po</td><td>200 po</td><td>200 po</td></tr>
+  <tr CLASS="alt"><td>3e</td><td>375 po</td><td>450 po</td><td>525 po</td><td>525 po</td></tr>
+  <tr><td>4e</td><td>700 po</td><td>800 po</td><td>1 000 po</td><td>1 000 po</td></tr>
+  <tr CLASS="alt"><td>5e</td><td>1 125 po</td><td>1 250 po</td><td>1 625 po</td><td>—</td></tr>
+  <tr><td>6e</td><td>1 650 po</td><td>1 800 po</td><td>2 400 po</td><td>—</td></tr>
+  <tr CLASS="alt"><td>7e</td><td>2 275 po</td><td>2 450 po</td><td>—</td><td>—</td></tr>
+  <tr><td>8e</td><td>3 000 po</td><td>3 200 po</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>9e</td><td>3 825 po</td><td>4 050 po</td><td>—</td><td>—</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">*(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.*</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      *(**) Les prix sont basés sur le [[NLS|niveau de lanceur de sorts]] minimum nécessaire pour écrire le
+      [[parchemins magiques|parchemin]].   
+Le coût de création d’un [[parchemins magiques|parchemin]] est égal à
+      la moitié du prix de base.*
+    </td>
+  </tr>
+</table>
 
 </center></div></div>Afin de créer des [[parchemins magiques]], le personnage a besoin d’un matériel d’écriture, dont le prix est compris dans le coût de création du parchemin : 12,5 po x niveau du sort x niveau du lanceur de sorts.
 
@@ -210,12 +418,31 @@ S’il y a une condition de sorts, le personnage doit avoir préparé ces sorts 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Prix de base des potions et des huiles</caption><tr CLASS="titre"><td>Niveau   
-du sort</td><td>[[Druide]], [[magicien]],   
-[[prêtre]]</td><td>[[Ensorceleur]]</td><td>[[Barde]]</td><td>[[Paladin]],   
-[[rôdeur]]*</td></tr><tr CLASS="premier"><td>0</td><td>25 po</td><td>25 po</td><td>25 po</td><td>–</td></tr><tr CLASS="alt"><td>1er</td><td>50 po</td><td>50 po</td><td>50 po</td><td>50 po</td></tr><tr><td>2e</td><td>300 po</td><td>400 po</td><td>400 po</td><td>400 po</td></tr><tr CLASS="alt"><td>3e</td><td>750 po</td><td>900 po</td><td>1050 po</td><td>1050 po</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.   
-Les prix sont basés sur le [[niveau de lanceur de sorts]] minimum nécessaire pour concocter la [[potions magiques|potion]].   
-Le coût de création d’une [[potions magiques|potion]] est égal à la moitié du prix de base.*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Prix de base des potions et des huiles</caption>
+  <tr CLASS="titre">
+    <td>Niveau   
+du sort</td>
+    <td>[[Druide]], [[magicien]],   
+[[prêtre]]</td>
+    <td>[[Ensorceleur]]</td>
+    <td>[[Barde]]</td>
+    <td>[[Paladin]],   
+[[rôdeur]]*</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>25 po</td><td>25 po</td><td>25 po</td><td>–</td></tr>
+  <tr CLASS="alt"><td>1er</td><td>50 po</td><td>50 po</td><td>50 po</td><td>50 po</td></tr>
+  <tr><td>2e</td><td>300 po</td><td>400 po</td><td>400 po</td><td>400 po</td></tr>
+  <tr CLASS="alt"><td>3e</td><td>750 po</td><td>900 po</td><td>1050 po</td><td>1050 po</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      *(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.   
+Les prix sont
+      basés sur le [[niveau de lanceur de sorts]] minimum nécessaire pour concocter la [[potions magiques|potion]].
+      Le coût de création d’une [[potions magiques|potion]] est égal à la moitié du prix de base.*
+    </td>
+  </tr>
+</table>
 
 </center></div></div>Afin de créer des [[potions magiques|potions]], le personnage a besoin d’une surface de travail sur laquelle travailler, de divers récipients qui lui serviront à mélanger divers liquides, et d’une source de chaleur pour chauffer ses mélanges. Il a de plus besoin de nombreux ingrédients, dont le coût est inclus dans celui qui est donné pour la préparation de chaque potion : 25 po x [[NLS|niveau du lanceur de sorts]] x niveau du sort.
 

@@ -122,7 +122,44 @@ Les hommes-serpents ont développé de nombreux pouvoirs spéciaux et une magie 
 Voici quelques dons auxquels les hommes-serpents ont accès.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Aspersion venimeuse]]*</td><td><sup>CM</sup></td><td>[[Homme-serpent]]</td><td>Crache d'une venin par une attaque à distance</td></tr><tr CLASS="premier"><td>[[Attaque de queue]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1, [[homme-serpent]]</td><td>Gain d'une attaque de queue</td></tr><tr CLASS="premier"><td>[[Compression ophidienne]]</td><td><sup>CM</sup></td><td>[[Homme-serpent]]</td><td>Gain du pouvoir compression, permettant au personnage de se faufiler dans des endroits plus étroits</td></tr><tr CLASS="premier"><td>[[Distraction télépathique]]</td><td><sup>CM</sup></td><td>[[Cha]] 15, [[homme-serpent]]</td><td>Concentre la télépathie pour rendre une créature plus vulnérable aux effets mentaux</td></tr><tr CLASS="premier"><td>[[Magie innée]]</td><td><sup>CM</sup></td><td>Lanceur de sorts profanes, [[NLS]] 4, [[homme-serpent]]</td><td>Dépense des sorts profanes préparés pour réutiliser des pouvoirs magiques</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Aspersion venimeuse]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[Homme-serpent]]</td>
+    <td>Crache d'une venin par une attaque à distance</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Attaque de queue]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[BBA]] +1, [[homme-serpent]]</td>
+    <td>Gain d'une attaque de queue</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Compression ophidienne]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Homme-serpent]]</td>
+    <td>Gain du pouvoir compression, permettant au personnage de se faufiler dans des endroits plus étroits</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Distraction télépathique]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Cha]] 15, [[homme-serpent]]</td>
+    <td>Concentre la télépathie pour rendre une créature plus vulnérable aux effets mentaux</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Magie innée]]</td>
+    <td><sup>CM</sup></td>
+    <td>Lanceur de sorts profanes, [[NLS]] 4, [[homme-serpent]]</td>
+    <td>Dépense des sorts profanes préparés pour réutiliser des pouvoirs magiques</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

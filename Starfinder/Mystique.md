@@ -14,7 +14,309 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Mystique</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td CLASS="gauche">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Mystique#CONNEXION|Connexion]], [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]], [[Mystique#SORTDECONNEXION|Sort de connexion]], [[Mystique#CONTACTGUERISSEUR|Contact guérisseur]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +1, [[Mystique#LIENMENTAL|Lien mental]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Mystique#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +2</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +3</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +4, [[Mystique#LIENTELEPATHIQUE|Lien télépathique]]</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr><td>17</td><td>+12</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Mystique#TRANSCENDANCE|Transcendance]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +7, [[Mystique#ILLUMINATION|Illumination]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo">
+  <caption>Mystique</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td CLASS="gauche">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Mystique#CONNEXION|Connexion]], [[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]],
+      [[Mystique#SORTDECONNEXION|Sort de connexion]], [[Mystique#CONTACTGUERISSEUR|Contact guérisseur]]
+    </td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +1, [[Mystique#LIENMENTAL|Lien mental]]
+    </td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Mystique#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +2</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +3</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +4, [[Mystique#LIENTELEPATHIQUE|Lien télépathique]]
+    </td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Mystique#SORTDECONNEXION|Sort de connexion]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Mystique#POUVOIRDECONNEXION|Pouvoir de connexion]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Mystique#TRANSCENDANCE|Transcendance]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Mystique#COMPETENCEFOCALISEE|Compétence focalisée]] +7, [[Mystique#ILLUMINATION|Illumination]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 </center>
 
@@ -43,7 +345,25 @@ Les compétences de classe du mystique sont les suivantes : Bluff (Cha), Culture
 {s:Reference|TABLESORTSSUPPLEMENTAIREPARJOUR}
 <center>
 
-<table CLASS="tablo"><caption>Sorts supplémentaire par jour (par niveau de sort)</caption><tr CLASS="titre"><td ROWSPAN="2">Valeur d'Int</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts supplémentaires</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>11-12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12-13</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14-15</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>16-17</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>18-19</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>20-21</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>22-23</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>24-25</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>26-27</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>28-29</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td></tr><tr><td>30-31</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr></table>
+<table CLASS="tablo">
+  <caption>Sorts supplémentaire par jour (par niveau de sort)</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Valeur d'Int</td>
+    <td COLSPAN="7" CLASS="avecsoustitre">Sorts supplémentaires</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>11-12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>12-13</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>14-15</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>16-17</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>18-19</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>20-21</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td></tr>
+  <tr><td>22-23</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+  <tr CLASS="alt"><td>24-25</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr>
+  <tr><td>26-27</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr>
+  <tr CLASS="alt"><td>28-29</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td></tr>
+  <tr><td>30-31</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+</table>
 
 </center></div></div>
 
@@ -52,7 +372,31 @@ Les compétences de classe du mystique sont les suivantes : Bluff (Cha), Culture
 {s:Reference|TABLESORTSCONNUSTECHNOMANCIEN}
 <center>
 
-<table CLASS="tablo"><caption>Sorts de mystique connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr CLASS="alt"><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo">
+  <caption>Sorts de mystique connus</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr CLASS="alt"><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr>
+  <tr CLASS="alt"><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr CLASS="alt"><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr CLASS="alt"><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+</table>
 
 </center></div></div>
 

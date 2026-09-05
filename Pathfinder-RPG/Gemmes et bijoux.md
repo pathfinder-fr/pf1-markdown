@@ -123,38 +123,136 @@ On peut fabriquer un bijou avec un test d’Artisanat ( joaillerie) dont le DD c
 ### Détermination aléatoire des gemmes
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Gemme de grade 1 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Gemme semi-précieuse  
-mineure (DD 10)</td><td>Prix(po)</td><td>Valeur  
-ajoutée(po)</td></tr><tr CLASS="premier"><td>01-08</td><td>agate</td><td>5</td><td>+2d4</td></tr><tr><td>09-14</td><td>albâtre</td><td>5</td><td>+2d4</td></tr><tr><td>14-20</td><td>azurite</td><td>5</td><td>+2d4</td></tr><tr><td>21-26</td><td>hématite</td><td>5</td><td>+2d4</td></tr><tr><td>27-34</td><td>lapis lazuli</td><td>5</td><td>+2d4</td></tr><tr><td>35-40</td><td>malachite</td><td>5</td><td>+2d4</td></tr><tr><td>41-48</td><td>obsidienne</td><td>5</td><td>+2d4</td></tr><tr><td>49-56</td><td>perle d’eau douce</td><td>5</td><td>+2d4</td></tr><tr><td>57-62</td><td>pyrite</td><td>5</td><td>+2d4</td></tr><tr><td>63-70</td><td>rhodocrosite</td><td>5</td><td>+2d4</td></tr><tr><td>71-78</td><td>quartz, cristal de roche</td><td>5</td><td>+2d4</td></tr><tr><td>79-84</td><td>coquillage</td><td>5</td><td>+2d4</td></tr><tr><td>85-92</td><td>œil de tigre</td><td>5</td><td>+2d4</td></tr><tr><td>93-100</td><td>turquoise</td><td>5</td><td>+2d4</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Gemme de grade 1 aléatoire</caption>
+  <tr CLASS="titre">
+    <td>D100</td>
+    <td>Gemme semi-précieuse  
+mineure (DD 10)</td>
+    <td>Prix(po)</td>
+    <td>Valeur  
+ajoutée(po)</td>
+  </tr>
+  <tr CLASS="premier"><td>01-08</td><td>agate</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>09-14</td><td>albâtre</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>14-20</td><td>azurite</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>21-26</td><td>hématite</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>27-34</td><td>lapis lazuli</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>35-40</td><td>malachite</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>41-48</td><td>obsidienne</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>49-56</td><td>perle d’eau douce</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>57-62</td><td>pyrite</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>63-70</td><td>rhodocrosite</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>71-78</td><td>quartz, cristal de roche</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>79-84</td><td>coquillage</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>85-92</td><td>œil de tigre</td><td>5</td><td>+2d4</td></tr>
+  <tr><td>93-100</td><td>turquoise</td><td>5</td><td>+2d4</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Gemme de grade 2 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Gemme semi-précieuse  
-inférieure (DD 12)</td><td>Prix(po)</td><td>Valeur  
-ajoutée(po)</td></tr><tr CLASS="premier"><td>01-06</td><td>héliotrope</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>07-12</td><td>cornaline</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>13-18</td><td>chrysoprase</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>19-24</td><td>citrine</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>25-32</td><td>ivoire</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>33-38</td><td>jaspe</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>39-44</td><td>pierre de lune</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>45-50</td><td>onyx</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>51-56</td><td>péridot</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>57-74</td><td>quartz, laiteux, rose ou fumé</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>75-80</td><td>sardoine</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>81-86</td><td>sardonyx</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>87-93</td><td>spinelle, rouge ou verte</td><td>25</td><td>+2d4 × 5</td></tr><tr><td>94-100</td><td>zircon</td><td>25</td><td>+2d4 × 5</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Gemme de grade 2 aléatoire</caption>
+  <tr CLASS="titre">
+    <td>D100</td>
+    <td>Gemme semi-précieuse  
+inférieure (DD 12)</td>
+    <td>Prix(po)</td>
+    <td>Valeur  
+ajoutée(po)</td>
+  </tr>
+  <tr CLASS="premier"><td>01-06</td><td>héliotrope</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>07-12</td><td>cornaline</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>13-18</td><td>chrysoprase</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>19-24</td><td>citrine</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>25-32</td><td>ivoire</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>33-38</td><td>jaspe</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>39-44</td><td>pierre de lune</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>45-50</td><td>onyx</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>51-56</td><td>péridot</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>57-74</td><td>quartz, laiteux, rose ou fumé</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>75-80</td><td>sardoine</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>81-86</td><td>sardonyx</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>87-93</td><td>spinelle, rouge ou verte</td><td>25</td><td>+2d4 × 5</td></tr>
+  <tr><td>94-100</td><td>zircon</td><td>25</td><td>+2d4 × 5</td></tr>
+</table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Gemme de grade 3 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Gemme semi-précieuse  
-(DD 15)</td><td>Prix(po)</td><td>Valeur  
-ajoutée(po)</td></tr><tr CLASS="premier"><td>01-10</td><td>ambre</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>11-20</td><td>améthyste</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>21-30</td><td>chrysobéryl</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>31-40</td><td>corail</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>41-50</td><td>grenat</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>51-60</td><td>jade</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>61-70</td><td>jais</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>71-80</td><td>perle d’eau de mer</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>81-90</td><td>spinelle bleue foncée</td><td>50</td><td>+2d4 × 10</td></tr><tr><td>91-100</td><td>tourmaline</td><td>50</td><td>+2d4 × 10</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Gemme de grade 3 aléatoire</caption>
+  <tr CLASS="titre">
+    <td>D100</td>
+    <td>Gemme semi-précieuse  
+(DD 15)</td>
+    <td>Prix(po)</td>
+    <td>Valeur  
+ajoutée(po)</td>
+  </tr>
+  <tr CLASS="premier"><td>01-10</td><td>ambre</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>11-20</td><td>améthyste</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>21-30</td><td>chrysobéryl</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>31-40</td><td>corail</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>41-50</td><td>grenat</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>51-60</td><td>jade</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>61-70</td><td>jais</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>71-80</td><td>perle d’eau de mer</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>81-90</td><td>spinelle bleue foncée</td><td>50</td><td>+2d4 × 10</td></tr>
+  <tr><td>91-100</td><td>tourmaline</td><td>50</td><td>+2d4 × 10</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Gemme de grade 4 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Gemme semi-précieuse  
-supérieure (DD 20)</td><td>Prix(po)</td><td>Valeur  
-ajoutée(po)</td></tr><tr CLASS="premier"><td>01-25</td><td>aigue-marine</td><td>250</td><td>+2d4 × 50</td></tr><tr><td>26-50</td><td>opale</td><td>250</td><td>+2d4 × 50</td></tr><tr><td>51-75</td><td>perle noire</td><td>250</td><td>+2d4 × 50</td></tr><tr><td>76-100</td><td>topaze</td><td>250</td><td>+2d4 × 50</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Gemme de grade 4 aléatoire</caption>
+  <tr CLASS="titre">
+    <td>D100</td>
+    <td>Gemme semi-précieuse  
+supérieure (DD 20)</td>
+    <td>Prix(po)</td>
+    <td>Valeur  
+ajoutée(po)</td>
+  </tr>
+  <tr CLASS="premier"><td>01-25</td><td>aigue-marine</td><td>250</td><td>+2d4 × 50</td></tr>
+  <tr><td>26-50</td><td>opale</td><td>250</td><td>+2d4 × 50</td></tr>
+  <tr><td>51-75</td><td>perle noire</td><td>250</td><td>+2d4 × 50</td></tr>
+  <tr><td>76-100</td><td>topaze</td><td>250</td><td>+2d4 × 50</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Gemme de grade 5 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Gemme précieuse inférieure  
-(DD 25)</td><td>Prix(po)</td><td>Valeur  
-ajoutée(po)</td></tr><tr CLASS="premier"><td>01-25</td><td>petit diamant</td><td>500</td><td>+2d4 × 100</td></tr><tr><td>26-50</td><td>émeraude</td><td>500</td><td>+2d4 × 100</td></tr><tr><td>51-75</td><td>petit rubis</td><td>500</td><td>+2d4 × 100</td></tr><tr><td>76-100</td><td>saphir</td><td>500</td><td>+2d4 × 100</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Gemme de grade 5 aléatoire</caption>
+  <tr CLASS="titre">
+    <td>D100</td>
+    <td>Gemme précieuse inférieure  
+(DD 25)</td>
+    <td>Prix(po)</td>
+    <td>Valeur  
+ajoutée(po)</td>
+  </tr>
+  <tr CLASS="premier"><td>01-25</td><td>petit diamant</td><td>500</td><td>+2d4 × 100</td></tr>
+  <tr><td>26-50</td><td>émeraude</td><td>500</td><td>+2d4 × 100</td></tr>
+  <tr><td>51-75</td><td>petit rubis</td><td>500</td><td>+2d4 × 100</td></tr>
+  <tr><td>76-100</td><td>saphir</td><td>500</td><td>+2d4 × 100</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Gemme de grade 6 aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Gemme précieuse supérieure  
-(5 000 po, DD 25)</td><td>Prix(po)</td><td>Valeur  
-ajoutée(po)</td></tr><tr CLASS="premier"><td>01-25</td><td>gros diamant</td><td>2 500</td><td>+2d4 × 500</td></tr><tr><td>26-50</td><td>émeraude verte luisante</td><td>2 500</td><td>+2d4 × 500</td></tr><tr><td>51-75</td><td>gros rubis</td><td>2 500</td><td>+2d4 × 500</td></tr><tr><td>76-100</td><td>saphir étoilé</td><td>2 500</td><td>+2d4 × 500</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Gemme de grade 6 aléatoire</caption>
+  <tr CLASS="titre">
+    <td>D100</td>
+    <td>Gemme précieuse supérieure  
+(5 000 po, DD 25)</td>
+    <td>Prix(po)</td>
+    <td>Valeur  
+ajoutée(po)</td>
+  </tr>
+  <tr CLASS="premier"><td>01-25</td><td>gros diamant</td><td>2 500</td><td>+2d4 × 500</td></tr>
+  <tr><td>26-50</td><td>émeraude verte luisante</td><td>2 500</td><td>+2d4 × 500</td></tr>
+  <tr><td>51-75</td><td>gros rubis</td><td>2 500</td><td>+2d4 × 500</td></tr>
+  <tr><td>76-100</td><td>saphir étoilé</td><td>2 500</td><td>+2d4 × 500</td></tr>
+</table>
 
 </td></tr></table>

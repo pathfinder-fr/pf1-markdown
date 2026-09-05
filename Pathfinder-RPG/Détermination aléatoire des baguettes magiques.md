@@ -8,7 +8,30 @@ LastModified: 2024-08-25 22:44
 
 <table width="100%"><tr><td width="72%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Baguette aléatoire</caption><tr CLASS="titre"><td>Faible inférieure</td><td>Faible supérieure</td><td>Intermédiaire inférieure</td><td>Intermédiaire supérieure</td><td>Puissante inférieure</td><td>Puissante supérieure</td><td>Niveau de sort*</td><td>NLS</td></tr><tr CLASS="premier"><td>01-40</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr><td>41-100</td><td>01-80</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>1</td></tr><tr><td>—</td><td>81-100</td><td>01-75</td><td>01-20</td><td>—</td><td>—</td><td>2</td><td>3</td></tr><tr><td>—</td><td>—</td><td>76-100</td><td>21-100</td><td>01-60</td><td>01-30</td><td>3</td><td>5</td></tr><tr><td>—</td><td>—</td><td>—</td><td>—</td><td>61-100</td><td>31-100</td><td>4</td><td>7</td></tr><tr CLASS="note"><td | COLSPAN="8">*(*) Consultez la table ci-contre pour déterminer la rareté des baguettes, puis les tables ci-dessous pour déterminer le sort.*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Baguette aléatoire</caption>
+  <tr CLASS="titre">
+    <td>Faible inférieure</td>
+    <td>Faible supérieure</td>
+    <td>Intermédiaire inférieure</td>
+    <td>Intermédiaire supérieure</td>
+    <td>Puissante inférieure</td>
+    <td>Puissante supérieure</td>
+    <td>Niveau de sort*</td>
+    <td>NLS</td>
+  </tr>
+  <tr CLASS="premier"><td>01-40</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0</td><td>1</td></tr>
+  <tr><td>41-100</td><td>01-80</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>1</td></tr>
+  <tr><td>—</td><td>81-100</td><td>01-75</td><td>01-20</td><td>—</td><td>—</td><td>2</td><td>3</td></tr>
+  <tr><td>—</td><td>—</td><td>76-100</td><td>21-100</td><td>01-60</td><td>01-30</td><td>3</td><td>5</td></tr>
+  <tr><td>—</td><td>—</td><td>—</td><td>—</td><td>61-100</td><td>31-100</td><td>4</td><td>7</td></tr>
+  <tr CLASS="note">
+    <td | COLSPAN="8">
+      *(*) Consultez la table ci-contre pour déterminer la rareté des baguettes, puis les tables ci-dessous pour
+      déterminer le sort.*
+    </td>
+  </tr>
+</table>
 
 </td><td width="28%">
 
@@ -25,26 +48,467 @@ LastModified: 2024-08-25 22:44
 ### Baguettes magiques par niveau de sort
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Baguettes de niveau 0</caption><tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-07</td><td>*[[aspersion acide]]*</td><td>375</td></tr><tr><td>08-14</td><td>*[[création deau|création d’eau]]*</td><td>375</td></tr><tr><td>15-20</td><td>*[[hébétement]]*</td><td>375</td></tr><tr><td>21-28</td><td>*[[détection de la magie]]*</td><td>375</td></tr><tr><td>29-34</td><td>*[[son imaginaire]]*</td><td>375</td></tr><tr><td>35-42</td><td>*[[lumière]]*</td><td>375</td></tr><tr><td>43-49</td><td>*[[manipulation à distance]]*</td><td>375</td></tr><tr><td>50-55</td><td>*[[réparation]]*</td><td>375</td></tr><tr><td>56-60</td><td>*[[message]]*</td><td>375</td></tr><tr><td>61-66</td><td>*[[prestidigitation]]*</td><td>375</td></tr><tr><td>67-73</td><td>*[[purification de nourriture et deau|purification de nourriture et d’eau]]*</td><td>375</td></tr><tr><td>74-81</td><td>*[[rayon de givre]]*</td><td>375</td></tr><tr><td>82-88</td><td>*[[lecture de la magie]]*</td><td>375</td></tr><tr><td>89-95</td><td>*[[stabilisation]]*</td><td>375</td></tr><tr><td>96-100</td><td>*[[fatigue]]*</td><td>375</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-06</td><td>*[[signature magique]]*</td><td>375</td></tr><tr><td>07-15</td><td>*[[saignement]]*</td><td>375</td></tr><tr><td>16-22</td><td>*[[lumières dansantes]]*</td><td>375</td></tr><tr><td>23-31</td><td>*[[détection du poison]]*</td><td>375</td></tr><tr><td>32-40</td><td>*[[destruction de mort-vivant]]*</td><td>375</td></tr><tr><td>41-48</td><td>*[[illumination]]*</td><td>375</td></tr><tr><td>49-56</td><td>*[[assistance divine]]*</td><td>375</td></tr><tr><td>57-65</td><td>*[[repérage]]*</td><td>375</td></tr><tr><td>66-73</td><td>*[[berceuse]]*</td><td>375</td></tr><tr><td>74-79</td><td>*[[ouverturefermeture|ouverture/fermeture]]*</td><td>375</td></tr><tr><td>80-86</td><td>*[[résistance]]*</td><td>375</td></tr><tr><td>87-94</td><td>*[[étincelles]]*</td><td>375</td></tr><tr><td>95-100</td><td>*[[stimulant]]*</td><td>375</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Baguettes de niveau 0</caption>
+  <tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-07</td><td>*[[aspersion acide]]*</td><td>375</td></tr>
+  <tr><td>08-14</td><td>*[[création deau|création d’eau]]*</td><td>375</td></tr>
+  <tr><td>15-20</td><td>*[[hébétement]]*</td><td>375</td></tr>
+  <tr><td>21-28</td><td>*[[détection de la magie]]*</td><td>375</td></tr>
+  <tr><td>29-34</td><td>*[[son imaginaire]]*</td><td>375</td></tr>
+  <tr><td>35-42</td><td>*[[lumière]]*</td><td>375</td></tr>
+  <tr><td>43-49</td><td>*[[manipulation à distance]]*</td><td>375</td></tr>
+  <tr><td>50-55</td><td>*[[réparation]]*</td><td>375</td></tr>
+  <tr><td>56-60</td><td>*[[message]]*</td><td>375</td></tr>
+  <tr><td>61-66</td><td>*[[prestidigitation]]*</td><td>375</td></tr>
+  <tr>
+    <td>67-73</td>
+    <td>*[[purification de nourriture et deau|purification de nourriture et d’eau]]*</td>
+    <td>375</td>
+  </tr>
+  <tr><td>74-81</td><td>*[[rayon de givre]]*</td><td>375</td></tr>
+  <tr><td>82-88</td><td>*[[lecture de la magie]]*</td><td>375</td></tr>
+  <tr><td>89-95</td><td>*[[stabilisation]]*</td><td>375</td></tr>
+  <tr><td>96-100</td><td>*[[fatigue]]*</td><td>375</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-06</td><td>*[[signature magique]]*</td><td>375</td></tr>
+  <tr><td>07-15</td><td>*[[saignement]]*</td><td>375</td></tr>
+  <tr><td>16-22</td><td>*[[lumières dansantes]]*</td><td>375</td></tr>
+  <tr><td>23-31</td><td>*[[détection du poison]]*</td><td>375</td></tr>
+  <tr><td>32-40</td><td>*[[destruction de mort-vivant]]*</td><td>375</td></tr>
+  <tr><td>41-48</td><td>*[[illumination]]*</td><td>375</td></tr>
+  <tr><td>49-56</td><td>*[[assistance divine]]*</td><td>375</td></tr>
+  <tr><td>57-65</td><td>*[[repérage]]*</td><td>375</td></tr>
+  <tr><td>66-73</td><td>*[[berceuse]]*</td><td>375</td></tr>
+  <tr><td>74-79</td><td>*[[ouverturefermeture|ouverture/fermeture]]*</td><td>375</td></tr>
+  <tr><td>80-86</td><td>*[[résistance]]*</td><td>375</td></tr>
+  <tr><td>87-94</td><td>*[[étincelles]]*</td><td>375</td></tr>
+  <tr><td>95-100</td><td>*[[stimulant]]*</td><td>375</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Baguettes de niveau 1</caption><tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>*[[alarme]]*</td><td>750</td></tr><tr><td>03</td><td>*[[corde animée]]*</td><td>750</td></tr><tr><td>04-05</td><td>*[[imprécation]]*</td><td>750</td></tr><tr><td>06-11</td><td>*[[bénédiction]]*</td><td>750</td></tr><tr><td>12-14</td><td>*[[mains brûlantes]]*</td><td>750</td></tr><tr><td>15-17</td><td>*[[frayeur]]*</td><td>750</td></tr><tr><td>18-19</td><td>*[[charme-personne]]*</td><td>750</td></tr><tr><td>20-21</td><td>*[[couleurs dansantes]]*</td><td>750</td></tr><tr><td>22-23</td><td>*[[injonction]]*</td><td>750</td></tr><tr><td>24</td><td>*[[compréhension des langages]]*</td><td>750</td></tr><tr><td>25-31</td><td>*[[soins légers]]*</td><td>750</td></tr><tr><td>32-33</td><td>*[[déguisement]]*</td><td>750</td></tr><tr><td>34-37</td><td>*[[faveur divine]]*</td><td>750</td></tr><tr><td>38</td><td>*[[endurance aux énergies destructives]]*</td><td>750</td></tr><tr><td>39-41</td><td>*[[agrandissement]]*</td><td>750</td></tr><tr><td>42-43</td><td>*[[enchevêtrement]]*</td><td>750</td></tr><tr><td>44-45</td><td>*[[repli expéditif]]*</td><td>750</td></tr><tr><td>46</td><td>*[[feuille morte]]*</td><td>750</td></tr><tr><td>47-48</td><td>*[[graisse]]*</td><td>750</td></tr><tr><td>49-50</td><td>*[[identification]]*</td><td>750</td></tr><tr><td>51-52</td><td>*[[blessure légère]]*</td><td>750</td></tr><tr><td>53-58</td><td>*[[armure de mage]]*</td><td>750</td></tr><tr><td>59-60</td><td>*[[morsure magique]]*</td><td>750</td></tr><tr><td>61-67</td><td>*[[projectile magique]]*</td><td>750</td></tr><tr><td>68</td><td>*[[pierre magique]]*</td><td>750</td></tr><tr><td>69-70</td><td>*[[arme magique]]*</td><td>750</td></tr><tr><td>71</td><td>*[[brume de dissimulation]]*</td><td>750</td></tr><tr><td>72-73</td><td>*[[flammes]]*</td><td>750</td></tr><tr><td>74</td><td>*[[protection contre le Chaos]]*</td><td>750</td></tr><tr><td>75</td><td>*[[protection contre le Mal]]*</td><td>750</td></tr><tr><td>76</td><td>*[[protection contre le Bien]]*</td><td>750</td></tr><tr><td>77</td><td>*[[protection contre la Loi]]*</td><td>750</td></tr><tr><td>78-79</td><td>*[[rayon affaiblissant]]*</td><td>750</td></tr><tr><td>80-81</td><td>*[[regain dassurance|regain d’assurance]]*</td><td>750</td></tr><tr><td>82-84</td><td>*[[bouclier]]*</td><td>750</td></tr><tr><td>85-86</td><td>*[[bouclier de la foi]]*</td><td>750</td></tr><tr><td>87</td><td>*[[gourdin magique]]*</td><td>750</td></tr><tr><td>88-89</td><td>*[[décharge électrique]]*</td><td>750</td></tr><tr><td>90</td><td>*[[image silencieuse]]*</td><td>750</td></tr><tr><td>91-94</td><td>*[[sommeil]]*</td><td>750</td></tr><tr><td>95</td><td>*[[convocation de monstres I]]*</td><td>750</td></tr><tr><td>96</td><td>*[[convocation dalliés naturels I|convocation d’alliés naturels I]]*</td><td>750</td></tr><tr><td>97-99</td><td>*[[coup au but]]*</td><td>750</td></tr><tr><td>100</td><td>*[[serviteur invisible]]*</td><td>750</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>*[[charge de fourmi]]*</td><td>750</td></tr><tr><td>03-05</td><td>*[[aspect du faucon]]*</td><td>750</td></tr><tr><td>06-07</td><td>*[[bénédiction darme|bénédiction d’arme]]*</td><td>750</td></tr><tr><td>08</td><td>*[[apaisement des animaux]]*</td><td>750</td></tr><tr><td>09-10</td><td>*[[charme-animal]]*</td><td>750</td></tr><tr><td>11-12</td><td>*[[contact glacial]]*</td><td>750</td></tr><tr><td>13-14</td><td>*[[hostilité forcée]]*</td><td>750</td></tr><tr><td>15-17</td><td>*[[confusion mineure]]*</td><td>750</td></tr><tr><td>18-19</td><td>*[[contact corrosif]]*</td><td>750</td></tr><tr><td>20-21</td><td>*[[perception de la mort]]*</td><td>750</td></tr><tr><td>22</td><td>*[[détection de la faune ou de la flore]]*</td><td>750</td></tr><tr><td>23</td><td>*[[détection du Chaos]]*</td><td>750</td></tr><tr><td>24</td><td>*[[détection du Mal]]*</td><td>750</td></tr><tr><td>25</td><td>*[[détection du Bien]]*</td><td>750</td></tr><tr><td>26</td><td>*[[détection de la Loi]]*</td><td>750</td></tr><tr><td>27-28</td><td>*[[détection des passages secrets]]*</td><td>750</td></tr><tr><td>29</td><td>*[[détection des collets et des fosses]]*</td><td>750</td></tr><tr><td>30-31</td><td>*[[détection des morts-vivants]]*</td><td>750</td></tr><tr><td>32-35</td><td>*[[anathème]]*</td><td>750</td></tr><tr><td>36-37</td><td>*[[bouclier entropique]]*</td><td>750</td></tr><tr><td>38</td><td>*[[effacement]]*</td><td>750</td></tr><tr><td>39</td><td>*[[lueur féerique]]*</td><td>750</td></tr><tr><td>40-41</td><td>*[[démarche aérienne]]*</td><td>750</td></tr><tr><td>42-44</td><td>*[[disque flottant]]*</td><td>750</td></tr><tr><td>45-47</td><td>*[[baie nourricière]]*</td><td>750</td></tr><tr><td>48-49</td><td>*[[invisibilité pour les animaux]]*</td><td>750</td></tr><tr><td>50-51</td><td>*[[invisibilité pour les morts-vivants]]*</td><td>750</td></tr><tr><td>52</td><td>*[[fou rire]]*</td><td>750</td></tr><tr><td>53-54</td><td>*[[verrouillage]]*</td><td>750</td></tr><tr><td>55-56</td><td>*[[hypnose]]*</td><td>750</td></tr><tr><td>57-58</td><td>*[[dague de stalactite]]*</td><td>750</td></tr><tr><td>59-60</td><td>*[[mauvais présage]]*</td><td>750</td></tr><tr><td>61-63</td><td>*[[saut]]*</td><td>750</td></tr><tr><td>64-65</td><td>*[[grand pas]]*</td><td>750</td></tr><tr><td>66</td><td>*[[aura magique]]*</td><td>750</td></tr><tr><td>67-68</td><td>*[[monture]]*</td><td>750</td></tr><tr><td>69</td><td>*[[dissimulation dobjet|dissimulation d’objet]]*</td><td>750</td></tr><tr><td>70-71</td><td>*[[passage sans trace]]*</td><td>750</td></tr><tr><td>72</td><td>*[[rayon de fièvre]]*</td><td>750</td></tr><tr><td>73-75</td><td>*[[rapetissement]]*</td><td>750</td></tr><tr><td>76-78</td><td>*[[sanctuaire]]*</td><td>750</td></tr><tr><td>79-80</td><td>*[[bouclier de foudre]]*</td><td>750</td></tr><tr><td>81-83</td><td>*[[communication avec les animaux]]*</td><td>750</td></tr><tr><td>84-85</td><td>*[[poing de pierre]]*</td><td>750</td></tr><tr><td>86-87</td><td>*[[bouclier de pierre]]*</td><td>750</td></tr><tr><td>88</td><td>*[[convocation de monstre mineur|convocation de monstres mineure]]*</td><td>750</td></tr><tr><td>89</td><td>*[[alignement indétectable]]*</td><td>750</td></tr><tr><td>90-92</td><td>*[[grâce urbaine]]*</td><td>750</td></tr><tr><td>93-96</td><td>*[[disparition]]*</td><td>750</td></tr><tr><td>97</td><td>*[[ventriloquie]]*</td><td>750</td></tr><tr><td>98</td><td>*[[bouche magique]]*</td><td>1 250</td></tr><tr><td>99</td><td>*[[bénédiction de leau|bénédiction de l’eau]]*</td><td>2 000</td></tr><tr><td>100</td><td>*[[malédiction de leau|malédiction de l’eau]]*</td><td>2 000</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Baguettes de niveau 1</caption>
+  <tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>*[[alarme]]*</td><td>750</td></tr>
+  <tr><td>03</td><td>*[[corde animée]]*</td><td>750</td></tr>
+  <tr><td>04-05</td><td>*[[imprécation]]*</td><td>750</td></tr>
+  <tr><td>06-11</td><td>*[[bénédiction]]*</td><td>750</td></tr>
+  <tr><td>12-14</td><td>*[[mains brûlantes]]*</td><td>750</td></tr>
+  <tr><td>15-17</td><td>*[[frayeur]]*</td><td>750</td></tr>
+  <tr><td>18-19</td><td>*[[charme-personne]]*</td><td>750</td></tr>
+  <tr><td>20-21</td><td>*[[couleurs dansantes]]*</td><td>750</td></tr>
+  <tr><td>22-23</td><td>*[[injonction]]*</td><td>750</td></tr>
+  <tr><td>24</td><td>*[[compréhension des langages]]*</td><td>750</td></tr>
+  <tr><td>25-31</td><td>*[[soins légers]]*</td><td>750</td></tr>
+  <tr><td>32-33</td><td>*[[déguisement]]*</td><td>750</td></tr>
+  <tr><td>34-37</td><td>*[[faveur divine]]*</td><td>750</td></tr>
+  <tr><td>38</td><td>*[[endurance aux énergies destructives]]*</td><td>750</td></tr>
+  <tr><td>39-41</td><td>*[[agrandissement]]*</td><td>750</td></tr>
+  <tr><td>42-43</td><td>*[[enchevêtrement]]*</td><td>750</td></tr>
+  <tr><td>44-45</td><td>*[[repli expéditif]]*</td><td>750</td></tr>
+  <tr><td>46</td><td>*[[feuille morte]]*</td><td>750</td></tr>
+  <tr><td>47-48</td><td>*[[graisse]]*</td><td>750</td></tr>
+  <tr><td>49-50</td><td>*[[identification]]*</td><td>750</td></tr>
+  <tr><td>51-52</td><td>*[[blessure légère]]*</td><td>750</td></tr>
+  <tr><td>53-58</td><td>*[[armure de mage]]*</td><td>750</td></tr>
+  <tr><td>59-60</td><td>*[[morsure magique]]*</td><td>750</td></tr>
+  <tr><td>61-67</td><td>*[[projectile magique]]*</td><td>750</td></tr>
+  <tr><td>68</td><td>*[[pierre magique]]*</td><td>750</td></tr>
+  <tr><td>69-70</td><td>*[[arme magique]]*</td><td>750</td></tr>
+  <tr><td>71</td><td>*[[brume de dissimulation]]*</td><td>750</td></tr>
+  <tr><td>72-73</td><td>*[[flammes]]*</td><td>750</td></tr>
+  <tr><td>74</td><td>*[[protection contre le Chaos]]*</td><td>750</td></tr>
+  <tr><td>75</td><td>*[[protection contre le Mal]]*</td><td>750</td></tr>
+  <tr><td>76</td><td>*[[protection contre le Bien]]*</td><td>750</td></tr>
+  <tr><td>77</td><td>*[[protection contre la Loi]]*</td><td>750</td></tr>
+  <tr><td>78-79</td><td>*[[rayon affaiblissant]]*</td><td>750</td></tr>
+  <tr><td>80-81</td><td>*[[regain dassurance|regain d’assurance]]*</td><td>750</td></tr>
+  <tr><td>82-84</td><td>*[[bouclier]]*</td><td>750</td></tr>
+  <tr><td>85-86</td><td>*[[bouclier de la foi]]*</td><td>750</td></tr>
+  <tr><td>87</td><td>*[[gourdin magique]]*</td><td>750</td></tr>
+  <tr><td>88-89</td><td>*[[décharge électrique]]*</td><td>750</td></tr>
+  <tr><td>90</td><td>*[[image silencieuse]]*</td><td>750</td></tr>
+  <tr><td>91-94</td><td>*[[sommeil]]*</td><td>750</td></tr>
+  <tr><td>95</td><td>*[[convocation de monstres I]]*</td><td>750</td></tr>
+  <tr><td>96</td><td>*[[convocation dalliés naturels I|convocation d’alliés naturels I]]*</td><td>750</td></tr>
+  <tr><td>97-99</td><td>*[[coup au but]]*</td><td>750</td></tr>
+  <tr><td>100</td><td>*[[serviteur invisible]]*</td><td>750</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>*[[charge de fourmi]]*</td><td>750</td></tr>
+  <tr><td>03-05</td><td>*[[aspect du faucon]]*</td><td>750</td></tr>
+  <tr><td>06-07</td><td>*[[bénédiction darme|bénédiction d’arme]]*</td><td>750</td></tr>
+  <tr><td>08</td><td>*[[apaisement des animaux]]*</td><td>750</td></tr>
+  <tr><td>09-10</td><td>*[[charme-animal]]*</td><td>750</td></tr>
+  <tr><td>11-12</td><td>*[[contact glacial]]*</td><td>750</td></tr>
+  <tr><td>13-14</td><td>*[[hostilité forcée]]*</td><td>750</td></tr>
+  <tr><td>15-17</td><td>*[[confusion mineure]]*</td><td>750</td></tr>
+  <tr><td>18-19</td><td>*[[contact corrosif]]*</td><td>750</td></tr>
+  <tr><td>20-21</td><td>*[[perception de la mort]]*</td><td>750</td></tr>
+  <tr><td>22</td><td>*[[détection de la faune ou de la flore]]*</td><td>750</td></tr>
+  <tr><td>23</td><td>*[[détection du Chaos]]*</td><td>750</td></tr>
+  <tr><td>24</td><td>*[[détection du Mal]]*</td><td>750</td></tr>
+  <tr><td>25</td><td>*[[détection du Bien]]*</td><td>750</td></tr>
+  <tr><td>26</td><td>*[[détection de la Loi]]*</td><td>750</td></tr>
+  <tr><td>27-28</td><td>*[[détection des passages secrets]]*</td><td>750</td></tr>
+  <tr><td>29</td><td>*[[détection des collets et des fosses]]*</td><td>750</td></tr>
+  <tr><td>30-31</td><td>*[[détection des morts-vivants]]*</td><td>750</td></tr>
+  <tr><td>32-35</td><td>*[[anathème]]*</td><td>750</td></tr>
+  <tr><td>36-37</td><td>*[[bouclier entropique]]*</td><td>750</td></tr>
+  <tr><td>38</td><td>*[[effacement]]*</td><td>750</td></tr>
+  <tr><td>39</td><td>*[[lueur féerique]]*</td><td>750</td></tr>
+  <tr><td>40-41</td><td>*[[démarche aérienne]]*</td><td>750</td></tr>
+  <tr><td>42-44</td><td>*[[disque flottant]]*</td><td>750</td></tr>
+  <tr><td>45-47</td><td>*[[baie nourricière]]*</td><td>750</td></tr>
+  <tr><td>48-49</td><td>*[[invisibilité pour les animaux]]*</td><td>750</td></tr>
+  <tr><td>50-51</td><td>*[[invisibilité pour les morts-vivants]]*</td><td>750</td></tr>
+  <tr><td>52</td><td>*[[fou rire]]*</td><td>750</td></tr>
+  <tr><td>53-54</td><td>*[[verrouillage]]*</td><td>750</td></tr>
+  <tr><td>55-56</td><td>*[[hypnose]]*</td><td>750</td></tr>
+  <tr><td>57-58</td><td>*[[dague de stalactite]]*</td><td>750</td></tr>
+  <tr><td>59-60</td><td>*[[mauvais présage]]*</td><td>750</td></tr>
+  <tr><td>61-63</td><td>*[[saut]]*</td><td>750</td></tr>
+  <tr><td>64-65</td><td>*[[grand pas]]*</td><td>750</td></tr>
+  <tr><td>66</td><td>*[[aura magique]]*</td><td>750</td></tr>
+  <tr><td>67-68</td><td>*[[monture]]*</td><td>750</td></tr>
+  <tr><td>69</td><td>*[[dissimulation dobjet|dissimulation d’objet]]*</td><td>750</td></tr>
+  <tr><td>70-71</td><td>*[[passage sans trace]]*</td><td>750</td></tr>
+  <tr><td>72</td><td>*[[rayon de fièvre]]*</td><td>750</td></tr>
+  <tr><td>73-75</td><td>*[[rapetissement]]*</td><td>750</td></tr>
+  <tr><td>76-78</td><td>*[[sanctuaire]]*</td><td>750</td></tr>
+  <tr><td>79-80</td><td>*[[bouclier de foudre]]*</td><td>750</td></tr>
+  <tr><td>81-83</td><td>*[[communication avec les animaux]]*</td><td>750</td></tr>
+  <tr><td>84-85</td><td>*[[poing de pierre]]*</td><td>750</td></tr>
+  <tr><td>86-87</td><td>*[[bouclier de pierre]]*</td><td>750</td></tr>
+  <tr><td>88</td><td>*[[convocation de monstre mineur|convocation de monstres mineure]]*</td><td>750</td></tr>
+  <tr><td>89</td><td>*[[alignement indétectable]]*</td><td>750</td></tr>
+  <tr><td>90-92</td><td>*[[grâce urbaine]]*</td><td>750</td></tr>
+  <tr><td>93-96</td><td>*[[disparition]]*</td><td>750</td></tr>
+  <tr><td>97</td><td>*[[ventriloquie]]*</td><td>750</td></tr>
+  <tr><td>98</td><td>*[[bouche magique]]*</td><td>1 250</td></tr>
+  <tr><td>99</td><td>*[[bénédiction de leau|bénédiction de l’eau]]*</td><td>2 000</td></tr>
+  <tr><td>100</td><td>*[[malédiction de leau|malédiction de l’eau]]*</td><td>2 000</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Baguettes de niveau 2</caption><tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>*[[flèche acide]]*</td><td>4 500</td></tr><tr><td>03</td><td>*[[aide]]*</td><td>4 500</td></tr><tr><td>04-05</td><td>*[[modification dapparence|modification d’apparence]]*</td><td>4 500</td></tr><tr><td>06-07</td><td>*[[peau décorce|peau d’écorce]]*</td><td>4 500</td></tr><tr><td>08-10</td><td>*[[endurance de lours|endurance de l’ours]]*</td><td>4 500 po</td></tr><tr><td>11</td><td>*[[flou]]*</td><td>4 500</td></tr><tr><td>12-14</td><td>*[[force de taureau]]*</td><td>4 500</td></tr><tr><td>15-16</td><td>*[[grâce féline]]*</td><td>4 500</td></tr><tr><td>17-22</td><td>*[[soins modérés]]*</td><td>4 500</td></tr><tr><td>23-25</td><td>*[[ténèbres]]*</td><td>4 500</td></tr><tr><td>26</td><td>*[[vision dans le noir]]*</td><td>4 500</td></tr><tr><td>27</td><td>*[[ralentissement du poison]]*</td><td>4 500</td></tr><tr><td>28-29</td><td>*[[splendeur de laigle|splendeur de l’aigle]]*</td><td>4 500</td></tr><tr><td>30</td><td>*[[simulacre de vie]]*</td><td>4 500</td></tr><tr><td>31</td><td>*[[détection des pièges]]*</td><td>4 500</td></tr><tr><td>32</td><td>*[[lame de feu]]*</td><td>4 500</td></tr><tr><td>33</td><td>*[[sphère de feu]]*</td><td>4 500</td></tr><tr><td>34-35</td><td>*[[nappe de brouillard]]*</td><td>4 500</td></tr><tr><td>36-37</td><td>*[[ruse du renard]]*</td><td>4 500</td></tr><tr><td>38</td><td>*[[poussière scintillante]]*</td><td>4 500</td></tr><tr><td>39-40</td><td>*[[métal brûlant]]*</td><td>4 500</td></tr><tr><td>41-43</td><td>*[[immobilisation de personne]]*</td><td>4 500</td></tr><tr><td>44-46</td><td>*[[blessure modérée]]*</td><td>4 500</td></tr><tr><td>47-51</td><td>*[[invisibilité]]*</td><td>4 500</td></tr><tr><td>52</td><td>*[[déblocage]]*</td><td>4 500</td></tr><tr><td>53-54</td><td>*[[lévitation]]*</td><td>4 500</td></tr><tr><td>55</td><td>*[[image imparfaite]]*</td><td>4 500</td></tr><tr><td>56-57</td><td>*[[image miroir]]*</td><td>4 500</td></tr><tr><td>58-59</td><td>*[[sagesse du hibou]]*</td><td>4 500</td></tr><tr><td>60</td><td>*[[pyrotechnie]]*</td><td>4 500</td></tr><tr><td>61</td><td>*[[délivrance de la paralysie]]*</td><td>4 500</td></tr><tr><td>62-64</td><td>*[[résistance aux énergies destructives]]*</td><td>4 500</td></tr><tr><td>65-66</td><td>*[[restauration partielle]]*</td><td>4 500</td></tr><tr><td>67-71</td><td>*[[rayon ardent]]*</td><td>4 500</td></tr><tr><td>72-73</td><td>*[[détection de linvisibilité|détection de l’invisibilité]]*</td><td>4 500</td></tr><tr><td>74</td><td>*[[fracassement]]*</td><td>4 500</td></tr><tr><td>75-76</td><td>*[[protection dautrui|protection d’autrui]]*</td><td>4 500</td></tr><tr><td>77-78</td><td>*[[silence]]*</td><td>4 500</td></tr><tr><td>79-81</td><td>*[[cacophonie]]*</td><td>4 500</td></tr><tr><td>82-83</td><td>*[[pattes daraignée|pattes d’araignée]]*</td><td>4 500</td></tr><tr><td>84-86</td><td>*[[arme spirituelle]]*</td><td>4 500</td></tr><tr><td>87-88</td><td>*[[convocation de monstres II]]*</td><td>4 500</td></tr><tr><td>89-90</td><td>*[[convocation dalliés naturels II|convocation d’alliés naturels II]]*</td><td>4 500</td></tr><tr><td>91-92</td><td>*[[nuée grouillante]]*</td><td>4 500</td></tr><tr><td>93-96</td><td>*[[toile daraignée|toile d’araignée]]*</td><td>4 500</td></tr><tr><td>97</td><td>*[[vent de murmures]]*</td><td>4 500</td></tr><tr><td>98-99</td><td>*[[augure]]*</td><td>5 750</td></tr><tr><td>100</td><td>*[[piège à feu]]*</td><td>5 750</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>*[[arme alignée]]*</td><td>4 500</td></tr><tr><td>03-05</td><td>*[[aspect animal]]*</td><td>4 500</td></tr><tr><td>06</td><td>*[[messager animal]]*</td><td>4 500</td></tr><tr><td>07</td><td>*[[hypnose des animaux]]*</td><td>4 500</td></tr><tr><td>08-10</td><td>*[[aspect de lours|aspect de l’ours]]*</td><td>4 500</td></tr><tr><td>11-13</td><td>*[[savoir manier une arme]]*</td><td>4 500</td></tr><tr><td>14-15</td><td>*[[cécitésurdité|cécité/surdité]]*</td><td>4 500</td></tr><tr><td>16-18</td><td>*[[regard brûlant]]*</td><td>4 500</td></tr><tr><td>19-21</td><td>*[[apaisement des émotions]]*</td><td>4 500</td></tr><tr><td>22-24</td><td>*[[métal gelé]]*</td><td>4 500</td></tr><tr><td>25</td><td>*[[contrôle des morts-vivants]]*</td><td>4 500</td></tr><tr><td>26-27</td><td>*[[hébétement de monstre]]*</td><td>4 500</td></tr><tr><td>28-29</td><td>*[[mise à mort]]*</td><td>4 500</td></tr><tr><td>30-32</td><td>*[[décharge défensive]]*</td><td>4 500</td></tr><tr><td>33</td><td>*[[retardement de la douleur]]*</td><td>4 500</td></tr><tr><td>34-35</td><td>*[[détection de pensées]]*</td><td>4 500</td></tr><tr><td>36-39</td><td>*[[déguiser autrui]]*</td><td>4 500</td></tr><tr><td>40-42</td><td>*[[armure sans effort]]*</td><td>4 500</td></tr><tr><td>43-46</td><td>*[[caresse élémentaire]]*</td><td>4 500</td></tr><tr><td>47-48</td><td>*[[discours captivant]]*</td><td>4 500</td></tr><tr><td>49-50</td><td>*[[préservation des morts]]*</td><td>4 500</td></tr><tr><td>51</td><td>*[[baiser de la goule]]*</td><td>4 500</td></tr><tr><td>52-53</td><td>*[[planer]]*</td><td>4 500</td></tr><tr><td>54-55</td><td>*[[élévation du sol]]*</td><td>4 500</td></tr><tr><td>56</td><td>*[[bourrasque]]*</td><td>4 500</td></tr><tr><td>57</td><td>*[[immobilisation danimal|immobilisation d’animal]]*</td><td>4 500</td></tr><tr><td>58-59</td><td>*[[lueurs hypnotiques]]*</td><td>4 500</td></tr><tr><td>60</td><td>*[[localisation dobjet|localisation d’objet]]*</td><td>4 500</td></tr><tr><td>61</td><td>*[[réparation intégrale]]*</td><td>4 500</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Baguettes de niveau 2</caption>
+  <tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>*[[flèche acide]]*</td><td>4 500</td></tr>
+  <tr><td>03</td><td>*[[aide]]*</td><td>4 500</td></tr>
+  <tr><td>04-05</td><td>*[[modification dapparence|modification d’apparence]]*</td><td>4 500</td></tr>
+  <tr><td>06-07</td><td>*[[peau décorce|peau d’écorce]]*</td><td>4 500</td></tr>
+  <tr><td>08-10</td><td>*[[endurance de lours|endurance de l’ours]]*</td><td>4 500 po</td></tr>
+  <tr><td>11</td><td>*[[flou]]*</td><td>4 500</td></tr>
+  <tr><td>12-14</td><td>*[[force de taureau]]*</td><td>4 500</td></tr>
+  <tr><td>15-16</td><td>*[[grâce féline]]*</td><td>4 500</td></tr>
+  <tr><td>17-22</td><td>*[[soins modérés]]*</td><td>4 500</td></tr>
+  <tr><td>23-25</td><td>*[[ténèbres]]*</td><td>4 500</td></tr>
+  <tr><td>26</td><td>*[[vision dans le noir]]*</td><td>4 500</td></tr>
+  <tr><td>27</td><td>*[[ralentissement du poison]]*</td><td>4 500</td></tr>
+  <tr><td>28-29</td><td>*[[splendeur de laigle|splendeur de l’aigle]]*</td><td>4 500</td></tr>
+  <tr><td>30</td><td>*[[simulacre de vie]]*</td><td>4 500</td></tr>
+  <tr><td>31</td><td>*[[détection des pièges]]*</td><td>4 500</td></tr>
+  <tr><td>32</td><td>*[[lame de feu]]*</td><td>4 500</td></tr>
+  <tr><td>33</td><td>*[[sphère de feu]]*</td><td>4 500</td></tr>
+  <tr><td>34-35</td><td>*[[nappe de brouillard]]*</td><td>4 500</td></tr>
+  <tr><td>36-37</td><td>*[[ruse du renard]]*</td><td>4 500</td></tr>
+  <tr><td>38</td><td>*[[poussière scintillante]]*</td><td>4 500</td></tr>
+  <tr><td>39-40</td><td>*[[métal brûlant]]*</td><td>4 500</td></tr>
+  <tr><td>41-43</td><td>*[[immobilisation de personne]]*</td><td>4 500</td></tr>
+  <tr><td>44-46</td><td>*[[blessure modérée]]*</td><td>4 500</td></tr>
+  <tr><td>47-51</td><td>*[[invisibilité]]*</td><td>4 500</td></tr>
+  <tr><td>52</td><td>*[[déblocage]]*</td><td>4 500</td></tr>
+  <tr><td>53-54</td><td>*[[lévitation]]*</td><td>4 500</td></tr>
+  <tr><td>55</td><td>*[[image imparfaite]]*</td><td>4 500</td></tr>
+  <tr><td>56-57</td><td>*[[image miroir]]*</td><td>4 500</td></tr>
+  <tr><td>58-59</td><td>*[[sagesse du hibou]]*</td><td>4 500</td></tr>
+  <tr><td>60</td><td>*[[pyrotechnie]]*</td><td>4 500</td></tr>
+  <tr><td>61</td><td>*[[délivrance de la paralysie]]*</td><td>4 500</td></tr>
+  <tr><td>62-64</td><td>*[[résistance aux énergies destructives]]*</td><td>4 500</td></tr>
+  <tr><td>65-66</td><td>*[[restauration partielle]]*</td><td>4 500</td></tr>
+  <tr><td>67-71</td><td>*[[rayon ardent]]*</td><td>4 500</td></tr>
+  <tr><td>72-73</td><td>*[[détection de linvisibilité|détection de l’invisibilité]]*</td><td>4 500</td></tr>
+  <tr><td>74</td><td>*[[fracassement]]*</td><td>4 500</td></tr>
+  <tr><td>75-76</td><td>*[[protection dautrui|protection d’autrui]]*</td><td>4 500</td></tr>
+  <tr><td>77-78</td><td>*[[silence]]*</td><td>4 500</td></tr>
+  <tr><td>79-81</td><td>*[[cacophonie]]*</td><td>4 500</td></tr>
+  <tr><td>82-83</td><td>*[[pattes daraignée|pattes d’araignée]]*</td><td>4 500</td></tr>
+  <tr><td>84-86</td><td>*[[arme spirituelle]]*</td><td>4 500</td></tr>
+  <tr><td>87-88</td><td>*[[convocation de monstres II]]*</td><td>4 500</td></tr>
+  <tr><td>89-90</td><td>*[[convocation dalliés naturels II|convocation d’alliés naturels II]]*</td><td>4 500</td></tr>
+  <tr><td>91-92</td><td>*[[nuée grouillante]]*</td><td>4 500</td></tr>
+  <tr><td>93-96</td><td>*[[toile daraignée|toile d’araignée]]*</td><td>4 500</td></tr>
+  <tr><td>97</td><td>*[[vent de murmures]]*</td><td>4 500</td></tr>
+  <tr><td>98-99</td><td>*[[augure]]*</td><td>5 750</td></tr>
+  <tr><td>100</td><td>*[[piège à feu]]*</td><td>5 750</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>*[[arme alignée]]*</td><td>4 500</td></tr>
+  <tr><td>03-05</td><td>*[[aspect animal]]*</td><td>4 500</td></tr>
+  <tr><td>06</td><td>*[[messager animal]]*</td><td>4 500</td></tr>
+  <tr><td>07</td><td>*[[hypnose des animaux]]*</td><td>4 500</td></tr>
+  <tr><td>08-10</td><td>*[[aspect de lours|aspect de l’ours]]*</td><td>4 500</td></tr>
+  <tr><td>11-13</td><td>*[[savoir manier une arme]]*</td><td>4 500</td></tr>
+  <tr><td>14-15</td><td>*[[cécitésurdité|cécité/surdité]]*</td><td>4 500</td></tr>
+  <tr><td>16-18</td><td>*[[regard brûlant]]*</td><td>4 500</td></tr>
+  <tr><td>19-21</td><td>*[[apaisement des émotions]]*</td><td>4 500</td></tr>
+  <tr><td>22-24</td><td>*[[métal gelé]]*</td><td>4 500</td></tr>
+  <tr><td>25</td><td>*[[contrôle des morts-vivants]]*</td><td>4 500</td></tr>
+  <tr><td>26-27</td><td>*[[hébétement de monstre]]*</td><td>4 500</td></tr>
+  <tr><td>28-29</td><td>*[[mise à mort]]*</td><td>4 500</td></tr>
+  <tr><td>30-32</td><td>*[[décharge défensive]]*</td><td>4 500</td></tr>
+  <tr><td>33</td><td>*[[retardement de la douleur]]*</td><td>4 500</td></tr>
+  <tr><td>34-35</td><td>*[[détection de pensées]]*</td><td>4 500</td></tr>
+  <tr><td>36-39</td><td>*[[déguiser autrui]]*</td><td>4 500</td></tr>
+  <tr><td>40-42</td><td>*[[armure sans effort]]*</td><td>4 500</td></tr>
+  <tr><td>43-46</td><td>*[[caresse élémentaire]]*</td><td>4 500</td></tr>
+  <tr><td>47-48</td><td>*[[discours captivant]]*</td><td>4 500</td></tr>
+  <tr><td>49-50</td><td>*[[préservation des morts]]*</td><td>4 500</td></tr>
+  <tr><td>51</td><td>*[[baiser de la goule]]*</td><td>4 500</td></tr>
+  <tr><td>52-53</td><td>*[[planer]]*</td><td>4 500</td></tr>
+  <tr><td>54-55</td><td>*[[élévation du sol]]*</td><td>4 500</td></tr>
+  <tr><td>56</td><td>*[[bourrasque]]*</td><td>4 500</td></tr>
+  <tr><td>57</td><td>*[[immobilisation danimal|immobilisation d’animal]]*</td><td>4 500</td></tr>
+  <tr><td>58-59</td><td>*[[lueurs hypnotiques]]*</td><td>4 500</td></tr>
+  <tr><td>60</td><td>*[[localisation dobjet|localisation d’objet]]*</td><td>4 500</td></tr>
+  <tr><td>61</td><td>*[[réparation intégrale]]*</td><td>4 500</td></tr>
+</table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>62-63</td><td>*[[détection faussée]]*</td><td>4 500</td></tr><tr><td>64-65</td><td>*[[ennui oppressant]]*</td><td>4 500</td></tr><tr><td>66</td><td>*[[protection contre les projectiles]]*</td><td>4 500</td></tr><tr><td>67</td><td>*[[rapetissement danimal|rapetissement d’animal]]*</td><td>4 500</td></tr><tr><td>68-69</td><td>*[[corde enchantée]]*</td><td>4 500</td></tr><tr><td>70-72</td><td>*[[effroi]]*</td><td>4 500</td></tr><tr><td>73-74</td><td>*[[partage de la langue]]*</td><td>4 500</td></tr><tr><td>75-76</td><td>*[[ramollissement de la terre et de la pierre]]*</td><td>4 500</td></tr><tr><td>77-78</td><td>*[[main spectrale]]*</td><td>4 500</td></tr><tr><td>79-80</td><td>*[[rapport]]*</td><td>4 500</td></tr><tr><td>81-82</td><td>*[[don des langues]]*</td><td>4 500</td></tr><tr><td>83-84</td><td>*[[idiotie]]*</td><td>4 500</td></tr><tr><td>85-86</td><td>*[[forme darbre|forme d’arbre]]*</td><td>4 500</td></tr><tr><td>87-88</td><td>*[[distorsion du bois]]*</td><td>4 500</td></tr><tr><td>89-91</td><td>*[[arme merveilleuse]]*</td><td>4 500</td></tr><tr><td>92-93</td><td>*[[façonnage du bois]]*</td><td>4 500</td></tr><tr><td>94-95</td><td>*[[zone de vérité]]*</td><td>4 500</td></tr><tr><td>96</td><td>*[[verrou du mage]]*</td><td>5 750</td></tr><tr><td>97</td><td>*[[consécration]]*</td><td>5 750</td></tr><tr><td>98</td><td>*[[profanation]]*</td><td>5 750</td></tr><tr><td>99</td><td>*[[flamme éternelle]]*</td><td>7 000</td></tr><tr><td>100</td><td>*[[piège illusoire]]*</td><td>7 000</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <tr><td>62-63</td><td>*[[détection faussée]]*</td><td>4 500</td></tr>
+  <tr><td>64-65</td><td>*[[ennui oppressant]]*</td><td>4 500</td></tr>
+  <tr><td>66</td><td>*[[protection contre les projectiles]]*</td><td>4 500</td></tr>
+  <tr><td>67</td><td>*[[rapetissement danimal|rapetissement d’animal]]*</td><td>4 500</td></tr>
+  <tr><td>68-69</td><td>*[[corde enchantée]]*</td><td>4 500</td></tr>
+  <tr><td>70-72</td><td>*[[effroi]]*</td><td>4 500</td></tr>
+  <tr><td>73-74</td><td>*[[partage de la langue]]*</td><td>4 500</td></tr>
+  <tr><td>75-76</td><td>*[[ramollissement de la terre et de la pierre]]*</td><td>4 500</td></tr>
+  <tr><td>77-78</td><td>*[[main spectrale]]*</td><td>4 500</td></tr>
+  <tr><td>79-80</td><td>*[[rapport]]*</td><td>4 500</td></tr>
+  <tr><td>81-82</td><td>*[[don des langues]]*</td><td>4 500</td></tr>
+  <tr><td>83-84</td><td>*[[idiotie]]*</td><td>4 500</td></tr>
+  <tr><td>85-86</td><td>*[[forme darbre|forme d’arbre]]*</td><td>4 500</td></tr>
+  <tr><td>87-88</td><td>*[[distorsion du bois]]*</td><td>4 500</td></tr>
+  <tr><td>89-91</td><td>*[[arme merveilleuse]]*</td><td>4 500</td></tr>
+  <tr><td>92-93</td><td>*[[façonnage du bois]]*</td><td>4 500</td></tr>
+  <tr><td>94-95</td><td>*[[zone de vérité]]*</td><td>4 500</td></tr>
+  <tr><td>96</td><td>*[[verrou du mage]]*</td><td>5 750</td></tr>
+  <tr><td>97</td><td>*[[consécration]]*</td><td>5 750</td></tr>
+  <tr><td>98</td><td>*[[profanation]]*</td><td>5 750</td></tr>
+  <tr><td>99</td><td>*[[flamme éternelle]]*</td><td>7 000</td></tr>
+  <tr><td>100</td><td>*[[piège illusoire]]*</td><td>7 000</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Baguettes de niveau 3</caption><tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>*[[forme bestiale I]]*</td><td>11 250</td></tr><tr><td>03-04</td><td>*[[clignotement]]*</td><td>11 250</td></tr><tr><td>05-07</td><td>*[[appel de la foudre]]*</td><td>11 250</td></tr><tr><td>08</td><td>*[[création de nourriture et deau|création de nourriture et d’eau]]*</td><td>11 250</td></tr><tr><td>09-14</td><td>*[[soins importants]]*</td><td>11 250</td></tr><tr><td>15-16</td><td>*[[lumière du jour]]*</td><td>11 250</td></tr><tr><td>17-18</td><td>*[[sommeil profond]]*</td><td>11 250</td></tr><tr><td>19-20</td><td>*[[ténèbres profondes]]*</td><td>11 250</td></tr><tr><td>21-25</td><td>*[[dissipation de la magie]]*</td><td>11 250</td></tr><tr><td>26-28</td><td>*[[déplacement]]*</td><td>11 250</td></tr><tr><td>29-34</td><td>*[[boule de feu]]*</td><td>11 250</td></tr><tr><td>35</td><td>*[[flèches enflammées]]*</td><td>11 250</td></tr><tr><td>36-37</td><td>*[[vol]]*</td><td>11 250</td></tr><tr><td>38</td><td>*[[état gazeux]]*</td><td>11 250</td></tr><tr><td>39-40</td><td>*[[rapidité]]*</td><td>11 250</td></tr><tr><td>41-42</td><td>*[[héroïsme]]*</td><td>11 250</td></tr><tr><td>43-45</td><td>*[[blessure grave]]*</td><td>11 250</td></tr><tr><td>46-47</td><td>*[[négation de linvisibilité|négation de l’invisibilité]]*</td><td>11 250</td></tr><tr><td>48</td><td>*[[sphère dinvisibilité|sphère d’invisibilité]]*</td><td>11 250</td></tr><tr><td>49-50</td><td>*[[affûtage]]*</td><td>11 250</td></tr><tr><td>51-55</td><td>*[[éclair]]*</td><td>11 250</td></tr><tr><td>56</td><td>*[[cercle magique contre le Chaos]]*</td><td>11 250</td></tr><tr><td>57</td><td>*[[cercle magique contre le Mal]]*</td><td>11 250</td></tr><tr><td>58</td><td>*[[cercle magique contre le Bien]]*</td><td>11 250</td></tr><tr><td>59</td><td>*[[cercle magique contre la Loi]]*</td><td>11 250</td></tr><tr><td>60</td><td>*[[morsure magique suprême]]*</td><td>11 250</td></tr><tr><td>61-62</td><td>*[[panoplie magique]]*</td><td>11 250</td></tr><tr><td>63-64</td><td>*[[arme magique suprême]]*</td><td>11 250</td></tr><tr><td>65-66</td><td>*[[image accomplie]]*</td><td>11 250</td></tr><tr><td>67-70</td><td>*[[prière]]*</td><td>11 250</td></tr><tr><td>71-74</td><td>*[[protection contre les énergies destructives]]*</td><td>11 250</td></tr><tr><td>75</td><td>*[[guérison de la cécitésurdité|guérison de la cécité/surdité]]*</td><td>11 250</td></tr><tr><td>76-77</td><td>*[[délivrance des malédictions]]*</td><td>11 250</td></tr><tr><td>78-79</td><td>*[[guérison des maladies]]*</td><td>11 250</td></tr><tr><td>80-82</td><td>*[[lumière brûlante]]*</td><td>11 250</td></tr><tr><td>83</td><td>*[[tempête de neige]]*</td><td>11 250</td></tr><tr><td>84-85</td><td>*[[lenteur]]*</td><td>11 250</td></tr><tr><td>86-87</td><td>*[[communication avec les morts]]*</td><td>11 250</td></tr><tr><td>88-89</td><td>*[[nuage nauséabond]]*</td><td>11 250</td></tr><tr><td>90</td><td>*[[façonnage de la pierre]]*</td><td>11 250</td></tr><tr><td>91-92</td><td>*[[suggestion]]*</td><td>11 250</td></tr><tr><td>93</td><td>*[[convocation de monstres III]]*</td><td>11 250</td></tr><tr><td>94</td><td>*[[convocation dalliés naturels III|convocation d’alliés naturels III]]*</td><td>11 250</td></tr><tr><td>95-97</td><td>*[[baiser du vampire]]*</td><td>11 250</td></tr><tr><td>98-99</td><td>*[[respiration aquatique]]*</td><td>11 250</td></tr><tr><td>100</td><td>*[[animation des morts]]*</td><td>23 750</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-04</td><td>*[[aspect animal supérieur]]*</td><td>11 250</td></tr><tr><td>05-06</td><td>*[[orbe aqueux]]*</td><td>11 250</td></tr><tr><td>07-08</td><td>*[[vision magique]]*</td><td>11 250</td></tr><tr><td>09-11</td><td>*[[aura darchon|aura d’archon]]*</td><td>11 250</td></tr><tr><td>12-14</td><td>*[[tempête de cendres]]*</td><td>11 250</td></tr><tr><td>15-17</td><td>*[[malédiction]]*</td><td>11 250</td></tr><tr><td>18-20</td><td>*[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*</td><td>11 250</td></tr><tr><td>21-22</td><td>*[[contagion]]*</td><td>11 250</td></tr><tr><td>23</td><td>*[[rabougrissement des plantes]]*</td><td>11 250</td></tr><tr><td>24-25</td><td>*[[domination danimal|domination d’animal]]*</td><td>11 250</td></tr><tr><td>26-29</td><td>*[[aura élémentaire]]*</td><td>11 250</td></tr><tr><td>30</td><td>*[[runes explosives]]*</td><td>11 250</td></tr><tr><td>31-34</td><td>*[[poing de force]]*</td><td>11 250</td></tr><tr><td>35</td><td>*[[immobilisation de morts-vivants]]*</td><td>11 250</td></tr><tr><td>36-37</td><td>*[[main du berger]]*</td><td>11 250</td></tr><tr><td>38-40</td><td>*[[lévitation hostile]]*</td><td>11 250</td></tr><tr><td>41-43</td><td>*[[hurlement dagonie|hurlement d’agonie]]*</td><td>11 250</td></tr><tr><td>44-45</td><td>*[[torrent hydraulique]]*</td><td>11 250</td></tr><tr><td>46</td><td>*[[singes fous]]*</td><td>11 250</td></tr><tr><td>47-49</td><td>*[[fusion dans la pierre]]*</td><td>11 250</td></tr><tr><td>50-52</td><td>*[[neutralisation du poison]]*</td><td>11 250</td></tr><tr><td>53-54</td><td>*[[frappe douloureuse]]*</td><td>11 250</td></tr><tr><td>55</td><td>*[[coursier fantôme]]*</td><td>11 250</td></tr><tr><td>56-57</td><td>*[[croissance végétale]]*</td><td>11 250</td></tr><tr><td>58-60</td><td>*[[empoisonnement]]*</td><td>11 250</td></tr><tr><td>61</td><td>*[[extinction des feux]]*</td><td>11 250</td></tr><tr><td>62-65</td><td>*[[rage]]*</td><td>11 250</td></tr><tr><td>66-67</td><td>*[[rayon affaiblissant]]*</td><td>11 250</td></tr><tr><td>68-69</td><td>*[[peau résineuse]]*</td><td>11 250</td></tr><tr><td>70</td><td>*[[page secrète]]*</td><td>11 250</td></tr><tr><td>71</td><td>*[[réduction dobjet|réduction d’objet]]*</td><td>11 250</td></tr><tr><td>72-73</td><td>*[[collet]]*</td><td>11 250</td></tr><tr><td>74</td><td>*[[communication avec les plantes]]*</td><td>11 250</td></tr><tr><td>75-76</td><td>*[[croissance dépines|croissance d’épines]]*</td><td>11 250</td></tr><tr><td>77</td><td>*[[abri]]*</td><td>11 250</td></tr><tr><td>78-81</td><td>*[[marche sur londe|marche sur l’onde]]*</td><td>11 250</td></tr><tr><td>82-84</td><td>*[[mur de vent]]*</td><td>11 250</td></tr><tr><td>85-86</td><td>*[[manteau de colère]]*</td><td>11 250</td></tr><tr><td>87</td><td>*[[texte illusoire]]*</td><td>13 750</td></tr><tr><td>88-89</td><td>*[[antidétection]]*</td><td>13 750</td></tr><tr><td>90-91</td><td>*[[bagou]]*</td><td>15 750</td></tr><tr><td>92-95</td><td>*[[espoir]]*</td><td>15 750</td></tr><tr><td>96-97</td><td>*[[guérison de destrier]]*</td><td>15 750</td></tr><tr><td>98</td><td>*[[manipulation des sons]]*</td><td>15 750</td></tr><tr><td>99</td><td>*[[glyphe de garde]]*</td><td>21 250</td></tr><tr><td>100</td><td>*[[sceau du serpent]]*</td><td>36 250</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Baguettes de niveau 3</caption>
+  <tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>*[[forme bestiale I]]*</td><td>11 250</td></tr>
+  <tr><td>03-04</td><td>*[[clignotement]]*</td><td>11 250</td></tr>
+  <tr><td>05-07</td><td>*[[appel de la foudre]]*</td><td>11 250</td></tr>
+  <tr><td>08</td><td>*[[création de nourriture et deau|création de nourriture et d’eau]]*</td><td>11 250</td></tr>
+  <tr><td>09-14</td><td>*[[soins importants]]*</td><td>11 250</td></tr>
+  <tr><td>15-16</td><td>*[[lumière du jour]]*</td><td>11 250</td></tr>
+  <tr><td>17-18</td><td>*[[sommeil profond]]*</td><td>11 250</td></tr>
+  <tr><td>19-20</td><td>*[[ténèbres profondes]]*</td><td>11 250</td></tr>
+  <tr><td>21-25</td><td>*[[dissipation de la magie]]*</td><td>11 250</td></tr>
+  <tr><td>26-28</td><td>*[[déplacement]]*</td><td>11 250</td></tr>
+  <tr><td>29-34</td><td>*[[boule de feu]]*</td><td>11 250</td></tr>
+  <tr><td>35</td><td>*[[flèches enflammées]]*</td><td>11 250</td></tr>
+  <tr><td>36-37</td><td>*[[vol]]*</td><td>11 250</td></tr>
+  <tr><td>38</td><td>*[[état gazeux]]*</td><td>11 250</td></tr>
+  <tr><td>39-40</td><td>*[[rapidité]]*</td><td>11 250</td></tr>
+  <tr><td>41-42</td><td>*[[héroïsme]]*</td><td>11 250</td></tr>
+  <tr><td>43-45</td><td>*[[blessure grave]]*</td><td>11 250</td></tr>
+  <tr><td>46-47</td><td>*[[négation de linvisibilité|négation de l’invisibilité]]*</td><td>11 250</td></tr>
+  <tr><td>48</td><td>*[[sphère dinvisibilité|sphère d’invisibilité]]*</td><td>11 250</td></tr>
+  <tr><td>49-50</td><td>*[[affûtage]]*</td><td>11 250</td></tr>
+  <tr><td>51-55</td><td>*[[éclair]]*</td><td>11 250</td></tr>
+  <tr><td>56</td><td>*[[cercle magique contre le Chaos]]*</td><td>11 250</td></tr>
+  <tr><td>57</td><td>*[[cercle magique contre le Mal]]*</td><td>11 250</td></tr>
+  <tr><td>58</td><td>*[[cercle magique contre le Bien]]*</td><td>11 250</td></tr>
+  <tr><td>59</td><td>*[[cercle magique contre la Loi]]*</td><td>11 250</td></tr>
+  <tr><td>60</td><td>*[[morsure magique suprême]]*</td><td>11 250</td></tr>
+  <tr><td>61-62</td><td>*[[panoplie magique]]*</td><td>11 250</td></tr>
+  <tr><td>63-64</td><td>*[[arme magique suprême]]*</td><td>11 250</td></tr>
+  <tr><td>65-66</td><td>*[[image accomplie]]*</td><td>11 250</td></tr>
+  <tr><td>67-70</td><td>*[[prière]]*</td><td>11 250</td></tr>
+  <tr><td>71-74</td><td>*[[protection contre les énergies destructives]]*</td><td>11 250</td></tr>
+  <tr><td>75</td><td>*[[guérison de la cécitésurdité|guérison de la cécité/surdité]]*</td><td>11 250</td></tr>
+  <tr><td>76-77</td><td>*[[délivrance des malédictions]]*</td><td>11 250</td></tr>
+  <tr><td>78-79</td><td>*[[guérison des maladies]]*</td><td>11 250</td></tr>
+  <tr><td>80-82</td><td>*[[lumière brûlante]]*</td><td>11 250</td></tr>
+  <tr><td>83</td><td>*[[tempête de neige]]*</td><td>11 250</td></tr>
+  <tr><td>84-85</td><td>*[[lenteur]]*</td><td>11 250</td></tr>
+  <tr><td>86-87</td><td>*[[communication avec les morts]]*</td><td>11 250</td></tr>
+  <tr><td>88-89</td><td>*[[nuage nauséabond]]*</td><td>11 250</td></tr>
+  <tr><td>90</td><td>*[[façonnage de la pierre]]*</td><td>11 250</td></tr>
+  <tr><td>91-92</td><td>*[[suggestion]]*</td><td>11 250</td></tr>
+  <tr><td>93</td><td>*[[convocation de monstres III]]*</td><td>11 250</td></tr>
+  <tr><td>94</td><td>*[[convocation dalliés naturels III|convocation d’alliés naturels III]]*</td><td>11 250</td></tr>
+  <tr><td>95-97</td><td>*[[baiser du vampire]]*</td><td>11 250</td></tr>
+  <tr><td>98-99</td><td>*[[respiration aquatique]]*</td><td>11 250</td></tr>
+  <tr><td>100</td><td>*[[animation des morts]]*</td><td>23 750</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-04</td><td>*[[aspect animal supérieur]]*</td><td>11 250</td></tr>
+  <tr><td>05-06</td><td>*[[orbe aqueux]]*</td><td>11 250</td></tr>
+  <tr><td>07-08</td><td>*[[vision magique]]*</td><td>11 250</td></tr>
+  <tr><td>09-11</td><td>*[[aura darchon|aura d’archon]]*</td><td>11 250</td></tr>
+  <tr><td>12-14</td><td>*[[tempête de cendres]]*</td><td>11 250</td></tr>
+  <tr><td>15-17</td><td>*[[malédiction]]*</td><td>11 250</td></tr>
+  <tr><td>18-20</td><td>*[[clairaudienceclairvoyance|clairaudience/clairvoyance]]*</td><td>11 250</td></tr>
+  <tr><td>21-22</td><td>*[[contagion]]*</td><td>11 250</td></tr>
+  <tr><td>23</td><td>*[[rabougrissement des plantes]]*</td><td>11 250</td></tr>
+  <tr><td>24-25</td><td>*[[domination danimal|domination d’animal]]*</td><td>11 250</td></tr>
+  <tr><td>26-29</td><td>*[[aura élémentaire]]*</td><td>11 250</td></tr>
+  <tr><td>30</td><td>*[[runes explosives]]*</td><td>11 250</td></tr>
+  <tr><td>31-34</td><td>*[[poing de force]]*</td><td>11 250</td></tr>
+  <tr><td>35</td><td>*[[immobilisation de morts-vivants]]*</td><td>11 250</td></tr>
+  <tr><td>36-37</td><td>*[[main du berger]]*</td><td>11 250</td></tr>
+  <tr><td>38-40</td><td>*[[lévitation hostile]]*</td><td>11 250</td></tr>
+  <tr><td>41-43</td><td>*[[hurlement dagonie|hurlement d’agonie]]*</td><td>11 250</td></tr>
+  <tr><td>44-45</td><td>*[[torrent hydraulique]]*</td><td>11 250</td></tr>
+  <tr><td>46</td><td>*[[singes fous]]*</td><td>11 250</td></tr>
+  <tr><td>47-49</td><td>*[[fusion dans la pierre]]*</td><td>11 250</td></tr>
+  <tr><td>50-52</td><td>*[[neutralisation du poison]]*</td><td>11 250</td></tr>
+  <tr><td>53-54</td><td>*[[frappe douloureuse]]*</td><td>11 250</td></tr>
+  <tr><td>55</td><td>*[[coursier fantôme]]*</td><td>11 250</td></tr>
+  <tr><td>56-57</td><td>*[[croissance végétale]]*</td><td>11 250</td></tr>
+  <tr><td>58-60</td><td>*[[empoisonnement]]*</td><td>11 250</td></tr>
+  <tr><td>61</td><td>*[[extinction des feux]]*</td><td>11 250</td></tr>
+  <tr><td>62-65</td><td>*[[rage]]*</td><td>11 250</td></tr>
+  <tr><td>66-67</td><td>*[[rayon affaiblissant]]*</td><td>11 250</td></tr>
+  <tr><td>68-69</td><td>*[[peau résineuse]]*</td><td>11 250</td></tr>
+  <tr><td>70</td><td>*[[page secrète]]*</td><td>11 250</td></tr>
+  <tr><td>71</td><td>*[[réduction dobjet|réduction d’objet]]*</td><td>11 250</td></tr>
+  <tr><td>72-73</td><td>*[[collet]]*</td><td>11 250</td></tr>
+  <tr><td>74</td><td>*[[communication avec les plantes]]*</td><td>11 250</td></tr>
+  <tr><td>75-76</td><td>*[[croissance dépines|croissance d’épines]]*</td><td>11 250</td></tr>
+  <tr><td>77</td><td>*[[abri]]*</td><td>11 250</td></tr>
+  <tr><td>78-81</td><td>*[[marche sur londe|marche sur l’onde]]*</td><td>11 250</td></tr>
+  <tr><td>82-84</td><td>*[[mur de vent]]*</td><td>11 250</td></tr>
+  <tr><td>85-86</td><td>*[[manteau de colère]]*</td><td>11 250</td></tr>
+  <tr><td>87</td><td>*[[texte illusoire]]*</td><td>13 750</td></tr>
+  <tr><td>88-89</td><td>*[[antidétection]]*</td><td>13 750</td></tr>
+  <tr><td>90-91</td><td>*[[bagou]]*</td><td>15 750</td></tr>
+  <tr><td>92-95</td><td>*[[espoir]]*</td><td>15 750</td></tr>
+  <tr><td>96-97</td><td>*[[guérison de destrier]]*</td><td>15 750</td></tr>
+  <tr><td>98</td><td>*[[manipulation des sons]]*</td><td>15 750</td></tr>
+  <tr><td>99</td><td>*[[glyphe de garde]]*</td><td>21 250</td></tr>
+  <tr><td>100</td><td>*[[sceau du serpent]]*</td><td>36 250</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Baguettes de niveau 4</caption><tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-02</td><td>*[[marche dans les airs]]*</td><td>21 000</td></tr><tr><td>03-04</td><td>*[[forme bestiale II]]*</td><td>21 000</td></tr><tr><td>05-07</td><td>*[[tentacules noirs]]*</td><td>21 000</td></tr><tr><td>08</td><td>*[[marteau du Chaos]]*</td><td>21 000</td></tr><tr><td>09-11</td><td>*[[charme-monstre]]*</td><td>21 000</td></tr><tr><td>12-14</td><td>*[[confusion]]*</td><td>21 000</td></tr><tr><td>15-16</td><td>*[[désespoir foudroyant]]*</td><td>21 000</td></tr><tr><td>17-22</td><td>*[[soins intensifs]]*</td><td>21 000</td></tr><tr><td>23-24</td><td>*[[protection contre la mort]]*</td><td>21 000</td></tr><tr><td>25-28</td><td>*[[porte dimensionnelle]]*</td><td>21 000</td></tr><tr><td>29</td><td>*[[ancre dimensionnelle]]*</td><td>21 000</td></tr><tr><td>30</td><td>*[[renvoi]]*</td><td>21 000</td></tr><tr><td>31-33</td><td>*[[puissance divine]]*</td><td>21 000</td></tr><tr><td>34-35</td><td>*[[corps élémentaire I]]*</td><td>21 000</td></tr><tr><td>36-37</td><td>*[[énergie négative]]*</td><td>21 000</td></tr><tr><td>38-39</td><td>*[[agrandissement de groupe]]*</td><td>21 000</td></tr><tr><td>40-42</td><td>*[[terreur]]*</td><td>21 000</td></tr><tr><td>43-44</td><td>*[[bouclier de feu]]*</td><td>21 000</td></tr><tr><td>45-48</td><td>*[[colonne de feu]]*</td><td>21 000</td></tr><tr><td>49-51</td><td>*[[liberté de mouvement]]*</td><td>21 000</td></tr><tr><td>52-53</td><td>*[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]*</td><td>21 000</td></tr><tr><td>54</td><td>*[[châtiment sacré]]*</td><td>21 000</td></tr><tr><td>55-56</td><td>*[[tempête de grêle]]*</td><td>21 000</td></tr><tr><td>57-58</td><td>*[[transfert de sorts]]*</td><td>21 000</td></tr><tr><td>59-61</td><td>*[[blessure critique]]*</td><td>21 000</td></tr><tr><td>62-65</td><td>*[[invisibilité suprême]]*</td><td>21 000</td></tr><tr><td>66</td><td>*[[courroux de lordre|courroux de l’ordre]]*</td><td>21 000</td></tr><tr><td>67-69</td><td>*[[assassin imaginaire]]*</td><td>21 000</td></tr><tr><td>70</td><td>*[[sphère disolement|sphère d’isolement]]*</td><td>21 000</td></tr><tr><td>71-72</td><td>*[[scrutation]]*</td><td>21 000</td></tr><tr><td>73</td><td>*[[communication à distance]]*</td><td>21 000</td></tr><tr><td>74</td><td>*[[cri]]*</td><td>21 000</td></tr><tr><td>75-76</td><td>*[[brouillard dense]]*</td><td>21 000</td></tr><tr><td>77-79</td><td>*[[immunité contre les sorts]]*</td><td>21 000</td></tr><tr><td>80</td><td>*[[convocation de monstres IV]]*</td><td>21 000</td></tr><tr><td>81</td><td>*[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*</td><td>21 000</td></tr><tr><td>82</td><td>*[[ténèbres maudites]]*</td><td>21 000</td></tr><tr><td>83-87</td><td>*[[mur de feu]]*</td><td>21 000</td></tr><tr><td>88-91</td><td>*[[mur de glace]]*</td><td>21 000</td></tr><tr><td>92-93</td><td>*[[divination]]*</td><td>22 250</td></tr><tr><td>94-95</td><td>*[[restauration]]*</td><td>26 000</td></tr><tr><td>96</td><td>*[[annulation denchantement|annulation d’enchantement]]*</td><td>30 000</td></tr><tr><td>97-98</td><td>*[[peau de pierre]]*</td><td>33 500</td></tr><tr><td>99</td><td>*[[allié doutreplan|allié d’outreplan]]*</td><td>46 000</td></tr><tr><td>100</td><td>*[[restauration]]*</td><td>71 000</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01</td><td>*[[coquille antiplantes]]*</td><td>21 000</td></tr><tr><td>02-04</td><td>*[[vision magique]]*</td><td>21 000</td></tr><tr><td>05-07</td><td>*[[aspect du cerf]]*</td><td>21 000</td></tr><tr><td>08-11</td><td>*[[boule de foudre]]*</td><td>21 000</td></tr><tr><td>12</td><td>*[[flétrissement végétal]]*</td><td>21 000</td></tr><tr><td>13</td><td>*[[empire végétal]]*</td><td>21 000</td></tr><tr><td>14-15</td><td>*[[contrôle de leau|contrôle de l’eau]]*</td><td>21 000</td></tr><tr><td>16-18</td><td>*[[vision dans le noir supérieure]]*</td><td>21 000</td></tr><tr><td>19</td><td>*[[détection de la scrutation]]*</td><td>21 000</td></tr><tr><td>20</td><td>*[[détection du mensonge]]*</td><td>21 000</td></tr><tr><td>21-24</td><td>*[[souffle de dragon]]*</td><td>21 000</td></tr><tr><td>25-28</td><td>*[[simulacre de vie supérieur]]*</td><td>21 000</td></tr><tr><td>29-30</td><td>*[[mission]]*</td><td>21 000</td></tr><tr><td>31-34</td><td>*[[loup fantomatique]]*</td><td>21 000</td></tr><tr><td>35-36</td><td>*[[vermine géante]]*</td><td>21 000</td></tr><tr><td>37</td><td>*[[terrain hallucinatoire]]*</td><td>21 000</td></tr><tr><td>38</td><td>*[[mur illusoire]]*</td><td>21 000</td></tr><tr><td>39-40</td><td>*[[localisation de créature]]*</td><td>21 000</td></tr><tr><td>41-42</td><td>*[[création mineure]]*</td><td>21 000</td></tr><tr><td>43</td><td>*[[mémorisation]]*</td><td>21 000</td></tr><tr><td>44-46</td><td>*[[flot obsidien]]*</td><td>21 000</td></tr><tr><td>47-48</td><td>*[[lueur darc-en-ciel|lueur d’arc-en-ciel]]*</td><td>21 000</td></tr><tr><td>49-50</td><td>*[[rapetissement de groupe]]*</td><td>21 000</td></tr><tr><td>51-53</td><td>*[[réincarnation]]*</td><td>21 000</td></tr><tr><td>54</td><td>*[[répulsif]]*</td><td>21 000</td></tr><tr><td>55-56</td><td>*[[chevaucher les vagues]]*</td><td>21 000</td></tr><tr><td>57-59</td><td>*[[rouille]]*</td><td>21 000</td></tr><tr><td>60</td><td>*[[refuge du mage]]*</td><td>21 000</td></tr><tr><td>61-63</td><td>*[[convocation dombres|convocation d’ombres]]*</td><td>21 000</td></tr><tr><td>64-67</td><td>*[[pas de lombre|pas de l’ombre]]*</td><td>21 000</td></tr><tr><td>68-70</td><td>*[[image de foudre]]*</td><td>21 000</td></tr><tr><td>71-74</td><td>*[[pierres acérées]]*</td><td>21 000</td></tr><tr><td>75-76</td><td>*[[tempête volcanique]]*</td><td>21 000</td></tr><tr><td>77-79</td><td>*[[poussière détoile|poussière d’étoile]]*</td><td>21 000</td></tr><tr><td>80</td><td>*[[croissance animale]]*</td><td>30 000</td></tr><tr><td>81-82</td><td>*[[communion avec la nature]]*</td><td>30 000</td></tr><tr><td>83</td><td>*[[Rejet du Chaos]]*</td><td>30 000</td></tr><tr><td>84</td><td>*[[Rejet du Mal]]*</td><td>30 000</td></tr><tr><td>85-87</td><td>*[[domination]]*</td><td>30 000</td></tr><tr><td>88-91</td><td>*[[immobilisation de monstre]]*</td><td>30 000</td></tr><tr><td>92-94</td><td>*[[épée sainte]]*</td><td>30 000</td></tr><tr><td>95</td><td>*[[marque de la justice]]*</td><td>30 000</td></tr><tr><td>96-97</td><td>*[[modification de mémoire]]*</td><td>30 000</td></tr><tr><td>98</td><td>*[[voyage par les arbres]]*</td><td>30 000</td></tr><tr><td>99</td><td>*[[zone de silence]]*</td><td>30 000</td></tr><tr><td>100</td><td>*[[mythes et légendes]]*</td><td>33 500</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Baguettes de niveau 4</caption>
+  <tr CLASS="titre"><td>D100</td><td>Baguette commune</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-02</td><td>*[[marche dans les airs]]*</td><td>21 000</td></tr>
+  <tr><td>03-04</td><td>*[[forme bestiale II]]*</td><td>21 000</td></tr>
+  <tr><td>05-07</td><td>*[[tentacules noirs]]*</td><td>21 000</td></tr>
+  <tr><td>08</td><td>*[[marteau du Chaos]]*</td><td>21 000</td></tr>
+  <tr><td>09-11</td><td>*[[charme-monstre]]*</td><td>21 000</td></tr>
+  <tr><td>12-14</td><td>*[[confusion]]*</td><td>21 000</td></tr>
+  <tr><td>15-16</td><td>*[[désespoir foudroyant]]*</td><td>21 000</td></tr>
+  <tr><td>17-22</td><td>*[[soins intensifs]]*</td><td>21 000</td></tr>
+  <tr><td>23-24</td><td>*[[protection contre la mort]]*</td><td>21 000</td></tr>
+  <tr><td>25-28</td><td>*[[porte dimensionnelle]]*</td><td>21 000</td></tr>
+  <tr><td>29</td><td>*[[ancre dimensionnelle]]*</td><td>21 000</td></tr>
+  <tr><td>30</td><td>*[[renvoi]]*</td><td>21 000</td></tr>
+  <tr><td>31-33</td><td>*[[puissance divine]]*</td><td>21 000</td></tr>
+  <tr><td>34-35</td><td>*[[corps élémentaire I]]*</td><td>21 000</td></tr>
+  <tr><td>36-37</td><td>*[[énergie négative]]*</td><td>21 000</td></tr>
+  <tr><td>38-39</td><td>*[[agrandissement de groupe]]*</td><td>21 000</td></tr>
+  <tr><td>40-42</td><td>*[[terreur]]*</td><td>21 000</td></tr>
+  <tr><td>43-44</td><td>*[[bouclier de feu]]*</td><td>21 000</td></tr>
+  <tr><td>45-48</td><td>*[[colonne de feu]]*</td><td>21 000</td></tr>
+  <tr><td>49-51</td><td>*[[liberté de mouvement]]*</td><td>21 000</td></tr>
+  <tr>
+    <td>52-53</td>
+    <td>*[[globe dinvulnérabilité partielle|globe d’invulnérabilité partielle]]*</td>
+    <td>21 000</td>
+  </tr>
+  <tr><td>54</td><td>*[[châtiment sacré]]*</td><td>21 000</td></tr>
+  <tr><td>55-56</td><td>*[[tempête de grêle]]*</td><td>21 000</td></tr>
+  <tr><td>57-58</td><td>*[[transfert de sorts]]*</td><td>21 000</td></tr>
+  <tr><td>59-61</td><td>*[[blessure critique]]*</td><td>21 000</td></tr>
+  <tr><td>62-65</td><td>*[[invisibilité suprême]]*</td><td>21 000</td></tr>
+  <tr><td>66</td><td>*[[courroux de lordre|courroux de l’ordre]]*</td><td>21 000</td></tr>
+  <tr><td>67-69</td><td>*[[assassin imaginaire]]*</td><td>21 000</td></tr>
+  <tr><td>70</td><td>*[[sphère disolement|sphère d’isolement]]*</td><td>21 000</td></tr>
+  <tr><td>71-72</td><td>*[[scrutation]]*</td><td>21 000</td></tr>
+  <tr><td>73</td><td>*[[communication à distance]]*</td><td>21 000</td></tr>
+  <tr><td>74</td><td>*[[cri]]*</td><td>21 000</td></tr>
+  <tr><td>75-76</td><td>*[[brouillard dense]]*</td><td>21 000</td></tr>
+  <tr><td>77-79</td><td>*[[immunité contre les sorts]]*</td><td>21 000</td></tr>
+  <tr><td>80</td><td>*[[convocation de monstres IV]]*</td><td>21 000</td></tr>
+  <tr><td>81</td><td>*[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]*</td><td>21 000</td></tr>
+  <tr><td>82</td><td>*[[ténèbres maudites]]*</td><td>21 000</td></tr>
+  <tr><td>83-87</td><td>*[[mur de feu]]*</td><td>21 000</td></tr>
+  <tr><td>88-91</td><td>*[[mur de glace]]*</td><td>21 000</td></tr>
+  <tr><td>92-93</td><td>*[[divination]]*</td><td>22 250</td></tr>
+  <tr><td>94-95</td><td>*[[restauration]]*</td><td>26 000</td></tr>
+  <tr><td>96</td><td>*[[annulation denchantement|annulation d’enchantement]]*</td><td>30 000</td></tr>
+  <tr><td>97-98</td><td>*[[peau de pierre]]*</td><td>33 500</td></tr>
+  <tr><td>99</td><td>*[[allié doutreplan|allié d’outreplan]]*</td><td>46 000</td></tr>
+  <tr><td>100</td><td>*[[restauration]]*</td><td>71 000</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Baguette hors du commun</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01</td><td>*[[coquille antiplantes]]*</td><td>21 000</td></tr>
+  <tr><td>02-04</td><td>*[[vision magique]]*</td><td>21 000</td></tr>
+  <tr><td>05-07</td><td>*[[aspect du cerf]]*</td><td>21 000</td></tr>
+  <tr><td>08-11</td><td>*[[boule de foudre]]*</td><td>21 000</td></tr>
+  <tr><td>12</td><td>*[[flétrissement végétal]]*</td><td>21 000</td></tr>
+  <tr><td>13</td><td>*[[empire végétal]]*</td><td>21 000</td></tr>
+  <tr><td>14-15</td><td>*[[contrôle de leau|contrôle de l’eau]]*</td><td>21 000</td></tr>
+  <tr><td>16-18</td><td>*[[vision dans le noir supérieure]]*</td><td>21 000</td></tr>
+  <tr><td>19</td><td>*[[détection de la scrutation]]*</td><td>21 000</td></tr>
+  <tr><td>20</td><td>*[[détection du mensonge]]*</td><td>21 000</td></tr>
+  <tr><td>21-24</td><td>*[[souffle de dragon]]*</td><td>21 000</td></tr>
+  <tr><td>25-28</td><td>*[[simulacre de vie supérieur]]*</td><td>21 000</td></tr>
+  <tr><td>29-30</td><td>*[[mission]]*</td><td>21 000</td></tr>
+  <tr><td>31-34</td><td>*[[loup fantomatique]]*</td><td>21 000</td></tr>
+  <tr><td>35-36</td><td>*[[vermine géante]]*</td><td>21 000</td></tr>
+  <tr><td>37</td><td>*[[terrain hallucinatoire]]*</td><td>21 000</td></tr>
+  <tr><td>38</td><td>*[[mur illusoire]]*</td><td>21 000</td></tr>
+  <tr><td>39-40</td><td>*[[localisation de créature]]*</td><td>21 000</td></tr>
+  <tr><td>41-42</td><td>*[[création mineure]]*</td><td>21 000</td></tr>
+  <tr><td>43</td><td>*[[mémorisation]]*</td><td>21 000</td></tr>
+  <tr><td>44-46</td><td>*[[flot obsidien]]*</td><td>21 000</td></tr>
+  <tr><td>47-48</td><td>*[[lueur darc-en-ciel|lueur d’arc-en-ciel]]*</td><td>21 000</td></tr>
+  <tr><td>49-50</td><td>*[[rapetissement de groupe]]*</td><td>21 000</td></tr>
+  <tr><td>51-53</td><td>*[[réincarnation]]*</td><td>21 000</td></tr>
+  <tr><td>54</td><td>*[[répulsif]]*</td><td>21 000</td></tr>
+  <tr><td>55-56</td><td>*[[chevaucher les vagues]]*</td><td>21 000</td></tr>
+  <tr><td>57-59</td><td>*[[rouille]]*</td><td>21 000</td></tr>
+  <tr><td>60</td><td>*[[refuge du mage]]*</td><td>21 000</td></tr>
+  <tr><td>61-63</td><td>*[[convocation dombres|convocation d’ombres]]*</td><td>21 000</td></tr>
+  <tr><td>64-67</td><td>*[[pas de lombre|pas de l’ombre]]*</td><td>21 000</td></tr>
+  <tr><td>68-70</td><td>*[[image de foudre]]*</td><td>21 000</td></tr>
+  <tr><td>71-74</td><td>*[[pierres acérées]]*</td><td>21 000</td></tr>
+  <tr><td>75-76</td><td>*[[tempête volcanique]]*</td><td>21 000</td></tr>
+  <tr><td>77-79</td><td>*[[poussière détoile|poussière d’étoile]]*</td><td>21 000</td></tr>
+  <tr><td>80</td><td>*[[croissance animale]]*</td><td>30 000</td></tr>
+  <tr><td>81-82</td><td>*[[communion avec la nature]]*</td><td>30 000</td></tr>
+  <tr><td>83</td><td>*[[Rejet du Chaos]]*</td><td>30 000</td></tr>
+  <tr><td>84</td><td>*[[Rejet du Mal]]*</td><td>30 000</td></tr>
+  <tr><td>85-87</td><td>*[[domination]]*</td><td>30 000</td></tr>
+  <tr><td>88-91</td><td>*[[immobilisation de monstre]]*</td><td>30 000</td></tr>
+  <tr><td>92-94</td><td>*[[épée sainte]]*</td><td>30 000</td></tr>
+  <tr><td>95</td><td>*[[marque de la justice]]*</td><td>30 000</td></tr>
+  <tr><td>96-97</td><td>*[[modification de mémoire]]*</td><td>30 000</td></tr>
+  <tr><td>98</td><td>*[[voyage par les arbres]]*</td><td>30 000</td></tr>
+  <tr><td>99</td><td>*[[zone de silence]]*</td><td>30 000</td></tr>
+  <tr><td>100</td><td>*[[mythes et légendes]]*</td><td>33 500</td></tr>
+</table>
 
 </td></tr></table>

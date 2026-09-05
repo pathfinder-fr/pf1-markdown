@@ -16,7 +16,72 @@ Categories:
 {s:Reference|TABLEASPIRANTALILLUMINATION}
 <center>
 
-<table CLASS="tablo"><caption>L'aspirant à l'Illumination</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Aspirant à lIllumination#REVELATIONDEPRESAGE|révélation de présage]], [[Aspirant à lIllumination#PELERINELU|pèlerin élu]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Aspirant à lIllumination#CANALISATIONDINCARNATIONANTERIEURE|canalisation d’incarnation antérieure]], [[Aspirant à lIllumination#QUIETUDE|quiétude]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Aspirant à lIllumination#TERRAINDENTENTE|terrain d’entente]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]] 1/jour</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Aspirant à lIllumination#FUSIONAVECLANATURE|fusion avec la nature]], [[Aspirant à lIllumination#AURADEQUIETUDE|aura de quiétude]]</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Aspirant à lIllumination#RENAISSANCE|renaissance]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]] 2/jour</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'aspirant à l'Illumination</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Aspirant à lIllumination#REVELATIONDEPRESAGE|révélation de présage]], [[Aspirant à
+      lIllumination#PELERINELU|pèlerin élu]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Aspirant à lIllumination#CANALISATIONDINCARNATIONANTERIEURE|canalisation d’incarnation antérieure]],
+      [[Aspirant à lIllumination#QUIETUDE|quiétude]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Aspirant à lIllumination#TERRAINDENTENTE|terrain d’entente]], [[Aspirant à lIllumination#FORMEANIMALE|forme
+      animale]] 1/jour
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Aspirant à lIllumination#FUSIONAVECLANATURE|fusion avec la nature]], [[Aspirant à
+      lIllumination#AURADEQUIETUDE|aura de quiétude]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Aspirant à lIllumination#RENAISSANCE|renaissance]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]]
+      2/jour
+    </td>
+  </tr>
+</table>
 
 </center>
 

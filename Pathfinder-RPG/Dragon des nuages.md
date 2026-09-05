@@ -61,7 +61,22 @@ qu’ils viennent d’acquérir.
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité contre l’électricité, vision dans la brume</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[brume de dissimulation]]*</td><td>—</td></tr><tr><td>Jeune</td><td>*[[nappe de brouillard]]*</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>[[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[brouillard dense]]*, forme de nuage</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[brume mortelle]]*</td><td>9</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>morsure tonitruante, *[[vent divin]]*</td><td>13</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>souffle nuage, *[[tempête vengeresse]]*</td><td>17</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier"><td>Dragonnet</td><td>immunité contre l’électricité, vision dans la brume</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>*[[brume de dissimulation]]*</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>*[[nappe de brouillard]]*</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Adolescent</td><td>[[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>1</td></tr>
+  <tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>3</td></tr>
+  <tr CLASS="alt"><td>Adulte</td><td>*[[brouillard dense]]*, forme de nuage</td><td>5</td></tr>
+  <tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>*[[brume mortelle]]*</td><td>9</td></tr>
+  <tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>morsure tonitruante, *[[vent divin]]*</td><td>13</td></tr>
+  <tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>souffle nuage, *[[tempête vengeresse]]*</td><td>17</td></tr>
+</table>
 
 </center>
 

@@ -19,9 +19,19 @@ Chacun des matériaux spéciaux présentés ci-dessous a un effet défini en jeu
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en acier ardent  
- ou en acier glacé</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+15 po</td></tr><tr CLASS="alt"><td>Armure légère</td><td>+1 000 po</td></tr><tr><td>Armure intermédiaire</td><td>+2 500 po</td></tr><tr CLASS="alt"><td>Armure lourde</td><td>+3 000 po</td></tr><tr><td>Arme</td><td>+600 po</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre">
+    <td>Type d’objet en acier ardent  
+ ou en acier glacé</td>
+    <td>Modif. au   
+prix de l'objet</td>
+  </tr>
+  <tr CLASS="premier"><td>Munitions (pièce)</td><td>+15 po</td></tr>
+  <tr CLASS="alt"><td>Armure légère</td><td>+1 000 po</td></tr>
+  <tr><td>Armure intermédiaire</td><td>+2 500 po</td></tr>
+  <tr CLASS="alt"><td>Armure lourde</td><td>+3 000 po</td></tr>
+  <tr><td>Arme</td><td>+600 po</td></tr>
+</table>
 
 </center></div></div>
 #### Acier ardent
@@ -46,9 +56,18 @@ L’acier glacé a le même nombre de points de vie et la même [[solidité]] qu
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en  
 acier vivant</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+10 po</td></tr><tr CLASS="alt"><td>Armure légère</td><td>+500 po</td></tr><tr><td>Armure intermédiaire</td><td>+1 000 po</td></tr><tr CLASS="alt"><td>Armure lourde</td><td>+1 500 po</td></tr><tr><td>Arme</td><td>+500 po</td></tr><tr CLASS="alt"><td>Bouclier</td><td>+100 po</td></tr><tr><td>Autres objets</td><td>+250 po/0,5 kg</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Munitions (pièce)</td><td>+10 po</td></tr>
+  <tr CLASS="alt"><td>Armure légère</td><td>+500 po</td></tr>
+  <tr><td>Armure intermédiaire</td><td>+1 000 po</td></tr>
+  <tr CLASS="alt"><td>Armure lourde</td><td>+1 500 po</td></tr>
+  <tr><td>Arme</td><td>+500 po</td></tr>
+  <tr CLASS="alt"><td>Bouclier</td><td>+100 po</td></tr>
+  <tr><td>Autres objets</td><td>+250 po/0,5 kg</td></tr>
+</table>
 
 </center></div></div>
 Certains arbres absorbent de puissants minéraux par leurs racines, de la même manière que d’autres absorbent l’eau du sol. Bien que ces arbres émoussent les scies et les haches utilisées pour les abattre et ne craignent pas le feu, ils finissent par succomber au temps et aux éléments. Lorsqu’ils sont convenablement récoltés, ces arbres morts produisent des pépites de métal que l’on appelle de l’acier vivant. Ce métal vert brillant se répare lentement de lui-même. Un objet en acier vivant se soigne à raison de 2 [[pv|points de vie]] par jour ou de 1 point de vie par jour s’il est [[brisé]].
@@ -64,9 +83,16 @@ L’acier vivant a 35 [[pv|points de vie]] par section de 2,5 centimètres d’�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Type d’objet en  
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Type d’objet en  
 adamantium</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+60 po</td></tr><tr><td>Arme (ou bouclier)</td><td>+3 000 po</td></tr><tr><td>Armure légère</td><td>+5 000 po</td></tr><tr><td>Armure intermédiaire</td><td>+10 000 po</td></tr><tr><td>Armure lourde</td><td>+15 000 po</td></tr></table></div></div>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Munitions (pièce)</td><td>+60 po</td></tr>
+  <tr><td>Arme (ou bouclier)</td><td>+3 000 po</td></tr>
+  <tr><td>Armure légère</td><td>+5 000 po</td></tr>
+  <tr><td>Armure intermédiaire</td><td>+10 000 po</td></tr>
+  <tr><td>Armure lourde</td><td>+15 000 po</td></tr>
+</table></div></div>
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#1|→]] Adamantium : L’adamantium indique qu’il ignore les solidités inférieures à 20, mais la solidité indique que l’adamantium ignore les solidités de 20 ou moins. Quelle règle dois-je utiliser ?***
 
@@ -95,11 +121,17 @@ Les armes et les armures d'adamantium qui sont normalement fabriquées en acier 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en argent  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en argent  
 alchimique</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+2 po</td></tr><tr CLASS="alt"><td>Arme légère</td><td>+20 po</td></tr><tr><td>Arme à une main (ou  
-1 tête d’arme double)</td><td>+90 po</td></tr><tr CLASS="alt"><td>Arme à deux mains (ou  
-2 têtes d’arme double)</td><td>+180po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Munitions (pièce)</td><td>+2 po</td></tr>
+  <tr CLASS="alt"><td>Arme légère</td><td>+20 po</td></tr>
+  <tr><td>Arme à une main (ou  
+1 tête d’arme double)</td><td>+90 po</td></tr>
+  <tr CLASS="alt"><td>Arme à deux mains (ou  
+2 têtes d’arme double)</td><td>+180po</td></tr>
+</table>
 
 </center></div></div>
 Un processus complexe mêlant métallurgie et alchimie permet de lier de l’argent à une arme en acier afin qu’elle puisse passer la réduction de dégâts de créatures telles que les lycanthropes. Quand le personnage réussit un jet d’attaque avec une arme tranchante ou perforante en argent alchimique, il subit un malus de -1 au jet de dégâts (avec un minimum de 1 point de dégâts). Le processus visant à renforcer un objet avec de l’argent alchimique ne s’applique pas aux objets qui ne sont pas en métal et ne fonctionne pas sur les métaux rares comme l’adamantium, le fer froid et le mithral.
@@ -133,9 +165,16 @@ Le bois vert a le même nombre de points de vie et la même solidité que le boi
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en bronze  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en bronze  
 élyséen</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+20 po</td></tr><tr CLASS="alt"><td>Armure légère</td><td>+1 000 po</td></tr><tr><td>Armure intermédiaire</td><td>+2 000 po</td></tr><tr CLASS="alt"><td>Armure lourde</td><td>+3 000 po</td></tr><tr><td>Arme</td><td>+1 000 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Munitions (pièce)</td><td>+20 po</td></tr>
+  <tr CLASS="alt"><td>Armure légère</td><td>+1 000 po</td></tr>
+  <tr><td>Armure intermédiaire</td><td>+2 000 po</td></tr>
+  <tr CLASS="alt"><td>Armure lourde</td><td>+3 000 po</td></tr>
+  <tr><td>Arme</td><td>+1 000 po</td></tr>
+</table>
 
 </center></div></div>C’est à l’aube des temps que les titans ont forgé les premières barres de bronze élyséen et les ont offertes aux héros tueurs de monstres des races inférieures. Ce métal conserve la teinte cuivrée de son homologue mais il est aussi dur que l’acier.
 
@@ -151,9 +190,13 @@ Le bronze élyséen a le même nombre de points de vie et la même solidité que
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en crin  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en crin  
 de griffon</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Armure légère</td><td>+200 po</td></tr><tr CLASS="alt"><td>Autres objets</td><td>+50 po/0,5 kg</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Armure légère</td><td>+200 po</td></tr>
+  <tr CLASS="alt"><td>Autres objets</td><td>+50 po/0,5 kg</td></tr>
+</table>
 
 </center></div></div>
 Ce matériau rêche, allant du brun-doré au brun-noir, est tissé à partir de la crinière de créatures magiques léonines,  principalement des griffons, mais aussi des chimères et des manticores. Il est exceptionnellement solide et léger.
@@ -168,9 +211,13 @@ Le crin de griffon a deux fois plus de [[pv|points de vie]] qu’un vêtement no
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en cristal  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en cristal  
 de sang</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munition (pièce)</td><td>+30 po</td></tr><tr CLASS="alt"><td>Arme</td><td>+1 500 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Munition (pièce)</td><td>+30 po</td></tr>
+  <tr CLASS="alt"><td>Arme</td><td>+1 500 po</td></tr>
+</table>
 
 </center></div></div>
 Dans les entrailles de la terre, de mystérieuses radiations pervertissent le quartz autrefois ordinaire, le transformant en une pierre assoiffée de sang.
@@ -214,8 +261,15 @@ Le fer froid a 30 points de vie par section de 2,5 centimètres d’épaisseur e
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en mithral</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Armure légère</td><td>+1 000 po</td></tr><tr CLASS="alt"><td>Armure intermédiaire</td><td>+4 000 po</td></tr><tr><td>Armure lourde</td><td>+9 000 po</td></tr><tr CLASS="alt"><td>Bouclier</td><td>+1 000 po</td></tr><tr><td>Autre objet</td><td>+1 000 po/kg</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en mithral</td><td>Modif. au   
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Armure légère</td><td>+1 000 po</td></tr>
+  <tr CLASS="alt"><td>Armure intermédiaire</td><td>+4 000 po</td></tr>
+  <tr><td>Armure lourde</td><td>+9 000 po</td></tr>
+  <tr CLASS="alt"><td>Bouclier</td><td>+1 000 po</td></tr>
+  <tr><td>Autre objet</td><td>+1 000 po/kg</td></tr>
+</table>
 
 </center></div></div>
 {s:FAQ|***[[FAQ- Manuel des joueurs (Équipement et objets magiques)#13|→]] Armure en mithral : De quoi est-il question quand le texte indique qu’une armure en mithral est comptée comme d’une catégorie plus légère dans le cadre d’« autres limitations » ?***
@@ -250,9 +304,13 @@ Le mithral a 30 [[pv|points de vie]] par section de 2,5 centimètres d’épaiss
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en peau  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en peau  
 d'ange</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Armure légère</td><td>+1 000 po</td></tr><tr CLASS="alt"><td>Armure intermédiaire</td><td>+2 000 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Armure légère</td><td>+1 000 po</td></tr>
+  <tr CLASS="alt"><td>Armure intermédiaire</td><td>+2 000 po</td></tr>
+</table>
 
 </center></div></div>
 La peau préservée d’un ange conserve une partie de sa grâce céleste et peut être utilisée pour faire une armure de cuir, de peau ou de cuir cloutée.
@@ -273,9 +331,13 @@ La peau d’ange a 5 [[pv|points de vie]] par tranche de 2,5 centimètres d’é
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en peau  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en peau  
 d'anguille</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Armure légère</td><td>+1 200 po</td></tr><tr CLASS="alt"><td>Armure intermédiaire</td><td>+1 800 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Armure légère</td><td>+1 200 po</td></tr>
+  <tr CLASS="alt"><td>Armure intermédiaire</td><td>+1 800 po</td></tr>
+</table>
 
 </center></div></div>
 Ce matériau souple offre autant de protection que le cuir mais il est plus flexible et résiste à l’électricité.
@@ -318,9 +380,15 @@ Pour fabriquer une arme en racine de wy pouvant contenir 1 point de vie, le prix
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en  
 sombrefeuille</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Armure intermédiaire</td><td>+1 500 po</td></tr><tr CLASS="alt"><td>Armure légère</td><td>+750 po</td></tr><tr><td>Autre objet</td><td>+750 po/kg</td></tr><tr CLASS="alt"><td>Habit</td><td>+500 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Armure intermédiaire</td><td>+1 500 po</td></tr>
+  <tr CLASS="alt"><td>Armure légère</td><td>+750 po</td></tr>
+  <tr><td>Autre objet</td><td>+750 po/kg</td></tr>
+  <tr CLASS="alt"><td>Habit</td><td>+500 po</td></tr>
+</table>
 
 </center></div></div>Le tissu de sombrefeuille est un matériau souple que l’on obtient en tissant des feuilles et de fines bandes d’écorce d’ébénite avant de soumettre le tissu obtenu à un processus alchimique particulier. Le matériau final est aussi solide que la peau tannée mais bien plus léger, ce qui en fait un excellent matériau pour créer des armures.
 
@@ -339,9 +407,16 @@ Le tissu de sombrefeuille a 20 points de vie par section de 2,5 centimètres d�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Type d’objet en  
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Type d’objet en  
 verre du vide</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Armure légère</td><td>+1 000 po</td></tr><tr><td>Armure intermédiaire</td><td>+2 000 po</td></tr><tr><td>Armure lourde</td><td>+4 500 po</td></tr><tr><td>Arme</td><td>+1 000 po</td></tr><tr><td>Bouclier</td><td>+3 000 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Armure légère</td><td>+1 000 po</td></tr>
+  <tr><td>Armure intermédiaire</td><td>+2 000 po</td></tr>
+  <tr><td>Armure lourde</td><td>+4 500 po</td></tr>
+  <tr><td>Arme</td><td>+1 000 po</td></tr>
+  <tr><td>Bouclier</td><td>+3 000 po</td></tr>
+</table>
 
 </div></div>
 {s:cs}Le verre du vide est originaire d'un monde inconnu bien au-delà de Golarion. Il est apporté sur Golarion en petites quantités par des [[grioth|grioths]], une race d'extraterrestres psychiques. Le verre du vide résonne avec l'esprit d'une créature, renforçant la pensée et les défenses mentales. Toute armure normalement fabriquée en métal peut être faite de verre du vide. Une armure légère en verre du vide ou un bouclier en verre du vide confère un bonus de résistance de +1 à tous les [[jds|jets de sauvegarde]] contre les [[effet mental|effets mentaux]] magiques. Ce bonus passe à +2 pour une armure intermédiaire en verre du vide et à +3 pour une armure lourde en verre du vide. Une arme perforante ou tranchante en verre du vide inflige 1 point de dégât supplémentaire par attaque réussie ; les armes contondantes ne gagnent aucun avantage.
@@ -354,9 +429,13 @@ Le verre du vide a 30 [[pv|points de vie]] par section de 2,5 centimètres d’�
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en  
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en  
 viridium</td><td>Modif. au   
-prix de l'objet</td></tr><tr CLASS="premier"><td>Munition (pièce)</td><td>+20 po</td></tr><tr CLASS="alt"><td>Arme légère</td><td>+200 po</td></tr></table>
+prix de l'objet</td></tr>
+  <tr CLASS="premier"><td>Munition (pièce)</td><td>+20 po</td></tr>
+  <tr CLASS="alt"><td>Arme légère</td><td>+200 po</td></tr>
+</table>
 
 </center></div></div>Ce verre volcanique de teinte vert foncé ressemble à de l’obsidienne mais il se forme seulement quand la lave en fusion est souillée par de rares minéraux anormaux. Ces derniers viennent des profondeurs de la terre et dégagent des émanations toxiques pour les êtres vivants. On peut fragmenter le viridium pour lui donner le tranchant du rasoir, mais même en infime quantité, il peut entraîner des maladies dégénérescentes s’il entre dans le réseau sanguin.
 

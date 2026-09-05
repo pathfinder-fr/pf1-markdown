@@ -22,7 +22,22 @@ Toute créature non-Mauvaise située dans la [[zone deffet|zone d’effet]] d’
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Nombre de DV</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>Égaux au niveau du lanceur de sorts</td><td CLASS="gauche">Hébétement</td></tr><tr CLASS="alt"><td>Jusqu’au niveau du lanceur de sorts -1</td><td CLASS="gauche">Affaiblissement, hébétement</td></tr><tr><td>Jusqu’au niveau du lanceur de sorts -5</td><td CLASS="gauche">Paralysie, affaiblissement, hébétement</td></tr><tr CLASS="alt"><td>Jusqu’au niveau du lanceur de sorts -10</td><td CLASS="gauche">Mort, paralysie, affaiblissement, hébétement</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Nombre de DV</td><td CLASS="gauche">Effet</td></tr>
+  <tr CLASS="premier"><td>Égaux au niveau du lanceur de sorts</td><td CLASS="gauche">Hébétement</td></tr>
+  <tr CLASS="alt">
+    <td>Jusqu’au niveau du lanceur de sorts -1</td>
+    <td CLASS="gauche">Affaiblissement, hébétement</td>
+  </tr>
+  <tr>
+    <td>Jusqu’au niveau du lanceur de sorts -5</td>
+    <td CLASS="gauche">Paralysie, affaiblissement, hébétement</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Jusqu’au niveau du lanceur de sorts -10</td>
+    <td CLASS="gauche">Mort, paralysie, affaiblissement, hébétement</td>
+  </tr>
+</table>
 
 </center>
 

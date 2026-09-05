@@ -18,7 +18,16 @@ LastModified: 2019-01-29 16:52
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Taille de l’ectoplasme</td><td>Bonus d’armure naturelle</td></tr><tr CLASS="premier"><td>TP ou plus petite</td><td>+0</td></tr><tr><td>P</td><td>+1</td></tr><tr><td>M</td><td>+2</td></tr><tr><td>G</td><td>+3</td></tr><tr><td>TG</td><td>+4</td></tr><tr><td>Gig</td><td>+6</td></tr><tr><td>C</td><td>+8</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Taille de l’ectoplasme</td><td>Bonus d’armure naturelle</td></tr>
+  <tr CLASS="premier"><td>TP ou plus petite</td><td>+0</td></tr>
+  <tr><td>P</td><td>+1</td></tr>
+  <tr><td>M</td><td>+2</td></tr>
+  <tr><td>G</td><td>+3</td></tr>
+  <tr><td>TG</td><td>+4</td></tr>
+  <tr><td>Gig</td><td>+6</td></tr>
+  <tr><td>C</td><td>+8</td></tr>
+</table>
 
 
 

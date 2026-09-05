@@ -38,4 +38,118 @@ Valeurs de caractéristique : modifier les valeurs de caractéristique d’une c
 ## Suggestions de nouveaux familiers
 
 
-<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>SUGGESTIONS DE NOUVEAUX FAMILIERS</caption><tr CLASS="titre"><td>Familier de base</td><td>Nouveau Familier</td><td>Source</td><td>Page</td></tr><tr CLASS="premier"><td>[[Araignée écarlate]]</td><td>Araignée des placards, araignée-sac jaune, insectes de très grande taille</td><td>Magie ultime</td><td>p.120</td></tr><tr><td>[[Archéoptéryx]]</td><td>Opossum planeur, Jeholornis, autres oiseaux primitifs</td><td>Bestiaire 4</td><td>p.96</td></tr><tr><td>[[Belette]]</td><td>Hermine, furet, vison, mangouste, stoat</td><td>Bestiaire</td><td>p.133</td></tr><tr><td>[[Chat]]</td><td>Lynx, diable de Tasmanie</td><td>Bestiaire</td><td>p.131</td></tr><tr><td>[[Chauve-souris]]</td><td>Anurognathus, pinson, Jeholopterus, Onychonycteris</td><td>Bestiaire</td><td>p.131</td></tr><tr><td>[[Chèvre]]</td><td>Cerf, poudou, cerf-vampire</td><td>Bestiaire 3</td><td>p.112</td></tr><tr><td>[[Cochon]]</td><td>Pécari, tapir</td><td>Bestiaire 3</td><td>p.113</td></tr><tr><td>[[Compsognathus]]</td><td>Erpetosuchus, mocassin d’eau, autres minuscules dinosaures venimeux</td><td>Bestiaire 2</td><td>p.90</td></tr><tr><td>[[Corbeau]]</td><td>Perruche*, perroquet*, toucan*</td><td>Bestiaire</td><td>p.133</td></tr><tr><td>[[Crabe royal]]</td><td>Écrevisse, homard, autres crustacés</td><td>Magie ultime</td><td>p.119</td></tr><tr><td>[[Crapaud]]</td><td>Grenouille, xénope, autres amphibiens</td><td>Bestiaire</td><td>p.133</td></tr><tr><td>[[Dodo]]</td><td>Moa buissonnier, grand pingouin</td><td>Bestiaire 4</td><td>p.96</td></tr><tr><td>[[Écureuil]]</td><td>Chinchilla, tamia, hamster</td><td>Animal Archive</td><td>p.31</td></tr><tr><td>[[Écureuil volant]]</td><td>Opossum planeur, phalanger volant</td><td>Bestiaire 3</td><td>p.112</td></tr><tr><td>[[Faucon]]</td><td>Aigle, balbuzard pêcheur, faucon pèlerin, élanion perle</td><td>Bestiaire</td><td>p.131</td></tr><tr><td>[[Grive]]</td><td>Merlebleu, cardinal, moineau, autres oiseaux minuscules</td><td>Magie ultime</td><td>p.120</td></tr><tr><td>[[Hérisson]]</td><td>Porc-épic, tenrec</td><td>Magie ultime</td><td>p.119</td></tr><tr><td>[[Grand-duc|Hibou]]</td><td>Tétras, engoulevent, autres rapaces nocturnes</td><td>Bestiaire</td><td>p.132</td></tr><tr><td>[[Lapin]]</td><td>Lièvre, gerboise, viscache</td><td>Animal Archive</td><td>p.31</td></tr><tr><td>[[Lézard]]</td><td>Galago, salamandre, loris lent</td><td>Bestiaire</td><td>p.131</td></tr><tr><td>[[Limace léopard]]</td><td>Ver</td><td>Folio des Familiers</td><td>p.30</td></tr><tr><td>[[Loutre]]</td><td>Castor, grison, rat musqué</td><td>Bestiaire 3</td><td>p.113</td></tr><tr><td>[[Mille-pattes domestique]]</td><td>Mille-pattes, scarabée, autres insectes venimeux</td><td>Magie ultime</td><td>p.119</td></tr><tr><td>[[Mouffette]]</td><td>Putois rayé</td><td>Bestiaire 3</td><td>p.247</td></tr><tr><td>[[Pieuvre à anneaux bleus]]</td><td>Calmar, pieuvre, autres céphalopodes</td><td>Magie ultime</td><td>p.117</td></tr><tr><td>[[Rat]]</td><td>Cochon d’Inde, souris, musaraigne</td><td>Bestiaire</td><td>p.132</td></tr><tr><td>[[Rat-âne]]</td><td>Oryctérope, fourmilier, castor, capybara</td><td>Magie ultime</td><td>p.117</td></tr><tr><td>[[Raton laveur]]</td><td>Singe de cirque, coati, opossum, panda roux, ours malais</td><td>Bestiaire 3</td><td>p.113</td></tr><tr><td>[[Renard]]</td><td>Coyote, dingo, chien de prairie, petit chien</td><td>Bestiaire 3</td><td>p.112</td></tr><tr><td>[[Scorpion vert]]</td><td>Scorpion empereur, insectes de très grande taille</td><td>Magie ultime</td><td>p.118</td></tr><tr><td>[[Singe]]</td><td>Chimpanzé, lémurien, tarsier, autres primates arboricoles</td><td>Bestiaire</td><td>p.132</td></tr><tr><td>[[Tatou]]</td><td>Chlamyphoridés, pangolin, tatou nain d’Argentine</td><td>Animal Archive</td><td>p.30</td></tr><tr><td>[[Tortue]]</td><td>Autruche, tortue terrestre</td><td>Magie ultime</td><td>p.120</td></tr><tr><td>[[Tuatara|Tuatara (Sphénodon)]]</td><td>Dragon d’eau asiatique, [[Caïman nain]]</td><td>Bestiaire 4</td><td>p.97</td></tr><tr><td>[[Vipère]]</td><td>Krait marin</td><td>Bestiaire</td><td>p.133</td></tr><tr CLASS="note"><td COLSPAN="4">* Ces suggestions ne bénéficient pas de la capacité surnaturelle du familier corbeau lui permettant de parler une langue.</td></tr></table>
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%">
+  <caption>SUGGESTIONS DE NOUVEAUX FAMILIERS</caption>
+  <tr CLASS="titre"><td>Familier de base</td><td>Nouveau Familier</td><td>Source</td><td>Page</td></tr>
+  <tr CLASS="premier">
+    <td>[[Araignée écarlate]]</td>
+    <td>Araignée des placards, araignée-sac jaune, insectes de très grande taille</td>
+    <td>Magie ultime</td>
+    <td>p.120</td>
+  </tr>
+  <tr>
+    <td>[[Archéoptéryx]]</td>
+    <td>Opossum planeur, Jeholornis, autres oiseaux primitifs</td>
+    <td>Bestiaire 4</td>
+    <td>p.96</td>
+  </tr>
+  <tr><td>[[Belette]]</td><td>Hermine, furet, vison, mangouste, stoat</td><td>Bestiaire</td><td>p.133</td></tr>
+  <tr><td>[[Chat]]</td><td>Lynx, diable de Tasmanie</td><td>Bestiaire</td><td>p.131</td></tr>
+  <tr>
+    <td>[[Chauve-souris]]</td>
+    <td>Anurognathus, pinson, Jeholopterus, Onychonycteris</td>
+    <td>Bestiaire</td>
+    <td>p.131</td>
+  </tr>
+  <tr><td>[[Chèvre]]</td><td>Cerf, poudou, cerf-vampire</td><td>Bestiaire 3</td><td>p.112</td></tr>
+  <tr><td>[[Cochon]]</td><td>Pécari, tapir</td><td>Bestiaire 3</td><td>p.113</td></tr>
+  <tr>
+    <td>[[Compsognathus]]</td>
+    <td>Erpetosuchus, mocassin d’eau, autres minuscules dinosaures venimeux</td>
+    <td>Bestiaire 2</td>
+    <td>p.90</td>
+  </tr>
+  <tr><td>[[Corbeau]]</td><td>Perruche*, perroquet*, toucan*</td><td>Bestiaire</td><td>p.133</td></tr>
+  <tr><td>[[Crabe royal]]</td><td>Écrevisse, homard, autres crustacés</td><td>Magie ultime</td><td>p.119</td></tr>
+  <tr><td>[[Crapaud]]</td><td>Grenouille, xénope, autres amphibiens</td><td>Bestiaire</td><td>p.133</td></tr>
+  <tr><td>[[Dodo]]</td><td>Moa buissonnier, grand pingouin</td><td>Bestiaire 4</td><td>p.96</td></tr>
+  <tr><td>[[Écureuil]]</td><td>Chinchilla, tamia, hamster</td><td>Animal Archive</td><td>p.31</td></tr>
+  <tr><td>[[Écureuil volant]]</td><td>Opossum planeur, phalanger volant</td><td>Bestiaire 3</td><td>p.112</td></tr>
+  <tr>
+    <td>[[Faucon]]</td>
+    <td>Aigle, balbuzard pêcheur, faucon pèlerin, élanion perle</td>
+    <td>Bestiaire</td>
+    <td>p.131</td>
+  </tr>
+  <tr>
+    <td>[[Grive]]</td>
+    <td>Merlebleu, cardinal, moineau, autres oiseaux minuscules</td>
+    <td>Magie ultime</td>
+    <td>p.120</td>
+  </tr>
+  <tr><td>[[Hérisson]]</td><td>Porc-épic, tenrec</td><td>Magie ultime</td><td>p.119</td></tr>
+  <tr>
+    <td>[[Grand-duc|Hibou]]</td>
+    <td>Tétras, engoulevent, autres rapaces nocturnes</td>
+    <td>Bestiaire</td>
+    <td>p.132</td>
+  </tr>
+  <tr><td>[[Lapin]]</td><td>Lièvre, gerboise, viscache</td><td>Animal Archive</td><td>p.31</td></tr>
+  <tr><td>[[Lézard]]</td><td>Galago, salamandre, loris lent</td><td>Bestiaire</td><td>p.131</td></tr>
+  <tr><td>[[Limace léopard]]</td><td>Ver</td><td>Folio des Familiers</td><td>p.30</td></tr>
+  <tr><td>[[Loutre]]</td><td>Castor, grison, rat musqué</td><td>Bestiaire 3</td><td>p.113</td></tr>
+  <tr>
+    <td>[[Mille-pattes domestique]]</td>
+    <td>Mille-pattes, scarabée, autres insectes venimeux</td>
+    <td>Magie ultime</td>
+    <td>p.119</td>
+  </tr>
+  <tr><td>[[Mouffette]]</td><td>Putois rayé</td><td>Bestiaire 3</td><td>p.247</td></tr>
+  <tr>
+    <td>[[Pieuvre à anneaux bleus]]</td>
+    <td>Calmar, pieuvre, autres céphalopodes</td>
+    <td>Magie ultime</td>
+    <td>p.117</td>
+  </tr>
+  <tr><td>[[Rat]]</td><td>Cochon d’Inde, souris, musaraigne</td><td>Bestiaire</td><td>p.132</td></tr>
+  <tr><td>[[Rat-âne]]</td><td>Oryctérope, fourmilier, castor, capybara</td><td>Magie ultime</td><td>p.117</td></tr>
+  <tr>
+    <td>[[Raton laveur]]</td>
+    <td>Singe de cirque, coati, opossum, panda roux, ours malais</td>
+    <td>Bestiaire 3</td>
+    <td>p.113</td>
+  </tr>
+  <tr><td>[[Renard]]</td><td>Coyote, dingo, chien de prairie, petit chien</td><td>Bestiaire 3</td><td>p.112</td></tr>
+  <tr>
+    <td>[[Scorpion vert]]</td>
+    <td>Scorpion empereur, insectes de très grande taille</td>
+    <td>Magie ultime</td>
+    <td>p.118</td>
+  </tr>
+  <tr>
+    <td>[[Singe]]</td>
+    <td>Chimpanzé, lémurien, tarsier, autres primates arboricoles</td>
+    <td>Bestiaire</td>
+    <td>p.132</td>
+  </tr>
+  <tr>
+    <td>[[Tatou]]</td>
+    <td>Chlamyphoridés, pangolin, tatou nain d’Argentine</td>
+    <td>Animal Archive</td>
+    <td>p.30</td>
+  </tr>
+  <tr><td>[[Tortue]]</td><td>Autruche, tortue terrestre</td><td>Magie ultime</td><td>p.120</td></tr>
+  <tr>
+    <td>[[Tuatara|Tuatara (Sphénodon)]]</td>
+    <td>Dragon d’eau asiatique, [[Caïman nain]]</td>
+    <td>Bestiaire 4</td>
+    <td>p.97</td>
+  </tr>
+  <tr><td>[[Vipère]]</td><td>Krait marin</td><td>Bestiaire</td><td>p.133</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="4">
+      * Ces suggestions ne bénéficient pas de la capacité surnaturelle du familier corbeau lui permettant de parler
+      une langue.
+    </td>
+  </tr>
+</table>

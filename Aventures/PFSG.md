@@ -21,7 +21,34 @@ La version originale du présent document est téléchargeable gratuitement sur 
 
 ### Crédits (pour la VO)
 
-<table style="width:100%"><tr><td width="48%">**Auteurs**. Mike Brock, Erik Mona et Mark Moreland{br}**Artistes**. Alex Aparin, Eric Belisle, Jeff Carlisle, Michele Chang, Tyler Jacobson, Damien Mammoliti, Christopher Ocampo, Maichol Quinto, Wayne Reynolds, Mac Smith, Bryan Sola, Craig J. Spearing, Eva Widermann, Kieran Yanner et Ilker Serdar Yilditz{br}{br}**Directeur créatif**. James Jacobs{br}**Éditeur en chef**. F. Wesley Schneider{br}**Éditeur senior**. James L. Sutter{br}**Chef du développement**. Mark Moreland{br}{br}**Equipe de développement**. Logan Bonner, John Compton, Rob McCreary, Mark Moreland et Patrick Renie{br}**Équipe éditoriale**. Judy Bauer, Christopher Carey et Ryan Macklin{br}**Responsable de la conception**. Jason Bulmahn{br}**Equipe de conception**. Stephen Radney-MacFarland et Sean K Reynolds{br}{br}**Responsable graphique**. Sarah Robinson{br}**Responsable graphique adjoint**. Andrew Vallas{br}**Concepteurs graphique**. Emily Crowell et Sonja Morris{br}</td><td | width="4%">.</td><td | width="48%">**Responsable de publication**. Erik Mona{br}**PDG de Paizo**. Lisa Stevens{br}**Chef des opérations**. Jeffrey Alvarez{br}**Responsable des ventes**. Pierce Watters{br}**Représentant en vente**. Cosmo Eisele{br}**Directeur marketing**. Jenny Bendel{br}**Responsable financier**. Christopher Self{br}**Comptable**. Ashley Gillaspie{br}**Responsable technique**. Vic Wertz{br}**Responsable informatique**. Gary Teter{br}**Responsable de la Société des Éclaireurs**. Mike Brock{br}**Responsable de projet**. Jessica Price{br}**Coordinateur commercial**. Michael Kenway{br}{br}**Service clients**. Erik Keith, Justin Riddler et Sara Marie Teter{br}**Équipe entrepôt**. Will Chase, Mika Hawkins, Heather Payne, Jeff Strand et Kevin Underwood{br}**Équipe web**. Christopher Anthony, Liz Courts, Crystal Frasier, Lissa Guillet et Chris Lambertz{br}{br}**Remerciements**. Les Capitaines et Lieutenants aventuriers de la Société des Éclaireurs, et la communauté de la Société des Éclaireurs.</td></tr></table>
+<table style="width:100%">
+  <tr>
+    <td width="48%">
+      **Auteurs**. Mike Brock, Erik Mona et Mark Moreland{br}**Artistes**. Alex Aparin, Eric Belisle, Jeff Carlisle,
+      Michele Chang, Tyler Jacobson, Damien Mammoliti, Christopher Ocampo, Maichol Quinto, Wayne Reynolds, Mac
+      Smith, Bryan Sola, Craig J. Spearing, Eva Widermann, Kieran Yanner et Ilker Serdar Yilditz{br}{br}**Directeur
+      créatif**. James Jacobs{br}**Éditeur en chef**. F. Wesley Schneider{br}**Éditeur senior**. James L.
+      Sutter{br}**Chef du développement**. Mark Moreland{br}{br}**Equipe de développement**. Logan Bonner, John
+      Compton, Rob McCreary, Mark Moreland et Patrick Renie{br}**Équipe éditoriale**. Judy Bauer, Christopher Carey
+      et Ryan Macklin{br}**Responsable de la conception**. Jason Bulmahn{br}**Equipe de conception**. Stephen
+      Radney-MacFarland et Sean K Reynolds{br}{br}**Responsable graphique**. Sarah Robinson{br}**Responsable
+      graphique adjoint**. Andrew Vallas{br}**Concepteurs graphique**. Emily Crowell et Sonja Morris{br}
+    </td>
+    <td | width="4%">.</td>
+    <td | width="48%">
+      **Responsable de publication**. Erik Mona{br}**PDG de Paizo**. Lisa Stevens{br}**Chef des opérations**.
+      Jeffrey Alvarez{br}**Responsable des ventes**. Pierce Watters{br}**Représentant en vente**. Cosmo
+      Eisele{br}**Directeur marketing**. Jenny Bendel{br}**Responsable financier**. Christopher
+      Self{br}**Comptable**. Ashley Gillaspie{br}**Responsable technique**. Vic Wertz{br}**Responsable
+      informatique**. Gary Teter{br}**Responsable de la Société des Éclaireurs**. Mike Brock{br}**Responsable de
+      projet**. Jessica Price{br}**Coordinateur commercial**. Michael Kenway{br}{br}**Service clients**. Erik Keith,
+      Justin Riddler et Sara Marie Teter{br}**Équipe entrepôt**. Will Chase, Mika Hawkins, Heather Payne, Jeff
+      Strand et Kevin Underwood{br}**Équipe web**. Christopher Anthony, Liz Courts, Crystal Frasier, Lissa Guillet
+      et Chris Lambertz{br}{br}**Remerciements**. Les Capitaines et Lieutenants aventuriers de la Société des
+      Éclaireurs, et la communauté de la Société des Éclaireurs.
+    </td>
+  </tr>
+</table>
 
 
 ### Informations légales (VO)

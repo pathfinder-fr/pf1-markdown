@@ -36,4 +36,57 @@ Le personnage acquiert un pouvoir sur la terre, le métal et la pierre. Il peut 
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Terre</td><td>Sous-domaine des Cavernes</td><td>Sous-domaine du Métal</td><td>Sous-domaine des Radiations</td></tr><tr CLASS="premier"><td>1er</td><td>*[[pierre magique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[ramollissement de la terre et de la pierre]]*</td><td>*[[création de fosse]]*</td><td>*[[métal brûlant]]*</td><td>*[[défoliant]]*</td></tr><tr><td>3e</td><td>*[[façonnage de la pierre]]*</td><td>*[[fosse hérissée de pieux]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[pierres acérées]]*</td><td>*idem*</td><td>*idem*</td><td>*[[flétrissement végétal]]*</td></tr><tr><td>5e</td><td>*[[mur de pierre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[peau de pierre]]*</td><td>*[[fosse affamée]]*</td><td>*[[mur de fer]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[corps élémentaire IV]]* (créature de la Terre seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[tremblement de terre]]*</td><td>*idem*</td><td>*[[corps de fer]]*</td><td>*[[flétrissure]]*</td></tr><tr><td>9e</td><td>*[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de Terre seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Terre</td>
+    <td>Sous-domaine des Cavernes</td>
+    <td>Sous-domaine du Métal</td>
+    <td>Sous-domaine des Radiations</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[pierre magique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[ramollissement de la terre et de la pierre]]*</td>
+    <td>*[[création de fosse]]*</td>
+    <td>*[[métal brûlant]]*</td>
+    <td>*[[défoliant]]*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[façonnage de la pierre]]*</td>
+    <td>*[[fosse hérissée de pieux]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>4e</td><td>*[[pierres acérées]]*</td><td>*idem*</td><td>*idem*</td><td>*[[flétrissement végétal]]*</td></tr>
+  <tr><td>5e</td><td>*[[mur de pierre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[peau de pierre]]*</td>
+    <td>*[[fosse affamée]]*</td>
+    <td>*[[mur de fer]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[corps élémentaire IV]]* (créature de la Terre seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[tremblement de terre]]*</td>
+    <td>*idem*</td>
+    <td>*[[corps de fer]]*</td>
+    <td>*[[flétrissure]]*</td>
+  </tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de Terre seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+</table>

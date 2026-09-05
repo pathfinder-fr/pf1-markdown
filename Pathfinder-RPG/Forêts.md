@@ -18,7 +18,14 @@ La table ci-dessous indique la probabilité que chaque case contienne un éléme
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td ROWSPAN="2">&emsp;</td><td COLSPAN="3" CLASS="avecsoustitre">Catégories de forêt</td></tr><tr CLASS="soustitre"><td>Clairsemée</td><td>Intermédiaire</td><td>Dense</td></tr><tr CLASS="premier"><td>Arbres normaux</td><td>50%</td><td>70%</td><td>80%</td></tr><tr CLASS="alt"><td>Arbres massifs</td><td>—</td><td>10%</td><td>20%</td></tr><tr><td>Broussailles légères</td><td>50%</td><td>70%</td><td>50%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>—</td><td>20%</td><td>50%</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td ROWSPAN="2">&emsp;</td><td COLSPAN="3" CLASS="avecsoustitre">Catégories de forêt</td></tr>
+  <tr CLASS="soustitre"><td>Clairsemée</td><td>Intermédiaire</td><td>Dense</td></tr>
+  <tr CLASS="premier"><td>Arbres normaux</td><td>50%</td><td>70%</td><td>80%</td></tr>
+  <tr CLASS="alt"><td>Arbres massifs</td><td>—</td><td>10%</td><td>20%</td></tr>
+  <tr><td>Broussailles légères</td><td>50%</td><td>70%</td><td>50%</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>—</td><td>20%</td><td>50%</td></tr>
+</table>
 
 </center>
 </div></div>

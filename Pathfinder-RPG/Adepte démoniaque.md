@@ -11,7 +11,111 @@ Categories:
 {s:MenuClassesDePrestige}{s:cs}{s:BotD}*De nombreux servants de démons comprennent que l'âme des pécheurs se transforme en démon une fois digérée par les Abysses, mais un adepte démoniaque est incapable d'attendre la mort pour entamer sa transformation. Selon le seigneur démon auquel l'adepte démoniaque est fidèle, son obédience maléfique, l'ensemble de ses pouvoirs, et sa résistance changent. Mais en fin de compte, tous les adeptes démoniaques sont damnés, leurs âmes transformées en démons par les Abysses une fois la mort arrivée.*
 
 
-<table CLASS="tablo centre autoalt"><caption>L'adepte démoniaque</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Adepte démoniaque#DAMNE|Damné]], [[Adepte démoniaque#MARQUEDEMONIAQUE|marque démoniaque]], [[Adepte démoniaque#OBEDIENCE|obédience]]</td><td CLASS="gauche">-</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Adepte démoniaque#ESPRITDEMONIAQUE|Esprit démoniaque +2]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Adepte démoniaque#FAVEURDEMONIAQUE|Faveur démoniaque 1]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Adepte démoniaque#CONVOCATIONDEDEMONS|Convocation de démons 1]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Adepte démoniaque#ESPRITDEMONIAQUE|Esprit démoniaque +4]] (résistance)</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Adepte démoniaque#FAVEURDEMONIAQUE|Faveur démoniaque 2]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Adepte démoniaque#ESPRITDEMONIAQUE|Esprit démoniaque +6]] (immunités)</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Adepte démoniaque#CONVOCATIONDEDEMONS|Convocation de démons 2]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Adepte démoniaque#FAVEURDEMONIAQUE|Faveur démoniaque 3]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Adepte démoniaque#FORMEDEMONIAQUE|Forme démoniaque]]</td><td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>L'adepte démoniaque</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Adepte démoniaque#DAMNE|Damné]], [[Adepte démoniaque#MARQUEDEMONIAQUE|marque démoniaque]], [[Adepte
+      démoniaque#OBEDIENCE|obédience]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Adepte démoniaque#ESPRITDEMONIAQUE|Esprit démoniaque +2]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Adepte démoniaque#FAVEURDEMONIAQUE|Faveur démoniaque 1]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Adepte démoniaque#CONVOCATIONDEDEMONS|Convocation de démons 1]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Adepte démoniaque#ESPRITDEMONIAQUE|Esprit démoniaque +4]] (résistance)</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Adepte démoniaque#FAVEURDEMONIAQUE|Faveur démoniaque 2]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Adepte démoniaque#ESPRITDEMONIAQUE|Esprit démoniaque +6]] (immunités)</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Adepte démoniaque#CONVOCATIONDEDEMONS|Convocation de démons 2]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Adepte démoniaque#FAVEURDEMONIAQUE|Faveur démoniaque 3]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Adepte démoniaque#FORMEDEMONIAQUE|Forme démoniaque]]</td>
+    <td CLASS="gauche">[[Adepte démoniaque#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 
 **Dés de vie.** d8.

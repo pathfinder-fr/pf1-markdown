@@ -56,7 +56,79 @@ Pour déterminer le temps et le coût de fabrication d’un objet, il faut suivr
 **Réparation d’objets.** En règle générale, on répare un objet en réussissant un [[test de compétence]] dont le [[DD]] est le même que celui de la fabrication. Le coût de la réparation se monte à un cinquième du prix de l’objet.
 
 
-<table CLASS="tablo centre autoalt"><caption>Formes d’Artisanat</caption><tr CLASS="titre"><td>Objet</td><td>Forme d’artisanat</td><td>DD du test d’Artisanat</td></tr><tr CLASS="premier"><td>[[Armes alchimiques#Acide|acide]]</td><td>alchimie</td><td>15</td></tr><tr><td>[[Outils alchimiques#Allume-feu|allume-feu]], [[Outils alchimiques#Bâton fumigène|bâton fumigène]] ou [[Armes alchimiques#Feu grégeois|feu grégeois]]</td><td>alchimie</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Antitoxine|antitoxine]], [[Outils alchimiques#Bâton éclairant|bâton éclairant]], [[Armes alchimiques#Pierre tonnerre|pierre tonnerre]] ou [[Armes alchimiques#Sacoche immobilisante|sacoche immobilisante]]</td><td>alchimie</td><td>25</td></tr><tr><td>[[tableau récapitulatif des armures|armure ou bouclier]]</td><td>armures</td><td>10 + bonus de [[CA]]</td></tr><tr><td>[[tableau récapitulatif des armes|arc long, arc court ou flèches]]</td><td>arcs</td><td>12</td></tr><tr><td>[[tableau récapitulatif des armes|arc long composite ou arc court composite]]</td><td>arcs</td><td>15</td></tr><tr><td>[[tableau récapitulatif des armes|arc long composite ou arc court composite avec une limite de Force]]</td><td>arcs</td><td>15 + (2 × limite)</td></tr><tr><td>[[Conception de pièges|piège mécanique]]</td><td>pièges</td><td>variable*</td></tr><tr><td>[[tableau récapitulatif des armes|arbalète ou carreaux]]</td><td>armes</td><td>15</td></tr><tr><td>[[tableau récapitulatif des armes|arme courante]] (corps à corps ou à distance)</td><td>armes</td><td>12</td></tr><tr><td>[[tableau récapitulatif des armes|arme de guerre]] (corps à corps ou à distance)</td><td>armes</td><td>15</td></tr><tr><td>[[tableau récapitulatif des armes|arme exotique]] (corps à corps ou à distance)</td><td>armes</td><td>18</td></tr><tr><td>objet très simple (cuillère en bois)</td><td>variable</td><td>5</td></tr><tr><td>objet courant (pot de fer)</td><td>variable</td><td>10</td></tr><tr><td>objet de qualité (cloche)</td><td>variable</td><td>15</td></tr><tr><td>objet complexe ou de qualité supérieure (serrure)</td><td>variable</td><td>20</td></tr><tr><td>Arme fragile</td><td>Arme ou arc normal</td><td>-5</td></tr><tr><td>Arme à feu à une main</td><td>Arme à feu</td><td>20</td></tr><tr><td>Arme à feu à deux mains</td><td>Arme à feu</td><td>20</td></tr><tr><td>Arme à feu de siège lourde</td><td>Arme à feu</td><td>25</td></tr><tr><td>Arme à feu de siège intermédiaire</td><td>Arme à feu</td><td>30</td></tr><tr><td>Arme à feu de siège légère</td><td>Arme à feu</td><td>35</td></tr><tr><td>Engin de siège à distance léger</td><td>Engin de siège</td><td>20</td></tr><tr><td>Engin de siège à distance intermédiaire</td><td>Engin de siège</td><td>25</td></tr><tr><td>Engin de siège à distance lourd</td><td>Engin de siège</td><td>30</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) Des règles spécifiques régissent la création des [[Conception de pièges|pièges]].*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Formes d’Artisanat</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Forme d’artisanat</td><td>DD du test d’Artisanat</td></tr>
+  <tr CLASS="premier"><td>[[Armes alchimiques#Acide|acide]]</td><td>alchimie</td><td>15</td></tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Allume-feu|allume-feu]], [[Outils alchimiques#Bâton fumigène|bâton fumigène]] ou [[Armes
+      alchimiques#Feu grégeois|feu grégeois]]
+    </td>
+    <td>alchimie</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>
+      [[Remèdes alchimiques#Antitoxine|antitoxine]], [[Outils alchimiques#Bâton éclairant|bâton éclairant]], [[Armes
+      alchimiques#Pierre tonnerre|pierre tonnerre]] ou [[Armes alchimiques#Sacoche immobilisante|sacoche
+      immobilisante]]
+    </td>
+    <td>alchimie</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[tableau récapitulatif des armures|armure ou bouclier]]</td>
+    <td>armures</td>
+    <td>10 + bonus de [[CA]]</td>
+  </tr>
+  <tr><td>[[tableau récapitulatif des armes|arc long, arc court ou flèches]]</td><td>arcs</td><td>12</td></tr>
+  <tr>
+    <td>[[tableau récapitulatif des armes|arc long composite ou arc court composite]]</td>
+    <td>arcs</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[tableau récapitulatif des armes|arc long composite ou arc court composite avec une limite de Force]]</td>
+    <td>arcs</td>
+    <td>15 + (2 × limite)</td>
+  </tr>
+  <tr><td>[[Conception de pièges|piège mécanique]]</td><td>pièges</td><td>variable*</td></tr>
+  <tr><td>[[tableau récapitulatif des armes|arbalète ou carreaux]]</td><td>armes</td><td>15</td></tr>
+  <tr>
+    <td>[[tableau récapitulatif des armes|arme courante]] (corps à corps ou à distance)</td>
+    <td>armes</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>[[tableau récapitulatif des armes|arme de guerre]] (corps à corps ou à distance)</td>
+    <td>armes</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[tableau récapitulatif des armes|arme exotique]] (corps à corps ou à distance)</td>
+    <td>armes</td>
+    <td>18</td>
+  </tr>
+  <tr><td>objet très simple (cuillère en bois)</td><td>variable</td><td>5</td></tr>
+  <tr><td>objet courant (pot de fer)</td><td>variable</td><td>10</td></tr>
+  <tr><td>objet de qualité (cloche)</td><td>variable</td><td>15</td></tr>
+  <tr><td>objet complexe ou de qualité supérieure (serrure)</td><td>variable</td><td>20</td></tr>
+  <tr><td>Arme fragile</td><td>Arme ou arc normal</td><td>-5</td></tr>
+  <tr><td>Arme à feu à une main</td><td>Arme à feu</td><td>20</td></tr>
+  <tr><td>Arme à feu à deux mains</td><td>Arme à feu</td><td>20</td></tr>
+  <tr><td>Arme à feu de siège lourde</td><td>Arme à feu</td><td>25</td></tr>
+  <tr><td>Arme à feu de siège intermédiaire</td><td>Arme à feu</td><td>30</td></tr>
+  <tr><td>Arme à feu de siège légère</td><td>Arme à feu</td><td>35</td></tr>
+  <tr><td>Engin de siège à distance léger</td><td>Engin de siège</td><td>20</td></tr>
+  <tr><td>Engin de siège à distance intermédiaire</td><td>Engin de siège</td><td>25</td></tr>
+  <tr><td>Engin de siège à distance lourd</td><td>Engin de siège</td><td>30</td></tr>
+  <tr>
+    <td COLSPAN="3" CLASS="note">
+      *(*) Des règles spécifiques régissent la création des [[Conception de pièges|pièges]].*
+    </td>
+  </tr>
+</table>
 
 
 ### Action

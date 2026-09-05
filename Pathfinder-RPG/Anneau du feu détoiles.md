@@ -21,8 +21,14 @@ De nuit sous un ciel dégagé ou dans une zone d’ombre ou de ténèbres, l’a
 {s:Reference|BOULEDEFOUDRE}La première fonction spéciale, **boules de foudre**, libère une à quatre sphères d’électricité, selon ce que décide le porteur. Ces globes luisants ressemblent à ceux générés par le sort *[[lumières dansantes]]*, et le personnage les contrôle de la même façon. Les boules de foudre ont une portée de 36 m et une durée d’existence de 4 rounds. Le porteur peut les déplacer de 36 m par round. Elles font environ un mètre de diamètre et se dissipent dès qu’elles arrivent à 1,50 m d’une créature, cette dernière subissant une décharge d’électricité dont la violence est inversement proportionnelle au nombre de sphères créées.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Nombre de   
-boules de foudre</td><td>Dégâts</td></tr><tr CLASS="premier"><td>4</td><td>1d6 points de dégâts d’électricité chacune</td></tr><tr><td>3</td><td>2d6 points de dégâts d’électricité chacune</td></tr><tr><td>2</td><td>3d6 points de dégâts d’électricité chacune</td></tr><tr><td>1</td><td>4d6 points de dégâts d’électricité</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Nombre de   
+boules de foudre</td><td>Dégâts</td></tr>
+  <tr CLASS="premier"><td>4</td><td>1d6 points de dégâts d’électricité chacune</td></tr>
+  <tr><td>3</td><td>2d6 points de dégâts d’électricité chacune</td></tr>
+  <tr><td>2</td><td>3d6 points de dégâts d’électricité chacune</td></tr>
+  <tr><td>1</td><td>4d6 points de dégâts d’électricité</td></tr>
+</table>
 
 
 Une fois la fonction activée, les boules de foudre peuvent être libérées au gré du porteur, jusqu’à ce que le soleil se lève. Plusieurs boules peuvent être libérées au cours d’un même round.

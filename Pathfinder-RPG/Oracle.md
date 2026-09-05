@@ -17,7 +17,370 @@ Categories:
 </div>{s:APG}*Les dieux œuvrent par l’intermédiaire de bien des agents mais aucun n’est aussi mystérieux que l’oracle. Ces réceptacles divins reçoivent des pouvoirs sans avoir eu le choix et seule la providence choisit les oracles à qui elle confie des pouvoirs qu’ils ne comprennent pas entièrement. Contrairement aux prêtres qui puisent leur magie dans leur dévotion  à leur dieu, les oracles tirent leur force et leur puissance de nombreuses sources, en particulier des divinités protectrices qui partagent leurs idéaux. Au lieu de vénérer un  seul dieu, les oracles tendent à adorer tous ceux qui partagent leurs croyances. Certains considèrent leurs pouvoirs comme une bénédiction, d’autres comme une malédiction car ils changent la vie de l’élu de manière imprévisible.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEORACLE}L'oracle</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="9" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[oracle#MALEDICTIONDELORACLE|Malédiction de l'oracle]], [[oracle#MYSTERE|mystère]], [[oracle#ORAISON|oraison]], [[oracle#REVELATION|révélation]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">&nbsp;</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">&nbsp;</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">&nbsp;</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">&nbsp;</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[oracle#REVELATIONFINALE|Révélation finale]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEORACLE}L'oracle</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="9" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[oracle#MALEDICTIONDELORACLE|Malédiction de l'oracle]], [[oracle#MYSTERE|mystère]],
+      [[oracle#ORAISON|oraison]], [[oracle#REVELATION|révélation]]
+    </td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td>
+    <td>5</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[oracle#SORTDEMYSTERE|Sort de mystère]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[oracle#REVELATION|Révélation]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[oracle#REVELATIONFINALE|Révélation finale]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+  </tr>
+</table>
 
 
 {s:ImageDroite|Illustrations/PNJ/Alahazra.jpg|25%}
@@ -45,7 +408,282 @@ L’oracle est formé au maniement de toutes les [[armes courantes]] ainsi qu’
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|SORTSCONNUSDELORACLE}Sorts connus par l'oracle</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre gauche">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>5</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>6</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>7</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>7</td><td>5</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>8</td><td>5</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>8</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>9</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12</td><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr><td>16</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr><tr><td>17</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td></tr><tr><td>18</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>19</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr><tr><td>20</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|SORTSCONNUSDELORACLE}Sorts connus par l'oracle</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre gauche">Sorts connus</td></tr>
+  <tr CLASS="soustitre">
+    <td>0</td>
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>5</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>6</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>6</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>7</td>
+    <td>4</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>7</td>
+    <td>5</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>8</td>
+    <td>5</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>8</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>9</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+</table>
 
 </div></div>
 {s:Reference|SORTS}

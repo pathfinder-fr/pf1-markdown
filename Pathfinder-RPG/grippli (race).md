@@ -76,7 +76,23 @@ Ces dons sont accessibles aux gripplis :
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Langue agile]]</td><td><sup>MR</sup></td><td>[[Grippli (race)|Grippli]]</td><td>Le grippli obtient une langue agile d'une portée de 3 m qui lui permet de subtiliser ou désarmer ses adversaires ou de porter des attaques de contact au corps à corps</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">&nbsp;</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Langue agile]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Grippli (race)|Grippli]]</td>
+    <td>
+      Le grippli obtient une langue agile d'une portée de 3 m qui lui permet de subtiliser ou désarmer ses
+      adversaires ou de porter des attaques de contact au corps à corps
+    </td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

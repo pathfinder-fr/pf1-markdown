@@ -9,7 +9,635 @@ Categories:
 {s:MenuEquipement}Les armes alchimiques sont conçues pour blesser mais elles ont aussi d’autres usages. Un personnage ayant la compétence [[Artisanat]] (alchimie) peut fabriquer chacune de ces substances. Le [[DD]] d’Artisanat pour la fabrication de l’objet est précisé dans la description de l’objet.
 
 
-<table CLASS="tablo centre" WIDTH="100%"><caption>Tableau récapitulatif des armes alchimiques</caption><tr CLASS="titre"><td WIDTH="26%">Arme</td><td WIDTH="4%">Prix (po)</td><td WIDTH="8%">DD d'Artisanat</td><td WIDTH="8%">Dégâts</td><td WIDTH="12%">[[Caractéristiques des armes#CRITIQUE|Critique]]</td><td WIDTH="11%">[[Caractéristiques des armes#FACTEURDEPORTEE|Facteur de portée]]</td><td WIDTH="5%">[[Caractéristiques des armes#POIDS|Poids]] (kg)</td><td WIDTH="6%">[[Caractéristiques des armes#TYPE|Type]]</td><td WIDTH="20%">[[Caractéristiques des armes#ATTRIBUTSSPECIAUX|Spécial]]</td></tr><tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESSPECIAL}**SPÉCIAL**</td></tr><tr><td>[[Armes alchimiques#Charbon alchimique|↓]] [[Charbon alchimique (objet)|Charbon alchimique (cendres aveuglantes)]]</td><td>100</td><td>25</td><td>1d6</td><td>—</td><td>ligne de 9 m (6 c)</td><td>—</td><td>Cécité/Feu</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Charbon alchimique|↓]] [[Charbon alchimique (objet)|Charbon alchimique (fumée asphyxiante)]]</td><td>50</td><td>20</td><td>1d6</td><td>—</td><td>cône de 4,5 m (3 c)</td><td>—</td><td>Acide/Fièvre</td><td>Voir texte</td></tr><tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESCORPSACORPS}**COMBAT À MAINS NUES**</td></tr><tr><td>[[Armes alchimiques#Poings de verre|↓]] [[Poings de verre (objet)|Poings de verre (4 fioles de poudre)]]</td><td>5</td><td>15</td><td>voir texte</td><td>—</td><td>—</td><td>—</td><td>—</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Poings de verre|↓]] [[Poings de verre (objet)|Poings de verre (fiole de poudre de diamant)]]</td><td>25</td><td>25</td><td>voir texte</td><td>—</td><td>—</td><td>—</td><td>—</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Poings de verre|↓]] [[Poings de verre (objet)|Poings de verre (gants)]]</td><td>25</td><td>20</td><td>voir texte</td><td>—</td><td>—</td><td>0,25</td><td>—</td><td>Voir texte</td></tr><tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESLEGERES}**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMELEGERE|LÉGÈRES]]**</td></tr><tr><td>[[Armes alchimiques#Lame liquide|↓]] [[Lame liquide (objet)|Lame liquide]]</td><td>40</td><td>15</td><td>1d6</td><td>19-20/×2</td><td>—</td><td>1</td><td>P</td><td>[[Caractéristiques des armes#FRAGILE|Fragile]], Voir texte</td></tr><tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESUNEMAIN}**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEAUNEMAIN|À UNE MAIN]]**</td></tr><tr><td>[[Armes alchimiques#Feu dartifice fontaine de flammes|↓]] [[Feu dartifice fontaine de flammes (objet)|Feu d'artifice (fontaine de flammes)]]</td><td>100</td><td>25</td><td>1d8</td><td>×2</td><td>—</td><td>—</td><td>Feu</td><td>Voir texte</td></tr><tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESDISTANCE}**ARMES [[Caractéristiques des armes#ARMEADISTANCE|À DISTANCE]]**</td></tr><tr><td>[[Armes alchimiques#Acide|↓]] [[Acide (objet)|Acide]]</td><td>10</td><td>15</td><td>1d6</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>Acide</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td></tr><tr class="alt"><td>[[Armes alchimiques#Bocal à concussion|↓]] [[Bocal à concussion (objet)|Bocal à concussion]]</td><td>35</td><td>25</td><td>1</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>Son</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr><td>[[Armes alchimiques#Bombe à goudron|↓]] [[Bombe à goudron (objet)|Bombe à goudron]]</td><td>15</td><td>15</td><td>1d4/1d6</td><td>×2</td><td>3 m (2 c)</td><td>1</td><td>Feu</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Eau bénite|↓]] [[Eau bénite (objet)|Eau bénite]]</td><td>25</td><td>—</td><td>2d4</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>—</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr><td>[[Armes alchimiques#Feu dartifice ballerine banshie|↓]] [[Feu dartifice ballerine banshie (objet)|Feu d'artifice (ballerine banshie)]]</td><td>75</td><td>30</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>—</td><td>Son</td><td>Zone, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Feu dartifice bougie en papier|↓]] [[Feu dartifice bougie en papier (objet)|Feu d'artifice (bougie en papier)]]</td><td>1</td><td>20</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>—</td><td>—</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Feu dartifice étoile|↓]] [[Feu dartifice étoile (objet)|Feu d'artifice (étoile)]]</td><td>5</td><td>20</td><td>1/1</td><td>cécité</td><td>1,5 m (1 c)</td><td>—</td><td>Feu/Non-létal</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Feu dartifice fiélon clignotant|↓]] [[Feu dartifice fiélon clignotant (objet)|Feu d'artifice (fiélon clignotant)]]</td><td>100</td><td>30</td><td>spécial</td><td>—</td><td>3 m (2 c)</td><td>—</td><td>Lumière</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Feu dartifice fontaine stellaire|↓]] [[Feu dartifice fontaine stellaire (objet)|Feu d'artifice (fontaine stellaire)]]</td><td>500</td><td>25</td><td>1d6</td><td>—</td><td>3 m (2 c)</td><td>50</td><td>Feu</td><td>Zone</td></tr><tr class="alt"><td>[[Armes alchimiques#Feu dartifice fusée|↓]] [[Feu dartifice fusée (objet)|Feu d'artifice (fusée)]]</td><td>50</td><td>25</td><td>2d6</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>Feu</td><td>Zone</td></tr><tr><td>[[Armes alchimiques#Feu dartifice toux de dragon|↓]] [[Feu dartifice toux de dragon (objet)|Feu d'artifice (toux de dragon)]]</td><td>40</td><td>25</td><td>spécial</td><td>—</td><td>27-162 m (18- 108c), voir texte</td><td>0,5</td><td>Fumée</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Feu grégeois|↓]] [[Feu grégeois (objet)|Feu grégeois]]</td><td>20</td><td>20</td><td>1d6</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>Feu</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td></tr><tr><td>[[Armes alchimiques#Fiole dalcali|↓]] [[Fiole dalcali (objet)|Fiole d'alcali]]</td><td>15</td><td>20</td><td>1d6</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>Acide</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Fiole de blème écœurante|↓]] [[Fiole de blème écœurante (objet)|Fiole de blème écœurante]]</td><td>50</td><td>20</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>Poison</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr><td>[[Armes alchimiques#Fiole de nectar dombre|↓]] [[Fiole de nectar dombre (objet)|Fiole de nectar d'ombre]]</td><td>25</td><td>20</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>Ténèbres</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Flux élémentaire|↓]] [[Flux élémentaire (objet)|Flux élémentaire (flasque)]]</td><td>20</td><td>20</td><td>1d6</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>Aléatoire</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Foudre en bouteille|↓]] [[Foudre en bouteille (objet)|Foudre en bouteille]]</td><td>40</td><td>25</td><td>1d8/1</td><td>×2</td><td>6 m (4 c)</td><td>0,5</td><td>Électricité/Son</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Gel à éclats|↓]] [[Gel à éclats (objet)|Gel à éclats]]</td><td>25</td><td>20</td><td>1d4</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>P</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td></tr><tr><td>[[Armes alchimiques#Glace liquide|↓]] [[Glace liquide (objet)|Glace liquide]]</td><td>40</td><td>25</td><td>1d6</td><td>×2</td><td>3 m (2 c)</td><td>1</td><td>Froid</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td></tr><tr class="alt"><td>[[Armes alchimiques#Grenade à mèche|↓]] [[Grenade à mèche (objet)|Grenade à mèche]]</td><td>100</td><td>25</td><td>2d6/1d6</td><td>×2</td><td>3 m (2 c)</td><td>0,5</td><td>C/Feu</td><td>Zone, Voir texte</td></tr><tr><td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (adamantium)]]</td><td>150</td><td>25</td><td>1d6/1d6/1d6</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>C/P/Feu</td><td>Zone, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (argent)]]</td><td>70</td><td>25</td><td>1d6/1d6/1d6</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>C/P/Feu</td><td>Zone, Voir texte</td></tr><tr><td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (fer froid)]]</td><td>100</td><td>25</td><td>1d6/1d6/1d6</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>C/P/Feu</td><td>Zone, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (fer)]]</td><td>50</td><td>25</td><td>1d6/1d6/1d6</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>C/P/Feu</td><td>Zone, Voir texte</td></tr><tr><td>[[Armes alchimiques#Huile de kéros|↓]] [[Huile de kéros (objet)|Huile de kéros]]</td><td>5</td><td>15</td><td>1d3</td><td>×2</td><td>1,5 m (1 c)</td><td>—</td><td>Feu</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Infusion de puanteur|↓]] [[Infusion de puanteur (objet)|Infusion de puanteur]]</td><td>40</td><td>25</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>Fièvre</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr><td>[[Armes alchimiques#Pierre tonnerre|↓]] [[Pierre tonnerre (objet)|Pierre tonnerre]]</td><td>30</td><td>25</td><td>—</td><td>—</td><td>6 m (4 c)</td><td>0,5</td><td>Son</td><td>Zone, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Poche de vérole|↓]] [[Poche de vérole (objet)|Poche de vérole]]</td><td>50</td><td>20</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>0,5</td><td>Maladie</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr><td>[[Armes alchimiques#Poil à gratter|↓]] [[Poil à gratter (objet)|Poil à gratter]]</td><td>60</td><td>25</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>1</td><td>Poison</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Poudre à éternuer|↓]] [[Poudre à éternuer (objet)|Poudre à éternuer]]</td><td>60</td><td>25</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>1</td><td>Poison</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr><td>[[Armes alchimiques#Poudre à flash|↓]] [[Poudre à flash (objet)|Poudre à flash]]</td><td>50</td><td>20</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>—</td><td>Lumière</td><td>Zone, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Résidu ectoplasmique|↓]] [[Résidu ectoplasmique (objet)|Résidu ectoplasmique]]</td><td>20</td><td>25</td><td>spécial</td><td>—</td><td>3 m (2 c)</td><td>1</td><td>—</td><td>Peur (Voir texte)</td></tr><tr><td>[[Armes alchimiques#Sacoche immobilisante|↓]] [[Sacoche immobilisante (objet)|Sacoche immobilisante]]</td><td>50</td><td>25</td><td>—</td><td>—</td><td>3 m (2 c)</td><td>2</td><td>—</td><td>Enchevêtrement</td></tr><tr class="alt"><td>[[Armes alchimiques#Sacoche immobilisante de feu|↓]] [[Sacoche immobilisante de feu (objet)|Sacoche immobilisante de feu]]</td><td>150</td><td>30</td><td>1d6</td><td>—</td><td>3 m (2 c)</td><td>2,5</td><td>Feu</td><td>Enchevêtrement, Voir texte</td></tr><tr CLASS="premier"><td COLSPAN="9">**MUNITIONS D'ARC**</td></tr><tr><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (aimantée)]]</td><td>10</td><td>25</td><td>demi</td><td>—</td><td>—</td><td>—</td><td>P</td><td>Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (brûlure tardive)]]</td><td>100</td><td>25</td><td>inchangé/1d6</td><td>—</td><td>—</td><td>—</td><td>P/Feu</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (croc-en-jambe)]]</td><td>40</td><td>25</td><td>inchangé</td><td>—</td><td>—</td><td>—</td><td>P</td><td>[[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]], Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (durable)]]</td><td>1</td><td>25</td><td>inchangé</td><td>—</td><td>—</td><td>—</td><td>P</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (immobilisante)]]</td><td>20</td><td>25</td><td>aucun</td><td>—</td><td>—</td><td>—</td><td>—</td><td>Enchevêtrement, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (marquage)]]</td><td>1</td><td>25</td><td>aucun</td><td>—</td><td>—</td><td>—</td><td>Peinture</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (nuée d'esquilles)]]</td><td>25</td><td>25</td><td>1d3</td><td>—</td><td>—</td><td>—</td><td>P</td><td>Zone, Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (phéromone)]]</td><td>15</td><td>25</td><td>inchangé</td><td>—</td><td>—</td><td>—</td><td>P</td><td>Voir texte</td></tr><tr><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (pluie)]]</td><td>30</td><td>25</td><td>inchangé</td><td>—</td><td>—</td><td>—</td><td>P</td><td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td></tr><tr class="alt"><td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (saignement)]]</td><td>160</td><td>25</td><td>inchangé/1</td><td>—</td><td>—</td><td>—</td><td>P/Saignement</td><td>Voir texte</td></tr></table>
+<table CLASS="tablo centre" WIDTH="100%">
+  <caption>Tableau récapitulatif des armes alchimiques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="26%">Arme</td>
+    <td WIDTH="4%">Prix (po)</td>
+    <td WIDTH="8%">DD d'Artisanat</td>
+    <td WIDTH="8%">Dégâts</td>
+    <td WIDTH="12%">[[Caractéristiques des armes#CRITIQUE|Critique]]</td>
+    <td WIDTH="11%">[[Caractéristiques des armes#FACTEURDEPORTEE|Facteur de portée]]</td>
+    <td WIDTH="5%">[[Caractéristiques des armes#POIDS|Poids]] (kg)</td>
+    <td WIDTH="6%">[[Caractéristiques des armes#TYPE|Type]]</td>
+    <td WIDTH="20%">[[Caractéristiques des armes#ATTRIBUTSSPECIAUX|Spécial]]</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESSPECIAL}**SPÉCIAL**</td></tr>
+  <tr>
+    <td>
+      [[Armes alchimiques#Charbon alchimique|↓]] [[Charbon alchimique (objet)|Charbon alchimique (cendres
+      aveuglantes)]]
+    </td>
+    <td>100</td>
+    <td>25</td>
+    <td>1d6</td>
+    <td>—</td>
+    <td>ligne de 9 m (6 c)</td>
+    <td>—</td>
+    <td>Cécité/Feu</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>
+      [[Armes alchimiques#Charbon alchimique|↓]] [[Charbon alchimique (objet)|Charbon alchimique (fumée
+      asphyxiante)]]
+    </td>
+    <td>50</td>
+    <td>20</td>
+    <td>1d6</td>
+    <td>—</td>
+    <td>cône de 4,5 m (3 c)</td>
+    <td>—</td>
+    <td>Acide/Fièvre</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">{s:Reference|TABALCHIMIQUESCORPSACORPS}**COMBAT À MAINS NUES**</td></tr>
+  <tr>
+    <td>[[Armes alchimiques#Poings de verre|↓]] [[Poings de verre (objet)|Poings de verre (4 fioles de poudre)]]</td>
+    <td>5</td>
+    <td>15</td>
+    <td>voir texte</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>
+      [[Armes alchimiques#Poings de verre|↓]] [[Poings de verre (objet)|Poings de verre (fiole de poudre de
+      diamant)]]
+    </td>
+    <td>25</td>
+    <td>25</td>
+    <td>voir texte</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Poings de verre|↓]] [[Poings de verre (objet)|Poings de verre (gants)]]</td>
+    <td>25</td>
+    <td>20</td>
+    <td>voir texte</td>
+    <td>—</td>
+    <td>—</td>
+    <td>0,25</td>
+    <td>—</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr CLASS="premier">
+    <td COLSPAN="9">
+      {s:Reference|TABALCHIMIQUESLEGERES}**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]]
+      [[Caractéristiques des armes#ARMELEGERE|LÉGÈRES]]**
+    </td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Lame liquide|↓]] [[Lame liquide (objet)|Lame liquide]]</td>
+    <td>40</td>
+    <td>15</td>
+    <td>1d6</td>
+    <td>19-20/×2</td>
+    <td>—</td>
+    <td>1</td>
+    <td>P</td>
+    <td>[[Caractéristiques des armes#FRAGILE|Fragile]], Voir texte</td>
+  </tr>
+  <tr CLASS="premier">
+    <td COLSPAN="9">
+      {s:Reference|TABALCHIMIQUESUNEMAIN}**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]]
+      [[Caractéristiques des armes#ARMEAUNEMAIN|À UNE MAIN]]**
+    </td>
+  </tr>
+  <tr>
+    <td>
+      [[Armes alchimiques#Feu dartifice fontaine de flammes|↓]] [[Feu dartifice fontaine de flammes (objet)|Feu
+      d'artifice (fontaine de flammes)]]
+    </td>
+    <td>100</td>
+    <td>25</td>
+    <td>1d8</td>
+    <td>×2</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Feu</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr CLASS="premier">
+    <td COLSPAN="9">
+      {s:Reference|TABALCHIMIQUESDISTANCE}**ARMES [[Caractéristiques des armes#ARMEADISTANCE|À DISTANCE]]**
+    </td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Acide|↓]] [[Acide (objet)|Acide]]</td>
+    <td>10</td>
+    <td>15</td>
+    <td>1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Acide</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Bocal à concussion|↓]] [[Bocal à concussion (objet)|Bocal à concussion]]</td>
+    <td>35</td>
+    <td>25</td>
+    <td>1</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Son</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Bombe à goudron|↓]] [[Bombe à goudron (objet)|Bombe à goudron]]</td>
+    <td>15</td>
+    <td>15</td>
+    <td>1d4/1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>1</td>
+    <td>Feu</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Eau bénite|↓]] [[Eau bénite (objet)|Eau bénite]]</td>
+    <td>25</td>
+    <td>—</td>
+    <td>2d4</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>—</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr>
+    <td>
+      [[Armes alchimiques#Feu dartifice ballerine banshie|↓]] [[Feu dartifice ballerine banshie (objet)|Feu
+      d'artifice (ballerine banshie)]]
+    </td>
+    <td>75</td>
+    <td>30</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>—</td>
+    <td>Son</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>
+      [[Armes alchimiques#Feu dartifice bougie en papier|↓]] [[Feu dartifice bougie en papier (objet)|Feu d'artifice
+      (bougie en papier)]]
+    </td>
+    <td>1</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Feu dartifice étoile|↓]] [[Feu dartifice étoile (objet)|Feu d'artifice (étoile)]]</td>
+    <td>5</td>
+    <td>20</td>
+    <td>1/1</td>
+    <td>cécité</td>
+    <td>1,5 m (1 c)</td>
+    <td>—</td>
+    <td>Feu/Non-létal</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>
+      [[Armes alchimiques#Feu dartifice fiélon clignotant|↓]] [[Feu dartifice fiélon clignotant (objet)|Feu
+      d'artifice (fiélon clignotant)]]
+    </td>
+    <td>100</td>
+    <td>30</td>
+    <td>spécial</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>—</td>
+    <td>Lumière</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>
+      [[Armes alchimiques#Feu dartifice fontaine stellaire|↓]] [[Feu dartifice fontaine stellaire (objet)|Feu
+      d'artifice (fontaine stellaire)]]
+    </td>
+    <td>500</td>
+    <td>25</td>
+    <td>1d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>50</td>
+    <td>Feu</td>
+    <td>Zone</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Feu dartifice fusée|↓]] [[Feu dartifice fusée (objet)|Feu d'artifice (fusée)]]</td>
+    <td>50</td>
+    <td>25</td>
+    <td>2d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Feu</td>
+    <td>Zone</td>
+  </tr>
+  <tr>
+    <td>
+      [[Armes alchimiques#Feu dartifice toux de dragon|↓]] [[Feu dartifice toux de dragon (objet)|Feu d'artifice
+      (toux de dragon)]]
+    </td>
+    <td>40</td>
+    <td>25</td>
+    <td>spécial</td>
+    <td>—</td>
+    <td>27-162 m (18- 108c), voir texte</td>
+    <td>0,5</td>
+    <td>Fumée</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Feu grégeois|↓]] [[Feu grégeois (objet)|Feu grégeois]]</td>
+    <td>20</td>
+    <td>20</td>
+    <td>1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Feu</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Fiole dalcali|↓]] [[Fiole dalcali (objet)|Fiole d'alcali]]</td>
+    <td>15</td>
+    <td>20</td>
+    <td>1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Acide</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>
+      [[Armes alchimiques#Fiole de blème écœurante|↓]] [[Fiole de blème écœurante (objet)|Fiole de blème écœurante]]
+    </td>
+    <td>50</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Poison</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Fiole de nectar dombre|↓]] [[Fiole de nectar dombre (objet)|Fiole de nectar d'ombre]]</td>
+    <td>25</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Ténèbres</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Flux élémentaire|↓]] [[Flux élémentaire (objet)|Flux élémentaire (flasque)]]</td>
+    <td>20</td>
+    <td>20</td>
+    <td>1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Aléatoire</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Foudre en bouteille|↓]] [[Foudre en bouteille (objet)|Foudre en bouteille]]</td>
+    <td>40</td>
+    <td>25</td>
+    <td>1d8/1</td>
+    <td>×2</td>
+    <td>6 m (4 c)</td>
+    <td>0,5</td>
+    <td>Électricité/Son</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Gel à éclats|↓]] [[Gel à éclats (objet)|Gel à éclats]]</td>
+    <td>25</td>
+    <td>20</td>
+    <td>1d4</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>P</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Glace liquide|↓]] [[Glace liquide (objet)|Glace liquide]]</td>
+    <td>40</td>
+    <td>25</td>
+    <td>1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>1</td>
+    <td>Froid</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]]</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Grenade à mèche|↓]] [[Grenade à mèche (objet)|Grenade à mèche]]</td>
+    <td>100</td>
+    <td>25</td>
+    <td>2d6/1d6</td>
+    <td>×2</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>C/Feu</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (adamantium)]]</td>
+    <td>150</td>
+    <td>25</td>
+    <td>1d6/1d6/1d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>C/P/Feu</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (argent)]]</td>
+    <td>70</td>
+    <td>25</td>
+    <td>1d6/1d6/1d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>C/P/Feu</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (fer froid)]]</td>
+    <td>100</td>
+    <td>25</td>
+    <td>1d6/1d6/1d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>C/P/Feu</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Grenade à plombs|↓]] [[Grenade à plombs (objet)|Grenade à plombs (fer)]]</td>
+    <td>50</td>
+    <td>25</td>
+    <td>1d6/1d6/1d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>C/P/Feu</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Huile de kéros|↓]] [[Huile de kéros (objet)|Huile de kéros]]</td>
+    <td>5</td>
+    <td>15</td>
+    <td>1d3</td>
+    <td>×2</td>
+    <td>1,5 m (1 c)</td>
+    <td>—</td>
+    <td>Feu</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Infusion de puanteur|↓]] [[Infusion de puanteur (objet)|Infusion de puanteur]]</td>
+    <td>40</td>
+    <td>25</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Fièvre</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Pierre tonnerre|↓]] [[Pierre tonnerre (objet)|Pierre tonnerre]]</td>
+    <td>30</td>
+    <td>25</td>
+    <td>—</td>
+    <td>—</td>
+    <td>6 m (4 c)</td>
+    <td>0,5</td>
+    <td>Son</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Poche de vérole|↓]] [[Poche de vérole (objet)|Poche de vérole]]</td>
+    <td>50</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>0,5</td>
+    <td>Maladie</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Poil à gratter|↓]] [[Poil à gratter (objet)|Poil à gratter]]</td>
+    <td>60</td>
+    <td>25</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>1</td>
+    <td>Poison</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Poudre à éternuer|↓]] [[Poudre à éternuer (objet)|Poudre à éternuer]]</td>
+    <td>60</td>
+    <td>25</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>1</td>
+    <td>Poison</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Poudre à flash|↓]] [[Poudre à flash (objet)|Poudre à flash]]</td>
+    <td>50</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>—</td>
+    <td>Lumière</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Résidu ectoplasmique|↓]] [[Résidu ectoplasmique (objet)|Résidu ectoplasmique]]</td>
+    <td>20</td>
+    <td>25</td>
+    <td>spécial</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>1</td>
+    <td>—</td>
+    <td>Peur (Voir texte)</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Sacoche immobilisante|↓]] [[Sacoche immobilisante (objet)|Sacoche immobilisante]]</td>
+    <td>50</td>
+    <td>25</td>
+    <td>—</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>2</td>
+    <td>—</td>
+    <td>Enchevêtrement</td>
+  </tr>
+  <tr class="alt">
+    <td>
+      [[Armes alchimiques#Sacoche immobilisante de feu|↓]] [[Sacoche immobilisante de feu (objet)|Sacoche
+      immobilisante de feu]]
+    </td>
+    <td>150</td>
+    <td>30</td>
+    <td>1d6</td>
+    <td>—</td>
+    <td>3 m (2 c)</td>
+    <td>2,5</td>
+    <td>Feu</td>
+    <td>Enchevêtrement, Voir texte</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**MUNITIONS D'ARC**</td></tr>
+  <tr>
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (aimantée)]]</td>
+    <td>10</td>
+    <td>25</td>
+    <td>demi</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (brûlure tardive)]]</td>
+    <td>100</td>
+    <td>25</td>
+    <td>inchangé/1d6</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P/Feu</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (croc-en-jambe)]]</td>
+    <td>40</td>
+    <td>25</td>
+    <td>inchangé</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P</td>
+    <td>[[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]], Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (durable)]]</td>
+    <td>1</td>
+    <td>25</td>
+    <td>inchangé</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (immobilisante)]]</td>
+    <td>20</td>
+    <td>25</td>
+    <td>aucun</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Enchevêtrement, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (marquage)]]</td>
+    <td>1</td>
+    <td>25</td>
+    <td>aucun</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Peinture</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>
+      [[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (nuée d'esquilles)]]
+    </td>
+    <td>25</td>
+    <td>25</td>
+    <td>1d3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P</td>
+    <td>Zone, Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (phéromone)]]</td>
+    <td>15</td>
+    <td>25</td>
+    <td>inchangé</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (pluie)]]</td>
+    <td>30</td>
+    <td>25</td>
+    <td>inchangé</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P</td>
+    <td>[[Actions spéciales#ARMEASPERSION|Aspersion]], Voir texte</td>
+  </tr>
+  <tr class="alt">
+    <td>[[Armes alchimiques#Flèche alchimique|↓]] [[Flèche alchimique (objet)|Flèche alchimique (saignement)]]</td>
+    <td>160</td>
+    <td>25</td>
+    <td>inchangé/1</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>P/Saignement</td>
+    <td>Voir texte</td>
+  </tr>
+</table>
 
 
 ### Description des armes alchimiques

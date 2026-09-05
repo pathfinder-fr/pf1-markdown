@@ -242,7 +242,235 @@ Voici les options accessibles aux demi-orques, d’autres races adaptées peuven
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Bénédiction du Destructeur]]*</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td><td>Récupère des rounds de rage et des points de vie en réussissant une manoeuvre de destruction</td></tr><tr CLASS="premier"><td>[[Bénédiction du Dieu du feu]]</td><td><sup>MR</sup></td><td>[[demi-orque]] ou [[Orque (race)|orque]], suivant du Dieu du feu</td><td>Récupère des points de vie en infligeant des dégâts de feu à un adversaire</td></tr><tr CLASS="premier"><td>[[Boyaux dacier|Boyaux d'acier]]</td><td><sup>MJRA</sup></td><td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td><td>+2 aux Jets de sauvegarde contre les états nauséeux et fiévreux et les poisons ingérés</td></tr><tr CLASS="premier"><td>[[Briseur dobjets|Briseur d'objets]]*</td><td><sup>MJRA</sup></td><td>[[Attaque en puissance]], [[demi-orque]]</td><td>Ignorer 5 points de solidité lorsqu’on brise un objet</td></tr><tr CLASS="premier"><td>[[Brute résiliente]]</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]]</td><td>La moitié des dégâts subits lors d'un coup critique deviennent non-létaux</td></tr><tr CLASS="premier"><td>[[Cavalier des bêtes]]</td><td><sup>MR</sup></td><td>Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]] ou [[Chevalier#MONTURE|monture]], personnage de niveau 7, [[demi-orque]] ou [[Orque (race)|orque]]</td><td>Obtient les services d'un compagnon monstrueux ou d'une monture</td></tr><tr CLASS="premier"><td>[[Chanteur de guerre]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[demi-orque]] ou [[Orque (race)|orque]]</td><td>Améliore les représentations sur les champs de bataille et contre les orques</td></tr><tr CLASS="premier"><td>[[Charge de la horde]]</td><td><sup>MR</sup></td><td>[[BBA]] +1, [[demi-orque]] ou [[Orque (race)|orque]]</td><td>+2 à l'attaque et aux dégâts lors d'une charge avec un allié</td></tr><tr CLASS="premier"><td>[[Combattre au-delà de la mort]]</td><td><sup>MJRA</sup></td><td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td><td>Gagner des points de vie temporaires une fois réduit à 0 point de vie</td></tr><tr CLASS="premier"><td>[[Convocations féroces]]</td><td><sup>MR</sup></td><td>[[Amélioration des créatures convoquées]], [[École renforcée]] (invocation), [[demi-orque]] ou [[Orque (race)|orque]]</td><td>Les créatures convoquées obtiennent la capacité férocité</td></tr><tr CLASS="premier"><td>[[Crocs acérés]]</td><td><sup>MJRA</sup></td><td>[[Demi-orque]]</td><td>Gagne une attaque de morsure</td></tr><tr CLASS="premier"><td>[[Descendance pure]]</td><td><sup>*ISR*</sup></td><td>Deux [[Types de créatures|sous-types]], trait racial sang elfique ou sang orque</td><td>N'est pas considéré comme étant de ses sous-types ou de sa race dans le cadre des effets qui en dépendent</td></tr><tr CLASS="premier"><td>[[Enchaînement surprise]]*</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], [[For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[BBA]]+1</td><td>Fait perdre son bonus de Dextérité à la CA de la seconde cible pendant un enchaînement</td></tr><tr><td>&emsp;[[Science de lenchaînement surprise|Science de l'enchaînement surprise]]</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], [[For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[Succession denchaînements|Succession d'enchaînements]], [[Enchaînement surprise]], [[BBA]]+8</td><td>Fait perdre son bonus de Dextérité à la CA de toutes les cibles pendant un enchaînement</td></tr><tr CLASS="premier"><td>[[Fiélon sanguinaire]]</td><td><sup>MR</sup></td><td>[[demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td><td>Récupère des rounds de rage en confirmant ou en subissant des coups critiques</td></tr><tr CLASS="premier"><td>[[Frisson de la mort]]</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td><td>Récupère des rounds de rage en tuant ou en rendant inconsciente une créature</td></tr><tr CLASS="premier"><td>[[Gang de brutes]]</td><td><sup>*ISR*</sup></td><td>[[Demi-orque]]</td><td>Les alliés avec ce dont obtiennent un +2 aux tests de BMO lorsque le personnage en rate un</td></tr><tr CLASS="premier"><td>[[Initié du refus de mourir]]*</td><td><sup>AG</sup></td><td>[[For]] 13, [[Con]] 13, [[demi-orque]] ou [[Orque (race)|orque]], [[Dur à cuire]], [[Endurance]], [[BBA]] +6</td><td>Le personnage n’est pas chancelant quand il utilise Dur à cuire ; +2 aux jets de dégâts au corps à corps</td></tr><tr><td>&emsp;[[Maître du refus de mourir]]*</td><td><sup>AG</sup></td><td>[[For]] 13, [[Con]] 15, [[demi-orque]] ou [[Orque (race)|orque]], [[Initié du refus de mourir]], [[Dur à cuire]], [[Endurance]], [[Peau de fer]], [[BBA]] +9</td><td>Pas de perte de points sous Dur à cuire</td></tr><tr><td>&emsp;&emsp;[[Zélote du refus de mourir]]*</td><td><sup>AG</sup></td><td>[[For]] 13, [[Con]] 15, [[demi-orque]] ou [[Orque (race)|orque]], [[Initié du refus de mourir]], [[Maître du refus de mourir]], [[Dur à cuire]], [[Endurance]], [[Peau de fer]], [[BBA]] +12</td><td>Les ennemis sont obligés de refaire les attaques de confirmation de coup critique réussies</td></tr><tr CLASS="premier"><td>[[Intimidation de meute]]</td><td><sup>*ISR*</sup></td><td>[[Demi-orque]], trait racial intimidant</td><td>+2 aux tests d'Intimidation visant à démoraliser pour chaque allié avec ce don dans un rayon de 9 mètres</td></tr><tr CLASS="premier"><td>[[Lutteur brutal]]*</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]]</td><td>Aide un allier à agripper une créature</td></tr><tr CLASS="premier"><td>[[Odorat supérieur]]</td><td><sup>MJRA</sup></td><td>[[Sag]] 13, [[demi-orque]], ou [[Orque (race)|orque]]</td><td>Gagne la capacité spéciale d’odorat</td></tr><tr><td>&emsp;[[Perception de la peur]]</td><td><sup>MJRA</sup></td><td>[[Odorat supérieur]], [[demi-orque]] ou [[Orque (race)|orque]]</td><td>+4 aux tests de Perception pour détecter les créatures effrayés</td></tr><tr CLASS="premier"><td>[[Passer pour un humain]]</td><td><sup>MJRA</sup></td><td>[[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte)</td><td>+10 aux tests de Déguisement pour ressembler à un humain</td></tr><tr CLASS="premier"><td>[[Peau de fer]]</td><td><sup>MJRA</sup></td><td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td><td>Bonus d’armure naturelle de +1 à la CA</td></tr><tr CLASS="premier"><td>[[Rage amplifiée]]</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td><td>La rage du personnage est plus puissante lorsqu’un allié proche est en rage</td></tr><tr CLASS="premier"><td>[[Rage du chef de guerre]]</td><td><sup>MR</sup></td><td>[[Cha]] 13, [[demi-orque]] ou [[Orque (race)|orque]], alignement non-Loyal</td><td>Les alliés du personnage continuent de profiter des rages mineures obtenues par la proximité avec le personnage à 9 m de distance</td></tr><tr CLASS="premier"><td>[[Rage empathique]]*</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], alignement non-Loyal</td><td>Entre dans une rage mineure lorsqu’il est près d’alliés enragés</td></tr><tr CLASS="premier"><td>[[Résolution féroce]]</td><td><sup>MR</sup></td><td>[[Con]] 13, [[demi-orque]], trait racial [[Demi-orque#Traits_raciaux_standards_6|férocité orque]]</td><td>Gain de la capacité férocité</td></tr><tr CLASS="premier"><td>[[Survivant tenace]]</td><td><sup>MR</sup></td><td>[[Con]] 13, [[Dur à cuire]], [[Endurance]], [[demi-orque]] ou [[Orque (race)|orque]]</td><td>Persiste pour être soigné même après la mort</td></tr><tr CLASS="premier"><td>[[Ténacité féroce]]*</td><td><sup>MR</sup></td><td>Trait racial [[Orque (race)#Traits_raciaux_standards_6|férocité]], [[demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td><td>Dépense des rounds de rage pour absorber des dégâts mortels</td></tr><tr CLASS="premier"><td>[[Vengeance sanguinaire]]</td><td><sup>MR</sup></td><td>[[Demi-orque]] ou [[Orque (race)|orque]], alignement non-Loyal</td><td>Entre dans une rage mineure lorsqu’un allié est tué ou gravement blessé</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bénédiction du Destructeur]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td>
+    <td>Récupère des rounds de rage et des points de vie en réussissant une manoeuvre de destruction</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bénédiction du Dieu du feu]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[demi-orque]] ou [[Orque (race)|orque]], suivant du Dieu du feu</td>
+    <td>Récupère des points de vie en infligeant des dégâts de feu à un adversaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Boyaux dacier|Boyaux d'acier]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>+2 aux Jets de sauvegarde contre les états nauséeux et fiévreux et les poisons ingérés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Briseur dobjets|Briseur d'objets]]*</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Attaque en puissance]], [[demi-orque]]</td>
+    <td>Ignorer 5 points de solidité lorsqu’on brise un objet</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Brute résiliente]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]]</td>
+    <td>La moitié des dégâts subits lors d'un coup critique deviennent non-létaux</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cavalier des bêtes]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]] ou [[Chevalier#MONTURE|monture]], personnage
+      de niveau 7, [[demi-orque]] ou [[Orque (race)|orque]]
+    </td>
+    <td>Obtient les services d'un compagnon monstrueux ou d'une monture</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chanteur de guerre]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[demi-orque]] ou [[Orque (race)|orque]]</td>
+    <td>Améliore les représentations sur les champs de bataille et contre les orques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charge de la horde]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +1, [[demi-orque]] ou [[Orque (race)|orque]]</td>
+    <td>+2 à l'attaque et aux dégâts lors d'une charge avec un allié</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combattre au-delà de la mort]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>Gagner des points de vie temporaires une fois réduit à 0 point de vie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Convocations féroces]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation), [[demi-orque]] ou [[Orque
+      (race)|orque]]
+    </td>
+    <td>Les créatures convoquées obtiennent la capacité férocité</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Crocs acérés]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Demi-orque]]</td>
+    <td>Gagne une attaque de morsure</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Descendance pure]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>Deux [[Types de créatures|sous-types]], trait racial sang elfique ou sang orque</td>
+    <td>N'est pas considéré comme étant de ses sous-types ou de sa race dans le cadre des effets qui en dépendent</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Enchaînement surprise]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]], [[For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[BBA]]+1</td>
+    <td>Fait perdre son bonus de Dextérité à la CA de la seconde cible pendant un enchaînement</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Science de lenchaînement surprise|Science de l'enchaînement surprise]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Demi-orque]] ou [[Orque (race)|orque]], [[For]] 13, [[Attaque en puissance]], [[Enchaînement]], [[Succession
+      denchaînements|Succession d'enchaînements]], [[Enchaînement surprise]], [[BBA]]+8
+    </td>
+    <td>Fait perdre son bonus de Dextérité à la CA de toutes les cibles pendant un enchaînement</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fiélon sanguinaire]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td>
+    <td>Récupère des rounds de rage en confirmant ou en subissant des coups critiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frisson de la mort]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td>
+    <td>Récupère des rounds de rage en tuant ou en rendant inconsciente une créature</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gang de brutes]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Demi-orque]]</td>
+    <td>Les alliés avec ce dont obtiennent un +2 aux tests de BMO lorsque le personnage en rate un</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Initié du refus de mourir]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[For]] 13, [[Con]] 13, [[demi-orque]] ou [[Orque (race)|orque]], [[Dur à cuire]], [[Endurance]], [[BBA]] +6
+    </td>
+    <td>Le personnage n’est pas chancelant quand il utilise Dur à cuire ; +2 aux jets de dégâts au corps à corps</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Maître du refus de mourir]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[For]] 13, [[Con]] 15, [[demi-orque]] ou [[Orque (race)|orque]], [[Initié du refus de mourir]], [[Dur à
+      cuire]], [[Endurance]], [[Peau de fer]], [[BBA]] +9
+    </td>
+    <td>Pas de perte de points sous Dur à cuire</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Zélote du refus de mourir]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[For]] 13, [[Con]] 15, [[demi-orque]] ou [[Orque (race)|orque]], [[Initié du refus de mourir]], [[Maître du
+      refus de mourir]], [[Dur à cuire]], [[Endurance]], [[Peau de fer]], [[BBA]] +12
+    </td>
+    <td>Les ennemis sont obligés de refaire les attaques de confirmation de coup critique réussies</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Intimidation de meute]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Demi-orque]], trait racial intimidant</td>
+    <td>+2 aux tests d'Intimidation visant à démoraliser pour chaque allié avec ce don dans un rayon de 9 mètres</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lutteur brutal]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]]</td>
+    <td>Aide un allier à agripper une créature</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Odorat supérieur]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Sag]] 13, [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>Gagne la capacité spéciale d’odorat</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Perception de la peur]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Odorat supérieur]], [[demi-orque]] ou [[Orque (race)|orque]]</td>
+    <td>+4 aux tests de Perception pour détecter les créatures effrayés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Passer pour un humain]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte)</td>
+    <td>+10 aux tests de Déguisement pour ressembler à un humain</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Peau de fer]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>Bonus d’armure naturelle de +1 à la CA</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rage amplifiée]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]], capacité de classe [[Barbare#RAGE|rage de berserker]]</td>
+    <td>La rage du personnage est plus puissante lorsqu’un allié proche est en rage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rage du chef de guerre]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Cha]] 13, [[demi-orque]] ou [[Orque (race)|orque]], alignement non-Loyal</td>
+    <td>
+      Les alliés du personnage continuent de profiter des rages mineures obtenues par la proximité avec le
+      personnage à 9 m de distance
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rage empathique]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]], alignement non-Loyal</td>
+    <td>Entre dans une rage mineure lorsqu’il est près d’alliés enragés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Résolution féroce]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Con]] 13, [[demi-orque]], trait racial [[Demi-orque#Traits_raciaux_standards_6|férocité orque]]</td>
+    <td>Gain de la capacité férocité</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Survivant tenace]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Con]] 13, [[Dur à cuire]], [[Endurance]], [[demi-orque]] ou [[Orque (race)|orque]]</td>
+    <td>Persiste pour être soigné même après la mort</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ténacité féroce]]*</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Trait racial [[Orque (race)#Traits_raciaux_standards_6|férocité]], [[demi-orque]] ou [[Orque (race)|orque]],
+      capacité de classe [[Barbare#RAGE|rage de berserker]]
+    </td>
+    <td>Dépense des rounds de rage pour absorber des dégâts mortels</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vengeance sanguinaire]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Demi-orque]] ou [[Orque (race)|orque]], alignement non-Loyal</td>
+    <td>Entre dans une rage mineure lorsqu’un allié est tué ou gravement blessé</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

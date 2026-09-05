@@ -16,7 +16,78 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><caption>Déplacements et distance</caption><tr CLASS="titre"><td>[[vitesse de déplacement|VD]]</td><td>4,50 m (3 cases)</td><td>6 m (4 cases)</td><td>9 m (6 cases)</td><td>12 m (8 cases)</td></tr><tr CLASS="premier"><td COLSPAN="5">**UN ROUND (TACTIQUE)***</td></tr><tr><td>&emsp;[[Déplacements#MARCHE|Marche]]</td><td>4,50 m</td><td>6 m</td><td>9 m</td><td>12 m</td></tr><tr CLASS="alt"><td>&emsp;[[Déplacements#FOOTING|Footing]]</td><td>9 m</td><td>12 m</td><td>18 m</td><td>24 m</td></tr><tr><td>&emsp;[[Déplacements#COURSE|Course]] (x3)</td><td>13,50 m</td><td>18 m</td><td>27 m</td><td>36 m</td></tr><tr CLASS="alt"><td>&emsp;[[Déplacements#COURSE|Course]] (x4)</td><td>18 m</td><td>24 m</td><td>36 m</td><td>48 m</td></tr><tr CLASS="premier"><td COLSPAN="5">**UNE MINUTE (COURTE DISTANCE)**</td></tr><tr><td>&emsp;[[Déplacements#COURTEMARCHE|Marche]]</td><td>45 m</td><td>60 m</td><td>90 m</td><td>120 m</td></tr><tr CLASS="alt"><td>&emsp;[[Déplacements#COURTEFOOTING|Footing]]</td><td>90 m</td><td>120 m</td><td>180 m</td><td>240 m</td></tr><tr><td>&emsp;[[Déplacements#COURTECOURSE|Course]] (x3)</td><td>135 m</td><td>180 m</td><td>270 m</td><td>360 m</td></tr><tr CLASS="alt"><td>&emsp;[[Déplacements#COURTECOURSE|Course]] (x4)</td><td>180 m</td><td>240 m</td><td>360 m</td><td>480 m</td></tr><tr CLASS="premier"><td COLSPAN="5">**UNE HEURE / UN JOUR (LONGUE DISTANCE)**</td></tr><tr><td>&emsp;[[Déplacements#LONGUEMARCHE|Marche]]</td><td>2,25 km / 18 km</td><td>3 km / 24 km</td><td>4,5 km / 36 km</td><td>6 km / 48 km</td></tr><tr CLASS="alt"><td>&emsp;[[Déplacements#LONGUEFOOTING|Footing]]</td><td>4,5 km / —</td><td>6 km / —</td><td>9 km / —</td><td>12 km / —</td></tr><tr><td>&emsp;[[Déplacements#LONGUECOURSE|Course]]</td><td>— / —</td><td>— / —</td><td>— / —</td><td>— / —</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Les mouvements tactiques sont souvent mesurés en cases plutôt qu’en mètres. Une case fait 1,50 mètre de côté.*</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Déplacements et distance</caption>
+  <tr CLASS="titre">
+    <td>[[vitesse de déplacement|VD]]</td>
+    <td>4,50 m (3 cases)</td>
+    <td>6 m (4 cases)</td>
+    <td>9 m (6 cases)</td>
+    <td>12 m (8 cases)</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="5">**UN ROUND (TACTIQUE)***</td></tr>
+  <tr><td>&emsp;[[Déplacements#MARCHE|Marche]]</td><td>4,50 m</td><td>6 m</td><td>9 m</td><td>12 m</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Déplacements#FOOTING|Footing]]</td>
+    <td>9 m</td>
+    <td>12 m</td>
+    <td>18 m</td>
+    <td>24 m</td>
+  </tr>
+  <tr><td>&emsp;[[Déplacements#COURSE|Course]] (x3)</td><td>13,50 m</td><td>18 m</td><td>27 m</td><td>36 m</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Déplacements#COURSE|Course]] (x4)</td>
+    <td>18 m</td>
+    <td>24 m</td>
+    <td>36 m</td>
+    <td>48 m</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="5">**UNE MINUTE (COURTE DISTANCE)**</td></tr>
+  <tr><td>&emsp;[[Déplacements#COURTEMARCHE|Marche]]</td><td>45 m</td><td>60 m</td><td>90 m</td><td>120 m</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Déplacements#COURTEFOOTING|Footing]]</td>
+    <td>90 m</td>
+    <td>120 m</td>
+    <td>180 m</td>
+    <td>240 m</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Déplacements#COURTECOURSE|Course]] (x3)</td>
+    <td>135 m</td>
+    <td>180 m</td>
+    <td>270 m</td>
+    <td>360 m</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Déplacements#COURTECOURSE|Course]] (x4)</td>
+    <td>180 m</td>
+    <td>240 m</td>
+    <td>360 m</td>
+    <td>480 m</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="5">**UNE HEURE / UN JOUR (LONGUE DISTANCE)**</td></tr>
+  <tr>
+    <td>&emsp;[[Déplacements#LONGUEMARCHE|Marche]]</td>
+    <td>2,25 km / 18 km</td>
+    <td>3 km / 24 km</td>
+    <td>4,5 km / 36 km</td>
+    <td>6 km / 48 km</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Déplacements#LONGUEFOOTING|Footing]]</td>
+    <td>4,5 km / —</td>
+    <td>6 km / —</td>
+    <td>9 km / —</td>
+    <td>12 km / —</td>
+  </tr>
+  <tr><td>&emsp;[[Déplacements#LONGUECOURSE|Course]]</td><td>— / —</td><td>— / —</td><td>— / —</td><td>— / —</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      *(*) Les mouvements tactiques sont souvent mesurés en cases plutôt qu’en mètres. Une case fait 1,50 mètre de
+      côté.*
+    </td>
+  </tr>
+</table>
 
 </div></div>
 **Modes de déplacement.** La marche, le footing et la course représentent les trois cadences de mouvement le plus communément adoptées.
@@ -35,8 +106,16 @@ On utilise ce déplacement lors d’un combat. Dans cette situation, il est évi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><caption>Déplacements contrariés</caption><tr CLASS="titre"><td>Condition</td><td>Coût supplémentaire   
-du déplacement</td></tr><tr CLASS="premier"><td>Terrain difficile</td><td>×2</td></tr><tr CLASS="alt"><td>Obstacle*</td><td>×2</td></tr><tr><td>Mauvaise visibilité</td><td>×2</td></tr><tr CLASS="alt"><td>Infranchissable</td><td>—</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Peut nécessiter un test de compétence.*</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Déplacements contrariés</caption>
+  <tr CLASS="titre"><td>Condition</td><td>Coût supplémentaire   
+du déplacement</td></tr>
+  <tr CLASS="premier"><td>Terrain difficile</td><td>×2</td></tr>
+  <tr CLASS="alt"><td>Obstacle*</td><td>×2</td></tr>
+  <tr><td>Mauvaise visibilité</td><td>×2</td></tr>
+  <tr CLASS="alt"><td>Infranchissable</td><td>—</td></tr>
+  <tr CLASS="note"><td COLSPAN="2">*(*) Peut nécessiter un test de compétence.*</td></tr>
+</table>
 
 </div></div>
 {s:Reference|TERRAINDIFFICILE}**Déplacements contrariés.** Un terrain difficile, des obstacles ou une mauvaise visibilité ralentissent les déplacements (voir le tableau ci-contre). Dans ce cas, chaque case de mouvement compte généralement comme deux cases de déplacement, ce qui réduit de moitié la [[Valeurs de combat#VITESSEDEDEPLACEMENT|vitesse]] des personnages.
@@ -96,7 +175,52 @@ Mais il est possible de continuer son chemin en ayant recours à la marche forc�
 **Déplacement en bateau.** Voir la table ci-dessous pour la vitesse des diverses embarcations.
 
 
-<table CLASS="tablo centre"><caption>Montures et véhicules</caption><tr CLASS="titre"><td>Monture/véhicule</td><td>Par heure</td><td>Par jour</td></tr><tr CLASS="premier"><td COLSPAN="3">**MONTURE (CHARGE)**</td></tr><tr><td>&emsp;Cheval léger</td><td>7,5 km</td><td>60 km</td></tr><tr CLASS="alt"><td>&emsp;Cheval léger (87,5–262,5 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td><td>5,25 km</td><td>42 km</td></tr><tr><td>&emsp;Cheval lourd</td><td>7,5 km</td><td>60 km</td></tr><tr CLASS="alt"><td>&emsp;Cheval lourd (114,5–345 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td><td>5,25 km</td><td>42 km</td></tr><tr><td>&emsp;Poney</td><td>6 km</td><td>48 km</td></tr><tr CLASS="alt"><td>&emsp;Poney (75,5–225 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td><td>4,5 km</td><td>36 km</td></tr><tr><td>&emsp;Chien de selle</td><td>6 km</td><td>48 km</td></tr><tr CLASS="alt"><td>&emsp;Chien de selle (50,5–150 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td><td>4,5 km</td><td>36 km</td></tr><tr><td>&emsp;Chariot ou charrette</td><td>3 km</td><td>24 km</td></tr><tr CLASS="premier"><td COLSPAN="3">**BATEAU (MODE DE LOCOMOTION)**</td></tr><tr><td>&emsp;Radeau ou barge (perche ou tracté)<sup>[[Déplacements#NOTE2|2]]</sup></td><td>750 m</td><td>7,5 km</td></tr><tr CLASS="alt"><td>&emsp;Bateau à fond plat (rames)<sup>[[Déplacements#NOTE2|2]]</sup></td><td>1,5 km</td><td>15 km</td></tr><tr><td>&emsp;Barque (rames)<sup>[[Déplacements#NOTE2|2]]</sup></td><td>2,25 km</td><td>22,5 km</td></tr><tr CLASS="alt"><td>&emsp;Navire de haute mer (voiles)</td><td>3 km</td><td>72 km</td></tr><tr><td>&emsp;Vaisseau de guerre (voiles ou rames)</td><td>3,75 km</td><td>90 km</td></tr><tr CLASS="alt"><td>&emsp;Drakkar (voiles ou rames)</td><td>4,5 km</td><td>108 km</td></tr><tr><td>&emsp;Trirème (voiles ou rames)</td><td>6 km</td><td>144 km</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Montures et véhicules</caption>
+  <tr CLASS="titre"><td>Monture/véhicule</td><td>Par heure</td><td>Par jour</td></tr>
+  <tr CLASS="premier"><td COLSPAN="3">**MONTURE (CHARGE)**</td></tr>
+  <tr><td>&emsp;Cheval léger</td><td>7,5 km</td><td>60 km</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;Cheval léger (87,5–262,5 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td>
+    <td>5,25 km</td>
+    <td>42 km</td>
+  </tr>
+  <tr><td>&emsp;Cheval lourd</td><td>7,5 km</td><td>60 km</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;Cheval lourd (114,5–345 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td>
+    <td>5,25 km</td>
+    <td>42 km</td>
+  </tr>
+  <tr><td>&emsp;Poney</td><td>6 km</td><td>48 km</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;Poney (75,5–225 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td>
+    <td>4,5 km</td>
+    <td>36 km</td>
+  </tr>
+  <tr><td>&emsp;Chien de selle</td><td>6 km</td><td>48 km</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;Chien de selle (50,5–150 kg)<sup>[[Déplacements#NOTE1|1]]</sup></td>
+    <td>4,5 km</td>
+    <td>36 km</td>
+  </tr>
+  <tr><td>&emsp;Chariot ou charrette</td><td>3 km</td><td>24 km</td></tr>
+  <tr CLASS="premier"><td COLSPAN="3">**BATEAU (MODE DE LOCOMOTION)**</td></tr>
+  <tr>
+    <td>&emsp;Radeau ou barge (perche ou tracté)<sup>[[Déplacements#NOTE2|2]]</sup></td>
+    <td>750 m</td>
+    <td>7,5 km</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;Bateau à fond plat (rames)<sup>[[Déplacements#NOTE2|2]]</sup></td>
+    <td>1,5 km</td>
+    <td>15 km</td>
+  </tr>
+  <tr><td>&emsp;Barque (rames)<sup>[[Déplacements#NOTE2|2]]</sup></td><td>2,25 km</td><td>22,5 km</td></tr>
+  <tr CLASS="alt"><td>&emsp;Navire de haute mer (voiles)</td><td>3 km</td><td>72 km</td></tr>
+  <tr><td>&emsp;Vaisseau de guerre (voiles ou rames)</td><td>3,75 km</td><td>90 km</td></tr>
+  <tr CLASS="alt"><td>&emsp;Drakkar (voiles ou rames)</td><td>4,5 km</td><td>108 km</td></tr>
+  <tr><td>&emsp;Trirème (voiles ou rames)</td><td>6 km</td><td>144 km</td></tr>
+</table>
 
 
 {s:Reference|NOTE1}*(1) Les quadrupèdes, comme les chevaux, peuvent transporter une charge plus importante qu’un personnage. Voir les règles sur les [[Poids transportable|charges transportables]].*

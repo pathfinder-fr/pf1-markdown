@@ -31,7 +31,17 @@ Les munitions lancées par une [[arme à projectiles]] ayant d’un bonus d’al
 Les armes dont le bonus d’altération est égal ou supérieur à +3 sont capables de surpasser certains types de réduction des dégâts, et ce quel que soit le matériau dans lequel elles sont faites ou leur alignement. La table ci-dessous indique le bonus d’altération nécessaire en fonction du type de réduction des dégâts.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Type de RD</td><td>Bonus d’altération équivalent</td></tr><tr CLASS="premier"><td>Argent, fer froid</td><td>+3</td></tr><tr><td>Adamantium*</td><td>+4</td></tr><tr><td>Alignée</td><td>+5</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Ne permet pas d’ignorer la [[solidité]], contrairement à une arme en adamantium.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Type de RD</td><td>Bonus d’altération équivalent</td></tr>
+  <tr CLASS="premier"><td>Argent, fer froid</td><td>+3</td></tr>
+  <tr><td>Adamantium*</td><td>+4</td></tr>
+  <tr><td>Alignée</td><td>+5</td></tr>
+  <tr>
+    <td COLSPAN="2" CLASS="note">
+      *(*) Ne permet pas d’ignorer la [[solidité]], contrairement à une arme en adamantium.*
+    </td>
+  </tr>
+</table>
 
 
 #### Capacité de monstre

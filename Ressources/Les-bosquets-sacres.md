@@ -22,7 +22,120 @@ Un bosquet à peine éveillé a une "valeur" de 100 PO multiplié par le résult
 Les pouvoirs d'un bosquet sacré sont basés sur les pouvoirs qu'un sort de Druide ou de rôdeur pourrait donner à un objet magique. Chaque pouvoir aura (au choix) un "effet constant" ou trois utilisations par jour.{br}
 Le tableau qui suit donne le prix de chaque pouvoir en fonction de l'option "3x/jour" ou "effet constant", la durée du sort intervient dans le prix; les sorts dont la durée est la plus courte sont les plus couteux pour créer un "effet constant". Ce tableau peut également servir pour toute fabrication d'objet magique "constant".{br}{br}
 
-<table CLASS="tablo"><caption>Pouvoirs de Druide / Rôdeur</caption><tr CLASS="titre"><td>Niveau</td><td>1x jour</td><td>3x jour</td><td>1 round/niv</td><td>1 min/niv</td><td>10 min/niv</td><td>1 heure/niv</td><td>>24h</td></tr><tr CLASS="premier"></tr><tr><td>0</td><td>200 PO</td><td>600 PO</td><td>4.000 PO</td><td>2.000 PO</td><td>1.500 PO</td><td>1.000 PO</td><td>500 PO</td></tr><tr><td>1</td><td>400 PO</td><td>1.200 PO</td><td>8.000 PO</td><td>4.000 PO</td><td>3.000 PO</td><td>2.000 PO</td><td>1.000 PO</td></tr><tr><td>2</td><td>2.400 PO</td><td>7.200 PO</td><td>48.000 PO</td><td>24.000 PO</td><td>18.000 PO</td><td>12.000 PO</td><td>6.000 PO</td></tr><tr><td>3</td><td>6.000 PO</td><td>18.000 PO</td><td>120.000 PO</td><td>60.000 PO</td><td>45.000 PO</td><td>30.000 PO</td><td>15.000 PO</td></tr><tr><td>4</td><td>11.200 PO</td><td>33.600 PO</td><td>224.000 PO</td><td>112.000 PO</td><td>84.000 PO</td><td>56.000 PO</td><td>28.000 PO</td></tr><tr><td>5</td><td>18.000 PO</td><td>54.000 PO</td><td>360.000 PO</td><td>180.000 PO</td><td>135.000 PO</td><td>90.000 PO</td><td>45.000 PO</td></tr><tr><td>6</td><td>26.400 PO</td><td>79.200 PO</td><td>528.000 PO</td><td>264.000 PO</td><td>198.000 PO</td><td>132.000 PO</td><td>66.000 PO</td></tr><tr><td>7</td><td>36.400 PO</td><td>109.200 PO</td><td>728.000 PO</td><td>364.000 PO</td><td>273.000 PO</td><td>182.000 PO</td><td>91.000 PO</td></tr><tr><td>8</td><td>48.000 PO</td><td>144.000 PO</td><td>960.000 PO</td><td>480.000 PO</td><td>360.000 PO</td><td>240.000 PO</td><td>120.000 PO</td></tr><tr><td>9</td><td>61.200 PO</td><td>183.600 PO</td><td>1.224.000 PO</td><td>612.000 PO</td><td>459.000 PO</td><td>306.000 PO</td><td>153.000 PO</td></tr></table>
+<table CLASS="tablo">
+  <caption>Pouvoirs de Druide / Rôdeur</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>1x jour</td>
+    <td>3x jour</td>
+    <td>1 round/niv</td>
+    <td>1 min/niv</td>
+    <td>10 min/niv</td>
+    <td>1 heure/niv</td>
+    <td>>24h</td>
+  </tr>
+  <tr CLASS="premier"></tr>
+  <tr>
+    <td>0</td>
+    <td>200 PO</td>
+    <td>600 PO</td>
+    <td>4.000 PO</td>
+    <td>2.000 PO</td>
+    <td>1.500 PO</td>
+    <td>1.000 PO</td>
+    <td>500 PO</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>400 PO</td>
+    <td>1.200 PO</td>
+    <td>8.000 PO</td>
+    <td>4.000 PO</td>
+    <td>3.000 PO</td>
+    <td>2.000 PO</td>
+    <td>1.000 PO</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2.400 PO</td>
+    <td>7.200 PO</td>
+    <td>48.000 PO</td>
+    <td>24.000 PO</td>
+    <td>18.000 PO</td>
+    <td>12.000 PO</td>
+    <td>6.000 PO</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>6.000 PO</td>
+    <td>18.000 PO</td>
+    <td>120.000 PO</td>
+    <td>60.000 PO</td>
+    <td>45.000 PO</td>
+    <td>30.000 PO</td>
+    <td>15.000 PO</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>11.200 PO</td>
+    <td>33.600 PO</td>
+    <td>224.000 PO</td>
+    <td>112.000 PO</td>
+    <td>84.000 PO</td>
+    <td>56.000 PO</td>
+    <td>28.000 PO</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>18.000 PO</td>
+    <td>54.000 PO</td>
+    <td>360.000 PO</td>
+    <td>180.000 PO</td>
+    <td>135.000 PO</td>
+    <td>90.000 PO</td>
+    <td>45.000 PO</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>26.400 PO</td>
+    <td>79.200 PO</td>
+    <td>528.000 PO</td>
+    <td>264.000 PO</td>
+    <td>198.000 PO</td>
+    <td>132.000 PO</td>
+    <td>66.000 PO</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>36.400 PO</td>
+    <td>109.200 PO</td>
+    <td>728.000 PO</td>
+    <td>364.000 PO</td>
+    <td>273.000 PO</td>
+    <td>182.000 PO</td>
+    <td>91.000 PO</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>48.000 PO</td>
+    <td>144.000 PO</td>
+    <td>960.000 PO</td>
+    <td>480.000 PO</td>
+    <td>360.000 PO</td>
+    <td>240.000 PO</td>
+    <td>120.000 PO</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>61.200 PO</td>
+    <td>183.600 PO</td>
+    <td>1.224.000 PO</td>
+    <td>612.000 PO</td>
+    <td>459.000 PO</td>
+    <td>306.000 PO</td>
+    <td>153.000 PO</td>
+  </tr>
+</table>
 
 
 ### Exemples de Pouvoir

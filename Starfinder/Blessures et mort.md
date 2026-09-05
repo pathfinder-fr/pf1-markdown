@@ -48,7 +48,12 @@ Si vous êtes stabilisé et s’il vous reste suffisamment de points de persév�
 Si vous êtes inconscient et stabilisé, mais qu’il ne vous reste pas assez de PP pour poursuivre le combat, il y a une chance que vous parveniez à récupérer par vous-même. Au bout d’une heure, vous devez effectuer un test de Constitution (voir Les tests de caractéristique à la page 242). Si le résultat est égal ou supérieur à 20, vous récupérez 1 point de vie et reprenez conscience. Si le résultat du test est égal ou supérieur à 10 mais inférieur à 20, vous ne récupérez pas de point de vie mais restez stabilisé et vous devez effectuer un autre test de Constitution une heure plus tard. Si le résultat du test est égal ou inférieur à 9, vous mourez. Vous devez continuer à faire un test de Constitution une fois par heure jusqu’à reprendre conscience ou mourir. Au bout de 8 heures, si vous n’avez pas repris conscience ou si vous n’avez pas succombé, vous reprenez vos esprits et vous récupérez 1 point de vie par niveau de personnage, comme si vous aviez bénéficié d’une bonne nuit de repos (voir Récupérer des PV naturellement, plus loin). Si un soigneur ou un toubib s’occupe de vous lorsque vous êtes inconscient et stabilisé, il peut effectuer un test de Médecine DD 15 chaque heure avant votre test de Constitution. Si le test de Médecine est réussi, vous bénéficiez d’un bonus de +2 à votre test de Constitution et, si le résultat de votre test de Constitution est inférieur à 10, vous considérez qu’il est de 10 au minimum.
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Résultat du test de constitution</td><td>Conséquence</td></tr><tr CLASS="premier"><td>20 ou plus</td><td>Récupère 1 PV, reprend connaissance</td></tr><tr CLASS="alt"><td>10 à 19</td><td>Reste stabilisé, effectuez un nouveau test dans 1 heure</td></tr><tr><td>9 ou moins</td><td>Meurt</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Résultat du test de constitution</td><td>Conséquence</td></tr>
+  <tr CLASS="premier"><td>20 ou plus</td><td>Récupère 1 PV, reprend connaissance</td></tr>
+  <tr CLASS="alt"><td>10 à 19</td><td>Reste stabilisé, effectuez un nouveau test dans 1 heure</td></tr>
+  <tr><td>9 ou moins</td><td>Meurt</td></tr>
+</table>
 
 
 ### Subir des dégâts en étant agonisant ou stabilisé

@@ -25,7 +25,14 @@ L’un des quatre éléments imprègne le corps du sanguin qui peut puiser dans 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt" ID="tabligelem"><caption>lignage élémentaire</caption><tr CLASS="titre"><td>Élément</td><td>Type d'énergie</td><td>Déplacement élémentaire</td></tr><tr CLASS="premier"><td>Air</td><td>Électricité</td><td>Vol 18 mètres (bonne)</td></tr><tr><td>Eau</td><td>Froid</td><td>Nage 18 mètres</td></tr><tr><td>Feu</td><td>Feu</td><td>+9 mètres à la vitesse</td></tr><tr><td>Terre</td><td>Acide</td><td>Creusement 9 mètres</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt" ID="tabligelem">
+  <caption>lignage élémentaire</caption>
+  <tr CLASS="titre"><td>Élément</td><td>Type d'énergie</td><td>Déplacement élémentaire</td></tr>
+  <tr CLASS="premier"><td>Air</td><td>Électricité</td><td>Vol 18 mètres (bonne)</td></tr>
+  <tr><td>Eau</td><td>Froid</td><td>Nage 18 mètres</td></tr>
+  <tr><td>Feu</td><td>Feu</td><td>+9 mètres à la vitesse</td></tr>
+  <tr><td>Terre</td><td>Acide</td><td>Creusement 9 mètres</td></tr>
+</table>
 
 </div></div>Au niveau 1, le sanguin choisit un élément : air, eau, feu ou terre. Il ne peut plus en changer par la suite. Une partie de ses pouvoirs infligent des dégâts et offrent des résistances basés sur son élément, comme indiqué plus loin.
 

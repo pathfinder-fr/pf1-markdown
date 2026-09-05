@@ -100,7 +100,59 @@ Voici les options accessibles aux ondins, d’autres races adaptées peuvent s�
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Ascendance aquatique]]</td><td><sup>MR</sup></td><td>[[ondin (race)|Ondin]]</td><td>Gain du trait amphibien et aumgentation de la vitesse de nage</td></tr><tr CLASS="premier"><td>[[Flot des éléments]]</td><td><sup>*ISR*</sup></td><td>Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td></tr><tr CLASS="premier"><td>[[Frappe élémentaire]]</td><td><sup>*ISR*</sup></td><td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Inflige +1 dégât de l'énergie liée à la race du personnage</td></tr><tr CLASS="premier"><td>[[Mage de vapeur]]</td><td><sup>MR</sup></td><td>[[ondin (race)|Ondin]]</td><td>Lance des sorts de feu sous l'eau avec de la vapeur</td></tr><tr CLASS="premier"><td>[[Manoeuvre hydraulique|Manœuvre hydraulique]]</td><td><sup>MR</sup></td><td>[[ondin (race)|Ondin]], pouvoir magique poussée hydraulique</td><td>Utilise la *poussée hydraulique* pour effectuer plus de manoeuvres</td></tr><tr CLASS="premier"><td>[[Portail triton]]</td><td><sup>MR</sup></td><td>[[ondin (race)|Ondin]], pouvoir magique de poussée hydraulique, niveau 5</td><td>Convoque des alliés aquatiques avec les pouvoirs magiques raciaux</td></tr><tr CLASS="premier"><td>[[Peau deau|Peau d'eau]]</td><td><sup>MR</sup></td><td>[[ondin (race)|Ondin]]</td><td>Éteint les feux d'un simple contact</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ascendance aquatique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ondin (race)|Ondin]]</td>
+    <td>Gain du trait amphibien et aumgentation de la vitesse de nage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flot des éléments]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou
+      [[Sylphe (race)|sylphe]]
+    </td>
+    <td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe élémentaire]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td>
+    <td>Inflige +1 dégât de l'énergie liée à la race du personnage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Mage de vapeur]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ondin (race)|Ondin]]</td>
+    <td>Lance des sorts de feu sous l'eau avec de la vapeur</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Manoeuvre hydraulique|Manœuvre hydraulique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ondin (race)|Ondin]], pouvoir magique poussée hydraulique</td>
+    <td>Utilise la *poussée hydraulique* pour effectuer plus de manoeuvres</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Portail triton]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ondin (race)|Ondin]], pouvoir magique de poussée hydraulique, niveau 5</td>
+    <td>Convoque des alliés aquatiques avec les pouvoirs magiques raciaux</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Peau deau|Peau d'eau]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ondin (race)|Ondin]]</td>
+    <td>Éteint les feux d'un simple contact</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

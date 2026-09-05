@@ -9,23 +9,515 @@ Cette page reprend les dons des suppléments qui font l'objet d'une traduction o
 #### 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>dons du Cadre de Campagne : La Mer intérieure</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="50%">Avantages</td></tr><tr CLASS="premier"><td>[[Acolyte de la Nature]]</td><td><sup>CCMI</sup></td><td>Fidèle de la nature</td><td>Les sorts sont plus efficaces sur les plantes</td></tr><tr><td>[[Affinité nécromantique]]</td><td><sup>CCMI</sup></td><td>[[Constitution|Con]] 15</td><td>Le personnage résiste aux effets de nécromancie et guérit comme un mort-vivant</td></tr><tr><td>[[Battu par les vents]]</td><td><sup>CCMI</sup></td><td>–</td><td>Ignore de nombreux effets dus au mauvais temps</td></tr><tr><td>[[Bébé féerique]]</td><td><sup>CCMI</sup></td><td>don disponible uniquement au niveau 1</td><td>La guérison magique fonctionne mieux sur le personnage</td></tr><tr><td>[[Chasseur de démons]]*</td><td><sup>CCMI</sup></td><td>6 rangs en [[Connaissances]] (plans)</td><td>Connaissances et bonus de combat contre les démons</td></tr><tr><td>[[Combattant désespéré]]*</td><td><sup>CCMI</sup></td><td>–</td><td>Bonus de moral de +1 aux attaques de corps à corps et aux dégâts quand le personnage se trouve isolé</td></tr><tr><td>[[Danse du derviche]]*</td><td><sup>CCMI</sup></td><td>[[Dextérité|Dex]] 13, [[Attaque en finesse]], Maniement du cimeterre, 2 rangs en [[Représentation]] (danse)</td><td>Utilise le modificateur de [[Dextérité]] au lieu de Force au cimeterre</td></tr><tr><td>[[Discipliné]]*</td><td><sup>CCMI</sup></td><td>–</td><td>bonus de combat temporaire après avoir résisté à un effet de peur</td></tr><tr><td>[[Danseur à la baguette]]</td><td><sup>CCMI</sup></td><td>[[Dextérité|Dex]] 13, [[Esquive]], 5 rangs en [[Représentation]] (danse), [[Souplesse du serpent]]</td><td>Le personnage peut se déplacer avant et après avoir utilisé une baguette</td></tr><tr><td>[[Diseuse de bonne aventure]]</td><td><sup>CCMI</sup></td><td>Capacité à lancer des sorts de divination</td><td>Certains sorts de divination bénéficient d’un bonus de +1 au [[NLS]]</td></tr><tr><td>[[Duelliste à la falcata]]*</td><td><sup>CCMI</sup></td><td>[[Dextérité|Dex]] 13, [[Arme de prédilection]] (falcata), Maniement des armes exotiques (falcata), Maniement du bouclier (targe)</td><td>Gain d’un bonus de +1 à la [[CA]] et de +2 aux tests d’[[Acrobaties]]</td></tr><tr><td>[[Érudit]]</td><td><sup>CCMI</sup></td><td>–</td><td>Bonus de +2 à deux compétences de [[Connaissances]]</td></tr><tr><td>[[Esprit libre]]</td><td><sup>CCMI</sup></td><td>[[Charisme|Cha]] 13, Chaotique</td><td>bonus de +2 aux [[jds|jets de sauvegarde]] contre les effets mentaux et les tentatives de détection des pensées</td></tr><tr><td>[[Fauconnerie ancestrale]]</td><td><sup>CCMI</sup></td><td>[[Charisme|Cha]] 13, Affinité avec les animaux, compagnon animal</td><td>Bonus pour les compagnons animaux oiseaux de proie</td></tr><tr><td>[[Guérison athée]]</td><td><sup>CCMI</sup></td><td>aucune divinité protectrice</td><td>Soigne le personnage de 1d8 + 1 point de vie par niveau 1 fois par jour</td></tr><tr><td>[[Habitant du désert]]</td><td><sup>CCMI</sup></td><td>[[Constitution|Con]] 13, 1 rang en [[Survie]]</td><td>Réduit les effets de la faim, de la soif et de la chaleur épouvantable</td></tr><tr><td>[[Hamatulatsu]]*</td><td><sup>CCMI</sup></td><td>[[Arme de prédilection]] (mains nues), [[Science du combat à mains nues]]</td><td>Les attaques à mains nues peuvent infliger des dégâts perforants et rendre les adversaires fiévreux</td></tr><tr><td>[[Jouet du destin]]</td><td><sup>CCMI</sup></td><td>–</td><td>+1 aux jets de sauvegarde contre l’enchantement et peut avoir un bonus à un test une fois par jour</td></tr><tr><td>[[Magie des glyphes]]</td><td><sup>CCMI</sup></td><td>[[Intelligence|Int]] 15, [[Écriture de parchemins]]</td><td>Bonus au niveau de lanceur de sorts lors de l’utilisation de parchemins</td></tr><tr><td>[[Maître des duels]]*</td><td><sup>CCMI</sup></td><td>[[Arme de prédilection]] (épée de duel), [[Arme en main]], [[Attaque en finesse]], [[Maniement dune arme exotique|Maniement d'une arme exotique]] (épée de duel)</td><td>bonus à l'initiative et à la CA lors d'un combat à l’épée de duel</td></tr><tr><td>[[Noble rejeton]]</td><td><sup>CCMI</sup></td><td>[[Charisme|Cha]] 13, don disponible uniquement au niveau 1</td><td>+2 aux tests de [[Connaissances]]  (noblesse) et un avantage lié à sa famille</td></tr><tr><td>[[Nordique]]</td><td><sup>CCMI</sup></td><td>[[Constitution|Con]] 13, 1 rang en [[Survie]]</td><td>Diminue les effets des engelures, de l’hypothermie et du froid extrême</td></tr><tr><td>[[OEil mystique|Œil mystique]]</td><td><sup>CCMI</sup></td><td>4 rangs en [[Connaissances]]  (mystères), capacité à lancer des sorts profanes</td><td>Gagne un troisième œil avec des pouvoirs magiques</td></tr><tr><td>[[Ombre druidique]]</td><td><sup>CCMI</sup></td><td>Neutre Mauvais, divinité des Ténèbres</td><td>Ajoute de sinistres sorts à la liste de sorts du druide</td></tr><tr><td>[[Orateur prudent]]</td><td><sup>CCMI</sup></td><td>[[Sagesse|Sag]] 13</td><td>Bonus de +2 à certains tests de [[Bluff]] et jets de [[Volonté]]</td></tr><tr><td>[[Porte-étendard]]*</td><td><sup>CCMI</sup></td><td>[[Charisme|Cha]] 15</td><td>Donne des bonus aux alliés qui voient le drapeau porté par le personnage</td></tr><tr><td>[[Prédisposition pour laltitude|Prédisposition pour l’altitude]]</td><td><sup>CCMI</sup></td><td>[[Endurance]]</td><td>Automatiquement acclimaté à la haute altitude</td></tr><tr><td>[[Sang remarquable]]</td><td><sup>CCMI</sup></td><td>don disponible uniquement au niveau 1</td><td>Deux [[compétences]] au choix deviennent des compétences de classe</td></tr><tr><td>[[Signes secrets]]</td><td><sup>CCMI</sup></td><td>[[Intelligence|Int]] 13</td><td>Le personnage peut cacher les composantes gestuelles de ses incantations</td></tr><tr><td>[[Sort mélodieux]]</td><td><sup>CCMI</sup></td><td>musique de barde</td><td>Les incantations de sorts augmentent la durée de la représentation bardique</td></tr><tr><td>[[Sténo]]</td><td><sup>CCMI</sup></td><td>1 rang en [[Connaissances]]  (mystère), 1 rang en [[Linguistique]], 1 rang en [[Art de la magie]], grimoire</td><td>Personnage plus efficace lors de l’utilisation de son grimoire</td></tr><tr><td>[[Stoïque]]</td><td><sup>CCMI</sup></td><td>[[Volonté de fer]]</td><td>+1 aux jets de sauvegarde contre la peur, immunité limitée contre la peur</td></tr><tr><td>[[Survivant]]</td><td><sup>CCMI</sup></td><td>[[Constitution|Con]] 13, [[Dur à cuire]], [[Endurance]]</td><td>Quand le personnage agonise, il se stabilise plus facilement</td></tr><tr><td>[[Tacticien rusé]]*</td><td><sup>CCMI</sup></td><td>[[Attaques réflexes]], [[Vigilance]]</td><td>Le personnage est moins handicapé quand il est pris en tenailles</td></tr><tr><td>[[Tatouage mystique]]</td><td><sup>CCMI</sup></td><td>[[École renforcée]]</td><td>Gagne un tour de magie comme pouvoir magique</td></tr><tr><td>[[Totem spirituel]]</td><td><sup>CCMI</sup></td><td>Membre d’une tribu barbare</td><td>Gagne un avantage lié au thème de la tribu</td></tr><tr><td>[[Vendetta arcanique]]</td><td><sup>CCMI</sup></td><td>1 rang en [[Art de la magie]]</td><td>bonus de dégâts +2 contre les lanceurs de sorts profanes</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>dons du Cadre de Campagne : La Mer intérieure</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="27%">Conditions</td>
+    <td WIDTH="50%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Acolyte de la Nature]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>Fidèle de la nature</td>
+    <td>Les sorts sont plus efficaces sur les plantes</td>
+  </tr>
+  <tr>
+    <td>[[Affinité nécromantique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Constitution|Con]] 15</td>
+    <td>Le personnage résiste aux effets de nécromancie et guérit comme un mort-vivant</td>
+  </tr>
+  <tr>
+    <td>[[Battu par les vents]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>–</td>
+    <td>Ignore de nombreux effets dus au mauvais temps</td>
+  </tr>
+  <tr>
+    <td>[[Bébé féerique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>don disponible uniquement au niveau 1</td>
+    <td>La guérison magique fonctionne mieux sur le personnage</td>
+  </tr>
+  <tr>
+    <td>[[Chasseur de démons]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>6 rangs en [[Connaissances]] (plans)</td>
+    <td>Connaissances et bonus de combat contre les démons</td>
+  </tr>
+  <tr>
+    <td>[[Combattant désespéré]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>–</td>
+    <td>Bonus de moral de +1 aux attaques de corps à corps et aux dégâts quand le personnage se trouve isolé</td>
+  </tr>
+  <tr>
+    <td>[[Danse du derviche]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Dextérité|Dex]] 13, [[Attaque en finesse]], Maniement du cimeterre, 2 rangs en [[Représentation]] (danse)</td>
+    <td>Utilise le modificateur de [[Dextérité]] au lieu de Force au cimeterre</td>
+  </tr>
+  <tr>
+    <td>[[Discipliné]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>–</td>
+    <td>bonus de combat temporaire après avoir résisté à un effet de peur</td>
+  </tr>
+  <tr>
+    <td>[[Danseur à la baguette]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Dextérité|Dex]] 13, [[Esquive]], 5 rangs en [[Représentation]] (danse), [[Souplesse du serpent]]</td>
+    <td>Le personnage peut se déplacer avant et après avoir utilisé une baguette</td>
+  </tr>
+  <tr>
+    <td>[[Diseuse de bonne aventure]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>Capacité à lancer des sorts de divination</td>
+    <td>Certains sorts de divination bénéficient d’un bonus de +1 au [[NLS]]</td>
+  </tr>
+  <tr>
+    <td>[[Duelliste à la falcata]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>
+      [[Dextérité|Dex]] 13, [[Arme de prédilection]] (falcata), Maniement des armes exotiques (falcata), Maniement
+      du bouclier (targe)
+    </td>
+    <td>Gain d’un bonus de +1 à la [[CA]] et de +2 aux tests d’[[Acrobaties]]</td>
+  </tr>
+  <tr>
+    <td>[[Érudit]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>–</td>
+    <td>Bonus de +2 à deux compétences de [[Connaissances]]</td>
+  </tr>
+  <tr>
+    <td>[[Esprit libre]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Charisme|Cha]] 13, Chaotique</td>
+    <td>
+      bonus de +2 aux [[jds|jets de sauvegarde]] contre les effets mentaux et les tentatives de détection des
+      pensées
+    </td>
+  </tr>
+  <tr>
+    <td>[[Fauconnerie ancestrale]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Charisme|Cha]] 13, Affinité avec les animaux, compagnon animal</td>
+    <td>Bonus pour les compagnons animaux oiseaux de proie</td>
+  </tr>
+  <tr>
+    <td>[[Guérison athée]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>aucune divinité protectrice</td>
+    <td>Soigne le personnage de 1d8 + 1 point de vie par niveau 1 fois par jour</td>
+  </tr>
+  <tr>
+    <td>[[Habitant du désert]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Constitution|Con]] 13, 1 rang en [[Survie]]</td>
+    <td>Réduit les effets de la faim, de la soif et de la chaleur épouvantable</td>
+  </tr>
+  <tr>
+    <td>[[Hamatulatsu]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Arme de prédilection]] (mains nues), [[Science du combat à mains nues]]</td>
+    <td>Les attaques à mains nues peuvent infliger des dégâts perforants et rendre les adversaires fiévreux</td>
+  </tr>
+  <tr>
+    <td>[[Jouet du destin]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>–</td>
+    <td>+1 aux jets de sauvegarde contre l’enchantement et peut avoir un bonus à un test une fois par jour</td>
+  </tr>
+  <tr>
+    <td>[[Magie des glyphes]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Intelligence|Int]] 15, [[Écriture de parchemins]]</td>
+    <td>Bonus au niveau de lanceur de sorts lors de l’utilisation de parchemins</td>
+  </tr>
+  <tr>
+    <td>[[Maître des duels]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>
+      [[Arme de prédilection]] (épée de duel), [[Arme en main]], [[Attaque en finesse]], [[Maniement dune arme
+      exotique|Maniement d'une arme exotique]] (épée de duel)
+    </td>
+    <td>bonus à l'initiative et à la CA lors d'un combat à l’épée de duel</td>
+  </tr>
+  <tr>
+    <td>[[Noble rejeton]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Charisme|Cha]] 13, don disponible uniquement au niveau 1</td>
+    <td>+2 aux tests de [[Connaissances]]  (noblesse) et un avantage lié à sa famille</td>
+  </tr>
+  <tr>
+    <td>[[Nordique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Constitution|Con]] 13, 1 rang en [[Survie]]</td>
+    <td>Diminue les effets des engelures, de l’hypothermie et du froid extrême</td>
+  </tr>
+  <tr>
+    <td>[[OEil mystique|Œil mystique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>4 rangs en [[Connaissances]]  (mystères), capacité à lancer des sorts profanes</td>
+    <td>Gagne un troisième œil avec des pouvoirs magiques</td>
+  </tr>
+  <tr>
+    <td>[[Ombre druidique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>Neutre Mauvais, divinité des Ténèbres</td>
+    <td>Ajoute de sinistres sorts à la liste de sorts du druide</td>
+  </tr>
+  <tr>
+    <td>[[Orateur prudent]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Sagesse|Sag]] 13</td>
+    <td>Bonus de +2 à certains tests de [[Bluff]] et jets de [[Volonté]]</td>
+  </tr>
+  <tr>
+    <td>[[Porte-étendard]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Charisme|Cha]] 15</td>
+    <td>Donne des bonus aux alliés qui voient le drapeau porté par le personnage</td>
+  </tr>
+  <tr>
+    <td>[[Prédisposition pour laltitude|Prédisposition pour l’altitude]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Endurance]]</td>
+    <td>Automatiquement acclimaté à la haute altitude</td>
+  </tr>
+  <tr>
+    <td>[[Sang remarquable]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>don disponible uniquement au niveau 1</td>
+    <td>Deux [[compétences]] au choix deviennent des compétences de classe</td>
+  </tr>
+  <tr>
+    <td>[[Signes secrets]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Intelligence|Int]] 13</td>
+    <td>Le personnage peut cacher les composantes gestuelles de ses incantations</td>
+  </tr>
+  <tr>
+    <td>[[Sort mélodieux]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>musique de barde</td>
+    <td>Les incantations de sorts augmentent la durée de la représentation bardique</td>
+  </tr>
+  <tr>
+    <td>[[Sténo]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>1 rang en [[Connaissances]]  (mystère), 1 rang en [[Linguistique]], 1 rang en [[Art de la magie]], grimoire</td>
+    <td>Personnage plus efficace lors de l’utilisation de son grimoire</td>
+  </tr>
+  <tr>
+    <td>[[Stoïque]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Volonté de fer]]</td>
+    <td>+1 aux jets de sauvegarde contre la peur, immunité limitée contre la peur</td>
+  </tr>
+  <tr>
+    <td>[[Survivant]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Constitution|Con]] 13, [[Dur à cuire]], [[Endurance]]</td>
+    <td>Quand le personnage agonise, il se stabilise plus facilement</td>
+  </tr>
+  <tr>
+    <td>[[Tacticien rusé]]*</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[Attaques réflexes]], [[Vigilance]]</td>
+    <td>Le personnage est moins handicapé quand il est pris en tenailles</td>
+  </tr>
+  <tr>
+    <td>[[Tatouage mystique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>[[École renforcée]]</td>
+    <td>Gagne un tour de magie comme pouvoir magique</td>
+  </tr>
+  <tr>
+    <td>[[Totem spirituel]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>Membre d’une tribu barbare</td>
+    <td>Gagne un avantage lié au thème de la tribu</td>
+  </tr>
+  <tr>
+    <td>[[Vendetta arcanique]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>1 rang en [[Art de la magie]]</td>
+    <td>bonus de dégâts +2 contre les lanceurs de sorts profanes</td>
+  </tr>
+</table>
 
 
 #### 
 
-<table CLASS="tablo autoalt toutgauche"><caption>dons de Magie de la Mer intérieure</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="50%">Avantages</td></tr><tr CLASS="premier"><td>[[Agression de lombre|Agression de l'ombre]]</td><td><sup>MMI</sup></td><td>[[École renforcée]] (illusion), NLS 5</td><td>Les chimères du personnage parviennent à blesser ses adversaires</td></tr><tr><td>[[Création de tatouages magiques]]</td><td><sup>MMI</sup></td><td>[[Artisanat]] (calligraphie, peintures ou tatouages) 5 rangs, [[NLS]] 5</td><td>Le personnage sait créer des tatouages magiques</td></tr><tr><td>[[Étreinte de lombre|Étreinte de l'ombre]]</td><td><sup>MMI</sup></td><td>[[Sort ténébreux]], [[Sort umbral]]</td><td>Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort</td></tr><tr><td>[[Fausse incantation]]</td><td><sup>MMI</sup></td><td>[[Aptitude magique]], [[Bluff]] 1 rang, [[Escamotage]] 1 rang</td><td>Le personnage peut se faire passer pour un lanceur de sorts</td></tr><tr><td>[[Faux focalisateur]]</td><td><sup>MMI</sup></td><td>[[Connaissances]] (religion) 1 rang, aptitude à lancer des sorts profanes</td><td>Le personnage peut utiliser un focalisateur divin pour lancer des sorts profanes.</td></tr><tr><td>[[Sort ténébreux]]</td><td><sup>MMI</sup></td><td>–</td><td>Les sorts lancés dans une zone moins éclairée sont plus puissants</td></tr><tr><td>[[Sort umbral]]</td><td><sup>MMI</sup></td><td>Sort ténébreux</td><td>La créature ou la zone ciblée irradie les ténèbres</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>dons de Magie de la Mer intérieure</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="27%">Conditions</td>
+    <td WIDTH="50%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Agression de lombre|Agression de l'ombre]]</td>
+    <td><sup>MMI</sup></td>
+    <td>[[École renforcée]] (illusion), NLS 5</td>
+    <td>Les chimères du personnage parviennent à blesser ses adversaires</td>
+  </tr>
+  <tr>
+    <td>[[Création de tatouages magiques]]</td>
+    <td><sup>MMI</sup></td>
+    <td>[[Artisanat]] (calligraphie, peintures ou tatouages) 5 rangs, [[NLS]] 5</td>
+    <td>Le personnage sait créer des tatouages magiques</td>
+  </tr>
+  <tr>
+    <td>[[Étreinte de lombre|Étreinte de l'ombre]]</td>
+    <td><sup>MMI</sup></td>
+    <td>[[Sort ténébreux]], [[Sort umbral]]</td>
+    <td>Les sorts du registre de l'obscurité enchevêtrent ceux qui se trouvent dans la zone d'effet du sort</td>
+  </tr>
+  <tr>
+    <td>[[Fausse incantation]]</td>
+    <td><sup>MMI</sup></td>
+    <td>[[Aptitude magique]], [[Bluff]] 1 rang, [[Escamotage]] 1 rang</td>
+    <td>Le personnage peut se faire passer pour un lanceur de sorts</td>
+  </tr>
+  <tr>
+    <td>[[Faux focalisateur]]</td>
+    <td><sup>MMI</sup></td>
+    <td>[[Connaissances]] (religion) 1 rang, aptitude à lancer des sorts profanes</td>
+    <td>Le personnage peut utiliser un focalisateur divin pour lancer des sorts profanes.</td>
+  </tr>
+  <tr>
+    <td>[[Sort ténébreux]]</td>
+    <td><sup>MMI</sup></td>
+    <td>–</td>
+    <td>Les sorts lancés dans une zone moins éclairée sont plus puissants</td>
+  </tr>
+  <tr>
+    <td>[[Sort umbral]]</td>
+    <td><sup>MMI</sup></td>
+    <td>Sort ténébreux</td>
+    <td>La créature ou la zone ciblée irradie les ténèbres</td>
+  </tr>
+</table>
 
 </center>
 
 #### 
 
-<table CLASS="tablo autoalt toutgauche"><caption>dons de Guide des PNJ Rivaux</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="50%">Avantages</td></tr><tr CLASS="premier"><td>[[Attaque dencerclement|Attaque d'encerclement]]*</td><td><sup>MPNJ</sup></td><td>[[souplesse du serpent]], [[esquive]], BBA+3</td><td>Aux côtés d’un allié, le personnage sait engager le combat contre des ennemis de grande taille qui éprouveront alors des difficultés à répliquer contre ces deux assaillants.</td></tr><tr CLASS="premier"><td>[[Compagnon animal vampirique]]</td><td><sup>MPNJ</sup></td><td>[[Vampire, archétype|Vampire]], [[Cha|Charisme]] 18, aptitude de classe de compagnon animal, niveau suffisant</td><td>Le personnage obtient un compagnon animal doté de capacités du vampire</td></tr><tr CLASS="premier"><td>[[Fouet-serpent]]*</td><td><sup>MPNJ</sup></td><td>[[attaque en finesse]], maniement du fouet</td><td>Le personnage peut utiliser son fouet pour désarmer ou faire tomber plusieurs cibles à portée et les rapprocher de lui</td></tr><tr><td>&emsp;[[Fouet-serpent supérieur]]</td><td><sup>MPNJ</sup></td><td>[[Fouet-serpent]], BBA+4</td><td>Le personnage qui réussit une manoeuvre avec Fouet-serpent peut repositionner son adversaire à portée d'allonge</td></tr><tr CLASS="premier"><td>[[Héritage chacal]]</td><td><sup>MPNJ</sup></td><td>humanoïde, doit être choisi au niveau 1</td><td>bonus racial de +2 aux jets de sauvegarde contre les effets mentaux et aux tests de Perception</td></tr><tr CLASS="premier"><td>[[Placage]]*</td><td><sup>MPNJ</sup></td><td>[[Expertise du combat]], [[Science du croc-en-jambe]]</td><td>Les alliés du personnage l'aident à faire tomber un adversaire plus grand que lui</td></tr><tr CLASS="premier"><td>[[Sprint tueur]]*</td><td><sup>MPNJ</sup></td><td>[[Attaque éclair]], [[Esquive]], [[Souplesse du serpent]], [[BBA]]+13</td><td>Le personnage peut se déplacer de la moitié de sa vitesse pour infliger un coup de grâce sans provoquer d'attaque d'opportunité</td></tr><tr CLASS="premier"><td>[[Trancheur de pied]]*</td><td><sup>MPNJ</sup></td><td>-</td><td>Par une action simple, le personnage qui blesse un adversaire plus grand que lui réduit sa vitesse de moitié.</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>dons de Guide des PNJ Rivaux</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="27%">Conditions</td>
+    <td WIDTH="50%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Attaque dencerclement|Attaque d'encerclement]]*</td>
+    <td><sup>MPNJ</sup></td>
+    <td>[[souplesse du serpent]], [[esquive]], BBA+3</td>
+    <td>
+      Aux côtés d’un allié, le personnage sait engager le combat contre des ennemis de grande taille qui éprouveront
+      alors des difficultés à répliquer contre ces deux assaillants.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Compagnon animal vampirique]]</td>
+    <td><sup>MPNJ</sup></td>
+    <td>
+      [[Vampire, archétype|Vampire]], [[Cha|Charisme]] 18, aptitude de classe de compagnon animal, niveau suffisant
+    </td>
+    <td>Le personnage obtient un compagnon animal doté de capacités du vampire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fouet-serpent]]*</td>
+    <td><sup>MPNJ</sup></td>
+    <td>[[attaque en finesse]], maniement du fouet</td>
+    <td>
+      Le personnage peut utiliser son fouet pour désarmer ou faire tomber plusieurs cibles à portée et les
+      rapprocher de lui
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Fouet-serpent supérieur]]</td>
+    <td><sup>MPNJ</sup></td>
+    <td>[[Fouet-serpent]], BBA+4</td>
+    <td>
+      Le personnage qui réussit une manoeuvre avec Fouet-serpent peut repositionner son adversaire à portée
+      d'allonge
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Héritage chacal]]</td>
+    <td><sup>MPNJ</sup></td>
+    <td>humanoïde, doit être choisi au niveau 1</td>
+    <td>bonus racial de +2 aux jets de sauvegarde contre les effets mentaux et aux tests de Perception</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Placage]]*</td>
+    <td><sup>MPNJ</sup></td>
+    <td>[[Expertise du combat]], [[Science du croc-en-jambe]]</td>
+    <td>Les alliés du personnage l'aident à faire tomber un adversaire plus grand que lui</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sprint tueur]]*</td>
+    <td><sup>MPNJ</sup></td>
+    <td>[[Attaque éclair]], [[Esquive]], [[Souplesse du serpent]], [[BBA]]+13</td>
+    <td>
+      Le personnage peut se déplacer de la moitié de sa vitesse pour infliger un coup de grâce sans provoquer
+      d'attaque d'opportunité
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Trancheur de pied]]*</td>
+    <td><sup>MPNJ</sup></td>
+    <td>-</td>
+    <td>
+      Par une action simple, le personnage qui blesse un adversaire plus grand que lui réduit sa vitesse de moitié.
+    </td>
+  </tr>
+</table>
 
 </center>
 
 #### 
 
-<table CLASS="tablo autoalt toutgauche"><caption>dons de Recueil de la Société des Éclaireurs</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="50%">Avantages</td></tr><tr CLASS="premier"><td>[[Activation mystérieuse]]</td><td><sup>RSE</sup></td><td>12 rangs en Utilisation d’objets magiques</td><td>Augmente le NLS de l'objet utilisé en dépassant le test d'UOM</td></tr><tr CLASS="premier"><td>[[Avantage ésotérique]]</td><td><sup>RSE</sup></td><td>3 rangs en Connaissances (mystères, exploration souterraine, folklore local, nature, plans ou religion)</td><td>Utilisez vos Connaissances pour traiter les capacités d'un ennemi identifié comme si elles étaient moins puissantes</td></tr><tr CLASS="premier"><td>[[Esprit tenace]]</td><td><sup>RSE</sup></td><td>Int 15, Sag 15 ou Cha 15</td><td>Faites un test de Volonté pour conserver votre sort lorsque vous manquez de concentration pour lancer un sort sur la défensive</td></tr><tr CLASS="premier"><td>[[Frappe patiente]]*</td><td><sup>RSE</sup></td><td>Int 13</td><td>Préparez une action durant une action complexe pour bénéficier d'un bonus de +2 à votre jet d'attaque</td></tr><tr CLASS="premier"><td>[[Harmonisation durgence|Harmonisation d’urgence]]</td><td><sup>RSE</sup></td><td>7 rangs en Art de la magie</td><td>Modifiez les propriétés d'un sort d'abjuration ou de transmutation en cours</td></tr><tr CLASS="premier"><td>[[Mémoire collective]] (travail en équipe)</td><td><sup>RSE</sup></td><td>-</td><td>Utilisez aider quelqu'un sur les tests de Connaissances d'un allié</td></tr><tr CLASS="premier"><td>[[Préparation rapide]]</td><td><sup>RSE</sup></td><td>Capacité à préparer ses sorts</td><td>Préparez vos sorts en moitié moins de temps</td></tr><tr CLASS="premier"><td>[[Réduire ses pertes]]</td><td><sup>RSE</sup></td><td>[[For]] 13, 1 rang en [[Acrobaties]]</td><td>Ramassez des objets ou des alliés lorsque vous faites retraite, traites votre Force comme de 2 points supérieurs pour calculer votre capacité de transport</td></tr><tr CLASS="premier"><td>[[Renom]]</td><td><sup>RSE</sup></td><td>-</td><td>Considérez votre réputation comme supérieure de 2 points à ce qu'elle est dans les communautés plus importantes</td></tr><tr CLASS="premier"><td>[[Science du travail alimentaire]]</td><td><sup>RSE</sup></td><td>Possibilité de faire un test de travail alimentaire</td><td>bonus de +3 sur les tests de travail alimentaire</td></tr><tr CLASS="premier"><td>[[Travail en équipe sournois]]* (travail en équipe)</td><td><sup>RSE</sup></td><td>[[Expertise du combat]], [[Science du sale coup]]</td><td>Augmente la durée de la pénalité liée au sale coup de votre allié d'un round</td></tr><tr><td>[[Science du travail en équipe sournois]]* (travail en équipe)</td><td><sup>RSE</sup></td><td>[[Expertise du combat]], [[Science du sale coup]], [[Travail en équipe sournois]], [[BBA]]+6</td><td>Tente un sale coup lorsqu'un allié proche en fait autant</td></tr><tr CLASS="premier"><td>[[Spontanéité planifiée]]</td><td><sup>RSE</sup></td><td>9 rangs en [[Connaissances]] (mystères), capacité à préparer et lancer des sorts de niveau 4</td><td>Augmentez vos options de sort en préparant deux sorts dans un emplacement</td></tr><tr CLASS="premier"><td>[[Spontanéité polyvalente]]</td><td><sup>RSE</sup></td><td>Int 13 ou Sag 13, capacité à lancer des sorts spontanés de niveau 2</td><td>obtenez temporairement l'accès à un sort que nous ne pouvez connaître autrement</td></tr><tr CLASS="premier"><td>[[Voyageur de la tapisserie]]</td><td><sup>RSE</sup></td><td>Personnage de niveau 5</td><td>Lancez les sorts de téléportation avec un plus haut niveau de lanceur, considérez certains lieux comme des destinations plus familières.</td></tr><tr CLASS="premier"><td>[[Dilettante]]</td><td><sup>RSE</sup></td><td>2 rangs dans 5 [[Connaissances]] différentes</td><td>+2 aux tests de Connaissances dans lesquelles vous avez entre 1 et 5 rangs</td></tr><tr CLASS="premier"><td>[[Inséparables]]</td><td><sup>RSE</sup></td><td>Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]] ou [[Sorcière#FAMILIER|familier]]</td><td>Les capacités du compagnon ou du familier sont calculées comme si vous étiez d'un plus haut niveau</td></tr><tr CLASS="premier"><td>[[Inversion amicale]]</td><td><sup>RSE</sup></td><td>[[BBA]] +1</td><td>Échange de place avec un allié pendant un pas de placement</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>dons de Recueil de la Société des Éclaireurs</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="27%">Conditions</td>
+    <td WIDTH="50%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Activation mystérieuse]]</td>
+    <td><sup>RSE</sup></td>
+    <td>12 rangs en Utilisation d’objets magiques</td>
+    <td>Augmente le NLS de l'objet utilisé en dépassant le test d'UOM</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Avantage ésotérique]]</td>
+    <td><sup>RSE</sup></td>
+    <td>3 rangs en Connaissances (mystères, exploration souterraine, folklore local, nature, plans ou religion)</td>
+    <td>
+      Utilisez vos Connaissances pour traiter les capacités d'un ennemi identifié comme si elles étaient moins
+      puissantes
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Esprit tenace]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Int 15, Sag 15 ou Cha 15</td>
+    <td>
+      Faites un test de Volonté pour conserver votre sort lorsque vous manquez de concentration pour lancer un sort
+      sur la défensive
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe patiente]]*</td>
+    <td><sup>RSE</sup></td>
+    <td>Int 13</td>
+    <td>Préparez une action durant une action complexe pour bénéficier d'un bonus de +2 à votre jet d'attaque</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Harmonisation durgence|Harmonisation d’urgence]]</td>
+    <td><sup>RSE</sup></td>
+    <td>7 rangs en Art de la magie</td>
+    <td>Modifiez les propriétés d'un sort d'abjuration ou de transmutation en cours</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Mémoire collective]] (travail en équipe)</td>
+    <td><sup>RSE</sup></td>
+    <td>-</td>
+    <td>Utilisez aider quelqu'un sur les tests de Connaissances d'un allié</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Préparation rapide]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Capacité à préparer ses sorts</td>
+    <td>Préparez vos sorts en moitié moins de temps</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Réduire ses pertes]]</td>
+    <td><sup>RSE</sup></td>
+    <td>[[For]] 13, 1 rang en [[Acrobaties]]</td>
+    <td>
+      Ramassez des objets ou des alliés lorsque vous faites retraite, traites votre Force comme de 2 points
+      supérieurs pour calculer votre capacité de transport
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Renom]]</td>
+    <td><sup>RSE</sup></td>
+    <td>-</td>
+    <td>
+      Considérez votre réputation comme supérieure de 2 points à ce qu'elle est dans les communautés plus
+      importantes
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Science du travail alimentaire]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Possibilité de faire un test de travail alimentaire</td>
+    <td>bonus de +3 sur les tests de travail alimentaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Travail en équipe sournois]]* (travail en équipe)</td>
+    <td><sup>RSE</sup></td>
+    <td>[[Expertise du combat]], [[Science du sale coup]]</td>
+    <td>Augmente la durée de la pénalité liée au sale coup de votre allié d'un round</td>
+  </tr>
+  <tr>
+    <td>[[Science du travail en équipe sournois]]* (travail en équipe)</td>
+    <td><sup>RSE</sup></td>
+    <td>[[Expertise du combat]], [[Science du sale coup]], [[Travail en équipe sournois]], [[BBA]]+6</td>
+    <td>Tente un sale coup lorsqu'un allié proche en fait autant</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spontanéité planifiée]]</td>
+    <td><sup>RSE</sup></td>
+    <td>9 rangs en [[Connaissances]] (mystères), capacité à préparer et lancer des sorts de niveau 4</td>
+    <td>Augmentez vos options de sort en préparant deux sorts dans un emplacement</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spontanéité polyvalente]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Int 13 ou Sag 13, capacité à lancer des sorts spontanés de niveau 2</td>
+    <td>obtenez temporairement l'accès à un sort que nous ne pouvez connaître autrement</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Voyageur de la tapisserie]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Personnage de niveau 5</td>
+    <td>
+      Lancez les sorts de téléportation avec un plus haut niveau de lanceur, considérez certains lieux comme des
+      destinations plus familières.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dilettante]]</td>
+    <td><sup>RSE</sup></td>
+    <td>2 rangs dans 5 [[Connaissances]] différentes</td>
+    <td>+2 aux tests de Connaissances dans lesquelles vous avez entre 1 et 5 rangs</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Inséparables]]</td>
+    <td><sup>RSE</sup></td>
+    <td>Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]] ou [[Sorcière#FAMILIER|familier]]</td>
+    <td>Les capacités du compagnon ou du familier sont calculées comme si vous étiez d'un plus haut niveau</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Inversion amicale]]</td>
+    <td><sup>RSE</sup></td>
+    <td>[[BBA]] +1</td>
+    <td>Échange de place avec un allié pendant un pas de placement</td>
+  </tr>
+</table>
 
 </center>

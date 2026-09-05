@@ -17,7 +17,266 @@ Categories:
 </div>{s:AO}*Les médiums attirent les esprits à eux et font de leur corps le réceptacle d’entités astrales évoquées dans les mythes et légendes. Un médium tente toujours de trouver le juste équilibre entre son besoin des pouvoirs que lui confèrent les esprits et le danger qu’il court à chaque fois qu’il les autorise à prendre le contrôle de son âme.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEMEDIUM}Le médium</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Médium#ASTUCES|Astuces]], [[Médium#BONUSSPIRITUEL|bonus spirituel +1]], [[Médium#ESPRIT|esprit]], [[Médium#POUVOIRSPIRITUEL|pouvoir spirituel (mineur)]], [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d6]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Médium#SÉANCEMÉDIUMNIQUEDEGROUPE|Séance médiumnique de groupe]], [[Médium#TABOU|tabou]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Médium#CANALISATIONDAPPARITIONS|Canalisation d'apparitions]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +2]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Médium#CANALISATIONDESITES|Canalisation de sites]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (intermédiaire)]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Médium#CANALISATIONLIÉE|Canalisation liée]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +3]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Médium#CONCILIATION|Conciliation]]</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d8]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (majeur)]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +4]]</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Médium#QUESTIONNEMENTDESESPRITS|Questionnement des esprits]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Médium#VOYAGEASTRAL|Voyage astral]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Médium#TRANSEDESTROIS|Transe des trois]]</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +5]]</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (suprême)]]</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Médium#GRANDEÂME|Grande âme]]</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Médium#MAÎTRISESPIRITUELLE|Maîtrise spirituelle]]</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d10]], [[Médium#BONUSSPIRITUEL|bonus spirituel +6]], [[Médium#GUIDEASTRAL|guide astral]]</td><td>4</td><td>4</td><td>3</td><td>2</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEMEDIUM}Le médium</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Médium#ASTUCES|Astuces]], [[Médium#BONUSSPIRITUEL|bonus spirituel +1]], [[Médium#ESPRIT|esprit]],
+      [[Médium#POUVOIRSPIRITUEL|pouvoir spirituel (mineur)]], [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de
+      puissance spirituelle 1d6]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Médium#SÉANCEMÉDIUMNIQUEDEGROUPE|Séance médiumnique de groupe]], [[Médium#TABOU|tabou]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Médium#CANALISATIONDAPPARITIONS|Canalisation d'apparitions]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +2]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Médium#CANALISATIONDESITES|Canalisation de sites]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (intermédiaire)]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Médium#CANALISATIONLIÉE|Canalisation liée]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +3]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Médium#CONCILIATION|Conciliation]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d8]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (majeur)]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +4]]</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Médium#QUESTIONNEMENTDESESPRITS|Questionnement des esprits]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Médium#VOYAGEASTRAL|Voyage astral]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Médium#TRANSEDESTROIS|Transe des trois]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Médium#BONUSSPIRITUEL|Bonus spirituel +5]]</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Médium#POUVOIRSPIRITUEL|Pouvoir spirituel (suprême)]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Médium#GRANDEÂME|Grande âme]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Médium#MAÎTRISESPIRITUELLE|Maîtrise spirituelle]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Médium#ACCÈSDEPUISSANCESPIRITUELLE|accès de puissance spirituelle 1d10]], [[Médium#BONUSSPIRITUEL|bonus
+      spirituel +6]], [[Médium#GUIDEASTRAL|guide astral]]
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+</table>
 
 
 **Rôle.** Les médiums sont très polyvalents et peuvent répondre aux besoins de leur groupe en canalisant l’esprit approprié, quelles que soient les situations.
@@ -43,7 +302,31 @@ Les médiums sont formés au maniement de toutes les armes courantes, ainsi qu�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLESORTSDUMÉDIUMCONNUS}Sorts du médium connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="5" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>8</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>-</td><td>-</td></tr><tr><td>10</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>11</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>4</td><td>2</td></tr><tr><td>14</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLESORTSDUMÉDIUMCONNUS}Sorts du médium connus</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="5" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>14</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
+</table>
 
 </div></div>{s:Reference|SORTSDUMÉDUIM}
 #### Sorts

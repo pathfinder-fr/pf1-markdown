@@ -15,7 +15,130 @@ Un dévoué qui souhaite devenir un des prêtres les plus dignes de confiance du
 
 <center>
 
-<table CLASS="tablo"><caption>Le faux prêtre</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#PREMIERRITUEL|premier rituel]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 1d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Prêtre razmirien#MAITRESDESMENSONGES|Maître des mensonges]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 2d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#DEUXIEMERITUEL|deuxième rituel]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 3d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Prêtre razmirien#CONVERSION|Conversion]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 4d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Prêtre razmirien#TROISIEMERITUEL|Troisième rituel]]</td><td CLASS="gauche">—</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 5d6, [[Prêtre razmirien#VERITABLEIMPOSTEUR|véritable imposteur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le faux prêtre</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#PREMIERRITUEL|premier rituel]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 1d6</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Prêtre razmirien#MAITRESDESMENSONGES|Maître des mensonges]]</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 2d6</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#DEUXIEMERITUEL|deuxième
+      rituel]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 3d6</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Prêtre razmirien#CONVERSION|Conversion]]</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 4d6</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Prêtre razmirien#TROISIEMERITUEL|Troisième rituel]]</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 5d6, [[Prêtre
+      razmirien#VERITABLEIMPOSTEUR|véritable imposteur]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

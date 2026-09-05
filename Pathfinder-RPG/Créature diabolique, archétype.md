@@ -26,7 +26,15 @@ Le contrat comprend toujours une clause stipulant que l’âme du signataire est
 - **Attaques spéciales**. La créature gagne le pouvoir universel de monstre de [[convocation (capacité)|convocation]], ce qui lui permet d’invoquer un diable une fois par jour, avec 100% de chances de réussite. Le diable reste à ses côtés pendant 1 heure. C’est le [[NLS|niveau de lanceur de sorts]] ou le nombre de DV de la créature qui détermine le type de diable qu’elle peut invoquer et le niveau de sort effectif du pouvoir, selon la table suivante.
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Niveau de lanceur de sorts</td><td>Diable</td><td>Niveau du sort</td></tr><tr CLASS="premier"><td>3</td><td>[[Lémure]]</td><td>2</td></tr><tr><td>9</td><td>[[Diable barbu]]</td><td>5</td></tr><tr><td>11</td><td>[[Érinye]]</td><td>6</td></tr><tr><td>13</td><td>[[Diable osseux]]</td><td>7</td></tr><tr><td>15</td><td>[[Diable barbelé]]</td><td>8</td></tr><tr><td>17</td><td>[[Diable des glaces]]</td><td>9</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Niveau de lanceur de sorts</td><td>Diable</td><td>Niveau du sort</td></tr>
+  <tr CLASS="premier"><td>3</td><td>[[Lémure]]</td><td>2</td></tr>
+  <tr><td>9</td><td>[[Diable barbu]]</td><td>5</td></tr>
+  <tr><td>11</td><td>[[Érinye]]</td><td>6</td></tr>
+  <tr><td>13</td><td>[[Diable osseux]]</td><td>7</td></tr>
+  <tr><td>15</td><td>[[Diable barbelé]]</td><td>8</td></tr>
+  <tr><td>17</td><td>[[Diable des glaces]]</td><td>9</td></tr>
+</table>
 
 
 
@@ -53,7 +61,27 @@ Le contrat comprend toujours une clause stipulant que l’âme du signataire est
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Diable</td><td>For</td><td>Dex</td><td>Con</td><td>Int</td><td>Sag</td><td>Cha</td></tr><tr><td>Accusateur</td><td>—</td><td>+2</td><td>+2</td><td>—</td><td>+2</td><td>—</td></tr><tr><td>Barbelé, barbu, de l’ost</td><td>+2</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Trompeur</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>Osseux, des glaces</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td><td>—</td></tr><tr><td>Des contrats, vestale</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>De la noyade, cornu</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>+2</td></tr><tr><td>Érinyes</td><td>—</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>+2</td></tr><tr><td>Immolateur</td><td>+2</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>+2</td></tr><tr><td>Diablotin</td><td>—</td><td>+2</td><td>—</td><td>+2</td><td>—</td><td>+2</td></tr><tr><td>Némésis, diantrefosse</td><td>+2</td><td>dans</td><td>trois</td><td>valeurs</td><td>de</td><td>caractéristique différentes</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Diable</td><td>For</td><td>Dex</td><td>Con</td><td>Int</td><td>Sag</td><td>Cha</td></tr>
+  <tr><td>Accusateur</td><td>—</td><td>+2</td><td>+2</td><td>—</td><td>+2</td><td>—</td></tr>
+  <tr><td>Barbelé, barbu, de l’ost</td><td>+2</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>Trompeur</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td></tr>
+  <tr><td>Osseux, des glaces</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td><td>—</td></tr>
+  <tr><td>Des contrats, vestale</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td></tr>
+  <tr><td>De la noyade, cornu</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>+2</td></tr>
+  <tr><td>Érinyes</td><td>—</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>+2</td></tr>
+  <tr><td>Immolateur</td><td>+2</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>+2</td></tr>
+  <tr><td>Diablotin</td><td>—</td><td>+2</td><td>—</td><td>+2</td><td>—</td><td>+2</td></tr>
+  <tr>
+    <td>Némésis, diantrefosse</td>
+    <td>+2</td>
+    <td>dans</td>
+    <td>trois</td>
+    <td>valeurs</td>
+    <td>de</td>
+    <td>caractéristique différentes</td>
+  </tr>
+</table>
 
 </div>
 </td><td><div>

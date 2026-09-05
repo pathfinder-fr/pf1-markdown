@@ -16,7 +16,326 @@ Categories:
 </div>{s:um}*Il y a des gens qui passent leur vie à lire d’anciens ouvrages et des textes antiques pour obtenir des pouvoirs magiques et d’autres qui consacrent tout leur temps à améliorer leur maîtrise des armes pour devenir des maîtres inégalés. Le magus est un élève des deux philosophies qui fusionne les aptitudes magiques avec les prouesses martiales pour former un ensemble unique, une discipline qui lui permet d’utiliser les sorts et l’acier avec un effet dévastateur. Alors que son pouvoir augmente, le magus accède à une puissante magie qui lui permet d’unir encore plus pleinement ses talents et, au sommet de son art, il devient une véritable tornade d’acier et de magie, une force à laquelle peu d’ennemis osent s’opposer.*
 
 
-<table CLASS="tablo centre"><caption>Le magus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[magus#COMBATMAGIQUE|combat magique]], [[magus#RESERVEMAGIQUE|réserve magique]], [[magus#TOURSMAGIE|tours de magie]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[magus#FRAPPEMAGIQUE|frappe magique]]</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[magus#SOUVENIRMAGIQUE|souvenir magique]]</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[magus#DONSUPPLEMENTAIRE|don supplémentaire]]</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[magus#ARMUREINTERMEDIAIRE|armure intermédiaire]], [[magus#RESERVEDECONNAISSANCES|réserve de connaissances]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[magus#SCIENCEDUCOMBATMAGIQUE|science du combat magique]]</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[magus#FORMATIONDUCOMBATTANT|formation du combattant]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[magus#DONSUPPLEMENTAIRE|don supplémentaire]], [[magus#SCIENCEDUSOUVENIRMAGIQUE|science du souvenir magique]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[magus#ARMURELOURDE|armure lourde]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[magus#COMBATMAGIQUESUPERIEUR|combat magique supérieur]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[magus#RIPOSTER|riposter]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[magus#DONSUPPLEMENTAIRE|don supplémentaire]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[magus#ACCESAUXSORTSSUPERIEURS|accès aux sorts supérieurs]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[magus#MAGUSULTIME|magus ultime]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Le magus</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[magus#COMBATMAGIQUE|combat magique]], [[magus#RESERVEMAGIQUE|réserve magique]], [[magus#TOURSMAGIE|tours de
+      magie]]
+    </td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[magus#FRAPPEMAGIQUE|frappe magique]]</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[magus#SOUVENIRMAGIQUE|souvenir magique]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[magus#DONSUPPLEMENTAIRE|don supplémentaire]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[magus#ARMUREINTERMEDIAIRE|armure intermédiaire]], [[magus#RESERVEDECONNAISSANCES|réserve de connaissances]]
+    </td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[magus#SCIENCEDUCOMBATMAGIQUE|science du combat magique]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[magus#FORMATIONDUCOMBATTANT|formation du combattant]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[magus#DONSUPPLEMENTAIRE|don supplémentaire]], [[magus#SCIENCEDUSOUVENIRMAGIQUE|science du souvenir magique]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[magus#ARMURELOURDE|armure lourde]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[magus#COMBATMAGIQUESUPERIEUR|combat magique supérieur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[magus#RIPOSTER|riposter]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[magus#DONSUPPLEMENTAIRE|don supplémentaire]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[magus#ARCANE|arcane du magus]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[magus#ACCESAUXSORTSSUPERIEURS|accès aux sorts supérieurs]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[magus#MAGUSULTIME|magus ultime]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 **Rôle.** Les magi passent le plus clair de leur temps à parcourir le monde pour apprendre tous les secrets magiques ou martiaux qu’ils peuvent. Il leur arrive de rester des mois à apprendre un nouveau style d’escrime auprès d’un maître d’arme tout en passant leurs nuits à la bibliothèque, penchés sur d’anciens ouvrages. La plupart des gens qui empruntent cette voie possèdent toutes sortes de connaissances et tiennent compte de tout ce qui pourrait les aider dans leur recherche de la perfection.

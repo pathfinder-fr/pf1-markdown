@@ -15,14 +15,26 @@ Vous pouvez utiliser les règles suivantes pour ajouter de la tension au jeu et 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Points de vie</td><td></sup></td></tr><tr CLASS="premier"><td>Maximum</td><td><div style="border: 1px solid #4b3124; padding: 4px">71</div></td></tr><tr><td>Égratigné (–1)</td><td><div style="border: 1px solid #4b3124; padding: 4px">53</div></td></tr><tr><td>Blessé (–2)</td><td><div style="border: 1px solid #4b3124; padding: 4px">35</div></td></tr><tr><td>Grièvement  
-blessé (–3)</td><td><div style="border: 1px solid #4b3124; padding: 4px">17</div></td></tr><tr><td>Hors de combat</td><td><div style="border: 1px solid #4b3124; padding: 4px">0 à -1</div></td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Points de vie</td><td></sup></td></tr>
+  <tr CLASS="premier"><td>Maximum</td><td><div style="border: 1px solid #4b3124; padding: 4px">71</div></td></tr>
+  <tr><td>Égratigné (–1)</td><td><div style="border: 1px solid #4b3124; padding: 4px">53</div></td></tr>
+  <tr><td>Blessé (–2)</td><td><div style="border: 1px solid #4b3124; padding: 4px">35</div></td></tr>
+  <tr><td>Grièvement  
+blessé (–3)</td><td><div style="border: 1px solid #4b3124; padding: 4px">17</div></td></tr>
+  <tr><td>Hors de combat</td><td><div style="border: 1px solid #4b3124; padding: 4px">0 à -1</div></td></tr>
+</table>
 
 </td><td width="50%">
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td COLSPAN="3">Points de vie actuels</td></tr><tr CLASS="premier"><td></sup></td><td>~~62~~</td><td></sup></td></tr><tr><td>~~51~~</td><td></sup></td><td>~~37~~</td></tr><tr><td></sup></td><td>31</td><td></sup></td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td COLSPAN="3">Points de vie actuels</td></tr>
+  <tr CLASS="premier"><td></sup></td><td>~~62~~</td><td></sup></td></tr>
+  <tr><td>~~51~~</td><td></sup></td><td>~~37~~</td></tr>
+  <tr><td></sup></td><td>31</td><td></sup></td></tr>
+</table>
 
 </td></tr></table></div></div>Dans la variante des seuils de blessure, le personnage divise son total de points de vie en quatre quarts et subit des malus quand son total actuel ne se trouve pas dans le meilleur quart. Un personnage disposant des 3/4 de sa vie est moins efficace qu’un personnage disposant de la totalité de ses points de vie tout comme un personnage disposant de la moitié de ses points de vie est moins efficace qu’un personnage en ayant encore les 3/4, etc.
 

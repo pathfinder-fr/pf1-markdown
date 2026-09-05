@@ -10,7 +10,25 @@ Les remèdes alchimiques sont des substances que l’on utilise pour surmonter u
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Remèdes alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’Artisanat</td></tr><tr CLASS="premier"><td>[[Temp Alchimique MCA#antipoison|Baume antipoison]]</td><td>15 po</td><td>—</td><td>15</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#coagulant|Baume coagulant]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Temp Alchimique MCA#forcené|Secours du forcené]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#antiémétique|Tabac antiémétique]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Tonique|Tonique]]</td><td>20 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Remèdes alchimiques</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’Artisanat</td></tr>
+  <tr CLASS="premier">
+    <td>[[Temp Alchimique MCA#antipoison|Baume antipoison]]</td>
+    <td>15 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Temp Alchimique MCA#coagulant|Baume coagulant]]</td><td>30 po</td><td>—</td><td>20</td></tr>
+  <tr><td>[[Temp Alchimique MCA#forcené|Secours du forcené]]</td><td>25 po</td><td>—</td><td>25</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#antiémétique|Tabac antiémétique]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr><td>[[Temp Alchimique MCA#Tonique|Tonique]]</td><td>20 po</td><td>0,5 kg</td><td>20</td></tr>
+</table>
 
 </center>
 
@@ -42,7 +60,57 @@ Les outils alchimiques font partie des équipements d’aventure qui peuvent s�
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Les outils alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’artisanat</td></tr><tr CLASS="premier"><td>[[Temp Alchimique MCA#ARMESAINTE|Baume d’arme sainte]]</td><td>30 po</td><td>0,25 kg</td><td>20</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#vomitive|Capsule vomitive]]</td><td>12 po</td><td>—</td><td>15</td></tr><tr><td>[[Temp Alchimique MCA#Corde|Corde de vigne-sang]]</td><td>200 po</td><td>2,5 kg</td><td>30</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Encre|Encre de feu, fiole]]</td><td>40 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Galets|Galets du petit Poucet]]</td><td>50 po</td><td>0,5 kg</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Huile|Huile des maîtres]]</td><td>50 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, animal]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, créature magique]]</td><td>100 po</td><td>—</td><td>30</td></tr><tr><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, humanoïde]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Papier|Papier réactif]]</td><td>1 po</td><td>—</td><td>15</td></tr><tr><td>[[Temp Alchimique MCA#Pastel|Pastel de guède (1 bâtonnet)]]</td><td>60 po</td><td>—</td><td>30</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Pastille|Pastille du rossignol]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Poudre|Poudre de pistage]]</td><td>30 po</td><td>—</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Solution|Solution adhésive]]</td><td>25 po</td><td>0,5</td><td>kg 20</td></tr><tr><td>[[Temp Alchimique MCA#Tabac|Tabac du traqueur]]</td><td>200 po</td><td>—</td><td>30</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Tonique caverneux|Tonique caverneux]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Pastel|Trousse à pastels de guède]]</td><td>300 po</td><td>0,5 kg</td><td>30</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Les outils alchimiques</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’artisanat</td></tr>
+  <tr CLASS="premier">
+    <td>[[Temp Alchimique MCA#ARMESAINTE|Baume d’arme sainte]]</td>
+    <td>30 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Temp Alchimique MCA#vomitive|Capsule vomitive]]</td><td>12 po</td><td>—</td><td>15</td></tr>
+  <tr><td>[[Temp Alchimique MCA#Corde|Corde de vigne-sang]]</td><td>200 po</td><td>2,5 kg</td><td>30</td></tr>
+  <tr CLASS="alt"><td>[[Temp Alchimique MCA#Encre|Encre de feu, fiole]]</td><td>40 po</td><td>—</td><td>25</td></tr>
+  <tr><td>[[Temp Alchimique MCA#Galets|Galets du petit Poucet]]</td><td>50 po</td><td>0,5 kg</td><td>25</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#Huile|Huile des maîtres]]</td>
+    <td>50 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, animal]]</td><td>25 po</td><td>—</td><td>20</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, créature magique]]</td>
+    <td>100 po</td>
+    <td>—</td>
+    <td>30</td>
+  </tr>
+  <tr><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, humanoïde]]</td><td>50 po</td><td>—</td><td>25</td></tr>
+  <tr CLASS="alt"><td>[[Temp Alchimique MCA#Papier|Papier réactif]]</td><td>1 po</td><td>—</td><td>15</td></tr>
+  <tr><td>[[Temp Alchimique MCA#Pastel|Pastel de guède (1 bâtonnet)]]</td><td>60 po</td><td>—</td><td>30</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#Pastille|Pastille du rossignol]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr><td>[[Temp Alchimique MCA#Poudre|Poudre de pistage]]</td><td>30 po</td><td>—</td><td>25</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#Solution|Solution adhésive]]</td>
+    <td>25 po</td>
+    <td>0,5</td>
+    <td>kg 20</td>
+  </tr>
+  <tr><td>[[Temp Alchimique MCA#Tabac|Tabac du traqueur]]</td><td>200 po</td><td>—</td><td>30</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#Tonique caverneux|Tonique caverneux]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr><td>[[Temp Alchimique MCA#Pastel|Trousse à pastels de guède]]</td><td>300 po</td><td>0,5 kg</td><td>30</td></tr>
+</table>
 
 </center>
 
@@ -195,7 +263,28 @@ la table ci-dessous.
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Les armes alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’Artisanat</td></tr><tr CLASS="premier"><td>[[Temp Alchimique MCA#POUDREDIAMANT|Fioles de poudre de diamant]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#POINGDEVERRE|Fioles pour poings de verre (4)]]</td><td>5 po</td><td>—</td><td>15</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#POINGDEVERRE|Poings de verre]]</td><td>25 po</td><td>0,25 kg</td><td>20</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Les armes alchimiques</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’Artisanat</td></tr>
+  <tr CLASS="premier">
+    <td>[[Temp Alchimique MCA#POUDREDIAMANT|Fioles de poudre de diamant]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Temp Alchimique MCA#POINGDEVERRE|Fioles pour poings de verre (4)]]</td>
+    <td>5 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Temp Alchimique MCA#POINGDEVERRE|Poings de verre]]</td>
+    <td>25 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+</table>
 
 </center>
 

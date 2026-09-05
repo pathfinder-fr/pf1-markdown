@@ -50,8 +50,22 @@ Categories:
 - **Dés de vie.** Supprimez tous les [[DV]] issus de niveaux de classe (sans descendre au-dessous de 1 DV) et remplacez tous les DV raciaux par des d10. Comme les créatures empaillées sont des [[type Créature artificielle|créatures artificielles]], elles gagnent un nombre de points de vie supplémentaires dépendant de leur taille, comme indiqué dans la table suivante. Elles gagnent également des DV supplémentaires en fonction de leur taille, comme indiqué dans la table suivante.
 
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille</td><td>DV  
-supplémentaires</td><td>pv</br>supplémentaires</td><td>Augmentation</br>du FP</td></tr><tr CLASS="premier"><td>TP ou inférieure</td><td>—</td><td>—</td><td>—</td></tr><tr><td>P</td><td>—</td><td>+10</td><td>—</td></tr><tr><td>M</td><td>—</td><td>+20</td><td>—</td></tr><tr><td>G</td><td>+1 DV</td><td>+30</td><td>+1</td></tr><tr><td>TG</td><td>+2 DV</td><td>+40</td><td>+1</td></tr><tr><td>Gig</td><td>+3 DV</td><td>+60</td><td>+1</td></tr><tr><td>C</td><td>+4 DV</td><td>+80</td><td>+2</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <tr CLASS="titre">
+    <td>Taille</td>
+    <td>DV  
+supplémentaires</td>
+    <td>pv</br>supplémentaires</td>
+    <td>Augmentation</br>du FP</td>
+  </tr>
+  <tr CLASS="premier"><td>TP ou inférieure</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>P</td><td>—</td><td>+10</td><td>—</td></tr>
+  <tr><td>M</td><td>—</td><td>+20</td><td>—</td></tr>
+  <tr><td>G</td><td>+1 DV</td><td>+30</td><td>+1</td></tr>
+  <tr><td>TG</td><td>+2 DV</td><td>+40</td><td>+1</td></tr>
+  <tr><td>Gig</td><td>+3 DV</td><td>+60</td><td>+1</td></tr>
+  <tr><td>C</td><td>+4 DV</td><td>+80</td><td>+2</td></tr>
+</table>
 
 - **Jets de sauvegarde.** Voici les bonus de base de la créature pour les [[jds|jets de sauvegarde]] : Réf +1/3 DV, Vig +1/3 DV, Vol +1/3 DV.
 - **Capacités défensives.** Les créatures empaillées perdent leurs capacités défensives et gagnent les pouvoirs et immunités associés au type [[type Créature artificielle|créature artificielle]].

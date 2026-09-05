@@ -43,4 +43,136 @@ On peut détruire cet artefact si on le perd lors d’un pari avec une divinité
 </div>
 
 
-<table CLASS="tablo centre autoalt"><caption>Jeu de cartes merveilleuses</caption><tr CLASs="titre"><td>Plaque</td><td>Lame de Tarot</td><td>Carte à jouer</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>Balance</td><td>XI. La Justice</td><td>2 de pique</td><td CLASS="gauche">Changement immédiat d’[[alignement]].</td></tr><tr><td>Bouffon</td><td>XII. Le Pendu</td><td>Joker (noir et blanc)</td><td CLASS="gauche">Gagne 10 000 [[PX]] ou tire deux nouvelles cartes.</td></tr><tr><td>Chevalier</td><td>Valet d’épée</td><td>Valet de cœur</td><td CLASS="gauche">Gagne les services d’un [[guerrier]] de niveau 4.</td></tr><tr><td>Clef</td><td>V. Le Pape</td><td>Dame de cœur</td><td CLASS="gauche">Gagne une puissante [[armes magiques|arme magique]].</td></tr><tr><td>Comète</td><td>2 d’épée</td><td>2 de carreau</td><td CLASS="gauche">Gagne un niveau en cas de victoire contre le prochain monstre.</td></tr><tr><td>Crâne</td><td>XIII. La Mort</td><td>Valet de trèfle</td><td CLASS="gauche">Triompher d’une [[âme-en-peine|âme-en-peine effroyable]] ou être détruit à jamais.</td></tr><tr><td>Donjon</td><td>4 d’épée</td><td>As de pique</td><td CLASS="gauche">Le personnage est emprisonné.</td></tr><tr><td>Étoile</td><td>XVII. L’Étoile</td><td>Valet de carreau</td><td CLASS="gauche">Gain immédiat d’un bonus inné de +2 à une valeur de caractéristique.</td></tr><tr><td>Euryale</td><td>10 d’épée</td><td>Dame de pique</td><td CLASS="gauche">-1 à tous les [[jds|jets de sauvegarde]].</td></tr><tr><td>Flammes</td><td>XV. Le Diable</td><td>Dame de trèfle</td><td CLASS="gauche">Un [[type Extérieur|Extérieur]] devient votre ennemi.</td></tr><tr><td>Fou</td><td>0. Le Fou</td><td>Joker (couleur)</td><td CLASS="gauche">Perte de 10 000 PX et obligation de tirer une nouvelle carte.</td></tr><tr><td>Gemme</td><td>7 de coupe</td><td>2 de cœur</td><td CLASS="gauche">Gagne au choix 25 bijoux ou 50 gemmes.</td></tr><tr><td>Idiot</td><td>I. Le Bateleur</td><td>As de trèfle</td><td CLASS="gauche">Perd 1d4+1 points d'[[Intelligence]]. Peut tirer une nouvelle carte.</td></tr><tr><td>Lune</td><td>XVIII. La Lune</td><td>Dame de carreau</td><td CLASS="gauche">Vous avez droit à 1d4 *[[souhait|souhaits]]*.</td></tr><tr><td>Néant</td><td>8 d’épée</td><td>Roi de trèfle</td><td CLASS="gauche">Le corps continue de fonctionner mais l’âme est piégée ailleurs.</td></tr><tr><td>Parques</td><td>3 de coupe</td><td>As de cœur</td><td CLASS="gauche">Évite une situation de votre choix, une seule fois.</td></tr><tr><td>Roublard</td><td>5 d’épée</td><td>Valet de pique</td><td CLASS="gauche">Un de vos amis se retourne contre vous.</td></tr><tr><td>Ruine</td><td>XVI. La Tour</td><td>Roi de pique</td><td CLASS="gauche">Perte immédiate de toutes les richesses et propriétés terriennes.</td></tr><tr><td>Serres</td><td>Dame de denier</td><td>2 de trèfle</td><td CLASS="gauche">Tous vos objets magiques disparaissent définitivement.</td></tr><tr><td>Soleil</td><td>XIX. Le Soleil</td><td>Roi de carreau</td><td CLASS="gauche">Gain d’un [[objets merveilleux|objet merveilleux]] de puissance intermédiaire et de 50 000 [[PX]].</td></tr><tr><td>Trône</td><td>4 de bâton</td><td>Roi de cœur</td><td CLASS="gauche">Gain d’un petit château et d’un bonus de +6 aux tests de [[Diplomatie]].</td></tr><tr><td>Vizir</td><td>IX. L’Ermite</td><td>As de carreau</td><td CLASS="gauche">Réponse à votre prochain dilemme.</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Jeu de cartes merveilleuses</caption>
+  <tr CLASs="titre"><td>Plaque</td><td>Lame de Tarot</td><td>Carte à jouer</td><td CLASS="gauche">Effet</td></tr>
+  <tr CLASS="premier">
+    <td>Balance</td>
+    <td>XI. La Justice</td>
+    <td>2 de pique</td>
+    <td CLASS="gauche">Changement immédiat d’[[alignement]].</td>
+  </tr>
+  <tr>
+    <td>Bouffon</td>
+    <td>XII. Le Pendu</td>
+    <td>Joker (noir et blanc)</td>
+    <td CLASS="gauche">Gagne 10 000 [[PX]] ou tire deux nouvelles cartes.</td>
+  </tr>
+  <tr>
+    <td>Chevalier</td>
+    <td>Valet d’épée</td>
+    <td>Valet de cœur</td>
+    <td CLASS="gauche">Gagne les services d’un [[guerrier]] de niveau 4.</td>
+  </tr>
+  <tr>
+    <td>Clef</td>
+    <td>V. Le Pape</td>
+    <td>Dame de cœur</td>
+    <td CLASS="gauche">Gagne une puissante [[armes magiques|arme magique]].</td>
+  </tr>
+  <tr>
+    <td>Comète</td>
+    <td>2 d’épée</td>
+    <td>2 de carreau</td>
+    <td CLASS="gauche">Gagne un niveau en cas de victoire contre le prochain monstre.</td>
+  </tr>
+  <tr>
+    <td>Crâne</td>
+    <td>XIII. La Mort</td>
+    <td>Valet de trèfle</td>
+    <td CLASS="gauche">Triompher d’une [[âme-en-peine|âme-en-peine effroyable]] ou être détruit à jamais.</td>
+  </tr>
+  <tr><td>Donjon</td><td>4 d’épée</td><td>As de pique</td><td CLASS="gauche">Le personnage est emprisonné.</td></tr>
+  <tr>
+    <td>Étoile</td>
+    <td>XVII. L’Étoile</td>
+    <td>Valet de carreau</td>
+    <td CLASS="gauche">Gain immédiat d’un bonus inné de +2 à une valeur de caractéristique.</td>
+  </tr>
+  <tr>
+    <td>Euryale</td>
+    <td>10 d’épée</td>
+    <td>Dame de pique</td>
+    <td CLASS="gauche">-1 à tous les [[jds|jets de sauvegarde]].</td>
+  </tr>
+  <tr>
+    <td>Flammes</td>
+    <td>XV. Le Diable</td>
+    <td>Dame de trèfle</td>
+    <td CLASS="gauche">Un [[type Extérieur|Extérieur]] devient votre ennemi.</td>
+  </tr>
+  <tr>
+    <td>Fou</td>
+    <td>0. Le Fou</td>
+    <td>Joker (couleur)</td>
+    <td CLASS="gauche">Perte de 10 000 PX et obligation de tirer une nouvelle carte.</td>
+  </tr>
+  <tr>
+    <td>Gemme</td>
+    <td>7 de coupe</td>
+    <td>2 de cœur</td>
+    <td CLASS="gauche">Gagne au choix 25 bijoux ou 50 gemmes.</td>
+  </tr>
+  <tr>
+    <td>Idiot</td>
+    <td>I. Le Bateleur</td>
+    <td>As de trèfle</td>
+    <td CLASS="gauche">Perd 1d4+1 points d'[[Intelligence]]. Peut tirer une nouvelle carte.</td>
+  </tr>
+  <tr>
+    <td>Lune</td>
+    <td>XVIII. La Lune</td>
+    <td>Dame de carreau</td>
+    <td CLASS="gauche">Vous avez droit à 1d4 *[[souhait|souhaits]]*.</td>
+  </tr>
+  <tr>
+    <td>Néant</td>
+    <td>8 d’épée</td>
+    <td>Roi de trèfle</td>
+    <td CLASS="gauche">Le corps continue de fonctionner mais l’âme est piégée ailleurs.</td>
+  </tr>
+  <tr>
+    <td>Parques</td>
+    <td>3 de coupe</td>
+    <td>As de cœur</td>
+    <td CLASS="gauche">Évite une situation de votre choix, une seule fois.</td>
+  </tr>
+  <tr>
+    <td>Roublard</td>
+    <td>5 d’épée</td>
+    <td>Valet de pique</td>
+    <td CLASS="gauche">Un de vos amis se retourne contre vous.</td>
+  </tr>
+  <tr>
+    <td>Ruine</td>
+    <td>XVI. La Tour</td>
+    <td>Roi de pique</td>
+    <td CLASS="gauche">Perte immédiate de toutes les richesses et propriétés terriennes.</td>
+  </tr>
+  <tr>
+    <td>Serres</td>
+    <td>Dame de denier</td>
+    <td>2 de trèfle</td>
+    <td CLASS="gauche">Tous vos objets magiques disparaissent définitivement.</td>
+  </tr>
+  <tr>
+    <td>Soleil</td>
+    <td>XIX. Le Soleil</td>
+    <td>Roi de carreau</td>
+    <td CLASS="gauche">
+      Gain d’un [[objets merveilleux|objet merveilleux]] de puissance intermédiaire et de 50 000 [[PX]].
+    </td>
+  </tr>
+  <tr>
+    <td>Trône</td>
+    <td>4 de bâton</td>
+    <td>Roi de cœur</td>
+    <td CLASS="gauche">Gain d’un petit château et d’un bonus de +6 aux tests de [[Diplomatie]].</td>
+  </tr>
+  <tr>
+    <td>Vizir</td>
+    <td>IX. L’Ermite</td>
+    <td>As de carreau</td>
+    <td CLASS="gauche">Réponse à votre prochain dilemme.</td>
+  </tr>
+</table>

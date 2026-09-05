@@ -83,7 +83,18 @@ Quelle que soit la vitesse de progression de votre Éclaireur, celui-ci gagne un
 
 {s:Reference|METIER}
 
-<table CLASS="tablo fright"><caption>TABLE 5-1 : REVENUS SELON LE TEST DE MÉTIER</caption><tr CLASS="titre"><td>Résultat</td><td>Montant en po</td></tr><tr CLASS="premier"><td>5</td><td>1 po</td></tr><tr CLASS="alt"><td>10</td><td>5 po</td></tr><tr><td>15</td><td>10 po</td></tr><tr CLASS="alt"><td>20</td><td>20 po</td></tr><tr><td>25</td><td>50 po</td></tr><tr CLASS="alt"><td>30</td><td>75 po</td></tr><tr><td>35</td><td>100 po</td></tr><tr CLASS="alt"><td>40</td><td>150 po</td></tr></table>
+<table CLASS="tablo fright">
+  <caption>TABLE 5-1 : REVENUS SELON LE TEST DE MÉTIER</caption>
+  <tr CLASS="titre"><td>Résultat</td><td>Montant en po</td></tr>
+  <tr CLASS="premier"><td>5</td><td>1 po</td></tr>
+  <tr CLASS="alt"><td>10</td><td>5 po</td></tr>
+  <tr><td>15</td><td>10 po</td></tr>
+  <tr CLASS="alt"><td>20</td><td>20 po</td></tr>
+  <tr><td>25</td><td>50 po</td></tr>
+  <tr CLASS="alt"><td>30</td><td>75 po</td></tr>
+  <tr><td>35</td><td>100 po</td></tr>
+  <tr CLASS="alt"><td>40</td><td>150 po</td></tr>
+</table>
 
 
 
@@ -131,7 +142,37 @@ Si le PJ ne peut pas être ramené à la vie pendant ou immédiatement après le
 Les PJ peuvent utiliser les récompenses mentionnées sur la feuille de chronique de l'aventure en cours pour retirer leurs soins, ou leur résurrection. Les PJ qui ne reviennent pas dans le royaume des vivants reçoivent 0 XP, 0 point de prestige, 0 po et aucun avantage pour le scénario où ils sont morts.
 ### Acheter de l'équipement et des sorts
 
-<table CLASS="tablo fright"><caption>TABLE 5-2 : EXEMPLES DE COÛTS DE LANCEMENT DE SORTS COMMUNS</caption><tr CLASS="titre"><td>Sort</td><td>Coût</td></tr><tr CLASS="premier"><td>*[[Pathfinder-RPG.Pénitence|Pénitence]]*</td><td>500 po (3 000 po pour restaurer</br>des pouvoirs de duide,</br>d'inquisiteur ou de prêtre)</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Annulation denchantement|Annulation d’enchantement]]*</td><td>450 po</td></tr><tr><td>*[[Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]]*</td><td>150 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Dissipation suprême|Dissipation suprême]]*</td><td>660 po</td></tr><tr><td>*[[Pathfinder-RPG.Restauration suprême|Restauration suprême]]*</td><td>5 910 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Guérison suprême|Guérison suprême]]*</td><td>660 po</td></tr><tr><td>*[[Pathfinder-RPG.Restauration partielle|Restauration partielle]]*</td><td>60 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Réparation intégrale|Réparation intégrale]]*</td><td>60 po</td></tr><tr><td>*[[Pathfinder-RPG.Neutralisation du poison|Neutralisation du poison]]*</td><td>280 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Rappel à la vie|Rappel à la vie]]*</td><td>5 450 po</td></tr><tr><td>*[[Pathfinder-RPG.Régénération|Régénération]]*</td><td>910 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Guérison de la cécitésurdité|Guérison de la cécité/surdité]]*</td><td>150 po</td></tr><tr><td>*[[Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]]*</td><td>150 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Guérison des maladies|Guérison des maladies]]*</td><td>150 po</td></tr><tr><td>*[[Pathfinder-RPG.Délivrance de la paralysie|Délivrance de la paralysie]]*</td><td>50 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Restauration|Restauration]]*</td><td>380 po (ou 1 280 pour dissiper</br>un niveau négatif permanent)</td></tr><tr><td>*[[Pathfinder-RPG.Résurrection|Résurrection]]*</td><td>10 910 po</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.Résurrection suprême|Résurrection suprême]]*</td><td>26 530 po</td></tr></table>
+<table CLASS="tablo fright">
+  <caption>TABLE 5-2 : EXEMPLES DE COÛTS DE LANCEMENT DE SORTS COMMUNS</caption>
+  <tr CLASS="titre"><td>Sort</td><td>Coût</td></tr>
+  <tr CLASS="premier">
+    <td>*[[Pathfinder-RPG.Pénitence|Pénitence]]*</td>
+    <td>500 po (3 000 po pour restaurer</br>des pouvoirs de duide,</br>d'inquisiteur ou de prêtre)</td>
+  </tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Annulation denchantement|Annulation d’enchantement]]*</td><td>450 po</td></tr>
+  <tr><td>*[[Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]]*</td><td>150 po</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Dissipation suprême|Dissipation suprême]]*</td><td>660 po</td></tr>
+  <tr><td>*[[Pathfinder-RPG.Restauration suprême|Restauration suprême]]*</td><td>5 910 po</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Guérison suprême|Guérison suprême]]*</td><td>660 po</td></tr>
+  <tr><td>*[[Pathfinder-RPG.Restauration partielle|Restauration partielle]]*</td><td>60 po</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Réparation intégrale|Réparation intégrale]]*</td><td>60 po</td></tr>
+  <tr><td>*[[Pathfinder-RPG.Neutralisation du poison|Neutralisation du poison]]*</td><td>280 po</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Rappel à la vie|Rappel à la vie]]*</td><td>5 450 po</td></tr>
+  <tr><td>*[[Pathfinder-RPG.Régénération|Régénération]]*</td><td>910 po</td></tr>
+  <tr CLASS="alt">
+    <td>*[[Pathfinder-RPG.Guérison de la cécitésurdité|Guérison de la cécité/surdité]]*</td>
+    <td>150 po</td>
+  </tr>
+  <tr><td>*[[Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]]*</td><td>150 po</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Guérison des maladies|Guérison des maladies]]*</td><td>150 po</td></tr>
+  <tr><td>*[[Pathfinder-RPG.Délivrance de la paralysie|Délivrance de la paralysie]]*</td><td>50 po</td></tr>
+  <tr CLASS="alt">
+    <td>*[[Pathfinder-RPG.Restauration|Restauration]]*</td>
+    <td>380 po (ou 1 280 pour dissiper</br>un niveau négatif permanent)</td>
+  </tr>
+  <tr><td>*[[Pathfinder-RPG.Résurrection|Résurrection]]*</td><td>10 910 po</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.Résurrection suprême|Résurrection suprême]]*</td><td>26 530 po</td></tr>
+</table>
 
 
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20D.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ans la *Campagne Organisée de la Société des Éclaireurs*, vous ne pouvez jamais acheter, vendre ou échanger des objets avec d'autres joueurs. Néanmoins, vous pouvez permettre à un autre joueur d'emprunter un objet pour la durée du scénario. Vous êtes aussi autorisé à dépenser l'or de votre personnage pour aider un membre du groupe à payer un lancement de sort, comme *[[Pathfinder-RPG.Rappel à la vie|Rappel à la vie]]* ou *[[Pathfinder-RPG.Guérison des maladies|Guérison des maladies]]*.
@@ -202,7 +243,34 @@ Tous les sorts et effets s'achèvent à la fin d'un scénario avec les exception
 ### Renom et prestige
 
 
-<table CLASS="tablo fright col1centre"><caption>TABLE 5-3 : RENOM ET ACHATS D'OBJET</caption><tr CLASS="titre"><td>Renom minimum requis</td><td>Prix maximum de l'objet</td></tr><tr CLASS="premier"><td>inférieure à 5</td><td>0 po</td></tr><tr CLASS="alt"><td>5</td><td>500 po</td></tr><tr><td>9</td><td>1 500 po</td></tr><tr CLASS="alt"><td>13</td><td>3 000 po</td></tr><tr><td>18</td><td>5 250 po</td></tr><tr CLASS="alt"><td>22</td><td>8000 po</td></tr><tr><td>27</td><td>11 750 po</td></tr><tr CLASS="alt"><td>31</td><td>16 500 po</td></tr><tr><td>36</td><td>23 000 po</td></tr><tr CLASS="alt"><td>40</td><td>31000 po</td></tr><tr><td>45</td><td>41 000 po</td></tr><tr CLASS="alt"><td>49</td><td>54 000 po</td></tr><tr><td>54</td><td>70 000 po</td></tr><tr CLASS="alt"><td>58</td><td>92 500 po</td></tr><tr><td>63</td><td>120000 po</td></tr><tr CLASS="alt"><td>67</td><td>157 500 po</td></tr><tr><td>72</td><td>205 000 po</td></tr><tr CLASS="alt"><td>76</td><td>265 000 po</td></tr><tr><td>81</td><td>342 500 po</td></tr><tr CLASS="alt"><td>85</td><td>440 000 po</td></tr><tr><td>90</td><td>565 000 po</td></tr><tr CLASS="alt"><td>94</td><td>680 000 po</td></tr><tr><td>99</td><td>800 000 po</td></tr><tr CLASS="premier"><td>&nbsp;</td><td>&nbsp;</td></tr></table>
+<table CLASS="tablo fright col1centre">
+  <caption>TABLE 5-3 : RENOM ET ACHATS D'OBJET</caption>
+  <tr CLASS="titre"><td>Renom minimum requis</td><td>Prix maximum de l'objet</td></tr>
+  <tr CLASS="premier"><td>inférieure à 5</td><td>0 po</td></tr>
+  <tr CLASS="alt"><td>5</td><td>500 po</td></tr>
+  <tr><td>9</td><td>1 500 po</td></tr>
+  <tr CLASS="alt"><td>13</td><td>3 000 po</td></tr>
+  <tr><td>18</td><td>5 250 po</td></tr>
+  <tr CLASS="alt"><td>22</td><td>8000 po</td></tr>
+  <tr><td>27</td><td>11 750 po</td></tr>
+  <tr CLASS="alt"><td>31</td><td>16 500 po</td></tr>
+  <tr><td>36</td><td>23 000 po</td></tr>
+  <tr CLASS="alt"><td>40</td><td>31000 po</td></tr>
+  <tr><td>45</td><td>41 000 po</td></tr>
+  <tr CLASS="alt"><td>49</td><td>54 000 po</td></tr>
+  <tr><td>54</td><td>70 000 po</td></tr>
+  <tr CLASS="alt"><td>58</td><td>92 500 po</td></tr>
+  <tr><td>63</td><td>120000 po</td></tr>
+  <tr CLASS="alt"><td>67</td><td>157 500 po</td></tr>
+  <tr><td>72</td><td>205 000 po</td></tr>
+  <tr CLASS="alt"><td>76</td><td>265 000 po</td></tr>
+  <tr><td>81</td><td>342 500 po</td></tr>
+  <tr CLASS="alt"><td>85</td><td>440 000 po</td></tr>
+  <tr><td>90</td><td>565 000 po</td></tr>
+  <tr CLASS="alt"><td>94</td><td>680 000 po</td></tr>
+  <tr><td>99</td><td>800 000 po</td></tr>
+  <tr CLASS="premier"><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
 
 
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20B.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ien que les points de renom et les points de prestige (PP) soient liés, ils représentent deux concepts différents au sein d'une faction et servent deux objectifs distincts. Le renom est un nombre qui ne peut être dépensé et qui fonctionne comme une caractéristique : plus haut est le renom, plus grande est la réputation. Un haut score en renom libère des ressources qui peuvent être achetées auprès de votre faction par des points de prestige et augmente le coût maximum des objets que vous pouvez acheter avec de l'argent. Si le renom mesure la réputation globale du personnage au sein d'une faction, ses points de prestige représentent ce que sa faction lui doit en termes de faveurs, avantages et récompenses.
@@ -223,7 +291,56 @@ Le renom d'un personnage représente sa réputation et son statut au sein de la 
 
 #### Utiliser des points de prestige
 
-<table CLASS="tablo fright"><caption>TABLE 5-4 : RÉCOMPENSES DE PRESTIGE GÉNÉRIQUES</caption><tr CLASS="titre"><td>Récompense</td><td>Coût<sup>1</sup></td></tr><tr CLASS="premier"><td>+4 sur un test de compétence<sup>2</sup></td><td>1 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.dissipation de la magie|Dissipation de la magie]]*</td><td>1 PP</td></tr><tr><td>*[[Pathfinder-RPG.restauration partielle|Restauration partielle]]*</td><td>1 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.réparation intégrale|Réparation intégrale]]*</td><td>1 PP</td></tr><tr><td>*[[Pathfinder-RPG.guérison de la cécitésurdité|Guérison de la cécité/surdité]]*</td><td>1 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.délivrance des malédictions|Délivrance des malédictions]]*</td><td>1 PP</td></tr><tr><td>*[[Pathfinder-RPG.guérison des maladies|Guérison des maladies]]*</td><td>1 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.délivrance de la paralysie|Délivrance de la paralysie]]*</td><td>1 PP</td></tr><tr><td>Achat gratuit jusqu'à 150 po<sup>3</sup></td><td>1 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.pénitence|Pénitence]]*</td><td>2 PP (8 PP pour restaurer les</br>pouvoirs de prêtre/druide</br>/inquisiteur/paladin)</td></tr><tr><td>*[[Pathfinder-RPG.annulation denchantement|Annulation d’enchantement]]*</td><td>2PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.dissipation suprême|Dissipation suprême]]*</td><td>2 PP</td></tr><tr><td>*[[Pathfinder-RPG.neutralisation du poison|Neutralisation du poison]]*</td><td>2 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.restauration|Restauration]]*</td><td>2 PP (4 PP pour dissiper</br>un niveau négatif permanent)</td></tr><tr><td>Achat gratuit jusqu'à 750 po<sup>3</sup></td><td>2 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.régénération|Régénération]]*</td><td>3 PP</td></tr><tr><td>Récupération de votre corps</br>par une équipe de secours</td><td>5 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.rappel à la vie|Rappel à la vie]]*</td><td>16 PP</td></tr><tr><td>*[[Pathfinder-RPG.restauration suprême|Restauration suprême]]*</td><td>16 PP</td></tr><tr CLASS="alt"><td>*[[Pathfinder-RPG.résurrection|Résurrection]]*</td><td>32 PP</td></tr><tr><td>*[[Pathfinder-RPG.résurrection suprême|Résurrection suprême]]*</td><td>77 PP</td></tr><tr CLASS="note"><td COLSPAN="2">(1) Ajoutez +5 à ce coût si ce bénéfice est acheté en dehors d'une communauté</br>de 5 000 habitants ou plus.</td></tr><tr CLASS="note"><td COLSPAN="2">(2) N'inclut par le test de métier.</td></tr><tr CLASS="note"><td COLSPAN="2">(3) Une fois par session, vous pouvez acquérir auprès de votre faction un unique objet</br>d'une valeur inférieure ou égale à ce prix en dépensant les PP appropriés. Les objets</br>ainsi achetés valent 0 po et ne peuvent être vendus.</td></tr></table>
+<table CLASS="tablo fright">
+  <caption>TABLE 5-4 : RÉCOMPENSES DE PRESTIGE GÉNÉRIQUES</caption>
+  <tr CLASS="titre"><td>Récompense</td><td>Coût<sup>1</sup></td></tr>
+  <tr CLASS="premier"><td>+4 sur un test de compétence<sup>2</sup></td><td>1 PP</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.dissipation de la magie|Dissipation de la magie]]*</td><td>1 PP</td></tr>
+  <tr><td>*[[Pathfinder-RPG.restauration partielle|Restauration partielle]]*</td><td>1 PP</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.réparation intégrale|Réparation intégrale]]*</td><td>1 PP</td></tr>
+  <tr><td>*[[Pathfinder-RPG.guérison de la cécitésurdité|Guérison de la cécité/surdité]]*</td><td>1 PP</td></tr>
+  <tr CLASS="alt">
+    <td>*[[Pathfinder-RPG.délivrance des malédictions|Délivrance des malédictions]]*</td>
+    <td>1 PP</td>
+  </tr>
+  <tr><td>*[[Pathfinder-RPG.guérison des maladies|Guérison des maladies]]*</td><td>1 PP</td></tr>
+  <tr CLASS="alt">
+    <td>*[[Pathfinder-RPG.délivrance de la paralysie|Délivrance de la paralysie]]*</td>
+    <td>1 PP</td>
+  </tr>
+  <tr><td>Achat gratuit jusqu'à 150 po<sup>3</sup></td><td>1 PP</td></tr>
+  <tr CLASS="alt">
+    <td>*[[Pathfinder-RPG.pénitence|Pénitence]]*</td>
+    <td>2 PP (8 PP pour restaurer les</br>pouvoirs de prêtre/druide</br>/inquisiteur/paladin)</td>
+  </tr>
+  <tr><td>*[[Pathfinder-RPG.annulation denchantement|Annulation d’enchantement]]*</td><td>2PP</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.dissipation suprême|Dissipation suprême]]*</td><td>2 PP</td></tr>
+  <tr><td>*[[Pathfinder-RPG.neutralisation du poison|Neutralisation du poison]]*</td><td>2 PP</td></tr>
+  <tr CLASS="alt">
+    <td>*[[Pathfinder-RPG.restauration|Restauration]]*</td>
+    <td>2 PP (4 PP pour dissiper</br>un niveau négatif permanent)</td>
+  </tr>
+  <tr><td>Achat gratuit jusqu'à 750 po<sup>3</sup></td><td>2 PP</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.régénération|Régénération]]*</td><td>3 PP</td></tr>
+  <tr><td>Récupération de votre corps</br>par une équipe de secours</td><td>5 PP</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.rappel à la vie|Rappel à la vie]]*</td><td>16 PP</td></tr>
+  <tr><td>*[[Pathfinder-RPG.restauration suprême|Restauration suprême]]*</td><td>16 PP</td></tr>
+  <tr CLASS="alt"><td>*[[Pathfinder-RPG.résurrection|Résurrection]]*</td><td>32 PP</td></tr>
+  <tr><td>*[[Pathfinder-RPG.résurrection suprême|Résurrection suprême]]*</td><td>77 PP</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      (1) Ajoutez +5 à ce coût si ce bénéfice est acheté en dehors d'une communauté</br>de 5 000 habitants ou plus.
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="2">(2) N'inclut par le test de métier.</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      (3) Une fois par session, vous pouvez acquérir auprès de votre faction un unique objet</br>d'une valeur
+      inférieure ou égale à ce prix en dépensant les PP appropriés. Les objets</br>ainsi achetés valent 0 po et ne
+      peuvent être vendus.
+    </td>
+  </tr>
+</table>
 
 
 Les points de prestige d'un personnage reflètent les soutiens, le capital politique et les faveurs personnelles qu'il a accumulés grâce aux services rendus à l'organisation. Alors que la réputation d'un personnage peut lui procurer titres et privilèges, la dépense des points de prestige accordent des bénéfices plus tangibles par l'achat d'avantages, de faveurs, de lancements de sorts et d'autres services. En sus des récompenses de prestige génériques (listées dans le tableau 5-4), disponibles pour tous les Éclaireurs indépendamment de sa faction, chaque faction offre des récompenses de prestige spécifiques, disponibles uniquement pour ses membres, lesquelles sont décrites dans la description complète de chaque faction du *Pathfinder Society Field Guide*. Quelque soit le renom du personnage, le coût en PP de ces avantages et récompenses restent le même : un membre de la Grande Loge avec un score de 40 en renom doit dépenser 1 PP pour bénéficier du sort *[[Pathfinder-RPG.Délivrance des malédictions|Délivrance des malédictions]]* ou *[[Pathfinder-RPG.Dissipation de la magie|Dissipation de la magie]]*, tout comme un jeune initié avec 2 en renom.

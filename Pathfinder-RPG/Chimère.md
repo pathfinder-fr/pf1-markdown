@@ -41,7 +41,15 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Tableau des types de souffles</caption><tr CLASS="titre"><td>d10</td><td>Tête</td><td class="gauche">Type de souffle</td></tr><tr CLASS="premier"><td>1-2</td><td>blanche</td><td class="gauche">[[cône]] de froid de 6 m (4 {s:c})</td></tr><tr CLASS="alt"><td>3-4</td><td>bleue</td><td class="gauche">[[ligne]] d'électricité de 12 m (8 {s:c})</td></tr><tr><td>5-6</td><td>noire</td><td class="gauche">[[ligne]] d'acide de 12 m (8 {s:c})</td></tr><tr CLASS="alt"><td>7-8</td><td>rouge</td><td class="gauche">[[cône]] de feu de 6 m (4 {s:c})</td></tr><tr><td>9-10</td><td>verte</td><td class="gauche">[[cône]] d'acide de 6 m (4 {s:c})</td></tr></table></center>
+<table CLASS="tablo">
+  <caption>Tableau des types de souffles</caption>
+  <tr CLASS="titre"><td>d10</td><td>Tête</td><td class="gauche">Type de souffle</td></tr>
+  <tr CLASS="premier"><td>1-2</td><td>blanche</td><td class="gauche">[[cône]] de froid de 6 m (4 {s:c})</td></tr>
+  <tr CLASS="alt"><td>3-4</td><td>bleue</td><td class="gauche">[[ligne]] d'électricité de 12 m (8 {s:c})</td></tr>
+  <tr><td>5-6</td><td>noire</td><td class="gauche">[[ligne]] d'acide de 12 m (8 {s:c})</td></tr>
+  <tr CLASS="alt"><td>7-8</td><td>rouge</td><td class="gauche">[[cône]] de feu de 6 m (4 {s:c})</td></tr>
+  <tr><td>9-10</td><td>verte</td><td class="gauche">[[cône]] d'acide de 6 m (4 {s:c})</td></tr>
+</table></center>
 
 </td><td><div>''Ce monstre ailé a le corps d’un lion mais sa tête féline est flanquée de deux
 autres têtes : une de dragon et une de chèvre cornue.''

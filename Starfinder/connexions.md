@@ -8,20 +8,86 @@ Ci-dessous vous trouverez les connexions le plus souvent associées aux mystique
 
 <left>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabexploit"><caption>Akashique</caption><tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr><tr CLASS="premier"><td>[[Akashique#SAVOIRAKASHIQUE|Savoir Akashique]]</td><td>1</td><td>[[Akashique#ACCESAUXARCHIVESAKASHIQUES|Accès aux Archives Akashiques]]</td><td>3</td></tr><tr><td>[[Akashique#VISIONDELAVENIR|Vision de l'avenir]]</td><td>6</td><td>[[Akashique#SONDEMENTAL|Sonde mentale]]</td><td>9</td></tr><tr><td>[[Akashique#MEMOIRESTELEPATHIQUES|Mémoires télépathiques]]</td><td>12</td><td>[[Akashique#PALAISMEMORIEL|Palais mémoriel]]</td><td>15</td></tr><tr><td>[[Akashique#EMPRUNTDESORT|Emprunt de sort]]</td><td>18</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabexploit">
+  <caption>Akashique</caption>
+  <tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr>
+  <tr CLASS="premier">
+    <td>[[Akashique#SAVOIRAKASHIQUE|Savoir Akashique]]</td>
+    <td>1</td>
+    <td>[[Akashique#ACCESAUXARCHIVESAKASHIQUES|Accès aux Archives Akashiques]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>[[Akashique#VISIONDELAVENIR|Vision de l'avenir]]</td>
+    <td>6</td>
+    <td>[[Akashique#SONDEMENTAL|Sonde mentale]]</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>[[Akashique#MEMOIRESTELEPATHIQUES|Mémoires télépathiques]]</td>
+    <td>12</td>
+    <td>[[Akashique#PALAISMEMORIEL|Palais mémoriel]]</td>
+    <td>15</td>
+  </tr>
+  <tr><td>[[Akashique#EMPRUNTDESORT|Emprunt de sort]]</td><td>18</td></tr>
+</table>
 
 </left>
 
 
 <left>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabexploit"><caption>Empathe</caption><tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr><tr CLASS="premier"><td>[[Empathe#EMPATHIE|Empathie]]</td><td>1</td><td>[[Empathe#LIENMENTALSUPERIEUR|Lien mental supérieur]]</td><td>3</td></tr><tr><td>[[Empathe#DETECTIONDESEMOTIONS|Détection des émotions]]</td><td>6</td><td>[[Empathe#DETECTIONDESMENSONGES|Détection des mensonges]]</td><td>9</td></tr><tr><td>[[Empathe#DETECTIONDESEMOTIONSSUPERIEURE|Détection des émotions supérieure]]</td><td>12</td><td>[[Empathe#RETROCOGNITION|Rétrocognition]]</td><td>15</td></tr><tr><td>[[Empathe#EMPRUNTDESORT|Maîtrise empathique]]</td><td>18</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabexploit">
+  <caption>Empathe</caption>
+  <tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr>
+  <tr CLASS="premier">
+    <td>[[Empathe#EMPATHIE|Empathie]]</td>
+    <td>1</td>
+    <td>[[Empathe#LIENMENTALSUPERIEUR|Lien mental supérieur]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>[[Empathe#DETECTIONDESEMOTIONS|Détection des émotions]]</td>
+    <td>6</td>
+    <td>[[Empathe#DETECTIONDESMENSONGES|Détection des mensonges]]</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>[[Empathe#DETECTIONDESEMOTIONSSUPERIEURE|Détection des émotions supérieure]]</td>
+    <td>12</td>
+    <td>[[Empathe#RETROCOGNITION|Rétrocognition]]</td>
+    <td>15</td>
+  </tr>
+  <tr><td>[[Empathe#EMPRUNTDESORT|Maîtrise empathique]]</td><td>18</td></tr>
+</table>
 
 </center>
 
 <right>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabexploit"><caption>Guérisseur</caption><tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr><tr CLASS="premier"><td>[[Guérisseur#FOCALISATIONCURATIVE|Focalisation curative]]</td><td>1</td><td>[[Guérisseur#LIENDEVIE|Lien de vie]]</td><td>3</td></tr><tr><td>[[Guérisseur#LIENDUGUERISSEUR|Lien du guérisseur]]</td><td>6</td><td>[[Guérisseur#VOLDEVIE|Vol de vie]]</td><td>9</td></tr><tr><td>[[Guérisseur#LIENDEFOCALISATION|Lien de focalisation]]</td><td>12</td><td>[[Guérisseur#FOCALISATIONDELAVIE|Focalisation de la vie]]</td><td>15</td></tr><tr><td>[[Guérisseur#REFUSERLAMORT|Refuser la mort]]</td><td>18</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabexploit">
+  <caption>Guérisseur</caption>
+  <tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr>
+  <tr CLASS="premier">
+    <td>[[Guérisseur#FOCALISATIONCURATIVE|Focalisation curative]]</td>
+    <td>1</td>
+    <td>[[Guérisseur#LIENDEVIE|Lien de vie]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>[[Guérisseur#LIENDUGUERISSEUR|Lien du guérisseur]]</td>
+    <td>6</td>
+    <td>[[Guérisseur#VOLDEVIE|Vol de vie]]</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>[[Guérisseur#LIENDEFOCALISATION|Lien de focalisation]]</td>
+    <td>12</td>
+    <td>[[Guérisseur#FOCALISATIONDELAVIE|Focalisation de la vie]]</td>
+    <td>15</td>
+  </tr>
+  <tr><td>[[Guérisseur#REFUSERLAMORT|Refuser la mort]]</td><td>18</td></tr>
+</table>
 
 </right>
 

@@ -40,7 +40,22 @@ Categories:
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de Gnoll</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr>
+  <tr><td>[[Flind]]</td><td>3</td></tr>
+  <tr><td>[[Cogneur gnoll]]</td><td>3</td></tr>
+  <tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr>
+  <tr><td>[[Sergent gnoll]]</td><td>4</td></tr>
+  <tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr>
+  <tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr>
+  <tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr>
+  <tr><td>[[Gardien gnoll]]</td><td>10</td></tr>
+  <tr><td>[[Saccageur gnoll]]</td><td>11</td></tr>
+  <tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr>
+  <tr><td>[[Buda gnoll]]</td><td>13</td></tr>
+</table>
 
 </div>*Cet humanoïde primitif recouvert de fourrure possède une tête de hyène, se tient légèrement voûté et dépasse de peu la taille d’un humain.*
 
@@ -83,7 +98,47 @@ Les gnolls utilisent des méthodes, des outils et une magie basés sur leur ment
 Voici quelques dons accessibles aux gnolls, certains améliorant leurs tactiques de meute.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Mâchoires claquantes]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1, [[gnoll]]</td><td>Utilise la morsure comme une attaque naturelle</td></tr><tr CLASS="premier"><td>[[Partenaire de désarmement]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1</td><td>Tente une manoeuvre de désarmement lorsqu'un allié en rate une</td></tr><tr><td>&emsp;[[Science du partenaire de désarmement]]</td><td><sup>CM</sup></td><td>[[Partenaire de désarmement]], [[BBA]] +5</td><td>Fait des attaques d'opportunité et des manoeuvres de désarmement lorsqu'un allié rate une tentative de désarmement</td></tr><tr CLASS="premier"><td>[[Repositionnement coordonné]]*</td><td><sup>CM</sup></td><td>[[Savancer|S'avancer]]</td><td>Pas de placement gratuit quand les alliés en font</td></tr><tr CLASS="premier"><td>[[Tenaille mordeuse]]*</td><td><sup>CM</sup></td><td>[[BBA]] +9, attaque de morsure</td><td>Attaque de morsure rapide en prenant un adversaire en tenaille</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Mâchoires claquantes]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[BBA]] +1, [[gnoll]]</td>
+    <td>Utilise la morsure comme une attaque naturelle</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Partenaire de désarmement]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[BBA]] +1</td>
+    <td>Tente une manoeuvre de désarmement lorsqu'un allié en rate une</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Science du partenaire de désarmement]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Partenaire de désarmement]], [[BBA]] +5</td>
+    <td>
+      Fait des attaques d'opportunité et des manoeuvres de désarmement lorsqu'un allié rate une tentative de
+      désarmement
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Repositionnement coordonné]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[Savancer|S'avancer]]</td>
+    <td>Pas de placement gratuit quand les alliés en font</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tenaille mordeuse]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[BBA]] +9, attaque de morsure</td>
+    <td>Attaque de morsure rapide en prenant un adversaire en tenaille</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

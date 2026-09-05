@@ -8,6 +8,1043 @@ LastModified: 2023-10-22 18:53
 
 <center>
 
-<table CLASS="tablo"><caption>Tableau récapitulatif des armes courantes</caption><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMEs|Armes]]</td><td>Niveau</td><td>Prix</td><td>Dégâts</td><td>Portée</td><td>Critique</td><td>Capacité</td><td>Consommation</td><td>Volume</td><td>Spécial</td></tr><tr CLASS="premier"><td COLSPAN="9">**COMBAT À MAINS NUES**</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Attaqueàmainsnues|Attaque à mains nues]] <sup></sup></td><td>—</td><td>—</td><td>1d3C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>[[Caractéristiques des armes#ARCHAIQUE|Archaïque]], [[Caractéristiques des armes#NONLETALE|Non-létale]]</td></tr><tr CLASS="alt"></tr><tr CLASS="premier"><td COLSPAN="9">'''ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPSIMPLESA1MAIN|CORPS À CORPS SIMPLES à 1 main]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Gourdin|Gourdin]]</td><td>0</td><td>—</td><td>1d6C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#ARCHAIQUE|Archaïque]]</td></tr><tr CLASS="alt"></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Couteau,survie|Couteau, survie]]</td><td>1</td><td>95</td><td>1d4T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,ceste|Gant de combat, ceste]]</td><td>1</td><td>100</td><td>1d4C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Matraque,tactique|Matraque, tactique]]</td><td>1</td><td>90</td><td>1d4C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Canne-épée,tactique|Canne-épée, tactique]]</td><td>1</td><td>250</td><td>1d4P</td><td>—</td><td>Hémorragie 1d3</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéededuel,tactique|Epée de duel, tactique]]</td><td>2</td><td>475</td><td>1d6T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Canne-épée,évoluée|Canne-épée, évoluée]]</td><td>4</td><td>2 100</td><td>1d4P</td><td>—</td><td>Hémorragie 1d4</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Couteau,tactique|Couteau, tactique]]</td><td>7</td><td>6 000</td><td>2d4T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Canne-épée,lameultrafine|Canne-épée, lame ultrafine]]</td><td>7</td><td>7 000</td><td>2d4P</td><td>—</td><td>Hémorragie 1d4</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéededuel,lamevibrante|Epée de duel, lame vibrante]]</td><td>8</td><td>9 500</td><td>2d6T</td><td>—</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Incapaciteur|Incapaciteur]]</td><td>9</td><td>14 200</td><td>3D4C</td><td>—</td><td>Chancelant</td><td>20 charges</td><td>2</td><td>F</td><td>[[Caractéristiques des armes#NONLETALE|Non-létale]], [[Caractéristiques des armes#AGENT|Agent]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,énergie|Gant de combat, énergie]]</td><td>10</td><td>16 100</td><td>2D8C</td><td>—</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Canne-épée,lamezéro|Canne-épée, lame zéro]]</td><td>10</td><td>18 000</td><td>2d6P</td><td>—</td><td>Hémorragie 1d6</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéededuel,lameultrafine|Epée de duel, lame ultrafine]]</td><td>11</td><td>2 6000</td><td>3d6T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Dague,lameultrafine|Dague, lame ultrafine]]</td><td>12</td><td>32 800</td><td>4d4T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,nova|Gant de combat, nova]]</td><td>13</td><td>52 500</td><td>3D10C</td><td>—</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Canne-épée,moléculaire|Canne-épée, moléculaire]]</td><td>13</td><td>50 900</td><td>3d8P</td><td>—</td><td>Hémorragie 1d8</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Dague,lamezero|Dague, lame zéro]]</td><td>14</td><td>64 400</td><td>6d4T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéededuel,éventreuse|Epée de duel, éventreuse]]</td><td>15</td><td>109 250</td><td>7d6T</td><td>—</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Pacificatrice|Pacificatrice]]</td><td>16</td><td>185 300</td><td>6D6C</td><td>—</td><td>Renversement</td><td>20 charges</td><td>2</td><td>F</td><td>[[Caractéristiques des armes#Agent|Agent]],  [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|étourdissant]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Canne-épée,tranchantdimensionnel|Canne-épée, tranchant dimensionnel]]</td><td>16</td><td>160 000</td><td>5d8P</td><td>—</td><td>Hémorragie 2d6</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,gravitationnel|Gant de combat, gravitationnel]]</td><td>17</td><td>214 850</td><td>5D10C</td><td>—</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Dague,moléculaire|Dague, moléculaire]]</td><td>17</td><td>275 000</td><td>10d4T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéededuel,moléculaire|Epée de duel, moléculaire]]</td><td>18</td><td>331 200</td><td>10d6T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Matraque,évoluée|Matraque, évoluée]]</td><td>19</td><td>540 000</td><td>8D6C</td><td>—</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#AGENT|Agent]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEAUNEMAIN|À 2 MAINS]]**{s:Reference|ARMESCOURANTES2MAINS}</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Bâton,decombat|Bâton, de combat]]</td><td>1</td><td>80</td><td>1d4C</td><td>—</td><td>Renversement</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Lance,tactique|Lance, tactique]]</td><td>1</td><td>375</td><td>1d6P</td><td>6m</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Bâton,carbone|Bâton, carbone]]</td><td>7</td><td>6 150</td><td>1d8C</td><td>—</td><td>Renversement</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Lance,sentinelle|Lance, sentinelle]]</td><td>8</td><td>10 000</td><td>2d6P</td><td>6m</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Lance,lamevibrante|Lance, lame vibrante]]</td><td>11</td><td>22 650</td><td>3d6P</td><td>6m</td><td>—</td><td>40 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr><td>| &emsp;[[Descriptions individuelles des armes#Lance,lamezéro|Lance, lame zéro]]</td><td>15</td><td>107 350</td><td>7d6P</td><td>6m</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Bâton,photonique|Bâton, photonique]]</td><td>18</td><td>320 800</td><td>8d8C</td><td>—</td><td>Renversement</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Lance,gravitationnelle|Lance, gravitationnelle]]</td><td>19</td><td>552 000</td><td>12d6P</td><td>6m</td><td>—</td><td>40 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="premier"><td COLSPAN="9">**ARMES DE CORPS A CORPS EVOLUEES**</td></tr><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMESDECORPSACORPSEVOLUEES|Armes de corps à corps évoluées]]</td><td>Niveau</td><td>Prix</td><td>Dégâts</td><td>Portée</td><td>Critique</td><td>Capacité</td><td>Consommation</td><td>Volume</td><td>Spécial</td></tr><tr CLASS="premier"><td COLSPAN="9">**Choc**</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,statique|Matraque choc, statique]]</td><td>8</td><td>9 150</td><td>1d12E</td><td>—</td><td>Propagation 1d4</td><td>20 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,aurora|Matraque choc, aurora]]</td><td>11</td><td>23 000</td><td>2d12E</td><td>—</td><td>Propagation 2d4</td><td>20 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,orage|Matraque choc, orage]]</td><td>16</td><td>80 200</td><td>3d12E</td><td>—</td><td>Propagation 3d4</td><td>40 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,tempête|Matraque choc, tempête]]</td><td>19</td><td>545 000</td><td>6d12E</td><td>—</td><td>Propagation 6d4</td><td>40 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]</td></tr><tr><td COLSPAN="9">**Incendiaire**</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéedefeucéleste,tactique|Epée du feu céleste, tactique]]</td><td>7</td><td>6 120</td><td>2d4F</td><td>—</td><td>Combustion 1d8</td><td>20 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="premier"><td>&emsp;[[Descriptions individuelles des armes#Epéedefeucéleste,brasier|Epée du feu céleste, brasier]]</td><td>17</td><td>246 000</td><td>7d8F</td><td>—</td><td>Combustion 4d12</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td COLSPAN="9">**Plasma**</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,tactique|Epée à plasma, tactique]]</td><td>9</td><td>14 550</td><td>2d8E&F</td><td>—</td><td>Blessure grave</td><td>20 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoilerouge|Epée à plasma, étoile rouge]]</td><td>13</td><td>54 300</td><td>4d8E&F</td><td>—</td><td>Blessure grave</td><td>40 charges</td><td>4</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoilejaune|Epée à plasma, étoile jaune]]</td><td>15</td><td>127 000</td><td>5d8E&F</td><td>—</td><td>Blessure grave</td><td>40 charges</td><td>4</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoileblanche|Epée à plasma, étoile blanche]]</td><td>18</td><td>415 600</td><td>8d8E&F</td><td>—</td><td>Blessure grave</td><td>40 charges</td><td>4</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoilebleue|Epée à plasma, étoile bleue]]</td><td>20</td><td>920 250</td><td>10d8E&F</td><td>—</td><td>Blessure grave</td><td>40 charges</td><td>4</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td COLSPAN="9">**Sonique**</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,tonnerre|Gant pulseur, tonnerre]]</td><td>2</td><td>475</td><td>1d6C&S</td><td>—</td><td>Renversement</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,ABF|Gant pulseur, ABF]]</td><td>7</td><td>7 340</td><td>2d6C&S</td><td>—</td><td>Renversement</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,AHF|Gant pulseur, AHF]]</td><td>12</td><td>31 300</td><td>5d6C&S</td><td>—</td><td>Renversement</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,banshee|Gant pulseur, banshee]]</td><td>16</td><td>148 200</td><td>10d6C&S</td><td>—</td><td>Renversement</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td COLSPAN="9">**Sans catégorie**</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéelongue|Epée longue]]</td><td>1</td><td>375</td><td>1d8T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Fouettactique,standard|Fouet tactique, standard]]</td><td>1</td><td>240</td><td>1d4T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#NONLETALE|Non létale]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Lamétoile,tactique|Lamétoile, tactique]]</td><td>1</td><td>110</td><td>1d4P</td><td>6m</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Marteau,assaut|Marteau, assaut]]</td><td>1</td><td>95</td><td>1d6C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Gantelet,injecteur|Gantelet, injecteur]]</td><td>2</td><td>490</td><td>1d4P</td><td>—</td><td>Injection DD+2</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#INJECTION|injection]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Gantelet,injecteur|Gantelet, injecteur]]</td><td>2</td><td>490</td><td>1d4P</td><td>—</td><td>Injection DD+2</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#INJECTION|injection]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#xénofouet,immature|Xénofouet, immature]]</td><td>4</td><td>2 430</td><td>2d4A&T</td><td>—</td><td>Corrosion 1d4</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Echarpeuse|Echarpeuse]]</td><td>7</td><td>5 430</td><td>1d12T</td><td>—</td><td>Hémorragie 1d8</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,frittée|Epée longue, frittée]]</td><td>7</td><td>8 420</td><td>2d8T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Lamétoile,frittée|Lamétoile, frittée]]</td><td>8</td><td>9 810</td><td>4d4P</td><td>15m</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,microdentelée|Epée longue, microdentelée]]</td><td>9</td><td>12 100</td><td>2d10T</td><td>—</td><td>Hémorragie 2d6</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Marteau,comète|Marteau, comète]]</td><td>10</td><td>16 900</td><td>4d6T</td><td>—</td><td>—</td><td>20 charges</td><td>2</td><td>1</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#xénofouet,mature|Xénofouet, mature]]</td><td>10</td><td>17 000</td><td>5d4A&T</td><td>—</td><td>Corrosion 2d4</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,lameultrafine|Epée longue, lame ultrafine]]</td><td>11</td><td>26 300</td><td>4d8T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Fouettactique,engourdissement|Fouet tactique, engourdissement]]</td><td>11</td><td>24 800</td><td>5d4T</td><td>—</td><td>—</td><td>20 charges</td><td>2</td><td>F</td><td>[[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Lamétoile,accélérée|Lamétoile, accélérée]]</td><td>12</td><td>40 400</td><td>4d8F&P</td><td>9m</td><td>—</td><td>20 charges</td><td>1</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Hacheuse|Hacheuse]]</td><td>13</td><td>45 700</td><td>4d10T</td><td>—</td><td>Hémorragie 2d8</td><td>20 charges</td><td>1</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,lamezéro|Epée longue, lame zéro]]</td><td>14</td><td>79 500</td><td>7d8T</td><td>—</td><td>Blessure grave</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#xénofouet,éclos|Xénofouet, éclos]]</td><td>14</td><td>70 000</td><td>9d4A&T</td><td>—</td><td>Corrosion 4d4</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Mono-fouet|Mono-fouet]]</td><td>15</td><td>107 000</td><td>10d4T</td><td>—</td><td>Blessure grave</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Lamétoile,fulgurante|Lamétoile, fulgurante]]</td><td>16</td><td>183 400</td><td>8d8F&P</td><td>15m</td><td>—</td><td>20 charges</td><td>2</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Marteau,météore|Marteau, météore]]</td><td>16</td><td>164 500</td><td>11d6C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,moléculaire|Epée longue, moléculaire]]</td><td>17</td><td>245 200</td><td>10d8T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,ultradentelée|Epée longue, ultradentelée]]</td><td>18</td><td>368 100</td><td>8d10T</td><td>—</td><td>Hémorragie 6d6</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Lamétoile,tranchantdimensionnel|Lamétoile, tranchant dimensionnel]]</td><td>19</td><td>602 200</td><td>8d12P</td><td>24m</td><td>—</td><td>—</td><td>—</td><td>F</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#LANCEE|Lancée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#xénofouet,àgraines|Xénofouet, à graines]]</td><td>18</td><td>409 000</td><td>9d8A&T</td><td>—</td><td>Corrosion 6d4</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]</td></tr><tr><td>&emsp;[[Descriptions individuelles des armes#Marteau,puitsgravitationnel|Marteau, puits gravitationnel]]</td><td>19</td><td>551 000</td><td>15d6T</td><td>—</td><td>—</td><td>40 charges</td><td>2</td><td>F</td><td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td></tr><tr CLASS="alt"><td>&emsp;[[Descriptions individuelles des armes#Epéelongue,tranchantdimensionnel|Epée longue, tranchant dimensionnel]]</td><td>20</td><td>727 300</td><td>14d8T</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tableau récapitulatif des armes courantes</caption>
+  <tr CLASS="titre">
+    <td>[[Caractéristiques des armes#ARMEs|Armes]]</td>
+    <td>Niveau</td>
+    <td>Prix</td>
+    <td>Dégâts</td>
+    <td>Portée</td>
+    <td>Critique</td>
+    <td>Capacité</td>
+    <td>Consommation</td>
+    <td>Volume</td>
+    <td>Spécial</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**COMBAT À MAINS NUES**</td></tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Attaqueàmainsnues|Attaque à mains nues]] <sup></sup></td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d3C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>[[Caractéristiques des armes#ARCHAIQUE|Archaïque]], [[Caractéristiques des armes#NONLETALE|Non-létale]]</td>
+  </tr>
+  <tr CLASS="alt"></tr>
+  <tr CLASS="premier">
+    <td COLSPAN="9">
+      '''ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPSIMPLESA1MAIN|CORPS À CORPS SIMPLES à 1 main]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Gourdin|Gourdin]]</td>
+    <td>0</td>
+    <td>—</td>
+    <td>1d6C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#ARCHAIQUE|Archaïque]]</td>
+  </tr>
+  <tr CLASS="alt"></tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Couteau,survie|Couteau, survie]]</td>
+    <td>1</td>
+    <td>95</td>
+    <td>1d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,ceste|Gant de combat, ceste]]</td>
+    <td>1</td>
+    <td>100</td>
+    <td>1d4C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Matraque,tactique|Matraque, tactique]]</td>
+    <td>1</td>
+    <td>90</td>
+    <td>1d4C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Canne-épée,tactique|Canne-épée, tactique]]</td>
+    <td>1</td>
+    <td>250</td>
+    <td>1d4P</td>
+    <td>—</td>
+    <td>Hémorragie 1d3</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéededuel,tactique|Epée de duel, tactique]]</td>
+    <td>2</td>
+    <td>475</td>
+    <td>1d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Canne-épée,évoluée|Canne-épée, évoluée]]</td>
+    <td>4</td>
+    <td>2 100</td>
+    <td>1d4P</td>
+    <td>—</td>
+    <td>Hémorragie 1d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Couteau,tactique|Couteau, tactique]]</td>
+    <td>7</td>
+    <td>6 000</td>
+    <td>2d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Canne-épée,lameultrafine|Canne-épée, lame ultrafine]]</td>
+    <td>7</td>
+    <td>7 000</td>
+    <td>2d4P</td>
+    <td>—</td>
+    <td>Hémorragie 1d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéededuel,lamevibrante|Epée de duel, lame vibrante]]</td>
+    <td>8</td>
+    <td>9 500</td>
+    <td>2d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Incapaciteur|Incapaciteur]]</td>
+    <td>9</td>
+    <td>14 200</td>
+    <td>3D4C</td>
+    <td>—</td>
+    <td>Chancelant</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>F</td>
+    <td>
+      [[Caractéristiques des armes#NONLETALE|Non-létale]], [[Caractéristiques des armes#AGENT|Agent]],
+      [[Caractéristiques des armes#ALIMENTEE|Alimentée]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,énergie|Gant de combat, énergie]]</td>
+    <td>10</td>
+    <td>16 100</td>
+    <td>2D8C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Canne-épée,lamezéro|Canne-épée, lame zéro]]</td>
+    <td>10</td>
+    <td>18 000</td>
+    <td>2d6P</td>
+    <td>—</td>
+    <td>Hémorragie 1d6</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéededuel,lameultrafine|Epée de duel, lame ultrafine]]</td>
+    <td>11</td>
+    <td>2 6000</td>
+    <td>3d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Dague,lameultrafine|Dague, lame ultrafine]]</td>
+    <td>12</td>
+    <td>32 800</td>
+    <td>4d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,nova|Gant de combat, nova]]</td>
+    <td>13</td>
+    <td>52 500</td>
+    <td>3D10C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Canne-épée,moléculaire|Canne-épée, moléculaire]]</td>
+    <td>13</td>
+    <td>50 900</td>
+    <td>3d8P</td>
+    <td>—</td>
+    <td>Hémorragie 1d8</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Dague,lamezero|Dague, lame zéro]]</td>
+    <td>14</td>
+    <td>64 400</td>
+    <td>6d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéededuel,éventreuse|Epée de duel, éventreuse]]</td>
+    <td>15</td>
+    <td>109 250</td>
+    <td>7d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Pacificatrice|Pacificatrice]]</td>
+    <td>16</td>
+    <td>185 300</td>
+    <td>6D6C</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>F</td>
+    <td>
+      [[Caractéristiques des armes#Agent|Agent]],  [[Caractéristiques des armes#ALIMENTEE|Alimentée]],
+      [[Caractéristiques des armes#ETOURDISSANT|étourdissant]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      &emsp;[[Descriptions individuelles des armes#Canne-épée,tranchantdimensionnel|Canne-épée, tranchant
+      dimensionnel]]
+    </td>
+    <td>16</td>
+    <td>160 000</td>
+    <td>5d8P</td>
+    <td>—</td>
+    <td>Hémorragie 2d6</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Gantdecombat,gravitationnel|Gant de combat, gravitationnel]]</td>
+    <td>17</td>
+    <td>214 850</td>
+    <td>5D10C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Dague,moléculaire|Dague, moléculaire]]</td>
+    <td>17</td>
+    <td>275 000</td>
+    <td>10d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#AGENT|Agent]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéededuel,moléculaire|Epée de duel, moléculaire]]</td>
+    <td>18</td>
+    <td>331 200</td>
+    <td>10d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Matraque,évoluée|Matraque, évoluée]]</td>
+    <td>19</td>
+    <td>540 000</td>
+    <td>8D6C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#AGENT|Agent]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td COLSPAN="9">
+      **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des
+      armes#ARMEAUNEMAIN|À 2 MAINS]]**{s:Reference|ARMESCOURANTES2MAINS}
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Bâton,decombat|Bâton, de combat]]</td>
+    <td>1</td>
+    <td>80</td>
+    <td>1d4C</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Lance,tactique|Lance, tactique]]</td>
+    <td>1</td>
+    <td>375</td>
+    <td>1d6P</td>
+    <td>6m</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]],
+      [[Caractéristiques des armes#LANCEE|Lancée]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Bâton,carbone|Bâton, carbone]]</td>
+    <td>7</td>
+    <td>6 150</td>
+    <td>1d8C</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Lance,sentinelle|Lance, sentinelle]]</td>
+    <td>8</td>
+    <td>10 000</td>
+    <td>2d6P</td>
+    <td>6m</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]],
+      [[Caractéristiques des armes#LANCEE|Lancée]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Lance,lamevibrante|Lance, lame vibrante]]</td>
+    <td>11</td>
+    <td>22 650</td>
+    <td>3d6P</td>
+    <td>6m</td>
+    <td>—</td>
+    <td>40 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]],
+      [[Caractéristiques des armes#LANCEE|Lancée]]
+    </td>
+  </tr>
+  <tr>
+    <td>| &emsp;[[Descriptions individuelles des armes#Lance,lamezéro|Lance, lame zéro]]</td>
+    <td>15</td>
+    <td>107 350</td>
+    <td>7d6P</td>
+    <td>6m</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]],
+      [[Caractéristiques des armes#LANCEE|Lancée]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Bâton,photonique|Bâton, photonique]]</td>
+    <td>18</td>
+    <td>320 800</td>
+    <td>8d8C</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#GARDE|Garde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Lance,gravitationnelle|Lance, gravitationnelle]]</td>
+    <td>19</td>
+    <td>552 000</td>
+    <td>12d6P</td>
+    <td>6m</td>
+    <td>—</td>
+    <td>40 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#GARDE|Garde]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]],
+      [[Caractéristiques des armes#LANCEE|Lancée]]
+    </td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**ARMES DE CORPS A CORPS EVOLUEES**</td></tr>
+  <tr CLASS="titre">
+    <td>[[Caractéristiques des armes#ARMESDECORPSACORPSEVOLUEES|Armes de corps à corps évoluées]]</td>
+    <td>Niveau</td>
+    <td>Prix</td>
+    <td>Dégâts</td>
+    <td>Portée</td>
+    <td>Critique</td>
+    <td>Capacité</td>
+    <td>Consommation</td>
+    <td>Volume</td>
+    <td>Spécial</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Choc**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,statique|Matraque choc, statique]]</td>
+    <td>8</td>
+    <td>9 150</td>
+    <td>1d12E</td>
+    <td>—</td>
+    <td>Propagation 1d4</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,aurora|Matraque choc, aurora]]</td>
+    <td>11</td>
+    <td>23 000</td>
+    <td>2d12E</td>
+    <td>—</td>
+    <td>Propagation 2d4</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,orage|Matraque choc, orage]]</td>
+    <td>16</td>
+    <td>80 200</td>
+    <td>3d12E</td>
+    <td>—</td>
+    <td>Propagation 3d4</td>
+    <td>40 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Matraquechoc,tempête|Matraque choc, tempête]]</td>
+    <td>19</td>
+    <td>545 000</td>
+    <td>6d12E</td>
+    <td>—</td>
+    <td>Propagation 6d4</td>
+    <td>40 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#ETOURDISSANT|Etourdissant]]
+    </td>
+  </tr>
+  <tr><td COLSPAN="9">**Incendiaire**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéedefeucéleste,tactique|Epée du feu céleste, tactique]]</td>
+    <td>7</td>
+    <td>6 120</td>
+    <td>2d4F</td>
+    <td>—</td>
+    <td>Combustion 1d8</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéedefeucéleste,brasier|Epée du feu céleste, brasier]]</td>
+    <td>17</td>
+    <td>246 000</td>
+    <td>7d8F</td>
+    <td>—</td>
+    <td>Combustion 4d12</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr><td COLSPAN="9">**Plasma**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,tactique|Epée à plasma, tactique]]</td>
+    <td>9</td>
+    <td>14 550</td>
+    <td>2d8E&F</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoilerouge|Epée à plasma, étoile rouge]]</td>
+    <td>13</td>
+    <td>54 300</td>
+    <td>4d8E&F</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>40 charges</td>
+    <td>4</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoilejaune|Epée à plasma, étoile jaune]]</td>
+    <td>15</td>
+    <td>127 000</td>
+    <td>5d8E&F</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>40 charges</td>
+    <td>4</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoileblanche|Epée à plasma, étoile blanche]]</td>
+    <td>18</td>
+    <td>415 600</td>
+    <td>8d8E&F</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>40 charges</td>
+    <td>4</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéeàplasma,étoilebleue|Epée à plasma, étoile bleue]]</td>
+    <td>20</td>
+    <td>920 250</td>
+    <td>10d8E&F</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>40 charges</td>
+    <td>4</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr><td COLSPAN="9">**Sonique**</td></tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,tonnerre|Gant pulseur, tonnerre]]</td>
+    <td>2</td>
+    <td>475</td>
+    <td>1d6C&S</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,ABF|Gant pulseur, ABF]]</td>
+    <td>7</td>
+    <td>7 340</td>
+    <td>2d6C&S</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,AHF|Gant pulseur, AHF]]</td>
+    <td>12</td>
+    <td>31 300</td>
+    <td>5d6C&S</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Gantpulseur,banshee|Gant pulseur, banshee]]</td>
+    <td>16</td>
+    <td>148 200</td>
+    <td>10d6C&S</td>
+    <td>—</td>
+    <td>Renversement</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr><td COLSPAN="9">**Sans catégorie**</td></tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue|Epée longue]]</td>
+    <td>1</td>
+    <td>375</td>
+    <td>1d8T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Fouettactique,standard|Fouet tactique, standard]]</td>
+    <td>1</td>
+    <td>240</td>
+    <td>1d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]],
+      [[Caractéristiques des armes#NONLETALE|Non létale]], [[Caractéristiques des armes#ALLONGE|Allonge]],
+      [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Lamétoile,tactique|Lamétoile, tactique]]</td>
+    <td>1</td>
+    <td>110</td>
+    <td>1d4P</td>
+    <td>6m</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#LANCEE|Lancée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Marteau,assaut|Marteau, assaut]]</td>
+    <td>1</td>
+    <td>95</td>
+    <td>1d6C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Gantelet,injecteur|Gantelet, injecteur]]</td>
+    <td>2</td>
+    <td>490</td>
+    <td>1d4P</td>
+    <td>—</td>
+    <td>Injection DD+2</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#INJECTION|injection]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Gantelet,injecteur|Gantelet, injecteur]]</td>
+    <td>2</td>
+    <td>490</td>
+    <td>1d4P</td>
+    <td>—</td>
+    <td>Injection DD+2</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#INJECTION|injection]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#xénofouet,immature|Xénofouet, immature]]</td>
+    <td>4</td>
+    <td>2 430</td>
+    <td>2d4A&T</td>
+    <td>—</td>
+    <td>Corrosion 1d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]],
+      [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]],
+      [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Echarpeuse|Echarpeuse]]</td>
+    <td>7</td>
+    <td>5 430</td>
+    <td>1d12T</td>
+    <td>—</td>
+    <td>Hémorragie 1d8</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue,frittée|Epée longue, frittée]]</td>
+    <td>7</td>
+    <td>8 420</td>
+    <td>2d8T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Lamétoile,frittée|Lamétoile, frittée]]</td>
+    <td>8</td>
+    <td>9 810</td>
+    <td>4d4P</td>
+    <td>15m</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#LANCEE|Lancée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue,microdentelée|Epée longue, microdentelée]]</td>
+    <td>9</td>
+    <td>12 100</td>
+    <td>2d10T</td>
+    <td>—</td>
+    <td>Hémorragie 2d6</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Marteau,comète|Marteau, comète]]</td>
+    <td>10</td>
+    <td>16 900</td>
+    <td>4d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#xénofouet,mature|Xénofouet, mature]]</td>
+    <td>10</td>
+    <td>17 000</td>
+    <td>5d4A&T</td>
+    <td>—</td>
+    <td>Corrosion 2d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]],
+      [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]],
+      [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue,lameultrafine|Epée longue, lame ultrafine]]</td>
+    <td>11</td>
+    <td>26 300</td>
+    <td>4d8T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;[[Descriptions individuelles des armes#Fouettactique,engourdissement|Fouet tactique, engourdissement]]
+    </td>
+    <td>11</td>
+    <td>24 800</td>
+    <td>5d4T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>F</td>
+    <td>
+      [[Caractéristiques des armes#DESARMEMENT|désarmement]], [[Caractéristiques des
+      armes#ETOURDISSANT|Etourdissant]], [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des
+      armes#CROCENJAMBE|Croc-en-jambe]], [[Caractéristiques des armes#ALIMENTEE|Alimentée]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Lamétoile,accélérée|Lamétoile, accélérée]]</td>
+    <td>12</td>
+    <td>40 400</td>
+    <td>4d8F&P</td>
+    <td>9m</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#LANCEE|Lancée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Hacheuse|Hacheuse]]</td>
+    <td>13</td>
+    <td>45 700</td>
+    <td>4d10T</td>
+    <td>—</td>
+    <td>Hémorragie 2d8</td>
+    <td>20 charges</td>
+    <td>1</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue,lamezéro|Epée longue, lame zéro]]</td>
+    <td>14</td>
+    <td>79 500</td>
+    <td>7d8T</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#xénofouet,éclos|Xénofouet, éclos]]</td>
+    <td>14</td>
+    <td>70 000</td>
+    <td>9d4A&T</td>
+    <td>—</td>
+    <td>Corrosion 4d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]],
+      [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]],
+      [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Mono-fouet|Mono-fouet]]</td>
+    <td>15</td>
+    <td>107 000</td>
+    <td>10d4T</td>
+    <td>—</td>
+    <td>Blessure grave</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]],
+      [[Caractéristiques des armes#ALLONGE|Allonge]], [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Lamétoile,fulgurante|Lamétoile, fulgurante]]</td>
+    <td>16</td>
+    <td>183 400</td>
+    <td>8d8F&P</td>
+    <td>15m</td>
+    <td>—</td>
+    <td>20 charges</td>
+    <td>2</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]], [[Caractéristiques des armes#LANCEE|Lancée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Marteau,météore|Marteau, météore]]</td>
+    <td>16</td>
+    <td>164 500</td>
+    <td>11d6C</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue,moléculaire|Epée longue, moléculaire]]</td>
+    <td>17</td>
+    <td>245 200</td>
+    <td>10d8T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#Epéelongue,ultradentelée|Epée longue, ultradentelée]]</td>
+    <td>18</td>
+    <td>368 100</td>
+    <td>8d10T</td>
+    <td>—</td>
+    <td>Hémorragie 6d6</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;[[Descriptions individuelles des armes#Lamétoile,tranchantdimensionnel|Lamétoile, tranchant
+      dimensionnel]]
+    </td>
+    <td>19</td>
+    <td>602 200</td>
+    <td>8d12P</td>
+    <td>24m</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#LANCEE|Lancée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Descriptions individuelles des armes#xénofouet,àgraines|Xénofouet, à graines]]</td>
+    <td>18</td>
+    <td>409 000</td>
+    <td>9d8A&T</td>
+    <td>—</td>
+    <td>Corrosion 6d4</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>
+      [[Caractéristiques des armes#ANALOGIQUE|Analogique]], [[Caractéristiques des armes#DESARMEMENT|désarmement]],
+      [[Caractéristiques des armes#ENCHEVETREMENT|enchevêtrement]], [[Caractéristiques des armes#ALLONGE|Allonge]],
+      [[Caractéristiques des armes#CROCENJAMBE|Croc-en-jambe]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Descriptions individuelles des armes#Marteau,puitsgravitationnel|Marteau, puits gravitationnel]]</td>
+    <td>19</td>
+    <td>551 000</td>
+    <td>15d6T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>40 charges</td>
+    <td>2</td>
+    <td>F</td>
+    <td>[[Caractéristiques des armes#ALIMENTEE|Alimentée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      &emsp;[[Descriptions individuelles des armes#Epéelongue,tranchantdimensionnel|Epée longue, tranchant
+      dimensionnel]]
+    </td>
+    <td>20</td>
+    <td>727 300</td>
+    <td>14d8T</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1</td>
+    <td>[[Caractéristiques des armes#ANALOGIQUE|Analogique]]</td>
+  </tr>
+</table>
 
 </center>

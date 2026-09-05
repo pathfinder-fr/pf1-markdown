@@ -49,7 +49,34 @@ Nobles et bienveillants, les dragons du ciel, ou tianlongs, sont les redoutables
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>[[Immunité (capacité)|immunité]] à l’électricité, porté par les airs</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Vision dans les nuages</td><td>—</td></tr><tr><td>Jeune</td><td>Changement de forme, *[[détection du Mal]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Feuille morte]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[Bourrasque]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[Appel de la foudre]]*, foudre primale</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Contrôle des vents]]*, souffle terrassant</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Émissaire céleste, *[[nuées dorage|nuées d’orage]]*</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier">
+    <td>Dragonnet</td>
+    <td>[[Immunité (capacité)|immunité]] à l’électricité, porté par les airs</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>Vision dans les nuages</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>Changement de forme, *[[détection du Mal]]*</td><td>1</td></tr>
+  <tr CLASS="alt">
+    <td>Adolescent</td>
+    <td>*[[Feuille morte]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Jeune adulte</td>
+    <td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td>
+    <td>5</td>
+  </tr>
+  <tr CLASS="alt"><td>Adulte</td><td>*[[Bourrasque]]*</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>*[[Appel de la foudre]]*, foudre primale</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[Contrôle des vents]]*, souffle terrassant</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>Émissaire céleste, *[[nuées dorage|nuées d’orage]]*</td><td>19</td></tr>
+</table>
 
 </center>
 </div></td></tr></table>

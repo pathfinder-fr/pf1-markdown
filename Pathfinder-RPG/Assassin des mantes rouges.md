@@ -75,7 +75,21 @@ L’assassin pourpre est formé au maniement de toutes les armes courantes et de
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centreautoalt"><caption>{s:Reference|TABLESORTSCONNUSMANTE}Sorts connus par l'assassin pourpre</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>2</td><td>–</td><td>–</td><td>–</td></tr><tr><td>2</td><td>3</td><td>–</td><td>–</td><td>–</td></tr><tr><td>3</td><td>4</td><td>–</td><td>–</td><td>–</td></tr><tr><td>4</td><td>4</td><td>2</td><td>–</td><td>–</td></tr><tr><td>5</td><td>4</td><td>3</td><td>–</td><td>–</td></tr><tr><td>6</td><td>4</td><td>4</td><td>–</td><td>–</td></tr><tr><td>7</td><td>5</td><td>4</td><td>2</td><td>–</td></tr><tr><td>8</td><td>5</td><td>4</td><td>3</td><td>–</td></tr><tr><td>9</td><td>5</td><td>4</td><td>4</td><td>–</td></tr><tr><td>10</td><td>5</td><td>5</td><td>4</td><td>2</td></tr></table>
+<table CLASS="tablo centreautoalt">
+  <caption>{s:Reference|TABLESORTSCONNUSMANTE}Sorts connus par l'assassin pourpre</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>2</td><td>–</td><td>–</td><td>–</td></tr>
+  <tr><td>2</td><td>3</td><td>–</td><td>–</td><td>–</td></tr>
+  <tr><td>3</td><td>4</td><td>–</td><td>–</td><td>–</td></tr>
+  <tr><td>4</td><td>4</td><td>2</td><td>–</td><td>–</td></tr>
+  <tr><td>5</td><td>4</td><td>3</td><td>–</td><td>–</td></tr>
+  <tr><td>6</td><td>4</td><td>4</td><td>–</td><td>–</td></tr>
+  <tr><td>7</td><td>5</td><td>4</td><td>2</td><td>–</td></tr>
+  <tr><td>8</td><td>5</td><td>4</td><td>3</td><td>–</td></tr>
+  <tr><td>9</td><td>5</td><td>4</td><td>4</td><td>–</td></tr>
+  <tr><td>10</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+</table>
 
 </div></div>L'assassin lance des sorts profanes issus de la liste de magicien/ensorceleur, mais elle est limitée aux sorts d’illusion et de transmutation. Il peut lancer tout sort connu sans avoir besoin de le préparer à l’avance.
 

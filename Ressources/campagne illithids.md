@@ -23,9 +23,31 @@ Bonne lecture à toi
 Trouvable ci-dessous l'avancement de mon projet. Il n'avancera pas vite, mais au moins, cher lecteur, tu sauras où j'en suis (et moi aussi :D).
 
 
-<table CLASS="tablo centre"><caption>Avancement global du projet</caption><tr CLASS="titre alt lignesup"><td COLSPAN="4">Guide du joueur</td></tr><tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr><tr><td>Race</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Classe</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Traits de campagne</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Systèmes et règles optionnels</td><td>0%</td><td>0%</td><td>0%</td><td>  
- </br></td></tr><tr CLASS="titre alt lignesup"><td COLSPAN="4">Campagne</td></tr><tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr><tr><td>Synopsis</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Résumé des chapitres</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 1 - Mystère au centre du monde</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 2 - Quand le voile s'épaissi</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 3 - Recherche immatérielle</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 4 - Rencontre du troisième type</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 5 - Mystère dévoilée</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 6 - Voyage en terre inconnue</td><td>0%</td><td>0%</td><td>0%</td><td>  
- </br></td></tr><tr CLASS="titre alt lignesup"><td COLSPAN="4">Annexe</td></tr><tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr><tr><td>Ecologie des illithids</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Ecologie des dévoreurs d'intellect</td><td>0%</td><td>0%</td><td>0%</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Avancement global du projet</caption>
+  <tr CLASS="titre alt lignesup"><td COLSPAN="4">Guide du joueur</td></tr>
+  <tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr>
+  <tr><td>Race</td><td>100%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Classe</td><td>100%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Traits de campagne</td><td>100%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Systèmes et règles optionnels</td><td>0%</td><td>0%</td><td>0%</td><td>  
+ </br></td></tr>
+  <tr CLASS="titre alt lignesup"><td COLSPAN="4">Campagne</td></tr>
+  <tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr>
+  <tr><td>Synopsis</td><td>100%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Résumé des chapitres</td><td>100%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Chapitre 1 - Mystère au centre du monde</td><td>0%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Chapitre 2 - Quand le voile s'épaissi</td><td>0%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Chapitre 3 - Recherche immatérielle</td><td>0%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Chapitre 4 - Rencontre du troisième type</td><td>0%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Chapitre 5 - Mystère dévoilée</td><td>0%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Chapitre 6 - Voyage en terre inconnue</td><td>0%</td><td>0%</td><td>0%</td><td>  
+ </br></td></tr>
+  <tr CLASS="titre alt lignesup"><td COLSPAN="4">Annexe</td></tr>
+  <tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr>
+  <tr><td>Ecologie des illithids</td><td>0%</td><td>0%</td><td>0%</td></tr>
+  <tr><td>Ecologie des dévoreurs d'intellect</td><td>0%</td><td>0%</td><td>0%</td></tr>
+</table>
 
   
 

@@ -31,7 +31,20 @@ Le plafond de cette salle renferme un secret original. À l'époque du Prince g�
 Au fil des années, un certain nombre d'objets précieux se sont retrouvés dans cet horrible amas sanglant. Si une personne passe au moins 1 minute à fouiller la salle, elle peut effectuer un test de Perception de DD 15. En cas de réussite, utilisez la table suivante pour déterminer ce qu'elle trouve. Chaque objet ne peut être trouvé qu'une seule fois. Si le même résultat revient une seconde fois, l'objet trouvé est le suivant sur la liste.
 </td><td>
 
-<table CLASS="tablo toutgauche"><tr CLASS="titre"><td>(d6) Objet trouvé</td></tr><tr CLASS="premier"><td>1. une petite boîte de fer contenant 7 pp, 3 po et 5 pa</td></tr><tr CLASS="alt"><td>2. un anneau en or avec une émeraude valant 200 po</td></tr><tr><td>3. une fiole d'argent contenant une *potion de vol*</td></tr><tr CLASS="alt"><td>4. un *anneau de protection +1*</td></tr><tr><td>5. une *figurine merveilleuse* (corbeau en argent)*</td></tr><tr CLASS="alt"><td>6. un bracelet de cuivre portant les armoiries d'une famille ; celles-ci ressemblent à un arbre émergeant d'un cœeur</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <tr CLASS="titre"><td>(d6) Objet trouvé</td></tr>
+  <tr CLASS="premier"><td>1. une petite boîte de fer contenant 7 pp, 3 po et 5 pa</td></tr>
+  <tr CLASS="alt"><td>2. un anneau en or avec une émeraude valant 200 po</td></tr>
+  <tr><td>3. une fiole d'argent contenant une *potion de vol*</td></tr>
+  <tr CLASS="alt"><td>4. un *anneau de protection +1*</td></tr>
+  <tr><td>5. une *figurine merveilleuse* (corbeau en argent)*</td></tr>
+  <tr CLASS="alt">
+    <td>
+      6. un bracelet de cuivre portant les armoiries d'une famille ; celles-ci ressemblent à un arbre émergeant d'un
+      cœeur
+    </td>
+  </tr>
+</table>
 
 
 (*) Un groupe possédant une *figurine merveilleuse* (corbeau en argent) peut acheter un parchemin ou une potion en ville.

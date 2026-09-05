@@ -138,7 +138,20 @@ Les règles suivantes présentent un nouveau mystère d’oracle ainsi que des d
 Voici un don des géants du feu.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Rocher fumant]]</td><td><sup>CM</sup></td><td>[[BBA]] +11, pouvoir [[Géant du feu|rochers surchauffés]]</td><td>Les rochers lancés émettent un nuage de fumée</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rocher fumant]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[BBA]] +11, pouvoir [[Géant du feu|rochers surchauffés]]</td>
+    <td>Les rochers lancés émettent un nuage de fumée</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

@@ -23,7 +23,22 @@ Categories:
 </div>
 
 
-<table CLASS="tablo"><caption>Tableau des types de souffles</caption><tr CLASS="titre"><td class="gauche">Type de dragon</td><td class="gauche">Type de souffle</td></tr><tr CLASS="premier"><td class="gauche">airain</td><td class="gauche">[[ligne]] de feu de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td class="gauche">argent ou blanc</td><td class="gauche">[[cône]] de froid de 9 m (6 {s:c})</td></tr><tr><td class="gauche">bleu ou bronze</td><td class="gauche">[[ligne]] d'électricité de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td class="gauche">cuivre ou noir</td><td class="gauche">[[ligne]] d'acide de 18 m (12 {s:c})</td></tr><tr><td class="gauche">or ou rouge</td><td class="gauche">[[cône]] de feu de 9 m (6 {s:c})</td></tr><tr CLASS="alt"><td class="gauche">vert</td><td class="gauche">[[cône]] d'acide de 9 m (6 {s:c})</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tableau des types de souffles</caption>
+  <tr CLASS="titre"><td class="gauche">Type de dragon</td><td class="gauche">Type de souffle</td></tr>
+  <tr CLASS="premier"><td class="gauche">airain</td><td class="gauche">[[ligne]] de feu de 18 m (12 {s:c})</td></tr>
+  <tr CLASS="alt">
+    <td class="gauche">argent ou blanc</td>
+    <td class="gauche">[[cône]] de froid de 9 m (6 {s:c})</td>
+  </tr>
+  <tr><td class="gauche">bleu ou bronze</td><td class="gauche">[[ligne]] d'électricité de 18 m (12 {s:c})</td></tr>
+  <tr CLASS="alt">
+    <td class="gauche">cuivre ou noir</td>
+    <td class="gauche">[[ligne]] d'acide de 18 m (12 {s:c})</td>
+  </tr>
+  <tr><td class="gauche">or ou rouge</td><td class="gauche">[[cône]] de feu de 9 m (6 {s:c})</td></tr>
+  <tr CLASS="alt"><td class="gauche">vert</td><td class="gauche">[[cône]] d'acide de 9 m (6 {s:c})</td></tr>
+</table>
 
 
 </td><td><div>Voir un exemple : la [[dracolisque]].

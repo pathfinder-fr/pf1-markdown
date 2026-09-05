@@ -88,7 +88,18 @@ Les diverses combinaisons possibles sont résumées ci-dessous :
 
 <center>
 
-<table CLASS="tablo"><caption>Malus liés au combat à deux armes</caption><tr CLASS="titre"><td>Circonstances</td><td>Main directrice</td><td>Main non directrice</td></tr><tr CLASS="premier"><td>Malus normaux</td><td>-6</td><td>-10</td></tr><tr CLASS="alt"><td>Arme légère dans la main non directrice</td><td>-4</td><td>-8</td></tr><tr><td>Don de [[Combat à deux armes]]</td><td>-4</td><td>-4</td></tr><tr CLASS="alt"><td>Arme légère dans la main non directrice et don de [[Combat à deux armes]]</td><td>-2</td><td>-2</td></tr></table>
+<table CLASS="tablo">
+  <caption>Malus liés au combat à deux armes</caption>
+  <tr CLASS="titre"><td>Circonstances</td><td>Main directrice</td><td>Main non directrice</td></tr>
+  <tr CLASS="premier"><td>Malus normaux</td><td>-6</td><td>-10</td></tr>
+  <tr CLASS="alt"><td>Arme légère dans la main non directrice</td><td>-4</td><td>-8</td></tr>
+  <tr><td>Don de [[Combat à deux armes]]</td><td>-4</td><td>-4</td></tr>
+  <tr CLASS="alt">
+    <td>Arme légère dans la main non directrice et don de [[Combat à deux armes]]</td>
+    <td>-2</td>
+    <td>-2</td>
+  </tr>
+</table>
 
 </center>
 

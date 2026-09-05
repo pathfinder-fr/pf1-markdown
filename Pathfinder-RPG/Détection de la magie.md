@@ -44,7 +44,21 @@ Les auras magiques particulièrement puissantes ou encore les [[émanation|éman
 **Intensité de l’aura.** La force d’une aura dépend du [[niveau du sort]] qui en est à l’origine ou du [[NLS|niveau de lanceur de sorts]] de la créature qui a créé l’objet magique d’où elle émane. Dans le cas d’auras qui correspondent à plusieurs catégories, le sort indique toujours la plus puissante.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td ROWSPAN="2">Sort ou objet</td><td COLSPAN="4" CLASS="avecsoustitre">Intensité de l'aura</td></tr><tr CLASS="soustitre"><td>Faible</td><td>Modérée</td><td>Puissante</td><td>Surpuissante</td></tr><tr CLASS="premier"><td>Sort actif ([[niveau de sort]])</td><td>3 ou moins</td><td>4–6</td><td>7–9</td><td>10 ou + (puissance divine)</td></tr><tr><td>Objet magique ([[NLS]])</td><td>5 ou moins</td><td>6–11</td><td>12–20</td><td>21 ou + (artefact)</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Sort ou objet</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Intensité de l'aura</td>
+  </tr>
+  <tr CLASS="soustitre"><td>Faible</td><td>Modérée</td><td>Puissante</td><td>Surpuissante</td></tr>
+  <tr CLASS="premier">
+    <td>Sort actif ([[niveau de sort]])</td>
+    <td>3 ou moins</td>
+    <td>4–6</td>
+    <td>7–9</td>
+    <td>10 ou + (puissance divine)</td>
+  </tr>
+  <tr><td>Objet magique ([[NLS]])</td><td>5 ou moins</td><td>6–11</td><td>12–20</td><td>21 ou + (artefact)</td></tr>
+</table>
 
 
 **Aura persistante.** Une aura magique ne disparaît pas immédiatement lorsque sa source est dissipée (s’il s’agit d’un sort) ou détruite (s’il s’agit d’un objet magique) mais persiste pendant un certain temps. Une *détection de la magie* dirigée vers la zone en question révélera une aura de puissance ténue (moins puissante encore qu’une aura faible). La période de temps pendant laquelle l’aura persiste dépend de l’intensité d’origine de l’aura.

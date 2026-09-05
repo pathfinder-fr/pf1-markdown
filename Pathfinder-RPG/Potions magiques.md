@@ -31,17 +31,43 @@ Un personnage peut faire boire une potion à une créature [[inconscient|inconsc
 <center>
 <div><table width="100%"><tr><td width="50%" align="center">
 
-<table CLASS="tablo col1centre"><caption>Potions</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Niveau  
- du sort</td><td>Niveau du  
- lanceur de sorts</td></tr><tr CLASS="premier"><td>01–20</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr CLASS="alt"><td>21–60</td><td>01–20</td><td>—</td><td>1er</td><td>1</td></tr><tr><td>61–100</td><td>21–60</td><td>01–20</td><td>2e</td><td>3</td></tr><tr CLASS="alt"><td>—</td><td>61–100</td><td>21–100</td><td>3e</td><td>5</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Potions</caption>
+  <tr CLASS="titre">
+    <td>Faible</td>
+    <td>Intermédiaire</td>
+    <td>Puissante</td>
+    <td>Niveau  
+ du sort</td>
+    <td>Niveau du  
+ lanceur de sorts</td>
+  </tr>
+  <tr CLASS="premier"><td>01–20</td><td>—</td><td>—</td><td>0</td><td>1</td></tr>
+  <tr CLASS="alt"><td>21–60</td><td>01–20</td><td>—</td><td>1er</td><td>1</td></tr>
+  <tr><td>61–100</td><td>21–60</td><td>01–20</td><td>2e</td><td>3</td></tr>
+  <tr CLASS="alt"><td>—</td><td>61–100</td><td>21–100</td><td>3e</td><td>5</td></tr>
+</table>
 
 </td><td width="50%" align="center">
 
-<table CLASS="tablo"><caption>Coût des potions</caption><tr CLASS="titre"><td>Niveau  
-du sort</td><td>Druides,  
+<table CLASS="tablo">
+  <caption>Coût des potions</caption>
+  <tr CLASS="titre">
+    <td>Niveau  
+du sort</td>
+    <td>Druides,  
 magiciens,  
-prêtres</td><td>Ensorceleur</td><td>Barde</td><td>Paladin,  
-rôdeur</td></tr><tr CLASS="premier"><td>0</td><td>25 po</td><td>25 po</td><td>25 po</td><td>—</td></tr><tr CLASS="alt"><td>1er</td><td>50 po</td><td>50 po</td><td>50 po</td><td>50 po</td></tr><tr><td>2e</td><td>300 po</td><td>400 po</td><td>400 po</td><td>400 po</td></tr><tr CLASS="alt"><td>3e</td><td>750 po</td><td>900 po</td><td>1050 po</td><td>1050 po</td></tr></table>
+prêtres</td>
+    <td>Ensorceleur</td>
+    <td>Barde</td>
+    <td>Paladin,  
+rôdeur</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>25 po</td><td>25 po</td><td>25 po</td><td>—</td></tr>
+  <tr CLASS="alt"><td>1er</td><td>50 po</td><td>50 po</td><td>50 po</td><td>50 po</td></tr>
+  <tr><td>2e</td><td>300 po</td><td>400 po</td><td>400 po</td><td>400 po</td></tr>
+  <tr CLASS="alt"><td>3e</td><td>750 po</td><td>900 po</td><td>1050 po</td><td>1050 po</td></tr>
+</table>
 
 </td></tr></table>
 </div>

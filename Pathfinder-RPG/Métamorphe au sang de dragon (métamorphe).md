@@ -22,7 +22,20 @@ Les attaques possibles sont : Morsure (C, P, T) ou coup de queue (C) ou aile (C)
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabdragon"><caption>Dragons et énergies associées</caption><tr CLASS="titre"><td>Type de Dragon</td><td>Type d'énergie</td></tr><tr CLASS="premier"><td>Blanc</td><td>Froid</td></tr><tr><td>Bleu</td><td>Électricité</td></tr><tr><td>Noir</td><td>Acide</td></tr><tr><td>Rouge</td><td>Feu</td></tr><tr><td>Vert</td><td>Acide</td></tr><tr><td>Airain</td><td>Feu</td></tr><tr><td>Argent</td><td>Froid</td></tr><tr><td>Bronze</td><td>Électricité</td></tr><tr><td>Cuivre</td><td>Acide</td></tr><tr><td>Or</td><td>Feu</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabdragon">
+  <caption>Dragons et énergies associées</caption>
+  <tr CLASS="titre"><td>Type de Dragon</td><td>Type d'énergie</td></tr>
+  <tr CLASS="premier"><td>Blanc</td><td>Froid</td></tr>
+  <tr><td>Bleu</td><td>Électricité</td></tr>
+  <tr><td>Noir</td><td>Acide</td></tr>
+  <tr><td>Rouge</td><td>Feu</td></tr>
+  <tr><td>Vert</td><td>Acide</td></tr>
+  <tr><td>Airain</td><td>Feu</td></tr>
+  <tr><td>Argent</td><td>Froid</td></tr>
+  <tr><td>Bronze</td><td>Électricité</td></tr>
+  <tr><td>Cuivre</td><td>Acide</td></tr>
+  <tr><td>Or</td><td>Feu</td></tr>
+</table>
 
 </center></div></div>
 Un métamorphe au sang de dragon peut temporairement imprégner son corps avec la puissance des dragons par une [[action rapide]]. Quand il active cette capacité le métamorphe doit choisir un type de dragon chromatique ou métallique présent sur le tableau ci-contre.

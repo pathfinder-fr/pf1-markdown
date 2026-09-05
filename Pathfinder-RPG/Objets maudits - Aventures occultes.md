@@ -9,7 +9,11 @@ Les plus dangereux et les plus insidieux de tous les objets maudits sont sans do
 <div>
 <center>
 
-<table CLASS="tablo"><caption>Objets maudits spécifiques (AO)</caption><tr CLASS="premier"><td>[[Main de maniaque]]</td><td CLASS="gauche">[[Miroir de vampirisme des âmes]]</td></tr><tr CLASS="alt"><td>[[Patte de singe]]</td><td CLASS="gauche">[[Poupée hantée]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Objets maudits spécifiques (AO)</caption>
+  <tr CLASS="premier"><td>[[Main de maniaque]]</td><td CLASS="gauche">[[Miroir de vampirisme des âmes]]</td></tr>
+  <tr CLASS="alt"><td>[[Patte de singe]]</td><td CLASS="gauche">[[Poupée hantée]]</td></tr>
+</table>
 
 </center>
 </div>

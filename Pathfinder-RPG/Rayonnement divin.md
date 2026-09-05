@@ -14,8 +14,15 @@ Categories:
 
 <div align="center">
 
-<table CLASS="tablo autoalt"><tr><td>**Pouvoir magique**</td><td>**Niveau de personnage   
-minimum **</td></tr><tr><td>*[[Grandes illuminations]]*</td><td>Niveau 1</td></tr><tr><td>*[[Sillage de lumière]]*</td><td>Niveau 3</td></tr><tr><td>*[[Lumière brûlante]]*</td><td>Niveau 5</td></tr><tr><td>*[[Poussière détoile|Poussière d’étoile]]*</td><td>Niveau 7</td></tr><tr><td>*[[Rayon de soleil]]* (un rayon uniquement)</td><td>Niveau 9</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr><td>**Pouvoir magique**</td><td>**Niveau de personnage   
+minimum **</td></tr>
+  <tr><td>*[[Grandes illuminations]]*</td><td>Niveau 1</td></tr>
+  <tr><td>*[[Sillage de lumière]]*</td><td>Niveau 3</td></tr>
+  <tr><td>*[[Lumière brûlante]]*</td><td>Niveau 5</td></tr>
+  <tr><td>*[[Poussière détoile|Poussière d’étoile]]*</td><td>Niveau 7</td></tr>
+  <tr><td>*[[Rayon de soleil]]* (un rayon uniquement)</td><td>Niveau 9</td></tr>
+</table>
 
 </div>
 

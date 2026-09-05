@@ -10,8 +10,49 @@ Categories:
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Hébergement et services</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (bonne)]]</td><td>2 po</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (modeste)]]</td><td>2 pa</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (moyenne)]]</td><td>5 pa</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, de luxe)]]</td><td>32 po+</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, moyenne)]]</td><td>16 po</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, petite)]]</td><td>4 po</td></tr><tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (compétent)]]</td><td>3 po</td></tr><tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (expérimenté)]]</td><td>10 po</td></tr><tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (novice)]]</td><td>5 pa</td></tr><tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (chaud)]]</td><td>6 pc</td></tr><tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (froid)]]</td><td>2 pc</td></tr><tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (public)]]</td><td>2 pa–1 po</td></tr><tr><td>[[Hébergement et services#Compagnecompagnon|↓]] [[Compagnecompagnon (objet)|Compagne/compagnon]]</td><td>5 pc–10 po</td></tr><tr><td>[[Hébergement et services#Domestique|↓]] [[Domestique (objet)|Domestique]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (qualifié)]]</td><td>3 pa/jour</td></tr><tr><td>[[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (sans formation)]]</td><td>1 pa/jour</td></tr><tr><td>[[Hébergement et services#Infirmière|↓]] [[Infirmière (objet)|Infirmière]]</td><td>7 pa</td></tr><tr><td>[[Hébergement et services#Lancement de sort|↓]] [[Lancement de sort (objet)|Lancement de sort]]</td><td>Niveau du lanceur de sorts  
-× niveau de sort × 10 po</td></tr><tr><td>[[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (classique)]]</td><td>1 pa</td></tr><tr><td>[[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (magique)]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Médecin|↓]] [[Médecin (objet)|Médecin]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Messager|↓]] [[Messager (objet)|Messager]]</td><td>2 pc/1,5 km</td></tr><tr><td>[[Hébergement et services#Péage|↓]] [[Péage (objet)|Péage (route ou pont)]]</td><td>1 pc</td></tr><tr><td>[[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (carte)]]</td><td>10 po</td></tr><tr><td>[[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (texte)]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Valet|↓]] [[Valet (objet)|Valet]]</td><td>5 pa</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Hébergement et services</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td></tr>
+  <tr CLASS="premier">
+    <td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (bonne)]]</td>
+    <td>2 po</td>
+  </tr>
+  <tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (modeste)]]</td><td>2 pa</td></tr>
+  <tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (moyenne)]]</td><td>5 pa</td></tr>
+  <tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, de luxe)]]</td><td>32 po+</td></tr>
+  <tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, moyenne)]]</td><td>16 po</td></tr>
+  <tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, petite)]]</td><td>4 po</td></tr>
+  <tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (compétent)]]</td><td>3 po</td></tr>
+  <tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (expérimenté)]]</td><td>10 po</td></tr>
+  <tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (novice)]]</td><td>5 pa</td></tr>
+  <tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (chaud)]]</td><td>6 pc</td></tr>
+  <tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (froid)]]</td><td>2 pc</td></tr>
+  <tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (public)]]</td><td>2 pa–1 po</td></tr>
+  <tr>
+    <td>[[Hébergement et services#Compagnecompagnon|↓]] [[Compagnecompagnon (objet)|Compagne/compagnon]]</td>
+    <td>5 pc–10 po</td>
+  </tr>
+  <tr><td>[[Hébergement et services#Domestique|↓]] [[Domestique (objet)|Domestique]]</td><td>1 po</td></tr>
+  <tr><td>[[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (qualifié)]]</td><td>3 pa/jour</td></tr>
+  <tr>
+    <td>[[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (sans formation)]]</td>
+    <td>1 pa/jour</td>
+  </tr>
+  <tr><td>[[Hébergement et services#Infirmière|↓]] [[Infirmière (objet)|Infirmière]]</td><td>7 pa</td></tr>
+  <tr>
+    <td>[[Hébergement et services#Lancement de sort|↓]] [[Lancement de sort (objet)|Lancement de sort]]</td>
+    <td>Niveau du lanceur de sorts  
+× niveau de sort × 10 po</td>
+  </tr>
+  <tr><td>[[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (classique)]]</td><td>1 pa</td></tr>
+  <tr><td>[[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (magique)]]</td><td>1 po</td></tr>
+  <tr><td>[[Hébergement et services#Médecin|↓]] [[Médecin (objet)|Médecin]]</td><td>1 po</td></tr>
+  <tr><td>[[Hébergement et services#Messager|↓]] [[Messager (objet)|Messager]]</td><td>2 pc/1,5 km</td></tr>
+  <tr><td>[[Hébergement et services#Péage|↓]] [[Péage (objet)|Péage (route ou pont)]]</td><td>1 pc</td></tr>
+  <tr><td>[[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (carte)]]</td><td>10 po</td></tr>
+  <tr><td>[[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (texte)]]</td><td>1 po</td></tr>
+  <tr><td>[[Hébergement et services#Valet|↓]] [[Valet (objet)|Valet]]</td><td>5 pa</td></tr>
+</table>
 
 </div>
 

@@ -42,22 +42,180 @@ Si un personnage désire se multiclasser, il doit trouver un professeur. Celui-c
 
 #### Tableau des prérequis pour le multiclassage
 
-<table CLASS="tablo"><caption>Tableau prérequis au multiclassage</caption><tr CLASS="titre"><td>Classe</td><td>BBA</td><td>BB Réf.</td><td>BB Vig.</td><td>BB Vol.</td><td>Compétence</td><td>DM</td><td>Don</td><td>Spécial</td></tr><tr CLASS="premier"><td>Expert</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Talent</td><td>-</td></tr><tr CLASS="alt"><td>HdA</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adepte</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Connaissance des religions   
- ou des mystères</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Guerrier</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Un don de guerrier</td><td>-</td></tr><tr><td>Roublard</td><td>-</td><td>1</td><td>-</td><td>-</td><td>Sabotage   
+<table CLASS="tablo">
+  <caption>Tableau prérequis au multiclassage</caption>
+  <tr CLASS="titre">
+    <td>Classe</td>
+    <td>BBA</td>
+    <td>BB Réf.</td>
+    <td>BB Vig.</td>
+    <td>BB Vol.</td>
+    <td>Compétence</td>
+    <td>DM</td>
+    <td>Don</td>
+    <td>Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Expert</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Talent</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt"><td>HdA</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr>
+    <td>Adepte</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Connaissance des religions   
+ ou des mystères</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Guerrier</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Un don de guerrier</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Roublard</td>
+    <td>-</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Sabotage   
  Discrétion   
  Une compétence de   
- classe de roublard</td><td>2  
+ classe de roublard</td>
+    <td>2  
 2  
-2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Prêtre</td><td>-</td><td>-</td><td>-</td><td>1</td><td>Connaissance des religions</td><td>3</td><td>-</td><td>-</td></tr><tr><td>Barbare</td><td>2</td><td>-</td><td>1</td><td>-</td><td>Survie</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Druide</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Connaissance de la nature   
- Connaissance des religions</td><td>3   
- 3</td><td>-</td><td>-</td></tr><tr><td>Rôdeur</td><td>2</td><td>-</td><td>-</td><td>-</td><td>Survie</td><td>3</td><td>-</td><td>Avoir choisi son ennemi juré et   
- en avoir déjà vaincu un</td></tr><tr CLASS="alt"><td>Noble</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Diplomatie ou connaissance noblesse</td><td>2</td><td>-</td><td>Être anobli</td></tr><tr><td>Barde</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Représentation   
- Connaissance( au choix)</td><td>3   
- 1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Magicien</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Art de la magie   
- Connaissance des mystères</td><td>3   
- 1</td><td>-</td><td>-</td></tr><tr><td>Paladin</td><td>2</td><td>-</td><td>-</td><td>1</td><td>Diplomatie</td><td>1</td><td>-</td><td>Avoir réalisé une quête pour le bien</td></tr><tr CLASS="alt"><td>Moine</td><td>-</td><td>1</td><td>1</td><td>1</td><td>Acrobaties</td><td>3</td><td>Science du combat   
- à mains nues*</td><td>-</td></tr><tr><td>Ensorceleur</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Art de la magie ou   
- connaissance des mystères</td><td>3</td><td>-</td><td>-</td></tr></table>
+2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Prêtre</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1</td>
+    <td>Connaissance des religions</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>Barbare</td><td>2</td><td>-</td><td>1</td><td>-</td><td>Survie</td><td>1</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>Druide</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Connaissance de la nature   
+ Connaissance des religions</td>
+    <td>3   
+ 3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Rôdeur</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Survie</td>
+    <td>3</td>
+    <td>-</td>
+    <td>Avoir choisi son ennemi juré et   
+ en avoir déjà vaincu un</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Noble</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Diplomatie ou connaissance noblesse</td>
+    <td>2</td>
+    <td>-</td>
+    <td>Être anobli</td>
+  </tr>
+  <tr>
+    <td>Barde</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Représentation   
+ Connaissance( au choix)</td>
+    <td>3   
+ 1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Magicien</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Art de la magie   
+ Connaissance des mystères</td>
+    <td>3   
+ 1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Paladin</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1</td>
+    <td>Diplomatie</td>
+    <td>1</td>
+    <td>-</td>
+    <td>Avoir réalisé une quête pour le bien</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Moine</td>
+    <td>-</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>Acrobaties</td>
+    <td>3</td>
+    <td>Science du combat   
+ à mains nues*</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Ensorceleur</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Art de la magie ou   
+ connaissance des mystères</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
 
 
 - Le personnage peut choisir un don lorsqu'il prend son premier niveau de moine pour compenser l'investissement consenti.

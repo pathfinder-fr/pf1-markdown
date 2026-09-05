@@ -28,4 +28,63 @@ En outre, la Hutte dansante peut traverser les plans et les autres mondes du Pla
 
 #### Exemples de clés et de destinations de la Hutte dansante
 
-<table CLASS="tablo toutgauche centre"><tr CLASS="titre"><td>Clé 1</td><td>Clé 2</td><td>Destination</td></tr><tr CLASS="premier"><td>Cendres d’un familier</td><td>Œuf de serpent</td><td>Harem d’Abraxas dans les Abysses</td></tr><tr CLASS="alt"><td>Aile d’oiseau</td><td>Vase brisé</td><td>Tours du Crépuscule dans les ruines de Kho</td></tr><tr><td>Encre noire</td><td>Miroir brisé</td><td>Absalom de l’ombre sur le Plan de l’ombre</td></tr><tr CLASS="alt"><td>Sable noir</td><td>Soie rouge</td><td>Le Récif noir de Zelshabbar au Kélesh</td></tr><tr><td>Farine d’os</td><td>Flocon de neige</td><td>Le Grisbois d’Irrisen</td></tr><tr CLASS="alt"><td>Fourrure de chat</td><td>Cils humains</td><td>La Tête de sphinx en Osirion</td></tr><tr><td>Éclat de marbre</td><td>Mèche de cheveux noirs</td><td>Le Champ des Demoiselles, sud du Geb</td></tr><tr CLASS="alt"><td>Vapeur de nuage</td><td>Dent en obsidienne</td><td>La Tempête de crocs sur le Plan de l’air</td></tr><tr><td>Charbon</td><td>Poil d’araignée albinos géante</td><td>Vestibule de la maison Caldrana à Zirnakaynin</td></tr><tr CLASS="alt"><td>Disque d’argile bleue fendu</td><td>Fiole d’acide</td><td>Galisemni dans le Maelström</td></tr><tr><td>Dague</td><td>Mèche de cheveux blonds</td><td>Un monument marqué « Guenièvre » à l’Ossuaire</td></tr><tr CLASS="alt"><td>Corne de démon</td><td>Doigt vestigial</td><td>Manoir de l’Abaddon gardé par des linnorms</td></tr><tr><td>Baguette déchargée</td><td>Poisson d’argent</td><td>Grenier des Parchemins et raretés de Pol à Quantium</td></tr><tr CLASS="alt"><td>Anguille</td><td>Page d’un livre de contes</td><td>La Maison des mensonges au Nidal</td></tr><tr><td>Fiole vide</td><td>Siccatif</td><td>Qidel, sur la planète Vercès</td></tr><tr CLASS="alt"><td>Ongle</td><td>Os à moelle</td><td>La Boucherie des Huit doigts à Axis</td></tr><tr><td>Pétales de fleur</td><td>Mot d’amour marqué d’un baiser</td><td>Bras divin sur le Premier monde</td></tr><tr CLASS="alt"><td>Corde de luth en or</td><td>Larme</td><td>Llourith au Nirvana</td></tr><tr><td>Encens de guggul</td><td>Symbole sacré de Dhalaveï</td><td>Siège de la Lune dorée au Vudra</td></tr><tr CLASS="alt"><td>Fourmi sans tête</td><td>Pierre gravée de runes</td><td>Le Bassin divin sous Kaer Maga</td></tr><tr><td>Sang de cheval</td><td>Maillon en fer tordu</td><td>Cellule 667 de la citadelle Ghéradesque au Chéliax</td></tr><tr CLASS="alt"><td>Morceaux de glace</td><td>Galets Arche de</td><td>Svéonvo près de Valenhall</td></tr><tr><td>Œil gauche d’une chèvre</td><td>Oreille droite d’un shaé</td><td>Demi-plan sans lumière appelé la Place des murmures</td></tr><tr CLASS="alt"><td>Langue de lézard</td><td>Clous rouillés</td><td>Ihyssige, aux Enfers</td></tr><tr><td>Feuille d’érable</td><td>Robe kellide déchirée</td><td>Lac Rougefeuille en Ustalav</td></tr><tr CLASS="alt"><td>Lingot de platine</td><td>Poussière d’étoile</td><td>Les Étalages de nuit de Katapesh</td></tr><tr><td>Crâne de rat</td><td>Salpêtre</td><td>Les Mines perdues de Nirmathas</td></tr><tr CLASS="alt"><td>Sel marin</td><td>Sable blanc</td><td>Le Marbre scintillant sur le Plan de l’eau</td></tr><tr><td>Éclat de jade vert</td><td>Venin de serpent</td><td>Les Sources des Sept venins du Minkai</td></tr></table>
+<table CLASS="tablo toutgauche centre">
+  <tr CLASS="titre"><td>Clé 1</td><td>Clé 2</td><td>Destination</td></tr>
+  <tr CLASS="premier">
+    <td>Cendres d’un familier</td>
+    <td>Œuf de serpent</td>
+    <td>Harem d’Abraxas dans les Abysses</td>
+  </tr>
+  <tr CLASS="alt"><td>Aile d’oiseau</td><td>Vase brisé</td><td>Tours du Crépuscule dans les ruines de Kho</td></tr>
+  <tr><td>Encre noire</td><td>Miroir brisé</td><td>Absalom de l’ombre sur le Plan de l’ombre</td></tr>
+  <tr CLASS="alt"><td>Sable noir</td><td>Soie rouge</td><td>Le Récif noir de Zelshabbar au Kélesh</td></tr>
+  <tr><td>Farine d’os</td><td>Flocon de neige</td><td>Le Grisbois d’Irrisen</td></tr>
+  <tr CLASS="alt"><td>Fourrure de chat</td><td>Cils humains</td><td>La Tête de sphinx en Osirion</td></tr>
+  <tr><td>Éclat de marbre</td><td>Mèche de cheveux noirs</td><td>Le Champ des Demoiselles, sud du Geb</td></tr>
+  <tr CLASS="alt">
+    <td>Vapeur de nuage</td>
+    <td>Dent en obsidienne</td>
+    <td>La Tempête de crocs sur le Plan de l’air</td>
+  </tr>
+  <tr>
+    <td>Charbon</td>
+    <td>Poil d’araignée albinos géante</td>
+    <td>Vestibule de la maison Caldrana à Zirnakaynin</td>
+  </tr>
+  <tr CLASS="alt"><td>Disque d’argile bleue fendu</td><td>Fiole d’acide</td><td>Galisemni dans le Maelström</td></tr>
+  <tr><td>Dague</td><td>Mèche de cheveux blonds</td><td>Un monument marqué « Guenièvre » à l’Ossuaire</td></tr>
+  <tr CLASS="alt">
+    <td>Corne de démon</td>
+    <td>Doigt vestigial</td>
+    <td>Manoir de l’Abaddon gardé par des linnorms</td>
+  </tr>
+  <tr>
+    <td>Baguette déchargée</td>
+    <td>Poisson d’argent</td>
+    <td>Grenier des Parchemins et raretés de Pol à Quantium</td>
+  </tr>
+  <tr CLASS="alt"><td>Anguille</td><td>Page d’un livre de contes</td><td>La Maison des mensonges au Nidal</td></tr>
+  <tr><td>Fiole vide</td><td>Siccatif</td><td>Qidel, sur la planète Vercès</td></tr>
+  <tr CLASS="alt"><td>Ongle</td><td>Os à moelle</td><td>La Boucherie des Huit doigts à Axis</td></tr>
+  <tr><td>Pétales de fleur</td><td>Mot d’amour marqué d’un baiser</td><td>Bras divin sur le Premier monde</td></tr>
+  <tr CLASS="alt"><td>Corde de luth en or</td><td>Larme</td><td>Llourith au Nirvana</td></tr>
+  <tr><td>Encens de guggul</td><td>Symbole sacré de Dhalaveï</td><td>Siège de la Lune dorée au Vudra</td></tr>
+  <tr CLASS="alt"><td>Fourmi sans tête</td><td>Pierre gravée de runes</td><td>Le Bassin divin sous Kaer Maga</td></tr>
+  <tr>
+    <td>Sang de cheval</td>
+    <td>Maillon en fer tordu</td>
+    <td>Cellule 667 de la citadelle Ghéradesque au Chéliax</td>
+  </tr>
+  <tr CLASS="alt"><td>Morceaux de glace</td><td>Galets Arche de</td><td>Svéonvo près de Valenhall</td></tr>
+  <tr>
+    <td>Œil gauche d’une chèvre</td>
+    <td>Oreille droite d’un shaé</td>
+    <td>Demi-plan sans lumière appelé la Place des murmures</td>
+  </tr>
+  <tr CLASS="alt"><td>Langue de lézard</td><td>Clous rouillés</td><td>Ihyssige, aux Enfers</td></tr>
+  <tr><td>Feuille d’érable</td><td>Robe kellide déchirée</td><td>Lac Rougefeuille en Ustalav</td></tr>
+  <tr CLASS="alt"><td>Lingot de platine</td><td>Poussière d’étoile</td><td>Les Étalages de nuit de Katapesh</td></tr>
+  <tr><td>Crâne de rat</td><td>Salpêtre</td><td>Les Mines perdues de Nirmathas</td></tr>
+  <tr CLASS="alt"><td>Sel marin</td><td>Sable blanc</td><td>Le Marbre scintillant sur le Plan de l’eau</td></tr>
+  <tr><td>Éclat de jade vert</td><td>Venin de serpent</td><td>Les Sources des Sept venins du Minkai</td></tr>
+</table>

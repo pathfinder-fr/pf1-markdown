@@ -36,4 +36,39 @@ La chance sourit souvent au personnage et sa bonne fortune semble contagieuse.
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Chance</td><td>Sous-domaine du Destin</td><td>Sous-domaine de la Malédiction</td><td>Sous-domaine de l'Imagination</td></tr><tr CLASS="premier"><td>1er</td><td>*[[coup au but]]*</td><td>*idem*</td><td>*[[imprécation]]*</td><td>*[[image silencieuse]]*</td></tr><tr><td>2e</td><td>*[[aide]]*</td><td>*[[augure]]*</td><td>*idem*</td><td>*[[image imparfaite]]*</td></tr><tr><td>3e</td><td>*[[protection contre les énergies destructives]]*</td><td>*[[emprunt de chance]]*</td><td>*[[malédiction]]*</td><td>*[[image accomplie]]*</td></tr><tr><td>4e</td><td>*[[liberté de mouvement]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[annulation denchantement|annulation d'enchantement]]*</td><td>*idem*</td><td>*idem*</td><td>*[[songe]]*</td></tr><tr><td>6e</td><td>*[[double illusoire]]*</td><td>*idem*</td><td>*[[mauvais œil]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[renvoi des sorts]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[moment de prescience]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[miracle]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Chance</td>
+    <td>Sous-domaine du Destin</td>
+    <td>Sous-domaine de la Malédiction</td>
+    <td>Sous-domaine de l'Imagination</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[coup au but]]*</td>
+    <td>*idem*</td>
+    <td>*[[imprécation]]*</td>
+    <td>*[[image silencieuse]]*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[aide]]*</td><td>*[[augure]]*</td><td>*idem*</td><td>*[[image imparfaite]]*</td></tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[protection contre les énergies destructives]]*</td>
+    <td>*[[emprunt de chance]]*</td>
+    <td>*[[malédiction]]*</td>
+    <td>*[[image accomplie]]*</td>
+  </tr>
+  <tr><td>4e</td><td>*[[liberté de mouvement]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[annulation denchantement|annulation d'enchantement]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[songe]]*</td>
+  </tr>
+  <tr><td>6e</td><td>*[[double illusoire]]*</td><td>*idem*</td><td>*[[mauvais œil]]*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[renvoi des sorts]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[moment de prescience]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[miracle]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

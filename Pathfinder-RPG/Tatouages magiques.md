@@ -13,4 +13,54 @@ Les tatouages magiques sont difficiles à détériorer, mais sont considérés c
 Les règles de [[Création dobjets magiques#OBJETSMERVEILLEUX|création d’objets merveilleux]] s’appliquent pour les tatouages magiques, sauf qu’il faut utiliser la compétence [[Artisanat]] (calligraphie, peintures ou tatouages) pour les réaliser. Il est possible de rechercher et de concevoir de nouveaux tatouages en utilisant les indications qui permettent de [[Création dobjets magiques#ESTIMATION|déterminer le prix des nouveaux objets magiques]]. Les tatouages magiques sont considérés comme des objets magiques sans emplacement lorsqu’il s’agit de déterminer leur prix.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Tableau récapitulatif des tatouages magiques</caption><tr CLASS="titre"><td WIDTH="24%">Tatouage</td><td WIDTH= "3%">Src</td><td WIDTH="62%">Capacités</td><td WIDTH="11%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Tatouage de sort|Sort]]</td><td><sup>MMI</sup></td><td>Équivalent d'un [[Parchemins magiques|parchemin magique]] du sort choisi à la fabrication. Usage unique.</td><td>variable</td></tr><tr CLASS="premier"><td>[[Tatouage dincantation|Incantation]]</td><td><sup>MMI</sup></td><td>Une fois par jour, permet d'améliorer un sort d'un niveau maximum dépendant du modèle comme avec [[Incantation silencieuse]] et [[Incantation statique]].</td><td>—</td></tr><tr><td>&emsp;faible</td><td><sup>MMI</sup></td><td>Peut améliorer les sorts de niveau 3 au maximum.</td><td>6 000 po</td></tr><tr><td>&emsp;intermédiaire</td><td><sup>MMI</sup></td><td>Peut améliorer les sorts de niveau 6 au maximum.</td><td>| 21 000 po</td></tr><tr><td>&emsp;puissant</td><td><sup>MMI</sup></td><td>Peut améliorer les sorts de niveau 9 au maximum.</td><td>| 48 000 po</td></tr><tr CLASS="premier"><td>[[Tatouage de stockage|Stockage]]</td><td><sup>MMI</sup></td><td>Permet de mettre l'effet et la durée d'un sort de niveau 3 maximum qui affecte le porteur -et qu'il a lancé lui-même- en suspend, à volonté.</td><td>10 000 po</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Tableau récapitulatif des tatouages magiques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="24%">Tatouage</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="62%">Capacités</td>
+    <td WIDTH="11%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tatouage de sort|Sort]]</td>
+    <td><sup>MMI</sup></td>
+    <td>Équivalent d'un [[Parchemins magiques|parchemin magique]] du sort choisi à la fabrication. Usage unique.</td>
+    <td>variable</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tatouage dincantation|Incantation]]</td>
+    <td><sup>MMI</sup></td>
+    <td>
+      Une fois par jour, permet d'améliorer un sort d'un niveau maximum dépendant du modèle comme avec [[Incantation
+      silencieuse]] et [[Incantation statique]].
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp;faible</td>
+    <td><sup>MMI</sup></td>
+    <td>Peut améliorer les sorts de niveau 3 au maximum.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;intermédiaire</td>
+    <td><sup>MMI</sup></td>
+    <td>Peut améliorer les sorts de niveau 6 au maximum.</td>
+    <td>| 21 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;puissant</td>
+    <td><sup>MMI</sup></td>
+    <td>Peut améliorer les sorts de niveau 9 au maximum.</td>
+    <td>| 48 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tatouage de stockage|Stockage]]</td>
+    <td><sup>MMI</sup></td>
+    <td>
+      Permet de mettre l'effet et la durée d'un sort de niveau 3 maximum qui affecte le porteur -et qu'il a lancé
+      lui-même- en suspend, à volonté.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+</table>

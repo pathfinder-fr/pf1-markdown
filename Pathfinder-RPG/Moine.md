@@ -17,8 +17,286 @@ Categories:
 </div>*Pour certains individus réellement exemplaires, l’art du combat ne se limite pas au champ de bataille : il s’agit d’un mode de vie, d’une doctrine, d’un état d’esprit. Ces artistes-combattants recherchent des méthodes de combat qui transcendent les épées et les boucliers. Ils découvrent que la nature les a dotés d’armes tout aussi capables d’affaiblir ou de tuer que les lames. Il s’agit des moines, qu’on appelle ainsi parce qu’ils adhèrent à d’anciennes philosophies et à une discipline martiale stricte. Qu’il s’agisse d’ascètes avec un penchant pour le combat ou de pugilistes qui ont appris sur le tas, ils font de leur corps de véritables armes de guerre. Les moines suivent la voie de la discipline, et ceux qui possèdent suffisamment de volonté pour rester sur ce chemin découvrent en eux non pas qui ils sont, mais ce qu’ils sont destinés à devenir.*
 
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEMOINE}Le moine</caption><tr CLASS="titre"><td>Niv</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td>Déluge de coups</td><td>Dégâts à mains nues*</td><td>Bonus   
-de CA</td><td>Déplacement accéléré</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Moine#COMBATAMAINSNUES|Combat à mains nues]], [[Moine#COUPETOURDISSANT|coup étourdissant]], [[Moine#DELUGEDECOUPS|déluge de coups]], [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]]</td><td STYLE="font-size:90%">-1/-1</td><td>1d6</td><td>+0</td><td>+0 m</td></tr><tr><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Moine#DONSUPPLEMENTAIRE|Don supplémentaire]], [[Moine#ESQUIVETOTALE|esquive totale]]</td><td STYLE="font-size:90%">+0/+0</td><td>1d6</td><td>+0</td><td>+0 m</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Moine#DEPLACEMENTACCELERE|Déplacement accéléré]], [[Moine#ENTRAINEMENTAUXMANOEUVRESOFFENSIVES|entraînement aux manœuvres offensives]], [[Moine#SERENITE|sérénité]]</td><td STYLE="font-size:90%">+1/+1</td><td>1d6</td><td>+0</td><td>+3 m (2 {s:c})</td></tr><tr><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 6 m, [[Moine#RESERVEDEKI|réserve de ki]] (magique)</td><td STYLE="font-size:90%">+2/+2</td><td>1d8</td><td>+1</td><td>+3 m (2 {s:c})</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Moine#PURETEPHYSIQUE|Pureté physique]], [[Moine#SAUTSPUISSANTS|sauts puissants]]</td><td STYLE="font-size:90%">+3/+3</td><td>1d8</td><td>+1</td><td>+3 m (2 {s:c})</td></tr><tr><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Moine#DONSUPPLEMENTAIRE|Don supplémentaire]], [[Moine#CHUTERALENTIE|chute ralentie]] 9 m</td><td STYLE="font-size:90%">+4/+4/-1</td><td>1d8</td><td>+1</td><td>+6 m (4 {s:c})</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Moine#PLENITUDEPHYSIQUE|Plénitude physique]], [[Moine#RESERVEDEKI|réserve de ki]] (fer froid/argent)</td><td STYLE="font-size:90%">+5/+5/+0</td><td>1d8</td><td>+1</td><td>+6 m (4 {s:c})</td></tr><tr><td>8</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 12 m</td><td STYLE="font-size:90%">+6/+6/+1/+1</td><td>1d10</td><td>+2</td><td>+6 m (4 {s:c})</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Moine#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td><td STYLE="font-size:90%">+7/+7/+2/+2</td><td>1d10</td><td>+2</td><td>+9 m (6 {s:c})</td></tr><tr><td>10</td><td>+7/+2</td><td>+7</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 15 m, [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine#RESERVEDEKI|réserve de ki]] (loyale)</td><td STYLE="font-size:90%">+8/+8/+3/+3</td><td>1d10</td><td>+2</td><td>+9 m (6 {s:c})</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Moine#CORPSDEDIAMANT|Corps de diamant]]</td><td STYLE="font-size:90%">+9/+9/+4/+4/-1</td><td>1d10</td><td>+2</td><td>+9 m (6 {s:c})</td></tr><tr><td>12</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 18 m, [[Moine#PASCHASSE|pas chassé]]</td><td STYLE="font-size:90%">+10/+10/+5/+5/+0</td><td>2d6</td><td>+3</td><td>+12 m (8 {s:c})</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Moine#AMEDEDIAMANT|Âme de diamant]]</td><td STYLE="font-size:90%">+11/+11/+6/+6/+1</td><td>2d6</td><td>+3</td><td>+12 m (8 {s:c})</td></tr><tr><td>14</td><td>+10/+5</td><td>+9</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 21 m, [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]]</td><td STYLE="font-size:90%">+12/+12/+7/+7/+2</td><td>2d6</td><td>+3</td><td>+12 m (8 {s:c})</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Moine#PAUMEVIBRATOIRE|Paume vibratoire]]</td><td STYLE="font-size:90%">+13/+13/+8/+8/+3/+3</td><td>2d6</td><td>+3</td><td>+15 m (10 {s:c})</td></tr><tr><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 24 m, [[Moine#RESERVEDEKI|réserve de ki]] (adamantium)</td><td STYLE="font-size:90%">+14/+14/+9/+9/+4/+4/-1</td><td>2d8</td><td>+4</td><td>+15 m (10 {s:c})</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Moine#ETERNELLEJEUNESSE|Éternelle jeunesse]], [[Moine#LANGUEDUSOLEILETDELALUNE|langue du soleil et de la lune]]</td><td STYLE="font-size:90%">+15/+15/+10/+10/+5/+5/+0</td><td>2d8</td><td>+4</td><td>+15 m (10 {s:c})</td></tr><tr><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 27 m, [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]]</td><td STYLE="font-size:90%">+16/+16/+11/+11/+6/+6/+1</td><td>2d8</td><td>+4</td><td>+18 m (12 {s:c})</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Moine#DESERTIONDELAME|Désertion de l'âme]]</td><td STYLE="font-size:90%">+17/+17/+12/+12/+7/+7/+2</td><td>2d8</td><td>+4</td><td>+18 m (12 {s:c})</td></tr><tr><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+12</td><td>+12</td><td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] (n'importe quelle distance), [[Moine#PERFECTIONDELETRE|perfection de l'être]]</td><td STYLE="font-size:90%">+18/+18/+13/+13/+8/+8/+3</td><td>2d10</td><td>+5</td><td>+18 m (12 {s:c})</td></tr><tr><td CLASS="note" COLSPAN="10">(*) Il s'agit de la valeur pour les moines de taille M. Voir le texte pour les moines de taille P ou G.</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLEMOINE}Le moine</caption>
+  <tr CLASS="titre">
+    <td>Niv</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td>Déluge de coups</td>
+    <td>Dégâts à mains nues*</td>
+    <td>Bonus   
+de CA</td>
+    <td>Déplacement accéléré</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Moine#COMBATAMAINSNUES|Combat à mains nues]], [[Moine#COUPETOURDISSANT|coup étourdissant]],
+      [[Moine#DELUGEDECOUPS|déluge de coups]], [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]]
+    </td>
+    <td STYLE="font-size:90%">-1/-1</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+0 m</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Moine#DONSUPPLEMENTAIRE|Don supplémentaire]], [[Moine#ESQUIVETOTALE|esquive totale]]</td>
+    <td STYLE="font-size:90%">+0/+0</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+0 m</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Moine#DEPLACEMENTACCELERE|Déplacement accéléré]], [[Moine#ENTRAINEMENTAUXMANOEUVRESOFFENSIVES|entraînement
+      aux manœuvres offensives]], [[Moine#SERENITE|sérénité]]
+    </td>
+    <td STYLE="font-size:90%">+1/+1</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+3 m (2 {s:c})</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 6 m, [[Moine#RESERVEDEKI|réserve de ki]] (magique)</td>
+    <td STYLE="font-size:90%">+2/+2</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+3 m (2 {s:c})</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Moine#PURETEPHYSIQUE|Pureté physique]], [[Moine#SAUTSPUISSANTS|sauts puissants]]</td>
+    <td STYLE="font-size:90%">+3/+3</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+3 m (2 {s:c})</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Moine#DONSUPPLEMENTAIRE|Don supplémentaire]], [[Moine#CHUTERALENTIE|chute ralentie]] 9 m</td>
+    <td STYLE="font-size:90%">+4/+4/-1</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+6 m (4 {s:c})</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Moine#PLENITUDEPHYSIQUE|Plénitude physique]], [[Moine#RESERVEDEKI|réserve de ki]] (fer froid/argent)
+    </td>
+    <td STYLE="font-size:90%">+5/+5/+0</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+6 m (4 {s:c})</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 12 m</td>
+    <td STYLE="font-size:90%">+6/+6/+1/+1</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+6 m (4 {s:c})</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Moine#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td>
+    <td STYLE="font-size:90%">+7/+7/+2/+2</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+9 m (6 {s:c})</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[Moine#CHUTERALENTIE|Chute ralentie]] 15 m, [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]],
+      [[Moine#RESERVEDEKI|réserve de ki]] (loyale)
+    </td>
+    <td STYLE="font-size:90%">+8/+8/+3/+3</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+9 m (6 {s:c})</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Moine#CORPSDEDIAMANT|Corps de diamant]]</td>
+    <td STYLE="font-size:90%">+9/+9/+4/+4/-1</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+9 m (6 {s:c})</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 18 m, [[Moine#PASCHASSE|pas chassé]]</td>
+    <td STYLE="font-size:90%">+10/+10/+5/+5/+0</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+12 m (8 {s:c})</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Moine#AMEDEDIAMANT|Âme de diamant]]</td>
+    <td STYLE="font-size:90%">+11/+11/+6/+6/+1</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+12 m (8 {s:c})</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 21 m, [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]]</td>
+    <td STYLE="font-size:90%">+12/+12/+7/+7/+2</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+12 m (8 {s:c})</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Moine#PAUMEVIBRATOIRE|Paume vibratoire]]</td>
+    <td STYLE="font-size:90%">+13/+13/+8/+8/+3/+3</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+15 m (10 {s:c})</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Moine#CHUTERALENTIE|Chute ralentie]] 24 m, [[Moine#RESERVEDEKI|réserve de ki]] (adamantium)
+    </td>
+    <td STYLE="font-size:90%">+14/+14/+9/+9/+4/+4/-1</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+15 m (10 {s:c})</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Moine#ETERNELLEJEUNESSE|Éternelle jeunesse]], [[Moine#LANGUEDUSOLEILETDELALUNE|langue du soleil et de la
+      lune]]
+    </td>
+    <td STYLE="font-size:90%">+15/+15/+10/+10/+5/+5/+0</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+15 m (10 {s:c})</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Moine#CHUTERALENTIE|Chute ralentie]] 27 m, [[Moine#DONSUPPLEMENTAIRE|don supplémentaire]]</td>
+    <td STYLE="font-size:90%">+16/+16/+11/+11/+6/+6/+1</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+18 m (12 {s:c})</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Moine#DESERTIONDELAME|Désertion de l'âme]]</td>
+    <td STYLE="font-size:90%">+17/+17/+12/+12/+7/+7/+2</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+18 m (12 {s:c})</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Moine#CHUTERALENTIE|Chute ralentie]] (n'importe quelle distance), [[Moine#PERFECTIONDELETRE|perfection de
+      l'être]]
+    </td>
+    <td STYLE="font-size:90%">+18/+18/+13/+13/+8/+8/+3</td>
+    <td>2d10</td>
+    <td>+5</td>
+    <td>+18 m (12 {s:c})</td>
+  </tr>
+  <tr>
+    <td CLASS="note" COLSPAN="10">
+      (*) Il s'agit de la valeur pour les moines de taille M. Voir le texte pour les moines de taille P ou G.
+    </td>
+  </tr>
+</table>
 
 
 **Rôle.** Les moines excellent lorsqu’il s’agit de surmonter les dangers les plus périlleux. Ils frappent où on s’y attend le moins et profitent de tous les points faibles de l’ennemi. Rapides et doués au combat, ils peuvent se déplacer facilement sur le champ de bataille pour prêter main-forte à leurs alliés là où on a le plus besoin d’eux.
@@ -84,10 +362,19 @@ Le moine ajoute son bonus de [[Force]] entier aux jets de dégâts pour toutes l
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Dégâts à mains nues des moines  
-de taille P ou G</caption><tr CLASS="titre"><td>Niveau</td><td>Dégâts  
+<table CLASS="tablo centre autoalt">
+  <caption>Dégâts à mains nues des moines  
+de taille P ou G</caption>
+  <tr CLASS="titre"><td>Niveau</td><td>Dégâts  
  (taille P)</td><td>Dégâts  
- (taille G)</td></tr><tr CLASS="premier"><td>1–3</td><td>1d4</td><td>1d8</td></tr><tr><td>4–7</td><td>1d6</td><td>2d6</td></tr><tr><td>8–11</td><td>1d8</td><td>2d8</td></tr><tr><td>12–15</td><td>1d10</td><td>3d6</td></tr><tr><td>16–19</td><td>2d6</td><td>3d8</td></tr><tr><td>20</td><td>2d8</td><td>4d8</td></tr></table>
+ (taille G)</td></tr>
+  <tr CLASS="premier"><td>1–3</td><td>1d4</td><td>1d8</td></tr>
+  <tr><td>4–7</td><td>1d6</td><td>2d6</td></tr>
+  <tr><td>8–11</td><td>1d8</td><td>2d8</td></tr>
+  <tr><td>12–15</td><td>1d10</td><td>3d6</td></tr>
+  <tr><td>16–19</td><td>2d6</td><td>3d8</td></tr>
+  <tr><td>20</td><td>2d8</td><td>4d8</td></tr>
+</table>
 
 </div></div>Un moine de niveau 1 reçoit le don [[Science du combat à mains nues]] comme don supplémentaire. Ses attaques peuvent venir de ses poings, mais aussi de ses pieds, de ses coudes ou de ses genoux. Cela signifie qu’un moine peut même porter des attaques « à mains nues » alors que ses deux mains sont occupées à porter quelque chose. De plus, la notion d’attaque secondaire n’a pas de sens quand il se bat à mains nues. Un moine bénéficie donc toujours de son bonus de [[Force]] entier sur les [[jet de dégâts|jets de dégâts]] à mains nues.
 

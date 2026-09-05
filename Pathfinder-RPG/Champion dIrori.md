@@ -11,7 +11,105 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Le champion de la perfection</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Champion dIrori#DETECTIONDUCHAOS|Détection du Chaos]], [[Champion dIrori#ARTISTEMARTIAL|artiste martial]], [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Champion dIrori#RESERVEDEKI|Réserve de ki]], [[Champion dIrori#POURSUITEDUSAVOIR|poursuite du savoir]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (une cible)</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Champion dIrori#DEFENSEVAILLANTE|Défense vaillante]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Champion dIrori#PROTEGERLESFAIBLES|Protéger les faibles]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Champion dIrori#MAITRISEDESCOMPETENCES|Maîtrise des compétences]], [[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (plusieurs cibles)</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Champion dIrori#OUVERTUREPARFAITE|Ouverture parfaite]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Champion dIrori#UNSEULDOIGT|Un seul doigt]]</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Champion dIrori#FRAPPEPARFAITE|Frappe parfaite]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Champion dIrori#CHATIMENTTOURBILLONNANT|Châtiment tourbillonnant]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le champion de la perfection</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Champion dIrori#DETECTIONDUCHAOS|Détection du Chaos]], [[Champion dIrori#ARTISTEMARTIAL|artiste martial]],
+      [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Champion dIrori#RESERVEDEKI|Réserve de ki]], [[Champion dIrori#POURSUITEDUSAVOIR|poursuite du savoir]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (une cible)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Champion dIrori#DEFENSEVAILLANTE|Défense vaillante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Champion dIrori#PROTEGERLESFAIBLES|Protéger les faibles]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Champion dIrori#MAITRISEDESCOMPETENCES|Maîtrise des compétences]], [[Champion
+      dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (plusieurs cibles)
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Champion dIrori#OUVERTUREPARFAITE|Ouverture parfaite]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Champion dIrori#UNSEULDOIGT|Un seul doigt]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Champion dIrori#FRAPPEPARFAITE|Frappe parfaite]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Champion dIrori#CHATIMENTTOURBILLONNANT|Châtiment tourbillonnant]]</td>
+  </tr>
+</table>
 
 </center>
 

@@ -32,7 +32,17 @@ On peut aussi utiliser la compétence d’Escamotage pour distraire une audience
 
 <center>
 
-<table CLASS="tablo"><caption>Tests d'escamotage</caption><tr CLASS="titre"><td>DD du test d’Escamotage</td><td CLASS="gauche">Tâche</td></tr><tr CLASS="premier"><td>10</td><td CLASS="gauche">Se saisir discrètement d’un objet de la taille d’une pièce de monnaie, faire disparaître une pièce</td></tr><tr CLASS="alt"><td>20</td><td CLASS="gauche">Dérober un petit objet à une personne</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tests d'escamotage</caption>
+  <tr CLASS="titre"><td>DD du test d’Escamotage</td><td CLASS="gauche">Tâche</td></tr>
+  <tr CLASS="premier">
+    <td>10</td>
+    <td CLASS="gauche">
+      Se saisir discrètement d’un objet de la taille d’une pièce de monnaie, faire disparaître une pièce
+    </td>
+  </tr>
+  <tr CLASS="alt"><td>20</td><td CLASS="gauche">Dérober un petit objet à une personne</td></tr>
+</table>
 
 </center>
 

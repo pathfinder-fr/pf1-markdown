@@ -70,7 +70,23 @@ Les vanaras ont accès à ce don.
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Trapéziste des arbres]]</td><td><sup>MR</sup></td><td>[[vanara (race)|vanara]], 1 rang en Acrobaties</td><td>Le vanara utilise sa queue pour se suspendre et améliorer sa défense contre les manœuvres offensives de croc-en-jambe, de bousculade et de repositionnement</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">&nbsp;</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Trapéziste des arbres]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[vanara (race)|vanara]], 1 rang en Acrobaties</td>
+    <td>
+      Le vanara utilise sa queue pour se suspendre et améliorer sa défense contre les manœuvres offensives de
+      croc-en-jambe, de bousculade et de repositionnement
+    </td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

@@ -82,7 +82,154 @@ Quelle que soit l'origine de leur sang fiélon, la plupart des tieffelins prése
 Certains tieffelins conservent cependant des liens plus évidents avec le type de fiélon qui a corrompu leur lignée. Un joueur peut choisir l'un des dix héritages suivants pour son personnage tieffelin à la place des traits raciaux standards des tieffelins. Chaque héritage présente de nouveaux bonus de caractéristique, pouvoirs magiques et bonus aux compétences, ainsi qu'une paire de traits personnalisés. Chaque entrée présente également les traits de personnalité, les caractéristiques physiques et les lieux d'origine les plus courants (bien que loin d'être omniprésents) des tieffelins appartenant à l'héritage en question.
 
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Héritage</td><td>Alignement habituel</td><td>Caractéristiques alternatives</td><td>Compétences alternatives</td><td>Pouvoir magique alternatif</td></tr><tr CLASS="premier"><td>Scion d'[[asura]] (né de la faute)</td><td>Loyal Mauvais</td><td>+2 [[Dextérité]], +2 [[Sagesse]], -2 [[Intelligence]]</td><td>[[Connaissances]] (folklore local), [[Estimation]]</td><td>*[[fou rire]]*</td></tr><tr><td COLSPAN="5">Dépourvus de tout sens d'empathie ou de pitié, les scions de la faute haïssent tout mode de vie autre que le leur. Ils infligent une douleur physique et émotionnelle extrême aux autres, et aiment à appuyer sur les cicatrices psychologiques qui en résulte.</td></tr><tr CLASS="premier alt"><td>Scion de [[daémon]] (né de la tragédie)</td><td>Neutre Mauvais</td><td>+2 [[Dextérité]], +2 [[Intelligence]], -2 [[Sagesse]]</td><td>[[Escamotage]], [[Sabotage]]</td><td>*[[mise à mort]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Moroses et pessimistes, les scions de la tragédie sont tellement fascinés par la mort, la maladie et la dilapidation qu'ils se consacrent souvent à mettre fin à des vies dans les coulisses, comme des saboteurs macabres.</td></tr><tr CLASS="premier"><td>Scion de [[démodande]] (né de l'immondice)</td><td>Chaotique Mauvais</td><td>+2 [[Constitution]], +2 [[Sagesse]], -2 [[Intelligence]]</td><td>[[Connaissances]] (Religion), [[Intimidation]]</td><td>*[[endurance de lours|endurance de l'ours]]*</td></tr><tr><td COLSPAN="5">Vulgaires et rustres, les scions de l'immondice prennent un plaisir particulier à offenser et à scandaliser la haute société. Ils aiment violer les tabous bien plus que les lois, surtout s'il s'agit de dégrader ou de dégoûter un innocent.</td></tr><tr CLASS="premier alt"><td>Scion de [[démon]] (né de la fosse)</td><td>Chaotique Mauvais</td><td>+2 [[Force]], +2 [[Charisme]], -2 [[Intelligence]]</td><td>[[Perception]], [[Sabotage]]</td><td>*[[fracassement]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Les scions de la fosse se délectent de la destruction, surtout lorsqu'ils se déchaînent sur ce que les autres considèrent comme précieux. C'est peut-être à cause de cette volatilité que les autres ont tendance à s'en remettre aux scions de la fosse, ce qui leur confère souvent la domination qu'ils recherchent.</td></tr><tr CLASS="premier"><td>Scion de [[diable]] (né de l'enfer)</td><td>Loyal Mauvais</td><td>+2 [[Constitution]], +2 [[Sagesse]], -2 [[Charisme]]</td><td>[[Diplomatie]], [[Psychologie]]</td><td>*[[pyrotechnie]]*</td></tr><tr><td COLSPAN="5">Souvent rigides, têtus et très attachés au respect des plans et des horaires, les scions de l'enfer ont aussi un rare talent pour percer les façades des autres. Ils savent reconnaître un mensonge quand ils en entendent un, et peuvent souvent déterminer quel vice caché ou quelle honte secrète motive une autre personne.</td></tr><tr CLASS="premier alt"><td>Scion de [[div]] (né du dépit)</td><td>Neutre Mauvais</td><td>+2 [[Dextérité]], +2 [[Charisme]], -2 [[Intelligence]]</td><td>[[Diplomatie]], [[Linguistique]]</td><td>*[[détection faussée]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Un sentiment inné de jalousie et de pure méchanceté pousse les scions du dépit à répandre la misère et le désespoir. Incapables de connaître la joie, ils consacrent leur vie à promouvoir la morosité, tout en dissimulant la haine qui les habite.</td></tr><tr CLASS="premier"><td>Scion de [[kyton]] (né des chaînes)</td><td>Loyal Mauvais</td><td>+2 [[Constitution]], +2 [[Charisme]], -2 [[Sagesse]]</td><td>[[Évasion]], [[Intimidation]]</td><td>*[[toile daraignée|toile d'araignée]]*</td></tr><tr><td COLSPAN="5">Les scions des chaînes sont fascinés par la mutilation et la torture. Bien qu'ils préfèrent pratiquer leur art cruel sur les autres, ils acceptent que la roue tourne parfois et accueillent leurs propres moments d'angoisse et d'enfermement avec une étrange sérénité.</td></tr><tr CLASS="premier alt"><td>Scion d'[[oni]] (graine de la faim)</td><td>Loyal Mauvais</td><td>+2 [[Force]], +2 [[Sagesse]], -2 [[Charisme]]</td><td>[[Déguisement]], [[Intimidation]]</td><td>*[[modification dapparence|modification d'apparence]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Dotés de muscles robustes et d'os épais, les graines de la faim semblent toujours prêts à exploser en une forme plus grande et plus puissante, et ont un appétit vorace pour les plaisirs sensoriels et les délices charnels.</td></tr><tr CLASS="premier"><td>Scion de [[qlippoth]] (celui sans mère)</td><td>Chaotique Mauvais</td><td>+2 [[Force]], +2 [[Sagesse]], -2 [[Intelligence]]</td><td>[[Évasion]], [[Survie]]</td><td>*[[flou]]*</td></tr><tr><td COLSPAN="5">Aucune femme ne survit à la naissance d'un bébé dont l'ascendance qlippoth est apparue. Dans le meilleur des cas, les rejetons qlippoths déchirent leur mère pendant le travail. Dans le pire des cas, ils s'arrachent eux-mêmes plus tôt.</td></tr><tr CLASS="premier alt"><td>Scion de [[rakshasa]] (couvée de la bête)</td><td>Loyal Mauvais</td><td>+2 [[Dextérité]], +2 [[Charisme]], -2 [[Sagesse]]</td><td>[[Déguisement]], [[Psychologie]]</td><td>*[[détection de pensées]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Les scions de la bête se considèrent comme méritant l'appréciation et l'opulence. Par la ruse et la volonté, ils parviennent souvent à des positions privilégiées dans la société.</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre">
+    <td>Héritage</td>
+    <td>Alignement habituel</td>
+    <td>Caractéristiques alternatives</td>
+    <td>Compétences alternatives</td>
+    <td>Pouvoir magique alternatif</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Scion d'[[asura]] (né de la faute)</td>
+    <td>Loyal Mauvais</td>
+    <td>+2 [[Dextérité]], +2 [[Sagesse]], -2 [[Intelligence]]</td>
+    <td>[[Connaissances]] (folklore local), [[Estimation]]</td>
+    <td>*[[fou rire]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Dépourvus de tout sens d'empathie ou de pitié, les scions de la faute haïssent tout mode de vie autre que le
+      leur. Ils infligent une douleur physique et émotionnelle extrême aux autres, et aiment à appuyer sur les
+      cicatrices psychologiques qui en résulte.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Scion de [[daémon]] (né de la tragédie)</td>
+    <td>Neutre Mauvais</td>
+    <td>+2 [[Dextérité]], +2 [[Intelligence]], -2 [[Sagesse]]</td>
+    <td>[[Escamotage]], [[Sabotage]]</td>
+    <td>*[[mise à mort]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Moroses et pessimistes, les scions de la tragédie sont tellement fascinés par la mort, la maladie et la
+      dilapidation qu'ils se consacrent souvent à mettre fin à des vies dans les coulisses, comme des saboteurs
+      macabres.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Scion de [[démodande]] (né de l'immondice)</td>
+    <td>Chaotique Mauvais</td>
+    <td>+2 [[Constitution]], +2 [[Sagesse]], -2 [[Intelligence]]</td>
+    <td>[[Connaissances]] (Religion), [[Intimidation]]</td>
+    <td>*[[endurance de lours|endurance de l'ours]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Vulgaires et rustres, les scions de l'immondice prennent un plaisir particulier à offenser et à scandaliser la
+      haute société. Ils aiment violer les tabous bien plus que les lois, surtout s'il s'agit de dégrader ou de
+      dégoûter un innocent.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Scion de [[démon]] (né de la fosse)</td>
+    <td>Chaotique Mauvais</td>
+    <td>+2 [[Force]], +2 [[Charisme]], -2 [[Intelligence]]</td>
+    <td>[[Perception]], [[Sabotage]]</td>
+    <td>*[[fracassement]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Les scions de la fosse se délectent de la destruction, surtout lorsqu'ils se déchaînent sur ce que les autres
+      considèrent comme précieux. C'est peut-être à cause de cette volatilité que les autres ont tendance à s'en
+      remettre aux scions de la fosse, ce qui leur confère souvent la domination qu'ils recherchent.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Scion de [[diable]] (né de l'enfer)</td>
+    <td>Loyal Mauvais</td>
+    <td>+2 [[Constitution]], +2 [[Sagesse]], -2 [[Charisme]]</td>
+    <td>[[Diplomatie]], [[Psychologie]]</td>
+    <td>*[[pyrotechnie]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Souvent rigides, têtus et très attachés au respect des plans et des horaires, les scions de l'enfer ont aussi
+      un rare talent pour percer les façades des autres. Ils savent reconnaître un mensonge quand ils en entendent
+      un, et peuvent souvent déterminer quel vice caché ou quelle honte secrète motive une autre personne.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Scion de [[div]] (né du dépit)</td>
+    <td>Neutre Mauvais</td>
+    <td>+2 [[Dextérité]], +2 [[Charisme]], -2 [[Intelligence]]</td>
+    <td>[[Diplomatie]], [[Linguistique]]</td>
+    <td>*[[détection faussée]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Un sentiment inné de jalousie et de pure méchanceté pousse les scions du dépit à répandre la misère et le
+      désespoir. Incapables de connaître la joie, ils consacrent leur vie à promouvoir la morosité, tout en
+      dissimulant la haine qui les habite.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Scion de [[kyton]] (né des chaînes)</td>
+    <td>Loyal Mauvais</td>
+    <td>+2 [[Constitution]], +2 [[Charisme]], -2 [[Sagesse]]</td>
+    <td>[[Évasion]], [[Intimidation]]</td>
+    <td>*[[toile daraignée|toile d'araignée]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Les scions des chaînes sont fascinés par la mutilation et la torture. Bien qu'ils préfèrent pratiquer leur art
+      cruel sur les autres, ils acceptent que la roue tourne parfois et accueillent leurs propres moments d'angoisse
+      et d'enfermement avec une étrange sérénité.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Scion d'[[oni]] (graine de la faim)</td>
+    <td>Loyal Mauvais</td>
+    <td>+2 [[Force]], +2 [[Sagesse]], -2 [[Charisme]]</td>
+    <td>[[Déguisement]], [[Intimidation]]</td>
+    <td>*[[modification dapparence|modification d'apparence]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Dotés de muscles robustes et d'os épais, les graines de la faim semblent toujours prêts à exploser en une
+      forme plus grande et plus puissante, et ont un appétit vorace pour les plaisirs sensoriels et les délices
+      charnels.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Scion de [[qlippoth]] (celui sans mère)</td>
+    <td>Chaotique Mauvais</td>
+    <td>+2 [[Force]], +2 [[Sagesse]], -2 [[Intelligence]]</td>
+    <td>[[Évasion]], [[Survie]]</td>
+    <td>*[[flou]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Aucune femme ne survit à la naissance d'un bébé dont l'ascendance qlippoth est apparue. Dans le meilleur des
+      cas, les rejetons qlippoths déchirent leur mère pendant le travail. Dans le pire des cas, ils s'arrachent
+      eux-mêmes plus tôt.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Scion de [[rakshasa]] (couvée de la bête)</td>
+    <td>Loyal Mauvais</td>
+    <td>+2 [[Dextérité]], +2 [[Charisme]], -2 [[Sagesse]]</td>
+    <td>[[Déguisement]], [[Psychologie]]</td>
+    <td>*[[détection de pensées]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Les scions de la bête se considèrent comme méritant l'appréciation et l'opulence. Par la ruse et la volonté,
+      ils parviennent souvent à des positions privilégiées dans la société.
+    </td>
+  </tr>
+</table>
 
 
 ### Bonus alternatifs de classe de prédilection
@@ -125,7 +272,46 @@ Voici les options accessibles aux tieffelins, d’autres races adaptées peuvent
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Armure de la Fosse]]</td><td><sup>MR</sup></td><td>[[tieffelin (race)|Tieffelin]]</td><td>+2 à l'armure naturelle et résistance 5 à deux types d'énergie</td></tr><tr CLASS="premier"><td>[[Frappe de léclipse|Frappe de l'éclipse]]</td><td><sup>*ISR*</sup></td><td>[[Tieffelin (race)|Tieffelin]], pouvoir magique racial *[[ténèbres]]*</td><td>Effectue une frappe de l'éclipse pour aveugler une cible en prenant en tenaille grâce à un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Queue agrippeuse]]</td><td><sup>MR</sup></td><td>[[tieffelin (race)|Tieffelin]]</td><td>La queue du personnage peut aggriper de petits objets abandonnés par une action rapide</td></tr><tr CLASS="premier"><td>[[Résistance des fiélons étendue]]</td><td><sup>MR</sup></td><td>[[tieffelin (race)|Tieffelin]]</td><td>Gain de résistances fiélones supplémentaires</td></tr><tr CLASS="premier"><td>[[Vision fiélone]]</td><td><sup>MR</sup></td><td>[[tieffelin (race)|Tieffelin]], vision dans le noir à 18 mètres</td><td>Gain de la vision nocturne, la vision dans le noir passe à 36m</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Armure de la Fosse]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[tieffelin (race)|Tieffelin]]</td>
+    <td>+2 à l'armure naturelle et résistance 5 à deux types d'énergie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe de léclipse|Frappe de l'éclipse]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Tieffelin (race)|Tieffelin]], pouvoir magique racial *[[ténèbres]]*</td>
+    <td>
+      Effectue une frappe de l'éclipse pour aveugler une cible en prenant en tenaille grâce à un allié avec ce don
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Queue agrippeuse]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[tieffelin (race)|Tieffelin]]</td>
+    <td>La queue du personnage peut aggriper de petits objets abandonnés par une action rapide</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Résistance des fiélons étendue]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[tieffelin (race)|Tieffelin]]</td>
+    <td>Gain de résistances fiélones supplémentaires</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vision fiélone]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[tieffelin (race)|Tieffelin]], vision dans le noir à 18 mètres</td>
+    <td>Gain de la vision nocturne, la vision dans le noir passe à 36m</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

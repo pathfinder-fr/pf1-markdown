@@ -26,7 +26,29 @@ Categories:
 </div>
 
 
-<table CLASS="tablo"><caption>Table des pouvoirs magiques du demi-céleste</caption><tr CLASS="titre"><td class="gauche">DV</td><td class="gauche">Pouvoir magique</td></tr><tr CLASS="premier"><td class="gauche">1-2</td><td class="gauche">*[[bénédiction]]*, *[[protection contre le mal]]* (3/jour)</td></tr><tr CLASS="alt"><td class="gauche">3-4</td><td class="gauche">*[[aide]]*, *[[détection du Mal]]*</td></tr><tr><td class="gauche">5-6</td><td class="gauche">*[[soins importants]]*, *[[neutralisation du poison]]*</td></tr><tr CLASS="alt"><td class="gauche">7-8</td><td class="gauche">*[[châtiment sacré]]*, *[[guérison des maladies]]*</td></tr><tr><td class="gauche">9-10</td><td class="gauche">*[[rejet du Mal]]*</td></tr><tr CLASS="alt"><td class="gauche">11-12</td><td class="gauche">*[[parole sacrée]]*</td></tr><tr><td class="gauche">13-14</td><td class="gauche">*[[aura sacrée]]* (3/jour), *[[sanctification]]*</td></tr><tr CLASS="alt"><td class="gauche">15-16</td><td class="gauche">*[[charme-monstre de groupe]]*</td></tr><tr><td class="gauche">17-18</td><td class="gauche">*[[convocation de monstres IX]]* (uniquement des célestes)</td></tr><tr CLASS="alt"><td class="gauche">19-20</td><td class="gauche">*[[résurrection]]*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Table des pouvoirs magiques du demi-céleste</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td class="gauche">Pouvoir magique</td></tr>
+  <tr CLASS="premier">
+    <td class="gauche">1-2</td>
+    <td class="gauche">*[[bénédiction]]*, *[[protection contre le mal]]* (3/jour)</td>
+  </tr>
+  <tr CLASS="alt"><td class="gauche">3-4</td><td class="gauche">*[[aide]]*, *[[détection du Mal]]*</td></tr>
+  <tr><td class="gauche">5-6</td><td class="gauche">*[[soins importants]]*, *[[neutralisation du poison]]*</td></tr>
+  <tr CLASS="alt">
+    <td class="gauche">7-8</td>
+    <td class="gauche">*[[châtiment sacré]]*, *[[guérison des maladies]]*</td>
+  </tr>
+  <tr><td class="gauche">9-10</td><td class="gauche">*[[rejet du Mal]]*</td></tr>
+  <tr CLASS="alt"><td class="gauche">11-12</td><td class="gauche">*[[parole sacrée]]*</td></tr>
+  <tr><td class="gauche">13-14</td><td class="gauche">*[[aura sacrée]]* (3/jour), *[[sanctification]]*</td></tr>
+  <tr CLASS="alt"><td class="gauche">15-16</td><td class="gauche">*[[charme-monstre de groupe]]*</td></tr>
+  <tr>
+    <td class="gauche">17-18</td>
+    <td class="gauche">*[[convocation de monstres IX]]* (uniquement des célestes)</td>
+  </tr>
+  <tr CLASS="alt"><td class="gauche">19-20</td><td class="gauche">*[[résurrection]]*</td></tr>
+</table>
 
 
 </td><td><div>Voir un exemple : la [[licorne demi-céleste]].

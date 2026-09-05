@@ -15,7 +15,225 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Le roublard unchained</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +1d6, [[Roublard unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]], [[Roublard unchained#Recherche_des_pi%C3%A8ges_3|recherche des pièges]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Roublard unchained#ESQUIVETOTALE|esquive totale]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +2d6, [[Roublard unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]], [[Roublard unchained#SENSDUDANGER|sens du danger]] +1</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Roublard unchained#BLESSUREINCAPACITANTE|Blessure incapacitante]], [[Roublard unchained#ESQUIVEINSTINCTIVE|esquive instinctive]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +3d6, [[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du roublard]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Roublard unchained#SENSDUDANGER|sens du danger]] +2, [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Roublard unchained#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +5d6, [[Roublard unchained#SENSDUDANGER|sens du danger]] +3</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du roublard]], [[Roublard unchained#TALENTDEMAITREROUBLARD|talent de maître-roublard]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +6d6, [[Roublard unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]]</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Roublard unchained#TALENTDEROUBLARD|talent de roublard]], [[Roublard unchained#SENSDUDANGER|sens du danger]] +4</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +7d6</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +8d6, [[Roublard unchained#SENSDUDANGER|sens du danger]] +5, [[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du roublard]]</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +9d6</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Roublard unchained#SENSDUDANGER|sens du danger]] +6, [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +10d6, [[Roublard unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]]</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Roublard unchained#COUPDEMAITRE|coup de maître]], [[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du roublard]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le roublard unchained</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +1d6, [[Roublard
+      unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]], [[Roublard
+      unchained#Recherche_des_pi%C3%A8ges_3|recherche des pièges]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ESQUIVETOTALE|esquive totale]], [[Roublard unchained#TALENTDEROUBLARD|talent de
+      roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +2d6, [[Roublard
+      unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]], [[Roublard unchained#SENSDUDANGER|sens du danger]]
+      +1
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#BLESSUREINCAPACITANTE|Blessure incapacitante]], [[Roublard
+      unchained#ESQUIVEINSTINCTIVE|esquive instinctive]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +3d6, [[Roublard
+      unchained#SPECIALITEDUROUBLARD|spécialité du roublard]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#SENSDUDANGER|sens du danger]] +2, [[Roublard unchained#TALENTDEROUBLARD|talent de
+      roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]], [[Roublard
+      unchained#TALENTDEROUBLARD|talent de roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +5d6, [[Roublard unchained#SENSDUDANGER|sens du
+      danger]] +3
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du roublard]], [[Roublard
+      unchained#TALENTDEMAITREROUBLARD|talent de maître-roublard]], [[Roublard unchained#TALENTDEROUBLARD|talent de
+      roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +6d6, [[Roublard
+      unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]], [[Roublard unchained#SENSDUDANGER|sens du danger]]
+      +4
+    </td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +7d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +8d6, [[Roublard unchained#SENSDUDANGER|sens du
+      danger]] +5, [[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du roublard]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +9d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#SENSDUDANGER|sens du danger]] +6, [[Roublard unchained#TALENTDEROUBLARD|talent de
+      roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#ATTAQUESOURNOISE|attaque sournoise]] +10d6, [[Roublard
+      unchained#ENTRAINEMENTENFINESSE|entraînement en finesse]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Roublard unchained#COUPDEMAITRE|coup de maître]], [[Roublard unchained#SPECIALITEDUROUBLARD|spécialité du
+      roublard]], [[Roublard unchained#TALENTDEROUBLARD|talent de roublard]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

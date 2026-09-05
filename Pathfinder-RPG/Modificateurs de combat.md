@@ -11,11 +11,107 @@ Categories:
 {s:ClearRight}
 <table width="100%"><tr style="vertical-align: top"><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Modificateurs au jet d’attaque</caption><tr CLASS="titre"><td>L’attaquant…</td><td>Corps à corps</td><td>À distance</td></tr><tr CLASS="premier"><td>… est [[à terre]] ou à plat ventre</td><td>–4</td><td>—<sup>[[Modificateurs de combat#NOTE1|1]]</sup></td></tr><tr><td>… est [[ébloui]]</td><td>-1</td><td>-1</td></tr><tr><td>… est en position surélevée</td><td>+1</td><td>+0</td></tr><tr><td>… est [[enchevêtré]]</td><td>–2<sup>[[Modificateurs de combat#NOTE2|2]]</sup></td><td>–2<sup>[[Modificateurs de combat#NOTE2|2]]</sup></td></tr><tr><td>… est [[invisible]]</td><td>+2<sup>[[Modificateurs de combat#NOTE3|3]]</sup></td><td>+2<sup>[[Modificateurs de combat#NOTE3|3]]</sup></td></tr><tr><td>… est [[secoué]] ou [[effrayé]]</td><td>-2</td><td>-2</td></tr><tr><td>… [[pris en tenaille|prend le défenseur en tenaille]]</td><td>+2</td><td>—</td></tr><tr><td>… [[Déplacement et position#SESERRER|se serre dans un espace étroit]]</td><td>-4</td><td>-4</td></tr><tr CLASS="note"><td COLSPAN="3">{s:Reference|NOTE1}*(1) La plupart des armes à distance ne peuvent être utilisées par un personnage [[à terre]], sauf les arbalètes et les shuriken qui sont utilisables sans aucun malus.*</td></tr><tr CLASS="note"><td COLSPAN="3">{s:Reference|NOTE2}*(2) Un personnage [[enchevêtré]] subit également un malus de -4 en [[Dextérité]], ce qui peut affecter son [[jet dattaque|jet d’attaque]].*</td></tr><tr CLASS="note"><td COLSPAN="3">{s:Reference|NOTE3}*(3) Le défenseur perd son éventuel bonus de [[Dextérité]] à la [[CA]].*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>Modificateurs au jet d’attaque</caption>
+  <tr CLASS="titre"><td>L’attaquant…</td><td>Corps à corps</td><td>À distance</td></tr>
+  <tr CLASS="premier">
+    <td>… est [[à terre]] ou à plat ventre</td>
+    <td>–4</td>
+    <td>—<sup>[[Modificateurs de combat#NOTE1|1]]</sup></td>
+  </tr>
+  <tr><td>… est [[ébloui]]</td><td>-1</td><td>-1</td></tr>
+  <tr><td>… est en position surélevée</td><td>+1</td><td>+0</td></tr>
+  <tr>
+    <td>… est [[enchevêtré]]</td>
+    <td>–2<sup>[[Modificateurs de combat#NOTE2|2]]</sup></td>
+    <td>–2<sup>[[Modificateurs de combat#NOTE2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>… est [[invisible]]</td>
+    <td>+2<sup>[[Modificateurs de combat#NOTE3|3]]</sup></td>
+    <td>+2<sup>[[Modificateurs de combat#NOTE3|3]]</sup></td>
+  </tr>
+  <tr><td>… est [[secoué]] ou [[effrayé]]</td><td>-2</td><td>-2</td></tr>
+  <tr><td>… [[pris en tenaille|prend le défenseur en tenaille]]</td><td>+2</td><td>—</td></tr>
+  <tr><td>… [[Déplacement et position#SESERRER|se serre dans un espace étroit]]</td><td>-4</td><td>-4</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      {s:Reference|NOTE1}*(1) La plupart des armes à distance ne peuvent être utilisées par un personnage [[à
+      terre]], sauf les arbalètes et les shuriken qui sont utilisables sans aucun malus.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      {s:Reference|NOTE2}*(2) Un personnage [[enchevêtré]] subit également un malus de -4 en [[Dextérité]], ce qui
+      peut affecter son [[jet dattaque|jet d’attaque]].*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">{s:Reference|NOTE3}*(3) Le défenseur perd son éventuel bonus de [[Dextérité]] à la [[CA]].*</td>
+  </tr>
+</table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Modificateurs à la CA</caption><tr CLASS="titre"><td>Le défenseur…</td><td>Corps à corps</td><td>À distance</td></tr><tr CLASS="premier"><td>… est [[abri|à couvert]]</td><td>+4</td><td>+4</td></tr><tr><td>… est assis ou agenouillé</td><td>-2</td><td>+2</td></tr><tr><td>… est [[à terre]]</td><td>-4</td><td>+4</td></tr><tr><td>… est [[aveuglé|aveugle]]</td><td>–2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td><td>–2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td></tr><tr><td>… est [[camouflage|camouflé]] ou [[invisible]]</td><td COLSPAN="2">Voir [[Modificateurs de combat#CAMOUFLAGE|Camouflage]]</td></tr><tr><td>… est enchevêtré</td><td>+0<sup>[[Modificateurs de combat#NOTE5|5]]</sup></td><td>+0<sup>[[Modificateurs de combat#NOTE5|5]]</sup></td></tr><tr><td>… est en situation de [[lutte]] (pas l’attaquant)</td><td>+0</td><td>+0</td></tr><tr><td>… est [[étourdi]]</td><td>-2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td><td>–2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td></tr><tr><td>… est [[immobilisé]] en situation de [[lutte]]</td><td>-4<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td><td>+0<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td></tr><tr><td>… est [[pris au dépourvu]]</td><td>+0<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td><td>+0<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td></tr><tr><td>… est [[recroquevillé]]</td><td>-2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td><td>-2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td></tr><tr><td>… est [[sans défense]]</td><td>-4<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td><td>+0<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td></tr><tr><td>… [[Déplacement et position#SESERRER|se serre dans un espace étroit]]</td><td>-4</td><td>-4</td></tr><tr CLASS="note"><td COLSPAN="3">{s:Reference|NOTE4}*(4) Le défenseur perd son bonus de [[Dextérité]] à la [[CA]].*</td></tr><tr CLASS="note"><td COLSPAN="3">{s:Reference|NOTE5}*(5) Un personnage [[enchevêtré]] subit également un malus de -4 en [[Dextérité]].*</td></tr><tr CLASS="note"><td COLSPAN="3">{s:Reference|NOTE6}*(6) Le défenseur perd son éventuel bonus de [[Dextérité]] à la [[CA]].*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>Modificateurs à la CA</caption>
+  <tr CLASS="titre"><td>Le défenseur…</td><td>Corps à corps</td><td>À distance</td></tr>
+  <tr CLASS="premier"><td>… est [[abri|à couvert]]</td><td>+4</td><td>+4</td></tr>
+  <tr><td>… est assis ou agenouillé</td><td>-2</td><td>+2</td></tr>
+  <tr><td>… est [[à terre]]</td><td>-4</td><td>+4</td></tr>
+  <tr>
+    <td>… est [[aveuglé|aveugle]]</td>
+    <td>–2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+    <td>–2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+  </tr>
+  <tr>
+    <td>… est [[camouflage|camouflé]] ou [[invisible]]</td>
+    <td COLSPAN="2">Voir [[Modificateurs de combat#CAMOUFLAGE|Camouflage]]</td>
+  </tr>
+  <tr>
+    <td>… est enchevêtré</td>
+    <td>+0<sup>[[Modificateurs de combat#NOTE5|5]]</sup></td>
+    <td>+0<sup>[[Modificateurs de combat#NOTE5|5]]</sup></td>
+  </tr>
+  <tr><td>… est en situation de [[lutte]] (pas l’attaquant)</td><td>+0</td><td>+0</td></tr>
+  <tr>
+    <td>… est [[étourdi]]</td>
+    <td>-2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+    <td>–2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+  </tr>
+  <tr>
+    <td>… est [[immobilisé]] en situation de [[lutte]]</td>
+    <td>-4<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td>
+    <td>+0<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td>
+  </tr>
+  <tr>
+    <td>… est [[pris au dépourvu]]</td>
+    <td>+0<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+    <td>+0<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+  </tr>
+  <tr>
+    <td>… est [[recroquevillé]]</td>
+    <td>-2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+    <td>-2<sup>[[Modificateurs de combat#NOTE4|4]]</sup></td>
+  </tr>
+  <tr>
+    <td>… est [[sans défense]]</td>
+    <td>-4<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td>
+    <td>+0<sup>[[Modificateurs de combat#NOTE6|6]]</sup></td>
+  </tr>
+  <tr><td>… [[Déplacement et position#SESERRER|se serre dans un espace étroit]]</td><td>-4</td><td>-4</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">{s:Reference|NOTE4}*(4) Le défenseur perd son bonus de [[Dextérité]] à la [[CA]].*</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      {s:Reference|NOTE5}*(5) Un personnage [[enchevêtré]] subit également un malus de -4 en [[Dextérité]].*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">{s:Reference|NOTE6}*(6) Le défenseur perd son éventuel bonus de [[Dextérité]] à la [[CA]].*</td>
+  </tr>
+</table>
 
 </td></tr></table>
 

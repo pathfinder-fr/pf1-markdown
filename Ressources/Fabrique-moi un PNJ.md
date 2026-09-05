@@ -11,6 +11,34 @@ Voici donc quelques idées avec des archétypes créés par la communauté.
 <center>
 
 
-<table CLASS="tablo autoalt col1centre" width=40%><caption>Types de PNJ</caption><tr><td>[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14311~~Fabrique-moi-un-PNJ~~Diabolique</nowiki>|Diabolique]]</td></tr><tr><td>[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14561~~Fabrique-moi-un-PNJ~~Momifie</nowiki>|Momifié]]</td></tr><tr><td>[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m627424~~Fabrique-moi-un-PNJ~~Cauchemardesque</nowiki>|Cauchemardesque]]</td></tr><tr><td>[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m605111~~Fabrique-moi-un-PNJ~~Un-pokemon-comme-boss</nowiki>|Boss pokémon]]</td></tr><tr><td>[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t15409~~Fabrique-moi-un-PNJ~~Du-temple</nowiki>|Du temple]]</td></tr></table>
+<table CLASS="tablo autoalt col1centre" width=40%>
+  <caption>Types de PNJ</caption>
+  <tr>
+    <td>
+      [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14311~~Fabrique-moi-un-PNJ~~Diabolique</nowiki>
+      |Diabolique]]
+    </td>
+  </tr>
+  <tr>
+    <td>[[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t14561~~Fabrique-moi-un-PNJ~~Momifie</nowiki>|Momifié]]</td>
+  </tr>
+  <tr>
+    <td>
+      [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m627424~~Fabrique-moi-un-PNJ~~Cauchemardesque</nowiki>
+      |Cauchemardesque]]
+    </td>
+  </tr>
+  <tr>
+    <td>
+      [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/m605111~~Fabrique-moi-un-PNJ~~Un-pokemon-comme-boss
+      </nowiki>|Boss pokémon]]
+    </td>
+  </tr>
+  <tr>
+    <td>
+      [[<nowiki>http://www.pathfinder-fr.org/Forum/posts/t15409~~Fabrique-moi-un-PNJ~~Du-temple</nowiki>|Du temple]]
+    </td>
+  </tr>
+</table>
 
 </center>

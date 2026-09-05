@@ -28,12 +28,23 @@ Le personnage peut créer une diversion pour se cacher. Il effectue un test d’
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Requête</td><td>Mod au DD du  
-test d’Influence</td></tr><tr CLASS="premier"><td>Donner un conseil général  
-ou indiquer le chemin</td><td>-5</td></tr><tr><td>Donner des conseils précis</td><td>+0</td></tr><tr><td>Apporter une aide banale</td><td>+0</td></tr><tr><td>Révéler un secret peu  
-important</td><td>+5</td></tr><tr><td>Aider par un acte long ou  
-complexe</td><td>+5</td></tr><tr><td>Aider par un acte dangereux</td><td>+10</td></tr><tr><td>Révéler un secret important</td><td>+10 ou plus</td></tr><tr><td>Aider par un acte qui  
-risque d’être puni</td><td>+15 ou plus</td></tr><tr><td>Requêtes supplémentaires</td><td>+5 par requête</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Requête</td><td>Mod au DD du  
+test d’Influence</td></tr>
+  <tr CLASS="premier"><td>Donner un conseil général  
+ou indiquer le chemin</td><td>-5</td></tr>
+  <tr><td>Donner des conseils précis</td><td>+0</td></tr>
+  <tr><td>Apporter une aide banale</td><td>+0</td></tr>
+  <tr><td>Révéler un secret peu  
+important</td><td>+5</td></tr>
+  <tr><td>Aider par un acte long ou  
+complexe</td><td>+5</td></tr>
+  <tr><td>Aider par un acte dangereux</td><td>+10</td></tr>
+  <tr><td>Révéler un secret important</td><td>+10 ou plus</td></tr>
+  <tr><td>Aider par un acte qui  
+risque d’être puni</td><td>+15 ou plus</td></tr>
+  <tr><td>Requêtes supplémentaires</td><td>+5 par requête</td></tr>
+</table>
 
 </center></div></div>Le personnage peut demander un service à une créature dont l’attitude est indifférente, amicale ou serviable. Utilisez le [[DD]] correspondant à l’attitude de la créature, indiqué dans la table de la fonction [[Compétences fusionnées, Influence#MODIFIERLATTITUDEDAUTRESCREATURES|modifier l’attitude d’autres créatures]], et appliquez-lui les modificateurs présentés ici. Une créature à l’attitude serviable acceptera généralement toutes les requêtes du personnage sans qu’il ait besoin de faire de test, à moins qu’on lui demande de faire quelque chose de contraire à sa nature ou de se mettre en grave danger. Le [[MJ]] peut décider que certaines requêtes seront toujours refusées si elles vont à l’encontre des valeurs ou de la nature d’une créature.
 
@@ -75,11 +86,20 @@ Le personnage peut forcer un adversaire à se montrer amical envers lui pendant 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances du mensonge</td><td>Mod au DD du  
-test d’Influence</td></tr><tr CLASS="premier"><td>La cible veut croire le personnage</td><td>+5</td></tr><tr><td>Le mensonge est crédible</td><td>+0</td></tr><tr><td>Le mensonge est peu crédible</td><td>-5</td></tr><tr><td>Le mensonge est très  
-peu crédible</td><td>-10</td></tr><tr><td>Le mensonge est impossible  
-à croire</td><td>-20</td></tr><tr><td>La cible est saoule ou vulnérable</td><td>+5</td></tr><tr><td>Le personnage possède une  
-preuve convaincante</td><td>jusqu’à +10</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Circonstances du mensonge</td><td>Mod au DD du  
+test d’Influence</td></tr>
+  <tr CLASS="premier"><td>La cible veut croire le personnage</td><td>+5</td></tr>
+  <tr><td>Le mensonge est crédible</td><td>+0</td></tr>
+  <tr><td>Le mensonge est peu crédible</td><td>-5</td></tr>
+  <tr><td>Le mensonge est très  
+peu crédible</td><td>-10</td></tr>
+  <tr><td>Le mensonge est impossible  
+à croire</td><td>-20</td></tr>
+  <tr><td>La cible est saoule ou vulnérable</td><td>+5</td></tr>
+  <tr><td>Le personnage possède une  
+preuve convaincante</td><td>jusqu’à +10</td></tr>
+</table>
 
 </center></div></div>Le personnage peut tenter de berner quelqu’un en effectuant un test d’Influence. Le [[DD]] de ce test est égal au résultat du test de [[Compétences fusionnées, Perception|Perception]] effectué par l’adversaire pour détecter les mensonges. Appliquez les modificateurs appropriés issus de la table ci-contre. Ces modificateurs se cumulent entre eux mais seul l’un de ceux liés à la crédibilité du mensonge s’applique. Moins le mensonge est crédible et plus le personnage éprouvera de difficultés à le faire croire. Le [[MJ]] peut décider que certains mensonges sont si incroyables qu’il est impossible de convaincre qui que ce soit qu’il s’agit de la vérité.
 
@@ -93,13 +113,20 @@ preuve convaincante</td><td>jusqu’à +10</td></tr></table>
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Attitude initiale</td><td>DD du test  
-d’Influence</td></tr><tr CLASS="premier"><td>Hostile</td><td>25 + modificateur de  
-Cha de la cible</td></tr><tr><td>Inamical</td><td>20 + modificateur de  
-Cha de la cible</td></tr><tr><td>Indifférent</td><td>15 + modificateur de  
-Cha de la cible</td></tr><tr><td>Amical</td><td>10 + modificateur de  
-Cha de la cible</td></tr><tr><td>Serviable</td><td>0 + modificateur de  
-Cha de la cible</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Attitude initiale</td><td>DD du test  
+d’Influence</td></tr>
+  <tr CLASS="premier"><td>Hostile</td><td>25 + modificateur de  
+Cha de la cible</td></tr>
+  <tr><td>Inamical</td><td>20 + modificateur de  
+Cha de la cible</td></tr>
+  <tr><td>Indifférent</td><td>15 + modificateur de  
+Cha de la cible</td></tr>
+  <tr><td>Amical</td><td>10 + modificateur de  
+Cha de la cible</td></tr>
+  <tr><td>Serviable</td><td>0 + modificateur de  
+Cha de la cible</td></tr>
+</table>
 
 </center></div></div>Le personnage peut utiliser l’Influence pour modifier l’attitude des [[PNJ]]. Le [[DD]] du test dépend de l’attitude initiale de la créature plus son modificateur de [[Charisme]]. Si le test réussit, l’attitude de la cible envers le personnage s’améliore d’une catégorie. Son attitude s’améliore d’une catégorie en plus si le résultat du test dépasse le DD de 5 points ou plus. Il est impossible de provoquer un changement d’attitude de plus de deux catégories avec un seul test. Si le test échoue de 4 points ou moins, l’attitude de la cible ne change pas et, s’il échoue de 5 points ou plus, elle se détériore d’une catégorie. Les modifications d’attitude persistent en moyenne pendant 1d4 heures. Le personnage peut utiliser l’Influence pour demander un service à une créature dont l’attitude envers lui est indifférente, amicale ou serviable.
 
@@ -115,10 +142,14 @@ Un personnage ne peut pas changer l’attitude d’une créature qui ne le compr
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Information recherchée</td><td>DD du test  
-d’Influence</td></tr><tr CLASS="premier"><td>Fait ou rumeur  
-bien connu</td><td>10</td></tr><tr><td>Secret ou information  
-peu connu</td><td>20 ou plus</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Information recherchée</td><td>DD du test  
+d’Influence</td></tr>
+  <tr CLASS="premier"><td>Fait ou rumeur  
+bien connu</td><td>10</td></tr>
+  <tr><td>Secret ou information  
+peu connu</td><td>20 ou plus</td></tr>
+</table>
 
 </center></div></div>En visitant les tavernes locales, les marchés et autres lieux de rencontre, le personnage peut recueillir des informations sur un sujet ou un individu spécifique. C’est le [[MJ]] qui décide si certains sujets sont tout simplement inconnus des gens du peuple.
 
@@ -132,8 +163,12 @@ peu connu</td><td>20 ou plus</td></tr></table>
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Message secret</td><td>DD du test  
-d’Influence</td></tr><tr CLASS="premier"><td>Message simple</td><td>15</td></tr><tr><td>Message complexe</td><td>20</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Message secret</td><td>DD du test  
+d’Influence</td></tr>
+  <tr CLASS="premier"><td>Message simple</td><td>15</td></tr>
+  <tr><td>Message complexe</td><td>20</td></tr>
+</table>
 
 </center></div></div>Le personnage peut transmettre à une autre personne un message à mots couverts sans que les autres individus puissent le comprendre. En cas de réussite, la cible comprend automatiquement le message pour autant que le personnage utilise un langage qu’elle connaît. Si le personnage rate son test de 5 points ou plus, il transmet un message erroné. Les autres individus qui perçoivent le message peuvent tenter de le comprendre en réussissant un test de [[Compétences fusionnées, Perception|Perception]] pour détecter les mensonges opposé au résultat du test du personnage. Voir la fonction de Perception [[Compétences fusionnées, Perception#INTERCEPTERUNMESSAGESECRET|intercepter un message secret]] pour déterminer si le message secret est intercepté.
 

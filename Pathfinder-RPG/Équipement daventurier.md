@@ -13,7 +13,1209 @@ Categories:
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Équipement d'aventurier</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Équipement daventurier#Affiche peinte|↓]] [[Affiche peinte (objet)|Affiche peinte]]</td><td>15 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Aiguille à coudre|↓]] [[Aiguille à coudre (objet)|Aiguille à coudre]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Aimant|↓]] [[Aimant (objet)|Aimant]]</td><td>5 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Anneaux de cryptage|↓]] [[Anneaux de cryptage (objet)|Anneaux de cryptage]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Appeau|↓]] [[Appeau (objet)|Appeau]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Applique pour bouclier|↓]] [[Applique pour bouclier (objet)|Applique pour bouclier]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Ardoise|↓]] [[Ardoise (objet)|Ardoise]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Argile|↓]] [[Argile (objet)|Argile]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Armure factice|↓]] [[Armure factice (objet)|Armure factice]]</td><td>90 po</td><td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Astrolabe|↓]] [[Astrolabe (objet)|Astrolabe]]</td><td>1.000 po</td><td>3 kg</td></tr><tr><td>[[Équipement daventurier#Bague à poison|↓]] [[Bague à poison (objet)|Bague à poison]]</td><td>+20 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Baguette de sourcier|↓]] [[Baguette de sourcier (objet)|Baguette de sourcier]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Baignoire pliante|↓]] [[Baignoire pliante (objet)|Baignoire pliante]]</td><td>15 po</td><td>10 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Balise|↓]] [[Balise (objet)|Balise (standard)]]</td><td>5 pa</td><td>8 kg</td></tr><tr><td>[[Équipement daventurier#Balise|↓]] [[Balise (objet)|Balise (supérieure)]]</td><td>10 po</td><td>15 kg</td></tr><tr><td>[[Équipement daventurier#Bannière|↓]] [[Bannière (objet)|Bannière]]</td><td>1–20 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Baume à lèvres empoisonné|↓]] [[Baume à lèvres empoisonné (objet)|Baume à lèvres empoisonné]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Bélier portable|↓]] [[Bélier portable (objet)|Bélier portable]]</td><td>10 po</td><td>10 kg</td></tr><tr><td>[[Équipement daventurier#Billes|↓]] [[Billes (objet)|Billes]]</td><td>1 pa</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Bois de chauffage|↓]] [[Bois de chauffage (objet)|Bois de chauffage (par jour)]]</td><td>1 pc</td><td>10 kg</td></tr><tr><td>[[Équipement daventurier#Boîte à parchemins|↓]] [[Boîte à parchemins (objet)|Boîte à parchemins]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Botte de lintrus|↓]] [[Botte de lintrus (objet)|Botte de l'intrus]]</td><td>8 pa</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Bottin mondain|↓]] [[Bottin mondain (objet)|Bottin mondain]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Bouchons doreilles|↓]] [[Bouchons doreilles (objet)|Bouchons d'oreilles]]</td><td>3 pc</td><td>—</td></tr><tr><td>[[Équipement daventurier#Bougeoir|↓]] [[Bougeoir (objet)|Bougeoir]]</td><td>1 pc</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Bougie|↓]] [[Bougie (objet)|Bougie]]</td><td>1 pc</td><td>—</td></tr><tr><td>[[Équipement daventurier#Bourse|↓]] [[Bourse (objet)|Bourse]]</td><td>1 po</td><td>0,25 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Boussole|↓]] [[Boussole (objet)|Boussole]]</td><td>10 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Bouteille|↓]] [[Bouteille (objet)|Bouteille]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Bracelet en braille|↓]] [[Bracelet en braille (objet)|Bracelet en braille]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Câble|↓]] [[Câble (objet)|Câble]]</td><td>5 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (bon)]]</td><td>80 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (moyen)]]</td><td>40 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (simple)]]</td><td>20 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (supérieur)]]</td><td>150 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Cafetière|↓]] [[Cafetière (objet)|Cafetière]]</td><td>3 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Cagoule de contention|↓]] [[Cagoule de contention (objet)|Cagoule de contention]]</td><td>75 po</td><td>1,5 kg</td></tr><tr><td>[[Équipement daventurier#Calumet|↓]] [[Calumet (objet)|Calumet]]</td><td>20 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Capuchon filtreur|↓]] [[Capuchon filtreur (objet)|Capuchon filtreur]]</td><td>10 po</td><td>2 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Carillon|↓]] [[Carillon (objet)|Carillon]]</td><td>1 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Carnet|↓]] [[Carnet (objet)|Carnet]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Carte nautique|↓]] [[Carte nautique (objet)|Carte nautique]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Carte régionale|↓]] [[Carte régionale (objet)|Carte régionale]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Cartouchière|↓]] [[Cartouchière (objet)|Cartouchière]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Casque à bougie|↓]] [[Casque à bougie (objet)|Casque à bougie]]</td><td>2 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Ceinture daventurier|↓]] [[Ceinture daventurier (objet)|Ceinture d'aventurier]]</td><td>20 po</td><td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Ceinture-parchemin|↓]] [[Ceinture-parchemin (objet)|Ceinture-parchemin]]</td><td>3 pa</td><td>variable</td></tr><tr><td>[[Équipement daventurier#Cercueil|↓]] [[Cercueil (objet)|Cercueil (orné)]]</td><td>100 po</td><td>25 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Cercueil|↓]] [[Cercueil (objet)|Cercueil (standard)]]</td><td>10 po</td><td>15 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Chaîne|↓]] [[Chaîne (objet)|Chaîne (3 m)]]</td><td>30 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Chaînes factices|↓]] [[Chaînes factices (objet)|Chaînes factices (3 m)]]</td><td>65 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Chaise pliante|↓]] [[Chaise pliante (objet)|Chaise pliante]]</td><td>2 po</td><td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Charbon|↓]] [[Charbon (objet)|Charbon (1 bâtonnet)]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Chaudron|↓]] [[Chaudron (objet)|Chaudron (en mithral)]]</td><td>2.501 po</td><td>1,25 kg</td></tr><tr><td>[[Équipement daventurier#Chaudron|↓]] [[Chaudron (objet)|Chaudron (standard)]]</td><td>1 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Chausse-trappes|↓]] [[Chausse-trappes (objet)|Chausse-trappes]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Chausse-trappes vicieuses|↓]] [[Chausse-trappes vicieuses (objet)|Chausse-trappes vicieuses]]</td><td>50 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Chaussures de fausses empreintes|↓]] [[Chaussures de fausses empreintes (objet)|Chaussures de fausses empreintes]]</td><td>5 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Chevalière|↓]] [[Chevalière (objet)|Chevalière]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#ChignoleForeuse|↓]] [[ChignoleForeuse (objet)|Chignole/Foreuse]]</td><td>5 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Chope|↓]] [[Chope (objet)|Chope]]</td><td>2 pc</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Chronique des Explorateurs|↓]] [[Chronique des Explorateurs (objet)|Chronique des Explorateurs]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Cire à cacheter|↓]] [[Cire à cacheter (objet)|Cire à cacheter]]</td><td>1 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Clepsydre|↓]] [[Clepsydre (objet)|Clepsydre]]</td><td>1.000 po</td><td>100 kg</td></tr><tr><td>[[Équipement daventurier#Cloche|↓]] [[Cloche (objet)|Cloche]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Cloche de cérémonie|↓]] [[Cloche de cérémonie (objet)|Cloche de cérémonie]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille G)]]</td><td>10 po</td><td>50 kg</td></tr><tr><td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille M)]]</td><td>5 po</td><td>25 kg</td></tr><tr><td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille P)]]</td><td>2 po</td><td>12,5 kg</td></tr><tr><td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille TG)]]</td><td>25 po</td><td>125 kg</td></tr><tr><td>[[Équipement daventurier#Coffre à double fond|↓]] [[Coffre à double fond (objet)|Coffre à double fond]]</td><td>52 po</td><td>12,5 kg</td></tr><tr><td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille G)]]</td><td>15 po</td><td>50 kg</td></tr><tr><td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille M)]]</td><td>7 po</td><td>25 kg</td></tr><tr><td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille P)]]</td><td>3 po</td><td>12,5 kg</td></tr><tr><td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille TG)]]</td><td>37 po</td><td>125 kg</td></tr><tr><td>[[Équipement daventurier#Colle animale|↓]] [[Colle animale (objet)|Colle animale]]</td><td>5 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Colonie de scarabées charognards|↓]] [[Colonie de scarabées charognards (objet)|Colonie de scarabées charognards]]</td><td>3 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Combinaison dapiculteur|↓]] [[Combinaison dapiculteur (objet)|Combinaison d'apiculteur]]</td><td>20 po</td><td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Copie de clé|↓]] [[Copie de clé (objet)|Copie de clé]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Cor|↓]] [[Cor (objet)|Cor]]</td><td>1 po</td><td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (15 m)]]</td><td>1 po</td><td>5 kg</td></tr><tr><td>[[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (en soie d'araignée, 15 m)]]</td><td>100 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (en soie, 15 m)]]</td><td>10 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Corde métrée|↓]] [[Corde métrée (objet)|Corde métrée (3 m)]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Cordon à grimoire|↓]] [[Cordon à grimoire (objet)|Cordon à grimoire]]</td><td>3 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Corne à poudre|↓]] [[Corne à poudre (objet)|Corne à poudre]]</td><td>3 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Corne acoustique|↓]] [[Corne acoustique (objet)|Corne acoustique]]</td><td>5 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Coupe à double fond|↓]] [[Coupe à double fond (objet)|Coupe à double fond]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Coupe-verre|↓]] [[Coupe-verre (objet)|Coupe-verre]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Couverture|↓]] [[Couverture (objet)|Couverture]]</td><td>5 pa</td><td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Craie|↓]] [[Craie (objet)|Craie]]</td><td>1 pc</td><td>—</td></tr><tr><td>[[Équipement daventurier#Cristal prismatique|↓]] [[Cristal prismatique (objet)|Cristal prismatique]]</td><td>30 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Cruche|↓]] [[Cruche (objet)|Cruche]]</td><td>2 pc</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Dictionnaire de voyage|↓]] [[Dictionnaire de voyage (objet)|Dictionnaire de voyage]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Dragonne|↓]] [[Dragonne (objet)|Dragonne]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Échasses|↓]] [[Échasses (objet)|Échasses (de maître)]]</td><td>5 po</td><td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Échasses|↓]] [[Échasses (objet)|Échasses (standard)]]</td><td>2 pa</td><td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Échelle|↓]] [[Échelle (objet)|Échelle (pliante)]]</td><td>2 po</td><td>8 kg</td></tr><tr><td>[[Équipement daventurier#Échelle|↓]] [[Échelle (objet)|Échelle (standard)]]</td><td>2 pa</td><td>10 kg</td></tr><tr><td>[[Équipement daventurier#Encens|↓]] [[Encens (objet)|Encens (AO)]]</td><td>7 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Encens|↓]] [[Encens (objet)|Encens (MR, 10 bâtonnets)]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Encensoir|↓]] [[Encensoir (objet)|Encensoir]]</td><td>50 po</td><td>1,5 kg</td></tr><tr><td>[[Équipement daventurier#Encre|↓]] [[Encre (objet)|Encre]]</td><td>8 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Épée à dos de scie|↓]] [[Épée à dos de scie (objet)|Épée à dos de scie]]</td><td>+5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Étendard|↓]] [[Étendard (objet)|Étendard]]</td><td>10 po</td><td>1,5 kg</td></tr><tr><td>[[Équipement daventurier#Étui à parchemins|↓]] [[Étui à parchemins (objet)|Étui à parchemins]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Étui de manche|↓]] [[Étui de manche (objet)|Étui de manche]]</td><td>100 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Fausses menottes|↓]] [[Fausses menottes (objet)|Fausses menottes]]</td><td>65 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Fers|↓]] [[Fers (objet)|Fers (de maître)]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Fers|↓]] [[Fers (objet)|Fers (standards)]]</td><td>15 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Ficelle|↓]] [[Ficelle (objet)|Ficelle (15 m)]]</td><td>1 pc</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Fil à scier|↓]] [[Fil à scier (objet)|Fil à scier (en adamantium)]]</td><td>150 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Fil à scier|↓]] [[Fil à scier (objet)|Fil à scier (standard)]]</td><td>30 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Filet à clochettes|↓]] [[Filet à clochettes (objet)|Filet à clochettes]]</td><td>2 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Filet à papillons|↓]] [[Filet à papillons (objet)|Filet à papillons]]</td><td>5 po</td><td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Filet de pêche|↓]] [[Filet de pêche (objet)|Filet de pêche]]</td><td>4 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Fiole|↓]] [[Fiole (objet)|Fiole]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Fiole en fer|↓]] [[Fiole en fer (objet)|Fiole en fer]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Flasque|↓]] [[Flasque (objet)|Flasque]]</td><td>3 pc</td><td>0,75 kg</td></tr><tr><td>[[Équipement daventurier#Flasque de poche|↓]] [[Flasque de poche (objet)|Flasque de poche]]</td><td>1 po</td><td>0,25 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Flèche-grappin|↓]] [[Flèche-grappin (objet)|Flèche-grappin]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Fourreau à double fond|↓]] [[Fourreau à double fond (objet)|Fourreau à double fond]]</td><td>45 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Fourreau de poignet|↓]] [[Fourreau de poignet (objet)|Fourreau de poignet (à ressort)]]</td><td>5 po</td><td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Fourreau de poignet|↓]] [[Fourreau de poignet (objet)|Fourreau de poignet (standard)]]</td><td>1 po</td><td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Fourreau empoisonné|↓]] [[Fourreau empoisonné (objet)|Fourreau empoisonné]]</td><td>50 po</td><td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Gaufrier|↓]] [[Gaufrier (objet)|Gaufrier (en mithral)]]</td><td>2.501 po</td><td>1,25 kg</td></tr><tr><td>[[Équipement daventurier#Gaufrier|↓]] [[Gaufrier (objet)|Gaufrier (standard)]]</td><td>1 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Gemme de chair|↓]] [[Gemme de chair (objet)|Gemme de chair (décorative)]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Gemme de chair|↓]] [[Gemme de chair (objet)|Gemme de chair (pointes)]]</td><td>50 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Gourde|↓]] [[Gourde (objet)|Gourde]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Graines sentinelles|↓]] [[Graines sentinelles (objet)|Graines sentinelles]]</td><td>7 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Grappin|↓]] [[Grappin (objet)|Grappin (en mithral)]]</td><td>2.001 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Grappin|↓]] [[Grappin (objet)|Grappin (standard)]]</td><td>1 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Griffes métalliques|↓]] [[Griffes métalliques (objet)|Griffes métalliques]]</td><td>305 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Hamac|↓]] [[Hamac (objet)|Hamac]]</td><td>1 pa</td><td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Hameçon|↓]] [[Hameçon (objet)|Hameçon]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Huile|↓]] [[Huile (objet)|Huile]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Jambe de bois|↓]] [[Jambe de bois (objet)|Jambe de bois]]</td><td>10 po</td><td>2,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Jarre|↓]] [[Jarre (objet)|Jarre]]</td><td>3 pc</td><td>4,5 kg</td></tr><tr><td>[[Équipement daventurier#Jeton de représentation|↓]] [[Jeton de représentation (objet)|Jeton de représentation]]</td><td>2 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Kit repas|↓]] [[Kit repas (objet)|Kit repas]]</td><td>2 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Lampe|↓]] [[Lampe (objet)|Lampe]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Lance-javelot|↓]] [[Lance-javelot (objet)|Lance-javelot]]</td><td>1 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Lanterne à bougie|↓]] [[Lanterne à bougie (objet)|Lanterne à bougie]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Lanterne à capote|↓]] [[Lanterne à capote (objet)|Lanterne à capote]]</td><td>7 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Lanterne de mineur|↓]] [[Lanterne de mineur (objet)|Lanterne de mineur]]</td><td>15 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Lanterne étanche|↓]] [[Lanterne étanche (objet)|Lanterne étanche]]</td><td>+5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Lanterne sourde|↓]] [[Lanterne sourde (objet)|Lanterne sourde]]</td><td>12 po</td><td>1,5 kg</td></tr><tr><td>[[Équipement daventurier#Larmes du Dieu vivant|↓]] [[Larmes du Dieu vivant (objet)|Larmes du Dieu vivant]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Lime à croc|↓]] [[Lime à croc (objet)|Lime à croc]]</td><td>3 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Lit de camp|↓]] [[Lit de camp (objet)|Lit de camp]]</td><td>1 po</td><td>15 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Livre creux|↓]] [[Livre creux (objet)|Livre creux]]</td><td>15 po</td><td>1,5 kg</td></tr><tr><td>[[Équipement daventurier#Livre généalogique|↓]] [[Livre généalogique (objet)|Livre généalogique]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Livres-codes|↓]] [[Livres-codes (objet)|Livres-codes]]</td><td>150 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Longue vue|↓]] [[Longue vue (objet)|Longue vue]]</td><td>1.000 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Loupe|↓]] [[Loupe (objet)|Loupe]]</td><td>100 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Lunettes de lecture des auras|↓]] [[Lunettes de lecture des auras (objet)|Lunettes de lecture des auras]]</td><td>15 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Lunettes fumées|↓]] [[Lunettes fumées (objet)|Lunettes fumées]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Manche darme ondin|↓]] [[Manche darme ondin (objet)|Manche d'arme ondin]]</td><td>+300 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Marmite|↓]] [[Marmite (objet)|Marmite (en mithral)]]</td><td>2.001 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Marmite|↓]] [[Marmite (objet)|Marmite (standard)]]</td><td>8 pa</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Marteau|↓]] [[Marteau (objet)|Marteau]]</td><td>5 pa</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Masse|↓]] [[Masse (objet)|Masse]]</td><td>1 po</td><td>5 kg</td></tr><tr><td>[[Équipement daventurier#Médaillon dhypnotiseur|↓]] [[Médaillon dhypnotiseur (objet)|Médaillon d'hypnotiseur (médaillon)]]</td><td>15 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Médaillon dhypnotiseur|↓]] [[Médaillon dhypnotiseur (objet)|Médaillon d'hypnotiseur (montre à gousset)]]</td><td>250 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (de maître)]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (en mithral)]]</td><td>1.000 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (standards)]]</td><td>15 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Menottes à pointes|↓]] [[Menottes à pointes (objet)|Menottes à pointes]]</td><td>+15 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Miroir|↓]] [[Miroir (objet)|Miroir]]</td><td>10 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Missel de guerre|↓]] [[Missel de guerre (objet)|Missel de guerre]]</td><td>50 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Modèles de lettre|↓]] [[Modèles de lettre (objet)|Modèles de lettre]]</td><td>50 po</td><td>1,5 kg</td></tr><tr><td>[[Équipement daventurier#Montre à gousset|↓]] [[Montre à gousset (objet)|Montre à gousset]]</td><td>250 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Moule de cire vierge|↓]] [[Moule de cire vierge (objet)|Moule de cire vierge]]</td><td>15 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Objet bricolé|↓]] [[Objet bricolé (objet)|Objet bricolé]]</td><td>spécial</td><td>spécial</td></tr><tr><td>[[Équipement daventurier#Oboles|↓]] [[Oboles (objet)|Oboles (12)]]</td><td>12 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Ouija|↓]] [[Ouija (objet)|Ouija]]</td><td>15 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Outre|↓]] [[Outre (objet)|Outre]]</td><td>1 po</td><td>2 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Palan|↓]] [[Palan (objet)|Palan]]</td><td>5 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Panier|↓]] [[Panier (objet)|Panier]]</td><td>4 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Pantin de ventriloque|↓]] [[Pantin de ventriloque (objet)|Pantin de ventriloque]]</td><td>100 po</td><td>3,5 kg</td></tr><tr><td>[[Équipement daventurier#Pantographe|↓]] [[Pantographe (objet)|Pantographe]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Papier|↓]] [[Papier (objet)|Papier]]</td><td>4 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Papier à lettres|↓]] [[Papier à lettres (objet)|Papier à lettres]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Papier de riz|↓]] [[Papier de riz (objet)|Papier de riz]]</td><td>5 pc</td><td>—</td></tr><tr><td>[[Équipement daventurier#Papier glu|↓]] [[Papier glu (objet)|Papier glu]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Parchemin|↓]] [[Parchemin (objet)|Parchemin]]</td><td>2 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne (exotique)]]</td><td>100 po/dose</td><td>—</td></tr><tr><td>[[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne (ordinaire)]]</td><td>1 po/dose</td><td>—</td></tr><tr><td>[[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne (rare)]]</td><td>10 po/dose</td><td>—</td></tr><tr><td>[[Équipement daventurier#Passe-partout|↓]] [[Passe-partout (objet)|Passe-partout]]</td><td>85 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (national ou de courtoisie de taille G)]]</td><td>2 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (national ou de courtoisie de taille P)]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (personnel de taille G)]]</td><td>4 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (personnel de taille P)]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Pelle|↓]] [[Pelle (objet)|Pelle (pliante)]]</td><td>10 po</td><td>6 kg</td></tr><tr><td>[[Équipement daventurier#Pelle|↓]] [[Pelle (objet)|Pelle (standard)]]</td><td>2 po</td><td>4 kg</td></tr><tr><td>[[Équipement daventurier#Perche|↓]] [[Perche (objet)|Perche (pliante)]]</td><td>2 pa</td><td>5 kg</td></tr><tr><td>[[Équipement daventurier#Perche|↓]] [[Perche (objet)|Perche (standard)]]</td><td>5 pc</td><td>4 kg</td></tr><tr><td>[[Équipement daventurier#Périscope|↓]] [[Périscope (objet)|Périscope]]</td><td>20 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Petit encensoir|↓]] [[Petit encensoir (objet)|Petit encensoir]]</td><td>5 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Pic à cornichons|↓]] [[Pic à cornichons (objet)|Pic à cornichons]]</td><td>2 pc</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Pièce creuse|↓]] [[Pièce creuse (objet)|Pièce creuse]]</td><td>12 po</td><td>0,05 kg</td></tr><tr><td>[[Équipement daventurier#Pied-de-biche|↓]] [[Pied-de-biche (objet)|Pied-de-biche]]</td><td>2 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Pierre à aiguiser|↓]] [[Pierre à aiguiser (objet)|Pierre à aiguiser]]</td><td>2 pc</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Pierre chauffante|↓]] [[Pierre chauffante (objet)|Pierre chauffante]]</td><td>20 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Pioche de mineur|↓]] [[Pioche de mineur (objet)|Pioche de mineur]]</td><td>3 po</td><td>5 kg</td></tr><tr><td>[[Équipement daventurier#Piton|↓]] [[Piton (objet)|Piton]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Planche pliante|↓]] [[Planche pliante (objet)|Planche pliante]]</td><td>4 pa</td><td>5 kg</td></tr><tr><td>[[Équipement daventurier#Planchette décriture automatique|↓]] [[Planchette décriture automatique (objet)|Planchette d'écriture automatique]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Plume à encre|↓]] [[Plume à encre (objet)|Plume à encre]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Poêle à frire|↓]] [[Poêle à frire (objet)|Poêle à frire (en mithral)]]</td><td>2.001 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Poêle à frire|↓]] [[Poêle à frire (objet)|Poêle à frire (standard)]]</td><td>8 pa</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Pointe en fer|↓]] [[Pointe en fer (objet)|Pointe en fer]]</td><td>5 pc</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Pommeau creux|↓]] [[Pommeau creux (objet)|Pommeau creux]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Pont portable|↓]] [[Pont portable (objet)|Pont portable]]</td><td>200 po</td><td>30 kg</td></tr><tr><td>[[Équipement daventurier#Poudre|↓]] [[Poudre (objet)|Poudre]]</td><td>1 pc</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (bras)]]</td><td>10 po</td><td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (jambe)]]</td><td>20 po</td><td>3 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (main)]]</td><td>1 po</td><td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (pied)]]</td><td>1 po</td><td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Réchaud|↓]] [[Réchaud (objet)|Réchaud]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Réservoir dair|↓]] [[Réservoir dair (objet)|Réservoir d'air]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Réservoir de pompage|↓]] [[Réservoir de pompage (objet)|Réservoir de pompage]]</td><td>75 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (1 heure)]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (1 minute)]]</td><td>20 po</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (6 secondes)]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Sac|↓]] [[Sac (objet)|Sac]]</td><td>1 pa</td><td>0,25 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Sac à dos|↓]] [[Sac à dos (objet)|Sac à dos (de maître)]]</td><td>50 po</td><td>2 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Sac à dos|↓]] [[Sac à dos (objet)|Sac à dos (standard)]]</td><td>2 po</td><td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Sac anti-ours|↓]] [[Sac anti-ours (objet)|Sac anti-ours]]</td><td>2 po</td><td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Sac de couchage|↓]] [[Sac de couchage (objet)|Sac de couchage]]</td><td>1 pa</td><td>2,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Sac étanche|↓]] [[Sac étanche (objet)|Sac étanche]]</td><td>5 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Sacoche de familier|↓]] [[Sacoche de familier (objet)|Sacoche de familier]]</td><td>25 po</td><td>3 kg</td></tr><tr><td>[[Équipement daventurier#Savon|↓]] [[Savon (objet)|Savon]]</td><td>1 pc</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Scie|↓]] [[Scie (objet)|Scie]]</td><td>4 pc</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Seau|↓]] [[Seau (objet)|Seau]]</td><td>5 pa</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Sentinelle factice|↓]] [[Sentinelle factice (objet)|Sentinelle factice]]</td><td>30 po</td><td>17,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Sextant|↓]] [[Sextant (objet)|Sextant]]</td><td>500 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Sifflet|↓]] [[Sifflet (objet)|Sifflet (à ultrasons)]]</td><td>9 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Sifflet|↓]] [[Sifflet (objet)|Sifflet (ordinaire)]]</td><td>8 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Sifflet des grottes|↓]] [[Sifflet des grottes (objet)|Sifflet des grottes]]</td><td>20 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Sifflet du shérif|↓]] [[Sifflet du shérif (objet)|Sifflet du shérif]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Silex et amorce|↓]] [[Silex et amorce (objet)|Silex et amorce]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en argent)]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en bois)]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en fer)]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en or)]]</td><td>100 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en platine)]]</td><td>500 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Symbole sacré compartiment|↓]] [[Symbole sacré compartiment (objet)|Symbole sacré compartiment]]</td><td>+5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Symbole sacré flasque|↓]] [[Symbole sacré flasque (objet)|Symbole sacré flasque]]</td><td>+10 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Table pliante|↓]] [[Table pliante (objet)|Table pliante]]</td><td>10 po</td><td>10 kg</td></tr><tr><td>[[Équipement daventurier#Talon casse-tête|↓]] [[Talon casse-tête (objet)|Talon casse-tête]]</td><td>variable</td><td>—</td></tr><tr><td>[[Équipement daventurier#Tatouage|↓]] [[Tatouage (objet)|Tatouage]]</td><td>1 pc–20 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Tatouage sacré|↓]] [[Tatouage sacré (objet)|Tatouage sacré]]</td><td>100 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (pavillon)]]</td><td>100 po</td><td>25 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille G)]]</td><td>30 po</td><td>20 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille M)]]</td><td>15 po</td><td>15 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille P)]]</td><td>10 po</td><td>10 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Tente suspendue|↓]] [[Tente suspendue (objet)|Tente suspendue]]</td><td>20 po</td><td>7,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Texte sacré|↓]] [[Texte sacré (objet)|Texte sacré]]</td><td>1–100 po</td><td>0,5–10 kg</td></tr><tr><td>[[Équipement daventurier#Théière|↓]] [[Théière (objet)|Théière]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Toile|↓]] [[Toile (objet)|Toile]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Toile de camouflage|↓]] [[Toile de camouflage (objet)|Toile de camouflage]]</td><td>20 po</td><td>2,5 kg</td></tr><tr><td>[[Équipement daventurier#Tonneau|↓]] [[Tonneau (objet)|Tonneau]]</td><td>2 po</td><td>15 kg</td></tr><tr><td>[[Équipement daventurier#Torche|↓]] [[Torche (objet)|Torche]]</td><td>1 pc</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Torche éternelle|↓]] [[Torche éternelle (objet)|Torche éternelle]]</td><td>110 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Trampoline pliant|↓]] [[Trampoline pliant (objet)|Trampoline pliant]]</td><td>50 po</td><td>5 kg</td></tr><tr><td>[[Équipement daventurier#Trompette pour esprits|↓]] [[Trompette pour esprits (objet)|Trompette pour esprits]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Trousse darmurier|↓]] [[Trousse darmurier (objet)|Trousse d'armurier]]</td><td>15 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Trousse dentretien déquipement|↓]] [[Trousse dentretien déquipement (objet)|Trousse d'entretien d'équipement]]</td><td>5 po</td><td>1 kg</td></tr><tr><td>[[Équipement daventurier#Trousse de rasage|↓]] [[Trousse de rasage (objet)|Trousse de rasage]]</td><td>15 pa</td><td>0,25 kg</td></tr><tr><td>[[Équipement daventurier#Trousse de toilette|↓]] [[Trousse de toilette (objet)|Trousse de toilette]]</td><td>1 po</td><td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Tuba|↓]] [[Tuba (objet)|Tuba (de maître)]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Équipement daventurier#Tuba|↓]] [[Tuba (objet)|Tuba (standard)]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Équipement daventurier#Tube de codage|↓]] [[Tube de codage (objet)|Tube de codage]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Veste en liège|↓]] [[Veste en liège (objet)|Veste en liège]]</td><td>25 po</td><td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td></tr><tr><td>[[Équipement daventurier#Veste hérisson|↓]] [[Veste hérisson (objet)|Veste hérisson]]</td><td>10 po</td><td>2 kg</td></tr><tr><td>[[Équipement daventurier#Veste subversive|↓]] [[Veste subversive (objet)|Veste subversive (veste)]]</td><td>45 po</td><td>0,5 kg</td></tr><tr><td>[[Équipement daventurier#Veste subversive|↓]] [[Veste subversive (objet)|Veste subversive (vêtement)]]</td><td>90 po</td><td>1 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Équipement d'aventurier</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Équipement daventurier#Affiche peinte|↓]] [[Affiche peinte (objet)|Affiche peinte]]</td>
+    <td>15 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Aiguille à coudre|↓]] [[Aiguille à coudre (objet)|Aiguille à coudre]]</td>
+    <td>5 pa</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Aimant|↓]] [[Aimant (objet)|Aimant]]</td><td>5 pa</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Anneaux de cryptage|↓]] [[Anneaux de cryptage (objet)|Anneaux de cryptage]]</td>
+    <td>10 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Appeau|↓]] [[Appeau (objet)|Appeau]]</td><td>1 pa</td><td>—</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Applique pour bouclier|↓]] [[Applique pour bouclier (objet)|Applique pour bouclier]]
+    </td>
+    <td>1 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Ardoise|↓]] [[Ardoise (objet)|Ardoise]]</td><td>1 po</td><td>1 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Argile|↓]] [[Argile (objet)|Argile]]</td><td>1 pa</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Armure factice|↓]] [[Armure factice (objet)|Armure factice]]</td>
+    <td>90 po</td>
+    <td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Astrolabe|↓]] [[Astrolabe (objet)|Astrolabe]]</td>
+    <td>1.000 po</td>
+    <td>3 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Bague à poison|↓]] [[Bague à poison (objet)|Bague à poison]]</td>
+    <td>+20 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Baguette de sourcier|↓]] [[Baguette de sourcier (objet)|Baguette de sourcier]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Baignoire pliante|↓]] [[Baignoire pliante (objet)|Baignoire pliante]]</td>
+    <td>15 po</td>
+    <td>10 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Balise|↓]] [[Balise (objet)|Balise (standard)]]</td><td>5 pa</td><td>8 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Balise|↓]] [[Balise (objet)|Balise (supérieure)]]</td>
+    <td>10 po</td>
+    <td>15 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Bannière|↓]] [[Bannière (objet)|Bannière]]</td><td>1–20 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Baume à lèvres empoisonné|↓]] [[Baume à lèvres empoisonné (objet)|Baume à lèvres
+      empoisonné]]
+    </td>
+    <td>5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Bélier portable|↓]] [[Bélier portable (objet)|Bélier portable]]</td>
+    <td>10 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Billes|↓]] [[Billes (objet)|Billes]]</td><td>1 pa</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Bois de chauffage|↓]] [[Bois de chauffage (objet)|Bois de chauffage (par jour)]]</td>
+    <td>1 pc</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Boîte à parchemins|↓]] [[Boîte à parchemins (objet)|Boîte à parchemins]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Botte de lintrus|↓]] [[Botte de lintrus (objet)|Botte de l'intrus]]</td>
+    <td>8 pa</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Bottin mondain|↓]] [[Bottin mondain (objet)|Bottin mondain]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Bouchons doreilles|↓]] [[Bouchons doreilles (objet)|Bouchons d'oreilles]]</td>
+    <td>3 pc</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Bougeoir|↓]] [[Bougeoir (objet)|Bougeoir]]</td><td>1 pc</td><td>0,25 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Bougie|↓]] [[Bougie (objet)|Bougie]]</td><td>1 pc</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Bourse|↓]] [[Bourse (objet)|Bourse]]</td>
+    <td>1 po</td>
+    <td>0,25 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Boussole|↓]] [[Boussole (objet)|Boussole]]</td><td>10 po</td><td>0,25 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Bouteille|↓]] [[Bouteille (objet)|Bouteille]]</td><td>2 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Bracelet en braille|↓]] [[Bracelet en braille (objet)|Bracelet en braille]]</td>
+    <td>25 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Câble|↓]] [[Câble (objet)|Câble]]</td><td>5 po</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (bon)]]</td>
+    <td>80 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (moyen)]]</td>
+    <td>40 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (simple)]]</td>
+    <td>20 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cadenas|↓]] [[Cadenas (objet)|Cadenas (supérieur)]]</td>
+    <td>150 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Cafetière|↓]] [[Cafetière (objet)|Cafetière]]</td><td>3 po</td><td>2 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Cagoule de contention|↓]] [[Cagoule de contention (objet)|Cagoule de contention]]</td>
+    <td>75 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Calumet|↓]] [[Calumet (objet)|Calumet]]</td><td>20 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Capuchon filtreur|↓]] [[Capuchon filtreur (objet)|Capuchon filtreur]]</td>
+    <td>10 po</td>
+    <td>2 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Carillon|↓]] [[Carillon (objet)|Carillon]]</td><td>1 po</td><td>0,5 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Carnet|↓]] [[Carnet (objet)|Carnet]]</td><td>10 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Carte nautique|↓]] [[Carte nautique (objet)|Carte nautique]]</td>
+    <td>25 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Carte régionale|↓]] [[Carte régionale (objet)|Carte régionale]]</td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cartouchière|↓]] [[Cartouchière (objet)|Cartouchière]]</td>
+    <td>5 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Casque à bougie|↓]] [[Casque à bougie (objet)|Casque à bougie]]</td>
+    <td>2 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Ceinture daventurier|↓]] [[Ceinture daventurier (objet)|Ceinture d'aventurier]]</td>
+    <td>20 po</td>
+    <td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Ceinture-parchemin|↓]] [[Ceinture-parchemin (objet)|Ceinture-parchemin]]</td>
+    <td>3 pa</td>
+    <td>variable</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cercueil|↓]] [[Cercueil (objet)|Cercueil (orné)]]</td>
+    <td>100 po</td>
+    <td>25 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cercueil|↓]] [[Cercueil (objet)|Cercueil (standard)]]</td>
+    <td>10 po</td>
+    <td>15 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Chaîne|↓]] [[Chaîne (objet)|Chaîne (3 m)]]</td><td>30 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Chaînes factices|↓]] [[Chaînes factices (objet)|Chaînes factices (3 m)]]</td>
+    <td>65 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Chaise pliante|↓]] [[Chaise pliante (objet)|Chaise pliante]]</td>
+    <td>2 po</td>
+    <td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Charbon|↓]] [[Charbon (objet)|Charbon (1 bâtonnet)]]</td>
+    <td>5 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Chaudron|↓]] [[Chaudron (objet)|Chaudron (en mithral)]]</td>
+    <td>2.501 po</td>
+    <td>1,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Chaudron|↓]] [[Chaudron (objet)|Chaudron (standard)]]</td>
+    <td>1 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Chausse-trappes|↓]] [[Chausse-trappes (objet)|Chausse-trappes]]</td>
+    <td>1 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Chausse-trappes vicieuses|↓]] [[Chausse-trappes vicieuses (objet)|Chausse-trappes
+      vicieuses]]
+    </td>
+    <td>50 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Chaussures de fausses empreintes|↓]] [[Chaussures de fausses empreintes
+      (objet)|Chaussures de fausses empreintes]]
+    </td>
+    <td>5 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Chevalière|↓]] [[Chevalière (objet)|Chevalière]]</td><td>5 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#ChignoleForeuse|↓]] [[ChignoleForeuse (objet)|Chignole/Foreuse]]</td>
+    <td>5 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Chope|↓]] [[Chope (objet)|Chope]]</td><td>2 pc</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Chronique des Explorateurs|↓]] [[Chronique des Explorateurs (objet)|Chronique des
+      Explorateurs]]
+    </td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cire à cacheter|↓]] [[Cire à cacheter (objet)|Cire à cacheter]]</td>
+    <td>1 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Clepsydre|↓]] [[Clepsydre (objet)|Clepsydre]]</td>
+    <td>1.000 po</td>
+    <td>100 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Cloche|↓]] [[Cloche (objet)|Cloche]]</td><td>1 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Cloche de cérémonie|↓]] [[Cloche de cérémonie (objet)|Cloche de cérémonie]]</td>
+    <td>2 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille G)]]</td>
+    <td>10 po</td>
+    <td>50 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille M)]]</td>
+    <td>5 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille P)]]</td>
+    <td>2 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre|↓]] [[Coffre (objet)|Coffre (taille TG)]]</td>
+    <td>25 po</td>
+    <td>125 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre à double fond|↓]] [[Coffre à double fond (objet)|Coffre à double fond]]</td>
+    <td>52 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille G)]]</td>
+    <td>15 po</td>
+    <td>50 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille M)]]</td>
+    <td>7 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille P)]]</td>
+    <td>3 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coffre au trésor|↓]] [[Coffre au trésor (objet)|Coffre au trésor (taille TG)]]</td>
+    <td>37 po</td>
+    <td>125 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Colle animale|↓]] [[Colle animale (objet)|Colle animale]]</td>
+    <td>5 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Colonie de scarabées charognards|↓]] [[Colonie de scarabées charognards
+      (objet)|Colonie de scarabées charognards]]
+    </td>
+    <td>3 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Combinaison dapiculteur|↓]] [[Combinaison dapiculteur (objet)|Combinaison
+      d'apiculteur]]
+    </td>
+    <td>20 po</td>
+    <td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Copie de clé|↓]] [[Copie de clé (objet)|Copie de clé]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cor|↓]] [[Cor (objet)|Cor]]</td>
+    <td>1 po</td>
+    <td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (15 m)]]</td><td>1 po</td><td>5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (en soie d'araignée, 15 m)]]</td>
+    <td>100 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Corde|↓]] [[Corde (objet)|Corde (en soie, 15 m)]]</td>
+    <td>10 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Corde métrée|↓]] [[Corde métrée (objet)|Corde métrée (3 m)]]</td>
+    <td>1 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Cordon à grimoire|↓]] [[Cordon à grimoire (objet)|Cordon à grimoire]]</td>
+    <td>3 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Corne à poudre|↓]] [[Corne à poudre (objet)|Corne à poudre]]</td>
+    <td>3 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Corne acoustique|↓]] [[Corne acoustique (objet)|Corne acoustique]]</td>
+    <td>5 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coupe à double fond|↓]] [[Coupe à double fond (objet)|Coupe à double fond]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Coupe-verre|↓]] [[Coupe-verre (objet)|Coupe-verre]]</td>
+    <td>5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Couverture|↓]] [[Couverture (objet)|Couverture]]</td>
+    <td>5 pa</td>
+    <td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Craie|↓]] [[Craie (objet)|Craie]]</td><td>1 pc</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Cristal prismatique|↓]] [[Cristal prismatique (objet)|Cristal prismatique]]</td>
+    <td>30 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Cruche|↓]] [[Cruche (objet)|Cruche]]</td><td>2 pc</td><td>2,5 kg</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Dictionnaire de voyage|↓]] [[Dictionnaire de voyage (objet)|Dictionnaire de voyage]]
+    </td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Dragonne|↓]] [[Dragonne (objet)|Dragonne]]</td><td>1 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Échasses|↓]] [[Échasses (objet)|Échasses (de maître)]]</td>
+    <td>5 po</td>
+    <td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Échasses|↓]] [[Échasses (objet)|Échasses (standard)]]</td>
+    <td>2 pa</td>
+    <td>5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Échelle|↓]] [[Échelle (objet)|Échelle (pliante)]]</td>
+    <td>2 po</td>
+    <td>8 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Échelle|↓]] [[Échelle (objet)|Échelle (standard)]]</td>
+    <td>2 pa</td>
+    <td>10 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Encens|↓]] [[Encens (objet)|Encens (AO)]]</td><td>7 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Encens|↓]] [[Encens (objet)|Encens (MR, 10 bâtonnets)]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Encensoir|↓]] [[Encensoir (objet)|Encensoir]]</td>
+    <td>50 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Encre|↓]] [[Encre (objet)|Encre]]</td><td>8 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Épée à dos de scie|↓]] [[Épée à dos de scie (objet)|Épée à dos de scie]]</td>
+    <td>+5 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Étendard|↓]] [[Étendard (objet)|Étendard]]</td><td>10 po</td><td>1,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Étui à parchemins|↓]] [[Étui à parchemins (objet)|Étui à parchemins]]</td>
+    <td>1 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Étui de manche|↓]] [[Étui de manche (objet)|Étui de manche]]</td>
+    <td>100 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Fausses menottes|↓]] [[Fausses menottes (objet)|Fausses menottes]]</td>
+    <td>65 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Fers|↓]] [[Fers (objet)|Fers (de maître)]]</td><td>50 po</td><td>1 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Fers|↓]] [[Fers (objet)|Fers (standards)]]</td><td>15 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Ficelle|↓]] [[Ficelle (objet)|Ficelle (15 m)]]</td>
+    <td>1 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Fil à scier|↓]] [[Fil à scier (objet)|Fil à scier (en adamantium)]]</td>
+    <td>150 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Fil à scier|↓]] [[Fil à scier (objet)|Fil à scier (standard)]]</td>
+    <td>30 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Filet à clochettes|↓]] [[Filet à clochettes (objet)|Filet à clochettes]]</td>
+    <td>2 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Filet à papillons|↓]] [[Filet à papillons (objet)|Filet à papillons]]</td>
+    <td>5 po</td>
+    <td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Filet de pêche|↓]] [[Filet de pêche (objet)|Filet de pêche]]</td>
+    <td>4 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Fiole|↓]] [[Fiole (objet)|Fiole]]</td><td>1 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Fiole en fer|↓]] [[Fiole en fer (objet)|Fiole en fer]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Flasque|↓]] [[Flasque (objet)|Flasque]]</td><td>3 pc</td><td>0,75 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Flasque de poche|↓]] [[Flasque de poche (objet)|Flasque de poche]]</td>
+    <td>1 po</td>
+    <td>0,25 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Flèche-grappin|↓]] [[Flèche-grappin (objet)|Flèche-grappin]]</td>
+    <td>1 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Fourreau à double fond|↓]] [[Fourreau à double fond (objet)|Fourreau à double fond]]
+    </td>
+    <td>45 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Fourreau de poignet|↓]] [[Fourreau de poignet (objet)|Fourreau de poignet (à
+      ressort)]]
+    </td>
+    <td>5 po</td>
+    <td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Fourreau de poignet|↓]] [[Fourreau de poignet (objet)|Fourreau de poignet
+      (standard)]]
+    </td>
+    <td>1 po</td>
+    <td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Fourreau empoisonné|↓]] [[Fourreau empoisonné (objet)|Fourreau empoisonné]]</td>
+    <td>50 po</td>
+    <td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Gaufrier|↓]] [[Gaufrier (objet)|Gaufrier (en mithral)]]</td>
+    <td>2.501 po</td>
+    <td>1,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Gaufrier|↓]] [[Gaufrier (objet)|Gaufrier (standard)]]</td>
+    <td>1 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Gemme de chair|↓]] [[Gemme de chair (objet)|Gemme de chair (décorative)]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Gemme de chair|↓]] [[Gemme de chair (objet)|Gemme de chair (pointes)]]</td>
+    <td>50 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Gourde|↓]] [[Gourde (objet)|Gourde]]</td><td>2 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Graines sentinelles|↓]] [[Graines sentinelles (objet)|Graines sentinelles]]</td>
+    <td>7 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Grappin|↓]] [[Grappin (objet)|Grappin (en mithral)]]</td>
+    <td>2.001 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Grappin|↓]] [[Grappin (objet)|Grappin (standard)]]</td>
+    <td>1 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Griffes métalliques|↓]] [[Griffes métalliques (objet)|Griffes métalliques]]</td>
+    <td>305 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Hamac|↓]] [[Hamac (objet)|Hamac]]</td>
+    <td>1 pa</td>
+    <td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Hameçon|↓]] [[Hameçon (objet)|Hameçon]]</td><td>1 pa</td><td>—</td></tr>
+  <tr><td>[[Équipement daventurier#Huile|↓]] [[Huile (objet)|Huile]]</td><td>1 pa</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Jambe de bois|↓]] [[Jambe de bois (objet)|Jambe de bois]]</td>
+    <td>10 po</td>
+    <td>2,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Jarre|↓]] [[Jarre (objet)|Jarre]]</td><td>3 pc</td><td>4,5 kg</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Jeton de représentation|↓]] [[Jeton de représentation (objet)|Jeton de
+      représentation]]
+    </td>
+    <td>2 pa</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Kit repas|↓]] [[Kit repas (objet)|Kit repas]]</td><td>2 pa</td><td>0,5 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Lampe|↓]] [[Lampe (objet)|Lampe]]</td><td>1 pa</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Lance-javelot|↓]] [[Lance-javelot (objet)|Lance-javelot]]</td>
+    <td>1 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lanterne à bougie|↓]] [[Lanterne à bougie (objet)|Lanterne à bougie]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lanterne à capote|↓]] [[Lanterne à capote (objet)|Lanterne à capote]]</td>
+    <td>7 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lanterne de mineur|↓]] [[Lanterne de mineur (objet)|Lanterne de mineur]]</td>
+    <td>15 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lanterne étanche|↓]] [[Lanterne étanche (objet)|Lanterne étanche]]</td>
+    <td>+5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lanterne sourde|↓]] [[Lanterne sourde (objet)|Lanterne sourde]]</td>
+    <td>12 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Larmes du Dieu vivant|↓]] [[Larmes du Dieu vivant (objet)|Larmes du Dieu vivant]]</td>
+    <td>25 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lime à croc|↓]] [[Lime à croc (objet)|Lime à croc]]</td>
+    <td>3 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lit de camp|↓]] [[Lit de camp (objet)|Lit de camp]]</td>
+    <td>1 po</td>
+    <td>15 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Livre creux|↓]] [[Livre creux (objet)|Livre creux]]</td>
+    <td>15 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Livre généalogique|↓]] [[Livre généalogique (objet)|Livre généalogique]]</td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Livres-codes|↓]] [[Livres-codes (objet)|Livres-codes]]</td>
+    <td>150 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Longue vue|↓]] [[Longue vue (objet)|Longue vue]]</td>
+    <td>1.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Loupe|↓]] [[Loupe (objet)|Loupe]]</td><td>100 po</td><td>—</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Lunettes de lecture des auras|↓]] [[Lunettes de lecture des auras (objet)|Lunettes de
+      lecture des auras]]
+    </td>
+    <td>15 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Lunettes fumées|↓]] [[Lunettes fumées (objet)|Lunettes fumées]]</td>
+    <td>10 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Manche darme ondin|↓]] [[Manche darme ondin (objet)|Manche d'arme ondin]]</td>
+    <td>+300 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Marmite|↓]] [[Marmite (objet)|Marmite (en mithral)]]</td>
+    <td>2.001 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Marmite|↓]] [[Marmite (objet)|Marmite (standard)]]</td>
+    <td>8 pa</td>
+    <td>2 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Marteau|↓]] [[Marteau (objet)|Marteau]]</td><td>5 pa</td><td>1 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Masse|↓]] [[Masse (objet)|Masse]]</td><td>1 po</td><td>5 kg</td></tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Médaillon dhypnotiseur|↓]] [[Médaillon dhypnotiseur (objet)|Médaillon d'hypnotiseur
+      (médaillon)]]
+    </td>
+    <td>15 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Médaillon dhypnotiseur|↓]] [[Médaillon dhypnotiseur (objet)|Médaillon d'hypnotiseur
+      (montre à gousset)]]
+    </td>
+    <td>250 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (de maître)]]</td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (en mithral)]]</td>
+    <td>1.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Menottes|↓]] [[Menottes (objet)|Menottes (standards)]]</td>
+    <td>15 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Menottes à pointes|↓]] [[Menottes à pointes (objet)|Menottes à pointes]]</td>
+    <td>+15 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Miroir|↓]] [[Miroir (objet)|Miroir]]</td><td>10 po</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Missel de guerre|↓]] [[Missel de guerre (objet)|Missel de guerre]]</td>
+    <td>50 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Modèles de lettre|↓]] [[Modèles de lettre (objet)|Modèles de lettre]]</td>
+    <td>50 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Montre à gousset|↓]] [[Montre à gousset (objet)|Montre à gousset]]</td>
+    <td>250 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Moule de cire vierge|↓]] [[Moule de cire vierge (objet)|Moule de cire vierge]]</td>
+    <td>15 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Objet bricolé|↓]] [[Objet bricolé (objet)|Objet bricolé]]</td>
+    <td>spécial</td>
+    <td>spécial</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Oboles|↓]] [[Oboles (objet)|Oboles (12)]]</td><td>12 po</td><td>0,25 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Ouija|↓]] [[Ouija (objet)|Ouija]]</td><td>15 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Outre|↓]] [[Outre (objet)|Outre]]</td>
+    <td>1 po</td>
+    <td>2 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Palan|↓]] [[Palan (objet)|Palan]]</td><td>5 po</td><td>2,5 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Panier|↓]] [[Panier (objet)|Panier]]</td><td>4 pa</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Pantin de ventriloque|↓]] [[Pantin de ventriloque (objet)|Pantin de ventriloque]]</td>
+    <td>100 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pantographe|↓]] [[Pantographe (objet)|Pantographe]]</td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Papier|↓]] [[Papier (objet)|Papier]]</td><td>4 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Papier à lettres|↓]] [[Papier à lettres (objet)|Papier à lettres]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Papier de riz|↓]] [[Papier de riz (objet)|Papier de riz]]</td>
+    <td>5 pc</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Papier glu|↓]] [[Papier glu (objet)|Papier glu]]</td><td>1 pa</td><td>—</td></tr>
+  <tr><td>[[Équipement daventurier#Parchemin|↓]] [[Parchemin (objet)|Parchemin]]</td><td>2 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne]]</td>
+    <td>5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne
+      (exotique)]]
+    </td>
+    <td>100 po/dose</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne
+      (ordinaire)]]
+    </td>
+    <td>1 po/dose</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#ParfumEau de Cologne|↓]] [[ParfumEau de Cologne (objet)|Parfum/Eau de Cologne
+      (rare)]]
+    </td>
+    <td>10 po/dose</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Passe-partout|↓]] [[Passe-partout (objet)|Passe-partout]]</td>
+    <td>85 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (national ou de courtoisie de taille G)]]</td>
+    <td>2 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (national ou de courtoisie de taille P)]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (personnel de taille G)]]</td>
+    <td>4 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pavillon|↓]] [[Pavillon (objet)|Pavillon (personnel de taille P)]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Pelle|↓]] [[Pelle (objet)|Pelle (pliante)]]</td><td>10 po</td><td>6 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Pelle|↓]] [[Pelle (objet)|Pelle (standard)]]</td><td>2 po</td><td>4 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Perche|↓]] [[Perche (objet)|Perche (pliante)]]</td><td>2 pa</td><td>5 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Perche|↓]] [[Perche (objet)|Perche (standard)]]</td><td>5 pc</td><td>4 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Périscope|↓]] [[Périscope (objet)|Périscope]]</td><td>20 po</td><td>2 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Petit encensoir|↓]] [[Petit encensoir (objet)|Petit encensoir]]</td>
+    <td>5 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pic à cornichons|↓]] [[Pic à cornichons (objet)|Pic à cornichons]]</td>
+    <td>2 pc</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pièce creuse|↓]] [[Pièce creuse (objet)|Pièce creuse]]</td>
+    <td>12 po</td>
+    <td>0,05 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pied-de-biche|↓]] [[Pied-de-biche (objet)|Pied-de-biche]]</td>
+    <td>2 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pierre à aiguiser|↓]] [[Pierre à aiguiser (objet)|Pierre à aiguiser]]</td>
+    <td>2 pc</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pierre chauffante|↓]] [[Pierre chauffante (objet)|Pierre chauffante]]</td>
+    <td>20 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pioche de mineur|↓]] [[Pioche de mineur (objet)|Pioche de mineur]]</td>
+    <td>3 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Piton|↓]] [[Piton (objet)|Piton]]</td><td>1 pa</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Planche pliante|↓]] [[Planche pliante (objet)|Planche pliante]]</td>
+    <td>4 pa</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Planchette décriture automatique|↓]] [[Planchette décriture automatique
+      (objet)|Planchette d'écriture automatique]]
+    </td>
+    <td>25 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Plume à encre|↓]] [[Plume à encre (objet)|Plume à encre]]</td>
+    <td>1 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Poêle à frire|↓]] [[Poêle à frire (objet)|Poêle à frire (en mithral)]]</td>
+    <td>2.001 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Poêle à frire|↓]] [[Poêle à frire (objet)|Poêle à frire (standard)]]</td>
+    <td>8 pa</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pointe en fer|↓]] [[Pointe en fer (objet)|Pointe en fer]]</td>
+    <td>5 pc</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pommeau creux|↓]] [[Pommeau creux (objet)|Pommeau creux]]</td>
+    <td>5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Pont portable|↓]] [[Pont portable (objet)|Pont portable]]</td>
+    <td>200 po</td>
+    <td>30 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Poudre|↓]] [[Poudre (objet)|Poudre]]</td><td>1 pc</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (bras)]]</td>
+    <td>10 po</td>
+    <td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (jambe)]]</td>
+    <td>20 po</td>
+    <td>3 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (main)]]</td>
+    <td>1 po</td>
+    <td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Prothèse|↓]] [[Prothèse (objet)|Prothèse (pied)]]</td>
+    <td>1 po</td>
+    <td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Réchaud|↓]] [[Réchaud (objet)|Réchaud]]</td><td>10 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Réservoir dair|↓]] [[Réservoir dair (objet)|Réservoir d'air]]</td>
+    <td>1 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Réservoir de pompage|↓]] [[Réservoir de pompage (objet)|Réservoir de pompage]]</td>
+    <td>75 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (1 heure)]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (1 minute)]]</td>
+    <td>20 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sablier|↓]] [[Sablier (objet)|Sablier (6 secondes)]]</td>
+    <td>10 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sac|↓]] [[Sac (objet)|Sac]]</td>
+    <td>1 pa</td>
+    <td>0,25 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sac à dos|↓]] [[Sac à dos (objet)|Sac à dos (de maître)]]</td>
+    <td>50 po</td>
+    <td>2 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sac à dos|↓]] [[Sac à dos (objet)|Sac à dos (standard)]]</td>
+    <td>2 po</td>
+    <td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sac anti-ours|↓]] [[Sac anti-ours (objet)|Sac anti-ours]]</td>
+    <td>2 po</td>
+    <td>1,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sac de couchage|↓]] [[Sac de couchage (objet)|Sac de couchage]]</td>
+    <td>1 pa</td>
+    <td>2,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sac étanche|↓]] [[Sac étanche (objet)|Sac étanche]]</td>
+    <td>5 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sacoche de familier|↓]] [[Sacoche de familier (objet)|Sacoche de familier]]</td>
+    <td>25 po</td>
+    <td>3 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Savon|↓]] [[Savon (objet)|Savon]]</td><td>1 pc</td><td>0,25 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Scie|↓]] [[Scie (objet)|Scie]]</td><td>4 pc</td><td>1 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Seau|↓]] [[Seau (objet)|Seau]]</td><td>5 pa</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Sentinelle factice|↓]] [[Sentinelle factice (objet)|Sentinelle factice]]</td>
+    <td>30 po</td>
+    <td>17,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Sextant|↓]] [[Sextant (objet)|Sextant]]</td><td>500 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Sifflet|↓]] [[Sifflet (objet)|Sifflet (à ultrasons)]]</td>
+    <td>9 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sifflet|↓]] [[Sifflet (objet)|Sifflet (ordinaire)]]</td>
+    <td>8 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sifflet des grottes|↓]] [[Sifflet des grottes (objet)|Sifflet des grottes]]</td>
+    <td>20 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Sifflet du shérif|↓]] [[Sifflet du shérif (objet)|Sifflet du shérif]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Silex et amorce|↓]] [[Silex et amorce (objet)|Silex et amorce]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en argent)]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en bois)]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en fer)]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en or)]]</td>
+    <td>100 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Symbole sacré|↓]] [[Symbole sacré (objet)|Symbole sacré (en platine)]]</td>
+    <td>500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Symbole sacré compartiment|↓]] [[Symbole sacré compartiment (objet)|Symbole sacré
+      compartiment]]
+    </td>
+    <td>+5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Symbole sacré flasque|↓]] [[Symbole sacré flasque (objet)|Symbole sacré flasque]]</td>
+    <td>+10 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Table pliante|↓]] [[Table pliante (objet)|Table pliante]]</td>
+    <td>10 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Talon casse-tête|↓]] [[Talon casse-tête (objet)|Talon casse-tête]]</td>
+    <td>variable</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Tatouage|↓]] [[Tatouage (objet)|Tatouage]]</td><td>1 pc–20 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Tatouage sacré|↓]] [[Tatouage sacré (objet)|Tatouage sacré]]</td>
+    <td>100 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (pavillon)]]</td>
+    <td>100 po</td>
+    <td>25 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille G)]]</td>
+    <td>30 po</td>
+    <td>20 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille M)]]</td>
+    <td>15 po</td>
+    <td>15 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Tente|↓]] [[Tente (objet)|Tente (taille P)]]</td>
+    <td>10 po</td>
+    <td>10 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Tente suspendue|↓]] [[Tente suspendue (objet)|Tente suspendue]]</td>
+    <td>20 po</td>
+    <td>7,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Texte sacré|↓]] [[Texte sacré (objet)|Texte sacré]]</td>
+    <td>1–100 po</td>
+    <td>0,5–10 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Théière|↓]] [[Théière (objet)|Théière]]</td><td>1 pa</td><td>0,5 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Toile|↓]] [[Toile (objet)|Toile]]</td><td>1 pa</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Toile de camouflage|↓]] [[Toile de camouflage (objet)|Toile de camouflage]]</td>
+    <td>20 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Tonneau|↓]] [[Tonneau (objet)|Tonneau]]</td><td>2 po</td><td>15 kg</td></tr>
+  <tr><td>[[Équipement daventurier#Torche|↓]] [[Torche (objet)|Torche]]</td><td>1 pc</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Torche éternelle|↓]] [[Torche éternelle (objet)|Torche éternelle]]</td>
+    <td>110 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Trampoline pliant|↓]] [[Trampoline pliant (objet)|Trampoline pliant]]</td>
+    <td>50 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Trompette pour esprits|↓]] [[Trompette pour esprits (objet)|Trompette pour esprits]]
+    </td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Trousse darmurier|↓]] [[Trousse darmurier (objet)|Trousse d'armurier]]</td>
+    <td>15 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Équipement daventurier#Trousse dentretien déquipement|↓]] [[Trousse dentretien déquipement (objet)|Trousse
+      d'entretien d'équipement]]
+    </td>
+    <td>5 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Trousse de rasage|↓]] [[Trousse de rasage (objet)|Trousse de rasage]]</td>
+    <td>15 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Trousse de toilette|↓]] [[Trousse de toilette (objet)|Trousse de toilette]]</td>
+    <td>1 po</td>
+    <td>1 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Équipement daventurier#Tuba|↓]] [[Tuba (objet)|Tuba (de maître)]]</td><td>5 po</td><td>—</td></tr>
+  <tr><td>[[Équipement daventurier#Tuba|↓]] [[Tuba (objet)|Tuba (standard)]]</td><td>5 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Équipement daventurier#Tube de codage|↓]] [[Tube de codage (objet)|Tube de codage]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Veste en liège|↓]] [[Veste en liège (objet)|Veste en liège]]</td>
+    <td>25 po</td>
+    <td>0,5 kg<sup>[[Équipement daventurier#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Veste hérisson|↓]] [[Veste hérisson (objet)|Veste hérisson]]</td>
+    <td>10 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Veste subversive|↓]] [[Veste subversive (objet)|Veste subversive (veste)]]</td>
+    <td>45 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Équipement daventurier#Veste subversive|↓]] [[Veste subversive (objet)|Veste subversive (vêtement)]]</td>
+    <td>90 po</td>
+    <td>1 kg</td>
+  </tr>
+</table>
 
 </div>
 

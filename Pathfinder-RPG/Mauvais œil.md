@@ -23,7 +23,12 @@ Chaque [[round]], le personnage cible une créature vivante, projetant sur elle 
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>DV</td><td>Effets</td></tr><tr CLASS="premier"><td>10 ou plus</td><td>Fièvre</td></tr><tr CLASS="alt"><td>5–9</td><td>Terreur, fièvre</td></tr><tr><td>4 ou moins</td><td>Sommeil, terreur, fièvre</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>DV</td><td>Effets</td></tr>
+  <tr CLASS="premier"><td>10 ou plus</td><td>Fièvre</td></tr>
+  <tr CLASS="alt"><td>5–9</td><td>Terreur, fièvre</td></tr>
+  <tr><td>4 ou moins</td><td>Sommeil, terreur, fièvre</td></tr>
+</table>
 
 </center>
 

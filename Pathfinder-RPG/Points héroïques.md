@@ -232,7 +232,33 @@ Les dons qui suivent améliorent les capacités des personnages à accumuler ou 
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Dons de points héroïques</caption><tr CLASS="titre"><td WIDTH="22%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Bonne étoile des héros]]</td><td><sup>MJRA</sup></td><td>—</td><td>Gagne un point héroïque et augmente le nombre de points maximum</td></tr><tr CLASS="premier alt donprincipal"><td>[[Chance des héros]]</td><td><sup>MJRA</sup></td><td>[[Bonne étoile des héros]]</td><td>25% de chance de ne pas dépenser un point héroïque quand le personnage en utilise</td></tr><tr CLASS="premier donprincipal"><td>[[Étoffe des héros]]</td><td><sup>MJRA</sup></td><td>[[Bonne étoile des héros]]</td><td>Gain de 2 points héroïques en prenant un niveau</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Dons de points héroïques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Bonne étoile des héros]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>—</td>
+    <td>Gagne un point héroïque et augmente le nombre de points maximum</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Chance des héros]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Bonne étoile des héros]]</td>
+    <td>25% de chance de ne pas dépenser un point héroïque quand le personnage en utilise</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Étoffe des héros]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Bonne étoile des héros]]</td>
+    <td>Gain de 2 points héroïques en prenant un niveau</td>
+  </tr>
+</table>
 
 </center>
 

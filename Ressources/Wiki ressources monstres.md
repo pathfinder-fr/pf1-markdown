@@ -42,7 +42,25 @@ Par [Faenil](http://www.pathfinder-fr.org/Forum/yaf_profile164_faenil.aspx). Voi
 
 
 
-<table CLASS="tablo"><caption>Liste des fées</caption><tr CLASS="titre"><td>Nom</td><td>FP</td><td>Alignement</td><td>Allégeance</td><td>Niveau requis pour   
-servir de familier</td></tr><tr CLASS="premier"><td>[[Fée sombre]]</td><td>2</td><td>Chaotique mauvais</td><td>Cour invisible</td><td>7</td></tr><tr CLASS="alt"><td>[[Fée des lumières]]</td><td>2</td><td>Chaotique bon</td><td>Cour visible</td><td>7</td></tr><tr><td>[[Fée des ondées]]</td><td>2</td><td>Chaotique neutre</td><td>Cour visible</td><td>7</td></tr></table>
+<table CLASS="tablo">
+  <caption>Liste des fées</caption>
+  <tr CLASS="titre">
+    <td>Nom</td>
+    <td>FP</td>
+    <td>Alignement</td>
+    <td>Allégeance</td>
+    <td>Niveau requis pour   
+servir de familier</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fée sombre]]</td>
+    <td>2</td>
+    <td>Chaotique mauvais</td>
+    <td>Cour invisible</td>
+    <td>7</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Fée des lumières]]</td><td>2</td><td>Chaotique bon</td><td>Cour visible</td><td>7</td></tr>
+  <tr><td>[[Fée des ondées]]</td><td>2</td><td>Chaotique neutre</td><td>Cour visible</td><td>7</td></tr>
+</table>
 
 </div></div>

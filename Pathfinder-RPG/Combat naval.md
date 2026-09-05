@@ -55,7 +55,98 @@ Le navire coule si ses points de vie tombent à 0 ou moins. Un navire qui fait n
 
 <center>
 
-<table CLASS="tablo"><caption>Les profils des bateaux</caption><tr CLASS="titre"><td>Type de bateau</td><td>CA</td><td>PV</td><td>Jet de sauvegarde</td><td>Vitesse max</td><td>Armes</td><td>Éperon</td><td>Cases</td><td>Équipage</td></tr><tr CLASS="premier"><td>Radeau</td><td>9</td><td>10</td><td>+0</td><td>4.5 m (3 {s:c})</td><td>0</td><td>1D6</td><td>1</td><td>1/4</td></tr><tr CLASS="alt"><td>Barque</td><td>9</td><td>20</td><td>+2</td><td>9 m (6 {s:c})</td><td>1</td><td>2D6</td><td>1</td><td>1/3</td></tr><tr><td>Péniche</td><td>8</td><td>60</td><td>+4</td><td>9 m* (6 {s:c})</td><td>1</td><td>2D6+6</td><td>2</td><td>4/15+100</td></tr><tr CLASS="alt"><td>Drakkar</td><td>6</td><td>75</td><td>+2</td><td>18 m* (12 {s:c})</td><td>1</td><td>4D6+18</td><td>3</td><td>50-75+100</td></tr><tr><td>Voilier</td><td>2</td><td>125</td><td>+6</td><td>18 m* (12 {s:c})</td><td>2</td><td>3D6+12</td><td>4</td><td>60/80+160</td></tr><tr CLASS="alt"><td>Navire de guerre</td><td>2</td><td>175</td><td>+7</td><td>18 m* (12 {s:c})</td><td>3</td><td>3D6+12</td><td>4</td><td>60/80+160</td></tr><tr><td>Galère</td><td>2</td><td>200</td><td>+8</td><td>21 m* (14 {s:c})</td><td>2</td><td>6d6+24</td><td>4</td><td>200/250+200</td></tr><tr><td>* voiles uniquement</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les profils des bateaux</caption>
+  <tr CLASS="titre">
+    <td>Type de bateau</td>
+    <td>CA</td>
+    <td>PV</td>
+    <td>Jet de sauvegarde</td>
+    <td>Vitesse max</td>
+    <td>Armes</td>
+    <td>Éperon</td>
+    <td>Cases</td>
+    <td>Équipage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Radeau</td>
+    <td>9</td>
+    <td>10</td>
+    <td>+0</td>
+    <td>4.5 m (3 {s:c})</td>
+    <td>0</td>
+    <td>1D6</td>
+    <td>1</td>
+    <td>1/4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Barque</td>
+    <td>9</td>
+    <td>20</td>
+    <td>+2</td>
+    <td>9 m (6 {s:c})</td>
+    <td>1</td>
+    <td>2D6</td>
+    <td>1</td>
+    <td>1/3</td>
+  </tr>
+  <tr>
+    <td>Péniche</td>
+    <td>8</td>
+    <td>60</td>
+    <td>+4</td>
+    <td>9 m* (6 {s:c})</td>
+    <td>1</td>
+    <td>2D6+6</td>
+    <td>2</td>
+    <td>4/15+100</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Drakkar</td>
+    <td>6</td>
+    <td>75</td>
+    <td>+2</td>
+    <td>18 m* (12 {s:c})</td>
+    <td>1</td>
+    <td>4D6+18</td>
+    <td>3</td>
+    <td>50-75+100</td>
+  </tr>
+  <tr>
+    <td>Voilier</td>
+    <td>2</td>
+    <td>125</td>
+    <td>+6</td>
+    <td>18 m* (12 {s:c})</td>
+    <td>2</td>
+    <td>3D6+12</td>
+    <td>4</td>
+    <td>60/80+160</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Navire de guerre</td>
+    <td>2</td>
+    <td>175</td>
+    <td>+7</td>
+    <td>18 m* (12 {s:c})</td>
+    <td>3</td>
+    <td>3D6+12</td>
+    <td>4</td>
+    <td>60/80+160</td>
+  </tr>
+  <tr>
+    <td>Galère</td>
+    <td>2</td>
+    <td>200</td>
+    <td>+8</td>
+    <td>21 m* (14 {s:c})</td>
+    <td>2</td>
+    <td>6d6+24</td>
+    <td>4</td>
+    <td>200/250+200</td>
+  </tr>
+  <tr><td>* voiles uniquement</td></tr>
+</table>
 
 </center>
 

@@ -14,7 +14,189 @@ Si un appareil ou un ordinateur a besoin d’être réparé, piraté ou détruit
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Le Mécano</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Vigueur</td><td>Réflexes</td><td>Volonté</td><td CLASS="gauche">Aptitudes de classe</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Mécano#INTELLIGENCEARTIFICIELLE|Intelligence artificielle]], [[Mécano#INTRUSION|Intrusion]] +1, [[Mécano#INTERFACEPERSONNALISÉE|Interface personnalisée]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Mécano#SURCHARGE|Surcharge]], [[Mécano#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +2, [[Mécano#PIRATAGEÀDISTANCE|Piratage à distance]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Mécano#INTERFACESPÉCIALISÉE|Interface spécialisée]], [[Mécano#PRODIGE|Prodige]] 1/jour</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>9</td><td>+6</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +3, [[Mécano#FORÇAGE|Forçage]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>11</td><td>+8</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +1, [[Mécano#PRODIGE|Prodige]] 2/jour</td></tr><tr CLASS="alt"><td>12</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>13</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Mécano#INTERFACEÉVOLUÉE|Interface évoluée]], [[Mécano#INTRUSION|Intrusion]] +4</td></tr><tr CLASS="alt"><td>14</td><td>+10</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>15</td><td>+11</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Mécano#PRODIGE|Prodige]] 3/jour</td></tr><tr CLASS="alt"><td>16</td><td>+12</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>17</td><td>+12</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +5, [[Mécano#RÉSEAUDECONTRÔLE|Réseau de contrôle]], [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +2</td></tr><tr CLASS="alt"><td>18</td><td>+13</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>19</td><td>+14</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Mécano#FANTÔMEDANSLAMACHINE|Fantôme dans la machine]], [[Mécano#PRODIGE|Prodige]] 4/jour, [[Mécano#INTERFACESUPÉRIEURE|Interface supérieure]]</td></tr><tr CLASS="alt"><td>20</td><td>+15</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +6, [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]], [[Mécano#MAÎTRETECHNITIEN|Maître technicien]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Le Mécano</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Vigueur</td>
+    <td>Réflexes</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Aptitudes de classe</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Mécano#INTELLIGENCEARTIFICIELLE|Intelligence artificielle]], [[Mécano#INTRUSION|Intrusion]] +1,
+      [[Mécano#INTERFACEPERSONNALISÉE|Interface personnalisée]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Mécano#SURCHARGE|Surcharge]], [[Mécano#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +2, [[Mécano#PIRATAGEÀDISTANCE|Piratage à distance]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Mécano#INTERFACESPÉCIALISÉE|Interface spécialisée]], [[Mécano#PRODIGE|Prodige]] 1/jour</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +3, [[Mécano#FORÇAGE|Forçage]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +1, [[Mécano#PRODIGE|Prodige]] 2/jour</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mécano#INTERFACEÉVOLUÉE|Interface évoluée]], [[Mécano#INTRUSION|Intrusion]] +4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Mécano#PRODIGE|Prodige]] 3/jour</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Mécano#INTRUSION|Intrusion]] +5, [[Mécano#RÉSEAUDECONTRÔLE|Réseau de contrôle]],
+      [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +2
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Mécano#FANTÔMEDANSLAMACHINE|Fantôme dans la machine]], [[Mécano#PRODIGE|Prodige]] 4/jour,
+      [[Mécano#INTERFACESUPÉRIEURE|Interface supérieure]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Mécano#INTRUSION|Intrusion]] +6, [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]],
+      [[Mécano#MAÎTRETECHNITIEN|Maître technicien]]
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -111,7 +293,14 @@ Vous pouvez également utiliser votre interface personnalisée pour communiquer 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>**NIVEAUX ASSIGNÉS**</td><td>**BONUS DE BASE À L’ATTAQUE**</td></tr><tr CLASS="premier"><td>1–4</td><td>+1</td></tr><tr CLASS="alt"><td>5-8</td><td>+2</td></tr><tr><td>9–12</td><td>+3</td></tr><tr CLASS="alt"><td>13–16</td><td>+4</td></tr><tr><td>17–20</td><td>+5</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>**NIVEAUX ASSIGNÉS**</td><td>**BONUS DE BASE À L’ATTAQUE**</td></tr>
+  <tr CLASS="premier"><td>1–4</td><td>+1</td></tr>
+  <tr CLASS="alt"><td>5-8</td><td>+2</td></tr>
+  <tr><td>9–12</td><td>+3</td></tr>
+  <tr CLASS="alt"><td>13–16</td><td>+4</td></tr>
+  <tr><td>17–20</td><td>+5</td></tr>
+</table>
 
 </center>
 </div></div>

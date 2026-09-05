@@ -13,7 +13,255 @@ Un gallon équivaut à 3,7 L.
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Nourriture et boissons</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Nourriture et boissons#Absinthe|↓]] [[Absinthe (objet)|Absinthe (la bouteille)]]</td><td>30 po</td><td>0,75 kg</td></tr><tr><td>[[Nourriture et boissons#Absinthe|↓]] [[Absinthe (objet)|Absinthe (le verre)]]</td><td>3 po</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Ale|↓]] [[Ale (objet)|Ale (la chope)]]</td><td>4 pc</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Ale|↓]] [[Ale (objet)|Ale (le gallon)]]</td><td>2 pa</td><td>4 kg</td></tr><tr><td>[[Nourriture et boissons#Baijiu|↓]] [[Baijiu (objet)|Baijiu (la bouteille)]]</td><td>10 po</td><td>1 kg</td></tr><tr><td>[[Nourriture et boissons#Banquet|↓]] [[Banquet (objet)|Banquet (par personne)]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Bière Pattefolle|↓]] [[Bière Pattefolle (objet)|Bière Pattefolle (la chope)]]</td><td>4 pa</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Bière Pattefolle|↓]] [[Bière Pattefolle (objet)|Bière Pattefolle (le gallon)]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Biscuit chinois|↓]] [[Biscuit chinois (objet)|Biscuit chinois]]</td><td>1 pc</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Brune de nain|↓]] [[Brune de nain (objet)|Brune de nain (la chope)]]</td><td>4 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Bufo|↓]] [[Bufo (objet)|Bufo (la jarre)]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Nourriture et boissons#Café|↓]] [[Café (objet)|Café (de la jungle, la tasse)]]</td><td>3 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Café|↓]] [[Café (objet)|Café (la tasse)]]</td><td>1 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Caium|↓]] [[Caium (objet)|Caium (la gourde)]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Nourriture et boissons#Calvados|↓]] [[Calvados (objet)|Calvados (la chope)]]</td><td>8 pc</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Calvados|↓]] [[Calvados (objet)|Calvados (le gallon)]]</td><td>4 pa</td><td>4 kg</td></tr><tr><td>[[Nourriture et boissons#Casse croûte|↓]] [[Casse croûte (objet)|Casse croûte (par jour)]]</td><td>1 pc</td><td>0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Caviar|↓]] [[Caviar (objet)|Caviar]]</td><td>50 po</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Chocolat|↓]] [[Chocolat (objet)|Chocolat (la barre)]]</td><td>5 po</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Coffret de cérémonie du thé|↓]] [[Coffret de cérémonie du thé (objet)|Coffret de cérémonie du thé]]</td><td>25 po</td><td>2,5 kg</td></tr><tr><td>[[Nourriture et boissons#Crème glacée|↓]] [[Crème glacée (objet)|Crème glacée]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Fromage|↓]] [[Fromage (objet)|Fromage]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Grog|↓]] [[Grog (objet)|Grog (la chope)]]</td><td>2 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Haggis|↓]] [[Haggis (objet)|Haggis]]</td><td>1 pa</td><td>0,75 kg</td></tr><tr><td>[[Nourriture et boissons#Hydromel|↓]] [[Hydromel (objet)|Hydromel (la chope)]]</td><td>5 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Hydromel|↓]] [[Hydromel (objet)|Hydromel (le gallon)]]</td><td>2 po</td><td>4 kg</td></tr><tr><td>[[Nourriture et boissons#Hydromel de linnorm|↓]] [[Hydromel de linnorm (objet)|Hydromel de linnorm (la chope)]]</td><td>5 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Infusion du dieu ivre|↓]] [[Infusion du dieu ivre (objet)|Infusion du dieu ivre (la chope)]]</td><td>5 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Kahvè|↓]] [[Kahvè (objet)|Kahvè (la tasse)]]</td><td>2 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Kumis|↓]] [[Kumis (objet)|Kumis (l'outre)]]</td><td>5 pa</td><td>0,75 kg</td></tr><tr><td>[[Nourriture et boissons#Lait|↓]] [[Lait (objet)|Lait]]</td><td>5 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Lait en poudre|↓]] [[Lait en poudre (objet)|Lait en poudre]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Marinades gobelines|↓]] [[Marinades gobelines (objet)|Marinades gobelines (1 bocal)]]</td><td>4 pa</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Miel|↓]] [[Miel (objet)|Miel (le pot)]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Pain|↓]] [[Pain (objet)|Pain]]</td><td>2 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Préparation à gâteau|↓]] [[Préparation à gâteau (objet)|Préparation à gâteau]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Pulque|↓]] [[Pulque (objet)|Pulque (la tasse)]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Pulque|↓]] [[Pulque (objet)|Pulque (l'outre)]]</td><td>4 pa</td><td>1 kg</td></tr><tr><td>[[Nourriture et boissons#Punch de dragon au whisky|↓]] [[Punch de dragon au whisky (objet)|Punch de dragon au whisky (le verre)]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (elfique)]]</td><td>2 po</td><td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (gnome)]]</td><td>2 po</td><td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (halfeline)]]</td><td>2 po</td><td>0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (naine)]]</td><td>2 po</td><td>0,75 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (orque)]]</td><td>1 po</td><td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (standard)]]</td><td>5 pa</td><td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td></tr><tr><td>[[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, bon)]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, médiocre)]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, normal)]]</td><td>3 pa</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Rhum|↓]] [[Rhum (objet)|Rhum (le gallon)]]</td><td>1 pa</td><td>4 kg</td></tr><tr><td>[[Nourriture et boissons#Rhum|↓]] [[Rhum (objet)|Rhum (le verre)]]</td><td>1 pc</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Rhum du pauvre|↓]] [[Rhum du pauvre (objet)|Rhum du pauvre (la tasse)]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Sirop dérable|↓]] [[Sirop dérable (objet)|Sirop d'érable (le pot)]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Tepach|↓]] [[Tepach (objet)|Tepach (la tasse)]]</td><td>5 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Thé|↓]] [[Thé (objet)|Thé (la tasse)]]</td><td>2 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Thé|↓]] [[Thé (objet)|Thé (vert matcha, la tasse)]]</td><td>4 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Tonique médicinal de Lisken|↓]] [[Tonique médicinal de Lisken (objet)|Tonique médicinal de Lisken (le verre)]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Nourriture et boissons#Viande|↓]] [[Viande (objet)|Viande (de ville)]]</td><td>1 pc</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Viande|↓]] [[Viande (objet)|Viande (standard)]]</td><td>3 pa</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (bon)]]</td><td>10 po</td><td>0,75 kg</td></tr><tr><td>[[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (de table)]]</td><td>2 pa</td><td>3 kg</td></tr><tr><td>[[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (des mers)]]</td><td>15 po</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Whisky|↓]] [[Whisky (objet)|Whisky (le verre)]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Nourriture et boissons#Whisky|↓]] [[Whisky (objet)|Whisky (Oldlaw, la bouteille)]]</td><td>20 po</td><td>0,5 kg</td></tr><tr><td>[[Nourriture et boissons#Yaourt|↓]] [[Yaourt (objet)|Yaourt]]</td><td>1 pa</td><td>0,25 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Nourriture et boissons</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Nourriture et boissons#Absinthe|↓]] [[Absinthe (objet)|Absinthe (la bouteille)]]</td>
+    <td>30 po</td>
+    <td>0,75 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Absinthe|↓]] [[Absinthe (objet)|Absinthe (le verre)]]</td>
+    <td>3 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Ale|↓]] [[Ale (objet)|Ale (la chope)]]</td><td>4 pc</td><td>0,5 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Ale|↓]] [[Ale (objet)|Ale (le gallon)]]</td><td>2 pa</td><td>4 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Baijiu|↓]] [[Baijiu (objet)|Baijiu (la bouteille)]]</td>
+    <td>10 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Banquet|↓]] [[Banquet (objet)|Banquet (par personne)]]</td>
+    <td>10 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Bière Pattefolle|↓]] [[Bière Pattefolle (objet)|Bière Pattefolle (la chope)]]</td>
+    <td>4 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Bière Pattefolle|↓]] [[Bière Pattefolle (objet)|Bière Pattefolle (le gallon)]]</td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Biscuit chinois|↓]] [[Biscuit chinois (objet)|Biscuit chinois]]</td>
+    <td>1 pc</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Brune de nain|↓]] [[Brune de nain (objet)|Brune de nain (la chope)]]</td>
+    <td>4 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Bufo|↓]] [[Bufo (objet)|Bufo (la jarre)]]</td><td>1 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Café|↓]] [[Café (objet)|Café (de la jungle, la tasse)]]</td>
+    <td>3 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Café|↓]] [[Café (objet)|Café (la tasse)]]</td><td>1 pc</td><td>0,25 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Caium|↓]] [[Caium (objet)|Caium (la gourde)]]</td><td>1 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Calvados|↓]] [[Calvados (objet)|Calvados (la chope)]]</td>
+    <td>8 pc</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Calvados|↓]] [[Calvados (objet)|Calvados (le gallon)]]</td>
+    <td>4 pa</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Casse croûte|↓]] [[Casse croûte (objet)|Casse croûte (par jour)]]</td>
+    <td>1 pc</td>
+    <td>0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Caviar|↓]] [[Caviar (objet)|Caviar]]</td><td>50 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Chocolat|↓]] [[Chocolat (objet)|Chocolat (la barre)]]</td>
+    <td>5 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Nourriture et boissons#Coffret de cérémonie du thé|↓]] [[Coffret de cérémonie du thé (objet)|Coffret de
+      cérémonie du thé]]
+    </td>
+    <td>25 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Crème glacée|↓]] [[Crème glacée (objet)|Crème glacée]]</td>
+    <td>1 pa</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Fromage|↓]] [[Fromage (objet)|Fromage]]</td><td>1 pa</td><td>0,25 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Grog|↓]] [[Grog (objet)|Grog (la chope)]]</td><td>2 pc</td><td>0,25 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Haggis|↓]] [[Haggis (objet)|Haggis]]</td><td>1 pa</td><td>0,75 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Hydromel|↓]] [[Hydromel (objet)|Hydromel (la chope)]]</td>
+    <td>5 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Hydromel|↓]] [[Hydromel (objet)|Hydromel (le gallon)]]</td>
+    <td>2 po</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Nourriture et boissons#Hydromel de linnorm|↓]] [[Hydromel de linnorm (objet)|Hydromel de linnorm (la
+      chope)]]
+    </td>
+    <td>5 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Nourriture et boissons#Infusion du dieu ivre|↓]] [[Infusion du dieu ivre (objet)|Infusion du dieu ivre (la
+      chope)]]
+    </td>
+    <td>5 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Kahvè|↓]] [[Kahvè (objet)|Kahvè (la tasse)]]</td><td>2 pc</td><td>0,25 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Kumis|↓]] [[Kumis (objet)|Kumis (l'outre)]]</td><td>5 pa</td><td>0,75 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Lait|↓]] [[Lait (objet)|Lait]]</td><td>5 pc</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Lait en poudre|↓]] [[Lait en poudre (objet)|Lait en poudre]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Nourriture et boissons#Marinades gobelines|↓]] [[Marinades gobelines (objet)|Marinades gobelines (1 bocal)]]
+    </td>
+    <td>4 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Miel|↓]] [[Miel (objet)|Miel (le pot)]]</td><td>1 po</td><td>0,25 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Pain|↓]] [[Pain (objet)|Pain]]</td><td>2 pc</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Préparation à gâteau|↓]] [[Préparation à gâteau (objet)|Préparation à gâteau]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Pulque|↓]] [[Pulque (objet)|Pulque (la tasse)]]</td>
+    <td>1 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Pulque|↓]] [[Pulque (objet)|Pulque (l'outre)]]</td><td>4 pa</td><td>1 kg</td></tr>
+  <tr>
+    <td>
+      [[Nourriture et boissons#Punch de dragon au whisky|↓]] [[Punch de dragon au whisky (objet)|Punch de dragon au
+      whisky (le verre)]]
+    </td>
+    <td>10 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (elfique)]]</td>
+    <td>2 po</td>
+    <td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (gnome)]]</td>
+    <td>2 po</td>
+    <td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (halfeline)]]</td>
+    <td>2 po</td>
+    <td>0,25 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (naine)]]</td>
+    <td>2 po</td>
+    <td>0,75 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (orque)]]</td>
+    <td>1 po</td>
+    <td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rations de survie|↓]] [[Rations de survie (objet)|Rations de survie (standard)]]</td>
+    <td>5 pa</td>
+    <td>0,5 kg<sup>[[Nourriture et boissons#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, bon)]]</td><td>5 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, médiocre)]]</td>
+    <td>1 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Repas|↓]] [[Repas (objet)|Repas (par jour, normal)]]</td>
+    <td>3 pa</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Rhum|↓]] [[Rhum (objet)|Rhum (le gallon)]]</td><td>1 pa</td><td>4 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Rhum|↓]] [[Rhum (objet)|Rhum (le verre)]]</td><td>1 pc</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Rhum du pauvre|↓]] [[Rhum du pauvre (objet)|Rhum du pauvre (la tasse)]]</td>
+    <td>1 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Sirop dérable|↓]] [[Sirop dérable (objet)|Sirop d'érable (le pot)]]</td>
+    <td>1 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Tepach|↓]] [[Tepach (objet)|Tepach (la tasse)]]</td>
+    <td>5 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Thé|↓]] [[Thé (objet)|Thé (la tasse)]]</td><td>2 pc</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Thé|↓]] [[Thé (objet)|Thé (vert matcha, la tasse)]]</td>
+    <td>4 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Nourriture et boissons#Tonique médicinal de Lisken|↓]] [[Tonique médicinal de Lisken (objet)|Tonique
+      médicinal de Lisken (le verre)]]
+    </td>
+    <td>10 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Viande|↓]] [[Viande (objet)|Viande (de ville)]]</td>
+    <td>1 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Viande|↓]] [[Viande (objet)|Viande (standard)]]</td>
+    <td>3 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (bon)]]</td><td>10 po</td><td>0,75 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (de table)]]</td><td>2 pa</td><td>3 kg</td></tr>
+  <tr><td>[[Nourriture et boissons#Vin|↓]] [[Vin (objet)|Vin (des mers)]]</td><td>15 po</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Nourriture et boissons#Whisky|↓]] [[Whisky (objet)|Whisky (le verre)]]</td>
+    <td>1 pa</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Nourriture et boissons#Whisky|↓]] [[Whisky (objet)|Whisky (Oldlaw, la bouteille)]]</td>
+    <td>20 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Nourriture et boissons#Yaourt|↓]] [[Yaourt (objet)|Yaourt]]</td><td>1 pa</td><td>0,25 kg</td></tr>
+</table>
 
 </div>
 

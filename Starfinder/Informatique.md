@@ -23,7 +23,15 @@ Les DD des tests d’Informatique pour détecter une contrefaçon dépendent du 
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>CIRCONSTANCE</td><td>MODIF. AU DD</td></tr><tr CLASS="premier"></tr><tr><td>Le document va à l’encontre d’une chose connue ou d’ordres</td><td>-2</td></tr><tr><td>Le type de document est bien connu de celui qui l’examine</td><td>-2</td></tr><tr><td>Le type de document n’est pas connu de celui qui l’examine</td><td>+2</td></tr><tr><td>Celui qui examine le document ne fait qu’y jeter un œil</td><td>+2</td></tr><tr><td>Le faussaire possède un document officiel similaire en modèle</td><td>+8</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>CIRCONSTANCE</td><td>MODIF. AU DD</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Le document va à l’encontre d’une chose connue ou d’ordres</td><td>-2</td></tr>
+  <tr><td>Le type de document est bien connu de celui qui l’examine</td><td>-2</td></tr>
+  <tr><td>Le type de document n’est pas connu de celui qui l’examine</td><td>+2</td></tr>
+  <tr><td>Celui qui examine le document ne fait qu’y jeter un œil</td><td>+2</td></tr>
+  <tr><td>Le faussaire possède un document officiel similaire en modèle</td><td>+8</td></tr>
+</table>
 
 </center>
 

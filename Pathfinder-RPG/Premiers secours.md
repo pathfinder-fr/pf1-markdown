@@ -20,7 +20,22 @@ Le [[DD]] et les effets du test de Premiers secours dépendent de la tâche que 
 
 <center>
 
-<table CLASS="tablo"><caption>Premiers Secours</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test de Premiers secours</td></tr><tr CLASS="premier"><td>Premiers secours</td><td>15</td></tr><tr CLASS="alt"><td>Soins suivis</td><td>15</td></tr><tr><td>Soigner une blessure de [[Chausse-trappes (objet)|chausse-trappes]] de *[[croissance dépines|croissance d'épines]]* ou de *[[pierres acérées]]*</td><td>15</td></tr><tr CLASS="alt"><td>Soigner des blessures mortelles</td><td>20</td></tr><tr><td>Soigner un empoisonnement</td><td>DD du [[jet de sauvegarde]] contre le [[poison]]</td></tr><tr CLASS="alt"><td>Soigner une [[maladie]]</td><td>DD du [[jet de sauvegarde]] contre la [[maladie]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Premiers Secours</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test de Premiers secours</td></tr>
+  <tr CLASS="premier"><td>Premiers secours</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Soins suivis</td><td>15</td></tr>
+  <tr>
+    <td>
+      Soigner une blessure de [[Chausse-trappes (objet)|chausse-trappes]] de *[[croissance dépines|croissance
+      d'épines]]* ou de *[[pierres acérées]]*
+    </td>
+    <td>15</td>
+  </tr>
+  <tr CLASS="alt"><td>Soigner des blessures mortelles</td><td>20</td></tr>
+  <tr><td>Soigner un empoisonnement</td><td>DD du [[jet de sauvegarde]] contre le [[poison]]</td></tr>
+  <tr CLASS="alt"><td>Soigner une [[maladie]]</td><td>DD du [[jet de sauvegarde]] contre la [[maladie]]</td></tr>
+</table>
 
 </center>
 

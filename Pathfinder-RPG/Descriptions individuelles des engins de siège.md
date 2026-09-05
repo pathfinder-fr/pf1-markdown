@@ -60,7 +60,14 @@ des murailles tellement leur force de recul est puissante. Le [[DD]] de visée d
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><caption>Les ponts et les échelles</caption><tr CLASS="titre"><td>Engin d’assaut</td><td>Taille/Largeur</td><td>Longueur/hauteur</td></tr><tr CLASS="premier"><td>&emsp;G</td><td>1,50 m</td><td>6 m</td></tr><tr CLASS="alt"><td>&emsp;TG</td><td>1,50 m</td><td>9 m</td></tr><tr><td>&emsp;Gig</td><td>3 m</td><td>12 m</td></tr><tr CLASS="alt"><td>&emsp;Col</td><td>3 m</td><td>18 m</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Les ponts et les échelles</caption>
+  <tr CLASS="titre"><td>Engin d’assaut</td><td>Taille/Largeur</td><td>Longueur/hauteur</td></tr>
+  <tr CLASS="premier"><td>&emsp;G</td><td>1,50 m</td><td>6 m</td></tr>
+  <tr CLASS="alt"><td>&emsp;TG</td><td>1,50 m</td><td>9 m</td></tr>
+  <tr><td>&emsp;Gig</td><td>3 m</td><td>12 m</td></tr>
+  <tr CLASS="alt"><td>&emsp;Col</td><td>3 m</td><td>18 m</td></tr>
+</table>
 
 </div></div>{s:Reference|Échelle}**Échelle.** Une échelle est munie de piques à sa base, pour plus de stabilité, et le dernier mètre cinquante est renforcé de métal avec une [[solidité]] de 10 et 20 points de vie. Le reste de l’échelle est en bois et possède une [[solidité]] de 5 pour un nombre de points de vie basé sur sa [[taille]]. Une échelle G a 20 points de vie, une TG 30 pv, une Gig 80 pv et une Col 120 pv. Il est impossible de mettre une [[Tableau récapitulatif des armures|armure]] à une échelle.
 
@@ -69,7 +76,14 @@ des murailles tellement leur force de recul est puissante. Le [[DD]] de visée d
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><caption>Compléments des tours de siège</caption><tr CLASS="titre"><td>Taille</td><td>Soldats</td></tr><tr CLASS="premier"><td>&emsp;G</td><td>5</td></tr><tr CLASS="alt"><td>&emsp;TG</td><td>20</td></tr><tr><td>&emsp;Gig</td><td>50</td></tr><tr CLASS="alt"><td>&emsp;Col</td><td>200</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Compléments des tours de siège</caption>
+  <tr CLASS="titre"><td>Taille</td><td>Soldats</td></tr>
+  <tr CLASS="premier"><td>&emsp;G</td><td>5</td></tr>
+  <tr CLASS="alt"><td>&emsp;TG</td><td>20</td></tr>
+  <tr><td>&emsp;Gig</td><td>50</td></tr>
+  <tr CLASS="alt"><td>&emsp;Col</td><td>200</td></tr>
+</table>
 
 </div></div>{s:Reference|Pontdassaut}**Pont d’assaut.** Ce pont sert à franchir un fossé, une douve ou un autre creux. Pour jeter un pont, il faut passer une [[action complexe]] par section de 1,50 m. Quatre créatures au maximum peuvent coopérer pour manoeuvrer le pont. Ce temps double pour chaque catégorie de [[taille]] qui sépare la créature du pont. Un pont d’assaut G a 40 points de vie, un TG 60 pv, un Gig 160 pv et un Col 240 pv.
 

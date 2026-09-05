@@ -22,7 +22,19 @@ Ce type de jeu non-linéaire encourage les PJ à se lancer dans le monde, à che
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TEMPSDEVOYAGE}Temps de voyage (1 hexagone)</caption><tr CLASS="titre"><td WIDTH="32%">VD du groupe</td><td WIDTH="34%">Plaines</td><td WIDTH="33%">Tout autre environnement</td></tr><tr CLASS="premier"><td>4,5 m</td><td>11 heures</td><td>16 heures</td></tr><tr><td>6 m</td><td>8 heures</td><td>12 heures</td></tr><tr><td>9 m</td><td>5 heures</td><td>8 heures</td></tr><tr><td>12 m</td><td>4 heures</td><td>6 heures</td></tr><tr><td>15 m</td><td>3 heures</td><td>5 heures</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>{s:Reference|TEMPSDEVOYAGE}Temps de voyage (1 hexagone)</caption>
+  <tr CLASS="titre">
+    <td WIDTH="32%">VD du groupe</td>
+    <td WIDTH="34%">Plaines</td>
+    <td WIDTH="33%">Tout autre environnement</td>
+  </tr>
+  <tr CLASS="premier"><td>4,5 m</td><td>11 heures</td><td>16 heures</td></tr>
+  <tr><td>6 m</td><td>8 heures</td><td>12 heures</td></tr>
+  <tr><td>9 m</td><td>5 heures</td><td>8 heures</td></tr>
+  <tr><td>12 m</td><td>4 heures</td><td>6 heures</td></tr>
+  <tr><td>15 m</td><td>3 heures</td><td>5 heures</td></tr>
+</table>
 
 </div></div>
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
@@ -210,7 +222,17 @@ Les plaines peuvent être des champs de hautes herbes, une toundra toujours gel�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td WIDTH="30%">d20</td><td WIDTH="70%">Type d'environnement</td></tr><tr CLASS="premier"><td>1-3</td><td>[[Exploration GC#FORET|Forêt]]</td></tr><tr><td>4-6</td><td>[[Exploration GC#COLLINES|Collines]]</td></tr><tr><td>7-8</td><td>[[Exploration GC#MARAIS|Marais]]</td></tr><tr><td>9-10</td><td>[[Exploration GC#MONTAGNES|Montagnes]]</td></tr><tr><td>11-13</td><td>[[Exploration GC#PLAINES|Plaines]]</td></tr><tr><td>14</td><td>[[Exploration GC#COLONIE|Colonie]]</td></tr><tr><td>15-16</td><td>[[Exploration GC#EAUX|Eaux]]</td></tr><tr><td>17-20</td><td>Même type d’environnement que le précédent</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <tr CLASS="titre"><td WIDTH="30%">d20</td><td WIDTH="70%">Type d'environnement</td></tr>
+  <tr CLASS="premier"><td>1-3</td><td>[[Exploration GC#FORET|Forêt]]</td></tr>
+  <tr><td>4-6</td><td>[[Exploration GC#COLLINES|Collines]]</td></tr>
+  <tr><td>7-8</td><td>[[Exploration GC#MARAIS|Marais]]</td></tr>
+  <tr><td>9-10</td><td>[[Exploration GC#MONTAGNES|Montagnes]]</td></tr>
+  <tr><td>11-13</td><td>[[Exploration GC#PLAINES|Plaines]]</td></tr>
+  <tr><td>14</td><td>[[Exploration GC#COLONIE|Colonie]]</td></tr>
+  <tr><td>15-16</td><td>[[Exploration GC#EAUX|Eaux]]</td></tr>
+  <tr><td>17-20</td><td>Même type d’environnement que le précédent</td></tr>
+</table>
 
 </div></div>
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">

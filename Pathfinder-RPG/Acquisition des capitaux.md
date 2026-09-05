@@ -17,9 +17,16 @@ Le moyen le plus simple pour obtenir des capitaux consiste à les acquérir en a
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px;">
 
-<table CLASS="tablo autoalt centre"><caption>{s:Reference|Valeurs des capitaux}Valeurs des capitaux</caption><tr CLASS="titre"><td>Capital</td><td>Coût  
+<table CLASS="tablo autoalt centre">
+  <caption>{s:Reference|Valeurs des capitaux}Valeurs des capitaux</caption>
+  <tr CLASS="titre"><td>Capital</td><td>Coût  
 d'achat</td><td>Coût  
-produit</td></tr><tr CLASS="premier"><td>[[Intermèdes#Marchandises|Marchandises]]</td><td>20 po</td><td>10 po</td></tr><tr><td>[[Intermèdes#Influence|Influence]]</td><td>30 po</td><td>15 po</td></tr><tr><td>[[Intermèdes#Travail|Travail]]</td><td>20 po</td><td>10 po</td></tr><tr><td>[[Intermèdes#Magie|Magie]]</td><td>100 po</td><td>50 po</td></tr></table>
+produit</td></tr>
+  <tr CLASS="premier"><td>[[Intermèdes#Marchandises|Marchandises]]</td><td>20 po</td><td>10 po</td></tr>
+  <tr><td>[[Intermèdes#Influence|Influence]]</td><td>30 po</td><td>15 po</td></tr>
+  <tr><td>[[Intermèdes#Travail|Travail]]</td><td>20 po</td><td>10 po</td></tr>
+  <tr><td>[[Intermèdes#Magie|Magie]]</td><td>100 po</td><td>50 po</td></tr>
+</table>
 
 </div></div>Nombre d’activités d’intermède, comme la réalisation de travaux ordinaires grâce à une compétence d’[[Artisanat]] ou de [[Profession]] ou la production de recettes engendrées par la gestion quotidienne d’une [[Bâtiments et organisations#TAVERNE|taverne]] ou d’une [[Bâtiments et organisations#AUBERGE|auberge]], permettent aux personnages de [[Activités dintermède#Produire des capitaux|produire des capitaux]]. La production de capitaux est semblable à l’utilisation d’un don de fabrication d’objets magiques : le personnage doit consacrer du temps à la fabrication de l’objet en payant la moitié seulement du prix normal de cet objet. Si la description d’une activité d’intermède précise qu’elle permet de produire des capitaux, le personnage peut produire ce capital en passant le temps d’intermède requis et en dépensant la somme correspondante en po. Le coût (en po) pour produire des capitaux est égal à la moitié de leur coût d’achat, comme indiqué dans la colonne Coût produit de la table "[[Acquisition des capitaux#Valeurs des capitaux|Valeurs des capitaux]]". Par exemple, l’[[Intermèdes#Influence|Influence]] possède un [[Acquisition des capitaux#Valeurs des capitaux|Coût produit]] de 15 po le point. Si le personnage souhaite développer son réseau social en ville pour produire trois points d’[[Intermèdes#Influence|Influence]], il doit y consacrer un jour d’intermède et dépenser 45 po (3 × 15 po). La production de capitaux prend plus de temps mais permet de les acquérir à un coût bien moins élevé que l’achat pur et simple. Il est plus facile de noter la liste des capitaux produits si le personnage règle la somme requise dès leur acquisition ; dans le cas contraire, il devra également noter la liste des capitaux produits mais non encore possédés (car il n’a pas encore réglé la somme en po correspondante).
 
@@ -40,7 +47,26 @@ Le personnage peut travailler une journée pour gagner 5 pa (en temps normal, un
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo autoalt centre"><caption>{s:Reference|Production de capitaux}Production de capitaux</caption><tr CLASS="titre"><td>Résultat du test de compétence</td><td>Capital produit* ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])</td></tr><tr CLASS="premier"><td>10</td><td>1</td></tr><tr><td>20</td><td>2</td></tr><tr><td>30</td><td>3</td></tr><tr><td>40</td><td>4</td></tr><tr><td CLASS="note" COLSPAN="2">*(*) Pour chaque tranche de 10 points au-dessus de 40 obtenue sur le résultat du test, le personnage produit un point de capital supplémentaire.*</td></tr></table>
+<table CLASS="tablo autoalt centre">
+  <caption>{s:Reference|Production de capitaux}Production de capitaux</caption>
+  <tr CLASS="titre">
+    <td>Résultat du test de compétence</td>
+    <td>
+      Capital produit* ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]],
+      [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])
+    </td>
+  </tr>
+  <tr CLASS="premier"><td>10</td><td>1</td></tr>
+  <tr><td>20</td><td>2</td></tr>
+  <tr><td>30</td><td>3</td></tr>
+  <tr><td>40</td><td>4</td></tr>
+  <tr>
+    <td CLASS="note" COLSPAN="2">
+      *(*) Pour chaque tranche de 10 points au-dessus de 40 obtenue sur le résultat du test, le personnage produit
+      un point de capital supplémentaire.*
+    </td>
+  </tr>
+</table>
 
 </div></div>Si le personnage possède des rangs dans une compétence utile, il peut travailler une journée pour produire davantage de capitaux que ceux produits avec un travail non qualifié. Remarquez que cette méthode peut impliquer des moyens légaux et illégaux de production de capitaux. Par exemple, une journée passée à gagner de l’argent avec [[Escamotage]] peut se traduire par une journée passée  à donner des spectacles de rue magiques ou bien à dérober les bourses des passants.
 

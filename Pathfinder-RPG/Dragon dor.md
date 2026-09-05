@@ -53,7 +53,22 @@ leur demander aide et conseils.
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr><tr CLASS="premier"><td>Dragonnet</td><td>souffle affaiblissant, sous-type [[sous-type Feu|Feu]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>changement de forme, *[[détection du Mal]]*</td><td>—</td></tr><tr><td>Jeune</td><td>détection des pierres précieuses, vol rapide</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[bénédiction]]*</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>chance, *[[lumière du jour]]*, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura de feu, *[[quête]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[explosion de lumière]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>aide divine, *[[prémonition]]*</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr>
+  <tr CLASS="premier"><td>Dragonnet</td><td>souffle affaiblissant, sous-type [[sous-type Feu|Feu]]</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>changement de forme, *[[détection du Mal]]*</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>détection des pierres précieuses, vol rapide</td><td>1</td></tr>
+  <tr CLASS="alt"><td>Adolescent</td><td>*[[bénédiction]]*</td><td>3</td></tr>
+  <tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr>
+  <tr CLASS="alt"><td>Adulte</td><td>chance, *[[lumière du jour]]*, [[présence terrifiante]]</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>aura de feu, *[[quête]]*</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[explosion de lumière]]*</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>aide divine, *[[prémonition]]*</td><td>19</td></tr>
+</table>
 
 </center>
 

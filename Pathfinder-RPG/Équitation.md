@@ -22,7 +22,19 @@ Les actions d’équitation classiques n’exigent pas de test de compétence. L
 
 <center>
 
-<table CLASS="tablo"><caption>Test d'équitation</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test d’Équitation</td></tr><tr CLASS="premier"><td>Guider sa monture avec les genoux</td><td>5</td></tr><tr CLASS="alt"><td>Rester en selle</td><td>5</td></tr><tr><td>Combattre sur un destrier (monture entraînée pour le combat)</td><td>10</td></tr><tr CLASS="alt"><td>Utiliser sa monture pour s’abriter</td><td>15</td></tr><tr><td>Amortir sa chute</td><td>15</td></tr><tr CLASS="alt"><td>Sauter un obstacle</td><td>15</td></tr><tr><td>Éperonner sa monture</td><td>15</td></tr><tr CLASS="alt"><td>Contrôler sa monture au combat</td><td>20</td></tr><tr><td>Monter en selle ou descendre de selle rapidement</td><td>20</td></tr></table>
+<table CLASS="tablo">
+  <caption>Test d'équitation</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test d’Équitation</td></tr>
+  <tr CLASS="premier"><td>Guider sa monture avec les genoux</td><td>5</td></tr>
+  <tr CLASS="alt"><td>Rester en selle</td><td>5</td></tr>
+  <tr><td>Combattre sur un destrier (monture entraînée pour le combat)</td><td>10</td></tr>
+  <tr CLASS="alt"><td>Utiliser sa monture pour s’abriter</td><td>15</td></tr>
+  <tr><td>Amortir sa chute</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Sauter un obstacle</td><td>15</td></tr>
+  <tr><td>Éperonner sa monture</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Contrôler sa monture au combat</td><td>20</td></tr>
+  <tr><td>Monter en selle ou descendre de selle rapidement</td><td>20</td></tr>
+</table>
 
 </center>
 

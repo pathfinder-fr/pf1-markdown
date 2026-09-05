@@ -17,16 +17,56 @@ Voir la [[Archétypes|section dédiée]]
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px"><center>
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo"><caption>Table 2–1: Evolution des monstres</caption><tr CLASS="titre avecsoustitre"><td ROWSPAN="2">FP qui  
-croît</td><td ROWSPAN="2">FP qui  
-décroît</td><td COLSPAN="4">Modification</td></tr><tr CLASS="soustitre"><td>des pv</td><td>de la CA</td><td>de bonus  
-d'attaque</td><td>des dégâts</td></tr><tr CLASS="premier"><td>1</td><td>Moins de 1</td><td>5</td><td>1</td><td>1</td><td>2–3</td></tr><tr CLASS="alt"><td>2</td><td>1</td><td>5</td><td>2</td><td>2</td><td>2–3</td></tr><tr><td>3</td><td>2</td><td>10</td><td>1</td><td>1–2</td><td>2–3</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>10</td><td>2</td><td>2</td><td>2–3</td></tr><tr><td>5</td><td>4</td><td>15</td><td>1</td><td>1–2</td><td>3–4</td></tr><tr CLASS="alt"><td>6</td><td>5</td><td>15</td><td>1</td><td>1–2</td><td>3–5</td></tr><tr><td>7</td><td>6</td><td>15</td><td>1</td><td>1–2</td><td>4–5</td></tr><tr CLASS="alt"><td>8</td><td>7</td><td>15</td><td>1</td><td>1–2</td><td>4–5</td></tr><tr><td>9</td><td>8</td><td>15</td><td>2</td><td>1–2</td><td>4–5</td></tr><tr CLASS="alt"><td>10</td><td>9</td><td>15</td><td>1</td><td>1</td><td>3–5</td></tr><tr><td>11</td><td>10</td><td>15</td><td>1</td><td>1</td><td>4–5</td></tr><tr CLASS="alt"><td>12</td><td>11</td><td>15</td><td>2</td><td>1–2</td><td>4–5</td></tr><tr><td>13</td><td>12</td><td>20</td><td>1</td><td>1</td><td>4–5</td></tr><tr CLASS="alt"><td>14</td><td>13</td><td>20</td><td>1</td><td>1</td><td>3–5</td></tr><tr><td>15</td><td>14</td><td>20</td><td>1</td><td>1</td><td>4–5</td></tr><tr CLASS="alt"><td>16</td><td>15</td><td>20</td><td>1</td><td>1–2</td><td>8–10</td></tr><tr><td>17</td><td>16</td><td>30</td><td>1</td><td>1</td><td>7–10</td></tr><tr CLASS="alt"><td>18</td><td>17</td><td>30</td><td>1</td><td>1</td><td>8–10</td></tr><tr><td>19</td><td>18</td><td>30</td><td>1</td><td>1</td><td>7–10</td></tr><tr CLASS="alt"><td>20</td><td>19</td><td>40</td><td>2</td><td>1</td><td>8–10</td></tr><tr><td>21+</td><td>20+</td><td>40</td><td>2</td><td>1</td><td>8–10</td></tr></table></div>
+<table CLASS="tablo">
+  <caption>Table 2–1: Evolution des monstres</caption>
+  <tr CLASS="titre avecsoustitre">
+    <td ROWSPAN="2">FP qui  
+croît</td>
+    <td ROWSPAN="2">FP qui  
+décroît</td>
+    <td COLSPAN="4">Modification</td>
+  </tr>
+  <tr CLASS="soustitre"><td>des pv</td><td>de la CA</td><td>de bonus  
+d'attaque</td><td>des dégâts</td></tr>
+  <tr CLASS="premier"><td>1</td><td>Moins de 1</td><td>5</td><td>1</td><td>1</td><td>2–3</td></tr>
+  <tr CLASS="alt"><td>2</td><td>1</td><td>5</td><td>2</td><td>2</td><td>2–3</td></tr>
+  <tr><td>3</td><td>2</td><td>10</td><td>1</td><td>1–2</td><td>2–3</td></tr>
+  <tr CLASS="alt"><td>4</td><td>3</td><td>10</td><td>2</td><td>2</td><td>2–3</td></tr>
+  <tr><td>5</td><td>4</td><td>15</td><td>1</td><td>1–2</td><td>3–4</td></tr>
+  <tr CLASS="alt"><td>6</td><td>5</td><td>15</td><td>1</td><td>1–2</td><td>3–5</td></tr>
+  <tr><td>7</td><td>6</td><td>15</td><td>1</td><td>1–2</td><td>4–5</td></tr>
+  <tr CLASS="alt"><td>8</td><td>7</td><td>15</td><td>1</td><td>1–2</td><td>4–5</td></tr>
+  <tr><td>9</td><td>8</td><td>15</td><td>2</td><td>1–2</td><td>4–5</td></tr>
+  <tr CLASS="alt"><td>10</td><td>9</td><td>15</td><td>1</td><td>1</td><td>3–5</td></tr>
+  <tr><td>11</td><td>10</td><td>15</td><td>1</td><td>1</td><td>4–5</td></tr>
+  <tr CLASS="alt"><td>12</td><td>11</td><td>15</td><td>2</td><td>1–2</td><td>4–5</td></tr>
+  <tr><td>13</td><td>12</td><td>20</td><td>1</td><td>1</td><td>4–5</td></tr>
+  <tr CLASS="alt"><td>14</td><td>13</td><td>20</td><td>1</td><td>1</td><td>3–5</td></tr>
+  <tr><td>15</td><td>14</td><td>20</td><td>1</td><td>1</td><td>4–5</td></tr>
+  <tr CLASS="alt"><td>16</td><td>15</td><td>20</td><td>1</td><td>1–2</td><td>8–10</td></tr>
+  <tr><td>17</td><td>16</td><td>30</td><td>1</td><td>1</td><td>7–10</td></tr>
+  <tr CLASS="alt"><td>18</td><td>17</td><td>30</td><td>1</td><td>1</td><td>8–10</td></tr>
+  <tr><td>19</td><td>18</td><td>30</td><td>1</td><td>1</td><td>7–10</td></tr>
+  <tr CLASS="alt"><td>20</td><td>19</td><td>40</td><td>2</td><td>1</td><td>8–10</td></tr>
+  <tr><td>21+</td><td>20+</td><td>40</td><td>2</td><td>1</td><td>8–10</td></tr>
+</table></div>
 
 
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo"><caption>Table 2–2 : Changement de taille</caption><tr CLASS="titre"><td>De*</td><td>Vers</td><td>For</td><td>Dex</td><td>Con</td><td>Armure  
-naturelle</td></tr><tr CLASS="premier"><td>I</td><td>Min</td><td>inchangée</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr><tr CLASS="alt"><td>Min</td><td>TP</td><td>+2</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr><tr><td>TP</td><td>P</td><td>+4</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr><tr CLASS="alt"><td>P</td><td>M</td><td>+4</td><td>–2</td><td>+2</td><td>inchangée</td></tr><tr><td>M</td><td>G</td><td>+8</td><td>–2</td><td>+4</td><td>+2</td></tr><tr CLASS="alt"><td>G</td><td>TG</td><td>+8</td><td>–2</td><td>+4</td><td>+3</td></tr><tr><td>TG</td><td>Gig</td><td>+8</td><td>inchangée</td><td>+4</td><td>+4</td></tr><tr CLASS="alt"><td>Gig</td><td>Col</td><td>+8</td><td>inchangée</td><td>+4</td><td>+5</td></tr></table>
+<table CLASS="tablo">
+  <caption>Table 2–2 : Changement de taille</caption>
+  <tr CLASS="titre"><td>De*</td><td>Vers</td><td>For</td><td>Dex</td><td>Con</td><td>Armure  
+naturelle</td></tr>
+  <tr CLASS="premier"><td>I</td><td>Min</td><td>inchangée</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr>
+  <tr CLASS="alt"><td>Min</td><td>TP</td><td>+2</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr>
+  <tr><td>TP</td><td>P</td><td>+4</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr>
+  <tr CLASS="alt"><td>P</td><td>M</td><td>+4</td><td>–2</td><td>+2</td><td>inchangée</td></tr>
+  <tr><td>M</td><td>G</td><td>+8</td><td>–2</td><td>+4</td><td>+2</td></tr>
+  <tr CLASS="alt"><td>G</td><td>TG</td><td>+8</td><td>–2</td><td>+4</td><td>+3</td></tr>
+  <tr><td>TG</td><td>Gig</td><td>+8</td><td>inchangée</td><td>+4</td><td>+4</td></tr>
+  <tr CLASS="alt"><td>Gig</td><td>Col</td><td>+8</td><td>inchangée</td><td>+4</td><td>+5</td></tr>
+</table>
 
 
 *(*) Les modifications se cumulent si la créature  
@@ -35,7 +75,19 @@ gagne ou perd plus d’une catégorie de taille.*
 
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo"><caption>Table 2–3 : Bonus et malus de taille</caption><tr CLASS="titre"><td>Taille</td><td>CA/Attaque</td><td>BMO/DMD</td><td>Discrétion</td><td>Vol</td></tr><tr CLASS="premier"><td>Infime</td><td>+8</td><td>–8</td><td>+16</td><td>+8</td></tr><tr CLASS="alt"><td>Minuscule</td><td>+4</td><td>–4</td><td>+12</td><td>+6</td></tr><tr><td>Très Petit</td><td>+2</td><td>–2</td><td>+8</td><td>+4</td></tr><tr CLASS="alt"><td>Petit</td><td>+1</td><td>–1</td><td>+4</td><td>+2</td></tr><tr><td>Moyen</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td></tr><tr CLASS="alt"><td>Grand</td><td>–1</td><td>+1</td><td>–4</td><td>–2</td></tr><tr><td>Très Grand</td><td>–2</td><td>+2</td><td>–8</td><td>–4</td></tr><tr CLASS="alt"><td>Gigantesque</td><td>–4</td><td>+4</td><td>–12</td><td>–6</td></tr><tr><td>Colossal</td><td>–8</td><td>+8</td><td>–16</td><td>–8</td></tr></table></div></div>
+<table CLASS="tablo">
+  <caption>Table 2–3 : Bonus et malus de taille</caption>
+  <tr CLASS="titre"><td>Taille</td><td>CA/Attaque</td><td>BMO/DMD</td><td>Discrétion</td><td>Vol</td></tr>
+  <tr CLASS="premier"><td>Infime</td><td>+8</td><td>–8</td><td>+16</td><td>+8</td></tr>
+  <tr CLASS="alt"><td>Minuscule</td><td>+4</td><td>–4</td><td>+12</td><td>+6</td></tr>
+  <tr><td>Très Petit</td><td>+2</td><td>–2</td><td>+8</td><td>+4</td></tr>
+  <tr CLASS="alt"><td>Petit</td><td>+1</td><td>–1</td><td>+4</td><td>+2</td></tr>
+  <tr><td>Moyen</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td></tr>
+  <tr CLASS="alt"><td>Grand</td><td>–1</td><td>+1</td><td>–4</td><td>–2</td></tr>
+  <tr><td>Très Grand</td><td>–2</td><td>+2</td><td>–8</td><td>–4</td></tr>
+  <tr CLASS="alt"><td>Gigantesque</td><td>–4</td><td>+4</td><td>–12</td><td>–6</td></tr>
+  <tr><td>Colossal</td><td>–8</td><td>+8</td><td>–16</td><td>–8</td></tr>
+</table></div></div>
 
 Le procédé pour ajouter des DV raciaux à un monstre est similaire à celui qui permet d’en construire un à partir de rien. Lorsque des DV supplémentaires sont ajoutés, l’augmentation de puissance se reflète sur d’autres aspects : bonus d’attaques, jets de sauvegarde, points de vie et compétences s’améliorent et de nouveaux dons sont acquis. Les capacités (magiques ou non) peuvent également se développer.
 
@@ -93,14 +145,27 @@ Un monstre doté de niveaux de classe possède toujours un trésor équivalent �
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo"><caption>Table 2–4: Monstres et niveaux de classe</caption><tr CLASS="titre"><td>Rôle du  
-monstre</td><td>Barbare,  
+<table CLASS="tablo">
+  <caption>Table 2–4: Monstres et niveaux de classe</caption>
+  <tr CLASS="titre">
+    <td>Rôle du  
+monstre</td>
+    <td>Barbare,  
 guerrier,  
-rôdeur</td><td>Druide, prêtre,  
+rôdeur</td>
+    <td>Druide, prêtre,  
 ensorceleur,  
-magicien</td><td>Barde,  
-roublard</td><td>Moine,  
-paladin</td></tr><tr CLASS="premier"><td>Combat</td><td>clef</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Sorts</td><td>—</td><td>clef*</td><td>—</td><td>—</td></tr><tr><td>Compétences</td><td>clef</td><td>—</td><td>clef</td><td>—</td></tr><tr CLASS="alt"><td>Spécial</td><td>—</td><td>—</td><td>—</td><td>—</td></tr></table>
+magicien</td>
+    <td>Barde,  
+roublard</td>
+    <td>Moine,  
+paladin</td>
+  </tr>
+  <tr CLASS="premier"><td>Combat</td><td>clef</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Sorts</td><td>—</td><td>clef*</td><td>—</td><td>—</td></tr>
+  <tr><td>Compétences</td><td>clef</td><td>—</td><td>clef</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Spécial</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+</table>
 
 
 *(*) C’est une classe-clef seulement si les niveaux de lanceur  

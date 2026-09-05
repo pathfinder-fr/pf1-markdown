@@ -116,10 +116,19 @@ Lorsqu’on investit des parties de monstres pour retravailler un objet, le nive
 Lorsque le niveau de l’objet augmente, certaines de ses propriétés fondamentales augmentent (de manière semblable à se qui se passe avec des runes fondamentales dans le système standard). Certains seuils débloquent également le nombre de fois que l’objet peut être imprégné. L’évolution dépend du type d’objet ; voici par exemple une partie de celle qui concerne les armes.
 
 
-<table CLASS="tablo centre cadre autoalt toutgauche"><caption>Évolution d'une arme retravaillée</caption><tr CLASS="titre"><td>Niveau</td><td>Avantages</td></tr><tr CLASS="premier"><td>2</td><td>Bonus de +1 aux jets d'attaque   
-1 imprégnation</td></tr><tr><td>4</td><td>Dé de dégâts supplémentaire (2 dés au total, comme *de frappe*)</td></tr><tr><td>10</td><td>Bonus de +2 aux jets d'attaque   
-2 imprégnations</td></tr><tr><td>12</td><td>Dé de dégâts supplémentaire (3 dés au total, comme *de frappe supérieure*)</td></tr><tr><td>16</td><td>Bonus de +3 aux jets d'attaque   
-3 imprégnations</td></tr><tr><td>19</td><td>Dé de dégâts supplémentaire (4 dés au total, comme *de frappe majeure*)</td></tr></table>
+<table CLASS="tablo centre cadre autoalt toutgauche">
+  <caption>Évolution d'une arme retravaillée</caption>
+  <tr CLASS="titre"><td>Niveau</td><td>Avantages</td></tr>
+  <tr CLASS="premier"><td>2</td><td>Bonus de +1 aux jets d'attaque   
+1 imprégnation</td></tr>
+  <tr><td>4</td><td>Dé de dégâts supplémentaire (2 dés au total, comme *de frappe*)</td></tr>
+  <tr><td>10</td><td>Bonus de +2 aux jets d'attaque   
+2 imprégnations</td></tr>
+  <tr><td>12</td><td>Dé de dégâts supplémentaire (3 dés au total, comme *de frappe supérieure*)</td></tr>
+  <tr><td>16</td><td>Bonus de +3 aux jets d'attaque   
+3 imprégnations</td></tr>
+  <tr><td>19</td><td>Dé de dégâts supplémentaire (4 dés au total, comme *de frappe majeure*)</td></tr>
+</table>
 
 
 Dans le cas des boucliers, c’est la solidité, les points de vie (et donc le seuil de bris) qui augmentent avec le temps. Pour les armures, c’est le bonus à la CA et le bonus aux jets de sauvegarde (à nouveau comme pour les runes fondamentales des armures standard). Pour les objets améliorant la Perception ou une compétence, c’est le bonus accordé qui augmente (+1 au niveau 3, +2 au niveau 9 et +3 au niveau 17).

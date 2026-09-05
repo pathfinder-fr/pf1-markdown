@@ -47,7 +47,38 @@ Les dragons chtoniens, également appelés les fucanlongs, sont des créatures c
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Griffes d’adamantium, [[Immunité (capacité)|immunité]] contre le feu</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Vision malgré la fumée</td><td>—</td></tr><tr><td>Jeune</td><td>*[[Changement de forme]]*, *[[ramollissement de la terre et de la pierre]]*</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Façonnage de la pierre]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie ; [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>Fouisseur chtonien, *[[pierres acérées]]*</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[Mur de pierre]]*</td><td>9</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Éloignement du métal et de la pierre]]*</td><td>13</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Éruption de lave, *[[heurt de pierres]]*</td><td>17</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier">
+    <td>Dragonnet</td>
+    <td>Griffes d’adamantium, [[Immunité (capacité)|immunité]] contre le feu</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>Vision malgré la fumée</td><td>—</td></tr>
+  <tr>
+    <td>Jeune</td>
+    <td>*[[Changement de forme]]*, *[[ramollissement de la terre et de la pierre]]*</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Adolescent</td>
+    <td>*[[Façonnage de la pierre]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Jeune adulte</td>
+    <td>[[Réduction de dégâts (capacité)|RD]] 5/magie ; [[Résistance à la magie (capacité)|résistance à la magie]]</td>
+    <td>3</td>
+  </tr>
+  <tr CLASS="alt"><td>Adulte</td><td>Fouisseur chtonien, *[[pierres acérées]]*</td><td>5</td></tr>
+  <tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>7</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>*[[Mur de pierre]]*</td><td>9</td></tr>
+  <tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>11</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[Éloignement du métal et de la pierre]]*</td><td>13</td></tr>
+  <tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>Éruption de lave, *[[heurt de pierres]]*</td><td>17</td></tr>
+</table>
 
 </center>
 </div></td></tr></table>

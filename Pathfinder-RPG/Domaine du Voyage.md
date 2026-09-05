@@ -31,4 +31,25 @@ Le personnage est un explorateur qui trouve son plaisir dans le simple fait de v
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Voyage</td><td>Sous-domaine du Commerce</td><td>Sous-domaine de l'Exploration</td></tr><tr CLASS="premier"><td>1er</td><td>*[[grand pas]]*</td><td>*[[disque flottant]]*</td><td>*[[repli expéditif]]*</td></tr><tr><td>2e</td><td>*[[localisation dobjet|localisation d’objet]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[sort Vol|vol]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[porte dimensionnelle]]*</td><td>*idem*</td><td>*[[localisation de créature]]*</td></tr><tr><td>5e</td><td>*[[téléportation]]*</td><td>*[[vol supérieur]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[orientation]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[téléportation suprême]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[porte de phase]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[projection astrale]]*</td><td>*[[portail]]*</td><td>*[[vague mondiale]]*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du Voyage</td>
+    <td>Sous-domaine du Commerce</td>
+    <td>Sous-domaine de l'Exploration</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[grand pas]]*</td>
+    <td>*[[disque flottant]]*</td>
+    <td>*[[repli expéditif]]*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[localisation dobjet|localisation d’objet]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>3e</td><td>*[[sort Vol|vol]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[porte dimensionnelle]]*</td><td>*idem*</td><td>*[[localisation de créature]]*</td></tr>
+  <tr><td>5e</td><td>*[[téléportation]]*</td><td>*[[vol supérieur]]*</td><td>*idem*</td></tr>
+  <tr><td>6e</td><td>*[[orientation]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[téléportation suprême]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[porte de phase]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[projection astrale]]*</td><td>*[[portail]]*</td><td>*[[vague mondiale]]*</td></tr>
+</table>

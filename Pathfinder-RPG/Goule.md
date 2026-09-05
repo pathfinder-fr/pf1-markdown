@@ -112,7 +112,44 @@ Cette section présente un lignage d’ensorceleur ainsi que des dons et des sor
 Voici quelques dons offrant de nouvelles perspectives aux goules.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Cadavre de compagnie]]</td><td><sup>CM</sup></td><td>Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[goule]]</td><td>Gain d'un compagnon animal mort-vivant</td></tr><tr CLASS="premier"><td>[[Creuseur de terrier]]</td><td><sup>CM</sup></td><td>[[Goule]]</td><td>Gain d'une vitesse de creusement</td></tr><tr><td>&emsp;[[Dormeur]]</td><td><sup>CM</sup></td><td>[[Creuseur de terrier]], [[goule]]</td><td>Gain du pouvoir guérison accélérée près de terre ou de pierre</td></tr><tr><td>&emsp;&emsp;[[Vieux comme la poussière]]</td><td><sup>CM</sup></td><td>[[Dormeur]], [[Creuseur de terrier]], avoir été une [[goule]] pendant au moins 500 ans</td><td>Empêche de mourir sauf si le corps est complètement détruit</td></tr><tr CLASS="premier"><td>[[Sac dos|Sac d'os]]</td><td><sup>CM</sup></td><td>[[Goule]]</td><td>Bonus aux jets tests d'Évasion. Considéré comme d'une taille inférieure pour se faufiler</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cadavre de compagnie]]</td>
+    <td><sup>CM</sup></td>
+    <td>Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[goule]]</td>
+    <td>Gain d'un compagnon animal mort-vivant</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Creuseur de terrier]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Goule]]</td>
+    <td>Gain d'une vitesse de creusement</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Dormeur]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Creuseur de terrier]], [[goule]]</td>
+    <td>Gain du pouvoir guérison accélérée près de terre ou de pierre</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Vieux comme la poussière]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Dormeur]], [[Creuseur de terrier]], avoir été une [[goule]] pendant au moins 500 ans</td>
+    <td>Empêche de mourir sauf si le corps est complètement détruit</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sac dos|Sac d'os]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Goule]]</td>
+    <td>Bonus aux jets tests d'Évasion. Considéré comme d'une taille inférieure pour se faufiler</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

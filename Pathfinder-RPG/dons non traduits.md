@@ -31,7 +31,16 @@ Sur chaque page ainsi créée, devra figurer un tableau reprenant le modèle et 
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Tableau récapitulatif des dons</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr><td>Don 1</td><td>DTT</td><td>condition lambda</td><td>Fait le café en une action immédiate</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Tableau récapitulatif des dons</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="42%">Avantages</td>
+  </tr>
+  <tr><td>Don 1</td><td>DTT</td><td>condition lambda</td><td>Fait le café en une action immédiate</td></tr>
+</table>
 
 </center>
 

@@ -39,9 +39,68 @@ Le personnage est capable de communiquer avec les créatures écailleuses et d'u
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine des Reptiles</td><td>Sous-domaine des Dragons</td><td>Sous-domaine des Sauriens</td><td>Sous-domaine du Venin</td></tr><tr CLASS="premier"><td>1er</td><td>*[[morsure magique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[hypnose des animaux]]*</td><td>*idem*</td><td>*idem*</td><td>*[[poison pernicieux]]*</td></tr><tr><td>3e</td><td>*[[morsure magique suprême]]*</td><td>*[[réservoir draconique]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[empoisonnement]]*</td><td>*[[souffle de dragon]]*</td><td>*[[convocation dalliés naturels IV|convocation d'alliés naturels IV]]*  
-([[déinonychus]] et [[ptéranodon]] uniquement)</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[croissance animale]]*  
-(reptiles uniquement)</td><td>*idem*</td><td>*[[forme bestiale III]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[mauvais oeil]]*</td><td>*[[forme draconique I]]*</td><td>*idem*</td><td>*[[brume mortelle]]*</td></tr><tr><td>7e</td><td>*[[mort rampante]]*  
-(nuée de serpents)</td><td>*idem*</td><td>*[[convocation dalliés naturels VII|convocation d'alliés naturels VII]]*  
-([[brachiosaure]] et [[tyrannosaure]] uniquement)</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[métamorphose animale]]*  
-(reptiles uniquement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[changement de forme]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine des Reptiles</td>
+    <td>Sous-domaine des Dragons</td>
+    <td>Sous-domaine des Sauriens</td>
+    <td>Sous-domaine du Venin</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[morsure magique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>2e</td><td>*[[hypnose des animaux]]*</td><td>*idem*</td><td>*idem*</td><td>*[[poison pernicieux]]*</td></tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[morsure magique suprême]]*</td>
+    <td>*[[réservoir draconique]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[empoisonnement]]*</td>
+    <td>*[[souffle de dragon]]*</td>
+    <td>
+      *[[convocation dalliés naturels IV|convocation d'alliés naturels IV]]*  
+([[déinonychus]] et [[ptéranodon]]
+      uniquement)
+    </td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[croissance animale]]*  
+(reptiles uniquement)</td>
+    <td>*idem*</td>
+    <td>*[[forme bestiale III]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[mauvais oeil]]*</td>
+    <td>*[[forme draconique I]]*</td>
+    <td>*idem*</td>
+    <td>*[[brume mortelle]]*</td>
+  </tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[mort rampante]]*  
+(nuée de serpents)</td>
+    <td>*idem*</td>
+    <td>
+      *[[convocation dalliés naturels VII|convocation d'alliés naturels VII]]*  
+([[brachiosaure]] et
+      [[tyrannosaure]] uniquement)
+    </td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[métamorphose animale]]*  
+(reptiles uniquement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>9e</td><td>*[[changement de forme]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

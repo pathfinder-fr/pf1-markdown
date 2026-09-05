@@ -9,7 +9,17 @@ Les habitants de la région de la [[mer Intérieure]] utilisent le calendrier di
 Chaque année est divisée en 12 mois consacrés à 12 divinités et comportant 28, 30 ou 31 jours (comme le calendrier usuel). Pour mieux coller aux cycles des planètes du [[système solaire]] de Golarion, certaines années sont bissextiles et comportent un jour de plus (placé à la fin du mois de calistril). Les jours sont groupés en semaines de 7 jours.
 
 
-<table CLASS="tablo centre toutgauche"><caption>JOURS DE LA SEMAINE</caption><tr CLASS="titre"><td>Jour</td><td>Tâche</td><td>Aussi appelé</td></tr><tr CLASS="premier"><td>1</td><td>travail, religion (la nuit)</td><td>moonday (jour de la lune), lunedi</td></tr><tr CLASS="alt"><td>2</td><td>travail</td><td>toilday (jour du labeur), marnedi</td></tr><tr><td>3</td><td>travail</td><td>wealday (jour de la prospérité), mercantdi</td></tr><tr CLASS="alt"><td>4</td><td>travail, pactes signés, serments</td><td>oathday (jour des serments), juredi</td></tr><tr><td>5</td><td>travail, jour du marché</td><td>fireday (jour du feu), ventdi</td></tr><tr CLASS="alt"><td>6</td><td>travail</td><td>starday (jour des astres), astredi</td></tr><tr><td>7</td><td>repos, religion</td><td>sunday (jour du soleil), solardi</td></tr></table>
+<table CLASS="tablo centre toutgauche">
+  <caption>JOURS DE LA SEMAINE</caption>
+  <tr CLASS="titre"><td>Jour</td><td>Tâche</td><td>Aussi appelé</td></tr>
+  <tr CLASS="premier"><td>1</td><td>travail, religion (la nuit)</td><td>moonday (jour de la lune), lunedi</td></tr>
+  <tr CLASS="alt"><td>2</td><td>travail</td><td>toilday (jour du labeur), marnedi</td></tr>
+  <tr><td>3</td><td>travail</td><td>wealday (jour de la prospérité), mercantdi</td></tr>
+  <tr CLASS="alt"><td>4</td><td>travail, pactes signés, serments</td><td>oathday (jour des serments), juredi</td></tr>
+  <tr><td>5</td><td>travail, jour du marché</td><td>fireday (jour du feu), ventdi</td></tr>
+  <tr CLASS="alt"><td>6</td><td>travail</td><td>starday (jour des astres), astredi</td></tr>
+  <tr><td>7</td><td>repos, religion</td><td>sunday (jour du soleil), solardi</td></tr>
+</table>
 
 
 *Voir aussi la feuille du temps sur la page des [[Aides de jeu]] pour Golarion.*

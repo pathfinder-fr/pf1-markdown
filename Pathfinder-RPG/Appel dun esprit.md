@@ -22,7 +22,16 @@ Categories:
 Le personnage tente de pousser l’esprit d’un individu donné à se manifester depuis la tombe. Il faut prononcer son nom pour lui demander de se montrer. Un esprit non consentant peut refuser l’invocation à condition de réussir un jet de Volonté. Si l’esprit choisi refuse d’apparaître, un autre doué d’intentions malveillantes prend presque toujours sa place, bien décidé à duper le personnage. La difficulté du jet de sauvegarde dépend de la quantité de connaissances que le personnage possède au sujet de l’esprit et des éventuels liens physiques qu’il possède avec elle.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Connaissances</td><td>Mod au jet de volonté</td></tr><tr CLASS="premier"><td>Nom uniquement†</td><td>+15</td></tr><tr><td>De seconde main (a entendu parler de la cible)</td><td>+10</td></tr><tr><td>De première main (a rencontré la cible de son vivant)</td><td>+5</td></tr><tr><td>Familières (connaissait bien la cible)</td><td>+0</td></tr><tr CLASS="note" COLSPAN="2"><td>†Le personnage doit au moins connaître un nom que la cible utilisait de son vivant</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Connaissances</td><td>Mod au jet de volonté</td></tr>
+  <tr CLASS="premier"><td>Nom uniquement†</td><td>+15</td></tr>
+  <tr><td>De seconde main (a entendu parler de la cible)</td><td>+10</td></tr>
+  <tr><td>De première main (a rencontré la cible de son vivant)</td><td>+5</td></tr>
+  <tr><td>Familières (connaissait bien la cible)</td><td>+0</td></tr>
+  <tr CLASS="note" COLSPAN="2">
+    <td>†Le personnage doit au moins connaître un nom que la cible utilisait de son vivant</td>
+  </tr>
+</table>
 
 
 

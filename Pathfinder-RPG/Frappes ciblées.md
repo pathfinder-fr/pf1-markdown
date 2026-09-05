@@ -22,7 +22,30 @@ Les frappes ciblées se divisent en trois grandes catégories de difficulté : f
 **Coups critiques et confirmation de coups critiques**. Une frappe ciblée a des chances normales de devenir un [[Actions simples#COUPCRITIQUE|coup critique]], et inflige un effet supplémentaire lorsqu’un [[Actions simples#COUPCRITIQUE|coup critique]] est confirmé. L’effet spécifique à appliquer lorsqu’un [[Actions simples#COUPCRITIQUE|coup critique]] est réussi dépend de la zone ciblée. Ces effets sont décrits dans la partie [[Frappes ciblées#EFFETSDESFRAPPESCIBLEES|Effets des frappes ciblées]].
 
 
-<table CLASS="tablo toutgauche"><caption>Dons de frappe ciblée</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="37%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier"><td>[[Science de la frappe ciblée]]</td><td><sup>AG</sup></td><td>[[Int]] 13, [[Expertise du combat]]</td><td>Bonus de +2 au [[jet dattaque|jet d'attaque]] sur une frappe ciblée, faire une frappe ciblée parmi des attaques multiples</td></tr><tr CLASS="alt"><td>&emsp;[[Frappe ciblée supérieure]]</td><td><sup>AG</sup></td><td>[[Int]] 13, [[Expertise du combat]], [[Science de la frappe ciblée]], [[BBA]] +6</td><td>Remplacer une attaque par une frappe ciblée, plusieurs frappes ciblées par [[round]]</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Dons de frappe ciblée</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="37%">Conditions</td>
+    <td WIDTH="40%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Science de la frappe ciblée]]</td>
+    <td><sup>AG</sup></td>
+    <td>[[Int]] 13, [[Expertise du combat]]</td>
+    <td>
+      Bonus de +2 au [[jet dattaque|jet d'attaque]] sur une frappe ciblée, faire une frappe ciblée parmi des
+      attaques multiples
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;[[Frappe ciblée supérieure]]</td>
+    <td><sup>AG</sup></td>
+    <td>[[Int]] 13, [[Expertise du combat]], [[Science de la frappe ciblée]], [[BBA]] +6</td>
+    <td>Remplacer une attaque par une frappe ciblée, plusieurs frappes ciblées par [[round]]</td>
+  </tr>
+</table>
 
 
 {s:Reference|REGLESADDITIONNELLES}

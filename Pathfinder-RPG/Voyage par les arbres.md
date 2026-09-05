@@ -21,7 +21,13 @@ Ce sort permet de pénétrer dans un arbre ou de se déplacer d’un arbre à un
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Espèce d’arbre</td><td>Portée du déplacement</td></tr><tr CLASS="premier"><td>Chêne, frêne, if</td><td>900 m</td></tr><tr CLASS="alt"><td>Orme, tilleul</td><td>600 m</td></tr><tr><td>| Autre arbre à feuilles caduques</td><td>450 m</td></tr><tr CLASS="alt"><td>Conifère</td><td>300 m</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Espèce d’arbre</td><td>Portée du déplacement</td></tr>
+  <tr CLASS="premier"><td>Chêne, frêne, if</td><td>900 m</td></tr>
+  <tr CLASS="alt"><td>Orme, tilleul</td><td>600 m</td></tr>
+  <tr><td>| Autre arbre à feuilles caduques</td><td>450 m</td></tr>
+  <tr CLASS="alt"><td>Conifère</td><td>300 m</td></tr>
+</table>
 
 </center>
 

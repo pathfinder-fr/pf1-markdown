@@ -104,7 +104,77 @@ Voici les options accessibles aux kobolds, d’autres races adaptées peuvent s�
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Aspect draconique]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]]</td><td>Résistance 5 à un type d'énergie ou +1 à l'armure naturelle si possède déjà le trait écailles de dragon</td></tr><tr><td>&emsp;[[Magie draconique]]</td><td><sup>CM</sup></td><td>[[Aspect draconique]], [[Kobold (race)|kobold]]</td><td>Gain de nouveaux pouvoirs magiques en fonction de l'héritage draconique choisi</td></tr><tr><td>&emsp;[[Plané draconique]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]], [[Aspect draconique]]</td><td>+2 aux jets de sauvegarde contre le sommeil et la paralysie, gagne une paire d'ailes pour planer</td></tr><tr><td>&emsp;[[Souffle draconique]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]], [[Aspect draconique]]</td><td>+2 aux jets de sauvegarde contre le sommeil et la paralysie, gain d'une attaque de souffle draconique</td></tr><tr><td>&emsp;&emsp;[[Modèle draconique]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]], [[Aspect draconique]], [[Plané draconique]], [[Souffle draconique]], niveau 10</td><td>+2 aux jets de sauvegarde contre le sommeil et la paralysie, améliore les attaques de souffle</td></tr><tr CLASS="premier"><td>[[Embusqueur kobold]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]], 4 rangs en [[Discrétion]]</td><td>Déplacements discrets à vitesse normale sans malus, course et charge discrète avec moins de pénalité</td></tr><tr CLASS="premier"><td>[[Groupe embusqué]]</td><td><sup>*ISR*</sup></td><td>[[BBA]] +1, [[kobold (race)|Kobold]]</td><td>Si le personnage et son allié peuvent agir lors du round de surprise, ils peuvent effectuer une action simple et de mouvement</td></tr><tr CLASS="premier"><td>[[Monte de slurk]]*</td><td><sup>CM</sup></td><td>[[Kobold (race)|Kobold]]</td><td>Le personnage peut monter un slurk</td></tr><tr CLASS="premier"><td>[[Queue de terreur]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]], BBA+1</td><td>Gain d'une attaque de queue, maniement des accessoires caudaux kobolds</td></tr><tr CLASS="premier"><td>[[Sniper kobold]]</td><td><sup>MR</sup></td><td>[[kobold (race)|Kobold]], 1 rang en Discrétion</td><td>La pénalité au test de Discrétion des tirs embusqués est diminuée de moitié</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Aspect draconique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]]</td>
+    <td>Résistance 5 à un type d'énergie ou +1 à l'armure naturelle si possède déjà le trait écailles de dragon</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Magie draconique]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Aspect draconique]], [[Kobold (race)|kobold]]</td>
+    <td>Gain de nouveaux pouvoirs magiques en fonction de l'héritage draconique choisi</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Plané draconique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]], [[Aspect draconique]]</td>
+    <td>+2 aux jets de sauvegarde contre le sommeil et la paralysie, gagne une paire d'ailes pour planer</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Souffle draconique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]], [[Aspect draconique]]</td>
+    <td>+2 aux jets de sauvegarde contre le sommeil et la paralysie, gain d'une attaque de souffle draconique</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Modèle draconique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]], [[Aspect draconique]], [[Plané draconique]], [[Souffle draconique]], niveau 10</td>
+    <td>+2 aux jets de sauvegarde contre le sommeil et la paralysie, améliore les attaques de souffle</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Embusqueur kobold]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]], 4 rangs en [[Discrétion]]</td>
+    <td>Déplacements discrets à vitesse normale sans malus, course et charge discrète avec moins de pénalité</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Groupe embusqué]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[BBA]] +1, [[kobold (race)|Kobold]]</td>
+    <td>
+      Si le personnage et son allié peuvent agir lors du round de surprise, ils peuvent effectuer une action simple
+      et de mouvement
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Monte de slurk]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[Kobold (race)|Kobold]]</td>
+    <td>Le personnage peut monter un slurk</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Queue de terreur]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]], BBA+1</td>
+    <td>Gain d'une attaque de queue, maniement des accessoires caudaux kobolds</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sniper kobold]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[kobold (race)|Kobold]], 1 rang en Discrétion</td>
+    <td>La pénalité au test de Discrétion des tirs embusqués est diminuée de moitié</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

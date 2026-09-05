@@ -11,7 +11,118 @@ Categories:
 {s:MenuClassesDePrestige}{s:cs}{s:Desambi|Cette classe de prestige a été modifiée dans l'<u>Adventurer's Guide</u>, sa traduction a donc été modifiée pour coller à sa plus récente itération.}{s:RSE}*Les chevaliers de la liberté forment une organisation militaire d’élite chargée de répandre les croyances idéologiques du pays tout en protégeant ses intérêts, à l’étranger comme au sein de ses frontières. Les chevaliers sont basés dans la ville portuaire d’Almas. Ils forment un vaste groupe très éclectique composé de soldats spécialement entraînés et se divisent en trois branches : les Gardes de la liberté qui veille à la sécurité du pays, les Missionnaires de la liberté qui étendent l’idéologie du Berceau de la liberté dans le monde par la diplomatie et les armes et, d’après les rumeurs, un groupe secret appelé les Espions de la liberté qui s’occupe de l’espionnage et d’autres activités similaires auprès des entités hostiles. De ces trois groupes, ce sont les Missionnaires de la liberté qui sont les plus connus en dehors du pays, surtout à travers leur force navale qui attaque les galères pour libérer les esclaves.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le Missionnaire de la liberté</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Faucon dacier#ENNEMIDESESCLAVAGISTES|Ennemi des esclavagistes]] +2, [[Faucon dacier#COEURDELIBERTE|cœur de liberté]], [[Faucon dacier#MARINETSURVIVANT|marin et survivant]]</td></tr><tr><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Faucon dacier#CHANCEDELAIGLE|Chance de l’aigle]] 1/jour</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Faucon dacier#DISCOURSHEROIQUE|Discours héroïque]], [[Faucon dacier#PIEGESNATURELS|pièges naturels]] 1</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Faucon dacier#LIENSDECAMARADERIE|Liens de camaraderie]] 1/jour, [[Faucon dacier#AIDESUPERIEURE|aide supérieure]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Faucon dacier#ENNEMIDESESCLAVAGISTES|Ennemi des esclavagistes]] +4, [[Faucon dacier#BENEDICTIONDETALMANDOR|bénédiction de l'avoral]], [[Faucon dacier#MANIPULATEURSUBTIL|manipulateur subtil]]</td></tr><tr><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Faucon dacier#BRISEURDECHAINES|Briseur de chaînes]], [[Faucon dacier#PIEGESNATURELS|pièges naturels]] 2, [[Faucon dacier#CHANCEDELAIGLE|chance de l’aigle]] 2/jour</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Faucon dacier#LIENSDECAMARADERIE|Liens de camaraderie]] 2/jour (rapide)</td></tr><tr><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Faucon dacier#FUREURDETALMANDOR|Fureur de l'avoral]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Faucon dacier#ENNEMIDESESCLAVAGISTES|Ennemi des esclavagistes]] +6, [[Faucon dacier#PIEGESNATURELS|pièges naturels]] 3</td></tr><tr><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Faucon dacier#LIENSDECAMARADERIE|Liens de camaraderie]] 3/jour (libre), [[Faucon dacier#CHANCEDELAIGLE|chance de l’aigle]] 3/jour</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le Missionnaire de la liberté</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#ENNEMIDESESCLAVAGISTES|Ennemi des esclavagistes]] +2, [[Faucon dacier#COEURDELIBERTE|cœur de
+      liberté]], [[Faucon dacier#MARINETSURVIVANT|marin et survivant]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Faucon dacier#CHANCEDELAIGLE|Chance de l’aigle]] 1/jour</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#DISCOURSHEROIQUE|Discours héroïque]], [[Faucon dacier#PIEGESNATURELS|pièges naturels]] 1
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#LIENSDECAMARADERIE|Liens de camaraderie]] 1/jour, [[Faucon dacier#AIDESUPERIEURE|aide
+      supérieure]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#ENNEMIDESESCLAVAGISTES|Ennemi des esclavagistes]] +4, [[Faucon
+      dacier#BENEDICTIONDETALMANDOR|bénédiction de l'avoral]], [[Faucon dacier#MANIPULATEURSUBTIL|manipulateur
+      subtil]]
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#BRISEURDECHAINES|Briseur de chaînes]], [[Faucon dacier#PIEGESNATURELS|pièges naturels]] 2,
+      [[Faucon dacier#CHANCEDELAIGLE|chance de l’aigle]] 2/jour
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Faucon dacier#LIENSDECAMARADERIE|Liens de camaraderie]] 2/jour (rapide)</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Faucon dacier#FUREURDETALMANDOR|Fureur de l'avoral]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#ENNEMIDESESCLAVAGISTES|Ennemi des esclavagistes]] +6, [[Faucon dacier#PIEGESNATURELS|pièges
+      naturels]] 3
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Faucon dacier#LIENSDECAMARADERIE|Liens de camaraderie]] 3/jour (libre), [[Faucon
+      dacier#CHANCEDELAIGLE|chance de l’aigle]] 3/jour
+    </td>
+  </tr>
+</table>
 
 
 **Dés de vie.** d10.

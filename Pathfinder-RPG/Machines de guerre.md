@@ -15,7 +15,58 @@ Categories:
 {s:reference|MACHINESDEGUERRE}
 <center>
 
-<table CLASS="tablo"><caption>Les machines de guerre</caption><tr CLASS="titre"><td>Machine de guerre</td><td>Prix</td><td>Dégâts</td><td>Critique</td><td>Facteur de portée</td><td>Serviteurs</td></tr><tr CLASS="premier"><td>[[Machines de guerre#BALISTE|Baliste]]</td><td>500 po</td><td>3d8</td><td>19-20</td><td>36 m</td><td>1</td></tr><tr CLASS="alt"><td>[[Machines de guerre#BELIER|Bélier]]</td><td>1&nbsp;000&nbsp;po</td><td>3d6*</td><td>—</td><td>—</td><td>10</td></tr><tr><td>[[Machines de guerre#CATAPULTELEGERE|Catapulte légère]]</td><td>550 po</td><td>4d6</td><td>—</td><td>45 m (30 m minimum)</td><td>2</td></tr><tr CLASS="alt"><td>[[Machines de guerre#CATAPULTE LOURDE|Catapulte lourde]]</td><td>800 po</td><td>6d6</td><td>—</td><td>60 m (30 m minimum)</td><td>4</td></tr><tr><td>[[Machines de guerre#TOURDESIEGE|Tour de siège]]</td><td>2&nbsp;000&nbsp;po</td><td>—</td><td>—</td><td>—</td><td>20</td></tr><tr><td COLSPAN="6" CLASS="note">(*) Se référer à la description pour ce qui est des règles spéciales.</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les machines de guerre</caption>
+  <tr CLASS="titre">
+    <td>Machine de guerre</td>
+    <td>Prix</td>
+    <td>Dégâts</td>
+    <td>Critique</td>
+    <td>Facteur de portée</td>
+    <td>Serviteurs</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Machines de guerre#BALISTE|Baliste]]</td>
+    <td>500 po</td>
+    <td>3d8</td>
+    <td>19-20</td>
+    <td>36 m</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Machines de guerre#BELIER|Bélier]]</td>
+    <td>1&nbsp;000&nbsp;po</td>
+    <td>3d6*</td>
+    <td>—</td>
+    <td>—</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>[[Machines de guerre#CATAPULTELEGERE|Catapulte légère]]</td>
+    <td>550 po</td>
+    <td>4d6</td>
+    <td>—</td>
+    <td>45 m (30 m minimum)</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Machines de guerre#CATAPULTE LOURDE|Catapulte lourde]]</td>
+    <td>800 po</td>
+    <td>6d6</td>
+    <td>—</td>
+    <td>60 m (30 m minimum)</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>[[Machines de guerre#TOURDESIEGE|Tour de siège]]</td>
+    <td>2&nbsp;000&nbsp;po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr><td COLSPAN="6" CLASS="note">(*) Se référer à la description pour ce qui est des règles spéciales.</td></tr>
+</table>
 
 </center></div></div>
 Ces armes et ces structures temporaires sont habituellement utilisées lors des sièges.
@@ -47,12 +98,27 @@ Un bélier à une taille de 9 m de long. Au combat, les créatures qui le manipu
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Modificateur d’attaque des catapultes</caption><tr CLASS="titre"><td>Conditions</td><td>Modificateur</td></tr><tr CLASS="premier"><td>Pas de ligne de mire avec la cible</td><td>–6</td></tr><tr CLASS="alt"><td>Tirs successifs (les serviteurs voient où se   
-sont écrasés les derniers projectiles)</td><td>+2 cumulatif par échec précédent  
- (+10 max)</td></tr><tr><td>Tirs successifs (les serviteurs ne voient   
+<table CLASS="tablo">
+  <caption>Modificateur d’attaque des catapultes</caption>
+  <tr CLASS="titre"><td>Conditions</td><td>Modificateur</td></tr>
+  <tr CLASS="premier"><td>Pas de ligne de mire avec la cible</td><td>–6</td></tr>
+  <tr CLASS="alt">
+    <td>Tirs successifs (les serviteurs voient où se   
+sont écrasés les derniers projectiles)</td>
+    <td>+2 cumulatif par échec précédent  
+ (+10 max)</td>
+  </tr>
+  <tr>
+    <td>
+      Tirs successifs (les serviteurs ne voient   
 pas où se sont écrasés les derniers   
-projectiles mais un guetteur les guide)</td><td>+1 cumulatif par échec précédent   
-(+5 max)</td></tr></table>
+projectiles mais un
+      guetteur les guide)
+    </td>
+    <td>+1 cumulatif par échec précédent   
+(+5 max)</td>
+  </tr>
+</table>
 
 </center>
 </div></div>

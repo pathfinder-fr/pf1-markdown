@@ -46,4 +46,57 @@ Le personnage aime détruire et ravager, et il sait comment porter des attaques 
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Destruction</td><td>Sous-domaine de la Catastrophe</td><td>Sous-domaine de la Haine</td><td>Sous-domaine de la Rage</td><td>Sous-domaine de la Torture</td></tr><tr CLASS="premier"><td>1er</td><td>*[[coup au but]]*</td><td>*idem*</td><td>*[[ordre assassin]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[fracassement]]*</td><td>*[[bourrasque]]*</td><td>*[[manteau de colère]]*</td><td>*[[force de taureau]]*</td><td>*[[frappe douloureuse]]*</td></tr><tr><td>3e</td><td>*[[rage]]*</td><td>*[[appel de la foudre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[blessure critique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[cri]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[symbole de douleur]]*</td></tr><tr><td>6e</td><td>*[[mise à mal]]*</td><td>*idem*</td><td>*idem*</td><td>*[[pleine lune]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[désintégration]]*</td><td>*[[contrôle du climat]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[tremblement de terre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[exigence]]*</td></tr><tr><td>9e</td><td>*[[implosion]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Destruction</td>
+    <td>Sous-domaine de la Catastrophe</td>
+    <td>Sous-domaine de la Haine</td>
+    <td>Sous-domaine de la Rage</td>
+    <td>Sous-domaine de la Torture</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[coup au but]]*</td>
+    <td>*idem*</td>
+    <td>*[[ordre assassin]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[fracassement]]*</td>
+    <td>*[[bourrasque]]*</td>
+    <td>*[[manteau de colère]]*</td>
+    <td>*[[force de taureau]]*</td>
+    <td>*[[frappe douloureuse]]*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[rage]]*</td>
+    <td>*[[appel de la foudre]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>4e</td><td>*[[blessure critique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>5e</td><td>*[[cri]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[symbole de douleur]]*</td></tr>
+  <tr><td>6e</td><td>*[[mise à mal]]*</td><td>*idem*</td><td>*idem*</td><td>*[[pleine lune]]*</td><td>*idem*</td></tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[désintégration]]*</td>
+    <td>*[[contrôle du climat]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[tremblement de terre]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[exigence]]*</td>
+  </tr>
+  <tr><td>9e</td><td>*[[implosion]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

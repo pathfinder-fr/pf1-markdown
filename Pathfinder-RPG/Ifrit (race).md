@@ -98,7 +98,68 @@ Voici les options accessibles aux ifrits, d’autres races adaptées peuvent s�
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Armes ardentes]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]]</td><td>Le personnage est plus résistant au feu et transmet sa chaleur à ses armes</td></tr><tr><td>&emsp;[[Flamme intérieure]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]], [[Armes ardentes]], niveau 7</td><td>La résistance au feu du personnage augmente et ses armes s'enflamment</td></tr><tr><td>&emsp;&emsp;[[Aura ardente]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]], [[Armes ardentes]], [[Flamme intérieure]], niveau 13</td><td>Le personnage dégage une aura brûlante</td></tr><tr CLASS="premier"><td>[[Feinte brûlante]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]], [[Expertise du combat]], [[Science de la feinte]].</td><td>Les feintes du personnage avec des armes de feu sont facilitées et brûlent</td></tr><tr CLASS="premier"><td>[[Flot des éléments]]</td><td><sup>*ISR*</sup></td><td>Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td></tr><tr CLASS="premier"><td>[[Frappe élémentaire]]</td><td><sup>*ISR*</sup></td><td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Inflige +1 dégât de l'énergie liée à la race du personnage</td></tr><tr CLASS="premier"><td>[[Saut élémentaire]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]], [[sylphe (race)|sylphe]], [[ondin (race)|ondin]] ou [[oréade (race)|oréade]], niveau 15</td><td>Le personnage peut se transporter sur le plan élémentaire avec lequel il possède une affinité</td></tr><tr CLASS="premier"><td>[[Vision à travers le feu]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]]</td><td>Le personnage voit à travers le feu et la fumée</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Armes ardentes]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ifrit (race)|Ifrit]]</td>
+    <td>Le personnage est plus résistant au feu et transmet sa chaleur à ses armes</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Flamme intérieure]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ifrit (race)|Ifrit]], [[Armes ardentes]], niveau 7</td>
+    <td>La résistance au feu du personnage augmente et ses armes s'enflamment</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Aura ardente]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ifrit (race)|Ifrit]], [[Armes ardentes]], [[Flamme intérieure]], niveau 13</td>
+    <td>Le personnage dégage une aura brûlante</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Feinte brûlante]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ifrit (race)|Ifrit]], [[Expertise du combat]], [[Science de la feinte]].</td>
+    <td>Les feintes du personnage avec des armes de feu sont facilitées et brûlent</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flot des éléments]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou
+      [[Sylphe (race)|sylphe]]
+    </td>
+    <td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe élémentaire]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td>
+    <td>Inflige +1 dégât de l'énergie liée à la race du personnage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Saut élémentaire]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[ifrit (race)|Ifrit]], [[sylphe (race)|sylphe]], [[ondin (race)|ondin]] ou [[oréade (race)|oréade]], niveau
+      15
+    </td>
+    <td>Le personnage peut se transporter sur le plan élémentaire avec lequel il possède une affinité</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vision à travers le feu]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[ifrit (race)|Ifrit]]</td>
+    <td>Le personnage voit à travers le feu et la fumée</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

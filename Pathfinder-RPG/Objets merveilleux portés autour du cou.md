@@ -13,4 +13,1333 @@ Tous les objets merveilleux décrits ci-dessous pèsent entre 0 g et 1 kg.
 
 {s:filtrable}
 
-<table CLASS="tablo centre autoalt toutgauche filtrable"><caption>Objets merveilleux portés autour du cou</caption><tr CLASS="titre"><td WIDTH="22%">Objet</td><td WIDTH= "3%">Source</td><td WIDTH="65%">Capacités</td><td WIDTH="10%">Prix de vente</td></tr><tr CLASS="premier"><td>[[les talismans#vents avantageux|Talisman de vents avantageux]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur fait une chute d’au moins 1,50m, confère les effets du sort *[[feuille morte]]* avant de disparaître.</td><td>50 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Vents Avantageux mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 500 po</td></tr><tr CLASS="premier"><td>[[les talismans#convocations sécurisées|Talisman de convocations sécurisées]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur subit une attaque naturelle d’une créature convoquée de l’alignement choisi à la fabrication, confère une *[[protection contre le Mal]], [[protection contre le Bien|le Bien]], [[protection contre le Chaos|le Chaos]] ou [[protection contre la Loi|la Loi]]* selon cet alignement.</td><td>450 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Convocations Sécurisées mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 4 500 po</td></tr><tr CLASS="premier"><td>[[les talismans#courage du guerrier|Talisman de courage du guerrier]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur doit être [[États préjudiciables#Effrayé|effrayé]] ou [[États préjudiciables#Paniqué|paniqué]], réduit cet état à [[États préjudiciables#Secoué|secoué]] avant de disparaître.</td><td>450 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Courage du Guerrier mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 4 500 po</td></tr><tr CLASS="premier"><td>[[les talismans#protection contre les projectiles|Talisman de protection contre les projectiles]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur subit 2 attaques à distance ou plus lors d’un seul round, confère les effets du sort *[[protection contre les projectiles]]* avant de disparaître.</td><td>600 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Protection Contre les Projectiles mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 6 000 po</td></tr><tr CLASS="premier"><td>[[les talismans#sens du danger|Talisman de sens du danger]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur détermine son initiative, confère les effets du sort *[[anticipation du danger]]* avant de disparaître.</td><td>750 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Sens du Danger mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 7 500 po</td></tr><tr CLASS="premier"><td>[[Main du mage]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer *[[manipulation à distance]]* à volonté.</td><td>900 po</td></tr><tr CLASS="premier"><td>[[les talismans#liberté|Talisman de liberté]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur doit être [[États préjudiciables#Agrippé|agrippé]], [[États préjudiciables#Enchevêtré|enchevêtré]] ou [[États préjudiciables#Paralysé|paralysé]], confère les effets du sort *[[liberté de mouvement]]* avant de disparaître.</td><td>900 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Liberté mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 9 000 po</td></tr><tr CLASS="premier"><td>[[Collier sanguinaire]]</td><td><sup>MCA</sup></td><td>Une fois par jour, peut conférer les effets du sort *[[agrandissement]]* à un animal à 9m ou moins du porteur pendant 1 minute.</td><td>1 000 po</td></tr><tr><td>&emsp; [[Collier Sanguinaire]] supérieur</td><td><sup>MCA</sup></td><td>Fonctionne comme le *Collier Sanguinaire*, mais confère les effets du sort *[[croissance animale]]* pendant 1 minute (à la place de ceux d’*[[agrandissement]]*).</td><td>| 14 000 po</td></tr><tr CLASS="premier"><td>[[Pendentif du scarabée de sang]]</td><td><sup>MPNJ</sup></td><td>Une fois par jour et au prix d'1d6 points de vie, permet de confirmer un [[coup critique|critique potentiel]] automatiquement.</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[les talismans#protection contre les flammes|Talisman de protection contre les flammes]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur subit 5 points de dégâts ou plus d’un type d’énergie choisi à la fabrication lors d’un seul round, confère les effets du sort *[[protection contre les énergies destructives]]* contre ce type d’énergie avant de disparaître.</td><td>1 250 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Protection Contre les Flammes mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 12 500 po</td></tr><tr CLASS="premier"><td>[[Broche de défense]]</td><td><sup>MJ, A&E</sup></td><td>Absorbe jusqu’à 101 points de dégâts occasionnés par le sort *[[projectile magique]]* avant de disparaître.</td><td>1 500 po</td></tr><tr CLASS="premier"><td>[[Effigie de guérison]]</td><td><sup>A&E</sup></td><td>Confère un bonus de résistance de +2 au premier [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] contre les effets continu. Lorsque les points de vie du porteur tombent en dessous de 0, soigne 2d8+3 points de vie avant de disparaître.</td><td>1 500 po</td></tr><tr CLASS="premier"><td>[[Amulette pare-balle]]</td><td><sup>A&E</sup></td><td>Confère un bonus de chance contre les armes à feu qui visent la CA au contact.</td><td>—</td></tr><tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>1 500 po</td></tr><tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 6 000 po</td></tr><tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 13 500 po</td></tr><tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 24 000 po</td></tr><tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 37 500 po</td></tr><tr CLASS="premier"><td>[[Amulette de jet de puanteur]]</td><td><sup>CM</sup></td><td>Un porteur doté de la capacité [[puanteur (capacité)|puanteur]] la perd et peut, une fois par heure, rendre [[fiévreux|fiévreuses]] les créatures dans un cône de 9 m et soumettre cette même zone à un effet de *[[graisse]]*.</td><td>1 600 po</td></tr><tr CLASS="premier"><td>[[Collier à boules de feu]]</td><td><sup>MJ, A&E</sup></td><td>N’occupe pas d’emplacement. Permet de lancer plusieurs sphères (comme avec *[[boule de feu]]*) à 21 m ou moins, infligeant un nombre différent de d6 selon le modèle du collier. Peut exploser s’il rate un [[valeurs de combat#JETDESAUVEGRDE|jet de sauvegarde]] contre un effet de feu.</td><td>—</td></tr><tr><td>&emsp; Modèle I</td><td><sup>MJ, A&E</sup></td><td>2 sphères à 3d6 et 1 sphère à 5d6.</td><td>1 650 po</td></tr><tr><td>&emsp; Modèle II</td><td><sup>MJ, A&E</sup></td><td>2 sphères à 2d6, 2 sphères à 4d6 et 1 sphère à 6d6.</td><td>| 2 700 po</td></tr><tr><td>&emsp; Modèle III</td><td><sup>MJ, A&E</sup></td><td>4 sphères à 3d6, 2 sphères à 5d6 et 1 sphère à 7d6.</td><td>| 4 350 po</td></tr><tr><td>&emsp; Modèle IV</td><td><sup>MJ, A&E</sup></td><td>4 sphères à 2d6, 2 sphères à 4d6, 2 sphères à 6d6 et 1 sphère à 8d6.</td><td>| 5 400 po</td></tr><tr><td>&emsp; Modèle V</td><td><sup>MJ, A&E</sup></td><td>2 sphères à 3d6, 2 sphères à 5d6, 2 sphères à 7d6 et 1 sphère à 9d6.</td><td>| 5 850 po</td></tr><tr><td>&emsp; Modèle VI</td><td><sup>MJ, A&E</sup></td><td>4 sphères à 4d6, 2 sphères à 6d6, 2 sphères à 8d6 et 1 sphère à 10d6.</td><td>| 8 100 po</td></tr><tr><td>&emsp; Modèle VII</td><td><sup>MJ, A&E</sup></td><td>2 sphères à 3d6, 2 sphères à 5d6, 2 sphères à 7d6, 2 sphères à 9d6 et 1 sphère à 10d6.</td><td>| 8 700 po</td></tr><tr CLASS="premier"><td>[[Talisman purificateur]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] contre la maladie et le poison. Une fois par jour, permet de lancer *[[purification de nourriture et deau|purification de nourriture et d'eau]]*.</td><td>1 800 po</td></tr><tr CLASS="premier"><td>[[les talismans#chance|Talisman de chance]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur fait un 1 naturel en lancant un d20, permet relancer le dé et conserver son second résultat avant de disparaître.</td><td>1 680 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Chance mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 16 800 po</td></tr><tr CLASS="premier"><td>[[Amulette darmure naturelle|Amulette d’armure naturelle]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus d’altération à l’armure naturelle.</td><td>—</td></tr><tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>2 000 po</td></tr><tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 8 000 po</td></tr><tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 18 000 po</td></tr><tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 32 000 po</td></tr><tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 50 000 po</td></tr><tr CLASS="premier"><td>[[Broche de caméléon racial]]</td><td><sup>MR</sup></td><td>Peut conférer à un porteur [[demi-elfe]] un bonus de circonstances de +20 aux tests de [[Déguisement]] pour paraître complètement elfe ou complètement humain.</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[les talismans#puissance curative|Talisman de puissance curative]] mineur</td><td><sup>AO</sup></td><td>Quand le total de points de vie du porteur passe en dessous de la moitié de son total maximum, rend 4d8+7 points de vie avant de disparaître.</td><td>2 400 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Puissance Curative mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 24 000 po</td></tr><tr CLASS="premier"><td>[[Araignée dairain|Araignée d’airain]]</td><td><sup>MCA</sup></td><td>Une fois par jour, permet d’utiliser la compétence [[Sabotage]] à 4,5 m sans malus. Peut être utilisée comme [[Outils de cambrioleur (objet)|outil de cambrioleur de qualité supérieure]] en permanence.</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Broche antigolems]]</td><td><sup>MJ, A&E</sup></td><td>Permet de détecter les golems à 18m ou moins à volonté. Les attaques à mains nues, naturelles ou d’armes ignore la [[RD]] des golems.</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Ambre de gaze]]</td><td><sup>D&M, *ISG*</sup></td><td>Une fois par jour, permet de lancer *[[soins légers]]*. Un suivant de [[Ghlaunder (technique)|Ghlaunder]] peut lancer *[[nuée grouillante]]* ([[Nuée daraignées|nuée d'araignées]] [[Archétypes#CREATUREEVOLUEE|évoluées]] ou [[nuée de moustiques]] [[Archétypes#CREATUREJEUNE|jeunes]]) une fois par jour.</td><td>2 700 po</td></tr><tr CLASS="premier"><td>[[Pendentif de grâce du héros]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de résistance de +2 aux jets de [[Volonté]]. Le porteur ne provoque pas d'[[AO|attaque d'opportunité]] lorsqu'il effectue un [[coup de grâce]].</td><td>2 800 po</td></tr><tr CLASS="premier"><td>[[Broche tueuse de nuées]]</td><td><sup>A&E</sup></td><td>Les attaques à mains nues, naturelles ou d’armes ignorent la [[RD]] des nuées. Immunise contre la capacité de distraction des nuées.</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Charme porte-bonheur]]</td><td><sup>RSE</sup></td><td>Une fois par jour, permet de relancer un test de [[Compétences|compétence]] ou de [[test de concentration|concentration]] après avoir pris connaissance de son échec ou de sa réussite.</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Pentacle à pointes dAsmodéus|Pentacle à pointes d'Asomdéus]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de parade de +1à la [[CA]]. Un suivant d'[[Asmodéus (technique)|Asmodéus]] peut lancer *[[charme-personne]]*, augmenter les [[DD]] de ses sorts renforcés par l'écriture de 1, et utiliser cet objet comme [[Symbole sacré (objet)|symbole sacré]].</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Pendentif azlant]]</td><td><sup>D&M</sup></td><td>Confère un bonus de compétence de +5 aux tests d'une [[Connaissances]] choisie à la fabrication. Un suivant d'Aroden peut bénéficier d'un bonus d'intuition de +10 à un test de compétence qu'il s'apprête à faire une fois par jour, et utiliser cet objet comme [[Symbole sacré (objet)|symbole sacré]].</td><td>3 100 po</td></tr><tr CLASS="premier"><td>[[Cristal blafard]]</td><td><sup>D&M, *ISG*</sup></td><td>Permet de boire l'eau croupie et de manger la nourriture avariée comme si elles étaient fraîches et saines. Un suivant d'[[Urgathoa (technique)|Urgathoa]] peut lancer *[[mise à mort]]* (sur une créature vivante ou morte-vivante) une fois par jour.</td><td>3 300 po</td></tr><tr CLASS="premier"><td>[[Pierre nocturne de chagrin]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de résistance de +1 aux jets de [[Volonté]] contre la terreur, et une [[Résistance (capacité)|résistance]] au feu 1. Un suivant de [[Dahak (technique)|Dahak]] de lancer *[[fracassement]]* une fois par jour, et être rapidement identifié par les dragons.</td><td>3 300 po</td></tr><tr CLASS="premier"><td>[[Vurra du créateur]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de +2 aux tests d'[[Artisanat]] (sculpture). Une fois par jour, permet de lancer *[[pierre magique]]* (fonctionne sur les rochers des géants). Un suivant de Minderhal peut lancer *[[sagesse du hibou]]* une fois par jour.</td><td>3 300 po</td></tr><tr CLASS="premier"><td>[[Médaille de cœur héroïque]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de sainteté de +4 aux [[jds|jets de sauvegarde]] pour supprimer les [[niveau négatif|niveaux négatifs]] temporaires. Le porteur peut détruire l'objet pour éviter de gagner 1 niveau négatif permanent.</td><td>3 400 po</td></tr><tr CLASS="premier"><td>[[Collerette dimitateur|Collerette d’imitateur]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +10 aux tests de [[Bluff]] pour imiter les voix. Une fois par jour, permet de lancer *[[ventriloquie]]* pendant 5 minutes.</td><td>3 500 po</td></tr><tr CLASS="premier"><td>[[Médaillon de protection spirituelle]]</td><td><sup>A&E</sup></td><td>Confère un bonus de résistance +2 aux jets de sauvegarde contre les effets mentaux. Permet de relancer un [[valeurs de combat#JETDESAUVEGRDE|jet de sauvegarde]] raté contre les sorts de *[[domination]]* et de *[[confusion]]*, si cette relance est réussit, ce médaillon disparaît.</td><td>3 500 po</td></tr><tr CLASS="premier"><td>[[les talismans#souffle de vie|Talisman de souffle de vie]] mineur</td><td><sup>AO</sup></td><td>Quand le porteur meurt, confère les effets du sort *[[souffle de vie]]* avant de disparaître.</td><td>3 500 po</td></tr><tr><td>&emsp; majeur</td><td><sup>AO</sup></td><td>Fonctionne comme le *Talisman de Souffle de Vie mineur*, mais peut conférer ses avantages une fois par jour.</td><td>| 35 000 po</td></tr><tr CLASS="premier"><td>[[Orbe du guide]]</td><td><sup>D&M, *ISG*</sup></td><td>Une fois par jour, permet de lancer *[[mains brûlantes]]* (dégâts d'électricité). Un suivant d'[[Apsu (technique)|Apsu]] peut lancer *[[splendeur de laigle|splendeur de l'aigle]]* une fois par jour, et manifester les effets d'un sort de *[[lumière]]* à volonté.</td><td>3 900 po</td></tr><tr CLASS="premier"><td>[[Amulette de conflit élémentaire]]</td><td><sup>A&E</sup></td><td>Lorsqu’un extérieur (élémentaire) est à 18m ou moins, émet la même lumière qu’une torche et confère un résistance de 5 contre un type d’énergie dépendant des extérieurs détectés contre les attaques de ces derniers. Les attaques ignorent la [[RD]] des extérieurs détectés.</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des poings vertueux]]</td><td><sup>A&E</sup></td><td>Permet d’attaquer à mains nues comme avec le don [[Science du combat à mains nues]] pour utiliser des pouvoirs divins de représailles (*[[châtiment sacré]]*, [[paladin#CHATIMENTDUMAL|châtiment du mal]] ou [[inquisiteur#JUGEMENT|jugement]] par exemple).</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des poings invincibles]]</td><td><sup>MJ, A&E</sup></td><td>Confèrent un bonus d’altération aux jets d’attaque et de dégâts et/ou une propriété spéciale aux attaques à mains nues et naturelles.</td><td>—</td></tr><tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +1.</td><td>4 000 po</td></tr><tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +2.</td><td>| 16 000 po</td></tr><tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +3.</td><td>| 36 000 po</td></tr><tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +4.</td><td>| 64 000 po</td></tr><tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +5.</td><td>| 100 000 po</td></tr><tr CLASS="premier"><td>[[Pépite de ShadGorum|Pépite de Shad'Gorum]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de résistance de +1 aux jets de [[Volonté]], et une [[Résistance (capacité)|résistance]] au feu 1. Un suivant de [[Gorum (technique)|Gorum]] peut lancer *[[métal gelé]]* une fois par jour, et réparer des petits objets métalliques (comme avec *[[réparation]]*) à volonté.</td><td>4 200 po</td></tr><tr CLASS="premier"><td>[[Stylet dard]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de compétence de +3 aux tests de [[Perception]]. Une fois par jour, permet de lancer *[[son imaginaire]]*. Un suivant de [[Calistria (technique)|Calistria]] peut lancer *[[ruse du renard]]* une fois par jour, et bénéficier d'un bonus de +1 au premier [[jet dattaque|jet d'attaque]] sur une créature contre laquelle il a promis de se venger pendant 1 minute.</td><td>4 500 po</td></tr><tr CLASS="premier"><td>[[Amulette de défense instinctive]]</td><td><sup>MCA</sup></td><td>Si le porteur possède l’[[roublard#ESQUIVEINSTINCTIVE|esquive instinctive]], confère l’[[roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] (s’il la possède déjà, on considère qu’il a 4 niveaux de classe en plus pour déterminer le nombre de niveaux de [[roublard]] qu’il faut pour lui porter des [[attaque sournoise|attaques sournoises]] en [[prise en tenaille|tenaille]]).</td><td>5 000 po</td></tr><tr CLASS="premier"><td>[[Pendentif du meilleur ami]]</td><td><sup>*UI*</sup></td><td>Une fois par jour et pendant un maximum de 48 heures, le porteur peut stocker un animal de taille P ou TP à l'intérieur.</td><td>5 000 po</td></tr><tr><td>&emsp;[[Pendentif du meilleur ami supérieur]]</td><td><sup>*UI*</sup></td><td>Peut également stocker un animal de taille M ou G, un élémentaire, une créature magique ou un extérieur de taille P ou TP.</td><td>| 9 000 po</td></tr><tr CLASS="premier"><td>[[Leurre à tempêtes]]</td><td><sup>A&E</sup></td><td>Une fois par jour, peut conférer 50 % de chance d’échecs aux attaques à distance qui ciblent le porteur tout en permettant à ce dernier d’infliger 4d6 points de dégâts d’électricité aux créatures adjacentes, pendant 1 minute.</td><td>5 400 po</td></tr><tr CLASS="premier"><td>[[Talisman de dévoration spirituelle]]</td><td><sup>*BD*</sup></td><td>Une fois par jour, permet de lancer *[[création de gemme spirituelle]]*. Le porteur peut ingérer la gemme créée pour libérer l'âme piégée et obtenir une [[Guérison accélérée (capacité)|guérison accélérée]] 2 pendant autant de rounds que le nombre de [[DV]] de l'âme libérée.</td><td>5 400 po</td></tr><tr CLASS="premier"><td>[[Collier de lenfant-fée|Collier de l’enfant-fée]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence aux tests de [[Charisme]] et de compétences basées sur le [[Charisme]] de +4 avec les gnomes, +2 avec les créatures féeriques, et un malus de -2 face à toutes les autres races. Le porteur obtient plusieurs traits raciaux des gnomes.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Torque du chant primal]]</td><td><sup>MCA</sup></td><td>Quand le porteur effectue ou profite d’un [[scalde#CHANTEDRAGE|chant de rage]], confère les effets du don [[Dur à cuire]] tant que le chant fait effet. Prolonge les effets des chants de rage et des [[représentation bardique|représentations bardiques]] favorables dont profite le porteur pendant 1 [[round]] après leur fin.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Chaîne de détention]]</td><td><sup>A&E</sup></td><td>Une fois par jour, peut [[États préjudiciables#Enchevêtré|enchevêtrer]] et empêcher de bouger une créature à 4,50m ou moins, pendant 10 minutes maximum.</td><td>7 200 po</td></tr><tr CLASS="premier"><td>[[Charme de bonne santé]]</td><td><sup>MJ, A&E</sup></td><td>Immunise contre les maladies naturelles et surnaturelles.</td><td>7 500 po</td></tr><tr CLASS="premier"><td>[[Amulette anti-sommeil]]</td><td><sup>A&E</sup></td><td>Le porteur peut faire des activités simples pendant son temps de repos. Ce pouvoir [[États préjudiciables#Épuisé|épuise]] le porteur tous les 7 nuits d’utilisation pendant 1 journée (ou 4 heures par nuit s’il retire l’amulette avant).</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de protection contre la pétrification]]</td><td><sup>A&E</sup></td><td>S’il rate un [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] contre un effet de pétrification, le porteur est seulement [[États préjudiciables#Chancelant|chancelant]] pendant 1d6 [[round|rounds]] (ou 1 minute si l’effet n’autorisait pas de [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]]).</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des esprits]]</td><td><sup>MCA</sup></td><td>Accorde des pouvoirs associés à un type d’[[esprits (Chaman)|esprit du chaman]] dépendant du modèle, mais rend le porteur vulnérable aux effets ciblant les créatures liées à ce type d’esprit. Si le porteur possède déjà le [[oracle#MYSTERE|mystère]] ou l’esprit associé, il n’obtient aucun nouveau pouvoir mais le niveau effectif des siens est augmenté de 2.</td><td>—</td></tr><tr><td>&emsp; Cieux</td><td><sup>MCA</sup></td><td>Tant qu’il voit un ciel nocturne en extérieur, le porteur peut déterminer sa position et ajoute son modificateur de [[Charisme]] à tous ses tests de Charisme et de compétence basés sur le Charisme. Permet de forcer une créature à considérer le degré de luminosité dans lequel elle se trouve comme inférieur de 2 niveaux (pendant 8 [[round|rounds]], [[DD]] 13).</td><td>8 000 po</td></tr><tr><td>&emsp; Vent</td><td><sup>MCA</sup></td><td>Une fois par jour, permet d’activer un [[Esprit du Vent#Sceau_de_vent_Sur_2|sceau de vent]] (20 % de chances de rater). Une fois par jour, permet d’infliger une [[Esprit du Vent#Aura_crépitante_Sur_0|aura crépitante]] à une créature à 9m ou moins du porteur (5 points de dégâts, pendant 4 [[round|rounds]]).</td><td>| 8 000 po</td></tr><tr><td>&emsp; Flammes</td><td><sup>MCA</sup></td><td>Deux fois par jour, permet d’activer un [[Esprit des Flammes#Sceau_de_flammes_Sur_4|sceau de flammes]] (1d6+4 points de dégâts, pendant 1 minute). Deux fois par jour, permet d’infliger une [[Esprit des Flammes#Malédiction_de_feu_Sur_1|malédiction de feu]] à une créature à 9m ou moins du porteur (jusqu’à la fin de son tour).</td><td>| 10 000 po</td></tr><tr><td>&emsp; Pierres</td><td><sup>MCA</sup></td><td>Une fois par jour, permet d’activer un [[Esprit des Pierres#Sceau_de_pierre_Sur_2|sceau de pierre]] (2 attaques, jusqu’à 1 minute). Une fois par jour, permet d’infliger une [[Esprit des Pierres#Malédiction_du_métal_Sur_1|malédiction du métal]] à une créature à 9m ou moins du porteur (malus de -4, pendant 2 [[round|rounds]]).</td><td>| 10 000 po</td></tr><tr><td>&emsp; Vagues</td><td><sup>MCA</sup></td><td>Une fois par jour, permet d’activer un [[Esprit des Vagues#Linceul_de_brume_Sur_1|linceul de brume]] (2 attaques, jusqu’à 1 minute). Une fois par jour, permet d’infliger un [[Esprit des Vagues#Appel_du_froid_Sur_0|appel du froid]] à une créature à 9m ou moins du porteur.</td><td>| 10 000 po</td></tr><tr><td>&emsp; Batailles</td><td><sup>MCA</sup></td><td>Une fois par jour, permet d’activer un [[Esprit des Batailles#Sceau_martial_Sur_4|sceau martial]] (bonus de départ à +3). Une fois par jour, permet d’infliger une [[Esprit des Batailles#Malédiction_de_souffrance_Sur_1|malédiction de souffrance]] à une créature à 9m ou moins du porteur (pendant 8 [[round|rounds]]).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Os</td><td><sup>MCA</sup></td><td>Une fois par jour, permet d’activer un [[Esprit des Os#Sceau_des_ossements_Sur_2|sceau des ossements]] (bonus de +2, pendant 8 [[round|rounds]]). Une fois par jour, permet d’infliger un [[Esprit des Os#Air_craintif_Sur_0|air craintif]] à une créature à 9m ou moins du porteur ([[effrayé]] pendant 1 [[round]], [[DD]] 13).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Vie</td><td><sup>MCA</sup></td><td>Le porteur récupère 1d6 ponts de vie supplémentaire à chaque fois qu’un sort de soin est lancé sur lui. Une fois par jour, permet d’infliger un [[Esprit de la Vie#Priver_de_secours_Sur_3|priver de secours]] à une créature à 9m ou moins du porteur (pendant 1 minute, [[DD]] 13).</td><td>| 12 000 po</td></tr><tr CLASS="premier"><td>[[Main miraculeuse]]</td><td><sup>A&E</sup></td><td>Confère un emplacement d’anneau supplémentaire. Une fois par jour, permet de lancer *[[détection de linvisibilité|détection de l’invisibilité]]* et *[[lumière du jour]]*.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Pendentif garde-tombes]]</td><td><sup>A&E</sup></td><td>Inflige un malus de -2 aux [[jet dattaque|jets d’attaque]] des morts-vivants qui visent le porteur (-4 pour les morts-vivants intangibles). Confère un bonus de circonstance de +4 aux tests de [[Perception]] des morts-vivants pour remarquer le porteur.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Torque de la furie du lion]]</td><td><sup>A&E</sup></td><td>Confère un bonus de moral de +2 aux jets de sauvegarde contre les effets de terreur. Un [[barbare]] de niveau 12 ou plus obtient le pouvoir de rage [[pouvoirs de rage#RAGESANSPEUR|rage sans peur]] (s’il le possédait déjà, il est immunisé à l’état [[États préjudiciables#Paniqué|paniqué]] tant qu’il est enragé, et récupère 1 [[round]] de [[barbare#RAGE|rage]] chaque fois qu’il devrait subir cet état).</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Torque de rage sanglante]]</td><td><sup>MCA</sup></td><td>Une fois par jour, peut conférer les effets du sort *[[rage]]* au porteur pendant 6 [[round|rounds]], après quoi il est [[fatigué]] pendant 12 rounds. Une fois par jour, un porteur qui possède la capacité [[barbare#RAGE|rage]] peut s’en accorder 3 rounds supplémentaires à la place.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Vestige béni]]</td><td><sup>*ISG*</sup></td><td>Si un morceau d'[[type Extérieur|extérieur]] avec un sous-type d'alignement est stocké dans l'objet pendant 24 heures, permet de lancer *[[détection du Bien]]/[[détection du Chaos|Chaos]]/[[détection de la Loi|Loi]]/[[détection du Mal|Mal]]* (un approprié) à volonté, de lancer *[[protection contre le Bien]]/[[protection contre le Chaos|Chaos]]/[[protection contre la Loi|Loi]]/[[protection contre le Mal|Mal]]* (un approprié) trois fois par jour, et de bénéficier de [[Canalisation alignée]] contre un sous-type d'alignement approprié.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de force soudaine]]</td><td><sup>A&E</sup></td><td>Une fois par jour, permet soit d’effectuer une attaque au corps à corps ou à distance par une [[action rapide]], soit de récupérer 2 points de [[moine#RESERVEDEKI|ki]] si le porteur en possède une réserve.</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de lumière cachée]]</td><td><sup>MR</sup></td><td>Peut émettre la même lumière qu’un [[Bâton éclairant (objet)|bâton éclairant]] à volonté, sauf que les créatures en dehors de la lumière ne la voit pas.</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de sombresire]]</td><td><sup>MR</sup></td><td>Confère un bonus d’intuition de +4 aux tests de [[Diplomatie]] pour influencer les Extérieurs Mauvais. Augmente la résistance au froid, à l’électricité ou au feu d’un porteur [[tieffelin (race)|tieffelin]] de 5.</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Amulette en dent de requin]]</td><td><sup>MR</sup></td><td>Permet au porteur de se battre sous l’eau sans subir de malus aux [[jet dattaque|jets d’attaque]] ni aux [[valeurs de combat#DEGATS|jets de dégâts]] (fonctionne également avec les armes à distance, mais impose un malus de -2 aux [[jet dattaque|jets d’attaque]] et réduit leur [[facteur de portée]] de moitié).</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Collier dadaptation|Collier d’adaptation]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer *[[bulle dair|bulle d’air]]* à volonté, immunisant contre les gaz/vapeurs toxiques et permettant de respirer dans l’eau et dans le vide.</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Écharpe des histoires glorieuses]]</td><td><sup>*ISR*</sup></td><td>Confère un bonus de compétence de +5 aux tests d'[[Intimidation]] et de [[Représentation]] (danse). Confère à un porteur qui possède un kapenia légitime un bonus de +5 aux tests de [[Connaissances]] (histoire) et lui permet de faire de tels tests sans formation.</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Amulette dastuce magique|Amulette d’astuce magique]]</td><td><sup>MJRA, A&E</sup></td><td>Tant qu’elle est l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]], permet de préparer 3 niveaux de sort supplémentaire par jour.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de bénédiction des Aînés]]</td><td><sup>*ISR*</sup></td><td>Un porteur [[gnome]] n'est pas considéré comme [[sous-type extraplanaire|extraplanaire]] au Premier Monde. Soigne 1 point de dégât létal et [[Blessures et mort#NONLETAL|non-létaux]] toutes les minutes, jusqu'à un maximum quotidien égal au nombre de [[DV]] du porteur. Confère un bonus aux [[jds|jets de sauvegarde]] contre l'Affadissement.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des lignages]]</td><td><sup>MCA</sup></td><td>Accorde des pouvoirs associés à un type de [[Lignages|lignage d’ensorceleur]] dépendant du modèle, mais rend le porteur vulnérable aux effets ciblant les créatures liées à ce type de lignage. Si le porteur possède déjà le [[ensorceleur#LIGNAGE|lignage]] associé, il n’obtient aucun nouveau pouvoir mais le niveau effectif des siens est augmenté de 2.</td><td>—</td></tr><tr><td>&emsp; Féerique</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Féerique#Pouvoirs_de_lignage_2|regard furtif]] (jusqu’à 9 [[round|rounds]] par jour) et de [[Lignage Féerique#Pouvoirs_de_lignage_2|toucher rieur]] (trois fois par jour).</td><td>10 000 po</td></tr><tr><td>&emsp; Voué à un grand destin</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Voué à un grand destin#Pouvoirs_de_lignage_1|destiné]] (+2 aux [[jds|jets de sauvegarde]] et à la [[CA]] pendant les [[round de surprise|rounds de surprise]] et quand il ne voit pas venir une attaque) et de [[Lignage Voué à un grand destin#Pouvoirs_de_lignage_1|accomplissement de la prophétie]] (une fois par jour).</td><td>| 10 000 po</td></tr><tr><td>&emsp; Abyssal</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Abyssal#Pouvoirs_de_lignage_1|résistances démoniaques]] (résistance de 5, +2 aux [[jds|jets de sauvegarde]] contre le poison) et de [[Lignage Abyssal#Pouvoirs_de_lignage_1|griffes]] (1d4 points de dégâts).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Céleste</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Céleste#Pouvoirs_de_lignage_1|résistances célestes]] (résistances de 5) et de [[Lignage Céleste#Pouvoirs_de_lignage_1|feu céleste]] (trois fois par jour, 1d4+4 points de dégâts/soins).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Draconique</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Draconique#Pouvoirs_de_lignage_1|résistances draconiques]] (résistance de 5, bonus d’amure naturelle de +1) et de [[Lignage Draconique#Pouvoirs_de_lignage_1|souffle]] (une fois par jour, 4d6 points de dégâts, [[DD]] 13).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Élémentaire</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Élémentaire#Pouvoirs_de_lignage_2|résistances élémentaires]] (résistance de 5) et de [[Lignage Élémentaire#Pouvoirs_de_lignage_2|explosion élémentaire]] (une fois par jour, 4d6 points de dégâts).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Infernal</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Infernal#Pouvoirs_de_lignage_1|résistances infernales]] (résistance de 5, +2 aux [[jds|jets de sauvegarde]] contre le poison) et de [[Lignage Infernal#Pouvoirs_de_lignage_1|toucher corrupteur]] (trois fois par jour, pendant 4 [[round|rounds]]).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Maudit</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Maudit#Pouvoirs_de_lignage_0|misérable endurance]] (+2 aux [[jds|jets de sauvegarde]] contre les effets de charme, de froid, de peur, de feu et de sommeil) et de [[Lignage Maudit#Pouvoirs_de_lignage_0|regard redouté]] (trois fois par jour, [[DD]] 18, pendant 4 [[round|rounds]]).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Mort-vivant</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Mort-vivant#Pouvoirs_de_lignage_1|bienfait de la mort]] (résistance de 5, [[RD]] 5/- contre les dégâts [[blessures et mort#NONLETAL|non létaux]]) et de [[Lignage Mort-vivant#Pouvoirs_de_lignage_1|toucher du tombeau]] (trois fois par jour, moins de 8 [[DV]], pendant 4 [[round|rounds]]).</td><td>| 12 000 po</td></tr><tr><td>&emsp; Aberrant</td><td><sup>MCA</sup></td><td>Confère les effets de [[Lignage Aberrant#Pouvoirs_de_lignage_1|long membres]] (1,50 m) et d’[[Lignage Aberrant#Pouvoirs_de_lignage_1|anatomie hors du commun]] (25 % de chances).</td><td>| 15 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des poings glacés]]</td><td><sup>A&E</sup></td><td>Peut conférer la propriété [[froid (propriété)|de froid]] aux attaques à mains nues et naturelles et leur donner les capacités du [[matériaux spéciaux#FERFROID|fer froid]], à volonté. Tant que ces effets sont actifs, les mains du sujet sont figées.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Collier du fidèle compagnon]]</td><td><sup>A&E</sup></td><td>Confère à un animal dénué d’intelligence un bonus d’altération de +2 à l’[[Intelligence]], lui permettant de comprendre une langue choisie à la fabrication. Au bout de 2 semaines de port, affecte un animal avec le sort *[[éveil]]* avant de disparaître. Au bout d’une semaine, affecte un non-animal avec le sort *[[débilité]]* tant qu’il le porte.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Médaillon des faux et vrais amis]]</td><td><sup>*ISR*</sup></td><td>Une fois par jour, peut désigner la dernière personne qui a menti au porteur et la dernière personne qui a agit en sa faveur. Confère à un porteur [[demi-elfe]] un bonus à la [[CA]], aux [[jds|jets de sauvegarde]] et aux tests de [[Psychologie]] contre ses alliés, ceux qui prétendent l'être et ceux qui l'ont trahit récemment.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Pierres à message]]</td><td><sup>RSE</sup></td><td>Fabriquées par paire, le porteur de l'une peut communiquer avec le porteur de l'autre tant qu'elles sont à moins de 5 km de distance.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Symbole sacré doré]]</td><td><sup>CMy</sup></td><td>Lorsqu'il sert de focalisateur divin pour un [[Magie divine|sort divin]], rend au porteur un nombre de points de vie égal au niveau du sort lancé. Au prix d'une utilisation de [[pouvoir mythique]] et dans la situation citée, rend des points de vie au porteur et à ses alliés pendant un nombre de [[round|rounds]] égal au [[grade]] de ce dernier.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de vie canalisée]]</td><td><sup>MR</sup></td><td>Lorsqu’il est la cible de soins prodigués par de l’énergie positive, un porteur vivant avec le trait racial [[dhampir (race)#AFFINITEAVECLENERGIENEGATIVE|affinité avec l’énergie négative]] en récupère tout de même la moitié du montant sous forme de points de vie temporaires pendant 10 minutes.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Charme de protection contre les malédictions]]</td><td><sup>A&E</sup></td><td>Trois fois par jour, permet de relancer un [[valeurs de combat#JETDESAUVEGRDE|jet de sauvegarde]] (avant de connaître son résultat) contre une malédiction, et de conserver le résultat de cette relance même s’il est moins bon.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Cristal des mains guérisseuses]]</td><td><sup>A&E</sup></td><td>Peut stocker les effets d’une [[paladin#IMPOSITIONDESMAINS|imposition des mains]] dont le porteur peut bénéficier par une [[action simple]].</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Gorgerin de protection]]</td><td><sup>A&E</sup></td><td>Confère un bonus d’armure de +2 à la [[CA]] (non cumulable avec un autre bonus d’armure) et la propriété de [[défense légère (propriété)|défense légère]]. Peut stocker les effets d’un *[[glyphe de garde]]* dont le porteur peut bénéficier par une [[action immédiate]] lorsqu’il est touché par une attaque au corps à corps.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Médaillon des pensées]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[détection des pensées]]* en permanence.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Pendentif dinsoumission|Pendentif d’insoumission]]</td><td><sup>AO</sup></td><td>Permet au porteur de s’infliger un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 2 à ses valeurs de caractéristiques mentales pour effectuer une [[action simple]] alors qu’il est [[États préjudiciables#Hébété|hébété]], [[États préjudiciables#Nauséeux|nauséeux]], [[États préjudiciables#Paralysé|paralysé]] ou [[États préjudiciables#Étourdi|étourdi]] par un effet mental. Immunise contre le sommeil provoqué par les effets mentaux.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des poings ardents]]</td><td><sup>A&E</sup></td><td>Peut conférer la propriété [[feu (propriété)|de feu]] aux attaques à mains nues et naturelles et leur donner les capacités de l’[[matériaux spéciaux#ADAMANTIUM|adamantium]], à volonté. Tant que ces effets sont actifs, les mains du sujet sont figées.</td><td>13 000 po</td></tr><tr CLASS="premier"><td>[[Broche de bois-vorace]]</td><td><sup>MCA</sup></td><td>Un porteur qui possède la capacité [[druide#DEPLACEMENTFACILITE|déplacement facilité]] bénéficie des effets de [[rôdeur#CAMOUFLAGE|camouflage]] du rôdeur tant qu’il évolue en forêt (s’il possède un [[druide#PACTEAVECLANATURE|compagnon animal]] qui profite de son déplacement facilité, ce dernier profite aussi du camouflage).</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de persuasion des morts-vivants]]</td><td><sup>*ISR*</sup></td><td>Une fois par jour, peut produire de quoi nourrir un [[type Mort-vivant|mort-vivant]] pendant 24 heures. Un porteur [[Dhampir (race)|dhampir]] est plus influent contre le mort-vivant affecté. Une fois par jour, un porteur dhampir peut utiliser *[[contrôle mineur des morts-vivants]]* une fois par jour sur le mort-vivant affecté.</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des Abysses]]</td><td><sup>*BD*</sup></td><td>Fonctionne comme un [[symbole sacré (objet)|symbole impie]] du seigneur démon lié à l'objet. Fonctionne comme un *[[phylactère du croyant]]* pour un suivant de ce dernier, et lui permet de lancer les trois [[Pouvoirs magiques (capacité)|pouvoirs magiques]] offerts par la première faveur d'exalté de ce serigneur démon une fois par jour. Un porteur Bon ou Loyal acquiert 2 [[niveau négatif|niveaux négatifs]].</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Charme de coagulation]]</td><td><sup>MJ, A&E</sup></td><td>Stabilise automatiquement le porteur lorsque son total de points de vie est négatif. Double la guérison naturelle. Immunise contre les effets de saignement qui n’inflige pas d’[[affaiblissement temporaire (capacité)|affaiblissements temporaires]] ou permanents.</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Collier de sérénité]]</td><td><sup>MJRA, A&E</sup></td><td>Le porteur voit son niveau effectif augmenter de 4 pour déterminer sa [[moine#RESERVEDEKI|réserve de ki]] et les effets basés sur les pouvoirs qui en découlent.</td><td>16 000 po</td></tr><tr CLASS="premier"><td>[[Étrangleur ophidien]]</td><td><sup>CM</sup></td><td>Enfilé à une créature [[sans défense]], une créature disposant du mot de commande peut imposer une *[[quête]]* au porteur, et soumet ce dernier à une *[[suffocation]]* s'il ne tente pas de l'accomplir.</td><td>16 000 po</td></tr><tr CLASS="premier"><td>[[Broche détincelles ambrées|Broche d’étincelles ambrées]]</td><td><sup>A&E</sup></td><td>Chaque fois que le porteur subit des dégâts d’électricité, en absorbe jusqu’à 20 points (pour un maximum de 50 points stockés). Permet de lancer *[[décharge électrique]]* (1d6 par tranche de 5 points stockés), à volonté.</td><td>16 800 po</td></tr><tr CLASS="premier"><td>[[Symbole de protection sanguine]]</td><td><sup>A&E</sup></td><td>Une fois par jour après 24 heures de port, permet de s’infliger 1d6 points de dégâts pour créer une dose d’[[Eau bénite (objet)|eau bénite]]. Les morts-vivants qui utilise [[absorption de sang (capacité)|absorption de sang]] sur le porteur subissent des dégâts et n’en tirent aucun avantage.</td><td>17 500 po</td></tr><tr CLASS="premier"><td>[[Corde de potence]]</td><td><sup>CMy</sup></td><td>Lorsqu'il est réduit à 0 [[pv]], confère au porteur une [[RD]] 10/— et une [[guérison accélérée (capacité)|guérison accélérée 5]] tant qu'il est [[inconscient]] (il apparaît comme mort jusqu'à ce qu'il reprenne conscience). Si une perte de point de vie devrait le tuer, le porteur peut dépenser des utilisations de [[pouvoir mythique]] pour récupérer 10 pv par utilisation dépensée.</td><td>18 000 po</td></tr><tr CLASS="premier"><td>[[Amulette dopposition aux dragons|Amulette d’opposition aux dragons]]</td><td><sup>A&E</sup></td><td>Les attaques ignorent la [[RD]] des dragons. Permet de lancer 2 jets et de conserver le meilleur résultat pour surpasser la [[résistance à la magie (capacité)|RM]] des dragons. Un jet de [[Réflexes]] réussit contre un souffle de dragon annule les dégâts de ce dernier.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des arts magiques]]</td><td><sup>MJRA, A&E</sup></td><td>Tant qu’elle est l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]] universaliste, permet de choisir une [[magicien#ECOLEDEMAGIE|école de magie]] dont il pourra convertir ses sorts préparés en d’autres sorts de cette école.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Ampoule de sang factice]]</td><td><sup>A&E</sup></td><td>Après 24 heures de port, un porteur possédant les pouvoirs d’un lignage d’ensorceleur les perds et gagnent ceux d’un autre lignage d’ensorceleur choisi à la fabrication. Un même porteur peut détruire l’ampoule pour échanger son lignage d’ensorceleur avec celui de l’ampoule de façon permanente.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Charme de contrôle daluum|Charme de contrôle d'aluum]]</td><td><sup>CCMI</sup></td><td>Permet de contrôler un [[aluum]] précis comme avec *[[charme-personne]]* à volonté, et peut permettre de contrôler d'autres aluum.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Amulette de maîtrise magique]]</td><td><sup>A&E</sup></td><td>Tant qu’elle est l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]], permet de préparer 6 niveaux de sort supplémentaire par jour.</td><td>22 000 po</td></tr><tr CLASS="premier"><td>[[Main de pierre]]</td><td><sup>A&E</sup></td><td>Peut conférer la [[perception des vibrations (capacité)|perception des vibrations]] (9m) sur les créatures et les objets en contact avec la terre ou la pierre pendant 1 [[round]], à volonté.</td><td>27 000 po</td></tr><tr CLASS="premier"><td>[[Charme antipoison]]</td><td><sup>MJ, A&E</sup></td><td>Immunise contre les poisons (sauf ceux déjà actifs avant le port).</td><td>27 000 po</td></tr><tr CLASS="premier"><td>[[Amulette dantidétection|Amulette d’antidétection]]</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[antidétection]]* (DD 19) en permanence.</td><td>35 000 po</td></tr><tr CLASS="premier"><td>[[Collier des frappes spectrales]]</td><td><sup>CMy</sup></td><td>Sur un porteur intelligent ([[Int]] 3+), confère un bonus de +1 aux [[jet dattaque|jets d'attaque]] et [[Valeurs de combat#DEGATS|de dégâts]] ainsi que la propriété *[[spectrale (propriété)|spectrale]]* aux attaques à mains nues. Au prix d'un [[Moine#RESERVEDEKI|point de ki]], permet de porter une attaque à mains nues par une attaque de [[Intangible (capacité)|contact intangible]]. Au prix d'une utilisation de [[pouvoir mythique]], permet de devenir [[intangible]] pendant 1 [[round]].</td><td>35 500 po</td></tr><tr CLASS="premier"><td>[[Scarabée de protection]]</td><td><sup>MJ, A&E</sup></td><td>Confère une [[résistance à la magie (capacité)|résistance à la magie]] de 20. Peut absorber jusqu’à 12 attaques de mort, capacités liés à l’énergie négative ou effets similaires à *[[absorption dénergie|absorption d’énergie]]* avant de disparaître.</td><td>38 000 po</td></tr><tr CLASS="premier"><td>[[Collier détoiles enchevêtrées|Collier d’étoiles enchevêtrées]]</td><td><sup>A&E</sup></td><td>Permet de lancer *[[lumières dansantes]]* à volonté et *[[poussière détoile|poussière d’étoile]]* une fois par jour. Sept fois par jour, permet de se remémorer un sort du niveau 0 ou 1 précédemment lancé. Une fois par jour, permet de contrer un sort (comme avec *[[dissipation de la magie]]*) avec un bonus de 12 + utilisations restantes du pouvoir précédent, si le contresort est une réussite, permet d’utiliser le pouvoir précédent avec pour limite le niveau du sort contré. Ce dernier pouvoir épuise toutes les utilisations restantes du pouvoir précédent et ne peut être utilisé s’il n’en reste déjà plus.</td><td>42 000 po</td></tr><tr CLASS="premier"><td>[[Collier de fer du sabbat déchaîné]]</td><td><sup>MCA</sup></td><td>Une [[sorcière]] qui possède le maléfice [[maléfices#Cercle|cercle]] obtient trois pouvoirs la rapprochant des guenaudes.</td><td>46 000 po</td></tr><tr CLASS="premier"><td>[[Fermoir dagent|Fermoir d'agent]]</td><td><sup>*ISR*</sup></td><td>Fournis par paire associée. Le fermoir d'agent fournis les informations d'un *[[rapport]]* constant au fermoir d'administrateur. Les porteurs peuvent [[communication à distance|communiquer à distance]] à volonté, le message étant stocké dans le fermoir receveur s'il n'est pas porté au moment de la communication.</td><td>60 000 po</td></tr><tr CLASS="premier"><td>[[Torque de langage universel]]</td><td><sup>CMy</sup></td><td>Le porteur peut communiquer (comprendre et parler) à toute créature parlant au moins une langue. Au [[grade|grade mythique]] 3 ce pouvoir s'étant aux animaux, et au grade 6 il s'étend aux plantes.</td><td>60 000 po</td></tr><tr CLASS="premier"><td>[[Tête réduite]]</td><td><sup>AO</sup></td><td>Peut être tenu en main (n’occupant aucun emplacement). Une fois par jour, peut absorber un sort de niveau 5 ou moins qui cible le porteur. Pendant 1 [[round]] par niveau du sort absorbé, peut lancer *[[énergie négative]]* (infligeant 1 [[absorption dénergie (capacité)|niveau négatif]] par niveau du sort absorbé). Peut être utilisée comme focalisateur d’un sort de terreur pour augmenter son DD de 1.</td><td>90 000 po</td></tr><tr CLASS="premier"><td>[[Amulette des plans]]</td><td><sup>MJ, A&E</sup></td><td>Permet de lancer *[[changement de plan]]* à volonté, mais nécessite un test d’[[Intelligence]] DD 15 sinon, il y a 2 chances sur 5 pour qu’elle envoi les cibles sur un plan aléatoire.</td><td>120 000 po</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche filtrable">
+  <caption>Objets merveilleux portés autour du cou</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Objet</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="65%">Capacités</td>
+    <td WIDTH="10%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#vents avantageux|Talisman de vents avantageux]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur fait une chute d’au moins 1,50m, confère les effets du sort *[[feuille morte]]* avant de
+      disparaître.
+    </td>
+    <td>50 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Vents Avantageux mineur*, mais peut conférer ses avantages une fois par jour.
+    </td>
+    <td>| 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#convocations sécurisées|Talisman de convocations sécurisées]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur subit une attaque naturelle d’une créature convoquée de l’alignement choisi à la fabrication,
+      confère une *[[protection contre le Mal]], [[protection contre le Bien|le Bien]], [[protection contre le
+      Chaos|le Chaos]] ou [[protection contre la Loi|la Loi]]* selon cet alignement.
+    </td>
+    <td>450 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Convocations Sécurisées mineur*, mais peut conférer ses avantages une fois
+      par jour.
+    </td>
+    <td>| 4 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#courage du guerrier|Talisman de courage du guerrier]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur doit être [[États préjudiciables#Effrayé|effrayé]] ou [[États
+      préjudiciables#Paniqué|paniqué]], réduit cet état à [[États préjudiciables#Secoué|secoué]] avant de
+      disparaître.
+    </td>
+    <td>450 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Courage du Guerrier mineur*, mais peut conférer ses avantages une fois par
+      jour.
+    </td>
+    <td>| 4 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#protection contre les projectiles|Talisman de protection contre les projectiles]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur subit 2 attaques à distance ou plus lors d’un seul round, confère les effets du sort
+      *[[protection contre les projectiles]]* avant de disparaître.
+    </td>
+    <td>600 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Protection Contre les Projectiles mineur*, mais peut conférer ses avantages
+      une fois par jour.
+    </td>
+    <td>| 6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#sens du danger|Talisman de sens du danger]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur détermine son initiative, confère les effets du sort *[[anticipation du danger]]* avant de
+      disparaître.
+    </td>
+    <td>750 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Sens du Danger mineur*, mais peut conférer ses avantages une fois par jour.
+    </td>
+    <td>| 7 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Main du mage]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Permet de lancer *[[manipulation à distance]]* à volonté.</td>
+    <td>900 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#liberté|Talisman de liberté]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur doit être [[États préjudiciables#Agrippé|agrippé]], [[États
+      préjudiciables#Enchevêtré|enchevêtré]] ou [[États préjudiciables#Paralysé|paralysé]], confère les effets du
+      sort *[[liberté de mouvement]]* avant de disparaître.
+    </td>
+    <td>900 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>Fonctionne comme le *Talisman de Liberté mineur*, mais peut conférer ses avantages une fois par jour.</td>
+    <td>| 9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier sanguinaire]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, peut conférer les effets du sort *[[agrandissement]]* à un animal à 9m ou moins du porteur
+      pendant 1 minute.
+    </td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Collier Sanguinaire]] supérieur</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Fonctionne comme le *Collier Sanguinaire*, mais confère les effets du sort *[[croissance animale]]* pendant 1
+      minute (à la place de ceux d’*[[agrandissement]]*).
+    </td>
+    <td>| 14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pendentif du scarabée de sang]]</td>
+    <td><sup>MPNJ</sup></td>
+    <td>
+      Une fois par jour et au prix d'1d6 points de vie, permet de confirmer un [[coup critique|critique potentiel]]
+      automatiquement.
+    </td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#protection contre les flammes|Talisman de protection contre les flammes]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur subit 5 points de dégâts ou plus d’un type d’énergie choisi à la fabrication lors d’un seul
+      round, confère les effets du sort *[[protection contre les énergies destructives]]* contre ce type d’énergie
+      avant de disparaître.
+    </td>
+    <td>1 250 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Protection Contre les Flammes mineur*, mais peut conférer ses avantages une
+      fois par jour.
+    </td>
+    <td>| 12 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Broche de défense]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Absorbe jusqu’à 101 points de dégâts occasionnés par le sort *[[projectile magique]]* avant de disparaître.</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Effigie de guérison]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de résistance de +2 au premier [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] contre
+      les effets continu. Lorsque les points de vie du porteur tombent en dessous de 0, soigne 2d8+3 points de vie
+      avant de disparaître.
+    </td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette pare-balle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Confère un bonus de chance contre les armes à feu qui visent la CA au contact.</td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>1 500 po</td></tr>
+  <tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 6 000 po</td></tr>
+  <tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 13 500 po</td></tr>
+  <tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 24 000 po</td></tr>
+  <tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 37 500 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de jet de puanteur]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Un porteur doté de la capacité [[puanteur (capacité)|puanteur]] la perd et peut, une fois par heure, rendre
+      [[fiévreux|fiévreuses]] les créatures dans un cône de 9 m et soumettre cette même zone à un effet de
+      *[[graisse]]*.
+    </td>
+    <td>1 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier à boules de feu]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      N’occupe pas d’emplacement. Permet de lancer plusieurs sphères (comme avec *[[boule de feu]]*) à 21 m ou
+      moins, infligeant un nombre différent de d6 selon le modèle du collier. Peut exploser s’il rate un [[valeurs
+      de combat#JETDESAUVEGRDE|jet de sauvegarde]] contre un effet de feu.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle I</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>2 sphères à 3d6 et 1 sphère à 5d6.</td>
+    <td>1 650 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle II</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>2 sphères à 2d6, 2 sphères à 4d6 et 1 sphère à 6d6.</td>
+    <td>| 2 700 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle III</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>4 sphères à 3d6, 2 sphères à 5d6 et 1 sphère à 7d6.</td>
+    <td>| 4 350 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle IV</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>4 sphères à 2d6, 2 sphères à 4d6, 2 sphères à 6d6 et 1 sphère à 8d6.</td>
+    <td>| 5 400 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle V</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>2 sphères à 3d6, 2 sphères à 5d6, 2 sphères à 7d6 et 1 sphère à 9d6.</td>
+    <td>| 5 850 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle VI</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>4 sphères à 4d6, 2 sphères à 6d6, 2 sphères à 8d6 et 1 sphère à 10d6.</td>
+    <td>| 8 100 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Modèle VII</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>2 sphères à 3d6, 2 sphères à 5d6, 2 sphères à 7d6, 2 sphères à 9d6 et 1 sphère à 10d6.</td>
+    <td>| 8 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Talisman purificateur]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] contre la maladie et le poison. Une fois
+      par jour, permet de lancer *[[purification de nourriture et deau|purification de nourriture et d'eau]]*.
+    </td>
+    <td>1 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#chance|Talisman de chance]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le porteur fait un 1 naturel en lancant un d20, permet relancer le dé et conserver son second résultat
+      avant de disparaître.
+    </td>
+    <td>1 680 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>Fonctionne comme le *Talisman de Chance mineur*, mais peut conférer ses avantages une fois par jour.</td>
+    <td>| 16 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette darmure naturelle|Amulette d’armure naturelle]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère un bonus d’altération à l’armure naturelle.</td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>2 000 po</td></tr>
+  <tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 8 000 po</td></tr>
+  <tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 18 000 po</td></tr>
+  <tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 32 000 po</td></tr>
+  <tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 50 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Broche de caméléon racial]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Peut conférer à un porteur [[demi-elfe]] un bonus de circonstances de +20 aux tests de [[Déguisement]] pour
+      paraître complètement elfe ou complètement humain.
+    </td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#puissance curative|Talisman de puissance curative]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Quand le total de points de vie du porteur passe en dessous de la moitié de son total maximum, rend 4d8+7
+      points de vie avant de disparaître.
+    </td>
+    <td>2 400 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Puissance Curative mineur*, mais peut conférer ses avantages une fois par
+      jour.
+    </td>
+    <td>| 24 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Araignée dairain|Araignée d’airain]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, permet d’utiliser la compétence [[Sabotage]] à 4,5 m sans malus. Peut être utilisée comme
+      [[Outils de cambrioleur (objet)|outil de cambrioleur de qualité supérieure]] en permanence.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Broche antigolems]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Permet de détecter les golems à 18m ou moins à volonté. Les attaques à mains nues, naturelles ou d’armes
+      ignore la [[RD]] des golems.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ambre de gaze]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[soins légers]]*. Un suivant de [[Ghlaunder (technique)|Ghlaunder]] peut
+      lancer *[[nuée grouillante]]* ([[Nuée daraignées|nuée d'araignées]] [[Archétypes#CREATUREEVOLUEE|évoluées]] ou
+      [[nuée de moustiques]] [[Archétypes#CREATUREJEUNE|jeunes]]) une fois par jour.
+    </td>
+    <td>2 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pendentif de grâce du héros]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de résistance de +2 aux jets de [[Volonté]]. Le porteur ne provoque pas d'[[AO|attaque
+      d'opportunité]] lorsqu'il effectue un [[coup de grâce]].
+    </td>
+    <td>2 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Broche tueuse de nuées]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Les attaques à mains nues, naturelles ou d’armes ignorent la [[RD]] des nuées. Immunise contre la capacité de
+      distraction des nuées.
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme porte-bonheur]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Une fois par jour, permet de relancer un test de [[Compétences|compétence]] ou de [[test de
+      concentration|concentration]] après avoir pris connaissance de son échec ou de sa réussite.
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pentacle à pointes dAsmodéus|Pentacle à pointes d'Asomdéus]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de parade de +1à la [[CA]]. Un suivant d'[[Asmodéus (technique)|Asmodéus]] peut lancer
+      *[[charme-personne]]*, augmenter les [[DD]] de ses sorts renforcés par l'écriture de 1, et utiliser cet objet
+      comme [[Symbole sacré (objet)|symbole sacré]].
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pendentif azlant]]</td>
+    <td><sup>D&M</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests d'une [[Connaissances]] choisie à la fabrication. Un suivant
+      d'Aroden peut bénéficier d'un bonus d'intuition de +10 à un test de compétence qu'il s'apprête à faire une
+      fois par jour, et utiliser cet objet comme [[Symbole sacré (objet)|symbole sacré]].
+    </td>
+    <td>3 100 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cristal blafard]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Permet de boire l'eau croupie et de manger la nourriture avariée comme si elles étaient fraîches et saines. Un
+      suivant d'[[Urgathoa (technique)|Urgathoa]] peut lancer *[[mise à mort]]* (sur une créature vivante ou
+      morte-vivante) une fois par jour.
+    </td>
+    <td>3 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pierre nocturne de chagrin]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de résistance de +1 aux jets de [[Volonté]] contre la terreur, et une [[Résistance
+      (capacité)|résistance]] au feu 1. Un suivant de [[Dahak (technique)|Dahak]] de lancer *[[fracassement]]* une
+      fois par jour, et être rapidement identifié par les dragons.
+    </td>
+    <td>3 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vurra du créateur]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de +2 aux tests d'[[Artisanat]] (sculpture). Une fois par jour, permet de lancer *[[pierre
+      magique]]* (fonctionne sur les rochers des géants). Un suivant de Minderhal peut lancer *[[sagesse du hibou]]*
+      une fois par jour.
+    </td>
+    <td>3 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Médaille de cœur héroïque]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de sainteté de +4 aux [[jds|jets de sauvegarde]] pour supprimer les [[niveau négatif|niveaux
+      négatifs]] temporaires. Le porteur peut détruire l'objet pour éviter de gagner 1 niveau négatif permanent.
+    </td>
+    <td>3 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collerette dimitateur|Collerette d’imitateur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +10 aux tests de [[Bluff]] pour imiter les voix. Une fois par jour, permet de lancer
+      *[[ventriloquie]]* pendant 5 minutes.
+    </td>
+    <td>3 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Médaillon de protection spirituelle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de résistance +2 aux jets de sauvegarde contre les effets mentaux. Permet de relancer un
+      [[valeurs de combat#JETDESAUVEGRDE|jet de sauvegarde]] raté contre les sorts de *[[domination]]* et de
+      *[[confusion]]*, si cette relance est réussit, ce médaillon disparaît.
+    </td>
+    <td>3 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[les talismans#souffle de vie|Talisman de souffle de vie]] mineur</td>
+    <td><sup>AO</sup></td>
+    <td>Quand le porteur meurt, confère les effets du sort *[[souffle de vie]]* avant de disparaître.</td>
+    <td>3 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; majeur</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Fonctionne comme le *Talisman de Souffle de Vie mineur*, mais peut conférer ses avantages une fois par jour.
+    </td>
+    <td>| 35 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Orbe du guide]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[mains brûlantes]]* (dégâts d'électricité). Un suivant d'[[Apsu
+      (technique)|Apsu]] peut lancer *[[splendeur de laigle|splendeur de l'aigle]]* une fois par jour, et manifester
+      les effets d'un sort de *[[lumière]]* à volonté.
+    </td>
+    <td>3 900 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de conflit élémentaire]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Lorsqu’un extérieur (élémentaire) est à 18m ou moins, émet la même lumière qu’une torche et confère un
+      résistance de 5 contre un type d’énergie dépendant des extérieurs détectés contre les attaques de ces
+      derniers. Les attaques ignorent la [[RD]] des extérieurs détectés.
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des poings vertueux]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet d’attaquer à mains nues comme avec le don [[Science du combat à mains nues]] pour utiliser des pouvoirs
+      divins de représailles (*[[châtiment sacré]]*, [[paladin#CHATIMENTDUMAL|châtiment du mal]] ou
+      [[inquisiteur#JUGEMENT|jugement]] par exemple).
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des poings invincibles]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Confèrent un bonus d’altération aux jets d’attaque et de dégâts et/ou une propriété spéciale aux attaques à
+      mains nues et naturelles.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +1.</td><td>4 000 po</td></tr>
+  <tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +2.</td><td>| 16 000 po</td></tr>
+  <tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +3.</td><td>| 36 000 po</td></tr>
+  <tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +4.</td><td>| 64 000 po</td></tr>
+  <tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus maximal s’élève à +5.</td><td>| 100 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Pépite de ShadGorum|Pépite de Shad'Gorum]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de résistance de +1 aux jets de [[Volonté]], et une [[Résistance (capacité)|résistance]] au
+      feu 1. Un suivant de [[Gorum (technique)|Gorum]] peut lancer *[[métal gelé]]* une fois par jour, et réparer
+      des petits objets métalliques (comme avec *[[réparation]]*) à volonté.
+    </td>
+    <td>4 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Stylet dard]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de compétence de +3 aux tests de [[Perception]]. Une fois par jour, permet de lancer *[[son
+      imaginaire]]*. Un suivant de [[Calistria (technique)|Calistria]] peut lancer *[[ruse du renard]]* une fois par
+      jour, et bénéficier d'un bonus de +1 au premier [[jet dattaque|jet d'attaque]] sur une créature contre
+      laquelle il a promis de se venger pendant 1 minute.
+    </td>
+    <td>4 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de défense instinctive]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Si le porteur possède l’[[roublard#ESQUIVEINSTINCTIVE|esquive instinctive]], confère
+      l’[[roublard#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]] (s’il la possède déjà, on considère
+      qu’il a 4 niveaux de classe en plus pour déterminer le nombre de niveaux de [[roublard]] qu’il faut pour lui
+      porter des [[attaque sournoise|attaques sournoises]] en [[prise en tenaille|tenaille]]).
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pendentif du meilleur ami]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Une fois par jour et pendant un maximum de 48 heures, le porteur peut stocker un animal de taille P ou TP à
+      l'intérieur.
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Pendentif du meilleur ami supérieur]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Peut également stocker un animal de taille M ou G, un élémentaire, une créature magique ou un extérieur de
+      taille P ou TP.
+    </td>
+    <td>| 9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Leurre à tempêtes]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour, peut conférer 50 % de chance d’échecs aux attaques à distance qui ciblent le porteur tout
+      en permettant à ce dernier d’infliger 4d6 points de dégâts d’électricité aux créatures adjacentes, pendant 1
+      minute.
+    </td>
+    <td>5 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Talisman de dévoration spirituelle]]</td>
+    <td><sup>*BD*</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[création de gemme spirituelle]]*. Le porteur peut ingérer la gemme
+      créée pour libérer l'âme piégée et obtenir une [[Guérison accélérée (capacité)|guérison accélérée]] 2 pendant
+      autant de rounds que le nombre de [[DV]] de l'âme libérée.
+    </td>
+    <td>5 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier de lenfant-fée|Collier de l’enfant-fée]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence aux tests de [[Charisme]] et de compétences basées sur le [[Charisme]] de +4
+      avec les gnomes, +2 avec les créatures féeriques, et un malus de -2 face à toutes les autres races. Le porteur
+      obtient plusieurs traits raciaux des gnomes.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Torque du chant primal]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Quand le porteur effectue ou profite d’un [[scalde#CHANTEDRAGE|chant de rage]], confère les effets du don
+      [[Dur à cuire]] tant que le chant fait effet. Prolonge les effets des chants de rage et des [[représentation
+      bardique|représentations bardiques]] favorables dont profite le porteur pendant 1 [[round]] après leur fin.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chaîne de détention]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour, peut [[États préjudiciables#Enchevêtré|enchevêtrer]] et empêcher de bouger une créature à
+      4,50m ou moins, pendant 10 minutes maximum.
+    </td>
+    <td>7 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme de bonne santé]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Immunise contre les maladies naturelles et surnaturelles.</td>
+    <td>7 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette anti-sommeil]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Le porteur peut faire des activités simples pendant son temps de repos. Ce pouvoir [[États
+      préjudiciables#Épuisé|épuise]] le porteur tous les 7 nuits d’utilisation pendant 1 journée (ou 4 heures par
+      nuit s’il retire l’amulette avant).
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de protection contre la pétrification]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      S’il rate un [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]] contre un effet de pétrification, le
+      porteur est seulement [[États préjudiciables#Chancelant|chancelant]] pendant 1d6 [[round|rounds]] (ou 1 minute
+      si l’effet n’autorisait pas de [[valeurs de combat#JETDESAUVEGARDE|jet de sauvegarde]]).
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des esprits]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Accorde des pouvoirs associés à un type d’[[esprits (Chaman)|esprit du chaman]] dépendant du modèle, mais rend
+      le porteur vulnérable aux effets ciblant les créatures liées à ce type d’esprit. Si le porteur possède déjà le
+      [[oracle#MYSTERE|mystère]] ou l’esprit associé, il n’obtient aucun nouveau pouvoir mais le niveau effectif des
+      siens est augmenté de 2.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; Cieux</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Tant qu’il voit un ciel nocturne en extérieur, le porteur peut déterminer sa position et ajoute son
+      modificateur de [[Charisme]] à tous ses tests de Charisme et de compétence basés sur le Charisme. Permet de
+      forcer une créature à considérer le degré de luminosité dans lequel elle se trouve comme inférieur de 2
+      niveaux (pendant 8 [[round|rounds]], [[DD]] 13).
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Vent</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, permet d’activer un [[Esprit du Vent#Sceau_de_vent_Sur_2|sceau de vent]] (20 % de chances
+      de rater). Une fois par jour, permet d’infliger une [[Esprit du Vent#Aura_crépitante_Sur_0|aura crépitante]] à
+      une créature à 9m ou moins du porteur (5 points de dégâts, pendant 4 [[round|rounds]]).
+    </td>
+    <td>| 8 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Flammes</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Deux fois par jour, permet d’activer un [[Esprit des Flammes#Sceau_de_flammes_Sur_4|sceau de flammes]] (1d6+4
+      points de dégâts, pendant 1 minute). Deux fois par jour, permet d’infliger une [[Esprit des
+      Flammes#Malédiction_de_feu_Sur_1|malédiction de feu]] à une créature à 9m ou moins du porteur (jusqu’à la fin
+      de son tour).
+    </td>
+    <td>| 10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Pierres</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, permet d’activer un [[Esprit des Pierres#Sceau_de_pierre_Sur_2|sceau de pierre]] (2
+      attaques, jusqu’à 1 minute). Une fois par jour, permet d’infliger une [[Esprit des
+      Pierres#Malédiction_du_métal_Sur_1|malédiction du métal]] à une créature à 9m ou moins du porteur (malus de
+      -4, pendant 2 [[round|rounds]]).
+    </td>
+    <td>| 10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Vagues</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, permet d’activer un [[Esprit des Vagues#Linceul_de_brume_Sur_1|linceul de brume]] (2
+      attaques, jusqu’à 1 minute). Une fois par jour, permet d’infliger un [[Esprit des
+      Vagues#Appel_du_froid_Sur_0|appel du froid]] à une créature à 9m ou moins du porteur.
+    </td>
+    <td>| 10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Batailles</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, permet d’activer un [[Esprit des Batailles#Sceau_martial_Sur_4|sceau martial]] (bonus de
+      départ à +3). Une fois par jour, permet d’infliger une [[Esprit des
+      Batailles#Malédiction_de_souffrance_Sur_1|malédiction de souffrance]] à une créature à 9m ou moins du porteur
+      (pendant 8 [[round|rounds]]).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Os</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, permet d’activer un [[Esprit des Os#Sceau_des_ossements_Sur_2|sceau des ossements]] (bonus
+      de +2, pendant 8 [[round|rounds]]). Une fois par jour, permet d’infliger un [[Esprit des
+      Os#Air_craintif_Sur_0|air craintif]] à une créature à 9m ou moins du porteur ([[effrayé]] pendant 1 [[round]],
+      [[DD]] 13).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Vie</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Le porteur récupère 1d6 ponts de vie supplémentaire à chaque fois qu’un sort de soin est lancé sur lui. Une
+      fois par jour, permet d’infliger un [[Esprit de la Vie#Priver_de_secours_Sur_3|priver de secours]] à une
+      créature à 9m ou moins du porteur (pendant 1 minute, [[DD]] 13).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Main miraculeuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un emplacement d’anneau supplémentaire. Une fois par jour, permet de lancer *[[détection de
+      linvisibilité|détection de l’invisibilité]]* et *[[lumière du jour]]*.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pendentif garde-tombes]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Inflige un malus de -2 aux [[jet dattaque|jets d’attaque]] des morts-vivants qui visent le porteur (-4 pour
+      les morts-vivants intangibles). Confère un bonus de circonstance de +4 aux tests de [[Perception]] des
+      morts-vivants pour remarquer le porteur.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Torque de la furie du lion]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de moral de +2 aux jets de sauvegarde contre les effets de terreur. Un [[barbare]] de niveau
+      12 ou plus obtient le pouvoir de rage [[pouvoirs de rage#RAGESANSPEUR|rage sans peur]] (s’il le possédait
+      déjà, il est immunisé à l’état [[États préjudiciables#Paniqué|paniqué]] tant qu’il est enragé, et récupère 1
+      [[round]] de [[barbare#RAGE|rage]] chaque fois qu’il devrait subir cet état).
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Torque de rage sanglante]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une fois par jour, peut conférer les effets du sort *[[rage]]* au porteur pendant 6 [[round|rounds]], après
+      quoi il est [[fatigué]] pendant 12 rounds. Une fois par jour, un porteur qui possède la capacité
+      [[barbare#RAGE|rage]] peut s’en accorder 3 rounds supplémentaires à la place.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vestige béni]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Si un morceau d'[[type Extérieur|extérieur]] avec un sous-type d'alignement est stocké dans l'objet pendant 24
+      heures, permet de lancer *[[détection du Bien]]/[[détection du Chaos|Chaos]]/[[détection de la
+      Loi|Loi]]/[[détection du Mal|Mal]]* (un approprié) à volonté, de lancer *[[protection contre le
+      Bien]]/[[protection contre le Chaos|Chaos]]/[[protection contre la Loi|Loi]]/[[protection contre le Mal|Mal]]*
+      (un approprié) trois fois par jour, et de bénéficier de [[Canalisation alignée]] contre un sous-type
+      d'alignement approprié.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de force soudaine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour, permet soit d’effectuer une attaque au corps à corps ou à distance par une [[action
+      rapide]], soit de récupérer 2 points de [[moine#RESERVEDEKI|ki]] si le porteur en possède une réserve.
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de lumière cachée]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Peut émettre la même lumière qu’un [[Bâton éclairant (objet)|bâton éclairant]] à volonté, sauf que les
+      créatures en dehors de la lumière ne la voit pas.
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de sombresire]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Confère un bonus d’intuition de +4 aux tests de [[Diplomatie]] pour influencer les Extérieurs Mauvais.
+      Augmente la résistance au froid, à l’électricité ou au feu d’un porteur [[tieffelin (race)|tieffelin]] de 5.
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette en dent de requin]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Permet au porteur de se battre sous l’eau sans subir de malus aux [[jet dattaque|jets d’attaque]] ni aux
+      [[valeurs de combat#DEGATS|jets de dégâts]] (fonctionne également avec les armes à distance, mais impose un
+      malus de -2 aux [[jet dattaque|jets d’attaque]] et réduit leur [[facteur de portée]] de moitié).
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier dadaptation|Collier d’adaptation]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Permet de lancer *[[bulle dair|bulle d’air]]* à volonté, immunisant contre les gaz/vapeurs toxiques et
+      permettant de respirer dans l’eau et dans le vide.
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Écharpe des histoires glorieuses]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests d'[[Intimidation]] et de [[Représentation]] (danse). Confère à
+      un porteur qui possède un kapenia légitime un bonus de +5 aux tests de [[Connaissances]] (histoire) et lui
+      permet de faire de tels tests sans formation.
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette dastuce magique|Amulette d’astuce magique]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Tant qu’elle est l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]], permet de préparer 3 niveaux de
+      sort supplémentaire par jour.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de bénédiction des Aînés]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Un porteur [[gnome]] n'est pas considéré comme [[sous-type extraplanaire|extraplanaire]] au Premier Monde.
+      Soigne 1 point de dégât létal et [[Blessures et mort#NONLETAL|non-létaux]] toutes les minutes, jusqu'à un
+      maximum quotidien égal au nombre de [[DV]] du porteur. Confère un bonus aux [[jds|jets de sauvegarde]] contre
+      l'Affadissement.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des lignages]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Accorde des pouvoirs associés à un type de [[Lignages|lignage d’ensorceleur]] dépendant du modèle, mais rend
+      le porteur vulnérable aux effets ciblant les créatures liées à ce type de lignage. Si le porteur possède déjà
+      le [[ensorceleur#LIGNAGE|lignage]] associé, il n’obtient aucun nouveau pouvoir mais le niveau effectif des
+      siens est augmenté de 2.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; Féerique</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Féerique#Pouvoirs_de_lignage_2|regard furtif]] (jusqu’à 9 [[round|rounds]] par
+      jour) et de [[Lignage Féerique#Pouvoirs_de_lignage_2|toucher rieur]] (trois fois par jour).
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Voué à un grand destin</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Voué à un grand destin#Pouvoirs_de_lignage_1|destiné]] (+2 aux [[jds|jets de
+      sauvegarde]] et à la [[CA]] pendant les [[round de surprise|rounds de surprise]] et quand il ne voit pas venir
+      une attaque) et de [[Lignage Voué à un grand destin#Pouvoirs_de_lignage_1|accomplissement de la prophétie]]
+      (une fois par jour).
+    </td>
+    <td>| 10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Abyssal</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Abyssal#Pouvoirs_de_lignage_1|résistances démoniaques]] (résistance de 5, +2
+      aux [[jds|jets de sauvegarde]] contre le poison) et de [[Lignage Abyssal#Pouvoirs_de_lignage_1|griffes]] (1d4
+      points de dégâts).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Céleste</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Céleste#Pouvoirs_de_lignage_1|résistances célestes]] (résistances de 5) et de
+      [[Lignage Céleste#Pouvoirs_de_lignage_1|feu céleste]] (trois fois par jour, 1d4+4 points de dégâts/soins).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Draconique</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Draconique#Pouvoirs_de_lignage_1|résistances draconiques]] (résistance de 5,
+      bonus d’amure naturelle de +1) et de [[Lignage Draconique#Pouvoirs_de_lignage_1|souffle]] (une fois par jour,
+      4d6 points de dégâts, [[DD]] 13).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Élémentaire</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Élémentaire#Pouvoirs_de_lignage_2|résistances élémentaires]] (résistance de 5)
+      et de [[Lignage Élémentaire#Pouvoirs_de_lignage_2|explosion élémentaire]] (une fois par jour, 4d6 points de
+      dégâts).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Infernal</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Infernal#Pouvoirs_de_lignage_1|résistances infernales]] (résistance de 5, +2
+      aux [[jds|jets de sauvegarde]] contre le poison) et de [[Lignage Infernal#Pouvoirs_de_lignage_1|toucher
+      corrupteur]] (trois fois par jour, pendant 4 [[round|rounds]]).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Maudit</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Maudit#Pouvoirs_de_lignage_0|misérable endurance]] (+2 aux [[jds|jets de
+      sauvegarde]] contre les effets de charme, de froid, de peur, de feu et de sommeil) et de [[Lignage
+      Maudit#Pouvoirs_de_lignage_0|regard redouté]] (trois fois par jour, [[DD]] 18, pendant 4 [[round|rounds]]).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Mort-vivant</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Mort-vivant#Pouvoirs_de_lignage_1|bienfait de la mort]] (résistance de 5,
+      [[RD]] 5/- contre les dégâts [[blessures et mort#NONLETAL|non létaux]]) et de [[Lignage
+      Mort-vivant#Pouvoirs_de_lignage_1|toucher du tombeau]] (trois fois par jour, moins de 8 [[DV]], pendant 4
+      [[round|rounds]]).
+    </td>
+    <td>| 12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; Aberrant</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère les effets de [[Lignage Aberrant#Pouvoirs_de_lignage_1|long membres]] (1,50 m) et d’[[Lignage
+      Aberrant#Pouvoirs_de_lignage_1|anatomie hors du commun]] (25 % de chances).
+    </td>
+    <td>| 15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des poings glacés]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut conférer la propriété [[froid (propriété)|de froid]] aux attaques à mains nues et naturelles et leur
+      donner les capacités du [[matériaux spéciaux#FERFROID|fer froid]], à volonté. Tant que ces effets sont actifs,
+      les mains du sujet sont figées.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier du fidèle compagnon]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère à un animal dénué d’intelligence un bonus d’altération de +2 à l’[[Intelligence]], lui permettant de
+      comprendre une langue choisie à la fabrication. Au bout de 2 semaines de port, affecte un animal avec le sort
+      *[[éveil]]* avant de disparaître. Au bout d’une semaine, affecte un non-animal avec le sort *[[débilité]]*
+      tant qu’il le porte.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Médaillon des faux et vrais amis]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Une fois par jour, peut désigner la dernière personne qui a menti au porteur et la dernière personne qui a
+      agit en sa faveur. Confère à un porteur [[demi-elfe]] un bonus à la [[CA]], aux [[jds|jets de sauvegarde]] et
+      aux tests de [[Psychologie]] contre ses alliés, ceux qui prétendent l'être et ceux qui l'ont trahit récemment.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pierres à message]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Fabriquées par paire, le porteur de l'une peut communiquer avec le porteur de l'autre tant qu'elles sont à
+      moins de 5 km de distance.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Symbole sacré doré]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Lorsqu'il sert de focalisateur divin pour un [[Magie divine|sort divin]], rend au porteur un nombre de points
+      de vie égal au niveau du sort lancé. Au prix d'une utilisation de [[pouvoir mythique]] et dans la situation
+      citée, rend des points de vie au porteur et à ses alliés pendant un nombre de [[round|rounds]] égal au
+      [[grade]] de ce dernier.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de vie canalisée]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Lorsqu’il est la cible de soins prodigués par de l’énergie positive, un porteur vivant avec le trait racial
+      [[dhampir (race)#AFFINITEAVECLENERGIENEGATIVE|affinité avec l’énergie négative]] en récupère tout de même la
+      moitié du montant sous forme de points de vie temporaires pendant 10 minutes.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme de protection contre les malédictions]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Trois fois par jour, permet de relancer un [[valeurs de combat#JETDESAUVEGRDE|jet de sauvegarde]] (avant de
+      connaître son résultat) contre une malédiction, et de conserver le résultat de cette relance même s’il est
+      moins bon.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cristal des mains guérisseuses]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut stocker les effets d’une [[paladin#IMPOSITIONDESMAINS|imposition des mains]] dont le porteur peut
+      bénéficier par une [[action simple]].
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gorgerin de protection]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus d’armure de +2 à la [[CA]] (non cumulable avec un autre bonus d’armure) et la propriété de
+      [[défense légère (propriété)|défense légère]]. Peut stocker les effets d’un *[[glyphe de garde]]* dont le
+      porteur peut bénéficier par une [[action immédiate]] lorsqu’il est touché par une attaque au corps à corps.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Médaillon des pensées]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[détection des pensées]]* en permanence.</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pendentif dinsoumission|Pendentif d’insoumission]]</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Permet au porteur de s’infliger un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 2 à
+      ses valeurs de caractéristiques mentales pour effectuer une [[action simple]] alors qu’il est [[États
+      préjudiciables#Hébété|hébété]], [[États préjudiciables#Nauséeux|nauséeux]], [[États
+      préjudiciables#Paralysé|paralysé]] ou [[États préjudiciables#Étourdi|étourdi]] par un effet mental. Immunise
+      contre le sommeil provoqué par les effets mentaux.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des poings ardents]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut conférer la propriété [[feu (propriété)|de feu]] aux attaques à mains nues et naturelles et leur donner
+      les capacités de l’[[matériaux spéciaux#ADAMANTIUM|adamantium]], à volonté. Tant que ces effets sont actifs,
+      les mains du sujet sont figées.
+    </td>
+    <td>13 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Broche de bois-vorace]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Un porteur qui possède la capacité [[druide#DEPLACEMENTFACILITE|déplacement facilité]] bénéficie des effets de
+      [[rôdeur#CAMOUFLAGE|camouflage]] du rôdeur tant qu’il évolue en forêt (s’il possède un
+      [[druide#PACTEAVECLANATURE|compagnon animal]] qui profite de son déplacement facilité, ce dernier profite
+      aussi du camouflage).
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de persuasion des morts-vivants]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Une fois par jour, peut produire de quoi nourrir un [[type Mort-vivant|mort-vivant]] pendant 24 heures. Un
+      porteur [[Dhampir (race)|dhampir]] est plus influent contre le mort-vivant affecté. Une fois par jour, un
+      porteur dhampir peut utiliser *[[contrôle mineur des morts-vivants]]* une fois par jour sur le mort-vivant
+      affecté.
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des Abysses]]</td>
+    <td><sup>*BD*</sup></td>
+    <td>
+      Fonctionne comme un [[symbole sacré (objet)|symbole impie]] du seigneur démon lié à l'objet. Fonctionne comme
+      un *[[phylactère du croyant]]* pour un suivant de ce dernier, et lui permet de lancer les trois [[Pouvoirs
+      magiques (capacité)|pouvoirs magiques]] offerts par la première faveur d'exalté de ce serigneur démon une fois
+      par jour. Un porteur Bon ou Loyal acquiert 2 [[niveau négatif|niveaux négatifs]].
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme de coagulation]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Stabilise automatiquement le porteur lorsque son total de points de vie est négatif. Double la guérison
+      naturelle. Immunise contre les effets de saignement qui n’inflige pas d’[[affaiblissement temporaire
+      (capacité)|affaiblissements temporaires]] ou permanents.
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier de sérénité]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Le porteur voit son niveau effectif augmenter de 4 pour déterminer sa [[moine#RESERVEDEKI|réserve de ki]] et
+      les effets basés sur les pouvoirs qui en découlent.
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Étrangleur ophidien]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Enfilé à une créature [[sans défense]], une créature disposant du mot de commande peut imposer une *[[quête]]*
+      au porteur, et soumet ce dernier à une *[[suffocation]]* s'il ne tente pas de l'accomplir.
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Broche détincelles ambrées|Broche d’étincelles ambrées]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Chaque fois que le porteur subit des dégâts d’électricité, en absorbe jusqu’à 20 points (pour un maximum de 50
+      points stockés). Permet de lancer *[[décharge électrique]]* (1d6 par tranche de 5 points stockés), à volonté.
+    </td>
+    <td>16 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Symbole de protection sanguine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour après 24 heures de port, permet de s’infliger 1d6 points de dégâts pour créer une dose
+      d’[[Eau bénite (objet)|eau bénite]]. Les morts-vivants qui utilise [[absorption de sang (capacité)|absorption
+      de sang]] sur le porteur subissent des dégâts et n’en tirent aucun avantage.
+    </td>
+    <td>17 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Corde de potence]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Lorsqu'il est réduit à 0 [[pv]], confère au porteur une [[RD]] 10/— et une [[guérison accélérée
+      (capacité)|guérison accélérée 5]] tant qu'il est [[inconscient]] (il apparaît comme mort jusqu'à ce qu'il
+      reprenne conscience). Si une perte de point de vie devrait le tuer, le porteur peut dépenser des utilisations
+      de [[pouvoir mythique]] pour récupérer 10 pv par utilisation dépensée.
+    </td>
+    <td>18 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette dopposition aux dragons|Amulette d’opposition aux dragons]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Les attaques ignorent la [[RD]] des dragons. Permet de lancer 2 jets et de conserver le meilleur résultat pour
+      surpasser la [[résistance à la magie (capacité)|RM]] des dragons. Un jet de [[Réflexes]] réussit contre un
+      souffle de dragon annule les dégâts de ce dernier.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des arts magiques]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Tant qu’elle est l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]] universaliste, permet de choisir
+      une [[magicien#ECOLEDEMAGIE|école de magie]] dont il pourra convertir ses sorts préparés en d’autres sorts de
+      cette école.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ampoule de sang factice]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Après 24 heures de port, un porteur possédant les pouvoirs d’un lignage d’ensorceleur les perds et gagnent
+      ceux d’un autre lignage d’ensorceleur choisi à la fabrication. Un même porteur peut détruire l’ampoule pour
+      échanger son lignage d’ensorceleur avec celui de l’ampoule de façon permanente.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme de contrôle daluum|Charme de contrôle d'aluum]]</td>
+    <td><sup>CCMI</sup></td>
+    <td>
+      Permet de contrôler un [[aluum]] précis comme avec *[[charme-personne]]* à volonté, et peut permettre de
+      contrôler d'autres aluum.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de maîtrise magique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Tant qu’elle est l’[[magicien#PACTEMAGIQUE|objet fétiche]] d’un [[magicien]], permet de préparer 6 niveaux de
+      sort supplémentaire par jour.
+    </td>
+    <td>22 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Main de pierre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut conférer la [[perception des vibrations (capacité)|perception des vibrations]] (9m) sur les créatures et
+      les objets en contact avec la terre ou la pierre pendant 1 [[round]], à volonté.
+    </td>
+    <td>27 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme antipoison]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Immunise contre les poisons (sauf ceux déjà actifs avant le port).</td>
+    <td>27 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette dantidétection|Amulette d’antidétection]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[antidétection]]* (DD 19) en permanence.</td>
+    <td>35 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier des frappes spectrales]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Sur un porteur intelligent ([[Int]] 3+), confère un bonus de +1 aux [[jet dattaque|jets d'attaque]] et
+      [[Valeurs de combat#DEGATS|de dégâts]] ainsi que la propriété *[[spectrale (propriété)|spectrale]]* aux
+      attaques à mains nues. Au prix d'un [[Moine#RESERVEDEKI|point de ki]], permet de porter une attaque à mains
+      nues par une attaque de [[Intangible (capacité)|contact intangible]]. Au prix d'une utilisation de [[pouvoir
+      mythique]], permet de devenir [[intangible]] pendant 1 [[round]].
+    </td>
+    <td>35 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Scarabée de protection]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Confère une [[résistance à la magie (capacité)|résistance à la magie]] de 20. Peut absorber jusqu’à 12
+      attaques de mort, capacités liés à l’énergie négative ou effets similaires à *[[absorption dénergie|absorption
+      d’énergie]]* avant de disparaître.
+    </td>
+    <td>38 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier détoiles enchevêtrées|Collier d’étoiles enchevêtrées]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet de lancer *[[lumières dansantes]]* à volonté et *[[poussière détoile|poussière d’étoile]]* une fois par
+      jour. Sept fois par jour, permet de se remémorer un sort du niveau 0 ou 1 précédemment lancé. Une fois par
+      jour, permet de contrer un sort (comme avec *[[dissipation de la magie]]*) avec un bonus de 12 + utilisations
+      restantes du pouvoir précédent, si le contresort est une réussite, permet d’utiliser le pouvoir précédent avec
+      pour limite le niveau du sort contré. Ce dernier pouvoir épuise toutes les utilisations restantes du pouvoir
+      précédent et ne peut être utilisé s’il n’en reste déjà plus.
+    </td>
+    <td>42 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier de fer du sabbat déchaîné]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Une [[sorcière]] qui possède le maléfice [[maléfices#Cercle|cercle]] obtient trois pouvoirs la rapprochant des
+      guenaudes.
+    </td>
+    <td>46 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fermoir dagent|Fermoir d'agent]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Fournis par paire associée. Le fermoir d'agent fournis les informations d'un *[[rapport]]* constant au fermoir
+      d'administrateur. Les porteurs peuvent [[communication à distance|communiquer à distance]] à volonté, le
+      message étant stocké dans le fermoir receveur s'il n'est pas porté au moment de la communication.
+    </td>
+    <td>60 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Torque de langage universel]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Le porteur peut communiquer (comprendre et parler) à toute créature parlant au moins une langue. Au
+      [[grade|grade mythique]] 3 ce pouvoir s'étant aux animaux, et au grade 6 il s'étend aux plantes.
+    </td>
+    <td>60 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tête réduite]]</td>
+    <td><sup>AO</sup></td>
+    <td>
+      Peut être tenu en main (n’occupant aucun emplacement). Une fois par jour, peut absorber un sort de niveau 5 ou
+      moins qui cible le porteur. Pendant 1 [[round]] par niveau du sort absorbé, peut lancer *[[énergie négative]]*
+      (infligeant 1 [[absorption dénergie (capacité)|niveau négatif]] par niveau du sort absorbé). Peut être
+      utilisée comme focalisateur d’un sort de terreur pour augmenter son DD de 1.
+    </td>
+    <td>90 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette des plans]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Permet de lancer *[[changement de plan]]* à volonté, mais nécessite un test d’[[Intelligence]] DD 15 sinon, il
+      y a 2 chances sur 5 pour qu’elle envoi les cibles sur un plan aléatoire.
+    </td>
+    <td>120 000 po</td>
+  </tr>
+</table>

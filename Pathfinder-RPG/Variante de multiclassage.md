@@ -12,13 +12,36 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Progression des personnages multiclassés</caption><tr CLASS="titre"><td>Niveau du  
-personnage</td><td>Aptitude</td></tr><tr CLASS="premier"><td>1</td><td>Don</td></tr><tr><td>2</td><td>-</td></tr><tr><td>3</td><td>Aptitude de classe  
-secondaire</td></tr><tr><td>4</td><td>-</td></tr><tr><td>5</td><td>Don</td></tr><tr><td>6</td><td>-</td></tr><tr><td>7</td><td>Aptitude de classe  
-secondaire</td></tr><tr><td>8</td><td>-</td></tr><tr><td>9</td><td>Don</td></tr><tr><td>10</td><td>-</td></tr><tr><td>11</td><td>Aptitude de classe  
-secondaire</td></tr><tr><td>12</td><td>-</td></tr><tr><td>13</td><td>Don</td></tr><tr><td>14</td><td>-</td></tr><tr><td>15</td><td>Aptitude de classe  
-secondaire</td></tr><tr><td>16</td><td>-</td></tr><tr><td>17</td><td>Don</td></tr><tr><td>18</td><td>-</td></tr><tr><td>19</td><td>Aptitude de classe  
-secondaire</td></tr><tr><td>20</td><td>-</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Progression des personnages multiclassés</caption>
+  <tr CLASS="titre"><td>Niveau du  
+personnage</td><td>Aptitude</td></tr>
+  <tr CLASS="premier"><td>1</td><td>Don</td></tr>
+  <tr><td>2</td><td>-</td></tr>
+  <tr><td>3</td><td>Aptitude de classe  
+secondaire</td></tr>
+  <tr><td>4</td><td>-</td></tr>
+  <tr><td>5</td><td>Don</td></tr>
+  <tr><td>6</td><td>-</td></tr>
+  <tr><td>7</td><td>Aptitude de classe  
+secondaire</td></tr>
+  <tr><td>8</td><td>-</td></tr>
+  <tr><td>9</td><td>Don</td></tr>
+  <tr><td>10</td><td>-</td></tr>
+  <tr><td>11</td><td>Aptitude de classe  
+secondaire</td></tr>
+  <tr><td>12</td><td>-</td></tr>
+  <tr><td>13</td><td>Don</td></tr>
+  <tr><td>14</td><td>-</td></tr>
+  <tr><td>15</td><td>Aptitude de classe  
+secondaire</td></tr>
+  <tr><td>16</td><td>-</td></tr>
+  <tr><td>17</td><td>Don</td></tr>
+  <tr><td>18</td><td>-</td></tr>
+  <tr><td>19</td><td>Aptitude de classe  
+secondaire</td></tr>
+  <tr><td>20</td><td>-</td></tr>
+</table>
 
 </center></div></div>
 

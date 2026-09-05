@@ -19,7 +19,32 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEHIEROPHANTE}Le Hiérophante</caption><tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr><tr CLASS="premier"><td>1</td><td>[[Hiérophante Mythique#MONTEEENPUISSANCEDIVINE|Montée en puissance divine]], [[Hiérophante Mythique#APTITUDEDEVOIE|aptitude de voie]]</td></tr><tr><td>2</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>3</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>4</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>5</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>6</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>7</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>8</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>9</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>10</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Hiérophante Mythique#RECEPTACLEDIVIN|réceptacle divin]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLEHIEROPHANTE}Le Hiérophante</caption>
+  <tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>
+      [[Hiérophante Mythique#MONTEEENPUISSANCEDIVINE|Montée en puissance divine]], [[Hiérophante
+      Mythique#APTITUDEDEVOIE|aptitude de voie]]
+    </td>
+  </tr>
+  <tr><td>2</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>3</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>4</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>5</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>6</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>7</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>8</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>9</td><td>[[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr>
+    <td>10</td>
+    <td>
+      [[Hiérophante Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Hiérophante Mythique#RECEPTACLEDIVIN|réceptacle
+      divin]]
+    </td>
+  </tr>
+</table>
 
 </div></div>Au fur et à mesure que le hiérophante monte en [[grades]], il obtient les aptitudes suivantes :
 

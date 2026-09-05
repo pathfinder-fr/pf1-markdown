@@ -17,7 +17,14 @@ La taille et l’espace occupé des véhicules sont différents de ceux des cré
 
 <div align="center">
 
-<table class="tablo toutgauche autoalt" id="convertionTaille"><caption>Taille des véhicules en cases</caption><tr><td>Cases</td><td>Taille du véhicule</td></tr><tr><td>2-6</td><td>Véhicule de taille G</td></tr><tr><td>7-12</td><td>Véhicule de taille TG</td></tr><tr><td>13-20</td><td>Véhicule de taille Gig</td></tr><tr><td>21+</td><td>Véhicule de taille C</td></tr></table>
+<table class="tablo toutgauche autoalt" id="convertionTaille">
+  <caption>Taille des véhicules en cases</caption>
+  <tr><td>Cases</td><td>Taille du véhicule</td></tr>
+  <tr><td>2-6</td><td>Véhicule de taille G</td></tr>
+  <tr><td>7-12</td><td>Véhicule de taille TG</td></tr>
+  <tr><td>13-20</td><td>Véhicule de taille Gig</td></tr>
+  <tr><td>21+</td><td>Véhicule de taille C</td></tr>
+</table>
 
 </div>
 

@@ -12,7 +12,116 @@ Categories:
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>L'explorateur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Éclaireur Explorateur#MAÎTREEXPLORATEUR|Maître explorateur]], [[Éclaireur Explorateur#SAVOIRBAARDIQUE|savoir bardique]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Éclaireur Explorateur#PIEDSÛR|Pied sûr]], [[Éclaireur Explorateur#SENSDESPIÈGES|sens des pièges]] +1</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Éclaireur Explorateur#BRISEGARDE|Brise-garde]], [[Éclaireur Explorateur#ÉVASIONPALPITANTE|évasion palpitante]] 1/jour</td></tr><tr><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Éclaireur Explorateur#COMBATTANTVIGILANT|Combattant vigilant]], [[Éclaireur Explorateur#DÉSAMORCAGEINGÉNIEUX|désamorçage ingénieux]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Éclaireur Explorateur#LAISSÉPOURMORT|Laissé pour mort]], [[Éclaireur Explorateur#SENSDESPIÈGES|sens des pièges]] +2</td></tr><tr><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Éclaireur Explorateur#ÄMEFORTUNÉE|Âme fortunée]] 1/jour</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Éclaireur Explorateur#ÉVASIONPALPITANTE|Évasion palpitante]] 2/jour</td></tr><tr><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Éclaireur Explorateur#SENSDESPIÈGES|Sens des pièges]] +3</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Éclaireur Explorateur#ÉVASIONPALPITANTE|Évasion palpitante]] 3/jour, [[Éclaireur Explorateur#VISIONLUCIDE|vision lucide]] 1/jour</td></tr><tr><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Éclaireur Explorateur#ÄMEFORTUNÉE|Âme fortunée]] 2/jour, [[Éclaireur Explorateur#INEXTREMIS|In extremis]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>L'explorateur</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#MAÎTREEXPLORATEUR|Maître explorateur]], [[Éclaireur Explorateur#SAVOIRBAARDIQUE|savoir
+      bardique]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#PIEDSÛR|Pied sûr]], [[Éclaireur Explorateur#SENSDESPIÈGES|sens des pièges]] +1
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#BRISEGARDE|Brise-garde]], [[Éclaireur Explorateur#ÉVASIONPALPITANTE|évasion
+      palpitante]] 1/jour
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#COMBATTANTVIGILANT|Combattant vigilant]], [[Éclaireur
+      Explorateur#DÉSAMORCAGEINGÉNIEUX|désamorçage ingénieux]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#LAISSÉPOURMORT|Laissé pour mort]], [[Éclaireur Explorateur#SENSDESPIÈGES|sens des
+      pièges]] +2
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Éclaireur Explorateur#ÄMEFORTUNÉE|Âme fortunée]] 1/jour</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Éclaireur Explorateur#ÉVASIONPALPITANTE|Évasion palpitante]] 2/jour</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Éclaireur Explorateur#SENSDESPIÈGES|Sens des pièges]] +3</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#ÉVASIONPALPITANTE|Évasion palpitante]] 3/jour, [[Éclaireur
+      Explorateur#VISIONLUCIDE|vision lucide]] 1/jour
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Éclaireur Explorateur#ÄMEFORTUNÉE|Âme fortunée]] 2/jour, [[Éclaireur Explorateur#INEXTREMIS|In extremis]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

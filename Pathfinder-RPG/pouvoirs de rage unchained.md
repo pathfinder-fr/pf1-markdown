@@ -23,8 +23,242 @@ Certains des pouvoirs de rage suivants sont des pouvoirs de posture. L’activat
 
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="96%"><caption>Pouvoirs de rage du barbare unchained</caption><tr CLASS="titre"><td>Niveau  
-minimal</td><td COLSPAN="4">Pouvoirs de rage</td></tr><tr CLASS="premier"><td>**1**</td><td>[[Pouvoirs de rage unchained#ANIMALTOTEMMINEUR|Animal totem, mineur]]</td><td>[[Pouvoirs de rage unchained#IVRESSERUGISSANTE|Ivresse rugissante]]</td><td>[[Pouvoirs de rage unchained#POSTUREPRECISE|Posture précise]]</td><td>[[Pouvoirs de rage unchained#SANGINFERNALMINEUR|Sang infernal mineur]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#AVANCEDOMINATRICE|Avance dominatrice]]</td><td>[[Pouvoirs de rage unchained#LUCIDITEPARFAITE|Lucidité parfaite]]</td><td>[[Pouvoirs de rage unchained#POSTUREPUISSANTE|Posture puissante]]</td><td>[[Pouvoirs de rage unchained#SAUTENRAGE|Saut en rage]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#BAGARREUR|Bagarreur]]</td><td>[[Pouvoirs de rage unchained#MARQUEPROMETTEUSE|Marque prometteuse]]</td><td>[[Pouvoirs de rage unchained#POURSUITE|Poursuite]]</td><td>[[Pouvoirs de rage unchained#SUPERSTITION|Superstition]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#BAGARREURMAJEUR|Bagarreur majeur]]</td><td>[[Pouvoirs de rage unchained#MONTUREFEROCE|Monture féroce]]</td><td>[[Pouvoirs de rage unchained#PROJECTILEMINEUR|Projectile mineur]]</td><td>[[Pouvoirs de rage unchained#TOTEMDUCHAOSMINEUR|Totem du chaos, mineur]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#BONPOURCEQUETUAS|Bon pour ce que tu as]]</td><td>[[Pouvoirs de rage unchained#NAGEENRAGE|Nage en rage]]</td><td>[[Pouvoirs de rage unchained#REFELEXESRAPIDES|Réflexes rapides]]</td><td>[[Pouvoirs de rage unchained#TOTEMDUSERPENTMONDE|Totem du serpent-monde]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#BUVEURPRODIGIEUX|Buveur prodigieux]]</td><td>[[Pouvoirs de rage unchained#ODORAT|Odorat]]</td><td>[[Pouvoirs de rage unchained#REGARDINTIMIDANT|Regard intimidant]]</td><td>[[Pouvoirs de rage unchained#TOTEMFIELONMINEUR|Totem fiélon, mineur]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#CHASSEURDESORCIERE|Chasseur de sorcière]]</td><td>[[Pouvoirs de rage unchained#OUSTE|Ouste]]</td><td>[[Pouvoirs de rage unchained#REPOUSSERLENNEMI|Repousser l’ennemi]]</td><td>[[Pouvoirs de rage unchained#TOTEMSPIRITUELMINEUR|Totem spirituel, mineur]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#COLEREAUTOSUGGEREE|Colère autosuggérée]]</td><td>[[Pouvoirs de rage unchained#PASRAPIDES|Pas rapides]]</td><td>[[Pouvoirs de rage unchained#RESISTANCEALENERGIE|Résistance à l’énergie]]</td><td>[[Pouvoirs de rage unchained#VIEPRESERVEE|Vie préservée]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#COURAGELIQUIDE|Courage liquide]]</td><td>[[Pouvoirs de rage unchained#POSTUREDEFENSIVE|Posture défensive]]</td><td>[[Pouvoirs de rage unchained#SANGCELESTEMINEUR|Sang céleste mineur]]</td><td>[[Pouvoirs de rage unchained#VISIONDENUIT|Vision de nuit]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#ESCALADEENRAGE|Escalade en rage]]</td><td>[[Pouvoirs de rage unchained#POSTUREIMPRUDENTE|Posture imprudente]]</td><td>[[Pouvoirs de rage unchained#SANGDEMORTVIVANTMINEUR|Sang de mort-vivant mineur]]</td><td>[[Pouvoirs de rage unchained#VISIONNOCTURNE|Vision nocturne]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#FEROCITEINSPIREE|Férocité inspirée]]</td><td>[[Pouvoirs de rage unchained#POSTURELUCIDE|Posture lucide]]</td><td>[[Pouvoirs de rage unchained#SANGDRACONIQUEMINEUR|Sang draconique mineur]]</td><td>[[Pouvoirs de rage unchained#VITALITERENOUVELEE|Vitalité renouvelée]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#FRACASSEMENT|Fracassement]]</td><td>[[Pouvoirs de rage unchained#POSTUREMUSCLEE|Posture musclée]]</td><td>[[Pouvoirs de rage unchained#SANGELEMENTAIREMINEUR|Sang élémentaire mineur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#FUREURANIMALE|Fureur animale]]</td><td>[[Pouvoirs de rage unchained#POSTUREPERCUTANTE|Posture percutante]]</td><td>[[Pouvoirs de rage unchained#SANGFEERIQUEMINEUR|Sang féerique mineur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**4**</td><td>[[Pouvoirs de rage unchained#NOUVELLEVIGUEUR|Nouvelle vigueur]]</td><td>[[Pouvoirs de rage unchained#POSTUREREGENERATRICE|Posture régénératrice]]</td><td>[[Pouvoirs de rage unchained#SPRINT|Sprint]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#POSTUREELEMENTAIRE|Posture élémentaire]]</td><td>[[Pouvoirs de rage unchained#PRECISIONMORTELLE|Précision mortelle]]</td><td>[[Pouvoirs de rage unchained#TOTEMDELARUCHE|Totem de la ruche]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**6**</td><td>[[Pouvoirs de rage unchained#ANIMALTOTEM|Animal totem]]</td><td>[[Pouvoirs de rage unchained#PROJECTILEENCHARGE|Projectile en charge]]</td><td>[[Pouvoirs de rage unchained#SANGDRACONIQUE|Sang draconique]]</td><td>[[Pouvoirs de rage unchained#TOTEMFIELON|Totem fiélon]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#ATTAQUEDOMINATRICE|Attaque dominatrice]]</td><td>[[Pouvoirs de rage unchained#RAGEFANTOME|Rage fantôme]]</td><td>[[Pouvoirs de rage unchained#SANGELEMENTAIRE|Sang élémentaire]]</td><td>[[Pouvoirs de rage unchained#TOTEMSPIRITUEL|Totem spirituel]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#BRISEROC|Brise roc]]</td><td>[[Pouvoirs de rage unchained#RESILIENCETOTEMIQUEDELARUCHE|Résilience totémique de la ruche]]</td><td>[[Pouvoirs de rage unchained#SANGFEERIQUE|Sang féerique]]</td><td>[[Pouvoirs de rage unchained#VANTARDISE|Vantardise]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#ESPRITDUSERPENTMONDE|Esprit du serpent-monde]]</td><td>[[Pouvoirs de rage unchained#SANGABYSSAL|Sang abyssal]]</td><td>[[Pouvoirs de rage unchained#SANGINFERNAL|Sang infernal]]</td><td>[[Pouvoirs de rage unchained#VIEPRESERVEESUPERIEURE|Vie préservée supérieure]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#ESQUIVEREFLEXE|Esquive réflexe]]</td><td>[[Pouvoirs de rage unchained#SANGCELESTE|Sang céleste]]</td><td>[[Pouvoirs de rage unchained#TOTEMDRACONIQUE|Totem draconique]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#MONTURESPIRITUELLE|Monture spirituelle]]</td><td>[[Pouvoirs de rage unchained#SANGDEMORTVIVANT|Sang de mort-vivant]]</td><td>[[Pouvoirs de rage unchained#TOTEMDUCHAOS|Totem du chaos]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**8**</td><td>[[Pouvoirs de rage unchained#BRISEROCSUPERIEUR|Brise roc supérieur]]</td><td>[[Pouvoirs de rage unchained#HURLEMENTTERRIFIANT|Hurlement terrifiant]]</td><td>[[Pouvoirs de rage unchained#PERTURBATEUR|Perturbateur]]</td><td>[[Pouvoirs de rage unchained#REDUCTIONDEDEGATSACCRUE|Réduction de dégâts accrue]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#COUPHANDICAPANT|Coup handicapant]]</td><td>[[Pouvoirs de rage unchained#IDEESCLAIRES|Idées claires]]</td><td>[[Pouvoirs de rage unchained#PIETINEMENTFEROCE|Piétinement féroce]]</td><td>[[Pouvoirs de rage unchained#RESILIENCETOTEMIQUEDRACONIQUE|Résilience totémique draconique]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#COUPHEMORRAGIQUE|Coup hémorragique]]</td><td>[[Pouvoirs de rage unchained#MONTUREFEROCEMAJEUR|Monture féroce, majeur]]</td><td>[[Pouvoirs de rage unchained#PRECISIONAFFINEE|Précision affinée]]</td><td>[[Pouvoirs de rage unchained#TOXICITEDELARUCHE|Toxicité de la ruche]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#COUPINATTENDU|Coup inattendu]]</td><td>[[Pouvoirs de rage unchained#ODORATPRIMITIF|Odorat primitif]]</td><td>[[Pouvoirs de rage unchained#PROJECTILE|Projectile]]</td><td>[[Pouvoirs de rage unchained#VIGUEURINTERNE|Vigueur interne]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#DESTRUCTIONDENCHANTEMENT|Destruction d'enchantement]]</td><td>[[Pouvoirs de rage unchained#OUSTEMAJEUR|Ouste majeur]]</td><td>[[Pouvoirs de rage unchained#PROTECTIONDESPOINTSVITAUX|Protection des points vitaux]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**10**</td><td>[[Pouvoirs de rage unchained#ANIMALTOTEMMAJEUR|Animal totem, majeur]]</td><td>[[Pouvoirs de rage unchained#SANGABYSSALMAJEUR|Sang abyssal majeur]]</td><td>[[Pouvoirs de rage unchained#SANGELEMENTAIREMAJEUR|Sang élémentaire majeur]]</td><td>[[Pouvoirs de rage unchained#UNITEDUSERPENTMONDE|Unité du serpent-monde]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#DEVOREURDEMAGIE|Dévoreur de magie]]</td><td>[[Pouvoirs de rage unchained#SANGCELESTEMAJEUR|Sang céleste majeur]]</td><td>[[Pouvoirs de rage unchained#TOTEMDUCHAOSMAJEUR|Totem du chaos, majeur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#EGRATIGNURE|Égratignure]]</td><td>[[Pouvoirs de rage unchained#SANGDEMORTVIVANTMAJEUR|Sang de mort-vivant majeur]]</td><td>[[Pouvoirs de rage unchained#TOTEMFIELONMAJEUR|Totem fiélon, majeur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#MASSUEVIVANTE|Massue vivante]]</td><td>[[Pouvoirs de rage unchained#SANGDRACONIQUEMAJEUR|Sang draconique majeur]]</td><td>[[Pouvoirs de rage unchained#TOTEMSPIRITUELMAJEUR|Totem spirituel, majeur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**12**</td><td>[[Pouvoirs de rage unchained#ABSORPTIONENERGIE|Absorption d’énergie]]</td><td>[[Pouvoirs de rage unchained#PIETINEMENTFEROCEMAJEUR|Piétinement féroce, majeur]]</td><td>[[Pouvoirs de rage unchained#PROJECTILEMAJEUR|Projectile majeur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de rage unchained#COUPREDOUTABLE|Coup redoutable]]</td><td>[[Pouvoirs de rage unchained#POSTUREVANTARDE|Posture vantarde]]</td><td>[[Pouvoirs de rage unchained#RAGESANSPEUR|Rage sans peur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**16**</td><td>[[Pouvoirs de rage unchained#PRECISIONLETALE|Précision létale]]</td><td>&emsp;</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="96%">
+  <caption>Pouvoirs de rage du barbare unchained</caption>
+  <tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="4">Pouvoirs de rage</td></tr>
+  <tr CLASS="premier">
+    <td>**1**</td>
+    <td>[[Pouvoirs de rage unchained#ANIMALTOTEMMINEUR|Animal totem, mineur]]</td>
+    <td>[[Pouvoirs de rage unchained#IVRESSERUGISSANTE|Ivresse rugissante]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREPRECISE|Posture précise]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGINFERNALMINEUR|Sang infernal mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#AVANCEDOMINATRICE|Avance dominatrice]]</td>
+    <td>[[Pouvoirs de rage unchained#LUCIDITEPARFAITE|Lucidité parfaite]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREPUISSANTE|Posture puissante]]</td>
+    <td>[[Pouvoirs de rage unchained#SAUTENRAGE|Saut en rage]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#BAGARREUR|Bagarreur]]</td>
+    <td>[[Pouvoirs de rage unchained#MARQUEPROMETTEUSE|Marque prometteuse]]</td>
+    <td>[[Pouvoirs de rage unchained#POURSUITE|Poursuite]]</td>
+    <td>[[Pouvoirs de rage unchained#SUPERSTITION|Superstition]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#BAGARREURMAJEUR|Bagarreur majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#MONTUREFEROCE|Monture féroce]]</td>
+    <td>[[Pouvoirs de rage unchained#PROJECTILEMINEUR|Projectile mineur]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMDUCHAOSMINEUR|Totem du chaos, mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#BONPOURCEQUETUAS|Bon pour ce que tu as]]</td>
+    <td>[[Pouvoirs de rage unchained#NAGEENRAGE|Nage en rage]]</td>
+    <td>[[Pouvoirs de rage unchained#REFELEXESRAPIDES|Réflexes rapides]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMDUSERPENTMONDE|Totem du serpent-monde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#BUVEURPRODIGIEUX|Buveur prodigieux]]</td>
+    <td>[[Pouvoirs de rage unchained#ODORAT|Odorat]]</td>
+    <td>[[Pouvoirs de rage unchained#REGARDINTIMIDANT|Regard intimidant]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMFIELONMINEUR|Totem fiélon, mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#CHASSEURDESORCIERE|Chasseur de sorcière]]</td>
+    <td>[[Pouvoirs de rage unchained#OUSTE|Ouste]]</td>
+    <td>[[Pouvoirs de rage unchained#REPOUSSERLENNEMI|Repousser l’ennemi]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMSPIRITUELMINEUR|Totem spirituel, mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#COLEREAUTOSUGGEREE|Colère autosuggérée]]</td>
+    <td>[[Pouvoirs de rage unchained#PASRAPIDES|Pas rapides]]</td>
+    <td>[[Pouvoirs de rage unchained#RESISTANCEALENERGIE|Résistance à l’énergie]]</td>
+    <td>[[Pouvoirs de rage unchained#VIEPRESERVEE|Vie préservée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#COURAGELIQUIDE|Courage liquide]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREDEFENSIVE|Posture défensive]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGCELESTEMINEUR|Sang céleste mineur]]</td>
+    <td>[[Pouvoirs de rage unchained#VISIONDENUIT|Vision de nuit]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#ESCALADEENRAGE|Escalade en rage]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREIMPRUDENTE|Posture imprudente]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGDEMORTVIVANTMINEUR|Sang de mort-vivant mineur]]</td>
+    <td>[[Pouvoirs de rage unchained#VISIONNOCTURNE|Vision nocturne]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#FEROCITEINSPIREE|Férocité inspirée]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTURELUCIDE|Posture lucide]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGDRACONIQUEMINEUR|Sang draconique mineur]]</td>
+    <td>[[Pouvoirs de rage unchained#VITALITERENOUVELEE|Vitalité renouvelée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#FRACASSEMENT|Fracassement]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREMUSCLEE|Posture musclée]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGELEMENTAIREMINEUR|Sang élémentaire mineur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#FUREURANIMALE|Fureur animale]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREPERCUTANTE|Posture percutante]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGFEERIQUEMINEUR|Sang féerique mineur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**4**</td>
+    <td>[[Pouvoirs de rage unchained#NOUVELLEVIGUEUR|Nouvelle vigueur]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREREGENERATRICE|Posture régénératrice]]</td>
+    <td>[[Pouvoirs de rage unchained#SPRINT|Sprint]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREELEMENTAIRE|Posture élémentaire]]</td>
+    <td>[[Pouvoirs de rage unchained#PRECISIONMORTELLE|Précision mortelle]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMDELARUCHE|Totem de la ruche]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**6**</td>
+    <td>[[Pouvoirs de rage unchained#ANIMALTOTEM|Animal totem]]</td>
+    <td>[[Pouvoirs de rage unchained#PROJECTILEENCHARGE|Projectile en charge]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGDRACONIQUE|Sang draconique]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMFIELON|Totem fiélon]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#ATTAQUEDOMINATRICE|Attaque dominatrice]]</td>
+    <td>[[Pouvoirs de rage unchained#RAGEFANTOME|Rage fantôme]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGELEMENTAIRE|Sang élémentaire]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMSPIRITUEL|Totem spirituel]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#BRISEROC|Brise roc]]</td>
+    <td>[[Pouvoirs de rage unchained#RESILIENCETOTEMIQUEDELARUCHE|Résilience totémique de la ruche]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGFEERIQUE|Sang féerique]]</td>
+    <td>[[Pouvoirs de rage unchained#VANTARDISE|Vantardise]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#ESPRITDUSERPENTMONDE|Esprit du serpent-monde]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGABYSSAL|Sang abyssal]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGINFERNAL|Sang infernal]]</td>
+    <td>[[Pouvoirs de rage unchained#VIEPRESERVEESUPERIEURE|Vie préservée supérieure]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#ESQUIVEREFLEXE|Esquive réflexe]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGCELESTE|Sang céleste]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMDRACONIQUE|Totem draconique]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#MONTURESPIRITUELLE|Monture spirituelle]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGDEMORTVIVANT|Sang de mort-vivant]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMDUCHAOS|Totem du chaos]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**8**</td>
+    <td>[[Pouvoirs de rage unchained#BRISEROCSUPERIEUR|Brise roc supérieur]]</td>
+    <td>[[Pouvoirs de rage unchained#HURLEMENTTERRIFIANT|Hurlement terrifiant]]</td>
+    <td>[[Pouvoirs de rage unchained#PERTURBATEUR|Perturbateur]]</td>
+    <td>[[Pouvoirs de rage unchained#REDUCTIONDEDEGATSACCRUE|Réduction de dégâts accrue]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#COUPHANDICAPANT|Coup handicapant]]</td>
+    <td>[[Pouvoirs de rage unchained#IDEESCLAIRES|Idées claires]]</td>
+    <td>[[Pouvoirs de rage unchained#PIETINEMENTFEROCE|Piétinement féroce]]</td>
+    <td>[[Pouvoirs de rage unchained#RESILIENCETOTEMIQUEDRACONIQUE|Résilience totémique draconique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#COUPHEMORRAGIQUE|Coup hémorragique]]</td>
+    <td>[[Pouvoirs de rage unchained#MONTUREFEROCEMAJEUR|Monture féroce, majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#PRECISIONAFFINEE|Précision affinée]]</td>
+    <td>[[Pouvoirs de rage unchained#TOXICITEDELARUCHE|Toxicité de la ruche]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#COUPINATTENDU|Coup inattendu]]</td>
+    <td>[[Pouvoirs de rage unchained#ODORATPRIMITIF|Odorat primitif]]</td>
+    <td>[[Pouvoirs de rage unchained#PROJECTILE|Projectile]]</td>
+    <td>[[Pouvoirs de rage unchained#VIGUEURINTERNE|Vigueur interne]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#DESTRUCTIONDENCHANTEMENT|Destruction d'enchantement]]</td>
+    <td>[[Pouvoirs de rage unchained#OUSTEMAJEUR|Ouste majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#PROTECTIONDESPOINTSVITAUX|Protection des points vitaux]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**10**</td>
+    <td>[[Pouvoirs de rage unchained#ANIMALTOTEMMAJEUR|Animal totem, majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGABYSSALMAJEUR|Sang abyssal majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGELEMENTAIREMAJEUR|Sang élémentaire majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#UNITEDUSERPENTMONDE|Unité du serpent-monde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#DEVOREURDEMAGIE|Dévoreur de magie]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGCELESTEMAJEUR|Sang céleste majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMDUCHAOSMAJEUR|Totem du chaos, majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#EGRATIGNURE|Égratignure]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGDEMORTVIVANTMAJEUR|Sang de mort-vivant majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMFIELONMAJEUR|Totem fiélon, majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#MASSUEVIVANTE|Massue vivante]]</td>
+    <td>[[Pouvoirs de rage unchained#SANGDRACONIQUEMAJEUR|Sang draconique majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#TOTEMSPIRITUELMAJEUR|Totem spirituel, majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**12**</td>
+    <td>[[Pouvoirs de rage unchained#ABSORPTIONENERGIE|Absorption d’énergie]]</td>
+    <td>[[Pouvoirs de rage unchained#PIETINEMENTFEROCEMAJEUR|Piétinement féroce, majeur]]</td>
+    <td>[[Pouvoirs de rage unchained#PROJECTILEMAJEUR|Projectile majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Pouvoirs de rage unchained#COUPREDOUTABLE|Coup redoutable]]</td>
+    <td>[[Pouvoirs de rage unchained#POSTUREVANTARDE|Posture vantarde]]</td>
+    <td>[[Pouvoirs de rage unchained#RAGESANSPEUR|Rage sans peur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**16**</td>
+    <td>[[Pouvoirs de rage unchained#PRECISIONLETALE|Précision létale]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 <div class="article_2col">

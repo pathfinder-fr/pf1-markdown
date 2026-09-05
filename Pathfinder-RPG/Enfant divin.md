@@ -13,7 +13,108 @@ Categories:
 {s:Reference|TABLEENFANTDIVIN}
 <center>
 
-<table CLASS="tablo autoalt"><caption>L'Enfant divin</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Enfant divin#ALIGNEMENTOPPOSÉ|Alignement opposé]]</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Enfant divin#SPÉCIALISATIONDEDOMAINE|Spécialisation de domaine]]</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Enfant divin#COLÈREDIVINE|Colère divine]]</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Enfant divin#DÉFENSEDIVINE|Défense divine]]</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Enfant divin#STUPEURDIVINE|Stupeur divine]]</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Enfant divin#REJETONVÉRITABLE|Rejeton véritable]]</td><td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>L'Enfant divin</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Enfant divin#ALIGNEMENTOPPOSÉ|Alignement opposé]]</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Enfant divin#SPÉCIALISATIONDEDOMAINE|Spécialisation de domaine]]</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Enfant divin#COLÈREDIVINE|Colère divine]]</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Enfant divin#DÉFENSEDIVINE|Défense divine]]</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Enfant divin#STUPEURDIVINE|Stupeur divine]]</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Enfant divin#REJETONVÉRITABLE|Rejeton véritable]]</td>
+    <td CLASS="gauche">[[Enfant divin#SORTS|+1 niveau dans une classe de lanceur de sorts divins]]</td>
+  </tr>
+</table>
 
 </center>
 

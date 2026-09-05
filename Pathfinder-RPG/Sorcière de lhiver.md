@@ -13,7 +13,114 @@ Toutes les sorcières de l'hiver ne sont pas liées par le sang à la noblesse d
 
 <center>
 
-<table CLASS="tablo"><caption>La sorcière de l'hiver</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Sorcière de lhiver#PROTECTEURHYPERBOREAL|Protecteur hyperboréal]], [[Sorcière de lhiver#SORCELLERIEDELHIVER|sorcellerie de l'hiver]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Sorcière de lhiver#GELETDEGEL|Gel et dégel]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Sorcière de lhiver#FROIDANORMAL|Froid anormal]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Sorcière de lhiver#SCULPTUREDEGLACEETDENEIGE|Sculpture de glace et de neige]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Sorcière de lhiver#MALEFICESDELHIVER|Maléfices de l'hiver]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Sorcière de lhiver#VISIONDUBLIZZARD|Vision du blizzard]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Sorcière de lhiver#FROIDSURNATUREL|Froid surnaturel]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Sorcière de lhiver#PATINAGESURGLACE|Patinage sur glace]], [[Sorcière de lhiver#FROIDINEXORABLE|froid inexorable]]</td><td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>La sorcière de l'hiver</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Sorcière de lhiver#PROTECTEURHYPERBOREAL|Protecteur hyperboréal]], [[Sorcière de
+      lhiver#SORCELLERIEDELHIVER|sorcellerie de l'hiver]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#GELETDEGEL|Gel et dégel]]</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#FROIDANORMAL|Froid anormal]]</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SCULPTUREDEGLACEETDENEIGE|Sculpture de glace et de neige]]</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#MALEFICESDELHIVER|Maléfices de l'hiver]]</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#VISIONDUBLIZZARD|Vision du blizzard]]</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#FROIDSURNATUREL|Froid surnaturel]]</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Sorcière de lhiver#PATINAGESURGLACE|Patinage sur glace]], [[Sorcière de lhiver#FROIDINEXORABLE|froid
+      inexorable]]
+    </td>
+    <td CLASS="gauche">[[Sorcière de lhiver#SORTS|+1 niveau dans la classe de sorcière]]</td>
+  </tr>
+</table>
 
 </center>
 

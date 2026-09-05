@@ -12,7 +12,111 @@ Categories:
 Les dissidents de l'aube ont émergé pour s'occuper du schisme et de l'hérésie de leur propre clergé, cherchant à effacer ou guérir les multiples divisions qui rongent leur religion. Afin d'éviter de se faire repérer par des personnes hostiles, les dissidents de l'aube doivent constamment travailler en secret et évitent les symboles sacrés, préférant des formes plus discrètes pour montrer leur foi comme des tatouages ou des bijoux bien cachés.''
 
 
-<table CLASS="tablo centre"><caption>Le dissident de l'aube</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Dissident de la Fleur de laube#SUPERCHERIEDIVINE|Supercherie divine]], [[Dissident de la Fleur de laube#DISPENSEDECOMPOSANTESMATERIELLES|dispense de composantes matérielles]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Dissident de la Fleur de laube#LANCEURDESORTSTROMPEUR|Lanceur de sorts trompeur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Dissident de la Fleur de laube#APOTRESCHISMATIQUE|Apôtre schismatique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Dissident de la Fleur de laube#LAMEBRULANTE|Lâme brûlante]] (feu)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Dissident de la Fleur de laube#REJETERLAFAUTE|Rejeter la faute]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+4</td><td CLASS="gauche">-</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Dissident de la Fleur de laube#LAMEBRULANTE|Lame brûlante]] (feu intense)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Dissident de la Fleur de laube#LUMIEREDELAURORE|Lumière de l'aurore]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Dissident de la Fleur de laube#VOLDUPHOENIX|Vol du Phœnix]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Le dissident de l'aube</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Dissident de la Fleur de laube#SUPERCHERIEDIVINE|Supercherie divine]], [[Dissident de la Fleur de
+      laube#DISPENSEDECOMPOSANTESMATERIELLES|dispense de composantes matérielles]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#LANCEURDESORTSTROMPEUR|Lanceur de sorts trompeur]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#APOTRESCHISMATIQUE|Apôtre schismatique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#LAMEBRULANTE|Lâme brûlante]] (feu)</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#REJETERLAFAUTE|Rejeter la faute]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#LAMEBRULANTE|Lame brûlante]] (feu intense)</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#LUMIEREDELAURORE|Lumière de l'aurore]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Dissident de la Fleur de laube#VOLDUPHOENIX|Vol du Phœnix]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 
 **Dé de vie.** d8
@@ -51,7 +155,18 @@ Un dissident de l'aube obtient le don [[Dispense de composantes matérielles]] c
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Pénalité</td><td>Condition</td></tr><tr CLASS="premier"><td>-0</td><td CLASS="gauche">Le sort a une portée personnelle</td></tr><tr><td>-5</td><td CLASS="gauche">Durant un combat</td></tr><tr><td>-5</td><td CLASS="gauche">Le sort a une portée de contact</td></tr><tr><td>-10</td><td CLASS="gauche">Le sort a une portée supérieure à « contact »</td></tr><tr><td>-niveau du sort x2</td><td CLASS="gauche">Le sort a un effet visible, audible ou observable</td></tr><tr><td>Échec automatique</td><td CLASS="gauche">Le sort a un effet observable qui émane clairement du lanceur de sort</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <tr CLASS="titre"><td>Pénalité</td><td>Condition</td></tr>
+  <tr CLASS="premier"><td>-0</td><td CLASS="gauche">Le sort a une portée personnelle</td></tr>
+  <tr><td>-5</td><td CLASS="gauche">Durant un combat</td></tr>
+  <tr><td>-5</td><td CLASS="gauche">Le sort a une portée de contact</td></tr>
+  <tr><td>-10</td><td CLASS="gauche">Le sort a une portée supérieure à « contact »</td></tr>
+  <tr><td>-niveau du sort x2</td><td CLASS="gauche">Le sort a un effet visible, audible ou observable</td></tr>
+  <tr>
+    <td>Échec automatique</td>
+    <td CLASS="gauche">Le sort a un effet observable qui émane clairement du lanceur de sort</td>
+  </tr>
+</table>
 
 </div></div>Au niveau 2, un dissident de l'aube peut déguiser son incantation de sorts avec un test de [[Bluff]] (pour des sorts avec des composantes [[Présentation des sorts#COMPOSANTEVERBALE|verbales]]) opposé à un test de [[Psychologie]] fait par l'observateur, et/ou un test d'[[Escamotage]] (pour les sorts à composantes [[Présentation des sorts#COMPOSANTEGESTUELLE|gestuelles]]) opposé à un test de [[Perception]] fait par l'observateur. Selon la situation, les tests de Bluff et d'Escamotage du dissident de l'aube reçoivent des modificateurs selon le tableau ci-contre.
 

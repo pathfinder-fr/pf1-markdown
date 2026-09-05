@@ -76,7 +76,14 @@ Une pièce pèse environ 10 grammes et cent pièces pèsent un kilo.
 {s:Reference|TABLEDIFFERENTSTYPESDEPIECES}
 <center>
 
-<table CLASS="tablo"><caption>Les différents types de pièces</caption><tr CLASS="titre"><td>Valeur d'échange</td><td>PC</td><td>PA</td><td>PO</td><td>PP</td></tr><tr CLASS="premier"><td>Pièce de cuivre (pc)</td><td>1</td><td>1/10</td><td>1/100</td><td>1/1 000</td></tr><tr CLASS="alt"><td>Pièce d’argent (pa)</td><td>10</td><td>1</td><td>1/10</td><td>1/100</td></tr><tr><td>Pièce d’or (po)</td><td>100</td><td>10</td><td>1</td><td>1/10</td></tr><tr CLASS="alt"><td>Pièce de platine (pp)</td><td>1 000</td><td>100</td><td>10</td><td>1</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les différents types de pièces</caption>
+  <tr CLASS="titre"><td>Valeur d'échange</td><td>PC</td><td>PA</td><td>PO</td><td>PP</td></tr>
+  <tr CLASS="premier"><td>Pièce de cuivre (pc)</td><td>1</td><td>1/10</td><td>1/100</td><td>1/1 000</td></tr>
+  <tr CLASS="alt"><td>Pièce d’argent (pa)</td><td>10</td><td>1</td><td>1/10</td><td>1/100</td></tr>
+  <tr><td>Pièce d’or (po)</td><td>100</td><td>10</td><td>1</td><td>1/10</td></tr>
+  <tr CLASS="alt"><td>Pièce de platine (pp)</td><td>1 000</td><td>100</td><td>10</td><td>1</td></tr>
+</table>
 
 </center>
 
@@ -92,7 +99,23 @@ Souvent, la richesse des gens ne se calcule pas en pièces d’or. Voici le prix
 
 <center>
 
-<table CLASS="tablo"><caption>Produits de consommation courante</caption><tr CLASS="titre"><td>Prix</td><td CLASS="gauche">Article</td></tr><tr CLASS="premier"><td>1 pc</td><td CLASS="gauche">Une livre* de blé</td></tr><tr CLASS="alt"><td>2 pc</td><td CLASS="gauche">Une livre* de farine ou un poulet</td></tr><tr><td>1 pa</td><td CLASS="gauche">Une livre* de fer</td></tr><tr CLASS="alt"><td>5 pa</td><td CLASS="gauche">Une livre* de tabac ou de cuivre</td></tr><tr><td>1 po</td><td CLASS="gauche">Une livre* de cannelle ou une chèvre</td></tr><tr CLASS="alt"><td>2 po</td><td CLASS="gauche">Une livre* de gingembre ou de poivre ou un mouton</td></tr><tr><td>3 po</td><td CLASS="gauche">Un cochon</td></tr><tr CLASS="alt"><td>4 po</td><td CLASS="gauche">Un mètre carré de lin</td></tr><tr><td>5 po</td><td CLASS="gauche">Une livre* d’argent ou de sel</td></tr><tr CLASS="alt"><td>10 po</td><td CLASS="gauche">Un mètre carré de soie, ou une vache</td></tr><tr><td>15 po</td><td CLASS="gauche">Une livre* de safran ou de clous de girofle, ou un bœuf</td></tr><tr CLASS="alt"><td>50 po</td><td CLASS="gauche">Une livre* d’or</td></tr><tr><td>500 po</td><td CLASS="gauche">Une livre* de platine</td></tr></table>
+<table CLASS="tablo">
+  <caption>Produits de consommation courante</caption>
+  <tr CLASS="titre"><td>Prix</td><td CLASS="gauche">Article</td></tr>
+  <tr CLASS="premier"><td>1 pc</td><td CLASS="gauche">Une livre* de blé</td></tr>
+  <tr CLASS="alt"><td>2 pc</td><td CLASS="gauche">Une livre* de farine ou un poulet</td></tr>
+  <tr><td>1 pa</td><td CLASS="gauche">Une livre* de fer</td></tr>
+  <tr CLASS="alt"><td>5 pa</td><td CLASS="gauche">Une livre* de tabac ou de cuivre</td></tr>
+  <tr><td>1 po</td><td CLASS="gauche">Une livre* de cannelle ou une chèvre</td></tr>
+  <tr CLASS="alt"><td>2 po</td><td CLASS="gauche">Une livre* de gingembre ou de poivre ou un mouton</td></tr>
+  <tr><td>3 po</td><td CLASS="gauche">Un cochon</td></tr>
+  <tr CLASS="alt"><td>4 po</td><td CLASS="gauche">Un mètre carré de lin</td></tr>
+  <tr><td>5 po</td><td CLASS="gauche">Une livre* d’argent ou de sel</td></tr>
+  <tr CLASS="alt"><td>10 po</td><td CLASS="gauche">Un mètre carré de soie, ou une vache</td></tr>
+  <tr><td>15 po</td><td CLASS="gauche">Une livre* de safran ou de clous de girofle, ou un bœuf</td></tr>
+  <tr CLASS="alt"><td>50 po</td><td CLASS="gauche">Une livre* d’or</td></tr>
+  <tr><td>500 po</td><td CLASS="gauche">Une livre* de platine</td></tr>
+</table>
 
 <nowiki>*</nowiki>une livre = 500 g
 </center>

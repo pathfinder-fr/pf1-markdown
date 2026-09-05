@@ -10,11 +10,2258 @@ Tout le monde peut utiliser un objet merveilleux sans emplacement à moins que l
 
 <table width="100%"><tr><td width=50%>
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="98%"><caption>Objets merveilleux sans emplacement</caption><tr CLASS="titre"><td WIDTH="66%">Nom</td><td WIDTH="20%">Prix</td><td WIDTH="14%">Poids</td></tr><tr CLASS="premier"><td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (ancre)</td><td>50 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Solvant Universel|Solvant Universel]]</td><td>50 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Torche Ioun|Torche Ioun]]</td><td>75 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Parchemin ailé à scandale|Parchemin ailé à scandale]]</td><td>100 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Peinture de Guerre du Terrible Visage|Peinture de Guerre du Terrible Visage]]</td><td>100 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Piton Tenace|Piton Tenace]]</td><td>100 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir dAmour|Élixir d’Amour]]</td><td>150 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Onguent dIntemporalité|Onguent d’Intemporalité]]</td><td>150 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (lance)]]</td><td>150 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Alambic À Formules|Alambic À Formules]]</td><td>200 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Entonnoir dHybridation|Entonnoir d’Hybridation]]</td><td>200 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (crochet céleste)]]</td><td>200 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (éventail)</td><td>200 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Savon de lÂme|Savon de l’Âme]]</td><td>200 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de Discrétion Instinctive|Élixir de Discrétion Instinctive]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de Nage|Élixir de Nage]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de voix tonitruante|Élixir de voix tonitruante]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir dAcrobatie|Élixir d’Acrobatie]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir dAcuité Visuelle|Élixir d’Acuité Visuelle]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Gouttes de Vision Nocturne|Gouttes de Vision Nocturne]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Huile de Silence|Huile de Silence]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lustrargent|Lustrargent]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Outil Multifonction de Baroudeur|Outil Multifonction de Baroudeur]]</td><td>250 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre de Dissimulation des Traces|Poudre de Dissimulation des Traces]]</td><td>250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bouteille À Message|Bouteille À Message]]</td><td>300 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Braise bondissante|Braise bondissante]]</td><td>300 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (oiseau)</td><td>300 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Vermine En Papier Plié|Vermine En Papier Plié]]</td><td>300 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pièce factice|Pièce factice]]</td><td>375 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Clef de Solide Fermeture|Clef de Solide Fermeture]]</td><td>400 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cure-dent de pyrotechnie|Cure-dent de pyrotechnie]]</td><td>400 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (arbre)</td><td>400 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pomme dOr Alléchante|Pomme d’Or Alléchante]]</td><td>400 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pièce-mouchard|Pièce-mouchard]]</td><td>450 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (bateau cygne)</td><td>450 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (plume flottante)]]</td><td>450 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Essence enchantée|Essence enchantée]]</td><td>500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Figurine de cire|Figurine de cire]]</td><td>500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourreau À Aiguiser|Fourreau À Aiguiser]]</td><td>500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide magique|Guide magique]]</td><td>500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maléfice En Bouteille|Maléfice En Bouteille]]</td><td>500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (camp)]]</td><td>500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (fouet)</td><td>500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Portrait Animé|Portrait Animé]]</td><td>500 po</td><td>5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sérum de Vérité|Sérum de Vérité]]</td><td>500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Thé Divinatoire|Thé Divinatoire]]</td><td>550 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Aimant À Projectiles|Aimant À Projectiles]]</td><td>600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (goudron et plumes)]]</td><td>600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre Obscurcissante|Poudre Obscurcissante]]</td><td>600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poussière du conteur|Poussière du conteur]]</td><td>600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sel dAbjuration|Sel d’Abjuration]]</td><td>600 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Feu de Camp|Perle de Feu de Camp]]</td><td>720 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corde de Fer|Corde de Fer]]</td><td>750 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de la parole d'or|Élixir de la parole d'or]]</td><td>750 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Feuille Magique|Feuille Magique]]</td><td>750 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Graisse d'armure discrète|Graisse d'armure discrète]]</td><td>750 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Livre de Convocation Durable|Livre de Convocation Durable]] inférieur</td><td>750 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poussière de lassassin|Poussière de l’assassin]]</td><td>750 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Torche dArchon|Torche d’Archon]]</td><td>750 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cirage Défoliant|Cirage Défoliant]]</td><td>800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encens de revitalisation des esprits|Encens de revitalisation des esprits]]</td><td>800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourrure de Yéti En Bouteille|Fourrure de Yéti En Bouteille]]</td><td>800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre dEntrailles En Acier|Pierre d’Entrailles En Acier]]</td><td>800 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poussière dÉmulation|Poussière d’Émulation]]</td><td>800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre Dessicative|Poudre Dessicative]]</td><td>850 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cri en bouteille|Cri en bouteille]]</td><td>900 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Besace de lExplorateur|Besace de l'Explorateur]]</td><td>1.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille Antimétamorphose|Bille Antimétamorphose]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (1er niveau)</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Ciboire des Domaines Altérés|Ciboire des Domaines Altérés]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encens de Transcendance|Encens de Transcendance]]</td><td>1.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Ex-libris de Rappel|Ex-libris de Rappel]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]] (1er niveau)</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Liqueur Radiesthésique|Liqueur Radiesthésique]]</td><td>1.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 1)</td><td>1.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Nid Grouillant de Guêpes|Nid Grouillant de Guêpes]]</td><td>1.000 po</td><td>2 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Onguent dInsaisissabilité|Onguent d’Insaisissabilité]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (1er niveau)</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (1er niveau)</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poche de Dissimulation|Poche de Dissimulation]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poupée Anatomique|Poupée Anatomique]]</td><td>1.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pâte de Lien Animal|Pâte de Lien Animal]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre solidifiante|Pierre solidifiante]]</td><td>1.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de Souffle Enflammé|Élixir de Souffle Enflammé]]</td><td>1.100 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sel Funéraire|Sel Funéraire]]</td><td>1.100 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flûte dHamelin|Flûte d’Hamelin]]</td><td>1.150 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Crâne Gobelin Explosif|Crâne Gobelin Explosif]]</td><td>1.200 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre dIllusion|Poudre d’Illusion]]</td><td>1.200 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de Souffle Draconique|Élixir de Souffle Draconique]]</td><td>1.400 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encens de réalité corporelle|Encens de réalité corporelle]]</td><td>1.400 po</td><td>0.25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pot de divination animale|Pot de divination animale]]</td><td>1.400 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre fantôme|Poudre fantôme]]</td><td>1.400 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bouteille À Paroles|Bouteille À Paroles]]</td><td>1.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cierge de protection contre les esprits|Cierge de protection contre les esprits]]</td><td>1.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Marque-page Trompeur|Marque-page Trompeur]]</td><td>1.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Monnaie dExplorateur|Monnaie d'Explorateur]]</td><td>1.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudrier de charme|Poudrier de charme]]</td><td>1.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sifflet à chien dévastateur|Sifflet à chien dévastateur]]</td><td>1.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre Absorbante Acide|Poudre Absorbante Acide]]</td><td>1.600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Carquois Efficace|Carquois Efficace]]</td><td>1.800 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flûte À Bruitages|Flûte À Bruitages]]</td><td>1.800 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourreau de Vigueur|Fourreau de Vigueur]]</td><td>1.800 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre dApparition|Poudre d’Apparition]]</td><td>1.800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boîte À Tintamarre|Boîte À Tintamarre]]</td><td>2.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bâton de Marche Agile|Bâton de Marche Agile]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cartographeur autonome|Cartographeur autonome]]</td><td>2.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne À Poudre Étanche|Corne À Poudre Étanche]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne de Brume|Corne de Brume]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encens deidos|Encens d’eidos]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide du contrebandier|Guide du contrebandier]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide étincelant|Guide étincelant]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Havresac du Mage|Havresac du Mage]]</td><td>2.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lanterne des auras|Lanterne des auras]]</td><td>2.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Luth va-t-en-guerre|Luth va-t-en-guerre]]</td><td>2.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre réparatrice|Pierre réparatrice]]</td><td>2.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pointe En Fer Illusoire|Pointe En Fer Illusoire]]</td><td>2.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poussière de restauration|Poussière de restauration]]</td><td>2.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 1)</td><td>2.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sang de Prouesse Physique|Sang de Prouesse Physique]]</td><td>2.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pennon de Chevalier(honneur)|Pennon de Chevalier(honneur)]]</td><td>2.200 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pilule Volatile|Pilule Volatile]] (1er niveau)</td><td>2.200 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élixir de changement de sexe|Élixir de changement de sexe]]</td><td>2.250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Gemme À Élémentaire|Gemme À Élémentaire]]</td><td>2.250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Onguent de Vol|Onguent de Vol]]</td><td>2.250 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Colle Universelle|Colle Universelle]]</td><td>2.400 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Os de troll|Os de troll]]</td><td>2.400 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cierge de Vérité|Cierge de Vérité]]</td><td>2.500 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Élégance de lépéiste|Élégance de l’épéiste]]</td><td>2.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pomme du Sommeil Éternel|Pomme du Sommeil Éternel]]</td><td>2.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poupée Malfaisante|Poupée Malfaisante]]</td><td>2.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (1er modèle)</td><td>2.500 po</td><td>7,5 kg ou +</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre dAlerte|Pierre d’Alerte]]</td><td>2.700 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Livre de Convocation Durable|Livre de Convocation Durable]] intermédiaire</td><td>2.750 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Attrape-rêves|Attrape-rêves]]</td><td>2.800 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encens de réceptivité mentale|Encens de réceptivité mentale]]</td><td>2.800 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Force|Bille de Force]]</td><td>3.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Carillon dOuverture|Carillon d’Ouverture]]</td><td>3.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaudron À Décoction|Chaudron À Décoction]]</td><td>3.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cloche des esprits-revenants|Cloche des esprits-revenants]]</td><td>3.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corde dEscalade|Corde d’Escalade]]</td><td>3.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide hypnotique|Guide hypnotique]]</td><td>3.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Philtre dAmour|Philtre d’Amour]]</td><td>3.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pilule Volatile|Pilule Volatile]] (2eme niveau)</td><td>3.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poche explosive|Poche explosive]]</td><td>3.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Porte-clés magique|Porte-clés magique]]</td><td>3.000 po</td><td>4 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Linceul de Désintégration|Linceul de Désintégration]]</td><td>3.300 po</td><td>kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac À Malice|Sac À Malice]] (gris)</td><td>3.400 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Parchemin de pacte|Parchemin de pacte]]</td><td>3.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre de Disparition|Poudre de Disparition]]</td><td>3.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre dAlourdissement|Poudre d’Alourdissement]]</td><td>3.600 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pyxide de Vigilance|Pyxide de Vigilance]]</td><td>3.600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Talisman de convocation de destrier|Talisman de convocation de destrier]]</td><td>3.600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Trèfle à quatre feuilles|Trèfle à quatre feuilles]]</td><td>3.750 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pilule Volatile|Pilule Volatile]] (3eme niveau)</td><td>3.800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (corbeau d'argent)</td><td>3.800 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (2eme niveau)</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Échelle Dimensionnelle|Échelle Dimensionnelle]]</td><td>4.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Filière de Précaution|Filière de Précaution]]</td><td>4.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]] (2eme niveau)</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lunette Longue Distance|Lunette Longue Distance]]</td><td>4.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 2)</td><td>4.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Onguent de Restauration|Onguent de Restauration]]</td><td>4.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Onguent des Roches|Onguent des Roches]]</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (2eme niveau)</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (2eme niveau)</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pigments Merveilleux|Pigments Merveilleux]]</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre thaumaturgique|Poudre thaumaturgique]]</td><td>4.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Calebasse scintillante|Calebasse scintillante]]</td><td>4.250 po</td><td>4 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Compas des Vents|Compas des Vents]]</td><td>4.400 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pennon de Chevalier|Pennon de Chevalier]] (pourparler)</td><td>4.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poudre Néantisée|Poudre Néantisée]]</td><td>4.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Tambour de Feu incendiaire Gobelin|Tambour de Feu incendiaire Gobelin]]</td><td>4.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encens de Méditation|Encens de Méditation]]</td><td>4.900 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Banc dYeux-poissons Indiscrets|Banc d’Yeux-poissons Indiscrets]]</td><td>5.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bourse Polymorphe|Bourse Polymorphe]]</td><td>5.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaise à porteurs flottante|Chaise à porteurs flottante]]</td><td>5.000 po</td><td>125 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne du Grand Veneur|Corne du Grand Veneur]]</td><td>5.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fer de Convocation|Fer de Convocation]]</td><td>5.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fiole de Mélange|Fiole de Mélange]]</td><td>5.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourreau de Coagulation|Fourreau de Coagulation]]</td><td>5.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourreau de Lame Discrète|Fourreau de Lame Discrète]]</td><td>5.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourreau des mille lames|Fourreau des mille lames]]</td><td>5.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Heurtoir de Porte Magique|Heurtoir de Porte Magique]]</td><td>5.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide infatigable|Guide infatigable]]</td><td>5.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lame dOs|Lame d’Os]]</td><td>5.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillet de Bâtisseur|Maillet de Bâtisseur]]</td><td>5.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre dAlliance|Pierre d’Alliance]]</td><td>5.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (2eme modèle)</td><td>5.000 po</td><td>7,5 kg ou +</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bannière des nuits réparatrices|Bannière des nuits réparatrices]]</td><td>5.040 po</td><td>3,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cuillère Nourrissante|Cuillère Nourrissante]]</td><td>5.400 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Urne Fumigène|Urne Fumigène]]</td><td>5.400 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Secrétaire escamotable|Secrétaire escamotable]]</td><td>5.400 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Éventail Enchanté|Éventail Enchanté]]</td><td>5.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lanterne Macabre|Lanterne Macabre]]</td><td>5.800 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bol Chantant de Frappe Ki|Bol Chantant de Frappe Ki]]</td><td>6.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cor de Lucidité Martiale|Cor de Lucidité Martiale]]</td><td>6.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corde de Nouement|Corde de Nouement]]</td><td>6.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Familier de Pierre|Familier de Pierre]]</td><td>6.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flûte de Hantise|Flûte de Hantise]]</td><td>6.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Insigne de Lien Vital|Insigne de Lien Vital]]</td><td>6.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Larme de Martyr|Larme de Martyr]]</td><td>6.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pièce de Destinée Aléatoire|Pièce de Destinée Aléatoire]]</td><td>6.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Livre de Convocation Durable|Livre de Convocation Durable]] supérieur</td><td>6.126 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sifflet dinvocation|Sifflet d’invocation]]</td><td>6.300 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Baguettes Divinatoires En Os de Dragon|Baguettes Divinatoires En Os de Dragon]]</td><td>6.400 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cor du Bien/du Mal|Cor du Bien/du Mal]]</td><td>6.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bindi En Écaille de Naga|Bindi En Écaille de Naga]]</td><td>6.600 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fer à cheval porte-bonheur|Fer à cheval porte-bonheur]]</td><td>6.800 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cape de Bravade|Cape de Bravade]]</td><td>7.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Commode à déguisements|Commode à déguisements]]</td><td>7.000 po</td><td>250 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flacon dOmbres|Flacon d’Ombres]]</td><td>7.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide bruyant|Guide bruyant]]</td><td>7.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir Aux Reflets Protecteurs|Miroir Aux Reflets Protecteurs]]</td><td>7.000 po</td><td>2 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pont Escamotable|Pont Escamotable]]</td><td>7.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bateau Pliant|Bateau Pliant]]</td><td>7.200 po</td><td>2 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flacon dAir Pur|Flacon d’Air Pur]]</td><td>7.250 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (modèle 3)</td><td>7.400 po</td><td>7,5 kg ou +</td></tr><tr><td>[[Objets merveilleux sans emplacement#Baume de Souplesse Taquine|Baume de Souplesse Taquine]]</td><td>7.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bougie dAir Pur|Bougie d’Air Pur]]</td><td>7.500 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fenêtre à sens unique|Fenêtre à sens unique]]</td><td>7.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Harpe de Suggestion|Harpe de Suggestion]]</td><td>7.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Guerre|Traité de Guerre]]</td><td>7.500 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Scarabée du dieu des travailleurs|Scarabée du dieu des travailleurs]]</td><td>7.800 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Aiguilles de Tatouage Magiques|Aiguilles de Tatouage Magiques]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Coupe de Larmes Toxiques|Coupe de Larmes Toxiques]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Coupes dentente|Coupes d’entente]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Goupillon dExorciste|Goupillon d’Exorciste]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide brise-sorts|Guide brise-sorts]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide évanescent|Guide évanescent]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide révélateur|Guide révélateur]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Harpe Fracassante|Harpe Fracassante]]</td><td>8.000 po</td><td>2,5 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="98%">
+  <caption>Objets merveilleux sans emplacement</caption>
+  <tr CLASS="titre"><td WIDTH="66%">Nom</td><td WIDTH="20%">Prix</td><td WIDTH="14%">Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (ancre)</td>
+    <td>50 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Solvant Universel|Solvant Universel]]</td>
+    <td>50 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Torche Ioun|Torche Ioun]]</td><td>75 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Parchemin ailé à scandale|Parchemin ailé à scandale]]</td>
+    <td>100 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Peinture de Guerre du Terrible Visage|Peinture de Guerre du Terrible
+      Visage]]
+    </td>
+    <td>100 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Piton Tenace|Piton Tenace]]</td><td>100 po</td><td>0,25 kg</td></tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Élixir dAmour|Élixir d’Amour]]</td><td>150 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Onguent dIntemporalité|Onguent d’Intemporalité]]</td>
+    <td>150 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (lance)]]</td>
+    <td>150 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Alambic À Formules|Alambic À Formules]]</td>
+    <td>200 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Entonnoir dHybridation|Entonnoir d’Hybridation]]</td>
+    <td>200 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (crochet céleste)]]</td>
+    <td>200 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (éventail)</td>
+    <td>200 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Savon de lÂme|Savon de l’Âme]]</td><td>200 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir de Discrétion Instinctive|Élixir de Discrétion Instinctive]]</td>
+    <td>250 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Élixir de Nage|Élixir de Nage]]</td><td>250 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir de voix tonitruante|Élixir de voix tonitruante]]</td>
+    <td>250 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir dAcrobatie|Élixir d’Acrobatie]]</td>
+    <td>250 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir dAcuité Visuelle|Élixir d’Acuité Visuelle]]</td>
+    <td>250 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Gouttes de Vision Nocturne|Gouttes de Vision Nocturne]]</td>
+    <td>250 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Huile de Silence|Huile de Silence]]</td><td>250 po</td><td>—</td></tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Lustrargent|Lustrargent]]</td><td>250 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Outil Multifonction de Baroudeur|Outil Multifonction de Baroudeur]]</td>
+    <td>250 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Poudre de Dissimulation des Traces|Poudre de Dissimulation des Traces]]
+    </td>
+    <td>250 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bouteille À Message|Bouteille À Message]]</td>
+    <td>300 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Braise bondissante|Braise bondissante]]</td>
+    <td>300 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (oiseau)</td>
+    <td>300 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Vermine En Papier Plié|Vermine En Papier Plié]]</td>
+    <td>300 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Pièce factice|Pièce factice]]</td><td>375 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Clef de Solide Fermeture|Clef de Solide Fermeture]]</td>
+    <td>400 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cure-dent de pyrotechnie|Cure-dent de pyrotechnie]]</td>
+    <td>400 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (arbre)</td>
+    <td>400 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pomme dOr Alléchante|Pomme d’Or Alléchante]]</td>
+    <td>400 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Pièce-mouchard|Pièce-mouchard]]</td><td>450 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (bateau cygne)</td>
+    <td>450 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (plume flottante)]]</td>
+    <td>450 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Essence enchantée|Essence enchantée]]</td>
+    <td>500 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Figurine de cire|Figurine de cire]]</td><td>500 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourreau À Aiguiser|Fourreau À Aiguiser]]</td>
+    <td>500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Guide magique|Guide magique]]</td><td>500 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maléfice En Bouteille|Maléfice En Bouteille]]</td>
+    <td>500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (camp)]]</td>
+    <td>500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume Magique|Plume Magique]] (fouet)</td>
+    <td>500 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Portrait Animé|Portrait Animé]]</td><td>500 po</td><td>5 kg</td></tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Sérum de Vérité|Sérum de Vérité]]</td><td>500 po</td><td>—</td></tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Thé Divinatoire|Thé Divinatoire]]</td><td>550 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Aimant À Projectiles|Aimant À Projectiles]]</td>
+    <td>600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Plume magique|Plume magique (goudron et plumes)]]</td>
+    <td>600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre Obscurcissante|Poudre Obscurcissante]]</td>
+    <td>600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poussière du conteur|Poussière du conteur]]</td>
+    <td>600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sel dAbjuration|Sel d’Abjuration]]</td>
+    <td>600 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Feu de Camp|Perle de Feu de Camp]]</td>
+    <td>720 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Corde de Fer|Corde de Fer]]</td><td>750 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir de la parole d'or|Élixir de la parole d'or]]</td>
+    <td>750 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Feuille Magique|Feuille Magique]]</td><td>750 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Graisse d'armure discrète|Graisse d'armure discrète]]</td>
+    <td>750 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Livre de Convocation Durable|Livre de Convocation Durable]] inférieur</td>
+    <td>750 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poussière de lassassin|Poussière de l’assassin]]</td>
+    <td>750 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Torche dArchon|Torche d’Archon]]</td>
+    <td>750 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Cirage Défoliant|Cirage Défoliant]]</td><td>800 po</td><td>—</td></tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Encens de revitalisation des esprits|Encens de revitalisation des
+      esprits]]
+    </td>
+    <td>800 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourrure de Yéti En Bouteille|Fourrure de Yéti En Bouteille]]</td>
+    <td>800 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierre dEntrailles En Acier|Pierre d’Entrailles En Acier]]</td>
+    <td>800 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poussière dÉmulation|Poussière d’Émulation]]</td>
+    <td>800 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre Dessicative|Poudre Dessicative]]</td>
+    <td>850 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cri en bouteille|Cri en bouteille]]</td>
+    <td>900 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Besace de lExplorateur|Besace de l'Explorateur]]</td>
+    <td>1.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille Antimétamorphose|Bille Antimétamorphose]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (1er niveau)</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Ciboire des Domaines Altérés|Ciboire des Domaines Altérés]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Encens de Transcendance|Encens de Transcendance]]</td>
+    <td>1.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Ex-libris de Rappel|Ex-libris de Rappel]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]]
+      (1er niveau)
+    </td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Liqueur Radiesthésique|Liqueur Radiesthésique]]</td>
+    <td>1.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 1)</td>
+    <td>1.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Nid Grouillant de Guêpes|Nid Grouillant de Guêpes]]</td>
+    <td>1.000 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Onguent dInsaisissabilité|Onguent d’Insaisissabilité]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (1er
+      niveau)
+    </td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (1er niveau)</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poche de Dissimulation|Poche de Dissimulation]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poupée Anatomique|Poupée Anatomique]]</td>
+    <td>1.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pâte de Lien Animal|Pâte de Lien Animal]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierre solidifiante|Pierre solidifiante]]</td>
+    <td>1.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir de Souffle Enflammé|Élixir de Souffle Enflammé]]</td>
+    <td>1.100 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sel Funéraire|Sel Funéraire]]</td>
+    <td>1.100 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flûte dHamelin|Flûte d’Hamelin]]</td>
+    <td>1.150 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Crâne Gobelin Explosif|Crâne Gobelin Explosif]]</td>
+    <td>1.200 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre dIllusion|Poudre d’Illusion]]</td>
+    <td>1.200 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir de Souffle Draconique|Élixir de Souffle Draconique]]</td>
+    <td>1.400 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Encens de réalité corporelle|Encens de réalité corporelle]]</td>
+    <td>1.400 po</td>
+    <td>0.25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pot de divination animale|Pot de divination animale]]</td>
+    <td>1.400 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre fantôme|Poudre fantôme]]</td>
+    <td>1.400 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bouteille À Paroles|Bouteille À Paroles]]</td>
+    <td>1.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Cierge de protection contre les esprits|Cierge de protection contre les
+      esprits]]
+    </td>
+    <td>1.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Marque-page Trompeur|Marque-page Trompeur]]</td>
+    <td>1.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Monnaie dExplorateur|Monnaie d'Explorateur]]</td>
+    <td>1.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudrier de charme|Poudrier de charme]]</td>
+    <td>1.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sifflet à chien dévastateur|Sifflet à chien dévastateur]]</td>
+    <td>1.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre Absorbante Acide|Poudre Absorbante Acide]]</td>
+    <td>1.600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Carquois Efficace|Carquois Efficace]]</td>
+    <td>1.800 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flûte À Bruitages|Flûte À Bruitages]]</td>
+    <td>1.800 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourreau de Vigueur|Fourreau de Vigueur]]</td>
+    <td>1.800 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre dApparition|Poudre d’Apparition]]</td>
+    <td>1.800 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boîte À Tintamarre|Boîte À Tintamarre]]</td>
+    <td>2.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bâton de Marche Agile|Bâton de Marche Agile]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cartographeur autonome|Cartographeur autonome]]</td>
+    <td>2.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne À Poudre Étanche|Corne À Poudre Étanche]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne de Brume|Corne de Brume]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Encens deidos|Encens d’eidos]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide du contrebandier|Guide du contrebandier]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide étincelant|Guide étincelant]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Havresac du Mage|Havresac du Mage]]</td>
+    <td>2.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Lanterne des auras|Lanterne des auras]]</td>
+    <td>2.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Luth va-t-en-guerre|Luth va-t-en-guerre]]</td>
+    <td>2.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierre réparatrice|Pierre réparatrice]]</td>
+    <td>2.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pointe En Fer Illusoire|Pointe En Fer Illusoire]]</td>
+    <td>2.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poussière de restauration|Poussière de restauration]]</td>
+    <td>2.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 1)</td>
+    <td>2.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sang de Prouesse Physique|Sang de Prouesse Physique]]</td>
+    <td>2.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pennon de Chevalier(honneur)|Pennon de Chevalier(honneur)]]</td>
+    <td>2.200 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pilule Volatile|Pilule Volatile]] (1er niveau)</td>
+    <td>2.200 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élixir de changement de sexe|Élixir de changement de sexe]]</td>
+    <td>2.250 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Gemme À Élémentaire|Gemme À Élémentaire]]</td>
+    <td>2.250 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Onguent de Vol|Onguent de Vol]]</td><td>2.250 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Colle Universelle|Colle Universelle]]</td>
+    <td>2.400 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Os de troll|Os de troll]]</td><td>2.400 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cierge de Vérité|Cierge de Vérité]]</td>
+    <td>2.500 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Élégance de lépéiste|Élégance de l’épéiste]]</td>
+    <td>2.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pomme du Sommeil Éternel|Pomme du Sommeil Éternel]]</td>
+    <td>2.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poupée Malfaisante|Poupée Malfaisante]]</td>
+    <td>2.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (1er modèle)</td>
+    <td>2.500 po</td>
+    <td>7,5 kg ou +</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierre dAlerte|Pierre d’Alerte]]</td>
+    <td>2.700 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Livre de Convocation Durable|Livre de Convocation Durable]]
+      intermédiaire
+    </td>
+    <td>2.750 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Attrape-rêves|Attrape-rêves]]</td><td>2.800 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Encens de réceptivité mentale|Encens de réceptivité mentale]]</td>
+    <td>2.800 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Bille de Force|Bille de Force]]</td><td>3.000 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Carillon dOuverture|Carillon d’Ouverture]]</td>
+    <td>3.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaudron À Décoction|Chaudron À Décoction]]</td>
+    <td>3.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cloche des esprits-revenants|Cloche des esprits-revenants]]</td>
+    <td>3.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corde dEscalade|Corde d’Escalade]]</td>
+    <td>3.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide hypnotique|Guide hypnotique]]</td>
+    <td>3.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Philtre dAmour|Philtre d’Amour]]</td><td>3.000 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pilule Volatile|Pilule Volatile]] (2eme niveau)</td>
+    <td>3.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poche explosive|Poche explosive]]</td>
+    <td>3.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Porte-clés magique|Porte-clés magique]]</td>
+    <td>3.000 po</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Linceul de Désintégration|Linceul de Désintégration]]</td>
+    <td>3.300 po</td>
+    <td>kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac À Malice|Sac À Malice]] (gris)</td>
+    <td>3.400 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Parchemin de pacte|Parchemin de pacte]]</td>
+    <td>3.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre de Disparition|Poudre de Disparition]]</td>
+    <td>3.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre dAlourdissement|Poudre d’Alourdissement]]</td>
+    <td>3.600 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pyxide de Vigilance|Pyxide de Vigilance]]</td>
+    <td>3.600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Talisman de convocation de destrier|Talisman de convocation de
+      destrier]]
+    </td>
+    <td>3.600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Trèfle à quatre feuilles|Trèfle à quatre feuilles]]</td>
+    <td>3.750 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pilule Volatile|Pilule Volatile]] (3eme niveau)</td>
+    <td>3.800 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (corbeau d'argent)</td>
+    <td>3.800 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (2eme niveau)</td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Échelle Dimensionnelle|Échelle Dimensionnelle]]</td>
+    <td>4.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Filière de Précaution|Filière de Précaution]]</td>
+    <td>4.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]]
+      (2eme niveau)
+    </td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Lunette Longue Distance|Lunette Longue Distance]]</td>
+    <td>4.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 2)</td>
+    <td>4.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Onguent de Restauration|Onguent de Restauration]]</td>
+    <td>4.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Onguent des Roches|Onguent des Roches]]</td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (2eme
+      niveau)
+    </td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (2eme niveau)</td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pigments Merveilleux|Pigments Merveilleux]]</td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre thaumaturgique|Poudre thaumaturgique]]</td>
+    <td>4.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Calebasse scintillante|Calebasse scintillante]]</td>
+    <td>4.250 po</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Compas des Vents|Compas des Vents]]</td>
+    <td>4.400 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pennon de Chevalier|Pennon de Chevalier]] (pourparler)</td>
+    <td>4.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poudre Néantisée|Poudre Néantisée]]</td>
+    <td>4.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Tambour de Feu incendiaire Gobelin|Tambour de Feu incendiaire Gobelin]]
+    </td>
+    <td>4.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Encens de Méditation|Encens de Méditation]]</td>
+    <td>4.900 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Banc dYeux-poissons Indiscrets|Banc d’Yeux-poissons Indiscrets]]</td>
+    <td>5.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bourse Polymorphe|Bourse Polymorphe]]</td>
+    <td>5.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaise à porteurs flottante|Chaise à porteurs flottante]]</td>
+    <td>5.000 po</td>
+    <td>125 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne du Grand Veneur|Corne du Grand Veneur]]</td>
+    <td>5.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fer de Convocation|Fer de Convocation]]</td>
+    <td>5.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fiole de Mélange|Fiole de Mélange]]</td>
+    <td>5.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourreau de Coagulation|Fourreau de Coagulation]]</td>
+    <td>5.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourreau de Lame Discrète|Fourreau de Lame Discrète]]</td>
+    <td>5.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourreau des mille lames|Fourreau des mille lames]]</td>
+    <td>5.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Heurtoir de Porte Magique|Heurtoir de Porte Magique]]</td>
+    <td>5.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide infatigable|Guide infatigable]]</td>
+    <td>5.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Lame dOs|Lame d’Os]]</td><td>5.000 po</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillet de Bâtisseur|Maillet de Bâtisseur]]</td>
+    <td>5.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierre dAlliance|Pierre d’Alliance]]</td>
+    <td>5.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (2eme modèle)</td>
+    <td>5.000 po</td>
+    <td>7,5 kg ou +</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bannière des nuits réparatrices|Bannière des nuits réparatrices]]</td>
+    <td>5.040 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cuillère Nourrissante|Cuillère Nourrissante]]</td>
+    <td>5.400 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Urne Fumigène|Urne Fumigène]]</td>
+    <td>5.400 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Secrétaire escamotable|Secrétaire escamotable]]</td>
+    <td>5.400 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Éventail Enchanté|Éventail Enchanté]]</td>
+    <td>5.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Lanterne Macabre|Lanterne Macabre]]</td>
+    <td>5.800 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bol Chantant de Frappe Ki|Bol Chantant de Frappe Ki]]</td>
+    <td>6.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cor de Lucidité Martiale|Cor de Lucidité Martiale]]</td>
+    <td>6.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corde de Nouement|Corde de Nouement]]</td>
+    <td>6.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Familier de Pierre|Familier de Pierre]]</td>
+    <td>6.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flûte de Hantise|Flûte de Hantise]]</td>
+    <td>6.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Insigne de Lien Vital|Insigne de Lien Vital]]</td>
+    <td>6.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Larme de Martyr|Larme de Martyr]]</td><td>6.000 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pièce de Destinée Aléatoire|Pièce de Destinée Aléatoire]]</td>
+    <td>6.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Livre de Convocation Durable|Livre de Convocation Durable]] supérieur</td>
+    <td>6.126 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sifflet dinvocation|Sifflet d’invocation]]</td>
+    <td>6.300 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Baguettes Divinatoires En Os de Dragon|Baguettes Divinatoires En Os de
+      Dragon]]
+    </td>
+    <td>6.400 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cor du Bien/du Mal|Cor du Bien/du Mal]]</td>
+    <td>6.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bindi En Écaille de Naga|Bindi En Écaille de Naga]]</td>
+    <td>6.600 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fer à cheval porte-bonheur|Fer à cheval porte-bonheur]]</td>
+    <td>6.800 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cape de Bravade|Cape de Bravade]]</td>
+    <td>7.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Commode à déguisements|Commode à déguisements]]</td>
+    <td>7.000 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Flacon dOmbres|Flacon d’Ombres]]</td><td>7.000 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide bruyant|Guide bruyant]]</td>
+    <td>7.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir Aux Reflets Protecteurs|Miroir Aux Reflets Protecteurs]]</td>
+    <td>7.000 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pont Escamotable|Pont Escamotable]]</td>
+    <td>7.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Bateau Pliant|Bateau Pliant]]</td><td>7.200 po</td><td>2 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flacon dAir Pur|Flacon d’Air Pur]]</td>
+    <td>7.250 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (modèle 3)</td>
+    <td>7.400 po</td>
+    <td>7,5 kg ou +</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Baume de Souplesse Taquine|Baume de Souplesse Taquine]]</td>
+    <td>7.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bougie dAir Pur|Bougie d’Air Pur]]</td>
+    <td>7.500 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fenêtre à sens unique|Fenêtre à sens unique]]</td>
+    <td>7.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Harpe de Suggestion|Harpe de Suggestion]]</td>
+    <td>7.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Guerre|Traité de Guerre]]</td>
+    <td>7.500 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Scarabée du dieu des travailleurs|Scarabée du dieu des travailleurs]]</td>
+    <td>7.800 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Aiguilles de Tatouage Magiques|Aiguilles de Tatouage Magiques]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Coupe de Larmes Toxiques|Coupe de Larmes Toxiques]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Coupes dentente|Coupes d’entente]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Goupillon dExorciste|Goupillon d’Exorciste]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide brise-sorts|Guide brise-sorts]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide évanescent|Guide évanescent]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide révélateur|Guide révélateur]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Harpe Fracassante|Harpe Fracassante]]</td>
+    <td>8.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+</table>
 
 </td><td width=50%>
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="98%"><caption>Objets merveilleux sans emplacement</caption><tr CLASS="titre"><td WIDTH="66%">Nom</td><td WIDTH="20%">Prix</td><td WIDTH="14%">Poids</td></tr><tr CLASS="premier"><td>[[Objets merveilleux sans emplacement#Insigne de Courage|Insigne de Courage]]</td><td>8.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Outils de Cambrioleur Animés|Outils de Cambrioleur Animés]]</td><td>8.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 2)</td><td>8.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sifflet-garou|Sifflet-garou]]</td><td>8.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de chair)</td><td>8.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cartes Fantasmagoriques|Cartes Fantasmagoriques]]</td><td>8.100 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cierge dInvocation|Cierge d’Invocation]]</td><td>8.400 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac À Malice|Sac À Malice]] (rouille)</td><td>8.500 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (3eme niveau)</td><td>9.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Carafe Intarissable|Carafe Intarissable]]</td><td>9.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]] (3ème niveau)</td><td>9.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 3)</td><td>9.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir Détestable|Miroir Détestable]]</td><td>9.000 po</td><td>5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (3ème niveau)</td><td>9.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (3ème niveau)</td><td>9.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pipe de lenquêteur|Pipe de l’enquêteur]]</td><td>9.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette merveilleuse|Statuette merveilleuse (aigle de chrysolite)]]</td><td>9.100 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (hibou de chrysalite)</td><td>9.100 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chapelet de Prières|Chapelet de Prières]] mineur</td><td>9.600 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (diligence)</td><td>10.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Brique de Réparation|Brique de Réparation]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Carillon de Silence Retentissant|Carillon de Silence Retentissant]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cheval de Pierre|Cheval de Pierre]] (coursier)</td><td>10.000 po</td><td>3 000 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Coffret du Minet|Coffret du Minet]]</td><td>10.000 po</td><td>10 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Craie de Délimitation|Craie de Délimitation]]</td><td>10.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cristal de Possession|Cristal de Possession]]</td><td>10.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fil dEmbaumement|Fil d’Embaumement]]</td><td>10.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fort du chasseur|Fort du chasseur]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Harpe du Destin|Harpe du Destin]]</td><td>10.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Issue surnaturelle|Issue surnaturelle]]</td><td>10.000 po</td><td>2 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Moulin À Prière de Puissance Morale|Moulin À Prière de Puissance Morale]]</td><td>10.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Natte de Ki|Natte de Ki]]</td><td>10.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Oeil Indicible|Oeil Indicible]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sablier de la Dernière Chance|Sablier de la Dernière Chance]]</td><td>10.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sacoche du voleur de livres|Sacoche du voleur de livres]]</td><td>10.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (4ème modèle)</td><td>10.000 po</td><td>7,5 kg ou +</td></tr><tr><td>[[Objets merveilleux sans emplacement#Scellé de Trésorier|Scellé de Trésorier]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (araignée d'ardoise)</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Symbole de Lumière Guérisseuse|Symbole de Lumière Guérisseuse]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Symbole Sacré Malléable|Symbole Sacré Malléable]]</td><td>10.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Tambour de Course|Tambour de Course]]</td><td>10.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Ardoise spirituelle|Ardoise spirituelle]]</td><td>12.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne de la panacée|Corne de la panacée]]</td><td>12.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flûte de Dissipation|Flûte de Dissipation]]</td><td>12.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flûte de Douleur|Flûte de Douleur]]</td><td>12.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Gemme dÂme Noircie|Gemme d’Âme Noircie]]</td><td>12.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lunette de Détection de lInvisibilité|Lunette de Détection de l’Invisibilité]]</td><td>12.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierres de lithomancie|Pierres de lithomancie]]</td><td>12.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Selle du Maître de Guerre|Selle du Maître de Guerre]]</td><td>12.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (d'argile)</td><td>12.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Essences de Transmutation|Essences de Transmutation]]</td><td>12.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Livre Magique|Livre Magique]]</td><td>12.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Gemme dIllumination|Gemme d’Illumination]]</td><td>13.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Harpe de Contagion|Harpe de Contagion]]</td><td>13.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lyre de Bâtisseur|Lyre de Bâtisseur]]</td><td>13.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette merveilleuse|Statuette merveilleuse]] (diablotin en fer)</td><td>13.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel dorigamis animaux|Manuel d'origamis animaux]]</td><td>13.500 po</td><td>7,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bannière Néantisée|Bannière Néantisée]]</td><td>14.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cheval de Pierre|Cheval de Pierre]] (destrier)</td><td>14.800 po</td><td>3 000 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaudron dAbondance|Chaudron d’Abondance]]</td><td>15.000 po</td><td>12,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Conque des Tritons|Conque des Tritons]]</td><td>15.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fer à cheval porte-bonheur|Fer à cheval porte-bonheur]] (collectif)</td><td>15.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Livre du Maître du Savoir|Livre du Maître du Savoir]]</td><td>15.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Mouchoir de localisation|Mouchoir de localisation]]</td><td>15.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Trompette du Jugement|Trompette du Jugement]]</td><td>15.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle des Sirènes|Perle des Sirènes]]</td><td>15.300 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (chien d'onyx)</td><td>15.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (4ème niveau)</td><td>16.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]] (4ème niveau)</td><td>16.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Fourreau dAffûtage|Fourreau d’Affûtage]]</td><td>16.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 4)</td><td>16.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (4ème niveau)</td><td>16.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (4eme niveau)</td><td>16.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poupée ganji|Poupée ganji]]</td><td>16.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de la foi antique|Rune de la foi antique]]</td><td>16.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Runes du sabbat de la mégère|Runes du sabbat de la mégère]]</td><td>16.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Sac À Malice|Sac À Malice]] (ocre)</td><td>16.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (lions d'or)</td><td>16.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Carillon dInterruption|Carillon d’Interruption]]</td><td>16.800 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Balai Volant|Balai Volant]]</td><td>17.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (éléphant de marbre)</td><td>17.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flûte aux rythmes fluctuants|Flûte aux rythmes fluctuants]]</td><td>18.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide des plans|Guide des plans]]</td><td>18.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide en ébène|Guide en ébène]]</td><td>18.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Orbe dÉpouvante Abaddonienne|Orbe d’Épouvante Abaddonienne]]</td><td>18.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 3)</td><td>18.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir aux esprits|Miroir aux esprits]]</td><td>18.900 po</td><td>2 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Athamé du Nécromancien|Athamé du Nécromancien]]</td><td>20.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cloche Dorée de Bannissement|Cloche Dorée de Bannissement]]</td><td>20.000 po</td><td>5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cor de Dévastation|Cor de Dévastation]]</td><td>20.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne dAntagonisme|Corne d’Antagonisme]]</td><td>20.000 po</td><td>2 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Ouija magique|Ouija magique]] ''</td><td>20.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre Porte-bonheur|Pierre Porte-bonheur]]</td><td>20.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Puits Portable|Puits Portable]]</td><td>20.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Tapis Volant|Tapis Volant]] (1.5m x 1.5m)</td><td>20.000 po</td><td>variable</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corde dEnchevêtrement|Corde d’Enchevêtrement]]</td><td>21.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (chèvre d'ivoire)</td><td>21.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Orbe des Cieux|Orbe des Cieux]]</td><td>22.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de pierre)</td><td>22.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pioche des Titans|Pioche des Titans]]</td><td>23.348 po</td><td>60 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne dÉternelle Bravoure|Corne d’Éternelle Bravoure]]</td><td>24.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (5eme niveau)</td><td>25.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Émeraude Chaotique|Émeraude Chaotique]]</td><td>25.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]] (5eme niveau)</td><td>25.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 5)</td><td>25.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (5eme niveau)</td><td>25.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (5eme niveau)</td><td>25.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillet des Titans|Maillet des Titans]]</td><td>25.305 po</td><td>80 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Liens dAcier Mystique|Liens d’Acier Mystique]]</td><td>26.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cube de Résistance au Froid|Cube de Résistance au Froid]]</td><td>27.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +1</td><td>27.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +1</td><td>27.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +1</td><td>27.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +1</td><td>27.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +1</td><td>27.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +1</td><td>27.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (destrier d'obsidienne)</td><td>28.500 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Balai Volant de Course|Balai Volant de Course]]</td><td>30.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaudron des Morts|Chaudron des Morts]]</td><td>30.000 po</td><td>17,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Lanterne Révélatrice|Lanterne Révélatrice]]</td><td>30.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Timbales de Panique|Timbales de Panique]]</td><td>30.000 po</td><td>5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 4)</td><td>32.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Verdict de la cour de l'Enfer|Verdict de la cour de l'Enfer]]</td><td>32.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaudron de Résurrection|Chaudron de Résurrection]]</td><td>33.000 po</td><td>17,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir de capture des âmes|Miroir de capture des âmes]] ''</td><td>33.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Tapis Volant|Tapis Volant]] (1.5m x 3m)</td><td>35.000 po</td><td>variable</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de fer)</td><td>35.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (6ème niveau)</td><td>36.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]] (6ème niveau)</td><td>36.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 6)</td><td>36.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Orbe de Chaos Absolu|Orbe de Chaos Absolu]]</td><td>36.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (6ème niveau)</td><td>36.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (6ème niveau)</td><td>36.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Poupée ganji|Poupée ganji]] (supérieure)</td><td>36.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide de vérité|Guide de vérité]]</td><td>39.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Anneaux de Transport|Anneaux de Transport]]</td><td>40.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaudron Volant|Chaudron Volant]]</td><td>40.000 po</td><td>50 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Talisman dAnimosité|Talisman d’Animosité]]</td><td>40.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]]</td><td>42.000 po</td><td>3,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaudron de Vision|Chaudron de Vision]]</td><td>42.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de pierre monumentaux)</td><td>44.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Timbales de Rapidité|Timbales de Rapidité]]</td><td>45.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chapelet de Prières courant|Chapelet de Prières courant]]</td><td>45.800 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Accumulateur dorgone|Accumulateur d'orgone]] ''</td><td>48.000 po</td><td>75 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Orbe des Tempêtes|Orbe des Tempêtes]]</td><td>48.000 po</td><td>3 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 7)</td><td>49.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (7ème niveau)</td><td>49.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (7ème niveau)</td><td>49.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (détection de l'invisibilité)</td><td>50.000 po</td><td>3,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Corne du Valhalla|Corne du Valhalla]]</td><td>50.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 5)</td><td>50.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (détection des pensées)</td><td>51.000 po</td><td>3,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Feuilles Automnales des Dryades|Feuilles Automnales des Dryades]]</td><td>52.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Forteresse Instantanée|Forteresse Instantanée]]</td><td>55.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +2</td><td>55.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +2</td><td>55.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +2</td><td>55.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +2</td><td>55.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +2</td><td>55.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +2</td><td>55.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (terreur)</td><td>56.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide du chasseur de primes|Guide du chasseur de primes]]</td><td>56.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Crâne des Ténèbres|Crâne des Ténèbres]]</td><td>60.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Orbe de Loi Parfaite|Orbe de Loi Parfaite]]</td><td>60.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Tapis Volant|Tapis Volant]] (3m x 3m)</td><td>60.000 po</td><td>variable</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cube de Force|Cube de Force]]</td><td>62.000 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 8)</td><td>64.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (8ème niveau)</td><td>64.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (8ème niveau)</td><td>64.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Merveilleux divan de lempereur fou|Merveilleux divan de l'empereur fou]]</td><td>66.000 po</td><td>50 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (télépathie)</td><td>70.000 po</td><td>3,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cor de Dévastation Supérieur|Cor de Dévastation Supérieur]]</td><td>70.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide de l'œil endormi|Guide de l'œil endormi]]</td><td>70.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (deux sorts)</td><td>70.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 6)</td><td>72.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (victoire)</td><td>75.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Gemme de Vision|Gemme de Vision]]</td><td>75.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (vision lucide)</td><td>80.000 po</td><td>3,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chaloupe volante|Chaloupe volante]] ''</td><td>80.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 9)</td><td>81.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (9ème niveau)</td><td>81.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (9ème niveau)</td><td>81.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Puits des Mondes|Puits des Mondes]]</td><td>82.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +3</td><td>82.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +3</td><td>82.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +3</td><td>82.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +3</td><td>82.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +3</td><td>82.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +3</td><td>82.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Boussole du prédateur|Boussole du prédateur]]</td><td>85.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bol de Convocation dÉlémentaires de lEau|Bol de Convocation d’Élémentaires de l’Eau]]</td><td>90.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Braséro de Convocation dÉlémentaires du Feu|Braséro de Convocation d’Élémentaires du Feu]]</td><td>90.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Encensoir de Convocation dÉlémentaires de lAir|Encensoir de Convocation d’Élémentaires de l’Air]]</td><td>90.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Pierre de Convocation dÉlémentaires de la Terre|Pierre de Convocation d’Élémentaires de la Terre]]</td><td>90.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Submersible du Crabe|Submersible du Crabe]]</td><td>90.000 po</td><td>250 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir dOpposition|Miroir d’Opposition]]</td><td>92.000 po</td><td>22,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Chapelet de Prières majeur|Chapelet de Prières majeur]]</td><td>95.800 po</td><td>0,25 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 7)</td><td>98.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (croisade)</td><td>100.000 po</td><td>1,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +4</td><td>110.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +4</td><td>110.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +4</td><td>110.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +4</td><td>110.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +4</td><td>110.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +4</td><td>110.000 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 8)</td><td>128.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide de contingence|Guide de contingence]]</td><td>132.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Guide de passage|Guide de passage]]</td><td>136.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +5</td><td>137.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +5</td><td>137.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +5</td><td>137.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +5</td><td>137.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +5</td><td>137.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +5</td><td>137.500 po</td><td>2,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Urne du Mauvais Génie|Urne du Mauvais Génie]]</td><td>145.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 9)</td><td>162.000 po</td><td>—</td></tr><tr><td>[[Objets merveilleux sans emplacement#Cube des Plans|Cube des Plans]]</td><td>164.000 po</td><td>1 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Flasque de Fer|Flasque de Fer]]</td><td>170.000 po</td><td>0,5 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir de Prouesse Mentale|Miroir de Prouesse Mentale]]</td><td>175.000 po</td><td>20 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Skiff volant|Skiff volant]]</td><td>180.000 po</td><td>1 250 kg</td></tr><tr><td>[[Objets merveilleux sans emplacement#Miroir dEmprisonnement|Miroir d’Emprisonnement]]</td><td>200.000 po</td><td>25 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="98%">
+  <caption>Objets merveilleux sans emplacement</caption>
+  <tr CLASS="titre"><td WIDTH="66%">Nom</td><td WIDTH="20%">Prix</td><td WIDTH="14%">Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Objets merveilleux sans emplacement#Insigne de Courage|Insigne de Courage]]</td>
+    <td>8.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Outils de Cambrioleur Animés|Outils de Cambrioleur Animés]]</td>
+    <td>8.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 2)</td>
+    <td>8.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Sifflet-garou|Sifflet-garou]]</td><td>8.000 po</td><td>—</td></tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de chair)
+    </td>
+    <td>8.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cartes Fantasmagoriques|Cartes Fantasmagoriques]]</td>
+    <td>8.100 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cierge dInvocation|Cierge d’Invocation]]</td>
+    <td>8.400 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac À Malice|Sac À Malice]] (rouille)</td>
+    <td>8.500 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (3eme niveau)</td>
+    <td>9.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Carafe Intarissable|Carafe Intarissable]]</td>
+    <td>9.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]]
+      (3ème niveau)
+    </td>
+    <td>9.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 3)</td>
+    <td>9.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir Détestable|Miroir Détestable]]</td>
+    <td>9.000 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (3ème
+      niveau)
+    </td>
+    <td>9.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (3ème niveau)</td>
+    <td>9.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pipe de lenquêteur|Pipe de l’enquêteur]]</td>
+    <td>9.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette merveilleuse|Statuette merveilleuse (aigle de chrysolite)]]</td>
+    <td>9.100 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (hibou de chrysalite)</td>
+    <td>9.100 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chapelet de Prières|Chapelet de Prières]] mineur</td>
+    <td>9.600 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (diligence)</td>
+    <td>10.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Brique de Réparation|Brique de Réparation]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Carillon de Silence Retentissant|Carillon de Silence Retentissant]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cheval de Pierre|Cheval de Pierre]] (coursier)</td>
+    <td>10.000 po</td>
+    <td>3 000 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Coffret du Minet|Coffret du Minet]]</td>
+    <td>10.000 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Craie de Délimitation|Craie de Délimitation]]</td>
+    <td>10.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cristal de Possession|Cristal de Possession]]</td>
+    <td>10.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fil dEmbaumement|Fil d’Embaumement]]</td>
+    <td>10.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fort du chasseur|Fort du chasseur]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Harpe du Destin|Harpe du Destin]]</td>
+    <td>10.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Issue surnaturelle|Issue surnaturelle]]</td>
+    <td>10.000 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Moulin À Prière de Puissance Morale|Moulin À Prière de Puissance
+      Morale]]
+    </td>
+    <td>10.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Natte de Ki|Natte de Ki]]</td><td>10.000 po</td><td>1,5 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Oeil Indicible|Oeil Indicible]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sablier de la Dernière Chance|Sablier de la Dernière Chance]]</td>
+    <td>10.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sacoche du voleur de livres|Sacoche du voleur de livres]]</td>
+    <td>10.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac Sans Fond|Sac Sans Fond]] (4ème modèle)</td>
+    <td>10.000 po</td>
+    <td>7,5 kg ou +</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Scellé de Trésorier|Scellé de Trésorier]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (araignée d'ardoise)</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Symbole de Lumière Guérisseuse|Symbole de Lumière Guérisseuse]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Symbole Sacré Malléable|Symbole Sacré Malléable]]</td>
+    <td>10.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Tambour de Course|Tambour de Course]]</td>
+    <td>10.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Ardoise spirituelle|Ardoise spirituelle]]</td>
+    <td>12.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne de la panacée|Corne de la panacée]]</td>
+    <td>12.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flûte de Dissipation|Flûte de Dissipation]]</td>
+    <td>12.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flûte de Douleur|Flûte de Douleur]]</td>
+    <td>12.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Gemme dÂme Noircie|Gemme d’Âme Noircie]]</td>
+    <td>12.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Lunette de Détection de lInvisibilité|Lunette de Détection de
+      l’Invisibilité]]
+    </td>
+    <td>12.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierres de lithomancie|Pierres de lithomancie]]</td>
+    <td>12.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Selle du Maître de Guerre|Selle du Maître de Guerre]]</td>
+    <td>12.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (d'argile)
+    </td>
+    <td>12.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Essences de Transmutation|Essences de Transmutation]]</td>
+    <td>12.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Livre Magique|Livre Magique]]</td>
+    <td>12.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Gemme dIllumination|Gemme d’Illumination]]</td>
+    <td>13.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Harpe de Contagion|Harpe de Contagion]]</td>
+    <td>13.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Lyre de Bâtisseur|Lyre de Bâtisseur]]</td>
+    <td>13.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette merveilleuse|Statuette merveilleuse]] (diablotin en fer)</td>
+    <td>13.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel dorigamis animaux|Manuel d'origamis animaux]]</td>
+    <td>13.500 po</td>
+    <td>7,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bannière Néantisée|Bannière Néantisée]]</td>
+    <td>14.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cheval de Pierre|Cheval de Pierre]] (destrier)</td>
+    <td>14.800 po</td>
+    <td>3 000 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaudron dAbondance|Chaudron d’Abondance]]</td>
+    <td>15.000 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Conque des Tritons|Conque des Tritons]]</td>
+    <td>15.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fer à cheval porte-bonheur|Fer à cheval porte-bonheur]] (collectif)</td>
+    <td>15.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Livre du Maître du Savoir|Livre du Maître du Savoir]]</td>
+    <td>15.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Mouchoir de localisation|Mouchoir de localisation]]</td>
+    <td>15.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Trompette du Jugement|Trompette du Jugement]]</td>
+    <td>15.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle des Sirènes|Perle des Sirènes]]</td>
+    <td>15.300 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (chien d'onyx)</td>
+    <td>15.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (4ème niveau)</td>
+    <td>16.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]]
+      (4ème niveau)
+    </td>
+    <td>16.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Fourreau dAffûtage|Fourreau d’Affûtage]]</td>
+    <td>16.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 4)</td>
+    <td>16.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (4ème
+      niveau)
+    </td>
+    <td>16.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (4eme niveau)</td>
+    <td>16.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poupée ganji|Poupée ganji]]</td>
+    <td>16.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de la foi antique|Rune de la foi antique]]</td>
+    <td>16.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Runes du sabbat de la mégère|Runes du sabbat de la mégère]]</td>
+    <td>16.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Sac À Malice|Sac À Malice]] (ocre)</td>
+    <td>16.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (lions d'or)</td>
+    <td>16.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Carillon dInterruption|Carillon d’Interruption]]</td>
+    <td>16.800 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Balai Volant|Balai Volant]]</td><td>17.000 po</td><td>1,5 kg</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (éléphant de marbre)</td>
+    <td>17.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flûte aux rythmes fluctuants|Flûte aux rythmes fluctuants]]</td>
+    <td>18.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide des plans|Guide des plans]]</td>
+    <td>18.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide en ébène|Guide en ébène]]</td>
+    <td>18.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Orbe dÉpouvante Abaddonienne|Orbe d’Épouvante Abaddonienne]]</td>
+    <td>18.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 3)</td>
+    <td>18.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir aux esprits|Miroir aux esprits]]</td>
+    <td>18.900 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Athamé du Nécromancien|Athamé du Nécromancien]]</td>
+    <td>20.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cloche Dorée de Bannissement|Cloche Dorée de Bannissement]]</td>
+    <td>20.000 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cor de Dévastation|Cor de Dévastation]]</td>
+    <td>20.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne dAntagonisme|Corne d’Antagonisme]]</td>
+    <td>20.000 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Ouija magique|Ouija magique]] ''</td>
+    <td>20.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pierre Porte-bonheur|Pierre Porte-bonheur]]</td>
+    <td>20.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Objets merveilleux sans emplacement#Puits Portable|Puits Portable]]</td><td>20.000 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Tapis Volant|Tapis Volant]] (1.5m x 1.5m)</td>
+    <td>20.000 po</td>
+    <td>variable</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corde dEnchevêtrement|Corde d’Enchevêtrement]]</td>
+    <td>21.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (chèvre d'ivoire)</td>
+    <td>21.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Orbe des Cieux|Orbe des Cieux]]</td>
+    <td>22.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de
+      pierre)
+    </td>
+    <td>22.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Pioche des Titans|Pioche des Titans]]</td>
+    <td>23.348 po</td>
+    <td>60 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne dÉternelle Bravoure|Corne d’Éternelle Bravoure]]</td>
+    <td>24.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (5eme niveau)</td>
+    <td>25.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Émeraude Chaotique|Émeraude Chaotique]]</td>
+    <td>25.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]]
+      (5eme niveau)
+    </td>
+    <td>25.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 5)</td>
+    <td>25.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (5eme
+      niveau)
+    </td>
+    <td>25.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (5eme niveau)</td>
+    <td>25.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillet des Titans|Maillet des Titans]]</td>
+    <td>25.305 po</td>
+    <td>80 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Liens dAcier Mystique|Liens d’Acier Mystique]]</td>
+    <td>26.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cube de Résistance au Froid|Cube de Résistance au Froid]]</td>
+    <td>27.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +1</td>
+    <td>27.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +1</td>
+    <td>27.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +1</td>
+    <td>27.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +1</td>
+    <td>27.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +1</td>
+    <td>27.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +1</td>
+    <td>27.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Statuette Merveilleuse|Statuette Merveilleuse]] (destrier d'obsidienne)
+    </td>
+    <td>28.500 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Balai Volant de Course|Balai Volant de Course]]</td>
+    <td>30.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaudron des Morts|Chaudron des Morts]]</td>
+    <td>30.000 po</td>
+    <td>17,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Lanterne Révélatrice|Lanterne Révélatrice]]</td>
+    <td>30.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Timbales de Panique|Timbales de Panique]]</td>
+    <td>30.000 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 4)</td>
+    <td>32.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Verdict de la cour de l'Enfer|Verdict de la cour de l'Enfer]]</td>
+    <td>32.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaudron de Résurrection|Chaudron de Résurrection]]</td>
+    <td>33.000 po</td>
+    <td>17,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir de capture des âmes|Miroir de capture des âmes]] ''</td>
+    <td>33.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Tapis Volant|Tapis Volant]] (1.5m x 3m)</td>
+    <td>35.000 po</td>
+    <td>variable</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de fer)
+    </td>
+    <td>35.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bille de Bore|Bille de Bore]] (6ème niveau)</td>
+    <td>36.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Flasque de Conservation Alchimique|Flasque de Conservation Alchimique]]
+      (6ème niveau)
+    </td>
+    <td>36.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 6)</td>
+    <td>36.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Orbe de Chaos Absolu|Orbe de Chaos Absolu]]</td>
+    <td>36.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (6ème
+      niveau)
+    </td>
+    <td>36.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (6ème niveau)</td>
+    <td>36.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Poupée ganji|Poupée ganji]] (supérieure)</td>
+    <td>36.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide de vérité|Guide de vérité]]</td>
+    <td>39.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Anneaux de Transport|Anneaux de Transport]]</td>
+    <td>40.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaudron Volant|Chaudron Volant]]</td>
+    <td>40.000 po</td>
+    <td>50 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Talisman dAnimosité|Talisman d’Animosité]]</td>
+    <td>40.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]]</td>
+    <td>42.000 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaudron de Vision|Chaudron de Vision]]</td>
+    <td>42.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Traité de Création des Golems|Traité de Création des Golems]] (de pierre
+      monumentaux)
+    </td>
+    <td>44.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Timbales de Rapidité|Timbales de Rapidité]]</td>
+    <td>45.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chapelet de Prières courant|Chapelet de Prières courant]]</td>
+    <td>45.800 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Accumulateur dorgone|Accumulateur d'orgone]] ''</td>
+    <td>48.000 po</td>
+    <td>75 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Orbe des Tempêtes|Orbe des Tempêtes]]</td>
+    <td>48.000 po</td>
+    <td>3 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 7)</td>
+    <td>49.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (7ème
+      niveau)
+    </td>
+    <td>49.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (7ème niveau)</td>
+    <td>49.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (détection de l'invisibilité)</td>
+    <td>50.000 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Corne du Valhalla|Corne du Valhalla]]</td>
+    <td>50.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 5)</td>
+    <td>50.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (détection des pensées)</td>
+    <td>51.000 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Feuilles Automnales des Dryades|Feuilles Automnales des Dryades]]</td>
+    <td>52.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Forteresse Instantanée|Forteresse Instantanée]]</td>
+    <td>55.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +2</td>
+    <td>55.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +2</td>
+    <td>55.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +2</td>
+    <td>55.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +2</td>
+    <td>55.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +2</td>
+    <td>55.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +2</td>
+    <td>55.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (terreur)</td>
+    <td>56.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide du chasseur de primes|Guide du chasseur de primes]]</td>
+    <td>56.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Crâne des Ténèbres|Crâne des Ténèbres]]</td>
+    <td>60.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Orbe de Loi Parfaite|Orbe de Loi Parfaite]]</td>
+    <td>60.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Tapis Volant|Tapis Volant]] (3m x 3m)</td>
+    <td>60.000 po</td>
+    <td>variable</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cube de Force|Cube de Force]]</td>
+    <td>62.000 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 8)</td>
+    <td>64.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (8ème
+      niveau)
+    </td>
+    <td>64.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (8ème niveau)</td>
+    <td>64.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Merveilleux divan de lempereur fou|Merveilleux divan de l'empereur fou]]
+    </td>
+    <td>66.000 po</td>
+    <td>50 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (télépathie)</td>
+    <td>70.000 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cor de Dévastation Supérieur|Cor de Dévastation Supérieur]]</td>
+    <td>70.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide de l'œil endormi|Guide de l'œil endormi]]</td>
+    <td>70.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (deux sorts)</td>
+    <td>70.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 6)</td>
+    <td>72.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (victoire)</td>
+    <td>75.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Gemme de Vision|Gemme de Vision]]</td>
+    <td>75.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boule de Cristal|Boule de Cristal]] (vision lucide)</td>
+    <td>80.000 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chaloupe volante|Chaloupe volante]] ''</td>
+    <td>80.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Maillage magique|Maillage magique]] (niveau 9)</td>
+    <td>81.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Page de Connaissances Magiques|Page de Connaissances Magiques]] (9ème
+      niveau)
+    </td>
+    <td>81.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Perle de Thaumaturge|Perle de Thaumaturge]] (9ème niveau)</td>
+    <td>81.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Puits des Mondes|Puits des Mondes]]</td>
+    <td>82.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +3</td>
+    <td>82.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +3</td>
+    <td>82.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +3</td>
+    <td>82.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +3</td>
+    <td>82.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +3</td>
+    <td>82.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +3</td>
+    <td>82.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Boussole du prédateur|Boussole du prédateur]]</td>
+    <td>85.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Bol de Convocation dÉlémentaires de lEau|Bol de Convocation
+      d’Élémentaires de l’Eau]]
+    </td>
+    <td>90.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Braséro de Convocation dÉlémentaires du Feu|Braséro de Convocation
+      d’Élémentaires du Feu]]
+    </td>
+    <td>90.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Encensoir de Convocation dÉlémentaires de lAir|Encensoir de Convocation
+      d’Élémentaires de l’Air]]
+    </td>
+    <td>90.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Objets merveilleux sans emplacement#Pierre de Convocation dÉlémentaires de la Terre|Pierre de Convocation
+      d’Élémentaires de la Terre]]
+    </td>
+    <td>90.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Submersible du Crabe|Submersible du Crabe]]</td>
+    <td>90.000 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir dOpposition|Miroir d’Opposition]]</td>
+    <td>92.000 po</td>
+    <td>22,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Chapelet de Prières majeur|Chapelet de Prières majeur]]</td>
+    <td>95.800 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 7)</td>
+    <td>98.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Bannière Seigneuriale|Bannière Seigneuriale]] (croisade)</td>
+    <td>100.000 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +4</td>
+    <td>110.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +4</td>
+    <td>110.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +4</td>
+    <td>110.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +4</td>
+    <td>110.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +4</td>
+    <td>110.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +4</td>
+    <td>110.000 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 8)</td>
+    <td>128.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide de contingence|Guide de contingence]]</td>
+    <td>132.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Guide de passage|Guide de passage]]</td>
+    <td>136.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Coordination Physique|Manuel de Coordination Physique]] +5</td>
+    <td>137.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de remise en forme|Manuel de remise en forme]] +5</td>
+    <td>137.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Manuel de Vitalité|Manuel de Vitalité]] +5</td>
+    <td>137.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Compréhension|Traité de Compréhension]] +5</td>
+    <td>137.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité de Perspicacité|Traité de Perspicacité]] +5</td>
+    <td>137.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Traité dAutorité Et dInfluence|Traité d’Autorité Et d’Influence]] +5</td>
+    <td>137.500 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Urne du Mauvais Génie|Urne du Mauvais Génie]]</td>
+    <td>145.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Rune de pouvoir|Rune de pouvoir]] (niveau 9)</td>
+    <td>162.000 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Cube des Plans|Cube des Plans]]</td>
+    <td>164.000 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Flasque de Fer|Flasque de Fer]]</td>
+    <td>170.000 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir de Prouesse Mentale|Miroir de Prouesse Mentale]]</td>
+    <td>175.000 po</td>
+    <td>20 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Skiff volant|Skiff volant]]</td>
+    <td>180.000 po</td>
+    <td>1 250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Objets merveilleux sans emplacement#Miroir dEmprisonnement|Miroir d’Emprisonnement]]</td>
+    <td>200.000 po</td>
+    <td>25 kg</td>
+  </tr>
+</table>
 
 </td></tr></table>
 
@@ -352,7 +2599,18 @@ Cette bougie blanche à l’odeur de propre est couverte de glyphes représentan
 La boule de cristal, qui fait généralement une quinzaine de centimètres de diamètre, est l’objet de scrutation le plus courant. Elle est si répandue que beaucoup de soi-disant [[oracle]]s ou voyants utilisent des versions similaires (dépourvues de la moindre magie) pour gagner leur vie. Une boule de cristal sert à observer ce qui se passe à distance et même dans d’autres plans d’existence, comme avec *[[scrutation]]* (jet de Volonté DD 16 pour annuler). Elle peut être utilisée plusieurs fois par jour, mais le DD pour résister à son pouvoir diminue de 1 point à chaque utilisation. Certaines boules de cristal possèdent des pouvoirs dont leur utilisateur peut se servir pour affecter la cible qu’ils examinent à travers la boule.
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type de boule de cristal</td><td>Prix de vente</td></tr><tr CLASS="premier"></tr><tr><td>Boule de cristal ordinaire</td><td>42 000 po</td></tr><tr><td>Boule de cristal dotée de *[[Détection de linvisibilité|détection de l’invisibilité]]*</td><td>50 000 po</td></tr><tr><td>Boule de cristal dotée de *[[détection de pensées]]*</td><td>51 000 po</td></tr><tr><td>Boule de cristal dotée de télépathie *</td><td>70.000 po</td></tr><tr><td>Boule de cristal dotée de *[[vision lucide]]*</td><td>80.000 po</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type de boule de cristal</td><td>Prix de vente</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Boule de cristal ordinaire</td><td>42 000 po</td></tr>
+  <tr>
+    <td>Boule de cristal dotée de *[[Détection de linvisibilité|détection de l’invisibilité]]*</td>
+    <td>50 000 po</td>
+  </tr>
+  <tr><td>Boule de cristal dotée de *[[détection de pensées]]*</td><td>51 000 po</td></tr>
+  <tr><td>Boule de cristal dotée de télépathie *</td><td>70.000 po</td></tr>
+  <tr><td>Boule de cristal dotée de *[[vision lucide]]*</td><td>80.000 po</td></tr>
+</table>
 
 * Le personnage peut communiquer silencieusement avec l’individu apparaissant dans la boule de cristal. Une fois par jour, il peut également essayer de lui transmettre une *[[suggestion]]* (voir le sort du même nom, jet de Volonté DD 14 pour annuler).
 (((Création)))
@@ -568,23 +2826,80 @@ Ce carquois d’aspect banal semble pouvoir contenir vingt flèches. Il est cons
 Ce jeu de cartes parcheminées est généralement rangé dans un étui en ivoire, en cuir ou en bois. Un jeu complet comprend trente-quatre cartes. Chaque fois qu’une carte est tirée au hasard et jetée au sol, une *[[Image accomplie]]* se forme. La chimère persiste tant que personne ne la dissipe. L’[[Présentation des sorts#ILLUSION|illusion]] est incapable de s’éloigner de plus de neuf mètres de l’endroit où la carte a touché le sol, mais, en dehors de cela, elle se comporte comme une créature de chair et d’os obéissant aux ordres de son créateur. Si l’[[Présentation des sorts#ILLUSION|illusion]] est dissipée, le dessin sur la carte s’efface et il est impossible de l’utiliser par la suite. Il suffit que quelqu’un ramasse la carte pour que l’*[[Image accomplie]]* soit automatiquement et immédiatement dissipée. Les cartes et l’[[Présentation des sorts#ILLUSION|illusion]] que chacune fait apparaître sont résumées dans la table suivante (selon que vous vous servez d’un jeu de cartes ordinaire ou d’un jeu de tarot divinatoire, référez-vous à la première ou à la deuxième colonne).
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr><tr CLASS="premier"></tr><tr><td>As de coeur</td><td>IV. L’Empereur</td><td>Dragon rouge</td></tr><tr><td>Roi de coeur</td><td>Cavalier d’épées</td><td>[[Guerrier]] humain et quatre gardes</td></tr><tr><td>Dame de coeur</td><td>Reine de bâtons</td><td>[[Magicien]] humain (f)</td></tr><tr><td>Valet de coeur</td><td>Roi de bâtons</td><td>[[Druide]] humain</td></tr><tr><td>10 de coeur</td><td>VII. Le Chariot</td><td>Géant des nuages</td></tr><tr><td>9 de coeur</td><td>Valet de bâtons</td><td>Ettin</td></tr><tr><td>8 de coeur</td><td>As de coupes</td><td>Gobelours</td></tr><tr><td>7 de coeur</td><td>5 de bâtons</td><td>Gobelin</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>As de coeur</td><td>IV. L’Empereur</td><td>Dragon rouge</td></tr>
+  <tr><td>Roi de coeur</td><td>Cavalier d’épées</td><td>[[Guerrier]] humain et quatre gardes</td></tr>
+  <tr><td>Dame de coeur</td><td>Reine de bâtons</td><td>[[Magicien]] humain (f)</td></tr>
+  <tr><td>Valet de coeur</td><td>Roi de bâtons</td><td>[[Druide]] humain</td></tr>
+  <tr><td>10 de coeur</td><td>VII. Le Chariot</td><td>Géant des nuages</td></tr>
+  <tr><td>9 de coeur</td><td>Valet de bâtons</td><td>Ettin</td></tr>
+  <tr><td>8 de coeur</td><td>As de coupes</td><td>Gobelours</td></tr>
+  <tr><td>7 de coeur</td><td>5 de bâtons</td><td>Gobelin</td></tr>
+</table>
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr><tr CLASS="premier"></tr><tr><td>As de carreau</td><td>III. L’Impératrice</td><td>Glabrezu (démon)</td></tr><tr><td>Roi de carreau</td><td>de coupes</td><td>[[Magicien]] elfe et son apprenti (f)</td></tr><tr><td>Dame de carreau</td><td>Reine d’épées</td><td>[[Rôdeur]] demi-elfe</td></tr><tr><td>Valet de carreau</td><td>XIV. La Tempérance</td><td>Harpie</td></tr><tr><td>10 de carreau</td><td>7 de bâtons</td><td>[[Barbare]] demi-orque</td></tr><tr><td>9 de carreau</td><td>4 de deniers</td><td>Ogre mage</td></tr><tr><td>8 de carreau</td><td>As de deniers</td><td>Gnoll</td></tr><tr><td>7 de carreau</td><td>6 de deniers</td><td>kobold</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>As de carreau</td><td>III. L’Impératrice</td><td>Glabrezu (démon)</td></tr>
+  <tr><td>Roi de carreau</td><td>de coupes</td><td>[[Magicien]] elfe et son apprenti (f)</td></tr>
+  <tr><td>Dame de carreau</td><td>Reine d’épées</td><td>[[Rôdeur]] demi-elfe</td></tr>
+  <tr><td>Valet de carreau</td><td>XIV. La Tempérance</td><td>Harpie</td></tr>
+  <tr><td>10 de carreau</td><td>7 de bâtons</td><td>[[Barbare]] demi-orque</td></tr>
+  <tr><td>9 de carreau</td><td>4 de deniers</td><td>Ogre mage</td></tr>
+  <tr><td>8 de carreau</td><td>As de deniers</td><td>Gnoll</td></tr>
+  <tr><td>7 de carreau</td><td>6 de deniers</td><td>kobold</td></tr>
+</table>
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr><tr CLASS="premier"></tr><tr><td>As de pique</td><td>II. La Papesse</td><td>Liche</td></tr><tr><td>Roi de pique</td><td>3 de bâtons</td><td>Trois [[prêtre]]s humains</td></tr><tr><td>Dame de pique</td><td>4 de coupes</td><td>Méduse</td></tr><tr><td>Valet de pique</td><td>Cavalier de deniers</td><td>[[Paladin]] nain</td></tr><tr><td>10 de pique</td><td>7 d’épées</td><td>Géant du froid</td></tr><tr><td>9 de pique</td><td>3 d’épées</td><td>Troll</td></tr><tr><td>8 de pique</td><td>As d’épées</td><td>Hobgobelin</td></tr><tr><td>7 de pique</td><td>5 de coupes</td><td>Gobelin</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>As de pique</td><td>II. La Papesse</td><td>Liche</td></tr>
+  <tr><td>Roi de pique</td><td>3 de bâtons</td><td>Trois [[prêtre]]s humains</td></tr>
+  <tr><td>Dame de pique</td><td>4 de coupes</td><td>Méduse</td></tr>
+  <tr><td>Valet de pique</td><td>Cavalier de deniers</td><td>[[Paladin]] nain</td></tr>
+  <tr><td>10 de pique</td><td>7 d’épées</td><td>Géant du froid</td></tr>
+  <tr><td>9 de pique</td><td>3 d’épées</td><td>Troll</td></tr>
+  <tr><td>8 de pique</td><td>As d’épées</td><td>Hobgobelin</td></tr>
+  <tr><td>7 de pique</td><td>5 de coupes</td><td>Gobelin</td></tr>
+</table>
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr><tr CLASS="premier"></tr><tr><td>As de trèfle</td><td>VIII. La Force</td><td>Golem de fer</td></tr><tr><td>Roi de trèfle</td><td>Valet de deniers</td><td>Trois [[roublard]]s halfelins</td></tr><tr><td>Dame de trèfle</td><td>10 de coupes</td><td>Pixies</td></tr><tr><td>Valet de trèfle</td><td>9 de deniers</td><td>Barde demi-elfe</td></tr><tr><td>10 de trèfle</td><td>9 de bâtons</td><td>Géant des collines</td></tr><tr><td>9 de trèfle</td><td>Roi d’épées</td><td>Ogre</td></tr><tr><td>8 de trèfle</td><td>As de bâtons</td><td>Orque</td></tr><tr><td>7 de trèfle</td><td>5 d’épées</td><td>Kobold</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>As de trèfle</td><td>VIII. La Force</td><td>Golem de fer</td></tr>
+  <tr><td>Roi de trèfle</td><td>Valet de deniers</td><td>Trois [[roublard]]s halfelins</td></tr>
+  <tr><td>Dame de trèfle</td><td>10 de coupes</td><td>Pixies</td></tr>
+  <tr><td>Valet de trèfle</td><td>9 de deniers</td><td>Barde demi-elfe</td></tr>
+  <tr><td>10 de trèfle</td><td>9 de bâtons</td><td>Géant des collines</td></tr>
+  <tr><td>9 de trèfle</td><td>Roi d’épées</td><td>Ogre</td></tr>
+  <tr><td>8 de trèfle</td><td>As de bâtons</td><td>Orque</td></tr>
+  <tr><td>7 de trèfle</td><td>5 d’épées</td><td>Kobold</td></tr>
+</table>
 
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr><tr CLASS="premier"></tr><tr><td>Joker noir</td><td>2 de deniers</td><td>[[Présentation des sorts#ILLUSION|Illusion]] du propriétaire des cartes</td></tr><tr><td>Joker rouge</td><td>2 de bâtons</td><td>[[Présentation des sorts#ILLUSION|Illusion]] du propriétaire des cartes (sexe inversé)</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Carte à jouer</td><td>Tarots</td><td>Créature</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr>
+    <td>Joker noir</td>
+    <td>2 de deniers</td>
+    <td>[[Présentation des sorts#ILLUSION|Illusion]] du propriétaire des cartes</td>
+  </tr>
+  <tr>
+    <td>Joker rouge</td>
+    <td>2 de bâtons</td>
+    <td>[[Présentation des sorts#ILLUSION|Illusion]] du propriétaire des cartes (sexe inversé)</td>
+  </tr>
+</table>
 
 
 
@@ -645,7 +2960,46 @@ En plus des pouvoirs conférés à la chaloupe volante quand elle est pilotée p
 Chapelet mineur 9 600 PO Chapelet courant 45 800 PO Chapelet majeur 95 800 PO Ce collier a l’aspect d’un collier ordinaire mais il suffit qu’un personnage lance un sort divin en le portant sur lui pour que sa véritable nature se révèle. Le personnage connaît alors aussitôt les pouvoirs des grains du chapelet et la façon de les activer. Chaque chapelet contient deux grains spéciaux(ou plus), chacun ayant un pouvoir magique.
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Grain enchanté</td><td>Pouvoir</td></tr><tr CLASS="premier"></tr><tr><td>Grain de *[[bénédiction]]* (NLS 1)</td><td>Le personnage peut lancer *[[bénédiction]]*</td></tr><tr><td>Grain de châtiment (NLS 7)</td><td>Le personnage peut lancer *[[châtiment sacré]]*, *[[Courroux de lordre|courroux de l’ordre]]*, *[[marteau du Chaos]]* ou *[[ténèbres maudites]]* (jet de Volonté DD 17 pour effet partiel).</td></tr><tr><td>Grain de convocation (NLS 17)</td><td>Convoque une créature puissante des plans extérieurs de l’alignement approprié (un ange, un diable, etc.) pour aider le porteur pendant une journée (si le personnage invoque ainsi un émissaire de son dieu pour des raisons frivoles, ce dernier lui confisque ses objets et lui lance un sort de une quête pour le punir. Au mieux).</td></tr><tr><td>Grain de guérison (NLS 5)</td><td>Le personnage peut lancer au choix *[[Guérison de la cécitésurdité|guérison de la cécité/surdité]]*, *[[Guérison des maladies]]* ou *[[soins importants]]*.</td></tr><tr><td>Grain de karma (NLS 9)</td><td>Le personnage lance ses sorts avec un bonus de +4 au niveau de lanceur de sorts. Cet effet dure dix minutes.</td></tr><tr><td>Grain de *[[vent divin]]* (NLS 11)</td><td>Le personnage peut lancer *[[vent divin]]*. Un chapelet de *[[prière]]* mineur contient un grain de *[[bénédiction]]* et un grain de guérison.</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Grain enchanté</td><td>Pouvoir</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Grain de *[[bénédiction]]* (NLS 1)</td><td>Le personnage peut lancer *[[bénédiction]]*</td></tr>
+  <tr>
+    <td>Grain de châtiment (NLS 7)</td>
+    <td>
+      Le personnage peut lancer *[[châtiment sacré]]*, *[[Courroux de lordre|courroux de l’ordre]]*, *[[marteau du
+      Chaos]]* ou *[[ténèbres maudites]]* (jet de Volonté DD 17 pour effet partiel).
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de convocation (NLS 17)</td>
+    <td>
+      Convoque une créature puissante des plans extérieurs de l’alignement approprié (un ange, un diable, etc.) pour
+      aider le porteur pendant une journée (si le personnage invoque ainsi un émissaire de son dieu pour des raisons
+      frivoles, ce dernier lui confisque ses objets et lui lance un sort de une quête pour le punir. Au mieux).
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de guérison (NLS 5)</td>
+    <td>
+      Le personnage peut lancer au choix *[[Guérison de la cécitésurdité|guérison de la cécité/surdité]]*,
+      *[[Guérison des maladies]]* ou *[[soins importants]]*.
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de karma (NLS 9)</td>
+    <td>
+      Le personnage lance ses sorts avec un bonus de +4 au niveau de lanceur de sorts. Cet effet dure dix minutes.
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de *[[vent divin]]* (NLS 11)</td>
+    <td>
+      Le personnage peut lancer *[[vent divin]]*. Un chapelet de *[[prière]]* mineur contient un grain de
+      *[[bénédiction]]* et un grain de guérison.
+    </td>
+  </tr>
+</table>
 
 
 Un chapelet de *[[prière]]* courant contient un grain de guérison, un grain de karma et un grain de châtiment. Un chapelet de *[[prière]]* majeur contient un grain de guérison, un grain de karma, un grain de convocation et un grain de *[[vent divin]]*. Chaque grain peut être utilisé une fois par jour, sauf le grain de convocation qui ne fonctionne qu’une fois puis devient non magique. Les grains de *[[bénédiction]]*, de châtiment et de *[[vent divin]]* sont des objets à potentiel magique. Les grains de karma et de convocation peuvent être activés par tout lanceur de sorts divins. Pour utiliser un chapelet de *[[prière]]*, il suffit de l’avoir sur soi, pas à un emplacement donné. Un grain magique perd tout pouvoir si on l’extrait du chapelet. Le prix d’un chapelet est réduit si certains de ses grains manquent : -600 po pour le grain de *[[bénédiction]]*, -16 800 po pour le grain de châtiment, -20 000 po pour le grain de convocation, -9 000 po pour le grain de guérison, -20 000 po pour le grain de karma, -46 800 po pour le grain de *[[vent divin]]*.
@@ -1182,10 +3536,23 @@ Quand le *[[mur de force]]* est activé, toute attaque infligeant plus de 30 poi
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Face   
-du cube</td><td>Charges   
-par minute</td><td>Vitesse   
-max.</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>9 m</td><td CLASS="gauche">Protège du gaz, des vents, etc.</td></tr><tr CLASS="alt"><td>2</td><td>2</td><td>6 m</td><td CLASS="gauche">Protège de la matière non-vivante</td></tr><tr><td>3</td><td>3</td><td>4,50 m</td><td CLASS="gauche">Protège de la matière vivante</td></tr><tr CLASS="alt"><td>4</td><td>4</td><td>3 m</td><td CLASS="gauche">Protège de la magie</td></tr><tr><td>5</td><td>6</td><td>3 m</td><td CLASS="gauche">Protège de tout</td></tr><tr CLASS="alt"><td>6</td><td>0</td><td>Normale</td><td CLASS="gauche">Désactive le cube</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre">
+    <td>Face   
+du cube</td>
+    <td>Charges   
+par minute</td>
+    <td>Vitesse   
+max.</td>
+    <td CLASS="gauche">Effet</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>1</td><td>9 m</td><td CLASS="gauche">Protège du gaz, des vents, etc.</td></tr>
+  <tr CLASS="alt"><td>2</td><td>2</td><td>6 m</td><td CLASS="gauche">Protège de la matière non-vivante</td></tr>
+  <tr><td>3</td><td>3</td><td>4,50 m</td><td CLASS="gauche">Protège de la matière vivante</td></tr>
+  <tr CLASS="alt"><td>4</td><td>4</td><td>3 m</td><td CLASS="gauche">Protège de la magie</td></tr>
+  <tr><td>5</td><td>6</td><td>3 m</td><td CLASS="gauche">Protège de tout</td></tr>
+  <tr CLASS="alt"><td>6</td><td>0</td><td>Normale</td><td CLASS="gauche">Désactive le cube</td></tr>
+</table>
 
 </center>
 
@@ -1193,7 +3560,15 @@ Les sorts qui affectent l’intégrité physique du cube coûte également des c
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Sort ou effet</td><td>Charges supplémentaires</td></tr><tr CLASS="premier"><td>*[[Cor de dévastation]]*</td><td>6</td></tr><tr CLASS="alt"><td>*[[Désintégration]]*</td><td>6</td></tr><tr><td>*[[Mur de feu]]*</td><td>2</td></tr><tr CLASS="alt"><td>*[[Passe-muraille]]*</td><td>3</td></tr><tr><td>*[[Porte de phase]]*</td><td>5</td></tr><tr CLASS="alt"><td>*[[Rayons prismatiques]]*</td><td>7</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Sort ou effet</td><td>Charges supplémentaires</td></tr>
+  <tr CLASS="premier"><td>*[[Cor de dévastation]]*</td><td>6</td></tr>
+  <tr CLASS="alt"><td>*[[Désintégration]]*</td><td>6</td></tr>
+  <tr><td>*[[Mur de feu]]*</td><td>2</td></tr>
+  <tr CLASS="alt"><td>*[[Passe-muraille]]*</td><td>3</td></tr>
+  <tr><td>*[[Porte de phase]]*</td><td>5</td></tr>
+  <tr CLASS="alt"><td>*[[Rayons prismatiques]]*</td><td>7</td></tr>
+</table>
 
 </center>
 (((Création)))
@@ -3782,7 +6157,25 @@ Ce grand sac en toile mesure environ un mètre vingt de long sur soixante centim
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td ROWSPAN="2">Type</td><td ROWSPAN="2">Poids du sac</td><td COLSPAN="2" CLASS="avecsoustitre">Contenu max du sac</td><td ROWSPAN="2">Prix du marché</td></tr><tr CLASS="soustitre"><td>(poids)</td><td>(volume)</td></tr><tr CLASS="premier"><td>1er modèle</td><td>7,5 kg</td><td>125 kg</td><td>1,25 m<sup>3</sup></td><td>2 500 po</td></tr><tr CLASS="alt"><td>2e modèle</td><td>12,5 kg</td><td>250 kg</td><td>2,5 m<sup>3</sup></td><td>5 000 po</td></tr><tr><td>3e modèle</td><td>17,5 kg</td><td>500 kg</td><td>5 m<sup>3</sup></td><td>7 400 po</td></tr><tr CLASS="alt"><td>4e modèle</td><td>30 kg</td><td>750 kg</td><td>7,5 m<sup>3</sup></td><td>10 000 po</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Type</td>
+    <td ROWSPAN="2">Poids du sac</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">Contenu max du sac</td>
+    <td ROWSPAN="2">Prix du marché</td>
+  </tr>
+  <tr CLASS="soustitre"><td>(poids)</td><td>(volume)</td></tr>
+  <tr CLASS="premier">
+    <td>1er modèle</td>
+    <td>7,5 kg</td>
+    <td>125 kg</td>
+    <td>1,25 m<sup>3</sup></td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="alt"><td>2e modèle</td><td>12,5 kg</td><td>250 kg</td><td>2,5 m<sup>3</sup></td><td>5 000 po</td></tr>
+  <tr><td>3e modèle</td><td>17,5 kg</td><td>500 kg</td><td>5 m<sup>3</sup></td><td>7 400 po</td></tr>
+  <tr CLASS="alt"><td>4e modèle</td><td>30 kg</td><td>750 kg</td><td>7,5 m<sup>3</sup></td><td>10 000 po</td></tr>
+</table>
 
 </center>
 
@@ -3799,19 +6192,42 @@ Si un sac sans fond est placé dans un *[[trou portable]]*, cela produit une dé
 <table style="width:100%"><tr style="vertical-align: top"><td style="width:33%">
 <center>
 
-<table CLASS="tablo"><caption>Gris</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr><tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Chauve-souris]]</td></tr><tr CLASS="alt"><td>31-60</td><td CLASS="gauche">[[Rat]]</td></tr><tr><td>61-75</td><td CLASS="gauche">[[Chat]]</td></tr><tr CLASS="alt"><td>76-90</td><td CLASS="gauche">[[Belette]]</td></tr><tr><td>91-100</td><td CLASS="gauche">[[Chien|Chien de selle]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Gris</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr>
+  <tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Chauve-souris]]</td></tr>
+  <tr CLASS="alt"><td>31-60</td><td CLASS="gauche">[[Rat]]</td></tr>
+  <tr><td>61-75</td><td CLASS="gauche">[[Chat]]</td></tr>
+  <tr CLASS="alt"><td>76-90</td><td CLASS="gauche">[[Belette]]</td></tr>
+  <tr><td>91-100</td><td CLASS="gauche">[[Chien|Chien de selle]]</td></tr>
+</table>
 
 </center>
 </td><td style="width:33%">
 <center>
 
-<table CLASS="tablo"><caption>Rouille</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr><tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Glouton]]</td></tr><tr CLASS="alt"><td>31–60</td><td CLASS="gauche">[[Loup]]</td></tr><tr><td>61–85</td><td CLASS="gauche">[[Sanglier]]</td></tr><tr CLASS="alt"><td>86–100</td><td CLASS="gauche">[[Léopard]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Rouille</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr>
+  <tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Glouton]]</td></tr>
+  <tr CLASS="alt"><td>31–60</td><td CLASS="gauche">[[Loup]]</td></tr>
+  <tr><td>61–85</td><td CLASS="gauche">[[Sanglier]]</td></tr>
+  <tr CLASS="alt"><td>86–100</td><td CLASS="gauche">[[Léopard]]</td></tr>
+</table>
 
 </center>
 </td><td style="width:33%">
 <center>
 
-<table CLASS="tablo"><caption>Ocre</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr><tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Grizzly]]</td></tr><tr CLASS="alt"><td>31–60</td><td CLASS="gauche">[[Lion]]</td></tr><tr><td>61–80</td><td CLASS="gauche">[[Cheval|Destrier lourd]]</td></tr><tr CLASS="alt"><td>81–90</td><td CLASS="gauche">[[Tigre]]</td></tr><tr><td>91–100</td><td CLASS="gauche">[[Rhinocéros]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Ocre</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Animal</td></tr>
+  <tr CLASS="premier"><td>01–30</td><td CLASS="gauche">[[Grizzly]]</td></tr>
+  <tr CLASS="alt"><td>31–60</td><td CLASS="gauche">[[Lion]]</td></tr>
+  <tr><td>61–80</td><td CLASS="gauche">[[Cheval|Destrier lourd]]</td></tr>
+  <tr CLASS="alt"><td>81–90</td><td CLASS="gauche">[[Tigre]]</td></tr>
+  <tr><td>91–100</td><td CLASS="gauche">[[Rhinocéros]]</td></tr>
+</table>
 
 </center>
 </td></tr></table>

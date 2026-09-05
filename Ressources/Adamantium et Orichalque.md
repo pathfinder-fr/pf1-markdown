@@ -24,8 +24,15 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en adamantium</td><td>Modificateur au   
-prix de vente</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+60 po</td></tr><tr CLASS="alt"><td>Arme (ou bouclier)</td><td>+3 000 po</td></tr><tr><td>Armure légère</td><td>+5 000 po</td></tr><tr CLASS="alt"><td>Armure intermédiaire</td><td>+10 000 po</td></tr><tr><td>Armure lourde</td><td>+15 000 po</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type d’objet en adamantium</td><td>Modificateur au   
+prix de vente</td></tr>
+  <tr CLASS="premier"><td>Munitions (pièce)</td><td>+60 po</td></tr>
+  <tr CLASS="alt"><td>Arme (ou bouclier)</td><td>+3 000 po</td></tr>
+  <tr><td>Armure légère</td><td>+5 000 po</td></tr>
+  <tr CLASS="alt"><td>Armure intermédiaire</td><td>+10 000 po</td></tr>
+  <tr><td>Armure lourde</td><td>+15 000 po</td></tr>
+</table>
 
 </center></div></div>
 Ce métal d’une dureté exceptionnelle, issu des roches tombées du ciel, permet de fabriquer armes et des armures. {br}

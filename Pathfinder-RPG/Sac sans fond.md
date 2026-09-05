@@ -13,7 +13,18 @@ Categories:
 Ce grand sac en toile mesure environ un mètre vingt de long sur soixante centimètres de large. Il s’ouvre sur un espace non dimensionnel, plus volumineux de l’intérieur que de l’extérieur, ce qui lui permet de contenir bien plus de choses que ses dimensions le laissent à première vue supposer. Son poids ne varie jamais, quoi qu’on mette à l’intérieur. Il dépend uniquement du modèle de sac, et c’est également selon son modèle que varie sa contenance totale :
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td ROWSPAN="2">Type</td><td ROWSPAN="2">Poids du sac</td><td COLSPAN="2" CLASS="avecsoustitre">Contenu max du sac</td></tr><tr CLASS="soustitre"><td>(poids)</td><td>(volume)</td></tr><tr CLASS="premier"><td>1er modèle</td><td>7,5 kg</td><td>125 kg</td><td>1,25 m<sup>3</sup></td></tr><tr><td>2e modèle</td><td>12,5 kg</td><td>250 kg</td><td>2,5 m<sup>3</sup></td></tr><tr><td>3e modèle</td><td>17,5 kg</td><td>500 kg</td><td>5 m<sup>3</sup></td></tr><tr><td>4e modèle</td><td>30 kg</td><td>750 kg</td><td>7,5 m<sup>3</sup></td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Type</td>
+    <td ROWSPAN="2">Poids du sac</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">Contenu max du sac</td>
+  </tr>
+  <tr CLASS="soustitre"><td>(poids)</td><td>(volume)</td></tr>
+  <tr CLASS="premier"><td>1er modèle</td><td>7,5 kg</td><td>125 kg</td><td>1,25 m<sup>3</sup></td></tr>
+  <tr><td>2e modèle</td><td>12,5 kg</td><td>250 kg</td><td>2,5 m<sup>3</sup></td></tr>
+  <tr><td>3e modèle</td><td>17,5 kg</td><td>500 kg</td><td>5 m<sup>3</sup></td></tr>
+  <tr><td>4e modèle</td><td>30 kg</td><td>750 kg</td><td>7,5 m<sup>3</sup></td></tr>
+</table>
 
 
 Si le sac est surchargé ou si un objet pointu vient à le transpercer (de l’intérieur ou de l’extérieur), il perd tous ses pouvoirs et son contenu est perdu à jamais. Si on retourne un sac sans fond, son contenu se renverse mais le sac reste parfaitement utilisable. Si une créature vivante est enfermée dans le sac, elle a de l’air pendant dix minutes, après quoi elle commence à suffoquer. Récupérer un objet à l’intérieur d’un sac sans fond exige une [[action de mouvement]], sauf si le sac contient plus de choses qu’un sac à dos bien rempli (auquel cas une [[action complexe]] est nécessaire). Des objets magiques placés dans le sac n’offrent aucun avantage à celui qui le porte.

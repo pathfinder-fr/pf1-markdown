@@ -112,4 +112,65 @@ pour déterminer l’effet des énergies entropiques :
 
 
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>d20</td><td CLASS="gauche">Effet de la vague déformante</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] de 2 points de [[Force]].</td></tr><tr CLASS="alt"><td>2</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Dextérité]].</td></tr><tr><td>3</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Constitution]].</td></tr><tr CLASS="alt"><td>4</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points d'[[Intelligence]].</td></tr><tr><td>5</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Sagesse]].</td></tr><tr CLASS="alt"><td>6</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Charisme]].</td></tr><tr><td>7</td><td CLASS="gauche">La cible subit 1 [[niveau négatif]].</td></tr><tr CLASS="alt"><td>8</td><td CLASS="gauche">La cible est [[aveuglé|aveuglée]] pendant 1d4 rounds.</td></tr><tr><td>9</td><td CLASS="gauche">La cible est [[confus|confuse]] pendant 1d4 rounds.</td></tr><tr CLASS="alt"><td>10</td><td CLASS="gauche">La cible est [[enchevêtré|enchevêtrée]] par des filaments d'énergie pendant 1d4 rounds.</td></tr><tr><td>11</td><td CLASS="gauche">La cible est [[fatigué|fatiguée]] (ou [[épuisé|épuisée]] si elle est déjà [[fatigué|fatiguée]]).</td></tr><tr CLASS="alt"><td>12</td><td CLASS="gauche">La cible devient [[nauséeux|nauséeuse]] pendant 1d4 rounds.</td></tr><tr><td>13</td><td CLASS="gauche">La cible est [[étourdi|étourdie]] pendant 1d4 rounds.</td></tr><tr CLASS="alt"><td>14</td><td CLASS="gauche">La cible est [[fiévreux|fiévreuse]] pendant 1d4 rounds.</td></tr><tr><td>15</td><td CLASS="gauche">La cible est [[chancelant|chancelante]] pendant 1d4 rounds.</td></tr><tr CLASS="alt"><td>16</td><td CLASS="gauche">La cible gagne 4d6 [[point de vie temporaire|points de vie temporaire]].</td></tr><tr><td>17</td><td CLASS="gauche">La cible est affectée par un sort de *[[guérison suprême]]* (NLS égal au FP du protéen).</td></tr><tr CLASS="alt"><td>18</td><td CLASS="gauche">La cible est [[pétrifié|pétrifiée]].</td></tr><tr><td>19</td><td CLASS="gauche">La cible est affectée par une *[[métamorphose funeste]]* (NLS égal au FP du protéen).</td></tr><tr CLASS="alt"><td>20</td><td CLASS="gauche">Certaines parties du corps de la cible s’enflamment, crépitent ou sont affectées par un type d’énergie choisi aléatoirement (entre acide, électricité, feu et froid), ce qui lui inflige 4d6 points de dégâts du type d’énergie en question.</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>d20</td><td CLASS="gauche">Effet de la vague déformante</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] de 2 points de [[Force]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Dextérité]].</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Constitution]].</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points d'[[Intelligence]].</td>
+  </tr>
+  <tr><td>5</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Sagesse]].</td></tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Charisme]].</td>
+  </tr>
+  <tr><td>7</td><td CLASS="gauche">La cible subit 1 [[niveau négatif]].</td></tr>
+  <tr CLASS="alt"><td>8</td><td CLASS="gauche">La cible est [[aveuglé|aveuglée]] pendant 1d4 rounds.</td></tr>
+  <tr><td>9</td><td CLASS="gauche">La cible est [[confus|confuse]] pendant 1d4 rounds.</td></tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td CLASS="gauche">La cible est [[enchevêtré|enchevêtrée]] par des filaments d'énergie pendant 1d4 rounds.</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td CLASS="gauche">
+      La cible est [[fatigué|fatiguée]] (ou [[épuisé|épuisée]] si elle est déjà [[fatigué|fatiguée]]).
+    </td>
+  </tr>
+  <tr CLASS="alt"><td>12</td><td CLASS="gauche">La cible devient [[nauséeux|nauséeuse]] pendant 1d4 rounds.</td></tr>
+  <tr><td>13</td><td CLASS="gauche">La cible est [[étourdi|étourdie]] pendant 1d4 rounds.</td></tr>
+  <tr CLASS="alt"><td>14</td><td CLASS="gauche">La cible est [[fiévreux|fiévreuse]] pendant 1d4 rounds.</td></tr>
+  <tr><td>15</td><td CLASS="gauche">La cible est [[chancelant|chancelante]] pendant 1d4 rounds.</td></tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td CLASS="gauche">La cible gagne 4d6 [[point de vie temporaire|points de vie temporaire]].</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td CLASS="gauche">La cible est affectée par un sort de *[[guérison suprême]]* (NLS égal au FP du protéen).</td>
+  </tr>
+  <tr CLASS="alt"><td>18</td><td CLASS="gauche">La cible est [[pétrifié|pétrifiée]].</td></tr>
+  <tr>
+    <td>19</td>
+    <td CLASS="gauche">La cible est affectée par une *[[métamorphose funeste]]* (NLS égal au FP du protéen).</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td CLASS="gauche">
+      Certaines parties du corps de la cible s’enflamment, crépitent ou sont affectées par un type d’énergie choisi
+      aléatoirement (entre acide, électricité, feu et froid), ce qui lui inflige 4d6 points de dégâts du type
+      d’énergie en question.
+    </td>
+  </tr>
+</table>

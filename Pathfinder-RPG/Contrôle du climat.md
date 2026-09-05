@@ -25,7 +25,14 @@ Ce sort permet de modifier radicalement le climat dans la zone choisie. L’inca
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Saison</td><td CLASS="gauche">Climat possible</td></tr><tr CLASS="premier"><td>Printemps</td><td CLASS="gauche">Tornade, orage, tempête de neige ou temps chaud</td></tr><tr CLASS="alt"><td>Été</td><td CLASS="gauche">Pluie torrentielle, vague de chaleur ou grêle</td></tr><tr><td>Automne</td><td CLASS="gauche">Temps chaud ou froid, brouillard ou neige fondue</td></tr><tr CLASS="alt"><td>Hiver</td><td CLASS="gauche">Froid glacial, blizzard ou fonte des neiges</td></tr><tr><td>Fin de l’hiver</td><td CLASS="gauche">Ouragan ou printemps précoce (zones côtières)</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Saison</td><td CLASS="gauche">Climat possible</td></tr>
+  <tr CLASS="premier"><td>Printemps</td><td CLASS="gauche">Tornade, orage, tempête de neige ou temps chaud</td></tr>
+  <tr CLASS="alt"><td>Été</td><td CLASS="gauche">Pluie torrentielle, vague de chaleur ou grêle</td></tr>
+  <tr><td>Automne</td><td CLASS="gauche">Temps chaud ou froid, brouillard ou neige fondue</td></tr>
+  <tr CLASS="alt"><td>Hiver</td><td CLASS="gauche">Froid glacial, blizzard ou fonte des neiges</td></tr>
+  <tr><td>Fin de l’hiver</td><td CLASS="gauche">Ouragan ou printemps précoce (zones côtières)</td></tr>
+</table>
 
 </center>
 

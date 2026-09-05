@@ -15,7 +15,16 @@ Que vous soyez un soldat aguerri capable de geler le sang de ses ennemis d’un 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Classe</td><td>Points de compétence par niveau</td></tr><tr CLASS="premier"><td>Agent <sup>AGT</sup></td><td>8 + modificateur d'Intelligence</td></tr><tr CLASS="alt"><td>Émissaire <sup>ÉMI</sup></td><td>8 + modificateur d'Intelligence</td></tr><tr><td>Mécano <sup>MÉC</sup></td><td>4 + modificateur d'Intelligence</td></tr><tr CLASS="alt"><td>Mystique <sup>MYS</sup></td><td>6 + modificateur d'Intelligence</td></tr><tr><td>Solarien <sup>SOL</sup></td><td>4 + modificateur d'Intelligence</td></tr><tr CLASS="alt"><td>Soldat <sup>SDT</sup></td><td>4 + modificateur d'Intelligence</td></tr><tr><td>Technomancien <sup>TEC</sup></td><td>4 + modificateur d'Intelligence</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Classe</td><td>Points de compétence par niveau</td></tr>
+  <tr CLASS="premier"><td>Agent <sup>AGT</sup></td><td>8 + modificateur d'Intelligence</td></tr>
+  <tr CLASS="alt"><td>Émissaire <sup>ÉMI</sup></td><td>8 + modificateur d'Intelligence</td></tr>
+  <tr><td>Mécano <sup>MÉC</sup></td><td>4 + modificateur d'Intelligence</td></tr>
+  <tr CLASS="alt"><td>Mystique <sup>MYS</sup></td><td>6 + modificateur d'Intelligence</td></tr>
+  <tr><td>Solarien <sup>SOL</sup></td><td>4 + modificateur d'Intelligence</td></tr>
+  <tr CLASS="alt"><td>Soldat <sup>SDT</sup></td><td>4 + modificateur d'Intelligence</td></tr>
+  <tr><td>Technomancien <sup>TEC</sup></td><td>4 + modificateur d'Intelligence</td></tr>
+</table>
 
 </center>
 </div></div>À chaque niveau, y compris le premier, vous obtenez un certain nombre de rangs de compétence. Le nombre que vous obtenez est déterminé par la classe choisie pour ce niveau, modifié par votre modificateur d’Intelligence (vous obtenez toutefois toujours un minimum de 1 rang de compétence par niveau). Par exemple, si vous créez un technomancien de niveau 1 avec une valeur d’Intelligence de 18, vous obtenez 8 rangs de compétence par niveau : 4 rangs conférés par la classe de technomancien et 4 rangs de plus grâce à votre modificateur d’Intelligence de +4.
@@ -42,7 +51,27 @@ Il est parfois impossible d’effectuer un test de compétence. Parfois, la situ
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type de test de compétence</td><td CLASS="gauche">Résultat du test de compétence*</td></tr><tr CLASS="premier"><td>Compétence de classe avec formation</td><td CLASS="gauche">1d20 + rangs de compétence + 3 + modificateur de caractéristique + autres modificateurs*</td></tr><tr CLASS="alt"><td>Compétence avec formation</td><td CLASS="gauche">1d20 + rangs de compétence + modificateur de caractéristique + autre modificateurs*</td></tr><tr><td>Compétence sans formation</td><td CLASS="gauche">1d20 + modificateur de caractéristique + autres modificateurs*</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) Les malus d’armure aux tests s’appliquent à la plupart des tests de compétence basés sur la Force et la Dextérité.*</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type de test de compétence</td><td CLASS="gauche">Résultat du test de compétence*</td></tr>
+  <tr CLASS="premier">
+    <td>Compétence de classe avec formation</td>
+    <td CLASS="gauche">1d20 + rangs de compétence + 3 + modificateur de caractéristique + autres modificateurs*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Compétence avec formation</td>
+    <td CLASS="gauche">1d20 + rangs de compétence + modificateur de caractéristique + autre modificateurs*</td>
+  </tr>
+  <tr>
+    <td>Compétence sans formation</td>
+    <td CLASS="gauche">1d20 + modificateur de caractéristique + autres modificateurs*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="3" CLASS="note">
+      *(*) Les malus d’armure aux tests s’appliquent à la plupart des tests de compétence basés sur la Force et la
+      Dextérité.*
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -67,7 +96,23 @@ Le MJ peut vous conférer la possibilité d’aider quelqu’un à réussir un t
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Type de créature</td><td CLASS="gauche">Compétence</td></tr><tr CLASS="premier"><td>Aberration</td><td CLASS="gauche">Sciences de la vie</td></tr><tr CLASS="alt"><td>Animal</td><td CLASS="gauche">Sciences de la vie</td></tr><tr><td>Créature artificielle (magique)</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Créature artificielle (technologique)</td><td CLASS="gauche">Ingénierie</td></tr><tr><td>Créature magique</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Dragon</td><td CLASS="gauche">Mysticisme</td></tr><tr><td>Extérieur</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Fée</td><td CLASS="gauche">Mysticisme</td></tr><tr><td>Humanoïde</td><td CLASS="gauche">Sciences de la vie</td></tr><tr CLASS="alt"><td>Humanoïde monstrueux</td><td CLASS="gauche">Sciences de la vie</td></tr><tr><td>Mort-vivant</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Plante</td><td CLASS="gauche">Sciences de la vie</td></tr><tr><td>Vase</td><td CLASS="gauche">Sciences de la vie</td></tr><tr CLASS="alt"><td>Vermine</td><td CLASS="gauche">Sciences de la vie</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Type de créature</td><td CLASS="gauche">Compétence</td></tr>
+  <tr CLASS="premier"><td>Aberration</td><td CLASS="gauche">Sciences de la vie</td></tr>
+  <tr CLASS="alt"><td>Animal</td><td CLASS="gauche">Sciences de la vie</td></tr>
+  <tr><td>Créature artificielle (magique)</td><td CLASS="gauche">Mysticisme</td></tr>
+  <tr CLASS="alt"><td>Créature artificielle (technologique)</td><td CLASS="gauche">Ingénierie</td></tr>
+  <tr><td>Créature magique</td><td CLASS="gauche">Mysticisme</td></tr>
+  <tr CLASS="alt"><td>Dragon</td><td CLASS="gauche">Mysticisme</td></tr>
+  <tr><td>Extérieur</td><td CLASS="gauche">Mysticisme</td></tr>
+  <tr CLASS="alt"><td>Fée</td><td CLASS="gauche">Mysticisme</td></tr>
+  <tr><td>Humanoïde</td><td CLASS="gauche">Sciences de la vie</td></tr>
+  <tr CLASS="alt"><td>Humanoïde monstrueux</td><td CLASS="gauche">Sciences de la vie</td></tr>
+  <tr><td>Mort-vivant</td><td CLASS="gauche">Mysticisme</td></tr>
+  <tr CLASS="alt"><td>Plante</td><td CLASS="gauche">Sciences de la vie</td></tr>
+  <tr><td>Vase</td><td CLASS="gauche">Sciences de la vie</td></tr>
+  <tr CLASS="alt"><td>Vermine</td><td CLASS="gauche">Sciences de la vie</td></tr>
+</table>
 
 </center>
 </div>
@@ -78,7 +123,18 @@ Le DD des tests de compétence pour identifier une créature dépend de la raret
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Rareté de la créature</td><td CLASS="gauche">DD</td></tr><tr CLASS="premier"><td>Très courante (gobelin de l'espace)</td><td CLASS="gauche">5 + 1,5 x le FP de la créature</td></tr><tr CLASS="alt"><td>Moyenne (la plupart des monstres)</td><td CLASS="gauche">10 + 1,5 x le FP de la créature</td></tr><tr><td>Rare (rejeton de nova)</td><td CLASS="gauche">15 + 1,5 x le FP de la créature</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Rareté de la créature</td><td CLASS="gauche">DD</td></tr>
+  <tr CLASS="premier">
+    <td>Très courante (gobelin de l'espace)</td>
+    <td CLASS="gauche">5 + 1,5 x le FP de la créature</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Moyenne (la plupart des monstres)</td>
+    <td CLASS="gauche">10 + 1,5 x le FP de la créature</td>
+  </tr>
+  <tr><td>Rare (rejeton de nova)</td><td CLASS="gauche">15 + 1,5 x le FP de la créature</td></tr>
+</table>
 
 </center>
 
@@ -91,7 +147,12 @@ La liste des types de créatures ci-contre indique quelle compétence utiliser p
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Difficulté de la question</td><td CLASS="gauche">DD de base</td></tr><tr CLASS="premier"><td>Questions vraiment faciles</td><td CLASS="gauche">5</td></tr><tr CLASS="alt"><td>Questions moyennement compliquées</td><td CLASS="gauche">15</td></tr><tr><td>Questions très compliquées</td><td CLASS="gauche">20 à 30</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Difficulté de la question</td><td CLASS="gauche">DD de base</td></tr>
+  <tr CLASS="premier"><td>Questions vraiment faciles</td><td CLASS="gauche">5</td></tr>
+  <tr CLASS="alt"><td>Questions moyennement compliquées</td><td CLASS="gauche">15</td></tr>
+  <tr><td>Questions très compliquées</td><td CLASS="gauche">20 à 30</td></tr>
+</table>
 
 </center>
 </div>
@@ -104,7 +165,38 @@ Les sujets spécifiques et les compétences que vous utilisez pour vous rappeler
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Compétence</td><td CLASS="gauche">Se rappeler quelque chose sur les sujets suivants</td></tr><tr CLASS="premier"><td>Culture</td><td CLASS="gauche">Coutumes, lois, gouvernement, dirigeants, célébrités, légendes, religion, histoire et sujets apparentés d’une culture</td></tr><tr CLASS="alt"><td>Mysticisme</td><td CLASS="gauche">Théories alchimiques, symboles arcaniques, divinités, traditions magiques, les plans, traditions et symboles religieux, et sujets apparentés</td></tr><tr><td>Profession</td><td CLASS="gauche">Une profession spécifique et sujets apparentés</td></tr><tr CLASS="alt"><td>Sciences de la vie</td><td CLASS="gauche">Bio ingénierie, biologie, botanique, écologie, génétique, xénobiologie, zoologie et autres domaines des sciences biologiques</td></tr><tr><td>Sciences physique</td><td CLASS="gauche">Astronomie, chimie, climatologie, géographie, géologie, hyperespace, météorologie, océanographie, physique et autres domaines des sciences naturelles</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Compétence</td><td CLASS="gauche">Se rappeler quelque chose sur les sujets suivants</td></tr>
+  <tr CLASS="premier">
+    <td>Culture</td>
+    <td CLASS="gauche">
+      Coutumes, lois, gouvernement, dirigeants, célébrités, légendes, religion, histoire et sujets apparentés d’une
+      culture
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Mysticisme</td>
+    <td CLASS="gauche">
+      Théories alchimiques, symboles arcaniques, divinités, traditions magiques, les plans, traditions et symboles
+      religieux, et sujets apparentés
+    </td>
+  </tr>
+  <tr><td>Profession</td><td CLASS="gauche">Une profession spécifique et sujets apparentés</td></tr>
+  <tr CLASS="alt">
+    <td>Sciences de la vie</td>
+    <td CLASS="gauche">
+      Bio ingénierie, biologie, botanique, écologie, génétique, xénobiologie, zoologie et autres domaines des
+      sciences biologiques
+    </td>
+  </tr>
+  <tr>
+    <td>Sciences physique</td>
+    <td CLASS="gauche">
+      Astronomie, chimie, climatologie, géographie, géologie, hyperespace, météorologie, océanographie, physique et
+      autres domaines des sciences naturelles
+    </td>
+  </tr>
+</table>
 
 </center>
 

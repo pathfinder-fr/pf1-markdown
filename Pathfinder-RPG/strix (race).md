@@ -72,7 +72,20 @@ Ces dons sont accessibles aux strix :
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Ailes rallongées]]</td><td><sup>MR</sup></td><td>For 13, Talent (Vol), [[strix (race)|strix]], trait racial ailes tailladées</td><td>Le strix estropié parvient à voler</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">&nbsp;</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ailes rallongées]]</td>
+    <td><sup>MR</sup></td>
+    <td>For 13, Talent (Vol), [[strix (race)|strix]], trait racial ailes tailladées</td>
+    <td>Le strix estropié parvient à voler</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

@@ -17,7 +17,108 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Le mystificateur arcanique</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">Feinte magique, Prestidigitation (en continu)</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">Influence</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Attitude ambigüe</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Influence</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Feinte magique améliorée</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|-]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Influence</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">Trompe-la-mort</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">Influence</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">Prestidigitation rapide</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">Feinte magique supérieure, Influence.</td><td CLASS="gauche">[[mystificateur arcanique#SORTS|-]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le mystificateur arcanique</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">Feinte magique, Prestidigitation (en continu)</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">Influence</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">Attitude ambigüe</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">Influence</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">Feinte magique améliorée</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|-]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">Influence</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">Trompe-la-mort</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">Influence</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">Prestidigitation rapide</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">Feinte magique supérieure, Influence.</td>
+    <td CLASS="gauche">[[mystificateur arcanique#SORTS|-]]</td>
+  </tr>
+</table>
 
 </center>
 

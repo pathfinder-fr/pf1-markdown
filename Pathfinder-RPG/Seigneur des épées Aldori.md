@@ -13,7 +13,103 @@ Puisque que cette classe de prestige demande de maîtriser plusieurs dons, les s
 
 <center>
 
-<table CLASS="tablo"><caption>Le seigneur des épées</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Seigneur des épées Aldori#ARMEENMAIN|Arme en main]], [[Seigneur des épées Aldori#PERCEEHABILE|percée habile]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur des épées Aldori#DEMONSTRATIONDETALENT|Démonstration de talent]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur des épées Aldori#PARADEDEFENSIVE|Parade défensive]] +1</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 1</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur des épées Aldori#BRISERLACONFIANCE|Briser la confiance]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur des épées Aldori#TAILLADEGARDIENNE|Taillade gardienne]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur des épées Aldori#DUELLISTEAGILE|Duelliste agile]], [[Seigneur des épées Aldori#PARADEDEFENSIVE|parade défensive]] +2</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 2</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Seigneur des épées Aldori#TAILLADEGARDIENNESUPERIEURE|Taillade gardienne supérieure]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Seigneur des épées Aldori#DUELLISTEETOURDISSANT|Duelliste étourdissant]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le seigneur des épées</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Seigneur des épées Aldori#ARMEENMAIN|Arme en main]], [[Seigneur des épées Aldori#PERCEEHABILE|percée
+      habile]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#DEMONSTRATIONDETALENT|Démonstration de talent]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#PARADEDEFENSIVE|Parade défensive]] +1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 1</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#BRISERLACONFIANCE|Briser la confiance]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#TAILLADEGARDIENNE|Taillade gardienne]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Seigneur des épées Aldori#DUELLISTEAGILE|Duelliste agile]], [[Seigneur des épées
+      Aldori#PARADEDEFENSIVE|parade défensive]] +2
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 2</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#TAILLADEGARDIENNESUPERIEURE|Taillade gardienne supérieure]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Seigneur des épées Aldori#DUELLISTEETOURDISSANT|Duelliste étourdissant]]</td>
+  </tr>
+</table>
 
 </center>
 

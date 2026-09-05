@@ -25,4 +25,35 @@ Le futur de la mer Intérieure est un temps nettement plus mystérieux qui pourr
 
 #### Les Âges de Golarion
 
-<table CLASS="tablo autoalt centre toutgauche" WIDTH="94%"><caption>Âges de Golarion</caption><tr CLASS="titre"><td>Temps approx.</td><td>Dates</td><td>Dangers/évènements marquants</td></tr><tr CLASS="premier"></tr><tr><td>Passé originel</td><td>Avant -50 000 0001</td><td>Animaux préhistoriques et environnements mortels</td></tr><tr><td>Passé préhistorique</td><td>-50 000 000 à -1 000 0001</td><td>Domination des animaux et des dragons</td></tr><tr><td>Passé primitif</td><td>-1 000 000 à -10 001</td><td>Domination des hommes-serpents et des non-humains</td></tr><tr><td>Passé légendaire</td><td>-10 000 à -4295</td><td>Apogée de l’Azlant et du Thassilon, âge des Ténèbres</td></tr><tr><td>Passé lointain</td><td>1 AR à 4605 AR</td><td>Apothéose d’Aroden</td></tr><tr><td>Passé récent</td><td>4606 AR à 4711 AR</td><td>Mort d’Aroden</td></tr><tr><td>Présent</td><td>4712 AR</td><td>Époque moderne (comme détaillé dans le Guide de la mer Intérieure)</td></tr><tr><td>Futur proche</td><td>4712 AR à 9999 AR</td><td>Époque moderne avec changements politiques</td></tr><tr><td>Futur lointain</td><td>10 000 AR à 99 999 AR</td><td>Nouvelles cultures, nouvelles technologies</td></tr><tr><td>Futur très lointain</td><td>100 000 AR à 999 999 AR</td><td>Cultures et sciences complètement étrangères</td></tr><tr><td>Futur extrême</td><td>Après 1 000 000 AR</td><td>Domination non-humaine, nouvelle géographie</td></tr></table>
+<table CLASS="tablo autoalt centre toutgauche" WIDTH="94%">
+  <caption>Âges de Golarion</caption>
+  <tr CLASS="titre"><td>Temps approx.</td><td>Dates</td><td>Dangers/évènements marquants</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Passé originel</td><td>Avant -50 000 0001</td><td>Animaux préhistoriques et environnements mortels</td></tr>
+  <tr>
+    <td>Passé préhistorique</td>
+    <td>-50 000 000 à -1 000 0001</td>
+    <td>Domination des animaux et des dragons</td>
+  </tr>
+  <tr>
+    <td>Passé primitif</td>
+    <td>-1 000 000 à -10 001</td>
+    <td>Domination des hommes-serpents et des non-humains</td>
+  </tr>
+  <tr>
+    <td>Passé légendaire</td>
+    <td>-10 000 à -4295</td>
+    <td>Apogée de l’Azlant et du Thassilon, âge des Ténèbres</td>
+  </tr>
+  <tr><td>Passé lointain</td><td>1 AR à 4605 AR</td><td>Apothéose d’Aroden</td></tr>
+  <tr><td>Passé récent</td><td>4606 AR à 4711 AR</td><td>Mort d’Aroden</td></tr>
+  <tr><td>Présent</td><td>4712 AR</td><td>Époque moderne (comme détaillé dans le Guide de la mer Intérieure)</td></tr>
+  <tr><td>Futur proche</td><td>4712 AR à 9999 AR</td><td>Époque moderne avec changements politiques</td></tr>
+  <tr><td>Futur lointain</td><td>10 000 AR à 99 999 AR</td><td>Nouvelles cultures, nouvelles technologies</td></tr>
+  <tr>
+    <td>Futur très lointain</td>
+    <td>100 000 AR à 999 999 AR</td>
+    <td>Cultures et sciences complètement étrangères</td>
+  </tr>
+  <tr><td>Futur extrême</td><td>Après 1 000 000 AR</td><td>Domination non-humaine, nouvelle géographie</td></tr>
+</table>

@@ -18,7 +18,22 @@ Categories:
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>Table du FP du zombi</caption><tr CLASS="titre"><td class="gauche">DV</td><td>FP</td><td>PX</td></tr><tr CLASS="premier"><td class="gauche">1/2</td><td>1/8</td><td>50</td></tr><tr CLASS="alt"><td class="gauche">1</td><td>1/4</td><td>100</td></tr><tr><td class="gauche">2</td><td>1/2</td><td>200</td></tr><tr CLASS="alt"><td class="gauche">3-4</td><td>1</td><td>400</td></tr><tr><td class="gauche">5–6</td><td>2</td><td>600</td></tr><tr CLASS="alt"><td class="gauche">7-8</td><td>3</td><td>800</td></tr><tr><td class="gauche">9–10</td><td>4</td><td>1200</td></tr><tr CLASS="alt"><td class="gauche">11-12</td><td>5</td><td>1600</td></tr><tr><td class="gauche">13–16</td><td>6</td><td>2400</td></tr><tr CLASS="alt"><td class="gauche">17-20</td><td>7</td><td>3200</td></tr><tr><td class="gauche">21–24</td><td>8</td><td>4800</td></tr><tr CLASS="alt"><td class="gauche">25–28</td><td>9</td><td>6400</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>Table du FP du zombi</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td>FP</td><td>PX</td></tr>
+  <tr CLASS="premier"><td class="gauche">1/2</td><td>1/8</td><td>50</td></tr>
+  <tr CLASS="alt"><td class="gauche">1</td><td>1/4</td><td>100</td></tr>
+  <tr><td class="gauche">2</td><td>1/2</td><td>200</td></tr>
+  <tr CLASS="alt"><td class="gauche">3-4</td><td>1</td><td>400</td></tr>
+  <tr><td class="gauche">5–6</td><td>2</td><td>600</td></tr>
+  <tr CLASS="alt"><td class="gauche">7-8</td><td>3</td><td>800</td></tr>
+  <tr><td class="gauche">9–10</td><td>4</td><td>1200</td></tr>
+  <tr CLASS="alt"><td class="gauche">11-12</td><td>5</td><td>1600</td></tr>
+  <tr><td class="gauche">13–16</td><td>6</td><td>2400</td></tr>
+  <tr CLASS="alt"><td class="gauche">17-20</td><td>7</td><td>3200</td></tr>
+  <tr><td class="gauche">21–24</td><td>8</td><td>4800</td></tr>
+  <tr CLASS="alt"><td class="gauche">25–28</td><td>9</td><td>6400</td></tr>
+</table>
 
 </center>
 
@@ -28,7 +43,17 @@ Categories:
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>Table d'armure naturelle du zombi</caption><tr CLASS="titre"><td class="gauche">Taille du zombi</td><td>Bonus d’armure naturelle</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>+0</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td>+1</td></tr><tr><td class="gauche">Moyen</td><td>+2</td></tr><tr CLASS="alt"><td class="gauche">Grand</td><td>+3</td></tr><tr><td class="gauche">Très Grand</td><td>+4</td></tr><tr CLASS="alt"><td class="gauche">Gigantesque</td><td>+7</td></tr><tr><td class="gauche">Colossal</td><td>+11</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>Table d'armure naturelle du zombi</caption>
+  <tr CLASS="titre"><td class="gauche">Taille du zombi</td><td>Bonus d’armure naturelle</td></tr>
+  <tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>+0</td></tr>
+  <tr CLASS="alt"><td class="gauche">Petit</td><td>+1</td></tr>
+  <tr><td class="gauche">Moyen</td><td>+2</td></tr>
+  <tr CLASS="alt"><td class="gauche">Grand</td><td>+3</td></tr>
+  <tr><td class="gauche">Très Grand</td><td>+4</td></tr>
+  <tr CLASS="alt"><td class="gauche">Gigantesque</td><td>+7</td></tr>
+  <tr><td class="gauche">Colossal</td><td>+11</td></tr>
+</table>
 
 </center>
 
@@ -36,7 +61,16 @@ Categories:
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DV supplémentaires du zombi</caption><tr CLASS="titre"><td>Taille du zombi</td><td>DV en bonus</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>—</td></tr><tr CLASS="alt"><td class="gauche">Petit ou Moyen</td><td>+1 DV</td></tr><tr><td class="gauche">Grand</td><td>+2 DV</td></tr><tr CLASS="alt"><td class="gauche">Très Grand</td><td>+4 DV</td></tr><tr><td>Gigantesque</td><td>+6 DV</td></tr><tr CLASS="alt"><td>Colossal</td><td>+10 DV</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DV supplémentaires du zombi</caption>
+  <tr CLASS="titre"><td>Taille du zombi</td><td>DV en bonus</td></tr>
+  <tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>—</td></tr>
+  <tr CLASS="alt"><td class="gauche">Petit ou Moyen</td><td>+1 DV</td></tr>
+  <tr><td class="gauche">Grand</td><td>+2 DV</td></tr>
+  <tr CLASS="alt"><td class="gauche">Très Grand</td><td>+4 DV</td></tr>
+  <tr><td>Gigantesque</td><td>+6 DV</td></tr>
+  <tr CLASS="alt"><td>Colossal</td><td>+10 DV</td></tr>
+</table>
 
 </center>
 

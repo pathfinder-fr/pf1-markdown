@@ -18,7 +18,14 @@ Les DD des tests de Culture pour déchiffrer des écrits dépendent de la comple
 
 <Center>
 
-<table CLASS="tablo"><caption>TESTS DE CULTURE</caption><tr CLASS="titre"><td>COMPLEXITÉ</td><td>DD</td></tr><tr CLASS="premier"></tr><tr><td>Message simple</td><td>20</td></tr><tr><td>Texte standard</td><td>25</td></tr><tr><td>Écrit complexe, exotique ou très ancien</td><td>30</td></tr></table>
+<table CLASS="tablo">
+  <caption>TESTS DE CULTURE</caption>
+  <tr CLASS="titre"><td>COMPLEXITÉ</td><td>DD</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Message simple</td><td>20</td></tr>
+  <tr><td>Texte standard</td><td>25</td></tr>
+  <tr><td>Écrit complexe, exotique ou très ancien</td><td>30</td></tr>
+</table>
 
 </Center>
 

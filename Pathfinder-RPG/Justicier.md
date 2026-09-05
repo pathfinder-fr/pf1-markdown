@@ -15,7 +15,188 @@ Malgré cela, tous les justiciers ne travaillent pas à rendre le monde meilleur
 peur.''
 
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEJUSTICIER}Le justicier</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Justicier#APPARENCETRANSPARENTE|Apparence transparente]], [[Justicier#DOUBLEIDENTITÉ|double identité]], [[Justicier#SPÉCIALISATIONDEJUSTICIER|spécialisation de justicier]], [[Justicier#TALENTSOCIAL|talent social]]</td></tr><tr><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Justicier#IMPERTURBABLE|Imperturbable]], [[Justicier#TALENTSOCIAL|talent social]]</td></tr><tr><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Justicier#APPARITIONSURPRENANTE|Apparition surprenante]], [[Justicier#TALENTSOCIAL|talent social]]</td></tr><tr><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td></tr><tr><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td></tr><tr><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Justicier#APPARITIONEFFRAYANTE|Apparition effrayante]], [[Justicier#TALENTSOCIAL|talent social]]</td></tr><tr><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td></tr><tr><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td></tr><tr><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Justicier#APPARITIONSTUPÉFIANTE|Apparition stupéfiante]], [[Justicier#TALENTSOCIAL|talent social]]</td></tr><tr><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td></tr><tr><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Justicier#FRAPPEVENGERESSE|Frappe vengeresse]], [[Justicier#TALENTDEJUSTICIER|talent de justicier]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLEJUSTICIER}Le justicier</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Justicier#APPARENCETRANSPARENTE|Apparence transparente]], [[Justicier#DOUBLEIDENTITÉ|double identité]],
+      [[Justicier#SPÉCIALISATIONDEJUSTICIER|spécialisation de justicier]], [[Justicier#TALENTSOCIAL|talent social]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Justicier#IMPERTURBABLE|Imperturbable]], [[Justicier#TALENTSOCIAL|talent social]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Justicier#APPARITIONSURPRENANTE|Apparition surprenante]], [[Justicier#TALENTSOCIAL|talent social]]
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[Justicier#APPARITIONEFFRAYANTE|Apparition effrayante]], [[Justicier#TALENTSOCIAL|talent social]]
+    </td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Justicier#APPARITIONSTUPÉFIANTE|Apparition stupéfiante]], [[Justicier#TALENTSOCIAL|talent social]]
+    </td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Justicier#TALENTDEJUSTICIER|Talent de justicier]]</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Justicier#TALENTSOCIAL|Talent social]]</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Justicier#FRAPPEVENGERESSE|Frappe vengeresse]], [[Justicier#TALENTDEJUSTICIER|talent de justicier]]
+    </td>
+  </tr>
+</table>
 
 
 **Rôle.** Un justicier peut remplir plusieurs tâches dans un groupe. La plupart d'entre eux sont habiles pour ce qui est de négocier lors de situations délicates ou d’intrigues sociales, mais ils peuvent également constituer une force de frappe furtive ou même être des combattants brutaux dans des environnements dangereux.

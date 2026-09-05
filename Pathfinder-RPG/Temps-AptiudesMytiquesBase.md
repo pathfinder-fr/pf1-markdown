@@ -7,7 +7,62 @@ LastModified: 2018-01-12 16:09
 Chaque PJ mythique gagne plusieurs aptitudes de base partagées par tous les personnages mythiques, en plus des aptitudes spécifiques à chacune des voies mythiques. Ces aptitudes sont obtenues en fonction du grade mythique atteint.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Aptitudes mythiques de base</caption><tr CLASS="titre"><td>Grade mythique</td><td>Valeur de  carac.</td><td>Don  mythique</td><td>Aptitudes mythiques  de base</td></tr><tr CLASS="premier"><td>1er</td><td>—</td><td>1er</td><td>[[Temps-AptiudesMytiquesBase#DifficileTuer|Difficile à tuer]], [[Temps-AptiudesMytiquesBase#PouvoirMythique|Pouvoir mythique]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)</td></tr><tr><td>2ème</td><td>1er</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#ExcellenteInitiative|Excellente initiative]]</td></tr><tr><td>3ème</td><td>—</td><td>2ème</td><td>[[Temps-AptiudesMytiquesBase#Retablissement|Rétablissement]]</td></tr><tr><td>4ème</td><td>2ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)</td></tr><tr><td>5ème</td><td>—</td><td>3ème</td><td>[[Temps-AptiudesMytiquesBase#JDSMythique|Jets de sauvegarde mythiques]]</td></tr><tr><td>6ème</td><td>3ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#ForceVolonté|Force de volonté]]</td></tr><tr><td>7ème</td><td>—</td><td>4ème</td><td>[[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)</td></tr><tr><td>8ème</td><td>4ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#Indomptable|Indomptable]]</td></tr><tr><td>9ème</td><td>—</td><td>5ème</td><td>[[Temps-AptiudesMytiquesBase#Immortel|Immortel]]</td></tr><tr><td>10ème</td><td>5ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#HeroLegendaire|Héros légendaire]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Aptitudes mythiques de base</caption>
+  <tr CLASS="titre">
+    <td>Grade mythique</td>
+    <td>Valeur de  carac.</td>
+    <td>Don  mythique</td>
+    <td>Aptitudes mythiques  de base</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>—</td>
+    <td>1er</td>
+    <td>
+      [[Temps-AptiudesMytiquesBase#DifficileTuer|Difficile à tuer]],
+      [[Temps-AptiudesMytiquesBase#PouvoirMythique|Pouvoir mythique]],
+      [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)
+    </td>
+  </tr>
+  <tr>
+    <td>2ème</td>
+    <td>1er</td>
+    <td>—</td>
+    <td>[[Temps-AptiudesMytiquesBase#ExcellenteInitiative|Excellente initiative]]</td>
+  </tr>
+  <tr><td>3ème</td><td>—</td><td>2ème</td><td>[[Temps-AptiudesMytiquesBase#Retablissement|Rétablissement]]</td></tr>
+  <tr>
+    <td>4ème</td>
+    <td>2ème</td>
+    <td>—</td>
+    <td>[[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)</td>
+  </tr>
+  <tr>
+    <td>5ème</td>
+    <td>—</td>
+    <td>3ème</td>
+    <td>[[Temps-AptiudesMytiquesBase#JDSMythique|Jets de sauvegarde mythiques]]</td>
+  </tr>
+  <tr><td>6ème</td><td>3ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#ForceVolonté|Force de volonté]]</td></tr>
+  <tr>
+    <td>7ème</td>
+    <td>—</td>
+    <td>4ème</td>
+    <td>[[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)</td>
+  </tr>
+  <tr><td>8ème</td><td>4ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#Indomptable|Indomptable]]</td></tr>
+  <tr><td>9ème</td><td>—</td><td>5ème</td><td>[[Temps-AptiudesMytiquesBase#Immortel|Immortel]]</td></tr>
+  <tr>
+    <td>10ème</td>
+    <td>5ème</td>
+    <td>—</td>
+    <td>
+      [[Temps-AptiudesMytiquesBase#HeroLegendaire|Héros légendaire]],
+      [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)
+    </td>
+  </tr>
+</table>
 
 
 {s:Reference|ValeurCaracMythique}

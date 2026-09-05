@@ -16,13 +16,357 @@ Categories:
 </div>*Pour ceux qui sont capables de les découvrir, le monde contient des merveilles insoupçonnées et de nombreux mystères. C’est grâce à leur intelligence, leur habileté et leur magie que quelques individus rusés percent les secrets du monde tout en se formant aux arts de la persuasion, de la manipulation et de l’inspiration. Ces bardes, qui maîtrisent généralement une ou plusieurs formes d’expression artistique, possèdent des connaissances étonnamment variées et utilisent ce qu’ils apprennent pour se préparer aux dangers qui les menacent, eux et leurs alliés. Vifs d’esprit et passionnants, les bardes possèdent des compétences diversifiées qui peuvent les mener vers de nombreuses carrières : joueurs professionnels, touche-à-tout, érudits ou artistes, chefs charismatiques ou brigands, ou bien encore tout cela à la fois. Pour les bardes, chaque jour apporte son lot d’opportunités, d’aventures et de défis dont il n’est possible de tirer avantage qu’en prenant des risques, en élargissant ses connaissances et en se donnant à cent pour cent.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEBARDE}Le barde</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Représentations#CONTRE-CHANT|Contre-chant]], [[Représentations#DISTRACTION|distraction]], [[Représentations#FASCINATION|fascination]], [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +1, [[barde#REPRESENTATIONBARDIQUE|représentation bardique]], [[barde#SAVOIRBARDIQUE|savoir bardique]], [[barde#TOURSDEMAGIE|tours de magie]]</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td CLASS="gauche">[[barde#ERUDITION|Érudition]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +2</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">&nbsp;</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] +2, [[barde#MAITREDUSAVOIR|maître du savoir]] 1/jour</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Représentations#SUGGESTION|Suggestion]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +3</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Représentations#CHANTFUNESTE|Chant funeste]]</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Représentations#INSPIRATIONGLORIEUSE|Inspiration glorieuse]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[barde#TOUCHE-A-TOUT|Touche-à-tout]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +4, [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +3, [[barde#MAITREDUSAVOIR|maître du savoir]] 2/jour</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Représentations#REPRESENTATIONAPAISANTE|Représentation apaisante]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">&nbsp;</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Représentations#MELODIEEFFRAYANTE|Mélodie effrayante]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Représentations#INSPIRATIONHEROIQUE|Inspiration héroïque]], [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">&nbsp;</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] +4, [[barde#MAITREDUSAVOIR|maître du savoir]] 3/jour</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Représentations#SUGGESTIONDEGROUPE|Suggestion de groupe]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Représentations#REPRESENTATIONMORTELLE|Représentation mortelle]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEBARDE}Le barde</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Représentations#CONTRE-CHANT|Contre-chant]], [[Représentations#DISTRACTION|distraction]],
+      [[Représentations#FASCINATION|fascination]], [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]]
+      +1, [[barde#REPRESENTATIONBARDIQUE|représentation bardique]], [[barde#SAVOIRBARDIQUE|savoir bardique]],
+      [[barde#TOURSDEMAGIE|tours de magie]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[barde#ERUDITION|Érudition]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +2</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] +2, [[barde#MAITREDUSAVOIR|maître du savoir]]
+      1/jour
+    </td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Représentations#SUGGESTION|Suggestion]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +3</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Représentations#CHANTFUNESTE|Chant funeste]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Représentations#INSPIRATIONGLORIEUSE|Inspiration glorieuse]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[barde#TOUCHE-A-TOUT|Touche-à-tout]], [[barde#VERSATILITEARTISTIQUE|versatilité artistique]]
+    </td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +4,
+      [[Représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] +3, [[barde#MAITREDUSAVOIR|maître du savoir]]
+      2/jour
+    </td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Représentations#REPRESENTATIONAPAISANTE|Représentation apaisante]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">
+      [[Représentations#MELODIEEFFRAYANTE|Mélodie effrayante]], [[barde#VERSATILITEARTISTIQUE|versatilité
+      artistique]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">
+      [[Représentations#INSPIRATIONHEROIQUE|Inspiration héroïque]],
+      [[Représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] +5
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Représentations#INSPIRATIONVAILLANTE|Inspiration vaillante]] +4, [[barde#MAITREDUSAVOIR|maître du savoir]]
+      3/jour
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">
+      [[Représentations#SUGGESTIONDEGROUPE|Suggestion de groupe]], [[barde#VERSATILITEARTISTIQUE|versatilité
+      artistique]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Représentations#INSPIRATIONTALENTUEUSE|Inspiration talentueuse]] +6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[Représentations#REPRESENTATIONMORTELLE|Représentation mortelle]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLESORTSCONNUSBARDE}Sorts connus par le barde</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLESORTSCONNUSBARDE}Sorts connus par le barde</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+</table>
 
 </div></div>**Rôle.** Les bardes excellent dans l’art de troubler et de déstabiliser leurs ennemis tout en encourageant leurs amis à toujours se dépasser. Ils savent manier à la fois les armes et la magie, mais leur véritable force réside en-dehors de la mêlée, où ils peuvent aider leurs compagnons et nuire à leurs ennemis sans craindre de voir leurs performances interrompues.
 

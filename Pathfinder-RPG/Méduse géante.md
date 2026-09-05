@@ -56,6 +56,13 @@ Contrairement à ses cousins de taille normale, la méduse géante est un préda
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td>Méduse à tête de mort</td><td>1</td><td>P</td><td>2</td></tr><tr CLASS="alt"><td>Méduse écarlate</td><td>4</td><td>M</td><td>5</td></tr><tr CLASS="alt"><td>Méduse de saphir</td><td>11</td><td>TG</td><td>12</td></tr><tr CLASS="alt"><td>Méduse vampirique</td><td>14</td><td>Gig</td><td>16</td></tr><tr CLASS="alt"><td>Méduse gobe-baleine</td><td>17</td><td>Col</td><td>20</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td>Méduse à tête de mort</td><td>1</td><td>P</td><td>2</td></tr>
+  <tr CLASS="alt"><td>Méduse écarlate</td><td>4</td><td>M</td><td>5</td></tr>
+  <tr CLASS="alt"><td>Méduse de saphir</td><td>11</td><td>TG</td><td>12</td></tr>
+  <tr CLASS="alt"><td>Méduse vampirique</td><td>14</td><td>Gig</td><td>16</td></tr>
+  <tr CLASS="alt"><td>Méduse gobe-baleine</td><td>17</td><td>Col</td><td>20</td></tr>
+</table></center>
 
 </div></td></tr></table>

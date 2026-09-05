@@ -39,7 +39,16 @@ Tous les engins de siège sont des objets de [[taille]] G au minimum, souvent pl
 
 <center>
 
-<table CLASS="tablo"><caption>Assemblage d’un engin de siège</caption><tr CLASS="titre"><td>Taille de la machine</td><td>Nombre d’ouvriers</td><td>Temps requis nécessaires</td></tr><tr CLASS="premier"><td>&emsp;P</td><td>1</td><td>1 min</td></tr><tr CLASS="alt"><td>&emsp;M</td><td>2</td><td>10 min</td></tr><tr><td>&emsp;G</td><td>4</td><td>1 h</td></tr><tr CLASS="alt"><td>&emsp;TG</td><td>6</td><td>2 h</td></tr><tr><td>&emsp;Gig</td><td>8</td><td>4 h</td></tr><tr CLASS="alt"><td>&emsp;Col</td><td>12</td><td>8 h</td></tr></table>
+<table CLASS="tablo">
+  <caption>Assemblage d’un engin de siège</caption>
+  <tr CLASS="titre"><td>Taille de la machine</td><td>Nombre d’ouvriers</td><td>Temps requis nécessaires</td></tr>
+  <tr CLASS="premier"><td>&emsp;P</td><td>1</td><td>1 min</td></tr>
+  <tr CLASS="alt"><td>&emsp;M</td><td>2</td><td>10 min</td></tr>
+  <tr><td>&emsp;G</td><td>4</td><td>1 h</td></tr>
+  <tr CLASS="alt"><td>&emsp;TG</td><td>6</td><td>2 h</td></tr>
+  <tr><td>&emsp;Gig</td><td>8</td><td>4 h</td></tr>
+  <tr CLASS="alt"><td>&emsp;Col</td><td>12</td><td>8 h</td></tr>
+</table>
 
 </center>
 
@@ -81,6 +90,22 @@ De plus, elle subit un malus de -2 au jet d’attaque à chaque fois qu’une ca
 
 <center>
 
-<table CLASS="tablo"><caption>Les modificateurs d’attaque indirecte</caption><tr CLASS="titre"><td>Condition</td><td>Modificateur</td></tr><tr CLASS="premier"><td>&emsp;Pas de ligne de mire jusqu’à la case cible</td><td>-6</td></tr><tr CLASS="alt"><td>&emsp;Tirs successifs (l’équipe voit où atterrissent les tirs ratés les plus récents)</td><td>+2 (cumulables) par échec (+10 au maximum)</td></tr><tr><td>&emsp;Tirs successifs (l’équipe ne voit pas où atterrissent les tirs ratés les plus récents, mais un observateur l’en informe)</td><td>+1 (cumulable) par échec (+5 au maximum)</td></tr><tr CLASS="alt"><td>&emsp;Tirs successifs après un coup au but</td><td>+10</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les modificateurs d’attaque indirecte</caption>
+  <tr CLASS="titre"><td>Condition</td><td>Modificateur</td></tr>
+  <tr CLASS="premier"><td>&emsp;Pas de ligne de mire jusqu’à la case cible</td><td>-6</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp;Tirs successifs (l’équipe voit où atterrissent les tirs ratés les plus récents)</td>
+    <td>+2 (cumulables) par échec (+10 au maximum)</td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;Tirs successifs (l’équipe ne voit pas où atterrissent les tirs ratés les plus récents, mais un
+      observateur l’en informe)
+    </td>
+    <td>+1 (cumulable) par échec (+5 au maximum)</td>
+  </tr>
+  <tr CLASS="alt"><td>&emsp;Tirs successifs après un coup au but</td><td>+10</td></tr>
+</table>
 
 </center>

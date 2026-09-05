@@ -16,7 +16,256 @@ Tous les personnages commencent le jeu avec une tenue d’une valeur de 10 po ou
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Vêtements</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Vêtements#Bijoux|↓]] [[Bijoux (objet)|Bijoux]]</td><td>variable</td><td>variable</td></tr><tr><td>[[Vêtements#Bottes de velours|↓]] [[Bottes de velours (objet)|Bottes de velours]]</td><td>25 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Bottes ignifugées|↓]] [[Bottes ignifugées (objet)|Bottes ignifugées]]</td><td>20 po</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Broche|↓]] [[Broche (objet)|Broche]]</td><td>variable</td><td>—</td></tr><tr><td>[[Vêtements#Cache-œil|↓]] [[Cache-œil (objet)|Cache-œil]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Vêtements#Camisole de force|↓]] [[Camisole de force (objet)|Camisole de force (de maître)]]</td><td>50 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Camisole de force|↓]] [[Camisole de force (objet)|Camisole de force (standard)]]</td><td>5 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Cape en patchwork|↓]] [[Cape en patchwork (objet)|Cape en patchwork]]</td><td>5 po</td><td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Cape parachute|↓]] [[Cape parachute (objet)|Cape parachute]]</td><td>100 po</td><td>2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Cape réversible|↓]] [[Cape réversible (objet)|Cape réversible]]</td><td>2 pa–100 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Cape-aile|↓]] [[Cape-aile (objet)|Cape-aile]]</td><td>1.200 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Ceintures de chaîne|↓]] [[Ceintures de chaîne (objet)|Ceintures de chaîne]]</td><td>15 po</td><td>0,125 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Col de protection|↓]] [[Col de protection (objet)|Col de protection]]</td><td>10 po</td><td>0,125 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Combinaison de plongée|↓]] [[Combinaison de plongée (objet)|Combinaison de plongée]]</td><td>10 po</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Costume dartiste|↓]] [[Costume dartiste (objet)|Costume d'artiste]]</td><td>3 po</td><td>2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Costume de moine|↓]] [[Costume de moine (objet)|Costume de moine]]</td><td>5 po</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Costume de prêtre|↓]] [[Costume de prêtre (objet)|Costume de prêtre]]</td><td>5 po</td><td>3 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Costume de voleur|↓]] [[Costume de voleur (objet)|Costume de voleur]]</td><td>5 po</td><td>1,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Couvre-chef|↓]] [[Couvre-chef (objet)|Couvre-chef]]</td><td>1 pa–50 po</td><td>0,25 kg–1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Crampons|↓]] [[Crampons (objet)|Crampons]]</td><td>5 po</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Crespinette|↓]] [[Crespinette (objet)|Crespinette]]</td><td>10–100 po</td><td>—</td></tr><tr><td>[[Vêtements#Écharpe|↓]] [[Écharpe (objet)|Écharpe]]</td><td>1 pa–5 po</td><td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Écharpe à poches|↓]] [[Écharpe à poches (objet)|Écharpe à poches]]</td><td>8 po</td><td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Écharpe renforcée|↓]] [[Écharpe renforcée (objet)|Écharpe renforcée]]</td><td>10 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Fourrures|↓]] [[Fourrures (objet)|Fourrures]]</td><td>12 po</td><td>2,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Garniture|↓]] [[Garniture (objet)|Garniture]]</td><td>1 pa–50 po</td><td>—</td></tr><tr><td>[[Vêtements#Gilet|↓]] [[Gilet (objet)|Gilet]]</td><td>1 pa-50 po</td><td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Habits de dilettante|↓]] [[Habits de dilettante (objet)|Habits de dilettante]]</td><td>20 po</td><td>4 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Hennin|↓]] [[Hennin (objet)|Hennin]]</td><td>10–100po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Kilt|↓]] [[Kilt (objet)|Kilt]]</td><td>2 pa</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Masque|↓]] [[Masque (objet)|Masque]]</td><td>1 pa–50 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Masque de guerre|↓]] [[Masque de guerre (objet)|Masque de guerre]]</td><td>50 po</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Masque de monstre|↓]] [[Masque de monstre (objet)|Masque de monstre]]</td><td>5–10 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Patins à glace|↓]] [[Patins à glace (objet)|Patins à glace]]</td><td>1 po</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Perruque|↓]] [[Perruque (objet)|Perruque]]</td><td>5 po–500 po</td><td>0,25 kg–2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Poncho|↓]] [[Poncho (objet)|Poncho]]</td><td>5 pa</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Raquettes|↓]] [[Raquettes (objet)|Raquettes]]</td><td>5 po</td><td>2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Skis|↓]] [[Skis (objet)|Skis]]</td><td>5 po</td><td>10 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tabard|↓]] [[Tabard (objet)|Tabard]]</td><td>5 po</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue adaptée à la chaleur|↓]] [[Tenue adaptée à la chaleur (objet)|Tenue adaptée à la chaleur]]</td><td>8 po</td><td>2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue adaptée au froid|↓]] [[Tenue adaptée au froid (objet)|Tenue adaptée au froid]]</td><td>8 po</td><td>3,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue dartisan|↓]] [[Tenue dartisan (objet)|Tenue d'artisan]]</td><td>1 po</td><td>2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue dérudit|↓]] [[Tenue dérudit (objet)|Tenue d'érudit]]</td><td>5 po</td><td>3 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue dexplorateur|↓]] [[Tenue dexplorateur (objet)|Tenue d'explorateur]]</td><td>10 po</td><td>4 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue de changement rapide|↓]] [[Tenue de changement rapide (objet)|Tenue de changement rapide]]</td><td>variable</td><td>2,5 kg</td></tr><tr><td>[[Vêtements#Tenue de courtisan|↓]] [[Tenue de courtisan (objet)|Tenue de courtisan]]</td><td>8 po</td><td>2 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue de noble|↓]] [[Tenue de noble (objet)|Tenue de noble]]</td><td>75 po</td><td>5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue de paysan|↓]] [[Tenue de paysan (objet)|Tenue de paysan]]</td><td>1 pa</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue de pirate|↓]] [[Tenue de pirate (objet)|Tenue de pirate (élaborée)]]</td><td>30 po</td><td>3 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue de pirate|↓]] [[Tenue de pirate (objet)|Tenue de pirate (simple)]]</td><td>1 pa</td><td>1 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue de voyageur|↓]] [[Tenue de voyageur (objet)|Tenue de voyageur]]</td><td>1 po</td><td>2,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Tenue royale|↓]] [[Tenue royale (objet)|Tenue royale]]</td><td>200 po</td><td>7,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Uniforme de soldat|↓]] [[Uniforme de soldat (objet)|Uniforme de soldat]]</td><td>1 po</td><td>2,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr><tr><td>[[Vêtements#Vêtements arrachables|↓]] [[Vêtements arrachables (objet)|Vêtements arrachables]]</td><td>+5 po</td><td>—</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Vêtements</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier"><td>[[Vêtements#Bijoux|↓]] [[Bijoux (objet)|Bijoux]]</td><td>variable</td><td>variable</td></tr>
+  <tr>
+    <td>[[Vêtements#Bottes de velours|↓]] [[Bottes de velours (objet)|Bottes de velours]]</td>
+    <td>25 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Bottes ignifugées|↓]] [[Bottes ignifugées (objet)|Bottes ignifugées]]</td>
+    <td>20 po</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Vêtements#Broche|↓]] [[Broche (objet)|Broche]]</td><td>variable</td><td>—</td></tr>
+  <tr><td>[[Vêtements#Cache-œil|↓]] [[Cache-œil (objet)|Cache-œil]]</td><td>1 pa</td><td>—</td></tr>
+  <tr>
+    <td>[[Vêtements#Camisole de force|↓]] [[Camisole de force (objet)|Camisole de force (de maître)]]</td>
+    <td>50 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Camisole de force|↓]] [[Camisole de force (objet)|Camisole de force (standard)]]</td>
+    <td>5 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Cape en patchwork|↓]] [[Cape en patchwork (objet)|Cape en patchwork]]</td>
+    <td>5 po</td>
+    <td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Cape parachute|↓]] [[Cape parachute (objet)|Cape parachute]]</td>
+    <td>100 po</td>
+    <td>2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Cape réversible|↓]] [[Cape réversible (objet)|Cape réversible]]</td>
+    <td>2 pa–100 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Cape-aile|↓]] [[Cape-aile (objet)|Cape-aile]]</td>
+    <td>1.200 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Ceintures de chaîne|↓]] [[Ceintures de chaîne (objet)|Ceintures de chaîne]]</td>
+    <td>15 po</td>
+    <td>0,125 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Col de protection|↓]] [[Col de protection (objet)|Col de protection]]</td>
+    <td>10 po</td>
+    <td>0,125 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Combinaison de plongée|↓]] [[Combinaison de plongée (objet)|Combinaison de plongée]]</td>
+    <td>10 po</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Costume dartiste|↓]] [[Costume dartiste (objet)|Costume d'artiste]]</td>
+    <td>3 po</td>
+    <td>2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Costume de moine|↓]] [[Costume de moine (objet)|Costume de moine]]</td>
+    <td>5 po</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Costume de prêtre|↓]] [[Costume de prêtre (objet)|Costume de prêtre]]</td>
+    <td>5 po</td>
+    <td>3 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Costume de voleur|↓]] [[Costume de voleur (objet)|Costume de voleur]]</td>
+    <td>5 po</td>
+    <td>1,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Couvre-chef|↓]] [[Couvre-chef (objet)|Couvre-chef]]</td>
+    <td>1 pa–50 po</td>
+    <td>0,25 kg–1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Crampons|↓]] [[Crampons (objet)|Crampons]]</td>
+    <td>5 po</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Vêtements#Crespinette|↓]] [[Crespinette (objet)|Crespinette]]</td><td>10–100 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Vêtements#Écharpe|↓]] [[Écharpe (objet)|Écharpe]]</td>
+    <td>1 pa–5 po</td>
+    <td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Écharpe à poches|↓]] [[Écharpe à poches (objet)|Écharpe à poches]]</td>
+    <td>8 po</td>
+    <td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Écharpe renforcée|↓]] [[Écharpe renforcée (objet)|Écharpe renforcée]]</td>
+    <td>10 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Fourrures|↓]] [[Fourrures (objet)|Fourrures]]</td>
+    <td>12 po</td>
+    <td>2,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Vêtements#Garniture|↓]] [[Garniture (objet)|Garniture]]</td><td>1 pa–50 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Vêtements#Gilet|↓]] [[Gilet (objet)|Gilet]]</td>
+    <td>1 pa-50 po</td>
+    <td>0,25 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Habits de dilettante|↓]] [[Habits de dilettante (objet)|Habits de dilettante]]</td>
+    <td>20 po</td>
+    <td>4 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Hennin|↓]] [[Hennin (objet)|Hennin]]</td>
+    <td>10–100po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Vêtements#Kilt|↓]] [[Kilt (objet)|Kilt]]</td><td>2 pa</td><td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td></tr>
+  <tr>
+    <td>[[Vêtements#Masque|↓]] [[Masque (objet)|Masque]]</td>
+    <td>1 pa–50 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Masque de guerre|↓]] [[Masque de guerre (objet)|Masque de guerre]]</td>
+    <td>50 po</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Masque de monstre|↓]] [[Masque de monstre (objet)|Masque de monstre]]</td>
+    <td>5–10 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Patins à glace|↓]] [[Patins à glace (objet)|Patins à glace]]</td>
+    <td>1 po</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Perruque|↓]] [[Perruque (objet)|Perruque]]</td>
+    <td>5 po–500 po</td>
+    <td>0,25 kg–2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Poncho|↓]] [[Poncho (objet)|Poncho]]</td>
+    <td>5 pa</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Raquettes|↓]] [[Raquettes (objet)|Raquettes]]</td>
+    <td>5 po</td>
+    <td>2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr><td>[[Vêtements#Skis|↓]] [[Skis (objet)|Skis]]</td><td>5 po</td><td>10 kg<sup>[[Vêtements#1|1]]</sup></td></tr>
+  <tr>
+    <td>[[Vêtements#Tabard|↓]] [[Tabard (objet)|Tabard]]</td>
+    <td>5 po</td>
+    <td>0,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Vêtements#Tenue adaptée à la chaleur|↓]] [[Tenue adaptée à la chaleur (objet)|Tenue adaptée à la chaleur]]
+    </td>
+    <td>8 po</td>
+    <td>2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue adaptée au froid|↓]] [[Tenue adaptée au froid (objet)|Tenue adaptée au froid]]</td>
+    <td>8 po</td>
+    <td>3,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue dartisan|↓]] [[Tenue dartisan (objet)|Tenue d'artisan]]</td>
+    <td>1 po</td>
+    <td>2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue dérudit|↓]] [[Tenue dérudit (objet)|Tenue d'érudit]]</td>
+    <td>5 po</td>
+    <td>3 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue dexplorateur|↓]] [[Tenue dexplorateur (objet)|Tenue d'explorateur]]</td>
+    <td>10 po</td>
+    <td>4 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Vêtements#Tenue de changement rapide|↓]] [[Tenue de changement rapide (objet)|Tenue de changement rapide]]
+    </td>
+    <td>variable</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue de courtisan|↓]] [[Tenue de courtisan (objet)|Tenue de courtisan]]</td>
+    <td>8 po</td>
+    <td>2 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue de noble|↓]] [[Tenue de noble (objet)|Tenue de noble]]</td>
+    <td>75 po</td>
+    <td>5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue de paysan|↓]] [[Tenue de paysan (objet)|Tenue de paysan]]</td>
+    <td>1 pa</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue de pirate|↓]] [[Tenue de pirate (objet)|Tenue de pirate (élaborée)]]</td>
+    <td>30 po</td>
+    <td>3 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue de pirate|↓]] [[Tenue de pirate (objet)|Tenue de pirate (simple)]]</td>
+    <td>1 pa</td>
+    <td>1 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue de voyageur|↓]] [[Tenue de voyageur (objet)|Tenue de voyageur]]</td>
+    <td>1 po</td>
+    <td>2,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Tenue royale|↓]] [[Tenue royale (objet)|Tenue royale]]</td>
+    <td>200 po</td>
+    <td>7,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Uniforme de soldat|↓]] [[Uniforme de soldat (objet)|Uniforme de soldat]]</td>
+    <td>1 po</td>
+    <td>2,5 kg<sup>[[Vêtements#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Vêtements#Vêtements arrachables|↓]] [[Vêtements arrachables (objet)|Vêtements arrachables]]</td>
+    <td>+5 po</td>
+    <td>—</td>
+  </tr>
+</table>
 
 </div>
 

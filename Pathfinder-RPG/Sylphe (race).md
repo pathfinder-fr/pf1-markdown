@@ -98,7 +98,55 @@ Voici les options accessibles aux sylphes, d’autres races adaptées peuvent s�
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Contemplateur des nuages]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]]</td><td>Voit à travers les brumes, les brouillards et les nuages</td></tr><tr CLASS="premier"><td>[[Flot des éléments]]</td><td><sup>*ISR*</sup></td><td>Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td></tr><tr CLASS="premier"><td>[[Frappe élémentaire]]</td><td><sup>*ISR*</sup></td><td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Inflige +1 dégât de l'énergie liée à la race du personnage</td></tr><tr CLASS="premier"><td>[[Pas aérien]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]]</td><td>+2 aux jets de sauvegarde contre les effets d'air et l'électricité, ignore 9 m de hauteur lors d'une chute</td></tr><tr><td>&emsp;[[Ailes de vent]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]], [[Pas aérien]], niveau 9</td><td>Bonus aux jets de sauvegarde contre les effets d'air et d'électricité, gain d'une vitesse de vol surnaturelle</td></tr><tr CLASS="premier"><td>[[Souffle intérieur]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]], niveau 11</td><td>Le personnage n'a plus besoin de respirer</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Contemplateur des nuages]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[sylphe (race)|Sylphe]]</td>
+    <td>Voit à travers les brumes, les brouillards et les nuages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flot des éléments]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou
+      [[Sylphe (race)|sylphe]]
+    </td>
+    <td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe élémentaire]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td>
+    <td>Inflige +1 dégât de l'énergie liée à la race du personnage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pas aérien]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[sylphe (race)|Sylphe]]</td>
+    <td>+2 aux jets de sauvegarde contre les effets d'air et l'électricité, ignore 9 m de hauteur lors d'une chute</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Ailes de vent]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[sylphe (race)|Sylphe]], [[Pas aérien]], niveau 9</td>
+    <td>
+      Bonus aux jets de sauvegarde contre les effets d'air et d'électricité, gain d'une vitesse de vol surnaturelle
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Souffle intérieur]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[sylphe (race)|Sylphe]], niveau 11</td>
+    <td>Le personnage n'a plus besoin de respirer</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

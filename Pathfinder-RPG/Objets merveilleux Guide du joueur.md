@@ -11,8 +11,367 @@ LastModified: 2024-06-13 00:24
 {s:Reference|FAIBLE}
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td WIDTH="5%">1d100</td><td WIDTH="25%">Objet</td><td WIDTH="60%">Effet</td><td WIDTH="10%">Prix de  
-vente</td></tr><tr CLASS="premier"><td>01</td><td>*[[Plume magique]] (ancre)*</td><td>Permet d’amarrer une embarcation. 1 utilisation.</td><td>50 po</td></tr><tr><td>02</td><td>*[[Solvant universel]]*</td><td>Dissout toutes les substances adhésives. 1 utilisation.</td><td>50 po</td></tr><tr><td>03</td><td>*[[Philtre damour|Philtre d’amour]] (mineur)*</td><td>Lance [[charme-personne]]. 1 utilisation.</td><td>150 po</td></tr><tr><td>04</td><td>*[[Onguent dintemporalité|Onguent d’intemporalité]]*</td><td>Empêche l'usure d'un objet et lui donne un bonus de résistance de +1 aux [[jet de sauvegarde|jets de sauvegarde]]. 1 utilisation.</td><td>150 po</td></tr><tr><td>05</td><td>*[[Plume magique]] (éventail)*</td><td>Crée ou calme le vent autour d'un bateau. 1 utilisation.</td><td>200 po</td></tr><tr><td>06</td><td>*[[Poudre de dissimulation des traces]]*</td><td>Donne une apparence abandonnée à une salle ou camoufle les trace sur un chemin.</td><td>250 po</td></tr><tr><td>07</td><td>*[[Élixir de discrétion instinctive]]*</td><td>Donne un bonus de compétence de +10 en [[Discrétion]]. 1 utilisation.</td><td>250 po</td></tr><tr><td>08</td><td>*[[Élixir dacrobatie|Élixir d’acrobatie]]*</td><td>Donne un bonus de compétence de +10 en [[Acrobaties]]. 1 utilisation.</td><td>250 po</td></tr><tr><td>09</td><td>*[[Élixir de nage]]*</td><td>Donne un bonus de compétence de +10 en [[Natation]]. 1 utilisation.</td><td>250 po</td></tr><tr><td>10</td><td>*[[Élixir dacuité visuelle|Élixir d’acuité visuelle]]*</td><td>Donne un bonus de compétence de +10 en [[Perception]]. 1 utilisation.</td><td>250 po</td></tr><tr><td>11</td><td>*[[Lustrargent]]*</td><td>Donne les propriétés de l’[[Matériaux spéciaux#ARGENT|argent alchimique]] à une arme ou des munitions. 1 utilisation.</td><td>250 po</td></tr><tr><td>12</td><td>*[[Plume magique]] (oiseau)*</td><td>Transmet un message. 1 utilisation.</td><td>300 po</td></tr><tr><td>13</td><td>*[[Plume magique]] (arbre)*</td><td>Crée un grand arbre. 1 utilisation.</td><td>400 po</td></tr><tr><td>14</td><td>*[[Plume magique]] (bateau cygne)*</td><td>Crée un bateau. 1 utilisation.</td><td>450 po</td></tr><tr><td>15</td><td>*[[Sérum de vérité]]*</td><td>Force à dire la vérité et à répondre. 1 utilisation.</td><td>500 po</td></tr><tr><td>16</td><td>*[[Plume magique]] (fouet)*</td><td>Crée une [[dansante (propriété)|arme dansante]]. 1 utilisation.</td><td>500 po</td></tr><tr><td>17</td><td>*[[Poudre dessiccative]]*</td><td>Absorbe et libère 100L d'eau.</td><td>850 po</td></tr><tr><td>18</td><td>*[[Main du mage]]*</td><td>Lancer [[manipulation à distance]].</td><td>900 po</td></tr><tr><td>19</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+1)*</td><td>Donne un bonus d’armure de +1.</td><td>1 000 po</td></tr><tr><td>20</td><td>*[[Cape de résistance]] (+1)*</td><td>Donne un bonus de résistance de +1 aux [[jet de sauvegarde|jets de sauvegarde]].</td><td>1 000 po</td></tr><tr><td>21</td><td>*[[Perle de thaumaturge]] {br}(sort du 1er niveau)*</td><td>Permet de se rappeler un sort préparé puis lancé dans le courant de la journée. 1 fois par jour.</td><td>1 000 po</td></tr><tr><td>22</td><td>*[[Phylactère du croyant]]*</td><td>Prévient des actions et objets à éviter.</td><td>1 000 po</td></tr><tr><td>23</td><td>*[[Onguent dinsaisissabilité|Onguent d’insaisissabilité]]*</td><td>Donne un bonus de compétence de +20 aux tests d’[[Évasion]] et de +10 au [[DMD]] contre les prises. Peut enduire le sol comme [[graisse]]. 1 utilisation.</td><td>1 000 po</td></tr><tr><td>24</td><td>*[[Élixir de souffle enflammé]]*</td><td>Permet de cracher des flammes. 1 utilisation.</td><td>1 100 po</td></tr><tr><td>25</td><td>*[[Flûte dHamelin|Flûte d’Hamelin]]*</td><td>Contrôle des rats.</td><td>1 150 po</td></tr><tr><td>26</td><td>*[[Poudre dillusion|Poudre d’illusion]]*</td><td>Fonctionne comme [[sort déguisement|déguisement]] sur la créature sur laquelle elle est versée. 1 utilisation.</td><td>1 150 po</td></tr><tr><td>27</td><td>*[[Broche de défense]]*</td><td>Absorbe les [[projectile magique|projectiles magiques]]. Jusqu'à 101 points de dégât.</td><td>1 500 po</td></tr><tr><td>28</td><td>*[[Collier à boules de feu]] {br}(1er modèle)*</td><td>Contient 3 perles de [[boule de feu]], 2 de 3d6 et 1 de 5d6.</td><td>1 650 po</td></tr><tr><td>29</td><td>*[[Poudre dapparition|Poudre d’apparition]]*</td><td>Révéle ce qui est [[invisible]].</td><td>1 800 po</td></tr><tr><td>30</td><td>*[[Couvre-chef de déguisement]]*</td><td>Fonctionne comme [[sort déguisement|déguisement]].</td><td>1 800 po</td></tr><tr><td>31</td><td>*[[Flûte à bruitages]]*</td><td>Fonctionne comme [[son imaginaire]]. Nécessite la compétence [[Représentation]] (instruments à vents).</td><td>1 800 po</td></tr><tr><td>32</td><td>*[[Carquois efficace]]*</td><td>Permet de ranger 60 flèches, 18 javeline et 6 arcs.</td><td>1 800 po</td></tr><tr><td>33</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+1)*</td><td>Donne un bonus d’altération à appliquer au bonus d’armure naturelle de +1.</td><td>2 000 po</td></tr><tr><td>34</td><td>*[[Havresac du mage|Havresac]]*</td><td>Stocke de grande quantité d'objets sans augmenter de poids, permet de récupérer les objets par une [[action de mouvement]].</td><td>2 000 po</td></tr><tr><td>35</td><td>*[[Corne de brume]]*</td><td>Crée un brouillard comme [[brume de dissimulation]].</td><td>2 000 po</td></tr><tr><td>36</td><td>*[[Gemme à élémentaire]]*</td><td>Convoque un élémentaire. 1 utilisation.</td><td>2 250 po</td></tr><tr><td>37</td><td>*[[Robe dossements|Robe d’ossements]]*</td><td>Contient 14 silhouette se transformant en [[Squelette, archétype|squelette]] ou [[Zombi, archétype|zombi]].</td><td>2 400 po</td></tr><tr><td>38</td><td>*[[Colle universelle]]*</td><td>Deux objets collés sont impossibles à séparer. 1 à 7 utilisations.</td><td>2 400 po</td></tr><tr><td>39</td><td>*[[Sac sans fond]] (1er modèle)*</td><td>Stocke 125 kg ou 1,25 m<sup>3</sup> d'objets sans augmenter de poids. Permet de déchirer le [[plan Astral]].</td><td>2 500 po</td></tr><tr><td>40</td><td>*[[Bottes elfiques]]*</td><td>Donne un bonus de compétence de +5 d'[[Acrobaties]].</td><td>2 500 po</td></tr><tr><td>41</td><td>*[[Bottes des terres gelées]]*</td><td>Améliore les déplacement sur la neige et la glace, et réchauffent.</td><td>2 500 po</td></tr><tr><td>42</td><td>*[[Cierge de vérité]]*</td><td>Lance [[zone de vérité]]. 1 utilisation.</td><td>2 500 po</td></tr><tr><td>43</td><td>*[[Cape elfique]]*</td><td>Donne un bonus de compétence de +5 de [[Discrétion]].</td><td>2 500 po</td></tr><tr><td>44</td><td>*[[Yeux de lynx (objet)|Yeux de lynx]]*</td><td>Donne un bonus de compétence de +5 de [[Perception]].</td><td>2 500 po</td></tr><tr><td>45</td><td>*[[Lunettes grossissantes]]*</td><td>Donne un bonus de compétence de +5 de [[Sabotage]].</td><td>2 500 po</td></tr><tr><td>46</td><td>*[[Broche antigolems]]*</td><td>Détecte les golems et annule leur [[RD]].</td><td>2 500 po</td></tr><tr><td>47</td><td>*[[Collier à boules de feu]] {br}(2e modèle)*</td><td>Contient 5 perles de [[boule de feu]], 2 de 2d6, 2 de 4d6 et 1 de 6d6.</td><td>2 700 po</td></tr><tr><td>48</td><td>*[[Pierre dalerte|Pierre d’alerte]]*</td><td></td><td>2 700 po</td></tr><tr><td>49</td><td>*[[Bille de force]]*</td><td></td><td>3 000 po</td></tr><tr><td>50</td><td>*[[Carillon douverture|Carillon d’ouverture]]*</td><td></td><td>3 000 po</td></tr><tr><td>51</td><td>*[[Fers à cheval de rapidité]]*</td><td></td><td>3 000 po</td></tr><tr><td>52</td><td>*[[Corde descalade|Corde d’escalade]]*</td><td></td><td>3 000 po</td></tr><tr><td>53</td><td>*[[Sac à malice]] (gris)*</td><td></td><td>3 400 po</td></tr><tr><td>54</td><td>*[[Poudre de disparition]]*</td><td></td><td>3 500 po</td></tr><tr><td>55</td><td>*[[Loupe de détection]]*</td><td></td><td>3 500 po</td></tr><tr><td>56</td><td>*[[Chasuble de druide]]*</td><td></td><td>3 750 po</td></tr><tr><td>57</td><td>*[[Statuette merveilleuse]] {br}(corbeau d’argent)*</td><td></td><td>3 800 po</td></tr><tr><td>58</td><td>*[[Ceinturon de force de géant]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>59</td><td>*[[Ceinturon de dextérité du chat]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>60</td><td>*[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>61</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>62</td><td>*[[Cape de résistance]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>63</td><td>*[[Gants antiprojectiles]]*</td><td></td><td>4 000 po</td></tr><tr><td>64</td><td>*[[Bandeau de belle allure]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>65</td><td>*[[Bandeau dinspiration|Bandeau d’inspiration]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>66</td><td>*[[Bandeau dintelligence|Bandeau d'intelligence]] (+2)*</td><td></td><td>4 000 po</td></tr><tr><td>67</td><td>*[[Pierre ioun]] (fuseau translucide)*</td><td></td><td>4 000 po</td></tr><tr><td>68</td><td>*[[Onguent de restauration]]*</td><td></td><td>4 000 po</td></tr><tr><td>69</td><td>*[[Pigments merveilleux]]*</td><td></td><td>4 000 po</td></tr><tr><td>70</td><td>*[[Perle de thaumaturge]] {br}(sort du 2e niveau)*</td><td></td><td>4 000 po</td></tr><tr><td>71</td><td>*[[Onguent des roches]]*</td><td></td><td>4 000 po</td></tr><tr><td>72</td><td>*[[Collier à boules de feu]] {br}(3e modèle)*</td><td>Contient 7 perles de [[boule de feu]], 4 de 3d6, 2 de 5d6 et 1 de 7d6.</td><td>4 350 po</td></tr><tr><td>73</td><td>*[[Serre-tête de persuasion]]*</td><td></td><td>4 500 po</td></tr><tr><td>74</td><td>*[[Chaussons daraignée|Chaussons d’araignée]]*</td><td></td><td>4 800 po</td></tr><tr><td>75</td><td>*[[Encens de méditation]]*</td><td></td><td>4 900 po</td></tr><tr><td>76</td><td>*[[Amulette des poings invincibles]] (+1)*</td><td></td><td>4 000 po</td></tr><tr><td>77</td><td>*[[Sac sans fond]] (2e modèle)*</td><td></td><td>5 000 po</td></tr><tr><td>78</td><td>*[[Bracelets darcher|Bracelets d’archer]]*</td><td></td><td>5 000 po</td></tr><tr><td>79</td><td>*[[Pierre ioun]] (prisme rose laiteux)*</td><td></td><td>5 000 po</td></tr><tr><td>80</td><td>*[[Casque de compréhension]]*</td><td></td><td>5 200 po</td></tr><tr><td>81</td><td>*[[Gilet dévasion|Gilet d’évasion]]*</td><td></td><td>5 200 po</td></tr><tr><td>82</td><td>*[[Urne fumigène]]*</td><td></td><td>5 400 po</td></tr><tr><td>83</td><td>*[[Cuillère nourrissante]]*</td><td></td><td>5 400 po</td></tr><tr><td>84</td><td>*[[Collier à boules de feu]] {br}(4e modèle)*</td><td>Contient 9 perles de [[boule de feu]], 4 de 2d6, 2 de 4d6, 2 de 6d6 et 1 de 8d6.</td><td>5 400 po</td></tr><tr><td>85</td><td>*[[Bottes de sept lieues]]*</td><td></td><td>5 500 po</td></tr><tr><td>86</td><td>*[[Éventail enchanté]]*</td><td></td><td>5 500 po</td></tr><tr><td>87</td><td>*[[Collier à boules de feu]] {br}(5e modèle)*</td><td>Contient 7 perles de [[boule de feu]], 2 de 3d6, 2 de 5d6, 2 de 7d6 et 1 de 9d6.</td><td>6 000 po</td></tr><tr><td>88</td><td>*[[Fers à cheval du zéphyr]]*</td><td></td><td>6 000 po</td></tr><tr><td>89</td><td>*[[Flûte de hantise]]*</td><td></td><td>6 000 po</td></tr><tr><td>90</td><td>*[[Gants de nage et descalade|Gants de nage et d’escalade]]*</td><td></td><td>6 250 po</td></tr><tr><td>91</td><td>*[[Serre-tête de lumière|Serre-tête de lumière destructrice]]*</td><td></td><td>6 480 po</td></tr><tr><td>92</td><td>*[[Cor du Biendu Mal|Cor du Bien/du Mal]]*</td><td></td><td>6 500 po</td></tr><tr><td>93</td><td>*[[Robe de camelot]]*</td><td></td><td>7 000 po</td></tr><tr><td>94</td><td>*[[Bateau pliant]]*</td><td></td><td>7 200 po</td></tr><tr><td>95</td><td>*[[Cape de la raie manta]]*</td><td></td><td>7 200 po</td></tr><tr><td>96</td><td>*[[Flacon dair pur|Flacon d’air pur]]*</td><td></td><td>7 250 po</td></tr><tr><td>97</td><td>*[[Sac sans fond]] (3e modèle)*</td><td></td><td>7 400 po</td></tr><tr><td>98</td><td>*[[Charme de bonne santé]]*</td><td></td><td>7 500 po</td></tr><tr><td>99</td><td>*[[Bottes de lévitation]]*</td><td></td><td>7 500 po</td></tr><tr><td>100</td><td>*[[Harpe de suggestion]]*</td><td></td><td>7 500 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Objets merveilleux de faible puissance</caption>
+  <tr CLASS="titre">
+    <td WIDTH="5%">1d100</td>
+    <td WIDTH="25%">Objet</td>
+    <td WIDTH="60%">Effet</td>
+    <td WIDTH="10%">Prix de  
+vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>01</td>
+    <td>*[[Plume magique]] (ancre)*</td>
+    <td>Permet d’amarrer une embarcation. 1 utilisation.</td>
+    <td>50 po</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>*[[Solvant universel]]*</td>
+    <td>Dissout toutes les substances adhésives. 1 utilisation.</td>
+    <td>50 po</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>*[[Philtre damour|Philtre d’amour]] (mineur)*</td>
+    <td>Lance [[charme-personne]]. 1 utilisation.</td>
+    <td>150 po</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>*[[Onguent dintemporalité|Onguent d’intemporalité]]*</td>
+    <td>
+      Empêche l'usure d'un objet et lui donne un bonus de résistance de +1 aux [[jet de sauvegarde|jets de
+      sauvegarde]]. 1 utilisation.
+    </td>
+    <td>150 po</td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>*[[Plume magique]] (éventail)*</td>
+    <td>Crée ou calme le vent autour d'un bateau. 1 utilisation.</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>*[[Poudre de dissimulation des traces]]*</td>
+    <td>Donne une apparence abandonnée à une salle ou camoufle les trace sur un chemin.</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>*[[Élixir de discrétion instinctive]]*</td>
+    <td>Donne un bonus de compétence de +10 en [[Discrétion]]. 1 utilisation.</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>08</td>
+    <td>*[[Élixir dacrobatie|Élixir d’acrobatie]]*</td>
+    <td>Donne un bonus de compétence de +10 en [[Acrobaties]]. 1 utilisation.</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>*[[Élixir de nage]]*</td>
+    <td>Donne un bonus de compétence de +10 en [[Natation]]. 1 utilisation.</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>*[[Élixir dacuité visuelle|Élixir d’acuité visuelle]]*</td>
+    <td>Donne un bonus de compétence de +10 en [[Perception]]. 1 utilisation.</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>*[[Lustrargent]]*</td>
+    <td>
+      Donne les propriétés de l’[[Matériaux spéciaux#ARGENT|argent alchimique]] à une arme ou des munitions. 1
+      utilisation.
+    </td>
+    <td>250 po</td>
+  </tr>
+  <tr><td>12</td><td>*[[Plume magique]] (oiseau)*</td><td>Transmet un message. 1 utilisation.</td><td>300 po</td></tr>
+  <tr><td>13</td><td>*[[Plume magique]] (arbre)*</td><td>Crée un grand arbre. 1 utilisation.</td><td>400 po</td></tr>
+  <tr>
+    <td>14</td>
+    <td>*[[Plume magique]] (bateau cygne)*</td>
+    <td>Crée un bateau. 1 utilisation.</td>
+    <td>450 po</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>*[[Sérum de vérité]]*</td>
+    <td>Force à dire la vérité et à répondre. 1 utilisation.</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>*[[Plume magique]] (fouet)*</td>
+    <td>Crée une [[dansante (propriété)|arme dansante]]. 1 utilisation.</td>
+    <td>500 po</td>
+  </tr>
+  <tr><td>17</td><td>*[[Poudre dessiccative]]*</td><td>Absorbe et libère 100L d'eau.</td><td>850 po</td></tr>
+  <tr><td>18</td><td>*[[Main du mage]]*</td><td>Lancer [[manipulation à distance]].</td><td>900 po</td></tr>
+  <tr>
+    <td>19</td>
+    <td>*[[Bracelets darmure|Bracelets d’armure]] (+1)*</td>
+    <td>Donne un bonus d’armure de +1.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>*[[Cape de résistance]] (+1)*</td>
+    <td>Donne un bonus de résistance de +1 aux [[jet de sauvegarde|jets de sauvegarde]].</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>*[[Perle de thaumaturge]] {br}(sort du 1er niveau)*</td>
+    <td>Permet de se rappeler un sort préparé puis lancé dans le courant de la journée. 1 fois par jour.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>*[[Phylactère du croyant]]*</td>
+    <td>Prévient des actions et objets à éviter.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>*[[Onguent dinsaisissabilité|Onguent d’insaisissabilité]]*</td>
+    <td>
+      Donne un bonus de compétence de +20 aux tests d’[[Évasion]] et de +10 au [[DMD]] contre les prises. Peut
+      enduire le sol comme [[graisse]]. 1 utilisation.
+    </td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>*[[Élixir de souffle enflammé]]*</td>
+    <td>Permet de cracher des flammes. 1 utilisation.</td>
+    <td>1 100 po</td>
+  </tr>
+  <tr><td>25</td><td>*[[Flûte dHamelin|Flûte d’Hamelin]]*</td><td>Contrôle des rats.</td><td>1 150 po</td></tr>
+  <tr>
+    <td>26</td>
+    <td>*[[Poudre dillusion|Poudre d’illusion]]*</td>
+    <td>
+      Fonctionne comme [[sort déguisement|déguisement]] sur la créature sur laquelle elle est versée. 1 utilisation.
+    </td>
+    <td>1 150 po</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>*[[Broche de défense]]*</td>
+    <td>Absorbe les [[projectile magique|projectiles magiques]]. Jusqu'à 101 points de dégât.</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>*[[Collier à boules de feu]] {br}(1er modèle)*</td>
+    <td>Contient 3 perles de [[boule de feu]], 2 de 3d6 et 1 de 5d6.</td>
+    <td>1 650 po</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>*[[Poudre dapparition|Poudre d’apparition]]*</td>
+    <td>Révéle ce qui est [[invisible]].</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>*[[Couvre-chef de déguisement]]*</td>
+    <td>Fonctionne comme [[sort déguisement|déguisement]].</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>*[[Flûte à bruitages]]*</td>
+    <td>Fonctionne comme [[son imaginaire]]. Nécessite la compétence [[Représentation]] (instruments à vents).</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>*[[Carquois efficace]]*</td>
+    <td>Permet de ranger 60 flèches, 18 javeline et 6 arcs.</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+1)*</td>
+    <td>Donne un bonus d’altération à appliquer au bonus d’armure naturelle de +1.</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>*[[Havresac du mage|Havresac]]*</td>
+    <td>
+      Stocke de grande quantité d'objets sans augmenter de poids, permet de récupérer les objets par une [[action de
+      mouvement]].
+    </td>
+    <td>2 000 po</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>*[[Corne de brume]]*</td>
+    <td>Crée un brouillard comme [[brume de dissimulation]].</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>*[[Gemme à élémentaire]]*</td>
+    <td>Convoque un élémentaire. 1 utilisation.</td>
+    <td>2 250 po</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>*[[Robe dossements|Robe d’ossements]]*</td>
+    <td>Contient 14 silhouette se transformant en [[Squelette, archétype|squelette]] ou [[Zombi, archétype|zombi]].</td>
+    <td>2 400 po</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>*[[Colle universelle]]*</td>
+    <td>Deux objets collés sont impossibles à séparer. 1 à 7 utilisations.</td>
+    <td>2 400 po</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>*[[Sac sans fond]] (1er modèle)*</td>
+    <td>
+      Stocke 125 kg ou 1,25 m<sup>3</sup> d'objets sans augmenter de poids. Permet de déchirer le [[plan Astral]].
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>*[[Bottes elfiques]]*</td>
+    <td>Donne un bonus de compétence de +5 d'[[Acrobaties]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>*[[Bottes des terres gelées]]*</td>
+    <td>Améliore les déplacement sur la neige et la glace, et réchauffent.</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>*[[Cierge de vérité]]*</td>
+    <td>Lance [[zone de vérité]]. 1 utilisation.</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>*[[Cape elfique]]*</td>
+    <td>Donne un bonus de compétence de +5 de [[Discrétion]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>*[[Yeux de lynx (objet)|Yeux de lynx]]*</td>
+    <td>Donne un bonus de compétence de +5 de [[Perception]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>*[[Lunettes grossissantes]]*</td>
+    <td>Donne un bonus de compétence de +5 de [[Sabotage]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>*[[Broche antigolems]]*</td>
+    <td>Détecte les golems et annule leur [[RD]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>*[[Collier à boules de feu]] {br}(2e modèle)*</td>
+    <td>Contient 5 perles de [[boule de feu]], 2 de 2d6, 2 de 4d6 et 1 de 6d6.</td>
+    <td>2 700 po</td>
+  </tr>
+  <tr><td>48</td><td>*[[Pierre dalerte|Pierre d’alerte]]*</td><td></td><td>2 700 po</td></tr>
+  <tr><td>49</td><td>*[[Bille de force]]*</td><td></td><td>3 000 po</td></tr>
+  <tr><td>50</td><td>*[[Carillon douverture|Carillon d’ouverture]]*</td><td></td><td>3 000 po</td></tr>
+  <tr><td>51</td><td>*[[Fers à cheval de rapidité]]*</td><td></td><td>3 000 po</td></tr>
+  <tr><td>52</td><td>*[[Corde descalade|Corde d’escalade]]*</td><td></td><td>3 000 po</td></tr>
+  <tr><td>53</td><td>*[[Sac à malice]] (gris)*</td><td></td><td>3 400 po</td></tr>
+  <tr><td>54</td><td>*[[Poudre de disparition]]*</td><td></td><td>3 500 po</td></tr>
+  <tr><td>55</td><td>*[[Loupe de détection]]*</td><td></td><td>3 500 po</td></tr>
+  <tr><td>56</td><td>*[[Chasuble de druide]]*</td><td></td><td>3 750 po</td></tr>
+  <tr><td>57</td><td>*[[Statuette merveilleuse]] {br}(corbeau d’argent)*</td><td></td><td>3 800 po</td></tr>
+  <tr><td>58</td><td>*[[Ceinturon de force de géant]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>59</td><td>*[[Ceinturon de dextérité du chat]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr>
+    <td>60</td>
+    <td>*[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (+2)*</td>
+    <td></td>
+    <td>4 000 po</td>
+  </tr>
+  <tr><td>61</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>62</td><td>*[[Cape de résistance]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>63</td><td>*[[Gants antiprojectiles]]*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>64</td><td>*[[Bandeau de belle allure]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>65</td><td>*[[Bandeau dinspiration|Bandeau d’inspiration]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>66</td><td>*[[Bandeau dintelligence|Bandeau d'intelligence]] (+2)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>67</td><td>*[[Pierre ioun]] (fuseau translucide)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>68</td><td>*[[Onguent de restauration]]*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>69</td><td>*[[Pigments merveilleux]]*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>70</td><td>*[[Perle de thaumaturge]] {br}(sort du 2e niveau)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>71</td><td>*[[Onguent des roches]]*</td><td></td><td>4 000 po</td></tr>
+  <tr>
+    <td>72</td>
+    <td>*[[Collier à boules de feu]] {br}(3e modèle)*</td>
+    <td>Contient 7 perles de [[boule de feu]], 4 de 3d6, 2 de 5d6 et 1 de 7d6.</td>
+    <td>4 350 po</td>
+  </tr>
+  <tr><td>73</td><td>*[[Serre-tête de persuasion]]*</td><td></td><td>4 500 po</td></tr>
+  <tr><td>74</td><td>*[[Chaussons daraignée|Chaussons d’araignée]]*</td><td></td><td>4 800 po</td></tr>
+  <tr><td>75</td><td>*[[Encens de méditation]]*</td><td></td><td>4 900 po</td></tr>
+  <tr><td>76</td><td>*[[Amulette des poings invincibles]] (+1)*</td><td></td><td>4 000 po</td></tr>
+  <tr><td>77</td><td>*[[Sac sans fond]] (2e modèle)*</td><td></td><td>5 000 po</td></tr>
+  <tr><td>78</td><td>*[[Bracelets darcher|Bracelets d’archer]]*</td><td></td><td>5 000 po</td></tr>
+  <tr><td>79</td><td>*[[Pierre ioun]] (prisme rose laiteux)*</td><td></td><td>5 000 po</td></tr>
+  <tr><td>80</td><td>*[[Casque de compréhension]]*</td><td></td><td>5 200 po</td></tr>
+  <tr><td>81</td><td>*[[Gilet dévasion|Gilet d’évasion]]*</td><td></td><td>5 200 po</td></tr>
+  <tr><td>82</td><td>*[[Urne fumigène]]*</td><td></td><td>5 400 po</td></tr>
+  <tr><td>83</td><td>*[[Cuillère nourrissante]]*</td><td></td><td>5 400 po</td></tr>
+  <tr>
+    <td>84</td>
+    <td>*[[Collier à boules de feu]] {br}(4e modèle)*</td>
+    <td>Contient 9 perles de [[boule de feu]], 4 de 2d6, 2 de 4d6, 2 de 6d6 et 1 de 8d6.</td>
+    <td>5 400 po</td>
+  </tr>
+  <tr><td>85</td><td>*[[Bottes de sept lieues]]*</td><td></td><td>5 500 po</td></tr>
+  <tr><td>86</td><td>*[[Éventail enchanté]]*</td><td></td><td>5 500 po</td></tr>
+  <tr>
+    <td>87</td>
+    <td>*[[Collier à boules de feu]] {br}(5e modèle)*</td>
+    <td>Contient 7 perles de [[boule de feu]], 2 de 3d6, 2 de 5d6, 2 de 7d6 et 1 de 9d6.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr><td>88</td><td>*[[Fers à cheval du zéphyr]]*</td><td></td><td>6 000 po</td></tr>
+  <tr><td>89</td><td>*[[Flûte de hantise]]*</td><td></td><td>6 000 po</td></tr>
+  <tr><td>90</td><td>*[[Gants de nage et descalade|Gants de nage et d’escalade]]*</td><td></td><td>6 250 po</td></tr>
+  <tr>
+    <td>91</td>
+    <td>*[[Serre-tête de lumière|Serre-tête de lumière destructrice]]*</td>
+    <td></td>
+    <td>6 480 po</td>
+  </tr>
+  <tr><td>92</td><td>*[[Cor du Biendu Mal|Cor du Bien/du Mal]]*</td><td></td><td>6 500 po</td></tr>
+  <tr><td>93</td><td>*[[Robe de camelot]]*</td><td></td><td>7 000 po</td></tr>
+  <tr><td>94</td><td>*[[Bateau pliant]]*</td><td></td><td>7 200 po</td></tr>
+  <tr><td>95</td><td>*[[Cape de la raie manta]]*</td><td></td><td>7 200 po</td></tr>
+  <tr><td>96</td><td>*[[Flacon dair pur|Flacon d’air pur]]*</td><td></td><td>7 250 po</td></tr>
+  <tr><td>97</td><td>*[[Sac sans fond]] (3e modèle)*</td><td></td><td>7 400 po</td></tr>
+  <tr><td>98</td><td>*[[Charme de bonne santé]]*</td><td></td><td>7 500 po</td></tr>
+  <tr><td>99</td><td>*[[Bottes de lévitation]]*</td><td></td><td>7 500 po</td></tr>
+  <tr><td>100</td><td>*[[Harpe de suggestion]]*</td><td></td><td>7 500 po</td></tr>
+</table>
 
 </center>
 
@@ -21,15 +380,153 @@ vente</td></tr><tr CLASS="premier"><td>01</td><td>*[[Plume magique]] (ancre)*</t
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
 
-<table CLASS="tablo"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
-vente</td></tr><tr CLASS="premier"><td>01</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+2)*</td><td>8 000 po</td></tr><tr CLASS="alt"><td>02</td><td>*[[Traité de création des golems|Traité de création des golems de chair]]*</td><td>8 000 po</td></tr><tr><td>03</td><td>*[[Main miraculeuse]]*</td><td>8 000 po</td></tr><tr CLASS="alt"><td>04</td><td>*[[Pierre ioun]] (sphère rouge sang)*</td><td>8 000 po</td></tr><tr><td>05</td><td>*[[Pierre ioun]] (sphère bleu incandescent)*</td><td>8 000 po</td></tr><tr CLASS="alt"><td>06</td><td>*[[Pierre ioun]] (rhombe bleu pâle)*</td><td>8 000 po</td></tr><tr><td>07</td><td>*[[Pierre ioun]] (sphère rose et verte)*</td><td>8 000 po</td></tr><tr CLASS="alt"><td>08</td><td>*[[Pierre ioun]] (rhombe rose vif)*</td><td>8 000 po</td></tr><tr><td>09</td><td>*[[Pierre ioun]] (sphère rouge et bleue)*</td><td>8 000 po</td></tr><tr CLASS="alt"><td>10</td><td>*[[Cartes fantasmagoriques]]*</td><td>8 100 po</td></tr><tr><td>11</td><td>*[[Collier à boules de feu]] (6e modèle)*</td><td>8 100 po</td></tr><tr CLASS="alt"><td>12</td><td>*[[Cierge dinvocation|Cierge d’invocation]]*</td><td>8 400 po</td></tr><tr><td>13</td><td>*[[Robe de mimétisme]]*</td><td>8 400 po</td></tr><tr CLASS="alt"><td>14</td><td>*[[Sac à malice]] (rouille)*</td><td>8 500 po</td></tr><tr><td>15</td><td>*[[Collier à boules de feu]] (7e modèle)*</td><td>8 700 po</td></tr><tr CLASS="alt"><td>16</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+3)*</td><td>9 000 po</td></tr><tr><td>17</td><td>*[[Cape de résistance]] (+3)*</td><td>9 000 po</td></tr><tr CLASS="alt"><td>18</td><td>*[[Carafe intarissable]]*</td><td>9 000 po</td></tr><tr><td>19</td><td>*[[Collier dadaptation|Collier d’adaptation]]*</td><td>9 000 po</td></tr><tr CLASS="alt"><td>20</td><td>*[[Perle de thaumaturge]] (sort du 3e niveau)*</td><td>9 000 po</td></tr><tr><td>21</td><td>*[[Statuette merveilleuse]] (hibou de chrysolite)*</td><td>9 100 po</td></tr><tr CLASS="alt"><td>22</td><td>*[[Chapelet de prières]] (mineur)*</td><td>9 600 po</td></tr><tr><td>23</td><td>*[[Sac sans fond]] (4e modèle)*</td><td>10 000 po</td></tr><tr CLASS="alt"><td>24</td><td>*[[Ceinturon de puissance de géant]] (+2)*</td><td>10 000 po</td></tr><tr><td>25</td><td>*[[Statuette merveilleuse]] (griffon de bronze)*</td><td>10 000 po</td></tr><tr CLASS="alt"><td>26</td><td>*[[Statuette merveilleuse]] (mouche d’ébène)*</td><td>10 000 po</td></tr><tr><td>27</td><td>*[[Gant de rangement]]*</td><td>10 000 po</td></tr><tr CLASS="alt"><td>28</td><td>*[[Bandeau de prouesse mentale]] (+2)*</td><td>10 000 po</td></tr><tr><td>29</td><td>*[[Pierre ioun]] (rhombe bleu nuit)*</td><td>10 000 po</td></tr><tr CLASS="alt"><td>30</td><td>*[[Cape de prestidigitateur]]*</td><td>10 800 po</td></tr><tr><td>31</td><td>*[[Phylactère de canalisation|Phylactère de canalisation négative]]*</td><td>11 000 po</td></tr><tr CLASS="alt"><td>32</td><td>*[[Phylactère de canalisation|Phylactère de canalisation positive]]*</td><td>11 000 po</td></tr><tr><td>33</td><td>*[[Gantelet de rouille]]*</td><td>11 500 po</td></tr><tr CLASS="alt"><td>34</td><td>*[[Bottes de rapidité]]*</td><td>12 000 po</td></tr><tr><td>35</td><td>*[[Lunettes de nyctalope]]*</td><td>12 000 po</td></tr><tr CLASS="alt"><td>36</td><td>*[[Traité de création des golems|Traité de création des golems d’argile]]*</td><td>12 000 po</td></tr><tr><td>37</td><td>*[[Médaillon des pensées]]*</td><td>12 000 po</td></tr><tr CLASS="alt"><td>38</td><td>*[[Livre magique]]*</td><td>12 500 po</td></tr><tr><td>39</td><td>*[[Gemme dillumination|Gemme d’illumination]]*</td><td>13 000 po</td></tr><tr CLASS="alt"><td>40</td><td>*[[Lyre de bâtisseur]]*</td><td>13 000 po</td></tr><tr><td>41</td><td>*[[Robe de moine]]*</td><td>13 000 po</td></tr><tr CLASS="alt"><td>42</td><td>*[[Cape de laraignée|Cape de l’araignée]]*</td><td>14 000 po</td></tr><tr><td>43</td><td>*[[Ceinture des nains]]*</td><td>14 900 po</td></tr><tr CLASS="alt"><td>44</td><td>*[[Charme de coagulation]]*</td><td>15 000 po</td></tr><tr><td>45</td><td>*[[Perle des sirènes]]*</td><td>15 300 po</td></tr><tr CLASS="alt"><td>46</td><td>*[[Statuette merveilleuse]] (chien d’onyx)*</td><td>16 000 po</td></tr><tr><td>47</td><td>*[[Sac à malice]] (ocre)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>48</td><td>*[[Ceinturon de force de géant]] (+4)*</td><td>16 000 po</td></tr><tr><td>49</td><td>*[[Ceinturon de dextérité du chat]] (+4)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>50</td><td>*[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (+4)*</td><td>16 000 po</td></tr></table>
+<table CLASS="tablo">
+  <caption>Objets merveilleux de puissance intermédiaire</caption>
+  <tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
+vente</td></tr>
+  <tr CLASS="premier">
+    <td>01</td>
+    <td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+2)*</td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>02</td>
+    <td>*[[Traité de création des golems|Traité de création des golems de chair]]*</td>
+    <td>8 000 po</td>
+  </tr>
+  <tr><td>03</td><td>*[[Main miraculeuse]]*</td><td>8 000 po</td></tr>
+  <tr CLASS="alt"><td>04</td><td>*[[Pierre ioun]] (sphère rouge sang)*</td><td>8 000 po</td></tr>
+  <tr><td>05</td><td>*[[Pierre ioun]] (sphère bleu incandescent)*</td><td>8 000 po</td></tr>
+  <tr CLASS="alt"><td>06</td><td>*[[Pierre ioun]] (rhombe bleu pâle)*</td><td>8 000 po</td></tr>
+  <tr><td>07</td><td>*[[Pierre ioun]] (sphère rose et verte)*</td><td>8 000 po</td></tr>
+  <tr CLASS="alt"><td>08</td><td>*[[Pierre ioun]] (rhombe rose vif)*</td><td>8 000 po</td></tr>
+  <tr><td>09</td><td>*[[Pierre ioun]] (sphère rouge et bleue)*</td><td>8 000 po</td></tr>
+  <tr CLASS="alt"><td>10</td><td>*[[Cartes fantasmagoriques]]*</td><td>8 100 po</td></tr>
+  <tr><td>11</td><td>*[[Collier à boules de feu]] (6e modèle)*</td><td>8 100 po</td></tr>
+  <tr CLASS="alt"><td>12</td><td>*[[Cierge dinvocation|Cierge d’invocation]]*</td><td>8 400 po</td></tr>
+  <tr><td>13</td><td>*[[Robe de mimétisme]]*</td><td>8 400 po</td></tr>
+  <tr CLASS="alt"><td>14</td><td>*[[Sac à malice]] (rouille)*</td><td>8 500 po</td></tr>
+  <tr><td>15</td><td>*[[Collier à boules de feu]] (7e modèle)*</td><td>8 700 po</td></tr>
+  <tr CLASS="alt"><td>16</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+3)*</td><td>9 000 po</td></tr>
+  <tr><td>17</td><td>*[[Cape de résistance]] (+3)*</td><td>9 000 po</td></tr>
+  <tr CLASS="alt"><td>18</td><td>*[[Carafe intarissable]]*</td><td>9 000 po</td></tr>
+  <tr><td>19</td><td>*[[Collier dadaptation|Collier d’adaptation]]*</td><td>9 000 po</td></tr>
+  <tr CLASS="alt"><td>20</td><td>*[[Perle de thaumaturge]] (sort du 3e niveau)*</td><td>9 000 po</td></tr>
+  <tr><td>21</td><td>*[[Statuette merveilleuse]] (hibou de chrysolite)*</td><td>9 100 po</td></tr>
+  <tr CLASS="alt"><td>22</td><td>*[[Chapelet de prières]] (mineur)*</td><td>9 600 po</td></tr>
+  <tr><td>23</td><td>*[[Sac sans fond]] (4e modèle)*</td><td>10 000 po</td></tr>
+  <tr CLASS="alt"><td>24</td><td>*[[Ceinturon de puissance de géant]] (+2)*</td><td>10 000 po</td></tr>
+  <tr><td>25</td><td>*[[Statuette merveilleuse]] (griffon de bronze)*</td><td>10 000 po</td></tr>
+  <tr CLASS="alt"><td>26</td><td>*[[Statuette merveilleuse]] (mouche d’ébène)*</td><td>10 000 po</td></tr>
+  <tr><td>27</td><td>*[[Gant de rangement]]*</td><td>10 000 po</td></tr>
+  <tr CLASS="alt"><td>28</td><td>*[[Bandeau de prouesse mentale]] (+2)*</td><td>10 000 po</td></tr>
+  <tr><td>29</td><td>*[[Pierre ioun]] (rhombe bleu nuit)*</td><td>10 000 po</td></tr>
+  <tr CLASS="alt"><td>30</td><td>*[[Cape de prestidigitateur]]*</td><td>10 800 po</td></tr>
+  <tr><td>31</td><td>*[[Phylactère de canalisation|Phylactère de canalisation négative]]*</td><td>11 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>32</td>
+    <td>*[[Phylactère de canalisation|Phylactère de canalisation positive]]*</td>
+    <td>11 000 po</td>
+  </tr>
+  <tr><td>33</td><td>*[[Gantelet de rouille]]*</td><td>11 500 po</td></tr>
+  <tr CLASS="alt"><td>34</td><td>*[[Bottes de rapidité]]*</td><td>12 000 po</td></tr>
+  <tr><td>35</td><td>*[[Lunettes de nyctalope]]*</td><td>12 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>36</td>
+    <td>*[[Traité de création des golems|Traité de création des golems d’argile]]*</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr><td>37</td><td>*[[Médaillon des pensées]]*</td><td>12 000 po</td></tr>
+  <tr CLASS="alt"><td>38</td><td>*[[Livre magique]]*</td><td>12 500 po</td></tr>
+  <tr><td>39</td><td>*[[Gemme dillumination|Gemme d’illumination]]*</td><td>13 000 po</td></tr>
+  <tr CLASS="alt"><td>40</td><td>*[[Lyre de bâtisseur]]*</td><td>13 000 po</td></tr>
+  <tr><td>41</td><td>*[[Robe de moine]]*</td><td>13 000 po</td></tr>
+  <tr CLASS="alt"><td>42</td><td>*[[Cape de laraignée|Cape de l’araignée]]*</td><td>14 000 po</td></tr>
+  <tr><td>43</td><td>*[[Ceinture des nains]]*</td><td>14 900 po</td></tr>
+  <tr CLASS="alt"><td>44</td><td>*[[Charme de coagulation]]*</td><td>15 000 po</td></tr>
+  <tr><td>45</td><td>*[[Perle des sirènes]]*</td><td>15 300 po</td></tr>
+  <tr CLASS="alt"><td>46</td><td>*[[Statuette merveilleuse]] (chien d’onyx)*</td><td>16 000 po</td></tr>
+  <tr><td>47</td><td>*[[Sac à malice]] (ocre)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt"><td>48</td><td>*[[Ceinturon de force de géant]] (+4)*</td><td>16 000 po</td></tr>
+  <tr><td>49</td><td>*[[Ceinturon de dextérité du chat]] (+4)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>50</td>
+    <td>*[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (+4)*</td>
+    <td>16 000 po</td>
+  </tr>
+</table>
 
 </center>
 </td><td width="2%"></td><td width="49%">
 <center>
 
-<table CLASS="tablo"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
-vente</td></tr><tr CLASS="premier"><td>51</td><td>*[[Ceinturon de la perfection physique]] (+2)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>52</td><td>*[[Bottes ailées]]*</td><td>16 000 po</td></tr><tr><td>53</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+4)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>54</td><td>*[[Cape de résistance]] (+4)*</td><td>16 000 po</td></tr><tr><td>55</td><td>*[[Bandeau de belle allure]] (+4)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>56</td><td>*[[Bandeau dinspiration|Bandeau d’inspiration]] (+4)*</td><td>16 000 po</td></tr><tr><td>57</td><td>*[[Bandeau de supériorité mentale]] (+2)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>58</td><td>*[[Bandeau dintelligence|Bandeau d’intelligence]] (+4)*</td><td>16 000 po</td></tr><tr><td>59</td><td>*[[Perle de thaumaturge]] (sort du 4e niveau)*</td><td>16 000 po</td></tr><tr CLASS="alt"><td>60</td><td>*[[Fourreau daffûtage|Fourreau d’affûtage]]*</td><td>16 000 po</td></tr><tr><td>61</td><td>*[[Statuette merveilleuse]] (lions d’or)*</td><td>16 500 po</td></tr><tr CLASS="alt"><td>62</td><td>*[[Carillon dinterruption|Carillon d’interruption]]*</td><td>16 800 po</td></tr><tr><td>63</td><td>*[[Balai volant]]*</td><td>17 000 po</td></tr><tr CLASS="alt"><td>64</td><td>*[[Statuette merveilleuse]] (éléphant de marbre)*</td><td>17 000 po</td></tr><tr><td>65</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+3)*</td><td>18 000 po</td></tr><tr CLASS="alt"><td>66</td><td>*[[Pierre ioun]] (fuseau irisé)*</td><td>18 000 po</td></tr><tr><td>67</td><td>*[[Bracelet dassistance|Bracelet d’assistance]]*</td><td>19 000 po</td></tr><tr CLASS="alt"><td>68</td><td>*[[Amulette des poings invincibles]] (+2)*</td><td>16 000 po</td></tr><tr><td>69</td><td>*[[Tapis volant]] (1 50 m x 1 50 m)*</td><td>20 000 po</td></tr><tr CLASS="alt"><td>70</td><td>*[[Cor de dévastation]]*</td><td>20 000 po</td></tr><tr><td>71</td><td>*[[Pierre ioun]] (ellipsoïde lavande)*</td><td>20 000 po</td></tr><tr CLASS="alt"><td>72</td><td>*[[Pierre ioun]] (fuseau blanc laiteux)*</td><td>20 000 po</td></tr><tr><td>73</td><td>*[[Trou portable]]*</td><td>20 000 po</td></tr><tr CLASS="alt"><td>74</td><td>*[[Pierre porte-bonheur]]*</td><td>20 000 po</td></tr><tr><td>75</td><td>*[[Statuette merveilleuse]] (chèvres d’ivoire)*</td><td>21 000 po</td></tr><tr CLASS="alt"><td>76</td><td>*[[Corde denchevêtrement|Corde d’enchevêtrement]]*</td><td>21 000 po</td></tr><tr><td>77</td><td>*[[Traité de création des golems|Traité de création des golems de pierre]]*</td><td>22 000 po</td></tr><tr CLASS="alt"><td>78</td><td>*[[Masque de la camarde]]*</td><td>22 000 po</td></tr><tr><td>79</td><td>*[[Pioche des titans]]*</td><td>23 350 po</td></tr><tr CLASS="alt"><td>80</td><td>*[[Serre-tête de lumière|Serre-tête de lumière dévastatrice]]*</td><td>23 760 po</td></tr><tr><td>81</td><td>*[[Cape de déplacement]] (mineure)*</td><td>24 000 po</td></tr><tr CLASS="alt"><td>82</td><td>*[[Casque de lhomme-poisson|Casque de l’homme-poisson]]*</td><td>24 000 po</td></tr><tr><td>83</td><td>*[[Bracelets darcher|Bracelets d’archer hors pair]]*</td><td>25 000 po</td></tr><tr CLASS="alt"><td>84</td><td>*[[Bracelets darmure|Bracelets d'armure]] (+5)*</td><td>25 000 po</td></tr><tr><td>85</td><td>*[[Cape de résistance]] (+5)*</td><td>25 000 po</td></tr><tr CLASS="alt"><td>86</td><td>*[[Yeux danathème|Yeux d’anathème]]*</td><td>25 000 po</td></tr><tr><td>87</td><td>*[[Perle de thaumaturge]] (sort du 5e niveau)*</td><td>25 000 po</td></tr><tr CLASS="alt"><td>88</td><td>*[[Maillet des titans]]*</td><td>25 300 po</td></tr><tr><td>89</td><td>*[[Cape de la chauve-souris]]*</td><td>26 000 po</td></tr><tr CLASS="alt"><td>90</td><td>*[[Liens dacier mystiques|Liens d'acier mystiques]]*</td><td>26 000 po</td></tr><tr><td>91</td><td>*[[Cube de résistance au froid]]*</td><td>27 000 po</td></tr><tr CLASS="alt"><td>92</td><td>*[[Casque de télépathie]]*</td><td>27 000 po</td></tr><tr><td>93</td><td>*[[Charme antipoison]]*</td><td>27 000 po</td></tr><tr CLASS="alt"><td>94</td><td>*[[Robe prismatique]]*</td><td>27 000 po</td></tr><tr><td>95</td><td>*[[Manuel de coordination physique]] (+1)*</td><td>27 500 po</td></tr><tr CLASS="alt"><td>96</td><td>*[[Manuel de remise en forme]] (+1)*</td><td>27 500 po</td></tr><tr><td>97</td><td>*[[Manuel de vitalité]] (+1)*</td><td>27 500 po</td></tr><tr CLASS="alt"><td>98</td><td>*[[Traité de perspicacité]] (+1)*</td><td>27 500 po</td></tr><tr><td>99</td><td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+1)*</td><td>27 500 po</td></tr><tr CLASS="alt"><td>100</td><td>*[[Traité de compréhension]] (+1)*</td><td>27 500 po</td></tr></table>
+<table CLASS="tablo">
+  <caption>Objets merveilleux de puissance intermédiaire</caption>
+  <tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
+vente</td></tr>
+  <tr CLASS="premier"><td>51</td><td>*[[Ceinturon de la perfection physique]] (+2)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt"><td>52</td><td>*[[Bottes ailées]]*</td><td>16 000 po</td></tr>
+  <tr><td>53</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+4)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt"><td>54</td><td>*[[Cape de résistance]] (+4)*</td><td>16 000 po</td></tr>
+  <tr><td>55</td><td>*[[Bandeau de belle allure]] (+4)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt"><td>56</td><td>*[[Bandeau dinspiration|Bandeau d’inspiration]] (+4)*</td><td>16 000 po</td></tr>
+  <tr><td>57</td><td>*[[Bandeau de supériorité mentale]] (+2)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt"><td>58</td><td>*[[Bandeau dintelligence|Bandeau d’intelligence]] (+4)*</td><td>16 000 po</td></tr>
+  <tr><td>59</td><td>*[[Perle de thaumaturge]] (sort du 4e niveau)*</td><td>16 000 po</td></tr>
+  <tr CLASS="alt"><td>60</td><td>*[[Fourreau daffûtage|Fourreau d’affûtage]]*</td><td>16 000 po</td></tr>
+  <tr><td>61</td><td>*[[Statuette merveilleuse]] (lions d’or)*</td><td>16 500 po</td></tr>
+  <tr CLASS="alt"><td>62</td><td>*[[Carillon dinterruption|Carillon d’interruption]]*</td><td>16 800 po</td></tr>
+  <tr><td>63</td><td>*[[Balai volant]]*</td><td>17 000 po</td></tr>
+  <tr CLASS="alt"><td>64</td><td>*[[Statuette merveilleuse]] (éléphant de marbre)*</td><td>17 000 po</td></tr>
+  <tr><td>65</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+3)*</td><td>18 000 po</td></tr>
+  <tr CLASS="alt"><td>66</td><td>*[[Pierre ioun]] (fuseau irisé)*</td><td>18 000 po</td></tr>
+  <tr><td>67</td><td>*[[Bracelet dassistance|Bracelet d’assistance]]*</td><td>19 000 po</td></tr>
+  <tr CLASS="alt"><td>68</td><td>*[[Amulette des poings invincibles]] (+2)*</td><td>16 000 po</td></tr>
+  <tr><td>69</td><td>*[[Tapis volant]] (1 50 m x 1 50 m)*</td><td>20 000 po</td></tr>
+  <tr CLASS="alt"><td>70</td><td>*[[Cor de dévastation]]*</td><td>20 000 po</td></tr>
+  <tr><td>71</td><td>*[[Pierre ioun]] (ellipsoïde lavande)*</td><td>20 000 po</td></tr>
+  <tr CLASS="alt"><td>72</td><td>*[[Pierre ioun]] (fuseau blanc laiteux)*</td><td>20 000 po</td></tr>
+  <tr><td>73</td><td>*[[Trou portable]]*</td><td>20 000 po</td></tr>
+  <tr CLASS="alt"><td>74</td><td>*[[Pierre porte-bonheur]]*</td><td>20 000 po</td></tr>
+  <tr><td>75</td><td>*[[Statuette merveilleuse]] (chèvres d’ivoire)*</td><td>21 000 po</td></tr>
+  <tr CLASS="alt"><td>76</td><td>*[[Corde denchevêtrement|Corde d’enchevêtrement]]*</td><td>21 000 po</td></tr>
+  <tr>
+    <td>77</td>
+    <td>*[[Traité de création des golems|Traité de création des golems de pierre]]*</td>
+    <td>22 000 po</td>
+  </tr>
+  <tr CLASS="alt"><td>78</td><td>*[[Masque de la camarde]]*</td><td>22 000 po</td></tr>
+  <tr><td>79</td><td>*[[Pioche des titans]]*</td><td>23 350 po</td></tr>
+  <tr CLASS="alt">
+    <td>80</td>
+    <td>*[[Serre-tête de lumière|Serre-tête de lumière dévastatrice]]*</td>
+    <td>23 760 po</td>
+  </tr>
+  <tr><td>81</td><td>*[[Cape de déplacement]] (mineure)*</td><td>24 000 po</td></tr>
+  <tr CLASS="alt"><td>82</td><td>*[[Casque de lhomme-poisson|Casque de l’homme-poisson]]*</td><td>24 000 po</td></tr>
+  <tr><td>83</td><td>*[[Bracelets darcher|Bracelets d’archer hors pair]]*</td><td>25 000 po</td></tr>
+  <tr CLASS="alt"><td>84</td><td>*[[Bracelets darmure|Bracelets d'armure]] (+5)*</td><td>25 000 po</td></tr>
+  <tr><td>85</td><td>*[[Cape de résistance]] (+5)*</td><td>25 000 po</td></tr>
+  <tr CLASS="alt"><td>86</td><td>*[[Yeux danathème|Yeux d’anathème]]*</td><td>25 000 po</td></tr>
+  <tr><td>87</td><td>*[[Perle de thaumaturge]] (sort du 5e niveau)*</td><td>25 000 po</td></tr>
+  <tr CLASS="alt"><td>88</td><td>*[[Maillet des titans]]*</td><td>25 300 po</td></tr>
+  <tr><td>89</td><td>*[[Cape de la chauve-souris]]*</td><td>26 000 po</td></tr>
+  <tr CLASS="alt"><td>90</td><td>*[[Liens dacier mystiques|Liens d'acier mystiques]]*</td><td>26 000 po</td></tr>
+  <tr><td>91</td><td>*[[Cube de résistance au froid]]*</td><td>27 000 po</td></tr>
+  <tr CLASS="alt"><td>92</td><td>*[[Casque de télépathie]]*</td><td>27 000 po</td></tr>
+  <tr><td>93</td><td>*[[Charme antipoison]]*</td><td>27 000 po</td></tr>
+  <tr CLASS="alt"><td>94</td><td>*[[Robe prismatique]]*</td><td>27 000 po</td></tr>
+  <tr><td>95</td><td>*[[Manuel de coordination physique]] (+1)*</td><td>27 500 po</td></tr>
+  <tr CLASS="alt"><td>96</td><td>*[[Manuel de remise en forme]] (+1)*</td><td>27 500 po</td></tr>
+  <tr><td>97</td><td>*[[Manuel de vitalité]] (+1)*</td><td>27 500 po</td></tr>
+  <tr CLASS="alt"><td>98</td><td>*[[Traité de perspicacité]] (+1)*</td><td>27 500 po</td></tr>
+  <tr>
+    <td>99</td>
+    <td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+1)*</td>
+    <td>27 500 po</td>
+  </tr>
+  <tr CLASS="alt"><td>100</td><td>*[[Traité de compréhension]] (+1)*</td><td>27 500 po</td></tr>
+</table>
 
 </center>
 </td></tr></table>
@@ -39,15 +536,149 @@ vente</td></tr><tr CLASS="premier"><td>51</td><td>*[[Ceinturon de la perfection 
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
 
-<table CLASS="tablo"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
-vente</td></tr><tr CLASS="premier"><td>01</td><td>*[[Chaînes dimensionnelles]]*</td><td>28 000 po</td></tr><tr CLASS="alt"><td>02</td><td>*[[Statuette merveilleuse]] (destrier d’obsidienne)*</td><td>28 500 po</td></tr><tr><td>03</td><td>*[[Timbales de panique]]*</td><td>30 000 po</td></tr><tr CLASS="alt"><td>04</td><td>*[[Pierre ioun]] (prisme orange)*</td><td>30 000 po</td></tr><tr><td>05</td><td>*[[Pierre ioun]] (prisme vert pâle)*</td><td>30 000 po</td></tr><tr CLASS="alt"><td>06</td><td>*[[Lanterne révélatrice]]*</td><td>30 000 po</td></tr><tr><td>07</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+4)*</td><td>32 000 po</td></tr><tr CLASS="alt"><td>08</td><td>*[[Amulette dantidétection|Amulette d’antidétection]]*</td><td>35 000 po</td></tr><tr><td>09</td><td>*[[Tapis volant]] (1 50 m x 3 m)*</td><td>35 000 po</td></tr><tr CLASS="alt"><td>10</td><td>*[[Traité de création des golems|Traité de création des golems de fer]]*</td><td>35 000 po</td></tr><tr><td>11</td><td>*[[Ceinturon de force de géant]] (+6)*</td><td>36 000 po</td></tr><tr CLASS="alt"><td>12</td><td>*[[Ceinturon de dextérité du chat]] (+6)*</td><td>36 000 po</td></tr><tr><td>13</td><td>*[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (+6)*</td><td>36 000 po</td></tr><tr CLASS="alt"><td>14</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+6)*</td><td>36 000 po</td></tr><tr><td>15</td><td>*[[Bandeau de belle allure]] (+6)*</td><td>36 000 po</td></tr><tr CLASS="alt"><td>16</td><td>*[[Bandeau dinspiration|Bandeau d’inspiration]] (+6)*</td><td>36 000 po</td></tr><tr><td>17</td><td>*[[Bandeau dintelligence|Bandeau d’intelligence]] (+6)*</td><td>36 000 po</td></tr><tr CLASS="alt"><td>18</td><td>*[[Pierre ioun]] (prisme violet vif)*</td><td>36 000 po</td></tr><tr><td>19</td><td>*[[Perle de thaumaturge]] (sort du 6e niveau)*</td><td>36 000 po</td></tr><tr CLASS="alt"><td>20</td><td>*[[Scarabée de protection]]*</td><td>38 000 po</td></tr><tr><td>21</td><td>*[[Ceinturon de puissance de géant]] (+4)*</td><td>40 000 po</td></tr><tr CLASS="alt"><td>22</td><td>*[[Bandeau de prouesse mentale]] (+4)*</td><td>40 000 po</td></tr><tr><td>23</td><td>*[[Pierre ioun]] (ellipsoïde vert et lavande)*</td><td>40 000 po</td></tr><tr CLASS="alt"><td>24</td><td>*[[Anneaux de transport]]*</td><td>40 000 po</td></tr><tr><td>25</td><td>*[[Boule de cristal]]*</td><td>42 000 po</td></tr><tr CLASS="alt"><td>26</td><td>*[[Traité de création des golems|Traité de création des golems de pierre monumentaux]]*</td><td>44 000 po</td></tr><tr><td>27</td><td>*[[Amulette des poings invincibles]] (+3)*</td><td>36 000 po</td></tr><tr CLASS="alt"><td>28</td><td>*[[Chapelet de prières]] (courant)*</td><td>45 800 po</td></tr><tr><td>29</td><td>*[[Orbe des tempêtes]]*</td><td>48 000 po</td></tr><tr CLASS="alt"><td>30</td><td>*[[Bottes de téléportation]]*</td><td>49 000 po</td></tr><tr><td>31</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+7)*</td><td>49 000 po</td></tr><tr CLASS="alt"><td>32</td><td>*[[Perle de thaumaturge]] (sort du 7e niveau)*</td><td>49 000 po</td></tr><tr><td>33</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+5)*</td><td>50 000 po</td></tr><tr CLASS="alt"><td>34</td><td>*[[Cape de déplacement]] (supérieure)*</td><td>50 000 po</td></tr><tr><td>35</td><td>*[[Boule de cristal]] (détection de l’invisibilité)*</td><td>50 000 po</td></tr><tr CLASS="alt"><td>36</td><td>*[[Cor du Valhalla]]*</td><td>50 000 po</td></tr><tr><td>37</td><td>*[[Boule de cristal]] (détection des pensées)*</td><td>51 000 po</td></tr><tr CLASS="alt"><td>38</td><td>*[[Ailes de vol]]*</td><td>54 000 po</td></tr><tr><td>39</td><td>*[[Cape éthérée]]*</td><td>55 000 po</td></tr><tr CLASS="alt"><td>40</td><td>*[[Forteresse instantanée]]*</td><td>55 000 po</td></tr><tr><td>41</td><td>*[[Manuel de vitalité]] (+2)*</td><td>55 000 po</td></tr><tr CLASS="alt"><td>42</td><td>*[[Manuel de remise en forme]] (+2)*</td><td>55 000 po</td></tr><tr><td>43</td><td>*[[Manuel de coordination physique]] (+2)*</td><td>55 000 po</td></tr><tr CLASS="alt"><td>44</td><td>*[[Traité de perspicacité]] (+2)*</td><td>55 000 po</td></tr><tr><td>45</td><td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+2)*</td><td>55 000 po</td></tr><tr CLASS="alt"><td>46</td><td>*[[Traité de compréhension]] (+2)*</td><td>55 000 po</td></tr><tr><td>47</td><td>*[[Yeux de charme]]*</td><td>56 000 po</td></tr><tr CLASS="alt"><td>48</td><td>*[[Robe étoilée]]*</td><td>58 000 po</td></tr><tr><td>49</td><td>*[[Tapis volant]] (3 m x 3 m)*</td><td>60 000 po</td></tr><tr CLASS="alt"><td>50</td><td>*[[Crâne des ténèbres]]*</td><td>60 000 po</td></tr></table>
+<table CLASS="tablo">
+  <caption>Objets merveilleux de grande puissance</caption>
+  <tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
+vente</td></tr>
+  <tr CLASS="premier"><td>01</td><td>*[[Chaînes dimensionnelles]]*</td><td>28 000 po</td></tr>
+  <tr CLASS="alt"><td>02</td><td>*[[Statuette merveilleuse]] (destrier d’obsidienne)*</td><td>28 500 po</td></tr>
+  <tr><td>03</td><td>*[[Timbales de panique]]*</td><td>30 000 po</td></tr>
+  <tr CLASS="alt"><td>04</td><td>*[[Pierre ioun]] (prisme orange)*</td><td>30 000 po</td></tr>
+  <tr><td>05</td><td>*[[Pierre ioun]] (prisme vert pâle)*</td><td>30 000 po</td></tr>
+  <tr CLASS="alt"><td>06</td><td>*[[Lanterne révélatrice]]*</td><td>30 000 po</td></tr>
+  <tr><td>07</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+4)*</td><td>32 000 po</td></tr>
+  <tr CLASS="alt"><td>08</td><td>*[[Amulette dantidétection|Amulette d’antidétection]]*</td><td>35 000 po</td></tr>
+  <tr><td>09</td><td>*[[Tapis volant]] (1 50 m x 3 m)*</td><td>35 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>*[[Traité de création des golems|Traité de création des golems de fer]]*</td>
+    <td>35 000 po</td>
+  </tr>
+  <tr><td>11</td><td>*[[Ceinturon de force de géant]] (+6)*</td><td>36 000 po</td></tr>
+  <tr CLASS="alt"><td>12</td><td>*[[Ceinturon de dextérité du chat]] (+6)*</td><td>36 000 po</td></tr>
+  <tr>
+    <td>13</td>
+    <td>*[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (+6)*</td>
+    <td>36 000 po</td>
+  </tr>
+  <tr CLASS="alt"><td>14</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+6)*</td><td>36 000 po</td></tr>
+  <tr><td>15</td><td>*[[Bandeau de belle allure]] (+6)*</td><td>36 000 po</td></tr>
+  <tr CLASS="alt"><td>16</td><td>*[[Bandeau dinspiration|Bandeau d’inspiration]] (+6)*</td><td>36 000 po</td></tr>
+  <tr><td>17</td><td>*[[Bandeau dintelligence|Bandeau d’intelligence]] (+6)*</td><td>36 000 po</td></tr>
+  <tr CLASS="alt"><td>18</td><td>*[[Pierre ioun]] (prisme violet vif)*</td><td>36 000 po</td></tr>
+  <tr><td>19</td><td>*[[Perle de thaumaturge]] (sort du 6e niveau)*</td><td>36 000 po</td></tr>
+  <tr CLASS="alt"><td>20</td><td>*[[Scarabée de protection]]*</td><td>38 000 po</td></tr>
+  <tr><td>21</td><td>*[[Ceinturon de puissance de géant]] (+4)*</td><td>40 000 po</td></tr>
+  <tr CLASS="alt"><td>22</td><td>*[[Bandeau de prouesse mentale]] (+4)*</td><td>40 000 po</td></tr>
+  <tr><td>23</td><td>*[[Pierre ioun]] (ellipsoïde vert et lavande)*</td><td>40 000 po</td></tr>
+  <tr CLASS="alt"><td>24</td><td>*[[Anneaux de transport]]*</td><td>40 000 po</td></tr>
+  <tr><td>25</td><td>*[[Boule de cristal]]*</td><td>42 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>26</td>
+    <td>*[[Traité de création des golems|Traité de création des golems de pierre monumentaux]]*</td>
+    <td>44 000 po</td>
+  </tr>
+  <tr><td>27</td><td>*[[Amulette des poings invincibles]] (+3)*</td><td>36 000 po</td></tr>
+  <tr CLASS="alt"><td>28</td><td>*[[Chapelet de prières]] (courant)*</td><td>45 800 po</td></tr>
+  <tr><td>29</td><td>*[[Orbe des tempêtes]]*</td><td>48 000 po</td></tr>
+  <tr CLASS="alt"><td>30</td><td>*[[Bottes de téléportation]]*</td><td>49 000 po</td></tr>
+  <tr><td>31</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+7)*</td><td>49 000 po</td></tr>
+  <tr CLASS="alt"><td>32</td><td>*[[Perle de thaumaturge]] (sort du 7e niveau)*</td><td>49 000 po</td></tr>
+  <tr><td>33</td><td>*[[Amulette darmure naturelle|Amulette d’armure naturelle]] (+5)*</td><td>50 000 po</td></tr>
+  <tr CLASS="alt"><td>34</td><td>*[[Cape de déplacement]] (supérieure)*</td><td>50 000 po</td></tr>
+  <tr><td>35</td><td>*[[Boule de cristal]] (détection de l’invisibilité)*</td><td>50 000 po</td></tr>
+  <tr CLASS="alt"><td>36</td><td>*[[Cor du Valhalla]]*</td><td>50 000 po</td></tr>
+  <tr><td>37</td><td>*[[Boule de cristal]] (détection des pensées)*</td><td>51 000 po</td></tr>
+  <tr CLASS="alt"><td>38</td><td>*[[Ailes de vol]]*</td><td>54 000 po</td></tr>
+  <tr><td>39</td><td>*[[Cape éthérée]]*</td><td>55 000 po</td></tr>
+  <tr CLASS="alt"><td>40</td><td>*[[Forteresse instantanée]]*</td><td>55 000 po</td></tr>
+  <tr><td>41</td><td>*[[Manuel de vitalité]] (+2)*</td><td>55 000 po</td></tr>
+  <tr CLASS="alt"><td>42</td><td>*[[Manuel de remise en forme]] (+2)*</td><td>55 000 po</td></tr>
+  <tr><td>43</td><td>*[[Manuel de coordination physique]] (+2)*</td><td>55 000 po</td></tr>
+  <tr CLASS="alt"><td>44</td><td>*[[Traité de perspicacité]] (+2)*</td><td>55 000 po</td></tr>
+  <tr>
+    <td>45</td>
+    <td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+2)*</td>
+    <td>55 000 po</td>
+  </tr>
+  <tr CLASS="alt"><td>46</td><td>*[[Traité de compréhension]] (+2)*</td><td>55 000 po</td></tr>
+  <tr><td>47</td><td>*[[Yeux de charme]]*</td><td>56 000 po</td></tr>
+  <tr CLASS="alt"><td>48</td><td>*[[Robe étoilée]]*</td><td>58 000 po</td></tr>
+  <tr><td>49</td><td>*[[Tapis volant]] (3 m x 3 m)*</td><td>60 000 po</td></tr>
+  <tr CLASS="alt"><td>50</td><td>*[[Crâne des ténèbres]]*</td><td>60 000 po</td></tr>
+</table>
 
 </center>
 </td><td width="2%"></td><td width="49%">
 <center>
 
-<table CLASS="tablo"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
-vente</td></tr><tr CLASS="premier"><td>51</td><td>*[[Cube de force]]*</td><td>62 000 po</td></tr><tr CLASS="alt"><td>52</td><td>*[[Ceinturon de la perfection physique]] (+4)*</td><td>64 000 po</td></tr><tr><td>53</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+8)*</td><td>64 000 po</td></tr><tr CLASS="alt"><td>54</td><td>*[[Bandeau de supériorité mentale]] (+4)*</td><td>64 000 po</td></tr><tr><td>55</td><td>*[[Perle de thaumaturge]] (sort du 8e niveau)*</td><td>64 000 po</td></tr><tr CLASS="alt"><td>56</td><td>*[[Boule de cristal]] (télépathie)*</td><td>70 000 po</td></tr><tr><td>57</td><td>*[[Cor de dévastation|Cor de dévastation supérieur]]*</td><td>70 000 po</td></tr><tr CLASS="alt"><td>58</td><td>*[[Perle de thaumaturge]] (2 sorts)*</td><td>70 000 po</td></tr><tr><td>59</td><td>*[[Casque de téléportation]]*</td><td>73 500 po</td></tr><tr CLASS="alt"><td>60</td><td>*[[Gemme de vision]]*</td><td>75 000 po</td></tr><tr><td>61</td><td>*[[Robe darchimage|Robe d’archimage]]*</td><td>75 000 po</td></tr><tr CLASS="alt"><td>62</td><td>*[[Chasuble de la foi]]*</td><td>76 000 po</td></tr><tr><td>63</td><td>*[[Amulette des poings invincibles]] (+4)*</td><td>64 000 po</td></tr><tr CLASS="alt"><td>64</td><td>*[[Boule de cristal]] (vision lucide)*</td><td>80 000 po</td></tr><tr><td>65</td><td>*[[Perle de thaumaturge]] (sort du 9e niveau)*</td><td>81 000 po</td></tr><tr CLASS="alt"><td>66</td><td>*[[Puits des mondes]]*</td><td>82 000 po</td></tr><tr><td>67</td><td>*[[Manuel de coordination physique]] (+3 )*</td><td>82 500 po</td></tr><tr CLASS="alt"><td>68</td><td>*[[Manuel de remise en forme]] (+3)*</td><td>82 500 po</td></tr><tr><td>69</td><td>*[[Manuel de vitalité]] (+3)*</td><td>82 500 po</td></tr><tr CLASS="alt"><td>70</td><td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+3)*</td><td>82 500 po</td></tr><tr><td>71</td><td>*[[Traité de compréhension]] (+3)*</td><td>82 500 po</td></tr><tr CLASS="alt"><td>72</td><td>*[[Traité de perspicacité]] (+3)*</td><td>82 500 po</td></tr><tr><td>73</td><td>*[[Submersible du crabe]]*</td><td>90 000 po</td></tr><tr CLASS="alt"><td>74</td><td>*[[Ceinturon de puissance de géant]] (+6)*</td><td>90 000 po</td></tr><tr><td>75</td><td>*[[Bandeau de prouesse mentale]] (+6)*</td><td>90 000 po</td></tr><tr CLASS="alt"><td>76</td><td>*[[Chasuble de résistance à la magie]]*</td><td>90 000 po</td></tr><tr><td>77</td><td>*[[Miroir dopposition|Miroir d’opposition]]*</td><td>92 000 po</td></tr><tr CLASS="alt"><td>78</td><td>*[[Chapelet de prières]] (majeur)*</td><td>92 500 po</td></tr><tr><td>79</td><td>*[[Manuel de coordination physique]] (+4)*</td><td>110 000 po</td></tr><tr CLASS="alt"><td>80</td><td>*[[Manuel de remise en forme]] (+4)*</td><td>110 000 po</td></tr><tr><td>81</td><td>*[[Manuel de vitalité]] (+4)*</td><td>110 000 po</td></tr><tr CLASS="alt"><td>82</td><td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+4)*</td><td>110 000 po</td></tr><tr><td>83</td><td>*[[Traité de compréhension]] (+4)*</td><td>110 000 po</td></tr><tr CLASS="alt"><td>84</td><td>*[[Traité de perspicacité]] (+4)*</td><td>110 000 po</td></tr><tr><td>85</td><td>*[[Amulette des plans]]*</td><td>120 000 po</td></tr><tr CLASS="alt"><td>86</td><td>*[[Robe de vision totale]]*</td><td>120 000 po</td></tr><tr><td>87</td><td>*[[Amulette des poings invincibles]] (+5)*</td><td>100 000 po</td></tr><tr CLASS="alt"><td>88</td><td>*[[Casque de mille feux]]*</td><td>125 000 po</td></tr><tr><td>89</td><td>*[[Manuel de coordination physique]] (+5)*</td><td>137 500 po</td></tr><tr CLASS="alt"><td>90</td><td>*[[Manuel de remise en forme]] (+5)*</td><td>137 500 po</td></tr><tr><td>91</td><td>*[[Manuel de vitalité]] (+5)*</td><td>137 500 po</td></tr><tr CLASS="alt"><td>92</td><td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+5)*</td><td>137 500 po</td></tr><tr><td>93</td><td>*[[Traité de compréhension]] (+5)*</td><td>137 500 po</td></tr><tr CLASS="alt"><td>94</td><td>*[[Traité de perspicacité]] (+5)*</td><td>137 500 po</td></tr><tr><td>95</td><td>*[[Ceinturon de la perfection physique]] (+6)*</td><td>144 000 po</td></tr><tr CLASS="alt"><td>96</td><td>*[[Bandeau de supériorité mentale]] (+6)*</td><td>144 000 po</td></tr><tr><td>97</td><td>*[[Urne du mauvais génie]]*</td><td>145 000 po</td></tr><tr CLASS="alt"><td>98</td><td>*[[Cube des plans]]*</td><td>164 000 po</td></tr><tr><td>99</td><td>*[[Flasque de fer]]*</td><td>170 000 po</td></tr><tr CLASS="alt"><td>100</td><td>*[[Miroir demprisonnement|Miroir d’emprisonnement]]*</td><td>200 000 po</td></tr></table>
+<table CLASS="tablo">
+  <caption>Objets merveilleux de grande puissance</caption>
+  <tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de  
+vente</td></tr>
+  <tr CLASS="premier"><td>51</td><td>*[[Cube de force]]*</td><td>62 000 po</td></tr>
+  <tr CLASS="alt"><td>52</td><td>*[[Ceinturon de la perfection physique]] (+4)*</td><td>64 000 po</td></tr>
+  <tr><td>53</td><td>*[[Bracelets darmure|Bracelets d’armure]] (+8)*</td><td>64 000 po</td></tr>
+  <tr CLASS="alt"><td>54</td><td>*[[Bandeau de supériorité mentale]] (+4)*</td><td>64 000 po</td></tr>
+  <tr><td>55</td><td>*[[Perle de thaumaturge]] (sort du 8e niveau)*</td><td>64 000 po</td></tr>
+  <tr CLASS="alt"><td>56</td><td>*[[Boule de cristal]] (télépathie)*</td><td>70 000 po</td></tr>
+  <tr><td>57</td><td>*[[Cor de dévastation|Cor de dévastation supérieur]]*</td><td>70 000 po</td></tr>
+  <tr CLASS="alt"><td>58</td><td>*[[Perle de thaumaturge]] (2 sorts)*</td><td>70 000 po</td></tr>
+  <tr><td>59</td><td>*[[Casque de téléportation]]*</td><td>73 500 po</td></tr>
+  <tr CLASS="alt"><td>60</td><td>*[[Gemme de vision]]*</td><td>75 000 po</td></tr>
+  <tr><td>61</td><td>*[[Robe darchimage|Robe d’archimage]]*</td><td>75 000 po</td></tr>
+  <tr CLASS="alt"><td>62</td><td>*[[Chasuble de la foi]]*</td><td>76 000 po</td></tr>
+  <tr><td>63</td><td>*[[Amulette des poings invincibles]] (+4)*</td><td>64 000 po</td></tr>
+  <tr CLASS="alt"><td>64</td><td>*[[Boule de cristal]] (vision lucide)*</td><td>80 000 po</td></tr>
+  <tr><td>65</td><td>*[[Perle de thaumaturge]] (sort du 9e niveau)*</td><td>81 000 po</td></tr>
+  <tr CLASS="alt"><td>66</td><td>*[[Puits des mondes]]*</td><td>82 000 po</td></tr>
+  <tr><td>67</td><td>*[[Manuel de coordination physique]] (+3 )*</td><td>82 500 po</td></tr>
+  <tr CLASS="alt"><td>68</td><td>*[[Manuel de remise en forme]] (+3)*</td><td>82 500 po</td></tr>
+  <tr><td>69</td><td>*[[Manuel de vitalité]] (+3)*</td><td>82 500 po</td></tr>
+  <tr CLASS="alt">
+    <td>70</td>
+    <td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+3)*</td>
+    <td>82 500 po</td>
+  </tr>
+  <tr><td>71</td><td>*[[Traité de compréhension]] (+3)*</td><td>82 500 po</td></tr>
+  <tr CLASS="alt"><td>72</td><td>*[[Traité de perspicacité]] (+3)*</td><td>82 500 po</td></tr>
+  <tr><td>73</td><td>*[[Submersible du crabe]]*</td><td>90 000 po</td></tr>
+  <tr CLASS="alt"><td>74</td><td>*[[Ceinturon de puissance de géant]] (+6)*</td><td>90 000 po</td></tr>
+  <tr><td>75</td><td>*[[Bandeau de prouesse mentale]] (+6)*</td><td>90 000 po</td></tr>
+  <tr CLASS="alt"><td>76</td><td>*[[Chasuble de résistance à la magie]]*</td><td>90 000 po</td></tr>
+  <tr><td>77</td><td>*[[Miroir dopposition|Miroir d’opposition]]*</td><td>92 000 po</td></tr>
+  <tr CLASS="alt"><td>78</td><td>*[[Chapelet de prières]] (majeur)*</td><td>92 500 po</td></tr>
+  <tr><td>79</td><td>*[[Manuel de coordination physique]] (+4)*</td><td>110 000 po</td></tr>
+  <tr CLASS="alt"><td>80</td><td>*[[Manuel de remise en forme]] (+4)*</td><td>110 000 po</td></tr>
+  <tr><td>81</td><td>*[[Manuel de vitalité]] (+4)*</td><td>110 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>82</td>
+    <td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+4)*</td>
+    <td>110 000 po</td>
+  </tr>
+  <tr><td>83</td><td>*[[Traité de compréhension]] (+4)*</td><td>110 000 po</td></tr>
+  <tr CLASS="alt"><td>84</td><td>*[[Traité de perspicacité]] (+4)*</td><td>110 000 po</td></tr>
+  <tr><td>85</td><td>*[[Amulette des plans]]*</td><td>120 000 po</td></tr>
+  <tr CLASS="alt"><td>86</td><td>*[[Robe de vision totale]]*</td><td>120 000 po</td></tr>
+  <tr><td>87</td><td>*[[Amulette des poings invincibles]] (+5)*</td><td>100 000 po</td></tr>
+  <tr CLASS="alt"><td>88</td><td>*[[Casque de mille feux]]*</td><td>125 000 po</td></tr>
+  <tr><td>89</td><td>*[[Manuel de coordination physique]] (+5)*</td><td>137 500 po</td></tr>
+  <tr CLASS="alt"><td>90</td><td>*[[Manuel de remise en forme]] (+5)*</td><td>137 500 po</td></tr>
+  <tr><td>91</td><td>*[[Manuel de vitalité]] (+5)*</td><td>137 500 po</td></tr>
+  <tr CLASS="alt">
+    <td>92</td>
+    <td>*[[Traité dautorité et dinfluence|Traité d’autorité et d’influence]] (+5)*</td>
+    <td>137 500 po</td>
+  </tr>
+  <tr><td>93</td><td>*[[Traité de compréhension]] (+5)*</td><td>137 500 po</td></tr>
+  <tr CLASS="alt"><td>94</td><td>*[[Traité de perspicacité]] (+5)*</td><td>137 500 po</td></tr>
+  <tr><td>95</td><td>*[[Ceinturon de la perfection physique]] (+6)*</td><td>144 000 po</td></tr>
+  <tr CLASS="alt"><td>96</td><td>*[[Bandeau de supériorité mentale]] (+6)*</td><td>144 000 po</td></tr>
+  <tr><td>97</td><td>*[[Urne du mauvais génie]]*</td><td>145 000 po</td></tr>
+  <tr CLASS="alt"><td>98</td><td>*[[Cube des plans]]*</td><td>164 000 po</td></tr>
+  <tr><td>99</td><td>*[[Flasque de fer]]*</td><td>170 000 po</td></tr>
+  <tr CLASS="alt"><td>100</td><td>*[[Miroir demprisonnement|Miroir d’emprisonnement]]*</td><td>200 000 po</td></tr>
+</table>
 
 </center>
 </td></tr></table>

@@ -76,6 +76,16 @@ Le résultat de ces croisements est décrit dans la table ci-dessous.
 
 
 
-<table CLASS="tablo toutgauche"><tr CLASS="titre"><td>Partenaire de la manticore</td><td>Progéniture</td></tr><tr CLASS="premier"><td>Chimère</td><td>chimère avec une queue munie de piques et l’attaque spéciale de piques</td></tr><tr CLASS="alt"><td>Lamie</td><td>lamie avec une queue munie de piques et l’attaque spéciale de piques</td></tr><tr><td>Lion</td><td>manticore normale</td></tr><tr CLASS="alt"><td>Lion sanguinaire</td><td>manticore évoluée</td></tr><tr><td>Sphinx</td><td>sphinx avec une queue munie de piques et l’attaque spéciale de piques</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <tr CLASS="titre"><td>Partenaire de la manticore</td><td>Progéniture</td></tr>
+  <tr CLASS="premier">
+    <td>Chimère</td>
+    <td>chimère avec une queue munie de piques et l’attaque spéciale de piques</td>
+  </tr>
+  <tr CLASS="alt"><td>Lamie</td><td>lamie avec une queue munie de piques et l’attaque spéciale de piques</td></tr>
+  <tr><td>Lion</td><td>manticore normale</td></tr>
+  <tr CLASS="alt"><td>Lion sanguinaire</td><td>manticore évoluée</td></tr>
+  <tr><td>Sphinx</td><td>sphinx avec une queue munie de piques et l’attaque spéciale de piques</td></tr>
+</table>
 
 </div></td></tr></table>

@@ -59,7 +59,27 @@ Notez que le MJ a toute latitude pour autoriser cette combinaison. Seulement, le
 distordue. Ce bonus persiste tant que la métamorphose affecte la cible.
 
 
-<table CLASS="tablo"><caption>Avantages de la métamorphose distordue</caption><tr CLASS="titre"><td>D12</td><td>Effet</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">double articulation : +2 aux tests d’[[Évasion]]</td></tr><tr><td>2</td><td CLASS="gauche">doigts palmés : +2 aux tests de [[Natation]]</td></tr><tr><td>3</td><td CLASS="gauche">poigne de fer : +2 aux tests d’[[Escalade]] et au [[DMD]] contre les manœuvres de [[désarmement]].</td></tr><tr><td>4</td><td CLASS="gauche">œil d’insecte : +2 aux tests de [[Perception]]</td></tr><tr><td>5</td><td CLASS="gauche">camouflage : +2 aux tests de [[Discrétion]]</td></tr><tr><td>6</td><td CLASS="gauche">peau dure : bonus de +1 à l’[[classe darmure|armure naturelle]]</td></tr><tr><td>7</td><td CLASS="gauche">robuste : +1 aux jets de [[Vigueur]]</td></tr><tr><td>8</td><td CLASS="gauche">vif : +1 aux jets de [[Réflexes]]</td></tr><tr><td>9</td><td CLASS="gauche">astucieux : +1 aux jets de [[Volonté]]</td></tr><tr><td>10</td><td CLASS="gauche">rapide : +1,50 mètre (1{s:c}) de déplacement</td></tr><tr><td>11</td><td CLASS="gauche">vicieux : +1 aux jets d’[[attaque au corps à corps]]</td></tr><tr><td>12</td><td CLASS="gauche">œil de faucon : +1 aux jets d’[[attaque à distance]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Avantages de la métamorphose distordue</caption>
+  <tr CLASS="titre"><td>D12</td><td>Effet</td></tr>
+  <tr CLASS="premier"><td>1</td><td CLASS="gauche">double articulation : +2 aux tests d’[[Évasion]]</td></tr>
+  <tr><td>2</td><td CLASS="gauche">doigts palmés : +2 aux tests de [[Natation]]</td></tr>
+  <tr>
+    <td>3</td>
+    <td CLASS="gauche">
+      poigne de fer : +2 aux tests d’[[Escalade]] et au [[DMD]] contre les manœuvres de [[désarmement]].
+    </td>
+  </tr>
+  <tr><td>4</td><td CLASS="gauche">œil d’insecte : +2 aux tests de [[Perception]]</td></tr>
+  <tr><td>5</td><td CLASS="gauche">camouflage : +2 aux tests de [[Discrétion]]</td></tr>
+  <tr><td>6</td><td CLASS="gauche">peau dure : bonus de +1 à l’[[classe darmure|armure naturelle]]</td></tr>
+  <tr><td>7</td><td CLASS="gauche">robuste : +1 aux jets de [[Vigueur]]</td></tr>
+  <tr><td>8</td><td CLASS="gauche">vif : +1 aux jets de [[Réflexes]]</td></tr>
+  <tr><td>9</td><td CLASS="gauche">astucieux : +1 aux jets de [[Volonté]]</td></tr>
+  <tr><td>10</td><td CLASS="gauche">rapide : +1,50 mètre (1{s:c}) de déplacement</td></tr>
+  <tr><td>11</td><td CLASS="gauche">vicieux : +1 aux jets d’[[attaque au corps à corps]]</td></tr>
+  <tr><td>12</td><td CLASS="gauche">œil de faucon : +1 aux jets d’[[attaque à distance]]</td></tr>
+</table>
 
 
 **Pouvoirs de lignage.** L’étrange sang du personnage fait ressortir ce qu’il y a de pire chez les autres.</br>

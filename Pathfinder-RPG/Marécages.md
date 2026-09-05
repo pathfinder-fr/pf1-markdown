@@ -16,7 +16,13 @@ Il existe deux types de marécages : les landes sèches et les marais croupis. T
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de marais</td><td>Landes</td><td>Marais</td></tr><tr CLASS="premier"><td>Tourbières peu profondes</td><td>20%</td><td>40%</td></tr><tr CLASS="alt"><td>Tourbières profondes</td><td>5%</td><td>20%</td></tr><tr><td>Broussailles légères</td><td>30%</td><td>20%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>10%</td><td>20%</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Catégories de marais</td><td>Landes</td><td>Marais</td></tr>
+  <tr CLASS="premier"><td>Tourbières peu profondes</td><td>20%</td><td>40%</td></tr>
+  <tr CLASS="alt"><td>Tourbières profondes</td><td>5%</td><td>20%</td></tr>
+  <tr><td>Broussailles légères</td><td>30%</td><td>20%</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>10%</td><td>20%</td></tr>
+</table>
 
 </center>
 </div></div>

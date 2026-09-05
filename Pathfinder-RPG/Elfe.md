@@ -226,7 +226,104 @@ maléfices et des arcanes étranges. Nombre d’entre elles tissent des liens av
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Chanteur de la nature]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[elfe]] ou [[demi-elfe]]</td><td>Améliore les représentations en forêt et contre les fées</td></tr><tr CLASS="premier"><td>[[Coup de flèche]]*</td><td><sup>MJRA</sup></td><td>[[Tir rapide]], [[elfe]]</td><td>Utiliser une flèche comme arme de corps à corps pour repousser les ennemis</td></tr><tr CLASS="premier"><td>[[Entraînement guerrier elfique]]*</td><td><sup>MR</sup></td><td>[[BBA]] +1, [[elfe]]</td><td>Bonus avec les armes elfiques traditionnelles</td></tr><tr CLASS="premier"><td>[[Expériences variées]]</td><td><sup>MJRA</sup></td><td>[[Nain]], [[elfe]], ou [[gnome]]; 100 ans ou plus</td><td>+2 sur tous les tests de Connaissances ou de Profession</td></tr><tr CLASS="premier"><td>[[Harmonie sauvage]]</td><td><sup>MR</sup></td><td>[[Elfe]]</td><td>Régénération plus rapide dans l'environnement choisi</td></tr><tr><td>&emsp;[[Gardien des étendues sauvages]]</td><td><sup>MR</sup></td><td>[[Harmonie sauvage]], [[elfe]]</td><td>+2 à la CA dans l'environnement choisi</td></tr><tr><td>&emsp;&emsp;[[Esprit des étendues sauvages]]</td><td><sup>MR</sup></td><td>[[Harmonie sauvage]], [[Gardien des étendues sauvages]], [[elfe]]</td><td>Devient plus perceptif dans l'environnement choisi</td></tr><tr><td>&emsp;[[Mage des étendues sauvages]]</td><td><sup>MR</sup></td><td>[[Harmonie sauvage]], [[elfe]]</td><td>Bonus aux tests pour incanter et analyser des propriétés magiques dans l'environnement choisi</td></tr><tr CLASS="premier"><td>[[Pas léger]]</td><td><sup>MJRA</sup></td><td>[[Déplacement acrobatique]], [[Aisance]], [[elfe]]</td><td>Se déplacer de sa Vitesse de déplacement normale sur un terrain difficile</td></tr><tr CLASS="premier"><td>[[Précision elfique]]*</td><td><sup>MJRA</sup></td><td>[[Elfe]]</td><td>Relancer le pourcentage d’échec à l’arc dû au camouflage</td></tr><tr CLASS="premier"><td>[[Regard perspicace]]</td><td><sup>MR</sup></td><td>[[Elfe]] ou [[demi-elfe]], trait racial sens aiguisés</td><td>+2 aux jets de sauvegarde contre les illusions et aux tests de Linguistique pour détecter les contrefaçons</td></tr><tr CLASS="premier"><td>[[Souvenir partagé]]</td><td><sup>*ISR*</sup></td><td>1 rang en [[Connaissances]] (n'importe), [[elfe]]</td><td>Bonus de +2 cumulatif (maximum +10) aux tests de Connaissances pour identifier des morts pour chaque allié avec ce don dans un rayon de 9 mètres</td></tr><tr CLASS="premier"><td>[[Talent magique]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 10; [[elfe]], [[demi-elfe]] ou [[gnome]]</td><td>Lancer un sort de niveau 0 trois par jour comme un pouvoir magique</td></tr><tr CLASS="premier"><td>[[Tir concentré]]</td><td><sup>*ISR*</sup></td><td>[[Tir à bout portant]], [[elfe]], trait racial armes familières</td><td>Utilise le meilleur jet d'attaque lorsque le personnage et un allié avec ce don préparent tous deux une attaque à distance</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chanteur de la nature]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[elfe]] ou [[demi-elfe]]</td>
+    <td>Améliore les représentations en forêt et contre les fées</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coup de flèche]]*</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Tir rapide]], [[elfe]]</td>
+    <td>Utiliser une flèche comme arme de corps à corps pour repousser les ennemis</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Entraînement guerrier elfique]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +1, [[elfe]]</td>
+    <td>Bonus avec les armes elfiques traditionnelles</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Expériences variées]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Nain]], [[elfe]], ou [[gnome]]; 100 ans ou plus</td>
+    <td>+2 sur tous les tests de Connaissances ou de Profession</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Harmonie sauvage]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Elfe]]</td>
+    <td>Régénération plus rapide dans l'environnement choisi</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Gardien des étendues sauvages]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Harmonie sauvage]], [[elfe]]</td>
+    <td>+2 à la CA dans l'environnement choisi</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Esprit des étendues sauvages]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Harmonie sauvage]], [[Gardien des étendues sauvages]], [[elfe]]</td>
+    <td>Devient plus perceptif dans l'environnement choisi</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Mage des étendues sauvages]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Harmonie sauvage]], [[elfe]]</td>
+    <td>Bonus aux tests pour incanter et analyser des propriétés magiques dans l'environnement choisi</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pas léger]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Déplacement acrobatique]], [[Aisance]], [[elfe]]</td>
+    <td>Se déplacer de sa Vitesse de déplacement normale sur un terrain difficile</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Précision elfique]]*</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Elfe]]</td>
+    <td>Relancer le pourcentage d’échec à l’arc dû au camouflage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard perspicace]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Elfe]] ou [[demi-elfe]], trait racial sens aiguisés</td>
+    <td>+2 aux jets de sauvegarde contre les illusions et aux tests de Linguistique pour détecter les contrefaçons</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Souvenir partagé]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>1 rang en [[Connaissances]] (n'importe), [[elfe]]</td>
+    <td>
+      Bonus de +2 cumulatif (maximum +10) aux tests de Connaissances pour identifier des morts pour chaque allié
+      avec ce don dans un rayon de 9 mètres
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Talent magique]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Cha]] 10; [[elfe]], [[demi-elfe]] ou [[gnome]]</td>
+    <td>Lancer un sort de niveau 0 trois par jour comme un pouvoir magique</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tir concentré]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Tir à bout portant]], [[elfe]], trait racial armes familières</td>
+    <td>
+      Utilise le meilleur jet d'attaque lorsque le personnage et un allié avec ce don préparent tous deux une
+      attaque à distance
+    </td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

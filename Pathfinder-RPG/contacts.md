@@ -85,7 +85,20 @@ Chaque fois qu’un contact échoue dans une tâche ou l’abandonne, il rajoute
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Confiance du PNJ (valeur)</td><td>DD de Diplomatie*</td></tr><tr Class="premier"><td>Méfiant (1)</td><td>20</td></tr><tr><td>Sceptique (2)</td><td>15</td></tr><tr><td>Fiable (3)</td><td>10</td></tr><tr><td>Digne de confiance (4)</td><td>15</td></tr><tr><td>Confident (5)</td><td>20</td></tr><tr CLASS="note"><td COLSPAN="3">*(*) Si le contact a un bonus aux tests de Diplomatie qu’il fait pour négocier avec le personnage après avoir échoué dans une tâche ou après l’avoir abandonnée, ajoutez ce bonus au DD.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Confiance du PNJ (valeur)</td><td>DD de Diplomatie*</td></tr>
+  <tr Class="premier"><td>Méfiant (1)</td><td>20</td></tr>
+  <tr><td>Sceptique (2)</td><td>15</td></tr>
+  <tr><td>Fiable (3)</td><td>10</td></tr>
+  <tr><td>Digne de confiance (4)</td><td>15</td></tr>
+  <tr><td>Confident (5)</td><td>20</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(*) Si le contact a un bonus aux tests de Diplomatie qu’il fait pour négocier avec le personnage après avoir
+      échoué dans une tâche ou après l’avoir abandonnée, ajoutez ce bonus au DD.*
+    </td>
+  </tr>
+</table>
 
 </div></div>Le MJ peut autoriser les joueurs à commencer la campagne avec un contact (qui, en général, a une valeur de confiance de 2 ou 3) mais, outre cela, les personnages ne gagnent de contacts qu’en jouant, au fil de la campagne. Pour gagner un nouveau contact, le personnage doit d’abord gagner la confiance du PNJ grâce à des interactions positives répétées ou à une seule rencontre approfondie.
 

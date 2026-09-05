@@ -78,7 +78,282 @@ N’oubliez pas de réajuster le prix à chaque niveau où un sort se débloque 
 **Finalisation de l’objet.** Répétez ce processus pour chaque ensemble de nouveaux pouvoirs. Essayez d’ajouter un nouveau pouvoir à débloquer tous les 2 à 4 niveaux. Cela dit, il n’est pas nécessaire d’échelonner tous les objets jusqu’au niveau 20 : arrêtez-vous quand l’ensemble des pouvoirs vous paraît satisfaisant.
 
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|PRIXDESSORTS}Prix des sorts (une utilisation par jour)</caption><tr CLASS="titre"><td ROWSPAN="2">NLS</td><td COLSPAN="10" CLASS="avecsoustitre">Niveau du sort</td></tr><tr CLASS="soustitre"><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr CLASS="premier"><td>1</td><td>180 po</td><td>360 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>360 po</td><td>720 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>540 po</td><td>1 080 po</td><td>2 160 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>720 po</td><td>1 440 po</td><td>2 880 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>900 po</td><td>1 800 po</td><td>3 600 po</td><td>5 400 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>1 080 po</td><td>2 160 po</td><td>4 320 po</td><td>6 480 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>1 260 po</td><td>2 520 po</td><td>5 040 po</td><td>7 560 po</td><td>10 080 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>1 440 po</td><td>2 880 po</td><td>5 760 po</td><td>8 640 po</td><td>11 520 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>1 620 po</td><td>3 240 po</td><td>6 480 po</td><td>9 720 po</td><td>12 960 po</td><td>16 200 po</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>1 800 po</td><td>3 600 po</td><td>7 200 po</td><td>10 80 0po</td><td>14 400 po</td><td>18 000 po</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>1 980 po</td><td>3 960 po</td><td>7 920 po</td><td>11 880 po</td><td>15 840 po</td><td>19 800 po</td><td>23 760 po</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>2 160 po</td><td>4 320 po</td><td>8 640 po</td><td>12 960 po</td><td>17 280 po</td><td>21 600 po</td><td>25 920 po</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>2 340 po</td><td>4 680 po</td><td>9 360 po</td><td>14 040 po</td><td>18 720 po</td><td>23 400 po</td><td>28 080 po</td><td>32 760 po</td><td>—</td><td>—</td></tr><tr><td>14</td><td>2 520 po</td><td>5 040 po</td><td>10 080 po</td><td>15 120 po</td><td>20 160 po</td><td>25 200 po</td><td>30 240 po</td><td>35 280 po</td><td>—</td><td>—</td></tr><tr><td>15</td><td>2 700 po</td><td>5 400 po</td><td>10 800 po</td><td>16 200 po</td><td>21 600 po</td><td>27 000 po</td><td>32 400 po</td><td>37 800 po</td><td>43 200 po</td><td>—</td></tr><tr><td>16</td><td>2 880 po</td><td>5 760 po</td><td>11 520 po</td><td>17 280 po</td><td>23 040 po</td><td>28 800 po</td><td>34 560 po</td><td>40 320po</td><td>46 080 po</td><td>—</td></tr><tr><td>17</td><td>3 060 po</td><td>6 120 po</td><td>12 240 po</td><td>18 360 po</td><td>24 480 po</td><td>30 600 po</td><td>36 720 po</td><td>42 840 po</td><td>48 960 po</td><td>55 080 po</td></tr><tr><td>18</td><td>3 240 po</td><td>6 480 po</td><td>12 960 po</td><td>19 440 po</td><td>25 920 po</td><td>32 400 po</td><td>38 880 po</td><td>45 360 po</td><td>51 840 po</td><td>58 320 po</td></tr><tr><td>19</td><td>3 420 po</td><td>6 840 po</td><td>13 680 po</td><td>20 520 po</td><td>27 360 po</td><td>34 200 po</td><td>41 040 po</td><td>47 880 po</td><td>54 720 po</td><td>61 560 po</td></tr><tr><td>20</td><td>3 600 po</td><td>7 200 po</td><td>14 400 po</td><td>21 600 po</td><td>28 800 po</td><td>36 000 po</td><td>43 200 po</td><td>50 400 po</td><td>57 600 po</td><td>64 800 po</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|PRIXDESSORTS}Prix des sorts (une utilisation par jour)</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">NLS</td><td COLSPAN="10" CLASS="avecsoustitre">Niveau du sort</td></tr>
+  <tr CLASS="soustitre">
+    <td>0</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>180 po</td>
+    <td>360 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>360 po</td>
+    <td>720 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>540 po</td>
+    <td>1 080 po</td>
+    <td>2 160 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>720 po</td>
+    <td>1 440 po</td>
+    <td>2 880 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>900 po</td>
+    <td>1 800 po</td>
+    <td>3 600 po</td>
+    <td>5 400 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>1 080 po</td>
+    <td>2 160 po</td>
+    <td>4 320 po</td>
+    <td>6 480 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>1 260 po</td>
+    <td>2 520 po</td>
+    <td>5 040 po</td>
+    <td>7 560 po</td>
+    <td>10 080 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>1 440 po</td>
+    <td>2 880 po</td>
+    <td>5 760 po</td>
+    <td>8 640 po</td>
+    <td>11 520 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>1 620 po</td>
+    <td>3 240 po</td>
+    <td>6 480 po</td>
+    <td>9 720 po</td>
+    <td>12 960 po</td>
+    <td>16 200 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>1 800 po</td>
+    <td>3 600 po</td>
+    <td>7 200 po</td>
+    <td>10 80 0po</td>
+    <td>14 400 po</td>
+    <td>18 000 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>1 980 po</td>
+    <td>3 960 po</td>
+    <td>7 920 po</td>
+    <td>11 880 po</td>
+    <td>15 840 po</td>
+    <td>19 800 po</td>
+    <td>23 760 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>2 160 po</td>
+    <td>4 320 po</td>
+    <td>8 640 po</td>
+    <td>12 960 po</td>
+    <td>17 280 po</td>
+    <td>21 600 po</td>
+    <td>25 920 po</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>2 340 po</td>
+    <td>4 680 po</td>
+    <td>9 360 po</td>
+    <td>14 040 po</td>
+    <td>18 720 po</td>
+    <td>23 400 po</td>
+    <td>28 080 po</td>
+    <td>32 760 po</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>2 520 po</td>
+    <td>5 040 po</td>
+    <td>10 080 po</td>
+    <td>15 120 po</td>
+    <td>20 160 po</td>
+    <td>25 200 po</td>
+    <td>30 240 po</td>
+    <td>35 280 po</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>2 700 po</td>
+    <td>5 400 po</td>
+    <td>10 800 po</td>
+    <td>16 200 po</td>
+    <td>21 600 po</td>
+    <td>27 000 po</td>
+    <td>32 400 po</td>
+    <td>37 800 po</td>
+    <td>43 200 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>2 880 po</td>
+    <td>5 760 po</td>
+    <td>11 520 po</td>
+    <td>17 280 po</td>
+    <td>23 040 po</td>
+    <td>28 800 po</td>
+    <td>34 560 po</td>
+    <td>40 320po</td>
+    <td>46 080 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>3 060 po</td>
+    <td>6 120 po</td>
+    <td>12 240 po</td>
+    <td>18 360 po</td>
+    <td>24 480 po</td>
+    <td>30 600 po</td>
+    <td>36 720 po</td>
+    <td>42 840 po</td>
+    <td>48 960 po</td>
+    <td>55 080 po</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>3 240 po</td>
+    <td>6 480 po</td>
+    <td>12 960 po</td>
+    <td>19 440 po</td>
+    <td>25 920 po</td>
+    <td>32 400 po</td>
+    <td>38 880 po</td>
+    <td>45 360 po</td>
+    <td>51 840 po</td>
+    <td>58 320 po</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>3 420 po</td>
+    <td>6 840 po</td>
+    <td>13 680 po</td>
+    <td>20 520 po</td>
+    <td>27 360 po</td>
+    <td>34 200 po</td>
+    <td>41 040 po</td>
+    <td>47 880 po</td>
+    <td>54 720 po</td>
+    <td>61 560 po</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>3 600 po</td>
+    <td>7 200 po</td>
+    <td>14 400 po</td>
+    <td>21 600 po</td>
+    <td>28 800 po</td>
+    <td>36 000 po</td>
+    <td>43 200 po</td>
+    <td>50 400 po</td>
+    <td>57 600 po</td>
+    <td>64 800 po</td>
+  </tr>
+</table>
 
 
 ### Les objets évolutifs indépendants

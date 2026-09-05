@@ -13,7 +13,121 @@ Les agents du consortium recherchent des connaissances anciennes pour retrouver 
 
 <center>
 
-<table CLASS="tablo"><caption>L'agent du consortium</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Agent du Consortium de lAspis#RECHERCHEDESPIEGES|Recherche des pièges]], [[Agent du Consortium de lAspis#SENSDESPIEGES|sens des pièges]] +1</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[assassin#MASQUERLALIGNEMENT|Masquer l'alignement]], [[Agent du Consortium de lAspis#SECRETSDAGENCE|secrets d'agence]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent du Consortium de lAspis#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Agent du Consortium de lAspis#PIEGEDEMBUSCADE|piège d'embuscade]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent du Consortium de lAspis#SECRETSDAGENCE|Secrets d'agence]], [[Agent du Consortium de lAspis#SENSDESPIEGES|sens des pièges]] +2</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Agent du Consortium de lAspis#PROVOCATIONCRUCIALE|Provocation cruciale]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Agent du Consortium de lAspis#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Agent du Consortium de lAspis#SECRETSDAGENCE|secrets d'agence]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Agent du Consortium de lAspis#SENSDESPIEGES|Sens des pièges]] +3, [[Agent du Consortium de lAspis#SENSDESPIEGESSUPERIEUR|sens des pièges supérieur]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent du Consortium de lAspis#ACTIVATIONADISTANCE|Activation à distance]], [[Agent du Consortium de lAspis#SECRETSDAGENCE|secrets d'agence]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent du Consortium de lAspis#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent du Consortium de lAspis#SECRETSDAGENCE|Secrets d'agence]], [[Agent du Consortium de lAspis#SENSDESPIEGES|sens des pièges]] +4</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'agent du consortium</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#RECHERCHEDESPIEGES|Recherche des pièges]], [[Agent du Consortium de
+      lAspis#SENSDESPIEGES|sens des pièges]] +1
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[assassin#MASQUERLALIGNEMENT|Masquer l'alignement]], [[Agent du Consortium de lAspis#SECRETSDAGENCE|secrets
+      d'agence]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Agent du Consortium de
+      lAspis#PIEGEDEMBUSCADE|piège d'embuscade]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#SECRETSDAGENCE|Secrets d'agence]], [[Agent du Consortium de
+      lAspis#SENSDESPIEGES|sens des pièges]] +2
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Agent du Consortium de lAspis#PROVOCATIONCRUCIALE|Provocation cruciale]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Agent du Consortium de
+      lAspis#SECRETSDAGENCE|secrets d'agence]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#SENSDESPIEGES|Sens des pièges]] +3, [[Agent du Consortium de
+      lAspis#SENSDESPIEGESSUPERIEUR|sens des pièges supérieur]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#ACTIVATIONADISTANCE|Activation à distance]], [[Agent du Consortium de
+      lAspis#SECRETSDAGENCE|secrets d'agence]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Agent du Consortium de lAspis#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Agent du Consortium de lAspis#SECRETSDAGENCE|Secrets d'agence]], [[Agent du Consortium de
+      lAspis#SENSDESPIEGES|sens des pièges]] +4
+    </td>
+  </tr>
+</table>
 
 </center>
 

@@ -20,10 +20,21 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Qualité de la  
-représentation</td><td>DD du test de  
-Représentation</td><td>Argent gagné</td></tr><tr CLASS="premier"><td>Quelconque (semblable  
-à la mendicité)</td><td>10</td><td>1d10 pc/jour</td></tr><tr><td>Agréable</td><td>15</td><td>1d10 pa/jour</td></tr><tr><td>Excellente</td><td>20</td><td>3d10 pa/jour</td></tr><tr><td>Mémorable</td><td>25</td><td>1d6 po/jour</td></tr><tr><td>Extraordinaire</td><td>30</td><td>3d6 po/jour</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre">
+    <td>Qualité de la  
+représentation</td>
+    <td>DD du test de  
+Représentation</td>
+    <td>Argent gagné</td>
+  </tr>
+  <tr CLASS="premier"><td>Quelconque (semblable  
+à la mendicité)</td><td>10</td><td>1d10 pc/jour</td></tr>
+  <tr><td>Agréable</td><td>15</td><td>1d10 pa/jour</td></tr>
+  <tr><td>Excellente</td><td>20</td><td>3d10 pa/jour</td></tr>
+  <tr><td>Mémorable</td><td>25</td><td>1d6 po/jour</td></tr>
+  <tr><td>Extraordinaire</td><td>30</td><td>3d6 po/jour</td></tr>
+</table>
 
 </center></div></div>Le personnage peut impressionner un public par le biais d’une déclamation, d’un chant, d’une pièce de théâtre ou d’une autre œuvre artistique. S’il réalise sa prestation dans une cité florissante, il gagne de l’argent pour chaque journée de représentation. Le montant gagné dépend du résultat du test de Représentation.
 

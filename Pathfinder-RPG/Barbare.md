@@ -18,7 +18,189 @@ Categories:
 <tr style="vertical-align: bottom">
 <td width="70%">
 
-<table CLASS="tablo centre autoalt"><caption>Le barbare</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+0</td><td CLASS="gauche">[[barbare#DEPLACEMENTACCELERE|Déplacement accéléré]], [[barbare#RAGEDEBERSERKER|rage de berserker]]</td></tr><tr><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+0</td><td CLASS="gauche">[[barbare#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[barbare#POUVOIRDERAGE|pouvoir de rage]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+1</td><td CLASS="gauche">[[barbare#SENSDESPIEGES|Sens des pièges]] +1</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+1</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]]</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+1</td><td CLASS="gauche">[[barbare#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]]</td></tr><tr><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+2</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#SENSDESPIEGES|sens des pièges]] +2</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+2</td><td CLASS="gauche">[[barbare#REDUCTIONDEGATS|Réduction de dégâts]] 1/-</td></tr><tr><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+2</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]]</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+3</td><td CLASS="gauche">[[barbare#SENSDESPIEGES|Sens des pièges]] +3</td></tr><tr><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+3</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#REDUCTIONDEGATS|réduction de dégâts]] 2/-</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+3</td><td CLASS="gauche">[[barbare#RAGEDEGRANDBERSERKER|Rage de grand berserker]]</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+4</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#SENSDESPIEGES|Sens des pièges]] +4</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+4</td><td CLASS="gauche">[[barbare#REDUCTIONDEGATS|Réduction de dégâts]] 3/-</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+4</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#VOLONTEINDOMPTABLE|volonté indomptable]]</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+5</td><td CLASS="gauche">[[barbare#SENSDESPIEGES|Sens des pièges]] +5</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+5</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#REDUCTIONDEGATS|réduction de dégâts]] 4/-</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+5</td><td CLASS="gauche">[[barbare#RAGESANSFATIGUE|Rage sans fatigue]]</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+6</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#SENSDESPIEGES|sens des pièges]] +6</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+6</td><td CLASS="gauche">[[barbare#REDUCTIONDEGATS|Réduction de dégâts]] 5/-</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+6</td><td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#RAGEDEMAITREBERSERKER|rage de maître berserker]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le barbare</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[barbare#DEPLACEMENTACCELERE|Déplacement accéléré]], [[barbare#RAGEDEBERSERKER|rage de berserker]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[barbare#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[barbare#POUVOIRDERAGE|pouvoir de rage]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[barbare#SENSDESPIEGES|Sens des pièges]] +1</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[barbare#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#SENSDESPIEGES|sens des pièges]] +2</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[barbare#REDUCTIONDEGATS|Réduction de dégâts]] 1/-</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[barbare#SENSDESPIEGES|Sens des pièges]] +3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#REDUCTIONDEGATS|réduction de dégâts]] 2/-
+    </td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[barbare#RAGEDEGRANDBERSERKER|Rage de grand berserker]]</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#SENSDESPIEGES|Sens des pièges]] +4</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[barbare#REDUCTIONDEGATS|Réduction de dégâts]] 3/-</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#VOLONTEINDOMPTABLE|volonté indomptable]]
+    </td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[barbare#SENSDESPIEGES|Sens des pièges]] +5</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#REDUCTIONDEGATS|réduction de dégâts]] 4/-
+    </td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[barbare#RAGESANSFATIGUE|Rage sans fatigue]]</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#SENSDESPIEGES|sens des pièges]] +6</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[barbare#REDUCTIONDEGATS|Réduction de dégâts]] 5/-</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[barbare#POUVOIRDERAGE|Pouvoir de rage]], [[barbare#RAGEDEMAITREBERSERKER|rage de maître berserker]]
+    </td>
+  </tr>
+</table>
 
 </td>
 <td width="30%">

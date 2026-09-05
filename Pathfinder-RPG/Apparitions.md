@@ -50,7 +50,35 @@ Les apparitions se présentent selon le profil suivant :
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Modificateurs de FP des apparitions</caption><tr CLASS="titre"><td>Type</td><td>Modificateur au FP</td></tr><tr CLASS="premier"><td>Persistante</td><td>+2</td></tr><tr CLASS="titre"><td>DD de répérage</td></tr><tr CLASS="premier"><td>15 ou moins</td><td>‑1</td></tr><tr CLASS="alt"><td>16-20</td><td>—</td></tr><tr><td>21-25</td><td>+1</td></tr><tr CLASS="alt"><td>26-29</td><td>+2</td></tr><tr><td>30 ou plus</td><td>+3</td></tr><tr CLASS="titre"><td>Délai de réinitialisation</td></tr><tr CLASS="premier"><td>1 minute</td><td>+2</td></tr><tr CLASS="alt"><td>1 heure</td><td>+1</td></tr><tr><td>1 jour</td><td>+0</td></tr><tr CLASS="alt"><td>1 semaine</td><td>‑1</td></tr><tr CLASS="titre"><td>Exemple de faiblesses</td></tr><tr CLASS="premier"><td>Lent (se manifeste avec une initiative de 0)</td><td>‑2</td></tr><tr CLASS="alt"><td>Sensible à un type de dégâts supplémentaire</td><td>‑1 par type</td></tr><tr><td>Leurré par *[[invisibilité pour les morts-vivants]]*</td><td>‑2</td></tr><tr CLASS="alt"><td>Leurré par *[[invisibilité]]*</td><td>‑1</td></tr><tr><td>Leurré par la [[Discrétion]]*</td><td>‑3</td></tr><tr CLASS="alt"><td>Se déclenche par contact</td><td>‑2</td></tr><tr><td CLASS="note" COLSPAN="2">* L’apparition fait un test de niveau de lanceur de sorts au lieu d’un{br} test de [[Perception]] quand elle tente de repérer quelqu’un qui use{br} de [[Discrétion]].</td></tr></table>
+<table CLASS="tablo">
+  <caption>Modificateurs de FP des apparitions</caption>
+  <tr CLASS="titre"><td>Type</td><td>Modificateur au FP</td></tr>
+  <tr CLASS="premier"><td>Persistante</td><td>+2</td></tr>
+  <tr CLASS="titre"><td>DD de répérage</td></tr>
+  <tr CLASS="premier"><td>15 ou moins</td><td>‑1</td></tr>
+  <tr CLASS="alt"><td>16-20</td><td>—</td></tr>
+  <tr><td>21-25</td><td>+1</td></tr>
+  <tr CLASS="alt"><td>26-29</td><td>+2</td></tr>
+  <tr><td>30 ou plus</td><td>+3</td></tr>
+  <tr CLASS="titre"><td>Délai de réinitialisation</td></tr>
+  <tr CLASS="premier"><td>1 minute</td><td>+2</td></tr>
+  <tr CLASS="alt"><td>1 heure</td><td>+1</td></tr>
+  <tr><td>1 jour</td><td>+0</td></tr>
+  <tr CLASS="alt"><td>1 semaine</td><td>‑1</td></tr>
+  <tr CLASS="titre"><td>Exemple de faiblesses</td></tr>
+  <tr CLASS="premier"><td>Lent (se manifeste avec une initiative de 0)</td><td>‑2</td></tr>
+  <tr CLASS="alt"><td>Sensible à un type de dégâts supplémentaire</td><td>‑1 par type</td></tr>
+  <tr><td>Leurré par *[[invisibilité pour les morts-vivants]]*</td><td>‑2</td></tr>
+  <tr CLASS="alt"><td>Leurré par *[[invisibilité]]*</td><td>‑1</td></tr>
+  <tr><td>Leurré par la [[Discrétion]]*</td><td>‑3</td></tr>
+  <tr CLASS="alt"><td>Se déclenche par contact</td><td>‑2</td></tr>
+  <tr>
+    <td CLASS="note" COLSPAN="2">
+      * L’apparition fait un test de niveau de lanceur de sorts au lieu d’un{br} test de [[Perception]] quand elle
+      tente de repérer quelqu’un qui use{br} de [[Discrétion]].
+    </td>
+  </tr>
+</table>
 
 </center></div></div>
 

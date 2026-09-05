@@ -10,7 +10,354 @@ LastModified: 2020-08-20 19:35
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des dons</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="25%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Adepte de la discipline]] <sup>AO</sup></td><td>Pouvoir de classe [[psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]]</td><td>+1 aux tests de [[NLS|niveau de lanceur de sorts]], de [[Lancer des sorts#CONCENTRATION|concentration]] et aux [[jet de sauvegarde|jets de sauvegarde]] pour les sorts de discipline</td></tr><tr CLASS="premier"><td>[[Âme commune]] <sup>AO</sup></td><td>Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]]</td><td>Le fantôme offre une protection contre les [[Créer un sort#MORT|effets de mort]], l’[[énergie négative]] et la [[possession spirituelle|possession]]</td></tr><tr CLASS="premier"><td>[[Amplification supplémentaire]] <sup>AO</sup></td><td>Pouvoir de classe [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]]</td><td>Une [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] supplémentaire</td></tr><tr CLASS="premier"><td>[[Appel spirituel]] <sup>AO</sup></td><td>Pouvoir de classe [[spirite#FANTOME|fantôme]]</td><td>Le fantôme gagne un bonus lors de son invocation</td></tr><tr CLASS="premier"><td>[[Briser le masque mental]]† <sup>AO</sup></td><td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou à utiliser des pouvoirs magiques psychiques, personnage niveau 2</td><td>Les manifestations offensives avec un jet de Volonté révèlent la véritable forme de l’adversaire</td></tr><tr CLASS="premier"><td>[[Changement de focalisation efficace]] <sup>AO</sup></td><td>[[Occultiste]] niveau 7</td><td>Changement de point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] sans aucune perte 2/jour</td></tr><tr CLASS="premier"><td>[[Changement rapide de focalisation]] <sup>AO</sup></td><td>[[NLS]] 5, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]</td><td>Changement de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] plus rapide 1/jour</td></tr><tr CLASS="premier"><td>[[Combattant psychique]]† <sup>AO</sup></td><td>[[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3</td><td>Gain de points de manifestation gratuits lors des [[duels psychiques]]</td></tr><tr CLASS="premier"><td>[[Conduit émotionnel]] <sup>AO</sup></td><td>Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]]</td><td>Gain de nouveaux sorts en fonction de l’[[Fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante du fantôme]]</td></tr><tr CLASS="premier"><td>[[Crâne allongé]] <sup>AO</sup></td><td>—</td><td>Bonus et malus en fonction de la forme de crâne choisie</td></tr><tr CLASS="premier"><td>[[Défense fantomatique]] <sup>AO</sup></td><td>Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes (spirite)#VOLINTANGIBLE|vol sous forme intangible]]</td><td>Le fantôme a des chances d’ignorer les coups critiques et les dégâts de précision</td></tr><tr CLASS="premier"><td>[[Défenseur psychique]] <sup>AO</sup></td><td>[[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des pouvoirs magiques psychiques, personnage niveau 3</td><td>Gain de points de vie temporaires au début d’un [[duels psychiques|duel psychique]]</td></tr><tr CLASS="premier"><td>[[Douleur composée]]† <sup>AO</sup></td><td>[[Hypnotiseur]] de niveau 13, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td><td>Applique les effets de deux dons de regard au [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td></tr><tr CLASS="premier"><td>[[Empathe]] <sup>AO</sup></td><td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 1 rang en [[Perception]] ou en [[Psychologie]]</td><td>Lecture rapide et fréquente des émotions mais rend l’esprit vulnérable</td></tr><tr CLASS="premier"><td>[[Équilibre spirituel]] <sup>AO</sup></td><td>Pouvoirs de classe [[moine#RESERVEDEKI|réserve de ki]] et [[moine#SERENITE|sérénité]]</td><td>[[moine#SERENITE|Sérénité]] s’applique contre la [[possession spirituelle|possession]], dépense de ki pour doubler le bonus</td></tr><tr CLASS="premier"><td>[[Esprit concentré]] <sup>AO</sup></td><td>Pouvoir de classe [[médium#BONUSSPIRITUEL|bonus spirituel]]</td><td>Augmente le [[médium#BONUSSPIRITUEL|bonus spirituel]] d’une légende de 1</td></tr><tr CLASS="premier"><td>[[Explosion dadieu|Explosion d'adieu]] <sup>AO</sup></td><td>Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td><td>Le corps explose à la mort</td></tr><tr CLASS="premier"><td>[[Explosion retardée]] <sup>AO</sup></td><td>BBA +3, pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td><td>Retarde l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td></tr><tr CLASS="premier"><td>[[Fantôme concentré]] <sup>AO</sup></td><td>Pouvoir de classe [[spirite#INTERFERENCESPIRITUELLE|interférence spirituelle]]</td><td>+4 aux tests de [[Lancer des sorts#CONCENTRATION|concentration]] quand le fantôme est adjacent au personnage ou dans sa conscience</td></tr><tr CLASS="premier"><td>[[Fantôme vigilant]] <sup>AO</sup></td><td>Pouvoir de classe de [[spirite#FANTOME|fantôme]]</td><td>+4 aux tests de [[Perception]] quand le fantôme est actif à portée</td></tr><tr CLASS="premier"><td>[[Feinte hypnotique]]† <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#REGARDHYPNOTQUE|regard hypnotique]]</td><td>Réduction du malus des feintes contre d’autres types de créatures</td></tr><tr><td>&emsp;[[Feinte hypnotique supérieure]]† <sup>AO</sup></td><td>Feinte hypnotique, 10 rangs en Bluff, frémissement psychique [[hypnotiseur#REGARDIMPUDENT|regard impudent]]</td><td>[[Feinte]] possible contre les créatures dépourvues d’[[intelligence]]</td></tr><tr CLASS="premier"><td>[[Focalisation instrumentale]] <sup>AO</sup></td><td>[[Occultiste]] niveau 3</td><td>Utilisation efficace de focalisation générique avec un instrument</td></tr><tr CLASS="premier"><td>[[Focalisation mentale supplémentaire]] <sup>AO</sup></td><td>Pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]</td><td>2 points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] de plus</td></tr><tr CLASS="premier"><td>[[Fort lien avec un instrument]] <sup>AO</sup></td><td>Pouvoir de classe [[occultiste#INSTRUMENTS|instrument]]</td><td>Facilité à lancer des sorts loin d’un instrument</td></tr><tr CLASS="premier"><td>[[Guérison psychique]] <sup>AO</sup></td><td>[[Charisme|Cha]] 11, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 3 rangs en Premiers Secours</td><td>Utilisation de [[Premiers secours|guérison miraculeuse]] pour soigner des blessures mortelles et donner des points de vie temporaires</td></tr><tr CLASS="premier"><td>[[Guerrier fantôme]] <sup>AO</sup></td><td>Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes (spirite)#ATTAQUESMAGIQUES|attaques magiques]]</td><td>Les armes naturelles du fantôme et les sorts qu’il livre infligent la totalité de leurs effets aux créatures intangibles</td></tr><tr CLASS="premier"><td>[[Induction dhypnotiseur supplémentaire|Induction d'hypnotiseur supplémentaire]] <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]</td><td>Implantation de 2 [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] de plus par jour</td></tr><tr CLASS="premier"><td>[[Initié du chakra]] <sup>AO</sup></td><td>Capacité à éveiller le [[Chakras#RACINE|chakra racine]]</td><td>Gain de 3 points de ki de feu-serpent pour les chakras</td></tr><tr><td>&emsp;[[Adepte du chakra]] <sup>AO</sup></td><td>[[Initié du chakra]], capacité à éveiller le [[chakras#DUCOEUR|chakra du coeur]]</td><td>Gain de 3 points de ki de feu-serpent pour les chakras, possibilité de faire un jet de sauvegarde pour maintenir les chakras, bénéfices persistants</td></tr><tr><td>&emsp;&emsp;[[Maître du chakra]] <sup>AO</sup></td><td>[[Adepte du chakra]], capacité à éveiller le [[chakras#COURONNE|chakra couronne]]</td><td>Gain de 5 points de ki de feu-serpent pour les chakras, possibilité de dépenser du chakra pour obtenir deux avantages de chakra</td></tr><tr CLASS="premier"><td>[[Maestro psychique]] <sup>AO</sup></td><td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td><td>Utilisation plus fréquente des extensions de compétence occultes</td></tr><tr CLASS="premier"><td>[[Modification de paysage mental binaire]] <sup>AO</sup></td><td>[[Intelligence|Int]] 13, capacité à lancer un duel psychique</td><td>L’adversaire doit dépenser 1 point de manifestation de plus pour se défendre</td></tr><tr CLASS="premier"><td>[[Palpation curative supplémentaire]] <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#PALPATIONCURATIVE|palpation curative]]</td><td>Utilisation de [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] 2 fois de plus par jour</td></tr><tr CLASS="premier"><td>[[Parade cinétique]] <sup>AO</sup></td><td>[[talents sauvages#EXPLOSIONDEFROID|Explosion simple de froid]], [[talents sauvages#EXPLOSIONDEFEU|de feu]] ou [[talents sauvages#EXPLOSIONDEAU|d’eau]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td><td>Utilisation d’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] pour contrer un élément opposé</td></tr><tr CLASS="premier"><td>[[Perception des esprits]] <sup>AO</sup></td><td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td><td>+5 aux tests pour remarquer les apparitions, 75 % de chances d’affecter une créature intangible</td></tr><tr CLASS="premier"><td>[[Pouvoir de focalisation supplémentaire]] <sup>AO</sup></td><td>Pouvoir de classe [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]]</td><td>Un [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]] supplémentaire</td></tr><tr CLASS="premier"><td>[[Pouvoir de résonance accru]] <sup>AO</sup></td><td>[[NLS]] 7, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]</td><td>Partage des pouvoirs de résonance avec un allié</td></tr><tr CLASS="premier"><td>[[Présence cachée]] <sup>AO</sup></td><td>[[Intelligence|Int]] ou [[Charisme|Cha]] 17, capacité à lancer *[[possession spirituelle (sort)|possession spirituelle]]* ou *[[possession spirituelle suprême]]*</td><td>Les sorts d’[[abjuration]] et de [[divination]] traitent le personnage comme la créature possédée</td></tr><tr><td>&emsp;[[Présence manipulatrice]] <sup>AO</sup></td><td>[[Intelligence|Int]] ou [[Charisme|Cha]] 19, Présence cachée</td><td>Modifie les souvenirs de la créature possédée</td></tr><tr><td>&emsp;&emsp;[[Présence intrusive]] <sup>AO</sup></td><td>[[Intelligence|Int]] ou [[Charisme|Cha]] 21, Présence cachée, Présence manipulatrice</td><td>Lit dans l’esprit de la créature possédée</td></tr><tr CLASS="premier"><td>[[Prêt à se battre]] <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]</td><td>+2 aux jets d’[[déroulement dun combat#INITIATIVE|initiative]] pour les alliés dotés d’inductions implantées</td></tr><tr CLASS="premier"><td>[[Prêt à souffrir]] <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]</td><td>[[RD]]/— contre les dégâts non létaux pour les alliés dotés d’inductions implantées</td></tr><tr CLASS="premier"><td>[[Regard étendu]] <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]]</td><td>Augmente la portée du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] de 3 m</td></tr><tr CLASS="premier"><td>[[Regard hypnotique intimidant]]† <sup>AO</sup></td><td>Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]]</td><td>Démoralisation des cibles du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] par une [[types dactions#RAPIDE|action rapide]]</td></tr><tr CLASS="premier"><td>[[Réserve phrénique accrue]] <sup>AO</sup></td><td>Pouvoir de classe [[psychiste#RESERVEPHRENIQUE|réserve phrénique]]</td><td>2 points de [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] de plus</td></tr><tr CLASS="premier"><td>[[Rêveur lucide]] <sup>AO</sup></td><td>[[Charisme|Cha]] 13, 3 rangs en [[Connaissances]] (plans)</td><td>Amélioration du contrôle lors d’un rêve</td></tr><tr CLASS="premier"><td>[[Saut cinétique]] <sup>AO</sup></td><td>3 rangs en [[Acrobaties]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td><td>Utilisation de l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion]] pour gagner +10 aux tests d’[[Acrobaties]] pour sauter (+20 à 10 rangs)</td></tr><tr CLASS="premier"><td>[[Sensibilité psychique]] <sup>AO</sup></td><td>—</td><td>Utilisation de l’extension de compétence occulte où le personnage a investi des rangs</td></tr><tr><td>&emsp;[[Adepte psychique]] <sup>AO</sup></td><td>[[Intelligence|Int]] 11, [[Sensibilité psychique]]</td><td>Lance une astuce psychique 3/jour comme un pouvoir magique</td></tr><tr><td>&emsp;&emsp;[[Disciple psychique]] <sup>AO</sup></td><td>[[Intelligence|Int]] 13, [[Adepte psychique]], [[Sensibilité psychique]]</td><td>Lance un sort psychique de niveau 1, 2/jour comme un pouvoir magique</td></tr><tr CLASS="premier"><td>[[Talent sauvage supplémentaire]] <sup>AO</sup></td><td>[[Cinétiste]] niveau 6</td><td>Obtention d’un [[talents sauvages|talent sauvage]] d’au moins 2 niveaux de moins que le plus puissant connu</td></tr><tr CLASS="premier"><td>[[Transfert longue distance]] <sup>AO</sup></td><td>Pouvoirs de classe [[Fantômes (spirite)#TOUCHSPELLS|livrer un sort de contact]] et [[spirite#FANTOME|fantôme]]</td><td>Le fantôme peut livrer les sorts de contact dans un rayon de 6 m de plus</td></tr><tr CLASS="premier"><td>[[Troisième oeil]] <sup>AO</sup></td><td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td><td>Le troisième oeil permet de lire les auras et de discerner la vérité</td></tr><tr CLASS="premier"><td>[[Virtuose psychique]] <sup>AO</sup></td><td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td><td>+2 aux tests d’extension de compétence occulte (+4 dès 10 rangs)</td></tr><tr CLASS="premier"><td>[[Xénoglossie]] <sup>AO</sup></td><td>[[Intelligence|Int]] 13, 3 rangs en [[Linguistique]]</td><td>Utilisation de la linguistique pour communiquer avec des créatures sans partager de langage commun</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des dons</caption>
+  <tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="25%">Conditions</td><td WIDTH="45%">Avantages</td></tr>
+  <tr CLASS="premier">
+    <td>[[Adepte de la discipline]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]]</td>
+    <td>
+      +1 aux tests de [[NLS|niveau de lanceur de sorts]], de [[Lancer des sorts#CONCENTRATION|concentration]] et aux
+      [[jet de sauvegarde|jets de sauvegarde]] pour les sorts de discipline
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Âme commune]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]]</td>
+    <td>
+      Le fantôme offre une protection contre les [[Créer un sort#MORT|effets de mort]], l’[[énergie négative]] et la
+      [[possession spirituelle|possession]]
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amplification supplémentaire]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]]</td>
+    <td>Une [[psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]] supplémentaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Appel spirituel]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[spirite#FANTOME|fantôme]]</td>
+    <td>Le fantôme gagne un bonus lors de son invocation</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Briser le masque mental]]† <sup>AO</sup></td>
+    <td>
+      [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou à utiliser des pouvoirs magiques
+      psychiques, personnage niveau 2
+    </td>
+    <td>Les manifestations offensives avec un jet de Volonté révèlent la véritable forme de l’adversaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Changement de focalisation efficace]] <sup>AO</sup></td>
+    <td>[[Occultiste]] niveau 7</td>
+    <td>Changement de point de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] sans aucune perte 2/jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Changement rapide de focalisation]] <sup>AO</sup></td>
+    <td>[[NLS]] 5, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]</td>
+    <td>Changement de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] plus rapide 1/jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combattant psychique]]† <sup>AO</sup></td>
+    <td>
+      [[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des
+      pouvoirs magiques psychiques, personnage niveau 3
+    </td>
+    <td>Gain de points de manifestation gratuits lors des [[duels psychiques]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Conduit émotionnel]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[spirite#PARTAGEDECONSCIENCE|partage de conscience]]</td>
+    <td>
+      Gain de nouveaux sorts en fonction de l’[[Fantômes (spirite)#EMOTIONDOMINANTE|émotion dominante du fantôme]]
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Crâne allongé]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Bonus et malus en fonction de la forme de crâne choisie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Défense fantomatique]] <sup>AO</sup></td>
+    <td>
+      Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes
+      (spirite)#VOLINTANGIBLE|vol sous forme intangible]]
+    </td>
+    <td>Le fantôme a des chances d’ignorer les coups critiques et les dégâts de précision</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Défenseur psychique]] <sup>AO</sup></td>
+    <td>
+      [[Intelligence|Int]] 13, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques ou utiliser des
+      pouvoirs magiques psychiques, personnage niveau 3
+    </td>
+    <td>Gain de points de vie temporaires au début d’un [[duels psychiques|duel psychique]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Douleur composée]]† <sup>AO</sup></td>
+    <td>[[Hypnotiseur]] de niveau 13, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+    <td>Applique les effets de deux dons de regard au [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Empathe]] <sup>AO</sup></td>
+    <td>
+      [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 1 rang en [[Perception]] ou en
+      [[Psychologie]]
+    </td>
+    <td>Lecture rapide et fréquente des émotions mais rend l’esprit vulnérable</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Équilibre spirituel]] <sup>AO</sup></td>
+    <td>Pouvoirs de classe [[moine#RESERVEDEKI|réserve de ki]] et [[moine#SERENITE|sérénité]]</td>
+    <td>
+      [[moine#SERENITE|Sérénité]] s’applique contre la [[possession spirituelle|possession]], dépense de ki pour
+      doubler le bonus
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Esprit concentré]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[médium#BONUSSPIRITUEL|bonus spirituel]]</td>
+    <td>Augmente le [[médium#BONUSSPIRITUEL|bonus spirituel]] d’une légende de 1</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Explosion dadieu|Explosion d'adieu]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td>
+    <td>Le corps explose à la mort</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Explosion retardée]] <sup>AO</sup></td>
+    <td>BBA +3, pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td>
+    <td>Retarde l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fantôme concentré]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[spirite#INTERFERENCESPIRITUELLE|interférence spirituelle]]</td>
+    <td>
+      +4 aux tests de [[Lancer des sorts#CONCENTRATION|concentration]] quand le fantôme est adjacent au personnage
+      ou dans sa conscience
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fantôme vigilant]] <sup>AO</sup></td>
+    <td>Pouvoir de classe de [[spirite#FANTOME|fantôme]]</td>
+    <td>+4 aux tests de [[Perception]] quand le fantôme est actif à portée</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Feinte hypnotique]]† <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#REGARDHYPNOTQUE|regard hypnotique]]</td>
+    <td>Réduction du malus des feintes contre d’autres types de créatures</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Feinte hypnotique supérieure]]† <sup>AO</sup></td>
+    <td>Feinte hypnotique, 10 rangs en Bluff, frémissement psychique [[hypnotiseur#REGARDIMPUDENT|regard impudent]]</td>
+    <td>[[Feinte]] possible contre les créatures dépourvues d’[[intelligence]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Focalisation instrumentale]] <sup>AO</sup></td>
+    <td>[[Occultiste]] niveau 3</td>
+    <td>Utilisation efficace de focalisation générique avec un instrument</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Focalisation mentale supplémentaire]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]</td>
+    <td>2 points de [[occultiste#FOCALISATIONMENTALE|focalisation mentale]] de plus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fort lien avec un instrument]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[occultiste#INSTRUMENTS|instrument]]</td>
+    <td>Facilité à lancer des sorts loin d’un instrument</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Guérison psychique]] <sup>AO</sup></td>
+    <td>
+      [[Charisme|Cha]] 11, [[Sensibilité psychique]] ou capacité à lancer des sorts psychiques, 3 rangs en Premiers
+      Secours
+    </td>
+    <td>
+      Utilisation de [[Premiers secours|guérison miraculeuse]] pour soigner des blessures mortelles et donner des
+      points de vie temporaires
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Guerrier fantôme]] <sup>AO</sup></td>
+    <td>
+      Pouvoir de classe [[Spirite#FANTOME|fantôme]], [[Fantômes (spirite)|fantôme]] doté du pouvoir [[Fantômes
+      (spirite)#ATTAQUESMAGIQUES|attaques magiques]]
+    </td>
+    <td>
+      Les armes naturelles du fantôme et les sorts qu’il livre infligent la totalité de leurs effets aux créatures
+      intangibles
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Induction dhypnotiseur supplémentaire|Induction d'hypnotiseur supplémentaire]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]</td>
+    <td>Implantation de 2 [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|inductions d’hypnotiseur]] de plus par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Initié du chakra]] <sup>AO</sup></td>
+    <td>Capacité à éveiller le [[Chakras#RACINE|chakra racine]]</td>
+    <td>Gain de 3 points de ki de feu-serpent pour les chakras</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Adepte du chakra]] <sup>AO</sup></td>
+    <td>[[Initié du chakra]], capacité à éveiller le [[chakras#DUCOEUR|chakra du coeur]]</td>
+    <td>
+      Gain de 3 points de ki de feu-serpent pour les chakras, possibilité de faire un jet de sauvegarde pour
+      maintenir les chakras, bénéfices persistants
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Maître du chakra]] <sup>AO</sup></td>
+    <td>[[Adepte du chakra]], capacité à éveiller le [[chakras#COURONNE|chakra couronne]]</td>
+    <td>
+      Gain de 5 points de ki de feu-serpent pour les chakras, possibilité de dépenser du chakra pour obtenir deux
+      avantages de chakra
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maestro psychique]] <sup>AO</sup></td>
+    <td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td>
+    <td>Utilisation plus fréquente des extensions de compétence occultes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Modification de paysage mental binaire]] <sup>AO</sup></td>
+    <td>[[Intelligence|Int]] 13, capacité à lancer un duel psychique</td>
+    <td>L’adversaire doit dépenser 1 point de manifestation de plus pour se défendre</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Palpation curative supplémentaire]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#PALPATIONCURATIVE|palpation curative]]</td>
+    <td>Utilisation de [[hypnotiseur#PALPATIONCURATIVE|palpation curative]] 2 fois de plus par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Parade cinétique]] <sup>AO</sup></td>
+    <td>
+      [[talents sauvages#EXPLOSIONDEFROID|Explosion simple de froid]], [[talents sauvages#EXPLOSIONDEFEU|de feu]] ou
+      [[talents sauvages#EXPLOSIONDEAU|d’eau]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion
+      cinétique]]
+    </td>
+    <td>Utilisation d’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]] pour contrer un élément opposé</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Perception des esprits]] <sup>AO</sup></td>
+    <td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td>
+    <td>+5 aux tests pour remarquer les apparitions, 75 % de chances d’affecter une créature intangible</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pouvoir de focalisation supplémentaire]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]]</td>
+    <td>Un [[occultiste#POUVOIRSDEFOCALISATION|pouvoir de focalisation]] supplémentaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pouvoir de résonance accru]] <sup>AO</sup></td>
+    <td>[[NLS]] 7, pouvoir de classe [[occultiste#FOCALISATIONMENTALE|focalisation mentale]]</td>
+    <td>Partage des pouvoirs de résonance avec un allié</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Présence cachée]] <sup>AO</sup></td>
+    <td>
+      [[Intelligence|Int]] ou [[Charisme|Cha]] 17, capacité à lancer *[[possession spirituelle (sort)|possession
+      spirituelle]]* ou *[[possession spirituelle suprême]]*
+    </td>
+    <td>Les sorts d’[[abjuration]] et de [[divination]] traitent le personnage comme la créature possédée</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Présence manipulatrice]] <sup>AO</sup></td>
+    <td>[[Intelligence|Int]] ou [[Charisme|Cha]] 19, Présence cachée</td>
+    <td>Modifie les souvenirs de la créature possédée</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Présence intrusive]] <sup>AO</sup></td>
+    <td>[[Intelligence|Int]] ou [[Charisme|Cha]] 21, Présence cachée, Présence manipulatrice</td>
+    <td>Lit dans l’esprit de la créature possédée</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Prêt à se battre]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]</td>
+    <td>
+      +2 aux jets d’[[déroulement dun combat#INITIATIVE|initiative]] pour les alliés dotés d’inductions implantées
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Prêt à souffrir]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#INDUCTIONSDHYPNOTISEUR|induction d’hypnotiseur]]</td>
+    <td>[[RD]]/— contre les dégâts non létaux pour les alliés dotés d’inductions implantées</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard étendu]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]]</td>
+    <td>Augmente la portée du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] de 3 m</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard hypnotique intimidant]]† <sup>AO</sup></td>
+    <td>Pouvoir de classe [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]]</td>
+    <td>
+      Démoralisation des cibles du [[hypnotiseur#REGARDHYPNOTIQUE|regard hypnotique]] par une [[types
+      dactions#RAPIDE|action rapide]]
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Réserve phrénique accrue]] <sup>AO</sup></td>
+    <td>Pouvoir de classe [[psychiste#RESERVEPHRENIQUE|réserve phrénique]]</td>
+    <td>2 points de [[psychiste#RESERVEPHRENIQUE|réserve phrénique]] de plus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rêveur lucide]] <sup>AO</sup></td>
+    <td>[[Charisme|Cha]] 13, 3 rangs en [[Connaissances]] (plans)</td>
+    <td>Amélioration du contrôle lors d’un rêve</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Saut cinétique]] <sup>AO</sup></td>
+    <td>3 rangs en [[Acrobaties]], pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td>
+    <td>
+      Utilisation de l’[[cinétiste#EXPLOSIONCINÉTIQUE|explosion]] pour gagner +10 aux tests d’[[Acrobaties]] pour
+      sauter (+20 à 10 rangs)
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sensibilité psychique]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Utilisation de l’extension de compétence occulte où le personnage a investi des rangs</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Adepte psychique]] <sup>AO</sup></td>
+    <td>[[Intelligence|Int]] 11, [[Sensibilité psychique]]</td>
+    <td>Lance une astuce psychique 3/jour comme un pouvoir magique</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Disciple psychique]] <sup>AO</sup></td>
+    <td>[[Intelligence|Int]] 13, [[Adepte psychique]], [[Sensibilité psychique]]</td>
+    <td>Lance un sort psychique de niveau 1, 2/jour comme un pouvoir magique</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Talent sauvage supplémentaire]] <sup>AO</sup></td>
+    <td>[[Cinétiste]] niveau 6</td>
+    <td>Obtention d’un [[talents sauvages|talent sauvage]] d’au moins 2 niveaux de moins que le plus puissant connu</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Transfert longue distance]] <sup>AO</sup></td>
+    <td>
+      Pouvoirs de classe [[Fantômes (spirite)#TOUCHSPELLS|livrer un sort de contact]] et [[spirite#FANTOME|fantôme]]
+    </td>
+    <td>Le fantôme peut livrer les sorts de contact dans un rayon de 6 m de plus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Troisième oeil]] <sup>AO</sup></td>
+    <td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td>
+    <td>Le troisième oeil permet de lire les auras et de discerner la vérité</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Virtuose psychique]] <sup>AO</sup></td>
+    <td>[[Sensibilité psychique]] ou capacité à lancer des sorts psychiques</td>
+    <td>+2 aux tests d’extension de compétence occulte (+4 dès 10 rangs)</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Xénoglossie]] <sup>AO</sup></td>
+    <td>[[Intelligence|Int]] 13, 3 rangs en [[Linguistique]]</td>
+    <td>Utilisation de la linguistique pour communiquer avec des créatures sans partager de langage commun</td>
+  </tr>
+</table>
 
 </center>
 ### Dons de métamagie
@@ -20,7 +367,44 @@ Voir les [[Dons#DONMETAMAGIE|règles relatives aux dons de métamagie]]
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des dons de métamagie</caption><tr CLASS="titre"><td WIDTH="30%">Dons de métamagie</td><td WIDTH="25%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Sort furieux]] <sup>AO</sup></td><td>—</td><td>Les sorts font plus de dégâts et se lancent même en rage</td></tr><tr CLASS="premier"><td>[[Sort intuitif]] <sup>AO</sup></td><td>—</td><td>Incantation sans [[la magie psychique|composante intellectuelle]]</td></tr><tr CLASS="premier"><td>[[Sort logique]] <sup>AO</sup></td><td>—</td><td>Incantation sans [[la magie psychique|composante émotionnelle]]</td></tr><tr CLASS="premier"><td>[[Sort marquant]] <sup>AO</sup></td><td>—</td><td>Les sorts de terreur ou d’émotion donnent des malus contre les prochains sorts de même type</td></tr><tr CLASS="premier"><td>[[Sort terrifiant]] <sup>AO</sup></td><td>—</td><td>Les dégâts des sorts rendent [[secoué]]</td></tr><tr CLASS="premier"><td>[[Sort traumatisant]] <sup>AO</sup></td><td>—</td><td>Les sorts d’émotion ou de terreur provoquent des cauchemars</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des dons de métamagie</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons de métamagie</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort furieux]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Les sorts font plus de dégâts et se lancent même en rage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort intuitif]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Incantation sans [[la magie psychique|composante intellectuelle]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort logique]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Incantation sans [[la magie psychique|composante émotionnelle]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort marquant]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Les sorts de terreur ou d’émotion donnent des malus contre les prochains sorts de même type</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort terrifiant]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Les dégâts des sorts rendent [[secoué]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort traumatisant]] <sup>AO</sup></td>
+    <td>—</td>
+    <td>Les sorts d’émotion ou de terreur provoquent des cauchemars</td>
+  </tr>
+</table>
 
 </center> {s:Reference|DONSDEREGARD}
 ### Dons de regard
@@ -28,7 +412,42 @@ Les dons de regard permettent à l’[[hypnotiseur]] d’ajouter des effets supp
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des dons de regard</caption><tr CLASS="titre"><td WIDTH="30%">Dons de regard</td><td WIDTH="25%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Douleur intense]]† <sup>AO</sup></td><td>[[Hypnotiseur]] niveau 7, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td><td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] inflige plus de dégâts</td></tr><tr CLASS="premier"><td>[[Regard démoralisant]]† <sup>AO</sup></td><td>[[Hypnotiseur]] niveau 9, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td><td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[secoué]]</td></tr><tr CLASS="premier"><td>[[Regard écorcheur]]† <sup>AO</sup></td><td>[[Hypnotiseur]] niveau 11, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td><td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[fiévreux]]</td></tr><tr CLASS="premier"><td>[[Regard fatiguant]]† <sup>AO</sup></td><td>[[Hypnotiseur]] niveau 7, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td><td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[fatigué]]</td></tr><tr CLASS="premier"><td>[[Regard hémorragique]]† <sup>AO</sup></td><td>[[Hypnotiseur]] niveau 5, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td><td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] provoque des dégâts de [[états préjudiciables#Saignement|saignement]]</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des dons de regard</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons de regard</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Douleur intense]]† <sup>AO</sup></td>
+    <td>[[Hypnotiseur]] niveau 7, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+    <td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] inflige plus de dégâts</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard démoralisant]]† <sup>AO</sup></td>
+    <td>[[Hypnotiseur]] niveau 9, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+    <td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[secoué]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard écorcheur]]† <sup>AO</sup></td>
+    <td>[[Hypnotiseur]] niveau 11, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+    <td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[fiévreux]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard fatiguant]]† <sup>AO</sup></td>
+    <td>[[Hypnotiseur]] niveau 7, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+    <td>Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] rend [[fatigué]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regard hémorragique]]† <sup>AO</sup></td>
+    <td>[[Hypnotiseur]] niveau 5, pouvoir de classe [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]]</td>
+    <td>
+      Le [[hypnotiseur#REGARDDOULOUREUX|regard douloureux]] provoque des dégâts de [[états
+      préjudiciables#Saignement|saignement]]
+    </td>
+  </tr>
+</table>
 
 </center>
 ### Dons de travail déquipe
@@ -38,6 +457,18 @@ Voir les [[Dons#DONEQUIPE|règles relatives aux dons d'équipe]]
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des dons de travail d'équipe</caption><tr CLASS="titre"><td WIDTH="30%">Dons de travail d'équipe</td><td WIDTH="25%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Entremêler les explosions composites]]† <sup>AO</sup></td><td>Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td><td>Travail en équipe pour déchaîner une [[talents sauvages#EXPLOSIONSCOMPOSITES|explosion composite]]</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des dons de travail d'équipe</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons de travail d'équipe</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Entremêler les explosions composites]]† <sup>AO</sup></td>
+    <td>Pouvoir de classe [[cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]]</td>
+    <td>Travail en équipe pour déchaîner une [[talents sauvages#EXPLOSIONSCOMPOSITES|explosion composite]]</td>
+  </tr>
+</table>
 
 </center>

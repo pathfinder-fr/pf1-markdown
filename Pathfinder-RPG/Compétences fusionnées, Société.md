@@ -34,9 +34,14 @@ Le personnage a besoin des matériaux et des ingrédients correspondant à ceux 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Message inconnu</td><td>DD du test  
-de Société</td></tr><tr CLASS="premier"><td>Message simple</td><td>20</td></tr><tr><td>Texte standard</td><td>25</td></tr><tr><td>Texte très ancien,  
-exotique ou complexe</td><td>30</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Message inconnu</td><td>DD du test  
+de Société</td></tr>
+  <tr CLASS="premier"><td>Message simple</td><td>20</td></tr>
+  <tr><td>Texte standard</td><td>25</td></tr>
+  <tr><td>Texte très ancien,  
+exotique ou complexe</td><td>30</td></tr>
+</table>
 
 </center></div></div>Le personnage peut décrypter les textes incomplets, mais aussi ceux rédigés dans une langue inconnue ou archaïque. En cas de réussite du test, le personnage comprend une page (ou son équivalent) du texte qu’il vient de lire. En cas d’échec, il doit effectuer un test de [[Sagesse]] [[DD]] 5 pour ne pas tirer de mauvaises conclusions sur la teneur du texte. Le [[MJ]] effectue les deux tests en secret pour que le joueur ne sache pas si les informations découvertes par son personnage sont fiables ou non.
 

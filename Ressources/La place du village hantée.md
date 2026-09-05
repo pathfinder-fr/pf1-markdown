@@ -105,6 +105,55 @@ Cette table d’effets est extraite du Forgotten Realms Campaign Setting de l’
 
 <center>
 
-<table CLASS="tablo"><caption>Effets d'un portail défaillant</caption><tr CLASS="titre"><td>d%</td><td>Effet</td></tr><tr CLASS="premier"><td>01-05</td><td>Le portail ne fonctionne pas mais la tentative draine de l’énergie magique. L’utilisateur est affecté comme s’il avait été ciblé par un sort de *dissipation de la magie supérieure* avec un NLS de 17.</td></tr><tr CLASS="alt"><td>06-10</td><td>Le portail ne fonctionne pas mais la tentative draine de l’énergie magique à partir des objets magiques de l’utilisateur. Un nombre aléatoire de ces objets (1d10) est touché par un effet similaire à une *dissipation de la magie suprême* avec un NLS de 17. Utilisez la table 9–2 : Objets affectés par les attaques magiques (page 216 en VO et en VF) pour déterminer quels objets sont touchés. Une dissipation réussie bloque les objets magiques permanents pendant 1d4 rounds. Les objets à charges ou à nombre d’utilisations limitée perdent 1d4 charges ou utilisations comme s’ils avaient été utilisés sans produire d’effet et sont inertes pendant le même nombre de rounds (pour autant qu’ils soient encore magiques après la perte des charges).</td></tr><tr><td>11-20</td><td>Le portail ne fonctionne pas. L’utilisateur est propulsé en arrière comme s’il avait été touché par un sort de télékinésie avec un NLS de 17. L’utilisateur peut tenter un jet de Volonté (DD 17) pour annuler cet effet. Il subit 1d6 points de dégâts s’il est projeté contre une surface solide.</td></tr><tr CLASS="alt"><td>21-25</td><td>Le portail ne fonctionne pas. Au lieu de cela, une vague d’énergie positive (50%) ou négative (50%) en émane, sur un rayon de 9m (6 cases). L’énergie négative fonctionne comme un sort de blessure importante lancé avec un NLS de 17 (3d8+15 points de dégâts, Volonté DD 14 pour diviser les dégâts par deux). L’énergie positive fonctionne comme un sort de soin important lancé avec un NLS de 17.</td></tr><tr><td>26-40</td><td>Le portail fonctionne mais il envoie l’utilisateur vers une mauvaise destination. Pour déterminer celle-ci, utilisez la table qui se trouve dans la description du sort de téléportation et lancez 1d20+80 sur la ligne « destination erronée ».</td></tr><tr CLASS="alt"><td>41-50</td><td>Rien ne se produit. Le portail ne fonctionne pas.</td></tr><tr><td>51-100</td><td>Le portail fonctionne normalement.</td></tr></table>
+<table CLASS="tablo">
+  <caption>Effets d'un portail défaillant</caption>
+  <tr CLASS="titre"><td>d%</td><td>Effet</td></tr>
+  <tr CLASS="premier">
+    <td>01-05</td>
+    <td>
+      Le portail ne fonctionne pas mais la tentative draine de l’énergie magique. L’utilisateur est affecté comme
+      s’il avait été ciblé par un sort de *dissipation de la magie supérieure* avec un NLS de 17.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>06-10</td>
+    <td>
+      Le portail ne fonctionne pas mais la tentative draine de l’énergie magique à partir des objets magiques de
+      l’utilisateur. Un nombre aléatoire de ces objets (1d10) est touché par un effet similaire à une *dissipation
+      de la magie suprême* avec un NLS de 17. Utilisez la table 9–2 : Objets affectés par les attaques magiques
+      (page 216 en VO et en VF) pour déterminer quels objets sont touchés. Une dissipation réussie bloque les objets
+      magiques permanents pendant 1d4 rounds. Les objets à charges ou à nombre d’utilisations limitée perdent 1d4
+      charges ou utilisations comme s’ils avaient été utilisés sans produire d’effet et sont inertes pendant le même
+      nombre de rounds (pour autant qu’ils soient encore magiques après la perte des charges).
+    </td>
+  </tr>
+  <tr>
+    <td>11-20</td>
+    <td>
+      Le portail ne fonctionne pas. L’utilisateur est propulsé en arrière comme s’il avait été touché par un sort de
+      télékinésie avec un NLS de 17. L’utilisateur peut tenter un jet de Volonté (DD 17) pour annuler cet effet. Il
+      subit 1d6 points de dégâts s’il est projeté contre une surface solide.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>21-25</td>
+    <td>
+      Le portail ne fonctionne pas. Au lieu de cela, une vague d’énergie positive (50%) ou négative (50%) en émane,
+      sur un rayon de 9m (6 cases). L’énergie négative fonctionne comme un sort de blessure importante lancé avec un
+      NLS de 17 (3d8+15 points de dégâts, Volonté DD 14 pour diviser les dégâts par deux). L’énergie positive
+      fonctionne comme un sort de soin important lancé avec un NLS de 17.
+    </td>
+  </tr>
+  <tr>
+    <td>26-40</td>
+    <td>
+      Le portail fonctionne mais il envoie l’utilisateur vers une mauvaise destination. Pour déterminer celle-ci,
+      utilisez la table qui se trouve dans la description du sort de téléportation et lancez 1d20+80 sur la ligne «
+      destination erronée ».
+    </td>
+  </tr>
+  <tr CLASS="alt"><td>41-50</td><td>Rien ne se produit. Le portail ne fonctionne pas.</td></tr>
+  <tr><td>51-100</td><td>Le portail fonctionne normalement.</td></tr>
+</table>
 
 </center>

@@ -10,7 +10,198 @@ Categories:
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Remèdes alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td><td>DD</td></tr><tr CLASS="premier"><td>[[Remèdes alchimiques#Ambroisie|↓]] [[Ambroisie (objet)|Ambroisie (fiole)]]</td><td>100 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Anti-maladie|↓]] [[Anti-maladie (objet)|Anti-maladie]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Antitoxine|↓]] [[Antitoxine (objet)|Antitoxine]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Anti-vermine|↓]] [[Anti-vermine (objet)|Anti-vermine]]</td><td>5 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Apaise-tripes|↓]] [[Apaise-tripes (objet)|Apaise-tripes (fiole)]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Baume antipoison|↓]] [[Baume antipoison (objet)|Baume antipoison]]</td><td>15 po</td><td>—</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Baume coagulant|↓]] [[Baume coagulant (objet)|Baume coagulant]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Besace desprit guerrier|↓]] [[Besace desprit guerrier (objet)|Besace d'esprit guerrier]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Bismuth salix|↓]] [[Bismuth salix (objet)|Bismuth salix]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Bonté de lalchimiste|↓]] [[Bonté de lalchimiste (objet)|Bonté de l'alchimiste]]</td><td>1 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Confiture alchimique|↓]] [[Confiture alchimique (objet)|Confiture alchimique]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Énergisant spirituel|↓]] [[Énergisant spirituel (objet)|Énergisant spirituel]]</td><td>300 po</td><td>—</td><td>30</td></tr><tr><td>[[Remèdes alchimiques#Gardelame|↓]] [[Gardelame (objet)|Gardelame]]</td><td>40 po</td><td>—</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Gel de protection contre le froid|↓]] [[Gel de protection contre le froid (objet)|Gel de protection contre le froid]]</td><td>150 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Gel ignifuge|↓]] [[Gel ignifuge (objet)|Gel ignifuge]]</td><td>150 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Graisse alchimique|↓]] [[Graisse alchimique (objet)|Graisse alchimique]]</td><td>5 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Huile alaire|↓]] [[Huile alaire (objet)|Huile alaire]]</td><td>1 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Huile de troll|↓]] [[Huile de troll (objet)|Huile de troll]]</td><td>50 po</td><td>0,5 kg</td><td>30</td></tr><tr><td>[[Remèdes alchimiques#Myrrhe curative|↓]] [[Myrrhe curative (objet)|Myrrhe curative]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Padzahr|↓]] [[Padzahr (objet)|Padzahr]]</td><td>80 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Racine veloutée|↓]] [[Racine veloutée (objet)|Racine veloutée (fiole)]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Sang alchimique|↓]] [[Sang alchimique (objet)|Sang alchimique]]</td><td>40 po</td><td>0,5 kg</td><td>40</td></tr><tr><td>[[Remèdes alchimiques#Secours du forcené|↓]] [[Secours du forcené (objet)|Secours du forcené]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Sels odorants|↓]] [[Sels odorants (objet)|Sels odorants]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Sève terreuse distillée|↓]] [[Sève terreuse distillée (objet)|Sève terreuse distillée]]</td><td>30 po</td><td>0,25 kg</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Sirop apaisant|↓]] [[Sirop apaisant (objet)|Sirop apaisant]]</td><td>25 po</td><td>0,25 kg</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Styptique de troll|↓]] [[Styptique de troll (objet)|Styptique de troll]]</td><td>100 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Tabac antiémétique|↓]] [[Tabac antiémétique (objet)|Tabac antiémétique]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Thé de méditation|↓]] [[Thé de méditation (objet)|Thé de méditation]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Tic tonique|↓]] [[Tic tonique (objet)|Tic tonique]]</td><td>45 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Tonique|↓]] [[Tonique (objet)|Tonique]]</td><td>20 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Remèdes alchimiques</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td><td>DD</td></tr>
+  <tr CLASS="premier">
+    <td>[[Remèdes alchimiques#Ambroisie|↓]] [[Ambroisie (objet)|Ambroisie (fiole)]]</td>
+    <td>100 po</td>
+    <td>0,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Anti-maladie|↓]] [[Anti-maladie (objet)|Anti-maladie]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Antitoxine|↓]] [[Antitoxine (objet)|Antitoxine]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Anti-vermine|↓]] [[Anti-vermine (objet)|Anti-vermine]]</td>
+    <td>5 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Apaise-tripes|↓]] [[Apaise-tripes (objet)|Apaise-tripes (fiole)]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Baume antipoison|↓]] [[Baume antipoison (objet)|Baume antipoison]]</td>
+    <td>15 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Baume coagulant|↓]] [[Baume coagulant (objet)|Baume coagulant]]</td>
+    <td>30 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>
+      [[Remèdes alchimiques#Besace desprit guerrier|↓]] [[Besace desprit guerrier (objet)|Besace d'esprit guerrier]]
+    </td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Bismuth salix|↓]] [[Bismuth salix (objet)|Bismuth salix]]</td>
+    <td>30 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Bonté de lalchimiste|↓]] [[Bonté de lalchimiste (objet)|Bonté de l'alchimiste]]</td>
+    <td>1 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Confiture alchimique|↓]] [[Confiture alchimique (objet)|Confiture alchimique]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Énergisant spirituel|↓]] [[Énergisant spirituel (objet)|Énergisant spirituel]]</td>
+    <td>300 po</td>
+    <td>—</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Gardelame|↓]] [[Gardelame (objet)|Gardelame]]</td>
+    <td>40 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>
+      [[Remèdes alchimiques#Gel de protection contre le froid|↓]] [[Gel de protection contre le froid (objet)|Gel de
+      protection contre le froid]]
+    </td>
+    <td>150 po</td>
+    <td>0,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Gel ignifuge|↓]] [[Gel ignifuge (objet)|Gel ignifuge]]</td>
+    <td>150 po</td>
+    <td>0,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Graisse alchimique|↓]] [[Graisse alchimique (objet)|Graisse alchimique]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Huile alaire|↓]] [[Huile alaire (objet)|Huile alaire]]</td>
+    <td>1 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Huile de troll|↓]] [[Huile de troll (objet)|Huile de troll]]</td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Myrrhe curative|↓]] [[Myrrhe curative (objet)|Myrrhe curative]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr><td>[[Remèdes alchimiques#Padzahr|↓]] [[Padzahr (objet)|Padzahr]]</td><td>80 po</td><td>—</td><td>25</td></tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Racine veloutée|↓]] [[Racine veloutée (objet)|Racine veloutée (fiole)]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Sang alchimique|↓]] [[Sang alchimique (objet)|Sang alchimique]]</td>
+    <td>40 po</td>
+    <td>0,5 kg</td>
+    <td>40</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Secours du forcené|↓]] [[Secours du forcené (objet)|Secours du forcené]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Sels odorants|↓]] [[Sels odorants (objet)|Sels odorants]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>
+      [[Remèdes alchimiques#Sève terreuse distillée|↓]] [[Sève terreuse distillée (objet)|Sève terreuse distillée]]
+    </td>
+    <td>30 po</td>
+    <td>0,25 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Sirop apaisant|↓]] [[Sirop apaisant (objet)|Sirop apaisant]]</td>
+    <td>25 po</td>
+    <td>0,25 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Styptique de troll|↓]] [[Styptique de troll (objet)|Styptique de troll]]</td>
+    <td>100 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Tabac antiémétique|↓]] [[Tabac antiémétique (objet)|Tabac antiémétique]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Thé de méditation|↓]] [[Thé de méditation (objet)|Thé de méditation]]</td>
+    <td>30 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Tic tonique|↓]] [[Tic tonique (objet)|Tic tonique]]</td>
+    <td>45 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Remèdes alchimiques#Tonique|↓]] [[Tonique (objet)|Tonique]]</td>
+    <td>20 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+</table>
 
 </div>
 

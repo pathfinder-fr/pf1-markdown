@@ -21,4 +21,32 @@ Le choix des compétences du monstre devrait être simple. En principe, il doit 
 Vous trouverez ci-dessous une table listant les différentes compétences pour faciliter leur référencement. Afin d’accélérer la sélection des compétences du monstre, cette table est divisée entre les compétences de combat les plus utiles, dans la colonne de gauche, et toutes les autres, dans la colonne de droite. En général, les combattants ne choisissent que les compétences de combat.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Les compétences</caption><tr CLASS="titre"><td>Compétences de combat</td><td>Autres compétences</td></tr><tr CLASS="premier"><td>[[Acrobaties]]</td><td>[[Artisanat]]</td></tr><tr><td>[[Art de la magie]]</td><td>[[Bluff]]</td></tr><tr><td>[[Discrétion]]</td><td>[[Connaissances]] (exploration souterraine)</td></tr><tr><td>[[Équitation]]</td><td>[[Connaissances]] (folklore local)</td></tr><tr><td>[[Escalade]]</td><td>[[Connaissances]] (géographie)</td></tr><tr><td>[[Escamotage]]</td><td>[[Connaissances]] (histoire)</td></tr><tr><td>[[Évasion]]</td><td>[[Connaissances]] (ingénierie)</td></tr><tr><td>[[Intimidation]]</td><td>[[Connaissances]] (mystères)</td></tr><tr><td>[[Natation]]</td><td>[[Connaissances]] (nature)</td></tr><tr><td>[[Perception]]*</td><td>[[Connaissances]] (noblesse)</td></tr><tr><td>[[Premiers secours]]</td><td>[[Connaissances]] (plans)</td></tr><tr><td>[[UOM|Utilisation d’objets magiques]]</td><td>[[Connaissances]] (religion)</td></tr><tr><td>[[Vol]]</td><td>[[Déguisement]]</td></tr><tr><td></sup></td><td>[[Diplomatie]]</td></tr><tr><td></sup></td><td>[[Dressage]]</td></tr><tr><td></sup></td><td>[[Estimation]]</td></tr><tr><td></sup></td><td>[[Linguistique]]</td></tr><tr><td></sup></td><td>[[Profession]]</td></tr><tr><td></sup></td><td>[[Psychologie]]</td></tr><tr><td></sup></td><td>[[Représentation]]</td></tr><tr><td></sup></td><td>[[Sabotage]]</td></tr><tr><td></sup></td><td>[[Survie]]</td></tr><tr CLASS="note"><td COLSPAN="2">Par défaut, [[Perception]] est une compétence profitable pour tous les monstres.</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Les compétences</caption>
+  <tr CLASS="titre"><td>Compétences de combat</td><td>Autres compétences</td></tr>
+  <tr CLASS="premier"><td>[[Acrobaties]]</td><td>[[Artisanat]]</td></tr>
+  <tr><td>[[Art de la magie]]</td><td>[[Bluff]]</td></tr>
+  <tr><td>[[Discrétion]]</td><td>[[Connaissances]] (exploration souterraine)</td></tr>
+  <tr><td>[[Équitation]]</td><td>[[Connaissances]] (folklore local)</td></tr>
+  <tr><td>[[Escalade]]</td><td>[[Connaissances]] (géographie)</td></tr>
+  <tr><td>[[Escamotage]]</td><td>[[Connaissances]] (histoire)</td></tr>
+  <tr><td>[[Évasion]]</td><td>[[Connaissances]] (ingénierie)</td></tr>
+  <tr><td>[[Intimidation]]</td><td>[[Connaissances]] (mystères)</td></tr>
+  <tr><td>[[Natation]]</td><td>[[Connaissances]] (nature)</td></tr>
+  <tr><td>[[Perception]]*</td><td>[[Connaissances]] (noblesse)</td></tr>
+  <tr><td>[[Premiers secours]]</td><td>[[Connaissances]] (plans)</td></tr>
+  <tr><td>[[UOM|Utilisation d’objets magiques]]</td><td>[[Connaissances]] (religion)</td></tr>
+  <tr><td>[[Vol]]</td><td>[[Déguisement]]</td></tr>
+  <tr><td></sup></td><td>[[Diplomatie]]</td></tr>
+  <tr><td></sup></td><td>[[Dressage]]</td></tr>
+  <tr><td></sup></td><td>[[Estimation]]</td></tr>
+  <tr><td></sup></td><td>[[Linguistique]]</td></tr>
+  <tr><td></sup></td><td>[[Profession]]</td></tr>
+  <tr><td></sup></td><td>[[Psychologie]]</td></tr>
+  <tr><td></sup></td><td>[[Représentation]]</td></tr>
+  <tr><td></sup></td><td>[[Sabotage]]</td></tr>
+  <tr><td></sup></td><td>[[Survie]]</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">Par défaut, [[Perception]] est une compétence profitable pour tous les monstres.</td>
+  </tr>
+</table>

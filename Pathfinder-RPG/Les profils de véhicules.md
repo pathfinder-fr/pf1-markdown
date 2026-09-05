@@ -17,7 +17,14 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table class="tablo toutgauche autoalt" id="reparer"><caption>CA et modif icateur du DMD d’un véhicule selon la taille</caption><tr><td>Taille du véhicule</td><td>CA</td><td>Modificateur de DMD</td></tr><tr><td>G</td><td>9</td><td>+1</td></tr><tr><td>TG</td><td>8</td><td>+2</td></tr><tr><td>Gig</td><td>6</td><td>+4</td></tr><tr><td>C</td><td>2</td><td>+8</td></tr></table>
+<table class="tablo toutgauche autoalt" id="reparer">
+  <caption>CA et modif icateur du DMD d’un véhicule selon la taille</caption>
+  <tr><td>Taille du véhicule</td><td>CA</td><td>Modificateur de DMD</td></tr>
+  <tr><td>G</td><td>9</td><td>+1</td></tr>
+  <tr><td>TG</td><td>8</td><td>+2</td></tr>
+  <tr><td>Gig</td><td>6</td><td>+4</td></tr>
+  <tr><td>C</td><td>2</td><td>+8</td></tr>
+</table>
 
 </center></div></div>Vous trouverez ci-dessous quelques explications à proposdes profils des véhicules.Si les informations au sujetd’une catégorie donnée ne figurent pas dans ces profils,elles ne sont pas applicables.
 

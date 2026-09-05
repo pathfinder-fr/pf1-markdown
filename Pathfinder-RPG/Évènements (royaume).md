@@ -10,7 +10,36 @@ Categories:
 {s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>{s:ClearRight}<div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Type d’évènement et niveau de danger</caption><tr CLASS="titre"><td>d100</td><td>Évènement</td></tr><tr CLASS="premier"><td>01-02</td><td>[[Évènements (royaume)#BENEDICTIONNATURELLE|Bénédiction naturelle]] et relancez le dé<sup>1</sup></td></tr><tr><td>03-04</td><td>[[Évènements (royaume)#BEAUTEMPS|Beau temps]] et relancez le dé<sup>1</sup></td></tr><tr><td>05-25</td><td>[[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de royaume bénéfique]]</td></tr><tr><td>26-50</td><td>[[Évènements (royaume)#EVENEMENTNEFASTE|Événement de royaume néfaste]]</td></tr><tr><td>51-75</td><td>[[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de communauté bénéfique]]</td></tr><tr><td>76-96</td><td>[[Évènements (royaume)#EVENEMENTNEFASTE|Événement de communauté néfaste]]</td></tr><tr><td>97</td><td>[[Évènements (royaume)#BANDITISME|Banditisme]] et relancez le dé<sup>2</sup></td></tr><tr><td>98</td><td>[[Évènements (royaume)#SQUATTERS|Squatters]] et relancez le dé<sup>2</sup></td></tr><tr><td>99</td><td>[[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]] et relancez le dé<sup>2</sup></td></tr><tr><td>100</td><td>[[Évènements (royaume)#VANDALISME|Vandalisme]] et relancez le dé<sup>2</sup></td></tr><tr CLASS="note"><td COLSPAN="2">*(1) Si le second jet indique encore le même événement, ignorez le double et ne relancez pas le dé.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(2) Si le second jet indique le même événement, la deuxième fois, il se déroule ailleurs dans le royaume.*</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Type d’évènement et niveau de danger</caption>
+  <tr CLASS="titre"><td>d100</td><td>Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-02</td>
+    <td>[[Évènements (royaume)#BENEDICTIONNATURELLE|Bénédiction naturelle]] et relancez le dé<sup>1</sup></td>
+  </tr>
+  <tr><td>03-04</td><td>[[Évènements (royaume)#BEAUTEMPS|Beau temps]] et relancez le dé<sup>1</sup></td></tr>
+  <tr><td>05-25</td><td>[[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de royaume bénéfique]]</td></tr>
+  <tr><td>26-50</td><td>[[Évènements (royaume)#EVENEMENTNEFASTE|Événement de royaume néfaste]]</td></tr>
+  <tr><td>51-75</td><td>[[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de communauté bénéfique]]</td></tr>
+  <tr><td>76-96</td><td>[[Évènements (royaume)#EVENEMENTNEFASTE|Événement de communauté néfaste]]</td></tr>
+  <tr><td>97</td><td>[[Évènements (royaume)#BANDITISME|Banditisme]] et relancez le dé<sup>2</sup></td></tr>
+  <tr><td>98</td><td>[[Évènements (royaume)#SQUATTERS|Squatters]] et relancez le dé<sup>2</sup></td></tr>
+  <tr>
+    <td>99</td>
+    <td>[[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]] et relancez le dé<sup>2</sup></td>
+  </tr>
+  <tr><td>100</td><td>[[Évènements (royaume)#VANDALISME|Vandalisme]] et relancez le dé<sup>2</sup></td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      *(1) Si le second jet indique encore le même événement, ignorez le double et ne relancez pas le dé.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      *(2) Si le second jet indique le même événement, la deuxième fois, il se déroule ailleurs dans le royaume.*
+    </td>
+  </tr>
+</table>
 
 </div></div>Voici des évènements inhabituels susceptibles de se dérouler lors de la [[Tour de royaume#PHASEDEVENEMENT|phase d’événement]] du royaume. La plupart se produisent immédiatement et sont instantanés ou se terminent à la fin de la phase.
 

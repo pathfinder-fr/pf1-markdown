@@ -14,6 +14,1812 @@ Certaines armes magiques possèdent des propriétés qu’il faut activer par un
 {s:filtrable}
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Armes magiques spécifiques</caption><tr CLASS="titre"><td WIDTH="22%">Arme</td><td WIDTH= "3%">Source</td><td WIDTH="65%">Capacités</td><td WIDTH="10%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Balle de Signalisation]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Balle darme à feu (arme)|balle]] +1. N’inflige pas de dégâts au touché, mais inflige les effets du sort *[[lueur féerique]]* ainsi qu’un malus de -2 à la [[CA]] contre les attaques à distance pendant 1d4 [[round|round(s)]] au touché.</td><td>100 po</td></tr><tr CLASS="premier"><td>[[Flèche Endormante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Flèches (arme)|flèche]] +1. Inflige des dégâts [[Blessures et mort#NONLETAL|non-létaux]] et peut endormir sa cible au touché.</td><td>132 po</td></tr><tr CLASS="premier"><td>[[Bille de Poussière]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Billes de fronde (arme)|bille de fronde]] +1. Manifeste un nuage asphyxiant pendant 1d6 [[round|round(s)]] sur la case de sa cible qui peut rendre [[fiévreux]] et [[aveuglé|aveugle]] pendant 1 [[round]].</td><td>196 po</td></tr><tr CLASS="premier"><td>[[Fléchette insaisissable]]</td><td><sup>*UI*</sup></td><td>Similaire à une *[[fléchettes poids-plume (arme)|fléchette poids-plume]] +1*. Après avoir été tirée, le porteur peut rappeler les résidus de l'arme à lui par une action rapide, afin de ne pas laisser de trace.</td><td>206 po</td></tr><tr CLASS="premier"><td>[[Carreau dEnchevêtrement|Carreau d’Enchevêtrement]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Carreaux darbalète (arme)|carreau d'arbalète]] *[[traqueuse (propriété)|traqueur]]* +1. [[enchevêtré|Enchevêtre]] sa cible au touché (comme avec une [[Armes alchimiques#Sacoche immobilisante|sacoche immobilisante]]).</td><td>226 po</td></tr><tr CLASS="premier"><td>[[Carreau Hurleur]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Carreaux darbalète (arme)|carreau d'arbalète]] +2. Peut [[secoué|secouer]] les créatures à 6m ou moins de sa trajectoire.</td><td>267 po</td></tr><tr CLASS="premier"><td>[[Flèche ophidienne]]</td><td><sup>CM</sup></td><td>Similaire à une [[Flèches (arme)|flèche]] *[[traqueuse (propriété)|traqueuse]]* +1 ou à un [[Carreaux darbalète (arme)|carreau d'arbalète]] *[[traqueuse (propriété)|traqueur]]* +1 lorsqu'il est bien dressé. Livre une dose de [[Poisons#Venindevipèreàtêtenoire|venin de vipère à tête noire]] ([[DD]] 20) au touché.</td><td>306 po</td></tr><tr CLASS="premier"><td>[[Dague de Maître En Argent]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] [[armes de maître|de maître]] en [[matériaux spéciaux#ARGENT|argent alchimique]].</td><td>322 po</td></tr><tr CLASS="premier"><td>[[Bille de lAlchimiste|Bille de l’Alchimiste]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Billes de fronde (arme)|bille de fronde]] +1. Peut contenir une flasque d’une substance alchimique, et libérer son contenu au touché (comme avec une [[arme à aspersion]]).</td><td>330 po</td></tr><tr CLASS="premier"><td>[[Épée Longue En Fer Froid]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée longue (arme)|épée longue]] [[armes de maître|de maître]] en [[matériaux spéciaux#FERFROID|fer froid]].</td><td>330 po</td></tr><tr CLASS="premier"><td>[[Flèche Silencieuse]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Flèches (arme)|flèche]] +1. Inflige les effets du sort *[[silence]]* pendant 5 [[round|rounds]] au touché. La cible peut résister à l’effet en réussissant un jet de [[Volonté]] dont le [[DD]] dépend du modèle.</td><td>—</td></tr><tr><td>&emsp; normale</td><td><sup>A&E</sup></td><td>[[Volonté]] [[DD]] 13 pour annuler.</td><td>547 po</td></tr><tr><td>&emsp; supérieure</td><td><sup>A&E</sup></td><td>[[Volonté]] [[DD]] 16 pour annuler.</td><td>| 1 047 po</td></tr><tr CLASS="premier"><td>[[Étoile indiscrète]]</td><td><sup>*UI*</sup></td><td>Similaire à un *[[Shurikens (arme)|shuriken]] +1*. Au lieu d'infliger les dégâts au toucher, l'arme s'incruste dans la cible et devient un capteur de scrutation indétectable.</td><td>646 po</td></tr><tr CLASS="premier"><td>[[Javeline de Foudre]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Javeline (arme)|javeline]]. Se change en *[[éclair]]* infligeant 5d6 points de dégâts au lancé. Usage unique.</td><td>1 500 po</td></tr><tr CLASS="premier"><td>[[Flèche Brûlante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Flèches (arme)|flèche]] de *[[feu (propriété)|feu]]* +1. Inflige 1d6 points de dégâts de feu pendant les 3 [[round|rounds]] suivant le touché en plus des dégâts normaux au touché. Usage unique.</td><td>1 516 po</td></tr><tr CLASS="premier"><td>[[Flèche Grésillante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Flèches (arme)|flèche]] de *[[corrosive (propriété)|corrosive]]* +1. Inflige 1d6 points de dégâts d’acide supplémentaires pendant les 3 [[round|rounds]] suivant le touché. Usage unique.</td><td>1 516 po</td></tr><tr CLASS="premier"><td>[[Balle Fouisseuse]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Balle darme à feu (arme)|balle]] +1. Rend sa cible [[chancelant|chancelante]] pendant un nombre de round dépendant du modèle au touché. La cible peut mettre fin à l’effet en réussissant un test de [[Premiers secours]] dont le [[DD]] dépend du modèle.</td><td>—</td></tr><tr><td>&emsp; normale</td><td><sup>A&E</sup></td><td>[[Chancelant]] pendant 1d3 [[round|round(s)]]. [[Premiers secours]] [[DD]] 15 pour annuler.</td><td>1 722 po</td></tr><tr><td>&emsp; supérieure</td><td><sup>A&E</sup></td><td>[[Chancelant]] pendant 1d3+2 [[round|rounds]]. [[Premiers secours]] [[DD]] 20 pour annuler.</td><td>| 3 447 po</td></tr><tr CLASS="premier"><td>[[Carreau Asséchant]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Carreaux darbalète (arme)|carreau d'arbalète]] *[[tueuse (propriété)|tueur]]* d’Extérieurs (eau) +1. Peut infliger les effets du sort *[[coupe de poussière]]* ainsi que l’état [[fiévreux]] et [[chancelant]] au touché.</td><td>1 730 po</td></tr><tr CLASS="premier"><td>[[Flèche Mortelle]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Flèches (arme)|flèche]] +1. Inflige un nombre de points de dégâts dépendant du modèle à un type de créature choisi à la fabrication, au touché. La cible peut résister aux dégâts en réussissant un jet de [[Vigueur]] (même si elle y est immunisée en temps normal) dont le [[DD]] dépend du modèle.</td><td>—</td></tr><tr><td>&emsp; normale</td><td><sup>A&E</sup></td><td>50 points de dégâts. [[Vigueur]] [[DD]] 20 pour annuler.</td><td>2 282 po</td></tr><tr><td>&emsp; supérieure</td><td><sup>A&E</sup></td><td>100 points de dégâts. [[Vigueur]] [[DD]] 23 pour annuler.</td><td>| 4 057 po</td></tr><tr CLASS="premier"><td>[[Dague En Adamantium]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] en [[matériaux spéciaux#ADAMANTIUM|adamantium]].</td><td>3 002 po</td></tr><tr CLASS="premier"><td>[[Hache dArmes En Adamantium|Hache d’Armes En Adamantium]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Hache darmes (arme)|hache d’armes]] en [[matériaux spéciaux#ADAMANTIUM|adamantium]].</td><td>3 010 po</td></tr><tr CLASS="premier"><td>[[Réplique du débauché]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[rapière (arme)|rapière]] +1*. Une fois par jour, permet de lancer *[[regain dassurance|regain d'assurance]]* (ou le fait automatiquement si le porteur est [[effrayé]] ou [[paniqué]]), et de transformer 30 litres d'eau en bière inoffensive.</td><td>3 060 po</td></tr><tr CLASS="premier"><td>[[Lame du destin]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[dague (arme)|dague]] +1*. Permet de lancer *[[destruction de mort-vivant]]* à volonté. L'objet est considéré comme fabriqué en [[argent]] dans le cadre de la [[RD|réduction de dégâts]].</td><td>3 072 po</td></tr><tr CLASS="premier"><td>[[Éclosion immuable]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[morgenstern (arme)|morgenstern]] +1*. Une fois par jour, permet de lancer *[[bénédiction]]*. Une fois par jour, lance *[[soins légers]]* au début du tour du porteur après qu'il soit tombé à 0 pv ou moins.</td><td>3 848 po</td></tr><tr CLASS="premier"><td>[[Arc de lien familial]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[arc long (arme)|arc long]] +1*. Un allié du porteur harmonisé avec l'objet ne confère plus d'[[abri|abri mou]] contre les attaques portées avec cet objet.</td><td>3 875 po</td></tr><tr CLASS="premier"><td>[[Lueur sanglante]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[épée à deux mains (arme)|épée à deux mains]] +1*. Une fois par jour, permet de lancer *[[rage]]* (porteur uniquement). L'objet éclaire comme une [[bougie (objet)|bougie]] lorsqu'il est manié, et comme une [[torche (objet)|torche]] après avoir blessé une créature ou quand l'effet de *rage* est actif.</td><td>3 970 po</td></tr><tr CLASS="premier"><td>[[Lance de Joute]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Lance (arme)|lance]] +1. Peut désarçonner une cible montée au touché.</td><td>4 310 po</td></tr><tr CLASS="premier"><td>[[Marteau du père de la forge]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[marteau de guerre (arme)|marteau de guerre]] +1*. Peut prendre la forme d'un marteau de forgeron à volonté. Confère une [[Résistance (capacité)|résistance]] au feu de 1. Inflige 1 point de dégât de feu supplémentaire 1d4 minutes après avoir été chauffé.</td><td>4 312 po</td></tr><tr CLASS="premier"><td>[[Brise-arme]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée longue (arme)|épée longue]] +1. Confère à un porteur avec le don [[Science de la destruction]] un bonus de +4 au [[jet dattaque|jet d’attaque]] opposé et au [[jet de dégâts]] infligé à l’arme pendant une manœuvre de [[manœuvres offensives#DESTRUCTION|destruction]]. Peut endommager des armes dotées d’un bonus d’altération de +4 ou moins normalement.</td><td>4 315 po</td></tr><tr CLASS="premier"><td>[[Alibi noir]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[épée courte (arme)|épée courte]] +1*. Cinq fois par jour, peut masquer le visage d'une créature consentante pendant 10 minutes. Une fois par jour, peut effacer la dernière minute de souvenirs du porteur (comme avec *[[modification de mémoire]]*).</td><td>4 410 po</td></tr><tr CLASS="premier"><td>[[Shahtoosh du perfectionniste]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[fouet (arme)|fouet]] +1*. Une fois par jour, permet de lancer *[[connaître son ennemi]]* et *[[soins légers]]*.</td><td>4 461 po</td></tr><tr CLASS="premier"><td>[[Fléau de linconscient|Fléau de l'inconscient]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[fléau darmes lourd (arme)|fléau d'armes lourd]] +1*. Permet de lancer *[[confusion mineure]]* sur la cible d'une attaque réussie avec l'objet et sur le porteur, à volonté. Le porteur gagne des [[points de vie temporaires]] lorsqu'il réussit un [[coup de grâce]].</td><td>4 815 po</td></tr><tr CLASS="premier"><td>[[Bâton des serpents entrelacés]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[bâton (arme)|bâton]] +1*. Permet de lancer *[[projectile magique]]* à volonté. Le porteur peut lancer des sorts comme s'il possédait le don [[Dispense de composantes matérielles]].</td><td>5 050 po</td></tr><tr CLASS="premier"><td>[[Lame aux trois passions]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[coutille (arme)|coutille]] +1*. Confère un bonus de sainteté de +4 à une forme de [[Représentation]] (choisie à la création) tant que le porteur est à 3 m ou moins de l'objet. Une fois par jour, permet de lancer*[[couleurs dansantes]]*.</td><td>5 248 po</td></tr><tr CLASS="premier"><td>[[Chope de combat du dieu ivre]]</td><td><sup>*WMH*</sup></td><td>Similaire à un [[marteau léger (arme)|marteau léger]] +1. Peut contenir jusqu'à 14 litres de 6 liquides différents. suivants de [[Cayden Cailéan (technique)|Cayden Cailéan]] sont formés à son maniement.</td><td>5 301 po</td></tr><tr CLASS="premier"><td>[[Flamme de laube|Flamme de l'aube]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[cimeterre (arme)|cimeterre]] +1*. Une fois par jour, permet d'utiliser le [[Magus#COMBATMAGIQUE|combat magique]] du magus pour attaquer et lancer un sort de *[[mains brûlantes]]* plus efficace sur les [[type Mort-vivant|morts vivants]].</td><td>5 315 po</td></tr><tr CLASS="premier"><td>[[Ongle de la Princesse]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[faux (arme)|faux]] +1*. Peut être chargée d'[[Prêtre#CANALISATIONDENERGIE|énergie négative canalisée]] afin de la libérer lors d'une attaque ou pour soigner une créature consentante plus tard.</td><td>5 318 po</td></tr><tr CLASS="premier"><td>[[Kukri de la Saignée]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Kukri (arme)|kukri]] +1. Inflige 2 points de dégâts de [[saignement]] (cumulatif avec les autres dégâts de [[saignement]] infligés par l’attaque) sur un critique confirmé. Les premiers dégâts de [[saignement]] infligés à une créature avec cette arme confèrent autant de points de vie temporaire au porteur pendant 1 minute.</td><td>6 308 po</td></tr><tr CLASS="premier"><td>[[Lumière de lHéritière|Lumière de l'Héritière]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[épée longue (arme)|épée longue]] +1*. Une fois par jour, permet de lancer *[[châtiment de lHéritière|châtiment de l'Héritière]]*. Les sorts de « soins » et les [[Paladin#IMPOSITIONDESMAINS|impositions des mains]] rendent +1 pv au porteur pour chaque dé lancé. Éclaire comme une [[torche (objet)|torche]].</td><td>6 555 po</td></tr><tr CLASS="premier"><td>[[Masse de Roc]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +1. Une fois par jour, peut libérer sa tête pour en faire un rocher de taille G qui écrase tout en ligne droite sur 18m (ce qui rend l’arme inutilisable pendant 24 heures).</td><td>6 812 po</td></tr><tr CLASS="premier"><td>[[Gourdin Bestial]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Gourdin (arme)|gourdin]] +1. Peut devenir une arme naturelle et manufacturée simultanément à volonté, modifiant le type de dégâts qu’elle inflige. Un porteur avec la capacité [[druide#FORMEANIMALE|forme animale]] peut en dépenser une utilisation quotidienne pour augmenter les dégâts de l’arme modifiée d’une catégorie de taille.</td><td>7 300 po</td></tr><tr CLASS="premier"><td>[[Fourche de Guerre]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Trident (arme)|trident]] +1. Peut s’allonger (devenant une arme à allonge et à deux mains qui ne peut être lancée), se raccourcir (devenant une arme légère qu’on peut lancer comme une [[Javeline (arme)|javeline]]), et reprendre sa taille d’origine à volonté.</td><td>7 315 po</td></tr><tr CLASS="premier"><td>[[Lamétoile filante]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[lamétoile (arme)|lamétoile]] +1*. Une fois par jour, permet de lancer *[[saut]]* et *[[couleurs dansantes]]*. L'objet éclaire comme une [[bougie (objet)|bougie]] lorsqu'il est manié.</td><td>7 724 po</td></tr><tr CLASS="premier"><td>[[Lance des ancêtres honorés]]</td><td><sup>*WMH*</sup></td><td>Similaire à une [[lance (arme)|lance]] [[spectrale (propriété)|spectrale]] +1. Lorsque le porteur entre en rage, peut lui conférer les effets d'une *[[assistance divine]]*, rendre un bouclier *[[spectrale (propriété)|spectral]]* ou s'ajouter la propriété spéciale *[[boomerang (propriété)|boomerang]]* pendant toute la durée de celle-ci.</td><td>7 802 po</td></tr><tr CLASS="premier"><td>[[Rapière du Bretteur]]</td><td><sup>MCA</sup></td><td>Similaire à une [[rapière (arme)|rapière]] +1. Le porteur peut dépenser un point de [[panache]] pour conférer la propriété *[[tueuse (propriété)|tueuse]]* d’humanoïdes (sous-type au choix) à l’arme pendant 1 [[round]], à volonté.</td><td>7 805 po</td></tr><tr CLASS="premier"><td>[[Goupillon Intarissable]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Goupillon de combat (arme)|goupillon de combat]] +1 aligné sur le Bien. Contient une flasque d’eau bénite infinie, lançable par une attaque de contact à distance avec un facteur de portée de 3m.</td><td>7 805 po</td></tr><tr CLASS="premier"><td>[[Bâton des Ouragans]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Bâton (arme)|bâton]] +1/+1. Une fois par jour, peut générer les effets du sort *[[bourrasque]]*. Un [[moine]] ou un [[ninja]] peut activer ce pouvoir autant de fois qu’il le souhaite en dépensant un point de [[moine#RESERVEDEKI|ki]].</td><td>7 840 po</td></tr><tr CLASS="premier"><td>[[Dague Venimeuse]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] +1. Une fois par jour, peut empoisonner sa cible au touché (comme avec *[[empoisonnement]]*).</td><td>8 302 po</td></tr><tr CLASS="premier"><td>[[Lame de Dague|Lame d'Assassin]]</td><td><sup>MCA</sup></td><td>Similaire à une [[dague (arme)|dague]] +1. Si le porteur étudie une créature pendant 3 [[round|rounds]] (qui peuvent faire partie de l'étude d'une [[assassin#ATTAQUEMORTELLE|attaque mortelle]]) sans se faire repérer ou identifié comme un ennemi, il peut infliger des [[attaque sournoise|attaques sournoises]] sur toutes les attaques qu'il porte contre cette créature pendant les 3 prochains rounds.</td><td>8 302 po</td></tr><tr CLASS="premier"><td>[[Grande hache des habitants des grottes]]</td><td><sup>CM</sup></td><td>Similaire à une [[grande hache (arme)|grande hache]] +1. Une fois par jour, peut [[pétrifié|pétrifier]] une créature 1 [[round]] après l'avoir touchée pendant 1d4 rounds.</td><td>8 305 po</td></tr><tr CLASS="premier"><td>[[Tranche-ombre]]</td><td><sup>*ISR*</sup></td><td>Similaire à une *[[Épée courte (arme)|épée courte]] +1* . Ignore les [[camouflage|camouflages]] dus à une faible luminosité ou des ombres, y compris dans le cadre des dégâts de précision comme l'[[Roublard#ATTAQUESOURNOISE|attaque sournoise]].</td><td>8 310 po</td></tr><tr CLASS="premier"><td>[[Croc rouillé de la Bête sauvage]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[grande hache (arme)|grande hache]] +1*. Les créatures touchées par l'objet peut devenir [[fiévreux|fiévreuses]] jusqu'à ce que les éclats de métal soit retirés de sa plaie.</td><td>8 320 po</td></tr><tr CLASS="premier"><td>[[Chaîne umbrale]]</td><td><sup>*ISG*</sup></td><td>Similaire à une [[chaîne cloutée (arme)|chaîne cloutée]] [[arme de maître|de maître]] dans les zones de [[Exploration#VISIONLUMIERE|lumière vive]], à une *[[chaîne cloutée (arme)|chaîne cloutée]] +1* dans les zones de [[Exploration#VISIONLUMIERE|lumière normale]] ou [[Exploration#VISIONLUMIERE|faible]], à une *[[chaîne cloutée (arme)|chaîne cloutée]] +2* dans les zones de [[Exploration#VISIONLUMIERE|ténèbres]], ou comme une *[[chaîne cloutée (arme)|chaîne cloutée]] +2* qui offre les effets du don [[Combat en aveugle]] dans les zones de ténèbres surnaturelles.</td><td>8 825 po</td></tr><tr CLASS="premier"><td>[[Lame Obscure]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée courte (arme)|épée courte]] +1 dans une zone faiblement éclairée, et à une épée courte +2 dans les ténèbres. Confère les effets du don [[Combat en aveugle]] dans les zones d’obscurité magique. Perd toutes ses propriétés dans une zone vivement éclairée ou exposée à la lumière du jour.</td><td>8 810 po</td></tr><tr CLASS="premier"><td>[[Coup de tonnerre]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[trident (arme)|trident]] +1*. Le porteur peut ajouter la propriété spéciale *de [[froid (propriété)|froid]]* ou *de [[foudre (propriété)|foudre]]* à l'objet, à volonté.</td><td>9 315 po</td></tr><tr CLASS="premier"><td>[[Fronde Morsure-de-froid]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Fronde (arme)|fronde]] de *[[froid (propriété)|froid]]* +1. Trois fois par jour, au lieu de profiter de la propriété *[[froid (propriété)|froid]]*, peut générer une boule de neige lançable par une attaque de contact à distance avec un facteur de portée de 12m, qui inflige 1d6+1 points de dégâts [[Blessures et mort#NONLETAL|non-létaux]] et qui [[fatigué|fatigue]] la cible au touché.</td><td>9 380 po</td></tr><tr CLASS="premier"><td>[[Trident de Stabilité]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Trident (arme)|trident]] +1. Se comporte comme un [[sceptre inamovible]] lorsque le porteur monte dessus par une [[action rapide]]. Sur le trident, le porteur est toujours considéré comme prêt à réceptionner une charge et obtient un bonus de +10 au [[DMD]] contre les manœuvres visant à le déplacer. Le porteur peut s’y rattraper lorsqu’il chute.</td><td>9 815 po</td></tr><tr CLASS="premier"><td>[[Fille de Rouge-Désir]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[cimeterre à deux mains (arme)|cimeterre à deux mains]] de [[feu (propriété)|feu]] +1*. Peut prendre la forme d'un *[[kukri (arme)|kukri]] de [[feu (propriété)|feu]] +1* à volonté. Le porteur peut lécher la lame de l'objet après avoir tué un [[type Humanoïde|humanoïde]] avec pour récupérer des points de vie.</td><td>9 875 po</td></tr><tr CLASS="premier"><td>[[Lame en ferraille]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Tranchechien (arme)|tranchechien]] [[tueuse (propriété)|tueur]] d'[[type Animal|animaux]] +1*. Peut se transformer en un tas de feraille insignifiant ou redevenir une arme sur commande.</td><td>9 928 po</td></tr><tr CLASS="premier"><td>[[Trident dAlerte Sous-marine|Trident d’Alerte Sous-marine]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Trident (arme)|trident]] +2. Peut renseigner le porteur sur la présence de prédateurs marins, leur race, leur nombre, et la profondeur à laquelle ils se trouvent dans un rayon de 210m autour de lui.</td><td>10 115 po</td></tr><tr CLASS="premier"><td>[[Croc de serpent]]</td><td><sup>*UI*</sup></td><td>Similaire à une *[[Dague (arme)|dague]] +1*. L'arme peut stocker jusqu'à 5 doses de poison de blessure que le porteur peut y appliquer par une action rapide sans risquer de s'empoisonner.</td><td>10 302 po</td></tr><tr CLASS="premier"><td>[[Dague de lAssassin|Dague de l’Assassin]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] +2. Augmente de 1 le [[DD]] du jet de [[Vigueur]] de l’[[assassin#ATTAQUEMORTELLE|attaque mortelle]] d’un porteur [[assassin]].</td><td>10 302 po</td></tr><tr CLASS="premier"><td>[[Dague Jumelle]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] +1. Peut générer une seconde dague +1 à volonté. Il ne peut exister que 2 dagues jumelles du même modèle à la fois.</td><td>10 302 po</td></tr><tr CLASS="premier"><td>[[Courroux du courtisan]]</td><td><sup>*UI*</sup></td><td>Similaire à un *[[Éventail de combat (arme)|éventail de combat]] +1*. Ressemble à un éventail ordinaire. Trois fois par jour, peut tirer des ardillons (qui peuvent être empoisonnés comme l'arme) infligeant 3d4 points de dégâts perforants dans un cône de 4,5 m.</td><td>10 305 po</td></tr><tr CLASS="premier"><td>[[Griffes métalliques de lacération]]</td><td><sup>MR</sup></td><td>Similaire à des [[Équipement daventurier#Griffes métalliques|griffes métalliques]] *[[acérée (propriété)|acérées]]* +1. Lorsque le porteur effectue une attaque à outrance et touche avec ces griffes et une autre attaque de griffe (renforcée ou non par des griffes métalliques), il inflige 1d4 points de dégâts supplémentées plus 1,5 fois son bonus de [[Force]], jusqu’à une fois par [[round]].</td><td>10 305 po</td></tr><tr CLASS="premier"><td>[[Œil des Enfers]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[masse darmes légère (arme)|masse d'armes légère]] de [[feu (propriété)|feu]] +1*. Une fois par jour, la moitié des dégâts de la propriété *de feu* de l'objet peut être composé d'énergie impie (n'infligeant aucun dégât aux créatures mauvaises mais le double aux créatures bonnes) pendant 1 minute.</td><td>10 305 po</td></tr><tr CLASS="premier"><td>[[Poing du Signifer]]</td><td><sup>MCA</sup></td><td>Similaire à une [[masse darmes légère (arme)|masse d’armes légère]] +1. Un porteur qui possède une [[magus#RESERVEMAGIQUE|réserve magique]], un [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]] ou la capacité [[prêtre combattant#FERVEUR|ferveur]] peut en dépenser 1 point/utilisation pour effectuer une attaque au corps à corps contre une créature. Si cette attaque réussit, l'arme bénéficie de la propriété *[[tueuse (propriété)|tueuse]]* contre le type de cette créature (ou son sous-type si la créature est un humanoïde ou un extérieur) pendant 1 minute.</td><td>10 305 po</td></tr><tr CLASS="premier"><td>[[Lame de rancune]]</td><td><sup>RSE</sup></td><td>Similaire à une *[[rapière (arme)|rapière]] +1*. Inflige 1 point de dégâts supplémentaire au touché si le porteur a déjà blessé uniquement la même cible avec l'arme au tour précédent (cumulable jusqu'à un bonus aux dégâts de +5).</td><td>10 320 po</td></tr><tr CLASS="premier"><td>[[Lame valeureuse]]</td><td><sup>*WMH*</sup></td><td>Similaire à un [[cimeterre (arme)|cimeterre]] [[vaillante (propriété)|vaillant]] +1. Une fois par jour et dans la minute suivant la neutralisation d'un adversaire, peut conférer un bonus de +2 aux [[jet dattaque|jets d'attaque]], aux tests de [[compétences|compétence]] et aux [[jds|jets de sauvegarde]] des alliés du porteur pendant 10 minutes.</td><td>10 315 po</td></tr><tr CLASS="premier"><td>[[Amorce de distraction]]</td><td><sup>*UI*</sup></td><td>Similaire à un *[[tube-amorce lourd (arme)|tube-amorce lourd]] +1*. Deux fois par jour quand le porteur tire, peut déplacer le son du tir et les auras du porteur sur un autre point de l'espace pendant 6 rounds.</td><td>10 550 po</td></tr><tr CLASS="premier"><td>[[Sabre de sang bouillant]]</td><td><sup>*ISG*</sup></td><td>Similaire à un *[[sabre dentelé (arme)|sabre dentelé]] [[corrosive (propriété)|corrosif]] +1*. Une fois par jour, permet de lancer *[[disparition]]*.</td><td>11 035 po</td></tr><tr CLASS="premier"><td>[[Pistolet du maréchal-bouclier]]</td><td><sup>*WMH*</sup></td><td>Similaire à un [[Pistolet à double canon (arme)|pistolet à double canon]] +1. Contient un [[Dons#DONAUDACE|don d'audace]] que le porteur peut utiliser s'il en remplit les conditions.</td><td>11 050 po</td></tr><tr CLASS="premier"><td>[[Pic de clivage de la pierre]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[pic de guerre lourd (arme)|pic de guerre lourd]] +1* en [[adamantium]]. Inflige 2d6 points de dégâts supplémentaires aux objets abandonnés, ou 4d6 en plus d'ignorer leur [[solidité]] au prix d'une utilisation de [[pouvoir mythique]].</td><td>11 308 po</td></tr><tr CLASS="premier"><td>[[Fléau de Terre]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Fléau darmes lourd (arme)|fléau d’armes lourd]] +1. Peut facilement briser les objets avec une solidité de 20 ou moins. Le porteur peut désactiver cette propriété jusqu’au début de son prochain tour pour que l’arme ignore les [[abri|abris]] normaux et [[modificateurs de combat#abri partiel|partiels]] fournis par les objets et les structures en terre ou en pierre, avec lesquels ils ne peut plus intéragir.</td><td>11 315 po</td></tr><tr CLASS="premier"><td>[[Grande Hache de Vitesse]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Grande hache (arme)|grande hache]] *[[acérée (propriété)|acérée]]* +1. Confère un bonus d’altération de +3m à la vitesse de base lorsque son porteur [[charge]]. Une fois par jour, peut conférer un bonus d’altération de +3m à la vitesse de base de tous les alliés du porteur à 9m ou moins de lui, pendant 1 [[round]].</td><td>11 320 po</td></tr><tr CLASS="premier"><td>[[Baiser vengeur]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[fouet (arme)|fouet]] [[mortelle (propriété)|mortel]] +1*. Peut s'étirer comme une [[corde (objet)|corde de soie]] de 15 m et se rétracter à volonté. Une fois par jour, permet de lancer *[[revigorer]]*.</td><td>11 501 po</td></tr><tr CLASS="premier"><td>[[Lame triple-dard]]</td><td><sup>D&M</sup></td><td>Similaire à une  [[dague (arme)|dague]] +1. Permet de faire une [[manœuvres offensives|manœuvre offensive]] gratuite au touché, et s'il elle réussit, inflige des dégâts supplémentaires. Une fois par jour, un suivant de la [[Golarion.Calistria|déesse-elfe aux trois visages]] peut faire passer le [[bonus daltération|bonus d'altération]] de l'arme à +2 pendant 1 [[round]].</td><td>11 702 po</td></tr><tr CLASS="premier"><td>[[Marteau de Polarité]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Marteau météore (arme)|marteau météore]] +1/+1. En mode météore, confère un bonus de +2 aux manœuvres de [[repositionnement]] et d’[[entraînement]] contre toute créature constituée de métal ou portant une protection métallique, et permet de repousser une telle créature de 1,5m sur un [[croc-en-jambe]] réussit. En mode forteresse, permet de ramasser un objet métallique abandonné à portée d’attaque par une [[action de mouvement]], et passe le bonus de parade à la [[CA]] octroyé par le marteau à +3 contre les créatures constituées de métal ou portant une protection métallique.</td><td>12 310 po</td></tr><tr CLASS="premier"><td>[[Entrave (arme magique)|Entrave]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée à deux mains (arme)|épée à deux mains]] +1. Permet d’entamer une [[lutte]] par une [[action libre]] sans provoquer d’[[attaque dopportunité|attaque d’opportunité]] au touché. Si la tentative réussit, confère un bonus de +5 aux prochains tests de [[lutte]] contre la cible. Lorsqu’il réussit un test de [[lutte]], le porteur peut lâcher l’arme pour [[enchevêtré|enchevêtrer]] la cible.</td><td>12 350 po</td></tr><tr CLASS="premier"><td>[[Traqueur de fugitif]]</td><td><sup>*ISG*</sup></td><td>Similaire à une *[[arbalète légère (arme)|arbalète légère]] [[tueuse (propriété)|tueuse d'humains]] +1*. Confère un bonus d'altération de +3 m à la vitesse de base.</td><td>12 655 po</td></tr><tr CLASS="premier"><td>[[Regret du Changeant]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Double lame (arme)|double lame]] +1/+1 en [[matériaux spéciaux#ARGENT|argent alchimique]]. Inflige 2d6 points de dégâts supplémentaires aux créatures de sous-type métamorphe et aux créatures sous une autre forme que la leur, qui peuvent être forcés à reprendre leur forme naturelle au touché.</td><td>12 780 po</td></tr><tr CLASS="premier"><td>[[Piégeuse de Dragons]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Guisarme (arme)|guisarme]] *[[tueuse (propriété)|tueuse]]* de dragons +1. Lorsque le porteur réussit une manœuvre de [[croc-en-jambe]] contre une créature qui vole grâce à ses ailes, elle peut être [[enchevêtré|enchevêtrée]] et commencer à chuter.</td><td>13 308 po</td></tr><tr CLASS="premier"><td>[[Lame du Bourreau]]</td><td><sup>MCA</sup></td><td>Similaire à une [[épée à deux mains (arme)|épée à deux mains]] *[[acérée (propriété)|acérée]]* +1. Une fois par jour, permet d’utiliser le talent de maître tueur [[talents (tueur)#ASSASSINAT|assassinat]] (l’étude de la cible coûte une [[action complexe]] à un porteur qui n’est pas un [[tueur]]). Un porteur [[tueur]] voit le bonus d’altération de l’arme et le [[DD]] de ses tentatives d’[[talents (tueur)#ASSASSINAT|assassinat]] augmenter de 2 contre ses [[tueur#CIBLEETUDIEE|cibles étudiées]].</td><td>13 850 po</td></tr><tr CLASS="premier"><td>[[Épée À Dix Anneaux]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée à neuf anneaux (arme)|épée à neuf anneaux]] +2. Peut stocker un anneau magique, conférant ses effets à son porteur, ou stocker un anneau en un [[matériaux spéciaux|matériel spécial]], conférant ses effets aux attaques portées avec.</td><td>14 315 po</td></tr><tr CLASS="premier"><td>[[Trident des Tritons]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Trident (arme)|trident]] *[[tueuse (propriété)|tueur]]* d’humanoïdes monstrueux +1. Trois fois par jour, peut manifester les effets du sort *[[poussée hydraulique]]*. Le porteur peut dépenser les 3 utilisations quotidiennes de ce pouvoir pour manifester les effets du sort *[[torrent hydraulique]]*.</td><td>15 065 po</td></tr><tr CLASS="premier"><td>[[Masse de Démolition|Masse de Démolition inférieure]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +1 en [[matériaux spéciaux#ADAMANTIUM|adamantium]]. Le [[bonus daltération|bonus d’altération]] de l’arme passe à +3 et son multiplicateur critique à x4 contre les créatures artificielles. Le multiplicateur critique de l’arme passe à x3 contre les Extérieurs.</td><td>16 012 po</td></tr><tr><td>&emsp; [[Masse de Démolition]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +3 en [[matériaux spéciaux#ADAMANTIUM|adamantium]]. Le [[bonus daltération|bonus d’altération]] de l’arme passe à +5 contre les créatures artificielles. Le multiplicateur critique de l’arme passe à x4 contre les Extérieurs. Détruit automatiquement les créatures artificielles sur un critique confirmé.</td><td>| 75 312 po</td></tr><tr CLASS="premier"><td>[[Étreinte du tourment]]</td><td><sup>*BD*</sup></td><td>Similaire à une *[[chaîne cloutée (arme)|chaîne cloutée]] +2* en [[adamantium]]. Confère un bonus de +4 aux manœuvres de [[croc-en-jambe]] et de [[désarmement]] effectuées avec l'arme, et inflige les dégâts d'une attaque si une telle manœuvre est réussie.</td><td>17 025 po</td></tr><tr CLASS="premier"><td>[[Rapière Désarmante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Rapière (arme)|rapière]] de *[[duel (propriété)|duel]]* +1. Lorsque le porteur réussit une manœuvre de [[désarmement]], il peut déplacer l’arme ciblée de 1,50m dans la direction de son choix par une [[action rapide]].</td><td>17 820 po</td></tr><tr CLASS="premier"><td>[[Fouet Urticant]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Fouet scorpion (arme)|fouet scorpion]] *[[vicieuse (propriété)|vicieux]]* +1. Rend la cible [[fiévreux|fiévreuse]] au touché. L’effet peut être annulé avec un test de [[Premiers secours]] mais inflige 1d4+1 points de dégâts à la cible en cas d’échec.</td><td>18 305 po</td></tr><tr CLASS="premier"><td>[[Brise-bouclier]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Lance (arme)|lance]] *[[acérée (propriété)|acérée]]* +1. Inflige autant de dégâts à la cible qu’à son bouclier (si elle en porte un) au touché. Ignore la solidité du bouclier ciblé lors qu’une manœuvre de [[manœuvres offensives#DESTRUCTION|destruction]].</td><td>18 310 po</td></tr><tr CLASS="premier"><td>[[Griffe dairain|Griffe d'airain]]</td><td><sup>CSU</sup></td><td>Similaire à un *[[cimeterre (arme)|cimeterre]] [[vicieuse (propriété)|vicieux]] +2*. Un porteur [[Gnoll]] ne subit pas les dégâts dus à la propriété vicieuse de l'arme.</td><td>18 315 po</td></tr><tr CLASS="premier"><td>[[Trident de Domination Aquatique]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Trident (arme)|trident]] +1. Trois fois par jour, peut charmer 14 [[DV]] d’animaux aquatiques (comme avec *[[charme-animal]]*, mais les créatures qui réussissent leur [[jds|jet de sauvegarde]] ne peuvent pas s’approcher à moins de 3m du trident). Confère les effets du sort *[[communication avec les animaux]]* en permanence.</td><td>18 650 po</td></tr><tr CLASS="premier"><td>[[Bâton du gardien des forêts]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Bâton (arme)|bâton]] +1/+1*. Peut enchevêtrer les cibles d'une attaque réussie. Une fois par semaine, peut émuler l'effet d'engrais du sort *[[croissance végétale]]* et permet de [[communication avec les plantes|communiquer avec les plantes]] affectées.</td><td>18 700 po</td></tr><tr CLASS="premier"><td>[[Bâton de lAcrobate|Bâton de l’Acrobate]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Bâton (arme)|bâton]] +1 en [[matériaux spéciaux#EBENITE|ébénite]]. Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]]. Permet de se déplacer à sa vitesse normale sans malus sur les surfaces étroites ou irrégulières. Réduit de 1 le [[DD]] des tests de [[Acrobaties|saut en hauteur]] par tranche de 30cm. Peut permettre de passer derrière une créature que le porteur menace au lieu d’effectuer un [[pas de placement]].</td><td>19 100 po</td></tr><tr CLASS="premier"><td>[[Lance de harponnage]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[lance (arme)|lance]] [[boomerang (propriété)|boomerang]] +1* fonctionnant comme une arme à une main, avec un bonus de +2 aux [[jet dattaque|jet d’attaque]]. Au prix d'une utilisation de [[pouvoir mythique]], permet de se téléporter à une case adjacente à la créature touchée quand elle est lancée (comme avec *[[porte dimensionnelle]]*, mais le porteur peut encore agir ensuite).</td><td>19 502 po</td></tr><tr CLASS="premier"><td>[[Épée des serres]]</td><td><sup>RSE</sup></td><td>Similaire à une *[[épée bâtarde (arme)|épée bâtarde]] [[gardienne (propriété)|gardienne]] +2* en [[argent|argent alchimique]]. La propriété *gardienne* s'applique aussi à la monture du porteur.</td><td>19 515 po</td></tr><tr><td>&emsp; [[Épée des serres|Épée des serrespuissantes]]</td><td><sup>RSE</sup></td><td>Fonctionne comme une *Épée des serres* mais possède également la propriété *[[ancrage dimensionnel (propriété)|ancrage dimensionnel]]* activable par une [[action libre]].</td><td>| 38 715 po</td></tr><tr CLASS="premier"><td>[[Pistolet Drake-de-feu]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Pistolet (arme)|pistolet]] de *[[feu (propriété)|feu]]* +1. Les dégâts normaux peuvent être des dégâts de feu à volonté. Permet de manifester les effets de *[[mains brûlantes]]* au prix d’une [[Balle darme à feu (arme)|balle]] à la place d’une attaque normale.</td><td>20 300 po</td></tr><tr CLASS="premier"><td>[[Marteau de Ricochet]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Marteau léger (arme)|marteau léger]] *[[boomerang (propriété)|boomerang]]* +1. Lorsqu’il est lancé, peut rebondir afin d’effectuer toutes les attaques conférées par le [[BBA]] du porteur, mais cesse ses rebonds dès qu’un [[jet dattaque|jet d’attaque]] est raté (la distance entre les cibles des rebonds est décomptée de la portée maximale de l’arme).</td><td>20 301 po</td></tr><tr CLASS="premier"><td>[[Fléau des boucliers]]</td><td><sup>*ISR*</sup></td><td>Similaire à une *[[Hache darmes (arme)|hache d'armes]] +1*. Ignore les bonus de bouclier à la [[CA]] des cibles. Confère un bonus aux tests de [[BMO]] pour [[désarmement|désarmer]] ou [[destruction|détruire]] les objets qui offrent un bonus de bouclier.</td><td>20 310 po</td></tr><tr CLASS="premier"><td>[[Bokken de duel]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Katana (arme)|katana]] [[miséricordieuse (propriété)|miséricordieux]] +1*. Inflige des dégâts contondants plutôt que tranchants.</td><td>20 350 po</td></tr><tr CLASS="premier"><td>[[Tranchant de linvocateur infernal|Tranchant de l'invocateur infernal]]</td><td><sup>RSE</sup></td><td>Similaire à une *[[épée à deux mains (arme)|épée à deux mains]] +2*. Une fois par jour, peut infliger 9d6 points de dégâts de feu aux créatures (porteur compris) dans un cylindre de 3 m de rayon et de 12 m de haut centré sur le porteur.</td><td>20 350 po</td></tr><tr CLASS="premier"><td>[[Épée Ardente]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée longue (arme)|épée longue]] de *[[feu intense (propriété)|feu intense]]* +1. Une fois par jour, permet d’effectuer une attaque de contact à distance infligeant 4d6 points de dégâts de feu.</td><td>20 715 po</td></tr><tr CLASS="premier"><td>[[Hache brutale]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[grande hache (arme)|grande hache]] en [[adamantium]] +1*. Confère les effets du don [[Science de la destruction]] (ou [[Destruction darme supérieure|Destruction d'arme supérieure]] si le porteur le possède déjà, et un bonus de +2 aux manœuvres de [[destruction]] s'il possède aussi ce don). Inflige plus de dégâts sur une manœuvre de [[destruction]] réussie. Au touché et au prix d'une utilisation de [[pouvoir mythique]], permet de tenter une destruction dévastatrice sur un objet tenu par la cible.</td><td>21 320 po</td></tr><tr CLASS="premier"><td>[[Comète]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Lamétoile (arme)|lamétoile]] de *[[foudre (propriété)|foudre]]* +3. Une fois par jour, peut manifester les effets du sort *[[éclair]]* (8d6 points de dégâts) au lancé.</td><td>21 324 po</td></tr><tr CLASS="premier"><td>[[Épée de bonne fortune]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée courte (arme)|épée courte]] +2. Confère un bonus de chance de +1  à tous les [[jds|jets de sauvegarde]]. Une fois par jour, permet de relancer un dé après avoir vu le résultat. Permet de lancer *[[souhait]]* un nombre de fois dépendant du modèle.</td><td>—</td></tr><tr><td>&emsp; 0 souhait</td><td><sup>A&E</sup></td><td>Ne permet pas de lancer *[[souhait]]*.</td><td>22 060 po</td></tr><tr><td>&emsp; 1 souhait</td><td><sup>A&E</sup></td><td>Permet de lancer *[[souhait]]* une fois.</td><td>| 62 360 po</td></tr><tr><td>&emsp; 2 souhaits</td><td><sup>A&E</sup></td><td>Permet de lancer *[[souhait]]* deux fois.</td><td>| 102 660 po</td></tr><tr><td>&emsp; 3 souhaits</td><td><sup>A&E</sup></td><td>Permet de lancer *[[souhait]]* trois fois.</td><td>| 142 960 po</td></tr><tr CLASS="premier"><td>[[Épée de Précision]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée courte (arme)|épée courte]] +1. Confère un bonus de +4 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] des [[roublard#ATTASOURNOISE|attaques sournoises]].</td><td>22 310 po</td></tr><tr CLASS="premier"><td>[[Épée des Plans]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée longue (arme)|épée longue]] +1 sur le Plan Matériel, à une épée longue +2 sur les Plans Élémentaires contre les créatures natives de ce dernier, à une épée longue +3 sur le Plan Astral et Éthéré contre les créatures natives d’un de ces plans, et à une épée longue +4 sur n’importe quel autre plan contre les Extérieurs qui en sont natifs.</td><td>22 315 po</td></tr><tr CLASS="premier"><td>[[Épée Aux Neuf Vies]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée longue (arme)|épée longue]] +2. Peut tuer sa cible sur un coup critique confirmé jusqu’à neuf fois, après quoi elle perd ce pouvoir. Un porteur Bon subit deux [[absorption dénergie (capacité)|niveaux négatifs]] tant qu’il la porte.</td><td>23 057 po</td></tr><tr CLASS="premier"><td>[[Hache Affaiblissante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Hache darmes (arme)|hache d’armes]] *[[tueuse (propriété)|tueuse]]* de géants +1. Une fois par jour, peut infliger les effets d’un *[[rayon affaiblissant]]* (11 points de [[Force]] pendant 7 rounds) au touché.</td><td>23 310 po</td></tr><tr CLASS="premier"><td>[[Épée longue du croisé]]</td><td><sup>*WMH*</sup></td><td>Similaire à une [[épée longue (arme)|épée longue]] [[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]] de démons +1 en [[fer froid]]. Son bonus d'altération se cumule à celui des améliorations de [[paladin#PACTEDIVIN|pacte divin]] et [[Prêtre combattant#ARMESACREE|arme sacrée]].</td><td>23 815 po</td></tr><tr CLASS="premier"><td>[[Dague aux mille morsures]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[dague (arme)|dague]] [[boomerang (propriété)|boomerang]] [[acérée (propriété)|acérée]] +1* en [[mithral]]. Au prix d'une utilisation de [[pouvoir mythique]], peut attaquer plusieurs cible avec un seul lancer.</td><td>24 502 po</td></tr><tr CLASS="premier"><td>[[Geôlier des Âmes]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Gourdin mere (arme)|gourdin mere]] *[[spectrale (propriété)|spectral]]* +1. Peut absorber un fantôme ou un mort-vivant intangible au touché, qu’il met 1 heure à tuer (un fantôme aspiré se reconstruit normalement ensuite). Tant qu’il contient un esprit, devient un gourdin mere *[[spectrale (propriété)|spectral]] [[tueuse (propriété)|tueur]]* de morts-vivants +2.</td><td>25 302 po</td></tr><tr CLASS="premier"><td>[[Marteau des Nains]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Marteau de guerre (arme)|marteau de guerre]] +1, et à un marteau de guerre *[[boomerang (propriété)|boomerang]]* +2 dans les mains d’un [[nain]]. Peut être lancé avec un [[facteur de portée]] de 6m, infligeant 1d8 points de dégâts supplémentaires aux créatures de sous-type géant.</td><td>25 312 po</td></tr><tr CLASS="premier"><td>[[Arc du Long Serment]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Arc long composite (arme)|arc long composite]] +2 ([[Force]] +2). Par une [[action libre]], le porteur peut prêter serment de tuer une créature. Tant qu’une créature est la cible du serment, l’arc acquiert un bonus d’altération de +5, son multiplicateur critique passe à x4, et ses flèches infligent 2d6 points de dégâts supplémentaires contre elle, tandis qu’il devient une simple [[arme de maître]] contre toutes les autres créatures. Tant qu’un serment est actif, le porteur subit un malus de -1 aux [[jet dattaque|jets d’attaques]] effectués avec une autre arme que cet arc. Un seul serment peut être actif à la fois, et il le reste pendant 7 jours ou jusqu’à la mort de sa cible.</td><td>25 600 po</td></tr><tr CLASS="premier"><td>[[Épée Voleuse de Vie]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Épée longue (arme)|épée longue]] +2. Inflige un [[absorption dénergie (capacité)|niveau négatif]] à sa cible et confère 1d6 points de vie temporaire au porteur sur un coup critique confirmé.</td><td>25 715 po</td></tr><tr CLASS="premier"><td>[[Arc du lecteur des vents]]</td><td><sup>*WMH*</sup></td><td>Similaire à un [[arc long composite (arme)|arc long composite]] [[polyvalente (propriété)|polyvalent]] [[traqueuse (propriété)|traqueur]] +1. Inflige deux points de dégâts supplémentaires de [[saignement]] aux [[rôdeur#ENNEMIJURE|ennemis jurés]] et aux [[tueur#CIBLEETUDIEE|cibles étudiées]] du porteur. Deux fois par jour, permet au porteur de situer un tel adversaire.</td><td>27 400 po</td></tr><tr CLASS="premier"><td>[[Pic brise-montagnes]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Pic de guerre lourd (arme)|pic de guerre lourd]] en [[adamantium]] +2*. Possède un équivalent de la propriété *[[tueuse (propriété)|tueuse]]* contre les créatures de [[sous-type Terre|Terre]].</td><td>28 008 po</td></tr><tr CLASS="premier"><td>[[Rapière de Déplacement Tactique]]</td><td><sup>MCA</sup></td><td>Similaire à une [[rapière (arme)|rapière]] +2. Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]] pour traverser les zones contrôlées ou occupées par des ennemis. Permet de dépenser un point de [[panache]] par une [[action rapide]] pour se déplacer de 3m sans provoquer d’[[attaque dopportunité|attaque d’opportunité]] au touché.</td><td>30 320 po</td></tr><tr CLASS="premier"><td>[[Fléau de serpent]]</td><td><sup>CM</sup></td><td>Similaire à une [[masse darmes lourde (arme)|masse d’armes lourde]] [[arme de maître|de maître]] ou à un *[[fléau darmes lourd (arme)|fléau d’armes lourd]] [[rapide (propriété)|rapide]] +1*, au choix du porteur.</td><td>32 315 po</td></tr><tr CLASS="premier"><td>[[Flamme de la déesse]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[cimeterre (arme)|cimeterre]] de [[feu (propriété)|feu]] +1*. Trois fois par jour, peut être transformée en *[[lame de feu]]*. Une fois par jour et au prix d'une utilisation de [[pouvoir mythique]], peut se transformer en [[élémentaire du Feu de taille G]] pendant 10 minutes.</td><td>33 315 po</td></tr><tr CLASS="premier"><td>[[Fleuret du gentleman]]</td><td><sup>*ISR*</sup></td><td>Similaire à une *[[Rapière (arme)|rapière]] [[acérée (propriété)|acérée]] +1*. Les ennemis qui tentent d'approcher le porteur à plusieurs doivent réussir un jet de [[Volonté]].</td><td>32 320 po</td></tr><tr CLASS="premier"><td>[[Apprentie du Coupe-gorge]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée courte (arme)|épée courte]] *[[dansante (propriété)|dansante]]* +1. Peut être dégainée par une [[action libre]] (comme avec [[Arme en main]]). Danse pendant 8 [[round|rounds]] (au lieu de 4), mais ne peut être animée que deux fois par jour. Lorsqu’elle est animée et attaque une créature, elle va sur sa case et la [[pris en tenaille|prend en tenaille]] pour son activateur jusqu’au tour de ce dernier.</td><td>33 910 po</td></tr><tr CLASS="premier"><td>[[Errani kamaki]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Harpon (arme)|harpon]] [[sanglante (propriété)|sanglant]] +2*. Inflige le double des dégâts aux objets en bois et ignore leur solidité.</td><td>35 005 po</td></tr><tr CLASS="premier"><td>[[Mambele du chasseur]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Hunga munga (arme)|hunga munga]] [[boomerang (propriété)|boomerang]] [[chasseresse (propriété)|chasseur]] +1*. Les attaques à distance peuvent faire tomber les cibles.</td><td>35 304 po</td></tr><tr CLASS="premier"><td>[[Coupe-écailles]]</td><td><sup>*ISR*</sup></td><td>Similaire à une *[[Épée longue (arme)|épée longue]] +2*. Possède un équivalent de la propriété *[[tueuse (propriété)|tueuse]]* contre les [[type Humanoïde|humanoïdes]] [[sous-type reptilien|reptiliens]] et les [[type Humanoïde monstrueux|humanoïdes monstrueux]] serpentoïdes. Une fois par jour, permet de relancer un [[jds|jet de sauvegarde]] contre un effet de contrôle mental.</td><td>35 315 po</td></tr><tr CLASS="premier"><td>[[Complainte des Goules]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Marteau de guerre (arme)|marteau de guerre]] *[[spectrale (propriété)|spectral]]* de *[[destruction (propriété)|destruction]]* +1. Trois fois par jour, lorsque le porteur s’apprête à attaquer un mort-vivant, celui-ci peut tomber [[à terre]].</td><td>35 312 po</td></tr><tr CLASS="premier"><td>[[Fil du duelliste]]</td><td><sup>MCA</sup></td><td>Similaire à une [[rapière (arme)|rapière]] de *[[duel (propriété)|duel]]* de *[[riposte (propriété)|riposte]]* +2. Trois fois par jour, permet d’effectuer une attaque au corps à corps infligeant 1d6+2 points de dégâts contondants par une [[action rapide]].</td><td>35 320 po</td></tr><tr CLASS="premier"><td>[[Lame de présence desprit|Lame de présence d'esprit]]</td><td><sup>*UI*</sup></td><td>Similaire à une *[[Dague (arme)|dague]] +2*. Au toucher, le porteur bénéficie d'un [[camouflage]] contre sa cible pendant 1 round. Trois fois par jour, après un coup de [[coup de grâce]] ou une [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] réussie, le porteur obtient une information de l'esprit de la cible.</td><td>36 302 po</td></tr><tr CLASS="premier"><td>[[Arc dÉrastil|Arc du Borgne]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[Arc long composite (arme)|arc long composite]] (+6 For) à [[longue portée (propriété)|longue portée]] à [[munitions inépuisables (propriété)|munitions inépuisables]] +1*. Au prix d'une utilsiation de [[pouvoir mythique]], peut d'attaquer tous les ennemis dans un rayon de 18m autour du porteur.</td><td>38 000 po</td></tr><tr CLASS="premier"><td>[[arme Marteau du chaos|Marteau du chaos]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[marteau de guerre (arme)|marteau de guerre]] [[anarchique (propriété)|anarchique]] +1*. Une fois par jour ou au prix d'une utilisation de [[pouvoir mythique]], permet de lancer *[[marteau du Chaos]]* centré sur le porteur.</td><td>38 312 po</td></tr><tr CLASS="premier"><td>[[Arbalète de la sentinelle silencieuse]]</td><td><sup>*UI*</sup></td><td>Similaire à une *[[Arbalète légère (arme)|arbalète légère]] de [[munitions inépuisables (propriété)|munitions inépuisables]] +2*. Le malus de Discrétion après un tir embusqué est réduit de 5. Trois fois par jour, peut tirer des carreaux invisibles qui créent entre eux une ligne qui alerte le porteur lorsqu'elle est traversée.</td><td>38 335 po</td></tr><tr CLASS="premier"><td>[[Masse dÉpouvante|Masse d’Épouvante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +2. Trois fois par jour, peut rendre toutes les créatures vivantes à 9m ou moins autour porteur [[paniqué|paniquées]] (comme avec *[[terreur]]*), leur infligeant un malus de -2 aux [[jds|jets de sauvegarde]] et les forçant à fuir le porteur.</td><td>38 552 po</td></tr><tr CLASS="premier"><td>[[Fouet des Enfers]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Fouet scorpion (arme)|fouet scorpion]] *[[impie (propriété)|impie]]* +1. Confère un bonus de +5 aux tests d’[[Intimidation]]. Peut [[effrayé|effrayer]] les créatures [[secoué|secouées]] pendant 1 [[round]] au touché. Peut [[recroquevillé|recroqueviller sur elles-mêmes]] les créatures [[effrayé|effrayées]] et [[paniqué|paniquées]] pendant 1d4 [[round|round(s)]] au touché. Confère des pouvoirs spéciaux si le porteur possède une [[armure en peau dhamatula|armure en peau d’hamatula]].</td><td>39 305 po</td></tr><tr CLASS="premier"><td>[[Châtiment des Dragons]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Hallebarde (arme)|hallebarde]] *[[tueuse (propriété)|tueuse]]* de dragons +2. Trois fois par jour, peut ignorer la [[RD]] des créatures de type dragon au touché.</td><td>40 310 po</td></tr><tr CLASS="premier"><td>[[Hache gèlesang]]</td><td><sup>CM</sup></td><td>Similaire à une *[[hache darmes (arme)|hache d’armes]] [[sanglante (propriété)|sanglante]] de [[froid (propriété)|froid]] +1*. Lorsque ses dégâts (saignement compris) achèvent une créature possédant 1 [[DV]] ou plus, le porteur de l'arme peut bénéficier d'une *[[faveur divine]]* ou faire bénéficier ses alliés et lui-même d'une *[[bénédiction]]*.</td><td>40 310 po</td></tr><tr CLASS="premier"><td>[[Hache Dévitalisante]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Grande hache (arme)|grande hache]] +1. Peut infliger deux [[absorption dénergie (capacité)|niveaux négatifs]] au touché. Inflige un [[absorption dénergie (capacité)|niveau négatif]] au porteur pendant une heure à chaque fois qu’il touche avec l’arme.</td><td>40 320 po</td></tr><tr CLASS="premier"><td>[[Épée du Brave]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée bâtarde (arme)|épée bâtarde]] *[[sacrée (propriété)|sacrée]]* +2. Lorsque le porteur utilise la capacité [[paladin#CHATIMENTDUMAL|châtiment du mal]] ou [[chevalier#DEFI|défi]], il peut dépenser une utilisation supplémentaire du pouvoir afin d’augmenter son niveau de classe de 3 pour en déterminer les effets.</td><td>41 335 po</td></tr><tr CLASS="premier"><td>[[Tourment des Invocateurs]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Coutille (arme)|coutille]] +2 en [[matériaux spéciaux#FERFROID|fer froid]]. Inflige 2d6 points de dégâts supplémentaires aux créatures convoquées ([[conjurateur#EIDOLON|eidolons]] compris, mais pas les créatures appelées) au touché. Une fois par [[round]], peut bannir les créatures illusoires ou convoquées avec un test de dissipation (comme avec *[[dissipation de la magie]]*, utilisant le [[BBA]] du porteur au lieu de son [[NLS]]) au touché. Une fois par jour, permet de lancer *[[renvoi]]* par une [[action libre]] sur les créatures extraplanaires au touché.</td><td>42 816 po</td></tr><tr CLASS="premier"><td>[[Cimeterre des Bois]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Cimeterre (arme)|cimeterre]] +3. Inflige 1d6 points de dégâts supplémentaires au touché. Confère les effets du don [[Enchaînement]].</td><td>47 315 po</td></tr><tr CLASS="premier"><td>[[Lame Spirituelle]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] *[[spectrale (propriété)|spectrale]]* +3. Une fois par jour, permet de lancer *[[dissipation de la magie]]*.</td><td>48 502 po</td></tr><tr CLASS="premier"><td>[[Lance Coeur-de-bois]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Lance (arme)|lance]] *[[tueuse (propriété)|tueuse]]* de morts-vivants +2. Peut être maniée comme un [[Bâton (arme)|bâton]], infligeant des dégâts contondants et bénéficiant de la propriété spéciale *[[destruction (propriété)|destruction]]*.</td><td>50 302 po</td></tr><tr CLASS="premier"><td>[[Rapière dAnémie|Rapière d’Anémie]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Rapière (arme)|rapière]] *[[sanglante (propriété)|sanglante]]* +2. Trois fois par jour, permet d’effectuer une [[contact|attaque de contact]] infligeant un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d6 points de [[Constitution]].</td><td>50 320 po</td></tr><tr CLASS="premier"><td>[[Épée Radieuse]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée bâtarde (arme)|épée bâtarde]] +2 alignée sur le Bien, mais peut être considérée comme une [[Épée courte (arme)|épée courte]] pour son maniement ainsi que les dons [[Arme de prédilection]] et [[Spécialisation martiale]]. Le [[bonus daltération|bonus d’altération]] de l’arme passe à +4 contre les créatures Mauvaises. Inflige le double de ses dégâts et possède un multiplicateur critique de x3 contre les morts-vivants et les créatures natives du Plan de l’Énergie Négative. Une fois par jour, peut être manipulée pour créer une zone de lumière dans un rayon de 3m autour du porteur (+1,5m par [[round]] d’activité, jusqu’à 10 [[round|rounds]]), affectant les créatures sensibles à celle-ci comme la lumière du jour. La zone de lumière dure tant que le porteur continue la manipulation et 1 minute après qu’il ait arrêté. Inflige un [[absorption dénergie (capacité)|niveau négatif]] aux porteurs d’alignement Mauvais.</td><td>50 335 po</td></tr><tr CLASS="premier"><td>[[Foudre de Storval]]</td><td><sup>*ISR*</sup></td><td>Similaire à un *[[Briseterre (arme)|briseterre]] +1*. Inflige +1d6 dégâts d'électricité sur une attaque réussie. Trois fois par jour, peut étourdir la cible d'un [[coup critique]] confirmé.</td><td>50 340 po</td></tr><tr CLASS="premier"><td>[[Lame du véritable guerrier]]</td><td><sup>*ISR*</sup></td><td>Similaire à une *[[Épée à deux mains (arme)|épée à deux mains]] +3*. Possède un équivalent de la propriété *[[tueuse (propriété)|tueuse]]* contre les créatures capables de lancer des [[Magie profane|sorts profanes]].</td><td>50 350 po</td></tr><tr CLASS="premier"><td>[[Arc de souffle draconique]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[arc long (arme)|arc long]] de [[feu intense (propriété)|feu intense]] +2*. Au prix d'une utilisation de [[pouvoir mythique]], peut tirer une flèche de flammes dévastatrice.</td><td>50 375 po</td></tr><tr CLASS="premier"><td>[[Katana du Soleil Levant]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Katana (arme)|katana]] *[[glorieuse (propriété)|glorieux]] [[tueuse (propriété)|tueur]]* de morts-vivants +1. Sur un coup critique potentiel, inflige les effets du sort *[[lueur féerique]]* à sa cible jusqu’à début du prochain tour du porteur et inflige 1d6 points de dégâts supplémentaires aux morts-vivants au début de leur tour. Lorsque le porteur menace de mourir ou d’[[mourant|agoniser]], peut transformer son corps et son esprit en une *[[explosion de lumière]]*, conférant les effets des sorts *[[soins légers de groupe]]* ou *[[souffle de vie]]* à ses alliées dans un rayon de 3m, et infligeant des dégâts à ses ennemis dans un rayon de 9m comme l’immolation vengeresse d’un [[bâton de surpuissance]]. Ce dernier pouvoir détruit le corps du porteur (comme avec *[[désintégration]]*, mais l’équipement reste intact), mais il a 50 % de chance de se réincarner (comme avec *[[réincarnation]]*) 24 heures après son utilisation dans un endroit sûr à 1,5km du lieu d’utilisation, alors que cette arme se téléporte à 150km du lieu d’utilisation.</td><td>51 850 po</td></tr><tr CLASS="premier"><td>[[Épée de Givre]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée à deux mains (arme)|épée à deux mains]] de *[[froid (propriété)|froid]]* +3. Émet autant de lumière qu’une [[Équipement daventurier#Torche|torche]] tant que la température ambiante est inférieure à 20°C. Absorbe les 10 premiers points de dégâts de feu que le porteur peut subir à chaque attaque. Éteinte automatiquement tous les feux non-magiques dans un rayon de 3m autour d’elle. Peut dissiper les feux magiques durables avec un [[dissipation de la magie|test de dissipation]].</td><td>54 475 po</td></tr><tr CLASS="premier"><td>[[Marteau de Lancer Nain]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Marteau de guerre (arme)|marteau de guerre]] +2, et à un marteau de guerre de *[[lancer (propriété)|lancer]]* +3 avec un [[facteur de portée]] de 9m dans les mains d’un [[nain]]. Tant qu’un [[nain]] porte cette arme, elle inflige 2d6 points de dégâts supplémentaires aux créatures de type géant et 1d6 points de dégâts supplémentaires aux autres créatures.</td><td>60 312 po</td></tr><tr CLASS="premier"><td>[[Fustibale ingénieux]]</td><td><sup>*ISR*</sup></td><td>Similaire à *[[Fustibale halfelin (arme)|fustibale halfelin]] de [[filature (propriété)|filature]] +3* de [[taille P]]. Le bonus d'altération s'applique aux attaques de fronde et de gourdin. Est considéré comme une fronde dans le cadre du trait [[Halfelin#TRAITSRACIAUXALTERNATIFS|guerrier à la fronde]].</td><td>60 320 po</td></tr><tr CLASS="premier"><td>[[Dague Vampirique]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague (arme)|dague]] *[[sanglante (propriété)|sanglante]]* +2. Inflige 1 points de dégâts supplémentaires par point de dégâts de [[saignement]] que la cible subit à cause de la propriété *[[sanglante (propriété)|sanglante]]* de cette arme au touché (+10 maximum). Peut infliger 1d6 points de dégâts supplémentaires par point de dégâts de [[saignement]] que la cible subit à cause de la propriété *[[sanglante (propriété)|sanglante]]* de cette arme sur un critique confirmé (+5d6 maximum), ce qui la soigne ensuite de tous les points dégâts de [[saignement]] impliqués.</td><td>60 802 po</td></tr><tr CLASS="premier"><td>[[Cimeterre de Rage Assassine]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Cimeterre à deux mains (arme)|cimeterre à deux mains]] *[[vicieuse (propriété)|vicieux]] [[acérée (propriété)|acéré]]* +3. Confère les effets du sort *[[rage]]* au porteur pendant 1 [[round]] sur un critique confirmé (s’il est barbare, il gagne 1 [[round]] de [[barbare#RAGE|rage]] quotidien supplémentaire à la place), et force la cible à aller attaquer son allié le plus proche (comme avec *[[ordre assassin]]*).</td><td>61 375 po</td></tr><tr CLASS="premier"><td>[[Lame Gardienne]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée courte (arme)|épée courte]] *[[dansante (propriété)|dansante]]* +1. Lorsque le personnage est mort, [[inconscient]] ou [[sans défense|endormi]] et qu’une créature tente de le toucher ou de le frapper au corps à corps, l’arme s’anime et attaque cette créature pendant 1d4 [[round|round(s)]] avant de tomber dans la case occupée par son propriétaire.</td><td>65 310 po</td></tr><tr CLASS="premier"><td>[[Crosse du serpent antique]]</td><td><sup>RSE</sup></td><td>Similaire à un *[[sceptre de flétrissement]]* et un *[[sceptre de détection des ennemis]]*. Peut stocker un sort offensif, comme avec la propriété *[[stockage de sort (propriété)|stockage de sort]]*.</td><td>70 000 po</td></tr><tr CLASS="premier"><td>[[Brise-sort]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[bâton (arme)|bâton]] +3* dont l'une des extrémités possède la propriété *[[tueuse (propriété)|tueuse]]* (lanceur de sorts ou de pouvoirs magiques). Au prix d'une utilisation de [[pouvoir mythique]], peut créer une *[[zone dantimagie|zone d’antimagie]]* qui n'affecte pas ses propres propriétés.</td><td>71 600 po</td></tr><tr CLASS="premier"><td>[[Pistolet des Cieux Infinis]]</td><td><sup>A&E</sup></td><td>Similaire à un pistolet +5. Se recharge seul après chaque tir. Immunisé aux [[long feu|longs feux]].</td><td>73 300 po</td></tr><tr CLASS="premier"><td>[[Katana du Moine Sanctifié]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Katana (arme)|katana]] de *[[focalisation ki (propriété)|focalisation ki]]* +3. En plus des avantages de la propriété *[[focalisation ki (propriété)|focalisation ki]]*, un porteur [[moine]] peut utiliser les dons qui nécessitent d’avoir les mains libres (comme [[Parade de projectiles]] ou [[Capture de projectiles]]) en portant cette arme, et la considère comme une arme de moine en ce qui concerne le [[moine#DELUGEDECOUPS|déluge de coups]].</td><td>75 350 po</td></tr><tr CLASS="premier"><td>[[Chapardeur Magique]]</td><td><sup>A&E</sup></td><td>Similaire à un [[Cimeterre (arme)|cimeterre]] *[[acérée (propriété)|acéré]] [[voleuse de magie (propriété)|voleur de magie]]* +1. Confère un bonus de +2 aux tests d’[[Art de la magie]] et d’[[utilisation dobjets magiques|Utilisation d’objets magiques]]. Révèle les auras magiques des choses et des créatures qu’il touche (comme avec *[[détection de la magie]]*, mais tout le monde peut voir l’aura révélée, et sur une chose ou créature à la fois).</td><td>75 815 po</td></tr><tr CLASS="premier"><td>[[Croc de lAraignée|Croc de l’Araignée]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Dague coup-de-poing (arme)|dague coup-de-poing]] *[[sanglante (propriété)|sanglante]] [[acérée (propriété)|acérée]]* +2. Confère un bonus de compétence de +2 aux tests d’[[Acrobaties]] pour traverser la zone contrôlée par un ennemi sans provoquer d’[[attaque dopportunité|attaque d’opportunité]]. Deux fois par jour, peut empoisonner sa cible au touché (comme avec *[[empoisonnement]]*).</td><td>79 102 po</td></tr><tr CLASS="premier"><td>[[Fléau des Démons]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Lame elfique incurvée (arme)|lame elfique incurvée]] *[[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]]* de démons +3 en [[matériaux spéciaux#FERFROID|fer froid]]. Empêche toute créature de sous-type démon dans un rayon de 18m d’elle de se téléporter (comme avec *[[ancre dimensionnelle]]*).</td><td>90 469 po</td></tr><tr CLASS="premier"><td>[[Faux du Néant]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Faux (arme)|faux]] de *[[lumière (propriété)|lumière]]* +1 mais la lame est composée d’énergie négative et n’émet aucune lumière. Le porteur peut [[prêtre#CANALISATIONDENERGIE|canaliser l’énergie]] négative dans la faux, ce qui la charge pendant 1 [[round]] par dé de canalisation. Tant que l’arme est chargée, elle inflige un [[absorption dénergie (capacité)|niveau négatif]] au touché. Le corps des créatures tuées par l’arme disparaît, empêchant leur résurrection (sauf avec *[[résurrection suprême]]* ou *[[miracle]]*).</td><td>95 318 po</td></tr><tr CLASS="premier"><td>[[Pointe dombre|Pointe d'ombre]]</td><td><sup>CMy</sup></td><td>Similaire à un *[[bâton (arme)|bâton]] [[cruelle (propriété)|cruel]] +2/+2*. Peut créer une faille de 9m de diamètre entre le Plan matériel et celui de l'ombre agissant comme des *[[ténèbres profondes]]* qui améliore les sorts du registre des ténèbres et de l'ombre lancés à l'intérieur. Au prix de trois utilisations de [[pouvoir mythique]], permet d'utiliser la faille pour se rendre sur le plan de l'autre côté de celle-ci (comme avec *[[changement de plan]]*).</td><td>96 600 po</td></tr><tr CLASS="premier"><td>[[Pistolet sans nom]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[Poivrière (arme)|poivrière]] [[chanceuse supérieure (propriété)|chanceuse supérieure]] [[tueuse de mythiques (propriété)|tueuse de mythiques]] +2*. Au prix d'une utilisation de [[pouvoir mythique]] ou d'un point d'[[audace]], peut se recharger automatiquement de [[Balle darme à feu (arme)|balles]] ou de [[Cartouche alchimique (arme)|cartouches alchimiques flamboyantes]]. Immunise le porteur à toute forme de divination visant à le localiser, et en est elle-même protégée.</td><td>98 300 po</td></tr><tr CLASS="premier"><td>[[Foudroyeur]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[lance (arme)|lance]] de [[foudre (propriété)|foudre]] [[acérée (propriété)|acérée]] +1*. Le porteur augmente son [[NLS]] de 1 lorsqu'il lance des sorts du [[registre]] de l'électricité. Une fois par jour, permet de lancer *[[contrôle du climat]]* (invoquer ou intensifier une tempête). Au prix d'une utilisation de [[pouvoir mythique]], peut lancer une version améliorée d’*[[appel de la foudre]]*.</td><td>98 302 po</td></tr><tr CLASS="premier"><td>[[Doigt dombre|Doigt d’ombre]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[dague (arme)|dague]] [[acérée (propriété)|acérée]] +2*. Ignore les bonus de parade et ceux conférés par des effets de force à la [[CA]]. Sur un coup critique confirmé, inflige un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de [[Force]] de 2 points. Au prix d'une utilisation de [[pouvoir mythique]], peut dissiper les effets de force au contact (comme avec *[[désintégration]]*) ou lancer *[[traversée des ombres]]*.</td><td>102 960 po</td></tr><tr CLASS="premier"><td>[[Épée de Justice]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée longue (arme)|épée longue]] +2 en [[matériaux spéciaux#FERFROID|fer froid]], et à une épée longue *[[sainte (propriété)|sainte]]* +5 en [[matériaux spéciaux#FERFROID|fer froid]] dans les mains d’un [[paladin]]. Tant qu’un [[paladin]] porte cette arme, confère une [[RM]] égale à 5 + le niveau de [[paladin]] du porteur à ce dernier et tous ses alliés adjacents. Une fois par [[round]], permet à un porteur [[paladin]] de lancer *[[dissipation suprême]]* (zone uniquement).</td><td>120 630 po</td></tr><tr CLASS="premier"><td>[[Lame du Bâtard]]</td><td><sup>A&E</sup></td><td>Similaire à une [[Épée bâtarde (arme)|épée bâtarde]] +2 en [[matériaux spéciaux#ADAMANTIUM|adamantium]], et à une épée bâtarde *[[impie (propriété)|impie]]* +5 en [[matériaux spéciaux#ADAMANTIUM|adamantium]] dans les mains d’un [[antipaladin]]. Tant qu’un [[antipaladin]] porte cette arme, inflige 2d6 points de dégâts d’énergie négative à toute créature vivante qui commence son tour adjacente au porteur et confère une [[guérison accélérée (capacité)|guérison accélérée]] 5 au porteur tant qu’au moins 1 créature vivante subit ces dégâts. Permet à un porteur [[antipaladin]] de lancer *[[ténèbres maudites]]* à volonté (les [[paladin|paladins]] subissent un malus de -2 à leur [[jds|jet de sauvegarde]] contre les effets du sort).</td><td>123 035 po</td></tr><tr CLASS="premier"><td>[[Lame du martyr volontaire]]</td><td><sup>RSE</sup></td><td>Similaire à une *[[dague (arme)|dague]] [[acérée (propriété)|acérée]] [[vicieuse (propriété)|vicieuse]] +3*. Peut établir un lien avec une créature à partir de son sang. La créature liée ou le porteur meurt, l'autre le suit.</td><td>150 000 po</td></tr><tr CLASS="premier"><td>[[Épée du feu intérieur]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[épée longue (arme)|épée longue]] de [[lumière (propriété)|lumière]] et de [[feu intense (propriété)|feu intense]] +1*. Maniée par une créature [[mythique]], ignore la [[Résistance (capacité)|résistance]] et l’[[Immunité (capacité)|immunité]] au feu. Au prix d'une utilisation de [[pouvoir mythique]], peut infliger des dégâts aux créatures non-vivantes. Un porteur mythique de [[grade]] 3 au moins peut ranger l'arme dans son corps pour bénéficier d'un bonus de parade de +5 à la [[CA]] et d'un bonus de chance de +2 aux [[jds|jets de sauvegarde]].</td><td>151 315 po</td></tr><tr CLASS="premier"><td>[[Justicière sacrée]]</td><td><sup>CMy</sup></td><td>Similaire à une *[[épée longue (arme)|épée longue]] +3* en [[fer froid]], et à une *épée longue [[sainte (propriété)|sainte]] de [[survie (propriété)|survie]] +5* en fer froid dans les mains d'un [[paladin]] ou d'une créature [[mythique]] Loyale Bonne (bénéficie de la propriété *[[lumière (propriété)|lumière]]* si le porteur rempli ces deux conditions). Dans les mains d'un porteur remplissant une des deux conditions, confère une [[RM|résistance à la magie]] de 5 + niveau de paladin du porteur + son [[grade|grade mythique]] au porteur et à ses alliés dans un rayon de 3m. Une fois par [[round]], permet de lancer une *[[dissipation suprême]]* améliorée.</td><td>202 630 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Armes magiques spécifiques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Arme</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="65%">Capacités</td>
+    <td WIDTH="10%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Balle de Signalisation]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Balle darme à feu (arme)|balle]] +1. N’inflige pas de dégâts au touché, mais inflige les
+      effets du sort *[[lueur féerique]]* ainsi qu’un malus de -2 à la [[CA]] contre les attaques à distance pendant
+      1d4 [[round|round(s)]] au touché.
+    </td>
+    <td>100 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flèche Endormante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Flèches (arme)|flèche]] +1. Inflige des dégâts [[Blessures et mort#NONLETAL|non-létaux]] et
+      peut endormir sa cible au touché.
+    </td>
+    <td>132 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bille de Poussière]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Billes de fronde (arme)|bille de fronde]] +1. Manifeste un nuage asphyxiant pendant 1d6
+      [[round|round(s)]] sur la case de sa cible qui peut rendre [[fiévreux]] et [[aveuglé|aveugle]] pendant 1
+      [[round]].
+    </td>
+    <td>196 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléchette insaisissable]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à une *[[fléchettes poids-plume (arme)|fléchette poids-plume]] +1*. Après avoir été tirée, le
+      porteur peut rappeler les résidus de l'arme à lui par une action rapide, afin de ne pas laisser de trace.
+    </td>
+    <td>206 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Carreau dEnchevêtrement|Carreau d’Enchevêtrement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Carreaux darbalète (arme)|carreau d'arbalète]] *[[traqueuse (propriété)|traqueur]]* +1.
+      [[enchevêtré|Enchevêtre]] sa cible au touché (comme avec une [[Armes alchimiques#Sacoche immobilisante|sacoche
+      immobilisante]]).
+    </td>
+    <td>226 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Carreau Hurleur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Carreaux darbalète (arme)|carreau d'arbalète]] +2. Peut [[secoué|secouer]] les créatures à 6m
+      ou moins de sa trajectoire.
+    </td>
+    <td>267 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flèche ophidienne]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Similaire à une [[Flèches (arme)|flèche]] *[[traqueuse (propriété)|traqueuse]]* +1 ou à un [[Carreaux
+      darbalète (arme)|carreau d'arbalète]] *[[traqueuse (propriété)|traqueur]]* +1 lorsqu'il est bien dressé. Livre
+      une dose de [[Poisons#Venindevipèreàtêtenoire|venin de vipère à tête noire]] ([[DD]] 20) au touché.
+    </td>
+    <td>306 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague de Maître En Argent]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague (arme)|dague]] [[armes de maître|de maître]] en [[matériaux spéciaux#ARGENT|argent
+      alchimique]].
+    </td>
+    <td>322 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bille de lAlchimiste|Bille de l’Alchimiste]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Billes de fronde (arme)|bille de fronde]] +1. Peut contenir une flasque d’une substance
+      alchimique, et libérer son contenu au touché (comme avec une [[arme à aspersion]]).
+    </td>
+    <td>330 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée Longue En Fer Froid]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée longue (arme)|épée longue]] [[armes de maître|de maître]] en [[matériaux
+      spéciaux#FERFROID|fer froid]].
+    </td>
+    <td>330 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flèche Silencieuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Flèches (arme)|flèche]] +1. Inflige les effets du sort *[[silence]]* pendant 5
+      [[round|rounds]] au touché. La cible peut résister à l’effet en réussissant un jet de [[Volonté]] dont le
+      [[DD]] dépend du modèle.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; normale</td><td><sup>A&E</sup></td><td>[[Volonté]] [[DD]] 13 pour annuler.</td><td>547 po</td></tr>
+  <tr>
+    <td>&emsp; supérieure</td>
+    <td><sup>A&E</sup></td>
+    <td>[[Volonté]] [[DD]] 16 pour annuler.</td>
+    <td>| 1 047 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Étoile indiscrète]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à un *[[Shurikens (arme)|shuriken]] +1*. Au lieu d'infliger les dégâts au toucher, l'arme s'incruste
+      dans la cible et devient un capteur de scrutation indétectable.
+    </td>
+    <td>646 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Javeline de Foudre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Javeline (arme)|javeline]]. Se change en *[[éclair]]* infligeant 5d6 points de dégâts au
+      lancé. Usage unique.
+    </td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flèche Brûlante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Flèches (arme)|flèche]] de *[[feu (propriété)|feu]]* +1. Inflige 1d6 points de dégâts de feu
+      pendant les 3 [[round|rounds]] suivant le touché en plus des dégâts normaux au touché. Usage unique.
+    </td>
+    <td>1 516 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flèche Grésillante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Flèches (arme)|flèche]] de *[[corrosive (propriété)|corrosive]]* +1. Inflige 1d6 points de
+      dégâts d’acide supplémentaires pendant les 3 [[round|rounds]] suivant le touché. Usage unique.
+    </td>
+    <td>1 516 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Balle Fouisseuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Balle darme à feu (arme)|balle]] +1. Rend sa cible [[chancelant|chancelante]] pendant un
+      nombre de round dépendant du modèle au touché. La cible peut mettre fin à l’effet en réussissant un test de
+      [[Premiers secours]] dont le [[DD]] dépend du modèle.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; normale</td>
+    <td><sup>A&E</sup></td>
+    <td>[[Chancelant]] pendant 1d3 [[round|round(s)]]. [[Premiers secours]] [[DD]] 15 pour annuler.</td>
+    <td>1 722 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; supérieure</td>
+    <td><sup>A&E</sup></td>
+    <td>[[Chancelant]] pendant 1d3+2 [[round|rounds]]. [[Premiers secours]] [[DD]] 20 pour annuler.</td>
+    <td>| 3 447 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Carreau Asséchant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Carreaux darbalète (arme)|carreau d'arbalète]] *[[tueuse (propriété)|tueur]]* d’Extérieurs
+      (eau) +1. Peut infliger les effets du sort *[[coupe de poussière]]* ainsi que l’état [[fiévreux]] et
+      [[chancelant]] au touché.
+    </td>
+    <td>1 730 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flèche Mortelle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Flèches (arme)|flèche]] +1. Inflige un nombre de points de dégâts dépendant du modèle à un
+      type de créature choisi à la fabrication, au touché. La cible peut résister aux dégâts en réussissant un jet
+      de [[Vigueur]] (même si elle y est immunisée en temps normal) dont le [[DD]] dépend du modèle.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; normale</td>
+    <td><sup>A&E</sup></td>
+    <td>50 points de dégâts. [[Vigueur]] [[DD]] 20 pour annuler.</td>
+    <td>2 282 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; supérieure</td>
+    <td><sup>A&E</sup></td>
+    <td>100 points de dégâts. [[Vigueur]] [[DD]] 23 pour annuler.</td>
+    <td>| 4 057 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague En Adamantium]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Similaire à une [[Dague (arme)|dague]] en [[matériaux spéciaux#ADAMANTIUM|adamantium]].</td>
+    <td>3 002 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache dArmes En Adamantium|Hache d’Armes En Adamantium]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Similaire à une [[Hache darmes (arme)|hache d’armes]] en [[matériaux spéciaux#ADAMANTIUM|adamantium]].</td>
+    <td>3 010 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Réplique du débauché]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[rapière (arme)|rapière]] +1*. Une fois par jour, permet de lancer *[[regain
+      dassurance|regain d'assurance]]* (ou le fait automatiquement si le porteur est [[effrayé]] ou [[paniqué]]), et
+      de transformer 30 litres d'eau en bière inoffensive.
+    </td>
+    <td>3 060 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame du destin]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[dague (arme)|dague]] +1*. Permet de lancer *[[destruction de mort-vivant]]* à volonté.
+      L'objet est considéré comme fabriqué en [[argent]] dans le cadre de la [[RD|réduction de dégâts]].
+    </td>
+    <td>3 072 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Éclosion immuable]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[morgenstern (arme)|morgenstern]] +1*. Une fois par jour, permet de lancer
+      *[[bénédiction]]*. Une fois par jour, lance *[[soins légers]]* au début du tour du porteur après qu'il soit
+      tombé à 0 pv ou moins.
+    </td>
+    <td>3 848 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc de lien familial]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[arc long (arme)|arc long]] +1*. Un allié du porteur harmonisé avec l'objet ne confère plus
+      d'[[abri|abri mou]] contre les attaques portées avec cet objet.
+    </td>
+    <td>3 875 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lueur sanglante]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[épée à deux mains (arme)|épée à deux mains]] +1*. Une fois par jour, permet de lancer
+      *[[rage]]* (porteur uniquement). L'objet éclaire comme une [[bougie (objet)|bougie]] lorsqu'il est manié, et
+      comme une [[torche (objet)|torche]] après avoir blessé une créature ou quand l'effet de *rage* est actif.
+    </td>
+    <td>3 970 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lance de Joute]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Similaire à une [[Lance (arme)|lance]] +1. Peut désarçonner une cible montée au touché.</td>
+    <td>4 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau du père de la forge]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[marteau de guerre (arme)|marteau de guerre]] +1*. Peut prendre la forme d'un marteau de
+      forgeron à volonté. Confère une [[Résistance (capacité)|résistance]] au feu de 1. Inflige 1 point de dégât de
+      feu supplémentaire 1d4 minutes après avoir été chauffé.
+    </td>
+    <td>4 312 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Brise-arme]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée longue (arme)|épée longue]] +1. Confère à un porteur avec le don [[Science de la
+      destruction]] un bonus de +4 au [[jet dattaque|jet d’attaque]] opposé et au [[jet de dégâts]] infligé à l’arme
+      pendant une manœuvre de [[manœuvres offensives#DESTRUCTION|destruction]]. Peut endommager des armes dotées
+      d’un bonus d’altération de +4 ou moins normalement.
+    </td>
+    <td>4 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Alibi noir]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[épée courte (arme)|épée courte]] +1*. Cinq fois par jour, peut masquer le visage d'une
+      créature consentante pendant 10 minutes. Une fois par jour, peut effacer la dernière minute de souvenirs du
+      porteur (comme avec *[[modification de mémoire]]*).
+    </td>
+    <td>4 410 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Shahtoosh du perfectionniste]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[fouet (arme)|fouet]] +1*. Une fois par jour, permet de lancer *[[connaître son ennemi]]* et
+      *[[soins légers]]*.
+    </td>
+    <td>4 461 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléau de linconscient|Fléau de l'inconscient]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[fléau darmes lourd (arme)|fléau d'armes lourd]] +1*. Permet de lancer *[[confusion
+      mineure]]* sur la cible d'une attaque réussie avec l'objet et sur le porteur, à volonté. Le porteur gagne des
+      [[points de vie temporaires]] lorsqu'il réussit un [[coup de grâce]].
+    </td>
+    <td>4 815 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des serpents entrelacés]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[bâton (arme)|bâton]] +1*. Permet de lancer *[[projectile magique]]* à volonté. Le porteur
+      peut lancer des sorts comme s'il possédait le don [[Dispense de composantes matérielles]].
+    </td>
+    <td>5 050 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame aux trois passions]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[coutille (arme)|coutille]] +1*. Confère un bonus de sainteté de +4 à une forme de
+      [[Représentation]] (choisie à la création) tant que le porteur est à 3 m ou moins de l'objet. Une fois par
+      jour, permet de lancer*[[couleurs dansantes]]*.
+    </td>
+    <td>5 248 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chope de combat du dieu ivre]]</td>
+    <td><sup>*WMH*</sup></td>
+    <td>
+      Similaire à un [[marteau léger (arme)|marteau léger]] +1. Peut contenir jusqu'à 14 litres de 6 liquides
+      différents. suivants de [[Cayden Cailéan (technique)|Cayden Cailéan]] sont formés à son maniement.
+    </td>
+    <td>5 301 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flamme de laube|Flamme de l'aube]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[cimeterre (arme)|cimeterre]] +1*. Une fois par jour, permet d'utiliser le
+      [[Magus#COMBATMAGIQUE|combat magique]] du magus pour attaquer et lancer un sort de *[[mains brûlantes]]* plus
+      efficace sur les [[type Mort-vivant|morts vivants]].
+    </td>
+    <td>5 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ongle de la Princesse]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[faux (arme)|faux]] +1*. Peut être chargée d'[[Prêtre#CANALISATIONDENERGIE|énergie négative
+      canalisée]] afin de la libérer lors d'une attaque ou pour soigner une créature consentante plus tard.
+    </td>
+    <td>5 318 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Kukri de la Saignée]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Kukri (arme)|kukri]] +1. Inflige 2 points de dégâts de [[saignement]] (cumulatif avec les
+      autres dégâts de [[saignement]] infligés par l’attaque) sur un critique confirmé. Les premiers dégâts de
+      [[saignement]] infligés à une créature avec cette arme confèrent autant de points de vie temporaire au porteur
+      pendant 1 minute.
+    </td>
+    <td>6 308 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lumière de lHéritière|Lumière de l'Héritière]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[épée longue (arme)|épée longue]] +1*. Une fois par jour, permet de lancer *[[châtiment de
+      lHéritière|châtiment de l'Héritière]]*. Les sorts de « soins » et les [[Paladin#IMPOSITIONDESMAINS|impositions
+      des mains]] rendent +1 pv au porteur pour chaque dé lancé. Éclaire comme une [[torche (objet)|torche]].
+    </td>
+    <td>6 555 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Masse de Roc]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +1. Une fois par jour, peut libérer sa
+      tête pour en faire un rocher de taille G qui écrase tout en ligne droite sur 18m (ce qui rend l’arme
+      inutilisable pendant 24 heures).
+    </td>
+    <td>6 812 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gourdin Bestial]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Gourdin (arme)|gourdin]] +1. Peut devenir une arme naturelle et manufacturée simultanément à
+      volonté, modifiant le type de dégâts qu’elle inflige. Un porteur avec la capacité [[druide#FORMEANIMALE|forme
+      animale]] peut en dépenser une utilisation quotidienne pour augmenter les dégâts de l’arme modifiée d’une
+      catégorie de taille.
+    </td>
+    <td>7 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fourche de Guerre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Trident (arme)|trident]] +1. Peut s’allonger (devenant une arme à allonge et à deux mains qui
+      ne peut être lancée), se raccourcir (devenant une arme légère qu’on peut lancer comme une [[Javeline
+      (arme)|javeline]]), et reprendre sa taille d’origine à volonté.
+    </td>
+    <td>7 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lamétoile filante]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[lamétoile (arme)|lamétoile]] +1*. Une fois par jour, permet de lancer *[[saut]]* et
+      *[[couleurs dansantes]]*. L'objet éclaire comme une [[bougie (objet)|bougie]] lorsqu'il est manié.
+    </td>
+    <td>7 724 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lance des ancêtres honorés]]</td>
+    <td><sup>*WMH*</sup></td>
+    <td>
+      Similaire à une [[lance (arme)|lance]] [[spectrale (propriété)|spectrale]] +1. Lorsque le porteur entre en
+      rage, peut lui conférer les effets d'une *[[assistance divine]]*, rendre un bouclier *[[spectrale
+      (propriété)|spectral]]* ou s'ajouter la propriété spéciale *[[boomerang (propriété)|boomerang]]* pendant toute
+      la durée de celle-ci.
+    </td>
+    <td>7 802 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rapière du Bretteur]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Similaire à une [[rapière (arme)|rapière]] +1. Le porteur peut dépenser un point de [[panache]] pour conférer
+      la propriété *[[tueuse (propriété)|tueuse]]* d’humanoïdes (sous-type au choix) à l’arme pendant 1 [[round]], à
+      volonté.
+    </td>
+    <td>7 805 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Goupillon Intarissable]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Goupillon de combat (arme)|goupillon de combat]] +1 aligné sur le Bien. Contient une flasque
+      d’eau bénite infinie, lançable par une attaque de contact à distance avec un facteur de portée de 3m.
+    </td>
+    <td>7 805 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton des Ouragans]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Bâton (arme)|bâton]] +1/+1. Une fois par jour, peut générer les effets du sort
+      *[[bourrasque]]*. Un [[moine]] ou un [[ninja]] peut activer ce pouvoir autant de fois qu’il le souhaite en
+      dépensant un point de [[moine#RESERVEDEKI|ki]].
+    </td>
+    <td>7 840 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague Venimeuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague (arme)|dague]] +1. Une fois par jour, peut empoisonner sa cible au touché (comme avec
+      *[[empoisonnement]]*).
+    </td>
+    <td>8 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame de Dague|Lame d'Assassin]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Similaire à une [[dague (arme)|dague]] +1. Si le porteur étudie une créature pendant 3 [[round|rounds]] (qui
+      peuvent faire partie de l'étude d'une [[assassin#ATTAQUEMORTELLE|attaque mortelle]]) sans se faire repérer ou
+      identifié comme un ennemi, il peut infliger des [[attaque sournoise|attaques sournoises]] sur toutes les
+      attaques qu'il porte contre cette créature pendant les 3 prochains rounds.
+    </td>
+    <td>8 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Grande hache des habitants des grottes]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Similaire à une [[grande hache (arme)|grande hache]] +1. Une fois par jour, peut [[pétrifié|pétrifier]] une
+      créature 1 [[round]] après l'avoir touchée pendant 1d4 rounds.
+    </td>
+    <td>8 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tranche-ombre]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à une *[[Épée courte (arme)|épée courte]] +1* . Ignore les [[camouflage|camouflages]] dus à une
+      faible luminosité ou des ombres, y compris dans le cadre des dégâts de précision comme
+      l'[[Roublard#ATTAQUESOURNOISE|attaque sournoise]].
+    </td>
+    <td>8 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Croc rouillé de la Bête sauvage]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[grande hache (arme)|grande hache]] +1*. Les créatures touchées par l'objet peut devenir
+      [[fiévreux|fiévreuses]] jusqu'à ce que les éclats de métal soit retirés de sa plaie.
+    </td>
+    <td>8 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chaîne umbrale]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une [[chaîne cloutée (arme)|chaîne cloutée]] [[arme de maître|de maître]] dans les zones de
+      [[Exploration#VISIONLUMIERE|lumière vive]], à une *[[chaîne cloutée (arme)|chaîne cloutée]] +1* dans les zones
+      de [[Exploration#VISIONLUMIERE|lumière normale]] ou [[Exploration#VISIONLUMIERE|faible]], à une *[[chaîne
+      cloutée (arme)|chaîne cloutée]] +2* dans les zones de [[Exploration#VISIONLUMIERE|ténèbres]], ou comme une
+      *[[chaîne cloutée (arme)|chaîne cloutée]] +2* qui offre les effets du don [[Combat en aveugle]] dans les zones
+      de ténèbres surnaturelles.
+    </td>
+    <td>8 825 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame Obscure]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée courte (arme)|épée courte]] +1 dans une zone faiblement éclairée, et à une épée courte
+      +2 dans les ténèbres. Confère les effets du don [[Combat en aveugle]] dans les zones d’obscurité magique. Perd
+      toutes ses propriétés dans une zone vivement éclairée ou exposée à la lumière du jour.
+    </td>
+    <td>8 810 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coup de tonnerre]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[trident (arme)|trident]] +1*. Le porteur peut ajouter la propriété spéciale *de [[froid
+      (propriété)|froid]]* ou *de [[foudre (propriété)|foudre]]* à l'objet, à volonté.
+    </td>
+    <td>9 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fronde Morsure-de-froid]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Fronde (arme)|fronde]] de *[[froid (propriété)|froid]]* +1. Trois fois par jour, au lieu de
+      profiter de la propriété *[[froid (propriété)|froid]]*, peut générer une boule de neige lançable par une
+      attaque de contact à distance avec un facteur de portée de 12m, qui inflige 1d6+1 points de dégâts [[Blessures
+      et mort#NONLETAL|non-létaux]] et qui [[fatigué|fatigue]] la cible au touché.
+    </td>
+    <td>9 380 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Trident de Stabilité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Trident (arme)|trident]] +1. Se comporte comme un [[sceptre inamovible]] lorsque le porteur
+      monte dessus par une [[action rapide]]. Sur le trident, le porteur est toujours considéré comme prêt à
+      réceptionner une charge et obtient un bonus de +10 au [[DMD]] contre les manœuvres visant à le déplacer. Le
+      porteur peut s’y rattraper lorsqu’il chute.
+    </td>
+    <td>9 815 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fille de Rouge-Désir]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[cimeterre à deux mains (arme)|cimeterre à deux mains]] de [[feu (propriété)|feu]] +1*. Peut
+      prendre la forme d'un *[[kukri (arme)|kukri]] de [[feu (propriété)|feu]] +1* à volonté. Le porteur peut lécher
+      la lame de l'objet après avoir tué un [[type Humanoïde|humanoïde]] avec pour récupérer des points de vie.
+    </td>
+    <td>9 875 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame en ferraille]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Tranchechien (arme)|tranchechien]] [[tueuse (propriété)|tueur]] d'[[type Animal|animaux]]
+      +1*. Peut se transformer en un tas de feraille insignifiant ou redevenir une arme sur commande.
+    </td>
+    <td>9 928 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Trident dAlerte Sous-marine|Trident d’Alerte Sous-marine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Trident (arme)|trident]] +2. Peut renseigner le porteur sur la présence de prédateurs marins,
+      leur race, leur nombre, et la profondeur à laquelle ils se trouvent dans un rayon de 210m autour de lui.
+    </td>
+    <td>10 115 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Croc de serpent]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à une *[[Dague (arme)|dague]] +1*. L'arme peut stocker jusqu'à 5 doses de poison de blessure que le
+      porteur peut y appliquer par une action rapide sans risquer de s'empoisonner.
+    </td>
+    <td>10 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague de lAssassin|Dague de l’Assassin]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague (arme)|dague]] +2. Augmente de 1 le [[DD]] du jet de [[Vigueur]] de
+      l’[[assassin#ATTAQUEMORTELLE|attaque mortelle]] d’un porteur [[assassin]].
+    </td>
+    <td>10 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague Jumelle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague (arme)|dague]] +1. Peut générer une seconde dague +1 à volonté. Il ne peut exister que
+      2 dagues jumelles du même modèle à la fois.
+    </td>
+    <td>10 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Courroux du courtisan]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à un *[[Éventail de combat (arme)|éventail de combat]] +1*. Ressemble à un éventail ordinaire. Trois
+      fois par jour, peut tirer des ardillons (qui peuvent être empoisonnés comme l'arme) infligeant 3d4 points de
+      dégâts perforants dans un cône de 4,5 m.
+    </td>
+    <td>10 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Griffes métalliques de lacération]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Similaire à des [[Équipement daventurier#Griffes métalliques|griffes métalliques]] *[[acérée
+      (propriété)|acérées]]* +1. Lorsque le porteur effectue une attaque à outrance et touche avec ces griffes et
+      une autre attaque de griffe (renforcée ou non par des griffes métalliques), il inflige 1d4 points de dégâts
+      supplémentées plus 1,5 fois son bonus de [[Force]], jusqu’à une fois par [[round]].
+    </td>
+    <td>10 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Œil des Enfers]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[masse darmes légère (arme)|masse d'armes légère]] de [[feu (propriété)|feu]] +1*. Une fois
+      par jour, la moitié des dégâts de la propriété *de feu* de l'objet peut être composé d'énergie impie
+      (n'infligeant aucun dégât aux créatures mauvaises mais le double aux créatures bonnes) pendant 1 minute.
+    </td>
+    <td>10 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Poing du Signifer]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Similaire à une [[masse darmes légère (arme)|masse d’armes légère]] +1. Un porteur qui possède une
+      [[magus#RESERVEMAGIQUE|réserve magique]], un [[arcaniste#RESERVOIRARCANIQUE|réservoir arcanique]] ou la
+      capacité [[prêtre combattant#FERVEUR|ferveur]] peut en dépenser 1 point/utilisation pour effectuer une attaque
+      au corps à corps contre une créature. Si cette attaque réussit, l'arme bénéficie de la propriété *[[tueuse
+      (propriété)|tueuse]]* contre le type de cette créature (ou son sous-type si la créature est un humanoïde ou un
+      extérieur) pendant 1 minute.
+    </td>
+    <td>10 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame de rancune]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Similaire à une *[[rapière (arme)|rapière]] +1*. Inflige 1 point de dégâts supplémentaire au touché si le
+      porteur a déjà blessé uniquement la même cible avec l'arme au tour précédent (cumulable jusqu'à un bonus aux
+      dégâts de +5).
+    </td>
+    <td>10 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame valeureuse]]</td>
+    <td><sup>*WMH*</sup></td>
+    <td>
+      Similaire à un [[cimeterre (arme)|cimeterre]] [[vaillante (propriété)|vaillant]] +1. Une fois par jour et dans
+      la minute suivant la neutralisation d'un adversaire, peut conférer un bonus de +2 aux [[jet dattaque|jets
+      d'attaque]], aux tests de [[compétences|compétence]] et aux [[jds|jets de sauvegarde]] des alliés du porteur
+      pendant 10 minutes.
+    </td>
+    <td>10 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amorce de distraction]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à un *[[tube-amorce lourd (arme)|tube-amorce lourd]] +1*. Deux fois par jour quand le porteur tire,
+      peut déplacer le son du tir et les auras du porteur sur un autre point de l'espace pendant 6 rounds.
+    </td>
+    <td>10 550 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sabre de sang bouillant]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à un *[[sabre dentelé (arme)|sabre dentelé]] [[corrosive (propriété)|corrosif]] +1*. Une fois par
+      jour, permet de lancer *[[disparition]]*.
+    </td>
+    <td>11 035 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pistolet du maréchal-bouclier]]</td>
+    <td><sup>*WMH*</sup></td>
+    <td>
+      Similaire à un [[Pistolet à double canon (arme)|pistolet à double canon]] +1. Contient un [[Dons#DONAUDACE|don
+      d'audace]] que le porteur peut utiliser s'il en remplit les conditions.
+    </td>
+    <td>11 050 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pic de clivage de la pierre]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[pic de guerre lourd (arme)|pic de guerre lourd]] +1* en [[adamantium]]. Inflige 2d6 points
+      de dégâts supplémentaires aux objets abandonnés, ou 4d6 en plus d'ignorer leur [[solidité]] au prix d'une
+      utilisation de [[pouvoir mythique]].
+    </td>
+    <td>11 308 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléau de Terre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Fléau darmes lourd (arme)|fléau d’armes lourd]] +1. Peut facilement briser les objets avec
+      une solidité de 20 ou moins. Le porteur peut désactiver cette propriété jusqu’au début de son prochain tour
+      pour que l’arme ignore les [[abri|abris]] normaux et [[modificateurs de combat#abri partiel|partiels]] fournis
+      par les objets et les structures en terre ou en pierre, avec lesquels ils ne peut plus intéragir.
+    </td>
+    <td>11 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Grande Hache de Vitesse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Grande hache (arme)|grande hache]] *[[acérée (propriété)|acérée]]* +1. Confère un bonus
+      d’altération de +3m à la vitesse de base lorsque son porteur [[charge]]. Une fois par jour, peut conférer un
+      bonus d’altération de +3m à la vitesse de base de tous les alliés du porteur à 9m ou moins de lui, pendant 1
+      [[round]].
+    </td>
+    <td>11 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Baiser vengeur]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[fouet (arme)|fouet]] [[mortelle (propriété)|mortel]] +1*. Peut s'étirer comme une [[corde
+      (objet)|corde de soie]] de 15 m et se rétracter à volonté. Une fois par jour, permet de lancer
+      *[[revigorer]]*.
+    </td>
+    <td>11 501 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame triple-dard]]</td>
+    <td><sup>D&M</sup></td>
+    <td>
+      Similaire à une  [[dague (arme)|dague]] +1. Permet de faire une [[manœuvres offensives|manœuvre offensive]]
+      gratuite au touché, et s'il elle réussit, inflige des dégâts supplémentaires. Une fois par jour, un suivant de
+      la [[Golarion.Calistria|déesse-elfe aux trois visages]] peut faire passer le [[bonus daltération|bonus
+      d'altération]] de l'arme à +2 pendant 1 [[round]].
+    </td>
+    <td>11 702 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau de Polarité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Marteau météore (arme)|marteau météore]] +1/+1. En mode météore, confère un bonus de +2 aux
+      manœuvres de [[repositionnement]] et d’[[entraînement]] contre toute créature constituée de métal ou portant
+      une protection métallique, et permet de repousser une telle créature de 1,5m sur un [[croc-en-jambe]] réussit.
+      En mode forteresse, permet de ramasser un objet métallique abandonné à portée d’attaque par une [[action de
+      mouvement]], et passe le bonus de parade à la [[CA]] octroyé par le marteau à +3 contre les créatures
+      constituées de métal ou portant une protection métallique.
+    </td>
+    <td>12 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Entrave (arme magique)|Entrave]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée à deux mains (arme)|épée à deux mains]] +1. Permet d’entamer une [[lutte]] par une
+      [[action libre]] sans provoquer d’[[attaque dopportunité|attaque d’opportunité]] au touché. Si la tentative
+      réussit, confère un bonus de +5 aux prochains tests de [[lutte]] contre la cible. Lorsqu’il réussit un test de
+      [[lutte]], le porteur peut lâcher l’arme pour [[enchevêtré|enchevêtrer]] la cible.
+    </td>
+    <td>12 350 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Traqueur de fugitif]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Similaire à une *[[arbalète légère (arme)|arbalète légère]] [[tueuse (propriété)|tueuse d'humains]] +1*.
+      Confère un bonus d'altération de +3 m à la vitesse de base.
+    </td>
+    <td>12 655 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Regret du Changeant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Double lame (arme)|double lame]] +1/+1 en [[matériaux spéciaux#ARGENT|argent alchimique]].
+      Inflige 2d6 points de dégâts supplémentaires aux créatures de sous-type métamorphe et aux créatures sous une
+      autre forme que la leur, qui peuvent être forcés à reprendre leur forme naturelle au touché.
+    </td>
+    <td>12 780 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Piégeuse de Dragons]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Guisarme (arme)|guisarme]] *[[tueuse (propriété)|tueuse]]* de dragons +1. Lorsque le porteur
+      réussit une manœuvre de [[croc-en-jambe]] contre une créature qui vole grâce à ses ailes, elle peut être
+      [[enchevêtré|enchevêtrée]] et commencer à chuter.
+    </td>
+    <td>13 308 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame du Bourreau]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Similaire à une [[épée à deux mains (arme)|épée à deux mains]] *[[acérée (propriété)|acérée]]* +1. Une fois
+      par jour, permet d’utiliser le talent de maître tueur [[talents (tueur)#ASSASSINAT|assassinat]] (l’étude de la
+      cible coûte une [[action complexe]] à un porteur qui n’est pas un [[tueur]]). Un porteur [[tueur]] voit le
+      bonus d’altération de l’arme et le [[DD]] de ses tentatives d’[[talents (tueur)#ASSASSINAT|assassinat]]
+      augmenter de 2 contre ses [[tueur#CIBLEETUDIEE|cibles étudiées]].
+    </td>
+    <td>13 850 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée À Dix Anneaux]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée à neuf anneaux (arme)|épée à neuf anneaux]] +2. Peut stocker un anneau magique,
+      conférant ses effets à son porteur, ou stocker un anneau en un [[matériaux spéciaux|matériel spécial]],
+      conférant ses effets aux attaques portées avec.
+    </td>
+    <td>14 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Trident des Tritons]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Trident (arme)|trident]] *[[tueuse (propriété)|tueur]]* d’humanoïdes monstrueux +1. Trois
+      fois par jour, peut manifester les effets du sort *[[poussée hydraulique]]*. Le porteur peut dépenser les 3
+      utilisations quotidiennes de ce pouvoir pour manifester les effets du sort *[[torrent hydraulique]]*.
+    </td>
+    <td>15 065 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Masse de Démolition|Masse de Démolition inférieure]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +1 en [[matériaux
+      spéciaux#ADAMANTIUM|adamantium]]. Le [[bonus daltération|bonus d’altération]] de l’arme passe à +3 et son
+      multiplicateur critique à x4 contre les créatures artificielles. Le multiplicateur critique de l’arme passe à
+      x3 contre les Extérieurs.
+    </td>
+    <td>16 012 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Masse de Démolition]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +3 en [[matériaux
+      spéciaux#ADAMANTIUM|adamantium]]. Le [[bonus daltération|bonus d’altération]] de l’arme passe à +5 contre les
+      créatures artificielles. Le multiplicateur critique de l’arme passe à x4 contre les Extérieurs. Détruit
+      automatiquement les créatures artificielles sur un critique confirmé.
+    </td>
+    <td>| 75 312 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Étreinte du tourment]]</td>
+    <td><sup>*BD*</sup></td>
+    <td>
+      Similaire à une *[[chaîne cloutée (arme)|chaîne cloutée]] +2* en [[adamantium]]. Confère un bonus de +4 aux
+      manœuvres de [[croc-en-jambe]] et de [[désarmement]] effectuées avec l'arme, et inflige les dégâts d'une
+      attaque si une telle manœuvre est réussie.
+    </td>
+    <td>17 025 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rapière Désarmante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Rapière (arme)|rapière]] de *[[duel (propriété)|duel]]* +1. Lorsque le porteur réussit une
+      manœuvre de [[désarmement]], il peut déplacer l’arme ciblée de 1,50m dans la direction de son choix par une
+      [[action rapide]].
+    </td>
+    <td>17 820 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fouet Urticant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Fouet scorpion (arme)|fouet scorpion]] *[[vicieuse (propriété)|vicieux]]* +1. Rend la cible
+      [[fiévreux|fiévreuse]] au touché. L’effet peut être annulé avec un test de [[Premiers secours]] mais inflige
+      1d4+1 points de dégâts à la cible en cas d’échec.
+    </td>
+    <td>18 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Brise-bouclier]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Lance (arme)|lance]] *[[acérée (propriété)|acérée]]* +1. Inflige autant de dégâts à la cible
+      qu’à son bouclier (si elle en porte un) au touché. Ignore la solidité du bouclier ciblé lors qu’une manœuvre
+      de [[manœuvres offensives#DESTRUCTION|destruction]].
+    </td>
+    <td>18 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Griffe dairain|Griffe d'airain]]</td>
+    <td><sup>CSU</sup></td>
+    <td>
+      Similaire à un *[[cimeterre (arme)|cimeterre]] [[vicieuse (propriété)|vicieux]] +2*. Un porteur [[Gnoll]] ne
+      subit pas les dégâts dus à la propriété vicieuse de l'arme.
+    </td>
+    <td>18 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Trident de Domination Aquatique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Trident (arme)|trident]] +1. Trois fois par jour, peut charmer 14 [[DV]] d’animaux aquatiques
+      (comme avec *[[charme-animal]]*, mais les créatures qui réussissent leur [[jds|jet de sauvegarde]] ne peuvent
+      pas s’approcher à moins de 3m du trident). Confère les effets du sort *[[communication avec les animaux]]* en
+      permanence.
+    </td>
+    <td>18 650 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton du gardien des forêts]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Bâton (arme)|bâton]] +1/+1*. Peut enchevêtrer les cibles d'une attaque réussie. Une fois par
+      semaine, peut émuler l'effet d'engrais du sort *[[croissance végétale]]* et permet de [[communication avec les
+      plantes|communiquer avec les plantes]] affectées.
+    </td>
+    <td>18 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton de lAcrobate|Bâton de l’Acrobate]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Bâton (arme)|bâton]] +1 en [[matériaux spéciaux#EBENITE|ébénite]]. Confère un bonus de
+      compétence de +5 aux tests d’[[Acrobaties]]. Permet de se déplacer à sa vitesse normale sans malus sur les
+      surfaces étroites ou irrégulières. Réduit de 1 le [[DD]] des tests de [[Acrobaties|saut en hauteur]] par
+      tranche de 30cm. Peut permettre de passer derrière une créature que le porteur menace au lieu d’effectuer un
+      [[pas de placement]].
+    </td>
+    <td>19 100 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lance de harponnage]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[lance (arme)|lance]] [[boomerang (propriété)|boomerang]] +1* fonctionnant comme une arme à
+      une main, avec un bonus de +2 aux [[jet dattaque|jet d’attaque]]. Au prix d'une utilisation de [[pouvoir
+      mythique]], permet de se téléporter à une case adjacente à la créature touchée quand elle est lancée (comme
+      avec *[[porte dimensionnelle]]*, mais le porteur peut encore agir ensuite).
+    </td>
+    <td>19 502 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée des serres]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Similaire à une *[[épée bâtarde (arme)|épée bâtarde]] [[gardienne (propriété)|gardienne]] +2* en
+      [[argent|argent alchimique]]. La propriété *gardienne* s'applique aussi à la monture du porteur.
+    </td>
+    <td>19 515 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Épée des serres|Épée des serrespuissantes]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Fonctionne comme une *Épée des serres* mais possède également la propriété *[[ancrage dimensionnel
+      (propriété)|ancrage dimensionnel]]* activable par une [[action libre]].
+    </td>
+    <td>| 38 715 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pistolet Drake-de-feu]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Pistolet (arme)|pistolet]] de *[[feu (propriété)|feu]]* +1. Les dégâts normaux peuvent être
+      des dégâts de feu à volonté. Permet de manifester les effets de *[[mains brûlantes]]* au prix d’une [[Balle
+      darme à feu (arme)|balle]] à la place d’une attaque normale.
+    </td>
+    <td>20 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau de Ricochet]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Marteau léger (arme)|marteau léger]] *[[boomerang (propriété)|boomerang]]* +1. Lorsqu’il est
+      lancé, peut rebondir afin d’effectuer toutes les attaques conférées par le [[BBA]] du porteur, mais cesse ses
+      rebonds dès qu’un [[jet dattaque|jet d’attaque]] est raté (la distance entre les cibles des rebonds est
+      décomptée de la portée maximale de l’arme).
+    </td>
+    <td>20 301 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléau des boucliers]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à une *[[Hache darmes (arme)|hache d'armes]] +1*. Ignore les bonus de bouclier à la [[CA]] des
+      cibles. Confère un bonus aux tests de [[BMO]] pour [[désarmement|désarmer]] ou [[destruction|détruire]] les
+      objets qui offrent un bonus de bouclier.
+    </td>
+    <td>20 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bokken de duel]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Katana (arme)|katana]] [[miséricordieuse (propriété)|miséricordieux]] +1*. Inflige des
+      dégâts contondants plutôt que tranchants.
+    </td>
+    <td>20 350 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tranchant de linvocateur infernal|Tranchant de l'invocateur infernal]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Similaire à une *[[épée à deux mains (arme)|épée à deux mains]] +2*. Une fois par jour, peut infliger 9d6
+      points de dégâts de feu aux créatures (porteur compris) dans un cylindre de 3 m de rayon et de 12 m de haut
+      centré sur le porteur.
+    </td>
+    <td>20 350 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée Ardente]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée longue (arme)|épée longue]] de *[[feu intense (propriété)|feu intense]]* +1. Une fois
+      par jour, permet d’effectuer une attaque de contact à distance infligeant 4d6 points de dégâts de feu.
+    </td>
+    <td>20 715 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache brutale]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[grande hache (arme)|grande hache]] en [[adamantium]] +1*. Confère les effets du don
+      [[Science de la destruction]] (ou [[Destruction darme supérieure|Destruction d'arme supérieure]] si le porteur
+      le possède déjà, et un bonus de +2 aux manœuvres de [[destruction]] s'il possède aussi ce don). Inflige plus
+      de dégâts sur une manœuvre de [[destruction]] réussie. Au touché et au prix d'une utilisation de [[pouvoir
+      mythique]], permet de tenter une destruction dévastatrice sur un objet tenu par la cible.
+    </td>
+    <td>21 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Comète]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Lamétoile (arme)|lamétoile]] de *[[foudre (propriété)|foudre]]* +3. Une fois par jour, peut
+      manifester les effets du sort *[[éclair]]* (8d6 points de dégâts) au lancé.
+    </td>
+    <td>21 324 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée de bonne fortune]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée courte (arme)|épée courte]] +2. Confère un bonus de chance de +1  à tous les [[jds|jets
+      de sauvegarde]]. Une fois par jour, permet de relancer un dé après avoir vu le résultat. Permet de lancer
+      *[[souhait]]* un nombre de fois dépendant du modèle.
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; 0 souhait</td>
+    <td><sup>A&E</sup></td>
+    <td>Ne permet pas de lancer *[[souhait]]*.</td>
+    <td>22 060 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; 1 souhait</td>
+    <td><sup>A&E</sup></td>
+    <td>Permet de lancer *[[souhait]]* une fois.</td>
+    <td>| 62 360 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; 2 souhaits</td>
+    <td><sup>A&E</sup></td>
+    <td>Permet de lancer *[[souhait]]* deux fois.</td>
+    <td>| 102 660 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; 3 souhaits</td>
+    <td><sup>A&E</sup></td>
+    <td>Permet de lancer *[[souhait]]* trois fois.</td>
+    <td>| 142 960 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée de Précision]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée courte (arme)|épée courte]] +1. Confère un bonus de +4 aux [[jet dattaque|jets
+      d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] des [[roublard#ATTASOURNOISE|attaques sournoises]].
+    </td>
+    <td>22 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée des Plans]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée longue (arme)|épée longue]] +1 sur le Plan Matériel, à une épée longue +2 sur les Plans
+      Élémentaires contre les créatures natives de ce dernier, à une épée longue +3 sur le Plan Astral et Éthéré
+      contre les créatures natives d’un de ces plans, et à une épée longue +4 sur n’importe quel autre plan contre
+      les Extérieurs qui en sont natifs.
+    </td>
+    <td>22 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée Aux Neuf Vies]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée longue (arme)|épée longue]] +2. Peut tuer sa cible sur un coup critique confirmé
+      jusqu’à neuf fois, après quoi elle perd ce pouvoir. Un porteur Bon subit deux [[absorption dénergie
+      (capacité)|niveaux négatifs]] tant qu’il la porte.
+    </td>
+    <td>23 057 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache Affaiblissante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Hache darmes (arme)|hache d’armes]] *[[tueuse (propriété)|tueuse]]* de géants +1. Une fois
+      par jour, peut infliger les effets d’un *[[rayon affaiblissant]]* (11 points de [[Force]] pendant 7 rounds) au
+      touché.
+    </td>
+    <td>23 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée longue du croisé]]</td>
+    <td><sup>*WMH*</sup></td>
+    <td>
+      Similaire à une [[épée longue (arme)|épée longue]] [[sainte (propriété)|sainte]] [[tueuse (propriété)|tueuse]]
+      de démons +1 en [[fer froid]]. Son bonus d'altération se cumule à celui des améliorations de
+      [[paladin#PACTEDIVIN|pacte divin]] et [[Prêtre combattant#ARMESACREE|arme sacrée]].
+    </td>
+    <td>23 815 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague aux mille morsures]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[dague (arme)|dague]] [[boomerang (propriété)|boomerang]] [[acérée (propriété)|acérée]] +1*
+      en [[mithral]]. Au prix d'une utilisation de [[pouvoir mythique]], peut attaquer plusieurs cible avec un seul
+      lancer.
+    </td>
+    <td>24 502 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Geôlier des Âmes]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Gourdin mere (arme)|gourdin mere]] *[[spectrale (propriété)|spectral]]* +1. Peut absorber un
+      fantôme ou un mort-vivant intangible au touché, qu’il met 1 heure à tuer (un fantôme aspiré se reconstruit
+      normalement ensuite). Tant qu’il contient un esprit, devient un gourdin mere *[[spectrale
+      (propriété)|spectral]] [[tueuse (propriété)|tueur]]* de morts-vivants +2.
+    </td>
+    <td>25 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau des Nains]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Marteau de guerre (arme)|marteau de guerre]] +1, et à un marteau de guerre *[[boomerang
+      (propriété)|boomerang]]* +2 dans les mains d’un [[nain]]. Peut être lancé avec un [[facteur de portée]] de 6m,
+      infligeant 1d8 points de dégâts supplémentaires aux créatures de sous-type géant.
+    </td>
+    <td>25 312 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc du Long Serment]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Arc long composite (arme)|arc long composite]] +2 ([[Force]] +2). Par une [[action libre]],
+      le porteur peut prêter serment de tuer une créature. Tant qu’une créature est la cible du serment, l’arc
+      acquiert un bonus d’altération de +5, son multiplicateur critique passe à x4, et ses flèches infligent 2d6
+      points de dégâts supplémentaires contre elle, tandis qu’il devient une simple [[arme de maître]] contre toutes
+      les autres créatures. Tant qu’un serment est actif, le porteur subit un malus de -1 aux [[jet dattaque|jets
+      d’attaques]] effectués avec une autre arme que cet arc. Un seul serment peut être actif à la fois, et il le
+      reste pendant 7 jours ou jusqu’à la mort de sa cible.
+    </td>
+    <td>25 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée Voleuse de Vie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Épée longue (arme)|épée longue]] +2. Inflige un [[absorption dénergie (capacité)|niveau
+      négatif]] à sa cible et confère 1d6 points de vie temporaire au porteur sur un coup critique confirmé.
+    </td>
+    <td>25 715 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc du lecteur des vents]]</td>
+    <td><sup>*WMH*</sup></td>
+    <td>
+      Similaire à un [[arc long composite (arme)|arc long composite]] [[polyvalente (propriété)|polyvalent]]
+      [[traqueuse (propriété)|traqueur]] +1. Inflige deux points de dégâts supplémentaires de [[saignement]] aux
+      [[rôdeur#ENNEMIJURE|ennemis jurés]] et aux [[tueur#CIBLEETUDIEE|cibles étudiées]] du porteur. Deux fois par
+      jour, permet au porteur de situer un tel adversaire.
+    </td>
+    <td>27 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pic brise-montagnes]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Pic de guerre lourd (arme)|pic de guerre lourd]] en [[adamantium]] +2*. Possède un
+      équivalent de la propriété *[[tueuse (propriété)|tueuse]]* contre les créatures de [[sous-type Terre|Terre]].
+    </td>
+    <td>28 008 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rapière de Déplacement Tactique]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Similaire à une [[rapière (arme)|rapière]] +2. Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]]
+      pour traverser les zones contrôlées ou occupées par des ennemis. Permet de dépenser un point de [[panache]]
+      par une [[action rapide]] pour se déplacer de 3m sans provoquer d’[[attaque dopportunité|attaque
+      d’opportunité]] au touché.
+    </td>
+    <td>30 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléau de serpent]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Similaire à une [[masse darmes lourde (arme)|masse d’armes lourde]] [[arme de maître|de maître]] ou à un
+      *[[fléau darmes lourd (arme)|fléau d’armes lourd]] [[rapide (propriété)|rapide]] +1*, au choix du porteur.
+    </td>
+    <td>32 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flamme de la déesse]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[cimeterre (arme)|cimeterre]] de [[feu (propriété)|feu]] +1*. Trois fois par jour, peut être
+      transformée en *[[lame de feu]]*. Une fois par jour et au prix d'une utilisation de [[pouvoir mythique]], peut
+      se transformer en [[élémentaire du Feu de taille G]] pendant 10 minutes.
+    </td>
+    <td>33 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fleuret du gentleman]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à une *[[Rapière (arme)|rapière]] [[acérée (propriété)|acérée]] +1*. Les ennemis qui tentent
+      d'approcher le porteur à plusieurs doivent réussir un jet de [[Volonté]].
+    </td>
+    <td>32 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Apprentie du Coupe-gorge]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée courte (arme)|épée courte]] *[[dansante (propriété)|dansante]]* +1. Peut être dégainée
+      par une [[action libre]] (comme avec [[Arme en main]]). Danse pendant 8 [[round|rounds]] (au lieu de 4), mais
+      ne peut être animée que deux fois par jour. Lorsqu’elle est animée et attaque une créature, elle va sur sa
+      case et la [[pris en tenaille|prend en tenaille]] pour son activateur jusqu’au tour de ce dernier.
+    </td>
+    <td>33 910 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Errani kamaki]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Harpon (arme)|harpon]] [[sanglante (propriété)|sanglant]] +2*. Inflige le double des dégâts
+      aux objets en bois et ignore leur solidité.
+    </td>
+    <td>35 005 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Mambele du chasseur]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Hunga munga (arme)|hunga munga]] [[boomerang (propriété)|boomerang]] [[chasseresse
+      (propriété)|chasseur]] +1*. Les attaques à distance peuvent faire tomber les cibles.
+    </td>
+    <td>35 304 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coupe-écailles]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à une *[[Épée longue (arme)|épée longue]] +2*. Possède un équivalent de la propriété *[[tueuse
+      (propriété)|tueuse]]* contre les [[type Humanoïde|humanoïdes]] [[sous-type reptilien|reptiliens]] et les
+      [[type Humanoïde monstrueux|humanoïdes monstrueux]] serpentoïdes. Une fois par jour, permet de relancer un
+      [[jds|jet de sauvegarde]] contre un effet de contrôle mental.
+    </td>
+    <td>35 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Complainte des Goules]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Marteau de guerre (arme)|marteau de guerre]] *[[spectrale (propriété)|spectral]]* de
+      *[[destruction (propriété)|destruction]]* +1. Trois fois par jour, lorsque le porteur s’apprête à attaquer un
+      mort-vivant, celui-ci peut tomber [[à terre]].
+    </td>
+    <td>35 312 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fil du duelliste]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Similaire à une [[rapière (arme)|rapière]] de *[[duel (propriété)|duel]]* de *[[riposte (propriété)|riposte]]*
+      +2. Trois fois par jour, permet d’effectuer une attaque au corps à corps infligeant 1d6+2 points de dégâts
+      contondants par une [[action rapide]].
+    </td>
+    <td>35 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame de présence desprit|Lame de présence d'esprit]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à une *[[Dague (arme)|dague]] +2*. Au toucher, le porteur bénéficie d'un [[camouflage]] contre sa
+      cible pendant 1 round. Trois fois par jour, après un coup de [[coup de grâce]] ou une
+      [[Roublard#ATTAQUESOURNOISE|attaque sournoise]] réussie, le porteur obtient une information de l'esprit de la
+      cible.
+    </td>
+    <td>36 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc dÉrastil|Arc du Borgne]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[Arc long composite (arme)|arc long composite]] (+6 For) à [[longue portée (propriété)|longue
+      portée]] à [[munitions inépuisables (propriété)|munitions inépuisables]] +1*. Au prix d'une utilsiation de
+      [[pouvoir mythique]], peut d'attaquer tous les ennemis dans un rayon de 18m autour du porteur.
+    </td>
+    <td>38 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[arme Marteau du chaos|Marteau du chaos]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[marteau de guerre (arme)|marteau de guerre]] [[anarchique (propriété)|anarchique]] +1*. Une
+      fois par jour ou au prix d'une utilisation de [[pouvoir mythique]], permet de lancer *[[marteau du Chaos]]*
+      centré sur le porteur.
+    </td>
+    <td>38 312 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arbalète de la sentinelle silencieuse]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Similaire à une *[[Arbalète légère (arme)|arbalète légère]] de [[munitions inépuisables (propriété)|munitions
+      inépuisables]] +2*. Le malus de Discrétion après un tir embusqué est réduit de 5. Trois fois par jour, peut
+      tirer des carreaux invisibles qui créent entre eux une ligne qui alerte le porteur lorsqu'elle est traversée.
+    </td>
+    <td>38 335 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Masse dÉpouvante|Masse d’Épouvante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Masse darmes lourde (arme)|masse d’armes lourde]] +2. Trois fois par jour, peut rendre
+      toutes les créatures vivantes à 9m ou moins autour porteur [[paniqué|paniquées]] (comme avec *[[terreur]]*),
+      leur infligeant un malus de -2 aux [[jds|jets de sauvegarde]] et les forçant à fuir le porteur.
+    </td>
+    <td>38 552 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fouet des Enfers]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Fouet scorpion (arme)|fouet scorpion]] *[[impie (propriété)|impie]]* +1. Confère un bonus de
+      +5 aux tests d’[[Intimidation]]. Peut [[effrayé|effrayer]] les créatures [[secoué|secouées]] pendant 1
+      [[round]] au touché. Peut [[recroquevillé|recroqueviller sur elles-mêmes]] les créatures [[effrayé|effrayées]]
+      et [[paniqué|paniquées]] pendant 1d4 [[round|round(s)]] au touché. Confère des pouvoirs spéciaux si le porteur
+      possède une [[armure en peau dhamatula|armure en peau d’hamatula]].
+    </td>
+    <td>39 305 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Châtiment des Dragons]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Hallebarde (arme)|hallebarde]] *[[tueuse (propriété)|tueuse]]* de dragons +2. Trois fois par
+      jour, peut ignorer la [[RD]] des créatures de type dragon au touché.
+    </td>
+    <td>40 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache gèlesang]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Similaire à une *[[hache darmes (arme)|hache d’armes]] [[sanglante (propriété)|sanglante]] de [[froid
+      (propriété)|froid]] +1*. Lorsque ses dégâts (saignement compris) achèvent une créature possédant 1 [[DV]] ou
+      plus, le porteur de l'arme peut bénéficier d'une *[[faveur divine]]* ou faire bénéficier ses alliés et
+      lui-même d'une *[[bénédiction]]*.
+    </td>
+    <td>40 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache Dévitalisante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Grande hache (arme)|grande hache]] +1. Peut infliger deux [[absorption dénergie
+      (capacité)|niveaux négatifs]] au touché. Inflige un [[absorption dénergie (capacité)|niveau négatif]] au
+      porteur pendant une heure à chaque fois qu’il touche avec l’arme.
+    </td>
+    <td>40 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée du Brave]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée bâtarde (arme)|épée bâtarde]] *[[sacrée (propriété)|sacrée]]* +2. Lorsque le porteur
+      utilise la capacité [[paladin#CHATIMENTDUMAL|châtiment du mal]] ou [[chevalier#DEFI|défi]], il peut dépenser
+      une utilisation supplémentaire du pouvoir afin d’augmenter son niveau de classe de 3 pour en déterminer les
+      effets.
+    </td>
+    <td>41 335 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tourment des Invocateurs]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Coutille (arme)|coutille]] +2 en [[matériaux spéciaux#FERFROID|fer froid]]. Inflige 2d6
+      points de dégâts supplémentaires aux créatures convoquées ([[conjurateur#EIDOLON|eidolons]] compris, mais pas
+      les créatures appelées) au touché. Une fois par [[round]], peut bannir les créatures illusoires ou convoquées
+      avec un test de dissipation (comme avec *[[dissipation de la magie]]*, utilisant le [[BBA]] du porteur au lieu
+      de son [[NLS]]) au touché. Une fois par jour, permet de lancer *[[renvoi]]* par une [[action libre]] sur les
+      créatures extraplanaires au touché.
+    </td>
+    <td>42 816 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cimeterre des Bois]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Cimeterre (arme)|cimeterre]] +3. Inflige 1d6 points de dégâts supplémentaires au touché.
+      Confère les effets du don [[Enchaînement]].
+    </td>
+    <td>47 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame Spirituelle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague (arme)|dague]] *[[spectrale (propriété)|spectrale]]* +3. Une fois par jour, permet de
+      lancer *[[dissipation de la magie]]*.
+    </td>
+    <td>48 502 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lance Coeur-de-bois]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Lance (arme)|lance]] *[[tueuse (propriété)|tueuse]]* de morts-vivants +2. Peut être maniée
+      comme un [[Bâton (arme)|bâton]], infligeant des dégâts contondants et bénéficiant de la propriété spéciale
+      *[[destruction (propriété)|destruction]]*.
+    </td>
+    <td>50 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rapière dAnémie|Rapière d’Anémie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Rapière (arme)|rapière]] *[[sanglante (propriété)|sanglante]]* +2. Trois fois par jour,
+      permet d’effectuer une [[contact|attaque de contact]] infligeant un [[affaiblissement temporaire
+      (capacité)|affaiblissement temporaire]] de 1d6 points de [[Constitution]].
+    </td>
+    <td>50 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée Radieuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée bâtarde (arme)|épée bâtarde]] +2 alignée sur le Bien, mais peut être considérée comme
+      une [[Épée courte (arme)|épée courte]] pour son maniement ainsi que les dons [[Arme de prédilection]] et
+      [[Spécialisation martiale]]. Le [[bonus daltération|bonus d’altération]] de l’arme passe à +4 contre les
+      créatures Mauvaises. Inflige le double de ses dégâts et possède un multiplicateur critique de x3 contre les
+      morts-vivants et les créatures natives du Plan de l’Énergie Négative. Une fois par jour, peut être manipulée
+      pour créer une zone de lumière dans un rayon de 3m autour du porteur (+1,5m par [[round]] d’activité, jusqu’à
+      10 [[round|rounds]]), affectant les créatures sensibles à celle-ci comme la lumière du jour. La zone de
+      lumière dure tant que le porteur continue la manipulation et 1 minute après qu’il ait arrêté. Inflige un
+      [[absorption dénergie (capacité)|niveau négatif]] aux porteurs d’alignement Mauvais.
+    </td>
+    <td>50 335 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Foudre de Storval]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à un *[[Briseterre (arme)|briseterre]] +1*. Inflige +1d6 dégâts d'électricité sur une attaque
+      réussie. Trois fois par jour, peut étourdir la cible d'un [[coup critique]] confirmé.
+    </td>
+    <td>50 340 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame du véritable guerrier]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à une *[[Épée à deux mains (arme)|épée à deux mains]] +3*. Possède un équivalent de la propriété
+      *[[tueuse (propriété)|tueuse]]* contre les créatures capables de lancer des [[Magie profane|sorts profanes]].
+    </td>
+    <td>50 350 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc de souffle draconique]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[arc long (arme)|arc long]] de [[feu intense (propriété)|feu intense]] +2*. Au prix d'une
+      utilisation de [[pouvoir mythique]], peut tirer une flèche de flammes dévastatrice.
+    </td>
+    <td>50 375 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Katana du Soleil Levant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Katana (arme)|katana]] *[[glorieuse (propriété)|glorieux]] [[tueuse (propriété)|tueur]]* de
+      morts-vivants +1. Sur un coup critique potentiel, inflige les effets du sort *[[lueur féerique]]* à sa cible
+      jusqu’à début du prochain tour du porteur et inflige 1d6 points de dégâts supplémentaires aux morts-vivants au
+      début de leur tour. Lorsque le porteur menace de mourir ou d’[[mourant|agoniser]], peut transformer son corps
+      et son esprit en une *[[explosion de lumière]]*, conférant les effets des sorts *[[soins légers de groupe]]*
+      ou *[[souffle de vie]]* à ses alliées dans un rayon de 3m, et infligeant des dégâts à ses ennemis dans un
+      rayon de 9m comme l’immolation vengeresse d’un [[bâton de surpuissance]]. Ce dernier pouvoir détruit le corps
+      du porteur (comme avec *[[désintégration]]*, mais l’équipement reste intact), mais il a 50 % de chance de se
+      réincarner (comme avec *[[réincarnation]]*) 24 heures après son utilisation dans un endroit sûr à 1,5km du
+      lieu d’utilisation, alors que cette arme se téléporte à 150km du lieu d’utilisation.
+    </td>
+    <td>51 850 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée de Givre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée à deux mains (arme)|épée à deux mains]] de *[[froid (propriété)|froid]]* +3. Émet
+      autant de lumière qu’une [[Équipement daventurier#Torche|torche]] tant que la température ambiante est
+      inférieure à 20°C. Absorbe les 10 premiers points de dégâts de feu que le porteur peut subir à chaque attaque.
+      Éteinte automatiquement tous les feux non-magiques dans un rayon de 3m autour d’elle. Peut dissiper les feux
+      magiques durables avec un [[dissipation de la magie|test de dissipation]].
+    </td>
+    <td>54 475 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau de Lancer Nain]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Marteau de guerre (arme)|marteau de guerre]] +2, et à un marteau de guerre de *[[lancer
+      (propriété)|lancer]]* +3 avec un [[facteur de portée]] de 9m dans les mains d’un [[nain]]. Tant qu’un [[nain]]
+      porte cette arme, elle inflige 2d6 points de dégâts supplémentaires aux créatures de type géant et 1d6 points
+      de dégâts supplémentaires aux autres créatures.
+    </td>
+    <td>60 312 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fustibale ingénieux]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Similaire à *[[Fustibale halfelin (arme)|fustibale halfelin]] de [[filature (propriété)|filature]] +3* de
+      [[taille P]]. Le bonus d'altération s'applique aux attaques de fronde et de gourdin. Est considéré comme une
+      fronde dans le cadre du trait [[Halfelin#TRAITSRACIAUXALTERNATIFS|guerrier à la fronde]].
+    </td>
+    <td>60 320 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dague Vampirique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague (arme)|dague]] *[[sanglante (propriété)|sanglante]]* +2. Inflige 1 points de dégâts
+      supplémentaires par point de dégâts de [[saignement]] que la cible subit à cause de la propriété *[[sanglante
+      (propriété)|sanglante]]* de cette arme au touché (+10 maximum). Peut infliger 1d6 points de dégâts
+      supplémentaires par point de dégâts de [[saignement]] que la cible subit à cause de la propriété *[[sanglante
+      (propriété)|sanglante]]* de cette arme sur un critique confirmé (+5d6 maximum), ce qui la soigne ensuite de
+      tous les points dégâts de [[saignement]] impliqués.
+    </td>
+    <td>60 802 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cimeterre de Rage Assassine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Cimeterre à deux mains (arme)|cimeterre à deux mains]] *[[vicieuse (propriété)|vicieux]]
+      [[acérée (propriété)|acéré]]* +3. Confère les effets du sort *[[rage]]* au porteur pendant 1 [[round]] sur un
+      critique confirmé (s’il est barbare, il gagne 1 [[round]] de [[barbare#RAGE|rage]] quotidien supplémentaire à
+      la place), et force la cible à aller attaquer son allié le plus proche (comme avec *[[ordre assassin]]*).
+    </td>
+    <td>61 375 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame Gardienne]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée courte (arme)|épée courte]] *[[dansante (propriété)|dansante]]* +1. Lorsque le
+      personnage est mort, [[inconscient]] ou [[sans défense|endormi]] et qu’une créature tente de le toucher ou de
+      le frapper au corps à corps, l’arme s’anime et attaque cette créature pendant 1d4 [[round|round(s)]] avant de
+      tomber dans la case occupée par son propriétaire.
+    </td>
+    <td>65 310 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Crosse du serpent antique]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Similaire à un *[[sceptre de flétrissement]]* et un *[[sceptre de détection des ennemis]]*. Peut stocker un
+      sort offensif, comme avec la propriété *[[stockage de sort (propriété)|stockage de sort]]*.
+    </td>
+    <td>70 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Brise-sort]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[bâton (arme)|bâton]] +3* dont l'une des extrémités possède la propriété *[[tueuse
+      (propriété)|tueuse]]* (lanceur de sorts ou de pouvoirs magiques). Au prix d'une utilisation de [[pouvoir
+      mythique]], peut créer une *[[zone dantimagie|zone d’antimagie]]* qui n'affecte pas ses propres propriétés.
+    </td>
+    <td>71 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pistolet des Cieux Infinis]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Similaire à un pistolet +5. Se recharge seul après chaque tir. Immunisé aux [[long feu|longs feux]].</td>
+    <td>73 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Katana du Moine Sanctifié]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Katana (arme)|katana]] de *[[focalisation ki (propriété)|focalisation ki]]* +3. En plus des
+      avantages de la propriété *[[focalisation ki (propriété)|focalisation ki]]*, un porteur [[moine]] peut
+      utiliser les dons qui nécessitent d’avoir les mains libres (comme [[Parade de projectiles]] ou [[Capture de
+      projectiles]]) en portant cette arme, et la considère comme une arme de moine en ce qui concerne le
+      [[moine#DELUGEDECOUPS|déluge de coups]].
+    </td>
+    <td>75 350 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chapardeur Magique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à un [[Cimeterre (arme)|cimeterre]] *[[acérée (propriété)|acéré]] [[voleuse de magie
+      (propriété)|voleur de magie]]* +1. Confère un bonus de +2 aux tests d’[[Art de la magie]] et d’[[utilisation
+      dobjets magiques|Utilisation d’objets magiques]]. Révèle les auras magiques des choses et des créatures qu’il
+      touche (comme avec *[[détection de la magie]]*, mais tout le monde peut voir l’aura révélée, et sur une chose
+      ou créature à la fois).
+    </td>
+    <td>75 815 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Croc de lAraignée|Croc de l’Araignée]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Dague coup-de-poing (arme)|dague coup-de-poing]] *[[sanglante (propriété)|sanglante]]
+      [[acérée (propriété)|acérée]]* +2. Confère un bonus de compétence de +2 aux tests d’[[Acrobaties]] pour
+      traverser la zone contrôlée par un ennemi sans provoquer d’[[attaque dopportunité|attaque d’opportunité]].
+      Deux fois par jour, peut empoisonner sa cible au touché (comme avec *[[empoisonnement]]*).
+    </td>
+    <td>79 102 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fléau des Démons]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Lame elfique incurvée (arme)|lame elfique incurvée]] *[[sainte (propriété)|sainte]] [[tueuse
+      (propriété)|tueuse]]* de démons +3 en [[matériaux spéciaux#FERFROID|fer froid]]. Empêche toute créature de
+      sous-type démon dans un rayon de 18m d’elle de se téléporter (comme avec *[[ancre dimensionnelle]]*).
+    </td>
+    <td>90 469 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Faux du Néant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Faux (arme)|faux]] de *[[lumière (propriété)|lumière]]* +1 mais la lame est composée
+      d’énergie négative et n’émet aucune lumière. Le porteur peut [[prêtre#CANALISATIONDENERGIE|canaliser
+      l’énergie]] négative dans la faux, ce qui la charge pendant 1 [[round]] par dé de canalisation. Tant que
+      l’arme est chargée, elle inflige un [[absorption dénergie (capacité)|niveau négatif]] au touché. Le corps des
+      créatures tuées par l’arme disparaît, empêchant leur résurrection (sauf avec *[[résurrection suprême]]* ou
+      *[[miracle]]*).
+    </td>
+    <td>95 318 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pointe dombre|Pointe d'ombre]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à un *[[bâton (arme)|bâton]] [[cruelle (propriété)|cruel]] +2/+2*. Peut créer une faille de 9m de
+      diamètre entre le Plan matériel et celui de l'ombre agissant comme des *[[ténèbres profondes]]* qui améliore
+      les sorts du registre des ténèbres et de l'ombre lancés à l'intérieur. Au prix de trois utilisations de
+      [[pouvoir mythique]], permet d'utiliser la faille pour se rendre sur le plan de l'autre côté de celle-ci
+      (comme avec *[[changement de plan]]*).
+    </td>
+    <td>96 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pistolet sans nom]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[Poivrière (arme)|poivrière]] [[chanceuse supérieure (propriété)|chanceuse supérieure]]
+      [[tueuse de mythiques (propriété)|tueuse de mythiques]] +2*. Au prix d'une utilisation de [[pouvoir mythique]]
+      ou d'un point d'[[audace]], peut se recharger automatiquement de [[Balle darme à feu (arme)|balles]] ou de
+      [[Cartouche alchimique (arme)|cartouches alchimiques flamboyantes]]. Immunise le porteur à toute forme de
+      divination visant à le localiser, et en est elle-même protégée.
+    </td>
+    <td>98 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Foudroyeur]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[lance (arme)|lance]] de [[foudre (propriété)|foudre]] [[acérée (propriété)|acérée]] +1*. Le
+      porteur augmente son [[NLS]] de 1 lorsqu'il lance des sorts du [[registre]] de l'électricité. Une fois par
+      jour, permet de lancer *[[contrôle du climat]]* (invoquer ou intensifier une tempête). Au prix d'une
+      utilisation de [[pouvoir mythique]], peut lancer une version améliorée d’*[[appel de la foudre]]*.
+    </td>
+    <td>98 302 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Doigt dombre|Doigt d’ombre]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[dague (arme)|dague]] [[acérée (propriété)|acérée]] +2*. Ignore les bonus de parade et ceux
+      conférés par des effets de force à la [[CA]]. Sur un coup critique confirmé, inflige un [[Affaiblissement
+      temporaire (capacité)|affaiblissement temporaire]] de [[Force]] de 2 points. Au prix d'une utilisation de
+      [[pouvoir mythique]], peut dissiper les effets de force au contact (comme avec *[[désintégration]]*) ou lancer
+      *[[traversée des ombres]]*.
+    </td>
+    <td>102 960 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée de Justice]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée longue (arme)|épée longue]] +2 en [[matériaux spéciaux#FERFROID|fer froid]], et à une
+      épée longue *[[sainte (propriété)|sainte]]* +5 en [[matériaux spéciaux#FERFROID|fer froid]] dans les mains
+      d’un [[paladin]]. Tant qu’un [[paladin]] porte cette arme, confère une [[RM]] égale à 5 + le niveau de
+      [[paladin]] du porteur à ce dernier et tous ses alliés adjacents. Une fois par [[round]], permet à un porteur
+      [[paladin]] de lancer *[[dissipation suprême]]* (zone uniquement).
+    </td>
+    <td>120 630 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame du Bâtard]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaire à une [[Épée bâtarde (arme)|épée bâtarde]] +2 en [[matériaux spéciaux#ADAMANTIUM|adamantium]], et à
+      une épée bâtarde *[[impie (propriété)|impie]]* +5 en [[matériaux spéciaux#ADAMANTIUM|adamantium]] dans les
+      mains d’un [[antipaladin]]. Tant qu’un [[antipaladin]] porte cette arme, inflige 2d6 points de dégâts
+      d’énergie négative à toute créature vivante qui commence son tour adjacente au porteur et confère une
+      [[guérison accélérée (capacité)|guérison accélérée]] 5 au porteur tant qu’au moins 1 créature vivante subit
+      ces dégâts. Permet à un porteur [[antipaladin]] de lancer *[[ténèbres maudites]]* à volonté (les
+      [[paladin|paladins]] subissent un malus de -2 à leur [[jds|jet de sauvegarde]] contre les effets du sort).
+    </td>
+    <td>123 035 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lame du martyr volontaire]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Similaire à une *[[dague (arme)|dague]] [[acérée (propriété)|acérée]] [[vicieuse (propriété)|vicieuse]] +3*.
+      Peut établir un lien avec une créature à partir de son sang. La créature liée ou le porteur meurt, l'autre le
+      suit.
+    </td>
+    <td>150 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée du feu intérieur]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[épée longue (arme)|épée longue]] de [[lumière (propriété)|lumière]] et de [[feu intense
+      (propriété)|feu intense]] +1*. Maniée par une créature [[mythique]], ignore la [[Résistance
+      (capacité)|résistance]] et l’[[Immunité (capacité)|immunité]] au feu. Au prix d'une utilisation de [[pouvoir
+      mythique]], peut infliger des dégâts aux créatures non-vivantes. Un porteur mythique de [[grade]] 3 au moins
+      peut ranger l'arme dans son corps pour bénéficier d'un bonus de parade de +5 à la [[CA]] et d'un bonus de
+      chance de +2 aux [[jds|jets de sauvegarde]].
+    </td>
+    <td>151 315 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Justicière sacrée]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Similaire à une *[[épée longue (arme)|épée longue]] +3* en [[fer froid]], et à une *épée longue [[sainte
+      (propriété)|sainte]] de [[survie (propriété)|survie]] +5* en fer froid dans les mains d'un [[paladin]] ou
+      d'une créature [[mythique]] Loyale Bonne (bénéficie de la propriété *[[lumière (propriété)|lumière]]* si le
+      porteur rempli ces deux conditions). Dans les mains d'un porteur remplissant une des deux conditions, confère
+      une [[RM|résistance à la magie]] de 5 + niveau de paladin du porteur + son [[grade|grade mythique]] au porteur
+      et à ses alliés dans un rayon de 3m. Une fois par [[round]], permet de lancer une *[[dissipation suprême]]*
+      améliorée.
+    </td>
+    <td>202 630 po</td>
+  </tr>
+</table>
 
 </center>

@@ -133,7 +133,44 @@ Les règles suivantes présentent des dons, des sorts et des objets magiques sp�
 Voici quelques dons très appréciés des bourbiérins.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Coassement étourdissant]]</td><td><sup>CM</sup></td><td>[[Coassement supersonique]], [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Étourdit les créatures avec le coassement</td></tr><tr CLASS="premier"><td>[[Coassement supersonique]]</td><td><sup>CM</sup></td><td>[[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Inflige des dégâts de son avec le coassement</td></tr><tr CLASS="premier"><td>[[Coassement supplémentaire]]</td><td><sup>CM</sup></td><td>[[Bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Gain d'une utilisation par heure supplémentaire du coassement terrifiant</td></tr><tr CLASS="premier"><td>[[Langue puissante]]</td><td><sup>CM</sup></td><td>[[For]] 17, [[Bourbiérin|langue gluante]]</td><td>Gain du pouvoir attirer avec la langue</td></tr><tr CLASS="premier"><td>[[Sac vocal]]</td><td><sup>CM</sup></td><td>[[Bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Augmente la portée du coassement terrifiant</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coassement étourdissant]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Coassement supersonique]], [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td>
+    <td>Étourdit les créatures avec le coassement</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coassement supersonique]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td>
+    <td>Inflige des dégâts de son avec le coassement</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coassement supplémentaire]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td>
+    <td>Gain d'une utilisation par heure supplémentaire du coassement terrifiant</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Langue puissante]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 17, [[Bourbiérin|langue gluante]]</td>
+    <td>Gain du pouvoir attirer avec la langue</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sac vocal]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td>
+    <td>Augmente la portée du coassement terrifiant</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

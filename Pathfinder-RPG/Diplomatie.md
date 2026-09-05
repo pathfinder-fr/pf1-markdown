@@ -22,7 +22,15 @@ Un personnage ne peut pas utiliser la compétence de Diplomatie contre une créa
 
 <center>
 
-<table CLASS="tablo"><caption>Test de diplomatie</caption><tr CLASS="titre"><td>Attitude initiale</td><td>DD du test de Diplomatie</td></tr><tr CLASS="premier"><td>Hostile</td><td>25 + modificateur de [[Charisme]] de la créature</td></tr><tr CLASS="alt"><td>Inamical</td><td>20 + modificateur de [[Charisme]] de la créature</td></tr><tr><td>Indifférent</td><td>15 + modificateur de [[Charisme]] de la créature</td></tr><tr CLASS="alt"><td>Amical</td><td>10 + modificateur de [[Charisme]] de la créature</td></tr><tr><td>Serviable</td><td>0 + modificateur de [[Charisme]] de la créature</td></tr></table>
+<table CLASS="tablo">
+  <caption>Test de diplomatie</caption>
+  <tr CLASS="titre"><td>Attitude initiale</td><td>DD du test de Diplomatie</td></tr>
+  <tr CLASS="premier"><td>Hostile</td><td>25 + modificateur de [[Charisme]] de la créature</td></tr>
+  <tr CLASS="alt"><td>Inamical</td><td>20 + modificateur de [[Charisme]] de la créature</td></tr>
+  <tr><td>Indifférent</td><td>15 + modificateur de [[Charisme]] de la créature</td></tr>
+  <tr CLASS="alt"><td>Amical</td><td>10 + modificateur de [[Charisme]] de la créature</td></tr>
+  <tr><td>Serviable</td><td>0 + modificateur de [[Charisme]] de la créature</td></tr>
+</table>
 
 </center>
 
@@ -30,8 +38,20 @@ Le personnage peut tenter de demander un service à une créature dont l’attit
 
 <center>
 
-<table CLASS="tablo"><caption>Modificateurs pour obtenir un service</caption><tr CLASS="titre"><td>Requête</td><td>Modificateur au DD  
- du test de Diplomatie</td></tr><tr CLASS="premier"><td>Donner un conseil général ou indiquer le chemin</td><td>-5</td></tr><tr CLASS="alt"><td>Donner des conseils précis</td><td>+0</td></tr><tr><td>Aider (par un acte simple)</td><td>+0</td></tr><tr CLASS="alt"><td>Révéler un secret peu important</td><td>+5</td></tr><tr><td>Aider (par un acte long ou complexe)</td><td>+5</td></tr><tr CLASS="alt"><td>Aider (par un acte dangereux)</td><td>+10</td></tr><tr><td>Révéler un secret important</td><td>+10 ou plus</td></tr><tr CLASS="alt"><td>Aider (par un acte qui risque d’être puni)</td><td>+15 ou plus</td></tr><tr><td>Requêtes supplémentaires</td><td>+5 par requête</td></tr></table>
+<table CLASS="tablo">
+  <caption>Modificateurs pour obtenir un service</caption>
+  <tr CLASS="titre"><td>Requête</td><td>Modificateur au DD  
+ du test de Diplomatie</td></tr>
+  <tr CLASS="premier"><td>Donner un conseil général ou indiquer le chemin</td><td>-5</td></tr>
+  <tr CLASS="alt"><td>Donner des conseils précis</td><td>+0</td></tr>
+  <tr><td>Aider (par un acte simple)</td><td>+0</td></tr>
+  <tr CLASS="alt"><td>Révéler un secret peu important</td><td>+5</td></tr>
+  <tr><td>Aider (par un acte long ou complexe)</td><td>+5</td></tr>
+  <tr CLASS="alt"><td>Aider (par un acte dangereux)</td><td>+10</td></tr>
+  <tr><td>Révéler un secret important</td><td>+10 ou plus</td></tr>
+  <tr CLASS="alt"><td>Aider (par un acte qui risque d’être puni)</td><td>+15 ou plus</td></tr>
+  <tr><td>Requêtes supplémentaires</td><td>+5 par requête</td></tr>
+</table>
 
 </center>
 

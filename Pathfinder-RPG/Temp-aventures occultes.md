@@ -264,7 +264,22 @@ La suite me sert juste a avoir des tableaux avec seulement les objets sans empla
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
 
-<table CLASS="tablo centre autoalt"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Pièce factice]]*</td><td>375 po</td></tr><tr><td>—</td><td>*[[Figurine de cire]]*</td><td>500 po</td></tr><tr><td>—</td><td>*[[Encens de revitalisation des esprits]]*</td><td>800 po</td></tr><tr><td>—</td><td>*[[Encens de réalité corporelle]]*</td><td>1 400 po</td></tr><tr><td>—</td><td>*[[Pot de divination animale]]*</td><td>1 400 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Poudre fantôme]]*</td><td>1 400 po</td></tr><tr><td>—</td><td>*[[Cierge de protection contre les esprits]]*</td><td>1 500 po</td></tr><tr><td>—</td><td>*[[Attrape-rêves]]*</td><td>2 800 po</td></tr><tr><td>—</td><td>*[[Encens de réceptivité mentale]]*</td><td>2 800 po</td></tr><tr><td>—</td><td>*[[Trèfle à quatre feuilles]]*</td><td>3 750 po</td></tr><tr><td>—</td><td>*[[Poudre thaumaturgique]]*</td><td>4 000 po</td></tr><tr><td>—</td><td>*[[Fer à cheval porte-bonheur]]*</td><td>6 800 po</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Objets merveilleux de faible puissance</caption>
+  <tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr>
+  <tr CLASS="premier"><td>—</td><td>*[[Pièce factice]]*</td><td>375 po</td></tr>
+  <tr><td>—</td><td>*[[Figurine de cire]]*</td><td>500 po</td></tr>
+  <tr><td>—</td><td>*[[Encens de revitalisation des esprits]]*</td><td>800 po</td></tr>
+  <tr><td>—</td><td>*[[Encens de réalité corporelle]]*</td><td>1 400 po</td></tr>
+  <tr><td>—</td><td>*[[Pot de divination animale]]*</td><td>1 400 po</td></tr>
+  <tr CLASS="alt"><td>—</td><td>*[[Poudre fantôme]]*</td><td>1 400 po</td></tr>
+  <tr><td>—</td><td>*[[Cierge de protection contre les esprits]]*</td><td>1 500 po</td></tr>
+  <tr><td>—</td><td>*[[Attrape-rêves]]*</td><td>2 800 po</td></tr>
+  <tr><td>—</td><td>*[[Encens de réceptivité mentale]]*</td><td>2 800 po</td></tr>
+  <tr><td>—</td><td>*[[Trèfle à quatre feuilles]]*</td><td>3 750 po</td></tr>
+  <tr><td>—</td><td>*[[Poudre thaumaturgique]]*</td><td>4 000 po</td></tr>
+  <tr><td>—</td><td>*[[Fer à cheval porte-bonheur]]*</td><td>6 800 po</td></tr>
+</table>
 
 </center>
 </td></tr></table>

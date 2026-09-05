@@ -58,10 +58,47 @@ Les pièces et les couloirs sont séparés par des murs faits de blocs de pierre
 **Mur doté de meurtrières.** Ce type de mur se taille dans n’importe matériau solide, le plus souvent dans un mur de maçonnerie, en pierre brute ou en bois. Ce mur permet aux défenseurs cachés derrière de tirer à l’arc ou à l’arbalète tout en bénéficiant d’un [[abri]] supérieur (bonus de +8 à la [[CA]], bonus de +4 aux [[jet de sauvegarde|jets de Réflexes]]) et de l’aptitude de classe [[esquive extraordinaire]].
 
 
-<table CLASS="tablo centre autoalt"><caption>Les murs</caption><tr CLASS="titre"><td>Type de mur<sup>&ensp;</sup></td><td>Épaisseur<sup>&ensp;</sup></td><td>DD pour  
-défoncer<sup>&ensp;</sup></td><td>Solidité<sup>&ensp;</sup></td><td>Points   
-de vie<sup>[[Donjons#NOTE1|1]]</sup></td><td>DD   
-d'[[Escalade]]<sup>&ensp;</sup></td></tr><tr CLASS="premier"><td>Maçonnerie</td><td>30 cm</td><td>35</td><td>8</td><td>90</td><td>15</td></tr><tr><td>Maçonnerie de qualité supérieure</td><td>30 cm</td><td>35</td><td>8</td><td>90</td><td>20</td></tr><tr><td>Maçonnerie renforcée</td><td>30 cm</td><td>45</td><td>8</td><td>180</td><td>15</td></tr><tr><td>Pierre taillée</td><td>90 cm</td><td>50</td><td>8</td><td>540</td><td>22</td></tr><tr><td>Pierre brute</td><td>1,50 m</td><td>65</td><td>8</td><td>900</td><td>20</td></tr><tr><td>Fer</td><td>7,5 cm</td><td>30</td><td>10</td><td>90</td><td>25</td></tr><tr><td>Papier</td><td>Négligeable</td><td>1</td><td>—</td><td>1</td><td>30</td></tr><tr><td>Bois</td><td>15 cm</td><td>20</td><td>5</td><td>60</td><td>21</td></tr><tr><td>Renforcé par magie<sup>[[Donjons#NOTE2|2]]</sup></td><td>—</td><td>+20<sup>&ensp;</sup></td><td>×2<sup>&ensp;</sup></td><td>×2<sup>[[Donjons#NOTE3|3]]</sup></td><td>—</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE1}*(1) Pour une section de 3 m de côté.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE2}*(2) Ces modificateurs peuvent s’appliquer à n’importe quel autre type de mur.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE3}*(3) Ou 50 points de vie supplémentaires (on prend systématiquement le meilleur résultat).*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Les murs</caption>
+  <tr CLASS="titre">
+    <td>Type de mur<sup>&ensp;</sup></td>
+    <td>Épaisseur<sup>&ensp;</sup></td>
+    <td>DD pour  
+défoncer<sup>&ensp;</sup></td>
+    <td>Solidité<sup>&ensp;</sup></td>
+    <td>Points   
+de vie<sup>[[Donjons#NOTE1|1]]</sup></td>
+    <td>DD   
+d'[[Escalade]]<sup>&ensp;</sup></td>
+  </tr>
+  <tr CLASS="premier"><td>Maçonnerie</td><td>30 cm</td><td>35</td><td>8</td><td>90</td><td>15</td></tr>
+  <tr><td>Maçonnerie de qualité supérieure</td><td>30 cm</td><td>35</td><td>8</td><td>90</td><td>20</td></tr>
+  <tr><td>Maçonnerie renforcée</td><td>30 cm</td><td>45</td><td>8</td><td>180</td><td>15</td></tr>
+  <tr><td>Pierre taillée</td><td>90 cm</td><td>50</td><td>8</td><td>540</td><td>22</td></tr>
+  <tr><td>Pierre brute</td><td>1,50 m</td><td>65</td><td>8</td><td>900</td><td>20</td></tr>
+  <tr><td>Fer</td><td>7,5 cm</td><td>30</td><td>10</td><td>90</td><td>25</td></tr>
+  <tr><td>Papier</td><td>Négligeable</td><td>1</td><td>—</td><td>1</td><td>30</td></tr>
+  <tr><td>Bois</td><td>15 cm</td><td>20</td><td>5</td><td>60</td><td>21</td></tr>
+  <tr>
+    <td>Renforcé par magie<sup>[[Donjons#NOTE2|2]]</sup></td>
+    <td>—</td>
+    <td>+20<sup>&ensp;</sup></td>
+    <td>×2<sup>&ensp;</sup></td>
+    <td>×2<sup>[[Donjons#NOTE3|3]]</sup></td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE1}*(1) Pour une section de 3 m de côté.*</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="6">
+      {s:Reference|NOTE2}*(2) Ces modificateurs peuvent s’appliquer à n’importe quel autre type de mur.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="6">
+      {s:Reference|NOTE3}*(3) Ou 50 points de vie supplémentaires (on prend systématiquement le meilleur résultat).*
+    </td>
+  </tr>
+</table>
 
 
 #### Les sols
@@ -101,9 +138,34 @@ Dans un donjon, les portes sont bien plus que de simples entrées ou sorties. Bi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><caption>Les portes</caption><tr CLASS="titre"><td ROWSPAN="2">Type de porte</td><td ROWSPAN="2">Épaisseur</td><td ROWSPAN="2">[[Solidité]]</td><td ROWSPAN="2">Points   
-de vie</td><td COLSPAN="2" CLASS="avecsoustitre">DD pour enfoncer</td></tr><tr CLASS="soustitre"><td>coincée</td><td>verrouillée</td></tr><tr CLASS="premier"><td>Bois, normale</td><td>2,5 cm</td><td>5</td><td>10</td><td>13</td><td>15</td></tr><tr CLASS="alt"><td>Bois, solide</td><td>4 cm</td><td>5</td><td>15</td><td>16</td><td>18</td></tr><tr><td>Bois, épaisse</td><td>5 cm</td><td>5</td><td>20</td><td>23</td><td>25</td></tr><tr CLASS="alt"><td>Pierre</td><td>10 cm</td><td>8</td><td>60</td><td>28</td><td>28</td></tr><tr><td>Fer</td><td>5 cm</td><td>10</td><td>60</td><td>28</td><td>28</td></tr><tr CLASS="alt"><td>Herse, bois</td><td>7,5 cm</td><td>5</td><td>30</td><td>25*</td><td>25*</td></tr><tr><td>Herse, fer</td><td>5 cm</td><td>10</td><td>60</td><td>25*</td><td>25*</td></tr><tr CLASS="alt"><td>Serrure</td><td>—</td><td>15</td><td>30</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Gond</td><td>—</td><td>10</td><td>30</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td COLSPAN="6" CLASS="note">*(*) [[DD]] pour soulever. Utilisez le DD du type de porte correspondant  
- au matériau de construction de la herse pour l’enfoncer.*</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Les portes</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Type de porte</td>
+    <td ROWSPAN="2">Épaisseur</td>
+    <td ROWSPAN="2">[[Solidité]]</td>
+    <td ROWSPAN="2">Points   
+de vie</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">DD pour enfoncer</td>
+  </tr>
+  <tr CLASS="soustitre"><td>coincée</td><td>verrouillée</td></tr>
+  <tr CLASS="premier"><td>Bois, normale</td><td>2,5 cm</td><td>5</td><td>10</td><td>13</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Bois, solide</td><td>4 cm</td><td>5</td><td>15</td><td>16</td><td>18</td></tr>
+  <tr><td>Bois, épaisse</td><td>5 cm</td><td>5</td><td>20</td><td>23</td><td>25</td></tr>
+  <tr CLASS="alt"><td>Pierre</td><td>10 cm</td><td>8</td><td>60</td><td>28</td><td>28</td></tr>
+  <tr><td>Fer</td><td>5 cm</td><td>10</td><td>60</td><td>28</td><td>28</td></tr>
+  <tr CLASS="alt"><td>Herse, bois</td><td>7,5 cm</td><td>5</td><td>30</td><td>25*</td><td>25*</td></tr>
+  <tr><td>Herse, fer</td><td>5 cm</td><td>10</td><td>60</td><td>25*</td><td>25*</td></tr>
+  <tr CLASS="alt"><td>Serrure</td><td>—</td><td>15</td><td>30</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>Gond</td><td>—</td><td>10</td><td>30</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr>
+    <td COLSPAN="6" CLASS="note">
+      *(*) [[DD]] pour soulever. Utilisez le DD du type de porte correspondant  
+ au matériau de construction de la
+      herse pour l’enfoncer.*
+    </td>
+  </tr>
+</table>
 
 </div></div>**Porte en bois.** Les portes en bois sont faites d’épaisses planches de bois clouées ensemble, parfois renforcées de fer (ce qui limite la déformation du bois issue de l’humidité souterraine). C’est le type de porte le plus courant. Ces portes se déclinent selon leur qualité : normale, solide ou épaisse. Les premières ne sont pas faites pour empêcher un intrus déterminé d’entrer (test de [[Force]] de [[DD]] 15). Les portes solides sont plus résistantes ([[DD]] 18) et plus solides mais elles ne sont pas faites pour subir une grande quantité de dégâts. Les portes épaisses ([[DD]] 25) sont renforcées par des ferrures et opposent un obstacle bien plus résistant à ceux qui voudraient les franchir. La porte est reliée au chambranle par des gonds de fer et, la plupart du temps, elle est dotée d’un anneau de fer placé au centre en guise de poignée. Parfois, l’anneau est remplacé par une barre de fer (d’un côté ou des deux) qui sert de poignée. Dans les donjons habités, les portes sont souvent bien entretenues (et donc jamais coincées) et généralement ouverte bien qu’elles puissent être verrouillées si elle débouchent sur des zones importantes.
 

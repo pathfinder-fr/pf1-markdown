@@ -30,12 +30,19 @@ Cette fonction de l’Art de la magie s’utilise comme la compétence de base [
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
-d’Art de la magie</td></tr><tr CLASS="premier"><td>Apprendre un sort à partir d’un  
-grimoire ou d’un [[Parchemins magiques|parchemin]]</td><td>15 + niveau  
-du sort</td></tr><tr><td>Préparer un sort à partir d’un  
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test  
+d’Art de la magie</td></tr>
+  <tr CLASS="premier">
+    <td>Apprendre un sort à partir d’un  
+grimoire ou d’un [[Parchemins magiques|parchemin]]</td>
+    <td>15 + niveau  
+du sort</td>
+  </tr>
+  <tr><td>Préparer un sort à partir d’un  
 grimoire emprunté</td><td>15 + niveau  
-du sort</td></tr></table>
+du sort</td></tr>
+</table>
 
 </center></div></div>Le personnage doit réussir un test d’Art de la magie pour ajouter de nouveaux sorts dans son grimoire ou pour préparer un sort à partir d’un grimoire emprunté.
 
@@ -59,18 +66,35 @@ Le personnage peut utiliser l’Art de la magie pour identifier un monstre de ty
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
-d’Art de la magie</td></tr><tr CLASS="premier"><td>Identifier les auras magiques  
-en utilisant *[[détection de la magie]]*</td><td>15 + niveau  
-du sort</td></tr><tr><td>Identifier les propriétés d’un objet  
-magique en utilisant *[[détection de la magie]]*</td><td>15 + NLS de  
-l’objet magique</td></tr><tr><td>Identifier un sort en cours d’incantation</td><td>15 + niveau  
-du sort</td></tr><tr><td>Déchiffrer un [[Parchemins magiques|parchemin]] sans  
-utiliser *[[lecture de la magie]]*</td><td>20 + niveau  
-du sort</td></tr><tr><td>Identifier un effet de sort déjà actif</td><td>20 + niveau  
-du sort</td></tr><tr><td>Identifier un sort qui vient de  
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test  
+d’Art de la magie</td></tr>
+  <tr CLASS="premier">
+    <td>Identifier les auras magiques  
+en utilisant *[[détection de la magie]]*</td>
+    <td>15 + niveau  
+du sort</td>
+  </tr>
+  <tr>
+    <td>Identifier les propriétés d’un objet  
+magique en utilisant *[[détection de la magie]]*</td>
+    <td>15 + NLS de  
+l’objet magique</td>
+  </tr>
+  <tr><td>Identifier un sort en cours d’incantation</td><td>15 + niveau  
+du sort</td></tr>
+  <tr>
+    <td>Déchiffrer un [[Parchemins magiques|parchemin]] sans  
+utiliser *[[lecture de la magie]]*</td>
+    <td>20 + niveau  
+du sort</td>
+  </tr>
+  <tr><td>Identifier un effet de sort déjà actif</td><td>20 + niveau  
+du sort</td></tr>
+  <tr><td>Identifier un sort qui vient de  
 viser le personnage</td><td>25 + niveau  
-du sort</td></tr></table>
+du sort</td></tr>
+</table>
 
 </center></div></div>Le personnage peut identifier avec précision un sort au moment de son incantation ou en observant ses effets s’il réussit un test d’Art de la magie. Il est également capable d’identifier la nature des auras magiques et de déchiffrer un parchemin sans utiliser le sort de lecture de la magie.
 
@@ -86,11 +110,18 @@ du sort</td></tr></table>
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
-d’Art de la magie</td></tr><tr CLASS="premier"><td>Identifier les sorts que l’on peut  
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test  
+d’Art de la magie</td></tr>
+  <tr CLASS="premier">
+    <td>Identifier les sorts que l’on peut  
 lancer à l’aide d’une composante  
-matérielle spécifique</td><td>20</td></tr><tr><td>Identifier des matériaux créés  
+matérielle spécifique</td>
+    <td>20</td>
+  </tr>
+  <tr><td>Identifier des matériaux créés  
 par magie</td><td>20 + niveau  
-du sort</td></tr></table>
+du sort</td></tr>
+</table>
 
 </center></div></div>Le personnage peut utiliser l’Art de la magie pour se remémorer des connaissances à propos des mystères anciens, des symboles et des traditions magiques. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus d’informations. Utilisez les DD de la table ci-contre pour certaines tâches.

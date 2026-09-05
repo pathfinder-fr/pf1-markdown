@@ -31,4 +31,20 @@ D’un simple toucher ou d’un sourire, le personnage peut déconcerter ses enn
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Charme</td><td>Sous-domaine de l'Amour</td><td>Sous-domaine de la Luxure</td></tr><tr CLASS="premier"><td>1er</td><td>''[[charme-personne]]</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[apaisement des émotions]]*</td><td>*[[discours captivant]]*</td><td>*[[idiotie]]*</td></tr><tr><td>3e</td><td>*[[suggestion]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[héroïsme]]*</td><td>*idem*</td><td>*[[confusion]]*</td></tr><tr><td>5e</td><td>*[[charme-monstre]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[quête]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[aliénation mentale]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[exigence]]*</td><td>*[[tranquillité euphorique]]*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[domination universelle]]*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du Charme</td>
+    <td>Sous-domaine de l'Amour</td>
+    <td>Sous-domaine de la Luxure</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>''[[charme-personne]]</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>2e</td><td>*[[apaisement des émotions]]*</td><td>*[[discours captivant]]*</td><td>*[[idiotie]]*</td></tr>
+  <tr><td>3e</td><td>*[[suggestion]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[héroïsme]]*</td><td>*idem*</td><td>*[[confusion]]*</td></tr>
+  <tr><td>5e</td><td>*[[charme-monstre]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>6e</td><td>*[[quête]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[aliénation mentale]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[exigence]]*</td><td>*[[tranquillité euphorique]]*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[domination universelle]]*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

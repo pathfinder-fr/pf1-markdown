@@ -16,7 +16,393 @@ Categories:
 </div>*Au-delà du voile du monde de tous les jours se cachent les mystères du pouvoir absolu. Les œuvres des êtres supérieurs aux mortels, les légendes des royaumes où vivent les dieux et les esprits, les actes créateurs à la fois merveilleux et terribles… tous ces mystères intriguent ceux qui possèdent l’ambition et les capacités nécessaires pour s’élever au-dessus du commun des mortels et atteindre le pouvoir véritable. C’est la voie des magiciens. Ces individus à l’esprit affûté recherchent, collectent et convoitent les connaissances ésotériques et se servent d’arts connus seulement d’une poignée de personnes pour réaliser des merveilles allant au-delà de la portée des simples mortels. Certains choisissent un domaine d’étude magique spécifique et deviennent des experts d’une certaine catégorie de pouvoirs, alors que d’autres optent pour la versatilité et jouissent de toute l’étendue des merveilles magiques. Dans tous les cas, l’ingéniosité et la puissance des magiciens sont évidentes : ils peuvent détruire leurs ennemis, renforcer leurs alliés et façonner le monde selon leurs désirs.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEMAGICIEN}Le magicien</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[magicien#PACTEMAGIQUE|Pacte magique]], [[magicien#ECOLEDEMAGIE|école de magie]], [[magicien#TOURSDEMAGIE|tours de magie]], [[magicien#ECRITUREDEPARCHEMINS|écriture de parchemins]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td></tr><tr><td>17</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr><td>19</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr><tr CLASS="alt"><td>20</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEMAGICIEN}Le magicien</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>0</td>
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[magicien#PACTEMAGIQUE|Pacte magique]], [[magicien#ECOLEDEMAGIE|école de magie]],
+      [[magicien#TOURSDEMAGIE|tours de magie]], [[magicien#ECRITUREDEPARCHEMINS|écriture de parchemins]]
+    </td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+6/+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+6/+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+7/+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+8/+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+8/+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+10/+5</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[magicien#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+</table>
 
 
 **Rôle.** Alors que les études des magiciens généralistes leur permettent de se préparer à n’importe quel type de danger, les magiciens spécialistes s’intéressent à des [[écoles de magie]] qui les rendent particulièrement efficaces dans un domaine spécifique. Mais, quelle que soit la voie choisie, tous les magiciens sont des maîtres de l’impossible, capables d’aider leurs alliés à faire face à n’importe quelle menace.

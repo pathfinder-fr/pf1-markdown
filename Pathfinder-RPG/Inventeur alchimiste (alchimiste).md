@@ -25,7 +25,183 @@ Les capacités des compagnons homoncules dépendent du niveau d'alchimiste. La t
 
 <center>
 
-<table CLASS="tablo"><caption>Caractéristique de base du compagnon homoncule {s:Reference|TABLECOMPAGNONHOMONCULE}</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">DV</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Jets de sauvegardes</td><td ROWSPAN="2">Compétences</td><td ROWSPAN="2">Dons</td><td ROWSPAN="2">Bonus Dex/For</td><td ROWSPAN="2" CLASS="gauche">Spécial</td></tr><tr CLASS="soustitre"></tr><tr CLASS="premier"><td>1</td><td>1</td><td>+1</td><td>+0</td><td>2</td><td>1</td><td>+0</td><td CLASS="gauche">[[Inventeur alchimiste (alchimiste)#ARMESETARMURES|Armes et armures]], [[Inventeur alchimiste (alchimiste)#CONTACTTÉLÉPATHIQUE|Contact télépathique]], [[Inventeur alchimiste (alchimiste)#PACTEALCHIMIQUE|Pacte alchimique]], [[Inventeur alchimiste (alchimiste)#VISIONDANSLENOIR|Vision dans le noir]], [[Inventeur alchimiste (alchimiste)#VISIONNOCTURNE|Vision nocturne]]</td></tr><tr CLASS="alt"><td>2</td><td>2</td><td>+2</td><td>+0</td><td>4</td><td>1</td><td>+0</td><td CLASS="centre">—</td></tr><tr><td>3</td><td>3</td><td>+3</td><td>+1</td><td>8</td><td>2</td><td>+1</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#ESQUIVETOTALE|Esquive totale]]</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>+3</td><td>+1</td><td>8</td><td>2</td><td>+1</td><td CLASS="centre">—</td></tr><tr><td>5</td><td>4</td><td>+4</td><td>+1</td><td>10</td><td>2</td><td>+1</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td></tr><tr CLASS="alt"><td>6</td><td>5</td><td>+5</td><td>+1</td><td>12</td><td>3</td><td>+2</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#PAROLE|Parole]]</td></tr><tr><td>7</td><td>6</td><td>+6</td><td>+2</td><td>14</td><td>3</td><td>+2</td><td CLASS="centre">—</td></tr><tr CLASS="alt"><td>8</td><td>6</td><td>+6</td><td>+2</td><td>14</td><td>3</td><td>+2</td><td CLASS="centre">—</td></tr><tr><td>9</td><td>7</td><td>+7</td><td>+2</td><td>16</td><td>4</td><td>+3</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#RESISTMAGIE|Résistance à la magie]]</td></tr><tr CLASS="alt"><td>10</td><td>8</td><td>+8</td><td>+2</td><td>18</td><td>4</td><td>+3</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td></tr><tr><td>11</td><td>9</td><td>+9</td><td>+3</td><td>20</td><td>5</td><td>+3</td><td CLASS="centre">—</td></tr><tr CLASS="alt"><td>12</td><td>9</td><td>+9</td><td>+3</td><td>20</td><td>5</td><td>+4</td><td CLASS="centre">—</td></tr><tr><td>13</td><td>10</td><td>+10</td><td>+3</td><td>22</td><td>5</td><td>+4</td><td CLASS="centre">—</td></tr><tr CLASS="alt"><td>14</td><td>11</td><td>+11</td><td>+3</td><td>24</td><td>6</td><td>+4</td><td CLASS="centre">—</td></tr><tr><td>15</td><td>12</td><td>+12</td><td>+4</td><td>26</td><td>6</td><td>+5</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]], [[Inventeur alchimiste (alchimiste)#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td></tr><tr CLASS="alt"><td>16</td><td>12</td><td>+12</td><td>+4</td><td>26</td><td>6</td><td>+5</td><td CLASS="centre">—</td></tr><tr><td>17</td><td>13</td><td>+13</td><td>+4</td><td>28</td><td>7</td><td>+5</td><td CLASS="centre">—</td></tr><tr CLASS="alt"><td>18</td><td>14</td><td>+14</td><td>+4</td><td>30</td><td>7</td><td>+6</td><td CLASS="centre">—</td></tr><tr><td>19</td><td>15</td><td>+15</td><td>+5</td><td>32</td><td>8</td><td>+6</td><td CLASS="centre">—</td></tr><tr CLASS="alt"><td>20</td><td>15</td><td>+15</td><td>+5</td><td>32</td><td>8</td><td>+6</td><td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Caractéristique de base du compagnon homoncule {s:Reference|TABLECOMPAGNONHOMONCULE}</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">DV</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Jets de sauvegardes</td>
+    <td ROWSPAN="2">Compétences</td>
+    <td ROWSPAN="2">Dons</td>
+    <td ROWSPAN="2">Bonus Dex/For</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="soustitre"></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>2</td>
+    <td>1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Inventeur alchimiste (alchimiste)#ARMESETARMURES|Armes et armures]], [[Inventeur alchimiste
+      (alchimiste)#CONTACTTÉLÉPATHIQUE|Contact télépathique]], [[Inventeur alchimiste
+      (alchimiste)#PACTEALCHIMIQUE|Pacte alchimique]], [[Inventeur alchimiste (alchimiste)#VISIONDANSLENOIR|Vision
+      dans le noir]], [[Inventeur alchimiste (alchimiste)#VISIONNOCTURNE|Vision nocturne]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>4</td>
+    <td>1</td>
+    <td>+0</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>8</td>
+    <td>2</td>
+    <td>+1</td>
+    <td CLASS="centre">[[Inventeur alchimiste (alchimiste)#ESQUIVETOTALE|Esquive totale]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>8</td>
+    <td>2</td>
+    <td>+1</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>10</td>
+    <td>2</td>
+    <td>+1</td>
+    <td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>5</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>12</td>
+    <td>3</td>
+    <td>+2</td>
+    <td CLASS="centre">[[Inventeur alchimiste (alchimiste)#PAROLE|Parole]]</td>
+  </tr>
+  <tr><td>7</td><td>6</td><td>+6</td><td>+2</td><td>14</td><td>3</td><td>+2</td><td CLASS="centre">—</td></tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>14</td>
+    <td>3</td>
+    <td>+2</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>16</td>
+    <td>4</td>
+    <td>+3</td>
+    <td CLASS="centre">[[Inventeur alchimiste (alchimiste)#RESISTMAGIE|Résistance à la magie]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>8</td>
+    <td>+8</td>
+    <td>+2</td>
+    <td>18</td>
+    <td>4</td>
+    <td>+3</td>
+    <td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr><td>11</td><td>9</td><td>+9</td><td>+3</td><td>20</td><td>5</td><td>+3</td><td CLASS="centre">—</td></tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>20</td>
+    <td>5</td>
+    <td>+4</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr><td>13</td><td>10</td><td>+10</td><td>+3</td><td>22</td><td>5</td><td>+4</td><td CLASS="centre">—</td></tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>11</td>
+    <td>+11</td>
+    <td>+3</td>
+    <td>24</td>
+    <td>6</td>
+    <td>+4</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>12</td>
+    <td>+12</td>
+    <td>+4</td>
+    <td>26</td>
+    <td>6</td>
+    <td>+5</td>
+    <td CLASS="centre">
+      [[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]], [[Inventeur
+      alchimiste (alchimiste)#ESQUIVESURNATURELLE|Esquive surnaturelle]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>12</td>
+    <td>+12</td>
+    <td>+4</td>
+    <td>26</td>
+    <td>6</td>
+    <td>+5</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr><td>17</td><td>13</td><td>+13</td><td>+4</td><td>28</td><td>7</td><td>+5</td><td CLASS="centre">—</td></tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>14</td>
+    <td>+14</td>
+    <td>+4</td>
+    <td>30</td>
+    <td>7</td>
+    <td>+6</td>
+    <td CLASS="centre">—</td>
+  </tr>
+  <tr><td>19</td><td>15</td><td>+15</td><td>+5</td><td>32</td><td>8</td><td>+6</td><td CLASS="centre">—</td></tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>15</td>
+    <td>+15</td>
+    <td>+5</td>
+    <td>32</td>
+    <td>8</td>
+    <td>+6</td>
+    <td CLASS="centre">[[Inventeur alchimiste (alchimiste)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td>
+  </tr>
+</table>
 
 </center>
 

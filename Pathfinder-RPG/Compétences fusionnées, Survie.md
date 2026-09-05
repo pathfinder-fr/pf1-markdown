@@ -34,8 +34,14 @@ Cette fonction de la compétence de Survie fonctionne comme la compétence de ba
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Type de sol</td><td>DD du test  
-de Survie</td></tr><tr CLASS="premier"><td>Très mou</td><td>5</td></tr><tr><td>Mou</td><td>10</td></tr><tr><td>Ferme</td><td>15</td></tr><tr><td>Dur</td><td>20</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Type de sol</td><td>DD du test  
+de Survie</td></tr>
+  <tr CLASS="premier"><td>Très mou</td><td>5</td></tr>
+  <tr><td>Mou</td><td>10</td></tr>
+  <tr><td>Ferme</td><td>15</td></tr>
+  <tr><td>Dur</td><td>20</td></tr>
+</table>
 
 </center></div></div>Le personnage doit réussir un test de Survie pour repérer des traces ou les suivre sur une distance de 1,5 kilomètre. Il faut réussir un nouveau test chaque fois que la piste devient difficile à suivre. Lorsqu’il suit une piste, le personnage se déplace à la moitié de sa vitesse de déplacement normale. Il peut choisir de se déplacer à sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20. Le [[DD]] du test dépend du type de sol et des conditions en vigueur.
 - *Sol très mou.* Toute surface (neige fraîche, épaisse couche de poussière, boue visqueuse) sur laquelle les pas laissent des empreintes profondes et faciles à repérer.
@@ -86,10 +92,17 @@ Divers modificateurs liés aux conditions indiquées dans la table ci-dessous s�
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
-de Survie</td></tr><tr CLASS="premier"><td>Se débrouiller en pleine nature</td><td>10</td></tr><tr><td>Résister aux rigueurs du climat</td><td>15</td></tr><tr><td>Éviter les dangers naturels tels  
-que des sables mouvants</td><td>15</td></tr><tr><td>Éviter de se perdre</td><td>15</td></tr><tr><td>Prédire les conditions climatiques  
-des 24 prochaines heures</td><td>15</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test  
+de Survie</td></tr>
+  <tr CLASS="premier"><td>Se débrouiller en pleine nature</td><td>10</td></tr>
+  <tr><td>Résister aux rigueurs du climat</td><td>15</td></tr>
+  <tr><td>Éviter les dangers naturels tels  
+que des sables mouvants</td><td>15</td></tr>
+  <tr><td>Éviter de se perdre</td><td>15</td></tr>
+  <tr><td>Prédire les conditions climatiques  
+des 24 prochaines heures</td><td>15</td></tr>
+</table>
 
 </center></div></div>En pleine nature, le personnage est capable d’assurer sa propre sécurité et sa subsistance ainsi que celles de ses compagnons. Utilisez les DD de la table suivante pour certaines tâches.
 

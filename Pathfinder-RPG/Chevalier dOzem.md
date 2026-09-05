@@ -13,7 +13,104 @@ L’ordre est très religieux, composé de fidèles dévoués à leur divinité 
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Le chevalier de la vie</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Chevalier dOzem#SENTINELLECONTRELESMORTSVIVANTS|Sentinelle contre les morts-vivants]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#ENNEMIJURE|ennemi juré]] (mort-vivant)</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Chevalier dOzem#DEJOUERLAMAGIEINFECTE|Déjouer la magie infecte]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#CONVICTIONSACREE|conviction sacrée]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Chevalier dOzem#PURIFICATIONDELAMALVEILLANCE|Purification de la malveillance]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#DEJOUERLESLANCEURSDESORTSMORTSVIVANTS|déjouer les lanceurs de sorts morts-vivants]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#ACCOUTREMENTDELAVERTU|Accoutrement de la vertu]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Le chevalier de la vie</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Chevalier dOzem#SENTINELLECONTRELESMORTSVIVANTS|Sentinelle contre les morts-vivants]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#ENNEMIJURE|ennemi juré]] (mort-vivant)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Chevalier dOzem#DEJOUERLAMAGIEINFECTE|Déjouer la magie infecte]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#CONVICTIONSACREE|conviction sacrée]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Chevalier dOzem#PURIFICATIONDELAMALVEILLANCE|Purification de la malveillance]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier
+      dOzem#DEJOUERLESLANCEURSDESORTSMORTSVIVANTS|déjouer les lanceurs de sorts morts-vivants]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chevalier dOzem#ACCOUTREMENTDELAVERTU|Accoutrement de la vertu]]</td>
+  </tr>
+</table>
 
 </center>
 

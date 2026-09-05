@@ -20,7 +20,118 @@ Trois facteurs déterminent la réputation du personnage : la Renommée, la Sph
 Le personnage commence le jeu avec une Renommée égale à son niveau de personnage + son modificateur de [[Charisme]]. Sa Renommée peut aller de -100 à 100, 0 correspondant à une notoriété nulle. Au fil de la campagne, le personnage construit sa réputation à travers ses mots et ses actes. Bien qu’un aventurier puisse accomplir de nombreuses actions, toutes ne sont pas forcément assez importantes pour justifier un changement dans la Renommée. Le MJ devrait s’en tenir aux actions qui affectent directement l’histoire ou la campagne et ne pas accorder de points pour les victoires mineures. Il appartient en principe au MJ de juger de l’importance des actions spécifiques présente en détail quelques exemples particuliers. Si jamais la Renommée du personnage devait tomber en dessous de 0, consultez [[Réputation et renommée#DISCREDIT|Discrédit et infamie]].
 
 
-<table CLASS="tablo centre autoalt"><caption>Évènements porteurs de renommée</caption><tr CLASS="titre"><td>Évènement</td><td>Modificateur de renommée</td></tr><tr CLASS="premier"><td COLSPAN=2>**Évènements positifs**</td></tr><tr><td>&emsp;Acquérir un trésor remarquable auprès d’un digne ennemi<sup>[[Réputation et renommée#NOTE1|1]]</sup></td><td>+1</td></tr><tr><td>&emsp;Confirmer deux coups critiques de suite dans une rencontre de FP approprié</td><td>+1</td></tr><tr><td>&emsp;Consacrer un temple à sa divinité</td><td>+1</td></tr><tr><td>&emsp;Fabriquer un puissant objet magique<sup>[[Réputation et renommée#NOTE2|2]]</sup></td><td>+1</td></tr><tr><td>&emsp;Gagner un niveau dans une classe de PJ</td><td>+1</td></tr><tr><td>&emsp;Localiser et désarmer trois pièges de suite ou plus de FP approprié</td><td>+1</td></tr><tr><td>&emsp;Faire une grande découverte historique, scientifique ou magique<sup>[[Réputation et renommée#NOTE3|3]]</sup></td><td>+1</td></tr><tr><td>&emsp;Posséder un objet ou un artefact légendaire<sup>[[Réputation et renommée#NOTE4|4]]</sup></td><td>+1</td></tr><tr><td>&emsp;Recevoir une médaille ou un honneur similaire des mains d’une personnalité publique</td><td>+1</td></tr><tr><td>&emsp;Rendre un objet magique ou une relique d’importance à son propriétaire</td><td>+1</td></tr><tr><td>&emsp;Piller la place-forte d’un puissant noble</td><td>+1</td></tr><tr><td>&emsp;Vaincre seul un adversaire ayant un FP supérieur au niveau du personnage<sup>[[Réputation et renommée#NOTE5|5]]</sup></td><td>+1</td></tr><tr><td>&emsp;Remporter un combat contre un FP égal au niveau moyen du groupe +3 ou plus</td><td>+1</td></tr><tr><td>&emsp;Vaincre en combat une personne qui vous a publiquement diffamé</td><td>+2</td></tr><tr><td>&emsp;Réussir un test d’[[Artisanat]] de DD 30 ou plus pour créer une œuvre d’art ou un objet de maître<sup>[[Réputation et renommée#NOTE6|6]]</sup></td><td>+2</td></tr><tr><td>&emsp;Réussir un test public de [[Diplomatie]] ou d’[[Intimidation]] de DD 30 ou plus<sup>[[Réputation et renommée#NOTE6|6]]</sup></td><td>+2</td></tr><tr><td>&emsp;Réussir un test public de [[Représentation]] de DD 30 ou plus6</td><td>+2</td></tr><tr><td>&emsp;Achever une aventure au [[FP]] approprié au [[Rencontres#TABLENIVEAURENCONTRE|niveau moyen du groupe]]<sup>[[Réputation et renommée#NOTE7|7]]</sup></td><td>+3</td></tr><tr><td>&emsp;Gagner un titre officiel (dame, seigneur, chevalier, etc.)</td><td>+3</td></tr><tr><td>&emsp;Vaincre un ennemi-clé en combat</td><td>+5</td></tr><tr><td COLSPAN=2>**Évènements négatifs**</td></tr><tr><td>&emsp;Être accusé d’un crime mineur</td><td>-1</td></tr><tr><td>&emsp;Fréquenter quelqu’un de mauvaise réputation<sup>[[Réputation et renommée#NOTE8|8]]</sup></td><td>-1</td></tr><tr><td>&emsp;Être accusé d’un crime grave non-violent</td><td>-2</td></tr><tr><td>&emsp;Fuir publiquement une rencontre de FP inférieur au niveau moyen du groupe</td><td>-3</td></tr><tr><td>&emsp;Attaquer des innocents</td><td>-5</td></tr><tr><td>&emsp;Être accusé d’un crime grave et violent</td><td>-5</td></tr><tr><td>&emsp;Perdre publiquement une rencontre de FP égal ou inférieur au niveau moyen du groupe</td><td>-5</td></tr><tr><td>&emsp;Être accusé de meurtre</td><td>-8</td></tr><tr><td>&emsp;Être accusé de trahison</td><td>-10</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE1}*(1) Inclut la récupération du trésor d’un monstre ou d’un rival vaincu. Les personnages Mauvais, peuvent voler le trésor plutôt que de le récupérer à la loyale.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE2}*(2) Par tranche de 40 000 po du prix de l’objet.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE3}*(3) Comme trouver les ruines d’une cité perdue, redécouvrir un savoir oublié ou créer un nouveau sort utile.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE4}*(4) Par tranche de 40 000 po du prix de l’objet. Les artefacts sans prix comptent comme des objets de 200 000 po (5 PP) dans ce cas.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE5}*(5) Par point de FP supérieur au niveau du personnage.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE6}*(6) Le personnage ne peut pas améliorer plus d’une fois par mois sa Renommée de cette manière.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE7}''(7) Environ la longueur d’un module ou d’une campagne Pathfinder.</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE8}*(8) Par semaine d’étroite association.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Évènements porteurs de renommée</caption>
+  <tr CLASS="titre"><td>Évènement</td><td>Modificateur de renommée</td></tr>
+  <tr CLASS="premier"><td COLSPAN=2>**Évènements positifs**</td></tr>
+  <tr>
+    <td>&emsp;Acquérir un trésor remarquable auprès d’un digne ennemi<sup>[[Réputation et renommée#NOTE1|1]]</sup></td>
+    <td>+1</td>
+  </tr>
+  <tr><td>&emsp;Confirmer deux coups critiques de suite dans une rencontre de FP approprié</td><td>+1</td></tr>
+  <tr><td>&emsp;Consacrer un temple à sa divinité</td><td>+1</td></tr>
+  <tr><td>&emsp;Fabriquer un puissant objet magique<sup>[[Réputation et renommée#NOTE2|2]]</sup></td><td>+1</td></tr>
+  <tr><td>&emsp;Gagner un niveau dans une classe de PJ</td><td>+1</td></tr>
+  <tr><td>&emsp;Localiser et désarmer trois pièges de suite ou plus de FP approprié</td><td>+1</td></tr>
+  <tr>
+    <td>
+      &emsp;Faire une grande découverte historique, scientifique ou magique<sup>[[Réputation et renommée#NOTE3|3]]
+      </sup>
+    </td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <td>&emsp;Posséder un objet ou un artefact légendaire<sup>[[Réputation et renommée#NOTE4|4]]</sup></td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <td>&emsp;Recevoir une médaille ou un honneur similaire des mains d’une personnalité publique</td>
+    <td>+1</td>
+  </tr>
+  <tr><td>&emsp;Rendre un objet magique ou une relique d’importance à son propriétaire</td><td>+1</td></tr>
+  <tr><td>&emsp;Piller la place-forte d’un puissant noble</td><td>+1</td></tr>
+  <tr>
+    <td>
+      &emsp;Vaincre seul un adversaire ayant un FP supérieur au niveau du personnage<sup>[[Réputation et
+      renommée#NOTE5|5]]</sup>
+    </td>
+    <td>+1</td>
+  </tr>
+  <tr><td>&emsp;Remporter un combat contre un FP égal au niveau moyen du groupe +3 ou plus</td><td>+1</td></tr>
+  <tr><td>&emsp;Vaincre en combat une personne qui vous a publiquement diffamé</td><td>+2</td></tr>
+  <tr>
+    <td>
+      &emsp;Réussir un test d’[[Artisanat]] de DD 30 ou plus pour créer une œuvre d’art ou un objet de maître<sup>
+      [[Réputation et renommée#NOTE6|6]]</sup>
+    </td>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <td>
+      &emsp;Réussir un test public de [[Diplomatie]] ou d’[[Intimidation]] de DD 30 ou plus<sup>[[Réputation et
+      renommée#NOTE6|6]]</sup>
+    </td>
+    <td>+2</td>
+  </tr>
+  <tr><td>&emsp;Réussir un test public de [[Représentation]] de DD 30 ou plus6</td><td>+2</td></tr>
+  <tr>
+    <td>
+      &emsp;Achever une aventure au [[FP]] approprié au [[Rencontres#TABLENIVEAURENCONTRE|niveau moyen du groupe]]
+      <sup>[[Réputation et renommée#NOTE7|7]]</sup>
+    </td>
+    <td>+3</td>
+  </tr>
+  <tr><td>&emsp;Gagner un titre officiel (dame, seigneur, chevalier, etc.)</td><td>+3</td></tr>
+  <tr><td>&emsp;Vaincre un ennemi-clé en combat</td><td>+5</td></tr>
+  <tr><td COLSPAN=2>**Évènements négatifs**</td></tr>
+  <tr><td>&emsp;Être accusé d’un crime mineur</td><td>-1</td></tr>
+  <tr>
+    <td>&emsp;Fréquenter quelqu’un de mauvaise réputation<sup>[[Réputation et renommée#NOTE8|8]]</sup></td>
+    <td>-1</td>
+  </tr>
+  <tr><td>&emsp;Être accusé d’un crime grave non-violent</td><td>-2</td></tr>
+  <tr><td>&emsp;Fuir publiquement une rencontre de FP inférieur au niveau moyen du groupe</td><td>-3</td></tr>
+  <tr><td>&emsp;Attaquer des innocents</td><td>-5</td></tr>
+  <tr><td>&emsp;Être accusé d’un crime grave et violent</td><td>-5</td></tr>
+  <tr>
+    <td>&emsp;Perdre publiquement une rencontre de FP égal ou inférieur au niveau moyen du groupe</td>
+    <td>-5</td>
+  </tr>
+  <tr><td>&emsp;Être accusé de meurtre</td><td>-8</td></tr>
+  <tr><td>&emsp;Être accusé de trahison</td><td>-10</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE1}*(1) Inclut la récupération du trésor d’un monstre ou d’un rival vaincu. Les personnages
+      Mauvais, peuvent voler le trésor plutôt que de le récupérer à la loyale.*
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE2}*(2) Par tranche de 40 000 po du prix de l’objet.*</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE3}*(3) Comme trouver les ruines d’une cité perdue, redécouvrir un savoir oublié ou créer un
+      nouveau sort utile.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE4}*(4) Par tranche de 40 000 po du prix de l’objet. Les artefacts sans prix comptent comme
+      des objets de 200 000 po (5 PP) dans ce cas.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">{s:Reference|NOTE5}*(5) Par point de FP supérieur au niveau du personnage.*</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE6}*(6) Le personnage ne peut pas améliorer plus d’une fois par mois sa Renommée de cette
+      manière.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">{s:Reference|NOTE7}''(7) Environ la longueur d’un module ou d’une campagne Pathfinder.</td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE8}*(8) Par semaine d’étroite association.*</td></tr>
+</table>
 
 
 {s:Reference|SPHÈREDINFLUENCE}

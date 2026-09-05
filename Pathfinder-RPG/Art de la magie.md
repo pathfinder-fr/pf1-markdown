@@ -21,7 +21,25 @@ Même si ce n’est pas directement indiqué dans le <u>*[[Art de la magie|Manue
 
 <center>
 
-<table CLASS="tablo"><caption>DD des tests d’Art de la magie</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test d’Art de la magie</td></tr><tr CLASS="premier"><td>Identifier un sort lorsqu’il est lancé</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Apprendre un sort à partir d’un grimoire ou d’un parchemin</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr><td>Préparer un sort à partir d’un grimoire emprunté</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Identifier les propriétés d’un objet magique en utilisant le sort de détection de la magie</td><td>15 + [[NLS]] de l’objet magique</td></tr><tr><td>Déchiffrer un parchemin</td><td>20 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Fabriquer un objet magique</td><td>Variable selon les objets</td></tr></table>
+<table CLASS="tablo">
+  <caption>DD des tests d’Art de la magie</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test d’Art de la magie</td></tr>
+  <tr CLASS="premier">
+    <td>Identifier un sort lorsqu’il est lancé</td>
+    <td>15 + [[niveau de sort|niveau du sort]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Apprendre un sort à partir d’un grimoire ou d’un parchemin</td>
+    <td>15 + [[niveau de sort|niveau du sort]]</td>
+  </tr>
+  <tr><td>Préparer un sort à partir d’un grimoire emprunté</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr>
+  <tr CLASS="alt">
+    <td>Identifier les propriétés d’un objet magique en utilisant le sort de détection de la magie</td>
+    <td>15 + [[NLS]] de l’objet magique</td>
+  </tr>
+  <tr><td>Déchiffrer un parchemin</td><td>20 + [[niveau de sort|niveau du sort]]</td></tr>
+  <tr CLASS="alt"><td>Fabriquer un objet magique</td><td>Variable selon les objets</td></tr>
+</table>
 
 </center>
 

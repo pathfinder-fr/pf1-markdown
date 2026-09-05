@@ -26,6 +26,74 @@ Un maléfice sanglant est un effet surnaturel de malédiction et compte comme un
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau récapitulatif des dons de maléfice sanglant</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="37%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Cataracte]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13, 5 rangs en [[Perception]], 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, les attaques de contact à distance de la cible ont plus de chance de rater</td></tr><tr CLASS="premier alt donprincipal"><td>[[Handicap]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13, 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, la cible subit un malus de -10 à son prochain test d'initiative</td></tr><tr CLASS="premier donprincipal"><td>[[Incertitude]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13; 5 rangs en [[Intimidation]], en [[Diplomatie]], et en [[Bluff]]</td><td>Une fois blessée, la cible subit un malus de -6 aux tests d'une compétence sociale</td></tr><tr CLASS="premier alt donprincipal"><td>[[Lame émoussée]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13, [[BBA]] +6, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, la cible ne peut plus confirmer de coups critiques</td></tr><tr CLASS="premier donprincipal"><td>[[Œil du taureau]]</td><td><sup>*MTT*</sup></td><td>[[Dex]] 13, [[Int]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Tir en mouvement]], [[BBA]] +4, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, les attaques à distance du personnage ont plus de chance de toucher la cible</td></tr><tr CLASS="premier alt donprincipal"><td>[[Surconsommation]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13, 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, la cible consomme plus rapidement ses ressources de classe</td></tr><tr CLASS="premier donprincipal"><td>[[Suspension]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13, 5 rangs en [[Art de la magie]], 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, la cible n'a temporairement plus accès à ses pouvoirs magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Vacillement]]</td><td><sup>*MTT*</sup></td><td>[[Int]] 13, 5 rangs en [[Art de la magie]], 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>Une fois blessée, la cible ne peut plus faire d'actions stratégiques</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau récapitulatif des dons de maléfice sanglant</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="37%">Conditions</td>
+    <td WIDTH="40%">Avantages</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Cataracte]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>
+      [[Int]] 13, 5 rangs en [[Perception]], 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets
+      magiques]]
+    </td>
+    <td>Une fois blessée, les attaques de contact à distance de la cible ont plus de chance de rater</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Handicap]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>[[Int]] 13, 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td>
+    <td>Une fois blessée, la cible subit un malus de -10 à son prochain test d'initiative</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Incertitude]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>[[Int]] 13; 5 rangs en [[Intimidation]], en [[Diplomatie]], et en [[Bluff]]</td>
+    <td>Une fois blessée, la cible subit un malus de -6 aux tests d'une compétence sociale</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Lame émoussée]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>[[Int]] 13, [[BBA]] +6, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td>
+    <td>Une fois blessée, la cible ne peut plus confirmer de coups critiques</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Œil du taureau]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>
+      [[Dex]] 13, [[Int]] 13, [[Esquive]], [[Souplesse du serpent]], [[Tir à bout portant]], [[Tir en mouvement]],
+      [[BBA]] +4, 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]
+    </td>
+    <td>Une fois blessée, les attaques à distance du personnage ont plus de chance de toucher la cible</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Surconsommation]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>[[Int]] 13, 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td>
+    <td>Une fois blessée, la cible consomme plus rapidement ses ressources de classe</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Suspension]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>
+      [[Int]] 13, 5 rangs en [[Art de la magie]], 1 rang en [[Utilisation dobjets magiques|Utilisation d'objets
+      magiques]]
+    </td>
+    <td>Une fois blessée, la cible n'a temporairement plus accès à ses pouvoirs magiques</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Vacillement]]</td>
+    <td><sup>*MTT*</sup></td>
+    <td>
+      [[Int]] 13, 5 rangs en [[Art de la magie]], 5 rangs en [[Utilisation dobjets magiques|Utilisation d'objets
+      magiques]]
+    </td>
+    <td>Une fois blessée, la cible ne peut plus faire d'actions stratégiques</td>
+  </tr>
+</table>
 
 </center>

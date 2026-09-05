@@ -27,7 +27,26 @@ Categories:
 </div>
 
 
-<table CLASS="tablo"><caption>Table des pouvoirs magiques du demi-fiélon</caption><tr CLASS="titre"><td class="gauche">DV</td><td class="gauche">Pouvoir magique</td></tr><tr CLASS="premier"><td class="gauche">1-2</td><td class="gauche">*[[ténèbres]]* (3/jour)</td></tr><tr CLASS="alt"><td class="gauche">3-4</td><td class="gauche">*[[profanation]]*</td></tr><tr><td class="gauche">5-6</td><td class="gauche">*[[ténèbres maudites]]*</td></tr><tr CLASS="alt"><td class="gauche">7-8</td><td class="gauche">*[[empoisonnement]]* (3/jour)</td></tr><tr><td class="gauche">9-10</td><td class="gauche">*[[contagion]]*</td></tr><tr CLASS="alt"><td class="gauche">11-12</td><td class="gauche">*[[blasphème]]*</td></tr><tr><td class="gauche">13-14</td><td class="gauche">*[[aura maudite]]* (3/jour), *[[sanctification maléfique]]*</td></tr><tr CLASS="alt"><td class="gauche">15-16</td><td class="gauche">*[[flétrissure]]*</td></tr><tr><td class="gauche">17-18</td><td class="gauche">*[[convocation de monstres IX]]* (uniquement des fiélons)</td></tr><tr CLASS="alt"><td class="gauche">19-20</td><td class="gauche">*[[sort Destruction|destruction]]*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Table des pouvoirs magiques du demi-fiélon</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td class="gauche">Pouvoir magique</td></tr>
+  <tr CLASS="premier"><td class="gauche">1-2</td><td class="gauche">*[[ténèbres]]* (3/jour)</td></tr>
+  <tr CLASS="alt"><td class="gauche">3-4</td><td class="gauche">*[[profanation]]*</td></tr>
+  <tr><td class="gauche">5-6</td><td class="gauche">*[[ténèbres maudites]]*</td></tr>
+  <tr CLASS="alt"><td class="gauche">7-8</td><td class="gauche">*[[empoisonnement]]* (3/jour)</td></tr>
+  <tr><td class="gauche">9-10</td><td class="gauche">*[[contagion]]*</td></tr>
+  <tr CLASS="alt"><td class="gauche">11-12</td><td class="gauche">*[[blasphème]]*</td></tr>
+  <tr>
+    <td class="gauche">13-14</td>
+    <td class="gauche">*[[aura maudite]]* (3/jour), *[[sanctification maléfique]]*</td>
+  </tr>
+  <tr CLASS="alt"><td class="gauche">15-16</td><td class="gauche">*[[flétrissure]]*</td></tr>
+  <tr>
+    <td class="gauche">17-18</td>
+    <td class="gauche">*[[convocation de monstres IX]]* (uniquement des fiélons)</td>
+  </tr>
+  <tr CLASS="alt"><td class="gauche">19-20</td><td class="gauche">*[[sort Destruction|destruction]]*</td></tr>
+</table>
 
 
 </td><td><div>Voir un exemple : le [[minotaure demi-fiélon]].

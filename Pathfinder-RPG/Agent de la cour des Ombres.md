@@ -13,7 +13,127 @@ La loyauté des agents de l'Ombre envers leurs chefs suprêmes et leurs idéaux 
 
 <center>
 
-<table CLASS="tablo"><caption>L'agent de l'ombre</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent de la cour des Ombres#BENEDICTIONSDELOBSCURITE|Bénédictions de l'obscurité]], [[Agent de la cour des Ombres#COURSTISANDELOMBRE|courtisan de l'ombre]], [[Agent de la cour des Ombres#MAGIETENEBREUSE|magie ténébreuse]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent de la cour des Ombres#VISIONDANSLENOIR|Vision dans le noir]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Agent de la cour des Ombres#CHAINESDELOMBRE|Chaînes de l'ombre]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (12 m)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent de la cour des Ombres#REGARDDESTABILISANT|Regard déstabilisant]] (secoué 1 round)</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (24 m), [[Agent de la cour des Ombres#ETREINTEDESOMBRES|étreinte des ombres]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Agent de la cour des Ombres#REGARDDESTABILISANT|Regard déstabilisant]] (secoué 1d4 round), [[Agent de la cour des Ombres#VISIONDANSLENOIR|vision dans le noir]] +9 m</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (48 m)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Agent de la cour des Ombres#REGARDDESTABILISANT|Regard déstabilisant]] (chancelant 1 round)</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (96 m), [[Agent de la cour des Ombres#OMBREDEVASTATRICE|ombre dévastatrice]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'agent de l'ombre</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#BENEDICTIONSDELOBSCURITE|Bénédictions de l'obscurité]], [[Agent de la cour des
+      Ombres#COURSTISANDELOMBRE|courtisan de l'ombre]], [[Agent de la cour des Ombres#MAGIETENEBREUSE|magie
+      ténébreuse]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Agent de la cour des Ombres#VISIONDANSLENOIR|Vision dans le noir]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Agent de la cour des Ombres#CHAINESDELOMBRE|Chaînes de l'ombre]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (12 m)
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Agent de la cour des Ombres#REGARDDESTABILISANT|Regard déstabilisant]] (secoué 1 round)</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (24 m), [[Agent de la
+      cour des Ombres#ETREINTEDESOMBRES|étreinte des ombres]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#REGARDDESTABILISANT|Regard déstabilisant]] (secoué 1d4 round), [[Agent de la
+      cour des Ombres#VISIONDANSLENOIR|vision dans le noir]] +9 m
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (48 m)
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#REGARDDESTABILISANT|Regard déstabilisant]] (chancelant 1 round)
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Agent de la cour des Ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (96 m), [[Agent de la
+      cour des Ombres#OMBREDEVASTATRICE|ombre dévastatrice]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 </center>
 

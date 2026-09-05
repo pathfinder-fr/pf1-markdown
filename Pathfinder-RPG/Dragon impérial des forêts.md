@@ -48,7 +48,34 @@ Les dragons des forêts, ou dilong, sont des créatures capricieuses et malveill
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Déplacement facilité, [[Immunité (capacité)|immunité]] au poison</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Imitation des sons, perception des vibrations</td><td>—</td></tr><tr><td>Jeune</td><td>*[[Passage sans trace]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Enchevêtrement]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 2/adamantium, résistance à la magie</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>Changement de forme, *[[flétrissement végétal]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 5/adamantium</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>Écrasement destructeur, *[[voyage par les arbres]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 10/adamantium</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Animation des plantes]]*, souffle élémentaire</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 15/adamantium</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Mort de pierre, *[[tremblement de terre]]*</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier">
+    <td>Dragonnet</td>
+    <td>Déplacement facilité, [[Immunité (capacité)|immunité]] au poison</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>Imitation des sons, perception des vibrations</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>*[[Passage sans trace]]*</td><td>1</td></tr>
+  <tr CLASS="alt">
+    <td>Adolescent</td>
+    <td>*[[Enchevêtrement]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Jeune adulte</td>
+    <td>[[Réduction de dégâts (capacité)|RD]] 2/adamantium, résistance à la magie</td>
+    <td>5</td>
+  </tr>
+  <tr CLASS="alt"><td>Adulte</td><td>Changement de forme, *[[flétrissement végétal]]*</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 5/adamantium</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>Écrasement destructeur, *[[voyage par les arbres]]*</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 10/adamantium</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[Animation des plantes]]*, souffle élémentaire</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 15/adamantium</td><td>17</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>Mort de pierre, *[[tremblement de terre]]*</td><td>19</td></tr>
+</table>
 
 </center>
 </div>

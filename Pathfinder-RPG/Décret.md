@@ -23,7 +23,16 @@ Les créatures d’[[alignement]] autre que Loyal entendant le *décret* sont af
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Dés de vie</td><td>Effet</td></tr><tr CLASS="premier"><td>Égaux au [[NLS|niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -1</td><td>Assourdissement, ralentissement</td></tr><tr><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -5</td><td>Assourdissement, paralysie, ralentissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -10</td><td>Assourdissement, mort, paralysie, ralentissement</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Dés de vie</td><td>Effet</td></tr>
+  <tr CLASS="premier"><td>Égaux au [[NLS|niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr>
+  <tr CLASS="alt"><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -1</td><td>Assourdissement, ralentissement</td></tr>
+  <tr><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -5</td><td>Assourdissement, paralysie, ralentissement</td></tr>
+  <tr CLASS="alt">
+    <td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -10</td>
+    <td>Assourdissement, mort, paralysie, ralentissement</td>
+  </tr>
+</table>
 
 </center>
 

@@ -12,8 +12,101 @@ Categories:
 {s:MCA}*Les talents d’enquêteur marqués d’un astérisque (*) ajoutent des effets au combat étudié et à la frappe étudiée. Le personnage ne peut appliquer qu’un talent par attaque individuelle mais il peut le faire au moment où il inflige les dégâts.*
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="94%"><caption>Talents d’enquêteur</caption><tr CLASS="titre"><td>Niveau  
-minimal</td><td COLSPAN="3">Talents</td></tr><tr CLASS="premier"><td>**1**</td><td>[[talents (enquêteur)#AIDEFACILE|Aide facile]]</td><td>[[talents (enquêteur)#INGENIERIEAPPLIQUEE|Ingénierie appliquée]]</td><td>[[talents (enquêteur)#INTIMIDATIONINSPIREE|Intimidation inspirée]]</td></tr><tr><td>&emsp;</td><td>[[talents (enquêteur)#DECOUVERTEDALCHIMISTE|Découverte d'alchimiste]]</td><td>[[talents (enquêteur)#INSPIRATIONDELAPEGRE|Inspiration de la pègre]]</td><td>[[talents (enquêteur)#PISTAGEPERSPICACE|Pistage perspicace]]</td></tr><tr><td>&emsp;</td><td>[[talents (enquêteur)#ETUDERAPIDE|Étude rapide]]</td><td>[[talents (enquêteur)#INSPIRATIONETENDUE|Inspiration étendue]]</td><td>[[talents (enquêteur)#TALENTDEROUBLARD|Talent de roublard]]</td></tr><tr><td>&emsp;</td><td>[[talents (enquêteur)#EXPERTENOBJETS|Expert en objets]]</td><td>[[talents (enquêteur)#INSPIRATIONNONCONVENTIONNELLE|Inspiration non conventionnelle]]</td><td>[[talents (enquêteur)#VIGILANCEINSPIREE|Vigilance inspirée]]</td></tr><tr><td>&emsp;</td><td>[[talents (enquêteur)#FRAPPEOPPORTUNE|Frappe opportune]]*</td><td>[[talents (enquêteur)#INTELLIGENCEINSPIREE|Intelligence inspirée]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**5**</td><td>[[talents (enquêteur)#EFFETDOMINO|Effet domino]]*</td><td>[[talents (enquêteur)#EMPATHIE|Empathie]]</td><td>[[talents (enquêteur)#OFFENSIVEDESTABILISANTE|Offensive déstabilisante]]*</td></tr><tr CLASS="premier"><td>**7**</td><td>[[talents (enquêteur)#CONNAISSANCEDESOBJETS|Connaissance des objets]]</td><td>[[talents (enquêteur)#EXPERTISEINSPIRANTE|Expertise inspirante]]</td><td>[[talents (enquêteur)#OFFENSIVEDEFIEVRE|Offensive de fièvre]]*</td></tr><tr><td>&emsp;</td><td>[[talents (enquêteur)#COUPRALENTISSANT|Coup ralentissant]]*</td><td>[[talents (enquêteur)#INCROYABLEINSPIRATION|Incroyable inspiration]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**9**</td><td>[[talents (enquêteur)#DEFENSEETUDIEE|Défense étudiée]]</td><td>[[talents (enquêteur)#FRAPPEDECROCENJAMBE|Frappe de croc-en-jambe]]*</td><td>[[talents (enquêteur)#INSPIRATIONMARTIALE|Inspiration martiale]]</td></tr><tr CLASS="premier"><td>**11**</td><td>[[talents (enquêteur)#OBJECTIFCACHE|Objectif caché]]</td><td>[[talents (enquêteur)#SOUVENIREIDETIQUE|Souvenir eidétique]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**13**</td><td>[[talents (enquêteur)#COUPREPOSITIONNANT|Coup repositionnant]]*</td><td>[[talents (enquêteur)#FRAPPEDESUBTILISATION|Frappe de subtilisation]]*</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[talents (enquêteur)#ETUDEPROLONGEE|Étude prolongée]]*</td><td>[[talents (enquêteur)#INSPIRATIONTENACE|Inspiration tenace]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**15**</td><td>[[talents (enquêteur)#FRAPPEASSOURDISSANTE|Frappe assourdissante]]*</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**17**</td><td>[[talents (enquêteur)#FRAPPEAVEUGLANTE|Frappe aveuglante]]*</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**19**</td><td>[[talents (enquêteur)#FRAPPEDECONFUSION|Frappe de confusion]]*</td><td>[[talents (enquêteur)#INSPIRATIONMARTIALESUPERIEURE|Inspiration martiale supérieure]]</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="94%">
+  <caption>Talents d’enquêteur</caption>
+  <tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="3">Talents</td></tr>
+  <tr CLASS="premier">
+    <td>**1**</td>
+    <td>[[talents (enquêteur)#AIDEFACILE|Aide facile]]</td>
+    <td>[[talents (enquêteur)#INGENIERIEAPPLIQUEE|Ingénierie appliquée]]</td>
+    <td>[[talents (enquêteur)#INTIMIDATIONINSPIREE|Intimidation inspirée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents (enquêteur)#DECOUVERTEDALCHIMISTE|Découverte d'alchimiste]]</td>
+    <td>[[talents (enquêteur)#INSPIRATIONDELAPEGRE|Inspiration de la pègre]]</td>
+    <td>[[talents (enquêteur)#PISTAGEPERSPICACE|Pistage perspicace]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents (enquêteur)#ETUDERAPIDE|Étude rapide]]</td>
+    <td>[[talents (enquêteur)#INSPIRATIONETENDUE|Inspiration étendue]]</td>
+    <td>[[talents (enquêteur)#TALENTDEROUBLARD|Talent de roublard]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents (enquêteur)#EXPERTENOBJETS|Expert en objets]]</td>
+    <td>[[talents (enquêteur)#INSPIRATIONNONCONVENTIONNELLE|Inspiration non conventionnelle]]</td>
+    <td>[[talents (enquêteur)#VIGILANCEINSPIREE|Vigilance inspirée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents (enquêteur)#FRAPPEOPPORTUNE|Frappe opportune]]*</td>
+    <td>[[talents (enquêteur)#INTELLIGENCEINSPIREE|Intelligence inspirée]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**5**</td>
+    <td>[[talents (enquêteur)#EFFETDOMINO|Effet domino]]*</td>
+    <td>[[talents (enquêteur)#EMPATHIE|Empathie]]</td>
+    <td>[[talents (enquêteur)#OFFENSIVEDESTABILISANTE|Offensive déstabilisante]]*</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**7**</td>
+    <td>[[talents (enquêteur)#CONNAISSANCEDESOBJETS|Connaissance des objets]]</td>
+    <td>[[talents (enquêteur)#EXPERTISEINSPIRANTE|Expertise inspirante]]</td>
+    <td>[[talents (enquêteur)#OFFENSIVEDEFIEVRE|Offensive de fièvre]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents (enquêteur)#COUPRALENTISSANT|Coup ralentissant]]*</td>
+    <td>[[talents (enquêteur)#INCROYABLEINSPIRATION|Incroyable inspiration]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**9**</td>
+    <td>[[talents (enquêteur)#DEFENSEETUDIEE|Défense étudiée]]</td>
+    <td>[[talents (enquêteur)#FRAPPEDECROCENJAMBE|Frappe de croc-en-jambe]]*</td>
+    <td>[[talents (enquêteur)#INSPIRATIONMARTIALE|Inspiration martiale]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**11**</td>
+    <td>[[talents (enquêteur)#OBJECTIFCACHE|Objectif caché]]</td>
+    <td>[[talents (enquêteur)#SOUVENIREIDETIQUE|Souvenir eidétique]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**13**</td>
+    <td>[[talents (enquêteur)#COUPREPOSITIONNANT|Coup repositionnant]]*</td>
+    <td>[[talents (enquêteur)#FRAPPEDESUBTILISATION|Frappe de subtilisation]]*</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents (enquêteur)#ETUDEPROLONGEE|Étude prolongée]]*</td>
+    <td>[[talents (enquêteur)#INSPIRATIONTENACE|Inspiration tenace]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**15**</td>
+    <td>[[talents (enquêteur)#FRAPPEASSOURDISSANTE|Frappe assourdissante]]*</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**17**</td>
+    <td>[[talents (enquêteur)#FRAPPEAVEUGLANTE|Frappe aveuglante]]*</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**19**</td>
+    <td>[[talents (enquêteur)#FRAPPEDECONFUSION|Frappe de confusion]]*</td>
+    <td>[[talents (enquêteur)#INSPIRATIONMARTIALESUPERIEURE|Inspiration martiale supérieure]]</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Descriptions des talents d'enquêteur

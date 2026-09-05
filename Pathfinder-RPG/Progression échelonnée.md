@@ -25,12 +25,233 @@ La table suivante part du principe qu’on applique la progression moyenne des g
 
 <center>
 
-<table CLASS="tablo autoalt" WIDTH="100%"><caption>Progression échelonnée</caption><tr CLASS="titre"><td>Niveau du  
-personnage</td><td>PX</td><td>Palier  
-de PX</td><td>Aptitudes  
-universelles</td><td>Aptitudes  
-de classe</td><td>Rangs de  
-compétence</td></tr><tr CLASS="premier"><td>1</td><td>0</td><td>-</td><td>Comme les règles standards pour  
-un personnage de niveau 1</td><td>&emsp;</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>1 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>1 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>2</td><td>2 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>2 750</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>3 500</td><td>50%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>4 250</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>3</td><td>5 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>6 000</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>7 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>8 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>4</td><td>9 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>10 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>12 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>13 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>5</td><td>15 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>17 000</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>19 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>21 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>6</td><td>23 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>26 000</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>29 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>32 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>7</td><td>35 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>39 000</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>43 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>47 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>8</td><td>51 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>57 000</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>63 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>69 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>9</td><td>75 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>82 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>90 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>97 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>10</td><td>105 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>117 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>130 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>142 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>11</td><td>155 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>171 250</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>187 500</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>203 750</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>12</td><td>220 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>243 750</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>267 500</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>291 250</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>13</td><td>315 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>347 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>380 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>412 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>14</td><td>445 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>492 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>540 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>587 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>15</td><td>635 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>698 750</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>762 500</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>826 250</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>16</td><td>890 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>992 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>1 095 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>1 197 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>17</td><td>1 300 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>1 425 000</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>1 550 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>1 675 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>18</td><td>1 800 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>1 987 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>2 175 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>2 362 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>19</td><td>2 550 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"><td>&emsp;</td><td>2 812 500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>&emsp;</td><td>3 075 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr><tr><td>&emsp;</td><td>3 337 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr><tr><td>20</td><td>3 600 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr><tr CLASS="premier"></tr></table>
+<table CLASS="tablo autoalt" WIDTH="100%">
+  <caption>Progression échelonnée</caption>
+  <tr CLASS="titre">
+    <td>Niveau du  
+personnage</td>
+    <td>PX</td>
+    <td>Palier  
+de PX</td>
+    <td>Aptitudes  
+universelles</td>
+    <td>Aptitudes  
+de classe</td>
+    <td>Rangs de  
+compétence</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>Comme les règles standards pour  
+un personnage de niveau 1</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr><td>&emsp;</td><td>500</td><td>25%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>&emsp;</td><td>1 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>1 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>2 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>2 750</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>3 500</td><td>50%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>4 250</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>5 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>6 000</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>7 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>8 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>9 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>10 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>12 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>13 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>15 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>17 000</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>19 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>21 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>23 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>26 000</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>29 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>32 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>35 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>39 000</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>43 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>47 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>51 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>57 000</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>63 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>69 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>75 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>82 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>90 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>97 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>105 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>117 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>130 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>142 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>155 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>171 250</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>187 500</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>203 750</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>12</td><td>220 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>243 750</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>267 500</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>291 250</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>315 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>347 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>380 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>412 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>14</td><td>445 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>492 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>540 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>587 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>15</td><td>635 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>698 750</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>762 500</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>826 250</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>16</td><td>890 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>992 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>1 095 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>1 197 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>17</td><td>1 300 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>1 425 000</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>1 550 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>1 675 000</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>18</td><td>1 800 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>1 987 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>2 175 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>2 362 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>19</td><td>2 550 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier">
+    <td>&emsp;</td>
+    <td>2 812 500</td>
+    <td>25%</td>
+    <td>BBA, 50% des pv, ou JdS</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>&emsp;</td><td>3 075 000</td><td>50%</td><td>BBA, 50%des pv, ou JdS</td><td>-</td><td>50%</td></tr>
+  <tr><td>&emsp;</td><td>3 337 500</td><td>75%</td><td>BBA, 50% des pv, ou JdS</td><td>-</td><td>-</td></tr>
+  <tr><td>20</td><td>3 600 000</td><td>-</td><td>50% des pv restants</td><td>Toutes</td><td>50% restants</td></tr>
+  <tr CLASS="premier"></tr>
+</table>
 
 </center>

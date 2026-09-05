@@ -22,7 +22,17 @@ Toutes les créatures non-Chaotiques situées dans la zone de la *parole du Chao
 
 <center>
 
-<table CLASS="tablo"><caption></caption><tr CLASS="titre"><td>DV</td><td>Effet</td></tr><tr CLASS="premier"><td>Égaux au [[niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -1</td><td>Assourdissement, étourdissement</td></tr><tr><td>Jusqu’au [[niveau de lanceur de sorts]] -5</td><td>Assourdissement, confusion, étourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -10</td><td>Assourdissement, confusion, étourdissement, mort</td></tr></table>
+<table CLASS="tablo">
+  <caption></caption>
+  <tr CLASS="titre"><td>DV</td><td>Effet</td></tr>
+  <tr CLASS="premier"><td>Égaux au [[niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr>
+  <tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -1</td><td>Assourdissement, étourdissement</td></tr>
+  <tr><td>Jusqu’au [[niveau de lanceur de sorts]] -5</td><td>Assourdissement, confusion, étourdissement</td></tr>
+  <tr CLASS="alt">
+    <td>Jusqu’au [[niveau de lanceur de sorts]] -10</td>
+    <td>Assourdissement, confusion, étourdissement, mort</td>
+  </tr>
+</table>
 
 </center>
 

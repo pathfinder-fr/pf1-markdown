@@ -9,6 +9,452 @@ LastModified: 2019-08-29 11:57
 <center>
 
 
-<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des dons</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="premier"><td>[[Aisance]]*</td><td><sup>MJ</sup></td><td>Dex 15</td><td>Ignorez 6 mètres de terrain difficile lors d’un déplacement</td></tr><tr CLASS="premier"><td>[[Arme de prédilection]]*</td><td><sup>MJ</sup></td><td>Formé au Maniement du type d’armes sélectionné</td><td>Bonus de +1 aux jets d’attaque avec le type d’armes sélectionné</td></tr><tr><td>&emsp;[[Concentration polyvalente]]*</td><td><sup>MJ</sup></td><td>Arme de prédilection</td><td>Bonus de +1 aux jets d’attaque avec tous les types d’armes que vous savez manier</td></tr><tr CLASS="premier"><td>[[Arme en main]]*</td><td><sup>MJ</sup></td><td>Bonus de base à l’attaque +1</td><td>Dégainez une arme par une action rapide</td></tr><tr CLASS="premier"><td>[[Assaut mystique]]*</td><td><sup>MJ</sup></td><td>Aptitude d’incantation de sorts</td><td>Les attaques au corps à corps et à distance sont considérées comme magiques</td></tr><tr CLASS="premier"><td>[[Attaque perforante]]</td><td><sup>MJ</sup></td><td>Bonus de base à l’attaque +12</td><td>Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos armes</td></tr><tr CLASS="premier"><td>[[Barricade]]</td><td><sup>MJ</sup></td><td>1 rang en Ingénierie</td><td>Créez votre propre abri peu résistant</td></tr><tr CLASS="premier"><td>[[Beau parleur]]</td><td><sup>MJ</sup></td><td>5 rangs en Bluff</td><td>Déconcertez un adversaire potentiel pour le surprendre au début d’un combat</td></tr><tr CLASS="premier"><td>[[Combat à plusieurs armes]]*</td><td><sup>MJ</sup></td><td>-</td><td>Réduit le malus des attaques à outrance en combattant avec plusieurs armes légères ou</td></tr><tr CLASS="premier"><td>[[Combat adaptif]]*</td><td><sup>MJ</sup></td><td>Trois dons de combat ou plus</td><td>Bénéficiez des avantages d’un don de combat que vous ne possédez pas une fois par jour</td></tr><tr CLASS="premier"><td>[[Combat en aveugle]]*</td><td><sup>MJ</sup></td><td>-</td><td>Relancez des attaques ratées dues au camouflage</td></tr><tr CLASS="premier"><td>[[Compétences synergiques]]</td><td><sup>MJ</sup></td><td>-</td><td>Ajout de deux nouvelles compétences de classe ou bonus d’intuition de +2 à ces compétences</td></tr><tr CLASS="premier"><td>[[Connexion limitée]]</td><td><sup>MJ</sup></td><td>Sag 15, personnage de niveau 5, aucun niveau de mystique</td><td>Vous pouvez lancer des sorts de mystique mineurs</td></tr><tr CLASS="premier"><td>[[Contrarier]]</td><td><sup> MJ </sup></td><td>5 rangs en Diplomatie, 5 rangs en Intimidation</td><td>Énervez un ennemi, il devient imprécis et subit un malus de -2 aux tests de compétence pour 1 round ou plus</td></tr><tr CLASS="premier"><td>[[Déviation de projectiles]]*</td><td><sup> MJ </sup></td><td>Bonus de base à l’attaque +8</td><td>Dépensez 1 point de persévérance pour tenter d’éviter une attaque à distance</td></tr><tr><td>&emsp;[[Renvoi de projectiles]]*</td><td><sup> MJ </sup></td><td>Déviation de projectiles, bonus de base à l’attaque +16</td><td>Dépensez 1 point de persévérance pour tenter de rediriger une attaque à distance</td></tr><tr CLASS="premier"><td>[[Diversion]]*</td><td><sup> MJ </sup></td><td>-</td><td>Utilisez le Bluff pour créer une diversion pour que vos alliés puissent se cacher</td></tr><tr CLASS="premier"><td>[[Dur à cuire]]</td><td><sup> MJ </sup></td><td>-</td><td>Dépensez des points de persévérance pour se stabiliser et pour continuer à combattre lors du même round</td></tr><tr CLASS="premier"><td>[[Dysfonctionnement amplifié]]*</td><td><sup> MJ </sup></td><td>-</td><td>Perturbez les appareils, rendant les cibles secouées pour 1 round ou plus</td></tr><tr CLASS="premier"><td>Efficacité des sorts accrue</td><td><sup>MJ</sup></td><td>-</td><td>Bonus de +2 aux tests de lanceur de sorts pour ignorer la RM</td></tr><tr><td>&emsp;Efficacité des sorts accrue supérieure</td><td><sup>MJ</sup></td><td>Efficacité des sorts accrue</td><td>Bonus de +2 supplémentaire aux tests de lanceur de sorts pour ignorer la RM</td></tr><tr CLASS="premier"><td>Enchaînement*</td><td><sup>MJ</sup></td><td>For 13, bonus de base à l’attaque +1</td><td>Effectuez une attaque au corps à corps supplémentaire si la première est réussie</td></tr><tr CLASS="premier"><td>Entraîner au sol*</td><td><sup>MJ</sup></td><td>-</td><td>Quand vous tombez à cause d’un croc-en-jambe, vous pouvez tenter un croc-en-jambe contre un adversaire adjacent</td></tr><tr CLASS="premier"><td>Expert en escalade</td><td><sup>MJ</sup></td><td>5 rangs en Athlétisme</td><td>Obtention d’une vitesse d’escalade égale à votre vitesse de base</td></tr><tr CLASS="premier"><td>Expert en médecine</td><td><sup>MJ</sup></td><td>1 rang en Sciences de la vie, Médecine et Sciences physiques</td><td>Traitez plus rapidement les blessures mortelles et appliquez des soins prolongés sans laboratoire médical.</td></tr><tr CLASS="premier"><td>Expert en natation</td><td><sup>MJ</sup></td><td>5 rangs en Athlétisme</td><td>Obtention d’une vitesse de nage égale à votre vitesse de base</td></tr><tr CLASS="premier"><td>Fente*</td><td><sup>MJ</sup></td><td>Bonus de base à l’attaque +6</td><td>Augmentez l’allonge des attaques au corps à corps de 1,50 mètre jusqu’à la fin de votre tour</td></tr><tr CLASS="premier"><td>Fonceur aérien</td><td><sup>MJ</sup></td><td>5 rangs en Pilotage</td><td>Augmente la vitesse des jetpacks, des véhicules et des vaisseaux spatiaux</td></tr><tr CLASS="premier"><td>Fusillade*</td><td><sup>MJ</sup></td><td>Bonus de base à l’attaque +1, 4 bras ou plus</td><td>Attaquez en mode automatique avec plusieurs armes légères</td></tr><tr CLASS="premier"><td>Immobilisation*</td><td><sup>MJ</sup></td><td>-</td><td>Effectuez une attaque d’opportunité pour stopper un ennemi qui se déplace</td></tr><tr><td>&emsp;Science de l’immobilisation*</td><td><sup>MJ</sup></td><td>Immobilisation</td><td>Bonus de +4 aux attaques au corps à corps effectuées avec Immobilisation</td></tr><tr CLASS="premier"><td>Kik up*</td><td><sup>MJ</sup></td><td>1 rang en Acrobaties</td><td>Remettez-vous debout par une action rapide</td></tr><tr CLASS="premier"><td>Magie de guerre*</td><td><sup>MJ</sup></td><td>Aptitude à lancer des sorts de niveau 2</td><td>Bonus de +2 à la CA et aux jets de sauvegarde contre les attaques d’opportunité lors de l’incantation de sorts</td></tr><tr CLASS="premier"><td>Magie renforcée</td><td><sup>MJ</sup></td><td>Aptitude d’incantation de sorts, personnage de niveau 3</td><td>Les DD des sorts que vous lancez sont augmentés</td></tr><tr CLASS="premier"><td>Maître artisan</td><td><sup>MJ</sup></td><td>5 rangs en Informatique, Ingénierie, Mysticisme, Profession, Sciences de la vie ou Sciences physiques</td></tr><tr CLASS="premier"><td>Maniement des armes de corps à corps simples*</td><td><sup>MJ</sup></td><td>-</td><td>Aucun malus aux attaques avec des armes de corps à corps simples</td></tr><tr><td>&emsp;Maniement des armes de corps à corps évoluées</td><td><sup>MJ</sup></td><td>Maniement des armes de corps à corps simples</td><td>Aucun malus aux attaques avec des armes de corps à corps évoluées</td></tr><tr><td>&emsp;Maniement d’une arme spéciale*</td><td><sup>MJ</sup></td><td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td><td>Aucun malus aux attaques avec une arme spéciale</td></tr><tr CLASS="premier"><td>Maniement des armes de précision*</td><td><sup> MJ </sup></td><td>-</td><td>Aucun malus aux attaques avec des armes de précision</td></tr><tr CLASS="premier"><td>Maniement des armes légères*</td><td><sup> MJ </sup></td><td>-</td><td>Aucun malus aux attaques avec des armes légères</td></tr><tr><td>&emsp;Maniement des armes longues*</td><td><sup> MJ </sup></td><td>Maniement des armes légères</td><td>Aucun malus aux attaques avec des armes longues</td></tr><tr><td>&emsp;&emsp;Maniement des armes lourdes*</td><td><sup> MJ </sup></td><td>For 13, Maniement des armes longues, Maniement des armes légères</td><td>Aucun malus aux attaques avec des armes lourdes</td></tr><tr><td>&emsp;Maniement d’une arme spéciale*</td><td><sup> MJ </sup></td><td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td><td>Aucun malus aux attaques avec une arme spéciale</td></tr><tr CLASS="premier"><td>Maniement des grenades*</td><td><sup> MJ </sup></td><td>-</td><td>Aucun malus aux attaques effectuées avec des grenades</td></tr><tr CLASS="premier"><td>Manoeuvrabilité*</td><td><sup> MJ </sup></td><td>Dex 13</td><td>Bonus de +4 à la CA contre les attaques d’opportunité provoquées par un déplacement</td></tr><tr><td>&emsp;Attaque éclair*</td><td><sup> MJ </sup></td><td>Dex 15, Manoeuvrabilité, bonus de base à l’attaque +4</td><td>Déplacez-vous avant et après une attaque au corps à corps</td></tr><tr><td>&emsp;Incantation agile</td><td><sup> MJ </sup></td><td>Valeur de caractéristique essentielle 15, Dex 15, Manoeuvrabilité, niveau de lanceur de sorts 4</td><td>Lancez un sort en se déplaçant</td></tr><tr><td>&emsp;Pas de côté*</td><td><sup> MJ </sup></td><td>Dex 15, Manoeuvrabilité ou feinte offensive</td><td>En réaction, effectuez un déplacement prudent quand un ennemi rate une attaque au corps à corps contre vous</td></tr><tr><td>&emsp;&emsp;Science du pas de côté*</td><td><sup> MJ </sup></td><td>Dex 17, Manoeuvrabilité ou aptitude de classe de feinte offensive, Pas de côté</td><td>Réduit les malus du pas de côté</td></tr><tr><td>&emsp;Tir en mouvement*</td><td><sup> MJ </sup></td><td>Dex 15, Manoeuvrabilité, bonus de base à l’attaque +4</td><td>Effectuez une attaque à distance en se déplaçant</td></tr><tr><td>&emsp;&emsp;Tir de repli*</td><td><sup> MJ </sup></td><td>Dex 15, Manoeuvrabilité, Tir en mouvement, bonus de base à l’attaque +6</td><td>Effectuez une unique attaque à distance en se repliant</td></tr><tr CLASS="premier"><td>Menace voilée</td><td><sup> MJ </sup></td><td>Cha 15, 1 rang en Intimidation</td><td>L’adversaire intimidé ne devient pas hostile</td></tr><tr CLASS="premier"><td>Mise à mal des morts-vivants</td><td><sup> MJ </sup></td><td>Pouvoir de connexion de focalisation curative, mystique de niveau 1</td><td>Dépensez un emplacement de sort pour que la focalisation curative blesse également les morts-vivants</td></tr><tr CLASS="premier"><td>Persévérance renforcée</td><td><sup> MJ </sup></td><td>Personnage de niveau 5</td><td>Obtention de 2 points de persévérance supplémentaires</td></tr><tr CLASS="premier"><td>Plonger à l’abri*</td><td><sup> MJ </sup></td><td>Bonus de base au jet de sauvegarde de Réflexes +2</td><td>Jetez-vous à terre dans une case adjacente pour effectuer deux jets de Réflexes</td></tr><tr CLASS="premier"><td>Port des armures légères*</td><td><sup> MJ </sup></td><td>-</td><td>Aucun malus aux jets d’attaque en portant une armure légère</td></tr><tr><td>&emsp;Port des armures lourdes*</td><td><sup> MJ </sup></td><td>For 13, Port des armures légères</td><td>Aucun malus aux jets d’attaque en portant une armure lourde</td></tr><tr><td>&emsp;&emsp;Aucun malus aux jets d’attaque en portant une armure lourde</td><td><sup> MJ </sup></td><td>For 13, Port des armures légères et lourdes, bonus de base à l’attaque +5</td><td>Aucun malus aux jets d’attaque en portant une armure assistée</td></tr><tr CLASS="premier"><td>Pouvoir psychique mineur</td><td><sup> MJ </sup></td><td>Cha 11</td><td>Lancez 3 fois par jour un sort de niveau 0 comme un pouvoir magique</td></tr><tr><td>&emsp;Pouvoir psychique</td><td><sup> MJ </sup></td><td>Cha 13, Pouvoir psychique mineur, personnage de niveau 4</td><td>Lancez 1 fois par jour un sort de niveau 1 comme un pouvoir magique</td></tr><tr><td>&emsp;&emsp;Pouvoir psychique majeur</td><td><sup> MJ </sup></td><td>Cha 15, Pouvoir psychique mineur, Pouvoir psychique, personnage de niveau 7</td><td>Lancez 1 fois par jour un sort de niveau 2 comme un pouvoir magique</td></tr><tr CLASS="premier"><td>Première salve*</td><td><sup> MJ </sup></td><td>-</td><td>Bonus de +2 à une attaque au corps à corps contre une cible que vous avez blessée avecune attaque à distance</td></tr><tr CLASS="premier"><td>Protection contre la magie</td><td><sup> MJ </sup></td><td>Aucune aptitude d’incantation de sorts ou d’utilisation de pouvoirs magiques</td><td>Bonus d’intuition de +2 aux jets de sauvegarde contre les sorts et les pouvoirs magiques</td></tr><tr CLASS="premier"><td>Protection rapprochée*</td><td><sup> MJ </sup></td><td>-</td><td>En réaction, ajoutez un bonus de +2 à la CA d’un allié adjacent</td></tr><tr><td>&emsp;Interception de coups*</td><td><sup> MJ </sup></td><td>Protection rapprochée</td><td>Encaissez les dégâts d’une attaque réussie contre un allié adjacent à sa place.</td></tr><tr CLASS="premier"><td>Rapide*</td><td><sup> MJ </sup></td><td>-</td><td>Augmentation de votre vitesse de base</td></tr><tr CLASS="premier"><td>Rapidité fulgurante</td><td><sup> MJ </sup></td><td>-</td><td>Course plus rapide, hauteur et longueur doublées lors des sauts</td></tr><tr CLASS="premier"><td>Réflexes surhumains</td><td><sup> MJ </sup></td><td>-</td><td>Bonus de +2 aux jets de Réflexes</td></tr><tr><td>&emsp;Science des réflexes surhumains</td><td><sup> MJ </sup></td><td>Réflexes surhumains, personnage de niveau 5</td><td>Dépensez 1 point de persévérance pour relancer un jet de Réflexes</td></tr><tr CLASS="premier"><td>Résistance améliorée</td><td><sup> MJ </sup></td><td>Bonus de base à l’attaque +4</td><td>Obtention d’une réduction des dégâts ou d’une résistance aux énergies</td></tr><tr CLASS="premier"><td>Riposte*</td><td><sup> MJ </sup></td><td>Bonus de base à l’attaque +1</td><td>Préparez une action pour effectuer une attaque au corps à corps contre un ennemi doté d’une allonge</td></tr><tr CLASS="premier"><td>Robustesse</td><td><sup> MJ </sup></td><td>-</td><td>+1 point d’endurance par niveau de personnage et autres bonus</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable">
+  <caption>Tableau récapitulatif des dons</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="42%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Aisance]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>Dex 15</td>
+    <td>Ignorez 6 mètres de terrain difficile lors d’un déplacement</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arme de prédilection]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>Formé au Maniement du type d’armes sélectionné</td>
+    <td>Bonus de +1 aux jets d’attaque avec le type d’armes sélectionné</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Concentration polyvalente]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>Arme de prédilection</td>
+    <td>Bonus de +1 aux jets d’attaque avec tous les types d’armes que vous savez manier</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arme en main]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Dégainez une arme par une action rapide</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Assaut mystique]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>Aptitude d’incantation de sorts</td>
+    <td>Les attaques au corps à corps et à distance sont considérées comme magiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Attaque perforante]]</td>
+    <td><sup>MJ</sup></td>
+    <td>Bonus de base à l’attaque +12</td>
+    <td>Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos armes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Barricade]]</td>
+    <td><sup>MJ</sup></td>
+    <td>1 rang en Ingénierie</td>
+    <td>Créez votre propre abri peu résistant</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Beau parleur]]</td>
+    <td><sup>MJ</sup></td>
+    <td>5 rangs en Bluff</td>
+    <td>Déconcertez un adversaire potentiel pour le surprendre au début d’un combat</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combat à plusieurs armes]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>Réduit le malus des attaques à outrance en combattant avec plusieurs armes légères ou</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combat adaptif]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>Trois dons de combat ou plus</td>
+    <td>Bénéficiez des avantages d’un don de combat que vous ne possédez pas une fois par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combat en aveugle]]*</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>Relancez des attaques ratées dues au camouflage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Compétences synergiques]]</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>Ajout de deux nouvelles compétences de classe ou bonus d’intuition de +2 à ces compétences</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Connexion limitée]]</td>
+    <td><sup>MJ</sup></td>
+    <td>Sag 15, personnage de niveau 5, aucun niveau de mystique</td>
+    <td>Vous pouvez lancer des sorts de mystique mineurs</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Contrarier]]</td>
+    <td><sup> MJ </sup></td>
+    <td>5 rangs en Diplomatie, 5 rangs en Intimidation</td>
+    <td>Énervez un ennemi, il devient imprécis et subit un malus de -2 aux tests de compétence pour 1 round ou plus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Déviation de projectiles]]*</td>
+    <td><sup> MJ </sup></td>
+    <td>Bonus de base à l’attaque +8</td>
+    <td>Dépensez 1 point de persévérance pour tenter d’éviter une attaque à distance</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Renvoi de projectiles]]*</td>
+    <td><sup> MJ </sup></td>
+    <td>Déviation de projectiles, bonus de base à l’attaque +16</td>
+    <td>Dépensez 1 point de persévérance pour tenter de rediriger une attaque à distance</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Diversion]]*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Utilisez le Bluff pour créer une diversion pour que vos alliés puissent se cacher</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dur à cuire]]</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Dépensez des points de persévérance pour se stabiliser et pour continuer à combattre lors du même round</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dysfonctionnement amplifié]]*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Perturbez les appareils, rendant les cibles secouées pour 1 round ou plus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Efficacité des sorts accrue</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>Bonus de +2 aux tests de lanceur de sorts pour ignorer la RM</td>
+  </tr>
+  <tr>
+    <td>&emsp;Efficacité des sorts accrue supérieure</td>
+    <td><sup>MJ</sup></td>
+    <td>Efficacité des sorts accrue</td>
+    <td>Bonus de +2 supplémentaire aux tests de lanceur de sorts pour ignorer la RM</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Enchaînement*</td>
+    <td><sup>MJ</sup></td>
+    <td>For 13, bonus de base à l’attaque +1</td>
+    <td>Effectuez une attaque au corps à corps supplémentaire si la première est réussie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Entraîner au sol*</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>
+      Quand vous tombez à cause d’un croc-en-jambe, vous pouvez tenter un croc-en-jambe contre un adversaire
+      adjacent
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Expert en escalade</td>
+    <td><sup>MJ</sup></td>
+    <td>5 rangs en Athlétisme</td>
+    <td>Obtention d’une vitesse d’escalade égale à votre vitesse de base</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Expert en médecine</td>
+    <td><sup>MJ</sup></td>
+    <td>1 rang en Sciences de la vie, Médecine et Sciences physiques</td>
+    <td>Traitez plus rapidement les blessures mortelles et appliquez des soins prolongés sans laboratoire médical.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Expert en natation</td>
+    <td><sup>MJ</sup></td>
+    <td>5 rangs en Athlétisme</td>
+    <td>Obtention d’une vitesse de nage égale à votre vitesse de base</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Fente*</td>
+    <td><sup>MJ</sup></td>
+    <td>Bonus de base à l’attaque +6</td>
+    <td>Augmentez l’allonge des attaques au corps à corps de 1,50 mètre jusqu’à la fin de votre tour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Fonceur aérien</td>
+    <td><sup>MJ</sup></td>
+    <td>5 rangs en Pilotage</td>
+    <td>Augmente la vitesse des jetpacks, des véhicules et des vaisseaux spatiaux</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Fusillade*</td>
+    <td><sup>MJ</sup></td>
+    <td>Bonus de base à l’attaque +1, 4 bras ou plus</td>
+    <td>Attaquez en mode automatique avec plusieurs armes légères</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Immobilisation*</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>Effectuez une attaque d’opportunité pour stopper un ennemi qui se déplace</td>
+  </tr>
+  <tr>
+    <td>&emsp;Science de l’immobilisation*</td>
+    <td><sup>MJ</sup></td>
+    <td>Immobilisation</td>
+    <td>Bonus de +4 aux attaques au corps à corps effectuées avec Immobilisation</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Kik up*</td>
+    <td><sup>MJ</sup></td>
+    <td>1 rang en Acrobaties</td>
+    <td>Remettez-vous debout par une action rapide</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Magie de guerre*</td>
+    <td><sup>MJ</sup></td>
+    <td>Aptitude à lancer des sorts de niveau 2</td>
+    <td>
+      Bonus de +2 à la CA et aux jets de sauvegarde contre les attaques d’opportunité lors de l’incantation de sorts
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Magie renforcée</td>
+    <td><sup>MJ</sup></td>
+    <td>Aptitude d’incantation de sorts, personnage de niveau 3</td>
+    <td>Les DD des sorts que vous lancez sont augmentés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Maître artisan</td>
+    <td><sup>MJ</sup></td>
+    <td>5 rangs en Informatique, Ingénierie, Mysticisme, Profession, Sciences de la vie ou Sciences physiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Maniement des armes de corps à corps simples*</td>
+    <td><sup>MJ</sup></td>
+    <td>-</td>
+    <td>Aucun malus aux attaques avec des armes de corps à corps simples</td>
+  </tr>
+  <tr>
+    <td>&emsp;Maniement des armes de corps à corps évoluées</td>
+    <td><sup>MJ</sup></td>
+    <td>Maniement des armes de corps à corps simples</td>
+    <td>Aucun malus aux attaques avec des armes de corps à corps évoluées</td>
+  </tr>
+  <tr>
+    <td>&emsp;Maniement d’une arme spéciale*</td>
+    <td><sup>MJ</sup></td>
+    <td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec une arme spéciale</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Maniement des armes de précision*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Aucun malus aux attaques avec des armes de précision</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Maniement des armes légères*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Aucun malus aux attaques avec des armes légères</td>
+  </tr>
+  <tr>
+    <td>&emsp;Maniement des armes longues*</td>
+    <td><sup> MJ </sup></td>
+    <td>Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec des armes longues</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;Maniement des armes lourdes*</td>
+    <td><sup> MJ </sup></td>
+    <td>For 13, Maniement des armes longues, Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec des armes lourdes</td>
+  </tr>
+  <tr>
+    <td>&emsp;Maniement d’une arme spéciale*</td>
+    <td><sup> MJ </sup></td>
+    <td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec une arme spéciale</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Maniement des grenades*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Aucun malus aux attaques effectuées avec des grenades</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Manoeuvrabilité*</td>
+    <td><sup> MJ </sup></td>
+    <td>Dex 13</td>
+    <td>Bonus de +4 à la CA contre les attaques d’opportunité provoquées par un déplacement</td>
+  </tr>
+  <tr>
+    <td>&emsp;Attaque éclair*</td>
+    <td><sup> MJ </sup></td>
+    <td>Dex 15, Manoeuvrabilité, bonus de base à l’attaque +4</td>
+    <td>Déplacez-vous avant et après une attaque au corps à corps</td>
+  </tr>
+  <tr>
+    <td>&emsp;Incantation agile</td>
+    <td><sup> MJ </sup></td>
+    <td>Valeur de caractéristique essentielle 15, Dex 15, Manoeuvrabilité, niveau de lanceur de sorts 4</td>
+    <td>Lancez un sort en se déplaçant</td>
+  </tr>
+  <tr>
+    <td>&emsp;Pas de côté*</td>
+    <td><sup> MJ </sup></td>
+    <td>Dex 15, Manoeuvrabilité ou feinte offensive</td>
+    <td>En réaction, effectuez un déplacement prudent quand un ennemi rate une attaque au corps à corps contre vous</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;Science du pas de côté*</td>
+    <td><sup> MJ </sup></td>
+    <td>Dex 17, Manoeuvrabilité ou aptitude de classe de feinte offensive, Pas de côté</td>
+    <td>Réduit les malus du pas de côté</td>
+  </tr>
+  <tr>
+    <td>&emsp;Tir en mouvement*</td>
+    <td><sup> MJ </sup></td>
+    <td>Dex 15, Manoeuvrabilité, bonus de base à l’attaque +4</td>
+    <td>Effectuez une attaque à distance en se déplaçant</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;Tir de repli*</td>
+    <td><sup> MJ </sup></td>
+    <td>Dex 15, Manoeuvrabilité, Tir en mouvement, bonus de base à l’attaque +6</td>
+    <td>Effectuez une unique attaque à distance en se repliant</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Menace voilée</td>
+    <td><sup> MJ </sup></td>
+    <td>Cha 15, 1 rang en Intimidation</td>
+    <td>L’adversaire intimidé ne devient pas hostile</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Mise à mal des morts-vivants</td>
+    <td><sup> MJ </sup></td>
+    <td>Pouvoir de connexion de focalisation curative, mystique de niveau 1</td>
+    <td>Dépensez un emplacement de sort pour que la focalisation curative blesse également les morts-vivants</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Persévérance renforcée</td>
+    <td><sup> MJ </sup></td>
+    <td>Personnage de niveau 5</td>
+    <td>Obtention de 2 points de persévérance supplémentaires</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Plonger à l’abri*</td>
+    <td><sup> MJ </sup></td>
+    <td>Bonus de base au jet de sauvegarde de Réflexes +2</td>
+    <td>Jetez-vous à terre dans une case adjacente pour effectuer deux jets de Réflexes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Port des armures légères*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Aucun malus aux jets d’attaque en portant une armure légère</td>
+  </tr>
+  <tr>
+    <td>&emsp;Port des armures lourdes*</td>
+    <td><sup> MJ </sup></td>
+    <td>For 13, Port des armures légères</td>
+    <td>Aucun malus aux jets d’attaque en portant une armure lourde</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;Aucun malus aux jets d’attaque en portant une armure lourde</td>
+    <td><sup> MJ </sup></td>
+    <td>For 13, Port des armures légères et lourdes, bonus de base à l’attaque +5</td>
+    <td>Aucun malus aux jets d’attaque en portant une armure assistée</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Pouvoir psychique mineur</td>
+    <td><sup> MJ </sup></td>
+    <td>Cha 11</td>
+    <td>Lancez 3 fois par jour un sort de niveau 0 comme un pouvoir magique</td>
+  </tr>
+  <tr>
+    <td>&emsp;Pouvoir psychique</td>
+    <td><sup> MJ </sup></td>
+    <td>Cha 13, Pouvoir psychique mineur, personnage de niveau 4</td>
+    <td>Lancez 1 fois par jour un sort de niveau 1 comme un pouvoir magique</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;Pouvoir psychique majeur</td>
+    <td><sup> MJ </sup></td>
+    <td>Cha 15, Pouvoir psychique mineur, Pouvoir psychique, personnage de niveau 7</td>
+    <td>Lancez 1 fois par jour un sort de niveau 2 comme un pouvoir magique</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Première salve*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>
+      Bonus de +2 à une attaque au corps à corps contre une cible que vous avez blessée avecune attaque à distance
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Protection contre la magie</td>
+    <td><sup> MJ </sup></td>
+    <td>Aucune aptitude d’incantation de sorts ou d’utilisation de pouvoirs magiques</td>
+    <td>Bonus d’intuition de +2 aux jets de sauvegarde contre les sorts et les pouvoirs magiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Protection rapprochée*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>En réaction, ajoutez un bonus de +2 à la CA d’un allié adjacent</td>
+  </tr>
+  <tr>
+    <td>&emsp;Interception de coups*</td>
+    <td><sup> MJ </sup></td>
+    <td>Protection rapprochée</td>
+    <td>Encaissez les dégâts d’une attaque réussie contre un allié adjacent à sa place.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Rapide*</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Augmentation de votre vitesse de base</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Rapidité fulgurante</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Course plus rapide, hauteur et longueur doublées lors des sauts</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Réflexes surhumains</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>Bonus de +2 aux jets de Réflexes</td>
+  </tr>
+  <tr>
+    <td>&emsp;Science des réflexes surhumains</td>
+    <td><sup> MJ </sup></td>
+    <td>Réflexes surhumains, personnage de niveau 5</td>
+    <td>Dépensez 1 point de persévérance pour relancer un jet de Réflexes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Résistance améliorée</td>
+    <td><sup> MJ </sup></td>
+    <td>Bonus de base à l’attaque +4</td>
+    <td>Obtention d’une réduction des dégâts ou d’une résistance aux énergies</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Riposte*</td>
+    <td><sup> MJ </sup></td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Préparez une action pour effectuer une attaque au corps à corps contre un ennemi doté d’une allonge</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Robustesse</td>
+    <td><sup> MJ </sup></td>
+    <td>-</td>
+    <td>+1 point d’endurance par niveau de personnage et autres bonus</td>
+  </tr>
+</table>
 
 </center>

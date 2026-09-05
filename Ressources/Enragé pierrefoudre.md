@@ -6,7 +6,108 @@ LastModified: 2017-01-28 10:49
 
 <center>
 
-<table CLASS="tablo"><caption>L'Enragé pierrefoudre</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">Rage des pierres, Furie des vents, Synergie explosive</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">/</td></tr><tr CLASS="alt"><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Sort d'aéroche, Sort explosif</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">/</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Marteau de pierrefoudre</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">/</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">/</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr><td>9</td><td>6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">/</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'Enragé pierrefoudre</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">Rage des pierres, Furie des vents, Synergie explosive</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">Pouvoir de fureur</td>
+    <td CLASS="gauche">/</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">Sort d'aéroche, Sort explosif</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">Pouvoir de fureur</td>
+    <td CLASS="gauche">/</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">Marteau de pierrefoudre</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">Pouvoir de fureur</td>
+    <td CLASS="gauche">/</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">/</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">Pouvoir de fureur</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">/</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">Pouvoir de fureur</td>
+    <td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td>
+  </tr>
+</table>
 
 </center>
 

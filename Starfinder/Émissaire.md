@@ -15,7 +15,194 @@ Categories:
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>L'Émissaire</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Vigueur</td><td>Réflexes</td><td>Volonté</td><td CLASS="gauche">Aptitudes de classe</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]], [[Émissaire#MAÎTRISE|Maîtrise]] (1D6), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]], [[Émissaire#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Émissaire#MAÎTRISE|Maîtrise]] (1D6+1), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Émissaire#MAÎTRISE|Maîtrise]] (1D6+2), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>11</td><td>+8</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td></tr><tr CLASS="alt"><td>12</td><td>+9</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>13</td><td>+9</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Émissaire#MAÎTRISE|Maîtrise]] (1D8+2), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]</td></tr><tr CLASS="alt"><td>14</td><td>+10</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>15</td><td>+11</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td></tr><tr CLASS="alt"><td>16</td><td>+12</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>17</td><td>+12</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Émissaire#MAÎTRISE|Maîtrise]] (1D8+3), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]</td></tr><tr CLASS="alt"><td>18</td><td>+13</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td></tr><tr><td>19</td><td>+14</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td></tr><tr CLASS="alt"><td>20</td><td>+15</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]], [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+4), [[Émissaire#MAÎTRISETOTALE|Maîtrise totale]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>L'Émissaire</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Vigueur</td>
+    <td>Réflexes</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Aptitudes de classe</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]], [[Émissaire#MAÎTRISE|Maîtrise]] (1D6),
+      [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]], [[Émissaire#SPECIALISATIONMARTIALE|Spécialisation
+      martiale]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Émissaire#MAÎTRISE|Maîtrise]] (1D6+1), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Émissaire#MAÎTRISE|Maîtrise]] (1D6+2), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+2), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+3), [[Émissaire#MAÎTRISEDECOMPETENCE|Maîtrise de compétence]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]]</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Émissaire#SAVOIRFAIREMAÎTRISÉ|Savoir-faire maîtrisé]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Émissaire#IMPROVISATIONDELÉMISSAIRE|Improvisation de l'émissaire]], [[Émissaire#MAÎTRISE|Maîtrise]] (1D8+4),
+      [[Émissaire#MAÎTRISETOTALE|Maîtrise totale]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

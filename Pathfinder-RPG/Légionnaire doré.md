@@ -16,7 +16,122 @@ Avant tout, la mission de la légion de la liberté est la sécurité domestique
 Bien qu'une grande proportion des gardes de la liberté engagés viennent des rangs des militaires de l'armée du Berceau de la liberté, la légion recrute également un certain nombre de soldats peu conventionnels pour leurs compétences uniques. Les candidats doivent démontrer leur dévotion envers les idéaux d'égalité, de liberté et de justice prônés par le Berceau de la liberté tout en obtenant une recommandation écrite d'un supérieur de l'ordre des chevaliers de la liberté – ou alors, dans des circonstances particulières, la recommandation spéciale d'un membre du conseil législatif du Berceau de la liberté.''
 
 
-<table CLASS="tablo centre"><caption>Le garde de la liberté</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Légionnaire doré#COMMANDEMENTAUTORITAIRE|Commandement autoritaire]] +1, [[Légionnaire doré#BRAVERLEDANGER|braver le danger]] 1</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Légionnaire doré#DONDELALEGION|Don de la légion]], [[Légionnaire doré#INTERCEPTER|intercepter]], [[Légionnaire doré#DEFENSEUNIFIEE|défense unifiée]] +2</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Légionnaire doré#REPRESAILLESALLIEES|Représailles alliées]] +1</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Légionnaire doré#AIDESUPERIEURE|Aide supérieure]] +1, [[Légionnaire doré#DONDELALEGION|don de la légion]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Légionnaire doré#BRAVERLEDANGER|Braver le danger]] 2, [[Légionnaire doré#TENIRLAPOSITION|tenir la position]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Légionnaire doré#COMMANDEMENTAUTORITAIRE|Commandement autoritaire]] +2,  [[Légionnaire doré#DONDELALEGION|don de la légion]], [[Légionnaire doré#DEFENSEUNIFIEE|défense unifiée]] +4</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Légionnaire doré#REPRESAILLESALLIEES|Représailles alliées]] +2, [[Légionnaire doré#FRAPPEPREVENTIVE|Frappe préventive]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Légionnaire doré#COMMANDEMENTAUTORITAIRE|Commandement autoritaire]] (rapide), [[Légionnaire doré#DONDELALEGION|don de la légion]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Légionnaire doré#BRAVERLEDANGER|Braver le danger]] 3, [[Légionnaire doré#AIDESUPERIEURE|Aide supérieure]] +2, [[Légionnaire doré#CONTREATTAQUE|contre-attaque]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Légionnaire doré#GARDIENDELALIBERTE|Gardien de la Liberté]], [[Légionnaire doré#DEFENSEUNIFIEE|défense unifiée]] +6</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Le garde de la liberté</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#COMMANDEMENTAUTORITAIRE|Commandement autoritaire]] +1, [[Légionnaire
+      doré#BRAVERLEDANGER|braver le danger]] 1
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#DONDELALEGION|Don de la légion]], [[Légionnaire doré#INTERCEPTER|intercepter]],
+      [[Légionnaire doré#DEFENSEUNIFIEE|défense unifiée]] +2
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Légionnaire doré#REPRESAILLESALLIEES|Représailles alliées]] +1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#AIDESUPERIEURE|Aide supérieure]] +1, [[Légionnaire doré#DONDELALEGION|don de la légion]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#BRAVERLEDANGER|Braver le danger]] 2, [[Légionnaire doré#TENIRLAPOSITION|tenir la position]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#COMMANDEMENTAUTORITAIRE|Commandement autoritaire]] +2,  [[Légionnaire
+      doré#DONDELALEGION|don de la légion]], [[Légionnaire doré#DEFENSEUNIFIEE|défense unifiée]] +4
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#REPRESAILLESALLIEES|Représailles alliées]] +2, [[Légionnaire doré#FRAPPEPREVENTIVE|Frappe
+      préventive]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#COMMANDEMENTAUTORITAIRE|Commandement autoritaire]] (rapide), [[Légionnaire
+      doré#DONDELALEGION|don de la légion]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#BRAVERLEDANGER|Braver le danger]] 3, [[Légionnaire doré#AIDESUPERIEURE|Aide supérieure]]
+      +2, [[Légionnaire doré#CONTREATTAQUE|contre-attaque]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Légionnaire doré#GARDIENDELALIBERTE|Gardien de la Liberté]], [[Légionnaire doré#DEFENSEUNIFIEE|défense
+      unifiée]] +6
+    </td>
+  </tr>
+</table>
 
 **Dé de vie** d10
 

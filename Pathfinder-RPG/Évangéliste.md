@@ -13,7 +13,99 @@ Un évangéliste pourrait être né dans la richesse ou la pauvreté, au nord ou
 
 <center>
 
-<table CLASS="tablo"><caption>L'évangéliste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Évangéliste#COMPETENT|Compétent]], [[Évangéliste#OBEDIENCE|obédience]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Évangéliste#CLASSEALIGNEE|Classe alignée]], [[Évangéliste#GRACEPROTECTRICE|grâce protectrice]] +1</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 1</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Évangéliste#DONDESLANGUES|Don des langues]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Évangéliste#MULTITUDEDETALENTS|Multitude de talents]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 2</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Évangéliste#GRACEPROTECTRICE|Grâce protectrice]] +2</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Évangéliste#DONDESLANGUES|Don des langues]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 3</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Évangéliste#FORMESPIRITUELLE|Forme spirituelle]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'évangéliste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Évangéliste#COMPETENT|Compétent]], [[Évangéliste#OBEDIENCE|obédience]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Évangéliste#CLASSEALIGNEE|Classe alignée]], [[Évangéliste#GRACEPROTECTRICE|grâce protectrice]] +1
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Évangéliste#DONDESLANGUES|Don des langues]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Évangéliste#MULTITUDEDETALENTS|Multitude de talents]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 2</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Évangéliste#GRACEPROTECTRICE|Grâce protectrice]] +2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Évangéliste#DONDESLANGUES|Don des langues]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 3</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Évangéliste#FORMESPIRITUELLE|Forme spirituelle]]</td>
+  </tr>
+</table>
 
 </center>
 

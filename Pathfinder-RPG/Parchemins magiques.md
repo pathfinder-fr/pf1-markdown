@@ -62,18 +62,56 @@ En cas d’incident, le sort écrit sur le parchemin produit un effet inverse ou
 
 <table width="100%"><tr><td width="49%">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|DETERMINATION}Parchemins</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Niveau   
-du sort</td><td>Niveau   
-du lanceur</td></tr><tr CLASS="premier"><td>01–05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr><td>06–50</td><td>—</td><td>—</td><td>1er</td><td>1</td></tr><tr><td>51–95</td><td>01–05</td><td>—</td><td>2e</td><td>3</td></tr><tr><td>96–100</td><td>06–65</td><td>—</td><td>3e</td><td>5</td></tr><tr><td>—</td><td>66–95</td><td>01–05</td><td>4e</td><td>7</td></tr><tr><td>—</td><td>96–100</td><td>06–50</td><td>5e</td><td>9</td></tr><tr><td>—</td><td>—</td><td>51–70</td><td>6e</td><td>11</td></tr><tr><td>—</td><td>—</td><td>71–85</td><td>7e</td><td>13</td></tr><tr><td>—</td><td>—</td><td>86–95</td><td>8e</td><td>15</td></tr><tr><td>—</td><td>—</td><td>96–100</td><td>9e</td><td>17</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|DETERMINATION}Parchemins</caption>
+  <tr CLASS="titre">
+    <td>Faible</td>
+    <td>Intermédiaire</td>
+    <td>Puissante</td>
+    <td>Niveau   
+du sort</td>
+    <td>Niveau   
+du lanceur</td>
+  </tr>
+  <tr CLASS="premier"><td>01–05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr>
+  <tr><td>06–50</td><td>—</td><td>—</td><td>1er</td><td>1</td></tr>
+  <tr><td>51–95</td><td>01–05</td><td>—</td><td>2e</td><td>3</td></tr>
+  <tr><td>96–100</td><td>06–65</td><td>—</td><td>3e</td><td>5</td></tr>
+  <tr><td>—</td><td>66–95</td><td>01–05</td><td>4e</td><td>7</td></tr>
+  <tr><td>—</td><td>96–100</td><td>06–50</td><td>5e</td><td>9</td></tr>
+  <tr><td>—</td><td>—</td><td>51–70</td><td>6e</td><td>11</td></tr>
+  <tr><td>—</td><td>—</td><td>71–85</td><td>7e</td><td>13</td></tr>
+  <tr><td>—</td><td>—</td><td>86–95</td><td>8e</td><td>15</td></tr>
+  <tr><td>—</td><td>—</td><td>96–100</td><td>9e</td><td>17</td></tr>
+</table>
 
 </td><td width="2%">
 </td><td width="49%">
 
-<table CLASS="tablo centre autoalt"><caption>Prix des parchemins</caption><tr CLASS="titre"><td>Niveau   
-du sort</td><td>Prêtre,   
+<table CLASS="tablo centre autoalt">
+  <caption>Prix des parchemins</caption>
+  <tr CLASS="titre">
+    <td>Niveau   
+du sort</td>
+    <td>Prêtre,   
 druide,   
-magicien</td><td>Ensorceleur</td><td>Barde</td><td>Paladin,   
-rôdeur</td></tr><tr CLASS="premier"><td>0</td><td>12,5 po</td><td>12,5 po</td><td>12,5 po</td><td>—</td></tr><tr><td>1er</td><td>25 po</td><td>25 po</td><td>25 po</td><td>25 po</td></tr><tr><td>2e</td><td>150 po</td><td>200 po</td><td>200 po</td><td>200 po</td></tr><tr><td>3e</td><td>375 po</td><td>450 po</td><td>525 po</td><td>525 po</td></tr><tr><td>4e</td><td>700 po</td><td>800 po</td><td>1 000 po</td><td>1 000 po</td></tr><tr><td>5e</td><td>1 125 po</td><td>1 250 po</td><td>1 625 po</td><td>—</td></tr><tr><td>6e</td><td>1 650 po</td><td>1 800 po</td><td>2 400 po</td><td>—</td></tr><tr><td>7e</td><td>2 275 po</td><td>2 450 po</td><td>—</td><td>—</td></tr><tr><td>8e</td><td>3 000 po</td><td>3 200 po</td><td>—</td><td>—</td></tr><tr><td>9e</td><td>3 825 po</td><td>4 050 po</td><td>—</td><td>—</td></tr></table>
+magicien</td>
+    <td>Ensorceleur</td>
+    <td>Barde</td>
+    <td>Paladin,   
+rôdeur</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>12,5 po</td><td>12,5 po</td><td>12,5 po</td><td>—</td></tr>
+  <tr><td>1er</td><td>25 po</td><td>25 po</td><td>25 po</td><td>25 po</td></tr>
+  <tr><td>2e</td><td>150 po</td><td>200 po</td><td>200 po</td><td>200 po</td></tr>
+  <tr><td>3e</td><td>375 po</td><td>450 po</td><td>525 po</td><td>525 po</td></tr>
+  <tr><td>4e</td><td>700 po</td><td>800 po</td><td>1 000 po</td><td>1 000 po</td></tr>
+  <tr><td>5e</td><td>1 125 po</td><td>1 250 po</td><td>1 625 po</td><td>—</td></tr>
+  <tr><td>6e</td><td>1 650 po</td><td>1 800 po</td><td>2 400 po</td><td>—</td></tr>
+  <tr><td>7e</td><td>2 275 po</td><td>2 450 po</td><td>—</td><td>—</td></tr>
+  <tr><td>8e</td><td>3 000 po</td><td>3 200 po</td><td>—</td><td>—</td></tr>
+  <tr><td>9e</td><td>3 825 po</td><td>4 050 po</td><td>—</td><td>—</td></tr>
+</table>
 
 </td></tr></table>
 
@@ -84,7 +122,13 @@ En règle générale, il y a 70 % de chances qu’un parchemin soit profane et 3
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Détermination aléatoire des parchemins magiques</caption><tr CLASS="titre"><td>D100</td><td>Type de parchemin</td></tr><tr CLASS="premier"><td>1-59</td><td>Parchemin [[magie profane|profane]]</td></tr><tr CLASS="alt"><td>60-84</td><td>Parchemin [[magie divine|divin]]</td></tr><tr><td>85-100</td><td>Parchemin [[la magie psychique|psychique]]</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Détermination aléatoire des parchemins magiques</caption>
+  <tr CLASS="titre"><td>D100</td><td>Type de parchemin</td></tr>
+  <tr CLASS="premier"><td>1-59</td><td>Parchemin [[magie profane|profane]]</td></tr>
+  <tr CLASS="alt"><td>60-84</td><td>Parchemin [[magie divine|divin]]</td></tr>
+  <tr><td>85-100</td><td>Parchemin [[la magie psychique|psychique]]</td></tr>
+</table>
 
 </center>
 

@@ -17,8 +17,16 @@ Lorsque vous préparez ce genre de rencontre, vous devez en premier lieu décide
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Niveau de la rencontre</caption><tr CLASS="titre"><td>Difficulté</td><td>Facteur de puissance  
- égal à...</td></tr><tr CLASS="premier"><td>Facile</td><td>NMG -1</td></tr><tr CLASS="alt"><td>Moyen</td><td>NMG</td></tr><tr><td>Ardu</td><td>NMG +1</td></tr><tr CLASS="alt"><td>Difficile</td><td>NMG +2</td></tr><tr><td>Héroïque</td><td>NMG +3</td></tr></table>
+<table CLASS="tablo">
+  <caption>Niveau de la rencontre</caption>
+  <tr CLASS="titre"><td>Difficulté</td><td>Facteur de puissance  
+ égal à...</td></tr>
+  <tr CLASS="premier"><td>Facile</td><td>NMG -1</td></tr>
+  <tr CLASS="alt"><td>Moyen</td><td>NMG</td></tr>
+  <tr><td>Ardu</td><td>NMG +1</td></tr>
+  <tr CLASS="alt"><td>Difficile</td><td>NMG +2</td></tr>
+  <tr><td>Héroïque</td><td>NMG +3</td></tr>
+</table>
 
 </center></div></div>
 - **Étape 1 : le NMG.** Déterminez tout d’abord le niveau moyen des personnages, le Niveau Moyen du Groupe, ou NMG, et arrondissez cette valeur à l’entier supérieur le plus proche (c’est une des rares exceptions à la règle de l’arrondi à l’inférieur). Ces conseils de création sont valables pour des groupes de quatre ou cinq [[PJ]]. S’il y a au moins six joueurs, augmentez leur NMG de un, et diminuez-le de un pour trois joueurs et moins. Par exemple, pour un groupe constitué de deux personnages de niveau 4 et de quatre personnages de niveau 5, le NMG est de 6 (28 niveaux au total, divisé par 6, le résultat arrondi au supérieur, plus 1 au résultat final).
@@ -32,19 +40,73 @@ Lorsque vous préparez ce genre de rencontre, vous devez en premier lieu décide
 <table width="98%"><tr style="vertical-align: top"><td>
 <center>
 
-<table CLASS="tablo"><caption>Récompenses en PX</caption><tr CLASS="titre"><td ROWSPAN="2">FP</td><td ROWSPAN="2">PX totaux</td><td COLSPAN="3" CLASS="avecsoustitre">PX individuels</td></tr><tr CLASS="soustitre"><td>1–3</td><td>4–5</td><td>6+</td></tr><tr CLASS="premier"><td>1/8</td><td>50</td><td>15</td><td>15</td><td>10</td></tr><tr CLASS="alt"><td>1/6</td><td>65</td><td>20</td><td>15</td><td>10</td></tr><tr><td>1/4</td><td>100</td><td>35</td><td>25</td><td>15</td></tr><tr CLASS="alt"><td>1/3</td><td>135</td><td>45</td><td>35</td><td>25</td></tr><tr><td>1/2</td><td>200</td><td>65</td><td>50</td><td>35</td></tr><tr CLASS="alt"><td>1</td><td>400</td><td>135</td><td>100</td><td>65</td></tr><tr><td>2</td><td>600</td><td>200</td><td>150</td><td>100</td></tr><tr CLASS="alt"><td>3</td><td>800</td><td>265</td><td>200</td><td>135</td></tr><tr><td>4</td><td>1 200</td><td>400</td><td>300</td><td>200</td></tr><tr CLASS="alt"><td>5</td><td>1 600</td><td>535</td><td>400</td><td>265</td></tr></table>
+<table CLASS="tablo">
+  <caption>Récompenses en PX</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">FP</td>
+    <td ROWSPAN="2">PX totaux</td>
+    <td COLSPAN="3" CLASS="avecsoustitre">PX individuels</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1–3</td><td>4–5</td><td>6+</td></tr>
+  <tr CLASS="premier"><td>1/8</td><td>50</td><td>15</td><td>15</td><td>10</td></tr>
+  <tr CLASS="alt"><td>1/6</td><td>65</td><td>20</td><td>15</td><td>10</td></tr>
+  <tr><td>1/4</td><td>100</td><td>35</td><td>25</td><td>15</td></tr>
+  <tr CLASS="alt"><td>1/3</td><td>135</td><td>45</td><td>35</td><td>25</td></tr>
+  <tr><td>1/2</td><td>200</td><td>65</td><td>50</td><td>35</td></tr>
+  <tr CLASS="alt"><td>1</td><td>400</td><td>135</td><td>100</td><td>65</td></tr>
+  <tr><td>2</td><td>600</td><td>200</td><td>150</td><td>100</td></tr>
+  <tr CLASS="alt"><td>3</td><td>800</td><td>265</td><td>200</td><td>135</td></tr>
+  <tr><td>4</td><td>1 200</td><td>400</td><td>300</td><td>200</td></tr>
+  <tr CLASS="alt"><td>5</td><td>1 600</td><td>535</td><td>400</td><td>265</td></tr>
+</table>
 
 </center>
 </td><td>
 <center>
 
-<table CLASS="tablo"><caption>Récompenses en PX</caption><tr CLASS="titre"><td ROWSPAN="2">FP</td><td ROWSPAN="2">PX totaux</td><td COLSPAN="3" CLASS="avecsoustitre">PX individuels</td></tr><tr CLASS="soustitre"><td>1–3</td><td>4–5</td><td>6+</td></tr><tr CLASS="premier"><td>6</td><td>2 400</td><td>800</td><td>600</td><td>400</td></tr><tr CLASS="alt"><td>7</td><td>3 200</td><td>1 070</td><td>800</td><td>535</td></tr><tr><td>8</td><td>4 800</td><td>1 600</td><td>1 200</td><td>800</td></tr><tr CLASS="alt"><td>9</td><td>6 400</td><td>2 130</td><td>1 600</td><td>1 070</td></tr><tr><td>10</td><td>9 600</td><td>3 200</td><td>2 400</td><td>1 600</td></tr><tr CLASS="alt"><td>11</td><td>12 800</td><td>4 270</td><td>3 200</td><td>2 130</td></tr><tr><td>12</td><td>19 200</td><td>6 400</td><td>4 800</td><td>3 200</td></tr><tr CLASS="alt"><td>13</td><td>25 600</td><td>8 530</td><td>6 400</td><td>4 270</td></tr><tr><td>14</td><td>38 400</td><td>12 800</td><td>9 600</td><td>6 400</td></tr><tr CLASS="alt"><td>15</td><td>51 200</td><td>17 100</td><td>12 800</td><td>8 530</td></tr></table>
+<table CLASS="tablo">
+  <caption>Récompenses en PX</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">FP</td>
+    <td ROWSPAN="2">PX totaux</td>
+    <td COLSPAN="3" CLASS="avecsoustitre">PX individuels</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1–3</td><td>4–5</td><td>6+</td></tr>
+  <tr CLASS="premier"><td>6</td><td>2 400</td><td>800</td><td>600</td><td>400</td></tr>
+  <tr CLASS="alt"><td>7</td><td>3 200</td><td>1 070</td><td>800</td><td>535</td></tr>
+  <tr><td>8</td><td>4 800</td><td>1 600</td><td>1 200</td><td>800</td></tr>
+  <tr CLASS="alt"><td>9</td><td>6 400</td><td>2 130</td><td>1 600</td><td>1 070</td></tr>
+  <tr><td>10</td><td>9 600</td><td>3 200</td><td>2 400</td><td>1 600</td></tr>
+  <tr CLASS="alt"><td>11</td><td>12 800</td><td>4 270</td><td>3 200</td><td>2 130</td></tr>
+  <tr><td>12</td><td>19 200</td><td>6 400</td><td>4 800</td><td>3 200</td></tr>
+  <tr CLASS="alt"><td>13</td><td>25 600</td><td>8 530</td><td>6 400</td><td>4 270</td></tr>
+  <tr><td>14</td><td>38 400</td><td>12 800</td><td>9 600</td><td>6 400</td></tr>
+  <tr CLASS="alt"><td>15</td><td>51 200</td><td>17 100</td><td>12 800</td><td>8 530</td></tr>
+</table>
 
 </center>
 </td><td>
 <center>
 
-<table CLASS="tablo"><caption>Récompenses en PX</caption><tr CLASS="titre"><td ROWSPAN="2">FP</td><td ROWSPAN="2">PX totaux</td><td COLSPAN="3" CLASS="avecsoustitre">PX individuels</td></tr><tr CLASS="soustitre"><td>1–3</td><td>4–5</td><td>6+</td></tr><tr CLASS="premier"><td>16</td><td>76 800</td><td>25 600</td><td>19 200</td><td>12 800</td></tr><tr CLASS="alt"><td>17</td><td>102 400</td><td>34 100</td><td>25 600</td><td>17 100</td></tr><tr><td>18</td><td>153 600</td><td>51 200</td><td>38 400</td><td>25 600</td></tr><tr CLASS="alt"><td>19</td><td>204 800</td><td>68 300</td><td>51 200</td><td>34 100</td></tr><tr><td>20</td><td>307 200</td><td>102 000</td><td>76 800</td><td>51 200</td></tr><tr CLASS="alt"><td>21</td><td>409 600</td><td>137 000</td><td>102 400</td><td>68 300</td></tr><tr><td>22</td><td>614 400</td><td>205 000</td><td>153 600</td><td>102 400</td></tr><tr CLASS="alt"><td>23</td><td>819 200</td><td>273 000</td><td>204 800</td><td>137 000</td></tr><tr><td>24</td><td>1 228 800</td><td>410 000</td><td>307 200</td><td>204 800</td></tr><tr CLASS="alt"><td>25</td><td>1 638 400</td><td>546 000</td><td>409 600</td><td>273 000</td></tr></table>
+<table CLASS="tablo">
+  <caption>Récompenses en PX</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">FP</td>
+    <td ROWSPAN="2">PX totaux</td>
+    <td COLSPAN="3" CLASS="avecsoustitre">PX individuels</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1–3</td><td>4–5</td><td>6+</td></tr>
+  <tr CLASS="premier"><td>16</td><td>76 800</td><td>25 600</td><td>19 200</td><td>12 800</td></tr>
+  <tr CLASS="alt"><td>17</td><td>102 400</td><td>34 100</td><td>25 600</td><td>17 100</td></tr>
+  <tr><td>18</td><td>153 600</td><td>51 200</td><td>38 400</td><td>25 600</td></tr>
+  <tr CLASS="alt"><td>19</td><td>204 800</td><td>68 300</td><td>51 200</td><td>34 100</td></tr>
+  <tr><td>20</td><td>307 200</td><td>102 000</td><td>76 800</td><td>51 200</td></tr>
+  <tr CLASS="alt"><td>21</td><td>409 600</td><td>137 000</td><td>102 400</td><td>68 300</td></tr>
+  <tr><td>22</td><td>614 400</td><td>205 000</td><td>153 600</td><td>102 400</td></tr>
+  <tr CLASS="alt"><td>23</td><td>819 200</td><td>273 000</td><td>204 800</td><td>137 000</td></tr>
+  <tr><td>24</td><td>1 228 800</td><td>410 000</td><td>307 200</td><td>204 800</td></tr>
+  <tr CLASS="alt"><td>25</td><td>1 638 400</td><td>546 000</td><td>409 600</td><td>273 000</td></tr>
+</table>
 
 </center></td></tr></table>
 
@@ -56,7 +118,18 @@ Par exemple, vous souhaitez que vos six [[PJ]] de niveau 8 fassent une rencontre
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Équivalence des FP</caption><tr CLASS="titre"><td>Nombre de créatures</td><td>Égal à…</td></tr><tr CLASS="premier"><td>1 créature</td><td>FP</td></tr><tr CLASS="alt"><td>2 créatures</td><td>FP +2</td></tr><tr><td>3 créatures</td><td>FP +3</td></tr><tr CLASS="alt"><td>4 créatures</td><td>FP +4</td></tr><tr><td>6 créatures</td><td>FP +5</td></tr><tr CLASS="alt"><td>8 créatures</td><td>FP +6</td></tr><tr><td>12 créatures</td><td>FP +7</td></tr><tr CLASS="alt"><td>16 créatures</td><td>FP +8</td></tr></table>
+<table CLASS="tablo">
+  <caption>Équivalence des FP</caption>
+  <tr CLASS="titre"><td>Nombre de créatures</td><td>Égal à…</td></tr>
+  <tr CLASS="premier"><td>1 créature</td><td>FP</td></tr>
+  <tr CLASS="alt"><td>2 créatures</td><td>FP +2</td></tr>
+  <tr><td>3 créatures</td><td>FP +3</td></tr>
+  <tr CLASS="alt"><td>4 créatures</td><td>FP +4</td></tr>
+  <tr><td>6 créatures</td><td>FP +5</td></tr>
+  <tr CLASS="alt"><td>8 créatures</td><td>FP +6</td></tr>
+  <tr><td>12 créatures</td><td>FP +7</td></tr>
+  <tr CLASS="alt"><td>16 créatures</td><td>FP +8</td></tr>
+</table>
 
 </center></div></div>
 **Les rencontres à haut FP.** Les valeurs en PX des rencontres à haut FP peuvent sembler plutôt effrayantes. La Table "[[Rencontres#TABLEEQUIVALENCEDEFP|Équivalence des FP]]" ci-contre vous donne une façon assez facile de gérer celles-ci. Lorsque vous utilisez un grand nombre de créatures identiques, elle permet de les rassembler en un seul FP, ce qui vous aide à en retrouver aisément la valeur en PX. Par exemple, quatre créatures d’un FP de 8 (4 800 PX chacune) équivalent à une créature d’un FP de 12 (19 200 PX).
@@ -94,19 +167,78 @@ Si le MJ se concentre sur la richesse par niveau globale du groupe, il doit comp
 {s:Reference|TABLERICHESSEPJPARNIVEAU}
 <center>
 
-<table CLASS="tablo"><caption>Richesse du personnage par niveau</caption><tr CLASS="titre"><td>Niveau du PJ*</td><td>Richesse (po)</td></tr><tr CLASS="alt"><td>2</td><td>1 000</td></tr><tr><td>3</td><td>3 000</td></tr><tr CLASS="alt"><td>4</td><td>6 000</td></tr><tr><td>5</td><td>10 500</td></tr><tr CLASS="alt"><td>6</td><td>16 000</td></tr><tr><td>7</td><td>23 500</td></tr><tr CLASS="alt"><td>8</td><td>33 000</td></tr><tr><td>9</td><td>46 000</td></tr><tr CLASS="alt"><td>10</td><td>62 000</td></tr><tr><td>11</td><td>82 000</td></tr><tr CLASS="alt"><td>12</td><td>108 000</td></tr><tr><td>13</td><td>140 000</td></tr><tr CLASS="alt"><td>14</td><td>185 000</td></tr><tr><td>15</td><td>240 000</td></tr><tr CLASS="alt"><td>16</td><td>315 000</td></tr><tr><td>17</td><td>410 000</td></tr><tr CLASS="alt"><td>18</td><td>530 000</td></tr><tr><td>19</td><td>685 000</td></tr><tr CLASS="alt"><td>20</td><td>880 000</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Pour les PJ niveau 1, voir la  
-table "[[Argent et richesse#TABLERICHESSEDEPARTPJ|Richesse de départ des personnages]]".*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Richesse du personnage par niveau</caption>
+  <tr CLASS="titre"><td>Niveau du PJ*</td><td>Richesse (po)</td></tr>
+  <tr CLASS="alt"><td>2</td><td>1 000</td></tr>
+  <tr><td>3</td><td>3 000</td></tr>
+  <tr CLASS="alt"><td>4</td><td>6 000</td></tr>
+  <tr><td>5</td><td>10 500</td></tr>
+  <tr CLASS="alt"><td>6</td><td>16 000</td></tr>
+  <tr><td>7</td><td>23 500</td></tr>
+  <tr CLASS="alt"><td>8</td><td>33 000</td></tr>
+  <tr><td>9</td><td>46 000</td></tr>
+  <tr CLASS="alt"><td>10</td><td>62 000</td></tr>
+  <tr><td>11</td><td>82 000</td></tr>
+  <tr CLASS="alt"><td>12</td><td>108 000</td></tr>
+  <tr><td>13</td><td>140 000</td></tr>
+  <tr CLASS="alt"><td>14</td><td>185 000</td></tr>
+  <tr><td>15</td><td>240 000</td></tr>
+  <tr CLASS="alt"><td>16</td><td>315 000</td></tr>
+  <tr><td>17</td><td>410 000</td></tr>
+  <tr CLASS="alt"><td>18</td><td>530 000</td></tr>
+  <tr><td>19</td><td>685 000</td></tr>
+  <tr CLASS="alt"><td>20</td><td>880 000</td></tr>
+  <tr>
+    <td COLSPAN="2" CLASS="note">
+      *(*) Pour les PJ niveau 1, voir la  
+table "[[Argent et richesse#TABLERICHESSEDEPARTPJ|Richesse de départ des
+      personnages]]".*
+    </td>
+  </tr>
+</table>
 
 </center>
 </td><td>
 {s:Reference|TABLEVALEURBUTINPARRENCONTRE}
 <center>
 
-<table CLASS="tablo"><caption>Valeur du butin par rencontre</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau moyen   
-du groupe</td><td COLSPAN="3" CLASS="avecsoustitre">Butin par rencontre (po)</td></tr><tr CLASS="soustitre"><td>Progression   
-lente</td><td>Progression   
-moyenne</td><td>Progression   
-rapide</td></tr><tr CLASS="premier"><td>1</td><td>170</td><td>260</td><td>400</td></tr><tr CLASS="alt"><td>2</td><td>350</td><td>550</td><td>800</td></tr><tr><td>3</td><td>550</td><td>800</td><td>1 200</td></tr><tr CLASS="alt"><td>4</td><td>750</td><td>1 150</td><td>1 700</td></tr><tr><td>5</td><td>1 000</td><td>1 550</td><td>2 300</td></tr><tr CLASS="alt"><td>6</td><td>1 350</td><td>2 000</td><td>3 000</td></tr><tr><td>7</td><td>1 750</td><td>2 600</td><td>3 900</td></tr><tr CLASS="alt"><td>8</td><td>2 200</td><td>3 350</td><td>5 000</td></tr><tr><td>9</td><td>2 850</td><td>4 250</td><td>6 400</td></tr><tr CLASS="alt"><td>10</td><td>3 650</td><td>5 450</td><td>8 200</td></tr><tr><td>11</td><td>4 650</td><td>7 000</td><td>10 500</td></tr><tr CLASS="alt"><td>12</td><td>6 000</td><td>9 000</td><td>13 500</td></tr><tr><td>13</td><td>7 750</td><td>11 600</td><td>17 500</td></tr><tr CLASS="alt"><td>14</td><td>10 000</td><td>15 000</td><td>22 000</td></tr><tr><td>15</td><td>13 000</td><td>19 500</td><td>29 000</td></tr><tr CLASS="alt"><td>16</td><td>16 500</td><td>25 000</td><td>38 000</td></tr><tr><td>17</td><td>22 000</td><td>32 000</td><td>48 000</td></tr><tr CLASS="alt"><td>18</td><td>28 000</td><td>41 000</td><td>62 000</td></tr><tr><td>19</td><td>35 000</td><td>53 000</td><td>79 000</td></tr><tr CLASS="alt"><td>20</td><td>44 000</td><td>67 000</td><td>100 000</td></tr></table>
+<table CLASS="tablo">
+  <caption>Valeur du butin par rencontre</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau moyen   
+du groupe</td>
+    <td COLSPAN="3" CLASS="avecsoustitre">Butin par rencontre (po)</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>Progression   
+lente</td>
+    <td>Progression   
+moyenne</td>
+    <td>Progression   
+rapide</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>170</td><td>260</td><td>400</td></tr>
+  <tr CLASS="alt"><td>2</td><td>350</td><td>550</td><td>800</td></tr>
+  <tr><td>3</td><td>550</td><td>800</td><td>1 200</td></tr>
+  <tr CLASS="alt"><td>4</td><td>750</td><td>1 150</td><td>1 700</td></tr>
+  <tr><td>5</td><td>1 000</td><td>1 550</td><td>2 300</td></tr>
+  <tr CLASS="alt"><td>6</td><td>1 350</td><td>2 000</td><td>3 000</td></tr>
+  <tr><td>7</td><td>1 750</td><td>2 600</td><td>3 900</td></tr>
+  <tr CLASS="alt"><td>8</td><td>2 200</td><td>3 350</td><td>5 000</td></tr>
+  <tr><td>9</td><td>2 850</td><td>4 250</td><td>6 400</td></tr>
+  <tr CLASS="alt"><td>10</td><td>3 650</td><td>5 450</td><td>8 200</td></tr>
+  <tr><td>11</td><td>4 650</td><td>7 000</td><td>10 500</td></tr>
+  <tr CLASS="alt"><td>12</td><td>6 000</td><td>9 000</td><td>13 500</td></tr>
+  <tr><td>13</td><td>7 750</td><td>11 600</td><td>17 500</td></tr>
+  <tr CLASS="alt"><td>14</td><td>10 000</td><td>15 000</td><td>22 000</td></tr>
+  <tr><td>15</td><td>13 000</td><td>19 500</td><td>29 000</td></tr>
+  <tr CLASS="alt"><td>16</td><td>16 500</td><td>25 000</td><td>38 000</td></tr>
+  <tr><td>17</td><td>22 000</td><td>32 000</td><td>48 000</td></tr>
+  <tr CLASS="alt"><td>18</td><td>28 000</td><td>41 000</td><td>62 000</td></tr>
+  <tr><td>19</td><td>35 000</td><td>53 000</td><td>79 000</td></tr>
+  <tr CLASS="alt"><td>20</td><td>44 000</td><td>67 000</td><td>100 000</td></tr>
+</table>
 
 </center>
 </td></tr></table>
@@ -147,7 +279,13 @@ Il suffit souvent de dire à vos joueurs qu’ils ont trouvé 5 000 po de gemmes
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Valeur moyenne des objets magiques</caption><tr CLASS="titre"><td>Catégorie d'objet magique</td><td>Valeur moyenne</td></tr><tr CLASS="premier"><td>Objet mineur</td><td>1 000 po</td></tr><tr CLASS="alt"><td>Objet intermédiaire</td><td>10 000 po</td></tr><tr><td>Objet majeur</td><td>40 000 po</td></tr></table>
+<table CLASS="tablo">
+  <caption>Valeur moyenne des objets magiques</caption>
+  <tr CLASS="titre"><td>Catégorie d'objet magique</td><td>Valeur moyenne</td></tr>
+  <tr CLASS="premier"><td>Objet mineur</td><td>1 000 po</td></tr>
+  <tr CLASS="alt"><td>Objet intermédiaire</td><td>10 000 po</td></tr>
+  <tr><td>Objet majeur</td><td>40 000 po</td></tr>
+</table>
 
 </center></div></div>
 **Les objets magiques.** La découverte d’un objet magique est bien entendu la véritable récompense de l’aventurier. Réfléchissez bien lorsque vous décidez de mettre un tel objet dans un trésor. En règle générale, les joueurs préfèrent les trouver plutôt que les acheter, alors n’ayez pas de scrupule à y mettre ceux que les personnages sont capables d’utiliser ! Vous trouverez dans les pages sur les Objets Magiques une longue liste d’objets magiques ainsi que leurs coûts.

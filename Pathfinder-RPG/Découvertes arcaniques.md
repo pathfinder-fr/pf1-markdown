@@ -11,8 +11,73 @@ Categories:
 {s:MenuClasses}{s:um}*Les magiciens passent une grande partie de leur existence à chercher de grandes vérités et à traquer les connaissances comme si leur vie en dépendait. Le pouvoir du magicien ne réside pas forcément dans ses sorts, ce ne sont que des manifestations extérieures visibles de ce pouvoir. La véritable puissance du magicien réside dans son intelligence indomptable, dans sa dévotion à son art et dans ses capacités à dépasser les vérités superficielles pour comprendre les fondements cachés de l’existence. Un magicien passe une grande partie de son temps à faire des recherches sur les sorts et préfère découvrir une bibliothèque inconnue plutôt qu’une salle pleine de pièces d’or. Les magiciens ne sont pas forcément des rats de bibliothèque reclus mais ils brûlent de curiosité face à l’inconnu. Les découvertes arcaniques résultent de cette obsession pour la magie. Le magicien peut apprendre une découverte magique au lieu de choisir un don normal ou un don de magicien supplémentaire.*
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="70%"><caption>Découvertes arcaniques de magicien</caption><tr CLASS="titre"><td>Niveau  
-minimal</td><td COLSPAN="2">Découvertes arcaniques</td></tr><tr CLASS="premier"><td>**1**</td><td>[[Découvertes arcaniques#Contrecoupdéfensif|Contrecoup défensif (Sur)]]</td><td>[[Découvertes arcaniques#Invocationéquilibrée|Invocation équilibrée]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes arcaniques#Destructioncréatrice|Destruction créatrice (Sur)]]</td><td>[[Découvertes arcaniques#Laconnaissancecestlaforce|La connaissance c’est la force (Ext)]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes arcaniques#Fabricantarcanique|Fabricant arcanique]]</td><td>[[Découvertes arcaniques#Pacteioun|Pacte Ioun]]</td></tr><tr CLASS="premier"><td>**5**</td><td>[[Découvertes arcaniques#Affinitéaveclalchimie|Affinité avec l’alchimie]]</td><td>[[Découvertes arcaniques#Étudesaccélérées|Études accélérées]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes arcaniques#Bénédictiondelaforêt|Bénédiction de la forêt]]</td><td>[[Découvertes arcaniques#Langagesauvage|Langage sauvage (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes arcaniques#Diviserunemplacement|Diviser un emplacement]]</td><td>[[Découvertes arcaniques#Multimorphe|Multimorphe (Sur)]]</td></tr><tr CLASS="premier"><td>**8**</td><td>[[Découvertes arcaniques#Illusionspersistantes|Illusions persistantes (Ext)]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**9**</td><td>[[Découvertes arcaniques#Fabricantdegolems|Fabricant de golems]]</td><td>[[Découvertes arcaniques#Recherchessurlopposition|Recherches sur l’opposition]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes arcaniques#Guidedugrandaudelà|Guide du Grand Au-Delà]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**10**</td><td>[[Découvertes arcaniques#Floutemporel|Flou temporel (Mag)]]</td><td>[[Découvertes arcaniques#Idéalisation|Idéalisation (Sur)]]</td></tr><tr CLASS="premier"><td>**11**</td><td>[[Découvertes arcaniques#Baguettebâton|Baguette bâton]]</td><td>[[Découvertes arcaniques#Véritablenom|Véritable nom (Mag)]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes arcaniques#Charmescontagieux|Charmes contagieux]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**15**</td><td>[[Découvertes arcaniques#Formeduloupgarou|Forme du loup-garou (Sur)]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**20**</td><td>[[Découvertes arcaniques#Immortalité|Immortalité (Ext)]]</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="70%">
+  <caption>Découvertes arcaniques de magicien</caption>
+  <tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="2">Découvertes arcaniques</td></tr>
+  <tr CLASS="premier">
+    <td>**1**</td>
+    <td>[[Découvertes arcaniques#Contrecoupdéfensif|Contrecoup défensif (Sur)]]</td>
+    <td>[[Découvertes arcaniques#Invocationéquilibrée|Invocation équilibrée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes arcaniques#Destructioncréatrice|Destruction créatrice (Sur)]]</td>
+    <td>[[Découvertes arcaniques#Laconnaissancecestlaforce|La connaissance c’est la force (Ext)]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes arcaniques#Fabricantarcanique|Fabricant arcanique]]</td>
+    <td>[[Découvertes arcaniques#Pacteioun|Pacte Ioun]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**5**</td>
+    <td>[[Découvertes arcaniques#Affinitéaveclalchimie|Affinité avec l’alchimie]]</td>
+    <td>[[Découvertes arcaniques#Étudesaccélérées|Études accélérées]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes arcaniques#Bénédictiondelaforêt|Bénédiction de la forêt]]</td>
+    <td>[[Découvertes arcaniques#Langagesauvage|Langage sauvage (Sur)]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes arcaniques#Diviserunemplacement|Diviser un emplacement]]</td>
+    <td>[[Découvertes arcaniques#Multimorphe|Multimorphe (Sur)]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**8**</td>
+    <td>[[Découvertes arcaniques#Illusionspersistantes|Illusions persistantes (Ext)]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**9**</td>
+    <td>[[Découvertes arcaniques#Fabricantdegolems|Fabricant de golems]]</td>
+    <td>[[Découvertes arcaniques#Recherchessurlopposition|Recherches sur l’opposition]]</td>
+  </tr>
+  <tr><td>&emsp;</td><td>[[Découvertes arcaniques#Guidedugrandaudelà|Guide du Grand Au-Delà]]</td><td>&emsp;</td></tr>
+  <tr CLASS="premier">
+    <td>**10**</td>
+    <td>[[Découvertes arcaniques#Floutemporel|Flou temporel (Mag)]]</td>
+    <td>[[Découvertes arcaniques#Idéalisation|Idéalisation (Sur)]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**11**</td>
+    <td>[[Découvertes arcaniques#Baguettebâton|Baguette bâton]]</td>
+    <td>[[Découvertes arcaniques#Véritablenom|Véritable nom (Mag)]]</td>
+  </tr>
+  <tr><td>&emsp;</td><td>[[Découvertes arcaniques#Charmescontagieux|Charmes contagieux]]</td><td>&emsp;</td></tr>
+  <tr CLASS="premier">
+    <td>**15**</td>
+    <td>[[Découvertes arcaniques#Formeduloupgarou|Forme du loup-garou (Sur)]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**20**</td>
+    <td>[[Découvertes arcaniques#Immortalité|Immortalité (Ext)]]</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Découvertes arcaniques du magicien

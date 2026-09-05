@@ -13,7 +13,111 @@ La plupart des pouvoirs de classe de la voyante requièrent seulement un d6 pour
 {s:Reference|TABLEVOYANTE}
 <center>
 
-<table CLASS="tablo"><caption>La Voyante</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Liseuse de tourment#Bénédiction du tourment|Bénédiction du tourment]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Liseuse de tourment#MAGIEDUTOURMENT|Magie du tourment]],[[Liseuse de tourment#TOURDELINTELLIGENCE|tour de l’Intelligence]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELAFORCE|Tour de la Force]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Liseuse de tourment#TOURDUCHARISME|Tour du Charisme]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Liseuse de tourment#JEUSPIRITUEL|Jeu spirituel]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Liseuse de tourment#DIVINATION|Divination]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELACONSTITUTION|Tour de la Constitution]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELADEXTERITE|Tour de la Dextérité]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELASAGESSE|Tour de la Sagesse]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Liseuse de tourment#LIRELESSIGNES|Lire les signes]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>La Voyante</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Liseuse de tourment#Bénédiction du tourment|Bénédiction du tourment]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Liseuse de tourment#MAGIEDUTOURMENT|Magie du tourment]],[[Liseuse de tourment#TOURDELINTELLIGENCE|tour de
+      l’Intelligence]]
+    </td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Liseuse de tourment#TOURDELAFORCE|Tour de la Force]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Liseuse de tourment#TOURDUCHARISME|Tour du Charisme]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Liseuse de tourment#JEUSPIRITUEL|Jeu spirituel]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Liseuse de tourment#DIVINATION|Divination]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Liseuse de tourment#TOURDELACONSTITUTION|Tour de la Constitution]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Liseuse de tourment#TOURDELADEXTERITE|Tour de la Dextérité]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Liseuse de tourment#TOURDELASAGESSE|Tour de la Sagesse]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Liseuse de tourment#LIRELESSIGNES|Lire les signes]]</td>
+    <td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+</table>
 
 </center>
 

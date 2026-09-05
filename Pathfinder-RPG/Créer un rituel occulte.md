@@ -62,7 +62,48 @@ tables "[[Créer un rituel occulte#MODIFICATIONDESRITUELSOCCULTES|Modifications 
 exemples de modification de DD et de fenêtre d’incantation.
 
 
-<table CLASS="tablo centre autoalt" width="80%"><caption>{s:Reference|MODIFICATIONDESRITUELSOCCULTES}Modifications des rituels occultes</caption><tr CLASS="titre"><td>Fenêtre d'incantation</td><td>Modificateur du DD du teste ou modification</td></tr><tr CLASS="premier"><td>Fenêtre d’incantation réduite (comme « pendant la pleine lune »)</td><td>-4</td></tr><tr><td>Fenêtre d’incantation sévèrement réduite (comme « durant une éclipse lunaire »)</td><td>-8</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Focalisateur et composantes matérielles</td><td></sup></td></tr><tr CLASS="premier"><td>Composantes matérielles onéreuses (500 po)</td><td>-1</td></tr><tr><td>Composantes matérielles onéreuses (5 000 po)</td><td>-2</td></tr><tr><td>Composantes matérielles onéreuses (25 00 po)</td><td>-4</td></tr><tr><td>Focalisateur onéreux (5 000 po)</td><td>-1</td></tr><tr><td>Focalisateur onéreux (25 000 po)</td><td>-2</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Portée</td><td></sup></td></tr><tr CLASS="premier"><td>Portée supérieure à la normale</td><td>+1 à +6</td></tr><tr><td>Portée inférieure à la normale</td><td>-1 à –4</td></tr><tr CLASS="titre"><td>Zone</td></tr><tr><td>Zone plus large que la normale</td><td>+1 à +6</td></tr><tr><td>Zone plus petite que la normale</td><td>-1 à –4</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Cible</td><td></sup></td></tr><tr CLASS="premier"><td>La cible non consentante doit être sans défense</td><td>-2</td></tr><tr><td>Cibles limitées (par DV, type de créature, etc.)</td><td>-3</td></tr><tr><td>Cibles multiples au lieu d’une seule</td><td>+4</td></tr><tr CLASS="titre"><td>Durée</td><td><sup></sup></td></tr><tr><td>Durée supérieure à la normale</td><td>+1 à +6</td></tr><tr><td>Durée plus courte que la normale</td><td>-1 à –4</td></tr><tr><td>Un an ou plus</td><td>temps d’incantation divisé en portions de 1 heure/niveau au lieu de 10 minutes/niveau</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Contrecoup</td><td></sup></td></tr><tr CLASS="premier"><td>Par 2d6 points de dégâts</td><td>-1</td></tr><tr><td>Officiant épuisé</td><td>-2</td></tr><tr><td>Par niveau négatif temporaire reçu</td><td>-2</td></tr><tr><td>Par niveau négatif permanent reçu</td><td>-4</td></tr><tr><td>Officiant réduit à –1 pv</td><td>-3</td></tr><tr><td>Officiant affecté par une maladie</td><td>-4</td></tr><tr><td>Officiant subit les effets d’une malédiction</td><td>-4</td></tr><tr><td>Contrecoup affectant aussi les officiants secondaires</td><td>-1</td></tr></table>
+<table CLASS="tablo centre autoalt" width="80%">
+  <caption>{s:Reference|MODIFICATIONDESRITUELSOCCULTES}Modifications des rituels occultes</caption>
+  <tr CLASS="titre"><td>Fenêtre d'incantation</td><td>Modificateur du DD du teste ou modification</td></tr>
+  <tr CLASS="premier"><td>Fenêtre d’incantation réduite (comme « pendant la pleine lune »)</td><td>-4</td></tr>
+  <tr><td>Fenêtre d’incantation sévèrement réduite (comme « durant une éclipse lunaire »)</td><td>-8</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Focalisateur et composantes matérielles</td><td></sup></td></tr>
+  <tr CLASS="premier"><td>Composantes matérielles onéreuses (500 po)</td><td>-1</td></tr>
+  <tr><td>Composantes matérielles onéreuses (5 000 po)</td><td>-2</td></tr>
+  <tr><td>Composantes matérielles onéreuses (25 00 po)</td><td>-4</td></tr>
+  <tr><td>Focalisateur onéreux (5 000 po)</td><td>-1</td></tr>
+  <tr><td>Focalisateur onéreux (25 000 po)</td><td>-2</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Portée</td><td></sup></td></tr>
+  <tr CLASS="premier"><td>Portée supérieure à la normale</td><td>+1 à +6</td></tr>
+  <tr><td>Portée inférieure à la normale</td><td>-1 à –4</td></tr>
+  <tr CLASS="titre"><td>Zone</td></tr>
+  <tr><td>Zone plus large que la normale</td><td>+1 à +6</td></tr>
+  <tr><td>Zone plus petite que la normale</td><td>-1 à –4</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Cible</td><td></sup></td></tr>
+  <tr CLASS="premier"><td>La cible non consentante doit être sans défense</td><td>-2</td></tr>
+  <tr><td>Cibles limitées (par DV, type de créature, etc.)</td><td>-3</td></tr>
+  <tr><td>Cibles multiples au lieu d’une seule</td><td>+4</td></tr>
+  <tr CLASS="titre"><td>Durée</td><td><sup></sup></td></tr>
+  <tr><td>Durée supérieure à la normale</td><td>+1 à +6</td></tr>
+  <tr><td>Durée plus courte que la normale</td><td>-1 à –4</td></tr>
+  <tr>
+    <td>Un an ou plus</td>
+    <td>temps d’incantation divisé en portions de 1 heure/niveau au lieu de 10 minutes/niveau</td>
+  </tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Contrecoup</td><td></sup></td></tr>
+  <tr CLASS="premier"><td>Par 2d6 points de dégâts</td><td>-1</td></tr>
+  <tr><td>Officiant épuisé</td><td>-2</td></tr>
+  <tr><td>Par niveau négatif temporaire reçu</td><td>-2</td></tr>
+  <tr><td>Par niveau négatif permanent reçu</td><td>-4</td></tr>
+  <tr><td>Officiant réduit à –1 pv</td><td>-3</td></tr>
+  <tr><td>Officiant affecté par une maladie</td><td>-4</td></tr>
+  <tr><td>Officiant subit les effets d’une malédiction</td><td>-4</td></tr>
+  <tr><td>Contrecoup affectant aussi les officiants secondaires</td><td>-1</td></tr>
+</table>
 
 
 **Étape 4 — Compétences du rituel.** Cette étape consiste

@@ -198,4 +198,84 @@ deux autres domaines qui varient en fonction de leurs intérêts
 et de leurs thèmes de prédilection.
 
 
-<table CLASS="tablo"><caption>Statistiques des Seigneurs Démons Naissants selon leur FP</caption><tr CLASS="titre"><td>FP</td><td>Points de vie</td><td>Classe d’armure</td><td>Attaque forte</td><td>Attaque faible</td><td>Dégâts moyens  Élevés</td><td>Dégâts moyens faibles</td><td>DD des capacités principales</td><td>DD des capacités secondaires</td><td>JS fort</td><td>JS faible</td></tr><tr CLASS="premier"><td>**21**</td><td>400</td><td>37</td><td>31</td><td>24</td><td>130</td><td>98</td><td>27</td><td>20</td><td>23</td><td>18</td></tr><tr><td>**22**</td><td>440</td><td>39</td><td>32</td><td>25</td><td>140</td><td>105</td><td>28</td><td>21</td><td>23</td><td>18</td></tr><tr><td>**23**</td><td>480</td><td>40</td><td>33</td><td>26</td><td>150</td><td>113</td><td>29</td><td>22</td><td>24</td><td>19</td></tr><tr><td>**24**</td><td>520</td><td>42</td><td>35</td><td>27</td><td>165</td><td>124</td><td>30</td><td>23</td><td>25</td><td>20</td></tr><tr><td>**25**</td><td>560</td><td>43</td><td>36</td><td>28</td><td>180</td><td>135</td><td>30</td><td>24</td><td>26</td><td>21</td></tr></table>
+<table CLASS="tablo">
+  <caption>Statistiques des Seigneurs Démons Naissants selon leur FP</caption>
+  <tr CLASS="titre">
+    <td>FP</td>
+    <td>Points de vie</td>
+    <td>Classe d’armure</td>
+    <td>Attaque forte</td>
+    <td>Attaque faible</td>
+    <td>Dégâts moyens  Élevés</td>
+    <td>Dégâts moyens faibles</td>
+    <td>DD des capacités principales</td>
+    <td>DD des capacités secondaires</td>
+    <td>JS fort</td>
+    <td>JS faible</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**21**</td>
+    <td>400</td>
+    <td>37</td>
+    <td>31</td>
+    <td>24</td>
+    <td>130</td>
+    <td>98</td>
+    <td>27</td>
+    <td>20</td>
+    <td>23</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>**22**</td>
+    <td>440</td>
+    <td>39</td>
+    <td>32</td>
+    <td>25</td>
+    <td>140</td>
+    <td>105</td>
+    <td>28</td>
+    <td>21</td>
+    <td>23</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>**23**</td>
+    <td>480</td>
+    <td>40</td>
+    <td>33</td>
+    <td>26</td>
+    <td>150</td>
+    <td>113</td>
+    <td>29</td>
+    <td>22</td>
+    <td>24</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>**24**</td>
+    <td>520</td>
+    <td>42</td>
+    <td>35</td>
+    <td>27</td>
+    <td>165</td>
+    <td>124</td>
+    <td>30</td>
+    <td>23</td>
+    <td>25</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>**25**</td>
+    <td>560</td>
+    <td>43</td>
+    <td>36</td>
+    <td>28</td>
+    <td>180</td>
+    <td>135</td>
+    <td>30</td>
+    <td>24</td>
+    <td>26</td>
+    <td>21</td>
+  </tr>
+</table>

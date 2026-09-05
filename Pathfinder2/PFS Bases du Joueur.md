@@ -164,7 +164,20 @@ Si ces objets ne sont pas utilisés pendant l'aventure, ils sont rendus à la fi
 
 {s:Reference|TABLEAU_1}
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Consommables de Départ</caption><tr CLASS="titre"><td>Niveau du PJ</td><td>Objets</td></tr><tr CLASS="premier"><td>Niveau 1-2</td><td>Potion de guérison mineure (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 3-4</td><td>Potion de guérison mineure x2 (LDB 565)</td></tr><tr><td>Niveau 5-6</td><td>Potion de guérison inférieure (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 7-8</td><td>Potion de guérison inférieure x2 (LDB 565)</td></tr><tr><td>Niveau 9-10</td><td>Potion de guérison moyenne (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 11-12</td><td>Potion de guérison moyenne x2 (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 13-14</td><td>Potion de guérison moyenne x3 (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 15-16</td><td>Potion de guérison supérieure (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 17-18</td><td>Potion de guérison supérieure x2 (LDB 565)</td></tr><tr CLASS="alt"><td>Niveau 19-20</td><td>Potion de guérison supérieure x3 (LDB 565)</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Consommables de Départ</caption>
+  <tr CLASS="titre"><td>Niveau du PJ</td><td>Objets</td></tr>
+  <tr CLASS="premier"><td>Niveau 1-2</td><td>Potion de guérison mineure (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 3-4</td><td>Potion de guérison mineure x2 (LDB 565)</td></tr>
+  <tr><td>Niveau 5-6</td><td>Potion de guérison inférieure (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 7-8</td><td>Potion de guérison inférieure x2 (LDB 565)</td></tr>
+  <tr><td>Niveau 9-10</td><td>Potion de guérison moyenne (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 11-12</td><td>Potion de guérison moyenne x2 (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 13-14</td><td>Potion de guérison moyenne x3 (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 15-16</td><td>Potion de guérison supérieure (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 17-18</td><td>Potion de guérison supérieure x2 (LDB 565)</td></tr>
+  <tr CLASS="alt"><td>Niveau 19-20</td><td>Potion de guérison supérieure x3 (LDB 565)</td></tr>
+</table>
 
 
 **Achats** : Souvent, ce moment sera la seule opportunité pour les personnages de réaliser des achats.
@@ -230,7 +243,14 @@ Les joueurs sont responsables des tests et de la traçabilité de leur temps d'i
 Ci-dessous un exemple de l'or obtenu en Gagnant un Revenu pendant les 8 jours de temps d'intermède conférés par un scénario. Pour consulter un tableau similaire pour les quêtes et les autres tranches de niveau, consultez la page en VO, section *After the Adventure*/*Downtime* : [Player Basics](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Player-Basics#Before_the_Adventure)
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Gagner un Revenu - niveau 1 à 4 (8 jours)</caption><tr CLASS="titre"><td>Niveau du PJ</td><td>DD</td><td>Echec</td><td>Qualifié</td><td>Expert</td></tr><tr CLASS="premier"><td>1-2</td><td>14</td><td>8 pc</td><td>4 pa</td><td>4 pa</td></tr><tr CLASS="alt"><td>3</td><td>15</td><td>16 pc</td><td>16 pa</td><td>16 pa</td></tr><tr CLASS="alt"><td>4</td><td>16</td><td>32 pc</td><td>24 pa</td><td>24 pa</td></tr><tr CLASS="alt"><td>5*</td><td>-</td><td>40 pa</td><td>40 pa</td><td>-</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Gagner un Revenu - niveau 1 à 4 (8 jours)</caption>
+  <tr CLASS="titre"><td>Niveau du PJ</td><td>DD</td><td>Echec</td><td>Qualifié</td><td>Expert</td></tr>
+  <tr CLASS="premier"><td>1-2</td><td>14</td><td>8 pc</td><td>4 pa</td><td>4 pa</td></tr>
+  <tr CLASS="alt"><td>3</td><td>15</td><td>16 pc</td><td>16 pa</td><td>16 pa</td></tr>
+  <tr CLASS="alt"><td>4</td><td>16</td><td>32 pc</td><td>24 pa</td><td>24 pa</td></tr>
+  <tr CLASS="alt"><td>5*</td><td>-</td><td>40 pa</td><td>40 pa</td><td>-</td></tr>
+</table>
 
 
 - En cas de succès critique votre gain se réfère au niveau supérieur

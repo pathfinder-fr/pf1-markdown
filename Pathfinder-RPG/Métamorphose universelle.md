@@ -18,8 +18,18 @@ Ce sort est semblable à *[[métamorphose suprême]]*, si ce n’est qu’il per
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Forme obtenue (par rapport à celle d’origine)</td><td>Augmentation du   
-facteur de durée*</td></tr><tr CLASS="premier"><td>Même règne (animal, végétal, minéral)</td><td>+5</td></tr><tr CLASS="alt"><td>Même classe (mammifères, thallophytes, métaux, etc.)</td><td>+2</td></tr><tr><td>Même taille</td><td>+2</td></tr><tr CLASS="alt"><td>Rapport direct (brindille et arbre, fourrure et animal ; etc.)</td><td>+2</td></tr><tr><td>[[Intelligence]] égale ou inférieure</td><td>+2</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre">
+    <td>Forme obtenue (par rapport à celle d’origine)</td>
+    <td>Augmentation du   
+facteur de durée*</td>
+  </tr>
+  <tr CLASS="premier"><td>Même règne (animal, végétal, minéral)</td><td>+5</td></tr>
+  <tr CLASS="alt"><td>Même classe (mammifères, thallophytes, métaux, etc.)</td><td>+2</td></tr>
+  <tr><td>Même taille</td><td>+2</td></tr>
+  <tr CLASS="alt"><td>Rapport direct (brindille et arbre, fourrure et animal ; etc.)</td><td>+2</td></tr>
+  <tr><td>[[Intelligence]] égale ou inférieure</td><td>+2</td></tr>
+</table>
 
 </center>
 
@@ -27,7 +37,16 @@ facteur de durée*</td></tr><tr CLASS="premier"><td>Même règne (animal, végé
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Facteur de durée</td><td>Exemple de transformation</td><td>Durée</td></tr><tr CLASS="premier"><td>0</td><td>De caillou en [[humain]]</td><td>20 mn</td></tr><tr CLASS="alt"><td>2</td><td>De marionnette en [[humain]]</td><td>1 heure</td></tr><tr><td>4</td><td>D’[[humain]] en marionnette</td><td>3 heures</td></tr><tr CLASS="alt"><td>5</td><td>De [[lézard]] en [[manticore]]</td><td>12 heures</td></tr><tr><td>6</td><td>De mouton en manteau de laine</td><td>2 jours</td></tr><tr CLASS="alt"><td>7</td><td>De musaraigne en [[manticore]]</td><td>1 semaine</td></tr><tr><td>9+</td><td>De [[manticore]] en musaraigne</td><td>Permanente</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Facteur de durée</td><td>Exemple de transformation</td><td>Durée</td></tr>
+  <tr CLASS="premier"><td>0</td><td>De caillou en [[humain]]</td><td>20 mn</td></tr>
+  <tr CLASS="alt"><td>2</td><td>De marionnette en [[humain]]</td><td>1 heure</td></tr>
+  <tr><td>4</td><td>D’[[humain]] en marionnette</td><td>3 heures</td></tr>
+  <tr CLASS="alt"><td>5</td><td>De [[lézard]] en [[manticore]]</td><td>12 heures</td></tr>
+  <tr><td>6</td><td>De mouton en manteau de laine</td><td>2 jours</td></tr>
+  <tr CLASS="alt"><td>7</td><td>De musaraigne en [[manticore]]</td><td>1 semaine</td></tr>
+  <tr><td>9+</td><td>De [[manticore]] en musaraigne</td><td>Permanente</td></tr>
+</table>
 
 </center>
 

@@ -87,7 +87,93 @@ La plupart des aasimars ne savent pas exactement d'où viennent leurs pouvoirs c
 Les joueurs peuvent choisir l'un des six héritages suivants pour leurs personnages aasimars à la place des traits raciaux standards des aasimars. Chaque héritage présente de nouveaux bonus de caractéristique, pouvoirs magiques et bonus aux compétences qui remplacent les traits raciaux standards des aasimars. Chaque entrée aborde également les traits de personnalité, les caractéristiques physiques et les lieux d'origine les plus courants (bien que loin d'être omniprésents) des aasimars de l'héritage en question.
 
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Héritage</td><td>Alignement habituel</td><td>Caractéristiques alternatives</td><td>Compétences alternatives</td><td>Pouvoir magique alternatif</td></tr><tr CLASS="premier"><td>Sang d'[[agathion]] (né de l'idylle)</td><td>Neutre Bon</td><td>+2 [[Constitution]], +2 [[Charisme]]</td><td>[[Dressage]], [[Survie]]</td><td>*[[convocation dalliés naturels II|convocation d'alliés naturels II]]*</td></tr><tr><td COLSPAN="5">Les aasimars nés de l'idylle, de disposition calme et souvent porteurs de traits animaux, sont de parfaits médiateurs entre l'ordre et le chaos.</td></tr><tr CLASS="premier alt"><td>Sang d'[[ange]] (né des anges)</td><td>n'importe Bon</td><td>+2 [[Force]], +2 [[Charisme]]</td><td>[[Connaissances]] (plans), [[Premiers secours]]</td><td>*[[modification dapparence|modification d'apparence]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Ces parangons célestes d'une beauté incroyable sont des champions de la bonté et de la lumière, quelle que soit l'apparence qu'ils empruntent.</td></tr><tr CLASS="premier"><td>Sang d'[[archon]] (émissaire de l'ordre)</td><td>Loyal Bon</td><td>+2 [[Constitution]], +2 [[Sagesse]]</td><td>[[Intimidation]], [[Psychologie]]</td><td>*[[flamme éternelle]]*</td></tr><tr><td COLSPAN="5">Les émissaires de l'ordre sont des champions de la justice châtiant les malveillants, et pensent souvent que le chaos est la source de la souffrance des mortels.</td></tr><tr CLASS="premier alt"><td>Sang d'[[azata]] (béni des muses)</td><td>Chaotique Bon</td><td>+2 [[Dextérité]], +2 [[Charisme]]</td><td>[[Diplomatie]], [[Représentation]]</td><td>*[[poussière scintillante]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Les aasimars touchés par les muses sont des exemples de joie et de liberté, et parcourent le monde à la recherche d'individus à libérer.</td></tr><tr CLASS="premier"><td>Sang de [[garuda]] (compagnon de la plume)</td><td>Chaotique Bon</td><td>+2 [[Dextérité]], +2 [[Sagesse]]</td><td>[[Acrobaties]], [[Vol]]</td><td>*[[détection de linvisibilité|détection de l'invisibilité]]*</td></tr><tr><td COLSPAN="5">Leur plumage rend les compagnons de la plume très vite reconnaissables. Bien qu'ils soient parfois impulsifs, ils ne reculent jamais une fois leur parole donnée.</td></tr><tr CLASS="premier alt"><td>Sang de [[péri]] (né des cendres)</td><td>Neutre Bon</td><td>+2 [[Intelligence]], +2 [[Charisme]]</td><td>[[Art de la magie]], [[Connaissances]] (plans)</td><td>*[[pyrotechnie]]*</td></tr><tr CLASS="alt"><td COLSPAN="5">Maîtres de la magie du feu, les descendants des péri subissent l'influence duale de leur ancêtre déchu, et sont aussi bien amenés à faire le bien que le mal.</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre">
+    <td>Héritage</td>
+    <td>Alignement habituel</td>
+    <td>Caractéristiques alternatives</td>
+    <td>Compétences alternatives</td>
+    <td>Pouvoir magique alternatif</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Sang d'[[agathion]] (né de l'idylle)</td>
+    <td>Neutre Bon</td>
+    <td>+2 [[Constitution]], +2 [[Charisme]]</td>
+    <td>[[Dressage]], [[Survie]]</td>
+    <td>*[[convocation dalliés naturels II|convocation d'alliés naturels II]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Les aasimars nés de l'idylle, de disposition calme et souvent porteurs de traits animaux, sont de parfaits
+      médiateurs entre l'ordre et le chaos.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Sang d'[[ange]] (né des anges)</td>
+    <td>n'importe Bon</td>
+    <td>+2 [[Force]], +2 [[Charisme]]</td>
+    <td>[[Connaissances]] (plans), [[Premiers secours]]</td>
+    <td>*[[modification dapparence|modification d'apparence]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Ces parangons célestes d'une beauté incroyable sont des champions de la bonté et de la lumière, quelle que
+      soit l'apparence qu'ils empruntent.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Sang d'[[archon]] (émissaire de l'ordre)</td>
+    <td>Loyal Bon</td>
+    <td>+2 [[Constitution]], +2 [[Sagesse]]</td>
+    <td>[[Intimidation]], [[Psychologie]]</td>
+    <td>*[[flamme éternelle]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Les émissaires de l'ordre sont des champions de la justice châtiant les malveillants, et pensent souvent que
+      le chaos est la source de la souffrance des mortels.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Sang d'[[azata]] (béni des muses)</td>
+    <td>Chaotique Bon</td>
+    <td>+2 [[Dextérité]], +2 [[Charisme]]</td>
+    <td>[[Diplomatie]], [[Représentation]]</td>
+    <td>*[[poussière scintillante]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Les aasimars touchés par les muses sont des exemples de joie et de liberté, et parcourent le monde à la
+      recherche d'individus à libérer.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Sang de [[garuda]] (compagnon de la plume)</td>
+    <td>Chaotique Bon</td>
+    <td>+2 [[Dextérité]], +2 [[Sagesse]]</td>
+    <td>[[Acrobaties]], [[Vol]]</td>
+    <td>*[[détection de linvisibilité|détection de l'invisibilité]]*</td>
+  </tr>
+  <tr>
+    <td COLSPAN="5">
+      Leur plumage rend les compagnons de la plume très vite reconnaissables. Bien qu'ils soient parfois impulsifs,
+      ils ne reculent jamais une fois leur parole donnée.
+    </td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>Sang de [[péri]] (né des cendres)</td>
+    <td>Neutre Bon</td>
+    <td>+2 [[Intelligence]], +2 [[Charisme]]</td>
+    <td>[[Art de la magie]], [[Connaissances]] (plans)</td>
+    <td>*[[pyrotechnie]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td COLSPAN="5">
+      Maîtres de la magie du feu, les descendants des péri subissent l'influence duale de leur ancêtre déchu, et
+      sont aussi bien amenés à faire le bien que le mal.
+    </td>
+  </tr>
+</table>
 
 
 
@@ -126,7 +212,89 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Canalisation de force]]</td><td><sup>MR</sup></td><td>[[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 2d6</td><td>La canalisation d'énergie peut être concentrée sur une unique cible et la repousser ou l'attirer en plus de la blesser</td></tr><tr><td>&emsp;[[Science de la canalisation de force]]</td><td><sup>MR</sup></td><td>[[Canalisation de force]], [[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 4d6</td><td>L'utilisation de Canalisation de force affecte un cône de 9 m (6 {s:c}) ou une ligne de 18 m (12 {s:c})</td></tr><tr><td>&emsp;&emsp;[[Canalisation de force supérieure]]</td><td><sup>MR</sup></td><td>[[Canalisation de force]], [[Science de la canalisation de force]], [[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 6d6</td><td>L'utilisation de Canalisation de force affecte toutes les créatures dans un rayon de 9 m (6 {s:c})</td></tr><tr CLASS="premier"><td>[[Éclat amplifié]]</td><td><sup>*ISR*</sup></td><td>[[Aasimar (race)|Aasimar]], pouvoir magique racial *[[lumière du jour]]*</td><td>Émet une aura de lumière à proximité d'un allié qui possède ce don</td></tr><tr CLASS="premier"><td>[[Rayonnement divin]]</td><td><sup>MR</sup></td><td>[[aasimar (race)|Aasimar]], *[[lumière du jour]]* pouvoir magique, niveau suffisamment élevé (voir description)</td><td>une utilisation supplémentaire du pouvoir lumière du jour avec des effets supérieurs</td></tr><tr CLASS="premier"><td>[[Sang angélique]]</td><td><sup>MR</sup></td><td>[[Constitution|Con]] 13, [[aasimar (race)|Aasimar]]</td><td>Le personnage est plus difficile à tuer et résistant au Mal</td></tr><tr><td>&emsp;[[Ailes dange|Ailes d'ange]]</td><td><sup>MR</sup></td><td>[[Sang angélique]], [[aasimar (race)|Aasimar]], niveau de personnage 10</td><td>Le personnage obtient des ailes et une vitesse de vol</td></tr><tr><td>&emsp;[[Chair angélique]]</td><td><sup>MR</sup></td><td>[[Sang angélique]], [[aasimar (race)|Aasimar]]</td><td>La peau étincelante du personnage lui offre des effets bénéfiques</td></tr><tr><td>&emsp;&emsp;[[Ailes métalliques]]</td><td><sup>MR</sup></td><td>[[Sang angélique]], [[Chair angélique]], [[Ailes dange|Ailes d'ange]], [[Aasimar (race)|aasimar]], personnage de niveau 11</td><td>Le personnage obtient deux attaques d'aile</td></tr><tr CLASS="premier"><td>[[Serviteur céleste]]</td><td><sup>MR</sup></td><td>[[aasimar (race)|Aasimar]], [[compagnon animal]], [[familier]] ou aptitude de classe monture</td><td>Le compagnon animal, son familier ou la monture du personnage devient une créature magique céleste</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Canalisation de force]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 2d6</td>
+    <td>
+      La canalisation d'énergie peut être concentrée sur une unique cible et la repousser ou l'attirer en plus de la
+      blesser
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Science de la canalisation de force]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Canalisation de force]], [[aasimar (race)|Aasimar]], [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]]
+      4d6
+    </td>
+    <td>L'utilisation de Canalisation de force affecte un cône de 9 m (6 {s:c}) ou une ligne de 18 m (12 {s:c})</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Canalisation de force supérieure]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Canalisation de force]], [[Science de la canalisation de force]], [[aasimar (race)|Aasimar]],
+      [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]] 6d6
+    </td>
+    <td>L'utilisation de Canalisation de force affecte toutes les créatures dans un rayon de 9 m (6 {s:c})</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Éclat amplifié]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Aasimar (race)|Aasimar]], pouvoir magique racial *[[lumière du jour]]*</td>
+    <td>Émet une aura de lumière à proximité d'un allié qui possède ce don</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rayonnement divin]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[aasimar (race)|Aasimar]], *[[lumière du jour]]* pouvoir magique, niveau suffisamment élevé (voir
+      description)
+    </td>
+    <td>une utilisation supplémentaire du pouvoir lumière du jour avec des effets supérieurs</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sang angélique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Constitution|Con]] 13, [[aasimar (race)|Aasimar]]</td>
+    <td>Le personnage est plus difficile à tuer et résistant au Mal</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Ailes dange|Ailes d'ange]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Sang angélique]], [[aasimar (race)|Aasimar]], niveau de personnage 10</td>
+    <td>Le personnage obtient des ailes et une vitesse de vol</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Chair angélique]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Sang angélique]], [[aasimar (race)|Aasimar]]</td>
+    <td>La peau étincelante du personnage lui offre des effets bénéfiques</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Ailes métalliques]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Sang angélique]], [[Chair angélique]], [[Ailes dange|Ailes d'ange]], [[Aasimar (race)|aasimar]], personnage
+      de niveau 11
+    </td>
+    <td>Le personnage obtient deux attaques d'aile</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Serviteur céleste]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[aasimar (race)|Aasimar]], [[compagnon animal]], [[familier]] ou aptitude de classe monture</td>
+    <td>Le compagnon animal, son familier ou la monture du personnage devient une créature magique céleste</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

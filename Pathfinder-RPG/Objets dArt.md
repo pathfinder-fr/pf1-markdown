@@ -110,7 +110,20 @@ Les objets d’art s’achètent et se vendent à leur pleine valeur et servent 
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>42</td><td>hochet de bébé en or et en mithral</td><td>500</td></tr><tr><td>43-48</td><td>échiquier en or</td><td>500</td></tr><tr><td>49-51</td><td>flasque en or avec des symboles religieux</td><td>500</td></tr><tr><td>52-56</td><td>boîte à puzzle en or</td><td>500</td></tr><tr><td>57-65</td><td>symbole sacré en platine</td><td>500</td></tr><tr><td>66-69</td><td>coupe en or frappé du blason royal</td><td>550</td></tr><tr><td>70-77</td><td>calice en or gravé de griffons</td><td>600</td></tr><tr><td>78-81</td><td>sceptre en mithral avec des incrustations d’or</td><td>600</td></tr><tr><td>82-88</td><td>assiette décorée en or</td><td>700</td></tr><tr><td>89-93</td><td>statuette de divinité en or et en platine</td><td>750</td></tr><tr><td>94-96</td><td>chaudron en or avec des symboles alchimiques</td><td>750</td></tr><tr><td>97-100</td><td>peinture de reine</td><td>750</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <tr><td>42</td><td>hochet de bébé en or et en mithral</td><td>500</td></tr>
+  <tr><td>43-48</td><td>échiquier en or</td><td>500</td></tr>
+  <tr><td>49-51</td><td>flasque en or avec des symboles religieux</td><td>500</td></tr>
+  <tr><td>52-56</td><td>boîte à puzzle en or</td><td>500</td></tr>
+  <tr><td>57-65</td><td>symbole sacré en platine</td><td>500</td></tr>
+  <tr><td>66-69</td><td>coupe en or frappé du blason royal</td><td>550</td></tr>
+  <tr><td>70-77</td><td>calice en or gravé de griffons</td><td>600</td></tr>
+  <tr><td>78-81</td><td>sceptre en mithral avec des incrustations d’or</td><td>600</td></tr>
+  <tr><td>82-88</td><td>assiette décorée en or</td><td>700</td></tr>
+  <tr><td>89-93</td><td>statuette de divinité en or et en platine</td><td>750</td></tr>
+  <tr><td>94-96</td><td>chaudron en or avec des symboles alchimiques</td><td>750</td></tr>
+  <tr><td>97-100</td><td>peinture de reine</td><td>750</td></tr>
+</table>
 
 
 

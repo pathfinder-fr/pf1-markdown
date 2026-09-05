@@ -16,7 +16,140 @@ En gagnant de l’expérience, un [[roublard]] acquiert divers talents qui l’a
 Les talents marqués d’un astérisque ajoutent un effet aux [[attaque sournoise|attaques sournoises]] du roublard. Le roublard ne peut appliquer que l’un de ces effets à chaque attaque, et son choix doit être fait avant le jet d’attaque.
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="100%"><caption>Talents de roublard</caption><tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents</td></tr><tr CLASS="premier"><td>[[Talents#ACROBATEINEGALABLE|Acrobate inégalable]]</td><td>[[Talents#BRASSEVIGOUREUSE|Brasse vigoureuse]]</td><td>[[Talents#DEGUISEMENTRAPIDE|Déguisement rapide]]</td><td>[[Talents#FAIRELEMUR|Faire le mur]]</td><td>[[Talents#MAINTENANTQUEJYREPENSE|Maintenant que j’y repense]]</td><td>[[Talents#RESILIENCE|Résilience]]</td></tr><tr><td>[[Talents#APPROPRIATIONDHISTOIRE|Appropriation d'histoire]]</td><td>[[Talents#BROUILLERLESPISTES|Brouiller les pistes]]</td><td>[[Talents#DENICHEURDEPIEGES|Dénicheur de pièges]]</td><td>[[Talents#FAUXAMI|Faux ami]]</td><td>[[Talents#MAITREDESCORDES|Maître des cordes]]</td><td>[[Talents#RETENIRSONSOUFFLE|Retenir son souffle]]</td></tr><tr><td>[[Talents#ASTUCEDENINJA|Astuce de ninja]]</td><td>[[Talents#CAMOUFLAGE|Camouflage]]</td><td>[[Talents#DESAMORCAGERAPIDE|Désamorçage rapide]]</td><td>[[Talents#FINOBSERVATEUR|Fin observateur]]</td><td>[[Talents#MAITRISEDUTERRAIN|Maîtrise du terrain]]</td><td>[[Talents#ROUBLARDENFINESSE|Roublard en finesse]]</td></tr><tr><td>[[Talents#ATTAQUEDISTRAYANTE|Attaque distrayante]]*</td><td>[[Talents#CHARMEUR|Charmeur]]</td><td>[[Talents#DIFFICILEABERNER|Difficile à berner]]</td><td>[[Talents#FORMATIONMARTIALE|Formation martiale]]</td><td>[[Talents#MENSONGECONVAINCANT|Mensonge convaincant]]</td><td>[[Talents#SAUTDELEXPERT|Saut de l’expert]]</td></tr><tr><td>[[Talents#ATTAQUEETCHANGEMENTDEPOSITION|Attaque et changement de position]]</td><td>[[Talents#CONNAISSANCESESOTERIQUES|Connaissances ésotériques]]</td><td>[[Talents#DISCRETETRAPIDE|Discret et rapide]]</td><td>[[Talents#FORTEIMPRESSION|Forte impression]]</td><td>[[Talents#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]</td><td>[[Talents#SOURNOIS|Sournois]]*</td></tr><tr><td>[[Talents#ATTAQUESANGLANTE|Attaque sanglante]]*</td><td>[[Talents#CONTACTSAUMARCHENOIR|Contacts au marché noir]]</td><td>[[Talents#DOIGTSRAPIDES|Doigts rapides]]</td><td>[[Talents#FUITERAPIDE|Fuite rapide]]</td><td>[[Talents#OEILDELARCHER|Oeil de l’archer]]</td><td>[[Talents#SPECIALISTEDELAFUITE|Spécialiste de la fuite]]</td></tr><tr><td>[[Talents#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*</td><td>[[Talents#COUPBOULEVERSANT|Coup bouleversant]]*</td><td>[[Talents#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]]</td><td>[[Talents#GRIMPEURAGILE|Grimpeur agile]]</td><td>[[Talents#ORGANISERLATTAQUE|Organiser l’attaque]]</td><td>[[Talents#SUIVRELESINDICES|Suivre les indices]]</td></tr><tr><td>[[Talents#ATTAQUESURPRISE|Attaque surprise]]</td><td>[[Talents#CROCHETAGERAPIDE|Crochetage rapide]]</td><td>[[Talents#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]</td><td>[[Talents#INSTALLATIONDEPIEGESRAPIDE|Installation de pièges rapide]]</td><td>[[Talents#POISONPERSISTANT|Poison persistant]]</td><td>[[Talents#SUBTILISATIONAUCOMBAT|Subtilisation au combat]]</td></tr><tr><td>[[Talents#AUDACE|Audace]]</td><td>[[Talents#DECLENCHEMENTEXTRAORDINAIRE|Déclenchement extraordinaire]]</td><td>[[Talents#EQUILIBRISTE|Équilibriste]]</td><td>[[Talents#MAGIEMAJEURE|Magie majeure]]</td><td>[[Talents#POLYGLOTTEDOUE|Polyglotte doué]]</td><td>[[Talents#TIRSOUDAIN|Tir soudain]]</td></tr><tr><td>[[Talents#BEAUPARLEUR|Beau parleur]]</td><td>[[Talents#DEFENSEOFFENSIVE|Défense offensive]]*</td><td>[[Talents#EXPERTENSURVIE|Expert en survie]]</td><td>[[Talents#MAGIEMINEURE|Magie mineure]]</td><td>[[Talents#REACTIONSLENTES|Réactions lentes]]*</td><td>[[Talents#TRIPESDACIER|Tripes d’acier]]</td></tr><tr><td>[[Talents#BOTTESECRETE|Botte secrète]]</td><td>[[Talents#DEBOUT|Debout]]</td><td>[[Talents#EXTRAIREDESINFORMATIONS|Extraire des informations]]</td><td>[[Talents#MAINAGILE|Main agile]]</td><td>[[Talents#RESERVEDEKI|Réserve de ki]]</td><td>&emsp;</td></tr><tr CLASS="titre"><td>&emsp;</td></tr><tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents de maître</td></tr><tr CLASS="premier"><td>[[Talents#ACROBATIESRAPIDES|Acrobaties rapides]]</td><td>[[Talents#ATTAQUEREDIRIGÉE|Attaque redirigée]]</td><td>[[Talents#COUPASSOMMANT|Coup assommant]]</td><td>[[Talents#FABRICANTDEPIEGESECONOME|Fabricant de pièges économe]]</td><td>[[Talents#MAITREDUDEGUISEMENT|Maître du déguisement]]</td><td>[[Talents#SURPRISEDUCHASSEUR|Surprise du chasseur]]</td></tr><tr><td>[[Talents#ALLIEINVOLONTAIRE|Allié involontaire]]</td><td>[[Talents#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]*</td><td>[[Talents#DIFFICILEAENVOUTER|Difficile à envoûter]]</td><td>[[Talents#FAMILIER|Familier]]</td><td>[[Talents#MAITRISECOMPETENCES|Maîtrise des compétences]]</td><td>[[Talents#TIREURDISCRET|Tireur discret]]</td></tr><tr><td>[[Talents#ASTUCEDEMAITRENINJA|Astuce de maître ninja]]</td><td>[[Talents#CACHEENPLEINELUMIERE|Caché en pleine lumière]]</td><td>[[Talents#DONROUBLARD|Don]]</td><td>[[Talents#LAMESDECONFUSION|Lames de confusion]]*</td><td>[[Talents#OPPORTUNISME|Opportunisme]]</td><td>[[Talents#UNJOURDEPLUS|Un jour de plus]]</td></tr><tr><td>[[Talents#ATTAQUEHANDICAPANTE|Attaque handicapante]]*</td><td>[[Talents#COCKTAILMORTEL|Cocktail mortel]]</td><td>[[Talents#ESPRITFUYANT|Esprit fuyant]]</td><td>[[Talents#LAMESENTREMELEES|Lames entremêlées]]*</td><td>[[Talents#ROULEBOULE|Roulé-boulé]]</td><td>&emsp;</td></tr><tr><td>[[Talents#ATTAQUEDISSIPANTE|Attaque dissipante]]*</td><td>[[Talents#COLPORTEURDERUMEURS|Colporteur de rumeurs]]</td><td>[[Talents#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]]</td><td>[[Talents#MAITREDELAFUITE|Maître de la fuite]]</td><td>[[Talents#SUBTILISATIONDARME|Subtilisation d’arme]]</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="100%">
+  <caption>Talents de roublard</caption>
+  <tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents</td></tr>
+  <tr CLASS="premier">
+    <td>[[Talents#ACROBATEINEGALABLE|Acrobate inégalable]]</td>
+    <td>[[Talents#BRASSEVIGOUREUSE|Brasse vigoureuse]]</td>
+    <td>[[Talents#DEGUISEMENTRAPIDE|Déguisement rapide]]</td>
+    <td>[[Talents#FAIRELEMUR|Faire le mur]]</td>
+    <td>[[Talents#MAINTENANTQUEJYREPENSE|Maintenant que j’y repense]]</td>
+    <td>[[Talents#RESILIENCE|Résilience]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#APPROPRIATIONDHISTOIRE|Appropriation d'histoire]]</td>
+    <td>[[Talents#BROUILLERLESPISTES|Brouiller les pistes]]</td>
+    <td>[[Talents#DENICHEURDEPIEGES|Dénicheur de pièges]]</td>
+    <td>[[Talents#FAUXAMI|Faux ami]]</td>
+    <td>[[Talents#MAITREDESCORDES|Maître des cordes]]</td>
+    <td>[[Talents#RETENIRSONSOUFFLE|Retenir son souffle]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ASTUCEDENINJA|Astuce de ninja]]</td>
+    <td>[[Talents#CAMOUFLAGE|Camouflage]]</td>
+    <td>[[Talents#DESAMORCAGERAPIDE|Désamorçage rapide]]</td>
+    <td>[[Talents#FINOBSERVATEUR|Fin observateur]]</td>
+    <td>[[Talents#MAITRISEDUTERRAIN|Maîtrise du terrain]]</td>
+    <td>[[Talents#ROUBLARDENFINESSE|Roublard en finesse]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUEDISTRAYANTE|Attaque distrayante]]*</td>
+    <td>[[Talents#CHARMEUR|Charmeur]]</td>
+    <td>[[Talents#DIFFICILEABERNER|Difficile à berner]]</td>
+    <td>[[Talents#FORMATIONMARTIALE|Formation martiale]]</td>
+    <td>[[Talents#MENSONGECONVAINCANT|Mensonge convaincant]]</td>
+    <td>[[Talents#SAUTDELEXPERT|Saut de l’expert]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUEETCHANGEMENTDEPOSITION|Attaque et changement de position]]</td>
+    <td>[[Talents#CONNAISSANCESESOTERIQUES|Connaissances ésotériques]]</td>
+    <td>[[Talents#DISCRETETRAPIDE|Discret et rapide]]</td>
+    <td>[[Talents#FORTEIMPRESSION|Forte impression]]</td>
+    <td>[[Talents#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]</td>
+    <td>[[Talents#SOURNOIS|Sournois]]*</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUESANGLANTE|Attaque sanglante]]*</td>
+    <td>[[Talents#CONTACTSAUMARCHENOIR|Contacts au marché noir]]</td>
+    <td>[[Talents#DOIGTSRAPIDES|Doigts rapides]]</td>
+    <td>[[Talents#FUITERAPIDE|Fuite rapide]]</td>
+    <td>[[Talents#OEILDELARCHER|Oeil de l’archer]]</td>
+    <td>[[Talents#SPECIALISTEDELAFUITE|Spécialiste de la fuite]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*</td>
+    <td>[[Talents#COUPBOULEVERSANT|Coup bouleversant]]*</td>
+    <td>[[Talents#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]]</td>
+    <td>[[Talents#GRIMPEURAGILE|Grimpeur agile]]</td>
+    <td>[[Talents#ORGANISERLATTAQUE|Organiser l’attaque]]</td>
+    <td>[[Talents#SUIVRELESINDICES|Suivre les indices]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUESURPRISE|Attaque surprise]]</td>
+    <td>[[Talents#CROCHETAGERAPIDE|Crochetage rapide]]</td>
+    <td>[[Talents#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]</td>
+    <td>[[Talents#INSTALLATIONDEPIEGESRAPIDE|Installation de pièges rapide]]</td>
+    <td>[[Talents#POISONPERSISTANT|Poison persistant]]</td>
+    <td>[[Talents#SUBTILISATIONAUCOMBAT|Subtilisation au combat]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#AUDACE|Audace]]</td>
+    <td>[[Talents#DECLENCHEMENTEXTRAORDINAIRE|Déclenchement extraordinaire]]</td>
+    <td>[[Talents#EQUILIBRISTE|Équilibriste]]</td>
+    <td>[[Talents#MAGIEMAJEURE|Magie majeure]]</td>
+    <td>[[Talents#POLYGLOTTEDOUE|Polyglotte doué]]</td>
+    <td>[[Talents#TIRSOUDAIN|Tir soudain]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#BEAUPARLEUR|Beau parleur]]</td>
+    <td>[[Talents#DEFENSEOFFENSIVE|Défense offensive]]*</td>
+    <td>[[Talents#EXPERTENSURVIE|Expert en survie]]</td>
+    <td>[[Talents#MAGIEMINEURE|Magie mineure]]</td>
+    <td>[[Talents#REACTIONSLENTES|Réactions lentes]]*</td>
+    <td>[[Talents#TRIPESDACIER|Tripes d’acier]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#BOTTESECRETE|Botte secrète]]</td>
+    <td>[[Talents#DEBOUT|Debout]]</td>
+    <td>[[Talents#EXTRAIREDESINFORMATIONS|Extraire des informations]]</td>
+    <td>[[Talents#MAINAGILE|Main agile]]</td>
+    <td>[[Talents#RESERVEDEKI|Réserve de ki]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="titre"><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents de maître</td></tr>
+  <tr CLASS="premier">
+    <td>[[Talents#ACROBATIESRAPIDES|Acrobaties rapides]]</td>
+    <td>[[Talents#ATTAQUEREDIRIGÉE|Attaque redirigée]]</td>
+    <td>[[Talents#COUPASSOMMANT|Coup assommant]]</td>
+    <td>[[Talents#FABRICANTDEPIEGESECONOME|Fabricant de pièges économe]]</td>
+    <td>[[Talents#MAITREDUDEGUISEMENT|Maître du déguisement]]</td>
+    <td>[[Talents#SURPRISEDUCHASSEUR|Surprise du chasseur]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ALLIEINVOLONTAIRE|Allié involontaire]]</td>
+    <td>[[Talents#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]*</td>
+    <td>[[Talents#DIFFICILEAENVOUTER|Difficile à envoûter]]</td>
+    <td>[[Talents#FAMILIER|Familier]]</td>
+    <td>[[Talents#MAITRISECOMPETENCES|Maîtrise des compétences]]</td>
+    <td>[[Talents#TIREURDISCRET|Tireur discret]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ASTUCEDEMAITRENINJA|Astuce de maître ninja]]</td>
+    <td>[[Talents#CACHEENPLEINELUMIERE|Caché en pleine lumière]]</td>
+    <td>[[Talents#DONROUBLARD|Don]]</td>
+    <td>[[Talents#LAMESDECONFUSION|Lames de confusion]]*</td>
+    <td>[[Talents#OPPORTUNISME|Opportunisme]]</td>
+    <td>[[Talents#UNJOURDEPLUS|Un jour de plus]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUEHANDICAPANTE|Attaque handicapante]]*</td>
+    <td>[[Talents#COCKTAILMORTEL|Cocktail mortel]]</td>
+    <td>[[Talents#ESPRITFUYANT|Esprit fuyant]]</td>
+    <td>[[Talents#LAMESENTREMELEES|Lames entremêlées]]*</td>
+    <td>[[Talents#ROULEBOULE|Roulé-boulé]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Talents#ATTAQUEDISSIPANTE|Attaque dissipante]]*</td>
+    <td>[[Talents#COLPORTEURDERUMEURS|Colporteur de rumeurs]]</td>
+    <td>[[Talents#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]]</td>
+    <td>[[Talents#MAITREDELAFUITE|Maître de la fuite]]</td>
+    <td>[[Talents#SUBTILISATIONDARME|Subtilisation d’arme]]</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Description des talents de roublard

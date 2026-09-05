@@ -18,8 +18,214 @@ Le [[DD]] des [[jet de sauvegarde|jets de sauvegarde]] lié à une découverte e
 Au niveau 20, l’alchimiste fait une [[découvertes#GRANDEDECOUVERTE|grande découverte]]. Il apprend immédiatement deux découvertes normales ainsi qu’une troisième issue de la liste des [[découvertes#GRANDEDECOUVERTE|grandes découvertes]], qui représente un véritable bond en avant dans le domaine des connaissances alchimiques. La promesse de l’une de ces [[découvertes#GRANDEDECOUVERTE|grandes découvertes]] est le but premier de toutes les expériences et de tout le travail de bon nombre d’[[Alchimiste|alchimistes]].
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="94%"><caption>Découvertes d’alchimiste</caption><tr CLASS="titre"><td>Niveau  
-minimal</td><td COLSPAN="4">Découvertes</td></tr><tr CLASS="premier"><td>**1**</td><td>[[Découvertes#BOMBEACIDE|Bombe acide]]*</td><td>[[Découvertes#BOMBEFUMIGENE|Bombe fumigène]]*</td><td>[[Découvertes#COGNATOGENEDINSPIRATION|Cognatogène d'inspiration]]</td><td>[[Découvertes#MUTAGENEIMPREGNE|Mutagène imprégné]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEAECLATSDEVERRE|Bombe à éclats de verre]]*</td><td>[[Découvertes#GOMBEGUERISSEUSE|Bombe guérisseuse]]*</td><td>[[Découvertes#FAMILIERTUMEUR|Familier tumeur]]</td><td>[[Découvertes#MUTAGENESAUVAGE|Mutagène sauvage]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEAFRAGMENTATION|Bombe à fragmentation]]*</td><td>[[Découvertes#BOMBEIMMOBILISANTE|Bombe immobilisante]]*</td><td>[[Découvertes#GUERISONSPONTANEE|Guérison spontanée]]</td><td>[[Découvertes#POTIONAMELIOREE|Potion améliorée]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDEFOUDRE|Bombe de foudre]]*</td><td>[[Découvertes#BOMBEINSPIREE|Bombe inspirée]]*</td><td>[[Découvertes#INFUSION|Infusion]]</td><td>[[Découvertes#POTIONPROLONGEE|Potion prolongée]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDEGIVRE|Bombe de givre]]*</td><td>[[Découvertes#BOMBEMITRAILLEUSE|Bombe mitrailleuse]]</td><td>[[Découvertes#JUMEAUPARASITE|Jumeau parasite]]</td><td>[[Découvertes#POISONCONCENTRE|Poison concentré]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDEPRECISION|Bombe de précision]]</td><td>[[Découvertes#BOMBEPRESTIFEREE|Bombe pestiférée]]*</td><td>[[Découvertes#MARQUEDEFEU|Marque de feu]]</td><td>[[Découvertes#PRESERVATIONDESORGANES|Préservation des organes]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDETENEBRES|Bombe de ténèbres]]</td><td>[[Découvertes#BOMBEPUANTE|Bombe puante]]</td><td>[[Découvertes#MEMOIRECOLLECTIVE|Mémoire collective]]</td><td>[[Découvertes#SOLUTIONDESABLEPIERRE|Solution de sablepierre]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDEFOLIANTE|Bombe défoliante]]</td><td>[[Découvertes#BRASVESTIGIAL|Bras vestigial]]</td><td>[[Découvertes#MUTAGENE|Mutagène]]</td><td>[[Découvertes#TENTACULE|Tentacule]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEECTOPLASMIQUE|Bombe ectoplasmique]]</td><td>[[Découvertes#CAMELEON|Caméléon]]</td><td>[[Découvertes#MUTAGENEDEPOUPEEDECHIFFON|Mutagène de poupée de chiffon]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEEXPLOSIVE|Bombe explosive]]*</td><td>[[Découvertes#COGNATOGENE|Cognatogène]]</td><td>[[Découvertes#MUTAGENEELEMENTAIRE|Mutagène élémentaire]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**3**</td><td>[[Découvertes#BOMBEDIMMOLATION|Bombe d'immolation]]*</td><td>&emsp;</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**4**</td><td>[[Découvertes#BAPTEMEADISTANCE|Baptême à distance]]</td><td>[[Découvertes#PROJECTILEEXPLOSIF|Projectile explosif]]</td><td>[[Découvertes#SOLUTIONPSYCHOKINETIQUE|Solution psychokinétique]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Découvertes#COMPREHENSIONINTUITIVE|Compréhension intuitive]]</td><td>[[Découvertes#RETARDERLEDEPART|Retarder le départ]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**6**</td><td>[[Découvertes#AILES|Ailes]]</td><td>[[Découvertes#BOMBEDELETOILENOIRE|Bombe de l'étoile noire]]*</td><td>[[Découvertes#CONTACTGUERISSEUR|Contact guérisseur]]</td><td>[[Découvertes#DISCIPLEINVENTIF|Disciple inventif]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEASSOURDISSANTE|Bombe assourdissante]]*</td><td>[[Découvertes#BOMBEFUSEE|Bombe fusée]]</td><td>[[Découvertes#POISONCOLLANT|Poison collant]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDEDISSIPATION|Bombe de dissipation]]</td><td>[[Découvertes#BOMBEDESOUFFLE|Bombe de souffle]]*</td><td>[[Découvertes#TRANSFORMATIONDEPOISON|Transformation de poison]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDUNEANT|Bombe du néant]]*</td><td>[[Découvertes#BOMBEPSYCHOACTIVE|Bombe psychoactive]]*</td><td>[[Découvertes#VASEENBOUTEILLE|Vase en bouteille]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**8**</td><td>[[Découvertes#BOMBEAVEUGLANTE|Bombe aveuglante]]*</td><td>[[Découvertes#BOMBEAECLATSDOS|Bombe à éclats d'os]]</td><td>[[Découvertes#EXCRETIONSMORTELLES|Excrétions mortelles]]</td><td>[[Découvertes#SIMULACREALCHIMIQUE|Simulacre alchimique]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEARETARDEMENT|Bombe à retardement]]</td><td>[[Découvertes#BOMBESRAPIDES|Bombes rapides]]</td><td>[[Découvertes#INFUSIONSOUILLEE|Infusion souillée]]</td><td>[[Découvertes#ZOMBIALCHIMIQUE|Zombi alchimique]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDECONFUSION|Bombe de confusion]]*</td><td>[[Découvertes#CHARGEDEDEMOLITION|Charge de démolition]]</td><td>[[Découvertes#MEMBRESPECTRAL|Membre spectral]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDEFORCE|Bombe de force]]*</td><td>[[Découvertes#COMBINAISONDEXTRAITS|Combinaison d’extraits]]</td><td>[[Découvertes#POISONCELESTE|Poison céleste]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**10**</td><td>[[Découvertes#BOMBECOLLANTE|Bombe collante]]</td><td>[[Découvertes#POISONMALIN|Poison malin]]</td><td>[[Découvertes#SIMULACREDEDOPPELGANGER|Simulacre de doppelganger]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Découvertes#MOMIFICATION|Momification]]</td><td>[[Découvertes#QUASITENBOUTEILLE|Quasit en bouteille]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**12**</td><td>[[Découvertes#BOMBEDEDEMENCE|Bombe de démence]]</td><td>[[Découvertes#BOMBEMAUDITE|Bombe maudite]]*</td><td>[[Découvertes#CHAIRECOEURANTE|Chair écoeurante]]</td><td>[[Découvertes#DILUTION|Dilution]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEDESIEGE|Bombe de siège]]*</td><td>[[Découvertes#BOMBESOLEIL|Bombe soleil]]*</td><td>[[Découvertes#COGNATOGENEDINSPIRATIONSUPERIEUR|Cognatogène d'inspiration supérieur]]</td><td>[[Découvertes#MUTAGENESUPERIEUR|Mutagène supérieur]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEEMPOISONNEE|Bombe empoisonnée]]*</td><td>[[Découvertes#CHANGEMENTDALIGNEMENT|Changement d'alignement]]</td><td>[[Découvertes#COGNATOGENESUPERIEUR|Cognatogène supérieur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**14**</td><td>[[Découvertes#SIMULACREALCHIMIQUESUPERIEUR|Simulacre alchimique supérieur]]</td><td>[[Découvertes#VECTEURDELAPESTE|Vecteur de la peste]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**16**</td><td>[[Découvertes#BOMBEINCENDIAIRE|Bombe incendiaire]]*</td><td>[[Découvertes#ELIXIRDEVIE|Élixir de vie]]</td><td>[[Découvertes#GRANDCOGNATOGENEDINSPIRATION|Grand cognatogène d'inspiration]]</td><td>[[Découvertes#POTIONETERNELLE|Potion éternelle]]</td></tr><tr><td>&emsp;</td><td>[[Découvertes#BOMBEPESTIFEREESUPERIEURE|Bombe pestiférée supérieure]]*</td><td>[[Découvertes#GRANDCOGNATOGENE|Grand cognatogène]]</td><td>[[Découvertes#GRANDMUTAGENE|Grand mutagène]]</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="94%">
+  <caption>Découvertes d’alchimiste</caption>
+  <tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="4">Découvertes</td></tr>
+  <tr CLASS="premier">
+    <td>**1**</td>
+    <td>[[Découvertes#BOMBEACIDE|Bombe acide]]*</td>
+    <td>[[Découvertes#BOMBEFUMIGENE|Bombe fumigène]]*</td>
+    <td>[[Découvertes#COGNATOGENEDINSPIRATION|Cognatogène d'inspiration]]</td>
+    <td>[[Découvertes#MUTAGENEIMPREGNE|Mutagène imprégné]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEAECLATSDEVERRE|Bombe à éclats de verre]]*</td>
+    <td>[[Découvertes#GOMBEGUERISSEUSE|Bombe guérisseuse]]*</td>
+    <td>[[Découvertes#FAMILIERTUMEUR|Familier tumeur]]</td>
+    <td>[[Découvertes#MUTAGENESAUVAGE|Mutagène sauvage]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEAFRAGMENTATION|Bombe à fragmentation]]*</td>
+    <td>[[Découvertes#BOMBEIMMOBILISANTE|Bombe immobilisante]]*</td>
+    <td>[[Découvertes#GUERISONSPONTANEE|Guérison spontanée]]</td>
+    <td>[[Découvertes#POTIONAMELIOREE|Potion améliorée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDEFOUDRE|Bombe de foudre]]*</td>
+    <td>[[Découvertes#BOMBEINSPIREE|Bombe inspirée]]*</td>
+    <td>[[Découvertes#INFUSION|Infusion]]</td>
+    <td>[[Découvertes#POTIONPROLONGEE|Potion prolongée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDEGIVRE|Bombe de givre]]*</td>
+    <td>[[Découvertes#BOMBEMITRAILLEUSE|Bombe mitrailleuse]]</td>
+    <td>[[Découvertes#JUMEAUPARASITE|Jumeau parasite]]</td>
+    <td>[[Découvertes#POISONCONCENTRE|Poison concentré]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDEPRECISION|Bombe de précision]]</td>
+    <td>[[Découvertes#BOMBEPRESTIFEREE|Bombe pestiférée]]*</td>
+    <td>[[Découvertes#MARQUEDEFEU|Marque de feu]]</td>
+    <td>[[Découvertes#PRESERVATIONDESORGANES|Préservation des organes]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDETENEBRES|Bombe de ténèbres]]</td>
+    <td>[[Découvertes#BOMBEPUANTE|Bombe puante]]</td>
+    <td>[[Découvertes#MEMOIRECOLLECTIVE|Mémoire collective]]</td>
+    <td>[[Découvertes#SOLUTIONDESABLEPIERRE|Solution de sablepierre]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDEFOLIANTE|Bombe défoliante]]</td>
+    <td>[[Découvertes#BRASVESTIGIAL|Bras vestigial]]</td>
+    <td>[[Découvertes#MUTAGENE|Mutagène]]</td>
+    <td>[[Découvertes#TENTACULE|Tentacule]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEECTOPLASMIQUE|Bombe ectoplasmique]]</td>
+    <td>[[Découvertes#CAMELEON|Caméléon]]</td>
+    <td>[[Découvertes#MUTAGENEDEPOUPEEDECHIFFON|Mutagène de poupée de chiffon]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEEXPLOSIVE|Bombe explosive]]*</td>
+    <td>[[Découvertes#COGNATOGENE|Cognatogène]]</td>
+    <td>[[Découvertes#MUTAGENEELEMENTAIRE|Mutagène élémentaire]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**3**</td>
+    <td>[[Découvertes#BOMBEDIMMOLATION|Bombe d'immolation]]*</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**4**</td>
+    <td>[[Découvertes#BAPTEMEADISTANCE|Baptême à distance]]</td>
+    <td>[[Découvertes#PROJECTILEEXPLOSIF|Projectile explosif]]</td>
+    <td>[[Découvertes#SOLUTIONPSYCHOKINETIQUE|Solution psychokinétique]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#COMPREHENSIONINTUITIVE|Compréhension intuitive]]</td>
+    <td>[[Découvertes#RETARDERLEDEPART|Retarder le départ]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**6**</td>
+    <td>[[Découvertes#AILES|Ailes]]</td>
+    <td>[[Découvertes#BOMBEDELETOILENOIRE|Bombe de l'étoile noire]]*</td>
+    <td>[[Découvertes#CONTACTGUERISSEUR|Contact guérisseur]]</td>
+    <td>[[Découvertes#DISCIPLEINVENTIF|Disciple inventif]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEASSOURDISSANTE|Bombe assourdissante]]*</td>
+    <td>[[Découvertes#BOMBEFUSEE|Bombe fusée]]</td>
+    <td>[[Découvertes#POISONCOLLANT|Poison collant]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDEDISSIPATION|Bombe de dissipation]]</td>
+    <td>[[Découvertes#BOMBEDESOUFFLE|Bombe de souffle]]*</td>
+    <td>[[Découvertes#TRANSFORMATIONDEPOISON|Transformation de poison]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDUNEANT|Bombe du néant]]*</td>
+    <td>[[Découvertes#BOMBEPSYCHOACTIVE|Bombe psychoactive]]*</td>
+    <td>[[Découvertes#VASEENBOUTEILLE|Vase en bouteille]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**8**</td>
+    <td>[[Découvertes#BOMBEAVEUGLANTE|Bombe aveuglante]]*</td>
+    <td>[[Découvertes#BOMBEAECLATSDOS|Bombe à éclats d'os]]</td>
+    <td>[[Découvertes#EXCRETIONSMORTELLES|Excrétions mortelles]]</td>
+    <td>[[Découvertes#SIMULACREALCHIMIQUE|Simulacre alchimique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEARETARDEMENT|Bombe à retardement]]</td>
+    <td>[[Découvertes#BOMBESRAPIDES|Bombes rapides]]</td>
+    <td>[[Découvertes#INFUSIONSOUILLEE|Infusion souillée]]</td>
+    <td>[[Découvertes#ZOMBIALCHIMIQUE|Zombi alchimique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDECONFUSION|Bombe de confusion]]*</td>
+    <td>[[Découvertes#CHARGEDEDEMOLITION|Charge de démolition]]</td>
+    <td>[[Découvertes#MEMBRESPECTRAL|Membre spectral]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDEFORCE|Bombe de force]]*</td>
+    <td>[[Découvertes#COMBINAISONDEXTRAITS|Combinaison d’extraits]]</td>
+    <td>[[Découvertes#POISONCELESTE|Poison céleste]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**10**</td>
+    <td>[[Découvertes#BOMBECOLLANTE|Bombe collante]]</td>
+    <td>[[Découvertes#POISONMALIN|Poison malin]]</td>
+    <td>[[Découvertes#SIMULACREDEDOPPELGANGER|Simulacre de doppelganger]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#MOMIFICATION|Momification]]</td>
+    <td>[[Découvertes#QUASITENBOUTEILLE|Quasit en bouteille]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**12**</td>
+    <td>[[Découvertes#BOMBEDEDEMENCE|Bombe de démence]]</td>
+    <td>[[Découvertes#BOMBEMAUDITE|Bombe maudite]]*</td>
+    <td>[[Découvertes#CHAIRECOEURANTE|Chair écoeurante]]</td>
+    <td>[[Découvertes#DILUTION|Dilution]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEDESIEGE|Bombe de siège]]*</td>
+    <td>[[Découvertes#BOMBESOLEIL|Bombe soleil]]*</td>
+    <td>[[Découvertes#COGNATOGENEDINSPIRATIONSUPERIEUR|Cognatogène d'inspiration supérieur]]</td>
+    <td>[[Découvertes#MUTAGENESUPERIEUR|Mutagène supérieur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEEMPOISONNEE|Bombe empoisonnée]]*</td>
+    <td>[[Découvertes#CHANGEMENTDALIGNEMENT|Changement d'alignement]]</td>
+    <td>[[Découvertes#COGNATOGENESUPERIEUR|Cognatogène supérieur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**14**</td>
+    <td>[[Découvertes#SIMULACREALCHIMIQUESUPERIEUR|Simulacre alchimique supérieur]]</td>
+    <td>[[Découvertes#VECTEURDELAPESTE|Vecteur de la peste]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**16**</td>
+    <td>[[Découvertes#BOMBEINCENDIAIRE|Bombe incendiaire]]*</td>
+    <td>[[Découvertes#ELIXIRDEVIE|Élixir de vie]]</td>
+    <td>[[Découvertes#GRANDCOGNATOGENEDINSPIRATION|Grand cognatogène d'inspiration]]</td>
+    <td>[[Découvertes#POTIONETERNELLE|Potion éternelle]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[Découvertes#BOMBEPESTIFEREESUPERIEURE|Bombe pestiférée supérieure]]*</td>
+    <td>[[Découvertes#GRANDCOGNATOGENE|Grand cognatogène]]</td>
+    <td>[[Découvertes#GRANDMUTAGENE|Grand mutagène]]</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Découvertes d'alchimiste

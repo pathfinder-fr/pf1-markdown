@@ -18,7 +18,302 @@ Categories:
 </div>*Beaucoup de pratiquants des arts profanes savent appeler des monstres issus des endroits les plus reculés des plans, mais aucun n’égale le conjurateur. Cet adepte de la magie profane forme un lien étroit avec un extérieur particulier, appelé un eidolon. Ce dernier gagne en puissance au fur et à mesure que le conjurateur améliore ses invocations. Au fil du temps, ils se lient et partagent un fragment d’âme. Mais cette puissance a un prix : les sorts et aptitudes de le conjurateur sont limités à cause du temps qu’il consacre à améliorer les pouvoirs de son eidolon et à explorer sa nature.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLECONJURATEUR}Le conjurateur</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] I, [[conjurateur#EIDOLON|eidolon]], [[conjurateur#LIENVITAL|lien vital]], [[conjurateur#TOURSDEMAGIE|tours de magie]],</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[conjurateur#SENSLIES|Sens liés]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] II</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[conjurateur#PROTECTIONDALLIE|Protection d'allié]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] III</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[conjurateur#APPELDUCREATEUR|Appel du créateur]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] IV</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">[[conjurateur#TRANSPOSITION|Transposition]]</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] V</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[conjurateur#ASPECT|Aspect]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] VI</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[conjurateur#PROTECTIONDALLIESUPERIEURE|Protection d'allié supérieure]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] VII</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">[[conjurateur#VIESLIEES|Vies liées]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] VIII</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[conjurateur#FUSIONDESFORMES|Fusion des formes]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] IX</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[conjurateur#ASPECTSUPERIEUR|Aspect supérieur]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[conjurateur#PORTAIL|Portail]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[conjurateur#EIDOLONJUMELE|Eidolon jumelé]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLECONJURATEUR}Le conjurateur</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] I, [[conjurateur#EIDOLON|eidolon]],
+      [[conjurateur#LIENVITAL|lien vital]], [[conjurateur#TOURSDEMAGIE|tours de magie]],
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[conjurateur#SENSLIES|Sens liés]]</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] II</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[conjurateur#PROTECTIONDALLIE|Protection d'allié]]</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] III</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[conjurateur#APPELDUCREATEUR|Appel du créateur]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] IV</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[conjurateur#TRANSPOSITION|Transposition]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] V</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[conjurateur#ASPECT|Aspect]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] VI</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[conjurateur#PROTECTIONDALLIESUPERIEURE|Protection d'allié supérieure]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] VII</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[conjurateur#VIESLIEES|Vies liées]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] VIII</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[conjurateur#FUSIONDESFORMES|Fusion des formes]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[conjurateur#CONVOCATIONDEMONSTRES|Convocation de monstres]] IX</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[conjurateur#ASPECTSUPERIEUR|Aspect supérieur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[conjurateur#PORTAIL|Portail]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[conjurateur#EIDOLONJUMELE|Eidolon jumelé]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 {s:ImageDroite|Illustrations/PNJ/Balazar.jpg|30%}
@@ -44,7 +339,31 @@ Le conjurateur est formé au maniement de toutes les [[arme courante|armes coura
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLESORTSCONNUSCONJURATEUR}Sorts de conjurateurs connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLESORTSCONNUSCONJURATEUR}Sorts de conjurateurs connus</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+</table>
 
 </div></div>
 #### Sorts

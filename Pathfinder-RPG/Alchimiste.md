@@ -16,7 +16,307 @@ Categories:
 </div>{s:APG}*Qu’il se terre dans un laboratoire souterrain secret ou qu’il mène gaiement ses expériences dans une école de magie respectable, on considère souvent l’alchimiste comme aussi instable, imprévisible et dangereux que les potions qu’il concocte. Certains créateurs d’objets alchimiques se contentent d’une vie sédentaire en tant que marchands d’allume-feu et de bâtons fumigènes, mais les véritables alchimistes répondent à un appel bien plus puissant. Au lieu de lancer des sorts comme les autres mages, l’alchimiste capture son propre potentiel magique dans les extraits et les liquides qu’il fabrique, les imprégnant de pouvoirs virulents qui lui permettent de devenir particulièrement efficace avec les poisons, les explosifs et toutes sortes de magies de métamorphose.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEALCHIMISTE}L'alchimiste</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">[[Alchimiste#EXTRAITS|Extraits]] par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Alchimiste#ALCHIMIE|Alchimie]], [[Alchimiste#BOMBES|bombes]] 1d6, [[Alchimiste#LANCERIMPROVISE|lancer improvisé]], [[Alchimiste#MUTAGENES|mutagène]], [[Alchimiste#PREPARATIONDEPOTIONS|préparation de potions]]</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|résistance au poison]] +2, [[Alchimiste#UTILISATIONDUPOISON|utilisation du poison]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Alchimiste#ALCHIMIERAPIDE|Alchimie rapide]], [[Alchimiste#BOMBES|bombes]] 2d6</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 3d6, [[Alchimiste#RESISTPOISON|résistance au poison]] +4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#EMPOISONNEMENTRAPIDE|poison rapide]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 4d6</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|résistance au poison]] +6</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 5d6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|immunité au poison]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 6d6</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 7d6</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#MUTAGENEPERSISTANT|mutagène persistant]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 8d6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 9d6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Alchimiste#ALCHIMIEINSTANTANEE|Alchimie instantanée]], [[Alchimiste#DECOUVERTES|découverte]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 10d6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Alchimiste#GRANDESDECOUVERTES|Grande découverte]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEALCHIMISTE}L'alchimiste</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">[[Alchimiste#EXTRAITS|Extraits]] par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Alchimiste#ALCHIMIE|Alchimie]], [[Alchimiste#BOMBES|bombes]] 1d6, [[Alchimiste#LANCERIMPROVISE|lancer
+      improvisé]], [[Alchimiste#MUTAGENES|mutagène]], [[Alchimiste#PREPARATIONDEPOTIONS|préparation de potions]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|résistance au poison]] +2,
+      [[Alchimiste#UTILISATIONDUPOISON|utilisation du poison]]
+    </td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Alchimiste#ALCHIMIERAPIDE|Alchimie rapide]], [[Alchimiste#BOMBES|bombes]] 2d6</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]]</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 3d6, [[Alchimiste#RESISTPOISON|résistance au poison]] +4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#EMPOISONNEMENTRAPIDE|poison rapide]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 4d6</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|résistance au poison]] +6</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 5d6</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#RESISTPOISON|immunité au poison]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 6d6</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 7d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]], [[Alchimiste#MUTAGENEPERSISTANT|mutagène persistant]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 8d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Alchimiste#DECOUVERTES|Découverte]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 9d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Alchimiste#ALCHIMIEINSTANTANEE|Alchimie instantanée]], [[Alchimiste#DECOUVERTES|découverte]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Alchimiste#BOMBES|Bombes]] 10d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Alchimiste#GRANDESDECOUVERTES|Grande découverte]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 **Rôle.** L’exubérance (ou, d’après certains, la dangereuse témérité) de l’alchimiste n’adoucit en rien sa réputation de perfectionniste en matière de fabrication d’extraits et de potions magiques. Il les imprègne de la magie qu’il puise dans sa propre aura et utilise son corps comme sujet d’expérimentation. Et sa passion enjouée pour la création de bombes et la découverte de nouveaux poisons et méthodes d’application n’arrange rien. Si ces caractéristiques représentent un handicap et un risque pour la plupart des organisations civilisées et des institutions d’études supérieures, elles conviennent plutôt bien à la majorité des groupes d’aventuriers.

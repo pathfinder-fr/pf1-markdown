@@ -70,7 +70,20 @@ Les svirfneblins ont accès à ce don.
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Pose stoïque]]</td><td><sup>MR</sup></td><td>[[svirfneblin (race)|svirfneblin]]</td><td>Au bout de 5 rounds d'immobilité, le svirfneblin se fond dans le décor</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">&nbsp;</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pose stoïque]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[svirfneblin (race)|svirfneblin]]</td>
+    <td>Au bout de 5 rounds d'immobilité, le svirfneblin se fond dans le décor</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

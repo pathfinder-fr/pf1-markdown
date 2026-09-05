@@ -98,7 +98,36 @@ Il contient un [pendentif](https://img0.etsystatic.com/101/0/8286617/il_570xN.84
 En réalité la moisissure noire qui est présente afflige les PJ qui ne prendraient pas garde de la manière suivante :
 
 
-<table CLASS="tablo centre toutgauche cadre" size=80%><caption>1d6</caption><tr CLASS="cadre"><td>1</td><td>**Euphorie** : Le personnage est joyeux, serein et en grande confiance. (+1 charisme, -2 sagesse)</td></tr><tr><td>2</td><td>**Tristesse **: Le personnage est accablé, rien ne va aller correctement. (-1 charisme, -2sagesse)</td></tr><tr><td>3</td><td>**Peur **: Le personnage est angoissé, il a peur de quelque chose qui va arriver, il en est sûr ! (-5 effets de peur, -2 sagesse)</td></tr><tr><td>4</td><td>**Agressivité **: Le personnage s'emporte, il est désinhibé, violent. (+1 initiative et Force, -2 sagesse)</td></tr><tr><td>5</td><td>**Hallucinations **: Le personnage voit des choses étranges, ses compagnons avec des têtes d'animaux, des couleurs phantasmagoriques, des sphères lumineuses obsédantes (-5 contre les illusions, -2 sagesse)</td></tr><tr><td>6</td><td>**Sommeil **: Le personnage a une furieuse envie de dormir (état fatigue, -2 sagesse)</td></tr></table>
+<table CLASS="tablo centre toutgauche cadre" size=80%>
+  <caption>1d6</caption>
+  <tr CLASS="cadre">
+    <td>1</td>
+    <td>**Euphorie** : Le personnage est joyeux, serein et en grande confiance. (+1 charisme, -2 sagesse)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>**Tristesse **: Le personnage est accablé, rien ne va aller correctement. (-1 charisme, -2sagesse)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>
+      **Peur **: Le personnage est angoissé, il a peur de quelque chose qui va arriver, il en est sûr ! (-5 effets
+      de peur, -2 sagesse)
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>**Agressivité **: Le personnage s'emporte, il est désinhibé, violent. (+1 initiative et Force, -2 sagesse)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      **Hallucinations **: Le personnage voit des choses étranges, ses compagnons avec des têtes d'animaux, des
+      couleurs phantasmagoriques, des sphères lumineuses obsédantes (-5 contre les illusions, -2 sagesse)
+    </td>
+  </tr>
+  <tr><td>6</td><td>**Sommeil **: Le personnage a une furieuse envie de dormir (état fatigue, -2 sagesse)</td></tr>
+</table>
 
 
 

@@ -12,7 +12,94 @@ La voie du duelliste est une progression naturelle pour les [[roublard|roublards
 
 <center>
 
-<table CLASS="tablo"><caption>Le duelliste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[duelliste#DEFENSEASTUCIEUSE|Défense astucieuse]], [[duelliste#ATTAQUEPRECISE|attaque précise]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[duelliste#REACTIONACCRUE|Réaction accrue]] +2, [[duelliste#PARADE|parade]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[duelliste#GRANDESOUPLESSE|Grande souplesse]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[duelliste#ATTAQUEREFLEXE|Attaque réflexe]], [[duelliste#STYLE|style]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#RIPOSTE|Riposte]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#CHARGEACROBATIQUE|Charge acrobatique]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#PARADEELABOREE|Parade élaborée]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[duelliste#REACTIONACCRUE|Réaction accrue]] +4</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[duelliste#PARADEDEPROJECTILES|Parade de projectiles]], [[duelliste#PASDERETRAITE|pas de retraite]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[duelliste#MUTILATION|Mutilation]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le duelliste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[duelliste#DEFENSEASTUCIEUSE|Défense astucieuse]], [[duelliste#ATTAQUEPRECISE|attaque précise]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[duelliste#REACTIONACCRUE|Réaction accrue]] +2, [[duelliste#PARADE|parade]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[duelliste#GRANDESOUPLESSE|Grande souplesse]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[duelliste#ATTAQUEREFLEXE|Attaque réflexe]], [[duelliste#STYLE|style]]</td>
+  </tr>
+  <tr><td>5</td><td>+5</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#RIPOSTE|Riposte]]</td></tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[duelliste#CHARGEACROBATIQUE|Charge acrobatique]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[duelliste#PARADEELABOREE|Parade élaborée]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[duelliste#REACTIONACCRUE|Réaction accrue]] +4</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[duelliste#PARADEDEPROJECTILES|Parade de projectiles]], [[duelliste#PASDERETRAITE|pas de retraite]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[duelliste#MUTILATION|Mutilation]]</td>
+  </tr>
+</table>
 
 </center>
 

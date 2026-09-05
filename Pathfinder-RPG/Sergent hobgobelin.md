@@ -36,7 +36,20 @@ Categories:
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de Hobgobelin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr><tr><td>[[Yzobu]]</td><td>1</td></tr><tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr><tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr><tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr><tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr><tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr><tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr><tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr><tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de Hobgobelin</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr>
+  <tr><td>[[Yzobu]]</td><td>1</td></tr>
+  <tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr>
+  <tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr>
+  <tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr>
+  <tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr>
+  <tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr>
+  <tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr>
+  <tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr>
+  <tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr>
+</table>
 
 </div>Chaque sergent ou zélote des batailles possède une petite dose d’autorité qui lui permet de diriger une petite dizaine de combattants.
 

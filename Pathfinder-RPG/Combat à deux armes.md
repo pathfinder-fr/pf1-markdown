@@ -18,7 +18,18 @@ Categories:
 **Normal : **Si le personnage manie une arme dans sa main non-directrice, il peut porter une attaque avec elle. Quand il se bat ainsi, il subit un malus de -6 aux attaques habituelles ou aux attaques portées avec la main directrice et un malus de -10 aux attaques portées avec la main non-directrice. Si l’arme secondaire est une [[Caractéristiques des armes#ARMELEGERE|arme légère]], les malus sont réduits de 2 points. On considère toujours une attaque à mains nues comme une [[Caractéristiques des armes#ARMELEGERE|arme légère]].
 
 
-<table class="wikitable"><caption>Pénalités pour le combat à deux armes</caption><thead><tr><th>Circonstances</th><th>Main directrice</th><th>Main secondaire</th></tr></thead><tbody><tr><td>Pénalités normales</td><td>-6</td><td>-10</td></tr><tr><td>Arme secondaire légère</td><td>-4</td><td>-8</td></tr><tr><td>Don combat à deux armes</td><td>-4</td><td>-4</td></tr><tr><td>Arme secondaire légère & don combat à deux armes</td><td>-2</td><td>-2</td></tr></tbody></table>
+<table class="wikitable">
+  <caption>Pénalités pour le combat à deux armes</caption>
+  <thead>
+    <tr><th>Circonstances</th><th>Main directrice</th><th>Main secondaire</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Pénalités normales</td><td>-6</td><td>-10</td></tr>
+    <tr><td>Arme secondaire légère</td><td>-4</td><td>-8</td></tr>
+    <tr><td>Don combat à deux armes</td><td>-4</td><td>-4</td></tr>
+    <tr><td>Arme secondaire légère & don combat à deux armes</td><td>-2</td><td>-2</td></tr>
+  </tbody>
+</table>
 
 
 {s:PU}

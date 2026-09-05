@@ -6,7 +6,495 @@ LastModified: 2024-07-05 10:55
 
 <center>
 
-<table CLASS="tablo"><caption>Résumé des dons</caption><tr CLASS="titre"><td>DON</td><td>CONDITIONS</td><td>AVANTAGE</td></tr><tr CLASS="premier"><td>[[Aisance (Combat)|Aisance*]]</td><td>Dex 15</td><td>Ignorez 6 mètres de terrain difficile lors d’un déplacement</td></tr><tr CLASS="alt"><td>[[Arme de prédilection (Combat)|Arme de prédilection*]]</td><td>Formé au Maniement du type d’armes sélectionné</td><td>Bonus de+1 aux jets d’attaque avec le type d’armes sélectionné</td></tr><tr><td>[[Concentration polyvalente|Concentration polyvalente*]]</td><td>Arme de prédilection</td><td>Bonus de+1 aux jets d’attaque avec tous les types d’armes que vous savez manier</td></tr><tr CLASS="alt"><td>[[Arme en main (Combat)|Arme en main*]]</td><td>Bonus de base à l’attaque +1</td><td>Dégainez une arme par une action rapide</td></tr><tr><td>[[Assaut mystique (Combat)|Assaut mystique*]]</td><td>Aptitude d’incantation de sorts</td><td>Les attaques au corps à corps et à distance sont considérées comme magiques</td></tr><tr CLASS="alt"><td>[[Attaque perforante (Combat)|Attaque perforante*]]</td><td>Bonus de base à l’attaque +12</td><td>Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos armes</td></tr><tr><td>[[Barricade|Barricade*]]</td><td>1 rang en Ingénierie</td><td>Créez votre propre abri peu résistant</td></tr><tr CLASS="alt"><td>[[Beau parleur]]</td><td>5 rangs en Bluff</td><td>Déconcertez un adversaire potentiel pour le surprendre au début d’un combat</td></tr><tr><td>[[Combat à plusieurs armes|Combat à plusieurs armes*]]</td><td>-</td><td>Réduit le malus des attaques à outrance en combattant avec plusieurs armes légères ou de corps à corps d’agent</td></tr><tr CLASS="alt"><td>[[Combat adaptif|Combat adaptif*]]</td><td>Trois dons de combat ou plus</td><td>Bénéficiez des avantages d’un don de combat que vous ne possédez pas une fois par jour par une action de mouvement</td></tr><tr><td>[[Combat en aveugle|Combat en aveugle*]]</td><td>-</td><td>Relancez des attaques ratées dues au camouflage</td></tr><tr CLASS="alt"><td>[[Compétences synergiques]]</td><td>-</td><td>Ajout de deux nouvelles compétences de classe ou bonus d’intuition de +2 à ces compétences</td></tr><tr><td>[[Connexion limitée]]</td><td>Sag15, personnage de niveau 5, aucun niveau de mystique</td><td>Vous pouvez lancer des sorts de mystique mineurs</td></tr><tr CLASS="alt"><td>[[Contrarier]]</td><td>5 rangs en Diplomatie, 5 rangs en Intimidation</td><td>Énervez un ennemi, il devient imprécis et subit un malus de -2 aux tests de compétence pour 1 round ou plus</td></tr><tr><td>[[Déviation de projectiles|Déviation de projectiles*]]</td><td>Bonus de base à l’attaque+8</td><td>Dépensez 1 point de persévérance pour tenter d’éviter une attaque à distance</td></tr><tr CLASS="alt"><td>[[Renvoi de projectiles|Renvoi de projectiles*]]</td><td>Déviation de projectiles, bonus de base à l’attaque +16</td><td>Dépensez 1 point de persévérance pour tenter de rediriger une attaque à distance</td></tr><tr><td>[[Diversion]]</td><td>-</td><td>Utilisez le Bluff pour créer une diversion pour que vos alliés puissent se cacher</td></tr><tr CLASS="alt"><td>[[Dur à cuire]]</td><td>-</td><td>Dépensez des points de persévérance pour se stabiliser et pour continuer à combattre lors du même round</td></tr><tr><td>[[Dysfonctionnement amplifié|Dysfonctionnement amplifié*]]</td><td>3 rangs en Informatique, 3 rangs en Intimidation</td><td>Perturbez les appareils, rendant les cibles secouées pour 1 round ou plus</td></tr><tr CLASS="alt"><td>[[Efficacité des sorts accrue]]</td><td>-</td><td>Bonus de +2 aux tests de lanceur de sorts pour ignorer la RM</td></tr><tr><td>[[Efficacité des sorts accrue supérieure]]</td><td>Efficacité des sorts accrue</td><td>Bonus de +2 supplémentaire aux tests de lanceur de sorts pour ignorer la RM</td></tr><tr CLASS="alt"><td>[[Enchaînement (combat)|Enchaînement*]]</td><td>For 13, bonus de base à l’attaque +1</td><td>Effectuez une attaque au corps à corps supplémentaire si la première est réussie</td></tr><tr><td>[[Entraîner au sol (combat)|Entraîner au sol*]]</td><td>-</td><td>Quand vous tombez à cause d’un croc-en-jambe, vous pouvez tenter un croc-en-jambe contre un adversaire adjacent</td></tr><tr CLASS="alt"><td>[[Expert en escalade]]</td><td>5 rangs en Athlétisme</td><td>Obtention d’une vitesse d’escalade égale à votre vitesse de base</td></tr><tr><td>[[Expert en médecine]]</td><td>1 rang en Sciences de la vie, Médecine et Sciences physiques</td><td>Traitez plus rapidement les blessures mortelles et appliquez des soins prolongés sans laboratoire médical</td></tr><tr CLASS="alt"><td>[[Expert en natation]]</td><td>5 rangs en Athlétisme</td><td>Obtention d’une vitesse de nage égale à votre vitesse de base</td></tr><tr><td>[[Fente (combat)|Fente*]]</td><td>Bonus de base à l’attaque +6</td><td>Augmentez l’allonge des attaques au corps à corps de 1,50 mètre jusqu’à la fin de votre tour</td></tr><tr CLASS="alt"><td>[[Fonceur aérien]]</td><td>5 rangs en Pilotage</td><td>Augmente la vitesse des jetpacks, des véhicules et des vaisseaux spatiaux</td></tr><tr><td>[[Fusillade (combat)|Fusillade*]]</td><td>Bonus de base à l’attaque +1, 4 bras ou plus</td><td>Attaquez en mode automatique avec plusieurs armes légères</td></tr><tr CLASS="alt"><td>[[Immobilisation (combat)|Immobilisation*]]</td><td>-</td><td>Effectuez une attaque d’opportunité pour stopper un ennemi qui se déplace</td></tr><tr><td>[[Science de l’immobilisation (combat)|Science de l’immobilisation*]]</td><td>Immobilisation</td><td>Bonus de +4 aux attaques au corps à corps effectuées avec Immobilisation</td></tr><tr CLASS="alt"><td>[[Kip up (combat)|Kip up*]]</td><td>1 rang en Acrobaties</td><td>Remettez-vous debout par une action rapide</td></tr><tr><td>[[Magie de guerre (combat)|Magie de guerre*]]</td><td>Aptitude à lancer des sorts de niveau 2</td><td>Bonus de +2 à la CA et aux jets de sauvegarde contre les attaques d’opportunité lors de l’incantation de sorts</td></tr><tr CLASS="alt"><td>[[Magie renforcée]]</td><td>Aptitude d’incantation de sorts, personnage de niveau 3</td><td>Les DD des sorts que vous lancez sont augmentés</td></tr><tr><td>[[Maître artisan]]</td><td>5 rangs en Informatique, Ingénierie, Mysticisme, Profession, Sciences de la vie ou Sciences physiques</td><td>Durée de fabrication des objets réduite de moitié</td></tr><tr CLASS="alt"><td>[[Maniement des armes de corps à corps simples (combat)|Maniement des armes de corps à corps simples*]]</td><td>-</td><td>Aucun malus aux attaques avec des armes de corps à corps simples</td></tr><tr><td>[[Maniement des armes de corps à corps évoluées (combat)|Maniement des armes de corps à corps évoluées*]]</td><td>Maniement des armes de corps à corps simples</td><td>Aucun malus aux attaques avec des armes de corps à corps évoluées</td></tr><tr CLASS="alt"><td>[[Maniement d’une arme spéciale (combat)|Maniement d’une arme spéciale*]]</td><td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td><td>Aucun malus aux attaques avec une arme spéciale</td></tr><tr><td>[[Maniement des armes de précision (combat)|Maniement des armes de précision*]]</td><td>-</td><td>Aucun malus aux attaques avec des armes de précision</td></tr><tr CLASS="alt"><td>[[Maniement des armes légères (combat)|Maniement des armes légères*]]</td><td>-</td><td>Aucun malus aux attaques avec des armes légères</td></tr><tr><td>[[Maniement des armes longues (combat)|Maniement des armes longues*]]</td><td>Maniement des armes légères</td><td>Aucun malus aux attaques avec des armes longues</td></tr><tr CLASS="alt"><td>[[Maniement des armes lourdes (combat)|Maniement des armes lourdes*]]</td><td>For 13, Maniement des armes longues, Maniement des armes légères</td><td>Aucun malus aux attaques avec des armes lourdes</td></tr><tr><td>[[Maniement d’une arme spéciale (combat)|Maniement d’une arme spéciale*]]</td><td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td><td>Aucun malus aux attaques avec une arme spéciale</td></tr><tr CLASS="alt"><td>[[Maniement des grenades (combat)|Maniement des grenades*]]</td><td>-</td><td>Aucun malus aux attaques effectuées avec des grenades</td></tr><tr><td>[[Manœuvrabilité (combat)|Manœuvrabilité*)]]</td><td>Dex 13</td><td>Bonus de +4 à la CA contre les attaques d’opportunité provoquées par un déplacement</td></tr><tr CLASS="alt"><td>[[Attaque surprise (Combat)|Attaque surprise*]]</td><td>Dex 15, Manœuvrabilité, bonus de base à l’attaque +4</td><td>Déplacez-vous avant et après une attaque au corps à corps</td></tr><tr><td>[[Incantation agile]]</td><td>Valeur de caractéristique essentielle 15, Dex 15, Manœuvrabilité, niveau de lanceur de sorts 4</td><td>Lancez un sort en se déplaçant</td></tr><tr CLASS="alt"><td>[[Pas de côté (combat)|Pas de côté*]]</td><td>Dex 15, Manœuvrabilité ou feinte offensive</td><td>En réaction, effectuez un déplacement prudent quand un ennemi rate une attaque au corps à corps contre vous</td></tr><tr><td>[[Science du pas de côté (combat)|Science du pas de côté*]]</td><td>Dex 17, Manœuvrabilité ou aptitude de classe de feinte offensive, Pas de côté</td><td>Réduit les malus du pas de côté</td></tr><tr CLASS="alt"><td>[[Tir en mouvement (combat)|Tir en mouvement*]]</td><td>Dex 15, Manœuvrabilité, bonus de base à l’attaque +4</td><td>Effectuez une attaque à distance en se déplaçant</td></tr><tr><td>[[Tir de repli (combat)|Tir de repli*]]</td><td>Dex 15, Manœuvrabilité, Tir en mouvement, bonus de base à l’attaque +6</td><td>Effectuez une unique attaque à distance en se repliant</td></tr><tr CLASS="alt"><td>[[Menace voilée]]</td><td>Cha 15, 1 rang en Intimidation</td><td>L’adversaire intimidé ne devient pas hostile</td></tr><tr><td>[[Mise à mal des morts-vivants]]</td><td>Pouvoir de connexion de focalisation curative, mystique de niveau 1</td><td>Dépensez un emplacement de sort pour que la focalisation curative blesse également les morts-vivants</td></tr><tr CLASS="alt"><td>[[Persévérance renforcée]]</td><td>Personnage de niveau 5</td><td>Obtention de 2 points de persévérance supplémentaires</td></tr><tr><td>[[Plonger à l’abri (combat)|Plonger à l’abri*]]</td><td>Bonus de base au jet de sauvegarde de Réflexes +2</td><td>Jetez-vous à terre dans une case adjacente pour effectuer deux jets de Réflexes</td></tr><tr CLASS="alt"><td>[[Port des armures légères (combat)|Port des armures légères*]]</td><td>-</td><td>Aucun malus aux jets d’attaque en portant une armure légère</td></tr><tr><td>[[Port des armures lourdes (combat)|Port des armures lourdes*]]</td><td>For 13, Port des armures légères</td><td>Aucun malus aux jets d’attaque en portant une armure lourde</td></tr><tr CLASS="alt"><td>[[Port des armures assistées (combat)|Port des armures assistées*]]</td><td>For 13, Port des armures légères et lourdes, bonus de base à l’attaque +5</td><td>Aucun malus aux jets d’attaque en portant une armure assistée</td></tr><tr><td>[[Pouvoir psychique mineur]]</td><td>Cha 11</td><td>Lancez 3 fois par jour un sort de niveau 0 comme un pouvoir magique</td></tr><tr CLASS="alt"><td>[[Pouvoir psychique]]</td><td>Cha 13, Pouvoir psychique mineur, personnage de niveau 4</td><td>Lancez 1 fois par jour un sort de niveau 1 comme un pouvoir magique</td></tr><tr><td>[[Pouvoir psychique majeur]]</td><td>Cha 15, Pouvoir psychique mineur, Pouvoir psychique, personnage de niveau 7</td><td>Lancez 1 fois par jour un sort de niveau 2 comme un pouvoir magique</td></tr><tr CLASS="alt"><td>[[Première salve (combat)|Première salve*]]</td><td>-</td><td>Bonus de+2 à une attaque au corps à corps contre une cible que vous avez blessée avec une attaque à distance</td></tr><tr><td>[[Protection contre la magie]]</td><td>Aucune aptitude d’incantation de sorts ou d’utilisation de pouvoirs magiques</td><td>Bonus d’intuition de+2 aux jets de sauvegarde contre les sorts et les pouvoirs magiques</td></tr><tr CLASS="alt"><td>[[Protection rapprochée (combat)|Protection rapprochée*]]</td><td>-</td><td>En réaction, ajoutez un bonus de+2 à la CA d’un allié adjacent</td></tr><tr><td>[[Interception de coups (combat)|Interception de coups*]]</td><td>Protection rapprochée</td><td>Encaissez les dégâts d’une attaque réussie contre un allié adjacent à sa place.</td></tr><tr CLASS="alt"><td>[[Rapide (combat)|Rapide*]]</td><td>-</td><td>Augmentation de votre vitesse de base</td></tr><tr><td>[[Rapidité fulgurante (combat)|Rapidité fulgurante*]]</td><td>-</td><td>Course plus rapide, hauteur et longueur doublées lors des sauts</td></tr><tr CLASS="alt"><td>[[Réflexes surhumains]]</td><td>-</td><td>Bonus de+2 aux jets de Réflexes</td></tr><tr><td>[[Science des réflexes surhumains]]</td><td>Réflexes surhumains, personnage de niveau 5</td><td>Dépensez 1 point de persévérance pour relancer un jet de Réflexes</td></tr><tr CLASS="alt"><td>[[Résistance améliorée]]</td><td>Bonus de base à l’attaque +4</td><td>Obtention d’une réduction des dégâts ou d’une résistance aux énergies</td></tr><tr><td>[[Riposte (combat)|Riposte*]]</td><td>Bonus de base à l’attaque+1</td><td>Préparez une action pour effectuer une attaque au corps à corps contre un ennemi doté d’une allonge</td></tr><tr CLASS="alt"><td>[[Robustesse]]</td><td>-</td><td>+1point d’endurance par niveau de personnage et autres bonus</td></tr><tr><td>[[S’avancer (combat)|S’avancer*]]</td><td>Bonus de base à l’attaque+1</td><td>En réaction, effectuez un déplacement prudent vers un ennemi adjacent qui se déplace</td></tr><tr CLASS="alt"><td>[[Avance et frappe (combat)|Avance et frappe*]]</td><td>Dex 13, S’avancer, bonus de base à l’attaque +6</td><td>Effectuez une attaque d’opportunité en utilisant S’avancer</td></tr><tr><td>[[Science de l’initiative (combat)|Science de l’initiative*]]</td><td>-</td><td>Bonus de +4 aux tests d’initiative</td></tr><tr CLASS="alt"><td>[[Science de la feinte (combat)|Science de la feinte*]]</td><td>-</td><td>Utilisez le Bluff pour feinter par une action de mouvement</td></tr><tr><td>[[Feinte supérieure (combat)|Feinte supérieure*]]</td><td>Science de la feinte, bonus de base à l’attaque +6</td><td>Les adversaires que vous feintez sont pris au dépourvu pendant 1 round</td></tr><tr CLASS="alt"><td>[[Science de la manœuvre offensive (combat)|Science de la manœuvre offensive*]]</td><td>Bonus de base à l’attaque +1</td><td>Bonus de +4 pour accomplir une manœuvre offensive</td></tr><tr><td>[[Retirer la goupille (combat)|Retirer la goupille*]]</td><td>Science de la manœuvre offensive (désarmement)</td><td>Effectuez un désarmement pour dégoupiller la grenade d’un adversaire</td></tr><tr CLASS="alt"><td>[[Science du combat à mains nues (combat)|Science du combat à mains nues*]]</td><td>-</td><td>Infligez plus de dégâts et menacez les cases avec des attaques à mains nues</td></tr><tr><td>[[Science du critique (combat)|Science du critique*]]</td><td>Bonus de base à l’attaque+8</td><td>Le DD pour résister aux effets de vos coups critiques augmente de 2</td></tr><tr CLASS="alt"><td>[[Sort perforant]]</td><td>Aptitude d’incantation de sorts de niveau 4</td><td>Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos sorts</td></tr><tr><td>[[Spécialisation martiale (combat)|Spécialisation martiale*]]</td><td>Personnage de niveau 3, formé au Maniement du type d’armes sélectionné</td><td>Inflige des dégâts supplémentaires avec le type d’armes sélectionné</td></tr><tr CLASS="alt"><td>[[Spécialisation polyvalente (combat)|Spécialisation polyvalente*]]</td><td>Spécialisation martiale, personnage de niveau 3</td><td>Inflige des dégâts supplémentaires avec tous les types d’armes que vous savez manier</td></tr><tr><td>[[Succession d’enchaînements (combat)|Succession d’enchaînements*]]</td><td>For 13, bonus de base à l’attaque +4</td><td>Effectuez une attaque au corps à corps supplémentaire après chaque attaque au corps à corps réussie</td></tr><tr CLASS="alt"><td>[[Talent]]</td><td>-</td><td>Bonus d’intuition de +3 à une compétence</td></tr><tr><td>[[Technomancien amateur]]</td><td>Int 15, personnage de niveau 5, aucun niveau de technomancien</td><td>Lancez des sorts mineurs de technomancien</td></tr><tr CLASS="alt"><td>[[Tir coordonné (combat)|Tir coordonné*]]</td><td>Bonus de base à l’attaque +1</td><td>Les alliés bénéficient d’un bonus de+1 aux attaques à distance contre les ennemis que vous menacez</td></tr><tr><td>[[Tir de couverture en appui (combat)|Tir de couverture en appui*]]</td><td>Bonus de base à l’attaque +1</td><td>Les tirs de couverture confèrent à un allié un bonus de +4 au test d’Acrobaties pour effectuer un déplacement acrobatique</td></tr><tr CLASS="alt"><td>[[Tir de loin (combat)|Tir de loin*]]</td><td>Bonus de base à l’attaque +1</td><td>Réduction des malus dus aux facteurs de portée</td></tr><tr><td>[[Tir de suppression (combat)|Tir de suppression*]]</td><td>Bonus de base à l’attaque+1, formé au Maniement des armes lourdes</td><td>Effectuez un tir de couverture ou de diversion dans une zone</td></tr><tr CLASS="alt"><td>[[Tir hostile (combat)|Tir hostile*]]</td><td>5 rangs en Bluff</td><td>Trompez un ennemi pour qu’il tire sur un autre ennemi adjacent à vous</td></tr><tr><td>[[Tireur insaisissable (combat)]]</td><td>Dex 15, bonus de base à l’attaque +6</td><td>Bonus de +3 à la CA contre les attaques d’opportunité quand vous effectuez des attaques à distance</td></tr><tr CLASS="alt"><td>[[Vigueur surhumaine]]</td><td>-</td><td>Bonus de +2 aux jets de Vigueur</td></tr><tr><td>[[Science de la vigueur surhumaine]]</td><td>Vigueur surhumaine, personnage de niveau 5</td><td>Dépensez 1 point de persévérance pour relancer un jet de Vigueur</td></tr><tr CLASS="alt"><td>[[Viser (combat)|Viser*]]</td><td>Bonus de base à l’attaque +1</td><td>Infligez des dégâts supplémentaires en échange d’un malus de -2 aux attaques d’armes</td></tr><tr><td>[[Volonté de fer]]</td><td>-</td><td>Bonus de +2 aux jets de Volonté</td></tr><tr CLASS="alt"><td>[[Science de la volonté de fer]]</td><td>Volonté de fer, personnage de niveau 5</td><td>Dépensez 1 point de persévérance pour relancer un jet de Volonté</td></tr></table>
+<table CLASS="tablo">
+  <caption>Résumé des dons</caption>
+  <tr CLASS="titre"><td>DON</td><td>CONDITIONS</td><td>AVANTAGE</td></tr>
+  <tr CLASS="premier">
+    <td>[[Aisance (Combat)|Aisance*]]</td>
+    <td>Dex 15</td>
+    <td>Ignorez 6 mètres de terrain difficile lors d’un déplacement</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Arme de prédilection (Combat)|Arme de prédilection*]]</td>
+    <td>Formé au Maniement du type d’armes sélectionné</td>
+    <td>Bonus de+1 aux jets d’attaque avec le type d’armes sélectionné</td>
+  </tr>
+  <tr>
+    <td>[[Concentration polyvalente|Concentration polyvalente*]]</td>
+    <td>Arme de prédilection</td>
+    <td>Bonus de+1 aux jets d’attaque avec tous les types d’armes que vous savez manier</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Arme en main (Combat)|Arme en main*]]</td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Dégainez une arme par une action rapide</td>
+  </tr>
+  <tr>
+    <td>[[Assaut mystique (Combat)|Assaut mystique*]]</td>
+    <td>Aptitude d’incantation de sorts</td>
+    <td>Les attaques au corps à corps et à distance sont considérées comme magiques</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Attaque perforante (Combat)|Attaque perforante*]]</td>
+    <td>Bonus de base à l’attaque +12</td>
+    <td>Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos armes</td>
+  </tr>
+  <tr>
+    <td>[[Barricade|Barricade*]]</td>
+    <td>1 rang en Ingénierie</td>
+    <td>Créez votre propre abri peu résistant</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Beau parleur]]</td>
+    <td>5 rangs en Bluff</td>
+    <td>Déconcertez un adversaire potentiel pour le surprendre au début d’un combat</td>
+  </tr>
+  <tr>
+    <td>[[Combat à plusieurs armes|Combat à plusieurs armes*]]</td>
+    <td>-</td>
+    <td>
+      Réduit le malus des attaques à outrance en combattant avec plusieurs armes légères ou de corps à corps d’agent
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Combat adaptif|Combat adaptif*]]</td>
+    <td>Trois dons de combat ou plus</td>
+    <td>
+      Bénéficiez des avantages d’un don de combat que vous ne possédez pas une fois par jour par une action de
+      mouvement
+    </td>
+  </tr>
+  <tr>
+    <td>[[Combat en aveugle|Combat en aveugle*]]</td>
+    <td>-</td>
+    <td>Relancez des attaques ratées dues au camouflage</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Compétences synergiques]]</td>
+    <td>-</td>
+    <td>Ajout de deux nouvelles compétences de classe ou bonus d’intuition de +2 à ces compétences</td>
+  </tr>
+  <tr>
+    <td>[[Connexion limitée]]</td>
+    <td>Sag15, personnage de niveau 5, aucun niveau de mystique</td>
+    <td>Vous pouvez lancer des sorts de mystique mineurs</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Contrarier]]</td>
+    <td>5 rangs en Diplomatie, 5 rangs en Intimidation</td>
+    <td>Énervez un ennemi, il devient imprécis et subit un malus de -2 aux tests de compétence pour 1 round ou plus</td>
+  </tr>
+  <tr>
+    <td>[[Déviation de projectiles|Déviation de projectiles*]]</td>
+    <td>Bonus de base à l’attaque+8</td>
+    <td>Dépensez 1 point de persévérance pour tenter d’éviter une attaque à distance</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Renvoi de projectiles|Renvoi de projectiles*]]</td>
+    <td>Déviation de projectiles, bonus de base à l’attaque +16</td>
+    <td>Dépensez 1 point de persévérance pour tenter de rediriger une attaque à distance</td>
+  </tr>
+  <tr>
+    <td>[[Diversion]]</td>
+    <td>-</td>
+    <td>Utilisez le Bluff pour créer une diversion pour que vos alliés puissent se cacher</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Dur à cuire]]</td>
+    <td>-</td>
+    <td>Dépensez des points de persévérance pour se stabiliser et pour continuer à combattre lors du même round</td>
+  </tr>
+  <tr>
+    <td>[[Dysfonctionnement amplifié|Dysfonctionnement amplifié*]]</td>
+    <td>3 rangs en Informatique, 3 rangs en Intimidation</td>
+    <td>Perturbez les appareils, rendant les cibles secouées pour 1 round ou plus</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Efficacité des sorts accrue]]</td>
+    <td>-</td>
+    <td>Bonus de +2 aux tests de lanceur de sorts pour ignorer la RM</td>
+  </tr>
+  <tr>
+    <td>[[Efficacité des sorts accrue supérieure]]</td>
+    <td>Efficacité des sorts accrue</td>
+    <td>Bonus de +2 supplémentaire aux tests de lanceur de sorts pour ignorer la RM</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Enchaînement (combat)|Enchaînement*]]</td>
+    <td>For 13, bonus de base à l’attaque +1</td>
+    <td>Effectuez une attaque au corps à corps supplémentaire si la première est réussie</td>
+  </tr>
+  <tr>
+    <td>[[Entraîner au sol (combat)|Entraîner au sol*]]</td>
+    <td>-</td>
+    <td>
+      Quand vous tombez à cause d’un croc-en-jambe, vous pouvez tenter un croc-en-jambe contre un adversaire
+      adjacent
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Expert en escalade]]</td>
+    <td>5 rangs en Athlétisme</td>
+    <td>Obtention d’une vitesse d’escalade égale à votre vitesse de base</td>
+  </tr>
+  <tr>
+    <td>[[Expert en médecine]]</td>
+    <td>1 rang en Sciences de la vie, Médecine et Sciences physiques</td>
+    <td>Traitez plus rapidement les blessures mortelles et appliquez des soins prolongés sans laboratoire médical</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Expert en natation]]</td>
+    <td>5 rangs en Athlétisme</td>
+    <td>Obtention d’une vitesse de nage égale à votre vitesse de base</td>
+  </tr>
+  <tr>
+    <td>[[Fente (combat)|Fente*]]</td>
+    <td>Bonus de base à l’attaque +6</td>
+    <td>Augmentez l’allonge des attaques au corps à corps de 1,50 mètre jusqu’à la fin de votre tour</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Fonceur aérien]]</td>
+    <td>5 rangs en Pilotage</td>
+    <td>Augmente la vitesse des jetpacks, des véhicules et des vaisseaux spatiaux</td>
+  </tr>
+  <tr>
+    <td>[[Fusillade (combat)|Fusillade*]]</td>
+    <td>Bonus de base à l’attaque +1, 4 bras ou plus</td>
+    <td>Attaquez en mode automatique avec plusieurs armes légères</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Immobilisation (combat)|Immobilisation*]]</td>
+    <td>-</td>
+    <td>Effectuez une attaque d’opportunité pour stopper un ennemi qui se déplace</td>
+  </tr>
+  <tr>
+    <td>[[Science de l’immobilisation (combat)|Science de l’immobilisation*]]</td>
+    <td>Immobilisation</td>
+    <td>Bonus de +4 aux attaques au corps à corps effectuées avec Immobilisation</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Kip up (combat)|Kip up*]]</td>
+    <td>1 rang en Acrobaties</td>
+    <td>Remettez-vous debout par une action rapide</td>
+  </tr>
+  <tr>
+    <td>[[Magie de guerre (combat)|Magie de guerre*]]</td>
+    <td>Aptitude à lancer des sorts de niveau 2</td>
+    <td>
+      Bonus de +2 à la CA et aux jets de sauvegarde contre les attaques d’opportunité lors de l’incantation de sorts
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Magie renforcée]]</td>
+    <td>Aptitude d’incantation de sorts, personnage de niveau 3</td>
+    <td>Les DD des sorts que vous lancez sont augmentés</td>
+  </tr>
+  <tr>
+    <td>[[Maître artisan]]</td>
+    <td>5 rangs en Informatique, Ingénierie, Mysticisme, Profession, Sciences de la vie ou Sciences physiques</td>
+    <td>Durée de fabrication des objets réduite de moitié</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Maniement des armes de corps à corps simples (combat)|Maniement des armes de corps à corps simples*]]</td>
+    <td>-</td>
+    <td>Aucun malus aux attaques avec des armes de corps à corps simples</td>
+  </tr>
+  <tr>
+    <td>[[Maniement des armes de corps à corps évoluées (combat)|Maniement des armes de corps à corps évoluées*]]</td>
+    <td>Maniement des armes de corps à corps simples</td>
+    <td>Aucun malus aux attaques avec des armes de corps à corps évoluées</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Maniement d’une arme spéciale (combat)|Maniement d’une arme spéciale*]]</td>
+    <td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec une arme spéciale</td>
+  </tr>
+  <tr>
+    <td>[[Maniement des armes de précision (combat)|Maniement des armes de précision*]]</td>
+    <td>-</td>
+    <td>Aucun malus aux attaques avec des armes de précision</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Maniement des armes légères (combat)|Maniement des armes légères*]]</td>
+    <td>-</td>
+    <td>Aucun malus aux attaques avec des armes légères</td>
+  </tr>
+  <tr>
+    <td>[[Maniement des armes longues (combat)|Maniement des armes longues*]]</td>
+    <td>Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec des armes longues</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Maniement des armes lourdes (combat)|Maniement des armes lourdes*]]</td>
+    <td>For 13, Maniement des armes longues, Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec des armes lourdes</td>
+  </tr>
+  <tr>
+    <td>[[Maniement d’une arme spéciale (combat)|Maniement d’une arme spéciale*]]</td>
+    <td>Maniement des armes de corps à corps simples ou Maniement des armes légères</td>
+    <td>Aucun malus aux attaques avec une arme spéciale</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Maniement des grenades (combat)|Maniement des grenades*]]</td>
+    <td>-</td>
+    <td>Aucun malus aux attaques effectuées avec des grenades</td>
+  </tr>
+  <tr>
+    <td>[[Manœuvrabilité (combat)|Manœuvrabilité*)]]</td>
+    <td>Dex 13</td>
+    <td>Bonus de +4 à la CA contre les attaques d’opportunité provoquées par un déplacement</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Attaque surprise (Combat)|Attaque surprise*]]</td>
+    <td>Dex 15, Manœuvrabilité, bonus de base à l’attaque +4</td>
+    <td>Déplacez-vous avant et après une attaque au corps à corps</td>
+  </tr>
+  <tr>
+    <td>[[Incantation agile]]</td>
+    <td>Valeur de caractéristique essentielle 15, Dex 15, Manœuvrabilité, niveau de lanceur de sorts 4</td>
+    <td>Lancez un sort en se déplaçant</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pas de côté (combat)|Pas de côté*]]</td>
+    <td>Dex 15, Manœuvrabilité ou feinte offensive</td>
+    <td>En réaction, effectuez un déplacement prudent quand un ennemi rate une attaque au corps à corps contre vous</td>
+  </tr>
+  <tr>
+    <td>[[Science du pas de côté (combat)|Science du pas de côté*]]</td>
+    <td>Dex 17, Manœuvrabilité ou aptitude de classe de feinte offensive, Pas de côté</td>
+    <td>Réduit les malus du pas de côté</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Tir en mouvement (combat)|Tir en mouvement*]]</td>
+    <td>Dex 15, Manœuvrabilité, bonus de base à l’attaque +4</td>
+    <td>Effectuez une attaque à distance en se déplaçant</td>
+  </tr>
+  <tr>
+    <td>[[Tir de repli (combat)|Tir de repli*]]</td>
+    <td>Dex 15, Manœuvrabilité, Tir en mouvement, bonus de base à l’attaque +6</td>
+    <td>Effectuez une unique attaque à distance en se repliant</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Menace voilée]]</td>
+    <td>Cha 15, 1 rang en Intimidation</td>
+    <td>L’adversaire intimidé ne devient pas hostile</td>
+  </tr>
+  <tr>
+    <td>[[Mise à mal des morts-vivants]]</td>
+    <td>Pouvoir de connexion de focalisation curative, mystique de niveau 1</td>
+    <td>Dépensez un emplacement de sort pour que la focalisation curative blesse également les morts-vivants</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Persévérance renforcée]]</td>
+    <td>Personnage de niveau 5</td>
+    <td>Obtention de 2 points de persévérance supplémentaires</td>
+  </tr>
+  <tr>
+    <td>[[Plonger à l’abri (combat)|Plonger à l’abri*]]</td>
+    <td>Bonus de base au jet de sauvegarde de Réflexes +2</td>
+    <td>Jetez-vous à terre dans une case adjacente pour effectuer deux jets de Réflexes</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Port des armures légères (combat)|Port des armures légères*]]</td>
+    <td>-</td>
+    <td>Aucun malus aux jets d’attaque en portant une armure légère</td>
+  </tr>
+  <tr>
+    <td>[[Port des armures lourdes (combat)|Port des armures lourdes*]]</td>
+    <td>For 13, Port des armures légères</td>
+    <td>Aucun malus aux jets d’attaque en portant une armure lourde</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Port des armures assistées (combat)|Port des armures assistées*]]</td>
+    <td>For 13, Port des armures légères et lourdes, bonus de base à l’attaque +5</td>
+    <td>Aucun malus aux jets d’attaque en portant une armure assistée</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoir psychique mineur]]</td>
+    <td>Cha 11</td>
+    <td>Lancez 3 fois par jour un sort de niveau 0 comme un pouvoir magique</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pouvoir psychique]]</td>
+    <td>Cha 13, Pouvoir psychique mineur, personnage de niveau 4</td>
+    <td>Lancez 1 fois par jour un sort de niveau 1 comme un pouvoir magique</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoir psychique majeur]]</td>
+    <td>Cha 15, Pouvoir psychique mineur, Pouvoir psychique, personnage de niveau 7</td>
+    <td>Lancez 1 fois par jour un sort de niveau 2 comme un pouvoir magique</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Première salve (combat)|Première salve*]]</td>
+    <td>-</td>
+    <td>
+      Bonus de+2 à une attaque au corps à corps contre une cible que vous avez blessée avec une attaque à distance
+    </td>
+  </tr>
+  <tr>
+    <td>[[Protection contre la magie]]</td>
+    <td>Aucune aptitude d’incantation de sorts ou d’utilisation de pouvoirs magiques</td>
+    <td>Bonus d’intuition de+2 aux jets de sauvegarde contre les sorts et les pouvoirs magiques</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Protection rapprochée (combat)|Protection rapprochée*]]</td>
+    <td>-</td>
+    <td>En réaction, ajoutez un bonus de+2 à la CA d’un allié adjacent</td>
+  </tr>
+  <tr>
+    <td>[[Interception de coups (combat)|Interception de coups*]]</td>
+    <td>Protection rapprochée</td>
+    <td>Encaissez les dégâts d’une attaque réussie contre un allié adjacent à sa place.</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Rapide (combat)|Rapide*]]</td><td>-</td><td>Augmentation de votre vitesse de base</td></tr>
+  <tr>
+    <td>[[Rapidité fulgurante (combat)|Rapidité fulgurante*]]</td>
+    <td>-</td>
+    <td>Course plus rapide, hauteur et longueur doublées lors des sauts</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Réflexes surhumains]]</td><td>-</td><td>Bonus de+2 aux jets de Réflexes</td></tr>
+  <tr>
+    <td>[[Science des réflexes surhumains]]</td>
+    <td>Réflexes surhumains, personnage de niveau 5</td>
+    <td>Dépensez 1 point de persévérance pour relancer un jet de Réflexes</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Résistance améliorée]]</td>
+    <td>Bonus de base à l’attaque +4</td>
+    <td>Obtention d’une réduction des dégâts ou d’une résistance aux énergies</td>
+  </tr>
+  <tr>
+    <td>[[Riposte (combat)|Riposte*]]</td>
+    <td>Bonus de base à l’attaque+1</td>
+    <td>Préparez une action pour effectuer une attaque au corps à corps contre un ennemi doté d’une allonge</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Robustesse]]</td>
+    <td>-</td>
+    <td>+1point d’endurance par niveau de personnage et autres bonus</td>
+  </tr>
+  <tr>
+    <td>[[S’avancer (combat)|S’avancer*]]</td>
+    <td>Bonus de base à l’attaque+1</td>
+    <td>En réaction, effectuez un déplacement prudent vers un ennemi adjacent qui se déplace</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Avance et frappe (combat)|Avance et frappe*]]</td>
+    <td>Dex 13, S’avancer, bonus de base à l’attaque +6</td>
+    <td>Effectuez une attaque d’opportunité en utilisant S’avancer</td>
+  </tr>
+  <tr>
+    <td>[[Science de l’initiative (combat)|Science de l’initiative*]]</td>
+    <td>-</td>
+    <td>Bonus de +4 aux tests d’initiative</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Science de la feinte (combat)|Science de la feinte*]]</td>
+    <td>-</td>
+    <td>Utilisez le Bluff pour feinter par une action de mouvement</td>
+  </tr>
+  <tr>
+    <td>[[Feinte supérieure (combat)|Feinte supérieure*]]</td>
+    <td>Science de la feinte, bonus de base à l’attaque +6</td>
+    <td>Les adversaires que vous feintez sont pris au dépourvu pendant 1 round</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Science de la manœuvre offensive (combat)|Science de la manœuvre offensive*]]</td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Bonus de +4 pour accomplir une manœuvre offensive</td>
+  </tr>
+  <tr>
+    <td>[[Retirer la goupille (combat)|Retirer la goupille*]]</td>
+    <td>Science de la manœuvre offensive (désarmement)</td>
+    <td>Effectuez un désarmement pour dégoupiller la grenade d’un adversaire</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Science du combat à mains nues (combat)|Science du combat à mains nues*]]</td>
+    <td>-</td>
+    <td>Infligez plus de dégâts et menacez les cases avec des attaques à mains nues</td>
+  </tr>
+  <tr>
+    <td>[[Science du critique (combat)|Science du critique*]]</td>
+    <td>Bonus de base à l’attaque+8</td>
+    <td>Le DD pour résister aux effets de vos coups critiques augmente de 2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Sort perforant]]</td>
+    <td>Aptitude d’incantation de sorts de niveau 4</td>
+    <td>Réduit de 5 la RD et la résistance aux énergies de l’ennemi contre vos sorts</td>
+  </tr>
+  <tr>
+    <td>[[Spécialisation martiale (combat)|Spécialisation martiale*]]</td>
+    <td>Personnage de niveau 3, formé au Maniement du type d’armes sélectionné</td>
+    <td>Inflige des dégâts supplémentaires avec le type d’armes sélectionné</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Spécialisation polyvalente (combat)|Spécialisation polyvalente*]]</td>
+    <td>Spécialisation martiale, personnage de niveau 3</td>
+    <td>Inflige des dégâts supplémentaires avec tous les types d’armes que vous savez manier</td>
+  </tr>
+  <tr>
+    <td>[[Succession d’enchaînements (combat)|Succession d’enchaînements*]]</td>
+    <td>For 13, bonus de base à l’attaque +4</td>
+    <td>Effectuez une attaque au corps à corps supplémentaire après chaque attaque au corps à corps réussie</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Talent]]</td><td>-</td><td>Bonus d’intuition de +3 à une compétence</td></tr>
+  <tr>
+    <td>[[Technomancien amateur]]</td>
+    <td>Int 15, personnage de niveau 5, aucun niveau de technomancien</td>
+    <td>Lancez des sorts mineurs de technomancien</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Tir coordonné (combat)|Tir coordonné*]]</td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Les alliés bénéficient d’un bonus de+1 aux attaques à distance contre les ennemis que vous menacez</td>
+  </tr>
+  <tr>
+    <td>[[Tir de couverture en appui (combat)|Tir de couverture en appui*]]</td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>
+      Les tirs de couverture confèrent à un allié un bonus de +4 au test d’Acrobaties pour effectuer un déplacement
+      acrobatique
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Tir de loin (combat)|Tir de loin*]]</td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Réduction des malus dus aux facteurs de portée</td>
+  </tr>
+  <tr>
+    <td>[[Tir de suppression (combat)|Tir de suppression*]]</td>
+    <td>Bonus de base à l’attaque+1, formé au Maniement des armes lourdes</td>
+    <td>Effectuez un tir de couverture ou de diversion dans une zone</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Tir hostile (combat)|Tir hostile*]]</td>
+    <td>5 rangs en Bluff</td>
+    <td>Trompez un ennemi pour qu’il tire sur un autre ennemi adjacent à vous</td>
+  </tr>
+  <tr>
+    <td>[[Tireur insaisissable (combat)]]</td>
+    <td>Dex 15, bonus de base à l’attaque +6</td>
+    <td>Bonus de +3 à la CA contre les attaques d’opportunité quand vous effectuez des attaques à distance</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Vigueur surhumaine]]</td><td>-</td><td>Bonus de +2 aux jets de Vigueur</td></tr>
+  <tr>
+    <td>[[Science de la vigueur surhumaine]]</td>
+    <td>Vigueur surhumaine, personnage de niveau 5</td>
+    <td>Dépensez 1 point de persévérance pour relancer un jet de Vigueur</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Viser (combat)|Viser*]]</td>
+    <td>Bonus de base à l’attaque +1</td>
+    <td>Infligez des dégâts supplémentaires en échange d’un malus de -2 aux attaques d’armes</td>
+  </tr>
+  <tr><td>[[Volonté de fer]]</td><td>-</td><td>Bonus de +2 aux jets de Volonté</td></tr>
+  <tr CLASS="alt">
+    <td>[[Science de la volonté de fer]]</td>
+    <td>Volonté de fer, personnage de niveau 5</td>
+    <td>Dépensez 1 point de persévérance pour relancer un jet de Volonté</td>
+  </tr>
+</table>
 
 
 (*) C’est un don de combat qui peut être choisi par un soldat en tant que don supplémentaire.

@@ -9,7 +9,102 @@ Voici ce que dit le Serment des croisés, le serment sacré que toutes les nouve
 Après avoir servi un temps dans les croisades, certaines personnes deviennent si douées pour suivre la loi à la lettre sans négliger leurs propres intérêts qu’elles deviennent des templiers déchus. Sous couvert de sainteté elles nagent entre deux eaux, entre héroïsme et banditisme. L’Église de l'Héritière lutte constamment pour que ses croisés restent des gens honnêtes, mais face à la puissance destructrice d’une armée de démons, elle est parfois obligée de choisir le moindre des deux maux.
 
 
-<table CLASS="tablo centre autoalt"><caption>Le Templier parjure</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Templier déchu#ALLEGEANCEMOUVANTE|Allégeance mouvante]], [[Templier déchu#CROISE|Croisé]] +1</td></tr><tr><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Templier déchu#COMBATDELOYAL|Combat déloyal]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +2</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Templier déchu#VIVREPOURSEBATTREPLUSTARD|Vivre pour se battre plus tard]];[[Templier déchu#VOIEDELALUMIRE|Voie des ténèbres/voie de la lumière]]</td></tr><tr><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Templier déchu#IMPOTOYABLE|Impitoyable]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +3</td></tr><tr><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +2d6</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Templier déchu#TRAITDADIEU|Trait d’adieu]]</td></tr><tr><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +4, [[Templier déchu#REDEMPTION|Damnation/rédemption]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le Templier parjure</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Templier déchu#ALLEGEANCEMOUVANTE|Allégeance mouvante]], [[Templier déchu#CROISE|Croisé]] +1
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Templier déchu#COMBATDELOYAL|Combat déloyal]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Templier déchu#VIVREPOURSEBATTREPLUSTARD|Vivre pour se battre plus tard]];[[Templier
+      déchu#VOIEDELALUMIRE|Voie des ténèbres/voie de la lumière]]
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Templier déchu#IMPOTOYABLE|Impitoyable]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +3</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +2d6</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Templier déchu#TRAITDADIEU|Trait d’adieu]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +4, [[Templier déchu#REDEMPTION|Damnation/rédemption]]</td>
+  </tr>
+</table>
 
 **Dés de vie.** d10
 

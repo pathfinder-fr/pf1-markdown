@@ -11,15 +11,314 @@ Categories:
 Les capacités des compagnons animaux dépendent du niveau du [[druide]] et des traits raciaux de l’animal. Le tableau suivant indique la plupart des caractéristiques de base des compagnons animaux. Ceux-ci sont considérés comme des créatures de type [[type animal|animal]] lorsqu’il s’agit de déterminer si un sort les affecte ou non.
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|PROGRESSION}Caractéristiques de base des compagnons animaux</caption><tr CLASS="titre"><td>Niveau   
+<table CLASS="tablo centre">
+  <caption>{s:Reference|PROGRESSION}Caractéristiques de base des compagnons animaux</caption>
+  <tr CLASS="titre">
+    <td>Niveau   
 de   
-classe</td><td>DV</td><td>BBA</td><td>Ref</td><td>Vig</td><td>Vol</td><td>Compétences</td><td>Dons</td><td>Bonus   
+classe</td>
+    <td>DV</td>
+    <td>BBA</td>
+    <td>Ref</td>
+    <td>Vig</td>
+    <td>Vol</td>
+    <td>Compétences</td>
+    <td>Dons</td>
+    <td>Bonus   
 d'armure   
-naturelle</td><td>Bonus   
+naturelle</td>
+    <td>Bonus   
 de   
-For/Dex</td><td>Tours   
+For/Dex</td>
+    <td>Tours   
 en   
-bonus</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td>2</td><td>1</td><td>+0</td><td>+0</td><td>1</td><td CLASS="gauche">[[Compagnons animaux#LIEN|lien]], [[Compagnons animaux#TRANSFERTDESORTS|transfert de sorts]]</td></tr><tr CLASS="alt"><td>2</td><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td>3</td><td>2</td><td>+0</td><td>+0</td><td>1</td><td CLASS="gauche">-</td></tr><tr><td>3</td><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td>3</td><td>2</td><td>+2</td><td>+1</td><td>2</td><td CLASS="gauche">[[Compagnons animaux#ESQUIVETOTALE|esquive totale]]</td></tr><tr CLASS="alt"><td>4</td><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td>4</td><td>2</td><td>+2</td><td>+1</td><td>2</td><td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISTIQUE|accroissement d'une caractéristique]]</td></tr><tr><td>5</td><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td>5</td><td>3</td><td>+2</td><td>+1</td><td>2</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td>6</td><td>3</td><td>+4</td><td>+2</td><td>3</td><td CLASS="gauche">[[Compagnons animaux#DEVOTION|dévotion]]</td></tr><tr><td>7</td><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td>6</td><td>3</td><td>+4</td><td>+2</td><td>3</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>8</td><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td>7</td><td>4</td><td>+4</td><td>+2</td><td>3</td><td CLASS="gauche">-</td></tr><tr><td>9</td><td>8</td><td>+6</td><td>+6</td><td>+6</td><td>+2</td><td>8</td><td>4</td><td>+6</td><td>+3</td><td>4</td><td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISIQUE|accroissement d'une caractéristique]], [[Compagnons animaux#ATTAQUESMULTIPLES|attaques multiples]]</td></tr><tr CLASS="alt"><td>10</td><td>9</td><td>+6</td><td>+6</td><td>+6</td><td>+3</td><td>9</td><td>5</td><td>+6</td><td>+3</td><td>4</td><td CLASS="gauche">-</td></tr><tr><td>11</td><td>9</td><td>+6</td><td>+6</td><td>+6</td><td>+3</td><td>9</td><td>5</td><td>+6</td><td>+3</td><td>4</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>12</td><td>10</td><td>+7</td><td>+7</td><td>+7</td><td>+3</td><td>10</td><td>5</td><td>+8</td><td>+4</td><td>5</td><td CLASS="gauche">-</td></tr><tr><td>13</td><td>11</td><td>+8</td><td>+7</td><td>+7</td><td>+3</td><td>11</td><td>6</td><td>+8</td><td>+4</td><td>5</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>14</td><td>12</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td>12</td><td>6</td><td>+8</td><td>+4</td><td>5</td><td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISTIQUE|accroissement d'une caractéristique]]</td></tr><tr><td>15</td><td>12</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td>12</td><td>6</td><td>+10</td><td>+5</td><td>6</td><td CLASS="gauche">[[Compagnons animaux#ESQUIVEEXTRAORDINAIRE|esquive extraordinaire]]</td></tr><tr CLASS="alt"><td>16</td><td>13</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td>13</td><td>7</td><td>+10</td><td>+5</td><td>6</td><td CLASS="gauche">-</td></tr><tr><td>17</td><td>14</td><td>+10</td><td>+9</td><td>+9</td><td>+4</td><td>14</td><td>7</td><td>+10</td><td>+5</td><td>6</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>18</td><td>15</td><td>+11</td><td>+9</td><td>+9</td><td>+5</td><td>15</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td CLASS="gauche">-</td></tr><tr><td>19</td><td>15</td><td>+11</td><td>+9</td><td>+9</td><td>+5</td><td>15</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>20</td><td>16</td><td>+12</td><td>+10</td><td>+10</td><td>+5</td><td>16</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISTIQUE|accroissement d'une caractéristique]]</td></tr></table>
+bonus</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>2</td>
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>1</td>
+    <td CLASS="gauche">[[Compagnons animaux#LIEN|lien]], [[Compagnons animaux#TRANSFERTDESORTS|transfert de sorts]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>3</td>
+    <td>2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>1</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>3</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>2</td>
+    <td CLASS="gauche">[[Compagnons animaux#ESQUIVETOTALE|esquive totale]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>4</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>2</td>
+    <td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISTIQUE|accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>5</td>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>2</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>6</td>
+    <td>3</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>3</td>
+    <td CLASS="gauche">[[Compagnons animaux#DEVOTION|dévotion]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>6</td>
+    <td>3</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>3</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>7</td>
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>3</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>8</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>8</td>
+    <td>4</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>4</td>
+    <td CLASS="gauche">
+      [[Compagnons animaux#ACCROISSEMENTCARACTERISIQUE|accroissement d'une caractéristique]], [[Compagnons
+      animaux#ATTAQUESMULTIPLES|attaques multiples]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>9</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>9</td>
+    <td>5</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>4</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>9</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>9</td>
+    <td>5</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>4</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>10</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>10</td>
+    <td>5</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>5</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>11</td>
+    <td>+8</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>11</td>
+    <td>6</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>5</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>12</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>12</td>
+    <td>6</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>5</td>
+    <td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISTIQUE|accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>12</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>12</td>
+    <td>6</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>6</td>
+    <td CLASS="gauche">[[Compagnons animaux#ESQUIVEEXTRAORDINAIRE|esquive extraordinaire]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>13</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>13</td>
+    <td>7</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>6</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>14</td>
+    <td>+10</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>14</td>
+    <td>7</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>6</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>15</td>
+    <td>+11</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>15</td>
+    <td>8</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>7</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>15</td>
+    <td>+11</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>15</td>
+    <td>8</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>7</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>16</td>
+    <td>+12</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>16</td>
+    <td>8</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>7</td>
+    <td CLASS="gauche">[[Compagnons animaux#ACCROISSEMENTCARACTERISTIQUE|accroissement d'une caractéristique]]</td>
+  </tr>
+</table>
 
 
 **Niveau de classe.** Il s’agit du niveau du [[druide]]. Pour déterminer les caractéristiques du compagnon, les niveaux de druide se cumulent avec les niveaux de toutes les autres classes octroyant un compagnon animal.

@@ -32,10 +32,58 @@ Si un pouvoir de domaine nécessite un [[jds|jet de sauvegarde]], le [[DD]] sera
 {s:Reference|TABSOUSDOMAINES}
 <table class="page espace-col deuxcol toutgauche"><tr><td>
 
-<table CLASS="tablo" STYLE="width:100%"><tr CLASS="titre"><td>Domaine</td><td>Sous-domaines</td></tr><tr CLASS="premier"><td>[[Domaine de lAir|Air]]</td><td>Nuage, Vent</td></tr><tr CLASS="alt"><td>[[Domaine de lArtisanat|Artisanat]]</td><td>Construction, Labeur, Pièges</td></tr><tr><td>[[Domaine du Bien|Bien]]</td><td>Agathions, Archons, Azatas, Amitié, Rédemption</td></tr><tr CLASS="alt"><td>[[Domaine de la Chance|Chance]]</td><td>Destin, Malédiction, Imagination</td></tr><tr><td>[[Domaine du Chaos|Chaos]]</td><td>Azatas, Démons, Protéens, Caprices, Festivités, Entropie, Démodandes</td></tr><tr CLASS="alt"><td>[[Domaine du Charme|Charme]]</td><td>Amour, Luxure</td></tr><tr><td>[[Domaine du Climat|Climat]]</td><td>Saisons, Tempêtes</td></tr><tr CLASS="alt"><td>[[Domaine de la Communauté|Communauté]]</td><td>Famille, Foyer, Coopération</td></tr><tr><td>[[Domaine de la Connaissance|Connaissance]]</td><td>Mémoire, Pensée, Aéons</td></tr><tr CLASS="alt"><td>[[Domaine de la Destruction|Destruction]]</td><td>Catastrophe, Rage, Haine, Torture</td></tr><tr><td>[[Domaine de la Duperie|Duperie]]</td><td>Supercherie, Voleurs, Insinuation, Avarice, Embuscade</td></tr><tr CLASS="alt"><td>[[Domaine de lEau|Eau]]</td><td>Glace, Océans, Rivières, Flux, Epaves</td></tr><tr><td>[[Domaine de la Faune|Faune]]</td><td>Plume, Poil</td></tr><tr CLASS="alt"><td>[[Domaine du Feu|Feu]]</td><td>Cendres, Fumée, Incendies</td></tr><tr><td>[[Domaine de la Flore|Flore]]</td><td>Croissance, Pourriture</td></tr><tr CLASS="alt"><td>[[Domaine de la Folie|Folie]]</td><td>Cauchemars, Insanité</td></tr><tr><td>[[Domaine de la Force|Force]]</td><td>Férocité, Résolution, Poing</td></tr><tr CLASS="alt"><td>[[Domaine de la Gloire|Gloire]]</td><td>Héroïsme, Honneur</td></tr></table>
+<table CLASS="tablo" STYLE="width:100%">
+  <tr CLASS="titre"><td>Domaine</td><td>Sous-domaines</td></tr>
+  <tr CLASS="premier"><td>[[Domaine de lAir|Air]]</td><td>Nuage, Vent</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de lArtisanat|Artisanat]]</td><td>Construction, Labeur, Pièges</td></tr>
+  <tr><td>[[Domaine du Bien|Bien]]</td><td>Agathions, Archons, Azatas, Amitié, Rédemption</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Chance|Chance]]</td><td>Destin, Malédiction, Imagination</td></tr>
+  <tr>
+    <td>[[Domaine du Chaos|Chaos]]</td>
+    <td>Azatas, Démons, Protéens, Caprices, Festivités, Entropie, Démodandes</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Domaine du Charme|Charme]]</td><td>Amour, Luxure</td></tr>
+  <tr><td>[[Domaine du Climat|Climat]]</td><td>Saisons, Tempêtes</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Communauté|Communauté]]</td><td>Famille, Foyer, Coopération</td></tr>
+  <tr><td>[[Domaine de la Connaissance|Connaissance]]</td><td>Mémoire, Pensée, Aéons</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Destruction|Destruction]]</td><td>Catastrophe, Rage, Haine, Torture</td></tr>
+  <tr><td>[[Domaine de la Duperie|Duperie]]</td><td>Supercherie, Voleurs, Insinuation, Avarice, Embuscade</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de lEau|Eau]]</td><td>Glace, Océans, Rivières, Flux, Epaves</td></tr>
+  <tr><td>[[Domaine de la Faune|Faune]]</td><td>Plume, Poil</td></tr>
+  <tr CLASS="alt"><td>[[Domaine du Feu|Feu]]</td><td>Cendres, Fumée, Incendies</td></tr>
+  <tr><td>[[Domaine de la Flore|Flore]]</td><td>Croissance, Pourriture</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Folie|Folie]]</td><td>Cauchemars, Insanité</td></tr>
+  <tr><td>[[Domaine de la Force|Force]]</td><td>Férocité, Résolution, Poing</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Gloire|Gloire]]</td><td>Héroïsme, Honneur</td></tr>
+</table>
 
 </td><td>
 
-<table CLASS="tablo" STYLE="width:100%"><tr CLASS="titre"><td>Domaine</td><td>Sous-domaines</td></tr><tr CLASS="premier"><td>[[Domaine de la Guérison|Guérison]]</td><td>Restauration, Résurrection</td></tr><tr CLASS="alt"><td>[[Domaine de la Guerre|Guerre]]</td><td>Sang, Tactique</td></tr><tr><td>[[Domaine de la Libération|Libération]]</td><td>Liberté, Révolution</td></tr><tr CLASS="alt"><td>[[Domaine de la Loi|Loi]]</td><td>Archons, Diables, Inévitables, Jugement, Kytons, Fidélité, Esclavage, Tyrannie</td></tr><tr><td>[[Domaine de la Magie|Magie]]</td><td>Divin, Profane</td></tr><tr CLASS="alt"><td>[[Domaine du Mal|Mal]]</td><td>Démons, Diables, Daémons, Peur, Corruption, Cannibalisme, Démodandes, Kytons</td></tr><tr><td>[[Domaine de la Mort|Mort]]</td><td>Meurtre, Mort-vivants, Psychopompes</td></tr><tr CLASS="alt"><td>[[Domaine de la Noblesse|Noblesse]]</td><td>Commandement, Martyr, Aristocratie</td></tr><tr><td>[[Domaine de lObscurité|Obscurité]]</td><td>Nuit, Perte, Lune</td></tr><tr CLASS="alt"><td>[[Domaine de la Protection|Protection]]</td><td>Défense, Pureté, Solitude</td></tr><tr><td>[[Domaine du Repos|Repos]]</td><td>Âmes, Ancêtres, Psychopompes</td></tr><tr CLASS="alt"><td>[[Domaine des Reptiles|Reptiles]]</td><td>Dragons, Sauriens, Venin</td></tr><tr><td>[[Domaine des Runes|Runes]]</td><td>Glyphes, Langage</td></tr><tr CLASS="alt"><td>[[Domaine du Soleil|Soleil]]</td><td>Jour, Lumière, Révélation</td></tr><tr><td>[[Domaine de la Terre|Terre]]</td><td>Cavernes, Métal, Radiations</td></tr><tr CLASS="alt"><td>[[Domaine du Vide|Vide]]</td><td>Étoiles, Isolation, Sombre Tapisserie</td></tr><tr><td>[[Domaine du Voyage|Voyage]]</td><td>Commerce, Exploration</td></tr></table>
+<table CLASS="tablo" STYLE="width:100%">
+  <tr CLASS="titre"><td>Domaine</td><td>Sous-domaines</td></tr>
+  <tr CLASS="premier"><td>[[Domaine de la Guérison|Guérison]]</td><td>Restauration, Résurrection</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Guerre|Guerre]]</td><td>Sang, Tactique</td></tr>
+  <tr><td>[[Domaine de la Libération|Libération]]</td><td>Liberté, Révolution</td></tr>
+  <tr CLASS="alt">
+    <td>[[Domaine de la Loi|Loi]]</td>
+    <td>Archons, Diables, Inévitables, Jugement, Kytons, Fidélité, Esclavage, Tyrannie</td>
+  </tr>
+  <tr><td>[[Domaine de la Magie|Magie]]</td><td>Divin, Profane</td></tr>
+  <tr CLASS="alt">
+    <td>[[Domaine du Mal|Mal]]</td>
+    <td>Démons, Diables, Daémons, Peur, Corruption, Cannibalisme, Démodandes, Kytons</td>
+  </tr>
+  <tr><td>[[Domaine de la Mort|Mort]]</td><td>Meurtre, Mort-vivants, Psychopompes</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Noblesse|Noblesse]]</td><td>Commandement, Martyr, Aristocratie</td></tr>
+  <tr><td>[[Domaine de lObscurité|Obscurité]]</td><td>Nuit, Perte, Lune</td></tr>
+  <tr CLASS="alt"><td>[[Domaine de la Protection|Protection]]</td><td>Défense, Pureté, Solitude</td></tr>
+  <tr><td>[[Domaine du Repos|Repos]]</td><td>Âmes, Ancêtres, Psychopompes</td></tr>
+  <tr CLASS="alt"><td>[[Domaine des Reptiles|Reptiles]]</td><td>Dragons, Sauriens, Venin</td></tr>
+  <tr><td>[[Domaine des Runes|Runes]]</td><td>Glyphes, Langage</td></tr>
+  <tr CLASS="alt"><td>[[Domaine du Soleil|Soleil]]</td><td>Jour, Lumière, Révélation</td></tr>
+  <tr><td>[[Domaine de la Terre|Terre]]</td><td>Cavernes, Métal, Radiations</td></tr>
+  <tr CLASS="alt"><td>[[Domaine du Vide|Vide]]</td><td>Étoiles, Isolation, Sombre Tapisserie</td></tr>
+  <tr><td>[[Domaine du Voyage|Voyage]]</td><td>Commerce, Exploration</td></tr>
+</table>
 
 </td></tr></table>

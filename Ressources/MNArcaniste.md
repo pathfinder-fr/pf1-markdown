@@ -6,7 +6,121 @@ Categories:
 - Midnight
 ---
 
-<table CLASS="tablo"><caption>L'Arcaniste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">Essence magique, points d'énergie magique supplémentaire, Art des essences magiques</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">Maniement de la magie, sorts supplémentaires, Appel de familier</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">Talent d'arcaniste</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">Don supplémentaire</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">Maniement de la magie</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">Talent d'arcaniste</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">Don supplémentaire</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">Maniement de la magie</td></tr><tr><td>9</td><td>++6/+1</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">Talent d'arcaniste</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">Don supplémentaire</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">Maniement de la magie</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">Talent d'arcaniste</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">Don supplémentaire</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">Maniement de la magie</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">Talent d'Arcaniste</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">Don supplémentaire</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">Maniement de la magie</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">Talent d'arcaniste</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">Don supplémentaire</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">Maniement de la magie</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'Arcaniste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">Essence magique, points d'énergie magique supplémentaire, Art des essences magiques</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">Maniement de la magie, sorts supplémentaires, Appel de familier</td>
+  </tr>
+  <tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">Talent d'arcaniste</td></tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">Don supplémentaire</td>
+  </tr>
+  <tr><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">Maniement de la magie</td></tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">Talent d'arcaniste</td>
+  </tr>
+  <tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">Don supplémentaire</td></tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">Maniement de la magie</td>
+  </tr>
+  <tr><td>9</td><td>++6/+1</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">Talent d'arcaniste</td></tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">Don supplémentaire</td>
+  </tr>
+  <tr><td>11</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">Maniement de la magie</td></tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">Talent d'arcaniste</td>
+  </tr>
+  <tr><td>13</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">Don supplémentaire</td></tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">Maniement de la magie</td>
+  </tr>
+  <tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">Talent d'Arcaniste</td></tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">Don supplémentaire</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">Maniement de la magie</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">Talent d'arcaniste</td>
+  </tr>
+  <tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">Don supplémentaire</td></tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">Maniement de la magie</td>
+  </tr>
+</table>
 
 
 

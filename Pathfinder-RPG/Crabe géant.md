@@ -71,7 +71,15 @@ sont reprises dans la table ci-dessous :
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td>Tourteau</td><td>1/4</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td>Crabe de cocotier</td><td>1/2</td><td>P</td><td>1d8</td></tr><tr><td>Crabe Rocailleux</td><td>4</td><td>G</td><td>5d8</td></tr><tr CLASS="alt"><td>Crabe mangeur de requins</td><td>7</td><td>TG</td><td>8d8</td></tr><tr><td>Grand crabe des récifs</td><td>10</td><td>Gig</td><td>11d8</td></tr><tr><td>Crabe naufrageur</td><td>13</td><td>Col</td><td>14d8</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td>Tourteau</td><td>1/4</td><td>TP</td><td>1d8</td></tr>
+  <tr CLASS="alt"><td>Crabe de cocotier</td><td>1/2</td><td>P</td><td>1d8</td></tr>
+  <tr><td>Crabe Rocailleux</td><td>4</td><td>G</td><td>5d8</td></tr>
+  <tr CLASS="alt"><td>Crabe mangeur de requins</td><td>7</td><td>TG</td><td>8d8</td></tr>
+  <tr><td>Grand crabe des récifs</td><td>10</td><td>Gig</td><td>11d8</td></tr>
+  <tr><td>Crabe naufrageur</td><td>13</td><td>Col</td><td>14d8</td></tr>
+</table></center>
 
 
 #### Le crabe géant comme compagnon animal

@@ -129,7 +129,106 @@ Si vous vous montrez trop zélé dans certains types de construction, le [[MJ]] 
 
 #### Liste des bâtiments
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Liste des bâtiments</caption><tr CLASS="titre"><td COLSPAN="6">Nom</td></tr><tr CLASS="premier"><td>[[Communautés et quartiers#ACADEMIE|Académie]]</td><td>[[Communautés et quartiers#CASERNE|Caserne]]</td><td>[[Communautés et quartiers#ECURIE|Écurie]]</td><td>[[Communautés et quartiers#LAMPADAIRESMAGIQUES|Lampadaires magiques]]</td><td>[[Communautés et quartiers#ORPHELINAT|Orphelinat]]</td><td>[[Communautés et quartiers#TANNERIE|Tannerie]]</td></tr><tr><td>[[Communautés et quartiers#ALCHIMISTE|Alchimiste]]</td><td>[[Communautés et quartiers#CATHEDRALE|Cathédrale]]</td><td>[[Communautés et quartiers#ENCLOSABETAIL|Enclos à bétail]]</td><td>[[Communautés et quartiers#MAISON|Maison]]</td><td>[[Communautés et quartiers#PALAIS|Palais]]</td><td>[[Communautés et quartiers#TAVERNE|Taverne]]</td></tr><tr><td>[[Communautés et quartiers#APPARTEMENT|Appartement]]</td><td>[[Communautés et quartiers#CHATEAU|Château]]</td><td>[[Communautés et quartiers#FONDERIE|Fonderie]]</td><td>[[Communautés et quartiers#MAISONDELAGUILDE|Maison de la guilde]]</td><td>[[Communautés et quartiers#PARC|Parc]]</td><td>[[Communautés et quartiers#TEMPLE|Temple]]</td></tr><tr><td>[[Communautés et quartiers#ARENE|Arène]]</td><td>[[Communautés et quartiers#CIMETIERE|Cimetière]]</td><td>[[Communautés et quartiers#FORGE|Forge]]</td><td>[[Communautés et quartiers#MANOIR|Manoir]]</td><td>[[Communautés et quartiers#PONT|Pont]]</td><td>[[Communautés et quartiers#THEATRE|Théâtre]]</td></tr><tr><td>[[Communautés et quartiers#ARTISANEXOTIQUE|Artisan exotique]]</td><td>[[Communautés et quartiers#CITERNE|Citerne]]</td><td>[[Communautés et quartiers#FRONTDEMER|Front de mer]]</td><td>[[Communautés et quartiers#MARCHE|Marché]]</td><td>[[Communautés et quartiers#PRISON|Prison]]</td><td>[[Communautés et quartiers#TOURDEGUET|Tour de guet]]</td></tr><tr><td>[[Communautés et quartiers#AUBERGE|Auberge]]</td><td>[[Communautés et quartiers#COMMERCE|Commerce]]</td><td>[[Communautés et quartiers#GARNISON|Garnison]]</td><td>[[Communautés et quartiers#MARCHENOIR|Marché noir]]</td><td>[[Communautés et quartiers#QUAI|Quai]]</td><td>[[Communautés et quartiers#TOURDUMAGE|Tour du mage]]</td></tr><tr><td>[[Communautés et quartiers#BANQUE|Banque]]</td><td>[[Communautés et quartiers#COMPLEXEDEBUREAUX|Complexe de bureaux]]</td><td>[[Communautés et quartiers#GRANGE|Grange]]</td><td>[[Communautés et quartiers#MONASTERE|Monastère]]</td><td>[[Communautés et quartiers#QUARTIERDESETRANGERS|Quartier des étrangers]]</td><td>[[Communautés et quartiers#UNIVERSITE|Université]]</td></tr><tr><td>[[Communautés et quartiers#BIBLIOTHEQUE|Bibliothèque]]</td><td>[[Communautés et quartiers#DECHARGE|Décharge]]</td><td>[[Communautés et quartiers#HERBORISTE|Herboriste]]</td><td>[[Communautés et quartiers#MONUMENT|Monument]]</td><td>[[Communautés et quartiers#RESEAUDEGOUTS|Réseau d’égouts]]</td><td>[[Communautés et quartiers#VILLADENOBLE|Villa de noble]]</td></tr><tr><td>[[Communautés et quartiers#BOUTIQUE|Boutique]]</td><td>[[Communautés et quartiers#DOUVE|Douve]]</td><td>[[Communautés et quartiers#HERSEDEAU|Herse d’eau]]</td><td>[[Communautés et quartiers#MOULIN|Moulin]]</td><td>[[Communautés et quartiers#RUESPAVEES|Rues pavées]]</td><td>[[Communautés et quartiers#VOIENAVIGABLE|Voie navigable]]</td></tr><tr><td>[[Communautés et quartiers#BOUTIQUEDELUXE|Boutique de luxe]]</td><td>[[Communautés et quartiers#ECOLEDEMAGIE|École de magie]]</td><td>[[Communautés et quartiers#HOPITAL|Hôpital]]</td><td>[[Communautés et quartiers#MURDENCEINTE|Mur d’enceinte]]</td><td>[[Communautés et quartiers#SALLEDEBAL|Salle de bal]]</td><td>[[Communautés et quartiers#ZOO|Zoo]]</td></tr><tr><td>[[Communautés et quartiers#BOUTIQUEDEMAGIE|Boutique de magie]]</td><td>[[Communautés et quartiers#ECOLEDESBARDES|École des bardes]]</td><td>[[Communautés et quartiers#HOTELDELAMONNAIE|Hôtel de la monnaie]]</td><td>[[Communautés et quartiers#MUSEE|Musée]]</td><td>[[Communautés et quartiers#SANCTUAIRE|Sanctuaire]]</td><td>&emsp;</td></tr><tr><td>[[Communautés et quartiers#BRASSERIE|Brasserie]]</td><td>[[Communautés et quartiers#ECOLEMILITAIRE|École militaire]]</td><td>[[Communautés et quartiers#HOTELDEVILLE|Hôtel de ville]]</td><td>[[Communautés et quartiers#OBSERVATOIRE|Observatoire]]</td><td>[[Communautés et quartiers#SOURCEETERNELLE|Source éternelle]]</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Liste des bâtiments</caption>
+  <tr CLASS="titre"><td COLSPAN="6">Nom</td></tr>
+  <tr CLASS="premier">
+    <td>[[Communautés et quartiers#ACADEMIE|Académie]]</td>
+    <td>[[Communautés et quartiers#CASERNE|Caserne]]</td>
+    <td>[[Communautés et quartiers#ECURIE|Écurie]]</td>
+    <td>[[Communautés et quartiers#LAMPADAIRESMAGIQUES|Lampadaires magiques]]</td>
+    <td>[[Communautés et quartiers#ORPHELINAT|Orphelinat]]</td>
+    <td>[[Communautés et quartiers#TANNERIE|Tannerie]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#ALCHIMISTE|Alchimiste]]</td>
+    <td>[[Communautés et quartiers#CATHEDRALE|Cathédrale]]</td>
+    <td>[[Communautés et quartiers#ENCLOSABETAIL|Enclos à bétail]]</td>
+    <td>[[Communautés et quartiers#MAISON|Maison]]</td>
+    <td>[[Communautés et quartiers#PALAIS|Palais]]</td>
+    <td>[[Communautés et quartiers#TAVERNE|Taverne]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#APPARTEMENT|Appartement]]</td>
+    <td>[[Communautés et quartiers#CHATEAU|Château]]</td>
+    <td>[[Communautés et quartiers#FONDERIE|Fonderie]]</td>
+    <td>[[Communautés et quartiers#MAISONDELAGUILDE|Maison de la guilde]]</td>
+    <td>[[Communautés et quartiers#PARC|Parc]]</td>
+    <td>[[Communautés et quartiers#TEMPLE|Temple]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#ARENE|Arène]]</td>
+    <td>[[Communautés et quartiers#CIMETIERE|Cimetière]]</td>
+    <td>[[Communautés et quartiers#FORGE|Forge]]</td>
+    <td>[[Communautés et quartiers#MANOIR|Manoir]]</td>
+    <td>[[Communautés et quartiers#PONT|Pont]]</td>
+    <td>[[Communautés et quartiers#THEATRE|Théâtre]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#ARTISANEXOTIQUE|Artisan exotique]]</td>
+    <td>[[Communautés et quartiers#CITERNE|Citerne]]</td>
+    <td>[[Communautés et quartiers#FRONTDEMER|Front de mer]]</td>
+    <td>[[Communautés et quartiers#MARCHE|Marché]]</td>
+    <td>[[Communautés et quartiers#PRISON|Prison]]</td>
+    <td>[[Communautés et quartiers#TOURDEGUET|Tour de guet]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#AUBERGE|Auberge]]</td>
+    <td>[[Communautés et quartiers#COMMERCE|Commerce]]</td>
+    <td>[[Communautés et quartiers#GARNISON|Garnison]]</td>
+    <td>[[Communautés et quartiers#MARCHENOIR|Marché noir]]</td>
+    <td>[[Communautés et quartiers#QUAI|Quai]]</td>
+    <td>[[Communautés et quartiers#TOURDUMAGE|Tour du mage]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#BANQUE|Banque]]</td>
+    <td>[[Communautés et quartiers#COMPLEXEDEBUREAUX|Complexe de bureaux]]</td>
+    <td>[[Communautés et quartiers#GRANGE|Grange]]</td>
+    <td>[[Communautés et quartiers#MONASTERE|Monastère]]</td>
+    <td>[[Communautés et quartiers#QUARTIERDESETRANGERS|Quartier des étrangers]]</td>
+    <td>[[Communautés et quartiers#UNIVERSITE|Université]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#BIBLIOTHEQUE|Bibliothèque]]</td>
+    <td>[[Communautés et quartiers#DECHARGE|Décharge]]</td>
+    <td>[[Communautés et quartiers#HERBORISTE|Herboriste]]</td>
+    <td>[[Communautés et quartiers#MONUMENT|Monument]]</td>
+    <td>[[Communautés et quartiers#RESEAUDEGOUTS|Réseau d’égouts]]</td>
+    <td>[[Communautés et quartiers#VILLADENOBLE|Villa de noble]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#BOUTIQUE|Boutique]]</td>
+    <td>[[Communautés et quartiers#DOUVE|Douve]]</td>
+    <td>[[Communautés et quartiers#HERSEDEAU|Herse d’eau]]</td>
+    <td>[[Communautés et quartiers#MOULIN|Moulin]]</td>
+    <td>[[Communautés et quartiers#RUESPAVEES|Rues pavées]]</td>
+    <td>[[Communautés et quartiers#VOIENAVIGABLE|Voie navigable]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#BOUTIQUEDELUXE|Boutique de luxe]]</td>
+    <td>[[Communautés et quartiers#ECOLEDEMAGIE|École de magie]]</td>
+    <td>[[Communautés et quartiers#HOPITAL|Hôpital]]</td>
+    <td>[[Communautés et quartiers#MURDENCEINTE|Mur d’enceinte]]</td>
+    <td>[[Communautés et quartiers#SALLEDEBAL|Salle de bal]]</td>
+    <td>[[Communautés et quartiers#ZOO|Zoo]]</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#BOUTIQUEDEMAGIE|Boutique de magie]]</td>
+    <td>[[Communautés et quartiers#ECOLEDESBARDES|École des bardes]]</td>
+    <td>[[Communautés et quartiers#HOTELDELAMONNAIE|Hôtel de la monnaie]]</td>
+    <td>[[Communautés et quartiers#MUSEE|Musée]]</td>
+    <td>[[Communautés et quartiers#SANCTUAIRE|Sanctuaire]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Communautés et quartiers#BRASSERIE|Brasserie]]</td>
+    <td>[[Communautés et quartiers#ECOLEMILITAIRE|École militaire]]</td>
+    <td>[[Communautés et quartiers#HOTELDEVILLE|Hôtel de ville]]</td>
+    <td>[[Communautés et quartiers#OBSERVATOIRE|Observatoire]]</td>
+    <td>[[Communautés et quartiers#SOURCEETERNELLE|Source éternelle]]</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

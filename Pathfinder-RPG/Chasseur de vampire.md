@@ -12,7 +12,259 @@ LastModified: 2024-10-18 21:34
 {s:Reference|TABLECHASSEURDEVAMPIRE}
 <center>
 
-<table CLASS="tablo autoalt"><caption>Le chasseur de vampire</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td CLASS="gauche" ROWSPAN="2">Spécial</td><td CLASS="avecsoustitre" COLSPAN="4">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">détection des morts-vivants, don technique, pistage, trait vampirique</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">implacable</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">don technique</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">sorts, pieu</td><td>0</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">compagnie implacable</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">don technique</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">pisteur de vampire</td><td>1</td><td>0</td><td>—</td><td>—</td></tr><tr><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">deuxième trait vampirique</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">don technique</td><td>2</td><td>1</td><td>—</td><td>—</td></tr><tr><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">pisteur rapide</td><td>2</td><td>1</td><td>0</td><td>—</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">fléau des vampires</td><td>2</td><td>1</td><td>1</td><td>—</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">don technique</td><td>2</td><td>2</td><td>1</td><td>—</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">éviter le vampirisme</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">gibier</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">don technique</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">Troisième trait vampirique</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">réflexe fatal</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">don technique</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">gibier supérieur</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">maître chasseur de vampire</td><td>4</td><td>4</td><td>3</td><td>3</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Le chasseur de vampire</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td CLASS="gauche" ROWSPAN="2">Spécial</td>
+    <td CLASS="avecsoustitre" COLSPAN="4">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">détection des morts-vivants, don technique, pistage, trait vampirique</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">implacable</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">don technique</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">sorts, pieu</td>
+    <td>0</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">compagnie implacable</td>
+    <td>1</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">don technique</td>
+    <td>1</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">pisteur de vampire</td>
+    <td>1</td>
+    <td>0</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">deuxième trait vampirique</td>
+    <td>1</td>
+    <td>1</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">don technique</td>
+    <td>2</td>
+    <td>1</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">pisteur rapide</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">fléau des vampires</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">don technique</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">éviter le vampirisme</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">gibier</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">don technique</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">Troisième trait vampirique</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">réflexe fatal</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">don technique</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">gibier supérieur</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">maître chasseur de vampire</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+</table>
 
 </center>
 
@@ -89,7 +341,31 @@ Au niveau 4, toute arme perforante ou outil aiguisé (tel qu’un piton) qu’un
 {s:Reference|TABLESORTSCONNUSCHASSEURDEVAMPIRE}
 <center>
 
-<table CLASS="tablo autoalt"><caption>Sorts connus par le chasseur de vampire</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>4</td><td>2</td><td>—</td><td>—</td></tr><tr><td>8</td><td>4</td><td>3</td><td>—</td><td>—</td></tr><tr><td>9</td><td>4</td><td>4</td><td>—</td><td>—</td></tr><tr><td>10</td><td>5</td><td>4</td><td>2</td><td>—</td></tr><tr><td>11</td><td>5</td><td>4</td><td>3</td><td>—</td></tr><tr><td>12</td><td>5</td><td>4</td><td>4</td><td>—</td></tr><tr><td>13</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>14</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>15</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>16</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr><td>17</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>18</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>5</td><td>5</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>5</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Sorts connus par le chasseur de vampire</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>7</td><td>4</td><td>2</td><td>—</td><td>—</td></tr>
+  <tr><td>8</td><td>4</td><td>3</td><td>—</td><td>—</td></tr>
+  <tr><td>9</td><td>4</td><td>4</td><td>—</td><td>—</td></tr>
+  <tr><td>10</td><td>5</td><td>4</td><td>2</td><td>—</td></tr>
+  <tr><td>11</td><td>5</td><td>4</td><td>3</td><td>—</td></tr>
+  <tr><td>12</td><td>5</td><td>4</td><td>4</td><td>—</td></tr>
+  <tr><td>13</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>14</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr><td>15</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>16</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
+</table>
 
 </center></div></div>
 Au niveau 4, un chasseur de vampire obtient la capacité de lancer un petit nombre de sorts divins tirés de la liste des sorts de l'inquisiteur. Il peut lancer tout sort qu’il connaît sans avoir à le préparer à l’avance, tant qu'il n’a pas utilisé tous les emplacements de sorts par jour du niveau du sort qu’il souhaite utiliser. Un chasseur de vampire ne peut lancer d’oraisons de l’inquisiteur ou de sorts d’inquisiteur dont le niveau est supérieur au 4ème niveau en utilisant cette capacité.

@@ -40,7 +40,21 @@ Categories:
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de Troll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr><tr><td>[[Troll]]</td><td>5</td></tr><tr><td>[[Acolyte troll]]</td><td>6</td></tr><tr><td>[[Gardien troll]]</td><td>6</td></tr><tr><td>[[Brute troll]]</td><td>7</td></tr><tr><td>[[Étripeur troll]]</td><td>8</td></tr><tr><td>[[Troll furieux]]</td><td>8</td></tr><tr><td>[[Berserker troll]]</td><td>9</td></tr><tr><td>[[Éventreur troll]]</td><td>10</td></tr><tr><td>[[Matrone âgée troll]]</td><td>10</td></tr><tr><td>[[Monarque troll]]</td><td>15</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de Troll</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr>
+  <tr><td>[[Troll]]</td><td>5</td></tr>
+  <tr><td>[[Acolyte troll]]</td><td>6</td></tr>
+  <tr><td>[[Gardien troll]]</td><td>6</td></tr>
+  <tr><td>[[Brute troll]]</td><td>7</td></tr>
+  <tr><td>[[Étripeur troll]]</td><td>8</td></tr>
+  <tr><td>[[Troll furieux]]</td><td>8</td></tr>
+  <tr><td>[[Berserker troll]]</td><td>9</td></tr>
+  <tr><td>[[Éventreur troll]]</td><td>10</td></tr>
+  <tr><td>[[Matrone âgée troll]]</td><td>10</td></tr>
+  <tr><td>[[Monarque troll]]</td><td>15</td></tr>
+</table>
 
 </div>Ces trolls sont une catégorie au-dessus des trolls communs au niveau des capacités de combat mais ils sont encore plus stupides. Ils portent une armure fabriquée avec la peau des créatures qu’ils ont chassées et tuées.
 </div></td></tr></table>

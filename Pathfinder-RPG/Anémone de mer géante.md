@@ -91,7 +91,16 @@ de jet d’acide du tigre des profondeurs.
 
 <center>
 
-<table CLASS="tablo"><caption>Table des espèces les plus courantes</caption><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr><td>&emsp;Anémone commune</td><td>1/4</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td>&emsp;Anémone bleue</td><td>1/2</td><td>P</td><td>2d8</td></tr><tr><td>&emsp;Anémone mortuaire</td><td>1</td><td>M</td><td>3d8</td></tr><tr CLASS="alt"><td>&emsp;Anémone des forêts noires</td><td>6</td><td>TG</td><td>9d8</td></tr><tr><td>&emsp;Anémone lit de sirène</td><td>9</td><td>Gig</td><td>14d8</td></tr><tr CLASS="alt"><td>&emsp;Anémone tigre des profondeurs</td><td>13</td><td>C</td><td>19d8</td></tr></table>
+<table CLASS="tablo">
+  <caption>Table des espèces les plus courantes</caption>
+  <tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr><td>&emsp;Anémone commune</td><td>1/4</td><td>TP</td><td>1d8</td></tr>
+  <tr CLASS="alt"><td>&emsp;Anémone bleue</td><td>1/2</td><td>P</td><td>2d8</td></tr>
+  <tr><td>&emsp;Anémone mortuaire</td><td>1</td><td>M</td><td>3d8</td></tr>
+  <tr CLASS="alt"><td>&emsp;Anémone des forêts noires</td><td>6</td><td>TG</td><td>9d8</td></tr>
+  <tr><td>&emsp;Anémone lit de sirène</td><td>9</td><td>Gig</td><td>14d8</td></tr>
+  <tr CLASS="alt"><td>&emsp;Anémone tigre des profondeurs</td><td>13</td><td>C</td><td>19d8</td></tr>
+</table>
 
 </center>
 

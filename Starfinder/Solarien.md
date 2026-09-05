@@ -13,7 +13,229 @@ votre disposition des particules d’énergie fondamentale ou entropique, vous p
 
 <center>
 
-<table CLASS="tablo"><caption>Solarien</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td CLASS="gauche">ARMURE SOLAIRE</td><td COLSPAN="6" CLASS="avecsoustitre">ARME SOLAIRE</td></tr><tr CLASS="soustitre"></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Solarien#ADEPTECOMPÉTANT|Adepte compétent]], [[Solarien#POUVOIRDECONNEXION|manifestation solaire]], [[Solarien#MODESTELLAIRE|mode stellaire]], [[Solarien#RÉVÉLATIONSTELLAIRE|révélation stellaire (trou noir, supernova]]</td><td>CA +1</td><td>1d6</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +1</td><td>1d6</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Solarien#SPECIALISATIONMARTIALE|Spécialisation martiale]], [[Solarien#INFLUENCESIDÉRALE|Influence sidérale (2 compétences]]</td><td>CA +1</td><td>1d6</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +1</td><td>1d6</td></tr><tr CLASS="alt"><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[-]]</td><td>CA +1, résistance 5</td><td>1d6</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +1, résistance 5</td><td>2d6</td></tr><tr><td>7</td><td>+7</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Solarien#ATTAQUESFOUDROYANTES|Attaques foudroyantes]]</td><td>CA +1, résistance 5</td><td>2d6</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+6</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +1, résistance 5</td><td>2d6</td></tr><tr><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSULTIMES|Révélations ultimes]]</td><td>CA +1, résistance 5</td><td>3d6</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +2, résistance 10</td><td>3d6</td></tr><tr><td>11</td><td>+11</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Solarien#INFLUENCESIDÉRALE|Influence sidérale (4 compétences]]</td><td>CA +2, résistance 10</td><td>3d6</td></tr><tr CLASS="alt"><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +2, résistance 10</td><td>4d6</td></tr><tr><td>13</td><td>+13</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Solarien#ASSAUTDUSOLARIEN|Assaut du solarien]]</td><td>CA +2, résistance 10</td><td>5d6</td></tr><tr CLASS="alt"><td>14</td><td>+14</td><td>+9</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +2, résistance 10</td><td>6d6</td></tr><tr><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>+9</td><td CLASS="gauche">[[-]]</td><td>CA +2, résistance 15</td><td>7d6</td></tr><tr CLASS="alt"><td>16</td><td>+16</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +2, résistance 15</td><td>8d6</td></tr><tr><td>17</td><td>+17</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSULTIMES|Révélations ultimes]]</td><td>CA +2, résistance 15</td><td>9d6</td></tr><tr CLASS="alt"><td>18</td><td>+18</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +2, résistance 15</td><td>10d6</td></tr><tr><td>19</td><td>+19</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Solarien#INFLUENCESIDÉRALE|Influence sidérale (6 compétences]]</td><td>CA +2, résistance 15</td><td>11d6</td></tr><tr CLASS="alt"><td>20</td><td>+20</td><td>+12</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Solarien#PARANGONSTELLAIRE|Parangon stellaire]], [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td><td>CA +2, résistance 20</td><td>12d6</td></tr></table>
+<table CLASS="tablo">
+  <caption>Solarien</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td CLASS="gauche">ARMURE SOLAIRE</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">ARME SOLAIRE</td>
+  </tr>
+  <tr CLASS="soustitre"></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Solarien#ADEPTECOMPÉTANT|Adepte compétent]], [[Solarien#POUVOIRDECONNEXION|manifestation solaire]],
+      [[Solarien#MODESTELLAIRE|mode stellaire]], [[Solarien#RÉVÉLATIONSTELLAIRE|révélation stellaire (trou noir,
+      supernova]]
+    </td>
+    <td>CA +1</td>
+    <td>1d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +1</td>
+    <td>1d6</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Solarien#SPECIALISATIONMARTIALE|Spécialisation martiale]], [[Solarien#INFLUENCESIDÉRALE|Influence sidérale
+      (2 compétences]]
+    </td>
+    <td>CA +1</td>
+    <td>1d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +1</td>
+    <td>1d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[-]]</td>
+    <td>CA +1, résistance 5</td>
+    <td>1d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +1, résistance 5</td>
+    <td>2d6</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Solarien#ATTAQUESFOUDROYANTES|Attaques foudroyantes]]</td>
+    <td>CA +1, résistance 5</td>
+    <td>2d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +1, résistance 5</td>
+    <td>2d6</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSULTIMES|Révélations ultimes]]</td>
+    <td>CA +1, résistance 5</td>
+    <td>3d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +2, résistance 10</td>
+    <td>3d6</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Solarien#INFLUENCESIDÉRALE|Influence sidérale (4 compétences]]</td>
+    <td>CA +2, résistance 10</td>
+    <td>3d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+12</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +2, résistance 10</td>
+    <td>4d6</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Solarien#ASSAUTDUSOLARIEN|Assaut du solarien]]</td>
+    <td>CA +2, résistance 10</td>
+    <td>5d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+14</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +2, résistance 10</td>
+    <td>6d6</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[-]]</td>
+    <td>CA +2, résistance 15</td>
+    <td>7d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+16</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +2, résistance 15</td>
+    <td>8d6</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSULTIMES|Révélations ultimes]]</td>
+    <td>CA +2, résistance 15</td>
+    <td>9d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+18</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]</td>
+    <td>CA +2, résistance 15</td>
+    <td>10d6</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Solarien#INFLUENCESIDÉRALE|Influence sidérale (6 compétences]]</td>
+    <td>CA +2, résistance 15</td>
+    <td>11d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+20</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Solarien#PARANGONSTELLAIRE|Parangon stellaire]], [[Solarien#RÉVÉLATIONSTELLAIRE|Révélation stellaire]]
+    </td>
+    <td>CA +2, résistance 20</td>
+    <td>12d6</td>
+  </tr>
+</table>
 
 </center>
 

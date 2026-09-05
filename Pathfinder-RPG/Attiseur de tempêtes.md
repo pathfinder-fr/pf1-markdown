@@ -15,7 +15,133 @@ Alors que certains de ceux qui ont réussi à prendre des niveaux dans cette cla
 
 <center>
 
-<table CLASS="tablo"><caption>L'attiseur de tempêtes</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Attiseur de tempêtes#ESPRITDELOCEAN|Esprit de l'Océan]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Attiseur de tempêtes#VISIONDUMARIN|Vision du marin]], [[Attiseur de tempêtes#FORMEDETEMPETE|forme de tempête]] (6m, Petit)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Attiseur de tempêtes#AURADECALME|Aura de calme]] (1,5m)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Attiseur de tempêtes#FORMEDETEMPETE|Forme de tempête]] (9m, Moyen), [[Attiseur de tempêtes#BRISEURDEVAGUE|briseur de vague]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Attiseur de tempêtes#AURADECALME|Aura de calme]] (3m), [[Attiseur de tempêtes#COUPDETONNERRE|coup de tonnerre]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Attiseur de tempêtes#FORMEDETEMPETE|Forme de tempête]] (12m, Grand), [[Attiseur de tempêtes#FUREURCLIMATIQUE|fureur climatique]] 3d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Attiseur de tempêtes#AURADECALME|Aura de calme]] (4,5m), [[Attiseur de tempêtes#OEILDUCYCLONE|œil du cyclone]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Attiseur de tempêtes#VENTSCAPRICIEUX|Vents capricieux]], [[Attiseur de tempêtes#FORMEDETEMPETE|forme de tempête]] (15m, Très Grand), [[Attiseur de tempêtes#FUREURCLIMATIQUE|fureur climatique]] 4d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Attiseur de tempêtes#AURADECALME|Aura de calme]] (6m), [[Attiseur de tempêtes#ECHODUTONNERRE|écho du tonnerre]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Attiseur de tempêtes#MAITRISEDESTEMPETES|Maîtrise des tempêtes]], [[Attiseur de tempêtes#FORMEDETEMPETE|forme de tempête]] (18m, Très Grand), [[Attiseur de tempêtes#FUREURCLIMATIQUE|fureur climatique]] 5d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'attiseur de tempêtes</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Attiseur de tempêtes#ESPRITDELOCEAN|Esprit de l'Océan]]</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#VISIONDUMARIN|Vision du marin]], [[Attiseur de tempêtes#FORMEDETEMPETE|forme de
+      tempête]] (6m, Petit)
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Attiseur de tempêtes#AURADECALME|Aura de calme]] (1,5m)</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#FORMEDETEMPETE|Forme de tempête]] (9m, Moyen), [[Attiseur de
+      tempêtes#BRISEURDEVAGUE|briseur de vague]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#AURADECALME|Aura de calme]] (3m), [[Attiseur de tempêtes#COUPDETONNERRE|coup de
+      tonnerre]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#FORMEDETEMPETE|Forme de tempête]] (12m, Grand), [[Attiseur de
+      tempêtes#FUREURCLIMATIQUE|fureur climatique]] 3d6
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#AURADECALME|Aura de calme]] (4,5m), [[Attiseur de tempêtes#OEILDUCYCLONE|œil du
+      cyclone]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#VENTSCAPRICIEUX|Vents capricieux]], [[Attiseur de tempêtes#FORMEDETEMPETE|forme de
+      tempête]] (15m, Très Grand), [[Attiseur de tempêtes#FUREURCLIMATIQUE|fureur climatique]] 4d6
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#AURADECALME|Aura de calme]] (6m), [[Attiseur de tempêtes#ECHODUTONNERRE|écho du
+      tonnerre]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Attiseur de tempêtes#MAITRISEDESTEMPETES|Maîtrise des tempêtes]], [[Attiseur de
+      tempêtes#FORMEDETEMPETE|forme de tempête]] (18m, Très Grand), [[Attiseur de tempêtes#FUREURCLIMATIQUE|fureur
+      climatique]] 5d6
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 </center>
 

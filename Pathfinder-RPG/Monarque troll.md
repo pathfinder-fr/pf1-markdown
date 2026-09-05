@@ -41,7 +41,21 @@ Categories:
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de Troll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr><tr><td>[[Troll]]</td><td>5</td></tr><tr><td>[[Acolyte troll]]</td><td>6</td></tr><tr><td>[[Gardien troll]]</td><td>6</td></tr><tr><td>[[Brute troll]]</td><td>7</td></tr><tr><td>[[Étripeur troll]]</td><td>8</td></tr><tr><td>[[Troll furieux]]</td><td>8</td></tr><tr><td>[[Berserker troll]]</td><td>9</td></tr><tr><td>[[Éventreur troll]]</td><td>10</td></tr><tr><td>[[Matrone âgée troll]]</td><td>10</td></tr><tr><td>[[Monarque troll]]</td><td>15</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de Troll</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr>
+  <tr><td>[[Troll]]</td><td>5</td></tr>
+  <tr><td>[[Acolyte troll]]</td><td>6</td></tr>
+  <tr><td>[[Gardien troll]]</td><td>6</td></tr>
+  <tr><td>[[Brute troll]]</td><td>7</td></tr>
+  <tr><td>[[Étripeur troll]]</td><td>8</td></tr>
+  <tr><td>[[Troll furieux]]</td><td>8</td></tr>
+  <tr><td>[[Berserker troll]]</td><td>9</td></tr>
+  <tr><td>[[Éventreur troll]]</td><td>10</td></tr>
+  <tr><td>[[Matrone âgée troll]]</td><td>10</td></tr>
+  <tr><td>[[Monarque troll]]</td><td>15</td></tr>
+</table>
 
 </div>Seuls les trolls les plus puissants peuvent espérer devenir des rois ou des reines parmi les leurs. Devenir monarque demande un mélange de chance, de talent, de force brute, d’intelligence (au moins par rapport aux autres trolls) et, parfois même, un objet magique utile qui apportera un avantage sur les autres prétendants.
 

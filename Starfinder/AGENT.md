@@ -14,7 +14,202 @@ LastModified: 2019-09-01 18:46
 
 <center>
 
-<table CLASS="tablo"><caption>L'Agent</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +1, [[Agent#SPECIALISATION|Spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +1d4</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Agent#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +2, [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+3m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +1d8, [[Agent#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#SEQUELLEHANDICAPANTE|Séquelle handicapante]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Agent#EXPLOITDESPECIALISATION|Exploit de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +3d8</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +3, [[Agent#MAITRISEDESPECIALISATION|Maîtrise de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +4d8, agilité surhumaine</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+6</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#TRIPLEATTAQUE|Triple attaque]]</td></tr><tr><td>9</td><td>+6</td><td>+6</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+6m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +5d8</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>11</td><td>+8</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +4, [[Agent#POUVOIRDESPECIALISATION|Pouvoir de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +6d8</td></tr><tr CLASS="alt"><td>12</td><td>+9</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>13</td><td>+9</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Agent#QUADRUPLEATTAQUE|Quadruple attaque]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +7d8</td></tr><tr CLASS="alt"><td>14</td><td>+10</td><td>+9</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>15</td><td>+11</td><td>+9</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +5, [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+9m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +8d8</td></tr><tr CLASS="alt"><td>16</td><td>+12</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>17</td><td>+12</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Agent#DOUBLEHANDICAP|Double handicap]] [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +9d8</td></tr><tr CLASS="alt"><td>18</td><td>+13</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td></tr><tr><td>19</td><td>+14</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +6, [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +10d8</td></tr><tr CLASS="alt"><td>20</td><td>+15</td><td>+12</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#AGENTSUPREME|Agent suprême]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'Agent</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +1, [[Agent#SPECIALISATION|Spécialisation]],
+      [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +1d4
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Agent#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +2, [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+3m),
+      [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +1d8, [[Agent#SPECIALISATIONMARTIALE|Spécialisation martiale]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#SEQUELLEHANDICAPANTE|Séquelle handicapante]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Agent#EXPLOITDESPECIALISATION|Exploit de spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +3d8
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +3, [[Agent#MAITRISEDESPECIALISATION|Maîtrise de
+      spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +4d8, agilité surhumaine
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#TRIPLEATTAQUE|Triple attaque]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+6m), [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +5d8
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +4, [[Agent#POUVOIRDESPECIALISATION|Pouvoir de
+      spécialisation]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +6d8
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[Agent#QUADRUPLEATTAQUE|Quadruple attaque]], [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +7d8
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">
+      [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +5, [[Agent#DEPLACEMENTRAPIDE|Déplacement rapide]] (+9m),
+      [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +8d8
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Agent#DOUBLEHANDICAP|Double handicap]] [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +9d8</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]]</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">
+      [[Agent#AVANTAGEDELAGENT|Avantage de l'agent]] +6, [[Agent#FEINTEOFFENSIVE|Feinte offensive]] +10d8
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[Agent#EXPLOITDAGENT|Exploit d'agent]], [[Agent#AGENTSUPREME|Agent suprême]]</td>
+  </tr>
+</table>
 
 </center>
 

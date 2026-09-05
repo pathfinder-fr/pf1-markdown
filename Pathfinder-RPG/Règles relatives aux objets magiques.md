@@ -25,7 +25,15 @@ Pour les objets que vous concevez et qui requièrent plusieurs sorts pour leur c
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Nature de l’objet</td><td>École</td></tr><tr CLASS="premier"><td>Arme ou objet d’attaque</td><td>[[Présentation des sorts#EVOCATION|Évocation]]</td></tr><tr CLASS="alt"><td>Armure ou objet de protection</td><td>[[Présentation des sorts#ABJURATION|Abjuration]]</td></tr><tr><td>Objet conférant un bonus à une caractéristique, à un test de compétence, etc.</td><td>[[Présentation des sorts#TRANSMUTATION|Transmutation]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Nature de l’objet</td><td>École</td></tr>
+  <tr CLASS="premier"><td>Arme ou objet d’attaque</td><td>[[Présentation des sorts#EVOCATION|Évocation]]</td></tr>
+  <tr CLASS="alt"><td>Armure ou objet de protection</td><td>[[Présentation des sorts#ABJURATION|Abjuration]]</td></tr>
+  <tr>
+    <td>Objet conférant un bonus à une caractéristique, à un test de compétence, etc.</td>
+    <td>[[Présentation des sorts#TRANSMUTATION|Transmutation]]</td>
+  </tr>
+</table>
 
 </center>
 
@@ -94,7 +102,35 @@ Une silhouette humanoïde peut être équipée magiquement avec un objet de chac
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Emplacement</td><td CLASS="gauche">Description</td></tr><tr CLASS="premier"><td>Armure</td><td CLASS="gauche">une armure.</td></tr><tr CLASS="alt"><td>Sur la tête</td><td CLASS="gauche">une couronne, un casque, un couvre-chef, un masque ou un diadème.</td></tr><tr><td>Sur le front</td><td CLASS="gauche">un bandeau ou un phylactère.</td></tr><tr CLASS="alt"><td>Devant les yeux</td><td CLASS="gauche">des lentilles, un monocle ou une paire de lunettes.</td></tr><tr><td>Autour du cou</td><td CLASS="gauche">une amulette, une broche, un charme, un collier, un médaillon ou un scarabée.</td></tr><tr CLASS="alt"><td>Sur les épaules</td><td CLASS="gauche">une cape, une écharpe ou un manteau.</td></tr><tr><td>Sur le torse</td><td CLASS="gauche">une chasuble, une chemise, un gilet ou une veste.</td></tr><tr CLASS="alt"><td>Sur le corps</td><td CLASS="gauche">un manteau ou une robe.</td></tr><tr><td>Autour de la taille</td><td CLASS="gauche">une ceinture ou un ceinturon.</td></tr><tr CLASS="alt"><td>Sur les bras ou les poignets</td><td CLASS="gauche">une paire de bracelets.</td></tr><tr><td>Aux mains</td><td CLASS="gauche">une paire de gants ou de gantelets.</td></tr><tr CLASS="alt"><td>Bouclier</td><td CLASS="gauche">un bouclier.</td></tr><tr><td>Aux pieds</td><td CLASS="gauche">une paire de bottes ou de chaussures.</td></tr><tr CLASS="alt"><td>Aux doigts</td><td CLASS="gauche">deux anneaux (un sur chaque main ou les deux sur la même main).</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Emplacement</td><td CLASS="gauche">Description</td></tr>
+  <tr CLASS="premier"><td>Armure</td><td CLASS="gauche">une armure.</td></tr>
+  <tr CLASS="alt">
+    <td>Sur la tête</td>
+    <td CLASS="gauche">une couronne, un casque, un couvre-chef, un masque ou un diadème.</td>
+  </tr>
+  <tr><td>Sur le front</td><td CLASS="gauche">un bandeau ou un phylactère.</td></tr>
+  <tr CLASS="alt">
+    <td>Devant les yeux</td>
+    <td CLASS="gauche">des lentilles, un monocle ou une paire de lunettes.</td>
+  </tr>
+  <tr>
+    <td>Autour du cou</td>
+    <td CLASS="gauche">une amulette, une broche, un charme, un collier, un médaillon ou un scarabée.</td>
+  </tr>
+  <tr CLASS="alt"><td>Sur les épaules</td><td CLASS="gauche">une cape, une écharpe ou un manteau.</td></tr>
+  <tr><td>Sur le torse</td><td CLASS="gauche">une chasuble, une chemise, un gilet ou une veste.</td></tr>
+  <tr CLASS="alt"><td>Sur le corps</td><td CLASS="gauche">un manteau ou une robe.</td></tr>
+  <tr><td>Autour de la taille</td><td CLASS="gauche">une ceinture ou un ceinturon.</td></tr>
+  <tr CLASS="alt"><td>Sur les bras ou les poignets</td><td CLASS="gauche">une paire de bracelets.</td></tr>
+  <tr><td>Aux mains</td><td CLASS="gauche">une paire de gants ou de gantelets.</td></tr>
+  <tr CLASS="alt"><td>Bouclier</td><td CLASS="gauche">un bouclier.</td></tr>
+  <tr><td>Aux pieds</td><td CLASS="gauche">une paire de bottes ou de chaussures.</td></tr>
+  <tr CLASS="alt">
+    <td>Aux doigts</td>
+    <td CLASS="gauche">deux anneaux (un sur chaque main ou les deux sur la même main).</td>
+  </tr>
+</table>
 
 </center>
 
@@ -134,7 +170,23 @@ Ce qui suit aidera le [[MJ]] à déterminer quels sont les objets que l’on peu
 {s:Reference|TABLEOBJETSMAGIQUESDISPONIBLES}
 <center>
 
-<table CLASS="tablo"><caption>Objets magiques disponibles</caption><tr CLASS="titre"><td>Taille</td><td>Valeur de base</td><td>Mineur</td><td>Moyen</td><td>Majeur</td></tr><tr CLASS="premier"><td>Lieu-dit</td><td>50 po</td><td>1d4 objets</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Hameau</td><td>200 po</td><td>1d6 objets</td><td>—</td><td>—</td></tr><tr><td>Village</td><td>500 po</td><td>2d4 objets</td><td>1d4 objets</td><td>—</td></tr><tr CLASS="alt"><td>Petite bourgade</td><td>1 000 po</td><td>3d4 objets</td><td>1d6 objets</td><td>—</td></tr><tr><td>Grosse bourgade</td><td>2 000 po</td><td>3d4 objets</td><td>2d4 objets</td><td>1d4 objets</td></tr><tr CLASS="alt"><td>Petite ville</td><td>4 000 po</td><td>4d4 objets</td><td>3d4 objets</td><td>1d6 objets</td></tr><tr><td>Grande ville</td><td>8 000 po</td><td>4d4 objets</td><td>3d4 objets</td><td>2d4 objets</td></tr><tr CLASS="alt"><td>Métropole</td><td>16 000 po</td><td>*</td><td>4d4 objets</td><td>3d4 objets</td></tr><tr><td CLASS="note" COLSPAN="5">*(*) Dans une capitale, pratiquement l’intégralité des objets magiques mineurs sont disponibles.*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Objets magiques disponibles</caption>
+  <tr CLASS="titre"><td>Taille</td><td>Valeur de base</td><td>Mineur</td><td>Moyen</td><td>Majeur</td></tr>
+  <tr CLASS="premier"><td>Lieu-dit</td><td>50 po</td><td>1d4 objets</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Hameau</td><td>200 po</td><td>1d6 objets</td><td>—</td><td>—</td></tr>
+  <tr><td>Village</td><td>500 po</td><td>2d4 objets</td><td>1d4 objets</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Petite bourgade</td><td>1 000 po</td><td>3d4 objets</td><td>1d6 objets</td><td>—</td></tr>
+  <tr><td>Grosse bourgade</td><td>2 000 po</td><td>3d4 objets</td><td>2d4 objets</td><td>1d4 objets</td></tr>
+  <tr CLASS="alt"><td>Petite ville</td><td>4 000 po</td><td>4d4 objets</td><td>3d4 objets</td><td>1d6 objets</td></tr>
+  <tr><td>Grande ville</td><td>8 000 po</td><td>4d4 objets</td><td>3d4 objets</td><td>2d4 objets</td></tr>
+  <tr CLASS="alt"><td>Métropole</td><td>16 000 po</td><td>*</td><td>4d4 objets</td><td>3d4 objets</td></tr>
+  <tr>
+    <td CLASS="note" COLSPAN="5">
+      *(*) Dans une capitale, pratiquement l’intégralité des objets magiques mineurs sont disponibles.*
+    </td>
+  </tr>
+</table>
 
 </center>
 

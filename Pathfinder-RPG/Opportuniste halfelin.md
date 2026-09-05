@@ -15,7 +15,74 @@ La plupart des opportunistes halfelins commencent leur carrière comme roublards
 {s:Reference|TABLEASPIRANTALILLUMINATION}
 <center>
 
-<table CLASS="tablo"><caption>L'opportuniste halfelin</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Opportuniste halfelin#MANOEUVREMESQUINE|Manœuvre mesquine]], [[Opportuniste halfelin#DENICHEURDEPIEGES|dénicheur de pièges]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente assistance +1]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Opportuniste halfelin#CHANCEEXCEPTIONNELLE|Chance exceptionnelle +2]], [[Opportuniste halfelin#ATTAQUESOURNOISE|attaque sournoise +1d6]], [[Opportuniste halfelin#DENICHEURDEPIEGESSUPERIEUR|dénicheur de pièges supérieur]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Opportuniste halfelin#INTEGRATION|Intégration]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente assistance +2]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Opportuniste halfelin#CHANCEEXCEPTIONNELLE|Chance exceptionnelle +3]], [[Opportuniste halfelin#ATTAQUESOURNOISE|attaque sournoise +2d6]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Opportuniste halfelin#ATTAQUANTOPPORTUNISTE|Attaquant opportuniste]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente assistance +3]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'opportuniste halfelin</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Opportuniste halfelin#MANOEUVREMESQUINE|Manœuvre mesquine]], [[Opportuniste
+      halfelin#DENICHEURDEPIEGES|dénicheur de pièges]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente
+      assistance +1]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Opportuniste halfelin#CHANCEEXCEPTIONNELLE|Chance exceptionnelle +2]], [[Opportuniste
+      halfelin#ATTAQUESOURNOISE|attaque sournoise +1d6]], [[Opportuniste
+      halfelin#DENICHEURDEPIEGESSUPERIEUR|dénicheur de pièges supérieur]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Opportuniste halfelin#INTEGRATION|Intégration]], [[Opportuniste halfelin#EXCELLENTEASSISTANCE|excellente
+      assistance +2]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Opportuniste halfelin#CHANCEEXCEPTIONNELLE|Chance exceptionnelle +3]], [[Opportuniste
+      halfelin#ATTAQUESOURNOISE|attaque sournoise +2d6]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Opportuniste halfelin#ATTAQUANTOPPORTUNISTE|Attaquant opportuniste]], [[Opportuniste
+      halfelin#EXCELLENTEASSISTANCE|excellente assistance +3]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

@@ -73,7 +73,15 @@ Les variantes les plus courantes sont reprises dans la table ci-dessous :
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">Scutigère véloce</td><td>1/8</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td class="gauche">Mille-pattes des égouts</td><td>1/4</td><td>P</td><td>1d8</td></tr><tr CLASS><td class="gauche">Mille-pattes sifflant</td><td>1</td><td>G</td><td>2d8</td></tr><tr CLASS="alt"><td class="gauche">Mille-pattes à queue fouettante</td><td>2</td><td>TG</td><td>4d8</td></tr><tr CLASS><td class="gauche">Grand mille-pattes des forêts</td><td>6</td><td>Gig</td><td>7d8</td></tr><tr CLASS="alt"><td class="gauche">Mille-pattes titanesque</td><td>9</td><td>Col</td><td>10d8</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td class="gauche">Scutigère véloce</td><td>1/8</td><td>TP</td><td>1d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Mille-pattes des égouts</td><td>1/4</td><td>P</td><td>1d8</td></tr>
+  <tr CLASS><td class="gauche">Mille-pattes sifflant</td><td>1</td><td>G</td><td>2d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Mille-pattes à queue fouettante</td><td>2</td><td>TG</td><td>4d8</td></tr>
+  <tr CLASS><td class="gauche">Grand mille-pattes des forêts</td><td>6</td><td>Gig</td><td>7d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Mille-pattes titanesque</td><td>9</td><td>Col</td><td>10d8</td></tr>
+</table></center>
 
 
 #### Le Mille-pattes géant comme compagnon animal

@@ -21,7 +21,12 @@ Categories:
   - *Résistance aux énergies destructives et réduction des dégâts (Sur)*. Un seigneur de l’ombre gagne une réduction des dégâts et une résistance au froid et à l’électricité en fonction du nombre de ses dés de vie, comme indiqué dans la table ci-dessous. Elles remplacent les résistances aux énergies destructives et la réduction des dégâts conférées par l’archétype de créature de l’ombre.
 
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Dés de Vie</td><td>Résistance au froid et à l’électricité</td><td>RD</td></tr><tr CLASS="premier"><td>5-10</td><td>15</td><td>10/magie</td></tr><tr><td>11-15</td><td>20</td><td>15/magie</td></tr><tr><td>16+</td><td>30</td><td>20/magie</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Dés de Vie</td><td>Résistance au froid et à l’électricité</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>5-10</td><td>15</td><td>10/magie</td></tr>
+  <tr><td>11-15</td><td>20</td><td>15/magie</td></tr>
+  <tr><td>16+</td><td>30</td><td>20/magie</td></tr>
+</table>
 
 - 
   - *Démarche intangible (Sur).* Lorsqu’un seigneur de l’ombre se déplace, il gagne le sous-type et la particularité intangible, ainsi qu’un bonus de parade à la CA égal à son bonus de Charisme. Il perd ce sous-type et ce pouvoir spécial lorsqu’il arrête de se déplacer. 

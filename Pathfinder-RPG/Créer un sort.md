@@ -77,17 +77,49 @@ Quand vous consultez les tables des Dégâts maximaux, n’oubliez pas que les s
 
 <table class="page espace-col deuxcol"><tr><td>
 
-<table CLASS="tablo toutgauche"><caption>Dégâts maximaux des sorts profanes</caption><tr CLASS="titre"><td>Niveau du  
-sort profane</td><td>Dégâts max  
-(cible unique)</td><td>Dégâts max  
-(cibles multiples)</td></tr><tr CLASS="premier"><td>1</td><td>5 dés</td><td>-</td></tr><tr><td>2</td><td>10 dés</td><td>5 dés</td></tr><tr><td>3</td><td>10 dés</td><td>10 dés</td></tr><tr><td>4</td><td>15 dés</td><td>10 dés</td></tr><tr><td>5</td><td>15 dés</td><td>15 dés</td></tr><tr><td>6</td><td>20 dés</td><td>15 dés</td></tr><tr><td>7</td><td>20 dés</td><td>20 dés</td></tr><tr><td>8</td><td>25 dés</td><td>20 dés</td></tr><tr><td>9</td><td>25 dés</td><td>25 dés</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Dégâts maximaux des sorts profanes</caption>
+  <tr CLASS="titre">
+    <td>Niveau du  
+sort profane</td>
+    <td>Dégâts max  
+(cible unique)</td>
+    <td>Dégâts max  
+(cibles multiples)</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>5 dés</td><td>-</td></tr>
+  <tr><td>2</td><td>10 dés</td><td>5 dés</td></tr>
+  <tr><td>3</td><td>10 dés</td><td>10 dés</td></tr>
+  <tr><td>4</td><td>15 dés</td><td>10 dés</td></tr>
+  <tr><td>5</td><td>15 dés</td><td>15 dés</td></tr>
+  <tr><td>6</td><td>20 dés</td><td>15 dés</td></tr>
+  <tr><td>7</td><td>20 dés</td><td>20 dés</td></tr>
+  <tr><td>8</td><td>25 dés</td><td>20 dés</td></tr>
+  <tr><td>9</td><td>25 dés</td><td>25 dés</td></tr>
+</table>
 
 </td><td>
 
-<table CLASS="tablo toutgauche"><caption>Dégâts maximaux des sorts divins</caption><tr CLASS="titre"><td>Niveau du  
-sort divin</td><td>Dégâts max  
-(cible unique)</td><td>Dégâts max  
-(cibles multiples)</td></tr><tr CLASS="premier"><td>1</td><td>1 dé</td><td>-</td></tr><tr><td>2</td><td>5 dés</td><td>1 dé</td></tr><tr><td>3</td><td>10 dés</td><td>5 dés</td></tr><tr><td>4</td><td>10 dés</td><td>10 dés</td></tr><tr><td>5</td><td>15 dés</td><td>10 dés</td></tr><tr><td>6</td><td>15 dés</td><td>15 dés</td></tr><tr><td>7</td><td>20 dés</td><td>15 dés</td></tr><tr><td>8</td><td>20 dés</td><td>20 dés</td></tr><tr><td>9</td><td>25 dés</td><td>20 dés</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Dégâts maximaux des sorts divins</caption>
+  <tr CLASS="titre">
+    <td>Niveau du  
+sort divin</td>
+    <td>Dégâts max  
+(cible unique)</td>
+    <td>Dégâts max  
+(cibles multiples)</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>1 dé</td><td>-</td></tr>
+  <tr><td>2</td><td>5 dés</td><td>1 dé</td></tr>
+  <tr><td>3</td><td>10 dés</td><td>5 dés</td></tr>
+  <tr><td>4</td><td>10 dés</td><td>10 dés</td></tr>
+  <tr><td>5</td><td>15 dés</td><td>10 dés</td></tr>
+  <tr><td>6</td><td>15 dés</td><td>15 dés</td></tr>
+  <tr><td>7</td><td>20 dés</td><td>15 dés</td></tr>
+  <tr><td>8</td><td>20 dés</td><td>20 dés</td></tr>
+  <tr><td>9</td><td>25 dés</td><td>20 dés</td></tr>
+</table>
 
 </td></tr></table>
 
@@ -174,7 +206,70 @@ Il existe de nombreux types de bonus dans le jeu. Il est très tentant de consul
 Un tiret (–) indique qu’il n’existe pas d’exemple de sorts qui offre ce type de bonus. Si vous créez un objet ou un sort et que vous désirez lui ajouter un bonus à une caractéristique ou un pouvoir particulier, consultez d’abord cette table. Si le type de bonus ne s’applique pas à une caractéristique ou une aptitude, choisissez-en un pour lequel ce sera le cas. Cette table existe car certains bonus sont plus avantageux que d’autres (les bonus de parade fonctionnent contre les créatures intangibles et quand le personnage est pris au dépourvu, les bonus d’armure naturelle non). De plus, si l’on autorise n’importe quel bonus à affecter n’importe quel jet ou statistique, il sera très facile de cumuler nombre de bonus faibles qui reviennent moins cher qu’un gros, ce qui diminue l’intérêt des objets magiques puissants comme *[[anneau de protection]] +5*. Et enfin, certaines de ces combinaisons n’ont simplement aucun sens, comme un bonus de parade à la Force ou un bonus de bouclier sur un test de [[Connaissances]].
 
 
-<table CLASS="tablo toutgauche"><caption>Les types de bonus et leurs effets</caption><tr CLASS="titre"><td>Type de bonus</td><td>Peut affecter</td><td>Exemple d’objet</td><td>Exemple de sort</td></tr><tr CLASS="premier"><td>Alchimique</td><td>caractéristiques, jets de sauvegarde</td><td>antidote</td><td>-</td></tr><tr><td>Altération</td><td>caractéristique, CA, attaques, dégâts, vitesse</td><td>*[[ceinturon de force de géant]]*</td><td>*[[arme magique]]*</td></tr><tr><td>Armure</td><td>CA</td><td>*[[bracelets darmure|bracelets d’armure]]*</td><td>*[[armure de mage]]*</td></tr><tr><td>Armure naturelle</td><td>CA</td><td>*[[amulette darmure naturelle|amulette d’armure naturelle]]*</td><td>*[[peau décorce|peau d’écorce]]*</td></tr><tr><td>Bouclier</td><td>CA</td><td>*[[anneau de bouclier de force]]*</td><td>*[[bouclier]]*</td></tr><tr><td>Chance</td><td>CA, attaques, tests, dégâts, jets de sauvegarde</td><td>*[[pierre porte-bonheur]]*</td><td>*[[faveur divine]]*</td></tr><tr><td>Circonstance</td><td>attaques, tests</td><td>*[[robe de mimétisme]]*</td><td>-</td></tr><tr><td>Compétence</td><td>attaques, tests, jets de sauvegarde</td><td>*[[bottes elfiques]]*</td><td>*[[assistance divine]]*</td></tr><tr><td>Esquive</td><td>CA</td><td>jamais<sup>*</sup></td><td>jamais<sup>*</sup></td></tr><tr><td>Inné</td><td>caractéristique</td><td>*[[manuel de vitalité]]*</td><td>*[[souhait]]*</td></tr><tr><td>Intuition</td><td>CA, attaques, tests, jets de sauvegarde</td><td>*[[pierre ioun]] (prisme rose laiteux)*</td><td>*[[coup au but]]*</td></tr><tr><td>Malfaisance</td><td>CA, tests, dégâts, DD, jets de sauvegarde</td><td>-</td><td>*[[profanation]]*</td></tr><tr><td>Moral</td><td>attaques, tests, dégâts, jets de sauvegarde, For, Con, Dex</td><td>*[[cierge dinvocation|cierge d’invocation]]*</td><td>*[[bénédiction]]*</td></tr><tr><td>Parade</td><td>CA</td><td>*[[anneau de protection]]*</td><td>*[[bouclier de la foi]]*</td></tr><tr><td>Résistance</td><td>jets de sauvegarde</td><td>*[[cape de résistance]]*</td><td>*[[esprit impénétrable]]*</td></tr><tr><td>Sacré</td><td>CA, tests, dégâts, DD, jets de sauvegarde</td><td>-</td><td>*[[consécration]]*</td></tr><tr><td>Taille</td><td>caractéristique, attaques, CA</td><td>-</td><td>*[[agrandissement]]*</td></tr><tr><td COLSPAN="4"><sup>*</sup> Les sorts et les objets magiques ne devraient jamais donner de bonus d’esquive car ces bonus se cumulent toujours et il serait trop simple d’accumuler des sorts ou des objets de bas niveau qui donnent un bonus d’esquive pour avoir une CA incroyablement élevée à bien moindre coût plutôt qu’en utilisant les bonus d’armure, de parade, d’altération et d’armure naturelle du jeu.</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Les types de bonus et leurs effets</caption>
+  <tr CLASS="titre"><td>Type de bonus</td><td>Peut affecter</td><td>Exemple d’objet</td><td>Exemple de sort</td></tr>
+  <tr CLASS="premier"><td>Alchimique</td><td>caractéristiques, jets de sauvegarde</td><td>antidote</td><td>-</td></tr>
+  <tr>
+    <td>Altération</td>
+    <td>caractéristique, CA, attaques, dégâts, vitesse</td>
+    <td>*[[ceinturon de force de géant]]*</td>
+    <td>*[[arme magique]]*</td>
+  </tr>
+  <tr><td>Armure</td><td>CA</td><td>*[[bracelets darmure|bracelets d’armure]]*</td><td>*[[armure de mage]]*</td></tr>
+  <tr>
+    <td>Armure naturelle</td>
+    <td>CA</td>
+    <td>*[[amulette darmure naturelle|amulette d’armure naturelle]]*</td>
+    <td>*[[peau décorce|peau d’écorce]]*</td>
+  </tr>
+  <tr><td>Bouclier</td><td>CA</td><td>*[[anneau de bouclier de force]]*</td><td>*[[bouclier]]*</td></tr>
+  <tr>
+    <td>Chance</td>
+    <td>CA, attaques, tests, dégâts, jets de sauvegarde</td>
+    <td>*[[pierre porte-bonheur]]*</td>
+    <td>*[[faveur divine]]*</td>
+  </tr>
+  <tr><td>Circonstance</td><td>attaques, tests</td><td>*[[robe de mimétisme]]*</td><td>-</td></tr>
+  <tr>
+    <td>Compétence</td>
+    <td>attaques, tests, jets de sauvegarde</td>
+    <td>*[[bottes elfiques]]*</td>
+    <td>*[[assistance divine]]*</td>
+  </tr>
+  <tr><td>Esquive</td><td>CA</td><td>jamais<sup>*</sup></td><td>jamais<sup>*</sup></td></tr>
+  <tr><td>Inné</td><td>caractéristique</td><td>*[[manuel de vitalité]]*</td><td>*[[souhait]]*</td></tr>
+  <tr>
+    <td>Intuition</td>
+    <td>CA, attaques, tests, jets de sauvegarde</td>
+    <td>*[[pierre ioun]] (prisme rose laiteux)*</td>
+    <td>*[[coup au but]]*</td>
+  </tr>
+  <tr><td>Malfaisance</td><td>CA, tests, dégâts, DD, jets de sauvegarde</td><td>-</td><td>*[[profanation]]*</td></tr>
+  <tr>
+    <td>Moral</td>
+    <td>attaques, tests, dégâts, jets de sauvegarde, For, Con, Dex</td>
+    <td>*[[cierge dinvocation|cierge d’invocation]]*</td>
+    <td>*[[bénédiction]]*</td>
+  </tr>
+  <tr><td>Parade</td><td>CA</td><td>*[[anneau de protection]]*</td><td>*[[bouclier de la foi]]*</td></tr>
+  <tr>
+    <td>Résistance</td>
+    <td>jets de sauvegarde</td>
+    <td>*[[cape de résistance]]*</td>
+    <td>*[[esprit impénétrable]]*</td>
+  </tr>
+  <tr><td>Sacré</td><td>CA, tests, dégâts, DD, jets de sauvegarde</td><td>-</td><td>*[[consécration]]*</td></tr>
+  <tr><td>Taille</td><td>caractéristique, attaques, CA</td><td>-</td><td>*[[agrandissement]]*</td></tr>
+  <tr>
+    <td COLSPAN="4">
+      <sup>*</sup> Les sorts et les objets magiques ne devraient jamais donner de bonus d’esquive car ces bonus se
+      cumulent toujours et il serait trop simple d’accumuler des sorts ou des objets de bas niveau qui donnent un
+      bonus d’esquive pour avoir une CA incroyablement élevée à bien moindre coût plutôt qu’en utilisant les bonus
+      d’armure, de parade, d’altération et d’armure naturelle du jeu.
+    </td>
+  </tr>
+</table>
 
 
 

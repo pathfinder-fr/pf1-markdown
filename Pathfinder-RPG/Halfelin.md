@@ -225,7 +225,260 @@ Voici les options accessibles aux halfelins, d’autres races adaptées peuvent 
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Acclamation incessante]]</td><td><sup>*ISR*</sup></td><td>[[Halfelin]], traits raicuax chance des halfelins et sans peur</td><td>+1 aux jets de sauvegarde qui passe à +3 contre la peur lorsqu'adjacent à un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Adroit et rapide]]</td><td><sup>MR</sup></td><td>Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|pieds rapides]], [[halfelin]]</td><td>+2 aux tests d'Acrobaties et d'Escalade</td></tr><tr CLASS="premier"><td>[[Alchimie maudite]]</td><td><sup>MR</sup></td><td>Capacité de classe [[Alchimiste#ALCHIMIERAPIDE|alchimie rapide]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Empêche les créatures maudites de bénéficier des effets des potions et des objets alchimiques</td></tr><tr CLASS="premier"><td>[[Apparence enfantine]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 13, [[halfelin]]</td><td>+2 en Déguisement pour se faire passer pour un humain, faire 10 pour Bluff</td></tr><tr CLASS="premier"><td>[[Bien préparé]]</td><td><sup>MJRA</sup></td><td>[[Halfelin]]</td><td>Le personnage possède toute une séries d’objets communs</td></tr><tr CLASS="premier"><td>[[Combattant prudent]]*</td><td><sup>MR</sup></td><td>[[Halfelin]]</td><td>Augmente le bonus à la CA du combat sur la défensive et de la défense totale</td></tr><tr><td>&emsp;[[Coup désespéré]]*</td><td><sup>MR</sup></td><td>[[Combattant prudent]], [[BBA]] +1, [[halfelin]]</td><td>+4 aux jets de confirmation critique en se battant sur la défensive, effectue une attaque en défense totale 1 fois par jour</td></tr><tr><td>&emsp;&emsp;[[Frappe surprenante]]*</td><td><sup>MR</sup></td><td>[[Combattant prudent]], [[Coup désespéré]], [[BBA]] +6, [[halfelin]]</td><td>1 fois par jour, ignore le malus à l'attaque imposé par le combat sur la défensive ou Coup désespéré</td></tr><tr><td>&emsp;[[Défense instinctive]]*</td><td><sup>MR</sup></td><td>[[Combattant prudent]], [[BBA]] +3, [[halfelin]]</td><td>Bonus aux Réflexes et au DMD en combattant sur la défensive ou en défense totale</td></tr><tr><td>&emsp;[[Défense maladroite]]*</td><td><sup>MR</sup></td><td>[[Combattant prudent]], [[halfelin]]</td><td>Confère un bonus à la CA et au DMD des alliés en combattant sur la défensive ou en défense totale</td></tr><tr CLASS="premier"><td>[[Frappe chanceuse]]*</td><td><sup>MR</sup></td><td>[[BBA]] +5, trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]]</td><td>Relance les dégâts des armes avec chance adaptative</td></tr><tr CLASS="premier"><td>[[Frappe risquée]]*</td><td><sup>MR</sup></td><td>[[BBA]] +1, [[halfelin]]</td><td>Échange de la CA pour un bonus à l'attaque contre les créatures plus grandes</td></tr><tr CLASS="premier"><td>[[Frondeur-fouetteur]]*</td><td><sup>MR</sup></td><td>Maniement de la [[fronde (arme)|fronde]]</td><td>Le personnage menace les cases autour de lui quand il est armé d'une fronde</td></tr><tr CLASS="premier"><td>[[Frondeur halfelin]]*</td><td><sup>MR</sup></td><td>[[Halfelin]]</td><td>Bonus racial de +1 à l'attaque avec les frondes</td></tr><tr CLASS="premier"><td>[[Grande cible]]*</td><td><sup>MR</sup></td><td>Maniement de la [[fronde (arme)|fronde]]</td><td>Inflige plus de dégâts avec une fronde contre les créature plus grandes</td></tr><tr CLASS="premier"><td>[[Guérisseur chanceux]]</td><td><sup>MR</sup></td><td>Trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]]</td><td>Utilise chance adaptative pour relancer les dégâts soignés par magie</td></tr><tr CLASS="premier"><td>[[Halfelin porte-chance]]</td><td><sup>MJRA</sup></td><td>[[Halfelin]]</td><td>Permet de lancer un jet de sauvegarde pour un allié 1/jour</td></tr><tr CLASS="premier"><td>[[Individu chanceux]]</td><td><sup>MR</sup></td><td>Trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]]</td><td>Gain d'une utilisaiton supplémentaire de chance adaptative</td></tr><tr><td>&emsp;[[Chance adaptative]]</td><td><sup>MR</sup></td><td>[[Individu chanceux]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|chance adaptable]], personnage de niveau 10, [[halfelin]]</td><td>Augmente le bonus et le nombre d'utilisation quotidiennes de la chance adaptative</td></tr><tr CLASS="premier"><td>[[Lâcher de munition]]*</td><td><sup>MR</sup></td><td>1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]]</td><td>Le personnage peut recharger les frondes par une action rapide</td></tr><tr><td>[[Rechargement acrobatique]]*</td><td><sup>MR</sup></td><td>[[Lâcher de munition]], 1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]]</td><td>Le personnage peut recharger les frondes par une action libre</td></tr><tr CLASS="premier"><td>[[Malédiction arcanique]]</td><td><sup>MR</sup></td><td>Lanceur de sorts profanes, trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le personnage peut sacrifier des sorts profanes pour rendre ses malédictions plus dure à éviter</td></tr><tr CLASS="premier"><td>[[Malédiction dapathie|Malédiction d'apathie]]</td><td><sup>MR</sup></td><td>Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le personnage applique le malus de sa malédiction aux tests d'initiative et aux jets d'attaque de sa cible</td></tr><tr CLASS="premier"><td>[[Malédiction de fascination]]</td><td><sup>MR</sup></td><td>Capacité de classe [[représentation bardique]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le personnage combine les effets de sa fascination avec ceux de sa malédiction</td></tr><tr CLASS="premier"><td>[[Malédiction de zone]]</td><td><sup>MR</sup></td><td>[[Extension de zone deffet|Extension de zone d’effet]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le personnage peut maudire plusieurs créatures à la fois</td></tr><tr CLASS="premier"><td>[[Malédiction du pire]]</td><td><sup>MR</sup></td><td>5 rangs en [[Connaissances]] (mystères), trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>La malédiction du personnage endigue les effets bénéfiques qui ciblent sa victime</td></tr><tr CLASS="premier"><td>[[Malédiction étendue]]</td><td><sup>MR</sup></td><td>Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Augmente la portée de la malédiction du personnage de 9 m</td></tr><tr CLASS="premier"><td>[[Malédiction renforcée]]</td><td><sup>MR</sup></td><td>[[Vigueur surhumaine]], [[Volonté de fer]], ou [[Réflexes surhumains]]; trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Augmente le malus de la malédiction du personnage aux jets de sauvegarde auxquels il a un bonus</td></tr><tr CLASS="premier"><td>[[Œil malveillant]]</td><td><sup>MR</sup></td><td>Maléfice [[Maléfices#Mauvais oeil|mauvais oeil]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le personnage combine les effets de son mauvais œil avec ceux de sa malédiction</td></tr><tr CLASS="premier"><td>[[Passer pour un humain]]</td><td><sup>MJRA</sup></td><td>[[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte)</td><td>+10 aux tests de Déguisement pour ressembler à un humain</td></tr><tr CLASS="premier"><td>[[Porte-poisse versatile]]</td><td><sup>MR</sup></td><td>[[Volonté de fer]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le DD de la malédiction du personnage se base sur l'Intelligence ou la Sagesse au lieu du Charisme</td></tr><tr CLASS="premier"><td>[[Propriété partagée]]</td><td><sup>*ISR*</sup></td><td>[[Bien préparé]], 1 rang en [[Escamotage]], [[halfelin]]</td><td>Dégaine un objet possédé par un allié avec ce don par une action de mouvement tant qu'il se trouve à 9 mètres ou moins</td></tr><tr CLASS="premier"><td>[[Résolution courageuse]]</td><td><sup>MR</sup></td><td>Trait racial [[Halfelin#Traits_raciaux_standards_6|sans peur]] ou [[Halfelin#Traits_raciaux_standards_7|veule]], [[halfelin]]</td><td>Améliore la résistance aux effets de peur</td></tr><tr CLASS="premier"><td>[[Science du coup sous la ceinture]]*</td><td><sup>MR</sup></td><td>[[BBA]] +4, [[halfelin]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|coup sous la ceinture]]</td><td>+2 aux jets de confirmation critique contre les créatures plus grandes, relance un jet de confirmation critique 1 fois par jour</td></tr><tr CLASS="premier"><td>[[Sort maudit]]</td><td><sup>MR</sup></td><td>Deux [[dons#DONMETAMAGIE|dons de métamagie]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td><td>Le personnage combine les effets de ses sorts avec ceux de sa malédiction</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Acclamation incessante]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Halfelin]], traits raicuax chance des halfelins et sans peur</td>
+    <td>+1 aux jets de sauvegarde qui passe à +3 contre la peur lorsqu'adjacent à un allié avec ce don</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Adroit et rapide]]</td>
+    <td><sup>MR</sup></td>
+    <td>Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|pieds rapides]], [[halfelin]]</td>
+    <td>+2 aux tests d'Acrobaties et d'Escalade</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Alchimie maudite]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Capacité de classe [[Alchimiste#ALCHIMIERAPIDE|alchimie rapide]], Trait racial
+      [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
+    </td>
+    <td>Empêche les créatures maudites de bénéficier des effets des potions et des objets alchimiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Apparence enfantine]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Cha]] 13, [[halfelin]]</td>
+    <td>+2 en Déguisement pour se faire passer pour un humain, faire 10 pour Bluff</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bien préparé]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Halfelin]]</td>
+    <td>Le personnage possède toute une séries d’objets communs</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combattant prudent]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Halfelin]]</td>
+    <td>Augmente le bonus à la CA du combat sur la défensive et de la défense totale</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Coup désespéré]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Combattant prudent]], [[BBA]] +1, [[halfelin]]</td>
+    <td>
+      +4 aux jets de confirmation critique en se battant sur la défensive, effectue une attaque en défense totale 1
+      fois par jour
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Frappe surprenante]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Combattant prudent]], [[Coup désespéré]], [[BBA]] +6, [[halfelin]]</td>
+    <td>1 fois par jour, ignore le malus à l'attaque imposé par le combat sur la défensive ou Coup désespéré</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Défense instinctive]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Combattant prudent]], [[BBA]] +3, [[halfelin]]</td>
+    <td>Bonus aux Réflexes et au DMD en combattant sur la défensive ou en défense totale</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Défense maladroite]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Combattant prudent]], [[halfelin]]</td>
+    <td>Confère un bonus à la CA et au DMD des alliés en combattant sur la défensive ou en défense totale</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe chanceuse]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +5, trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]]</td>
+    <td>Relance les dégâts des armes avec chance adaptative</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe risquée]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +1, [[halfelin]]</td>
+    <td>Échange de la CA pour un bonus à l'attaque contre les créatures plus grandes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frondeur-fouetteur]]*</td>
+    <td><sup>MR</sup></td>
+    <td>Maniement de la [[fronde (arme)|fronde]]</td>
+    <td>Le personnage menace les cases autour de lui quand il est armé d'une fronde</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frondeur halfelin]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Halfelin]]</td>
+    <td>Bonus racial de +1 à l'attaque avec les frondes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Grande cible]]*</td>
+    <td><sup>MR</sup></td>
+    <td>Maniement de la [[fronde (arme)|fronde]]</td>
+    <td>Inflige plus de dégâts avec une fronde contre les créature plus grandes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Guérisseur chanceux]]</td>
+    <td><sup>MR</sup></td>
+    <td>Trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]]</td>
+    <td>Utilise chance adaptative pour relancer les dégâts soignés par magie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Halfelin porte-chance]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Halfelin]]</td>
+    <td>Permet de lancer un jet de sauvegarde pour un allié 1/jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Individu chanceux]]</td>
+    <td><sup>MR</sup></td>
+    <td>Trait racial [[Halfelin#Traits_raciaux_standards_6|chance adaptative]], [[halfelin]]</td>
+    <td>Gain d'une utilisaiton supplémentaire de chance adaptative</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Chance adaptative]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Individu chanceux]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|chance adaptable]], personnage de
+      niveau 10, [[halfelin]]
+    </td>
+    <td>Augmente le bonus et le nombre d'utilisation quotidiennes de la chance adaptative</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lâcher de munition]]*</td>
+    <td><sup>MR</sup></td>
+    <td>1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]]</td>
+    <td>Le personnage peut recharger les frondes par une action rapide</td>
+  </tr>
+  <tr>
+    <td>[[Rechargement acrobatique]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Lâcher de munition]], 1 rang en [[Escamotage]], maniement de la [[fronde (arme)|fronde]]</td>
+    <td>Le personnage peut recharger les frondes par une action libre</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction arcanique]]</td>
+    <td><sup>MR</sup></td>
+    <td>Lanceur de sorts profanes, trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td>
+    <td>Le personnage peut sacrifier des sorts profanes pour rendre ses malédictions plus dure à éviter</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction dapathie|Malédiction d'apathie]]</td>
+    <td><sup>MR</sup></td>
+    <td>Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td>
+    <td>Le personnage applique le malus de sa malédiction aux tests d'initiative et aux jets d'attaque de sa cible</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction de fascination]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Capacité de classe [[représentation bardique]], Trait racial
+      [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
+    </td>
+    <td>Le personnage combine les effets de sa fascination avec ceux de sa malédiction</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction de zone]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Extension de zone deffet|Extension de zone d’effet]], trait racial
+      [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
+    </td>
+    <td>Le personnage peut maudire plusieurs créatures à la fois</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction du pire]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      5 rangs en [[Connaissances]] (mystères), trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse
+      halfelin]]
+    </td>
+    <td>La malédiction du personnage endigue les effets bénéfiques qui ciblent sa victime</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction étendue]]</td>
+    <td><sup>MR</sup></td>
+    <td>Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td>
+    <td>Augmente la portée de la malédiction du personnage de 9 m</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Malédiction renforcée]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Vigueur surhumaine]], [[Volonté de fer]], ou [[Réflexes surhumains]]; trait racial
+      [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
+    </td>
+    <td>Augmente le malus de la malédiction du personnage aux jets de sauvegarde auxquels il a un bonus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Œil malveillant]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Maléfice [[Maléfices#Mauvais oeil|mauvais oeil]], trait racial
+      [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
+    </td>
+    <td>Le personnage combine les effets de son mauvais œil avec ceux de sa malédiction</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Passer pour un humain]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte)</td>
+    <td>+10 aux tests de Déguisement pour ressembler à un humain</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Porte-poisse versatile]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Volonté de fer]], Trait racial [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]</td>
+    <td>Le DD de la malédiction du personnage se base sur l'Intelligence ou la Sagesse au lieu du Charisme</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Propriété partagée]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Bien préparé]], 1 rang en [[Escamotage]], [[halfelin]]</td>
+    <td>
+      Dégaine un objet possédé par un allié avec ce don par une action de mouvement tant qu'il se trouve à 9 mètres
+      ou moins
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Résolution courageuse]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Trait racial [[Halfelin#Traits_raciaux_standards_6|sans peur]] ou
+      [[Halfelin#Traits_raciaux_standards_7|veule]], [[halfelin]]
+    </td>
+    <td>Améliore la résistance aux effets de peur</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Science du coup sous la ceinture]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +4, [[halfelin]], trait racial [[Halfelin#Traits_raciaux_alternatifs_7|coup sous la ceinture]]</td>
+    <td>
+      +2 aux jets de confirmation critique contre les créatures plus grandes, relance un jet de confirmation
+      critique 1 fois par jour
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sort maudit]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      Deux [[dons#DONMETAMAGIE|dons de métamagie]], Trait racial
+      [[Halfelin#Traits_raciaux_alternatifs_7|porte-poisse halfelin]]
+    </td>
+    <td>Le personnage combine les effets de ses sorts avec ceux de sa malédiction</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

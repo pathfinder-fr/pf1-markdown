@@ -6,7 +6,28 @@ LastModified: 2026-05-07 12:01
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Sceptres</caption><tr CLASS="titre"><td>Sceptres intermédiaires de faible puissance</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques sceptres MCA#Saisissants|Sceptre de maléfices saisissants]]</td><td>3 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Interminables|Sceptre de maléfices interminables]]</td><td>3 000 po</td></tr><tr><td>[[Temp objetsmagiques armures MCA#Puissants|Sceptre de puissants maléfices]]</td><td>9 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Voraces|Sceptre de maléfices voraces]]</td><td>9 000 po</td></tr><tr CLASS="titre"><td>Sceptres majeurs de faible puissance</td><td>Prix</td></tr><tr CLASS="premier alt"><td>[[Temp objetsmagiques armures MCA#Soudains|Sceptre de maléfices soudains]]</td><td>35 000 po</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Sceptres</caption>
+  <tr CLASS="titre"><td>Sceptres intermédiaires de faible puissance</td><td>Prix</td></tr>
+  <tr CLASS="premier">
+    <td>[[Temp objetsmagiques sceptres MCA#Saisissants|Sceptre de maléfices saisissants]]</td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Temp objetsmagiques armures MCA#Interminables|Sceptre de maléfices interminables]]</td>
+    <td>3 000 po</td>
+  </tr>
+  <tr><td>[[Temp objetsmagiques armures MCA#Puissants|Sceptre de puissants maléfices]]</td><td>9 000 po</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp objetsmagiques armures MCA#Voraces|Sceptre de maléfices voraces]]</td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="titre"><td>Sceptres majeurs de faible puissance</td><td>Prix</td></tr>
+  <tr CLASS="premier alt">
+    <td>[[Temp objetsmagiques armures MCA#Soudains|Sceptre de maléfices soudains]]</td>
+    <td>35 000 po</td>
+  </tr>
+</table>
 
 </center>
 

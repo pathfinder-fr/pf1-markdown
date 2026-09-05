@@ -75,7 +75,15 @@ Si le monstre possède un autre pouvoir (comme constriction) qui blesse la cible
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Dégâts du sang draconique</caption><tr CLASS="titre"><td>Taille du dragon</td><td>Points de dégâts d’énergie</td></tr><tr CLASS="premier"><td>M ou plus petite</td><td>1d4</td></tr><tr><td>G</td><td>1d6</td></tr><tr><td>TG</td><td>1d8</td></tr><tr><td>Gig</td><td>2d6</td></tr><tr><td>C</td><td>2d8</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Dégâts du sang draconique</caption>
+  <tr CLASS="titre"><td>Taille du dragon</td><td>Points de dégâts d’énergie</td></tr>
+  <tr CLASS="premier"><td>M ou plus petite</td><td>1d4</td></tr>
+  <tr><td>G</td><td>1d6</td></tr>
+  <tr><td>TG</td><td>1d8</td></tr>
+  <tr><td>Gig</td><td>2d6</td></tr>
+  <tr><td>C</td><td>2d8</td></tr>
+</table>
 
 </center>
 
@@ -105,7 +113,15 @@ Si le dragon a le pouvoir engloutissement, il ajoute ces dégâts à ceux de son
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Dégâts de souffle prolongé</caption><tr CLASS="titre"><td>Taille de la créature</td><td>Points de dégâts d’énergie</td></tr><tr CLASS="premier"><td>M ou plus petite</td><td>2d4</td></tr><tr><td>G</td><td>2d6</td></tr><tr><td>TG</td><td>2d8</td></tr><tr><td>Gig</td><td>4d6</td></tr><tr><td>C</td><td>4d8</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Dégâts de souffle prolongé</caption>
+  <tr CLASS="titre"><td>Taille de la créature</td><td>Points de dégâts d’énergie</td></tr>
+  <tr CLASS="premier"><td>M ou plus petite</td><td>2d4</td></tr>
+  <tr><td>G</td><td>2d6</td></tr>
+  <tr><td>TG</td><td>2d8</td></tr>
+  <tr><td>Gig</td><td>4d6</td></tr>
+  <tr><td>C</td><td>4d8</td></tr>
+</table>
 
 </center>
 

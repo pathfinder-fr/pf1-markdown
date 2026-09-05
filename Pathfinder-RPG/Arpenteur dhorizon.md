@@ -13,7 +13,112 @@ barbares, les guerriers et les roublards l’embrassent parfois. Les arpenteurs 
 
 <center>
 
-<table CLASS="tablo"><caption>L'arpenteur d'horizon</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[arpenteur dhorizon#DOMINATIONDUTERRAIN|Domination du terrain]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[arpenteur dhorizon#DOMINATIONDUTERRAIN|Domination du terrain]], [[arpenteur dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[arpenteur dhorizon#DOMINATIONDUTERRAIN|Domination du terrain]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur dhorizon#MAITREDETOUTESLESTERRES|maître de toutes les terres]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'arpenteur d'horizon</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur
+      dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[arpenteur dhorizon#DOMINATIONDUTERRAIN|Domination du terrain]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur
+      dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[arpenteur dhorizon#DOMINATIONDUTERRAIN|Domination du terrain]], [[arpenteur
+      dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur
+      dhorizon#MAITRISEDUTERRAIN|maîtrise du terrain]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[arpenteur dhorizon#DOMINATIONDUTERRAIN|Domination du terrain]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[arpenteur dhorizon#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[arpenteur
+      dhorizon#MAITREDETOUTESLESTERRES|maître de toutes les terres]]
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -55,7 +160,191 @@ La maîtrise de chaque terrain s’accompagne d’avantages secondaires, listés
 
 <center>
 
-<table CLASS="tablo toutgauche" WIDTH="95%"><caption>Maîtrise et domination du terrain par l'arpenteur d'horizon</caption><tr CLASS="titre"><td WIDTH="14%">Terrain</td><td WIDTH="43%">Maîtrise du terrain</td><td WIDTH="43%">Domination du terrain</td></tr><tr CLASS="premier"><td>**Aquatique**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Natation]] et de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] contre les créatures qui nagent.</td><td>L’arpenteur d’horizon gagne une vitesse de nage de 6 mètres (4 cases). S’il avait déjà une vitesse de nage, elle augmente de 6 mètres (4 cases).</td></tr><tr CLASS="alt"><td>**Désert**</td><td>L’arpenteur d’horizon est [[immunisé]] contre l’[[épuisé|épuisement]] et tout ce qui devrait l’épuiser ne fait que le [[fatigué|fatiguer]].</td><td>L’arpenteur d’horizon est [[immunisé]] contre la [[fatigué|fatigue]] et gagne une résistance au feu de 10.</td></tr><tr><td>**Forêt**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Discrétion]].</td><td>L’arpenteur d’horizon peut lancer  *[[terrain hallucinatoire]]* comme un pouvoir magique un nombre de fois par jour égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de personnage). Il peut s’en servir uniquement pour créer des forêts illusoires.</td></tr><tr CLASS="alt"><td>**Froid**</td><td>L’arpenteur d’horizon gagne une résistance au froid de 10.</td><td>L’arpenteur d’horizon gagne une résistance au froid de 20 (qui remplace celle issue de la maîtrise du terrain) et un bonus de compétence de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] contre les créatures de [[sous-type froid]].</td></tr><tr><td>**Jungle**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests d’[[Évasion]] et son [[DMD]] augmente de +4 contre les manœuvres de [[lutte]].</td><td>L’arpenteur d’horizon peut lancer *[[charme-monstre]]* comme un pouvoir magique un nombre de fois par jour égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de personnage). Ce charme affecte uniquement les [[type animal|animaux]], les [[type créature magique|créatures magiques]] et les créatures que l’on trouve principalement dans la jungle.</td></tr><tr CLASS="alt"><td>**Marais**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Perception]].</td><td>L’arpenteur d’horizon gagne [[perception des vibrations]] dans un rayon de 9 mètres (6 cases). Il doit être de niveau supérieur ou égal à 5 pour pouvoir choisir cette capacité.</td></tr><tr><td>**Montagne**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests d’[[Escalade]] et ne perd pas son bonus de [[Dextérité]] à la [[CA]] quand il grimpe.</td><td>L’arpenteur d’horizon gagne une [[RD]] 2/adamantium.</td></tr><tr CLASS="alt"><td>**Plaines**</td><td>Les déplacements de l’arpenteur d’horizon ne sont pas réduits par les armures ni les [[charge intermédiaire|charges intermédiaires]].</td><td>La [[VD|vitesse de déplacement]] de base du personnage augmente de 3 mètres (2 cases).</td></tr><tr><td>**Plan aligné**</td><td>Si l’arpenteur d’horizon choisit un plan avec une caractéristique d’alignement, il peut choisir de se faire détecter comme appartenant à cet alignement (et tromper ainsi toute forme de [[école divination|divination]]) par une [[action immédiate]]. Cet avantage dure jusqu’à ce que le personnage interrompe l’effet (par une [[action libre]]).</td><td>En ce qui concerne la [[RD|réduction de dégâts]], les armes manufacturées ou naturelles de l’arpenteur d’horizon sont considérées comme étant de l’alignement opposé à celui du plan dominé choisi. Si le plan choisi possède plus d’une caractéristique d’alignement, il doit choisir l’une d’elles. Par exemple, s’il a choisi « les Enfers » (un plan Loyal mauvais) pour la domination de terrain, ses attaques pourront être loyales ou Mauvaises et ignoreront respectivement donc les résistances aux dégâts chaotiques ou bons. Si les créatures natives du plan choisi sont vulnérables à un matériau particulier (comme le fer froid ou l’argent), il peut décider que ses armes ignorent cette résistance, comme s’ils étaient faits de ce matériau. S’il choisit ce plan à plusieurs reprises pour le pouvoir domination du terrain, ses attaques bénéficient d’un alignement ou d’un matériau spécial supplémentaire (comme « bonne et en argent » ou « chaotique et bonne »).</td></tr><tr CLASS="alt"><td>**Plan astral**</td><td>La vitesse de vol de l’arpenteur d’horizon augmente de +9 mètres (6 cases) quand il se trouve sur des plans sans gravité ou à gravité subjective.</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +1 aux [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] contre tous les [[type Extérieur|Extérieurs]]. Il peut lancer *[[porte dimensionnelle]]* comme un pouvoir magique un nombre de fois par jour égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de personnage).</td></tr><tr><td>**Plan Éthéré**</td><td>L’arpenteur d’horizon ignore les 20 % de chances de rater sa cible à cause du [[camouflage]] offert par le brouillard et il considère tout camouflage total résultant du brouillard comme un camouflage partiel.</td><td>L’arpenteur d’horizon peut lancer *[[forme éthérée]]* comme un pouvoir magique une fois par jour (niveau de lanceur de sorts égal au niveau du personnage). Il doit être de niveau 7 au moins pour choisir ce pouvoir.</td></tr><tr CLASS="alt"><td>**Plan de l’Air**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Vol]] et de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégât|de dégâts]] contre les créatures volantes. Il gagne la capacité de respirer de l’air si ce n’était pas encore le cas.</td><td>L’arpenteur d’horizon peut lancer *[[vol]]* comme un pouvoir magique un nombre de fois par jour égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de personnage).</td></tr><tr><td>**Plan de la Terre**</td><td>L’arpenteur d’horizon gagne une [[RD]] 1/adamantium.</td><td>L’arpenteur d’horizon gagne [[perception des vibrations]] sur 9 mètres (6 cases). Il doit être au moins niveau 5 avant de choisir ce pouvoir.</td></tr><tr CLASS="alt"><td>**Plan de l’Eau**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Natation]] et de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] contre les créatures qui nagent. Il gagne la capacité de respirer sous l’eau si ce n’était pas encore le cas.</td><td>L’eau ne gêne pas les mouvements ni les actions de l’arpenteur d’horizon, ce qui lui permet de parler, d’attaquer et de lancer des sorts normalement même s’il se trouve sous l’eau (comme s’il utilisait *[[liberté de mouvement]]*).</td></tr><tr><td>**Plan du feu**</td><td>L’arpenteur d’horizon gagne une résistance au feu de 10.</td><td>L’arpenteur d’horizon gagne une résistance au feu de 20 (qui remplace celle issue de la maîtrise du terrain) et un bonus de compétence de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégât|de dégâts]] contre les créatures de [[sous-type feu]].</td></tr><tr CLASS="alt"><td>**Souterrain**</td><td>L’arpenteur d’horizon gagne [[Combat en aveugle]] comme don supplémentaire.</td><td>L’arpenteur d’horizon gagne [[vision dans le noir]] à 18 mètres (12 cases). S’il la possédait déjà, sa portée augmente de 18 mètres (12 cases).</td></tr><tr><td>**Urbain**</td><td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Diplomatie]].</td><td>L’arpenteur d’horizon peut lancer *[[charme-personne]]* comme un pouvoir magique un nombre de fois par jour égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de personnage).</td></tr></table>
+<table CLASS="tablo toutgauche" WIDTH="95%">
+  <caption>Maîtrise et domination du terrain par l'arpenteur d'horizon</caption>
+  <tr CLASS="titre">
+    <td WIDTH="14%">Terrain</td>
+    <td WIDTH="43%">Maîtrise du terrain</td>
+    <td WIDTH="43%">Domination du terrain</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**Aquatique**</td>
+    <td>
+      L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Natation]] et de +1 à tous les [[jet
+      dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] contre les créatures qui nagent.
+    </td>
+    <td>
+      L’arpenteur d’horizon gagne une vitesse de nage de 6 mètres (4 cases). S’il avait déjà une vitesse de nage,
+      elle augmente de 6 mètres (4 cases).
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Désert**</td>
+    <td>
+      L’arpenteur d’horizon est [[immunisé]] contre l’[[épuisé|épuisement]] et tout ce qui devrait l’épuiser ne fait
+      que le [[fatigué|fatiguer]].
+    </td>
+    <td>L’arpenteur d’horizon est [[immunisé]] contre la [[fatigué|fatigue]] et gagne une résistance au feu de 10.</td>
+  </tr>
+  <tr>
+    <td>**Forêt**</td>
+    <td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Discrétion]].</td>
+    <td>
+      L’arpenteur d’horizon peut lancer  *[[terrain hallucinatoire]]* comme un pouvoir magique un nombre de fois par
+      jour égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de
+      personnage). Il peut s’en servir uniquement pour créer des forêts illusoires.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Froid**</td>
+    <td>L’arpenteur d’horizon gagne une résistance au froid de 10.</td>
+    <td>
+      L’arpenteur d’horizon gagne une résistance au froid de 20 (qui remplace celle issue de la maîtrise du terrain)
+      et un bonus de compétence de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]]
+      contre les créatures de [[sous-type froid]].
+    </td>
+  </tr>
+  <tr>
+    <td>**Jungle**</td>
+    <td>
+      L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests d’[[Évasion]] et son [[DMD]] augmente de +4
+      contre les manœuvres de [[lutte]].
+    </td>
+    <td>
+      L’arpenteur d’horizon peut lancer *[[charme-monstre]]* comme un pouvoir magique un nombre de fois par jour
+      égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de
+      personnage). Ce charme affecte uniquement les [[type animal|animaux]], les [[type créature magique|créatures
+      magiques]] et les créatures que l’on trouve principalement dans la jungle.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Marais**</td>
+    <td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Perception]].</td>
+    <td>
+      L’arpenteur d’horizon gagne [[perception des vibrations]] dans un rayon de 9 mètres (6 cases). Il doit être de
+      niveau supérieur ou égal à 5 pour pouvoir choisir cette capacité.
+    </td>
+  </tr>
+  <tr>
+    <td>**Montagne**</td>
+    <td>
+      L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests d’[[Escalade]] et ne perd pas son bonus de
+      [[Dextérité]] à la [[CA]] quand il grimpe.
+    </td>
+    <td>L’arpenteur d’horizon gagne une [[RD]] 2/adamantium.</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Plaines**</td>
+    <td>
+      Les déplacements de l’arpenteur d’horizon ne sont pas réduits par les armures ni les [[charge
+      intermédiaire|charges intermédiaires]].
+    </td>
+    <td>La [[VD|vitesse de déplacement]] de base du personnage augmente de 3 mètres (2 cases).</td>
+  </tr>
+  <tr>
+    <td>**Plan aligné**</td>
+    <td>
+      Si l’arpenteur d’horizon choisit un plan avec une caractéristique d’alignement, il peut choisir de se faire
+      détecter comme appartenant à cet alignement (et tromper ainsi toute forme de [[école divination|divination]])
+      par une [[action immédiate]]. Cet avantage dure jusqu’à ce que le personnage interrompe l’effet (par une
+      [[action libre]]).
+    </td>
+    <td>
+      En ce qui concerne la [[RD|réduction de dégâts]], les armes manufacturées ou naturelles de l’arpenteur
+      d’horizon sont considérées comme étant de l’alignement opposé à celui du plan dominé choisi. Si le plan choisi
+      possède plus d’une caractéristique d’alignement, il doit choisir l’une d’elles. Par exemple, s’il a choisi «
+      les Enfers » (un plan Loyal mauvais) pour la domination de terrain, ses attaques pourront être loyales ou
+      Mauvaises et ignoreront respectivement donc les résistances aux dégâts chaotiques ou bons. Si les créatures
+      natives du plan choisi sont vulnérables à un matériau particulier (comme le fer froid ou l’argent), il peut
+      décider que ses armes ignorent cette résistance, comme s’ils étaient faits de ce matériau. S’il choisit ce
+      plan à plusieurs reprises pour le pouvoir domination du terrain, ses attaques bénéficient d’un alignement ou
+      d’un matériau spécial supplémentaire (comme « bonne et en argent » ou « chaotique et bonne »).
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Plan astral**</td>
+    <td>
+      La vitesse de vol de l’arpenteur d’horizon augmente de +9 mètres (6 cases) quand il se trouve sur des plans
+      sans gravité ou à gravité subjective.
+    </td>
+    <td>
+      L’arpenteur d’horizon gagne un bonus de compétence de +1 aux [[jet dattaque|jets d’attaque]] et [[jet de
+      dégâts|de dégâts]] contre tous les [[type Extérieur|Extérieurs]]. Il peut lancer *[[porte dimensionnelle]]*
+      comme un pouvoir magique un nombre de fois par jour égal à 3 + modificateur de [[Sagesse]] du personnage
+      (niveau de lanceur de sorts égal au niveau de personnage).
+    </td>
+  </tr>
+  <tr>
+    <td>**Plan Éthéré**</td>
+    <td>
+      L’arpenteur d’horizon ignore les 20 % de chances de rater sa cible à cause du [[camouflage]] offert par le
+      brouillard et il considère tout camouflage total résultant du brouillard comme un camouflage partiel.
+    </td>
+    <td>
+      L’arpenteur d’horizon peut lancer *[[forme éthérée]]* comme un pouvoir magique une fois par jour (niveau de
+      lanceur de sorts égal au niveau du personnage). Il doit être de niveau 7 au moins pour choisir ce pouvoir.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Plan de l’Air**</td>
+    <td>
+      L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Vol]] et de +1 à tous les [[jet
+      dattaque|jets d’attaque]] et [[jet de dégât|de dégâts]] contre les créatures volantes. Il gagne la capacité de
+      respirer de l’air si ce n’était pas encore le cas.
+    </td>
+    <td>
+      L’arpenteur d’horizon peut lancer *[[vol]]* comme un pouvoir magique un nombre de fois par jour égal à 3 +
+      modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de personnage).
+    </td>
+  </tr>
+  <tr>
+    <td>**Plan de la Terre**</td>
+    <td>L’arpenteur d’horizon gagne une [[RD]] 1/adamantium.</td>
+    <td>
+      L’arpenteur d’horizon gagne [[perception des vibrations]] sur 9 mètres (6 cases). Il doit être au moins niveau
+      5 avant de choisir ce pouvoir.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Plan de l’Eau**</td>
+    <td>
+      L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Natation]] et de +1 à tous les [[jet
+      dattaque|jets d’attaque]] et [[jet de dégâts|de dégâts]] contre les créatures qui nagent. Il gagne la capacité
+      de respirer sous l’eau si ce n’était pas encore le cas.
+    </td>
+    <td>
+      L’eau ne gêne pas les mouvements ni les actions de l’arpenteur d’horizon, ce qui lui permet de parler,
+      d’attaquer et de lancer des sorts normalement même s’il se trouve sous l’eau (comme s’il utilisait *[[liberté
+      de mouvement]]*).
+    </td>
+  </tr>
+  <tr>
+    <td>**Plan du feu**</td>
+    <td>L’arpenteur d’horizon gagne une résistance au feu de 10.</td>
+    <td>
+      L’arpenteur d’horizon gagne une résistance au feu de 20 (qui remplace celle issue de la maîtrise du terrain)
+      et un bonus de compétence de +1 à tous les [[jet dattaque|jets d’attaque]] et [[jet de dégât|de dégâts]]
+      contre les créatures de [[sous-type feu]].
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Souterrain**</td>
+    <td>L’arpenteur d’horizon gagne [[Combat en aveugle]] comme don supplémentaire.</td>
+    <td>
+      L’arpenteur d’horizon gagne [[vision dans le noir]] à 18 mètres (12 cases). S’il la possédait déjà, sa portée
+      augmente de 18 mètres (12 cases).
+    </td>
+  </tr>
+  <tr>
+    <td>**Urbain**</td>
+    <td>L’arpenteur d’horizon gagne un bonus de compétence de +4 aux tests de [[Diplomatie]].</td>
+    <td>
+      L’arpenteur d’horizon peut lancer *[[charme-personne]]* comme un pouvoir magique un nombre de fois par jour
+      égal à 3 + modificateur de [[Sagesse]] du personnage (niveau de lanceur de sorts égal au niveau de
+      personnage).
+    </td>
+  </tr>
+</table>
 
 </center>
 

@@ -32,6 +32,12 @@ peuvent peser jusqu’à quatre fois plus.
 
 <center>
 
-<table CLASS="tablo" WIDTH="60%"><caption>Variantes de Raie des profondeurs</caption><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">[[Capuche du bourreau]]</td><td>2</td><td>TP</td><td>2d8</td></tr><tr CLASS="alt"><td class="gauche">[[Traqueur-du-dessus]]</td><td>7</td><td>TG</td><td>10d8</td></tr><tr><td class="gauche">[[Piégeuse]]</td><td>8</td><td>TG</td><td>13d8</td></tr></table>
+<table CLASS="tablo" WIDTH="60%">
+  <caption>Variantes de Raie des profondeurs</caption>
+  <tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td class="gauche">[[Capuche du bourreau]]</td><td>2</td><td>TP</td><td>2d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">[[Traqueur-du-dessus]]</td><td>7</td><td>TG</td><td>10d8</td></tr>
+  <tr><td class="gauche">[[Piégeuse]]</td><td>8</td><td>TG</td><td>13d8</td></tr>
+</table>
 
 </center>

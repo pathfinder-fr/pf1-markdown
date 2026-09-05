@@ -13,7 +13,125 @@ Les prophètes enragés sont toujours des barbares/oracles mais certains ont que
 
 <center>
 
-<table CLASS="tablo"><caption>Le prophète enragé</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[prophète enragé#FEROCEDEVIN|Féroce devin]], [[prophète enragé#GUIDESPIRITUEL|guide spirituel]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[prophète enragé#GUERISSEURENRAGE|Guérisseur enragé]], [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[prophète enragé#MAGEINDOMPTABLE|Mage indomptable]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[prophète enragé#MAGEENRAGE|Mage enragé]] (niveau de lanceur de sorts), [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[prophète enragé#ESPRITGARDIEN|Esprit gardien]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGEPROLONGEE|rage prolongée]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[prophète enragé#MAGEENRAGE|Mage enragé]] (DD)</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#SORTENRAGE|sort enragé]]</td><td CLASS="gauche">-</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[prophète enragé#GUERRIERSPIRITUEL|Guerrier spirituel]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGESUPREME|rage suprême]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le prophète enragé</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[prophète enragé#FEROCEDEVIN|Féroce devin]], [[prophète enragé#GUIDESPIRITUEL|guide spirituel]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[prophète enragé#GUERISSEURENRAGE|Guérisseur enragé]], [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du
+      prophète enragé]]
+    </td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[prophète enragé#MAGEINDOMPTABLE|Mage indomptable]]</td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[prophète enragé#MAGEENRAGE|Mage enragé]] (niveau de lanceur de sorts), [[prophète
+      enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]
+    </td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[prophète enragé#ESPRITGARDIEN|Esprit gardien]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGEPROLONGEE|rage
+      prolongée]]
+    </td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[prophète enragé#MAGEENRAGE|Mage enragé]] (DD)</td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#SORTENRAGE|sort
+      enragé]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[prophète enragé#GUERRIERSPIRITUEL|Guerrier spirituel]]</td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGESUPREME|rage
+      suprême]]
+    </td>
+    <td CLASS="gauche">+1 niveau de lanceur de sorts divins</td>
+  </tr>
+</table>
 
 </center>
 

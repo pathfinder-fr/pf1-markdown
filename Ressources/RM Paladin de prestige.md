@@ -10,7 +10,117 @@ Grâce à un petit nombre d'élus, le pouvoir sacré du divin brille. Appelés p
 
 <center>
 
-<table CLASS="tablo"><caption>Paladin de Prestige</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[rm paladin de prestige#AURASAINTE|Aura sainte]], [[rm paladin de prestige#DÉTECTIONDUMAL|Détection du mal]], [[rm paladin de prestige#MAINDIVINE|Main divine]], [[rm paladin de prestige#PACTESACRÉ|Pacte sacrée]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[rm paladin de prestige#IMPOSITIONDESMAINS|Imposition des mains]], [[rm paladin de prestige#GRACEDIVINE|Grâce divine]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]], [[rm paladin de prestige#SANTÉDIVINE|Santé divine]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[rm paladin de prestige#CANALISATIONDÉNERGIE|Canalisation d'énergie]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">—</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">—</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[rm paladin de prestige#RÉSISTANCEDIVINE|Résistance divine]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[rm paladin de prestige#CHAMPIONDIVIN|Champion divin]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Paladin de Prestige</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[rm paladin de prestige#AURASAINTE|Aura sainte]], [[rm paladin de prestige#DÉTECTIONDUMAL|Détection du mal]],
+      [[rm paladin de prestige#MAINDIVINE|Main divine]], [[rm paladin de prestige#PACTESACRÉ|Pacte sacrée]]
+    </td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[rm paladin de prestige#IMPOSITIONDESMAINS|Imposition des mains]], [[rm paladin de prestige#GRACEDIVINE|Grâce
+      divine]]
+    </td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]], [[rm paladin de prestige#SANTÉDIVINE|Santé
+      divine]]
+    </td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[rm paladin de prestige#CANALISATIONDÉNERGIE|Canalisation d'énergie]]</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">—</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">—</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[rm paladin de prestige#RÉSISTANCEDIVINE|Résistance divine]]</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[rm paladin de prestige#CHAMPIONDIVIN|Champion divin]]</td>
+    <td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+</table>
 
 </center>
 

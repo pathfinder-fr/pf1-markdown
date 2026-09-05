@@ -8,7 +8,100 @@ Vous apprenez votre première [[astuces de mécano|astuce de mécano]] au niveau
 
 <center>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabexploit"><caption>Astuces de mécano</caption><tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr><tr CLASS="premier"><td>[[Astuces de mécano#ALIMENTATIONDESECOURS|Alimentation de secours]]</td><td>2</td><td>[[Astuces de mécano#AMPLIFICATEUR|Amplificateur]]</td><td>2</td></tr><tr><td>[[Astuces de mécano#BOUCLIERDENERGIE|Bouclier d’énergie]]</td><td>2</td><td>[[Astuces de mécano#BRICOLAGERAPIDE|Bricolage rapide]]</td><td>2</td></tr><tr><td>[[Astuces de mécano#DERIVATIONNEURALE|Dérivation neurale]]</td><td>2</td><td>[[Astuces de mécano#PIRATAGEDEDIVERSION|Piratage de diversion]]</td><td>2</td></tr><tr><td>[[Astuces de mécano#PIRATAGEINTELLIGENT|Piratage intelligent]]</td><td>2</td><td>[[Astuces de mécano#PROCESSEURDEDONNEESVISUELLES|Processeur de données visuelles]]</td><td>2</td></tr><tr><td>[[Astuces de mécano#PROCESSEURDEVISIONDENUIT|Processeur de vision de nuit]]</td><td>2</td><td>[[Astuces de mécano#REPARATIONDUDRONE|Réparation du drone]]</td><td>2</td></tr><tr><td>[[Astuces de mécano#REPARATIONRAPIDE|Réparation rapide]]</td><td>2</td><td>[[Astuces de mécano#SURCADENCAGE|Surcadençage]]</td><td>2</td></tr><tr><td>[[Astuces de mécano#SURCHARGEDARME|Surcharge d’arme]]</td><td>2</td><td>[[Astuces de mécano#AMPLIFICATEURAMELIORE|Amplificateur amélioré]]</td><td>8</td></tr><tr><td>[[Astuces de mécano#BOUCLIERRENFORCE|Bouclier renforcé]]</td><td>8</td><td>[[Astuces de mécano#ENERGIERESIDUELLE|Énergie résiduelle]]</td><td>8</td></tr><tr><td>[[Astuces de mécano#HYPERCADENCAGE|Hypercadençage]]</td><td>8</td><td>[[Astuces de mécano#INSTINCTDELINGENIEUR|Instinct de l’ingénieur]]</td><td>8</td></tr><tr><td>[[Astuces de mécano#INTEGRATIONDUDRONE|Intégration du drone]]</td><td>8</td><td>[[Astuces de mécano#INTRUSIONFANTOME|Intrusion fantôme]]</td><td>8</td></tr><tr><td>[[Astuces de mécano#PROCESSEURDEDETECTIONDELINVISIBILITE|Processeur de détection de l’invisibilité]]</td><td>8</td><td>[[Astuces de mécano#PROJECTEURHOLOGRAPHIQUE|Projecteur holographique]]</td><td>8</td></tr><tr><td>[[Astuces de mécano#ROBOTECLAIREUR|Robot éclaireur]]</td><td>8</td><td>[[Astuces de mécano#AMPLIFICATEURSUPERIEUR|Amplificateur supérieur]]</td><td>14</td></tr><tr><td>[[Astuces de mécano#ENERGIERESIDUELLEAMELIOREE|Énergie résiduelle améliorée]]</td><td>14</td><td>[[Astuces de mécano#MODULESUPPLEMENTAIRE|Module supplémentaire]]</td><td>14</td></tr><tr><td>[[Astuces de mécano#PROJECTEURDANNULATIONDELINVISIBILITE|Projecteur d’annulation de l’invisibilité]]</td><td>14</td><td>[[Astuces de mécano#RECONFIGURATIONDESMODULES|Reconfiguration des modules]]</td><td>14</td></tr><tr><td>[[Astuces de mécano#SABOTEUR|Saboteur]]</td><td>14</td><td>[[Astuces de mécano#ULTRACADENCAGE|Ultracadençage]]</td><td>14</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabexploit">
+  <caption>Astuces de mécano</caption>
+  <tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr>
+  <tr CLASS="premier">
+    <td>[[Astuces de mécano#ALIMENTATIONDESECOURS|Alimentation de secours]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#AMPLIFICATEUR|Amplificateur]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#BOUCLIERDENERGIE|Bouclier d’énergie]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#BRICOLAGERAPIDE|Bricolage rapide]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#DERIVATIONNEURALE|Dérivation neurale]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#PIRATAGEDEDIVERSION|Piratage de diversion]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#PIRATAGEINTELLIGENT|Piratage intelligent]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#PROCESSEURDEDONNEESVISUELLES|Processeur de données visuelles]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#PROCESSEURDEVISIONDENUIT|Processeur de vision de nuit]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#REPARATIONDUDRONE|Réparation du drone]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#REPARATIONRAPIDE|Réparation rapide]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#SURCADENCAGE|Surcadençage]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#SURCHARGEDARME|Surcharge d’arme]]</td>
+    <td>2</td>
+    <td>[[Astuces de mécano#AMPLIFICATEURAMELIORE|Amplificateur amélioré]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#BOUCLIERRENFORCE|Bouclier renforcé]]</td>
+    <td>8</td>
+    <td>[[Astuces de mécano#ENERGIERESIDUELLE|Énergie résiduelle]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#HYPERCADENCAGE|Hypercadençage]]</td>
+    <td>8</td>
+    <td>[[Astuces de mécano#INSTINCTDELINGENIEUR|Instinct de l’ingénieur]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#INTEGRATIONDUDRONE|Intégration du drone]]</td>
+    <td>8</td>
+    <td>[[Astuces de mécano#INTRUSIONFANTOME|Intrusion fantôme]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#PROCESSEURDEDETECTIONDELINVISIBILITE|Processeur de détection de l’invisibilité]]</td>
+    <td>8</td>
+    <td>[[Astuces de mécano#PROJECTEURHOLOGRAPHIQUE|Projecteur holographique]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#ROBOTECLAIREUR|Robot éclaireur]]</td>
+    <td>8</td>
+    <td>[[Astuces de mécano#AMPLIFICATEURSUPERIEUR|Amplificateur supérieur]]</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#ENERGIERESIDUELLEAMELIOREE|Énergie résiduelle améliorée]]</td>
+    <td>14</td>
+    <td>[[Astuces de mécano#MODULESUPPLEMENTAIRE|Module supplémentaire]]</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#PROJECTEURDANNULATIONDELINVISIBILITE|Projecteur d’annulation de l’invisibilité]]</td>
+    <td>14</td>
+    <td>[[Astuces de mécano#RECONFIGURATIONDESMODULES|Reconfiguration des modules]]</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>[[Astuces de mécano#SABOTEUR|Saboteur]]</td>
+    <td>14</td>
+    <td>[[Astuces de mécano#ULTRACADENCAGE|Ultracadençage]]</td>
+    <td>14</td>
+  </tr>
+</table>
 
 </center>
 

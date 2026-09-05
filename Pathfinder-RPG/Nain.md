@@ -230,7 +230,254 @@ Voici les options accessibles aux nains, d’autres races adaptées peuvent s’
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Acrobate des corniches]]</td><td><sup>MR</sup></td><td>[[Dex]] 13, [[nain]], trait racial [[Nain#Traits_raciaux_alternatifs_7|montagnard]] ou [[Nain#Traits_raciaux_standards_6|stabilité]]</td><td>Déplacement plus rapide sur les espaces restreints</td></tr><tr CLASS="premier"><td>[[Âme dacier|Âme d'acier]]</td><td><sup>MJRA</sup></td><td>[[Nain]], trait racial [[Nain#Traits_raciaux_standards_6|robuste]]</td><td>Bonus racial de +4 aux jets de sauvegarde contre les sorts et les pouvoirs magiques</td></tr><tr CLASS="premier"><td>[[Boyaux dacier|Boyaux d'acier]]</td><td><sup>MJRA</sup></td><td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td><td>+2 aux Jets de sauvegarde contre les états nauséeux et fiévreux et les poisons ingérés</td></tr><tr CLASS="premier"><td>[[Brisesort]]*</td><td><sup>MR</sup></td><td>[[Perturbateur]], [[Briseur de sorts]], [[nain]], [[guerrier]] de niveau 10</td><td>Détruit un effet magique actif</td></tr><tr CLASS="premier"><td>[[Chanteur des roches]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[nain]]</td><td>Améliore les représentations en sous-sol et contre les créatures de la terre</td></tr><tr CLASS="premier"><td>[[Combattre au-delà de la mort]]</td><td><sup>MJRA</sup></td><td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td><td>Gagner des points de vie temporaires une fois réduit à 0 point de vie</td></tr><tr CLASS="premier"><td>[[Connaissance supérieure de la pierre]]</td><td><sup>MJRA</sup></td><td>[[Sag]] 13, [[nain]], trait racial [[Nain#Traits_raciaux_standards_6|connaissance de la pierre]]</td><td>+4 aux tests de Perception pour repérer les ouvrages de pierre inhabituels</td></tr><tr CLASS="premier"><td>[[École de lenfant de la terre|École de l'enfant de la terre]]*</td><td><sup>AG</sup></td><td>[[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[Science du combat à mains nues]], 3 rangs en [[Acrobaties]]</td><td>La CA de l’entraînement défensif passe à +6 contre les géants</td></tr><tr><td>&emsp;[[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]]*</td><td><sup>AG</sup></td><td>[[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de l'enfant de la terre]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], 6 rangs en [[Acrobaties]]</td><td>Le personnage peut faire un croc-en-jambe à un géant de taille TG au maximum</td></tr><tr><td>&emsp;&emsp;[[Lien de lenfant de la terre|Lien de l'enfant de la terre]]*</td><td><sup>AG</sup></td><td>[[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de l'enfant de la terre]], [[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]], [[Croc-en-jambe supérieur]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], [[Coup étourdissant]], 9 rangs en [[Acrobaties]]</td><td>Le personnage peut faire un croc-en-jambe à un géant de n’importe quelle taille. Il peut décider d’appliquer le Coup étourdissant une fois qu’il sait que l’attaque d’opportunité portée contre un géant qui se relève a touché</td></tr><tr CLASS="premier"><td>[[Éliminer les toxines]]</td><td><sup>MR</sup></td><td>[[Nain]], trait racial [[Nain#Traits_raciaux_standards_6|robuste]]</td><td>Guérit des affaiblissements temporaires plus vite</td></tr><tr CLASS="premier"><td>[[Enchaînement élargi]]*</td><td><sup>MR</sup></td><td>[[For]] 13, [[Enchaînement]], [[Attaque en puissance]], [[BBA]] +11, [[nain]]</td><td>Déplacement d'1.5m entre les enchaînements pour menacer plus de créatures</td></tr><tr CLASS="premier"><td>[[Enchaîner les gobelins]]*</td><td><sup>MR</sup></td><td>[[For]] 13, [[Enchaînement]], [[Attaque en puissance]], [[nain]]</td><td>Cible plus de créatures pendant un enchaînement si elles sont plus petites que le personnage, +2 à l'attaque contre ces créatures</td></tr><tr><td>&emsp;[[Débiter les orques]]*</td><td><sup>MR</sup></td><td>[[For]] 13, [[Enchaînement]], [[Enchaîner les gobelins]], [[Attaque en puissance]], [[nain]]</td><td>+2 à l'attaque pour utiliser Enchaînement sur un orque</td></tr><tr><td>&emsp;&emsp;[[Tueur de géants]]*</td><td><sup>MR</sup></td><td>[[For]] 13, [[Enchaînement]], [[Enchaîner les gobelins]], [[Débiter les orques]], [[Attaque en puissance]], [[Riposte]], [[BBA]] +11, [[nain]]</td><td>Cible plus de créatures pendant un enchaînement si elles sont plus grandes que le personnage, +2 à l'attaque contre ces créatures</td></tr><tr CLASS="premier"><td>[[Expériences variées]]</td><td><sup>MJRA</sup></td><td>[[Nain]], [[elfe]], ou [[gnome]]; 100 ans ou plus</td><td>+2 sur tous les tests de Connaissances ou de Profession</td></tr><tr CLASS="premier"><td>[[Forteresse vivante]]</td><td><sup>*ISR*</sup></td><td>[[Nain]], trait racial robuste</td><td>Les bonus raciaux aux jets de sauvegarde contre les sorts et pouvoirs magiques augmentent de 2 à proximité d'un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Frappe de la vipère jaillissante]]</td><td><sup>MR</sup></td><td>[[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]]</td><td>Alterne la fonction de la dorn-dergar par une action rapide</td></tr><tr CLASS="premier"><td>[[Lancer de hache coulissante]]</td><td><sup>MR</sup></td><td>[[Dex]] 13, [[BBA]] +1</td><td>Ignorer les boucliers et faire des croc-en-jambe avec des haches de lancer</td></tr><tr CLASS="premier"><td>[[Maître brasseur]]</td><td><sup>MR</sup></td><td>1 rang en [[Artisanat]] (alchimie), 1 rang en [[Profession]] (brasseur), [[nain]]</td><td>+2 aux tests d'Artisanat (alchimie) et Profession (brasseur), +1 aux DD des poisons d'ingestion créés</td></tr><tr CLASS="premier"><td>[[Maîtrise de la dorn-dergar]]</td><td><sup>MR</sup></td><td>[[Combat à deux armes]], [[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]]</td><td>Manie la dorn-dergar à une main</td></tr><tr CLASS="premier"><td>[[Marteau bondissant]]</td><td><sup>MR</sup></td><td>Maniement du marteau, [[BBA]] +6</td><td>Lance un marteau et le faire rebondir pour qu’il revienne</td></tr><tr CLASS="premier"><td>[[Position du xorn]]</td><td><sup>MR</sup></td><td>[[Sag]] 15, [[BBA]] +3</td><td>Les créatures qui prennent le personnage en tenaille n’obtiennent aucun bonus</td></tr><tr CLASS="premier"><td>[[Peau de fer]]</td><td><sup>MJRA</sup></td><td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td><td>Bonus d’armure naturelle de +1 à la CA</td></tr><tr CLASS="premier"><td>[[Tête dure]]*</td><td><sup>MR</sup></td><td>[[BBA]] +1, [[nain]]</td><td>+1 à l'attaque, au BMO et au DMD avec les casques, +2 aux jets de sauvegarde contre les effets de chancèlement et d'étourdissement</td></tr><tr><td>&emsp;[[Casque bosselé]]*</td><td><sup>MR</sup></td><td>[[Tête dure]], [[BBA]] +6, [[nain]]</td><td>+1 à la CA contre les confirmations critiques en portant un casque, la moitié des dégâts subits lors d'un coup critique sont infligés au casque</td></tr><tr><td>&emsp;&emsp;[[Casque fendu]]*</td><td><sup>MR</sup></td><td>[[Casque bosselé]], [[Tête dure]], [[BBA]] +11, [[nain]]</td><td>+1 à la CA contre les confirmations critiques en portant un casque, les dégâts subits lors d'un coup critique sont infligés au casque</td></tr><tr CLASS="premier"><td>[[Tonnerres jumeaux]]*</td><td><sup>AG</sup></td><td>[[Nain]] ou [[gnome]], trait racial entraînement défensif, [[Combat à deux armes]] ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]], [[Arme de prédilection]] avec les deux armes utilisées</td><td>Remplace une attaque contre un géant par une tentative de désarmement, de destruction d’arme ou de croc-en-jambe</td></tr><tr><td>&emsp;[[Déluge des tonnerres jumeaux]]*</td><td><sup>AG</sup></td><td>[[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +6</td><td>Possibilité de croc-en-jambe contre un géant de taille TG et +2 points de dégâts contre les géants</td></tr><tr><td>&emsp;&emsp;[[Maître des tonnerres jumeaux]]*</td><td><sup>AG</sup></td><td>[[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Déluge des tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +9</td><td>L’adversaire frappé par les tonnerres jumeaux est secoué</td></tr><tr CLASS="premier"><td>[[Visage de pierre]]</td><td><sup>MJRA</sup></td><td>[[Nain]]</td><td>Bonus de +4 aux tests de Bluff pour mentir ou cacher son but</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Acrobate des corniches]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[Dex]] 13, [[nain]], trait racial [[Nain#Traits_raciaux_alternatifs_7|montagnard]] ou
+      [[Nain#Traits_raciaux_standards_6|stabilité]]
+    </td>
+    <td>Déplacement plus rapide sur les espaces restreints</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Âme dacier|Âme d'acier]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Nain]], trait racial [[Nain#Traits_raciaux_standards_6|robuste]]</td>
+    <td>Bonus racial de +4 aux jets de sauvegarde contre les sorts et les pouvoirs magiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Boyaux dacier|Boyaux d'acier]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>+2 aux Jets de sauvegarde contre les états nauséeux et fiévreux et les poisons ingérés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Brisesort]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Perturbateur]], [[Briseur de sorts]], [[nain]], [[guerrier]] de niveau 10</td>
+    <td>Détruit un effet magique actif</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chanteur des roches]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[nain]]</td>
+    <td>Améliore les représentations en sous-sol et contre les créatures de la terre</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Combattre au-delà de la mort]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>Gagner des points de vie temporaires une fois réduit à 0 point de vie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Connaissance supérieure de la pierre]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Sag]] 13, [[nain]], trait racial [[Nain#Traits_raciaux_standards_6|connaissance de la pierre]]</td>
+    <td>+4 aux tests de Perception pour repérer les ouvrages de pierre inhabituels</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[École de lenfant de la terre|École de l'enfant de la terre]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[Science du combat à mains nues]], 3
+      rangs en [[Acrobaties]]
+    </td>
+    <td>La CA de l’entraînement défensif passe à +6 contre les géants</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de
+      l'enfant de la terre]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], 6 rangs en
+      [[Acrobaties]]
+    </td>
+    <td>Le personnage peut faire un croc-en-jambe à un géant de taille TG au maximum</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Lien de lenfant de la terre|Lien de l'enfant de la terre]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[Sag]] 13, [[nain]] ou [[gnome]], trait racial entraînement défensif, [[École de lenfant de la terre|École de
+      l'enfant de la terre]], [[Renversement de lenfant de la terre|Renversement de l'enfant de la terre]],
+      [[Croc-en-jambe supérieur]], [[Science du croc-en-jambe]], [[Science du combat à mains nues]], [[Coup
+      étourdissant]], 9 rangs en [[Acrobaties]]
+    </td>
+    <td>
+      Le personnage peut faire un croc-en-jambe à un géant de n’importe quelle taille. Il peut décider d’appliquer
+      le Coup étourdissant une fois qu’il sait que l’attaque d’opportunité portée contre un géant qui se relève a
+      touché
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Éliminer les toxines]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Nain]], trait racial [[Nain#Traits_raciaux_standards_6|robuste]]</td>
+    <td>Guérit des affaiblissements temporaires plus vite</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Enchaînement élargi]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[For]] 13, [[Enchaînement]], [[Attaque en puissance]], [[BBA]] +11, [[nain]]</td>
+    <td>Déplacement d'1.5m entre les enchaînements pour menacer plus de créatures</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Enchaîner les gobelins]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[For]] 13, [[Enchaînement]], [[Attaque en puissance]], [[nain]]</td>
+    <td>
+      Cible plus de créatures pendant un enchaînement si elles sont plus petites que le personnage, +2 à l'attaque
+      contre ces créatures
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Débiter les orques]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[For]] 13, [[Enchaînement]], [[Enchaîner les gobelins]], [[Attaque en puissance]], [[nain]]</td>
+    <td>+2 à l'attaque pour utiliser Enchaînement sur un orque</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Tueur de géants]]*</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[For]] 13, [[Enchaînement]], [[Enchaîner les gobelins]], [[Débiter les orques]], [[Attaque en puissance]],
+      [[Riposte]], [[BBA]] +11, [[nain]]
+    </td>
+    <td>
+      Cible plus de créatures pendant un enchaînement si elles sont plus grandes que le personnage, +2 à l'attaque
+      contre ces créatures
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Expériences variées]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Nain]], [[elfe]], ou [[gnome]]; 100 ans ou plus</td>
+    <td>+2 sur tous les tests de Connaissances ou de Profession</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Forteresse vivante]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[Nain]], trait racial robuste</td>
+    <td>
+      Les bonus raciaux aux jets de sauvegarde contre les sorts et pouvoirs magiques augmentent de 2 à proximité
+      d'un allié avec ce don
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe de la vipère jaillissante]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]]</td>
+    <td>Alterne la fonction de la dorn-dergar par une action rapide</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lancer de hache coulissante]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Dex]] 13, [[BBA]] +1</td>
+    <td>Ignorer les boucliers et faire des croc-en-jambe avec des haches de lancer</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maître brasseur]]</td>
+    <td><sup>MR</sup></td>
+    <td>1 rang en [[Artisanat]] (alchimie), 1 rang en [[Profession]] (brasseur), [[nain]]</td>
+    <td>+2 aux tests d'Artisanat (alchimie) et Profession (brasseur), +1 aux DD des poisons d'ingestion créés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise de la dorn-dergar]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Combat à deux armes]], [[BBA]] +4, maniement de la [[dorn-dergar naine (arme)|dorn-dergar naine]]</td>
+    <td>Manie la dorn-dergar à une main</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau bondissant]]</td>
+    <td><sup>MR</sup></td>
+    <td>Maniement du marteau, [[BBA]] +6</td>
+    <td>Lance un marteau et le faire rebondir pour qu’il revienne</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Position du xorn]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Sag]] 15, [[BBA]] +3</td>
+    <td>Les créatures qui prennent le personnage en tenaille n’obtiennent aucun bonus</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Peau de fer]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Con]] 13; [[nain]], [[demi-orque]], ou [[Orque (race)|orque]]</td>
+    <td>Bonus d’armure naturelle de +1 à la CA</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tête dure]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[BBA]] +1, [[nain]]</td>
+    <td>
+      +1 à l'attaque, au BMO et au DMD avec les casques, +2 aux jets de sauvegarde contre les effets de chancèlement
+      et d'étourdissement
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Casque bosselé]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Tête dure]], [[BBA]] +6, [[nain]]</td>
+    <td>
+      +1 à la CA contre les confirmations critiques en portant un casque, la moitié des dégâts subits lors d'un coup
+      critique sont infligés au casque
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Casque fendu]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Casque bosselé]], [[Tête dure]], [[BBA]] +11, [[nain]]</td>
+    <td>
+      +1 à la CA contre les confirmations critiques en portant un casque, les dégâts subits lors d'un coup critique
+      sont infligés au casque
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tonnerres jumeaux]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[Nain]] ou [[gnome]], trait racial entraînement défensif, [[Combat à deux armes]] ou capacité de classe
+      [[Moine#DELUGEDECOUPS|déluge de coups]], [[Arme de prédilection]] avec les deux armes utilisées
+    </td>
+    <td>
+      Remplace une attaque contre un géant par une tentative de désarmement, de destruction d’arme ou de
+      croc-en-jambe
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Déluge des tonnerres jumeaux]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à
+      deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Arme de
+      prédilection]] avec les deux armes utilisées; [[BBA]] +6
+    </td>
+    <td>Possibilité de croc-en-jambe contre un géant de taille TG et +2 points de dégâts contre les géants</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Maître des tonnerres jumeaux]]*</td>
+    <td><sup>AG</sup></td>
+    <td>
+      [[Nain]] ou [[gnome]], trait racial entraînement défensif; [[Science du combat à deux armes]] et [[Combat à
+      deux armes]], ou capacité de classe [[Moine#DELUGEDECOUPS|déluge de coups]]; [[Tonnerres jumeaux]]; [[Déluge
+      des tonnerres jumeaux]]; [[Arme de prédilection]] avec les deux armes utilisées; [[BBA]] +9
+    </td>
+    <td>L’adversaire frappé par les tonnerres jumeaux est secoué</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Visage de pierre]]</td>
+    <td><sup>MJRA</sup></td>
+    <td>[[Nain]]</td>
+    <td>Bonus de +4 aux tests de Bluff pour mentir ou cacher son but</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

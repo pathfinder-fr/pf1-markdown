@@ -68,7 +68,26 @@ Voici les options accessibles aux sulis, d’autres races adaptées peuvent s’
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Assaut élémentaire différentiel]]</td><td><sup>MR</sup></td><td>[[suli (race)|Suli]]</td><td>L'assaut élémentaire du suli peut être fractionné en rounds</td></tr><tr CLASS="premier"><td>[[Assaut élémentaire supplémentaire]]</td><td><sup>MR</sup></td><td>[[suli (race)|Suli]]</td><td>Le suli peut utiliser davantage l'assaut élémentaire</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Assaut élémentaire différentiel]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[suli (race)|Suli]]</td>
+    <td>L'assaut élémentaire du suli peut être fractionné en rounds</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Assaut élémentaire supplémentaire]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[suli (race)|Suli]]</td>
+    <td>Le suli peut utiliser davantage l'assaut élémentaire</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

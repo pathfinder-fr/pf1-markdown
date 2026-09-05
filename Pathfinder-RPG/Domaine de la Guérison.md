@@ -31,4 +31,25 @@ Le personnage peut repousser la douleur et la mort d’un simple toucher. Il acc
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Guérison</td><td>Sous-domaine de la Restauration</td><td>Sous-domaine de la Résurrection</td></tr><tr CLASS="premier"><td>1er</td><td>*[[soins légers]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[soins modérés]]*</td><td>*[[guérison des maladies]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[soins importants]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[soins intensifs]]*</td><td>*[[neutralisation du poison]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[souffle de vie]]*</td><td>*[[annulation denchantement|annulation d'enchantement]]*</td><td>*[[rappel à la vie]]*</td></tr><tr><td>6e</td><td>*[[guérison suprême]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[régénération]]*</td><td>*idem*</td><td>*[[résurrection]]*</td></tr><tr><td>8e</td><td>*[[soins intensifs de groupe]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[guérison suprême de groupe]]*</td><td>*idem*</td><td>*[[résurrection suprême]]*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Guérison</td>
+    <td>Sous-domaine de la Restauration</td>
+    <td>Sous-domaine de la Résurrection</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[soins légers]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>2e</td><td>*[[soins modérés]]*</td><td>*[[guérison des maladies]]*</td><td>*idem*</td></tr>
+  <tr><td>3e</td><td>*[[soins importants]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[soins intensifs]]*</td><td>*[[neutralisation du poison]]*</td><td>*idem*</td></tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[souffle de vie]]*</td>
+    <td>*[[annulation denchantement|annulation d'enchantement]]*</td>
+    <td>*[[rappel à la vie]]*</td>
+  </tr>
+  <tr><td>6e</td><td>*[[guérison suprême]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[régénération]]*</td><td>*idem*</td><td>*[[résurrection]]*</td></tr>
+  <tr><td>8e</td><td>*[[soins intensifs de groupe]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[guérison suprême de groupe]]*</td><td>*idem*</td><td>*[[résurrection suprême]]*</td></tr>
+</table>

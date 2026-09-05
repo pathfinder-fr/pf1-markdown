@@ -57,7 +57,68 @@ Avec ces conseils et sur base de l'histoire de l'objet, il est relativement faci
 
 <center>
 
-<table CLASS="tablo" WIDTH="95%"><tr CLASS="titre"><td>Pouvoir</td><td WIDTH="80px">Type d'objet</td><td WIDTH="60px">Mod. prix</td><td WIDTH="60px">Mod. ego</td></tr><tr CLASS="premier"><td>**Discret.** L'objet peut se rendre invisible comme par le sort d'[[Pathfinder-RPG.invisibilité|invisibilité]]. Il ne peut pas être utilisé lorsqu'il est invisible mais tous ses pouvoirs constants et tous les bonus qu'il confère de manière constante restent actifs.</td><td>tous</td><td>1 200 po</td><td>+1</td></tr><tr CLASS="alt"><td>**Bondissant.** L'objet peut sauter dans les mains de son possesseur ou s'équiper en un clin d'œil. Tant que le possesseur le porte sur sa personne, il peut l'appeler en une action libre et l'objet s'équipe (en main ou dans un emplacement sur le corps). Les objets qui ne sont pas maniés en main et qui n'occupent pas d'emplacement sur le corps ne peuvent pas recevoir ce pouvoir. Le possesseur doit avoir une main libre, ou l'emplacement d'objet correspondant libre, pour que cette capacité fonctionne.</td><td>spécial</td><td>2 000 po</td><td>+1</td></tr><tr><td>**Manœuvres.** Chaque fois que l'objet est utilisé pour accomplir un type spécifique de manœuvre de combat (généralement un désarmement ou une destruction), le possesseur reçoit un bonus de +2 au test et la tentative ne provoque pas d'attaques d'opportunité. Ce bonus de +2 ne se cumule pas avec celui conféré par le don lié à la manœuvre en question.</td><td>arme</td><td>8 000 po</td><td>+1</td></tr><tr CLASS="alt"><td>**Formation.** Le possesseur est automatiquement considéré comme formé au maniement de l'arme en question. Cette capacité ne donne pas au possesseur la capacité de manier d'autres armes du même type ni d'utiliser cet avantage pour remplir les conditions d'accès (à un don ou à une classe de prestige par exemple).</td><td>arme</td><td>2 000 po</td><td>+1</td></tr><tr><td>**Rechargement.** L'objet regagne une charge au bout de chaque jour pendant lequel il n'a utilisé aucun pouvoir consommant de charges. S'il s'agit d'une baguette, elle n'est pas détruite quand elle atteint 0 charge. L'objet ne peut jamais contenir plus de charges que son maximum (50 pour une baguette, 10 pour un bâton).</td><td>bâton, baguette ou autre objet à charges</td><td>18 000 po</td><td>+2</td></tr></table>
+<table CLASS="tablo" WIDTH="95%">
+  <tr CLASS="titre">
+    <td>Pouvoir</td>
+    <td WIDTH="80px">Type d'objet</td>
+    <td WIDTH="60px">Mod. prix</td>
+    <td WIDTH="60px">Mod. ego</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>
+      **Discret.** L'objet peut se rendre invisible comme par le sort
+      d'[[Pathfinder-RPG.invisibilité|invisibilité]]. Il ne peut pas être utilisé lorsqu'il est invisible mais tous
+      ses pouvoirs constants et tous les bonus qu'il confère de manière constante restent actifs.
+    </td>
+    <td>tous</td>
+    <td>1 200 po</td>
+    <td>+1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Bondissant.** L'objet peut sauter dans les mains de son possesseur ou s'équiper en un clin d'œil. Tant que
+      le possesseur le porte sur sa personne, il peut l'appeler en une action libre et l'objet s'équipe (en main ou
+      dans un emplacement sur le corps). Les objets qui ne sont pas maniés en main et qui n'occupent pas
+      d'emplacement sur le corps ne peuvent pas recevoir ce pouvoir. Le possesseur doit avoir une main libre, ou
+      l'emplacement d'objet correspondant libre, pour que cette capacité fonctionne.
+    </td>
+    <td>spécial</td>
+    <td>2 000 po</td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <td>
+      **Manœuvres.** Chaque fois que l'objet est utilisé pour accomplir un type spécifique de manœuvre de combat
+      (généralement un désarmement ou une destruction), le possesseur reçoit un bonus de +2 au test et la tentative
+      ne provoque pas d'attaques d'opportunité. Ce bonus de +2 ne se cumule pas avec celui conféré par le don lié à
+      la manœuvre en question.
+    </td>
+    <td>arme</td>
+    <td>8 000 po</td>
+    <td>+1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Formation.** Le possesseur est automatiquement considéré comme formé au maniement de l'arme en question.
+      Cette capacité ne donne pas au possesseur la capacité de manier d'autres armes du même type ni d'utiliser cet
+      avantage pour remplir les conditions d'accès (à un don ou à une classe de prestige par exemple).
+    </td>
+    <td>arme</td>
+    <td>2 000 po</td>
+    <td>+1</td>
+  </tr>
+  <tr>
+    <td>
+      **Rechargement.** L'objet regagne une charge au bout de chaque jour pendant lequel il n'a utilisé aucun
+      pouvoir consommant de charges. S'il s'agit d'une baguette, elle n'est pas détruite quand elle atteint 0
+      charge. L'objet ne peut jamais contenir plus de charges que son maximum (50 pour une baguette, 10 pour un
+      bâton).
+    </td>
+    <td>bâton, baguette ou autre objet à charges</td>
+    <td>18 000 po</td>
+    <td>+2</td>
+  </tr>
+</table>
 
 </center>
 
@@ -65,7 +126,54 @@ En plus des pouvoirs, vous pourriez songer à ajouter à l'objet un défaut ou d
 
 <center>
 
-<table CLASS="tablo" WIDTH="95%"><tr CLASS="titre"><td>Défaut</td><td WIDTH="60px">Mod. ego</td></tr><tr CLASS="premier"><td>**Distrait.** L'objet ne se souvient pas de son possesseur. Chaque matin, il le traite comme s'il ne le connaissait pas ; le possesseur doit donc constamment regagner sa confiance.</td><td>-1</td></tr><tr CLASS="alt"><td>**Secret.** Les pouvoirs spéciaux de l'objet ne peuvent pas être découverts avec un sort tel que *détection de la magie* ou *identification* (un sort comme *analyse d'enchantement* est nécessaire pour ce faire). Les pouvoirs et les capacités de l'objet de base peuvent être découverts normalement.</td><td>-1</td></tr><tr><td>**Chantant.** L'objet chante ou parle à des moments inappropriés, ce qui impose à son possesseur un malus de –4 aux tests de Discrétion. L'objet doit être capable de parler pour posséder ce défaut.</td><td>-1</td></tr><tr CLASS="alt"><td>**Divisé.** L'objet a deux alignements et, chaque jour, le MJ détermine lequel des deux se manifeste. Ces alignements sont toujours opposés.</td><td>-2</td></tr><tr><td>**Indifférent.** L'objet de ne se préoccupe pas de la sécurité ou des buts de son possesseurs et n'hésite pas à le mettre en danger si cela l'aide à accomplir ses propres buts. Le possesseur doit réussir un jet de Volonté contre un DD égal à l'ego de l'objet chaque jour. En cas d'échec, l'objet ne fonctionne pas ce jour-là, à moins que les événements ou les actions du possesseur ne l'approchent de son but.</td><td>-3</td></tr><tr CLASS="alt"><td>**Peu fiable.** L'objet est très vieux et a oublié comment utiliser ses pouvoirs. Chaque fois qu'un possesseur tente d'utiliser ses pouvoirs, il y a 25% de chances pour que cela ne fonctionne pas.</td><td>-2</td></tr></table>
+<table CLASS="tablo" WIDTH="95%">
+  <tr CLASS="titre"><td>Défaut</td><td WIDTH="60px">Mod. ego</td></tr>
+  <tr CLASS="premier">
+    <td>
+      **Distrait.** L'objet ne se souvient pas de son possesseur. Chaque matin, il le traite comme s'il ne le
+      connaissait pas ; le possesseur doit donc constamment regagner sa confiance.
+    </td>
+    <td>-1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Secret.** Les pouvoirs spéciaux de l'objet ne peuvent pas être découverts avec un sort tel que *détection de
+      la magie* ou *identification* (un sort comme *analyse d'enchantement* est nécessaire pour ce faire). Les
+      pouvoirs et les capacités de l'objet de base peuvent être découverts normalement.
+    </td>
+    <td>-1</td>
+  </tr>
+  <tr>
+    <td>
+      **Chantant.** L'objet chante ou parle à des moments inappropriés, ce qui impose à son possesseur un malus de
+      –4 aux tests de Discrétion. L'objet doit être capable de parler pour posséder ce défaut.
+    </td>
+    <td>-1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Divisé.** L'objet a deux alignements et, chaque jour, le MJ détermine lequel des deux se manifeste. Ces
+      alignements sont toujours opposés.
+    </td>
+    <td>-2</td>
+  </tr>
+  <tr>
+    <td>
+      **Indifférent.** L'objet de ne se préoccupe pas de la sécurité ou des buts de son possesseurs et n'hésite pas
+      à le mettre en danger si cela l'aide à accomplir ses propres buts. Le possesseur doit réussir un jet de
+      Volonté contre un DD égal à l'ego de l'objet chaque jour. En cas d'échec, l'objet ne fonctionne pas ce
+      jour-là, à moins que les événements ou les actions du possesseur ne l'approchent de son but.
+    </td>
+    <td>-3</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Peu fiable.** L'objet est très vieux et a oublié comment utiliser ses pouvoirs. Chaque fois qu'un possesseur
+      tente d'utiliser ses pouvoirs, il y a 25% de chances pour que cela ne fonctionne pas.
+    </td>
+    <td>-2</td>
+  </tr>
+</table>
 
 </center>
 

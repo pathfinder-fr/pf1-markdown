@@ -33,4 +33,30 @@ Le personnage est un esprit libre et un fervent adversaire de tous ceux qui oppr
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Libération</td><td>Sous-domaine de la Liberté</td><td>Sous-domaine de la Révolution</td></tr><tr CLASS="premier"><td>1er</td><td>*[[regain dassurance|regain d’assurance]]*</td><td>*[[sanctuaire]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[délivrance de la paralysie]]*</td><td>*idem*</td><td>*[[discours captivant]]*</td></tr><tr><td>3e</td><td>*[[délivrance des malédictions]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[liberté de mouvement]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[annulation denchantement|annulation d’enchantement]]*</td><td>*[[changement de plan]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[dissipation suprême]]*</td><td>*idem*</td><td>*[[symbole de persuasion]]*</td></tr><tr><td>7e</td><td>*[[refuge]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[esprit impénétrable]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[délivrance]]*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Libération</td>
+    <td>Sous-domaine de la Liberté</td>
+    <td>Sous-domaine de la Révolution</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[regain dassurance|regain d’assurance]]*</td>
+    <td>*[[sanctuaire]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[délivrance de la paralysie]]*</td><td>*idem*</td><td>*[[discours captivant]]*</td></tr>
+  <tr><td>3e</td><td>*[[délivrance des malédictions]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[liberté de mouvement]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[annulation denchantement|annulation d’enchantement]]*</td>
+    <td>*[[changement de plan]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>6e</td><td>*[[dissipation suprême]]*</td><td>*idem*</td><td>*[[symbole de persuasion]]*</td></tr>
+  <tr><td>7e</td><td>*[[refuge]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[esprit impénétrable]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[délivrance]]*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

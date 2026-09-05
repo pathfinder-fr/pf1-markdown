@@ -24,7 +24,20 @@ Le pouvoir des dragons imprègne le personnage et se manifeste de diverses mani�
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt" ID="tabdragon"><caption>lignage draconique</caption><tr CLASS="titre"><td>Type de Dragon</td><td>Type d'énergie</td><td>Forme du souffle</td></tr><tr CLASS="premier"><td>Blanc</td><td>Froid</td><td>Cône de 9m</td></tr><tr><td>Bleu</td><td>Électricité</td><td>Ligne de 18m</td></tr><tr><td>Noir</td><td>Acide</td><td>Ligne de 18m</td></tr><tr><td>Rouge</td><td>Feu</td><td>Cône de 9m</td></tr><tr><td>Vert</td><td>Acide</td><td>Cône de 9m</td></tr><tr><td>Airain</td><td>Feu</td><td>Ligne de 18m</td></tr><tr><td>Argent</td><td>Froid</td><td>Cône de 9m</td></tr><tr><td>Bronze</td><td>Électricité</td><td>Ligne de 18m</td></tr><tr><td>Cuivre</td><td>Acide</td><td>Ligne de 18m</td></tr><tr><td>Or</td><td>Feu</td><td>Cône de 9m</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt" ID="tabdragon">
+  <caption>lignage draconique</caption>
+  <tr CLASS="titre"><td>Type de Dragon</td><td>Type d'énergie</td><td>Forme du souffle</td></tr>
+  <tr CLASS="premier"><td>Blanc</td><td>Froid</td><td>Cône de 9m</td></tr>
+  <tr><td>Bleu</td><td>Électricité</td><td>Ligne de 18m</td></tr>
+  <tr><td>Noir</td><td>Acide</td><td>Ligne de 18m</td></tr>
+  <tr><td>Rouge</td><td>Feu</td><td>Cône de 9m</td></tr>
+  <tr><td>Vert</td><td>Acide</td><td>Cône de 9m</td></tr>
+  <tr><td>Airain</td><td>Feu</td><td>Ligne de 18m</td></tr>
+  <tr><td>Argent</td><td>Froid</td><td>Cône de 9m</td></tr>
+  <tr><td>Bronze</td><td>Électricité</td><td>Ligne de 18m</td></tr>
+  <tr><td>Cuivre</td><td>Acide</td><td>Ligne de 18m</td></tr>
+  <tr><td>Or</td><td>Feu</td><td>Cône de 9m</td></tr>
+</table>
 
 </div></div>Au niveau 1, il doit choisir un type de dragon métallique ou chromatique. Il ne peut pas en changer par la suite. Une partie de ses pouvoirs de lignage infligent des dégâts et offrent des résistances basés sur le type de dragon, comme indiqué plus loin.
 

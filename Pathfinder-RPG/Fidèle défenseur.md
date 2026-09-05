@@ -13,7 +13,114 @@ La plupart des fidèles défenseurs sont d’anciens guerriers qui désirent sou
 
 <center>
 
-<table CLASS="tablo"><caption>Le fidèle défenseur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td>[[Fidèle défenseur#BONUSALACA|Bonus à la CA]]</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Fidèle défenseur#POSITIONDEFENSIVE|Position défensive]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Fidèle défenseur#ESQUIVEINSTINCTIVE|Esquive instinctive]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 1/–</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 3/–, [[Fidèle défenseur#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Fidèle défenseur#DEFENSEMOBILE|Défense mobile]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td>+4</td><td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 5/–, [[Fidèle défenseur#POUVOIRDEFENSIF|pouvoir défensif]], [[Fidèle défenseur#DERNIERMOT|dernier mot]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le fidèle défenseur</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td>[[Fidèle défenseur#BONUSALACA|Bonus à la CA]]</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Fidèle défenseur#POSITIONDEFENSIVE|Position défensive]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Fidèle défenseur#ESQUIVEINSTINCTIVE|Esquive instinctive]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 1/–</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 3/–, [[Fidèle
+      défenseur#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Fidèle défenseur#DEFENSEMOBILE|Défense mobile]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 5/–, [[Fidèle défenseur#POUVOIRDEFENSIF|pouvoir
+      défensif]], [[Fidèle défenseur#DERNIERMOT|dernier mot]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

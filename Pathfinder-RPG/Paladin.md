@@ -16,7 +16,268 @@ Categories:
 </div>*À travers quelques rares et vertueux élus, on peut voir briller la puissance divine. Ces âmes nobles qu’on appelle paladins dévouent leur épée et leur vie au combat contre le mal. À la fois chevaliers, croisés et justiciers, les paladins ne cherchent pas seulement à propager la justice divine mais également à incarner les enseignements des divinités vertueuses qu’ils servent. Pour atteindre ces objectifs ambitieux, ils adhèrent à un code de moralité et de discipline extrêmement strict. En récompense de leur droiture, ces champions sacrés reçoivent des capacités qui les aident à mener leur quête à bien : le pouvoir de repousser le mal, de soigner les innocents et d’encourager les fidèles. Même si leurs convictions les amènent parfois à entrer en conflit avec ceux qu’ils voudraient sauver, les paladins viennent à bout des incessantes épreuves qui testent leur foi par de viles tentations. Ils mettent leur vie en danger pour faire le bien et se battent pour préparer un avenir meilleur.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEPALADIN}Le paladin</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td CLASS="gauche" ROWSPAN="2">Spécial</td><td CLASS="avecsoustitre" COLSPAN="4">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[paladin#AURADUBIEN|Aura du bien]], [[paladin#CHATIMENTDUMAL|châtiment du mal]] 1/jour, [[paladin#DETECTIONDUMAL|détection du mal]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[paladin#GRACEDIVINE|Grâce divine]], [[paladin#IMPOSITIONDESMAINS|imposition des mains]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[paladin#AURADECOURAGE|Aura de courage]], [[paladin#GRACE|grâce]], [[paladin#SANTEDIVINE|santé divine]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[paladin#CANALISATIONDENERGIEPOSITIVE|Canalisation d'énergie positive]], [[paladin#CHATIMENTDUMAL|châtiment du mal]] 2/jour</td><td>0*</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[paladin#PACTEDIVIN|Pacte divin]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[paladin#GRACE|Grâce]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 3/jour</td><td>1</td><td>0*</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[paladin#AURADEFERMETE|Aura de fermeté]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[paladin#GRACE|Grâce]]</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 4/jour</td><td>2</td><td>1</td><td>0*</td><td>-</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[paladin#AURADEJUSTICE|Aura de justice]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[paladin#GRACE|Grâce]]</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 5/jour</td><td>3</td><td>2</td><td>1</td><td>0*</td></tr><tr CLASS="alt"><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[paladin#AURADEFOI|Aura de foi]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[paladin#GRACE|Grâce]]</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 6/jour</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[paladin#AURADEDROITURE|Aura de droiture]]</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[paladin#GRACE|Grâce]]</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 7/jour</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[paladin#CHAMPIONSACRE|Champion sacré]]</td><td>4</td><td>4</td><td>3</td><td>3</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Aucun sort sauf sorts bonus octroyés par un Charisme élevé.*</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEPALADIN}Le paladin</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td CLASS="gauche" ROWSPAN="2">Spécial</td>
+    <td CLASS="avecsoustitre" COLSPAN="4">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[paladin#AURADUBIEN|Aura du bien]], [[paladin#CHATIMENTDUMAL|châtiment du mal]] 1/jour,
+      [[paladin#DETECTIONDUMAL|détection du mal]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[paladin#GRACEDIVINE|Grâce divine]], [[paladin#IMPOSITIONDESMAINS|imposition des mains]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[paladin#AURADECOURAGE|Aura de courage]], [[paladin#GRACE|grâce]], [[paladin#SANTEDIVINE|santé divine]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[paladin#CANALISATIONDENERGIEPOSITIVE|Canalisation d'énergie positive]], [[paladin#CHATIMENTDUMAL|châtiment
+      du mal]] 2/jour
+    </td>
+    <td>0*</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[paladin#PACTEDIVIN|Pacte divin]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[paladin#GRACE|Grâce]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 3/jour</td>
+    <td>1</td>
+    <td>0*</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[paladin#AURADEFERMETE|Aura de fermeté]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[paladin#GRACE|Grâce]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 4/jour</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0*</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[paladin#AURADEJUSTICE|Aura de justice]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[paladin#GRACE|Grâce]]</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 5/jour</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[paladin#AURADEFOI|Aura de foi]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[paladin#GRACE|Grâce]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 6/jour</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[paladin#AURADEDROITURE|Aura de droiture]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[paladin#GRACE|Grâce]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[paladin#CHATIMENTDUMAL|Châtiment du mal]] 7/jour</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[paladin#CHAMPIONSACRE|Champion sacré]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="5">*(*) Aucun sort sauf sorts bonus octroyés par un Charisme élevé.*</td></tr>
+</table>
 
 
 **Rôle.** Les paladins sont pour leurs alliés comme des phares au milieu du chaos de la bataille. Ils sont redoutables quand ils combattent le mal, mais ils peuvent également fortifier les combattants du bien et les aider dans leurs croisades. Leurs capacités magiques et martiales en font également de bons protecteurs et des alliés capables de redonner à ceux qui ont été vaincus la force de continuer à se battre.

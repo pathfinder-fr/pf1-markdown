@@ -27,4 +27,22 @@ Obéissant à des lois qui échappent à cette réalité, le *sceptre des âges*
 </div>
 
 
-<table CLASS="tablo autoalt centre toutgauche" WIDTH="94%"><caption>Résultats aléatoires du voyage temporel</caption><tr CLASS="titre"><td>DD au jet</td><td>Temps au-delà du portail*</td></tr><tr CLASS="premier"><td>DD ou +</td><td>Temps voulu</td></tr><tr><td>DD -1 à -5</td><td>Temps voulu modifié de 1d10 années (1-10)</td></tr><tr><td>DD -6 à -10</td><td>Temps voulu modifié de 1d100 années (1-100)</td></tr><tr><td>DD -11 à -15</td><td>Temps voulu modifié de 1d100×100 années (100-10 000)</td></tr><tr><td>DD -16 à -20</td><td>Temps voulu modifié de 1d100×1 000 années (1 000-100 000)</td></tr><tr><td>DD -21 à -25</td><td>Temps voulu modifié de 1d100×10 000 années (10 000-1 000 000)</td></tr><tr><td>DD -26 à -30</td><td>Temps voulu modifié de 1d100×100 000 années (100 000-10 000 000)</td></tr><tr><td>DD -31 à -35</td><td>Temps voulu modifié de 1d100×1 000 000 années (1 000 000-100 000 000)</td></tr><tr><td>DD -36 à -40</td><td>**Distorsion temporelle.** Faites un jet pour chaque créature qui traverse le portail.</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le MJ détermine aléatoirement s’il ajoute ou soustrait le résultat au temps voulu.*</td></tr></table>
+<table CLASS="tablo autoalt centre toutgauche" WIDTH="94%">
+  <caption>Résultats aléatoires du voyage temporel</caption>
+  <tr CLASS="titre"><td>DD au jet</td><td>Temps au-delà du portail*</td></tr>
+  <tr CLASS="premier"><td>DD ou +</td><td>Temps voulu</td></tr>
+  <tr><td>DD -1 à -5</td><td>Temps voulu modifié de 1d10 années (1-10)</td></tr>
+  <tr><td>DD -6 à -10</td><td>Temps voulu modifié de 1d100 années (1-100)</td></tr>
+  <tr><td>DD -11 à -15</td><td>Temps voulu modifié de 1d100×100 années (100-10 000)</td></tr>
+  <tr><td>DD -16 à -20</td><td>Temps voulu modifié de 1d100×1 000 années (1 000-100 000)</td></tr>
+  <tr><td>DD -21 à -25</td><td>Temps voulu modifié de 1d100×10 000 années (10 000-1 000 000)</td></tr>
+  <tr><td>DD -26 à -30</td><td>Temps voulu modifié de 1d100×100 000 années (100 000-10 000 000)</td></tr>
+  <tr><td>DD -31 à -35</td><td>Temps voulu modifié de 1d100×1 000 000 années (1 000 000-100 000 000)</td></tr>
+  <tr>
+    <td>DD -36 à -40</td>
+    <td>**Distorsion temporelle.** Faites un jet pour chaque créature qui traverse le portail.</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">*(*) Le MJ détermine aléatoirement s’il ajoute ou soustrait le résultat au temps voulu.*</td>
+  </tr>
+</table>

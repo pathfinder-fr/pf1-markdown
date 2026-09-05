@@ -13,7 +13,121 @@ Categories:
 Les Lames des lions sont généralement recrutées parmi les élèves des fameux collèges de bardes de la capitale, car les écoles martiales secrètes enseignent leur art à des individus intelligents et polyvalents. Une Lame des lions passe en moyenne une année de formation avant d’être envoyée en mission au service de l'Empire décadent et de divers autres organismes non-gouvernementaux. Les [[PJ]] Lames des lions sont souvent envoyés en mission prolongée ou obtiennent une permission pour aller à l’aventure parfaire leur art en situation réelle. Quelques rares Lames des lions renient leurs responsabilités et travaillent pour leur propre compte, voire pour les ennemis de l'Empire décadent. L'Empire diabolique apprécie tout particulièrement ces félons.''
 
 
-<table CLASS="tablo centre autoalt"><caption>La Lame des lions</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Lame des lions#DEPLACEMENTDANSLAFOULE|Déplacement dans la foule]], [[Lame des lions#REPRESENTATIONBARDIQUE|inspiration assurée]] +2, [[Lame des lions#MAITREDUDEGUISEMENT|maître du déguisement]], [[Lame des lions#REPRESENTATIONBARDIQUE|représentation bardique]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Lame des lions#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Lame des lions#COUPRALENTISSANT|coup ralentissant]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Lame des lions#CACHEDANSLAFOULE|Caché dans la foule]], [[Lame des lions#SUGGESTIONINATTENDUE|suggestion inattendue]]</td></tr><tr><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Lame des lions#ACCELERATIONMOTRICE|Accélération motrice]], [[Lame des lions#SURPRISEPARFAITE|surprise parfaite]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Lame des lions#REPRESENTATIONBARDIQUE|Hymne à l'infortune]], [[Lame des lions#REPRESENTATIONBARDIQUE|inspiration assurée]] +4</td></tr><tr><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Lame des lions#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Lame des lions#FRAPPEDELAFOULE|frappe de la foule]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Lame des lions#ESPRITBROUILLE|Esprit brouillé]], [[Lame des lions#PASSECRET|pas secret]]</td></tr><tr><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Lame des lions#ECHAPPEEBELLE|Échappée belle]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Lame des lions#GRANDMAITREDUDEGUISEMENT|Grand-maître du déguisement]], [[Lame des lions#REPRESENTATIONBARDIQUE|inspiration assurée]] +6</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Lame des lions#AMESILENCIEUSE|Âme silencieuse]], [[Lame des lions#ATTAQUESOURNOISE|attaque sournoise]] +3d6</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>La Lame des lions</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Lame des lions#DEPLACEMENTDANSLAFOULE|Déplacement dans la foule]], [[Lame des
+      lions#REPRESENTATIONBARDIQUE|inspiration assurée]] +2, [[Lame des lions#MAITREDUDEGUISEMENT|maître du
+      déguisement]], [[Lame des lions#REPRESENTATIONBARDIQUE|représentation bardique]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Lame des lions#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Lame des lions#COUPRALENTISSANT|coup
+      ralentissant]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Lame des lions#CACHEDANSLAFOULE|Caché dans la foule]], [[Lame des lions#SUGGESTIONINATTENDUE|suggestion
+      inattendue]]
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Lame des lions#ACCELERATIONMOTRICE|Accélération motrice]], [[Lame des lions#SURPRISEPARFAITE|surprise
+      parfaite]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Lame des lions#REPRESENTATIONBARDIQUE|Hymne à l'infortune]], [[Lame des
+      lions#REPRESENTATIONBARDIQUE|inspiration assurée]] +4
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Lame des lions#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Lame des lions#FRAPPEDELAFOULE|frappe de la
+      foule]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Lame des lions#ESPRITBROUILLE|Esprit brouillé]], [[Lame des lions#PASSECRET|pas secret]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Lame des lions#ECHAPPEEBELLE|Échappée belle]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Lame des lions#GRANDMAITREDUDEGUISEMENT|Grand-maître du déguisement]], [[Lame des
+      lions#REPRESENTATIONBARDIQUE|inspiration assurée]] +6
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Lame des lions#AMESILENCIEUSE|Âme silencieuse]], [[Lame des lions#ATTAQUESOURNOISE|attaque sournoise]] +3d6
+    </td>
+  </tr>
+</table>
 
 
 **Dés de vie.** d8.

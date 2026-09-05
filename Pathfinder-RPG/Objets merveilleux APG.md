@@ -15,23 +15,445 @@ Categories:
 {s:Reference|FAIBLE}
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td WIDTH="5%">1d100</td><td WIDTH="25%">Objet</td><td WIDTH="60%">Effet</td><td WIDTH="10%">Prix de  
-vente</td></tr><tr CLASS="premier"><td>01-05</td><td>*[[Torche ioun]]*</td><td>Produit de la lumière.</td><td>75 po</td></tr><tr><td>06-09</td><td>*[[Peinture de guerre du terrible visage]]*</td><td>Lance [[frayeur]]. 1 utilisation.</td><td>100 po</td></tr><tr><td>10-12</td><td>*[[Gants dassistance|Gants d'assistance]]*</td><td>[[Compétences#AIDER|Aide]] son porteur. 1 utilisation.</td><td>180 po</td></tr><tr><td>13-15</td><td>*[[Bandages de guérison rapide]]*</td><td>Améliore les soins comme une journée de repos complet au lit. 1 utilisation.</td><td>200 po</td></tr><tr><td>15-18</td><td>*[[Cape enveloppante]]*</td><td>Offre un [[camouflage]] contre les attaques à distance à son porteur. 1 utilisation.</td><td>200 po</td></tr><tr><td>19-20</td><td>*[[Savon de lâme|Savon de l'âme]]*</td><td>Offre un nouveau jet de [[Volonté]] contre un effet mental. 1 utilisation.</td><td>200 po</td></tr><tr><td>21-23</td><td>*[[Bouteille à message]]*</td><td>Enregistre et délivre un message. 1 utilisation.</td><td>300 po</td></tr><tr><td>24-27</td><td>*[[Clef de solide fermeture]]*</td><td>Scelle et renforce une serrure, même contre la magie. 1 utilisation.</td><td>400 po</td></tr><tr><td>28-29</td><td>*[[Perle de feu de camp]]*</td><td>Se change en bois à bruler.</td><td>720 po</td></tr><tr><td>30-35</td><td>*[[Cirage défoliant]]*</td><td>Détruit les végétaux. 1 utilisation.</td><td>800 po</td></tr><tr><td>36-39</td><td>*[[Poussière démulation|Poussière d'émulation]]*</td><td>Simule un succès avec la compétence [[utilisation dobjets magiques|Utilisation d’objets magiques]]. 1 utilisation.</td><td>800 po</td></tr><tr><td>40-42</td><td>*[[Cordes de mulet]]*</td><td>Augmente le [[poids transportable]] de son porteur.</td><td>1 000 po</td></tr><tr><td>43-45</td><td>*[[Veste à outils]]*</td><td>Invoque des outils d’[[Artisanat]] pour son porteur.</td><td>1 800 po</td></tr><tr><td>46-49</td><td>*[[Cape du lâche accroupi]]*</td><td>Protège son porteur tant qu'il reste accroupi.</td><td>1 800 po</td></tr><tr><td>50-56</td><td>*[[Fourreau de vigueur]]*</td><td>Dote une arme d’un bonus d’altération aux jets d’attaque et de dégâts. 1 fois par jour.</td><td>1 800 po</td></tr><tr><td>57-58</td><td>*[[Boîte à tintamarre]]*</td><td>Produit beaucoup de bruit à retardement.</td><td>2 000 po</td></tr><tr><td>59-61</td><td>*[[Gants luisants]]*</td><td>Laisse une empreinte lumineuse.</td><td>2 000 po</td></tr><tr><td>62-63</td><td>*[[Menottes de coopération]]*</td><td>Rendent un prisonnier docile.</td><td>2 000 po</td></tr><tr><td>64-70</td><td>*[[Pennon du chevalier]] (honneur)*</td><td>Lance [[protection contre le Mal]] sur son porteur. 1 fois par jour.</td><td>2 200 po</td></tr><tr><td>71-75</td><td>*[[Onguent de vol]]*</td><td>Donne la capacité de [[vol (capacité)|vol]] (comme avec [[vol supérieur]]) pendant 9 heures. 1 utilisation.</td><td>2 250 po</td></tr><tr><td>76-78</td><td>*[[Bottes de terrain amical]]*</td><td>Un terrain est considéré comme un [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]]. Pour [[rôdeur]].</td><td>2 400 po</td></tr><tr><td>79-80</td><td>*[[Pomme du sommeil éternel]]*</td><td>cf. Blanche-neige</td><td>2 500 po</td></tr><tr><td>81-83</td><td>*[[Chaudron à décoction]]*</td><td>Donne un bonus de compétence de +5 aux tests d’[[Artisanat]] (alchimie).</td><td>3 000 po</td></tr><tr><td>84-85</td><td>*[[Philtre damour|Philtre d'amour]] (majeur)*</td><td>Amour ou adoration à effet permanent. 1 utilisation.</td><td>3 000 po</td></tr><tr><td>86-88</td><td>*[[Écharpe du champion]]*</td><td>Augmente de 4 le niveau de [[guerrier]] pour les pouvoirs [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] et [[guerrier#COURAGE|courage]].</td><td>4 000 po</td></tr><tr><td>89-90</td><td>*[[Pennon du chevalier]] (bataille)*</td><td>Lance [[héroïsme]] sur son porteur. 1 fois par jour.</td><td>4 500 po</td></tr><tr><td>91-92</td><td>*[[Pennon du chevalier]] (pourparlers)*</td><td>Donne un bonus d’altération de +4 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]] à son porteur.</td><td>4 500 po</td></tr><tr><td>93-94</td><td>*[[Casque de présence intimidante]]*</td><td>Lance [[pouvoirs de rage#REGARDINTIMIDANT|regard intimidant]] à chaque fois que son porteur devient [[barbare#RAGEDE BERSERKER|enragé]]. Pour [[barbare]].</td><td>5 000 po</td></tr><tr><td>95-96</td><td>*[[Corne du grand veneur]]*</td><td>Octroie le bonus d’[[rôdeur#ENNEMIJURE|ennemi juré]] aux alliés du porteur. Nécessite le pouvoir de classe [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons).</td><td>5 000 po</td></tr><tr><td>97-98</td><td>*[[Fourreau de coagulation]]*</td><td>[[immunité|Immunise]] contre les dégâts de [[saignement]] dont le [[DD]] est inférieur à 16.</td><td>5 000 po</td></tr><tr><td>99-100</td><td>*[[Fourreau de lame discrète]]*</td><td>Le fourreau et son arme sont [[invisible|invisibles]].</td><td>5 000 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Objets merveilleux de faible puissance</caption>
+  <tr CLASS="titre">
+    <td WIDTH="5%">1d100</td>
+    <td WIDTH="25%">Objet</td>
+    <td WIDTH="60%">Effet</td>
+    <td WIDTH="10%">Prix de  
+vente</td>
+  </tr>
+  <tr CLASS="premier"><td>01-05</td><td>*[[Torche ioun]]*</td><td>Produit de la lumière.</td><td>75 po</td></tr>
+  <tr>
+    <td>06-09</td>
+    <td>*[[Peinture de guerre du terrible visage]]*</td>
+    <td>Lance [[frayeur]]. 1 utilisation.</td>
+    <td>100 po</td>
+  </tr>
+  <tr>
+    <td>10-12</td>
+    <td>*[[Gants dassistance|Gants d'assistance]]*</td>
+    <td>[[Compétences#AIDER|Aide]] son porteur. 1 utilisation.</td>
+    <td>180 po</td>
+  </tr>
+  <tr>
+    <td>13-15</td>
+    <td>*[[Bandages de guérison rapide]]*</td>
+    <td>Améliore les soins comme une journée de repos complet au lit. 1 utilisation.</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>15-18</td>
+    <td>*[[Cape enveloppante]]*</td>
+    <td>Offre un [[camouflage]] contre les attaques à distance à son porteur. 1 utilisation.</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>19-20</td>
+    <td>*[[Savon de lâme|Savon de l'âme]]*</td>
+    <td>Offre un nouveau jet de [[Volonté]] contre un effet mental. 1 utilisation.</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>21-23</td>
+    <td>*[[Bouteille à message]]*</td>
+    <td>Enregistre et délivre un message. 1 utilisation.</td>
+    <td>300 po</td>
+  </tr>
+  <tr>
+    <td>24-27</td>
+    <td>*[[Clef de solide fermeture]]*</td>
+    <td>Scelle et renforce une serrure, même contre la magie. 1 utilisation.</td>
+    <td>400 po</td>
+  </tr>
+  <tr><td>28-29</td><td>*[[Perle de feu de camp]]*</td><td>Se change en bois à bruler.</td><td>720 po</td></tr>
+  <tr><td>30-35</td><td>*[[Cirage défoliant]]*</td><td>Détruit les végétaux. 1 utilisation.</td><td>800 po</td></tr>
+  <tr>
+    <td>36-39</td>
+    <td>*[[Poussière démulation|Poussière d'émulation]]*</td>
+    <td>
+      Simule un succès avec la compétence [[utilisation dobjets magiques|Utilisation d’objets magiques]]. 1
+      utilisation.
+    </td>
+    <td>800 po</td>
+  </tr>
+  <tr>
+    <td>40-42</td>
+    <td>*[[Cordes de mulet]]*</td>
+    <td>Augmente le [[poids transportable]] de son porteur.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>43-45</td>
+    <td>*[[Veste à outils]]*</td>
+    <td>Invoque des outils d’[[Artisanat]] pour son porteur.</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>46-49</td>
+    <td>*[[Cape du lâche accroupi]]*</td>
+    <td>Protège son porteur tant qu'il reste accroupi.</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>50-56</td>
+    <td>*[[Fourreau de vigueur]]*</td>
+    <td>Dote une arme d’un bonus d’altération aux jets d’attaque et de dégâts. 1 fois par jour.</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>57-58</td>
+    <td>*[[Boîte à tintamarre]]*</td>
+    <td>Produit beaucoup de bruit à retardement.</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr><td>59-61</td><td>*[[Gants luisants]]*</td><td>Laisse une empreinte lumineuse.</td><td>2 000 po</td></tr>
+  <tr><td>62-63</td><td>*[[Menottes de coopération]]*</td><td>Rendent un prisonnier docile.</td><td>2 000 po</td></tr>
+  <tr>
+    <td>64-70</td>
+    <td>*[[Pennon du chevalier]] (honneur)*</td>
+    <td>Lance [[protection contre le Mal]] sur son porteur. 1 fois par jour.</td>
+    <td>2 200 po</td>
+  </tr>
+  <tr>
+    <td>71-75</td>
+    <td>*[[Onguent de vol]]*</td>
+    <td>Donne la capacité de [[vol (capacité)|vol]] (comme avec [[vol supérieur]]) pendant 9 heures. 1 utilisation.</td>
+    <td>2 250 po</td>
+  </tr>
+  <tr>
+    <td>76-78</td>
+    <td>*[[Bottes de terrain amical]]*</td>
+    <td>
+      Un terrain est considéré comme un [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnements de prédilection]]. Pour
+      [[rôdeur]].
+    </td>
+    <td>2 400 po</td>
+  </tr>
+  <tr><td>79-80</td><td>*[[Pomme du sommeil éternel]]*</td><td>cf. Blanche-neige</td><td>2 500 po</td></tr>
+  <tr>
+    <td>81-83</td>
+    <td>*[[Chaudron à décoction]]*</td>
+    <td>Donne un bonus de compétence de +5 aux tests d’[[Artisanat]] (alchimie).</td>
+    <td>3 000 po</td>
+  </tr>
+  <tr>
+    <td>84-85</td>
+    <td>*[[Philtre damour|Philtre d'amour]] (majeur)*</td>
+    <td>Amour ou adoration à effet permanent. 1 utilisation.</td>
+    <td>3 000 po</td>
+  </tr>
+  <tr>
+    <td>86-88</td>
+    <td>*[[Écharpe du champion]]*</td>
+    <td>
+      Augmente de 4 le niveau de [[guerrier]] pour les pouvoirs [[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux
+      armures]] et [[guerrier#COURAGE|courage]].
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr>
+    <td>89-90</td>
+    <td>*[[Pennon du chevalier]] (bataille)*</td>
+    <td>Lance [[héroïsme]] sur son porteur. 1 fois par jour.</td>
+    <td>4 500 po</td>
+  </tr>
+  <tr>
+    <td>91-92</td>
+    <td>*[[Pennon du chevalier]] (pourparlers)*</td>
+    <td>
+      Donne un bonus d’altération de +4 aux tests de [[Bluff]], [[Diplomatie]], [[Intimidation]] et [[Psychologie]]
+      à son porteur.
+    </td>
+    <td>4 500 po</td>
+  </tr>
+  <tr>
+    <td>93-94</td>
+    <td>*[[Casque de présence intimidante]]*</td>
+    <td>
+      Lance [[pouvoirs de rage#REGARDINTIMIDANT|regard intimidant]] à chaque fois que son porteur devient
+      [[barbare#RAGEDE BERSERKER|enragé]]. Pour [[barbare]].
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>95-96</td>
+    <td>*[[Corne du grand veneur]]*</td>
+    <td>
+      Octroie le bonus d’[[rôdeur#ENNEMIJURE|ennemi juré]] aux alliés du porteur. Nécessite le pouvoir de classe
+      [[rôdeur#PACTEDUCHASSEUR|pacte du chasseur]] (compagnons).
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>97-98</td>
+    <td>*[[Fourreau de coagulation]]*</td>
+    <td>[[immunité|Immunise]] contre les dégâts de [[saignement]] dont le [[DD]] est inférieur à 16.</td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>99-100</td>
+    <td>*[[Fourreau de lame discrète]]*</td>
+    <td>Le fourreau et son arme sont [[invisible|invisibles]].</td>
+    <td>5 000 po</td>
+  </tr>
+</table>
 
 </center>
 ### Objets merveilleux de puissance intermédiaire
 {s:Reference|INTERMEDIAIRE}
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td WIDTH="5%">1d100</td><td WIDTH="25%">Objet</td><td WIDTH="60%">Effet</td><td WIDTH="10%">Prix de  
-vente</td></tr><tr CLASS="premier"><td>01-06</td><td>*[[Masque du lutteur]]*</td><td>Les [[bousculade|bousculades]] et les [[lutte|luttes]] du porteur ne déclenchent pas d’[[attaque dopportunité|attaque d’opportunité]].</td><td>5 000 po</td></tr><tr><td>06-16</td><td>*[[Torque de la furie du lion]]*</td><td>Donne un bonus de moral de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre la peur. À des effets supplémentaires pour les [[barbare]].</td><td>8 000 po</td></tr><tr><td>17-19</td><td>*[[Amulette dastuce magique|Amulette d'astuce magique]]*</td><td>Permet de préparer 3 [[niveau de sort|niveaux de sort]] de plus par jour. Pour [[magicien]].</td><td>10 000 po</td></tr><tr><td>20-23</td><td>*[[Brique de réparation]]*</td><td>Permet de réparer les [[type créature artificielle|créatures artificielles]] et les objets comme s’il s’agissait de créatures vivantes. Nécessite [[prêtre#CANALISATIONDENERGIE|canalisation]].</td><td>10 000 po</td></tr><tr><td>24-25</td><td>*[[Harpe du destin]]*</td><td>Permet de jouer [[représentations#CHANTFUNESTE|chant funeste]]. Nécessite [[barde#REPRESENTATIONBARDIQUE|représentation bardique]].</td><td>10 000 po</td></tr><tr><td>26-27</td><td>*[[Natte de ki]]*</td><td>Permet de récupérer des [[moine#RESERVEDEKI|points de ki]]en méditant.</td><td>10 000 po</td></tr><tr><td>28-37</td><td>*[[Bannière seigneuriale]] (diligence)*</td><td>Permet à un groupe d'avancer à marche forcée sans souffrir de dégâts non létaux.</td><td>10 000 po</td></tr><tr><td>38-40</td><td>*[[Cristal des mains guérisseuses]]*</td><td>Stocke et libère une [[paladin#IMPOSITIONDESMAINS|imposition des mains]].</td><td>12 000 po</td></tr><tr><td>41-44</td><td>*[[Livre du maître du savoir]]*</td><td>Donne un bonus de compétence de +5 lors de l'utilisation de [[barde#MAITREDUSAVOIR|maître du savoir]]. 3 fois par jour. Pour [[barde]].</td><td>15 000 po</td></tr><tr><td>45-48</td><td>*[[Bracelets de grâce]]*</td><td>Donne ou améliore [[paladin#GRACE|grâce guérison de la maladie]]. Nécessite [[paladin#GRACE|grâce]].</td><td>15 000 po</td></tr><tr><td>49-56</td><td>*[[Chaudron dabondance|Chaudron d'abondance]]*</td><td>Produit de la nourriture à volonté et un [[festin des héros]].</td><td>15 000 po</td></tr><tr><td>57-61</td><td>*[[Gants de duelliste]]*</td><td>Donne un bonus de +4 au [[DMD]] contre [[désarmement]] et [[destruction]], +2 au[[guerrier#ENTRAINEMENTAUXARMES|bonus d’entraînement]], contre les effets censés faire lâcher l'arme.</td><td>15 000 po</td></tr><tr><td>62-64</td><td>*[[Collier de sérénité]]*</td><td>Donne un bonus de +4 au niveau pour déterminer la [[moine#RESERVEDEKI|réserve de ki]].</td><td>16 000 po</td></tr><tr><td>65-69</td><td>*[[Robe de lHéritage Magique|Robe de l'héritage magique]]*</td><td>Donne un bonus de +4 au niveau d’[[ensorceleur]] pour déterminer les [[ensorceleur#LIGNAGE|pouvoirs de lignage]].</td><td>16 000 po</td></tr><tr><td>70-74</td><td>*[[Bracelet de châtiment argenté]]*</td><td>Donne un bonus de +4 au niveau de [[paladin]] pour le pouvoir [[paladin#CHATIMENTDUMAL|châtiment du mal]].</td><td>16 000 po</td></tr><tr><td>75-82</td><td>*[[Veste du cafard]]*</td><td>Donne ou améliore le talent [[talents#RESILIENCE|résilience]]. Pour [[roublard]].</td><td>16 000 po</td></tr><tr><td>83-86</td><td>*[[Amulette des arts magiques]]*</td><td>Permet de convertir des sorts préparés en d'autres. Pour [[magicien]] [[écoles de magie#ECOLEUNIVERSELLE|universel]].</td><td>20 000 po</td></tr><tr><td>87-90</td><td>*[[Corne dantagonisme|Corne d'antagonisme]]*</td><td>[[hébété|Hébéte]] un type d’ennemi juré dans un rayon de 30 mètres. 1 fois par jour. Nécessite [[rôdeur#ENNEMIJURE|ennemi juré]].</td><td>20 000 po</td></tr><tr><td>91-93</td><td>*[[Diadème de la lune]]*</td><td>Donne [[Capacités spéciales#VISIONDANSLENOIR|vision dans le noir]]. Augmente le NLS des lanceurs de sorts profanes selon les phases de la lune.</td><td>20 000 po</td></tr><tr><td>94-96</td><td>*[[Athamé du nécromancien]]*</td><td>Permet de convertir des sorts préparés en d'autres. Pour [[nécromancie (école)|nécromancien]].</td><td>20 000 po</td></tr><tr><td>97-98</td><td>*[[Lunettes de sniper]]*</td><td>Permet de faire des [[attaque sournoise|attaques sournoises]] quel que soit l’éloignement de la cible.</td><td>20 000 po</td></tr><tr><td>99-100</td><td>*[[Lunettes dannihilation|Lunettes d'annihilation]]*</td><td>Permet de convertir des sorts préparés en d'autres. Permet de lancer [[désintégration]] 1 fois par jour. Pour  [[Transmutation (école)|transmutateur]].</td><td>25 000 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Objets merveilleux de puissance intermédiaire</caption>
+  <tr CLASS="titre">
+    <td WIDTH="5%">1d100</td>
+    <td WIDTH="25%">Objet</td>
+    <td WIDTH="60%">Effet</td>
+    <td WIDTH="10%">Prix de  
+vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>01-06</td>
+    <td>*[[Masque du lutteur]]*</td>
+    <td>
+      Les [[bousculade|bousculades]] et les [[lutte|luttes]] du porteur ne déclenchent pas d’[[attaque
+      dopportunité|attaque d’opportunité]].
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>06-16</td>
+    <td>*[[Torque de la furie du lion]]*</td>
+    <td>
+      Donne un bonus de moral de +2 aux [[jet de sauvegarde|jets de sauvegarde]] contre la peur. À des effets
+      supplémentaires pour les [[barbare]].
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr>
+    <td>17-19</td>
+    <td>*[[Amulette dastuce magique|Amulette d'astuce magique]]*</td>
+    <td>Permet de préparer 3 [[niveau de sort|niveaux de sort]] de plus par jour. Pour [[magicien]].</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>20-23</td>
+    <td>*[[Brique de réparation]]*</td>
+    <td>
+      Permet de réparer les [[type créature artificielle|créatures artificielles]] et les objets comme s’il
+      s’agissait de créatures vivantes. Nécessite [[prêtre#CANALISATIONDENERGIE|canalisation]].
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>24-25</td>
+    <td>*[[Harpe du destin]]*</td>
+    <td>
+      Permet de jouer [[représentations#CHANTFUNESTE|chant funeste]]. Nécessite
+      [[barde#REPRESENTATIONBARDIQUE|représentation bardique]].
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>26-27</td>
+    <td>*[[Natte de ki]]*</td>
+    <td>Permet de récupérer des [[moine#RESERVEDEKI|points de ki]]en méditant.</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>28-37</td>
+    <td>*[[Bannière seigneuriale]] (diligence)*</td>
+    <td>Permet à un groupe d'avancer à marche forcée sans souffrir de dégâts non létaux.</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>38-40</td>
+    <td>*[[Cristal des mains guérisseuses]]*</td>
+    <td>Stocke et libère une [[paladin#IMPOSITIONDESMAINS|imposition des mains]].</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr>
+    <td>41-44</td>
+    <td>*[[Livre du maître du savoir]]*</td>
+    <td>
+      Donne un bonus de compétence de +5 lors de l'utilisation de [[barde#MAITREDUSAVOIR|maître du savoir]]. 3 fois
+      par jour. Pour [[barde]].
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr>
+    <td>45-48</td>
+    <td>*[[Bracelets de grâce]]*</td>
+    <td>Donne ou améliore [[paladin#GRACE|grâce guérison de la maladie]]. Nécessite [[paladin#GRACE|grâce]].</td>
+    <td>15 000 po</td>
+  </tr>
+  <tr>
+    <td>49-56</td>
+    <td>*[[Chaudron dabondance|Chaudron d'abondance]]*</td>
+    <td>Produit de la nourriture à volonté et un [[festin des héros]].</td>
+    <td>15 000 po</td>
+  </tr>
+  <tr>
+    <td>57-61</td>
+    <td>*[[Gants de duelliste]]*</td>
+    <td>
+      Donne un bonus de +4 au [[DMD]] contre [[désarmement]] et [[destruction]], +2
+      au[[guerrier#ENTRAINEMENTAUXARMES|bonus d’entraînement]], contre les effets censés faire lâcher l'arme.
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr>
+    <td>62-64</td>
+    <td>*[[Collier de sérénité]]*</td>
+    <td>Donne un bonus de +4 au niveau pour déterminer la [[moine#RESERVEDEKI|réserve de ki]].</td>
+    <td>16 000 po</td>
+  </tr>
+  <tr>
+    <td>65-69</td>
+    <td>*[[Robe de lHéritage Magique|Robe de l'héritage magique]]*</td>
+    <td>
+      Donne un bonus de +4 au niveau d’[[ensorceleur]] pour déterminer les [[ensorceleur#LIGNAGE|pouvoirs de
+      lignage]].
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr>
+    <td>70-74</td>
+    <td>*[[Bracelet de châtiment argenté]]*</td>
+    <td>Donne un bonus de +4 au niveau de [[paladin]] pour le pouvoir [[paladin#CHATIMENTDUMAL|châtiment du mal]].</td>
+    <td>16 000 po</td>
+  </tr>
+  <tr>
+    <td>75-82</td>
+    <td>*[[Veste du cafard]]*</td>
+    <td>Donne ou améliore le talent [[talents#RESILIENCE|résilience]]. Pour [[roublard]].</td>
+    <td>16 000 po</td>
+  </tr>
+  <tr>
+    <td>83-86</td>
+    <td>*[[Amulette des arts magiques]]*</td>
+    <td>
+      Permet de convertir des sorts préparés en d'autres. Pour [[magicien]] [[écoles de
+      magie#ECOLEUNIVERSELLE|universel]].
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr>
+    <td>87-90</td>
+    <td>*[[Corne dantagonisme|Corne d'antagonisme]]*</td>
+    <td>
+      [[hébété|Hébéte]] un type d’ennemi juré dans un rayon de 30 mètres. 1 fois par jour. Nécessite
+      [[rôdeur#ENNEMIJURE|ennemi juré]].
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr>
+    <td>91-93</td>
+    <td>*[[Diadème de la lune]]*</td>
+    <td>
+      Donne [[Capacités spéciales#VISIONDANSLENOIR|vision dans le noir]]. Augmente le NLS des lanceurs de sorts
+      profanes selon les phases de la lune.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr>
+    <td>94-96</td>
+    <td>*[[Athamé du nécromancien]]*</td>
+    <td>Permet de convertir des sorts préparés en d'autres. Pour [[nécromancie (école)|nécromancien]].</td>
+    <td>20 000 po</td>
+  </tr>
+  <tr>
+    <td>97-98</td>
+    <td>*[[Lunettes de sniper]]*</td>
+    <td>Permet de faire des [[attaque sournoise|attaques sournoises]] quel que soit l’éloignement de la cible.</td>
+    <td>20 000 po</td>
+  </tr>
+  <tr>
+    <td>99-100</td>
+    <td>*[[Lunettes dannihilation|Lunettes d'annihilation]]*</td>
+    <td>
+      Permet de convertir des sorts préparés en d'autres. Permet de lancer [[désintégration]] 1 fois par jour. Pour
+      [[Transmutation (école)|transmutateur]].
+    </td>
+    <td>25 000 po</td>
+  </tr>
+</table>
 
 </center>
 ### Objets merveilleux de grande puissance
 {s:Reference|PUISSANT}
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td WIDTH="5%">1d100</td><td WIDTH="25%">Objet</td><td WIDTH="60%">Effet</td><td WIDTH="10%">Prix de  
-vente</td></tr><tr CLASS="premier"><td>01-08</td><td>*[[Chaudron des morts]]*</td><td>Transforme les cadavres en [[zombi, archétype|zombi]].</td><td>30 000 po</td></tr><tr><td>09-20</td><td>*[[Masque des géants]] (mineur)*</td><td>Permet de se transformer en humanoïde de [[sous-type géant]]. Nécessite [[druide#FORMEANIMALE|forme animale]].</td><td>30 000 po</td></tr><tr><td>21-32</td><td>*[[Chaudron de résurrection]]*</td><td>Lance [[rappel à la vie]] ou [[résurrection]]. 1 fois par jour.</td><td>33 000 po</td></tr><tr><td>33-48</td><td>*[[Chaudron volant|Chaudron de vol]]*</td><td>Vol, peut transporter 2 passagers.</td><td>40 000 po</td></tr><tr><td>49-64</td><td>*[[Chaudron de vision]]*</td><td>Permet de voir comme [[scrutation]].</td><td>42 000 po</td></tr><tr><td>65-76</td><td>*[[Bannière seigneuriale]] (terreur)*</td><td>Terrifie les ennemis.</td><td>56 000 po</td></tr><tr><td>77-88</td><td>*[[Bannière seigneuriale]] (victoires)*</td><td>Donne aux alliés un bonus de moral de +2 aux jets d’attaque, de sauvegarde et aux tests de compétence.</td><td>75 000 po</td></tr><tr><td>89-96</td><td>*[[Masque des géants]] (majeur)*</td><td>Permet de se transformer en humanoïde de [[sous-type géant]], avec plus de pouvoir et de bonus. Nécessite [[druide#FORMEANIMALE|forme animale]].</td><td>90 000 po</td></tr><tr><td>97-100</td><td>*[[Bannière seigneuriale]] (croisades)*</td><td>Émet un effet de [[sanctification]] dans un rayon de 12 mètres.</td><td>100 000 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Objets merveilleux de grande puissance</caption>
+  <tr CLASS="titre">
+    <td WIDTH="5%">1d100</td>
+    <td WIDTH="25%">Objet</td>
+    <td WIDTH="60%">Effet</td>
+    <td WIDTH="10%">Prix de  
+vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>01-08</td>
+    <td>*[[Chaudron des morts]]*</td>
+    <td>Transforme les cadavres en [[zombi, archétype|zombi]].</td>
+    <td>30 000 po</td>
+  </tr>
+  <tr>
+    <td>09-20</td>
+    <td>*[[Masque des géants]] (mineur)*</td>
+    <td>
+      Permet de se transformer en humanoïde de [[sous-type géant]]. Nécessite [[druide#FORMEANIMALE|forme animale]].
+    </td>
+    <td>30 000 po</td>
+  </tr>
+  <tr>
+    <td>21-32</td>
+    <td>*[[Chaudron de résurrection]]*</td>
+    <td>Lance [[rappel à la vie]] ou [[résurrection]]. 1 fois par jour.</td>
+    <td>33 000 po</td>
+  </tr>
+  <tr>
+    <td>33-48</td>
+    <td>*[[Chaudron volant|Chaudron de vol]]*</td>
+    <td>Vol, peut transporter 2 passagers.</td>
+    <td>40 000 po</td>
+  </tr>
+  <tr>
+    <td>49-64</td>
+    <td>*[[Chaudron de vision]]*</td>
+    <td>Permet de voir comme [[scrutation]].</td>
+    <td>42 000 po</td>
+  </tr>
+  <tr>
+    <td>65-76</td>
+    <td>*[[Bannière seigneuriale]] (terreur)*</td>
+    <td>Terrifie les ennemis.</td>
+    <td>56 000 po</td>
+  </tr>
+  <tr>
+    <td>77-88</td>
+    <td>*[[Bannière seigneuriale]] (victoires)*</td>
+    <td>Donne aux alliés un bonus de moral de +2 aux jets d’attaque, de sauvegarde et aux tests de compétence.</td>
+    <td>75 000 po</td>
+  </tr>
+  <tr>
+    <td>89-96</td>
+    <td>*[[Masque des géants]] (majeur)*</td>
+    <td>
+      Permet de se transformer en humanoïde de [[sous-type géant]], avec plus de pouvoir et de bonus. Nécessite
+      [[druide#FORMEANIMALE|forme animale]].
+    </td>
+    <td>90 000 po</td>
+  </tr>
+  <tr>
+    <td>97-100</td>
+    <td>*[[Bannière seigneuriale]] (croisades)*</td>
+    <td>Émet un effet de [[sanctification]] dans un rayon de 12 mètres.</td>
+    <td>100 000 po</td>
+  </tr>
+</table>
 
 </center>

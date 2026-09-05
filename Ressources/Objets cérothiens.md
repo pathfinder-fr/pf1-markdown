@@ -10,7 +10,54 @@ Il existe des casque cérotien en divers matériaux, des casques de maître ou m
 La plupart des casques cérothiens comprennent au-dessus de l’œil une petite cavité dans lesquelles les lentilles des lorgnons peuvent être conservées en sécurité. Il faut une action de mouvement pour mettre en place les lorgnons ou pour les reloger dans la cavité.{br}
 
 
-<table CLASS="tablo"><caption>Casques des cérothiens</caption><tr CLASS="titre"><td>Armes</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Dégâts (G)</td><td>Critique</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes de guerre**</td></tr><tr CLASS="alt"><td>&emsp; Casque boutoir</td><td>50 po</td><td>1d3</td><td>1d4</td><td>1d6</td><td>20/×2</td><td>1 kg</td><td>C</td><td>Voir description</td></tr><tr><td>&emsp; Casque cérothien</td><td>100 po</td><td>1d4</td><td>1d6</td><td>1d8</td><td>20/×3</td><td>1 kg</td><td>P</td><td>Voir description</td></tr><tr CLASS="alt"><td>&emsp; Casque hache</td><td>150 po</td><td>1d4</td><td>1d6</td><td>1d8</td><td>20/×2</td><td>1 kg</td><td>T</td><td>Voir description</td></tr></table>
+<table CLASS="tablo">
+  <caption>Casques des cérothiens</caption>
+  <tr CLASS="titre">
+    <td>Armes</td>
+    <td>Prix</td>
+    <td>Dégâts (P)</td>
+    <td>Dégâts (M)</td>
+    <td>Dégâts (G)</td>
+    <td>Critique</td>
+    <td>Poids</td>
+    <td>Type</td>
+    <td>Spécial</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Armes de guerre**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp; Casque boutoir</td>
+    <td>50 po</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>20/×2</td>
+    <td>1 kg</td>
+    <td>C</td>
+    <td>Voir description</td>
+  </tr>
+  <tr>
+    <td>&emsp; Casque cérothien</td>
+    <td>100 po</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>20/×3</td>
+    <td>1 kg</td>
+    <td>P</td>
+    <td>Voir description</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp; Casque hache</td>
+    <td>150 po</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>20/×2</td>
+    <td>1 kg</td>
+    <td>T</td>
+    <td>Voir description</td>
+  </tr>
+</table>
 
 
 

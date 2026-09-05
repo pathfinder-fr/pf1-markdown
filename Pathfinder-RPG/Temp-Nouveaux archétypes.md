@@ -127,12 +127,66 @@ Les créatures ayant l’archétype créature primordiales vivent dans le premie
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Convocation polyvalente de Monstres</caption><tr CLASS="titre"><td>Description</td></tr><tr CLASS="premier"><td>*Le personnage a appris à convoquer un ensemble plus diversifié de monstres en provenance des plans intérieurs.*</td></tr><tr CLASS="alt"><td>**Conditions. ** 1 rang en [[Connaissances]] (mystères) et en [[Connaissances]] (plans)</td></tr><tr CLASS="alt"><td>**Avantage. ** Choisissez deux archétypes simples de créature parmi : aérienne, aqueuse, ardente, boréale, chtonienne, de l'ombre ou primordiale. Quand le personnage lance un sort de convocation de monstre (ou un effet imitant ce sort) pour convoquer une ou plusieurs créatures qui seraient normalement disponibles avec l'archétype simple céleste, fiélon, inflexible ou entropique, il peut à la place choisir d'appliquer l'un des deux archétypes simples choisis pour chaque créature.</td></tr><tr CLASS="alt"><td>**Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il donne accès à deux archétypes simples supplémentaires.</td></tr><tr CLASS="alt"></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Convocation polyvalente de Monstres</caption>
+  <tr CLASS="titre"><td>Description</td></tr>
+  <tr CLASS="premier">
+    <td>
+      *Le personnage a appris à convoquer un ensemble plus diversifié de monstres en provenance des plans
+      intérieurs.*
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Conditions. ** 1 rang en [[Connaissances]] (mystères) et en [[Connaissances]] (plans)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Avantage. ** Choisissez deux archétypes simples de créature parmi : aérienne, aqueuse, ardente, boréale,
+      chtonienne, de l'ombre ou primordiale. Quand le personnage lance un sort de convocation de monstre (ou un
+      effet imitant ce sort) pour convoquer une ou plusieurs créatures qui seraient normalement disponibles avec
+      l'archétype simple céleste, fiélon, inflexible ou entropique, il peut à la place choisir d'appliquer l'un des
+      deux archétypes simples choisis pour chaque créature.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il donne accès à deux archétypes simples
+      supplémentaires.
+    </td>
+  </tr>
+  <tr CLASS="alt"></tr>
+</table>
 
 </center>
 
 
-<table CLASS="tablo toutgauche"><caption>Convocation polyvalente d'alliés naturels</caption><tr CLASS="titre"><td>Description</td></tr><tr CLASS="premier"><td>*Le personnage a appris à convoquer un ensemble plus diversifié de créatures naturelles en provenance des plans intérieurs.*</td></tr><tr CLASS="alt"><td>**Conditions. ** 1 rang en [[Connaissances]] (nature) et en [[Connaissances]] (plans), [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation).</td></tr><tr CLASS="alt"><td>**Avantage. ** Quand le personnage lance un sort de convocation d'allies naturels (ou un effet imitant ce sort) pour convoquer une ou plusieurs créatures de type [[type humanoïde|humanoïde]], [[type animal|animal]] ou [[type Vermine|vermine]], il peut à la place des bénéfices apportés par le don [[Amélioration des créatures convoquées]] appliquer l'un des archétypes simples suivants : aérienne, aqueuse, ardente, boréale, chtonienne, de l'ombre ou primordiale. Si plusieurs créatures sont convoquées de cette manière, elles héritent toutes du même archétype simple.</td></tr><tr CLASS="alt"></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Convocation polyvalente d'alliés naturels</caption>
+  <tr CLASS="titre"><td>Description</td></tr>
+  <tr CLASS="premier">
+    <td>
+      *Le personnage a appris à convoquer un ensemble plus diversifié de créatures naturelles en provenance des
+      plans intérieurs.*
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Conditions. ** 1 rang en [[Connaissances]] (nature) et en [[Connaissances]] (plans), [[Amélioration des
+      créatures convoquées]], [[École renforcée]] (invocation).
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      **Avantage. ** Quand le personnage lance un sort de convocation d'allies naturels (ou un effet imitant ce
+      sort) pour convoquer une ou plusieurs créatures de type [[type humanoïde|humanoïde]], [[type animal|animal]]
+      ou [[type Vermine|vermine]], il peut à la place des bénéfices apportés par le don [[Amélioration des créatures
+      convoquées]] appliquer l'un des archétypes simples suivants : aérienne, aqueuse, ardente, boréale, chtonienne,
+      de l'ombre ou primordiale. Si plusieurs créatures sont convoquées de cette manière, elles héritent toutes du
+      même archétype simple.
+    </td>
+  </tr>
+  <tr CLASS="alt"></tr>
+</table>
 
 </center>
 

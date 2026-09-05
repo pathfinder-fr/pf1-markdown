@@ -109,7 +109,131 @@ Voici les options accessibles aux gobelins, d’autres races adaptées peuvent s
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Crame ! Crame ! Crame !]]</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Sabotage]]</td><td>Le personnage inflige plus de dégâts avec les attaques de feu non-magiques, +4 aux jets de Réflexes pour éviter de prendre feu</td></tr><tr CLASS="premier"><td>[[Bruyant encouragement de la monture]]*</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Équitation]]</td><td>Le personnage peut s’imposer un malus à l’attaque pour conférer un bonus à l’attaque et aux dégâts de sa monture</td></tr><tr CLASS="premier"><td>[[Chantre de guerre]]</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], aptitude de classe de [[représentation bardique]]</td><td>Confère un bonus aux jets de sauvegarde avec l’inspiration vaillante</td></tr><tr CLASS="premier"><td>[[Commandement en base arrière]]*</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Équitation]]</td><td>Le personnage peut encourager ses alliés depuis un abri</td></tr><tr CLASS="premier"><td>[[Distraction en combat]]</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Acrobaties]], 1 rang en [[Évasion]]</td><td>Le personnage peut distraire un ennemi avec des actes imprévisibles</td></tr><tr CLASS="premier"><td>[[Dompteur de feu]]</td><td><sup>MR</sup></td><td>[[gobelin (race)|Gobelin]], BBA +1</td><td>Le personnage résiste davantage au feu</td></tr><tr><td>&emsp;[[Coeur de feu]]</td><td><sup>MR</sup></td><td>[[gobelin (race)|Gobelin]], [[dompteur de feu]], [[niveau]] 5</td><td>Le personnage obtient une résistance au feu 5 et les effets de feu sont plus puissants</td></tr><tr CLASS="premier"><td>[[Haine des lettres]]</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], aptitude de classe de [[barbare#RAGE|rage de berserker]]</td><td>Le personnage peut activer une rage supplémentaire quand quelqu’un lit</td></tr><tr CLASS="premier"><td>[[Lancer boomerang]]</td><td><sup>*ISR*</sup></td><td>[[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]]</td><td>Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement</td></tr><tr CLASS="premier"><td>[[Main de feu]]</td><td><sup>MR</sup></td><td>[[gobelin (race)|Gobelin]]</td><td>Le personnage manie les torches comme des armes</td></tr><tr CLASS="premier"><td>[[Morsure à la cheville]]*</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Évasion]]</td><td>Le personnage peut effectuer une attaque de morsure gratuite quand il est la cible d’une manœuvre offensive</td></tr><tr CLASS="premier"><td>[[Pieds emmêlés]]</td><td><sup>MR</sup></td><td>[[gobelin (race)|Gobelin]], [[esquive]], [[souplesse du serpent]], [[sous les jambes]], taille M ou moins</td><td>Le personnage peut déséquilibrer son adversaire</td></tr><tr CLASS="premier"><td>[[Pistolier gobelin]]</td><td><sup>MR</sup></td><td>[[gobelin (race)|Gobelin]]</td><td>Le personnage manie les armes à feu de taille M</td></tr><tr CLASS="premier"><td>[[Roulade gobeline]]*</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Acrobaties]]</td><td>Le personnage peut éviter des dégâts en faisant une roulade en arrière</td></tr><tr CLASS="premier"><td>[[Tout doit brûler !]]</td><td><sup>*ISR*</sup></td><td>[[BBA]] +1, [[Gobelin (race)|gobelin]]</td><td>Les alliés adjacents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) avec certaines attaques de feu</td></tr><tr CLASS="premier"><td>[[Tueur de chiens, chasseur de chevaux]]</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], 1 rang en [[Dressage]]</td><td>+2 aux jets d’attaque, de dégâts et de confirmation critique contre les chiens et les chevaux</td></tr><tr CLASS="premier"><td>[[Vandale]]</td><td><sup>MR</sup></td><td>[[Gobelin (race)|Gobelin]], aptitude de classe d’[[attaque sournoise]]</td><td>Le personnage peut infliger la moitié des dégâts de ses attaques sournoises aux objets abandonnés</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Crame ! Crame ! Crame !]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Sabotage]]</td>
+    <td>
+      Le personnage inflige plus de dégâts avec les attaques de feu non-magiques, +4 aux jets de Réflexes pour
+      éviter de prendre feu
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bruyant encouragement de la monture]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Équitation]]</td>
+    <td>
+      Le personnage peut s’imposer un malus à l’attaque pour conférer un bonus à l’attaque et aux dégâts de sa
+      monture
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chantre de guerre]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], aptitude de classe de [[représentation bardique]]</td>
+    <td>Confère un bonus aux jets de sauvegarde avec l’inspiration vaillante</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Commandement en base arrière]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Équitation]]</td>
+    <td>Le personnage peut encourager ses alliés depuis un abri</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Distraction en combat]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Acrobaties]], 1 rang en [[Évasion]]</td>
+    <td>Le personnage peut distraire un ennemi avec des actes imprévisibles</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dompteur de feu]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[gobelin (race)|Gobelin]], BBA +1</td>
+    <td>Le personnage résiste davantage au feu</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Coeur de feu]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[gobelin (race)|Gobelin]], [[dompteur de feu]], [[niveau]] 5</td>
+    <td>Le personnage obtient une résistance au feu 5 et les effets de feu sont plus puissants</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Haine des lettres]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], aptitude de classe de [[barbare#RAGE|rage de berserker]]</td>
+    <td>Le personnage peut activer une rage supplémentaire quand quelqu’un lit</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lancer boomerang]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      [[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type
+      gobelinoïde|gobelinoïde]]
+    </td>
+    <td>
+      Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer
+      la cible originale immédiatement
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Main de feu]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[gobelin (race)|Gobelin]]</td>
+    <td>Le personnage manie les torches comme des armes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Morsure à la cheville]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Évasion]]</td>
+    <td>Le personnage peut effectuer une attaque de morsure gratuite quand il est la cible d’une manœuvre offensive</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pieds emmêlés]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[gobelin (race)|Gobelin]], [[esquive]], [[souplesse du serpent]], [[sous les jambes]], taille M ou moins</td>
+    <td>Le personnage peut déséquilibrer son adversaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pistolier gobelin]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[gobelin (race)|Gobelin]]</td>
+    <td>Le personnage manie les armes à feu de taille M</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Roulade gobeline]]*</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Acrobaties]]</td>
+    <td>Le personnage peut éviter des dégâts en faisant une roulade en arrière</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tout doit brûler !]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>[[BBA]] +1, [[Gobelin (race)|gobelin]]</td>
+    <td>
+      Les alliés adjacents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) avec certaines attaques de
+      feu
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tueur de chiens, chasseur de chevaux]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], 1 rang en [[Dressage]]</td>
+    <td>+2 aux jets d’attaque, de dégâts et de confirmation critique contre les chiens et les chevaux</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vandale]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Gobelin (race)|Gobelin]], aptitude de classe d’[[attaque sournoise]]</td>
+    <td>Le personnage peut infliger la moitié des dégâts de ses attaques sournoises aux objets abandonnés</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

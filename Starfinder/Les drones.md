@@ -121,7 +121,261 @@ Les caractéristiques de votre drone sont déterminées par votre niveau de méc
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>TABLE 4–4 : CARACTÉRISTIQUES DE BASE DES DRONES</caption><tr CLASS="titre"><td>NIV. DE CLASSE</td><td>PV</td><td>BONUS DE BASE À L’AT.</td><td>CA</td><td>BONUS MEILLEUR JET DE SAUV.</td><td>BONUS MAUVAIS JET DE SAUV.</td><td>AUGMENTATION DE CARAC.</td><td>DONS</td><td>MODULES</td><td CLASS="gauche">POUVOIRS SPÉCIAUX</td></tr><tr CLASS="premier"><td>1</td><td>10</td><td>+1</td><td>+0</td><td>+2</td><td>+0</td><td>-</td><td>1</td><td>1</td><td CLASS="gauche">Modules de base, IA limitée, maître contrôle, module de compétence</td></tr><tr CLASS="alt"><td>2</td><td>20</td><td>+2</td><td>+1</td><td>+3</td><td>+0</td><td>-</td><td>1</td><td>1</td><td CLASS="gauche">-</td></tr><tr><td>3</td><td>30</td><td>+3</td><td>+2</td><td>+3</td><td>+1</td><td>-</td><td>2</td><td>2</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>4</td><td>40</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td>2</td><td>2</td><td CLASS="gauche">-</td></tr><tr><td>5</td><td>50</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td>-</td><td>2</td><td>3</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>60</td><td>+5</td><td>+5</td><td>+4</td><td>+1</td><td>-</td><td>3</td><td>3</td><td CLASS="gauche">-</td></tr><tr><td>7</td><td>70</td><td>+6</td><td>+6</td><td>+5</td><td>+2</td><td>+1</td><td>3</td><td>4</td><td CLASS="gauche">IA avancée</td></tr><tr CLASS="alt"><td>8</td><td>80</td><td>+6</td><td>+7</td><td>+5</td><td>+2</td><td>-</td><td>3</td><td>4</td><td CLASS="gauche">-</td></tr><tr><td>9</td><td>90</td><td>+7</td><td>+8</td><td>+5</td><td>+2</td><td>-</td><td>4</td><td>5</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>10</td><td>100</td><td>+8</td><td>+9</td><td>+6</td><td>+2</td><td>+1</td><td>4</td><td>5</td><td CLASS="gauche">Noyau d’énergie amélioré</td></tr><tr><td>11</td><td>110</td><td>+9</td><td>+9</td><td>+6</td><td>+3</td><td>-</td><td>5</td><td>6</td><td CLASS="gauche">Modules avancés</td></tr><tr CLASS="alt"><td>12</td><td>120</td><td>+9</td><td>+10</td><td>+6</td><td>+3</td><td>-</td><td>5</td><td>6</td><td CLASS="gauche">-</td></tr><tr><td>13</td><td>130</td><td>+10</td><td>+11</td><td>+7</td><td>+3</td><td>+1</td><td>5</td><td>7</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>14</td><td>140</td><td>+11</td><td>+12</td><td>+7</td><td>+3</td><td>-</td><td>6</td><td>7</td><td CLASS="gauche">-</td></tr><tr><td>15</td><td>150</td><td>+12</td><td>+13</td><td>+8</td><td>+4</td><td>-</td><td>6</td><td>8</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>16</td><td>160</td><td>+12</td><td>+14</td><td>+8</td><td>+4</td><td>+1</td><td>6</td><td>8</td><td CLASS="gauche">-</td></tr><tr><td>17</td><td>170</td><td>+13</td><td>+15</td><td>+8</td><td>+4</td><td>-</td><td>7</td><td>9</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>18</td><td>190</td><td>+14</td><td>+16</td><td>+9</td><td>+4</td><td>-</td><td>7</td><td>9</td><td CLASS="gauche">-</td></tr><tr><td>19</td><td>210</td><td>+15</td><td>+17</td><td>+9</td><td>+5</td><td>+1</td><td>8</td><td>10</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>20</td><td>230</td><td>+15</td><td>+18</td><td>+9</td><td>+5</td><td>-</td><td>8</td><td>10</td><td CLASS="gauche">Véritable IA</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>TABLE 4–4 : CARACTÉRISTIQUES DE BASE DES DRONES</caption>
+  <tr CLASS="titre">
+    <td>NIV. DE CLASSE</td>
+    <td>PV</td>
+    <td>BONUS DE BASE À L’AT.</td>
+    <td>CA</td>
+    <td>BONUS MEILLEUR JET DE SAUV.</td>
+    <td>BONUS MAUVAIS JET DE SAUV.</td>
+    <td>AUGMENTATION DE CARAC.</td>
+    <td>DONS</td>
+    <td>MODULES</td>
+    <td CLASS="gauche">POUVOIRS SPÉCIAUX</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>10</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>-</td>
+    <td>1</td>
+    <td>1</td>
+    <td CLASS="gauche">Modules de base, IA limitée, maître contrôle, module de compétence</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>20</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>-</td>
+    <td>1</td>
+    <td>1</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>30</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>-</td>
+    <td>2</td>
+    <td>2</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>40</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>2</td>
+    <td>2</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>50</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>-</td>
+    <td>2</td>
+    <td>3</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>60</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>-</td>
+    <td>3</td>
+    <td>3</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>70</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>3</td>
+    <td>4</td>
+    <td CLASS="gauche">IA avancée</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>80</td>
+    <td>+6</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>-</td>
+    <td>3</td>
+    <td>4</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>90</td>
+    <td>+7</td>
+    <td>+8</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>-</td>
+    <td>4</td>
+    <td>5</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>100</td>
+    <td>+8</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>4</td>
+    <td>5</td>
+    <td CLASS="gauche">Noyau d’énergie amélioré</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>110</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>-</td>
+    <td>5</td>
+    <td>6</td>
+    <td CLASS="gauche">Modules avancés</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>120</td>
+    <td>+9</td>
+    <td>+10</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>-</td>
+    <td>5</td>
+    <td>6</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>130</td>
+    <td>+10</td>
+    <td>+11</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>5</td>
+    <td>7</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>140</td>
+    <td>+11</td>
+    <td>+12</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>-</td>
+    <td>6</td>
+    <td>7</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>150</td>
+    <td>+12</td>
+    <td>+13</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>-</td>
+    <td>6</td>
+    <td>8</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>160</td>
+    <td>+12</td>
+    <td>+14</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>6</td>
+    <td>8</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>170</td>
+    <td>+13</td>
+    <td>+15</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>-</td>
+    <td>7</td>
+    <td>9</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>190</td>
+    <td>+14</td>
+    <td>+16</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>-</td>
+    <td>7</td>
+    <td>9</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>210</td>
+    <td>+15</td>
+    <td>+17</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>8</td>
+    <td>10</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>230</td>
+    <td>+15</td>
+    <td>+18</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>-</td>
+    <td>8</td>
+    <td>10</td>
+    <td CLASS="gauche">Véritable IA</td>
+  </tr>
+</table>
 
 </center>
 

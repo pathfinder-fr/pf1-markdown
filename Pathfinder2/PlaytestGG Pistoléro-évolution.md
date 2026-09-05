@@ -295,9 +295,165 @@ Les traits d'armes suivants viennent s'ajouter à ceux du Livre de base.
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Armes à distance peu communes</caption><tr CLASS="titre"><td>Armes simples  
-peu communes</td><td>Prix</td><td>Dégâts</td><td>Portée</td><td>Recharg</td><td>Encomb</td><td>Mains</td><td>Groupe</td><td>Traits</td></tr><tr><td>Mousquet à silex</td><td>7po</td><td>1d6P</td><td>8ca</td><td>1</td><td>1</td><td>2</td><td>Arme à feu</td><td>Fatale d10, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Pistolet à silex</td><td>6po</td><td>1d4P</td><td>4ca</td><td>1</td><td>1</td><td>1</td><td>Arme à feu</td><td>Fatale d8, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Canon à main</td><td>5po</td><td>1d4 modulaire</td><td>2ca</td><td>1</td><td>1</td><td>1</td><td>Arme à feu</td><td>Fatale d8, modulaire C, P ou T</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr CLASS="titre"><td>Armes de guerre  
-peu communes</td><td>Prix</td><td>Dégâts</td><td>Portée</td><td>Recharg</td><td>Encomb</td><td>Mains</td><td>Groupe</td><td>Traits</td></tr><tr><td>Arquebuse (niveau 1)</td><td>10po</td><td>1d8P</td><td>16ca</td><td>1</td><td>2</td><td>2</td><td>Arme à feu</td><td>Fatale d12, tir d'élite, précaire, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Tromblon</td><td>8po</td><td>1d8P</td><td>3ca</td><td>1</td><td>2</td><td>2</td><td>Arme à feu</td><td>Dispersion, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Pistolet de duel (niveau 1)</td><td>12po</td><td>1d6 P</td><td>6ca</td><td>1</td><td>L</td><td>1</td><td>Arme à feu</td><td>Facile à cacher, fatale d10, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Armes à distance peu communes</caption>
+  <tr CLASS="titre">
+    <td>Armes simples  
+peu communes</td>
+    <td>Prix</td>
+    <td>Dégâts</td>
+    <td>Portée</td>
+    <td>Recharg</td>
+    <td>Encomb</td>
+    <td>Mains</td>
+    <td>Groupe</td>
+    <td>Traits</td>
+  </tr>
+  <tr>
+    <td>Mousquet à silex</td>
+    <td>7po</td>
+    <td>1d6P</td>
+    <td>8ca</td>
+    <td>1</td>
+    <td>1</td>
+    <td>2</td>
+    <td>Arme à feu</td>
+    <td>Fatale d10, polyvalent C</td>
+  </tr>
+  <tr>
+    <td>&nbsp; &nbsp; 10 munitions</td>
+    <td>1pa</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>L</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Pistolet à silex</td>
+    <td>6po</td>
+    <td>1d4P</td>
+    <td>4ca</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>Arme à feu</td>
+    <td>Fatale d8, polyvalent C</td>
+  </tr>
+  <tr>
+    <td>&nbsp; &nbsp; 10 munitions</td>
+    <td>1pa</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>L</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Canon à main</td>
+    <td>5po</td>
+    <td>1d4 modulaire</td>
+    <td>2ca</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>Arme à feu</td>
+    <td>Fatale d8, modulaire C, P ou T</td>
+  </tr>
+  <tr>
+    <td>&nbsp; &nbsp; 10 munitions</td>
+    <td>1pa</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>L</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr CLASS="titre">
+    <td>Armes de guerre  
+peu communes</td>
+    <td>Prix</td>
+    <td>Dégâts</td>
+    <td>Portée</td>
+    <td>Recharg</td>
+    <td>Encomb</td>
+    <td>Mains</td>
+    <td>Groupe</td>
+    <td>Traits</td>
+  </tr>
+  <tr>
+    <td>Arquebuse (niveau 1)</td>
+    <td>10po</td>
+    <td>1d8P</td>
+    <td>16ca</td>
+    <td>1</td>
+    <td>2</td>
+    <td>2</td>
+    <td>Arme à feu</td>
+    <td>Fatale d12, tir d'élite, précaire, polyvalent C</td>
+  </tr>
+  <tr>
+    <td>&nbsp; &nbsp; 10 munitions</td>
+    <td>1pa</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>L</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Tromblon</td>
+    <td>8po</td>
+    <td>1d8P</td>
+    <td>3ca</td>
+    <td>1</td>
+    <td>2</td>
+    <td>2</td>
+    <td>Arme à feu</td>
+    <td>Dispersion, polyvalent C</td>
+  </tr>
+  <tr>
+    <td>&nbsp; &nbsp; 10 munitions</td>
+    <td>1pa</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>L</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Pistolet de duel (niveau 1)</td>
+    <td>12po</td>
+    <td>1d6 P</td>
+    <td>6ca</td>
+    <td>1</td>
+    <td>L</td>
+    <td>1</td>
+    <td>Arme à feu</td>
+    <td>Facile à cacher, fatale d10, polyvalent C</td>
+  </tr>
+  <tr>
+    <td>&nbsp; &nbsp; 10 munitions</td>
+    <td>1pa</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>L</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 
 </center>
 

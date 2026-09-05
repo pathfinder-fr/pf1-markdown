@@ -14,6 +14,19 @@ LastModified: 2013-10-12 08:05
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>Pouvoirs magiques à effets renforcés</caption><tr CLASS="titre"><td>Niveau du sort</td><td>NLS minimal pour utilisation renforcé</td></tr><tr CLASS="premier"><td>0</td><td>4</td></tr><tr CLASS="alt"><td>1</td><td>6</td></tr><tr><td>2</td><td>8</td></tr><tr CLASS="alt"><td>3</td><td>10</td></tr><tr><td>4</td><td>12</td></tr><tr CLASS="alt"><td>5</td><td>14</td></tr><tr><td>6</td><td>16</td></tr><tr CLASS="alt"><td>7</td><td>18</td></tr><tr><td>8</td><td>20</td></tr><tr CLASS="alt"><td>9</td><td>—</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>Pouvoirs magiques à effets renforcés</caption>
+  <tr CLASS="titre"><td>Niveau du sort</td><td>NLS minimal pour utilisation renforcé</td></tr>
+  <tr CLASS="premier"><td>0</td><td>4</td></tr>
+  <tr CLASS="alt"><td>1</td><td>6</td></tr>
+  <tr><td>2</td><td>8</td></tr>
+  <tr CLASS="alt"><td>3</td><td>10</td></tr>
+  <tr><td>4</td><td>12</td></tr>
+  <tr CLASS="alt"><td>5</td><td>14</td></tr>
+  <tr><td>6</td><td>16</td></tr>
+  <tr CLASS="alt"><td>7</td><td>18</td></tr>
+  <tr><td>8</td><td>20</td></tr>
+  <tr CLASS="alt"><td>9</td><td>—</td></tr>
+</table>
 
 </center>

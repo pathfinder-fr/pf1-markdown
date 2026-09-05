@@ -12,10 +12,94 @@ Categories:
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Bâton aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Bâton intermédiaire inférieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Bâton de soulagement béni]]</td><td>7 200</td></tr><tr><td>11-20</td><td>[[Bâton des arcanes mineures]]</td><td>8 000</td></tr><tr><td>21-30</td><td>[[Bâton dastuces|Bâton d’astuces]]</td><td>8 800</td></tr><tr><td>31-44</td><td>[[Bâton de léclaireur|Bâton de l’éclaireur]]</td><td>9 600</td></tr><tr><td>45-54</td><td>[[Bâton des eidolons]]</td><td>14 400</td></tr><tr><td>55-67</td><td>[[Bâton daccompagnement|Bâton d’accompagnement]]</td><td>14 800</td></tr><tr><td>68-84</td><td>[[Bâton dentendement|Bâton d’entendement]]</td><td>16 000</td></tr><tr><td>85-100</td><td>[[Bâton denvoûtement|Bâton d’envoûtement]]</td><td>17 600</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bâton intermédiaire supérieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-11</td><td>[[Bâton de feu]]</td><td>18 950</td></tr><tr><td>12-21</td><td>[[Bâton de courage]]</td><td>19 200</td></tr><tr><td>22-29</td><td>[[Bâton de dénigrement]]</td><td>20 000</td></tr><tr><td>30-38</td><td>[[Bâton de festin et de famine]]</td><td>20 800</td></tr><tr><td>39-49</td><td>[[Bâton de rigueur]]</td><td>20 800</td></tr><tr><td>50-60</td><td>[[Bâton du grand essaim]]</td><td>22 800</td></tr><tr><td>61-68</td><td>[[Bâton dautorité|Bâton d’autorité]]</td><td>23 000</td></tr><tr><td>69-81</td><td>[[Bâton de rayonnement]]</td><td>23 200</td></tr><tr><td>82-92</td><td>[[Bâton daltération de taille|Bâton d'altération de taille]]</td><td>26 150</td></tr><tr><td>93-100</td><td>[[Bâton des voyages]]</td><td>27 200</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bâton puissant inférieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-04</td><td>[[Bâton dacide|Bâton d’acide]]</td><td>28 600</td></tr><tr><td>05-08</td><td>[[Bâton des hurlements]]</td><td>28 800</td></tr><tr><td>09-11</td><td>[[Bâton du Chaos]]</td><td>29 600</td></tr><tr><td>12-14</td><td>[[Bâton sacré]]</td><td>29 600</td></tr><tr><td>15-17</td><td>[[Bâton de la Loi]]</td><td>29 600</td></tr><tr><td>18-21</td><td>[[Bâton de guérison]]</td><td>29 600</td></tr><tr><td>22-24</td><td>[[Bâton maudit]]</td><td>29 600</td></tr><tr><td>25-28</td><td>[[Bâton du maître]]</td><td>30 000</td></tr><tr><td>29-32</td><td>[[Bâton des araignées]]</td><td>30 200</td></tr><tr><td>33-36</td><td>[[Bâton délectricité|Bâton d’électricité]]</td><td>31 900</td></tr><tr><td>37-39</td><td>[[Fléau de lhérétique|Fléau de l’hérétique]]</td><td>32 000</td></tr><tr><td>40-42</td><td>[[Bâton musical]]</td><td>32 000</td></tr><tr><td>43-46</td><td>[[Bâton des âmes]]</td><td>32 800</td></tr><tr><td>47-50</td><td>[[Bâton de toxines]]</td><td>34 200</td></tr><tr><td>51-54</td><td>[[Bâton de discrétion]]</td><td>36 800</td></tr><tr><td>55-58</td><td>[[Bâton du justicier]]</td><td>37 310</td></tr><tr><td>59-62</td><td>[[Bâton des aspects]]</td><td>37 600</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Bâton aléatoire</caption>
+  <tr CLASS="titre"><td>D100</td><td>Bâton intermédiaire inférieur</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-10</td><td>[[Bâton de soulagement béni]]</td><td>7 200</td></tr>
+  <tr><td>11-20</td><td>[[Bâton des arcanes mineures]]</td><td>8 000</td></tr>
+  <tr><td>21-30</td><td>[[Bâton dastuces|Bâton d’astuces]]</td><td>8 800</td></tr>
+  <tr><td>31-44</td><td>[[Bâton de léclaireur|Bâton de l’éclaireur]]</td><td>9 600</td></tr>
+  <tr><td>45-54</td><td>[[Bâton des eidolons]]</td><td>14 400</td></tr>
+  <tr><td>55-67</td><td>[[Bâton daccompagnement|Bâton d’accompagnement]]</td><td>14 800</td></tr>
+  <tr><td>68-84</td><td>[[Bâton dentendement|Bâton d’entendement]]</td><td>16 000</td></tr>
+  <tr><td>85-100</td><td>[[Bâton denvoûtement|Bâton d’envoûtement]]</td><td>17 600</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Bâton intermédiaire supérieur</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-11</td><td>[[Bâton de feu]]</td><td>18 950</td></tr>
+  <tr><td>12-21</td><td>[[Bâton de courage]]</td><td>19 200</td></tr>
+  <tr><td>22-29</td><td>[[Bâton de dénigrement]]</td><td>20 000</td></tr>
+  <tr><td>30-38</td><td>[[Bâton de festin et de famine]]</td><td>20 800</td></tr>
+  <tr><td>39-49</td><td>[[Bâton de rigueur]]</td><td>20 800</td></tr>
+  <tr><td>50-60</td><td>[[Bâton du grand essaim]]</td><td>22 800</td></tr>
+  <tr><td>61-68</td><td>[[Bâton dautorité|Bâton d’autorité]]</td><td>23 000</td></tr>
+  <tr><td>69-81</td><td>[[Bâton de rayonnement]]</td><td>23 200</td></tr>
+  <tr><td>82-92</td><td>[[Bâton daltération de taille|Bâton d'altération de taille]]</td><td>26 150</td></tr>
+  <tr><td>93-100</td><td>[[Bâton des voyages]]</td><td>27 200</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Bâton puissant inférieur</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-04</td><td>[[Bâton dacide|Bâton d’acide]]</td><td>28 600</td></tr>
+  <tr><td>05-08</td><td>[[Bâton des hurlements]]</td><td>28 800</td></tr>
+  <tr><td>09-11</td><td>[[Bâton du Chaos]]</td><td>29 600</td></tr>
+  <tr><td>12-14</td><td>[[Bâton sacré]]</td><td>29 600</td></tr>
+  <tr><td>15-17</td><td>[[Bâton de la Loi]]</td><td>29 600</td></tr>
+  <tr><td>18-21</td><td>[[Bâton de guérison]]</td><td>29 600</td></tr>
+  <tr><td>22-24</td><td>[[Bâton maudit]]</td><td>29 600</td></tr>
+  <tr><td>25-28</td><td>[[Bâton du maître]]</td><td>30 000</td></tr>
+  <tr><td>29-32</td><td>[[Bâton des araignées]]</td><td>30 200</td></tr>
+  <tr><td>33-36</td><td>[[Bâton délectricité|Bâton d’électricité]]</td><td>31 900</td></tr>
+  <tr><td>37-39</td><td>[[Fléau de lhérétique|Fléau de l’hérétique]]</td><td>32 000</td></tr>
+  <tr><td>40-42</td><td>[[Bâton musical]]</td><td>32 000</td></tr>
+  <tr><td>43-46</td><td>[[Bâton des âmes]]</td><td>32 800</td></tr>
+  <tr><td>47-50</td><td>[[Bâton de toxines]]</td><td>34 200</td></tr>
+  <tr><td>51-54</td><td>[[Bâton de discrétion]]</td><td>36 800</td></tr>
+  <tr><td>55-58</td><td>[[Bâton du justicier]]</td><td>37 310</td></tr>
+  <tr><td>59-62</td><td>[[Bâton des aspects]]</td><td>37 600</td></tr>
+</table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>63-66</td><td>[[Bâton de rhétorique]]</td><td>39 600</td></tr><tr><td>67-70</td><td>[[Bâton de givre]]</td><td>41 400</td></tr><tr><td>71-74</td><td>[[Bâton de renforcement]]</td><td>41 600</td></tr><tr><td>75-78</td><td>[[Bâton des malédictions]]</td><td>43 500</td></tr><tr><td>79-85</td><td>[[Bâton de flamme noire]]</td><td>47 000</td></tr><tr><td>86-89</td><td>[[Bâton des ricanements]]</td><td>47 200</td></tr><tr><td>90-93</td><td>[[Bâton de représentation]]</td><td>48 800</td></tr><tr><td>94-97</td><td>[[Bâton animé]]</td><td>49 800</td></tr><tr><td>98-100</td><td>[[Bâton des révélations]]</td><td>51 008</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bâton puissant supérieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-04</td><td>[[Bâton de clarté]]</td><td>51 500</td></tr><tr><td>05-07</td><td>[[Bâton des obstacles]]</td><td>51 600</td></tr><tr><td>08-10</td><td>[[Bâton de ciel et terre]]</td><td>54 000</td></tr><tr><td>11-13</td><td>[[Bâton de déplacement]]</td><td>54 400</td></tr><tr><td>14-16</td><td>[[Bâton des trésors]]</td><td>55 866</td></tr><tr><td>17-19</td><td>[[Bâton des pièges]]</td><td>56 925</td></tr><tr><td>20-22</td><td>[[Bâton des rayons]]</td><td>57 200</td></tr><tr><td>23-25</td><td>[[Bâton de puissance en mithral]]</td><td>58 000</td></tr><tr><td>26-29</td><td>[[Bâton de défense]]</td><td>62 000</td></tr><tr><td>30-32</td><td>[[Bâton des plans]]</td><td>63 960</td></tr><tr><td>33-35</td><td>[[Bâton des ombres affamées]]</td><td>69 300</td></tr><tr><td>36-38</td><td>[[Bâton du dragon]]</td><td>81 000</td></tr><tr><td>39-41</td><td>[[Bâton de sommeil]]</td><td>81 766</td></tr><tr><td>42-46</td><td>[[Bâton dabjuration|Bâton d’abjuration]]</td><td>82 000</td></tr><tr><td>47-51</td><td>[[Bâton dinvocation|Bâton d'invocation]]</td><td>82 000</td></tr><tr><td>52-56</td><td>[[Bâton de divination]]</td><td>82 000</td></tr><tr><td>57-61</td><td>[[Bâton denchantement|Bâton d’enchantement]]</td><td>82 000</td></tr><tr><td>62-66</td><td>[[Bâton dévocation|Bâton d’évocation]]</td><td>82 000</td></tr><tr><td>67-71</td><td>[[Bâton dillusion|Bâton d’illusion]]</td><td>82 000</td></tr><tr><td>72-76</td><td>[[Bâton de nécromancie]]</td><td>82 000</td></tr><tr><td>77-81</td><td>[[Bâton de transmutation]]</td><td>82 000</td></tr><tr><td>82-83</td><td>[[Bâton météo]]</td><td>84 066</td></tr><tr><td>84-86</td><td>[[Bâton de pierre et terre]]</td><td>85 800</td></tr><tr><td>87-88</td><td>[[Bâton de vision]]</td><td>86 666</td></tr><tr><td>89-91</td><td>[[Bâton de la forêt profonde]]</td><td>100 400</td></tr><tr><td>92-94</td><td>[[Bâton de vie]]</td><td>109 400</td></tr><tr><td>95</td><td>[[Bâton aux cent mains]]</td><td>180 200</td></tr><tr><td>96-98</td><td>[[Bâton de transport]]</td><td>206 900</td></tr><tr><td>99</td><td>[[Bâton du hiérophante]]</td><td>220 000</td></tr><tr><td>100</td><td>[[Bâton de surpuissance]]</td><td>235 000</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <tr><td>63-66</td><td>[[Bâton de rhétorique]]</td><td>39 600</td></tr>
+  <tr><td>67-70</td><td>[[Bâton de givre]]</td><td>41 400</td></tr>
+  <tr><td>71-74</td><td>[[Bâton de renforcement]]</td><td>41 600</td></tr>
+  <tr><td>75-78</td><td>[[Bâton des malédictions]]</td><td>43 500</td></tr>
+  <tr><td>79-85</td><td>[[Bâton de flamme noire]]</td><td>47 000</td></tr>
+  <tr><td>86-89</td><td>[[Bâton des ricanements]]</td><td>47 200</td></tr>
+  <tr><td>90-93</td><td>[[Bâton de représentation]]</td><td>48 800</td></tr>
+  <tr><td>94-97</td><td>[[Bâton animé]]</td><td>49 800</td></tr>
+  <tr><td>98-100</td><td>[[Bâton des révélations]]</td><td>51 008</td></tr>
+  <tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td>D100</td><td>Bâton puissant supérieur</td><td>Prix(po)</td></tr>
+  <tr CLASS="premier"><td>01-04</td><td>[[Bâton de clarté]]</td><td>51 500</td></tr>
+  <tr><td>05-07</td><td>[[Bâton des obstacles]]</td><td>51 600</td></tr>
+  <tr><td>08-10</td><td>[[Bâton de ciel et terre]]</td><td>54 000</td></tr>
+  <tr><td>11-13</td><td>[[Bâton de déplacement]]</td><td>54 400</td></tr>
+  <tr><td>14-16</td><td>[[Bâton des trésors]]</td><td>55 866</td></tr>
+  <tr><td>17-19</td><td>[[Bâton des pièges]]</td><td>56 925</td></tr>
+  <tr><td>20-22</td><td>[[Bâton des rayons]]</td><td>57 200</td></tr>
+  <tr><td>23-25</td><td>[[Bâton de puissance en mithral]]</td><td>58 000</td></tr>
+  <tr><td>26-29</td><td>[[Bâton de défense]]</td><td>62 000</td></tr>
+  <tr><td>30-32</td><td>[[Bâton des plans]]</td><td>63 960</td></tr>
+  <tr><td>33-35</td><td>[[Bâton des ombres affamées]]</td><td>69 300</td></tr>
+  <tr><td>36-38</td><td>[[Bâton du dragon]]</td><td>81 000</td></tr>
+  <tr><td>39-41</td><td>[[Bâton de sommeil]]</td><td>81 766</td></tr>
+  <tr><td>42-46</td><td>[[Bâton dabjuration|Bâton d’abjuration]]</td><td>82 000</td></tr>
+  <tr><td>47-51</td><td>[[Bâton dinvocation|Bâton d'invocation]]</td><td>82 000</td></tr>
+  <tr><td>52-56</td><td>[[Bâton de divination]]</td><td>82 000</td></tr>
+  <tr><td>57-61</td><td>[[Bâton denchantement|Bâton d’enchantement]]</td><td>82 000</td></tr>
+  <tr><td>62-66</td><td>[[Bâton dévocation|Bâton d’évocation]]</td><td>82 000</td></tr>
+  <tr><td>67-71</td><td>[[Bâton dillusion|Bâton d’illusion]]</td><td>82 000</td></tr>
+  <tr><td>72-76</td><td>[[Bâton de nécromancie]]</td><td>82 000</td></tr>
+  <tr><td>77-81</td><td>[[Bâton de transmutation]]</td><td>82 000</td></tr>
+  <tr><td>82-83</td><td>[[Bâton météo]]</td><td>84 066</td></tr>
+  <tr><td>84-86</td><td>[[Bâton de pierre et terre]]</td><td>85 800</td></tr>
+  <tr><td>87-88</td><td>[[Bâton de vision]]</td><td>86 666</td></tr>
+  <tr><td>89-91</td><td>[[Bâton de la forêt profonde]]</td><td>100 400</td></tr>
+  <tr><td>92-94</td><td>[[Bâton de vie]]</td><td>109 400</td></tr>
+  <tr><td>95</td><td>[[Bâton aux cent mains]]</td><td>180 200</td></tr>
+  <tr><td>96-98</td><td>[[Bâton de transport]]</td><td>206 900</td></tr>
+  <tr><td>99</td><td>[[Bâton du hiérophante]]</td><td>220 000</td></tr>
+  <tr><td>100</td><td>[[Bâton de surpuissance]]</td><td>235 000</td></tr>
+</table>
 
 </td></tr></table>

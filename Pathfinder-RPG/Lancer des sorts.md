@@ -120,11 +120,36 @@ La puissance d’un sort dépend souvent du niveau de lanceur de sorts de celui 
 
 
 
-<table CLASS="tablo"><caption>NLS</caption><tr CLASS="titre"><td>Niveau   
-du sort</td><td>Niveau du [[druide]],   
-[[magicien]], [[prêtre]]</td><td>Niveau de l'[[ensorceleur]]</td><td>Niveau du [[barde]]</td><td>Niveau du [[paladin]]*,   
-[[rôdeur]]*</td></tr><tr CLASS="premier"><td>0</td><td>1</td><td>1</td><td>1</td><td>4**</td></tr><tr CLASS="alt"><td>1er</td><td>1</td><td>1</td><td>1</td><td>5</td></tr><tr><td>2e</td><td>3</td><td>4</td><td>4</td><td>8</td></tr><tr CLASS="alt"><td>3e</td><td>5</td><td>6</td><td>7</td><td>11</td></tr><tr><td>4e</td><td>7</td><td>8</td><td>10</td><td>14</td></tr><tr CLASS="alt"><td>5e</td><td>9</td><td>10</td><td>13</td><td>—</td></tr><tr><td>6e</td><td>11</td><td>12</td><td>16</td><td>—</td></tr><tr CLASS="alt"><td>7e</td><td>13</td><td>14</td><td>—</td><td>—</td></tr><tr><td>8e</td><td>15</td><td>16</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>9e</td><td>17</td><td>18</td><td>—</td><td>—</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.  
-(**) Aucun sort sauf sorts bonus octroyés par un Charisme (Paladin) ou une Sagesse (Rodeur) élevée.*</td></tr></table>
+<table CLASS="tablo">
+  <caption>NLS</caption>
+  <tr CLASS="titre">
+    <td>Niveau   
+du sort</td>
+    <td>Niveau du [[druide]],   
+[[magicien]], [[prêtre]]</td>
+    <td>Niveau de l'[[ensorceleur]]</td>
+    <td>Niveau du [[barde]]</td>
+    <td>Niveau du [[paladin]]*,   
+[[rôdeur]]*</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>1</td><td>1</td><td>1</td><td>4**</td></tr>
+  <tr CLASS="alt"><td>1er</td><td>1</td><td>1</td><td>1</td><td>5</td></tr>
+  <tr><td>2e</td><td>3</td><td>4</td><td>4</td><td>8</td></tr>
+  <tr CLASS="alt"><td>3e</td><td>5</td><td>6</td><td>7</td><td>11</td></tr>
+  <tr><td>4e</td><td>7</td><td>8</td><td>10</td><td>14</td></tr>
+  <tr CLASS="alt"><td>5e</td><td>9</td><td>10</td><td>13</td><td>—</td></tr>
+  <tr><td>6e</td><td>11</td><td>12</td><td>16</td><td>—</td></tr>
+  <tr CLASS="alt"><td>7e</td><td>13</td><td>14</td><td>—</td><td>—</td></tr>
+  <tr><td>8e</td><td>15</td><td>16</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>9e</td><td>17</td><td>18</td><td>—</td><td>—</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      *(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.  
+(**) Aucun
+      sort sauf sorts bonus octroyés par un Charisme (Paladin) ou une Sagesse (Rodeur) élevée.*
+    </td>
+  </tr>
+</table>
 
 
 Exemple : pour lancer des sorts de niveau 2, un prêtre doit être de niveau 3.

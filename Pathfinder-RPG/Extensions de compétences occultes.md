@@ -14,7 +14,18 @@ Le personnage peut tâter le crâne d’une créature du bout des doigts une foi
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Connaissances (Mystères) assistés par la Phrénologie</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Déterminer la race et l’âge</td><td CLASS="gauche">10</td></tr><tr CLASS="alt"><td>Déterminer le sexe</td><td CLASS="gauche">15</td></tr><tr><td>Déterminer l’alignement</td><td CLASS="gauche">15 + DV de la cible†</td></tr><tr CLASS="alt"><td>Déterminer la classe</td><td CLASS="gauche">20 + DV de la cible†</td></tr><tr><td>Déterminer le niveau ou les DV</td><td CLASS="gauche">25 + DV de la cible†</td></tr><tr><td COLSPAN="2" CLASS="note">† Si la créature est morte, utilisez les DV qu’elle possédait de son vivant.</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DD aux tests de Connaissances (Mystères) assistés par la Phrénologie</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr>
+  <tr CLASS="premier"><td>Déterminer la race et l’âge</td><td CLASS="gauche">10</td></tr>
+  <tr CLASS="alt"><td>Déterminer le sexe</td><td CLASS="gauche">15</td></tr>
+  <tr><td>Déterminer l’alignement</td><td CLASS="gauche">15 + DV de la cible†</td></tr>
+  <tr CLASS="alt"><td>Déterminer la classe</td><td CLASS="gauche">20 + DV de la cible†</td></tr>
+  <tr><td>Déterminer le niveau ou les DV</td><td CLASS="gauche">25 + DV de la cible†</td></tr>
+  <tr>
+    <td COLSPAN="2" CLASS="note">† Si la créature est morte, utilisez les DV qu’elle possédait de son vivant.</td>
+  </tr>
+</table>
 
 </center>
 #### Action
@@ -55,7 +66,12 @@ informations qu’avec [[divination]]. Le personnage a 60 % + 5 % de chances par
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Linguistique assistés par l'écriture automatique</caption><tr CLASS="titre"><td>Résultat des écrits</td><td>Rangs requis</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Comme augure</td><td CLASS="gauche">1</td><td>20</td></tr><tr CLASS="alt"><td>Comme divination</td><td CLASS="gauche">10</td><td>30</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DD aux tests de Linguistique assistés par l'écriture automatique</caption>
+  <tr CLASS="titre"><td>Résultat des écrits</td><td>Rangs requis</td><td>DD de base du test</td></tr>
+  <tr CLASS="premier"><td>Comme augure</td><td CLASS="gauche">1</td><td>20</td></tr>
+  <tr CLASS="alt"><td>Comme divination</td><td CLASS="gauche">10</td><td>30</td></tr>
+</table>
 
 </center>
 #### Action
@@ -80,7 +96,24 @@ Une fois par jour, le personnage peut examiner l’aura naturelle d’une créat
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Perception assistés par la Lecture d'auras</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Lire l’aura d’alignement</td><td CLASS="gauche">15 + DV de la créature ou niveau de lanceur de sorts de l’objet</td></tr><tr CLASS="alt"><td>Lire l’aura d’émotion</td><td CLASS="gauche">20 + DV de la créature ou niveau de lanceur de sorts de l’objet†</td></tr><tr><td>Lire l’aura de magie</td><td CLASS="gauche">20 + DV de la créature ou niveau de lanceur de sorts de l’objet</td></tr><tr CLASS="alt"><td>Lire l’aura de santé</td><td CLASS="gauche">15 + DV de la créature</td></tr><tr><td COLSPAN="2" CLASS="note">† Pour les objets intelligents seulement.</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DD aux tests de Perception assistés par la Lecture d'auras</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr>
+  <tr CLASS="premier">
+    <td>Lire l’aura d’alignement</td>
+    <td CLASS="gauche">15 + DV de la créature ou niveau de lanceur de sorts de l’objet</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Lire l’aura d’émotion</td>
+    <td CLASS="gauche">20 + DV de la créature ou niveau de lanceur de sorts de l’objet†</td>
+  </tr>
+  <tr>
+    <td>Lire l’aura de magie</td>
+    <td CLASS="gauche">20 + DV de la créature ou niveau de lanceur de sorts de l’objet</td>
+  </tr>
+  <tr CLASS="alt"><td>Lire l’aura de santé</td><td CLASS="gauche">15 + DV de la créature</td></tr>
+  <tr><td COLSPAN="2" CLASS="note">† Pour les objets intelligents seulement.</td></tr>
+</table>
 
 </center>
 #### Action
@@ -102,7 +135,16 @@ Le personnage peut utiliser la guérison miraculeuse une fois par jour. Le DD et
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Premiers secours assistés par la guérison miraculeuse</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Restaurer la vitalité</td><td CLASS="gauche">DD du jet de sauvegarde de l’effet.</td></tr><tr CLASS="alt"><td>Suspendre une affliction</td><td CLASS="gauche">DD du jet de sauvegarde de l’affliction.</td></tr><tr><td>Éliminer une affliction</td><td CLASS="gauche">Double du DD du jet de sauvegarde de l’affliction.</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DD aux tests de Premiers secours assistés par la guérison miraculeuse</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr>
+  <tr CLASS="premier"><td>Restaurer la vitalité</td><td CLASS="gauche">DD du jet de sauvegarde de l’effet.</td></tr>
+  <tr CLASS="alt">
+    <td>Suspendre une affliction</td>
+    <td CLASS="gauche">DD du jet de sauvegarde de l’affliction.</td>
+  </tr>
+  <tr><td>Éliminer une affliction</td><td CLASS="gauche">Double du DD du jet de sauvegarde de l’affliction.</td></tr>
+</table>
 
 </center>
 #### Action
@@ -118,7 +160,17 @@ Une fois par jour, le personnage prédit l’avenir proche d’une créature. Il
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Psychologie assistés par la Prédiction</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Détermine l’alignement</td><td CLASS="gauche">15 + DV de la créature</td></tr><tr CLASS="alt"><td>Détermine la classe</td><td CLASS="gauche">20 + DV de la créature</td></tr><tr><td>Déterminer le niveau ou les DV</td><td CLASS="gauche">25 + DV de la cible</td></tr><tr CLASS="alt"><td>Détermine la bonne fortune comme un sort d’augure</td><td CLASS="gauche">25 + DV de la créature</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DD aux tests de Psychologie assistés par la Prédiction</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr>
+  <tr CLASS="premier"><td>Détermine l’alignement</td><td CLASS="gauche">15 + DV de la créature</td></tr>
+  <tr CLASS="alt"><td>Détermine la classe</td><td CLASS="gauche">20 + DV de la créature</td></tr>
+  <tr><td>Déterminer le niveau ou les DV</td><td CLASS="gauche">25 + DV de la cible</td></tr>
+  <tr CLASS="alt">
+    <td>Détermine la bonne fortune comme un sort d’augure</td>
+    <td CLASS="gauche">25 + DV de la créature</td>
+  </tr>
+</table>
 
 </center>
 #### Action
@@ -142,7 +194,13 @@ Une fois par jour, le personnage peut suivre les mouvements d’une baguette de 
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Survie assistés par une Baguette de sourcier</caption><tr CLASS="titre"><td>Cible de la recherche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Eau</td><td CLASS="gauche">15</td></tr><tr CLASS="alt"><td>Tombe</td><td CLASS="gauche">20</td></tr><tr><td>Métaux et gemmes</td><td CLASS="gauche">25</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>DD aux tests de Survie assistés par une Baguette de sourcier</caption>
+  <tr CLASS="titre"><td>Cible de la recherche</td><td>DD de base du test</td></tr>
+  <tr CLASS="premier"><td>Eau</td><td CLASS="gauche">15</td></tr>
+  <tr CLASS="alt"><td>Tombe</td><td CLASS="gauche">20</td></tr>
+  <tr><td>Métaux et gemmes</td><td CLASS="gauche">25</td></tr>
+</table>
 
 </center>
 #### Action

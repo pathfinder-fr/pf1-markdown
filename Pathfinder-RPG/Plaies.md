@@ -58,7 +58,26 @@ Voici les tables de plaies mineures et majeures. Quand le personnage doit déter
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt"><caption>Les plaies majeures aléatoires</caption><tr CLASS="titre"><td>D10</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>[[description des plaies magiques#ETRANGECATARACTE|Étrange cataracte]]</td></tr><tr><td>2</td><td>[[description des plaies magiques#TERREURSANSNOM|Terreur sans nom]]</td></tr><tr><td>3</td><td>[[description des plaies magiques#NEGATION|Négation]]</td></tr><tr><td>4</td><td>[[description des plaies magiques#FIXATIONOBSESSIONNELLE|Fixation obsessionnelle]]</td></tr><tr><td>5</td><td>[[description des plaies magiques#PLAIEDEPHASE|Plaie de phase]]</td></tr><tr><td>6</td><td>[[description des plaies magiques#BRULUREDESORT|Brûlure de sort]]</td></tr><tr><td>7</td><td>[[description des plaies magiques#SORTASSOMMANT|Sort assommant]]</td></tr><tr><td>8</td><td>[[description des plaies magiques#BLOCUSDETRANSMISSION|Blocus de transmission]]</td></tr><tr><td>9</td><td>[[description des plaies magiques#VERTIGE|Vertige]]</td></tr><tr><td>10</td><td>Jeter deux fois le dé dans la table des plaies mineures.  
-Le lanceur de sorts est affecté par les deux plaies.</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Les plaies majeures aléatoires</caption>
+  <tr CLASS="titre"><td>D10</td><td>Résultat</td></tr>
+  <tr CLASS="premier"><td>1</td><td>[[description des plaies magiques#ETRANGECATARACTE|Étrange cataracte]]</td></tr>
+  <tr><td>2</td><td>[[description des plaies magiques#TERREURSANSNOM|Terreur sans nom]]</td></tr>
+  <tr><td>3</td><td>[[description des plaies magiques#NEGATION|Négation]]</td></tr>
+  <tr><td>4</td><td>[[description des plaies magiques#FIXATIONOBSESSIONNELLE|Fixation obsessionnelle]]</td></tr>
+  <tr><td>5</td><td>[[description des plaies magiques#PLAIEDEPHASE|Plaie de phase]]</td></tr>
+  <tr><td>6</td><td>[[description des plaies magiques#BRULUREDESORT|Brûlure de sort]]</td></tr>
+  <tr><td>7</td><td>[[description des plaies magiques#SORTASSOMMANT|Sort assommant]]</td></tr>
+  <tr><td>8</td><td>[[description des plaies magiques#BLOCUSDETRANSMISSION|Blocus de transmission]]</td></tr>
+  <tr><td>9</td><td>[[description des plaies magiques#VERTIGE|Vertige]]</td></tr>
+  <tr>
+    <td>10</td>
+    <td>
+      Jeter deux fois le dé dans la table des plaies mineures.  
+Le lanceur de sorts est affecté par les deux
+      plaies.
+    </td>
+  </tr>
+</table>
 
 </td></tr></table>

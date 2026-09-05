@@ -81,7 +81,1137 @@ Lorsqu'une pièce est en travaux de rénovation, elle ne produit rien.
 
 
 
-<table CLASS="tablo centre"><caption>Reconstruire la citadelle</caption><tr CLASS="titre"><td ROWSPAN="2">&nbsp;</td><td ROWSPAN="2">Salle</td><td ROWSPAN="2">Brisée</td><td ROWSPAN="2">Equivalent</td><td COLSPAN="5" CLASS="avecsoustitre">Coûts</td><td ROWSPAN="2">po</td><td ROWSPAN="2">Avantages (brisée)</td><td ROWSPAN="2">Avantages</td></tr><tr CLASS="soustitre"><td>Marchandises</td><td>Influence</td><td>Travail</td><td>Magie</td><td>Durée</td></tr><tr CLASS="titre"><td COLSPAN="12">Entrée</td></tr><tr><td>F1</td><td>Bretèche</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|17 Bretèches]]</td><td>25</td><td>5</td><td>20</td><td></td><td>68</td><td>1071</td><td>-</td><td>-</td></tr><tr><td>F2</td><td>Passerelle d'accès</td><td>10%</td><td>[[PONT-PIERRE|6 ponts]]</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F3a</td><td>Bastion d'entrée</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|4 Bretèches]]</td><td>6</td><td>1</td><td>1</td><td></td><td>4</td><td>252</td><td>-</td><td>-</td></tr><tr><td>F3b</td><td>Bastion d'entrée</td><td>20%</td><td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|4 Bretèches]]</td><td>12</td><td>2</td><td>1</td><td></td><td>9</td><td>504</td><td>-</td><td>-</td></tr><tr><td>F3c</td><td>Bastion d'entrée</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|4 Bretèches]]</td><td>6</td><td>1</td><td>1</td><td></td><td>4</td><td>252</td><td>-</td><td>-</td></tr><tr><td>F4</td><td>Cour des templiers</td><td>40%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 Salle de cérémonie]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr><tr CLASS="titre"><td COLSPAN="12">Caserne Ouest</td></tr><tr><td>F5</td><td>Chapelle de l'Héritière</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#AUTEL|1 autel]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 salle de cérémonie]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F6</td><td>Chambre-forte factice</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#PIÈCE SECRÈTE|2 pièces secrètes]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F7</td><td>Chambre-forte secrète</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DES TROPHÉES|2 salles des trophées]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F8</td><td>Armurerie</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F9</td><td>Caserne ouest</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#DORTOIR|1 dortoir]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F9b</td><td>Remparts ouest</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE À MÂCHICOULIS|12 salles à mâchicoulis]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#SALLECOMMUNE|2 salles communes]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#DOJO|2 dojos]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#INFIRMERIE|3 infirmeries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#BUREAU|2 bureaux]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr><tr CLASS="titre"><td COLSPAN="12">Caserne Est</td></tr><tr><td>F10</td><td>Réfectoire</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#SALLECOMMUNE|2 salles communes]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F11</td><td>Caserne est</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#DORTOIR|1 dortoir]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F11b</td><td>Remparts est</td><td>20%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE À MÂCHICOULIS|12 salles à mâchicoulis]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F12</td><td>Chapelle du Défenseur</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#AUTEL|1 autel]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 salle de cérémonie]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F13a</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F13b</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#DOJO|2 dojos]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>2 cuisines</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#BUREAU|2 bureaux]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#INFIRMERIE|2 infirmeries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr><tr CLASS="titre"><td COLSPAN="12">Caserne Nord</td></tr><tr><td>F14a</td><td>Armurerie</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|3 armureries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F14b</td><td>Remparts nord</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE À MÂCHICOULIS|12 salles à mâchicoulis]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F15</td><td>Caserne nord</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#DORTOIR|1 dortoir]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F16</td><td>Galerie nord</td><td>60%</td><td>[[Pathfinder-RPG.Salles et employés#DOJO|3 dojos]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#SALLECOMMUNE|2 salles communes]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>-</td><td>-</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#INFIRMERIE|2 infirmeries]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr><tr CLASS="titre"><td COLSPAN="12">Caserne des officiers</td></tr><tr><td>F17</td><td>Cour des officiers</td><td>50%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 Salle de cérémonie]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F18</td><td>Salle des préparatifs</td><td>0%</td><td>1 Salle de guerre</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F19</td><td>Entrée du Donjon</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>F20</td><td>Quartiers des officiers</td><td>0%</td><td>7 salon</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>0%</td><td>1 bar</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>0%</td><td>[[Pathfinder-RPG.Salles et employés#LATRINES|2 latrines]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>0%</td><td>3 salle de bains</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F21</td><td>Quartiers de Staunton</td><td>0%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]] (Ameublement)</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F22</td><td>Tour du Sénéchal</td><td>0%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>0%</td><td>[[Pathfinder-RPG.Salles et employés#BUREAU|4 bureaux]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F23</td><td>Antre de Soltengrebbe</td><td>50%</td><td>4 cours</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>F24</td><td>Flambeau céleste</td><td>80%</td><td>1 chambre d'invocation</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>40%</td><td>2 cour</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr><tr CLASS="titre"><td COLSPAN="12">Donjon</td></tr><tr><td>G1</td><td>Prison</td><td>10%</td><td>3 postes de garde</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>||</td><td>10%</td><td>8 Cellules</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G1a</td><td>-</td><td>20%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|1 chambre à coucher]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>G1b</td><td>-</td><td>20%</td><td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|1 chambre à coucher]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>G2</td><td>Couloir du geôlier</td><td>10%</td><td>6 Cellules</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G3</td><td>Prison collective</td><td>10%</td><td>10 Cellules</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G4a</td><td>Prison anti-magique</td><td>10%</td><td>1 Cellule</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G4b</td><td>Prison anti-magique</td><td>10%</td><td>1 Cellule</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G5</td><td>Salle de torture</td><td>10%</td><td>4 Chambres de torture</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G6</td><td>Bureau</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#BUREAU|3 bureaux]]</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G6a</td><td></td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#PIÈCE SECRÈTE|1 Pièce secrète]]</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G7</td><td>Forge de corruption</td><td>10%</td><td>8 forges</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G8</td><td>Atelier d'entretien</td><td>10%</td><td>1 Atelier d’artisan</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G9</td><td>Armurerie</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G10</td><td>Salle des rituels</td><td>10%</td><td>2 chambre d'invocation</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G11</td><td>Corridor de l'imposture</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DES TROPHÉES|8 salles des trophées]]</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G12</td><td>Epreuve de la chute</td><td>10%</td><td>10 Sanctuaires</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>G13</td><td>Abîme des ombres</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#SALLE DES TROPHÉES|8 salles des trophées]]</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>||</td><td>10%</td><td>[[Pathfinder-RPG.Salles et employés#AUTEL|1 autel]]</td><td>?</td><td>?</td><td>?</td><td></td><td>?</td><td>?</td><td>?</td><td>?</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Reconstruire la citadelle</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">&nbsp;</td>
+    <td ROWSPAN="2">Salle</td>
+    <td ROWSPAN="2">Brisée</td>
+    <td ROWSPAN="2">Equivalent</td>
+    <td COLSPAN="5" CLASS="avecsoustitre">Coûts</td>
+    <td ROWSPAN="2">po</td>
+    <td ROWSPAN="2">Avantages (brisée)</td>
+    <td ROWSPAN="2">Avantages</td>
+  </tr>
+  <tr CLASS="soustitre"><td>Marchandises</td><td>Influence</td><td>Travail</td><td>Magie</td><td>Durée</td></tr>
+  <tr CLASS="titre"><td COLSPAN="12">Entrée</td></tr>
+  <tr>
+    <td>F1</td>
+    <td>Bretèche</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|17 Bretèches]]</td>
+    <td>25</td>
+    <td>5</td>
+    <td>20</td>
+    <td></td>
+    <td>68</td>
+    <td>1071</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>F2</td>
+    <td>Passerelle d'accès</td>
+    <td>10%</td>
+    <td>[[PONT-PIERRE|6 ponts]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F3a</td>
+    <td>Bastion d'entrée</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|4 Bretèches]]</td>
+    <td>6</td>
+    <td>1</td>
+    <td>1</td>
+    <td></td>
+    <td>4</td>
+    <td>252</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>F3b</td>
+    <td>Bastion d'entrée</td>
+    <td>20%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|4 Bretèches]]</td>
+    <td>12</td>
+    <td>2</td>
+    <td>1</td>
+    <td></td>
+    <td>9</td>
+    <td>504</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>F3c</td>
+    <td>Bastion d'entrée</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BRETÈCHE|4 Bretèches]]</td>
+    <td>6</td>
+    <td>1</td>
+    <td>1</td>
+    <td></td>
+    <td>4</td>
+    <td>252</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>F4</td>
+    <td>Cour des templiers</td>
+    <td>40%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 Salle de cérémonie]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr>
+  <tr CLASS="titre"><td COLSPAN="12">Caserne Ouest</td></tr>
+  <tr>
+    <td>F5</td>
+    <td>Chapelle de l'Héritière</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#AUTEL|1 autel]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 salle de cérémonie]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F6</td>
+    <td>Chambre-forte factice</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#PIÈCE SECRÈTE|2 pièces secrètes]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F7</td>
+    <td>Chambre-forte secrète</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DES TROPHÉES|2 salles des trophées]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F8</td>
+    <td>Armurerie</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F9</td>
+    <td>Caserne ouest</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#DORTOIR|1 dortoir]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F9b</td>
+    <td>Remparts ouest</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE À MÂCHICOULIS|12 salles à mâchicoulis]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLECOMMUNE|2 salles communes]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#DOJO|2 dojos]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#INFIRMERIE|3 infirmeries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BUREAU|2 bureaux]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr>
+  <tr CLASS="titre"><td COLSPAN="12">Caserne Est</td></tr>
+  <tr>
+    <td>F10</td>
+    <td>Réfectoire</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLECOMMUNE|2 salles communes]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F11</td>
+    <td>Caserne est</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#DORTOIR|1 dortoir]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F11b</td>
+    <td>Remparts est</td>
+    <td>20%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE À MÂCHICOULIS|12 salles à mâchicoulis]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F12</td>
+    <td>Chapelle du Défenseur</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#AUTEL|1 autel]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 salle de cérémonie]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F13a</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F13b</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#DOJO|2 dojos]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>2 cuisines</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BUREAU|2 bureaux]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#INFIRMERIE|2 infirmeries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr>
+  <tr CLASS="titre"><td COLSPAN="12">Caserne Nord</td></tr>
+  <tr>
+    <td>F14a</td>
+    <td>Armurerie</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|3 armureries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F14b</td>
+    <td>Remparts nord</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE À MÂCHICOULIS|12 salles à mâchicoulis]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F15</td>
+    <td>Caserne nord</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#DORTOIR|1 dortoir]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|1 latrine]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F16</td>
+    <td>Galerie nord</td>
+    <td>60%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#DOJO|3 dojos]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#REMISE|2 remises]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLECOMMUNE|2 salles communes]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#INFIRMERIE|2 infirmeries]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr>
+  <tr CLASS="titre"><td COLSPAN="12">Caserne des officiers</td></tr>
+  <tr>
+    <td>F17</td>
+    <td>Cour des officiers</td>
+    <td>50%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DE CÉRÉMONIE|1 Salle de cérémonie]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F18</td>
+    <td>Salle des préparatifs</td>
+    <td>0%</td>
+    <td>1 Salle de guerre</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F19</td>
+    <td>Entrée du Donjon</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>F20</td>
+    <td>Quartiers des officiers</td>
+    <td>0%</td>
+    <td>7 salon</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>0%</td>
+    <td>1 bar</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>0%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#LATRINES|2 latrines]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>0%</td>
+    <td>3 salle de bains</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F21</td>
+    <td>Quartiers de Staunton</td>
+    <td>0%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]] (Ameublement)</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F22</td>
+    <td>Tour du Sénéchal</td>
+    <td>0%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|2 chambres à coucher]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>0%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BUREAU|4 bureaux]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F23</td>
+    <td>Antre de Soltengrebbe</td>
+    <td>50%</td>
+    <td>4 cours</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>F24</td>
+    <td>Flambeau céleste</td>
+    <td>80%</td>
+    <td>1 chambre d'invocation</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>40%</td>
+    <td>2 cour</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr CLASS="titre"><td COLSPAN="12">&nbsp;</td></tr>
+  <tr CLASS="titre"><td COLSPAN="12">Donjon</td></tr>
+  <tr>
+    <td>G1</td>
+    <td>Prison</td>
+    <td>10%</td>
+    <td>3 postes de garde</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>8 Cellules</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G1a</td>
+    <td>-</td>
+    <td>20%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|1 chambre à coucher]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>G1b</td>
+    <td>-</td>
+    <td>20%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#CHAMBREACOUCHER|1 chambre à coucher]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>G2</td>
+    <td>Couloir du geôlier</td>
+    <td>10%</td>
+    <td>6 Cellules</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G3</td>
+    <td>Prison collective</td>
+    <td>10%</td>
+    <td>10 Cellules</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G4a</td>
+    <td>Prison anti-magique</td>
+    <td>10%</td>
+    <td>1 Cellule</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G4b</td>
+    <td>Prison anti-magique</td>
+    <td>10%</td>
+    <td>1 Cellule</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G5</td>
+    <td>Salle de torture</td>
+    <td>10%</td>
+    <td>4 Chambres de torture</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G6</td>
+    <td>Bureau</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#BUREAU|3 bureaux]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G6a</td>
+    <td></td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#PIÈCE SECRÈTE|1 Pièce secrète]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G7</td>
+    <td>Forge de corruption</td>
+    <td>10%</td>
+    <td>8 forges</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G8</td>
+    <td>Atelier d'entretien</td>
+    <td>10%</td>
+    <td>1 Atelier d’artisan</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G9</td>
+    <td>Armurerie</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#ARMURERIE|2 armureries]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G10</td>
+    <td>Salle des rituels</td>
+    <td>10%</td>
+    <td>2 chambre d'invocation</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G11</td>
+    <td>Corridor de l'imposture</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DES TROPHÉES|8 salles des trophées]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G12</td>
+    <td>Epreuve de la chute</td>
+    <td>10%</td>
+    <td>10 Sanctuaires</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>G13</td>
+    <td>Abîme des ombres</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#SALLE DES TROPHÉES|8 salles des trophées]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>||</td>
+    <td>10%</td>
+    <td>[[Pathfinder-RPG.Salles et employés#AUTEL|1 autel]]</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td></td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+    <td>?</td>
+  </tr>
+</table>
 
 
 

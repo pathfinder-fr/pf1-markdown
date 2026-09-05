@@ -31,10 +31,137 @@ Notez que les règles d’artisanat via les quêtes sont prévues pour des objet
 Les règles d’artisanat via les quêtes fonctionnent mieux quand elles sont utilisées en conjonction avec les suggestions pour le trésor par rencontre (voir tableau ci-dessous). Les règles présentées dans cette section supposent que vous, en tant que MJ, suivez les indications de trésor par rencontre au cours de vos parties.
 
 
-<table CLASS="tablo centre autoalt" STYLE="width:90%"><caption>Trésor par rencontre</caption><tr CLASS="titre"><td>Niveau</td><td>Trésor total par niveau</td><td>Facile  
-Low</td><td>Modérée  
-Moderate</td><td>Difficile  
-Severe</td><td>Extrême</td><td>Trésor supplémentaire</td></tr><tr CLASS="premier"><td>1</td><td>175 po</td><td>13 po</td><td>18 po</td><td>26 po</td><td>35 po</td><td>35 po</td></tr><tr><td>2</td><td>300 po</td><td>23 po</td><td>30 po</td><td>45 po</td><td>60 po</td><td>60 po</td></tr><tr><td>3</td><td>500 po</td><td>38 po</td><td>50 po</td><td>75 po</td><td>100 po</td><td>100 po</td></tr><tr><td>4</td><td>850 po</td><td>65 po</td><td>85 po</td><td>130 po</td><td>170 po</td><td>170 po</td></tr><tr><td>5</td><td>1 350 po</td><td>100 po</td><td>135 po</td><td>200 po</td><td>270 po</td><td>270 po</td></tr><tr><td>6</td><td>2 000 po</td><td>150 po</td><td>200 po</td><td>300 po</td><td>400 po</td><td>400 po</td></tr><tr><td>7</td><td>2 900 po</td><td>220 po</td><td>290 po</td><td>440 po</td><td>580 po</td><td>580 po</td></tr><tr><td>8</td><td>4 000 po</td><td>300 po</td><td>400 po</td><td>600 po</td><td>800 po</td><td>800 po</td></tr><tr><td>9</td><td>5 700 po</td><td>430 po</td><td>570 po</td><td>860 po</td><td>1 140 po</td><td>1 140 po</td></tr><tr><td>10</td><td>8 000gp</td><td>600 po</td><td>800 po</td><td>1 200 po</td><td>1 600 po</td><td>1 600 po</td></tr><tr><td>11</td><td>11 500 po</td><td>865 po</td><td>1 150 po</td><td>1 725 po</td><td>2 300 po</td><td>2 300 po</td></tr><tr><td>12</td><td>16 500 po</td><td>1 250 po</td><td>1 650 po</td><td>2 475 po</td><td>3 300 po</td><td>3 300 po</td></tr><tr><td>13</td><td>25 000 po</td><td>1 875 po</td><td>2 500 po</td><td>3 750 po</td><td>5 000 po</td><td>5 000 po</td></tr><tr><td>14</td><td>36 500 po</td><td>2 750 po</td><td>3 650 po</td><td>5 500 po</td><td>7 300 po</td><td>7 300 po</td></tr><tr><td>15</td><td>54 500 po</td><td>4 100 po</td><td>5 450 po</td><td>8 200 po</td><td>10 900 po</td><td>10 900 po</td></tr><tr><td>16</td><td>82 500 po</td><td>6 200 po</td><td>8 250 po</td><td>12 400 po</td><td>16 500 po</td><td>16 500 po</td></tr><tr><td>17</td><td>128 000 po</td><td>9 600 po</td><td>12 800 po</td><td>19 200 po</td><td>25 600 po</td><td>25 600 po</td></tr><tr><td>18</td><td>208 000 po</td><td>15 600 po</td><td>20 800 po</td><td>31 200 po</td><td>41 600 po</td><td>41 600 po</td></tr><tr><td>19</td><td>355 000 po</td><td>26 600 po</td><td>35 500 po</td><td>53 250 po</td><td>71 000 po</td><td>71 000 po</td></tr><tr><td>20</td><td>490 000 po</td><td>36 800 po</td><td>49 000 po</td><td>73 500 po</td><td>98 000 po</td><td>98 000 po</td></tr></table>
+<table CLASS="tablo centre autoalt" STYLE="width:90%">
+  <caption>Trésor par rencontre</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>Trésor total par niveau</td>
+    <td>Facile  
+Low</td>
+    <td>Modérée  
+Moderate</td>
+    <td>Difficile  
+Severe</td>
+    <td>Extrême</td>
+    <td>Trésor supplémentaire</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>175 po</td>
+    <td>13 po</td>
+    <td>18 po</td>
+    <td>26 po</td>
+    <td>35 po</td>
+    <td>35 po</td>
+  </tr>
+  <tr><td>2</td><td>300 po</td><td>23 po</td><td>30 po</td><td>45 po</td><td>60 po</td><td>60 po</td></tr>
+  <tr><td>3</td><td>500 po</td><td>38 po</td><td>50 po</td><td>75 po</td><td>100 po</td><td>100 po</td></tr>
+  <tr><td>4</td><td>850 po</td><td>65 po</td><td>85 po</td><td>130 po</td><td>170 po</td><td>170 po</td></tr>
+  <tr><td>5</td><td>1 350 po</td><td>100 po</td><td>135 po</td><td>200 po</td><td>270 po</td><td>270 po</td></tr>
+  <tr><td>6</td><td>2 000 po</td><td>150 po</td><td>200 po</td><td>300 po</td><td>400 po</td><td>400 po</td></tr>
+  <tr><td>7</td><td>2 900 po</td><td>220 po</td><td>290 po</td><td>440 po</td><td>580 po</td><td>580 po</td></tr>
+  <tr><td>8</td><td>4 000 po</td><td>300 po</td><td>400 po</td><td>600 po</td><td>800 po</td><td>800 po</td></tr>
+  <tr><td>9</td><td>5 700 po</td><td>430 po</td><td>570 po</td><td>860 po</td><td>1 140 po</td><td>1 140 po</td></tr>
+  <tr>
+    <td>10</td>
+    <td>8 000gp</td>
+    <td>600 po</td>
+    <td>800 po</td>
+    <td>1 200 po</td>
+    <td>1 600 po</td>
+    <td>1 600 po</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>11 500 po</td>
+    <td>865 po</td>
+    <td>1 150 po</td>
+    <td>1 725 po</td>
+    <td>2 300 po</td>
+    <td>2 300 po</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>16 500 po</td>
+    <td>1 250 po</td>
+    <td>1 650 po</td>
+    <td>2 475 po</td>
+    <td>3 300 po</td>
+    <td>3 300 po</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>25 000 po</td>
+    <td>1 875 po</td>
+    <td>2 500 po</td>
+    <td>3 750 po</td>
+    <td>5 000 po</td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>36 500 po</td>
+    <td>2 750 po</td>
+    <td>3 650 po</td>
+    <td>5 500 po</td>
+    <td>7 300 po</td>
+    <td>7 300 po</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>54 500 po</td>
+    <td>4 100 po</td>
+    <td>5 450 po</td>
+    <td>8 200 po</td>
+    <td>10 900 po</td>
+    <td>10 900 po</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>82 500 po</td>
+    <td>6 200 po</td>
+    <td>8 250 po</td>
+    <td>12 400 po</td>
+    <td>16 500 po</td>
+    <td>16 500 po</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>128 000 po</td>
+    <td>9 600 po</td>
+    <td>12 800 po</td>
+    <td>19 200 po</td>
+    <td>25 600 po</td>
+    <td>25 600 po</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>208 000 po</td>
+    <td>15 600 po</td>
+    <td>20 800 po</td>
+    <td>31 200 po</td>
+    <td>41 600 po</td>
+    <td>41 600 po</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>355 000 po</td>
+    <td>26 600 po</td>
+    <td>35 500 po</td>
+    <td>53 250 po</td>
+    <td>71 000 po</td>
+    <td>71 000 po</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>490 000 po</td>
+    <td>36 800 po</td>
+    <td>49 000 po</td>
+    <td>73 500 po</td>
+    <td>98 000 po</td>
+    <td>98 000 po</td>
+  </tr>
+</table>
 
 
 Les règles standard se basent sur le trésor calculé sur tout un niveau plutôt que de le diviser par rencontre. Si vous avez besoin de construire un trésor pour une seule rencontre, dans une campagne de type bac à sable par exemple, vous pouvez utiliser la table ci-dessus. Elle s’appuie sur le budget des trésors pour chaque niveau (qu’on peut retrouver dans la table du Livre de base) et le divise par rencontre en fonction de la dangerosité de celle-ci, proportionnellement à la manière dont les XP varient en fonction de la dangerosité. La dernière colonne indique les trésors supplémentaires que vous devriez donner si vous construisez un niveau entier avec cette méthode, car la valeur ne se divise pas forcément exactement pour chaque rencontre. Même avec cette méthode, il est recommandé de continuer à donner des objets permanents mais, pour ce faire, vous devrez peut-être emprunter une partie du trésor d’autres rencontres afin d’atteindre leur valeur. Ajoutez des rencontres contre des créatures sans trésor pour rétablir l’équilibre.

@@ -24,4 +24,13 @@ Olivier Fanton, un des traducteurs de cette édition, proposait sur [son site](h
 
 <center>
 
-<table CLASS="tablo"><caption>Table aléatoire des échecs critiques      </caption><tr CLASS="titre"><td>1d6</td><td>Caractéristique</td><td>Conséquence</td></tr><tr CLASS="premier"><td>1</td><td>Force</td><td>Maladresse</td></tr><tr CLASS="alt"><td>2</td><td>Dextérité</td><td>A terre</td></tr><tr><td>3</td><td>Constitution</td><td>Fatigué</td></tr><tr CLASS="alt"><td>4</td><td>Intelligence</td><td>Attaques d'opportunités</td></tr><tr><td>5</td><td>Sagesse</td><td>Surpris</td></tr><tr CLASS="alt"><td>6</td><td>Charisme</td><td>Ridicule</td></tr></table>
+<table CLASS="tablo">
+  <caption>Table aléatoire des échecs critiques      </caption>
+  <tr CLASS="titre"><td>1d6</td><td>Caractéristique</td><td>Conséquence</td></tr>
+  <tr CLASS="premier"><td>1</td><td>Force</td><td>Maladresse</td></tr>
+  <tr CLASS="alt"><td>2</td><td>Dextérité</td><td>A terre</td></tr>
+  <tr><td>3</td><td>Constitution</td><td>Fatigué</td></tr>
+  <tr CLASS="alt"><td>4</td><td>Intelligence</td><td>Attaques d'opportunités</td></tr>
+  <tr><td>5</td><td>Sagesse</td><td>Surpris</td></tr>
+  <tr CLASS="alt"><td>6</td><td>Charisme</td><td>Ridicule</td></tr>
+</table>

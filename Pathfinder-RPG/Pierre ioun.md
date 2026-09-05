@@ -20,7 +20,623 @@ Une pierre ioun a une [[CA]] de 24, 10 [[points de vie]] et une [[solidité]] de
 
 ### Tableau récapitulatif des pierres ioun
 
-<table CLASS="tablo toutgauche"><caption>Pierres Ioun</caption><tr CLASS="titre"><td WIDTH="17%">Couleur (et forme)</td><td WIDTH="63%">Effet</td><td WIDTH="8%">Prix de vente</td><td WIDTH="12%">Conditions de fabrication</td></tr><tr CLASS="premier"><td>[[Cabochon écarlate et vert]]</td><td>[[Endurance]]</td><td>10 000 po</td><td ROWSPAN="3">*[[force de taureau]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +4 sur un type de test affecté par le don [[Endurance]]</td><td>1 400 po</td></tr><tr><td>&emsp;défectueuse</td><td>[[Endurance]] (comme le don), pénalités accrues dues à la fatigue et à l’épuisement</td><td>8 000 po</td></tr><tr CLASS="premier alt"><td>[[Disque moussu]]</td><td>Bonus de compétence de +5 sur une compétence de [[Connaissances]]</td><td>5 000 po</td><td ROWSPAN="3">*[[ruse du renard]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur une compétence de Connaissances</td><td>200 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus de compétence de +5 sur une compétence de Connaissances, malus de -2 en [[Constitution]]</td><td>1 600 po</td></tr><tr CLASS="premier"><td>[[Ellipsoïde agate]]</td><td>Lance *[[augure]]* avec 100% de réussite une unique fois</td><td>1 000 po</td><td ROWSPAN="3">*[[augure]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Lance *augure* avec 80% de chances de réussite une unique fois</td><td>500 po</td></tr><tr><td>&emsp;défectueuse</td><td>Lance *augure* avec 100% de réussite une unique fois, perte de tous les pouvoirs qui permettent de refaire un test de [[Caractéristiques|caractéristique]] ou de [[Compétences|compétence]] ou un [[jds|jet de sauvegarde]] pendant 24 heures</td><td>800 po</td></tr><tr CLASS="premier alt"><td>[[Ellipsoïde émeraude]]</td><td>5 points de vie temporaires (cumulable)</td><td>20 000 po</td><td ROWSPAN="3">*[[simulacre de vie]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>1 point de vie temporaire (cumulable jusqu'à 5 pv)</td><td>2 000 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>5 points de vie temporaires (cumulables jusqu'à 25 pv), 1 [[niveau négatif]] (cumulable)</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Ellipsoïde lavande pâle]]</td><td>Absorbe des sorts jusqu’au 4e niveau<sup>[[Pierre ioun#NOTE1|1]]</sup></td><td>20 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Absorbe les sorts de niveau 1 ou moins<sup>[[Pierre ioun#NOTE4|4]]</sup></td><td>2 500 po</td></tr><tr><td>&emsp;défectueuse</td><td>Absorbe les sorts de niveau 3 ou moins, cause des dégâts à l’utilisateur<sup>[[Pierre ioun#NOTE1|1]]</sup></td><td>18 000 po</td></tr><tr CLASS="premier alt"><td>[[Ellipsoïde sépia]]</td><td>Confère les effets d'un [[fuseau iridescent]], d'un [[fuseau blanc perlé]] et d'un [[prisme orange]], mais épuise les pierres ioun autour d'elle</td><td>68 000 po</td><td>| &emsp;</td></tr><tr CLASS="premier"><td>[[Ellipsoïde vert et lavande]]</td><td>Absorbe des sorts jusqu’au 8e niveau<sup>[[Pierre ioun#NOTE2|2]]</sup></td><td>40 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Absorbe les sorts de niveau 2 ou en deçà<sup>[[Pierre ioun#NOTE2|2]]</sup></td><td>10 000 po</td></tr><tr><td>&emsp;défectueuse</td><td>Absorbe les sorts de niveau 6 ou en deçà, cause des dégâts à l’utilisateur<sup>[[Pierre ioun#NOTE3|3]]</sup></td><td>36 000 po</td></tr><tr CLASS="premier alt"><td>[[Fuseau ambre]]</td><td>Bonus de résistance +1 sur les [[jds|jets de sauvegarde]] (cumulable jusqu'à +5)</td><td>10 000 po</td><td ROWSPAN="3">*[[sort Résistance|résistance]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de résistance +1 sur un jet de sauvegarde (cumulable jusqu'à +5)</td><td>3 400 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus de résistance +1 sur les jets sauvegardes par pierre (cumulable jusqu'à +3)</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Fuseau argenté]]</td><td>Contient un [[Liste des sorts de druides|sort de druide]], [[Liste des sorts densorceleursmagiciens|de magicien]] ou [[Liste des sorts de prêtres|de prêtre]] de niveau 1 qui peut être lancé 3/jour au [[NLS]] du niveau du personnage</td><td>24 000 po</td><td ROWSPAN="3">*[[transfert de sorts]]*</td></tr><tr><td>&emsp;ébréchée</td><td>contient un sort de druide, de magicien ou de prêtre de niveau 0 qui peut être lancé 3/jour au NLS du niveau du personnage</td><td>12 000 po</td></tr><tr><td>&emsp; défectueuse</td><td>contient un sort de druide, de magicien ou de prêtre de niveau 1 qui peut être lancé 3/jour au NLS du niveau du personnage mais inflige un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 points de [[Charisme]] au personnage chaque fois qu’il se sert du pouvoir magique</td><td>16 000 po</td></tr><tr CLASS="premier alt"><td>[[Fuseau blanc perlé]]</td><td>[[Régénération (capacité)|Régénération]] (1 pv/10 minutes)</td><td>20 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Régénère 1 point de dégâts par heure</td><td>3 400 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Régénère 4 points de dégâts par heure</td><td>18 000 po</td></tr><tr CLASS="premier"><td>[[Fuseau iridescent]]</td><td>Permet de subsister sans respirer</td><td>18 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +4 sur les tests de [[Constitution]] pour retenir sa respiration</td><td>500 po</td></tr><tr><td>&emsp;défectueuse</td><td>Alimente la créature sans air, mais la créature est toujours [[chancelant|chancelante]]</td><td>12 000 po</td></tr><tr CLASS="premier alt"><td>[[Fuseau clair]]</td><td>Permet de subsister sans boire ni manger</td><td>4 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Alimente la créature sur une demi-ration de nourriture</td><td>1 000 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Alimente la créature sans nourriture, mais elle doit consommer 2 fois la quantité normale d’eau</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[Nodule doré]]</td><td>Permet de comprendre, lire, parler, écrire une langue choisie à la fabrication</td><td>5 000 po</td><td ROWSPAN="3">*[[don des langues]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 aux tests de [[Linguistique]]</td><td>150 po</td></tr><tr><td>&emsp;défectueuse</td><td>Permet de comprendre et de lire une langue choisie par son créateur mais pas de la parler ni de l’écrire</td><td>1 000 po</td></tr><tr CLASS="premier alt"><td>[[Nodule gomme-gutte (jaune orangé)]]</td><td>Immunité au [[poison]]</td><td>54 000 po</td><td ROWSPAN="3">*[[neutralisation du poison]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>[[Immunité (capacité)|Immunité]] à un type de poison</td><td>1 500 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Immunité au poison, malus de -4 sur les [[jds|jets de sauvegarde]] contre les malédictions et les maladies</td><td>40 000 po</td></tr><tr CLASS="premier"><td>[[Pentacle mûre]]</td><td>Bonus de compétence de +5 aux tests de [[Bluff]] et [[Diplomatie]]</td><td>10 000 po</td><td ROWSPAN="3">*[[splendeur de laigle|splendeur de l'aigle]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 aux tests de Bluff et Diplomatie</td><td>400 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus de compétence de +5 aux tests de Bluff et Diplomatie, malus de -2 sur les jets de [[Volonté]]</td><td>8 700 po</td></tr><tr CLASS="premier alt"><td>[[Pierre gris terne]]</td><td>Aucun</td><td>25 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Aucun</td><td>25 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Aucun</td><td>25 po</td></tr><tr CLASS="premier"><td>[[Prisme magenta]]</td><td>[[Bonus daltération|Bonus d’altération]] de +2 à une caractéristique qui peut être modifiée une fois par jour à un moment déterminé</td><td>16 000 po</td><td ROWSPAN="3">*[[endurance de lours|endurance de l’ours]]*, *[[force de taureau]]*, *[[grâce féline]]*, *[[splendeur de laigle|splendeur de l’aigle]]*, *[[ruse du renard]]*, *[[sagesse du hibou]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +2 aux tests d’une compétence choisie par le personnage qui peut être modifiée une fois par jour à un moment déterminé</td><td>800 po</td></tr><tr><td>&emsp;défectueuse</td><td>[[bonus daltération|Bonus d’altération]] de +2 à une caractéristique qui peut être modifiée une fois par jour à un moment déterminé. La pierre dispose de 4 charges. Elle en consomme une chaque fois que son utilisateur modifie la caractéristique. Quand la pierre n’a plus de charge, il est impossible de changer la Caractéristique à améliorer mais la pierre donne toujours un bonus dans la dernière choisie</td><td>12 000 po</td></tr><tr CLASS="premier alt"><td>[[Prisme orange]]</td><td>Bonus de +1 au [[NLS|niveau de lanceur de sorts]]</td><td>30 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Ajoute un sort de niveau 0 aux sorts connus ou préparés de l’utilisateur</td><td>1 000 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>+1 niveau de lanceur de sorts, -2 au score de la caractéristique primaire de lancement de sorts</td><td>25 000 po</td></tr><tr CLASS="premier"><td>[[Prisme rose poudreux]]</td><td>Bonus d’intuition de +1 à la [[CA]]</td><td>5 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 aux tests d’[[initiative]]</td><td>500 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus d’intuition de +1 à la [[CA]], malus de -2 en [[Constitution]]</td><td>4 000 po</td></tr><tr CLASS="premier alt"><td>[[Prisme vert pâle]]</td><td>Bonus de compétence de +1 aux [[jet dattaque|jets d’attaque]] et [[jet de sauvegarde|de sauvegarde]], ainsi qu’aux tests de [[Compétences|compétence]] et de [[Caractéristiques|caractéristique]]</td><td>30 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur les jets d’attaque ou de sauvegarde choisi lors de la création</td><td>4 000 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus de moral de +1 sur les jets d’attaque, les sauvegardes, les tests de compétences et de caractéristiques</td><td>28 000 po</td></tr><tr CLASS="premier"><td>[[Prisme violet vif]]</td><td>Stocke trois niveaux de sorts, comme un *[[anneau de stockage de sorts|anneau de stockage de sorts mineur]]*</td><td>36 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Stocke un niveau de sort, comme un anneau de stockage de sorts (mineur)</td><td>2 000 po</td></tr><tr><td>&emsp;défectueuse</td><td>Stocke trois niveaux de sorts, comme un anneau de stockage de sorts (mineur), le temps de lancement des sorts est accru</td><td>36 000 po</td></tr><tr CLASS="premier alt"><td>[[Pyramide améthyste]]</td><td>Permet de rendre l'utilisateur [[invisibilité pour les morts-vivants|invisible pour les morts-vivants]] ([[DD]] 12)</td><td>8 000 po</td><td ROWSPAN="3">*[[invisibilité pour les morts-vivants]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétences de +2 aux tests de [[Connaissances]] (religion) pour identifier les morts-vivants et leurs pouvoirs spéciaux</td><td>150 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Comme sa version normale mais le personnage reçoit un malus de –1 à la [[CA]] et aux [[jds|jets de sauvegarde]] contre les morts-vivants</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Pyramide blanc opalescent]]</td><td>Maniement de l'arme liée</td><td>10 000 po</td><td ROWSPAN="3">*[[transformation martiale]]* ou maniement de l'arme</td></tr><tr><td>&emsp;ébréchée</td><td>L'arme liée est traitée comme une arme de guerre</td><td>1 500 po</td></tr><tr><td>&emsp;défectueuse</td><td>Maniemen de l'arme liée et malus de -2 en [[Dextérité]]</td><td>3 000 po</td></tr><tr CLASS="premier alt"><td>[[Rhomboïde bleu nuit]]</td><td>[[Vigilance]] (comme le don du même nom)</td><td>10 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur les tests de [[Perception]] et [[Psychologie]]</td><td>400 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus de compétence de +2 sur les tests de Perception et malus de -1 sur les tests d’[[initiative]]</td><td>300 po</td></tr><tr CLASS="premier"><td>[[Rhomboïde bleu pâle]]</td><td>[[bonus daltération|Bonus d’altération]] de +2 en [[Force]]</td><td>8 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur une compétence basée sur la Force</td><td>200 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Force, malus de -2 en [[Constitution]]</td><td>6 000 po</td></tr><tr CLASS="premier alt"><td>[[Rhomboïde onyx]]</td><td>Bonus d’altération de +2 en [[Constitution]] (cumulable jusqu'à +6)</td><td>24 000 po</td><td ROWSPAN="3">*[[endurance de lours|endurance de l’ours]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>fonctionnent par paires, bonus d’altération de +2 en Constitution (cumulable jusqu'à +6)</td><td>12 000 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Constitution (cumulable jusqu'à +4)</td><td>16 000 po</td></tr><tr CLASS="premier"><td>[[Rhomboïde orange clair]]</td><td>À la mort du personnage, la pierre stocke son âme et la renvoie à son corps 24h après</td><td>200 000 po</td><td ROWSPAN="3">*[[possession]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Si le personnage meurt alors qu’il utilise cette pierre ioun, celle-ci peut servir de composante matérielle supplémentaire pour le ramener à la vie, ce qui diminue le coût total du sort en composantes matérielles de 20%</td><td>1 800 po</td></tr><tr><td>&emsp;défectueuse</td><td>À la mort du personnage, la pierre stocke son âme et la renvoie à son corps 24h après mais une seule fois. Après cela, elle est vidée et devient gris terne</td><td>12 000 po</td></tr><tr CLASS="premier alt"><td>[[Rhomboïde rose]]</td><td>[[bonus daltération|Bonus d’altération]] de +2 en [[Constitution]]</td><td>8 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +4 sur un type de jet affecté par [[Endurance]]</td><td>1 400 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Constitution, malus de -2 en [[Dextérité]]</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Rhomboïde vermillon]]</td><td>Bonus de compétence de +5 sur les tests d’[[Acrobaties]] et de [[Natation]]</td><td>10 000 po</td><td ROWSPAN="3">*[[force de taureau]]*, *[[grâce féline]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur les tests d’Acrobaties et de Natation</td><td>400 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus de compétence de +5 sur les tests d’Acrobaties et de Natation, -2 en [[Constitution]]</td><td>8 000 po</td></tr><tr CLASS="premier alt"><td>[[Sphère bleu incandescent]]</td><td>[[bonus daltération|Bonus d’altération]] de +2 en [[Sagesse]]</td><td>8 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 à une compétence basée sur la Sagesse</td><td>200 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Sagesse, malus de -2 sur les tests de [[Perception]]</td><td>7 200 po</td></tr><tr CLASS="premier"><td>[[Sphère écarlate et bleue]]</td><td>[[bonus daltération|Bonus d’altération]] de +2 en [[Intelligence]]<sup>[[Pierre ioun#NOTE5|5]]</sup></td><td>8 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur une compétence basée sur l’Intelligence</td><td>200 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Intelligence, malus de -2 en [[Constitution]]</td><td>6 000 po</td></tr><tr CLASS="premier alt"><td>[[Sphère gris nacré]]</td><td>Protège contre le vieillissement</td><td>10 000 po</td><td ROWSPAN="3">*[[endurance de lours|endurance de l'ours]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Protège contre un type de diminution de caractéristique due au vieillissement</td><td>3 400 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Protège contre les signes du vieillissement</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[Sphère pourpre]]</td><td>Bonus d’altération de +2 en [[Intelligence]] (cumulable jusqu'à +6)</td><td>24 000 po</td><td ROWSPAN="3">*[[ruse du renard]]*</td></tr><tr><td>&emsp;ébréchée</td><td>fonctionnent par paires, bonus d’altération de +2 en Intelligence (cumulable jusqu'à +6)</td><td>12 000 po</td></tr><tr><td>&emsp; défectueuse</td><td>Bonus d’altération de +2 en Intelligence (cumulable jusqu'à +4)</td><td>16 000 po</td></tr><tr CLASS="premier alt"><td>[[Sphère rouge sang]]</td><td>[[bonus daltération|Bonus d’altération]] de +2 en [[Dextérité]]</td><td>8 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur une compétence basée sur la Dextérité</td><td>200 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Dextérité et un malus de -2 en [[Constitution]]</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Sphère rose et verte]]</td><td>[[bonus daltération|Bonus d’altération]] de +2 en [[Charisme]]</td><td>8 000 po</td><td ROWSPAN="3">&emsp;</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur une compétence basée sur le Charisme</td><td>200 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus d’altération de +2 en Charisme, malus de -2 en [[Constitution]]</td><td>6 000 po</td></tr><tr CLASS="premier alt"><td>[[Sphère tourmaline]]</td><td>2 [[round|rounds]] de plus pour que le porteur puisse tenter de se stabiliser lorsqu'il est [[mourant]]</td><td>1 000 po</td><td ROWSPAN="3">*[[endurance de lours|endurance de l’ours]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus d’intuition de +1 aux [[jds|jets de sauvegarde]] contre les effets de mort</td><td>800 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>2 rounds de plus pour que le porteur puisse se stabiliser lorsqu'il est mourant mais fait ses tests de [[Blessures et mort#STABLE|stabilisation]] avec un malus de –1</td><td>600 po</td></tr><tr CLASS="premier"><td>[[Sphère turquoise]]</td><td>Bonus de compétence de +5 sur les jets d’[[Équitation]] ; la monture bénéficie du don [[Rapide]]</td><td>6 000 po</td><td ROWSPAN="3">*[[charme-animal]]*, *[[grand pas]]*</td></tr><tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur les tests d’Équitation</td><td>200 po</td></tr><tr><td>&emsp;défectueuse</td><td>Bonus de compétence de +5 sur les tests d’Équitation</td><td>5 000 po</td></tr><tr CLASS="premier alt"><td>[[Triple rubis pâle]]</td><td>Bonus de compétence de +5 sur les tests de [[Discrétion]]</td><td>5 000 po</td><td ROWSPAN="3">*[[grâce féline]]*</td></tr><tr CLASS="alt"><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur les tests de Discrétion</td><td>200 po</td></tr><tr CLASS="alt"><td>&emsp;défectueuse</td><td>Bonus de compétence de +5 sur les tests de Discrétion, malus de -2 en [[Dextérité]]</td><td>1 600 po</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Pierres Ioun</caption>
+  <tr CLASS="titre">
+    <td WIDTH="17%">Couleur (et forme)</td>
+    <td WIDTH="63%">Effet</td>
+    <td WIDTH="8%">Prix de vente</td>
+    <td WIDTH="12%">Conditions de fabrication</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cabochon écarlate et vert]]</td>
+    <td>[[Endurance]]</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">*[[force de taureau]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +4 sur un type de test affecté par le don [[Endurance]]</td>
+    <td>1 400 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>[[Endurance]] (comme le don), pénalités accrues dues à la fatigue et à l’épuisement</td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Disque moussu]]</td>
+    <td>Bonus de compétence de +5 sur une compétence de [[Connaissances]]</td>
+    <td>5 000 po</td>
+    <td ROWSPAN="3">*[[ruse du renard]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur une compétence de Connaissances</td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus de compétence de +5 sur une compétence de Connaissances, malus de -2 en [[Constitution]]</td>
+    <td>1 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ellipsoïde agate]]</td>
+    <td>Lance *[[augure]]* avec 100% de réussite une unique fois</td>
+    <td>1 000 po</td>
+    <td ROWSPAN="3">*[[augure]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Lance *augure* avec 80% de chances de réussite une unique fois</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>
+      Lance *augure* avec 100% de réussite une unique fois, perte de tous les pouvoirs qui permettent de refaire un
+      test de [[Caractéristiques|caractéristique]] ou de [[Compétences|compétence]] ou un [[jds|jet de sauvegarde]]
+      pendant 24 heures
+    </td>
+    <td>800 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Ellipsoïde émeraude]]</td>
+    <td>5 points de vie temporaires (cumulable)</td>
+    <td>20 000 po</td>
+    <td ROWSPAN="3">*[[simulacre de vie]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>1 point de vie temporaire (cumulable jusqu'à 5 pv)</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>5 points de vie temporaires (cumulables jusqu'à 25 pv), 1 [[niveau négatif]] (cumulable)</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ellipsoïde lavande pâle]]</td>
+    <td>Absorbe des sorts jusqu’au 4e niveau<sup>[[Pierre ioun#NOTE1|1]]</sup></td>
+    <td>20 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Absorbe les sorts de niveau 1 ou moins<sup>[[Pierre ioun#NOTE4|4]]</sup></td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Absorbe les sorts de niveau 3 ou moins, cause des dégâts à l’utilisateur<sup>[[Pierre ioun#NOTE1|1]]</sup></td>
+    <td>18 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Ellipsoïde sépia]]</td>
+    <td>
+      Confère les effets d'un [[fuseau iridescent]], d'un [[fuseau blanc perlé]] et d'un [[prisme orange]], mais
+      épuise les pierres ioun autour d'elle
+    </td>
+    <td>68 000 po</td>
+    <td>| &emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ellipsoïde vert et lavande]]</td>
+    <td>Absorbe des sorts jusqu’au 8e niveau<sup>[[Pierre ioun#NOTE2|2]]</sup></td>
+    <td>40 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Absorbe les sorts de niveau 2 ou en deçà<sup>[[Pierre ioun#NOTE2|2]]</sup></td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>
+      Absorbe les sorts de niveau 6 ou en deçà, cause des dégâts à l’utilisateur<sup>[[Pierre ioun#NOTE3|3]]</sup>
+    </td>
+    <td>36 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Fuseau ambre]]</td>
+    <td>Bonus de résistance +1 sur les [[jds|jets de sauvegarde]] (cumulable jusqu'à +5)</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">*[[sort Résistance|résistance]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de résistance +1 sur un jet de sauvegarde (cumulable jusqu'à +5)</td>
+    <td>3 400 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus de résistance +1 sur les jets sauvegardes par pierre (cumulable jusqu'à +3)</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fuseau argenté]]</td>
+    <td>
+      Contient un [[Liste des sorts de druides|sort de druide]], [[Liste des sorts densorceleursmagiciens|de
+      magicien]] ou [[Liste des sorts de prêtres|de prêtre]] de niveau 1 qui peut être lancé 3/jour au [[NLS]] du
+      niveau du personnage
+    </td>
+    <td>24 000 po</td>
+    <td ROWSPAN="3">*[[transfert de sorts]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>
+      contient un sort de druide, de magicien ou de prêtre de niveau 0 qui peut être lancé 3/jour au NLS du niveau
+      du personnage
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; défectueuse</td>
+    <td>
+      contient un sort de druide, de magicien ou de prêtre de niveau 1 qui peut être lancé 3/jour au NLS du niveau
+      du personnage mais inflige un [[Affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3
+      points de [[Charisme]] au personnage chaque fois qu’il se sert du pouvoir magique
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Fuseau blanc perlé]]</td>
+    <td>[[Régénération (capacité)|Régénération]] (1 pv/10 minutes)</td>
+    <td>20 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt"><td>&emsp;ébréchée</td><td>Régénère 1 point de dégâts par heure</td><td>3 400 po</td></tr>
+  <tr CLASS="alt"><td>&emsp;défectueuse</td><td>Régénère 4 points de dégâts par heure</td><td>18 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Fuseau iridescent]]</td>
+    <td>Permet de subsister sans respirer</td>
+    <td>18 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +4 sur les tests de [[Constitution]] pour retenir sa respiration</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Alimente la créature sans air, mais la créature est toujours [[chancelant|chancelante]]</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Fuseau clair]]</td>
+    <td>Permet de subsister sans boire ni manger</td>
+    <td>4 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Alimente la créature sur une demi-ration de nourriture</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Alimente la créature sans nourriture, mais elle doit consommer 2 fois la quantité normale d’eau</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Nodule doré]]</td>
+    <td>Permet de comprendre, lire, parler, écrire une langue choisie à la fabrication</td>
+    <td>5 000 po</td>
+    <td ROWSPAN="3">*[[don des langues]]*</td>
+  </tr>
+  <tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 aux tests de [[Linguistique]]</td><td>150 po</td></tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Permet de comprendre et de lire une langue choisie par son créateur mais pas de la parler ni de l’écrire</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Nodule gomme-gutte (jaune orangé)]]</td>
+    <td>Immunité au [[poison]]</td>
+    <td>54 000 po</td>
+    <td ROWSPAN="3">*[[neutralisation du poison]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>[[Immunité (capacité)|Immunité]] à un type de poison</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Immunité au poison, malus de -4 sur les [[jds|jets de sauvegarde]] contre les malédictions et les maladies</td>
+    <td>40 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pentacle mûre]]</td>
+    <td>Bonus de compétence de +5 aux tests de [[Bluff]] et [[Diplomatie]]</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">*[[splendeur de laigle|splendeur de l'aigle]]*</td>
+  </tr>
+  <tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 aux tests de Bluff et Diplomatie</td><td>400 po</td></tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Bonus de compétence de +5 aux tests de Bluff et Diplomatie, malus de -2 sur les jets de [[Volonté]]</td>
+    <td>8 700 po</td>
+  </tr>
+  <tr CLASS="premier alt"><td>[[Pierre gris terne]]</td><td>Aucun</td><td>25 po</td><td ROWSPAN="3">&emsp;</td></tr>
+  <tr CLASS="alt"><td>&emsp;ébréchée</td><td>Aucun</td><td>25 po</td></tr>
+  <tr CLASS="alt"><td>&emsp;défectueuse</td><td>Aucun</td><td>25 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Prisme magenta]]</td>
+    <td>
+      [[Bonus daltération|Bonus d’altération]] de +2 à une caractéristique qui peut être modifiée une fois par jour
+      à un moment déterminé
+    </td>
+    <td>16 000 po</td>
+    <td ROWSPAN="3">
+      *[[endurance de lours|endurance de l’ours]]*, *[[force de taureau]]*, *[[grâce féline]]*, *[[splendeur de
+      laigle|splendeur de l’aigle]]*, *[[ruse du renard]]*, *[[sagesse du hibou]]*
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>
+      Bonus de compétence de +2 aux tests d’une compétence choisie par le personnage qui peut être modifiée une fois
+      par jour à un moment déterminé
+    </td>
+    <td>800 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>
+      [[bonus daltération|Bonus d’altération]] de +2 à une caractéristique qui peut être modifiée une fois par jour
+      à un moment déterminé. La pierre dispose de 4 charges. Elle en consomme une chaque fois que son utilisateur
+      modifie la caractéristique. Quand la pierre n’a plus de charge, il est impossible de changer la
+      Caractéristique à améliorer mais la pierre donne toujours un bonus dans la dernière choisie
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Prisme orange]]</td>
+    <td>Bonus de +1 au [[NLS|niveau de lanceur de sorts]]</td>
+    <td>30 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Ajoute un sort de niveau 0 aux sorts connus ou préparés de l’utilisateur</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>+1 niveau de lanceur de sorts, -2 au score de la caractéristique primaire de lancement de sorts</td>
+    <td>25 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Prisme rose poudreux]]</td>
+    <td>Bonus d’intuition de +1 à la [[CA]]</td>
+    <td>5 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 aux tests d’[[initiative]]</td><td>500 po</td></tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’intuition de +1 à la [[CA]], malus de -2 en [[Constitution]]</td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Prisme vert pâle]]</td>
+    <td>
+      Bonus de compétence de +1 aux [[jet dattaque|jets d’attaque]] et [[jet de sauvegarde|de sauvegarde]], ainsi
+      qu’aux tests de [[Compétences|compétence]] et de [[Caractéristiques|caractéristique]]
+    </td>
+    <td>30 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur les jets d’attaque ou de sauvegarde choisi lors de la création</td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>
+      Bonus de moral de +1 sur les jets d’attaque, les sauvegardes, les tests de compétences et de caractéristiques
+    </td>
+    <td>28 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Prisme violet vif]]</td>
+    <td>
+      Stocke trois niveaux de sorts, comme un *[[anneau de stockage de sorts|anneau de stockage de sorts mineur]]*
+    </td>
+    <td>36 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Stocke un niveau de sort, comme un anneau de stockage de sorts (mineur)</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>
+      Stocke trois niveaux de sorts, comme un anneau de stockage de sorts (mineur), le temps de lancement des sorts
+      est accru
+    </td>
+    <td>36 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Pyramide améthyste]]</td>
+    <td>
+      Permet de rendre l'utilisateur [[invisibilité pour les morts-vivants|invisible pour les morts-vivants]]
+      ([[DD]] 12)
+    </td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">*[[invisibilité pour les morts-vivants]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>
+      Bonus de compétences de +2 aux tests de [[Connaissances]] (religion) pour identifier les morts-vivants et
+      leurs pouvoirs spéciaux
+    </td>
+    <td>150 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>
+      Comme sa version normale mais le personnage reçoit un malus de –1 à la [[CA]] et aux [[jds|jets de
+      sauvegarde]] contre les morts-vivants
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pyramide blanc opalescent]]</td>
+    <td>Maniement de l'arme liée</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">*[[transformation martiale]]* ou maniement de l'arme</td>
+  </tr>
+  <tr><td>&emsp;ébréchée</td><td>L'arme liée est traitée comme une arme de guerre</td><td>1 500 po</td></tr>
+  <tr><td>&emsp;défectueuse</td><td>Maniemen de l'arme liée et malus de -2 en [[Dextérité]]</td><td>3 000 po</td></tr>
+  <tr CLASS="premier alt">
+    <td>[[Rhomboïde bleu nuit]]</td>
+    <td>[[Vigilance]] (comme le don du même nom)</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur les tests de [[Perception]] et [[Psychologie]]</td>
+    <td>400 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus de compétence de +2 sur les tests de Perception et malus de -1 sur les tests d’[[initiative]]</td>
+    <td>300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rhomboïde bleu pâle]]</td>
+    <td>[[bonus daltération|Bonus d’altération]] de +2 en [[Force]]</td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur une compétence basée sur la Force</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Force, malus de -2 en [[Constitution]]</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Rhomboïde onyx]]</td>
+    <td>Bonus d’altération de +2 en [[Constitution]] (cumulable jusqu'à +6)</td>
+    <td>24 000 po</td>
+    <td ROWSPAN="3">*[[endurance de lours|endurance de l’ours]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>fonctionnent par paires, bonus d’altération de +2 en Constitution (cumulable jusqu'à +6)</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Constitution (cumulable jusqu'à +4)</td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rhomboïde orange clair]]</td>
+    <td>À la mort du personnage, la pierre stocke son âme et la renvoie à son corps 24h après</td>
+    <td>200 000 po</td>
+    <td ROWSPAN="3">*[[possession]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>
+      Si le personnage meurt alors qu’il utilise cette pierre ioun, celle-ci peut servir de composante matérielle
+      supplémentaire pour le ramener à la vie, ce qui diminue le coût total du sort en composantes matérielles de
+      20%
+    </td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>
+      À la mort du personnage, la pierre stocke son âme et la renvoie à son corps 24h après mais une seule fois.
+      Après cela, elle est vidée et devient gris terne
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Rhomboïde rose]]</td>
+    <td>[[bonus daltération|Bonus d’altération]] de +2 en [[Constitution]]</td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +4 sur un type de jet affecté par [[Endurance]]</td>
+    <td>1 400 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Constitution, malus de -2 en [[Dextérité]]</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Rhomboïde vermillon]]</td>
+    <td>Bonus de compétence de +5 sur les tests d’[[Acrobaties]] et de [[Natation]]</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">*[[force de taureau]]*, *[[grâce féline]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur les tests d’Acrobaties et de Natation</td>
+    <td>400 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Bonus de compétence de +5 sur les tests d’Acrobaties et de Natation, -2 en [[Constitution]]</td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Sphère bleu incandescent]]</td>
+    <td>[[bonus daltération|Bonus d’altération]] de +2 en [[Sagesse]]</td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 à une compétence basée sur la Sagesse</td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Sagesse, malus de -2 sur les tests de [[Perception]]</td>
+    <td>7 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sphère écarlate et bleue]]</td>
+    <td>[[bonus daltération|Bonus d’altération]] de +2 en [[Intelligence]]<sup>[[Pierre ioun#NOTE5|5]]</sup></td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur une compétence basée sur l’Intelligence</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Intelligence, malus de -2 en [[Constitution]]</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Sphère gris nacré]]</td>
+    <td>Protège contre le vieillissement</td>
+    <td>10 000 po</td>
+    <td ROWSPAN="3">*[[endurance de lours|endurance de l'ours]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Protège contre un type de diminution de caractéristique due au vieillissement</td>
+    <td>3 400 po</td>
+  </tr>
+  <tr CLASS="alt"><td>&emsp;défectueuse</td><td>Protège contre les signes du vieillissement</td><td>1 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Sphère pourpre]]</td>
+    <td>Bonus d’altération de +2 en [[Intelligence]] (cumulable jusqu'à +6)</td>
+    <td>24 000 po</td>
+    <td ROWSPAN="3">*[[ruse du renard]]*</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>fonctionnent par paires, bonus d’altération de +2 en Intelligence (cumulable jusqu'à +6)</td>
+    <td>12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; défectueuse</td>
+    <td>Bonus d’altération de +2 en Intelligence (cumulable jusqu'à +4)</td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Sphère rouge sang]]</td>
+    <td>[[bonus daltération|Bonus d’altération]] de +2 en [[Dextérité]]</td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur une compétence basée sur la Dextérité</td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Dextérité et un malus de -2 en [[Constitution]]</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sphère rose et verte]]</td>
+    <td>[[bonus daltération|Bonus d’altération]] de +2 en [[Charisme]]</td>
+    <td>8 000 po</td>
+    <td ROWSPAN="3">&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur une compétence basée sur le Charisme</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;défectueuse</td>
+    <td>Bonus d’altération de +2 en Charisme, malus de -2 en [[Constitution]]</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier alt">
+    <td>[[Sphère tourmaline]]</td>
+    <td>2 [[round|rounds]] de plus pour que le porteur puisse tenter de se stabiliser lorsqu'il est [[mourant]]</td>
+    <td>1 000 po</td>
+    <td ROWSPAN="3">*[[endurance de lours|endurance de l’ours]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus d’intuition de +1 aux [[jds|jets de sauvegarde]] contre les effets de mort</td>
+    <td>800 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>
+      2 rounds de plus pour que le porteur puisse se stabiliser lorsqu'il est mourant mais fait ses tests de
+      [[Blessures et mort#STABLE|stabilisation]] avec un malus de –1
+    </td>
+    <td>600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sphère turquoise]]</td>
+    <td>Bonus de compétence de +5 sur les jets d’[[Équitation]] ; la monture bénéficie du don [[Rapide]]</td>
+    <td>6 000 po</td>
+    <td ROWSPAN="3">*[[charme-animal]]*, *[[grand pas]]*</td>
+  </tr>
+  <tr><td>&emsp;ébréchée</td><td>Bonus de compétence de +1 sur les tests d’Équitation</td><td>200 po</td></tr>
+  <tr><td>&emsp;défectueuse</td><td>Bonus de compétence de +5 sur les tests d’Équitation</td><td>5 000 po</td></tr>
+  <tr CLASS="premier alt">
+    <td>[[Triple rubis pâle]]</td>
+    <td>Bonus de compétence de +5 sur les tests de [[Discrétion]]</td>
+    <td>5 000 po</td>
+    <td ROWSPAN="3">*[[grâce féline]]*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;ébréchée</td>
+    <td>Bonus de compétence de +1 sur les tests de Discrétion</td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>&emsp;défectueuse</td>
+    <td>Bonus de compétence de +5 sur les tests de Discrétion, malus de -2 en [[Dextérité]]</td>
+    <td>1 600 po</td>
+  </tr>
+</table>
 
 <sub>{s:Reference|NOTE1}''(1) Après avoir absorbé 20 niveaux de sorts, la pierre se vide de toute son énergie et devient gris terne.  
 {s:Reference|NOTE2}(2) Après avoir absorbé 50 niveaux de sorts, la pierre se vide de toute son énergie et devient gris terne.  

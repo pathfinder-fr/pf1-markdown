@@ -52,7 +52,14 @@ Les Parties sur Discord (PsD) sont des parties en mode texte offrant aux personn
 Les scénarios suivants seront proposés et ce dés février :
 
 
-<table CLASS="tablo centre"><caption>Parties sur discord</caption><tr CLASS="titre"><td>Scénario</td><td>Durée</td></tr><tr CLASS="premier"><td>PFS2 Quest #01 : The SandStone Secret</td><td>Courte</td></tr><tr><td>PFS2 Quest #03 : Grehunde's Gorget</td><td>Courte</td></tr><tr><td>SFS Scenario #01-03 : Yesteryear's Truth</td><td>Moyenne</td></tr><tr><td>PFS2 Bounty #04 : Cat's craddle</td><td>Courte</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Parties sur discord</caption>
+  <tr CLASS="titre"><td>Scénario</td><td>Durée</td></tr>
+  <tr CLASS="premier"><td>PFS2 Quest #01 : The SandStone Secret</td><td>Courte</td></tr>
+  <tr><td>PFS2 Quest #03 : Grehunde's Gorget</td><td>Courte</td></tr>
+  <tr><td>SFS Scenario #01-03 : Yesteryear's Truth</td><td>Moyenne</td></tr>
+  <tr><td>PFS2 Bounty #04 : Cat's craddle</td><td>Courte</td></tr>
+</table>
 
 
 La durée des Parties sur Discord dépend essentiellement des membres autour de la table, nous vous indiquons à titre informatif les durées observées.

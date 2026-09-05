@@ -25,6 +25,19 @@ L’Évangéliste ne peut pas lancer de sorts de soins ou de blessure spontanés
 
 <center>
 
-<table CLASS="tablo"><caption>Incantation spontanée</caption><tr CLASS="titre"><td>Niveau de sort</td><td>Sort de remplacement</td></tr><tr><td>&emsp;1</td><td>*[[injonction]]*</td></tr><tr CLASS="alt"><td>&emsp;2</td><td>*[[discours captivant]]*</td></tr><tr><td>&emsp;3</td><td>*[[don des langues]]*</td></tr><tr CLASS="alt"><td>&emsp;4</td><td>*[[suggestion]]*</td></tr><tr><td>&emsp;5</td><td>*[[injonction suprême]]*</td></tr><tr CLASS="alt"><td>&emsp;6</td><td>*[[quête]]*</td></tr><tr><td>&emsp;7</td><td>*[[suggestion de groupe]]*</td></tr><tr CLASS="alt"><td>&emsp;8</td><td>*[[attirance]]*</td></tr><tr><td>&emsp;9</td><td>*[[exigence]]*</td></tr><tr CLASS="alt"></tr></table>
+<table CLASS="tablo">
+  <caption>Incantation spontanée</caption>
+  <tr CLASS="titre"><td>Niveau de sort</td><td>Sort de remplacement</td></tr>
+  <tr><td>&emsp;1</td><td>*[[injonction]]*</td></tr>
+  <tr CLASS="alt"><td>&emsp;2</td><td>*[[discours captivant]]*</td></tr>
+  <tr><td>&emsp;3</td><td>*[[don des langues]]*</td></tr>
+  <tr CLASS="alt"><td>&emsp;4</td><td>*[[suggestion]]*</td></tr>
+  <tr><td>&emsp;5</td><td>*[[injonction suprême]]*</td></tr>
+  <tr CLASS="alt"><td>&emsp;6</td><td>*[[quête]]*</td></tr>
+  <tr><td>&emsp;7</td><td>*[[suggestion de groupe]]*</td></tr>
+  <tr CLASS="alt"><td>&emsp;8</td><td>*[[attirance]]*</td></tr>
+  <tr><td>&emsp;9</td><td>*[[exigence]]*</td></tr>
+  <tr CLASS="alt"></tr>
+</table>
 
 </center>

@@ -71,7 +71,20 @@ Voici les options accessibles aux changelins, d’autres races adaptées peuvent
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Don de la mère]]</td><td><sup>MR</sup></td><td>[[Changelin (race)|Changelin]]</td><td>Améliore l'héritage que sa mère guenaude a légué au personnage</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Don de la mère]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[Changelin (race)|Changelin]]</td>
+    <td>Améliore l'héritage que sa mère guenaude a légué au personnage</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

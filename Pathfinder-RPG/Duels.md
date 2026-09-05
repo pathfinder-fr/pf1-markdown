@@ -47,7 +47,14 @@ Un lanceur de sorts peut aussi utiliser *[[dissipation de la magie]]* ou *[[diss
 Comme la préparation à un [[contresort]] est une action à part entière, un participant peut se préparer à lancer un [[contresort]] et faire un contre de duel au cours du même round. Cette possibilité sert uniquement si un participant doit faire face à plusieurs adversaires ou à quelqu’un qui dispose d’[[Incantation rapide]] ou autres aptitudes qui permettent de lancer deux sorts au cours du même [[round]].
 
 
-<table CLASS="tablo centre autoalt"><caption>Table 3-10 : Les modificateurs de contre de duel</caption><tr CLASS="titre"><td>Circonstance</td><td>Modificateur du test</td></tr><tr CLASS="premier"><td>&emsp;Sort d’une école différente</td><td>-2</td></tr><tr><td>&emsp;Sort différent mais de la même école</td><td>+2</td></tr><tr><td>&emsp;Sort d’un niveau supérieur à celui du sort contré</td><td>+1 par niveau de sort de plus</td></tr><tr><td>&emsp;Même sort que celui à contrer</td><td>+10</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Table 3-10 : Les modificateurs de contre de duel</caption>
+  <tr CLASS="titre"><td>Circonstance</td><td>Modificateur du test</td></tr>
+  <tr CLASS="premier"><td>&emsp;Sort d’une école différente</td><td>-2</td></tr>
+  <tr><td>&emsp;Sort différent mais de la même école</td><td>+2</td></tr>
+  <tr><td>&emsp;Sort d’un niveau supérieur à celui du sort contré</td><td>+1 par niveau de sort de plus</td></tr>
+  <tr><td>&emsp;Même sort que celui à contrer</td><td>+10</td></tr>
+</table>
 
 
 ### Effort de duel

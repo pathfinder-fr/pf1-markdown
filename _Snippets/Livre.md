@@ -1,1 +1,32 @@
-<table style="border-collapse:separate;float:right;width:260px;padding:5px;margin: 0 0 18px 18px;border: 1px solid #4b3124; background-color: #f3efe2;line-height:22px"><tr><td colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold">?titre?</td></tr><tr><td colspan="2" style="text-align:center">?image? ?image-vo?</td></tr><tr><td colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold">Version française</td></tr><tr><td>Référence</td><td>?ref?</td></tr><tr><td>Éditeur</td><td>?editeur?</td></tr><tr><td>Prix</td><td>?prix?</td></tr><tr><td>Couverture</td><td>?couverture?</td></tr><tr><td>Pages</td><td>?pages?</td></tr><tr><td>Parution</td><td>?parution?</td></tr><tr><td>ISBN</td><td>?isbn?</td></tr><tr><td colspan="2" style="text-align:center">?liens?</td></tr><tr><td colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold">Version originale</td></tr><tr><td>Référence</td><td>?ref-vo?</td></tr><tr><td>Éditeur</td><td>?editeur-vo?</td></tr><tr><td>Titre</td><td>?titre-vo?</td></tr><tr><td>Auteur(s)</td><td>?auteurs-vo?</td></tr><tr><td>ISBN</td><td>?isbn-vo?</td></tr><tr><td colspan="2" style="text-align:center">?liens-vo?</td></tr></table>
+<table style="border-collapse:separate;float:right;width:260px;padding:5px;margin: 0 0 18px 18px;border: 1px solid #4b3124; background-color: #f3efe2;line-height:22px">
+  <tr>
+    <td colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold">
+      ?titre?
+    </td>
+  </tr>
+  <tr><td colspan="2" style="text-align:center">?image? ?image-vo?</td></tr>
+  <tr>
+    <td colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold">
+      Version française
+    </td>
+  </tr>
+  <tr><td>Référence</td><td>?ref?</td></tr>
+  <tr><td>Éditeur</td><td>?editeur?</td></tr>
+  <tr><td>Prix</td><td>?prix?</td></tr>
+  <tr><td>Couverture</td><td>?couverture?</td></tr>
+  <tr><td>Pages</td><td>?pages?</td></tr>
+  <tr><td>Parution</td><td>?parution?</td></tr>
+  <tr><td>ISBN</td><td>?isbn?</td></tr>
+  <tr><td colspan="2" style="text-align:center">?liens?</td></tr>
+  <tr>
+    <td colspan="2" style="background-color: #4b3124; color: #ffffff; text-align: center; font-size: 10pt; padding: 2pt 5pt;font-weight: bold">
+      Version originale
+    </td>
+  </tr>
+  <tr><td>Référence</td><td>?ref-vo?</td></tr>
+  <tr><td>Éditeur</td><td>?editeur-vo?</td></tr>
+  <tr><td>Titre</td><td>?titre-vo?</td></tr>
+  <tr><td>Auteur(s)</td><td>?auteurs-vo?</td></tr>
+  <tr><td>ISBN</td><td>?isbn-vo?</td></tr>
+  <tr><td colspan="2" style="text-align:center">?liens-vo?</td></tr>
+</table>

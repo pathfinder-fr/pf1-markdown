@@ -212,6 +212,38 @@ pour fonctionner avec les points de vitalité et de blessure.
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Dons alternatifs</caption><tr CLASS="titre"><td>Don</td><td>Conditions</td><td>Avantages</td></tr><tr CLASS="premier"><td>[[Dur à cuire (alternatif)|Dur à cuire]]</td><td>—</td><td>Reste conscient même blessé</td></tr><tr><td>[[Initié du refus de mourir (alternatif)|Initié du refus de mourir]]*</td><td>[[For]] 13, [[Constitution|Con]] 13, [[Dur à cuire (alternatif)|Dur à cuire]], [[Endurance]], [[BBA]] +6, [[orque]] ou [[demi-orque]]</td><td>Perte maximale de 1 point de blessure par round quand blessé, bonus aux jets d'attaque et de dégâts en-dessous du seuil de blessure</td></tr><tr><td>&emsp;[[Maître du refus de mourir (alternatif)|Maître du refus de mourir]]*</td><td>[[For]] 13, [[Constitution|Con]] 15, [[Dur à cuire (alternatif)|Dur à cuire]], [[Initié du refus de mourir (alternatif)|Initié du refus de mourir]], [[Peau de fer]], [[BBA]] +9, [[orque]] ou [[demi-orque]]</td><td>Ne reçoit pas de points de blessure en faisant des actions blessé</td></tr><tr CLASS="alt"><td>[[Robustesse (alternatif)|Robustesse]]</td><td>—</td><td>+1 point de blessure par dé de vie</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Dons alternatifs</caption>
+  <tr CLASS="titre"><td>Don</td><td>Conditions</td><td>Avantages</td></tr>
+  <tr CLASS="premier">
+    <td>[[Dur à cuire (alternatif)|Dur à cuire]]</td>
+    <td>—</td>
+    <td>Reste conscient même blessé</td>
+  </tr>
+  <tr>
+    <td>[[Initié du refus de mourir (alternatif)|Initié du refus de mourir]]*</td>
+    <td>
+      [[For]] 13, [[Constitution|Con]] 13, [[Dur à cuire (alternatif)|Dur à cuire]], [[Endurance]], [[BBA]] +6,
+      [[orque]] ou [[demi-orque]]
+    </td>
+    <td>
+      Perte maximale de 1 point de blessure par round quand blessé, bonus aux jets d'attaque et de dégâts en-dessous
+      du seuil de blessure
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Maître du refus de mourir (alternatif)|Maître du refus de mourir]]*</td>
+    <td>
+      [[For]] 13, [[Constitution|Con]] 15, [[Dur à cuire (alternatif)|Dur à cuire]], [[Initié du refus de mourir
+      (alternatif)|Initié du refus de mourir]], [[Peau de fer]], [[BBA]] +9, [[orque]] ou [[demi-orque]]
+    </td>
+    <td>Ne reçoit pas de points de blessure en faisant des actions blessé</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Robustesse (alternatif)|Robustesse]]</td>
+    <td>—</td>
+    <td>+1 point de blessure par dé de vie</td>
+  </tr>
+</table>
 
 </center>

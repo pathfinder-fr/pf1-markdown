@@ -16,7 +16,132 @@ Categories:
 Les talents marqués d’un astérisque ajoutent un effet aux [[roublard unchained#ATTAQUESOURNOISE|attaques sournoises]] du roublard. Le roublard ne peut appliquer qu’un seul effet de ce type à chaque attaque et doit faire son choix avant le [[jet dattaque|jet d’attaque]].
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="100%"><caption>Talents de roublard unchained</caption><tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents</td></tr><tr CLASS="premier"><td>[[Talents unchained#ASTUCEDENINJA|Astuce de ninja]]</td><td>[[Talents unchained#CAMOUFLAGE|Camouflage]]</td><td>[[Talents unchained#DISCRETETRAPIDE|Discret et rapide]]</td><td>[[Talents unchained#FORTEIMPRESSION|Forte impression]]</td><td>[[Talents unchained#MAITRISEDUTERRAIN|Maîtrise du terrain]]</td><td>[[Talents unchained#SOURNOIS|Sournois]]*</td></tr><tr><td>[[Talents unchained#ATTAQUEDISTRAYANTE|Attaque distrayante]]*</td><td>[[Talents unchained#CERTITUDE|Certitude]]</td><td>[[Talents unchained#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]]</td><td>[[Talents unchained#FUITERAPIDE|Fuite rapide]]</td><td>[[Talents unchained#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]</td><td>[[Talents unchained#SPECIALISTEDELAFUITE|Spécialiste de la fuite]]</td></tr><tr><td>[[Talents unchained#ATTAQUEETCHANGEMENTDEPOSITION|Attaque et changement de position]]</td><td>[[Talents unchained#CONNAISSANCESESOTERIQUES|Connaissances ésotériques]]</td><td>[[Talents unchained#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]</td><td>[[Talents unchained#GRIMPEURAGILE|Grimpeur agile]]</td><td>[[Talents unchained#NUANCESDEGRIS|Nuances de gris]]</td><td>[[Talents unchained#SUBTILISATIONAUCOMBAT|Subtilisation au combat]]</td></tr><tr><td>[[Talents unchained#ATTAQUESANGLANTE|Attaque sanglante]]*</td><td>[[Talents unchained#DEBOUT|Debout]]</td><td>[[Talents unchained#EQUILIBRISTE|Équilibriste]]</td><td>[[Talents unchained#INSTALLATIONDEPIEGESRAPIDE|Installation de pièges rapide]]</td><td>[[Talents unchained#ORGANISERLATTAQUE|Organiser l’attaque]]</td><td>[[Talents unchained#SUIVRELESINDICES|Suivre les indices]]</td></tr><tr><td>[[Talents unchained#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*</td><td>[[Talents unchained#CONTACTSAUMARCHENOIR|Contacts au marché noir]]</td><td>[[Talents unchained#EXPERTENSURVIE|Expert en survie]]</td><td>[[Talents unchained#JOUERLEJEU|Jouer le jeu]]</td><td>[[Talents unchained#POISONPERSISTANT|Poison persistant]]</td><td>[[Talents unchained#TALENTSRENOUVELES|Talents renouvelés]]</td></tr><tr><td>[[Talents unchained#ATTAQUESURPRISE|Attaque surprise]]</td><td>[[Talents unchained#DECLENCHEMENTEXTRAORDINAIRE|Déclenchement extraordinaire]]</td><td>[[Talents unchained#EXTRAIREDESINFORMATIONS|Extraire des informations]]</td><td>[[Talents unchained#MAGIEMAJEURE|Magie majeure]]</td><td>[[Talents unchained#REACTIONSLENTES|Réactions lentes]]*</td><td>[[Talents unchained#TRIPESDACIER|Tripes d’acier]]</td></tr><tr><td>[[Talents unchained#AUDACE|Audace]]</td><td>[[Talents unchained#DEGUISEMENTRAPIDE|Déguisement rapide]]</td><td>[[Talents unchained#FAIRELEMUR|Faire le mur]]</td><td>[[Talents unchained#MAGIEMINEURE|Magie mineure]]</td><td>[[Talents unchained#RESILIENCE|Résilience]]</td><td>&emsp;</td></tr><tr><td>[[Talents unchained#BOTTESECRETE|Botte secrète]]</td><td>[[Talents unchained#DENICHEURDEPIEGES|Dénicheur de pièges]]</td><td>[[Talents unchained#FINOBSERVATEUR|Fin observateur]]</td><td>[[Talents unchained#MAINAGILE|Main agile]]</td><td>[[Talents unchained#RETENIRSONSOUFFLE|Retenir son souffle]]</td><td>&emsp;</td></tr><tr><td>[[Talents unchained#BRASSEVIGOUREUSE|Brasse vigoureuse]]</td><td>[[Talents unchained#DESAMORCAGERAPIDE|Désamorçage rapide]]</td><td>[[Talents unchained#FORMATIONMARTIALE|Formation martiale]]</td><td>[[Talents unchained#MAITREDESCORDES|Maître des cordes]]</td><td>[[Talents unchained#SAUTDELEXPERT|Saut de l’expert]]</td><td>&emsp;</td></tr><tr CLASS="titre"><td>&emsp;</td></tr><tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents de maître</td></tr><tr CLASS="premier"><td>[[Talents unchained#ACROBATIESRAPIDES|Acrobaties rapides]]</td><td>[[Talents unchained#CACHEENPLEINELUMIERE|Caché en pleine lumière]]</td><td>[[Talents unchained#DOUBLEAFFAIBLISSEMENT|Double affaiblissement]]*</td><td>[[Talents unchained#LAMESDECONFUSION|Lames de confusion]]*</td><td>[[Talents unchained#OPPORTUNISME|Opportunisme]]</td><td>[[Talents unchained#TIRSOUDAIN|Tir soudain]]</td></tr><tr><td>[[Talents unchained#ALLIEINVOLONTAIRE|Allié involontaire]]</td><td>[[Talents unchained#COCKTAILMORTEL|Cocktail mortel]]</td><td>[[Talents unchained#ESPRITFUYANT|Esprit fuyant]]</td><td>[[Talents unchained#MAITREDELAFUITE|Maître de la fuite]]</td><td>[[Talents unchained#ROULEBOULE|Roulé-boulé]]</td><td>[[Talents unchained#TIREURDISCRET|Tireur discret]]</td></tr><tr><td>[[Talents unchained#ATTAQUEDISSIPANTE|Attaque dissipante]]*</td><td>[[Talents unchained#COLPORTEURDERUMEURS|Colporteur de rumeurs]]</td><td>[[Talents unchained#ESPRITSECRET|Esprit secret]]</td><td>[[Talents unchained#MAITREDUDEGUISEMENT|Maître du déguisement]]</td><td>[[Talents unchained#SUBTILISATIONDARME|Subtilisation d’arme]]</td><td>[[Talents unchained#UNJOURDEPLUS|Un jour de plus]]</td></tr><tr><td>[[Talents unchained#ATTAQUEHANDICAPANTE|Attaque handicapante]]*</td><td>[[Talents unchained#COUPASSOMMANT|Coup assommant]]</td><td>[[Talents unchained#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td><td>[[Talents unchained#MAITRISEDESCOMPETENCES|Maîtrise des compétences]]</td><td>[[Talents unchained#SURPRISEDUCHASSEUR|Surprise du chasseur]]</td><td>&emsp;</td></tr><tr><td>[[Talents unchained#ATTAQUEREDIRIGEE|Attaque redirigée]]</td><td>[[Talents unchained#DEMARCHEAERIENNE|Démarche aérienne]]</td><td>[[Talents unchained#FABRICANTDEPIEGESECONOME|Fabricant de pièges économe]]</td><td>[[Talents unchained#MAITRISESUPERIEUREDUTERRAIN|Maîtrise supérieure du terrain]]</td><td>[[Talents unchained#TALENTDEHARCELEUR|Talent de harceleur]]</td><td>&emsp;</td></tr><tr><td>[[Talents unchained#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]*</td><td>[[Talents unchained#DON|Don]]</td><td>[[Talents unchained#FAMILIER|Familier]]</td><td>[[Talents unchained#MULTIPLESSPECIALITES|Multiples spécialités]]</td><td>[[Talents unchained#TALENTSRENOUVELESSUPERIEURS|Talents renouvelés supérieurs]]</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="100%">
+  <caption>Talents de roublard unchained</caption>
+  <tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents</td></tr>
+  <tr CLASS="premier">
+    <td>[[Talents unchained#ASTUCEDENINJA|Astuce de ninja]]</td>
+    <td>[[Talents unchained#CAMOUFLAGE|Camouflage]]</td>
+    <td>[[Talents unchained#DISCRETETRAPIDE|Discret et rapide]]</td>
+    <td>[[Talents unchained#FORTEIMPRESSION|Forte impression]]</td>
+    <td>[[Talents unchained#MAITRISEDUTERRAIN|Maîtrise du terrain]]</td>
+    <td>[[Talents unchained#SOURNOIS|Sournois]]*</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUEDISTRAYANTE|Attaque distrayante]]*</td>
+    <td>[[Talents unchained#CERTITUDE|Certitude]]</td>
+    <td>[[Talents unchained#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]]</td>
+    <td>[[Talents unchained#FUITERAPIDE|Fuite rapide]]</td>
+    <td>[[Talents unchained#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]</td>
+    <td>[[Talents unchained#SPECIALISTEDELAFUITE|Spécialiste de la fuite]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUEETCHANGEMENTDEPOSITION|Attaque et changement de position]]</td>
+    <td>[[Talents unchained#CONNAISSANCESESOTERIQUES|Connaissances ésotériques]]</td>
+    <td>[[Talents unchained#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]</td>
+    <td>[[Talents unchained#GRIMPEURAGILE|Grimpeur agile]]</td>
+    <td>[[Talents unchained#NUANCESDEGRIS|Nuances de gris]]</td>
+    <td>[[Talents unchained#SUBTILISATIONAUCOMBAT|Subtilisation au combat]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUESANGLANTE|Attaque sanglante]]*</td>
+    <td>[[Talents unchained#DEBOUT|Debout]]</td>
+    <td>[[Talents unchained#EQUILIBRISTE|Équilibriste]]</td>
+    <td>[[Talents unchained#INSTALLATIONDEPIEGESRAPIDE|Installation de pièges rapide]]</td>
+    <td>[[Talents unchained#ORGANISERLATTAQUE|Organiser l’attaque]]</td>
+    <td>[[Talents unchained#SUIVRELESINDICES|Suivre les indices]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*</td>
+    <td>[[Talents unchained#CONTACTSAUMARCHENOIR|Contacts au marché noir]]</td>
+    <td>[[Talents unchained#EXPERTENSURVIE|Expert en survie]]</td>
+    <td>[[Talents unchained#JOUERLEJEU|Jouer le jeu]]</td>
+    <td>[[Talents unchained#POISONPERSISTANT|Poison persistant]]</td>
+    <td>[[Talents unchained#TALENTSRENOUVELES|Talents renouvelés]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUESURPRISE|Attaque surprise]]</td>
+    <td>[[Talents unchained#DECLENCHEMENTEXTRAORDINAIRE|Déclenchement extraordinaire]]</td>
+    <td>[[Talents unchained#EXTRAIREDESINFORMATIONS|Extraire des informations]]</td>
+    <td>[[Talents unchained#MAGIEMAJEURE|Magie majeure]]</td>
+    <td>[[Talents unchained#REACTIONSLENTES|Réactions lentes]]*</td>
+    <td>[[Talents unchained#TRIPESDACIER|Tripes d’acier]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#AUDACE|Audace]]</td>
+    <td>[[Talents unchained#DEGUISEMENTRAPIDE|Déguisement rapide]]</td>
+    <td>[[Talents unchained#FAIRELEMUR|Faire le mur]]</td>
+    <td>[[Talents unchained#MAGIEMINEURE|Magie mineure]]</td>
+    <td>[[Talents unchained#RESILIENCE|Résilience]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#BOTTESECRETE|Botte secrète]]</td>
+    <td>[[Talents unchained#DENICHEURDEPIEGES|Dénicheur de pièges]]</td>
+    <td>[[Talents unchained#FINOBSERVATEUR|Fin observateur]]</td>
+    <td>[[Talents unchained#MAINAGILE|Main agile]]</td>
+    <td>[[Talents unchained#RETENIRSONSOUFFLE|Retenir son souffle]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#BRASSEVIGOUREUSE|Brasse vigoureuse]]</td>
+    <td>[[Talents unchained#DESAMORCAGERAPIDE|Désamorçage rapide]]</td>
+    <td>[[Talents unchained#FORMATIONMARTIALE|Formation martiale]]</td>
+    <td>[[Talents unchained#MAITREDESCORDES|Maître des cordes]]</td>
+    <td>[[Talents unchained#SAUTDELEXPERT|Saut de l’expert]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="titre"><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td CLASS="centre" COLSPAN="6">Talents de maître</td></tr>
+  <tr CLASS="premier">
+    <td>[[Talents unchained#ACROBATIESRAPIDES|Acrobaties rapides]]</td>
+    <td>[[Talents unchained#CACHEENPLEINELUMIERE|Caché en pleine lumière]]</td>
+    <td>[[Talents unchained#DOUBLEAFFAIBLISSEMENT|Double affaiblissement]]*</td>
+    <td>[[Talents unchained#LAMESDECONFUSION|Lames de confusion]]*</td>
+    <td>[[Talents unchained#OPPORTUNISME|Opportunisme]]</td>
+    <td>[[Talents unchained#TIRSOUDAIN|Tir soudain]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ALLIEINVOLONTAIRE|Allié involontaire]]</td>
+    <td>[[Talents unchained#COCKTAILMORTEL|Cocktail mortel]]</td>
+    <td>[[Talents unchained#ESPRITFUYANT|Esprit fuyant]]</td>
+    <td>[[Talents unchained#MAITREDELAFUITE|Maître de la fuite]]</td>
+    <td>[[Talents unchained#ROULEBOULE|Roulé-boulé]]</td>
+    <td>[[Talents unchained#TIREURDISCRET|Tireur discret]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUEDISSIPANTE|Attaque dissipante]]*</td>
+    <td>[[Talents unchained#COLPORTEURDERUMEURS|Colporteur de rumeurs]]</td>
+    <td>[[Talents unchained#ESPRITSECRET|Esprit secret]]</td>
+    <td>[[Talents unchained#MAITREDUDEGUISEMENT|Maître du déguisement]]</td>
+    <td>[[Talents unchained#SUBTILISATIONDARME|Subtilisation d’arme]]</td>
+    <td>[[Talents unchained#UNJOURDEPLUS|Un jour de plus]]</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUEHANDICAPANTE|Attaque handicapante]]*</td>
+    <td>[[Talents unchained#COUPASSOMMANT|Coup assommant]]</td>
+    <td>[[Talents unchained#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td>
+    <td>[[Talents unchained#MAITRISEDESCOMPETENCES|Maîtrise des compétences]]</td>
+    <td>[[Talents unchained#SURPRISEDUCHASSEUR|Surprise du chasseur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUEREDIRIGEE|Attaque redirigée]]</td>
+    <td>[[Talents unchained#DEMARCHEAERIENNE|Démarche aérienne]]</td>
+    <td>[[Talents unchained#FABRICANTDEPIEGESECONOME|Fabricant de pièges économe]]</td>
+    <td>[[Talents unchained#MAITRISESUPERIEUREDUTERRAIN|Maîtrise supérieure du terrain]]</td>
+    <td>[[Talents unchained#TALENTDEHARCELEUR|Talent de harceleur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Talents unchained#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]*</td>
+    <td>[[Talents unchained#DON|Don]]</td>
+    <td>[[Talents unchained#FAMILIER|Familier]]</td>
+    <td>[[Talents unchained#MULTIPLESSPECIALITES|Multiples spécialités]]</td>
+    <td>[[Talents unchained#TALENTSRENOUVELESSUPERIEURS|Talents renouvelés supérieurs]]</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Talents de roublard unchained

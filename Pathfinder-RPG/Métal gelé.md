@@ -24,7 +24,14 @@ Au cours du premier [[round]], le métal affecté devient froid et désagréable
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Round</td><td>Métal</td><td>Dégâts de froid</td></tr><tr CLASS="premier"><td>1</td><td>Froid</td><td>Aucun</td></tr><tr CLASS="alt"><td>2</td><td>Très froid</td><td>1d4 points</td></tr><tr><td>3–5</td><td>Gelé</td><td>2d4 points</td></tr><tr CLASS="alt"><td>6</td><td>Très froid</td><td>1d4 points</td></tr><tr><td>7</td><td>Froid</td><td>Aucun</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Round</td><td>Métal</td><td>Dégâts de froid</td></tr>
+  <tr CLASS="premier"><td>1</td><td>Froid</td><td>Aucun</td></tr>
+  <tr CLASS="alt"><td>2</td><td>Très froid</td><td>1d4 points</td></tr>
+  <tr><td>3–5</td><td>Gelé</td><td>2d4 points</td></tr>
+  <tr CLASS="alt"><td>6</td><td>Très froid</td><td>1d4 points</td></tr>
+  <tr><td>7</td><td>Froid</td><td>Aucun</td></tr>
+</table>
 
 </center>
 

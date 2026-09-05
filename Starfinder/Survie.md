@@ -10,7 +10,15 @@ LastModified: 2021-01-05 21:52
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>TÂCHE</td><td>DD</td></tr><tr CLASS="premier"><td>**Apaiser un animal**</td><td>10 + 1,5 × FP de l’animal</td></tr><tr CLASS="alt"><td>**Élever un animal sauvage**</td><td>15 + 1,5 × FP de l’animal</td></tr><tr><td>**Prévoir le temps**</td><td>15</td></tr><tr CLASS="alt"><td>**Résister à un climat extrême**</td><td>15</td></tr><tr><td>**S’orienter**</td><td>15</td></tr><tr CLASS="alt"><td>**Vivre de la terre**</td><td>10</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>TÂCHE</td><td>DD</td></tr>
+  <tr CLASS="premier"><td>**Apaiser un animal**</td><td>10 + 1,5 × FP de l’animal</td></tr>
+  <tr CLASS="alt"><td>**Élever un animal sauvage**</td><td>15 + 1,5 × FP de l’animal</td></tr>
+  <tr><td>**Prévoir le temps**</td><td>15</td></tr>
+  <tr CLASS="alt"><td>**Résister à un climat extrême**</td><td>15</td></tr>
+  <tr><td>**S’orienter**</td><td>15</td></tr>
+  <tr CLASS="alt"><td>**Vivre de la terre**</td><td>10</td></tr>
+</table>
 
 </center>
 </div>
@@ -37,7 +45,18 @@ inamicaux.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Action</td><td>DD</td></tr><tr CLASS="premier"><td>**Amortir sa chute**</td><td>15</td></tr><tr CLASS="alt"><td>**Combattre en chevauchant une monture dressée au combat**</td><td>10</td></tr><tr><td>**Contrôler une monture en combat**</td><td>20</td></tr><tr CLASS="alt"><td>**Éperonner sa monture**</td><td>15</td></tr><tr><td>**Guider avec les jambes**</td><td>5</td></tr><tr CLASS="alt"><td>**Monter ou descendre de selle rapidement**</td><td>20</td></tr><tr><td>**Rester en selle**</td><td>5</td></tr><tr><td>**S’abriter**</td><td>15</td></tr><tr><td>**Sauter**</td><td>15</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Action</td><td>DD</td></tr>
+  <tr CLASS="premier"><td>**Amortir sa chute**</td><td>15</td></tr>
+  <tr CLASS="alt"><td>**Combattre en chevauchant une monture dressée au combat**</td><td>10</td></tr>
+  <tr><td>**Contrôler une monture en combat**</td><td>20</td></tr>
+  <tr CLASS="alt"><td>**Éperonner sa monture**</td><td>15</td></tr>
+  <tr><td>**Guider avec les jambes**</td><td>5</td></tr>
+  <tr CLASS="alt"><td>**Monter ou descendre de selle rapidement**</td><td>20</td></tr>
+  <tr><td>**Rester en selle**</td><td>5</td></tr>
+  <tr><td>**S’abriter**</td><td>15</td></tr>
+  <tr><td>**Sauter**</td><td>15</td></tr>
+</table>
 
 </center>
 </div>
@@ -137,7 +156,13 @@ climatiques.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Surface</td><td>DD</td></tr><tr CLASS="premier"><td>**Sol très mou (neige fraîche, poussière épaisse, boue humide)**</td><td>5</td></tr><tr CLASS="alt"><td>**Sol mou (terre meuble, boue séchée)**</td><td>10</td></tr><tr><td>**Sol ferme (champs, forêts, tapis épais, sols poussiéreux ou crasseux)**</td><td>15</td></tr><tr CLASS="alt"><td>**Sol solide (roche nue, la plupart des sols à l’intérieur des bâtisses)**</td><td>20</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Surface</td><td>DD</td></tr>
+  <tr CLASS="premier"><td>**Sol très mou (neige fraîche, poussière épaisse, boue humide)**</td><td>5</td></tr>
+  <tr CLASS="alt"><td>**Sol mou (terre meuble, boue séchée)**</td><td>10</td></tr>
+  <tr><td>**Sol ferme (champs, forêts, tapis épais, sols poussiéreux ou crasseux)**</td><td>15</td></tr>
+  <tr CLASS="alt"><td>**Sol solide (roche nue, la plupart des sols à l’intérieur des bâtisses)**</td><td>20</td></tr>
+</table>
 
 </center>
 </div>

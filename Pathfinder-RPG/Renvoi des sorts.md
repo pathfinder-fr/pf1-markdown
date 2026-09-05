@@ -24,6 +24,20 @@ Il arrive qu’un sort ne soit que partiellement renvoyé si l’[[abjuration]] 
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>01–70</td><td CLASS="gauche">Le sort est annulé sans aucun effet.</td></tr><tr CLASS="alt"><td>71–80</td><td CLASS="gauche">Le sort affecte normalement les deux protagonistes.</td></tr><tr><td>81–97</td><td CLASS="gauche">Les deux *renvois des sorts* cessent de fonctionner pendant 1d4 minutes.</td></tr><tr CLASS="alt"><td>98–00</td><td CLASS="gauche">La trame de la réalité se déchire et les deux adversaires sont projetés dans un autre plan d’existence.</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Effet</td></tr>
+  <tr CLASS="premier"><td>01–70</td><td CLASS="gauche">Le sort est annulé sans aucun effet.</td></tr>
+  <tr CLASS="alt"><td>71–80</td><td CLASS="gauche">Le sort affecte normalement les deux protagonistes.</td></tr>
+  <tr>
+    <td>81–97</td>
+    <td CLASS="gauche">Les deux *renvois des sorts* cessent de fonctionner pendant 1d4 minutes.</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>98–00</td>
+    <td CLASS="gauche">
+      La trame de la réalité se déchire et les deux adversaires sont projetés dans un autre plan d’existence.
+    </td>
+  </tr>
+</table>
 
 </center>

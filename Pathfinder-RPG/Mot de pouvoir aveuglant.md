@@ -24,7 +24,12 @@ Le personnage prononce un mot qui [[aveuglé|aveugle]] une créature de son choi
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Points de vie</td><td>Durée</td></tr><tr CLASS="premier"><td>Jusqu’à 50</td><td>[[Permanente]]</td></tr><tr CLASS="alt"><td>51–100</td><td>1d4+1 minutes</td></tr><tr><td>101–200</td><td>1d4+1 [[round|rounds]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Points de vie</td><td>Durée</td></tr>
+  <tr CLASS="premier"><td>Jusqu’à 50</td><td>[[Permanente]]</td></tr>
+  <tr CLASS="alt"><td>51–100</td><td>1d4+1 minutes</td></tr>
+  <tr><td>101–200</td><td>1d4+1 [[round|rounds]]</td></tr>
+</table>
 
 </center>
 

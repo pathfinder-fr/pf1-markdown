@@ -53,9 +53,16 @@ Cette fonction de la compétence Acrobaties s’utilise comme la compétence de 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Largeur de la  
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Largeur de la  
 surface</td><td>DD du test  
-d’Acrobaties</td></tr><tr CLASS="premier"><td>Plus de 90 cm</td><td>0</td></tr><tr><td>Entre 30 et 90 cm</td><td>5</td></tr><tr><td>Entre 15 et 30 cm</td><td>10</td></tr><tr><td>Entre 5 et 15 cm</td><td>15</td></tr><tr><td>Moins de 5 cm</td><td>20</td></tr></table>
+d’Acrobaties</td></tr>
+  <tr CLASS="premier"><td>Plus de 90 cm</td><td>0</td></tr>
+  <tr><td>Entre 30 et 90 cm</td><td>5</td></tr>
+  <tr><td>Entre 15 et 30 cm</td><td>10</td></tr>
+  <tr><td>Entre 5 et 15 cm</td><td>15</td></tr>
+  <tr><td>Moins de 5 cm</td><td>20</td></tr>
+</table>
 
 </center></div></div>Le personnage peut effectuer un test d’Acrobaties pour garder l’équilibre lorsqu’il se déplace sur une surface étroite ou sur un sol irrégulier. S’il rate son test, il chute et tombe [[à terre]]. Le personnage se déplace à mi-vitesse lorsqu’il tente de garder l’équilibre, mais il peut se déplacer à sa vitesse normale s’il augmente le [[DD]] de 5. Il est considéré comme [[pris au dépourvu]] quand il tente de garder l’équilibre. Un seul test de la sorte suffit chaque [[round]] mais, si le personnage subit des dégâts, il doit effectuer un autre test contre le même DD. Il n’a pas besoin d’effectuer un test si le DD est inférieur à 10 mais les modificateurs peuvent faire passer un petit DD au-delà de 9.
 
@@ -73,12 +80,19 @@ Cette fonction de la compétence Acrobaties s’utilise comme la compétence de 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Déplacement prévu</td><td>DD du test  
-d’Acrobaties</td></tr><tr CLASS="premier"><td>Traverser une [[espace contrôlé|zone contrôlée]]  
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Déplacement prévu</td><td>DD du test  
+d’Acrobaties</td></tr>
+  <tr CLASS="premier">
+    <td>Traverser une [[espace contrôlé|zone contrôlée]]  
+par un ennemi</td>
+    <td>[[DMD]] de  
+l’ennemi</td>
+  </tr>
+  <tr><td>Traverser l’[[espace contrôlé|espace occupé]]  
 par un ennemi</td><td>[[DMD]] de  
-l’ennemi</td></tr><tr><td>Traverser l’[[espace contrôlé|espace occupé]]  
-par un ennemi</td><td>[[DMD]] de  
-l’ennemi + 5</td></tr></table>
+l’ennemi + 5</td></tr>
+</table>
 
 </center></div></div>Le personnage peut effectuer un test d’Acrobaties pour traverser l’[[espace contrôlé]] par des ennemis sans provoquer d’[[AO|attaque d’opportunité]]. S’il rate ce test, il arrête son déplacement et provoque une attaque d’opportunité de la part de l’adversaire qui contrôle l’espace. Le personnage se déplace à mi-vitesse lorsqu’il effectue des acrobaties en combat mais il peut se déplacer à sa vitesse normale s’il augmente le [[DD]] de 10. S’il tente de se faufiler à côté de plusieurs ennemis lors du même [[round]], il doit effectuer un test d’Acrobaties contre chacun d’eux. Le DD augmente de 2 par adversaire au-delà du premier.
 
@@ -102,11 +116,22 @@ La réussite d’un test d’Acrobaties [[DD]] 30 permet au personnage de se fau
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Entraves</td><td>DD du test  
-d’Acrobaties</td></tr><tr CLASS="premier"><td>[[Corde (objet)|Corde]], personnage  
-ligoté</td><td>20 + [[BMO]] de celui qui  
-a ligoté le personnage</td></tr><tr><td>[[Filet (arme)|Filet]], *[[corde animée]]*</td><td>20</td></tr><tr><td>*[[Collet]]*</td><td>23</td></tr><tr><td>[[Menottes (objet)|Menottes]]</td><td>30</td></tr><tr><td>[[Menottes (objet)|Menottes de qualité  
-supérieure]]</td><td>35</td></tr><tr><td>Situation de [[lutte]]</td><td>DMD de l’adversaire</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Entraves</td><td>DD du test  
+d’Acrobaties</td></tr>
+  <tr CLASS="premier">
+    <td>[[Corde (objet)|Corde]], personnage  
+ligoté</td>
+    <td>20 + [[BMO]] de celui qui  
+a ligoté le personnage</td>
+  </tr>
+  <tr><td>[[Filet (arme)|Filet]], *[[corde animée]]*</td><td>20</td></tr>
+  <tr><td>*[[Collet]]*</td><td>23</td></tr>
+  <tr><td>[[Menottes (objet)|Menottes]]</td><td>30</td></tr>
+  <tr><td>[[Menottes (objet)|Menottes de qualité  
+supérieure]]</td><td>35</td></tr>
+  <tr><td>Situation de [[lutte]]</td><td>DMD de l’adversaire</td></tr>
+</table>
 
 </center></div></div>Il faut réussir un test d’Acrobaties pour se libérer de ses liens et se soustraire à une [[agrippé|étreinte]] ou un [[enchevêtré|enchevêtrement]]. Le personnage peut effectuer un test d’Acrobaties à la place d’un [[BMO|test de manœuvre offensive]] pour se libérer d’une étreinte ou d’une immobilisation en situation de [[lutte]].
 

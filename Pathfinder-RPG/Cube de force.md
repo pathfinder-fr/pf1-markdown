@@ -15,10 +15,23 @@ Cet objet de la taille d’un dé à jouer (environ deux centimètres d’arête
 Quand le *[[mur de force]]* est activé, toute attaque infligeant plus de 30 points de dégâts oblige le cube à dépenser 1 charge additionnelle pour chaque tranche de 10 points de dégâts supplémentaires.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Face   
-du cube</td><td>Charges   
-par minute</td><td>Vitesse   
-max.</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>9 m</td><td CLASS="gauche">Protège du gaz, des vents, etc.</td></tr><tr><td>2</td><td>2</td><td>6 m</td><td CLASS="gauche">Protège de la matière non-vivante</td></tr><tr><td>3</td><td>3</td><td>4,50 m</td><td CLASS="gauche">Protège de la matière vivante</td></tr><tr><td>4</td><td>4</td><td>3 m</td><td CLASS="gauche">Protège de la magie</td></tr><tr><td>5</td><td>6</td><td>3 m</td><td CLASS="gauche">Protège de tout</td></tr><tr><td>6</td><td>0</td><td>Normale</td><td CLASS="gauche">Désactive le cube</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre">
+    <td>Face   
+du cube</td>
+    <td>Charges   
+par minute</td>
+    <td>Vitesse   
+max.</td>
+    <td CLASS="gauche">Effet</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>1</td><td>9 m</td><td CLASS="gauche">Protège du gaz, des vents, etc.</td></tr>
+  <tr><td>2</td><td>2</td><td>6 m</td><td CLASS="gauche">Protège de la matière non-vivante</td></tr>
+  <tr><td>3</td><td>3</td><td>4,50 m</td><td CLASS="gauche">Protège de la matière vivante</td></tr>
+  <tr><td>4</td><td>4</td><td>3 m</td><td CLASS="gauche">Protège de la magie</td></tr>
+  <tr><td>5</td><td>6</td><td>3 m</td><td CLASS="gauche">Protège de tout</td></tr>
+  <tr><td>6</td><td>0</td><td>Normale</td><td CLASS="gauche">Désactive le cube</td></tr>
+</table>
 
 
 Les sorts qui affectent l’intégrité physique du cube coûte également des charges à celui-ci.

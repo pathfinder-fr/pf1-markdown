@@ -40,7 +40,22 @@ hyènes), bande (10-100 gnolls (30% flinds et 50% de jeunes non combattants), 1 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
 
-<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Variantes de Gnoll</caption>
+  <tr CLASS="titre"><td>Nom</td><td>FP</td></tr>
+  <tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr>
+  <tr><td>[[Flind]]</td><td>3</td></tr>
+  <tr><td>[[Cogneur gnoll]]</td><td>3</td></tr>
+  <tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr>
+  <tr><td>[[Sergent gnoll]]</td><td>4</td></tr>
+  <tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr>
+  <tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr>
+  <tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr>
+  <tr><td>[[Gardien gnoll]]</td><td>10</td></tr>
+  <tr><td>[[Saccageur gnoll]]</td><td>11</td></tr>
+  <tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr>
+  <tr><td>[[Buda gnoll]]</td><td>13</td></tr>
+</table>
 
 </div>*Ce puissant humanoïde aux allures de hyène est plus grand que les gnolls ordinaires et possède un regard aussi rusé que cruel.*
 

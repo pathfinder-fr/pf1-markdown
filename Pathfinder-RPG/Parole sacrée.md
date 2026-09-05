@@ -22,7 +22,17 @@ Les créatures d’alignement autre que Bon entendant la parole sacrée sont aff
 
 <center>
 
-<table CLASS="tablo"><caption></caption><tr CLASS="titre"><td>DV</td><td>Effet</td></tr><tr CLASS="premier"><td>Égaux au [[niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -1</td><td>Assourdissement, cécité</td></tr><tr><td>Jusqu’au [[niveau de lanceur de sorts]] -5</td><td>Assourdissement, cécité, paralysie</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -10</td><td>Assourdissement, cécité, mort, paralysie</td></tr></table>
+<table CLASS="tablo">
+  <caption></caption>
+  <tr CLASS="titre"><td>DV</td><td>Effet</td></tr>
+  <tr CLASS="premier"><td>Égaux au [[niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr>
+  <tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -1</td><td>Assourdissement, cécité</td></tr>
+  <tr><td>Jusqu’au [[niveau de lanceur de sorts]] -5</td><td>Assourdissement, cécité, paralysie</td></tr>
+  <tr CLASS="alt">
+    <td>Jusqu’au [[niveau de lanceur de sorts]] -10</td>
+    <td>Assourdissement, cécité, mort, paralysie</td>
+  </tr>
+</table>
 
 </center>
 

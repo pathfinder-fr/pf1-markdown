@@ -140,7 +140,19 @@ L’invisibilité ne confère pas en soi l’immunité contre les [[coup critiqu
 En général, on peut repérer une créature invisible en mouvement et distante de moins de 9 m pour peu que l’on réussisse un test de [[Perception]] ([[DD]] 20). L’observateur éprouve la sensation qu’il y a quelqu’un (ou quelque chose) à proximité, mais sans savoir exactement où se trouve la créature en question. Si la créature invisible est immobile (ou ne bouge presque pas), il est bien plus difficile de la détecter ([[DD]] +20). Localiser précisément la créature ou l’objet est presque impossible (+20 au [[DD]] du test de [[Perception]]) et, même si le personnage réussit ce test, la créature invisible bénéficie toujours d’un [[camouflage]] total (50% de risque de rater). Certains modificateurs s’appliquent au [[DD]] si la créature est en train de bouger ou fait quelque chose de bruyant.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>La créature invisible...</td><td>Mod. au DD du test de Perception</td></tr><tr CLASS="premier"><td>Se bat ou parle</td><td>-20</td></tr><tr><td>Se déplace à la moitié de sa vitesse</td><td>-5</td></tr><tr><td>Se déplace à sa vitesse normale</td><td>-10</td></tr><tr><td>Court ou charge</td><td>-20</td></tr><tr><td>Ne bouge pas</td><td>+20 (*)</td></tr><tr><td>Utilise sa Discrétion</td><td>Jet de discrétion +20</td></tr><tr><td>Est éloignée</td><td>+1 par tranche de 3 m</td></tr><tr><td>Derrière un obstacle (porte)</td><td>+5</td></tr><tr><td>Derrière un obstacle (mur de pierre)</td><td>+15</td></tr><tr><td>Localiser précisément la créature invisible</td><td>+20</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>La créature invisible...</td><td>Mod. au DD du test de Perception</td></tr>
+  <tr CLASS="premier"><td>Se bat ou parle</td><td>-20</td></tr>
+  <tr><td>Se déplace à la moitié de sa vitesse</td><td>-5</td></tr>
+  <tr><td>Se déplace à sa vitesse normale</td><td>-10</td></tr>
+  <tr><td>Court ou charge</td><td>-20</td></tr>
+  <tr><td>Ne bouge pas</td><td>+20 (*)</td></tr>
+  <tr><td>Utilise sa Discrétion</td><td>Jet de discrétion +20</td></tr>
+  <tr><td>Est éloignée</td><td>+1 par tranche de 3 m</td></tr>
+  <tr><td>Derrière un obstacle (porte)</td><td>+5</td></tr>
+  <tr><td>Derrière un obstacle (mur de pierre)</td><td>+15</td></tr>
+  <tr><td>Localiser précisément la créature invisible</td><td>+20</td></tr>
+</table>
 
 
 Le personnage peut tâtonner à sa recherche, c’est-à-dire user d’une [[action simple]] pour effectuer une attaque à mains nues ou avec une arme, dans une zone équivalente à deux pas de déplacement. Si une créature invisible s’y trouve, il a toujours 50% de chance de la manquer. S’il réussit, il ne fait aucun dégât mais parvient à localiser sa position avec précision. Si cette créature se déplace et quitte l’endroit où elle était, le personnage devra recommencer.

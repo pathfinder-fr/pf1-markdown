@@ -41,4 +41,45 @@ La victime doit réussir un nouveau jet de sauvegarde à chaque round pour mettr
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Néant</td><td>Sous-domaine de l'Isolation</td><td>Sous-domaine des Étoiles</td><td>Sous-domaine de la Sombre Tapisserie</td></tr><tr CLASS="premier"><td>1er</td><td>*[[feuille morte]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[lévitation]]*</td><td>*idem*</td><td>*[[lueurs hypnotiques]]*</td><td>*[[convocation de monstres II]]*</td></tr><tr><td>3e</td><td>*[[vol]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[contrat]]*</td><td>*[[désespoir foudroyant]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[vol supérieur]]*</td><td>*idem*</td><td>*idem*</td><td>*[[convocation de monstres V]]*</td></tr><tr><td>6e</td><td>*[[contrat intermédiaire]]*</td><td>*[[mur de force]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[inversion de la gravité]]*</td><td>*idem*</td><td>*[[rayon de soleil]]*</td><td>*[[aliénation mentale]]*</td></tr><tr><td>8e</td><td>*[[contrat suprême]]*</td><td>*[[mur prismatique]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[téléportation interplanétaire]]*</td><td>*idem*</td><td>*[[nuée de météores]]*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du Néant</td>
+    <td>Sous-domaine de l'Isolation</td>
+    <td>Sous-domaine des Étoiles</td>
+    <td>Sous-domaine de la Sombre Tapisserie</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[feuille morte]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[lévitation]]*</td>
+    <td>*idem*</td>
+    <td>*[[lueurs hypnotiques]]*</td>
+    <td>*[[convocation de monstres II]]*</td>
+  </tr>
+  <tr><td>3e</td><td>*[[vol]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[contrat]]*</td><td>*[[désespoir foudroyant]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[vol supérieur]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[convocation de monstres V]]*</td>
+  </tr>
+  <tr><td>6e</td><td>*[[contrat intermédiaire]]*</td><td>*[[mur de force]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[inversion de la gravité]]*</td>
+    <td>*idem*</td>
+    <td>*[[rayon de soleil]]*</td>
+    <td>*[[aliénation mentale]]*</td>
+  </tr>
+  <tr><td>8e</td><td>*[[contrat suprême]]*</td><td>*[[mur prismatique]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[téléportation interplanétaire]]*</td>
+    <td>*idem*</td>
+    <td>*[[nuée de météores]]*</td>
+    <td>*idem*</td>
+  </tr>
+</table>

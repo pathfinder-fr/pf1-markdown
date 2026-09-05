@@ -35,7 +35,93 @@ Contrairement à ce qui se passe habituellement, les familiers sont moins exigea
 
 <center>
 
-<table CLASS="tablo"><caption>**Les familiers d'un ensorceleur lié**</caption><tr CLASS="titre"><td>Familier</td><td>Alignements possibles</td><td>Niveau de lanceur de sorts</td><td>Lignage autorisé</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.archétypes simples#CREATURECELESTE|Créature céleste]]</td><td>NB</td><td>3</td><td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.archétypes simples#CREATUREFIELONE|Créature fiélone]]</td><td>NM</td><td>3</td><td>[[Pathfinder-RPG.lignage abyssal|lignage abyssal]], [[Pathfinder-RPG.lignage infernal|lignage infernal]]</td></tr><tr><td>[[Pathfinder-RPG.élémentaire|Élémentaire]] P <sup>(1)</sup></td><td>N</td><td>5</td><td>[[Pathfinder-RPG.lignage élémentaire|lignage élémentaire]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Lutin|Lutin]]</td><td>N</td><td>5</td><td>[[Pathfinder-RPG.lignage féerique|lignage féerique]]</td></tr><tr><td>[[Pathfinder-RPG.Méphite|Méphite]] <sup>(1)</sup></td><td>N</td><td>7</td><td>[[Pathfinder-RPG.lignage élémentaire|lignage élémentaire]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pseudo-dragon|Pseudo-dragon]]</td><td>NB</td><td>7</td><td>[[Pathfinder-RPG.lignage draconique|lignage draconique]]</td></tr><tr><td>[[Pathfinder-RPG.Dragon féerique|Dragon féerique]]</td><td>CB</td><td>7</td><td>[[Pathfinder-RPG.lignage draconique|lignage draconique]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Quasit|Quasit]]</td><td>CM</td><td>7</td><td>[[Pathfinder-RPG.lignage abyssal|lignage abyssal]]</td></tr><tr><td>[[Pathfinder-RPG.Silvanshie|Agathion, Silvanshie]]</td><td>NB</td><td>7</td><td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Cassisien|Cassisien]]</td><td>NB</td><td>7</td><td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td></tr><tr><td>[[Pathfinder-RPG.Lyrakien|Lyrakien]]</td><td>CB</td><td>7</td><td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Ver du néant|Ver du néant]]</td><td>CN</td><td>7</td><td>[[Pathfinder-RPG.lignage protéen|lignage protéen]]</td></tr><tr><td>[[Pathfinder-RPG.Diablotin|Diablotin]]</td><td>LM</td><td>7</td><td>[[Pathfinder-RPG.lignage infernal|lignage infernal]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>**Les familiers d'un ensorceleur lié**</caption>
+  <tr CLASS="titre">
+    <td>Familier</td>
+    <td>Alignements possibles</td>
+    <td>Niveau de lanceur de sorts</td>
+    <td>Lignage autorisé</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pathfinder-RPG.archétypes simples#CREATURECELESTE|Créature céleste]]</td>
+    <td>NB</td>
+    <td>3</td>
+    <td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pathfinder-RPG.archétypes simples#CREATUREFIELONE|Créature fiélone]]</td>
+    <td>NM</td>
+    <td>3</td>
+    <td>[[Pathfinder-RPG.lignage abyssal|lignage abyssal]], [[Pathfinder-RPG.lignage infernal|lignage infernal]]</td>
+  </tr>
+  <tr>
+    <td>[[Pathfinder-RPG.élémentaire|Élémentaire]] P <sup>(1)</sup></td>
+    <td>N</td>
+    <td>5</td>
+    <td>[[Pathfinder-RPG.lignage élémentaire|lignage élémentaire]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pathfinder-RPG.Lutin|Lutin]]</td>
+    <td>N</td>
+    <td>5</td>
+    <td>[[Pathfinder-RPG.lignage féerique|lignage féerique]]</td>
+  </tr>
+  <tr>
+    <td>[[Pathfinder-RPG.Méphite|Méphite]] <sup>(1)</sup></td>
+    <td>N</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage élémentaire|lignage élémentaire]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pathfinder-RPG.Pseudo-dragon|Pseudo-dragon]]</td>
+    <td>NB</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage draconique|lignage draconique]]</td>
+  </tr>
+  <tr>
+    <td>[[Pathfinder-RPG.Dragon féerique|Dragon féerique]]</td>
+    <td>CB</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage draconique|lignage draconique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pathfinder-RPG.Quasit|Quasit]]</td>
+    <td>CM</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage abyssal|lignage abyssal]]</td>
+  </tr>
+  <tr>
+    <td>[[Pathfinder-RPG.Silvanshie|Agathion, Silvanshie]]</td>
+    <td>NB</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pathfinder-RPG.Cassisien|Cassisien]]</td>
+    <td>NB</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td>
+  </tr>
+  <tr>
+    <td>[[Pathfinder-RPG.Lyrakien|Lyrakien]]</td>
+    <td>CB</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage céleste|lignage céleste]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Pathfinder-RPG.Ver du néant|Ver du néant]]</td>
+    <td>CN</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage protéen|lignage protéen]]</td>
+  </tr>
+  <tr>
+    <td>[[Pathfinder-RPG.Diablotin|Diablotin]]</td>
+    <td>LM</td>
+    <td>7</td>
+    <td>[[Pathfinder-RPG.lignage infernal|lignage infernal]]</td>
+  </tr>
+</table>
 
 
 <sup>1</sup> Le familier choisi doit avoir un sous type (feu, air, terre ou eau) identique à celui de l'ensorceleur.

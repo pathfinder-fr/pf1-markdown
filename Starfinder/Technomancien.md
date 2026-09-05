@@ -13,7 +13,313 @@ LastModified: 2024-07-04 15:03
 
 <center>
 
-<table CLASS="tablo"><caption>Le technomancien</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[technomancien#CACHEDESORTS|cache de sorts]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[technomancien#MAGIERENFORCEE|magie renforcée]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +1]], [[technomancien#SPECIALISATIONMARTIALE|spécialisation martiale]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[]]</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[technomancien#CACHEAMPLIFIEE|cache amplifiée 1]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +2]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[]]</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">[[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +3]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[]]</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[technomancien#CACHEAMPLIFIEE|cache amplifiée 1]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +2]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +5]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr><td>17</td><td>+12</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[technomancien#CACHEAMPLIFIEE|cache amplifiée 3]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +6]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[technomancien#PERSEVERANCEHARMONISEE|persévérance harmonisée]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[technomancien#FUSIONDESORTS|fusion de sorts]], [[technomancien#ALTERATIONMAGIQUE|altération magique]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le technomancien</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[technomancien#CACHEDESORTS|cache de sorts]]</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[technomancien#MAGIERENFORCEE|magie renforcée]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire
+      technologique +1]], [[technomancien#SPECIALISATIONMARTIALE|spécialisation martiale]]
+    </td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[technomancien#CACHEAMPLIFIEE|cache amplifiée 1]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire
+      technologique +2]]
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +3]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[technomancien#CACHEAMPLIFIEE|cache amplifiée 1]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire
+      technologique +2]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire technologique +5]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[technomancien#ALTERATIONMAGIQUE|altération magique]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">
+      [[technomancien#CACHEAMPLIFIEE|cache amplifiée 3]], [[technomancien#SAVOIRFAIRETECHNOLOGIQUE|savoir-faire
+      technologique +6]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[technomancien#PERSEVERANCEHARMONISEE|persévérance harmonisée]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[technomancien#FUSIONDESORTS|fusion de sorts]], [[technomancien#ALTERATIONMAGIQUE|altération magique]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 </center>
 
@@ -43,7 +349,25 @@ Armes de corps à corps simples, armes légères
 {s:Reference|TABLESORTSSUPPLEMENTAIREPARJOUR}
 <center>
 
-<table CLASS="tablo"><caption>Sorts supplémentaire par jour (par niveau de sort)</caption><tr CLASS="titre"><td ROWSPAN="2">Valeur d'Int</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts supplémentaires</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>11-12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12-13</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14-15</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>16-17</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>18-19</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>20-21</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td></tr><tr><td>22-23</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>24-25</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>26-27</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>28-29</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td></tr><tr><td>30-31</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr></table>
+<table CLASS="tablo">
+  <caption>Sorts supplémentaire par jour (par niveau de sort)</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Valeur d'Int</td>
+    <td COLSPAN="7" CLASS="avecsoustitre">Sorts supplémentaires</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>11-12</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>12-13</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>14-15</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>16-17</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>18-19</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>20-21</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>-</td></tr>
+  <tr><td>22-23</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+  <tr CLASS="alt"><td>24-25</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr>
+  <tr><td>26-27</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr>
+  <tr CLASS="alt"><td>28-29</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td></tr>
+  <tr><td>30-31</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+</table>
 
 </center></div></div>
 
@@ -53,7 +377,31 @@ Armes de corps à corps simples, armes légères
 {s:Reference|TABLESORTSCONNUSTECHNOMANCIEN}
 <center>
 
-<table CLASS="tablo"><caption>Sorts connus par le technomancien</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr CLASS="alt"><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo">
+  <caption>Sorts connus par le technomancien</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr CLASS="alt"><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr>
+  <tr CLASS="alt"><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr CLASS="alt"><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr CLASS="alt"><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+</table>
 
 </center></div></div>
 

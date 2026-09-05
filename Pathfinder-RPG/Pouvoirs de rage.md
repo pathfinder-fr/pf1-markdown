@@ -16,8 +16,270 @@ Categories:
 {s:mca}**Les pouvoirs de rage du sang.** Les pouvoirs de rage du sang confèrent des pouvoirs thématiques. Ceux choisis par un barbare ne peuvent provenir que d’un seul groupe. Un barbare, quel que soit son niveau, peut prendre un pouvoir mineur de rage du sang. Seuls les barbares de niveau 6 ou plus peuvent choisir le pouvoir intermédiaire de rage du sang (un pouvoir dont le nom ne comporte ni « mineur » ni « majeur ») s’ils possèdent déjà le pouvoir mineur du même groupe. Seuls les barbares de niveau 10 ou plus peuvent choisir le pouvoir supérieur de rage du sang s’ils possèdent déjà le pouvoir intermédiaire du même groupe.
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="100%"><caption>Pouvoirs de rage du barbare</caption><tr CLASS="titre"><td>Niv  
-min</td><td COLSPAN="4">Pouvoirs</td></tr><tr CLASS="premier"><td>**1**</td><td>[[pouvoirs de rage#ANIMALTOTEMMINEUR|Animal totem mineur]]</td><td>[[pouvoirs de rage#FUREURANIMALE|Fureur animale]]</td><td>[[pouvoirs de rage#POURSUITE|Poursuite]]</td><td>[[pouvoirs de rage#SANGINFERNALMINEUR|Sang infernal mineur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#AVANCEDOMINATRICE|Avance dominatrice]]</td><td>[[pouvoirs de rage#IMPRUDENTEDESINVOLTURE|Imprudente désinvolture]]</td><td>[[pouvoirs de rage#PRECISIONETONNANTE|Précision étonnante]]</td><td>[[pouvoirs de rage#SAUTENRAGE|Saut en rage]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#BAGARREUR|Bagarreur]]</td><td>[[pouvoirs de rage#IVRESSERUGISSANTE|Ivresse rugissante]]</td><td>[[pouvoirs de rage#PROJECTILEMINEUR|Projectile mineur]]</td><td>[[pouvoirs de rage#SUPERSTITION|Superstition]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#BAGARREURMAJEUR|Bagarreur majeur]]</td><td>[[pouvoirs de rage#LUCIDITEPARFAITE|Lucidité parfaite]]</td><td>[[pouvoirs de rage#REFLEXESRAPIDES|Réflexes rapides]]</td><td>[[pouvoirs de rage#TOTEMDUCHAOSMINEUR|Totem du chaos mineur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#BONPOURCEQUETUAS|Bon pour ce que tu as]]</td><td>[[pouvoirs de rage#MARQUEPROMETTEUSE|Marque prometteuse]]</td><td>[[pouvoirs de rage#REGARDINTIMIDANT|Regard intimidant]]</td><td>[[pouvoirs de rage#TOTEMDUSERPENTMONDE|Totem du serpent-monde]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#BUVEURPRODIGIEUX|Buveur prodigieux]]</td><td>[[pouvoirs de rage#MOMENTDELUCIDITE|Moment de lucidité]]</td><td>[[pouvoirs de rage#REPOUSSERLENNEMI|Repousser l'ennemi]]</td><td>[[pouvoirs de rage#TOTEMFIELONMINEUR|Totem fiélon mineur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#CHASSEURDESORCIERE|Chasseur de sorcière]]</td><td>[[pouvoirs de rage#MONTUREFEROCE|Monture féroce]]</td><td>[[pouvoirs de rage#RESISTANCEALENERGIE|Résistance à l'énergie]]</td><td>[[pouvoirs de rage#TOTEMSPIRITUELINFERIEUR|Totem spirituel inférieur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#COLEREAUTOSUGGEREE|Colère autosuggérée]]</td><td>[[pouvoirs de rage#NAGEENRAGE|Nage en rage]]</td><td>[[pouvoirs de rage#ROULEBOULE|Roulé-boulé]]</td><td>[[pouvoirs de rage#VIEPRESERVEE|Vie préservée]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#COUPPUISSANT|Coup puissant]]</td><td>[[pouvoirs de rage#ODORAT|Odorat]]</td><td>[[pouvoirs de rage#SANGCELESTEMINEUR|Sang céleste mineur]]</td><td>[[pouvoirs de rage#VISIONDANSLANUIT|Vision dans la nuit]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#COURAGELIQUIDE|Courage liquide]]</td><td>[[pouvoirs de rage#PASRAPIDES|Pas rapides]]</td><td>[[pouvoirs de rage#SANGDEMORTVIVANTMINEUR|Sang de mort-vivant mineur]]</td><td>[[pouvoirs de rage#VISIONDANSLENOIR|Vision dans le noir]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#ESCALADEENRAGE|Escalade en rage]]</td><td>[[pouvoirs de rage#PERCUSSION|Percussion]]</td><td>[[pouvoirs de rage#SANGDRACONIQUEMINEUR|Sang draconique mineur]]</td><td>[[pouvoirs de rage#VIGUEURACHARNEE|Vigueur acharnée]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#FEROCITEINSPIREE|Férocité inspirée]]</td><td>[[pouvoirs de rage#PICDEFORCE|Pic de force]]</td><td>[[pouvoirs de rage#SANGELEMENTAIREMINEUR|Sang élémentaire mineur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#FRACASSEMENT|Fracassement]]</td><td>[[pouvoirs de rage#POSTUREDEFENSIVE|Posture défensive]]</td><td>[[pouvoirs de rage#SANGFEERIQUEMINEUR|Sang féerique mineur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**4**</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDELATAIGA|Malédiction mortelle du linnorm de la taïga]]</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESGLACES|Malédiction mortelle du linnorm des glaces]]</td><td>[[pouvoirs de rage#PRECISIONMORTELLE|Précision mortelle]]</td><td>[[pouvoirs de rage#TOTEMDELARUCHE|Totem de la ruche]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESFALAISES|Malédiction mortelle du linnorm des falaises]]</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESLACS|Malédiction mortelle du linnorm des lacs]]</td><td>[[pouvoirs de rage#RAGEELEMENTAIREMINEURE|Rage élémentaire mineure]]</td><td>[[pouvoirs de rage#VITALITERENOUVELEE|Vitalité renouvelée]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESFJORDS|Malédiction mortelle du linnorm des fjords]]</td><td>[[pouvoirs de rage#NOUVELLEVIGUEUR|Nouvelle vigueur]]</td><td>[[pouvoirs de rage#SPRINT|Sprint]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**6**</td><td>[[pouvoirs de rage#ANIMALTOTEM|Animal totem]]</td><td>[[pouvoirs de rage#MONTURESPIRITUELLE|Monture spirituelle]]</td><td>[[pouvoirs de rage#SANGDEMORTVIVANT|Sang de mort-vivant]]</td><td>[[pouvoirs de rage#TOTEMFIELON|Totem fiélon]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#ATTAQUEDOMINATRICE|Attaque dominatrice]]</td><td>[[pouvoirs de rage#NAGEURBESTIAL|Nageur bestial]]</td><td>[[pouvoirs de rage#SANGDRACONIQUE|Sang draconique]]</td><td>[[pouvoirs de rage#TOTEMSPIRITUEL|Totem spirituel]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#BRISEROC|Brise roc]]</td><td>[[pouvoirs de rage#PROJECTILEENCHARGE|Projectile en charge]]</td><td>[[pouvoirs de rage#SANGELEMENTAIRE|Sang élémentaire]]</td><td>[[pouvoirs de rage#VANTARDISE|Vantardise]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#DESTRUCTIONDESORT|Destruction de sort]]</td><td>[[pouvoirs de rage#RAGEFANTOME|Rage fantôme]]</td><td>[[pouvoirs de rage#SANGFEERIQUE|Sang féerique]]</td><td>[[pouvoirs de rage#VIEPRESERVEESUPERIEURE|Vie préservée supérieure]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#ESPRITDUSERPENTMONDE|Esprit du serpent-monde]]</td><td>[[pouvoirs de rage#RESILIENCETOTEMIQUEDELARUCHE|Résilience totémique de la ruche]]</td><td>[[pouvoirs de rage#SANGINFERNAL|Sang infernal]]</td><td>[[pouvoirs de rage#VIERENOUVELEE|Vie renouvelée]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#ESQUIVEREFLEXE|Esquive réflexe]]</td><td>[[pouvoirs de rage#RUGISSEMENTDEGUERRE|Rugissement de guerre]]</td><td>[[pouvoirs de rage#SAUTEURBESTIAL|Sauteur bestial]]</td><td>[[pouvoirs de rage#VIGUEURREGENERATRICE|Vigueur régénératrice]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#GRIMPEURBESTIAL|Grimpeur bestial]]</td><td>[[pouvoirs de rage#SANGABYSSAL|Sang abyssal]]</td><td>[[pouvoirs de rage#TOTEMDRACONIQUE|Totem draconique]]</td><td>[[pouvoirs de rage#VOLENRAGE|Vol en rage]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#LUCIDITEULTIME|Lucidité ultime]]</td><td>[[pouvoirs de rage#SANGCELESTE|Sang céleste]]</td><td>[[pouvoirs de rage#TOTEMDUCHAOS|Totem du chaos]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**8**</td><td>[[pouvoirs de rage#BRISEROCSUPERIEUR|Brise roc supérieur]]</td><td>[[pouvoirs de rage#HURLEMENTTERRIFIANT|Hurlement terrifiant]]</td><td>[[pouvoirs de rage#POUVOIRDERAGEPERTURBATEUR|Perturbateur]]</td><td>[[pouvoirs de rage#REDUCTIONDEDEGATSACCRUE|Réduction de dégâts accrue]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#COUPHANDICAPANT|Coup handicapant]]</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDEROCHE|Malédiction mortelle du linnorm de roche]]</td><td>[[pouvoirs de rage#PIETINEMENTFEROCE|Piétinement féroce]]</td><td>[[pouvoirs de rage#RESILIENCETOTEMIQUEDRACONIQUE|Résilience totémique draconique]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#COUPHEMORRAGIQUE|Coup hémorragique]]</td><td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESCAIRNS|Malédiction mortelle du linnorm des cairns]]</td><td>[[pouvoirs de rage#PRECISIONAFFINEE|Précision affinée]]</td><td>[[pouvoirs de rage#RESISTANCEALENERGIEMAJEUR|Résistance à l'énergie majeur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#COUPINATTENDU|Coup inattendu]]</td><td>[[pouvoirs de rage#MONTUREFEROCEMAJEUR|Monture féroce majeur]]</td><td>[[pouvoirs de rage#PROJECTILE|Projectile]]</td><td>[[pouvoirs de rage#TOXICITEDELARUCHE|Toxicité de la ruche]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#ESPRITVIDE|Esprit vide]]</td><td>[[pouvoirs de rage#ODORATPRIMITIF|Odorat primitif]]</td><td>[[pouvoirs de rage#RAGEELEMENTAIRE|Rage élémentaire]]</td><td>[[pouvoirs de rage#VIGUEURINTERNE|Vigueur interne]]</td></tr><tr CLASS="premier"><td>**10**</td><td>[[pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES|Ailes totémiques draconiques]]</td><td>[[pouvoirs de rage#MASSUEVIVANTE|Massue vivante]]</td><td>[[pouvoirs de rage#SANGELEMENTAIREMAJEUR|Sang élémentaire majeur]]</td><td>[[pouvoirs de rage#TOTEMSPIRITUELSUPERIEUR|Totem spirituel supérieur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#ANIMALTOTEMMAJEUR|Animal totem majeur]]</td><td>[[pouvoirs de rage#SANGABYSSALMAJEUR|Sang abyssal majeur]]</td><td>[[pouvoirs de rage#SANGFEERIQUEMAJEUR|Sang féerique majeur]]</td><td>[[pouvoirs de rage#UNITEDUSERPENTMONDE|Unité du serpent-monde]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#DESTRUCTIONDENCHANTEMENT|Destruction d’enchantement]]</td><td>[[pouvoirs de rage#SANGCELESTEMAJEUR|Sang céleste majeur]]</td><td>[[pouvoirs de rage#SANGINFERNALMAJEUR|Sang infernal majeur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#DEVOREURDEMAGIE|Dévoreur de magie]]</td><td>[[pouvoirs de rage#SANGDEMORTVIVANTMAJEUR|Sang de mort-vivant majeur]]</td><td>[[pouvoirs de rage#TOTEMDUCHAOSMAJEUR|Totem du chaos majeur]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#EGRATIGNURE|Égratignure]]</td><td>[[pouvoirs de rage#SANGDRACONIQUEMAJEUR|Sang draconique majeur]]</td><td>[[pouvoirs de rage#TOTEMFIELONMAJEUR|Totem fiélon majeur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**12**</td><td>[[pouvoirs de rage#ABSORPTIONENERGIE|Absorption d'énergie]]</td><td>[[pouvoirs de rage#COUPREDOUTABLE|Coup redoutable]]</td><td>[[pouvoirs de rage#PROJECTILEMAJEUR|Projectile majeur]]</td><td>[[pouvoirs de rage#RAGESANSPEUR|Rage sans peur]]</td></tr><tr><td>&emsp;</td><td>[[pouvoirs de rage#BRISEURDESORTS|Briseur de sorts]]</td><td>[[pouvoirs de rage#PIETINEMENTFEROCEMAJEUR|Piétinement féroce majeur]]</td><td>[[pouvoirs de rage#RAGEELEMENTAIREMAJEURE|Rage élémentaire majeure]]</td><td>[[pouvoirs de rage#VIENSMATTRAPER|Viens m'attraper]]</td></tr><tr CLASS="premier"><td>**16**</td><td>[[pouvoirs de rage#ERUPTIONDENERGIE|Éruption d'énergie]]</td><td>[[pouvoirs de rage#PRECISIONLETALE|Précision létale]]</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="100%">
+  <caption>Pouvoirs de rage du barbare</caption>
+  <tr CLASS="titre"><td>Niv  
+min</td><td COLSPAN="4">Pouvoirs</td></tr>
+  <tr CLASS="premier">
+    <td>**1**</td>
+    <td>[[pouvoirs de rage#ANIMALTOTEMMINEUR|Animal totem mineur]]</td>
+    <td>[[pouvoirs de rage#FUREURANIMALE|Fureur animale]]</td>
+    <td>[[pouvoirs de rage#POURSUITE|Poursuite]]</td>
+    <td>[[pouvoirs de rage#SANGINFERNALMINEUR|Sang infernal mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#AVANCEDOMINATRICE|Avance dominatrice]]</td>
+    <td>[[pouvoirs de rage#IMPRUDENTEDESINVOLTURE|Imprudente désinvolture]]</td>
+    <td>[[pouvoirs de rage#PRECISIONETONNANTE|Précision étonnante]]</td>
+    <td>[[pouvoirs de rage#SAUTENRAGE|Saut en rage]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#BAGARREUR|Bagarreur]]</td>
+    <td>[[pouvoirs de rage#IVRESSERUGISSANTE|Ivresse rugissante]]</td>
+    <td>[[pouvoirs de rage#PROJECTILEMINEUR|Projectile mineur]]</td>
+    <td>[[pouvoirs de rage#SUPERSTITION|Superstition]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#BAGARREURMAJEUR|Bagarreur majeur]]</td>
+    <td>[[pouvoirs de rage#LUCIDITEPARFAITE|Lucidité parfaite]]</td>
+    <td>[[pouvoirs de rage#REFLEXESRAPIDES|Réflexes rapides]]</td>
+    <td>[[pouvoirs de rage#TOTEMDUCHAOSMINEUR|Totem du chaos mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#BONPOURCEQUETUAS|Bon pour ce que tu as]]</td>
+    <td>[[pouvoirs de rage#MARQUEPROMETTEUSE|Marque prometteuse]]</td>
+    <td>[[pouvoirs de rage#REGARDINTIMIDANT|Regard intimidant]]</td>
+    <td>[[pouvoirs de rage#TOTEMDUSERPENTMONDE|Totem du serpent-monde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#BUVEURPRODIGIEUX|Buveur prodigieux]]</td>
+    <td>[[pouvoirs de rage#MOMENTDELUCIDITE|Moment de lucidité]]</td>
+    <td>[[pouvoirs de rage#REPOUSSERLENNEMI|Repousser l'ennemi]]</td>
+    <td>[[pouvoirs de rage#TOTEMFIELONMINEUR|Totem fiélon mineur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#CHASSEURDESORCIERE|Chasseur de sorcière]]</td>
+    <td>[[pouvoirs de rage#MONTUREFEROCE|Monture féroce]]</td>
+    <td>[[pouvoirs de rage#RESISTANCEALENERGIE|Résistance à l'énergie]]</td>
+    <td>[[pouvoirs de rage#TOTEMSPIRITUELINFERIEUR|Totem spirituel inférieur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#COLEREAUTOSUGGEREE|Colère autosuggérée]]</td>
+    <td>[[pouvoirs de rage#NAGEENRAGE|Nage en rage]]</td>
+    <td>[[pouvoirs de rage#ROULEBOULE|Roulé-boulé]]</td>
+    <td>[[pouvoirs de rage#VIEPRESERVEE|Vie préservée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#COUPPUISSANT|Coup puissant]]</td>
+    <td>[[pouvoirs de rage#ODORAT|Odorat]]</td>
+    <td>[[pouvoirs de rage#SANGCELESTEMINEUR|Sang céleste mineur]]</td>
+    <td>[[pouvoirs de rage#VISIONDANSLANUIT|Vision dans la nuit]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#COURAGELIQUIDE|Courage liquide]]</td>
+    <td>[[pouvoirs de rage#PASRAPIDES|Pas rapides]]</td>
+    <td>[[pouvoirs de rage#SANGDEMORTVIVANTMINEUR|Sang de mort-vivant mineur]]</td>
+    <td>[[pouvoirs de rage#VISIONDANSLENOIR|Vision dans le noir]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#ESCALADEENRAGE|Escalade en rage]]</td>
+    <td>[[pouvoirs de rage#PERCUSSION|Percussion]]</td>
+    <td>[[pouvoirs de rage#SANGDRACONIQUEMINEUR|Sang draconique mineur]]</td>
+    <td>[[pouvoirs de rage#VIGUEURACHARNEE|Vigueur acharnée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#FEROCITEINSPIREE|Férocité inspirée]]</td>
+    <td>[[pouvoirs de rage#PICDEFORCE|Pic de force]]</td>
+    <td>[[pouvoirs de rage#SANGELEMENTAIREMINEUR|Sang élémentaire mineur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#FRACASSEMENT|Fracassement]]</td>
+    <td>[[pouvoirs de rage#POSTUREDEFENSIVE|Posture défensive]]</td>
+    <td>[[pouvoirs de rage#SANGFEERIQUEMINEUR|Sang féerique mineur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**4**</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDELATAIGA|Malédiction mortelle du linnorm de la taïga]]</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESGLACES|Malédiction mortelle du linnorm des glaces]]</td>
+    <td>[[pouvoirs de rage#PRECISIONMORTELLE|Précision mortelle]]</td>
+    <td>[[pouvoirs de rage#TOTEMDELARUCHE|Totem de la ruche]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESFALAISES|Malédiction mortelle du linnorm des falaises]]</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESLACS|Malédiction mortelle du linnorm des lacs]]</td>
+    <td>[[pouvoirs de rage#RAGEELEMENTAIREMINEURE|Rage élémentaire mineure]]</td>
+    <td>[[pouvoirs de rage#VITALITERENOUVELEE|Vitalité renouvelée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESFJORDS|Malédiction mortelle du linnorm des fjords]]</td>
+    <td>[[pouvoirs de rage#NOUVELLEVIGUEUR|Nouvelle vigueur]]</td>
+    <td>[[pouvoirs de rage#SPRINT|Sprint]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**6**</td>
+    <td>[[pouvoirs de rage#ANIMALTOTEM|Animal totem]]</td>
+    <td>[[pouvoirs de rage#MONTURESPIRITUELLE|Monture spirituelle]]</td>
+    <td>[[pouvoirs de rage#SANGDEMORTVIVANT|Sang de mort-vivant]]</td>
+    <td>[[pouvoirs de rage#TOTEMFIELON|Totem fiélon]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#ATTAQUEDOMINATRICE|Attaque dominatrice]]</td>
+    <td>[[pouvoirs de rage#NAGEURBESTIAL|Nageur bestial]]</td>
+    <td>[[pouvoirs de rage#SANGDRACONIQUE|Sang draconique]]</td>
+    <td>[[pouvoirs de rage#TOTEMSPIRITUEL|Totem spirituel]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#BRISEROC|Brise roc]]</td>
+    <td>[[pouvoirs de rage#PROJECTILEENCHARGE|Projectile en charge]]</td>
+    <td>[[pouvoirs de rage#SANGELEMENTAIRE|Sang élémentaire]]</td>
+    <td>[[pouvoirs de rage#VANTARDISE|Vantardise]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#DESTRUCTIONDESORT|Destruction de sort]]</td>
+    <td>[[pouvoirs de rage#RAGEFANTOME|Rage fantôme]]</td>
+    <td>[[pouvoirs de rage#SANGFEERIQUE|Sang féerique]]</td>
+    <td>[[pouvoirs de rage#VIEPRESERVEESUPERIEURE|Vie préservée supérieure]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#ESPRITDUSERPENTMONDE|Esprit du serpent-monde]]</td>
+    <td>[[pouvoirs de rage#RESILIENCETOTEMIQUEDELARUCHE|Résilience totémique de la ruche]]</td>
+    <td>[[pouvoirs de rage#SANGINFERNAL|Sang infernal]]</td>
+    <td>[[pouvoirs de rage#VIERENOUVELEE|Vie renouvelée]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#ESQUIVEREFLEXE|Esquive réflexe]]</td>
+    <td>[[pouvoirs de rage#RUGISSEMENTDEGUERRE|Rugissement de guerre]]</td>
+    <td>[[pouvoirs de rage#SAUTEURBESTIAL|Sauteur bestial]]</td>
+    <td>[[pouvoirs de rage#VIGUEURREGENERATRICE|Vigueur régénératrice]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#GRIMPEURBESTIAL|Grimpeur bestial]]</td>
+    <td>[[pouvoirs de rage#SANGABYSSAL|Sang abyssal]]</td>
+    <td>[[pouvoirs de rage#TOTEMDRACONIQUE|Totem draconique]]</td>
+    <td>[[pouvoirs de rage#VOLENRAGE|Vol en rage]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#LUCIDITEULTIME|Lucidité ultime]]</td>
+    <td>[[pouvoirs de rage#SANGCELESTE|Sang céleste]]</td>
+    <td>[[pouvoirs de rage#TOTEMDUCHAOS|Totem du chaos]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**8**</td>
+    <td>[[pouvoirs de rage#BRISEROCSUPERIEUR|Brise roc supérieur]]</td>
+    <td>[[pouvoirs de rage#HURLEMENTTERRIFIANT|Hurlement terrifiant]]</td>
+    <td>[[pouvoirs de rage#POUVOIRDERAGEPERTURBATEUR|Perturbateur]]</td>
+    <td>[[pouvoirs de rage#REDUCTIONDEDEGATSACCRUE|Réduction de dégâts accrue]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#COUPHANDICAPANT|Coup handicapant]]</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDEROCHE|Malédiction mortelle du linnorm de roche]]</td>
+    <td>[[pouvoirs de rage#PIETINEMENTFEROCE|Piétinement féroce]]</td>
+    <td>[[pouvoirs de rage#RESILIENCETOTEMIQUEDRACONIQUE|Résilience totémique draconique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#COUPHEMORRAGIQUE|Coup hémorragique]]</td>
+    <td>[[pouvoirs de rage#MALEDICTIONMORTELLEDULINNORMDESCAIRNS|Malédiction mortelle du linnorm des cairns]]</td>
+    <td>[[pouvoirs de rage#PRECISIONAFFINEE|Précision affinée]]</td>
+    <td>[[pouvoirs de rage#RESISTANCEALENERGIEMAJEUR|Résistance à l'énergie majeur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#COUPINATTENDU|Coup inattendu]]</td>
+    <td>[[pouvoirs de rage#MONTUREFEROCEMAJEUR|Monture féroce majeur]]</td>
+    <td>[[pouvoirs de rage#PROJECTILE|Projectile]]</td>
+    <td>[[pouvoirs de rage#TOXICITEDELARUCHE|Toxicité de la ruche]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#ESPRITVIDE|Esprit vide]]</td>
+    <td>[[pouvoirs de rage#ODORATPRIMITIF|Odorat primitif]]</td>
+    <td>[[pouvoirs de rage#RAGEELEMENTAIRE|Rage élémentaire]]</td>
+    <td>[[pouvoirs de rage#VIGUEURINTERNE|Vigueur interne]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**10**</td>
+    <td>[[pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES|Ailes totémiques draconiques]]</td>
+    <td>[[pouvoirs de rage#MASSUEVIVANTE|Massue vivante]]</td>
+    <td>[[pouvoirs de rage#SANGELEMENTAIREMAJEUR|Sang élémentaire majeur]]</td>
+    <td>[[pouvoirs de rage#TOTEMSPIRITUELSUPERIEUR|Totem spirituel supérieur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#ANIMALTOTEMMAJEUR|Animal totem majeur]]</td>
+    <td>[[pouvoirs de rage#SANGABYSSALMAJEUR|Sang abyssal majeur]]</td>
+    <td>[[pouvoirs de rage#SANGFEERIQUEMAJEUR|Sang féerique majeur]]</td>
+    <td>[[pouvoirs de rage#UNITEDUSERPENTMONDE|Unité du serpent-monde]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#DESTRUCTIONDENCHANTEMENT|Destruction d’enchantement]]</td>
+    <td>[[pouvoirs de rage#SANGCELESTEMAJEUR|Sang céleste majeur]]</td>
+    <td>[[pouvoirs de rage#SANGINFERNALMAJEUR|Sang infernal majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#DEVOREURDEMAGIE|Dévoreur de magie]]</td>
+    <td>[[pouvoirs de rage#SANGDEMORTVIVANTMAJEUR|Sang de mort-vivant majeur]]</td>
+    <td>[[pouvoirs de rage#TOTEMDUCHAOSMAJEUR|Totem du chaos majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#EGRATIGNURE|Égratignure]]</td>
+    <td>[[pouvoirs de rage#SANGDRACONIQUEMAJEUR|Sang draconique majeur]]</td>
+    <td>[[pouvoirs de rage#TOTEMFIELONMAJEUR|Totem fiélon majeur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**12**</td>
+    <td>[[pouvoirs de rage#ABSORPTIONENERGIE|Absorption d'énergie]]</td>
+    <td>[[pouvoirs de rage#COUPREDOUTABLE|Coup redoutable]]</td>
+    <td>[[pouvoirs de rage#PROJECTILEMAJEUR|Projectile majeur]]</td>
+    <td>[[pouvoirs de rage#RAGESANSPEUR|Rage sans peur]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[pouvoirs de rage#BRISEURDESORTS|Briseur de sorts]]</td>
+    <td>[[pouvoirs de rage#PIETINEMENTFEROCEMAJEUR|Piétinement féroce majeur]]</td>
+    <td>[[pouvoirs de rage#RAGEELEMENTAIREMAJEURE|Rage élémentaire majeure]]</td>
+    <td>[[pouvoirs de rage#VIENSMATTRAPER|Viens m'attraper]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**16**</td>
+    <td>[[pouvoirs de rage#ERUPTIONDENERGIE|Éruption d'énergie]]</td>
+    <td>[[pouvoirs de rage#PRECISIONLETALE|Précision létale]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Description des pouvoirs de rage du barbare

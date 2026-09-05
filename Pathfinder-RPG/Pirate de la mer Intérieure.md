@@ -11,7 +11,100 @@ indispensables à bord d’un navire peuvent s’élever au rang de capitaine et
 
 <center>
 
-<table CLASS="tablo"><caption>Le Pirate de Haute mer</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +1d6</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +2d6</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEMAÎTREPIRATE|Talents de maître pirate]], [[Pirate de la mer Intérieure#TALENTDEPIRATE|talent de pirate]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +3d6</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le Pirate de Haute mer</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +1d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +2d6</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Pirate de la mer Intérieure#TALENTDEMAÎTREPIRATE|Talents de maître pirate]], [[Pirate de la mer
+      Intérieure#TALENTDEPIRATE|talent de pirate]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +3d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td>
+  </tr>
+</table>
 
 </center>
 

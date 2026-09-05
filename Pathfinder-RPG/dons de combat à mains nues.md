@@ -14,7 +14,94 @@ Categories:
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Style de combat : combat à mains nues</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td CLASS="gauche" WIDTH="25%">Conditions</td><td CLASS="gauche" WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Science du combat à mains nues]]*</td><td CLASS="gauche">-</td><td CLASS="gauche">Le personnage est toujours considéré comme armé</td></tr><tr><td>&emsp;[[Coup étourdissant]]*</td><td CLASS="gauche">[[Dex]] 13, [[Sag]] 13, [[BBA]] +8, [[Science du combat à mains nues]]</td><td CLASS="gauche">L'attaque à mains nues [[étourdi|étourdit]] l'adversaire</td></tr><tr><td>&emsp;[[Coup mémorable]]<sup>APG</sup>*</td><td CLASS="gauche">[[Constitution|Con]] 13, [[Sag]] 13, [[BBA]] +8, [[Science du combat à mains nues]]</td><td CLASS="gauche">Mettre à terre ou repousser un ennemi avec une attaque à mains nues</td></tr><tr><td>&emsp;[[Coup parfait]]<sup>APG</sup>*</td><td CLASS="gauche">[[Dex]] 13, [[Sag]] 13, [[BBA]] +8, [[Science du combat à mains nues]]</td><td CLASS="gauche">Faire deux lancers pour les attaques à mains nues et choisir le meilleur</td></tr><tr><td>&emsp;[[École du scorpion]]*</td><td CLASS="gauche">[[Science du combat à mains nues]]</td><td CLASS="gauche">Réduit la [[vitesse de déplacement]] de la cible à 1,5 m (1 {s:c})</td></tr><tr><td>&emsp;&emsp;[[Poing de la gorgone]]*</td><td CLASS="gauche">[[École du scorpion]], [[BBA]] +6</td><td CLASS="gauche">Fait [[chancelant|chanceler]] un ennemi ralenti</td></tr><tr><td>&emsp;&emsp;&emsp;[[Fureur de la méduse]]*</td><td CLASS="gauche">[[Poing de la gorgone]], [[BBA]] +11</td><td CLASS="gauche">2 attaques supplémentaires contre un ennemi gêné dans ses déplacements</td></tr><tr><td>&emsp;&emsp;&emsp;&emsp;[[Coup de la cockatrice]]*</td><td CLASS="gauche">[[Fureur de la méduse]], [[BBA]] +16</td><td CLASS="gauche">[[Pétrifié|Pétrifier]] une cible après un [[coup critique]]</td></tr><tr><td>&emsp;[[Lancer ki]]<sup>APG</sup>*</td><td CLASS="gauche">[[Science du combat à mains nues]], [[Science du croc-en-jambe]]</td><td CLASS="gauche">Lancer un adversaire dans une case adjacente en tant que [[croc-en-jambe]]</td></tr><tr><td>&emsp;&emsp;[[Science du lancer ki]]<sup>APG</sup>*</td><td CLASS="gauche">[[Lancer ki]], [[Science de la bousculade]]</td><td CLASS="gauche">Lancer un adversaire dans une case occupée en tant que [[bousculade]]</td></tr><tr><td>&emsp;[[Parade de projectiles]]*</td><td CLASS="gauche">[[Dex]] 13, [[Science du combat à mains nues]]</td><td CLASS="gauche">Évite une attaque à distance/round</td></tr><tr><td>&emsp;&emsp;[[Capture de projectiles]]*</td><td CLASS="gauche">[[Dex]] 15, [[Parade de projectiles]]</td><td CLASS="gauche">Attrape un projectile/round</td></tr><tr><td>&emsp;[[Poing élémentaire]]<sup>APG</sup>*</td><td CLASS="gauche">[[Constitution|Con]] 13, [[Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +8</td><td CLASS="gauche">Infliger 1d6 points de dégâts d’énergie avec un coup à mains nues</td></tr><tr><td>&emsp;[[Science de la lutte]]*</td><td CLASS="gauche">[[Dex]] 13, [[Science du combat à mains nues]]</td><td CLASS="gauche">+2 aux tests de [[lutte]], pas d'[[attaque dopportunité|attaque d'opportunité]]</td></tr><tr><td>&emsp;&emsp;[[Lutte supérieure]]*</td><td CLASS="gauche">[[Science de la lutte]], [[BBA]] +6</td><td CLASS="gauche">Maintenir une [[lutte|prise]] est une [[action de mouvement]]</td></tr><tr><td>&emsp;[[Toucher de la sérénité]]<sup>APG</sup>*</td><td CLASS="gauche">[[Sag]] 18, [[Science du combat à mains nues]], [[BBA]] +8</td><td CLASS="gauche">Les ennemis touchés par les attaques à mains nues ne peuvent ni attaquer, ni incanter</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Style de combat : combat à mains nues</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td CLASS="gauche" WIDTH="25%">Conditions</td>
+    <td CLASS="gauche" WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Science du combat à mains nues]]*</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">Le personnage est toujours considéré comme armé</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Coup étourdissant]]*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Sag]] 13, [[BBA]] +8, [[Science du combat à mains nues]]</td>
+    <td CLASS="gauche">L'attaque à mains nues [[étourdi|étourdit]] l'adversaire</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Coup mémorable]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Constitution|Con]] 13, [[Sag]] 13, [[BBA]] +8, [[Science du combat à mains nues]]</td>
+    <td CLASS="gauche">Mettre à terre ou repousser un ennemi avec une attaque à mains nues</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Coup parfait]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Sag]] 13, [[BBA]] +8, [[Science du combat à mains nues]]</td>
+    <td CLASS="gauche">Faire deux lancers pour les attaques à mains nues et choisir le meilleur</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[École du scorpion]]*</td>
+    <td CLASS="gauche">[[Science du combat à mains nues]]</td>
+    <td CLASS="gauche">Réduit la [[vitesse de déplacement]] de la cible à 1,5 m (1 {s:c})</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Poing de la gorgone]]*</td>
+    <td CLASS="gauche">[[École du scorpion]], [[BBA]] +6</td>
+    <td CLASS="gauche">Fait [[chancelant|chanceler]] un ennemi ralenti</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;&emsp;[[Fureur de la méduse]]*</td>
+    <td CLASS="gauche">[[Poing de la gorgone]], [[BBA]] +11</td>
+    <td CLASS="gauche">2 attaques supplémentaires contre un ennemi gêné dans ses déplacements</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;&emsp;&emsp;[[Coup de la cockatrice]]*</td>
+    <td CLASS="gauche">[[Fureur de la méduse]], [[BBA]] +16</td>
+    <td CLASS="gauche">[[Pétrifié|Pétrifier]] une cible après un [[coup critique]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Lancer ki]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Science du combat à mains nues]], [[Science du croc-en-jambe]]</td>
+    <td CLASS="gauche">Lancer un adversaire dans une case adjacente en tant que [[croc-en-jambe]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Science du lancer ki]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Lancer ki]], [[Science de la bousculade]]</td>
+    <td CLASS="gauche">Lancer un adversaire dans une case occupée en tant que [[bousculade]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Parade de projectiles]]*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Science du combat à mains nues]]</td>
+    <td CLASS="gauche">Évite une attaque à distance/round</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Capture de projectiles]]*</td>
+    <td CLASS="gauche">[[Dex]] 15, [[Parade de projectiles]]</td>
+    <td CLASS="gauche">Attrape un projectile/round</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Poing élémentaire]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Constitution|Con]] 13, [[Sag]] 13, [[Science du combat à mains nues]], [[BBA]] +8</td>
+    <td CLASS="gauche">Infliger 1d6 points de dégâts d’énergie avec un coup à mains nues</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Science de la lutte]]*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Science du combat à mains nues]]</td>
+    <td CLASS="gauche">+2 aux tests de [[lutte]], pas d'[[attaque dopportunité|attaque d'opportunité]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Lutte supérieure]]*</td>
+    <td CLASS="gauche">[[Science de la lutte]], [[BBA]] +6</td>
+    <td CLASS="gauche">Maintenir une [[lutte|prise]] est une [[action de mouvement]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Toucher de la sérénité]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Sag]] 18, [[Science du combat à mains nues]], [[BBA]] +8</td>
+    <td CLASS="gauche">Les ennemis touchés par les attaques à mains nues ne peuvent ni attaquer, ni incanter</td>
+  </tr>
+</table>
 
 </center>
 *Les dons marqués de <sup>APG</sup> proviennent du Manuel des Joueurs - Règles Avancées.*   

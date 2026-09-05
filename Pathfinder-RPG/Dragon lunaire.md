@@ -47,7 +47,26 @@ Les dragons lunaires interagissent souvent avec les mortels et passent de longue
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Souffle déconcertant, immunité au froid, argent lunaire</td><td>-</td></tr><tr><td>Très jeune</td><td>Réflexion de la lumière</td><td>-</td></tr><tr><td>Jeune</td><td>Lumières dansantes</td><td>1</td></tr><tr><td>Adolescent</td><td>Présence étrangère, bulle de vie</td><td>3</td></tr><tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr><tr><td>Adulte</td><td>Pleine lune</td><td>7</td></tr><tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr><tr><td>Vieux</td><td>Froid absolu, scrutation</td><td>11</td></tr><tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr><tr><td>Vénérable</td><td>Réflexion des rayons</td><td>15</td></tr><tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr><tr><td>Grand dracosire</td><td>Scrutation suprême, nuit polaire</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier">
+    <td>Dragonnet</td>
+    <td>Souffle déconcertant, immunité au froid, argent lunaire</td>
+    <td>-</td>
+  </tr>
+  <tr><td>Très jeune</td><td>Réflexion de la lumière</td><td>-</td></tr>
+  <tr><td>Jeune</td><td>Lumières dansantes</td><td>1</td></tr>
+  <tr><td>Adolescent</td><td>Présence étrangère, bulle de vie</td><td>3</td></tr>
+  <tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr>
+  <tr><td>Adulte</td><td>Pleine lune</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr>
+  <tr><td>Vieux</td><td>Froid absolu, scrutation</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr>
+  <tr><td>Vénérable</td><td>Réflexion des rayons</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr>
+  <tr><td>Grand dracosire</td><td>Scrutation suprême, nuit polaire</td><td>19</td></tr>
+</table>
 
 </center>
 </div></td></tr></table>

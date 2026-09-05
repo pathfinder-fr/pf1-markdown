@@ -36,4 +36,57 @@ Le personnage ne considère pas la mort comme quelque chose qu’il faut craindr
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Repos</td><td>Sous-domaine des Âmes</td><td>Sous-domaine des Ancêtres</td><td>Sous-domaine des Psychopompes</td></tr><tr CLASS="premier"><td>1er</td><td>*[[perception de la mort]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[préservation des morts]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[communication avec les morts]]*</td><td>*[[animation des morts]]*</td><td>*idem*</td><td>*[[chaîne de perdition]]*</td></tr><tr><td>4e</td><td>*[[protection contre la mort]]*</td><td>*idem*</td><td>*[[repos éternel]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[exécution]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[annihilation de mort-vivant]]*</td><td>*[[coquille antivie]]*</td><td>*[[quête]]*</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* <div> (psychopompes seulement)</td></tr><tr><td>7e</td><td>*[[sort destruction|destruction]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[vagues dépuisement|vagues d'épuisement]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[plainte doutre-tombe|plainte d'outre-tombe]]*</td><td>*[[séquestration]]*</td><td>*idem*</td><td>*[[séquestration]]*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du Repos</td>
+    <td>Sous-domaine des Âmes</td>
+    <td>Sous-domaine des Ancêtres</td>
+    <td>Sous-domaine des Psychopompes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[perception de la mort]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[préservation des morts]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[communication avec les morts]]*</td>
+    <td>*[[animation des morts]]*</td>
+    <td>*idem*</td>
+    <td>*[[chaîne de perdition]]*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[protection contre la mort]]*</td>
+    <td>*idem*</td>
+    <td>*[[repos éternel]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>5e</td><td>*[[exécution]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[annihilation de mort-vivant]]*</td>
+    <td>*[[coquille antivie]]*</td>
+    <td>*[[quête]]*</td>
+    <td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* <div> (psychopompes seulement)</td>
+  </tr>
+  <tr><td>7e</td><td>*[[sort destruction|destruction]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[vagues dépuisement|vagues d'épuisement]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[plainte doutre-tombe|plainte d'outre-tombe]]*</td>
+    <td>*[[séquestration]]*</td>
+    <td>*idem*</td>
+    <td>*[[séquestration]]*</td>
+  </tr>
+</table>

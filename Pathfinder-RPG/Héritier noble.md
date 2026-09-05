@@ -13,7 +13,100 @@ Les aristocraties du monde varient selon les régions. Un vice-roi de l'Empire d
 
 <center>
 
-<table CLASS="tablo"><caption>L'héritier noble</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Héritier noble#PROSPERITE|Prospérité]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Héritier noble#GRANDMENEUR|Grand meneur]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Héritier noble#ERUDITIONARISTOCRATIQUE|Érudition aristocratique]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Héritier noble#INFLUENCEPRESTIGIEUSE|Influence prestigieuse]], [[Héritier noble#EXPERTISEREGIONALE|expertise régionale]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Héritier noble#SERVITEUR|Serviteur]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Héritier noble#NOBLEHORSPAIR|Noble hors pair]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'héritier noble</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Héritier noble#PROSPERITE|Prospérité]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Héritier noble#GRANDMENEUR|Grand meneur]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Héritier noble#ERUDITIONARISTOCRATIQUE|Érudition aristocratique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Héritier noble#INFLUENCEPRESTIGIEUSE|Influence prestigieuse]], [[Héritier noble#EXPERTISEREGIONALE|expertise
+      régionale]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Héritier noble#SERVITEUR|Serviteur]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Héritier noble#NOBLEHORSPAIR|Noble hors pair]]</td>
+  </tr>
+</table>
 
 </center>
 

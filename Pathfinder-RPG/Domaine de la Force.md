@@ -36,4 +36,45 @@ La foi du personnage lui donne force et puissance et, selon lui, c’est dans ce
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Force</td><td>Sous-domaine de la Férocité</td><td>Sous-domaine du Poing</td><td>Sous-domaine de la Résolution</td></tr><tr CLASS="premier"><td>1er</td><td>*[[agrandissement]]*</td><td>*idem*</td><td>*[[coup au but]]*</td><td>*[[bénédiction]]*</td></tr><tr><td>2e</td><td>*[[force de taureau]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[panoplie magique]]*</td><td>*[[rage]]*</td><td>*[[morsure magique suprême]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[immunité contre les sorts]]*</td><td>*idem*</td><td>*[[poing de force]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[force du colosse]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[peau de pierre]]*</td><td>*[[force de taureau de groupe]]*</td><td>*idem*</td><td>*[[festin des héros]]*</td></tr><tr><td>7e</td><td>''[[poigne agrippeuse]]</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[poing serré]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>''[[main broyeuse]]</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Force</td>
+    <td>Sous-domaine de la Férocité</td>
+    <td>Sous-domaine du Poing</td>
+    <td>Sous-domaine de la Résolution</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[agrandissement]]*</td>
+    <td>*idem*</td>
+    <td>*[[coup au but]]*</td>
+    <td>*[[bénédiction]]*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[force de taureau]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[panoplie magique]]*</td>
+    <td>*[[rage]]*</td>
+    <td>*[[morsure magique suprême]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[immunité contre les sorts]]*</td>
+    <td>*idem*</td>
+    <td>*[[poing de force]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>5e</td><td>*[[force du colosse]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[peau de pierre]]*</td>
+    <td>*[[force de taureau de groupe]]*</td>
+    <td>*idem*</td>
+    <td>*[[festin des héros]]*</td>
+  </tr>
+  <tr><td>7e</td><td>''[[poigne agrippeuse]]</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[poing serré]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>''[[main broyeuse]]</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

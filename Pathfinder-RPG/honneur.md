@@ -49,7 +49,58 @@ Le personnage peut renoncer à son code d’honneur à tout moment. Il perd tous
 Ces évènements sont appropriés à la plupart des codes d’honneur, y compris aux codes individuels présentés plus bas.
 
 
-<table CLASS="tablo centre autoalt"><caption>Les évènements d'honneur généraux</caption><tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr><tr CLASS="premier"><td>Terminer une Campagne de FP approprié</td><td>+10</td></tr><tr><td>Terminer une noble tâche pour un PNJ honorable (50 points d’honneur ou plus) et n’en parler à personne</td><td>+2</td></tr><tr><td>Faire 30 ou plus sur un test d’Artisanat pour créer une oeuvre d’art ou un objet de maître<sup>[[Honneur#NOTE1|1]]</sup></td><td>+2</td></tr><tr><td>Faire 30 ou plus sur un test de Diplomatie ou d’Intimidation<sup>[[Honneur#NOTE1|1]]</sup></td><td>+2</td></tr><tr><td>Terminer une aventure de FP approprié<sup>[[Honneur#NOTE2|2]]</sup></td><td>+1</td></tr><tr><td>Créer un puissant objet magique<sup>[[Honneur#NOTE3|3]]</sup></td><td>+1</td></tr><tr><td>Détruire un objet magique maléfique ou dangereux<sup>[[Honneur#NOTE4|4]]</sup></td><td>+1</td></tr><tr><td>Le groupe l’emporte lors d’une rencontre difficile (FP supérieur de 3 ou plus au niveau moyen du groupe)</td><td>+1</td></tr><tr><td>Rompre volontairement l’un des principes de son code d’honneur</td><td>-2</td></tr><tr><td>Le groupe fuit un combat facile (FP inférieur au niveau moyen du groupe)</td><td>-3</td></tr><tr><td>Calomnier quelqu’un ayant une valeurd’honneur supérieure</td><td>-4</td></tr><tr><td>Le groupe perd un combat facile (FP inférieur au niveau moyen du groupe)</td><td>-5</td></tr><tr><td>Commettre un acte de trahison ou trahir un honorable seigneur</td><td>-10</td></tr><tr><td>Être directement responsable de la mort d’un allié honorable ou d’un être aimé sous la protection du personnage</td><td>-20</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE1}*(1) Le personnage peut gagner des points d’honneur de cette manière une fois par mois.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE2}*(2) Aventure du commerce d’environ 32 ou 48 pages.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE3}*(3) Par tranche de 40 000 po du prix de l’objet.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE4}*(4) Par tranche de 40 000 po du prix de l’objet. Les artéfacts sans prix accordent 5 points d’honneur dans ces cas-là.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Les évènements d'honneur généraux</caption>
+  <tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr>
+  <tr CLASS="premier"><td>Terminer une Campagne de FP approprié</td><td>+10</td></tr>
+  <tr>
+    <td>Terminer une noble tâche pour un PNJ honorable (50 points d’honneur ou plus) et n’en parler à personne</td>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <td>
+      Faire 30 ou plus sur un test d’Artisanat pour créer une oeuvre d’art ou un objet de maître<sup>
+      [[Honneur#NOTE1|1]]</sup>
+    </td>
+    <td>+2</td>
+  </tr>
+  <tr>
+    <td>Faire 30 ou plus sur un test de Diplomatie ou d’Intimidation<sup>[[Honneur#NOTE1|1]]</sup></td>
+    <td>+2</td>
+  </tr>
+  <tr><td>Terminer une aventure de FP approprié<sup>[[Honneur#NOTE2|2]]</sup></td><td>+1</td></tr>
+  <tr><td>Créer un puissant objet magique<sup>[[Honneur#NOTE3|3]]</sup></td><td>+1</td></tr>
+  <tr><td>Détruire un objet magique maléfique ou dangereux<sup>[[Honneur#NOTE4|4]]</sup></td><td>+1</td></tr>
+  <tr>
+    <td>Le groupe l’emporte lors d’une rencontre difficile (FP supérieur de 3 ou plus au niveau moyen du groupe)</td>
+    <td>+1</td>
+  </tr>
+  <tr><td>Rompre volontairement l’un des principes de son code d’honneur</td><td>-2</td></tr>
+  <tr><td>Le groupe fuit un combat facile (FP inférieur au niveau moyen du groupe)</td><td>-3</td></tr>
+  <tr><td>Calomnier quelqu’un ayant une valeurd’honneur supérieure</td><td>-4</td></tr>
+  <tr><td>Le groupe perd un combat facile (FP inférieur au niveau moyen du groupe)</td><td>-5</td></tr>
+  <tr><td>Commettre un acte de trahison ou trahir un honorable seigneur</td><td>-10</td></tr>
+  <tr>
+    <td>
+      Être directement responsable de la mort d’un allié honorable ou d’un être aimé sous la protection du
+      personnage
+    </td>
+    <td>-20</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE1}*(1) Le personnage peut gagner des points d’honneur de cette manière une fois par mois.*
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE2}*(2) Aventure du commerce d’environ 32 ou 48 pages.*</td></tr>
+  <tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE3}*(3) Par tranche de 40 000 po du prix de l’objet.*</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE4}*(4) Par tranche de 40 000 po du prix de l’objet. Les artéfacts sans prix accordent 5
+      points d’honneur dans ces cas-là.*
+    </td>
+  </tr>
+</table>
 
 
 #### Le code de chevalerie
@@ -85,21 +136,187 @@ Ces évènements s’appliquent aux codes de chevalerie ou arthuriens.
 Ces évènements s’appliquent aux codes criminels tels qu’ils sont utilisés par les guildes de voleurs ou les clans ninjas.
 
 
-<table CLASS="tablo centre autoalt"><caption>Code criminel</caption><tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr><tr CLASS="premier"><td>Devenir maître de guilde (population urbaine de 25 000 habitants ou plus)<sup>[[Honneur#NOTE5|5]]</sup></td><td>+50</td></tr><tr><td>Devenir maître de guilde (population urbaine de 10 000 habitants ou plus)<sup>[[Honneur#NOTE5|5]]</sup></td><td>+25</td></tr><tr><td>Adopter un code criminel spécifique<sup>[[Honneur#NOTE6|6]]</sup></td><td>+4</td></tr><tr><td>Mettre fin à une vieille querelle (1 an ou plus)avec un criminel plus honorable que soi<sup>[[Honneur#NOTE7|7]]</sup></td><td>+3</td></tr><tr><td>Le groupe humilie un noble honorable<sup>[[Honneur#NOTE8|8]]</sup></td><td>+3</td></tr><tr><td>Corrompre un fonctionnaire public de haut-rang<sup>[[Honneur#NOTE8|8]]</sup></td><td>+2</td></tr><tr><td>Volontairement endosser le blâme pour un criminel de haut-vol</td><td>+2</td></tr><tr><td>Les ménestrels chantent volontiers les exploits du personnage<sup>[[Honneur#NOTE9|9]]</sup></td><td>+1</td></tr><tr><td>Venir à bout d’un problème légal, être acquitté ou éviter la condamnation</td><td>+1</td></tr><tr><td>Le groupe accepte de commettre un crime important et s’y tient</td><td>+1</td></tr><tr><td>Voler un puissant objet magique ou un trésor de valeur<sup>[[Honneur#NOTE10|10]]</sup></td><td>+1</td></tr><tr><td>Être accusé d’un grand crime</td><td>+1</td></tr><tr><td>Payer les ménestrels pour qu’ils chantent ses exploits</td><td>-2</td></tr><tr><td>Accepter de coopérer avec les autorités pour empêcher ou résoudre un crime</td><td>-2</td></tr><tr><td>Le groupe accepte de commettre un crime puis revient sur sa parole</td><td>-3</td></tr><tr><td>Initier une longue querelle (1 an ou plus) avec un criminel moins honorable que soi<sup>[[Honneur#NOTE7|7]]</sup></td><td>-4</td></tr><tr><td>Refuser de punir un associé passé au rang des traîtres</td><td>-4</td></tr><tr><td>Le groupe coopère avec les autorités pour démanteler une entreprise criminelle</td><td>-5</td></tr><tr><td>Enfreindre son propre code criminel</td><td>-6</td></tr><tr><td>Se faire renverser en tant que maître de guilde</td><td>-30</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE5}*(5) Ces évènements ne se cumulent pas pour une même ville. Si la population de la ville augmente après que le personnage est devenu maître de guilde, il gagne la différence de points d’honneur entre les deux évènements.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE6}*(6) Tel que « Ne commettre que des crimes sur la propriété » ou « Je ne pratique pas le vol, uniquement le meurtre. »*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE7}*(7) La valeur d’honneur du personnage et celle de l’autre criminel doivent présenter un écart minimum de 20 points.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE8}*(8) 50 points d’honneur non-criminel ou plus.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE9}*(9) Le personnage peut gagner des points d’honneur de cette manière une fois par mois.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE10}*(10) Par tranche de 40 000 po du prix de l’objet.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Code criminel</caption>
+  <tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr>
+  <tr CLASS="premier">
+    <td>Devenir maître de guilde (population urbaine de 25 000 habitants ou plus)<sup>[[Honneur#NOTE5|5]]</sup></td>
+    <td>+50</td>
+  </tr>
+  <tr>
+    <td>Devenir maître de guilde (population urbaine de 10 000 habitants ou plus)<sup>[[Honneur#NOTE5|5]]</sup></td>
+    <td>+25</td>
+  </tr>
+  <tr><td>Adopter un code criminel spécifique<sup>[[Honneur#NOTE6|6]]</sup></td><td>+4</td></tr>
+  <tr>
+    <td>
+      Mettre fin à une vieille querelle (1 an ou plus)avec un criminel plus honorable que soi<sup>
+      [[Honneur#NOTE7|7]]</sup>
+    </td>
+    <td>+3</td>
+  </tr>
+  <tr><td>Le groupe humilie un noble honorable<sup>[[Honneur#NOTE8|8]]</sup></td><td>+3</td></tr>
+  <tr><td>Corrompre un fonctionnaire public de haut-rang<sup>[[Honneur#NOTE8|8]]</sup></td><td>+2</td></tr>
+  <tr><td>Volontairement endosser le blâme pour un criminel de haut-vol</td><td>+2</td></tr>
+  <tr>
+    <td>Les ménestrels chantent volontiers les exploits du personnage<sup>[[Honneur#NOTE9|9]]</sup></td>
+    <td>+1</td>
+  </tr>
+  <tr><td>Venir à bout d’un problème légal, être acquitté ou éviter la condamnation</td><td>+1</td></tr>
+  <tr><td>Le groupe accepte de commettre un crime important et s’y tient</td><td>+1</td></tr>
+  <tr><td>Voler un puissant objet magique ou un trésor de valeur<sup>[[Honneur#NOTE10|10]]</sup></td><td>+1</td></tr>
+  <tr><td>Être accusé d’un grand crime</td><td>+1</td></tr>
+  <tr><td>Payer les ménestrels pour qu’ils chantent ses exploits</td><td>-2</td></tr>
+  <tr><td>Accepter de coopérer avec les autorités pour empêcher ou résoudre un crime</td><td>-2</td></tr>
+  <tr><td>Le groupe accepte de commettre un crime puis revient sur sa parole</td><td>-3</td></tr>
+  <tr>
+    <td>
+      Initier une longue querelle (1 an ou plus) avec un criminel moins honorable que soi<sup>[[Honneur#NOTE7|7]]
+      </sup>
+    </td>
+    <td>-4</td>
+  </tr>
+  <tr><td>Refuser de punir un associé passé au rang des traîtres</td><td>-4</td></tr>
+  <tr><td>Le groupe coopère avec les autorités pour démanteler une entreprise criminelle</td><td>-5</td></tr>
+  <tr><td>Enfreindre son propre code criminel</td><td>-6</td></tr>
+  <tr><td>Se faire renverser en tant que maître de guilde</td><td>-30</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE5}*(5) Ces évènements ne se cumulent pas pour une même ville. Si la population de la ville
+      augmente après que le personnage est devenu maître de guilde, il gagne la différence de points d’honneur entre
+      les deux évènements.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE6}*(6) Tel que « Ne commettre que des crimes sur la propriété » ou « Je ne pratique pas le
+      vol, uniquement le meurtre. »*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE7}*(7) La valeur d’honneur du personnage et celle de l’autre criminel doivent présenter un
+      écart minimum de 20 points.*
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE8}*(8) 50 points d’honneur non-criminel ou plus.*</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE9}*(9) Le personnage peut gagner des points d’honneur de cette manière une fois par mois.*
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE10}*(10) Par tranche de 40 000 po du prix de l’objet.*</td></tr>
+</table>
 
 
 #### Le code politique
 Ces évènements s’appliquent aux cultures favorisant les intrigues politiques, l’espionnage et la diplomatie.
 
 
-<table CLASS="tablo centre autoalt"><caption>Code politique</caption><tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr><tr CLASS="premier"><td>Devenir chef d’un pays</td><td>+50</td></tr><tr><td>Devenir duc (ou quelqu’un de rang équivalent)</td><td>+20</td></tr><tr><td>S’élever dans les rangs de la noblesse</td><td>+15</td></tr><tr><td>Recevoir un rendez-vous important</td><td>+10</td></tr><tr><td>Réussir à négocier la paix lors d’un conflit national</td><td>+5</td></tr><tr><td>Empêcher une guerre</td><td>+5</td></tr><tr><td>Réussir à négocier la paix lors d’un conflit familial</td><td>+3</td></tr><tr><td>Faire office d’ambassadeur</td><td>+2</td></tr><tr><td>Gagner les faveurs d’un PNJ honorable<sup>[[Honneur#NOTE11|11]]</sup></td><td>+2</td></tr><tr><td>Se débarrasser d’un ennemi sans effusion de sang ou sans mort</td><td>+2</td></tr><tr><td>Initier une guerre populaire</td><td>+2</td></tr><tr><td>Écrire et éditer un traité</td><td>+2</td></tr><tr><td>Aider un allié politique de statut inférieur<sup>[[Honneur#NOTE12|12]]</sup></td><td>+1</td></tr><tr><td>Ridiculiser un rival</td><td>+1</td></tr><tr><td>Se faire des alliés dans la bureaucratie</td><td>+1</td></tr><tr><td>Réussir à négocier la paix lors d’un conflit personnel</td><td>+1</td></tr><tr><td>Se faire des ennemis bien placés dans la bureaucratie</td><td>-1</td></tr><tr><td>Refuser de recourir à la violence quand les négociations ont échoué</td><td>-2</td></tr><tr><td>Échouer en tant qu’ambassadeur face à un pays neutre</td><td>-3</td></tr><tr><td>Refuser d’aider quelqu’un qui vous a fait une faveur</td><td>-3</td></tr><tr><td>Recevoir un rendez-vous embarrassant</td><td>-4</td></tr><tr><td>Recourir à la violence pour résoudre un problème quand la négociation aurait été possible</td><td>-5</td></tr><tr><td>Initier une guerre impopulaire</td><td>-8</td></tr><tr><td>Échouer à maintenir la popularité d’une guerre populaire</td><td>-10</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE11}*(11) Le personnage gagne cette récompense une fois par PNJ. Le PNJ doit avoir au moins 10 points d’honneur de plus que le personnage.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE12}*(12) Le personnage peut gagner cette récompense une fois par mois. Le PNJ doit avoir au moins 10 points d’honneur de moins que le personnage.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Code politique</caption>
+  <tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr>
+  <tr CLASS="premier"><td>Devenir chef d’un pays</td><td>+50</td></tr>
+  <tr><td>Devenir duc (ou quelqu’un de rang équivalent)</td><td>+20</td></tr>
+  <tr><td>S’élever dans les rangs de la noblesse</td><td>+15</td></tr>
+  <tr><td>Recevoir un rendez-vous important</td><td>+10</td></tr>
+  <tr><td>Réussir à négocier la paix lors d’un conflit national</td><td>+5</td></tr>
+  <tr><td>Empêcher une guerre</td><td>+5</td></tr>
+  <tr><td>Réussir à négocier la paix lors d’un conflit familial</td><td>+3</td></tr>
+  <tr><td>Faire office d’ambassadeur</td><td>+2</td></tr>
+  <tr><td>Gagner les faveurs d’un PNJ honorable<sup>[[Honneur#NOTE11|11]]</sup></td><td>+2</td></tr>
+  <tr><td>Se débarrasser d’un ennemi sans effusion de sang ou sans mort</td><td>+2</td></tr>
+  <tr><td>Initier une guerre populaire</td><td>+2</td></tr>
+  <tr><td>Écrire et éditer un traité</td><td>+2</td></tr>
+  <tr><td>Aider un allié politique de statut inférieur<sup>[[Honneur#NOTE12|12]]</sup></td><td>+1</td></tr>
+  <tr><td>Ridiculiser un rival</td><td>+1</td></tr>
+  <tr><td>Se faire des alliés dans la bureaucratie</td><td>+1</td></tr>
+  <tr><td>Réussir à négocier la paix lors d’un conflit personnel</td><td>+1</td></tr>
+  <tr><td>Se faire des ennemis bien placés dans la bureaucratie</td><td>-1</td></tr>
+  <tr><td>Refuser de recourir à la violence quand les négociations ont échoué</td><td>-2</td></tr>
+  <tr><td>Échouer en tant qu’ambassadeur face à un pays neutre</td><td>-3</td></tr>
+  <tr><td>Refuser d’aider quelqu’un qui vous a fait une faveur</td><td>-3</td></tr>
+  <tr><td>Recevoir un rendez-vous embarrassant</td><td>-4</td></tr>
+  <tr>
+    <td>Recourir à la violence pour résoudre un problème quand la négociation aurait été possible</td>
+    <td>-5</td>
+  </tr>
+  <tr><td>Initier une guerre impopulaire</td><td>-8</td></tr>
+  <tr><td>Échouer à maintenir la popularité d’une guerre populaire</td><td>-10</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE11}*(11) Le personnage gagne cette récompense une fois par PNJ. Le PNJ doit avoir au moins 10
+      points d’honneur de plus que le personnage.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE12}*(12) Le personnage peut gagner cette récompense une fois par mois. Le PNJ doit avoir au
+      moins 10 points d’honneur de moins que le personnage.*
+    </td>
+  </tr>
+</table>
 
 
 #### Le code du samouraï
 Ces évènements s’appliquent aux codes des samouraïs.
 
 
-<table CLASS="tablo centre autoalt"><caption>Code du samouraï</caption><tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr><tr CLASS="premier"><td>Devenir daimyo ou maître d’un temple</td><td>+80</td></tr><tr><td>Vaincre un honorable daimyo ou maître de temple en combat</td><td>+20</td></tr><tr><td>Faire seppuku</td><td>+10</td></tr><tr><td>Adopter un code d’honneur strict</td><td>+8</td></tr><tr><td>Aider un allié déshonoré à faire seppuku</td><td>+4</td></tr><tr><td>Défier et vaincre en combat singulier quelqu’un qui vous a déshonoré publiquement</td><td>+3</td></tr><tr><td>Le groupe l’emporte sur un oni difficile (FP supérieur au niveau moyen du groupe)</td><td>+3</td></tr><tr><td>Détruire un sanctuaire dédié à une puissance opposée</td><td>+2</td></tr><tr><td>Protéger un sanctuaire contre des maraudeurs</td><td>+2</td></tr><tr><td>Faire 30 ou plus sur un test d’[[Artisanat]] pour créer une oeuvre d’art ou un objet de maître<sup>[[Honneur#NOTE13|13]]</sup></td><td>+2</td></tr><tr><td>Faire 30 ou plus sur un test de [[Représentation]][[Honneur#NOTE13|13]]</sup></td><td>+2</td></tr><tr><td>Effectuer une action contre son alignement à cause d’un serment qu’on a prêté<sup>[[Honneur#NOTE14|14]]</sup></td><td>+1</td></tr><tr><td>Attirer un kami dans une joute d’esprit</td><td>+1</td></tr><tr><td>Se vanter à l’excès de ses réussites<sup>[[Honneur#NOTE15|15]]</sup></td><td>-1</td></tr><tr><td>Être accusé d’un crime mineur</td><td>-2</td></tr><tr><td>Être ivre en public</td><td>-2</td></tr><tr><td>Tuer un adversaire honorable qui s’est rendu</td><td>-5</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE13}*(13) Le personnage peut gagner des points d’honneur de cette manière une fois par mois. Si cet évènement compte parmi les accomplissements d’un autre PJ ou PNJ, le personnage et le sujet gagnent 2 points d’honneur chacun. Si l’évènement tourne le sujet en ridicule et que le sujet a moins de points d’honneur que le personnage, ce dernier gagne 2 points d’honneur et le sujet en perd 2. Si l’évènement tourne en ridicule une cible ayant plus de points d’honneur que le personnage, ce dernier risque le malus de -4 si l’évènement peut lui être associé. Chaque sujet supplémentaire que l’évènement louerait ou tournerait en ridicule inflige un malus de -5 au test de compétence.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE14}*(14) Le serment doit être fait à quelqu’un ayant plus de points d’honneur que le personnage.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE15}*(15) À moins que ceci ne fasse partie d’un pouvoir de classe nécessitant que le personnage se vante de ses mérites.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Code du samouraï</caption>
+  <tr CLASS="titre"><td>Évènements</td><td>Points d'honneur</td></tr>
+  <tr CLASS="premier"><td>Devenir daimyo ou maître d’un temple</td><td>+80</td></tr>
+  <tr><td>Vaincre un honorable daimyo ou maître de temple en combat</td><td>+20</td></tr>
+  <tr><td>Faire seppuku</td><td>+10</td></tr>
+  <tr><td>Adopter un code d’honneur strict</td><td>+8</td></tr>
+  <tr><td>Aider un allié déshonoré à faire seppuku</td><td>+4</td></tr>
+  <tr><td>Défier et vaincre en combat singulier quelqu’un qui vous a déshonoré publiquement</td><td>+3</td></tr>
+  <tr><td>Le groupe l’emporte sur un oni difficile (FP supérieur au niveau moyen du groupe)</td><td>+3</td></tr>
+  <tr><td>Détruire un sanctuaire dédié à une puissance opposée</td><td>+2</td></tr>
+  <tr><td>Protéger un sanctuaire contre des maraudeurs</td><td>+2</td></tr>
+  <tr>
+    <td>
+      Faire 30 ou plus sur un test d’[[Artisanat]] pour créer une oeuvre d’art ou un objet de maître<sup>
+      [[Honneur#NOTE13|13]]</sup>
+    </td>
+    <td>+2</td>
+  </tr>
+  <tr><td>Faire 30 ou plus sur un test de [[Représentation]][[Honneur#NOTE13|13]]</sup></td><td>+2</td></tr>
+  <tr>
+    <td>
+      Effectuer une action contre son alignement à cause d’un serment qu’on a prêté<sup>[[Honneur#NOTE14|14]]</sup>
+    </td>
+    <td>+1</td>
+  </tr>
+  <tr><td>Attirer un kami dans une joute d’esprit</td><td>+1</td></tr>
+  <tr><td>Se vanter à l’excès de ses réussites<sup>[[Honneur#NOTE15|15]]</sup></td><td>-1</td></tr>
+  <tr><td>Être accusé d’un crime mineur</td><td>-2</td></tr>
+  <tr><td>Être ivre en public</td><td>-2</td></tr>
+  <tr><td>Tuer un adversaire honorable qui s’est rendu</td><td>-5</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE13}*(13) Le personnage peut gagner des points d’honneur de cette manière une fois par mois.
+      Si cet évènement compte parmi les accomplissements d’un autre PJ ou PNJ, le personnage et le sujet gagnent 2
+      points d’honneur chacun. Si l’évènement tourne le sujet en ridicule et que le sujet a moins de points
+      d’honneur que le personnage, ce dernier gagne 2 points d’honneur et le sujet en perd 2. Si l’évènement tourne
+      en ridicule une cible ayant plus de points d’honneur que le personnage, ce dernier risque le malus de -4 si
+      l’évènement peut lui être associé. Chaque sujet supplémentaire que l’évènement louerait ou tournerait en
+      ridicule inflige un malus de -5 au test de compétence.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE14}*(14) Le serment doit être fait à quelqu’un ayant plus de points d’honneur que le
+      personnage.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE15}*(15) À moins que ceci ne fasse partie d’un pouvoir de classe nécessitant que le
+      personnage se vante de ses mérites.*
+    </td>
+  </tr>
+</table>
 
 
 #### Le code tribal

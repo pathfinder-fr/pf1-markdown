@@ -12,7 +12,17 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Valeurs de caractéristiques essentielles des classes</caption><tr CLASS="titre"><td>Classe</td><td>Valeur de </br>caractéristique essentielle</td></tr><tr CLASS="premier"><td>Agent</td><td>Dextérité</td></tr><tr CLASS="alt"><td>Émissaire</td><td>Charisme</td></tr><tr><td>Mécano</td><td>Intelligence</td></tr><tr CLASS="alt"><td>Mystique</td><td>Sagesse</td></tr><tr><td>Solarien</td><td>Charisme</td></tr><tr CLASS="alt"><td>Soldat</td><td>Force ou Dextérité</td></tr><tr><td>Technomancien</td><td>Intelligence</td></tr></table>
+<table CLASS="tablo">
+  <caption>Valeurs de caractéristiques essentielles des classes</caption>
+  <tr CLASS="titre"><td>Classe</td><td>Valeur de </br>caractéristique essentielle</td></tr>
+  <tr CLASS="premier"><td>Agent</td><td>Dextérité</td></tr>
+  <tr CLASS="alt"><td>Émissaire</td><td>Charisme</td></tr>
+  <tr><td>Mécano</td><td>Intelligence</td></tr>
+  <tr CLASS="alt"><td>Mystique</td><td>Sagesse</td></tr>
+  <tr><td>Solarien</td><td>Charisme</td></tr>
+  <tr CLASS="alt"><td>Soldat</td><td>Force ou Dextérité</td></tr>
+  <tr><td>Technomancien</td><td>Intelligence</td></tr>
+</table>
 
 </center></div></div>
 Certaines caractéristiques seront plus ou moins importantes en fonction du type de personnage que vous souhaitez jouer et chaque classe possède une valeur de caractéristique essentielle pour les aptitudes de cette classe, veillez donc à choisir les caractéristiques adaptées à votre classe. La table ci-contre donne la liste des valeurs de caractéristique essentielle pour chaque classe ; la première page de chaque section de classe indique également la valeur de caractéristique qui lui est essentielle, ainsi que les autres caractéristiques qui s’avèrent également utiles, voire toutes aussi essentielles.
@@ -29,7 +39,66 @@ Avec cette méthode, vous disposez d’une réserve de points qui vous permet «
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Points de caractéristiques des races et des thèmes</caption><tr CLASS="titre"><td>Source</td><td>FOR</td><td>DEX</td><td>CON</td><td>INT</td><td>SAG</td><td>CHA</td><td>UNE AU </br>CHOIX</td></tr><tr CLASS="premier"><td>**RACE**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td></tr><tr CLASS="alt"><td>Androïde</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-</td><td>-2</td><td>-</td></tr><tr><td>Humain</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+2</td></tr><tr CLASS="alt"><td>Kasatha</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>-</td><td>-</td></tr><tr><td>Lashunta (Damaya)</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>-</td><td>+2</td><td>-</td></tr><tr CLASS="alt"><td>Lashunta (Korasha)</td><td>+2</td><td>-</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>-</td></tr><tr><td>Shirren</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-2</td><td>-</td></tr><tr CLASS="alt"><td>Vesk</td><td>+2</td><td>-</td><td>+2</td><td>-2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Ysoki</td><td>-2</td><td>+2</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>**THÈME**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td><td>**-**</td></tr><tr><td>Chasseur de primes</td><td>-</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Érudit</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Explorateur stellaire</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Hors-la-loi</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Icône</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td></tr><tr CLASS="alt"><td>Mercenaire</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Pilote de chasse</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>Prêtre</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td><td>-</td></tr><tr><td>Sans thème</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td></tr><tr CLASS="alt"><td>Xéno-chercheur</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td></tr></table>
+<table CLASS="tablo">
+  <caption>Points de caractéristiques des races et des thèmes</caption>
+  <tr CLASS="titre">
+    <td>Source</td>
+    <td>FOR</td>
+    <td>DEX</td>
+    <td>CON</td>
+    <td>INT</td>
+    <td>SAG</td>
+    <td>CHA</td>
+    <td>UNE AU </br>CHOIX</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**RACE**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+  </tr>
+  <tr CLASS="alt"><td>Androïde</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-</td><td>-2</td><td>-</td></tr>
+  <tr><td>Humain</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+2</td></tr>
+  <tr CLASS="alt"><td>Kasatha</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>-</td><td>-</td></tr>
+  <tr><td>Lashunta (Damaya)</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>-</td><td>+2</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>Lashunta (Korasha)</td>
+    <td>+2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-2</td>
+    <td>+2</td>
+    <td>-</td>
+  </tr>
+  <tr><td>Shirren</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-2</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Vesk</td><td>+2</td><td>-</td><td>+2</td><td>-2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>Ysoki</td><td>-2</td><td>+2</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>**THÈME**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+    <td>**-**</td>
+  </tr>
+  <tr><td>Chasseur de primes</td><td>-</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Érudit</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>Explorateur stellaire</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Hors-la-loi</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>Icône</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Mercenaire</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>Pilote de chasse</td><td>-</td><td>+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Prêtre</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td><td>-</td></tr>
+  <tr><td>Sans thème</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td></tr>
+  <tr CLASS="alt"><td>Xéno-chercheur</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+1</td><td>-</td></tr>
+</table>
 
 </center></div></div>
 - **Étape 2 : ajoutez et soustrayez les points de la race.** Les races de Starfinder sont souvent et naturellement avantagées dans certaines caractéristiques et désavantagées dans d’autres. La première page de chaque section consacrée à une race donne la liste de ces avantages et désavantages en termes de points que vous ajoutez ou soustrayez à certaines valeurs de caractéristique initiales. Par exemple, un shirren commence le jeu avec +2 points en Constitution et +2 points en Sagesse, mais avec -2 points en Charisme (ce qui signifie que vous ajoutez 2 points à vos valeurs de Constitution et de Sagesse initiales, mais que vous enlevez 2 points à votre valeur de Charisme initiale). Certaines races, comme les humains, sont si polyvalentes que leurs membres disposent de points qu’ils peuvent allouer à une unique caractéristique. Une fois que vous connaissez vos modificateurs raciaux, ajoutez ou soustrayez ces points à vos valeurs initiales de 10. 
@@ -65,7 +134,12 @@ Les modificateurs de caractéristique sont des données que vous utiliserez la p
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Détermination rapide des caractéristiques</caption><tr CLASS="premier"><td>**SPÉCIALISÉE**</td><td>18, 14, 11, 10, 10, 10</td></tr><tr CLASS="alt"><td>**PARTAGÉE**</td><td>16, 16, 11, 10, 10, 10</td></tr><tr><td>**POLYVALENTE**</td><td>14, 14, 14, 11, 10, 10</td></tr></table>
+<table CLASS="tablo">
+  <caption>Détermination rapide des caractéristiques</caption>
+  <tr CLASS="premier"><td>**SPÉCIALISÉE**</td><td>18, 14, 11, 10, 10, 10</td></tr>
+  <tr CLASS="alt"><td>**PARTAGÉE**</td><td>16, 16, 11, 10, 10, 10</td></tr>
+  <tr><td>**POLYVALENTE**</td><td>14, 14, 14, 11, 10, 10</td></tr>
+</table>
 
 </center></div></div>
 Il est parfois nécessaire de créer un personnage rapidement sans passer du temps à personnaliser avec précision vos valeurs de caractéristique. Si c’est votre cas, vous pouvez choisir l’une des séries du tableau ci-dessous et allouer chaque nombre à une valeur de caractéristique de votre choix – par exemple, en choisissant la série composée des valeurs 18, 14, 11, 10, 10, 10, vous allouez le 18 à une valeur de caractéristique (probablement votre valeur de caractéristique essentielle), le 14 à une valeur différente, et ainsi de suite, jusqu’à ce qu’elles soient toutes allouées. Avec cette méthode, les choix de race et de thème n’affectent pas vos valeurs de caractéristique – vous allouez simplement chaque valeur à une caractéristique et c’est tout. La série spécialisée permet de créer un spécialiste, la série partagée un personnage aux talents multiples, et la série polyvalente un touche-à-tout.
@@ -145,7 +219,24 @@ Le Charisme représente la personnalité, le magnétisme personnel, l’autorit�
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Valeurs et modificateurs de caractéristiques</caption><tr CLASS="titre"><td>Valeur </br>de caractéristique</td><td>Modificateur </br>de caractéristique</td></tr><tr CLASS="premier"><td>1</td><td>-5</td></tr><tr CLASS="alt"><td>2, 3</td><td>-4</td></tr><tr><td>4, 5</td><td>-3</td></tr><tr CLASS="alt"><td>6, 7</td><td>-2</td></tr><tr><td>8, 9</td><td>-1</td></tr><tr CLASS="alt"><td>10, 11</td><td>+0</td></tr><tr><td>12, 13</td><td>+1</td></tr><tr CLASS="alt"><td>14, 15</td><td>+2</td></tr><tr><td>16, 17</td><td>+3</td></tr><tr CLASS="alt"><td>18, 19</td><td>+4</td></tr><tr><td>20, 21</td><td>+5</td></tr><tr CLASS="alt"><td>22, 23</td><td>+6</td></tr><tr><td>24, 25</td><td>+7</td></tr><tr CLASS="alt"><td>26</td><td>+8</td></tr></table>
+<table CLASS="tablo">
+  <caption>Valeurs et modificateurs de caractéristiques</caption>
+  <tr CLASS="titre"><td>Valeur </br>de caractéristique</td><td>Modificateur </br>de caractéristique</td></tr>
+  <tr CLASS="premier"><td>1</td><td>-5</td></tr>
+  <tr CLASS="alt"><td>2, 3</td><td>-4</td></tr>
+  <tr><td>4, 5</td><td>-3</td></tr>
+  <tr CLASS="alt"><td>6, 7</td><td>-2</td></tr>
+  <tr><td>8, 9</td><td>-1</td></tr>
+  <tr CLASS="alt"><td>10, 11</td><td>+0</td></tr>
+  <tr><td>12, 13</td><td>+1</td></tr>
+  <tr CLASS="alt"><td>14, 15</td><td>+2</td></tr>
+  <tr><td>16, 17</td><td>+3</td></tr>
+  <tr CLASS="alt"><td>18, 19</td><td>+4</td></tr>
+  <tr><td>20, 21</td><td>+5</td></tr>
+  <tr CLASS="alt"><td>22, 23</td><td>+6</td></tr>
+  <tr><td>24, 25</td><td>+7</td></tr>
+  <tr CLASS="alt"><td>26</td><td>+8</td></tr>
+</table>
 
 </center></div></div>
 ### Modificateurs de caractéristique et tests de caractéristique

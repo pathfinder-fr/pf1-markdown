@@ -34,7 +34,16 @@ Une fois que vous avez défini le niveau de puissance de la race, suivez chacune
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td ROWSPAN="2">PR moyen</td><td COLSPAN="4" CLASS="avecsoustitre">Niveau moyen du groupe</td></tr><tr CLASS="soustitre"><td>1-5</td><td>6-10</td><td>11-15</td><td>16-20</td></tr><tr CLASS="premier"><td>20</td><td>+1</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>30</td><td>+2</td><td>+1</td><td>—</td><td>—</td></tr><tr><td>40</td><td>+3</td><td>+2</td><td>+1</td><td>—</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <tr CLASS="titre">
+    <td ROWSPAN="2">PR moyen</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Niveau moyen du groupe</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1-5</td><td>6-10</td><td>11-15</td><td>16-20</td></tr>
+  <tr CLASS="premier"><td>20</td><td>+1</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>30</td><td>+2</td><td>+1</td><td>—</td><td>—</td></tr>
+  <tr><td>40</td><td>+3</td><td>+2</td><td>+1</td><td>—</td></tr>
+</table>
 
 </div></div>Du fait de leurs capacités et de leurs traits raciaux puissants, les races évoluées et monstrueuses nécessitent de plus grands défis, notamment à bas niveaux. La ligne de conduite à suivre est de traiter le groupe de personnages aux races évoluées et monstrueuses comme étant supérieur d’un niveau ou plus, en fonction du nombre total de leurs PR dépensés, comme indiqué dans le tableau ci-dessous. Calculez le niveau moyen du groupe adapté à ce groupe et utilisez ce nombre, plutôt que le niveau moyen du groupe, lorsque vous créez des rencontres et des aventures adaptées. Pour les groupes aux niveaux de puissance mixtes, faites la moyenne des PR et arrondissez le résultat au plus proche multiple de 10.
 

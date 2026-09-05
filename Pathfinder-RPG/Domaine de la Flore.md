@@ -31,4 +31,20 @@ Le personnage se sent bien au sein des végétaux. Il peut développer des épin
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Flore</td><td>Sous-domaine de la Croissance</td><td>Sous-domaine de la Pourriture</td></tr><tr CLASS="premier"><td>1er</td><td>*[[enchevêtrement]]*</td><td>*[[agrandissement]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[peau décorce|peau d’écorce]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[croissance végétale]]*</td><td>*idem*</td><td>*[[contagion]]*</td></tr><tr><td>4e</td><td>*[[empire végétal]]*</td><td>*idem*</td><td>*[[empoisonnement]]*</td></tr><tr><td>5e</td><td>*[[mur dépines|mur d’épines]]*</td><td>*[[force du colosse]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[éloignement du bois]]*</td><td>*idem*</td><td>*[[mise à mal]]*</td></tr><tr><td>7e</td><td>''[[animation des plantes]]</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[contrôle des plantes]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>''[[grand tertre]]</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Flore</td>
+    <td>Sous-domaine de la Croissance</td>
+    <td>Sous-domaine de la Pourriture</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[enchevêtrement]]*</td><td>*[[agrandissement]]*</td><td>*idem*</td></tr>
+  <tr><td>2e</td><td>*[[peau décorce|peau d’écorce]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>3e</td><td>*[[croissance végétale]]*</td><td>*idem*</td><td>*[[contagion]]*</td></tr>
+  <tr><td>4e</td><td>*[[empire végétal]]*</td><td>*idem*</td><td>*[[empoisonnement]]*</td></tr>
+  <tr><td>5e</td><td>*[[mur dépines|mur d’épines]]*</td><td>*[[force du colosse]]*</td><td>*idem*</td></tr>
+  <tr><td>6e</td><td>*[[éloignement du bois]]*</td><td>*idem*</td><td>*[[mise à mal]]*</td></tr>
+  <tr><td>7e</td><td>''[[animation des plantes]]</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[contrôle des plantes]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>''[[grand tertre]]</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

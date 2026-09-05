@@ -15,7 +15,115 @@ La description de <u>[[Familier supérieur]]</u> a été écrite quand seuls les
 Les familiers supérieurs obéissent aux règles des [[familier|familiers]] ordinaires à deux exceptions près : si le type de la créature n’est pas « [[type animal|animal]] » il ne change pas et les familiers supérieurs ne gagnent pas la capacité à parler avec d’autres créatures de leur espèce (bien que beaucoup possèdent une capacité innée à communiquer).
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Familier</td><td>Alignement</td><td>NLS Profane</td></tr><tr CLASS="premier"><td>[[Paraclétus|Aéon, Paraclétus]]<sup>*AM, B2*</sup></td><td>Neutre</td><td>7</td></tr><tr><td>[[Silvanshie|Agathion, Silvanshie]]<sup>*AM, B2*</sup></td><td>Neutre Bon</td><td>7</td></tr><tr><td>[[Aigle]] [[archétypes simples#CREATURECELESTE|céleste]]<sup>*AM*</sup></td><td>Neutre Bon<sup>1</sup></td><td>3</td></tr><tr><td>[[Cassisien|Ange, Cassisien]]<sup>*AM, B2*</sup></td><td>Neutre Bon</td><td>7</td></tr><tr><td>[[Archon Annonciateur|Archon, Annonciateur]]<sup>*B3*</sup></td><td>Loyal bon</td><td>7</td></tr><tr><td>[[Tripurasura|Asura, Tripurasura]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr><tr><td>[[Lyrakien|Azata, Lyrakien]]<sup>*AM, B2*</sup></td><td>Chaotique Bon</td><td>7</td></tr><tr><td>[[Chouette]] [[archétypes simples#CREATUREINFLEXIBLE|inflexible]]<sup>*AM*</sup></td><td>Loyal Neutre<sup>1</sup></td><td>3</td></tr><tr><td>[[Familier mécanique|Créature artificielle, Familier mécanique]]<sup>*B5*</sup></td><td>N'importe</td><td>7</td></tr><tr><td>[[Homoncule|Créature artificielle, Homoncule]]<sup>*AM*</sup></td><td>N’importe<sup>2</sup></td><td>7</td></tr><tr><td>[[Poupée des âmes|Créature artificielle, Poupée des âmes]]<sup>*B2*</sup></td><td>N’importe<sup>2</sup></td><td>7</td></tr><tr><td>[[Almiraj|Créature magique, Almiraj]]<sup>*B4*</sup></td><td>N’importe</td><td>5</td></tr><tr><td>[[Chuspiki|Créature magique, Chuspiki]]<sup>*B5*</sup></td><td>Chaotique</td><td>7</td></tr><tr><td>[[Escarboucle|Créature magique, Escarboucle]]<sup>*B3 V.O.*</sup></td><td>N’importe</td><td>5</td></tr><tr><td>[[Renard serpentin|Créature magique, Kudagitsune]]<sup>*B4*</sup></td><td>Neutre</td><td>7</td></tr><tr><td>[[Ratelin|Créature magique, Ratelin]]<sup>*B4*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr><tr><td>[[Strige|Créature magique, Strige]]<sup>*AM*</sup></td><td>Neutre</td><td>5</td></tr><tr><td>[[Taupe cérébrale|Créature magique, Taupe cérébrale]]<sup>*B5*</sup></td><td>Jusqu'à un cran de Neutre</td><td>5</td></tr><tr><td>[[Xiao|Créature magique, Xiao]]<sup>*B5*</sup></td><td>N'importe</td><td>7</td></tr><tr><td>[[Zoog|Créature magique, Zoog]]<sup>*B3*</sup></td><td>Chaotique Neutre</td><td>5</td></tr><tr><td>[[Cacodaémon|Daémon, Cacodaémon]]</td><td>Neutre Mauvais</td><td>7</td></tr><tr><td>[[Quasit|Démon, Quasit]]<sup>*AM*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr><tr><td>[[Diablotin|Diable, Diablotin]]<sup>*AM*</sup></td><td>Loyal Mauvais</td><td>7</td></tr><tr><td>[[Div Doru|Div, Doru]]<sup>*B3*</sup></td><td>Neutre Mauvais</td><td>7</td></tr><tr><td>[[Dragon féerique|Dragon, Dragon Féerique]]</td><td>Chaotique Bon</td><td>7</td></tr><tr><td>[[Drake dombre|Dragon (drake), Drake d'ombre]]<sup>*B4*</sup></td><td>Mauvais</td><td>7</td></tr><tr><td>[[Nycar|Dragon (linnorm), Nycar]]<sup>*B4*</sup></td><td>Chaotique Neutre</td><td>7</td></tr><tr><td>[[Pseudo-dragon|Dragon, Pseudo-dragon]]<sup>*AM, B2*</sup></td><td>Neutre Bon</td><td>7</td></tr><tr><td>[[Élémentaire|Élémentaire, Élémentaire de taille P]] (n’importe quel type)<sup>*AM*</sup></td><td>Neutre</td><td>5</td></tr><tr><td>[[Méphite|Élémentaire, Méphite]] (n’importe quel type)<sup>*AM*</sup></td><td>Neutre</td><td>7</td></tr><tr><td>[[Vollute|Élémentaire, Vollute]] (n’importe quel type)<sup>*B5*</sup></td><td>Voir texte</td><td>7</td></tr><tr><td>[[Esprit follet|Fée, Esprit follet]]<sup>*B3*</sup></td><td>Chaotique Neutre</td><td>5</td></tr><tr><td>[[Esprit follet liminal|Fée, Esprit follet liminal]]<sup>*B5*</sup></td><td>Chaotique</td><td>7</td></tr><tr><td>[[Lutin|Fée, Lutin]]<sup>*AM, B2*</sup></td><td>Neutre strict</td><td>5</td></tr><tr><td>[[Pooka|Fée, Pooka]]<sup>*B4*</sup></td><td>Chaotique Neutre</td><td>7</td></tr><tr><td>[[Haniver|Gremlin, Haniver]]<sup>*B4*</sup></td><td>Neutre</td><td>5</td></tr><tr><td>[[Nuglub|Gremlin, Nuglub]]<sup>*AM*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr><tr><td>[[Tristefripe|Gremlin, Tristefripe]]<sup>*B4*</sup></td><td>Chaotique Neutre</td><td>3</td></tr><tr><td>[[Arbitre|Inévitable, Arbitre]]<sup>*AM, B2*</sup></td><td>Loyal Neutre</td><td>7</td></tr><tr><td>[[Shikigami|Kami, Shikigami]]<sup>*B3*</sup></td><td>Loyal Neutre</td><td>7</td></tr><tr><td>[[Kyton augure|Kyton, Augure]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr><tr><td>[[Décapité|Mort-vivant, Décapité]]<sup>*B4*</sup></td><td>Neutre Mauvais<sup>2</sup></td><td>3</td></tr><tr><td>[[Isitoq|Mort-vivant, Isitoq]]<sup>*B4*</sup></td><td>Neutre Mauvais<sup>2</sup></td><td>5</td></tr><tr><td>[[Main rampante|Mort-vivant, Main rampante]]<sup>*B2*</sup></td><td>Neutre Mauvais<sup>3</sup></td><td>3</td></tr><tr><td>[[Esprit Oni|Oni, Esprit]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr><tr><td>[[Ver du néant|Protéen, Ver du néant]]<sup>*AM, B2*</sup></td><td>Chaotique Neutre</td><td>7</td></tr><tr><td>[[Nosoï|Psychopompe, Nosoï]]<sup>*B4*</sup></td><td>Neutre strict</td><td>7</td></tr><tr><td>[[Cythnigot|Qlippoth, Cythnigot]]<sup>*AM, B2*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr><tr><td>[[Raktavarna|Rakshasa, Raktavarna]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr><tr><td>[[Rat sanguinaire]]<sup>*AM*</sup></td><td>Neutre</td><td>3</td></tr><tr><td>[[Esipil|Shakil, Esipil]]<sup>*B5*</sup></td><td>Neutre Mauvais</td><td>7</td></tr><tr><td>[[Singe]] [[archétypes simples#CREATUREENTROPIQUE|entropique]]<sup>*AM*</sup></td><td>Chaotique Neutre<sup>1</sup></td><td>3</td></tr><tr><td>[[Vipère]] [[archétypes simples#CREATUREFIELON|fiélone]]<sup>*AM*</sup></td><td>Neutre Mauvais<sup>1</sup></td><td>3</td></tr><tr CLASS="note"><td COLSPAN="3">*(1) Ou un autre animal [[archétypes simples#CREATURECELESTE|céleste]], [[archétypes simples#CREATUREENTROPIQUE|entropique]], [[archétypes simples#CREATUREFIELON|fiélon]] ou [[archétypes simples#CREATUREINFLEXIBLE|inflexible]] de la liste des familiers ordinaires.*</td></tr><tr CLASS="note"><td COLSPAN="3">*(2) Le maître doit tout d’abord le fabriquer.*</td></tr><tr CLASS="note"><td COLSPAN="3">*(3) Le maître doit être un nécromancien et avoir déjà un mille-pattes domestique pour familier.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Familier</td><td>Alignement</td><td>NLS Profane</td></tr>
+  <tr CLASS="premier"><td>[[Paraclétus|Aéon, Paraclétus]]<sup>*AM, B2*</sup></td><td>Neutre</td><td>7</td></tr>
+  <tr><td>[[Silvanshie|Agathion, Silvanshie]]<sup>*AM, B2*</sup></td><td>Neutre Bon</td><td>7</td></tr>
+  <tr>
+    <td>[[Aigle]] [[archétypes simples#CREATURECELESTE|céleste]]<sup>*AM*</sup></td>
+    <td>Neutre Bon<sup>1</sup></td>
+    <td>3</td>
+  </tr>
+  <tr><td>[[Cassisien|Ange, Cassisien]]<sup>*AM, B2*</sup></td><td>Neutre Bon</td><td>7</td></tr>
+  <tr><td>[[Archon Annonciateur|Archon, Annonciateur]]<sup>*B3*</sup></td><td>Loyal bon</td><td>7</td></tr>
+  <tr><td>[[Tripurasura|Asura, Tripurasura]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr>
+  <tr><td>[[Lyrakien|Azata, Lyrakien]]<sup>*AM, B2*</sup></td><td>Chaotique Bon</td><td>7</td></tr>
+  <tr>
+    <td>[[Chouette]] [[archétypes simples#CREATUREINFLEXIBLE|inflexible]]<sup>*AM*</sup></td>
+    <td>Loyal Neutre<sup>1</sup></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>[[Familier mécanique|Créature artificielle, Familier mécanique]]<sup>*B5*</sup></td>
+    <td>N'importe</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>[[Homoncule|Créature artificielle, Homoncule]]<sup>*AM*</sup></td>
+    <td>N’importe<sup>2</sup></td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>[[Poupée des âmes|Créature artificielle, Poupée des âmes]]<sup>*B2*</sup></td>
+    <td>N’importe<sup>2</sup></td>
+    <td>7</td>
+  </tr>
+  <tr><td>[[Almiraj|Créature magique, Almiraj]]<sup>*B4*</sup></td><td>N’importe</td><td>5</td></tr>
+  <tr><td>[[Chuspiki|Créature magique, Chuspiki]]<sup>*B5*</sup></td><td>Chaotique</td><td>7</td></tr>
+  <tr><td>[[Escarboucle|Créature magique, Escarboucle]]<sup>*B3 V.O.*</sup></td><td>N’importe</td><td>5</td></tr>
+  <tr><td>[[Renard serpentin|Créature magique, Kudagitsune]]<sup>*B4*</sup></td><td>Neutre</td><td>7</td></tr>
+  <tr><td>[[Ratelin|Créature magique, Ratelin]]<sup>*B4*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr>
+  <tr><td>[[Strige|Créature magique, Strige]]<sup>*AM*</sup></td><td>Neutre</td><td>5</td></tr>
+  <tr>
+    <td>[[Taupe cérébrale|Créature magique, Taupe cérébrale]]<sup>*B5*</sup></td>
+    <td>Jusqu'à un cran de Neutre</td>
+    <td>5</td>
+  </tr>
+  <tr><td>[[Xiao|Créature magique, Xiao]]<sup>*B5*</sup></td><td>N'importe</td><td>7</td></tr>
+  <tr><td>[[Zoog|Créature magique, Zoog]]<sup>*B3*</sup></td><td>Chaotique Neutre</td><td>5</td></tr>
+  <tr><td>[[Cacodaémon|Daémon, Cacodaémon]]</td><td>Neutre Mauvais</td><td>7</td></tr>
+  <tr><td>[[Quasit|Démon, Quasit]]<sup>*AM*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr>
+  <tr><td>[[Diablotin|Diable, Diablotin]]<sup>*AM*</sup></td><td>Loyal Mauvais</td><td>7</td></tr>
+  <tr><td>[[Div Doru|Div, Doru]]<sup>*B3*</sup></td><td>Neutre Mauvais</td><td>7</td></tr>
+  <tr><td>[[Dragon féerique|Dragon, Dragon Féerique]]</td><td>Chaotique Bon</td><td>7</td></tr>
+  <tr><td>[[Drake dombre|Dragon (drake), Drake d'ombre]]<sup>*B4*</sup></td><td>Mauvais</td><td>7</td></tr>
+  <tr><td>[[Nycar|Dragon (linnorm), Nycar]]<sup>*B4*</sup></td><td>Chaotique Neutre</td><td>7</td></tr>
+  <tr><td>[[Pseudo-dragon|Dragon, Pseudo-dragon]]<sup>*AM, B2*</sup></td><td>Neutre Bon</td><td>7</td></tr>
+  <tr>
+    <td>[[Élémentaire|Élémentaire, Élémentaire de taille P]] (n’importe quel type)<sup>*AM*</sup></td>
+    <td>Neutre</td>
+    <td>5</td>
+  </tr>
+  <tr><td>[[Méphite|Élémentaire, Méphite]] (n’importe quel type)<sup>*AM*</sup></td><td>Neutre</td><td>7</td></tr>
+  <tr><td>[[Vollute|Élémentaire, Vollute]] (n’importe quel type)<sup>*B5*</sup></td><td>Voir texte</td><td>7</td></tr>
+  <tr><td>[[Esprit follet|Fée, Esprit follet]]<sup>*B3*</sup></td><td>Chaotique Neutre</td><td>5</td></tr>
+  <tr><td>[[Esprit follet liminal|Fée, Esprit follet liminal]]<sup>*B5*</sup></td><td>Chaotique</td><td>7</td></tr>
+  <tr><td>[[Lutin|Fée, Lutin]]<sup>*AM, B2*</sup></td><td>Neutre strict</td><td>5</td></tr>
+  <tr><td>[[Pooka|Fée, Pooka]]<sup>*B4*</sup></td><td>Chaotique Neutre</td><td>7</td></tr>
+  <tr><td>[[Haniver|Gremlin, Haniver]]<sup>*B4*</sup></td><td>Neutre</td><td>5</td></tr>
+  <tr><td>[[Nuglub|Gremlin, Nuglub]]<sup>*AM*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr>
+  <tr><td>[[Tristefripe|Gremlin, Tristefripe]]<sup>*B4*</sup></td><td>Chaotique Neutre</td><td>3</td></tr>
+  <tr><td>[[Arbitre|Inévitable, Arbitre]]<sup>*AM, B2*</sup></td><td>Loyal Neutre</td><td>7</td></tr>
+  <tr><td>[[Shikigami|Kami, Shikigami]]<sup>*B3*</sup></td><td>Loyal Neutre</td><td>7</td></tr>
+  <tr><td>[[Kyton augure|Kyton, Augure]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr>
+  <tr><td>[[Décapité|Mort-vivant, Décapité]]<sup>*B4*</sup></td><td>Neutre Mauvais<sup>2</sup></td><td>3</td></tr>
+  <tr><td>[[Isitoq|Mort-vivant, Isitoq]]<sup>*B4*</sup></td><td>Neutre Mauvais<sup>2</sup></td><td>5</td></tr>
+  <tr>
+    <td>[[Main rampante|Mort-vivant, Main rampante]]<sup>*B2*</sup></td>
+    <td>Neutre Mauvais<sup>3</sup></td>
+    <td>3</td>
+  </tr>
+  <tr><td>[[Esprit Oni|Oni, Esprit]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr>
+  <tr><td>[[Ver du néant|Protéen, Ver du néant]]<sup>*AM, B2*</sup></td><td>Chaotique Neutre</td><td>7</td></tr>
+  <tr><td>[[Nosoï|Psychopompe, Nosoï]]<sup>*B4*</sup></td><td>Neutre strict</td><td>7</td></tr>
+  <tr><td>[[Cythnigot|Qlippoth, Cythnigot]]<sup>*AM, B2*</sup></td><td>Chaotique Mauvais</td><td>7</td></tr>
+  <tr><td>[[Raktavarna|Rakshasa, Raktavarna]]<sup>*B3*</sup></td><td>Loyal Mauvais</td><td>7</td></tr>
+  <tr><td>[[Rat sanguinaire]]<sup>*AM*</sup></td><td>Neutre</td><td>3</td></tr>
+  <tr><td>[[Esipil|Shakil, Esipil]]<sup>*B5*</sup></td><td>Neutre Mauvais</td><td>7</td></tr>
+  <tr>
+    <td>[[Singe]] [[archétypes simples#CREATUREENTROPIQUE|entropique]]<sup>*AM*</sup></td>
+    <td>Chaotique Neutre<sup>1</sup></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>[[Vipère]] [[archétypes simples#CREATUREFIELON|fiélone]]<sup>*AM*</sup></td>
+    <td>Neutre Mauvais<sup>1</sup></td>
+    <td>3</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(1) Ou un autre animal [[archétypes simples#CREATURECELESTE|céleste]], [[archétypes
+      simples#CREATUREENTROPIQUE|entropique]], [[archétypes simples#CREATUREFIELON|fiélon]] ou [[archétypes
+      simples#CREATUREINFLEXIBLE|inflexible]] de la liste des familiers ordinaires.*
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="3">*(2) Le maître doit tout d’abord le fabriquer.*</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(3) Le maître doit être un nécromancien et avoir déjà un mille-pattes domestique pour familier.*
+    </td>
+  </tr>
+</table>
 
 
 {s:CMy}

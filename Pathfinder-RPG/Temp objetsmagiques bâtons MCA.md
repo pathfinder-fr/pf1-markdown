@@ -6,7 +6,14 @@ LastModified: 2020-06-09 18:45
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Les bâtons</caption><tr CLASS="titre"><td>Bâtons intermédiaires de faible puissance</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques bâtons MCA#Etincelles|Bâton d’étincelles]]</td><td>12 650 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques bâtons MCA#Braises|Bâton de braises]]</td><td>13 100 po</td></tr><tr><td>[[Temp objetsmagiques bâtons MCA#Monstre|Bâton de monstruosification]]</td><td>12 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques bâtons MCA#Fossoyeur|Bêche du fossoyeur]]</td><td>12 150 po</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Les bâtons</caption>
+  <tr CLASS="titre"><td>Bâtons intermédiaires de faible puissance</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Temp objetsmagiques bâtons MCA#Etincelles|Bâton d’étincelles]]</td><td>12 650 po</td></tr>
+  <tr CLASS="alt"><td>[[Temp objetsmagiques bâtons MCA#Braises|Bâton de braises]]</td><td>13 100 po</td></tr>
+  <tr><td>[[Temp objetsmagiques bâtons MCA#Monstre|Bâton de monstruosification]]</td><td>12 000 po</td></tr>
+  <tr CLASS="alt"><td>[[Temp objetsmagiques bâtons MCA#Fossoyeur|Bêche du fossoyeur]]</td><td>12 150 po</td></tr>
+</table>
 
 </center>
 

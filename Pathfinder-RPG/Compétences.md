@@ -75,7 +75,27 @@ Chaque point de compétence investi dans une compétence donne un bonus de +1 au
 Si le résultat du [[test]] de compétence est égal ou supérieur au [[degré de difficulté]] (ou [[DD]]) de la tâche que vous tentez d’accomplir, c’est une réussite. S’il est inférieur au [[DD]], c’est un échec. Certaines tâches peuvent se solder par différents niveaux de réussite ou d’échec selon la différence entre le résultat de votre test et le [[DD]]. Parfois, le résultat du [[test]] n’est pas comparé à un [[DD]] fixé mais au résultat d’un autre [[test]] de compétence. Ces « [[test|tests]] de compétence opposés » se soldent par une réussite si le résultat de votre [[test]] dépasse celui de la cible.
 
 
-<table CLASS="tablo centre autoalt"><caption>Bonus des tests de compétence</caption><tr CLASS="titre"><td>Compétence</td><td CLASS="gauche">Le résultat du test de compétence* vaut…</td></tr><tr CLASS="premier"><td>sans formation</td><td CLASS="gauche">1d20 + modificateur de caractéristique + modificateur racial</td></tr><tr><td>avec formation, hors classe</td><td CLASS="gauche">1d20 + rang + modificateur de caractéristique + modificateur racial</td></tr><tr><td>avec formation, de classe</td><td CLASS="gauche">1d20 + rang + modificateur de caractéristique + modificateur racial + 3</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) La pénalité d'armure s'applique à tous les tests de compétence associés à la Force ou à la Dextérité.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Bonus des tests de compétence</caption>
+  <tr CLASS="titre"><td>Compétence</td><td CLASS="gauche">Le résultat du test de compétence* vaut…</td></tr>
+  <tr CLASS="premier">
+    <td>sans formation</td>
+    <td CLASS="gauche">1d20 + modificateur de caractéristique + modificateur racial</td>
+  </tr>
+  <tr>
+    <td>avec formation, hors classe</td>
+    <td CLASS="gauche">1d20 + rang + modificateur de caractéristique + modificateur racial</td>
+  </tr>
+  <tr>
+    <td>avec formation, de classe</td>
+    <td CLASS="gauche">1d20 + rang + modificateur de caractéristique + modificateur racial + 3</td>
+  </tr>
+  <tr>
+    <td COLSPAN="3" CLASS="note">
+      *(*) La pénalité d'armure s'applique à tous les tests de compétence associés à la Force ou à la Dextérité.*
+    </td>
+  </tr>
+</table>
 
 
 {s:Reference|FAIRE10}

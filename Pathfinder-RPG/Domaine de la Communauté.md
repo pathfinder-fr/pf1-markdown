@@ -36,4 +36,39 @@ Le personnage peut soigner les blessures d’un simple toucher. Sa présence suf
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Communauté</td><td>Sous-domaine de la Famille</td><td>Sous-domaine du Foyer</td><td>Sous-domaine de la Coopération</td></tr><tr CLASS="premier"><td>1er</td><td>*[[bénédiction]]*</td><td>*idem*</td><td>*[[alarme]]*</td><td>*[[emprunt de compétence]]*</td></tr><tr><td>2e</td><td>*[[protection dautrui|protection d’autrui]]*</td><td>*[[apaisement des émotions]]*</td><td>*idem*</td><td>*[[partage de la langue (partagé)]]*</td></tr><tr><td>3e</td><td>*[[prière]]*</td><td>*[[création de nourriture et deau|création de nourriture et d'eau]]*</td><td>*[[glyphe de garde]]*</td><td>*[[efforts coordonnés]]*</td></tr><tr><td>4e</td><td>*[[transfert de sorts]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[lien télépathique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[festin des héros]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[refuge]]*</td><td>*idem*</td><td>*[[défense magique]]*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[soins intensifs de groupe]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[miracle]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Communauté</td>
+    <td>Sous-domaine de la Famille</td>
+    <td>Sous-domaine du Foyer</td>
+    <td>Sous-domaine de la Coopération</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[bénédiction]]*</td>
+    <td>*idem*</td>
+    <td>*[[alarme]]*</td>
+    <td>*[[emprunt de compétence]]*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[protection dautrui|protection d’autrui]]*</td>
+    <td>*[[apaisement des émotions]]*</td>
+    <td>*idem*</td>
+    <td>*[[partage de la langue (partagé)]]*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[prière]]*</td>
+    <td>*[[création de nourriture et deau|création de nourriture et d'eau]]*</td>
+    <td>*[[glyphe de garde]]*</td>
+    <td>*[[efforts coordonnés]]*</td>
+  </tr>
+  <tr><td>4e</td><td>*[[transfert de sorts]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>5e</td><td>*[[lien télépathique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>6e</td><td>*[[festin des héros]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[refuge]]*</td><td>*idem*</td><td>*[[défense magique]]*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[soins intensifs de groupe]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[miracle]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

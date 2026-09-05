@@ -39,7 +39,149 @@ La Table ci-dessous présente également les dégâts usuels des attaques nature
 {s:Reference|TABLEATTAQUENATURELLE}
 <center>
 
-<table CLASS="tablo"><caption>Dégâts de base selon la taille*</caption><tr CLASS="titre"><td CLASS="gauche">Attaque naturelle</td><td>I</td><td>Min</td><td>TP</td><td>P</td><td>M</td><td>G</td><td>TG</td><td>Gig</td><td>Col</td><td>Type de dégâts</td><td>Type d’attaque</td></tr><tr CLASS="premier"><td CLASS="gauche">Aile, pseudopode, sabot, tentacule</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>C</td><td>secondaire</td></tr><tr CLASS="alt"><td CLASS="gauche">Bec, mandibules, morsure</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>C/P/T</td><td>primaire</td></tr><tr><td CLASS="gauche">Corne, défense</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>P</td><td>primaire</td></tr><tr CLASS="alt"><td CLASS="gauche">Coup, frappe</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>C</td><td>primaire</td></tr><tr><td CLASS="gauche">Coup de queue, pinces</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>C</td><td>secondaire</td></tr><tr CLASS="alt"><td CLASS="gauche">Dard</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>P</td><td>primaire</td></tr><tr><td CLASS="gauche">Griffe</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>C/T</td><td>primaire</td></tr><tr CLASS="alt"><td CLASS="gauche">Serres</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>T</td><td>primaire</td></tr><tr><td CLASS="gauche">Autre</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>C/P/T</td><td>secondaire</td></tr></table>
+<table CLASS="tablo">
+  <caption>Dégâts de base selon la taille*</caption>
+  <tr CLASS="titre">
+    <td CLASS="gauche">Attaque naturelle</td>
+    <td>I</td>
+    <td>Min</td>
+    <td>TP</td>
+    <td>P</td>
+    <td>M</td>
+    <td>G</td>
+    <td>TG</td>
+    <td>Gig</td>
+    <td>Col</td>
+    <td>Type de dégâts</td>
+    <td>Type d’attaque</td>
+  </tr>
+  <tr CLASS="premier">
+    <td CLASS="gauche">Aile, pseudopode, sabot, tentacule</td>
+    <td>—</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>C</td>
+    <td>secondaire</td>
+  </tr>
+  <tr CLASS="alt">
+    <td CLASS="gauche">Bec, mandibules, morsure</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>4d6</td>
+    <td>C/P/T</td>
+    <td>primaire</td>
+  </tr>
+  <tr>
+    <td CLASS="gauche">Corne, défense</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>4d6</td>
+    <td>P</td>
+    <td>primaire</td>
+  </tr>
+  <tr CLASS="alt">
+    <td CLASS="gauche">Coup, frappe</td>
+    <td>—</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>C</td>
+    <td>primaire</td>
+  </tr>
+  <tr>
+    <td CLASS="gauche">Coup de queue, pinces</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>4d6</td>
+    <td>C</td>
+    <td>secondaire</td>
+  </tr>
+  <tr CLASS="alt">
+    <td CLASS="gauche">Dard</td>
+    <td>—</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>P</td>
+    <td>primaire</td>
+  </tr>
+  <tr>
+    <td CLASS="gauche">Griffe</td>
+    <td>—</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>C/T</td>
+    <td>primaire</td>
+  </tr>
+  <tr CLASS="alt">
+    <td CLASS="gauche">Serres</td>
+    <td>—</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>T</td>
+    <td>primaire</td>
+  </tr>
+  <tr>
+    <td CLASS="gauche">Autre</td>
+    <td>—</td>
+    <td>1</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>2d6</td>
+    <td>2d8</td>
+    <td>C/P/T</td>
+    <td>secondaire</td>
+  </tr>
+</table>
 
 </center>
 

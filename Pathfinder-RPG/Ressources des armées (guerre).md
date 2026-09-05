@@ -16,7 +16,26 @@ Les prix sont donnés pour une armée de taille moyenne. Pour une armée plus pe
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évolution du prix des ressources</caption><tr CLASS="titre"><td>Taille de l’armée Multiplicateur</td></tr><tr CLASS="premier"><td>Infime</td><td>x1/8</td></tr><tr><td>Minuscule</td><td>x1/6</td></tr><tr><td>Très petite</td><td>x1/4</td></tr><tr><td>Petite</td><td>x1/2</td></tr><tr><td>Moyenne</td><td>x1</td></tr><tr><td>Grande</td><td>x2</td></tr><tr><td>Très grande</td><td>x4</td></tr><tr><td>Gigantesque</td><td>x10</td></tr><tr><td>Colossale</td><td>x20</td></tr><tr CLASS="note"><td COLSPAN="2">Le multiplicateur s’applique au prix initial de la ressource et à l’augmentation de [[Combat de masse#CONSOMMATION|Consommation]] qu’elle entraîne. Il ne peut pas faire passer le coût d’une ressource en-dessous de 1 [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]].</td></tr></table></div></div>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évolution du prix des ressources</caption>
+  <tr CLASS="titre"><td>Taille de l’armée Multiplicateur</td></tr>
+  <tr CLASS="premier"><td>Infime</td><td>x1/8</td></tr>
+  <tr><td>Minuscule</td><td>x1/6</td></tr>
+  <tr><td>Très petite</td><td>x1/4</td></tr>
+  <tr><td>Petite</td><td>x1/2</td></tr>
+  <tr><td>Moyenne</td><td>x1</td></tr>
+  <tr><td>Grande</td><td>x2</td></tr>
+  <tr><td>Très grande</td><td>x4</td></tr>
+  <tr><td>Gigantesque</td><td>x10</td></tr>
+  <tr><td>Colossale</td><td>x20</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      Le multiplicateur s’applique au prix initial de la ressource et à l’augmentation de [[Combat de
+      masse#CONSOMMATION|Consommation]] qu’elle entraîne. Il ne peut pas faire passer le coût d’une ressource
+      en-dessous de 1 [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]].
+    </td>
+  </tr>
+</table></div></div>
 
 - **Armes à distance (2 PC).** Les soldats sont équipés d’armes à distance (comme des [[Descriptions individuelles des armes#Arbalète|arbalètes]] ou des [[Descriptions individuelles des armes#Arc|arcs]]), ce qui leur permet d’attaquer de loin. La [[Combat de masse#CONSOMMATION|Consommation]] de l’armée augmente de 1.
 

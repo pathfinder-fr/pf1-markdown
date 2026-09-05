@@ -31,7 +31,72 @@ Les créatures terrestres rencontrent les pires difficultés dès lors qu’il s
 **Lancer des sorts.** Lancer un sort peut être une chose délicate pour ceux qui ne possèdent pas la faculté de respirer sous l’eau. Ceux-ci doivent pour y parvenir réussir un test de [[concentration]] DD 15 + niveau du sort (en plus du test de niveau de lanceur de sort quand il s’agit d’un sort de feu lancé sous l’eau). Les créatures qui respirent sous l’eau ne sont pas concernées. À la discrétion du MJ, certains sorts peuvent fonctionner différemment sous l’eau.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|AJUSTEMENTCOMBATSOUSLEAU}Ajustement de combat sous l’eau</caption><tr CLASS="titre"><td ROWSPAN="2">Conditions</td><td COLSPAN="2" CLASS="avecsoustitre">Attaque/Dommages</td><td ROWSPAN="2">Déplacement</td><td ROWSPAN="2">Déséquilibre<sup>[[Milieu aquatique#NOTE1|1]]</sup></td></tr><tr CLASS="soustitre"><td>Tranchants ou contondants</td><td>Perforants</td></tr><tr CLASS="premier"><td>*[[Liberté de mouvement]]*</td><td>normale/normaux</td><td>normale/normaux</td><td>normal</td><td>non</td></tr><tr><td>Possède une [[VD]] de nage</td><td>-2/demi</td><td>normale</td><td>normale</td><td>non</td></tr><tr><td>Test de [[Natation]] réussi</td><td>-2/demi<sup>[[Milieu aquatique#NOTE2|2]]</sup></td><td>normal</td><td>quart ou demi<sup>[[Milieu aquatique#NOTE3|3]]</sup></td><td>non</td></tr><tr CLASS="alt"><td>Pied sûr<sup>[[Milieu aquatique#NOTE4|4]]</sup></td><td>-2/demi<sup>[[Milieu aquatique#NOTE2|2]]</sup></td><td>normal</td><td>demi</td><td>non</td></tr><tr><td>Aucune</td><td>-2/demi<sup>[[Milieu aquatique#NOTE2|2]]</sup></td><td>-2/demi</td><td>normal</td><td>oui</td></tr><tr CLASS="note"><td COLSPAN="5">{s:Reference|NOTE1}*(1) Les personnages qui se débattent dans l’eau (en général parce qu’ils ont raté leur test de [[Natation]]) ont du mal à combattre efficacement. Une créature déséquilibrée perd son bonus de [[Dextérité]] à la [[CA]]. Dans le même temps, ses adversaires bénéficient d’un bonus de +2 à l’attaque.*</td></tr><tr CLASS="note"><td COLSPAN="5">{s:Reference|NOTE2}*(2) Une créature dénuée d’un effet de liberté de mouvement ou d’une vitesse de déplacement à la nage effectue ses tests de lutte avec un malus de -2, mais inflige des dégâts normaux lors d’une lutte.*</td></tr><tr CLASS="note"><td COLSPAN="5">{s:Reference|NOTE3}*(3) En cas de réussite, un test de [[Natation]] permet de se déplacer au quart de sa vitesse habituelle ([[action de mouvement]]) ou à la moitié de cette même vitesse ([[action complexe]]).*</td></tr><tr CLASS="note"><td COLSPAN="5">{s:Reference|NOTE4}*(4) Les personnages ont le pied sûr quand ils marchent au fond de l’eau. On ne peut marcher au fond de l’eau que si l’on est suffisamment chargé pour se laisser couler (8 kg au moins pour les créatures de taille M, deux fois plus pour chaque catégorie de taille en plus, et moitié moins pour chaque catégorie de taille en moins).*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>{s:Reference|AJUSTEMENTCOMBATSOUSLEAU}Ajustement de combat sous l’eau</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Conditions</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">Attaque/Dommages</td>
+    <td ROWSPAN="2">Déplacement</td>
+    <td ROWSPAN="2">Déséquilibre<sup>[[Milieu aquatique#NOTE1|1]]</sup></td>
+  </tr>
+  <tr CLASS="soustitre"><td>Tranchants ou contondants</td><td>Perforants</td></tr>
+  <tr CLASS="premier">
+    <td>*[[Liberté de mouvement]]*</td>
+    <td>normale/normaux</td>
+    <td>normale/normaux</td>
+    <td>normal</td>
+    <td>non</td>
+  </tr>
+  <tr><td>Possède une [[VD]] de nage</td><td>-2/demi</td><td>normale</td><td>normale</td><td>non</td></tr>
+  <tr>
+    <td>Test de [[Natation]] réussi</td>
+    <td>-2/demi<sup>[[Milieu aquatique#NOTE2|2]]</sup></td>
+    <td>normal</td>
+    <td>quart ou demi<sup>[[Milieu aquatique#NOTE3|3]]</sup></td>
+    <td>non</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Pied sûr<sup>[[Milieu aquatique#NOTE4|4]]</sup></td>
+    <td>-2/demi<sup>[[Milieu aquatique#NOTE2|2]]</sup></td>
+    <td>normal</td>
+    <td>demi</td>
+    <td>non</td>
+  </tr>
+  <tr>
+    <td>Aucune</td>
+    <td>-2/demi<sup>[[Milieu aquatique#NOTE2|2]]</sup></td>
+    <td>-2/demi</td>
+    <td>normal</td>
+    <td>oui</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      {s:Reference|NOTE1}*(1) Les personnages qui se débattent dans l’eau (en général parce qu’ils ont raté leur
+      test de [[Natation]]) ont du mal à combattre efficacement. Une créature déséquilibrée perd son bonus de
+      [[Dextérité]] à la [[CA]]. Dans le même temps, ses adversaires bénéficient d’un bonus de +2 à l’attaque.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      {s:Reference|NOTE2}*(2) Une créature dénuée d’un effet de liberté de mouvement ou d’une vitesse de déplacement
+      à la nage effectue ses tests de lutte avec un malus de -2, mais inflige des dégâts normaux lors d’une lutte.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      {s:Reference|NOTE3}*(3) En cas de réussite, un test de [[Natation]] permet de se déplacer au quart de sa
+      vitesse habituelle ([[action de mouvement]]) ou à la moitié de cette même vitesse ([[action complexe]]).*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      {s:Reference|NOTE4}*(4) Les personnages ont le pied sûr quand ils marchent au fond de l’eau. On ne peut
+      marcher au fond de l’eau que si l’on est suffisamment chargé pour se laisser couler (8 kg au moins pour les
+      créatures de taille M, deux fois plus pour chaque catégorie de taille en plus, et moitié moins pour chaque
+      catégorie de taille en moins).*
+    </td>
+  </tr>
+</table>
 
 
 ### Inondations

@@ -173,7 +173,59 @@ Nombre des pouvoirs des géants du froid découlent des adaptations développée
 Voici quelques dons accessibles aux géants du froid.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Balayage circulaire]]*</td><td><sup>CM</sup></td><td>[[For]] 15, [[Enchaînement]], [[Science du croc-en-jambe]], [[Arme de prédilection]] (grande hache), [[BBA]] +11</td><td>Utilise Enchaînement pour tenter un croc-en-jambe contre tous les adversaires à portée</td></tr><tr CLASS="premier"><td>[[Charge fabuleuse]]*</td><td><sup>CM</sup></td><td>[[For]] 25, [[Coup fabuleux]], [[Science de la bousculade]], [[Attaque en puissance]]</td><td>Utilise Coup fabuleux après une attaque de charge réussie</td></tr><tr CLASS="premier"><td>[[Inimitié ancestrale]]*</td><td><sup>CM</sup></td><td>[[Sous-type géant]]</td><td>+2 aux jets d'attaque contre les gnomes et les nains</td></tr><tr CLASS="premier"><td>[[Né du froid]]</td><td><sup>CM</sup></td><td>[[Géant du froid]]</td><td>Les attaques naturelles du personnage infligent des dégâts de froid</td></tr><tr><td>&emsp;[[Regard glacé]]</td><td><sup>CM</sup></td><td>[[Né du froid]], [[géant du froid]]</td><td>Le regard du personnage peut infliger des dégâts de froid</td></tr><tr><td>&emsp;[[Rocher glacé]]</td><td><sup>CM</sup></td><td>[[Né du froid]], [[géant du froid]]</td><td>Un objet jeté avec lancer de rocher inflige des dégâts supplémentaires de froid</td></tr><tr CLASS="premier"><td>[[Stable sur la glace]]</td><td><sup>CM</sup></td><td>[[Géant du froid]]</td><td>Pas de malus de déplacement sur la glace et les surfaces enneigées</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Balayage circulaire]]*</td>
+    <td><sup>CM</sup></td>
+    <td>
+      [[For]] 15, [[Enchaînement]], [[Science du croc-en-jambe]], [[Arme de prédilection]] (grande hache), [[BBA]]
+      +11
+    </td>
+    <td>Utilise Enchaînement pour tenter un croc-en-jambe contre tous les adversaires à portée</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charge fabuleuse]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 25, [[Coup fabuleux]], [[Science de la bousculade]], [[Attaque en puissance]]</td>
+    <td>Utilise Coup fabuleux après une attaque de charge réussie</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Inimitié ancestrale]]*</td>
+    <td><sup>CM</sup></td>
+    <td>[[Sous-type géant]]</td>
+    <td>+2 aux jets d'attaque contre les gnomes et les nains</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Né du froid]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Géant du froid]]</td>
+    <td>Les attaques naturelles du personnage infligent des dégâts de froid</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Regard glacé]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Né du froid]], [[géant du froid]]</td>
+    <td>Le regard du personnage peut infliger des dégâts de froid</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Rocher glacé]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Né du froid]], [[géant du froid]]</td>
+    <td>Un objet jeté avec lancer de rocher inflige des dégâts supplémentaires de froid</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Stable sur la glace]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Géant du froid]]</td>
+    <td>Pas de malus de déplacement sur la glace et les surfaces enneigées</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

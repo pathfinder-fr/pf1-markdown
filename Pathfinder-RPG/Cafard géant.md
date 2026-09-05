@@ -72,6 +72,13 @@ dards empoisonnés.
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td>Cafard sifflant géant</td><td>1</td><td>M</td><td>2</td></tr><tr CLASS="alt"><td>Cafard venimeux</td><td>3</td><td>G</td><td>3</td></tr><tr CLASS="alt"><td>Cafard cracheur</td><td>6</td><td>TG</td><td>6</td></tr><tr CLASS="alt"><td>Cafard à dos de scie</td><td>9</td><td>Gig</td><td>8</td></tr><tr CLASS="alt"><td>Cafard-dragon</td><td>12</td><td>C</td><td>10</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td>Cafard sifflant géant</td><td>1</td><td>M</td><td>2</td></tr>
+  <tr CLASS="alt"><td>Cafard venimeux</td><td>3</td><td>G</td><td>3</td></tr>
+  <tr CLASS="alt"><td>Cafard cracheur</td><td>6</td><td>TG</td><td>6</td></tr>
+  <tr CLASS="alt"><td>Cafard à dos de scie</td><td>9</td><td>Gig</td><td>8</td></tr>
+  <tr CLASS="alt"><td>Cafard-dragon</td><td>12</td><td>C</td><td>10</td></tr>
+</table></center>
 
 </div></td></tr></table>

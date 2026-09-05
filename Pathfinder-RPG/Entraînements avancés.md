@@ -183,7 +183,12 @@ Tant que le guerrier porte une armure ou un bouclier, il gagne un bonus de +2 à
 Le guerrier peut enfiler son armure même en situation de stress sans réduire son efficacité, et peut l'enlever rapidement lorsqu'elle le gêne. Quand le guerrier [[Caractéristiques des armures#ENFILEROTER|retire, enfile normalement ou à la hâte son armure]], le temps nécessaire est réduit, comme indiqué dans le tableau ci-dessous. D’autres personnages peuvent toujours aider le guerrier à enfiler son armure.
 
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Armure</td><td>Enfiler</td><td>Enfiler à la hâte</td><td>Retirer</td></tr><tr CLASS="premier"><td>Armure légère</td><td>5 rounds</td><td>1 round</td><td>5 rounds</td></tr><tr CLASS="alt"><td>Armure intermédiaire</td><td>1 minute</td><td>5 rounds</td><td>1 minute</td></tr><tr><td>Armure lourde</td><td>2 minutes</td><td>1 minute</td><td>1d4 minutes</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Armure</td><td>Enfiler</td><td>Enfiler à la hâte</td><td>Retirer</td></tr>
+  <tr CLASS="premier"><td>Armure légère</td><td>5 rounds</td><td>1 round</td><td>5 rounds</td></tr>
+  <tr CLASS="alt"><td>Armure intermédiaire</td><td>1 minute</td><td>5 rounds</td><td>1 minute</td></tr>
+  <tr><td>Armure lourde</td><td>2 minutes</td><td>1 minute</td><td>1d4 minutes</td></tr>
+</table>
 
 
 De plus, quand il enfile une armure à la hâte, le guerrier peut effectuer un test de [[Force]] ou de [[Dextérité]] par une [[action complexe]] pour ne subir aucun des malus dû au fait d'enfiler une armure à la hâte (DD = 10 + le bonus d’armure de base de l'armure). S’il réussit ce test, le guerrier considère qu’il a enfilé son armure normalement.

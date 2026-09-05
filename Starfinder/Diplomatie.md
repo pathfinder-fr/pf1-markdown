@@ -37,7 +37,16 @@ Les DD des tests de Diplomatie pour changer l’attitude sont modifiés en fonct
 
 <CENTER>
 
-<table CLASS="tablo"><caption>TEST D'ATTITUDE</caption><tr CLASS="titre"><td>ATTITUDE INITIALE</td><td>MODIF. AU DD</td></tr><tr CLASS="premier"></tr><tr><td>Hostile</td><td>+10</td></tr><tr><td>Inamicale</td><td>+5</td></tr><tr><td>Indifférente</td><td>+0</td></tr><tr><td>micale</td><td>-5</td></tr><tr><td>Serviable</td><td>–*</td></tr></table>
+<table CLASS="tablo">
+  <caption>TEST D'ATTITUDE</caption>
+  <tr CLASS="titre"><td>ATTITUDE INITIALE</td><td>MODIF. AU DD</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Hostile</td><td>+10</td></tr>
+  <tr><td>Inamicale</td><td>+5</td></tr>
+  <tr><td>Indifférente</td><td>+0</td></tr>
+  <tr><td>micale</td><td>-5</td></tr>
+  <tr><td>Serviable</td><td>–*</td></tr>
+</table>
 
 <sup>* Vous ne pouvez pas améliorer l’attitude d’une créature au-dessus de serviable.</sup>
 </CENTER>
@@ -49,6 +58,15 @@ Les DD des tests de Diplomatie pour recueillir des informations dépendent de la
 
 <CENTER>
 
-<table CLASS="tablo"><caption>TEST D'INFORMATION RECHERCHÉE</caption><tr CLASS="titre"><td>INFORMATION RECHERCHÉE</td><td>DD</td></tr><tr CLASS="premier"></tr><tr><td>Rumeurs ou faits courants</td><td>10</td></tr><tr><td>Information secrète ou obscure</td><td>20 ou plus</td></tr><tr><td>Individu important ou connu</td><td>5 + FP du personnage</td></tr><tr><td>Individu ordinaire ou normal</td><td>10 + FP du personnage</td></tr><tr><td>Individu inconnu ou mystérieux</td><td>15 + FP du personnage</td></tr></table>
+<table CLASS="tablo">
+  <caption>TEST D'INFORMATION RECHERCHÉE</caption>
+  <tr CLASS="titre"><td>INFORMATION RECHERCHÉE</td><td>DD</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>Rumeurs ou faits courants</td><td>10</td></tr>
+  <tr><td>Information secrète ou obscure</td><td>20 ou plus</td></tr>
+  <tr><td>Individu important ou connu</td><td>5 + FP du personnage</td></tr>
+  <tr><td>Individu ordinaire ou normal</td><td>10 + FP du personnage</td></tr>
+  <tr><td>Individu inconnu ou mystérieux</td><td>15 + FP du personnage</td></tr>
+</table>
 
 </CENTER>

@@ -13,7 +13,142 @@ Chargés de la justice et des exécutions par le conseil révolutionnaire, les B
 
 <center>
 
-<table CLASS="tablo"><caption>Le bourreau gris</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Jardinier gris#ANONYMAT|Anonymat]], [[Jardinier gris#ATTAQUESOURNOISE|attaque sournoise]] +1d6</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Jardinier gris#JUGEMENTSEVERE|Jugement sévère]] (1/jour), [[Jardinier gris#REGARDSEVERE|regard sévère]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Jardinier gris#TUEUR|Tueur]], [[Jardinier gris#INTERROGATOIREDRAMATIQUE|interrogatoire dramatique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Jardinier gris#DONDEXECUTION|Don d'exécution]], [[Jardinier gris#SECONDJUGEMENT|second jugement]], [[Jardinier gris#ENQUETEURSINISTRE|enquêteur sinistre]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Jardinier gris#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Jardinier gris#SCIENCEDUTUEUR|science du tueur]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Jardinier gris#JUGEMENTSEVERE|Jugement sévère]] (2/jour), [[Jardinier gris#DONDEXECUTION|don d'exécution]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Jardinier gris#TUEURSOMBRE|Tueur sombre]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Jardinier gris#DONDEXECUTION|Don d'exécution]], [[Jardinier gris#JUGEMENTMORTEL|jugement mortel]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Jardinier gris#TUEURSUPERIEUR|Tueur supérieur]], [[Jardinier gris#ATTAQUESOURNOISE|attaque sournoise]] +3d6</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Jardinier gris#JUGEMENTSEVERE|Jugement sévère]] (1/jour), [[Jardinier gris#DONDEXECUTION|don d'exécution]], [[Jardinier gris#DERNIERTREPAS|dernier trépas]], [[Jardinier gris#VERITABLEMORT|véritable mort]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le bourreau gris</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#ANONYMAT|Anonymat]], [[Jardinier gris#ATTAQUESOURNOISE|attaque sournoise]] +1d6
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#JUGEMENTSEVERE|Jugement sévère]] (1/jour), [[Jardinier gris#REGARDSEVERE|regard sévère]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#TUEUR|Tueur]], [[Jardinier gris#INTERROGATOIREDRAMATIQUE|interrogatoire dramatique]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#DONDEXECUTION|Don d'exécution]], [[Jardinier gris#SECONDJUGEMENT|second jugement]],
+      [[Jardinier gris#ENQUETEURSINISTRE|enquêteur sinistre]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Jardinier gris#SCIENCEDUTUEUR|science du tueur]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#JUGEMENTSEVERE|Jugement sévère]] (2/jour), [[Jardinier gris#DONDEXECUTION|don d'exécution]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Jardinier gris#TUEURSOMBRE|Tueur sombre]]</td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#DONDEXECUTION|Don d'exécution]], [[Jardinier gris#JUGEMENTMORTEL|jugement mortel]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#TUEURSUPERIEUR|Tueur supérieur]], [[Jardinier gris#ATTAQUESOURNOISE|attaque sournoise]] +3d6
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Jardinier gris#JUGEMENTSEVERE|Jugement sévère]] (1/jour), [[Jardinier gris#DONDEXECUTION|don d'exécution]],
+      [[Jardinier gris#DERNIERTREPAS|dernier trépas]], [[Jardinier gris#VERITABLEMORT|véritable mort]]
+    </td>
+    <td CLASS="gauche">
+      [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

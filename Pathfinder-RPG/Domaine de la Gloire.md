@@ -31,4 +31,20 @@ Le personnage est le réceptacle d’une certaine gloire divine qui fait de lui 
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Gloire</td><td>Sous-domaine de l'Héroïsme</td><td>Sous-domaine de l'Honneur</td></tr><tr CLASS="premier"><td>1er</td><td>*[[bouclier de la foi]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[bénédiction darme|bénédiction d’arme]]*</td><td>*idem*</td><td>*[[zone de vérité]]*</td></tr><tr><td>3e</td><td>*[[lumière brûlante]]*</td><td>*[[héroïsme]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[châtiment sacré]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[force du colosse]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[annihilation de mort-vivant]]*</td><td>*[[héroïsme suprême]]*</td><td>*[[quête]]*</td></tr><tr><td>7e</td><td>*[[épée sainte]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[aura sacrée]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[portail]]*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Gloire</td>
+    <td>Sous-domaine de l'Héroïsme</td>
+    <td>Sous-domaine de l'Honneur</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[bouclier de la foi]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>2e</td><td>*[[bénédiction darme|bénédiction d’arme]]*</td><td>*idem*</td><td>*[[zone de vérité]]*</td></tr>
+  <tr><td>3e</td><td>*[[lumière brûlante]]*</td><td>*[[héroïsme]]*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[châtiment sacré]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>5e</td><td>*[[force du colosse]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>6e</td><td>*[[annihilation de mort-vivant]]*</td><td>*[[héroïsme suprême]]*</td><td>*[[quête]]*</td></tr>
+  <tr><td>7e</td><td>*[[épée sainte]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[aura sacrée]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[portail]]*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

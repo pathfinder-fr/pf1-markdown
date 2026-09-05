@@ -31,7 +31,54 @@ Si le jeteur de sorts est d’[[alignement]] Bon, si l’aura détectée est sur
 
 <center>
 
-<table CLASS="tablo"><caption>Détection de la Loi/du Bien/du Chaos/du Mal</caption><tr CLASS="titre"><td ROWSPAN="2">Créature/objet</td><td CLASS="avecsoustitre" COLSPAN="5">Intensité de l'aura</td></tr><tr CLASS="soustitre"><td>Aucune</td><td>Faible</td><td>Modérée</td><td>Forte</td><td>Surpuissante</td></tr><tr CLASS="premier"><td>Créature alignée (sauf [[type mort-vivant|mort-vivant]]/[[type extérieur|Extérieur]], selon les [[DV]])</td><td>4 ou moins</td><td>5–10</td><td>11–25</td><td>26–50</td><td>51 ou plus</td></tr><tr CLASS="alt"><td>[[type mort-vivant|Mort-vivant]] aligné (selon les [[DV]])</td><td>—</td><td>2 ou moins</td><td>3–8</td><td>9–20</td><td>21 ou plus</td></tr><tr><td>[[type extérieur|Extérieur]] aligné (selon les [[DV]])</td><td>–</td><td>1 ou moins</td><td>2–4</td><td>5–10</td><td>11 ou plus</td></tr><tr CLASS="alt"><td>[[Prêtre]] ou [[paladin]] d'un dieu aligné* (selon le [[niveau|niveau de classe]])</td><td>—</td><td>1</td><td>2–4</td><td>5–10</td><td>11 ou plus</td></tr><tr><td>Objet magique ou sort aligné (selon le [[NLS]])</td><td>5 ou moins</td><td>6–10</td><td>11–15</td><td>16–20</td><td>21 ou plus</td></tr></table>
+<table CLASS="tablo">
+  <caption>Détection de la Loi/du Bien/du Chaos/du Mal</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Créature/objet</td>
+    <td CLASS="avecsoustitre" COLSPAN="5">Intensité de l'aura</td>
+  </tr>
+  <tr CLASS="soustitre"><td>Aucune</td><td>Faible</td><td>Modérée</td><td>Forte</td><td>Surpuissante</td></tr>
+  <tr CLASS="premier">
+    <td>Créature alignée (sauf [[type mort-vivant|mort-vivant]]/[[type extérieur|Extérieur]], selon les [[DV]])</td>
+    <td>4 ou moins</td>
+    <td>5–10</td>
+    <td>11–25</td>
+    <td>26–50</td>
+    <td>51 ou plus</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[type mort-vivant|Mort-vivant]] aligné (selon les [[DV]])</td>
+    <td>—</td>
+    <td>2 ou moins</td>
+    <td>3–8</td>
+    <td>9–20</td>
+    <td>21 ou plus</td>
+  </tr>
+  <tr>
+    <td>[[type extérieur|Extérieur]] aligné (selon les [[DV]])</td>
+    <td>–</td>
+    <td>1 ou moins</td>
+    <td>2–4</td>
+    <td>5–10</td>
+    <td>11 ou plus</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Prêtre]] ou [[paladin]] d'un dieu aligné* (selon le [[niveau|niveau de classe]])</td>
+    <td>—</td>
+    <td>1</td>
+    <td>2–4</td>
+    <td>5–10</td>
+    <td>11 ou plus</td>
+  </tr>
+  <tr>
+    <td>Objet magique ou sort aligné (selon le [[NLS]])</td>
+    <td>5 ou moins</td>
+    <td>6–10</td>
+    <td>11–15</td>
+    <td>16–20</td>
+    <td>21 ou plus</td>
+  </tr>
+</table>
 
 
 *(*) Certains personnages qui ne sont pas des [[prêtre|prêtres]] possèdent une aura de puissance équivalente (voir les descriptions de classe).*
@@ -45,7 +92,13 @@ Troisième [[round]] : intensité et emplacement de chacune des auras. Si une au
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Intensité de l’aura</td><td>Durée de l’aura persistante</td></tr><tr CLASS="premier"><td>Faible</td><td>1d6 [[round|rounds]]</td></tr><tr CLASS="alt"><td>Modérée</td><td>1d6 minutes</td></tr><tr><td>Puissante</td><td>1d6x10 minutes</td></tr><tr CLASS="alt"><td>Surpuissante</td><td>1d6 jours</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Intensité de l’aura</td><td>Durée de l’aura persistante</td></tr>
+  <tr CLASS="premier"><td>Faible</td><td>1d6 [[round|rounds]]</td></tr>
+  <tr CLASS="alt"><td>Modérée</td><td>1d6 minutes</td></tr>
+  <tr><td>Puissante</td><td>1d6x10 minutes</td></tr>
+  <tr CLASS="alt"><td>Surpuissante</td><td>1d6 jours</td></tr>
+</table>
 
 </center>
 

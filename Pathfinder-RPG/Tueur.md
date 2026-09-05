@@ -15,7 +15,185 @@ Categories:
 </div>{s:mca}*Le tueur est un chasseur expérimenté, particulièrement doué pour traquer ses proies. Il ne vit que pour le frisson de la chasse et le coup de grâce qui la clôture. Un tueur passe son temps à affiner ses talents martiaux, à étudier les habitudes et l’anatomie de ses ennemis et à s’entraîner aux manoeuvres offensives.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le tueur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">1<sup>re</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]], [[tueur#PISTAGE|pistage]]</td></tr><tr><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td></tr><tr><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">2<sup>e</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]]</td></tr><tr><td>6</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[tueur#TALENTDETUEUR|talent de tueur]]</td></tr><tr><td>7</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[tueur#TRAQUEUR|Traqueur]]</td></tr><tr><td>8</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td></tr><tr><td>9</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td></tr><tr><td>10</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">3<sup>e</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]], [[tueur#TALENTDETUEUR|talent de tueur]], [[tueur#TALENTDEMAITRETUEUR|Talent de maître tueur]]</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[tueur#PISTAGERAPIDE|Pistage rapide]]</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +4d6, [[tueur#TALENTDETUEUR|talent de tueur]]</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[tueur#AVANCEEDUTUEUR|Avancée du tueur]] 1/jour</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[tueur#PROIEDUCHASSEUR|Proie du chasseur]], [[tueur#TALENTDETUEUR|talent de tueur]]</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, 4<sup>e</sup> [[tueur#CIBLEETUDIEE|cible étudiée]]</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[tueur#AVANCEEDUTUEUR|Avancée du tueur]] 2/jour</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +6d6, [[tueur#TALENTDETUEUR|talent de tueur]]</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[tueur#PROIEDUMAITRECHASSEUR|Proie du maître chasseur]]</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">5<sup>e</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]], [[tueur#TALENTDETUEUR|talent de tueur]], [[tueur#MAITRETUEUR|maître tueur]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le tueur</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">1<sup>re</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]], [[tueur#PISTAGE|pistage]]</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">2<sup>e</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[tueur#TALENTDETUEUR|talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[tueur#TRAQUEUR|Traqueur]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      3<sup>e</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]], [[tueur#TALENTDETUEUR|talent de tueur]],
+      [[tueur#TALENTDEMAITRETUEUR|Talent de maître tueur]]
+    </td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[tueur#PISTAGERAPIDE|Pistage rapide]]</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +4d6, [[tueur#TALENTDETUEUR|talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[tueur#AVANCEEDUTUEUR|Avancée du tueur]] 1/jour</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[tueur#PROIEDUCHASSEUR|Proie du chasseur]], [[tueur#TALENTDETUEUR|talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, 4<sup>e</sup> [[tueur#CIBLEETUDIEE|cible étudiée]]
+    </td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[tueur#TALENTDETUEUR|Talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[tueur#AVANCEEDUTUEUR|Avancée du tueur]] 2/jour</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[tueur#ATTAQUESOURNOISE|Attaque sournoise]] +6d6, [[tueur#TALENTDETUEUR|talent de tueur]]</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[tueur#PROIEDUMAITRECHASSEUR|Proie du maître chasseur]]</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      5<sup>e</sup> [[tueur#CIBLEETUDIEE|Cible étudiée]], [[tueur#TALENTDETUEUR|talent de tueur]],
+      [[tueur#MAITRETUEUR|maître tueur]]
+    </td>
+  </tr>
+</table>
 
 
 **Rôle.** Insaisissable, le tueur attend le moment et l’endroit idéaux pour frapper. Il mêle les talents les plus meurtriers du roublard et du rôdeur afin d’être au maximum de son efficacité pour engager le combat, éliminer sa cible et s’enfuir.

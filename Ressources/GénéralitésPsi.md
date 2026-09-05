@@ -50,7 +50,31 @@ Les créations de tatouages psioniques et de cristaux condensateurs utilisent le
 <table><tr style="vertical-align: bottom"><td width="65%">
 <center>
 
-<table CLASS="tablo"><caption>Création d'objets psioniques</caption><tr CLASS="titre"><td>Objets psioniques</td><td>[[Pathfinder-RPG.Dons#DONCREATION|Dons de création d'objets]]</td></tr><tr CLASS="premier"><td>Armes et armures psioniques</td><td>[[Pathfinder-RPG.Création darmes et armures magiques|Création d’armes et armures magiques]]</td></tr><tr CLASS="alt"><td>Couronnes psioniques</td><td>[[Pathfinder-RPG.Création de bâtons magiques|Création de bâtons magiques]]</td></tr><tr><td>Dorjés</td><td>[[Pathfinder-RPG.Création de baguettes magiques|Création de baguettes magiques]]</td></tr><tr CLASS="alt"><td>Gravure de pierres psioniques</td><td>[[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins magiques]]</td></tr><tr><td>Objets universels</td><td>[[Pathfinder-RPG.Création dobjets merveilleux|Création d’objets magiques merveilleux]]</td></tr><tr CLASS="alt"></tr></table>
+<table CLASS="tablo">
+  <caption>Création d'objets psioniques</caption>
+  <tr CLASS="titre">
+    <td>Objets psioniques</td>
+    <td>[[Pathfinder-RPG.Dons#DONCREATION|Dons de création d'objets]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>Armes et armures psioniques</td>
+    <td>[[Pathfinder-RPG.Création darmes et armures magiques|Création d’armes et armures magiques]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Couronnes psioniques</td>
+    <td>[[Pathfinder-RPG.Création de bâtons magiques|Création de bâtons magiques]]</td>
+  </tr>
+  <tr><td>Dorjés</td><td>[[Pathfinder-RPG.Création de baguettes magiques|Création de baguettes magiques]]</td></tr>
+  <tr CLASS="alt">
+    <td>Gravure de pierres psioniques</td>
+    <td>[[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins magiques]]</td>
+  </tr>
+  <tr>
+    <td>Objets universels</td>
+    <td>[[Pathfinder-RPG.Création dobjets merveilleux|Création d’objets magiques merveilleux]]</td>
+  </tr>
+  <tr CLASS="alt"></tr>
+</table>
 
 </tr></table>
 

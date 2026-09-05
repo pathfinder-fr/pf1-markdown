@@ -29,7 +29,195 @@ Durant le scénario un total de **23 points de vertus** sont à gagner.
 
 
 
-<table CLASS="tablo autoalt"><caption>Fiche guide - Journée</caption><tr class="titre"><td>CT</td><td>Lieu</td><td>Rencontre</td><td>#</td><td>FP</td><td>Vertu</td><td>B.A.</td><td>Visité ?</td></tr><tr><td>1</td><td>Entrée</td><td>[[Aventures.Conversion E1#Forain_0|Forains]]</td><td>2</td><td>1</td><td>2</td><td class="gauche">Donner l'aumône aux mendiants</td><td>o/n</td></tr><tr><td>2</td><td>Course traineaux</td><td>[[Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]]</td><td>2</td><td>4</td><td>2</td><td class="gauche">Libérer les villageois gelés</td><td>o/n</td></tr><tr><td>3</td><td>Ménagerie</td><td>[[Pathfinder-RPG.Homoncule|Homoncule]]</td><td>1</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>3</td><td>Ménagerie</td><td>Suture ([[Aventures.Conversion E1#Forain_0|forain]])</td><td>1</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>3</td><td>Ménagerie</td><td>Homme poisson ([[Aventures.Conversion E1#Forain_0|forain]])</td><td>1</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>3</td><td>Ménagerie</td><td>[[Aventures.Conversion E1#Torve_2|Torves]]</td><td>2</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>3</td><td>Ménagerie</td><td>Obèse ([[Aventures.Conversion E1#Forain_0|forain]])</td><td>1</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>3</td><td>Ménagerie</td><td>Udmor ([[Pathfinder-RPG.Ettin|Ettin]])</td><td>1</td><td>6</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>4</td><td>Tente vide</td><td>Bredouille</td><td>1</td><td>1</td><td>3</td><td class="gauche">Faire fuir Bredouille</td><td>o/n</td></tr><tr><td>5</td><td>Roue du Titan</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>6</td><td>Tente de la bière</td><td>Jasell ivre (bûcheron)</td><td>1</td><td>1</td><td>1</td><td class="gauche">Maitriser Jasell avec [[Pathfinder-RPG.Blessures et mort|dégâts non létaux]] uniquement</td><td>o/n</td></tr><tr><td>7</td><td>Peep show</td><td>Kroig Menottes ([[Pathfinder-RPG.Orque|orque]])</td><td>1</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>7a</td><td>Peep show intérieur</td><td>Gardes [[Pathfinder-RPG.Orque|orque]]</td><td>4</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>7b</td><td>Antre Kabran</td><td>[[Aventures.Conversion E1#Kabran_Oeil-Sanglant_3|Kabran Oeil-Sanglant]]</td><td>1</td><td>7</td><td>5</td><td class="gauche">Affronter Kabran</td><td>o/n</td></tr><tr><td>8</td><td>Ingénierie</td><td>Bûcheron videur (bûcheron)</td><td>1</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>8a</td><td>Ingénierie intérieur</td><td>-</td><td>0</td><td>0</td><td>3</td><td class="gauche">Sauver l'enfant happé par la machinerie</td><td>o/n</td></tr><tr><td>9</td><td>Berges du lac</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>10</td><td>Concours de Tartes</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>11</td><td>Pommes d'amour</td><td>-</td><td>0</td><td>0</td><td>2</td><td class="gauche">Sauver l'enfant qui s'étouffe avec une pomme</td><td>o/n</td></tr><tr><td>12</td><td>Démonstration de Quinn</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>13</td><td>Gradzaal</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>14</td><td>Labyrinthe</td><td>Forains</td><td>5</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr><tr><td>15</td><td>Sculptures de glace</td><td>[[Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]]</td><td>3</td><td>4</td><td>0</td><td>-</td><td>o/n</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Fiche guide - Journée</caption>
+  <tr class="titre">
+    <td>CT</td>
+    <td>Lieu</td>
+    <td>Rencontre</td>
+    <td>#</td>
+    <td>FP</td>
+    <td>Vertu</td>
+    <td>B.A.</td>
+    <td>Visité ?</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Entrée</td>
+    <td>[[Aventures.Conversion E1#Forain_0|Forains]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>2</td>
+    <td class="gauche">Donner l'aumône aux mendiants</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Course traineaux</td>
+    <td>[[Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]]</td>
+    <td>2</td>
+    <td>4</td>
+    <td>2</td>
+    <td class="gauche">Libérer les villageois gelés</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ménagerie</td>
+    <td>[[Pathfinder-RPG.Homoncule|Homoncule]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ménagerie</td>
+    <td>Suture ([[Aventures.Conversion E1#Forain_0|forain]])</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ménagerie</td>
+    <td>Homme poisson ([[Aventures.Conversion E1#Forain_0|forain]])</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ménagerie</td>
+    <td>[[Aventures.Conversion E1#Torve_2|Torves]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ménagerie</td>
+    <td>Obèse ([[Aventures.Conversion E1#Forain_0|forain]])</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ménagerie</td>
+    <td>Udmor ([[Pathfinder-RPG.Ettin|Ettin]])</td>
+    <td>1</td>
+    <td>6</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Tente vide</td>
+    <td>Bredouille</td>
+    <td>1</td>
+    <td>1</td>
+    <td>3</td>
+    <td class="gauche">Faire fuir Bredouille</td>
+    <td>o/n</td>
+  </tr>
+  <tr><td>5</td><td>Roue du Titan</td><td>-</td><td>-</td><td>-</td><td>0</td><td>-</td><td>o/n</td></tr>
+  <tr>
+    <td>6</td>
+    <td>Tente de la bière</td>
+    <td>Jasell ivre (bûcheron)</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td class="gauche">Maitriser Jasell avec [[Pathfinder-RPG.Blessures et mort|dégâts non létaux]] uniquement</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Peep show</td>
+    <td>Kroig Menottes ([[Pathfinder-RPG.Orque|orque]])</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>7a</td>
+    <td>Peep show intérieur</td>
+    <td>Gardes [[Pathfinder-RPG.Orque|orque]]</td>
+    <td>4</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>7b</td>
+    <td>Antre Kabran</td>
+    <td>[[Aventures.Conversion E1#Kabran_Oeil-Sanglant_3|Kabran Oeil-Sanglant]]</td>
+    <td>1</td>
+    <td>7</td>
+    <td>5</td>
+    <td class="gauche">Affronter Kabran</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Ingénierie</td>
+    <td>Bûcheron videur (bûcheron)</td>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+  <tr>
+    <td>8a</td>
+    <td>Ingénierie intérieur</td>
+    <td>-</td>
+    <td>0</td>
+    <td>0</td>
+    <td>3</td>
+    <td class="gauche">Sauver l'enfant happé par la machinerie</td>
+    <td>o/n</td>
+  </tr>
+  <tr><td>9</td><td>Berges du lac</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr>
+  <tr><td>10</td><td>Concours de Tartes</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr>
+  <tr>
+    <td>11</td>
+    <td>Pommes d'amour</td>
+    <td>-</td>
+    <td>0</td>
+    <td>0</td>
+    <td>2</td>
+    <td class="gauche">Sauver l'enfant qui s'étouffe avec une pomme</td>
+    <td>o/n</td>
+  </tr>
+  <tr><td>12</td><td>Démonstration de Quinn</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr>
+  <tr><td>13</td><td>Gradzaal</td><td>-</td><td>0</td><td>0</td><td>0</td><td>-</td><td>o/n</td></tr>
+  <tr><td>14</td><td>Labyrinthe</td><td>Forains</td><td>5</td><td>1</td><td>0</td><td>-</td><td>o/n</td></tr>
+  <tr>
+    <td>15</td>
+    <td>Sculptures de glace</td>
+    <td>[[Aventures.Conversion E1#Sculpteur_gelé_1|Sculpteurs gelés]]</td>
+    <td>3</td>
+    <td>4</td>
+    <td>0</td>
+    <td>-</td>
+    <td>o/n</td>
+  </tr>
+</table>
 
 
 
@@ -41,7 +229,23 @@ Dans le scénario, il est prévu une série d'évènements, de concours et d'ani
 
 
 
-<table class="tablo autoalt"><caption>Chronologie des évènement majeurs</caption><tr class="titre"><td>Heure</td><td>Lieu</td><td>Évènement</td><td>Vertu</td></tr><tr><td>10:00</td><td>CT1</td><td class="gauche">Ouverture des guichets</td><td>0</td></tr><tr><td>-</td><td>-</td><td class="gauche">Les concours de la foire</td><td>0</td></tr><tr><td>18:00</td><td>-</td><td class="gauche">Couché du soleil</td><td>0</td></tr><tr><td>18:00</td><td>CT2</td><td class="gauche">Sathelbry envouté par les fées : enlèvement 6 villageois / heure</td><td>0</td></tr><tr><td>19:30</td><td>CT12</td><td class="gauche">Quinn est présent pour faire sa démonstration</td><td>0</td></tr><tr><td>20:30</td><td>CT14</td><td class="gauche">Terreur dans le labyrinthe (ND 4)</td><td>5</td></tr><tr><td>20:50</td><td>-</td><td class="gauche">Convocation Syntira (document 1)</td><td>0</td></tr><tr><td>21:00</td><td>CT9</td><td class="gauche">Feu d'artifice : Attaque des fées</td><td>0</td></tr></table>
+<table class="tablo autoalt">
+  <caption>Chronologie des évènement majeurs</caption>
+  <tr class="titre"><td>Heure</td><td>Lieu</td><td>Évènement</td><td>Vertu</td></tr>
+  <tr><td>10:00</td><td>CT1</td><td class="gauche">Ouverture des guichets</td><td>0</td></tr>
+  <tr><td>-</td><td>-</td><td class="gauche">Les concours de la foire</td><td>0</td></tr>
+  <tr><td>18:00</td><td>-</td><td class="gauche">Couché du soleil</td><td>0</td></tr>
+  <tr>
+    <td>18:00</td>
+    <td>CT2</td>
+    <td class="gauche">Sathelbry envouté par les fées : enlèvement 6 villageois / heure</td>
+    <td>0</td>
+  </tr>
+  <tr><td>19:30</td><td>CT12</td><td class="gauche">Quinn est présent pour faire sa démonstration</td><td>0</td></tr>
+  <tr><td>20:30</td><td>CT14</td><td class="gauche">Terreur dans le labyrinthe (ND 4)</td><td>5</td></tr>
+  <tr><td>20:50</td><td>-</td><td class="gauche">Convocation Syntira (document 1)</td><td>0</td></tr>
+  <tr><td>21:00</td><td>CT9</td><td class="gauche">Feu d'artifice : Attaque des fées</td><td>0</td></tr>
+</table>
 
 
 
@@ -50,7 +254,51 @@ Dans le scénario, il est prévu une série d'évènements, de concours et d'ani
 Durant la foire ces mini jeux sont là pour distraire les PJ et faire ressentir une ambiance bonne enfant et légère.
 
 
-<table class="tablo autoalt"><caption>Descriptif concours</caption><tr class="titre"><td>Évènement</td><td>Coût inscription</td><td>Règles</td><td>Gains</td></tr><tr><td>Concours d'archérie</td><td>1 pa</td><td class="gauche">Tir à l'arc long de 3 flèches à 30m{br}Jet d'attaque à distance vs. CA des cercles de la cible{br}CA 10, 15, 20, 25 et 30 et donne autant de points</td><td class="gauche">Si **1ère place** : Poupée de la foire{br} Si **90 points** : flèche tueuse d'humains</td></tr><tr><td>Marche sur braises</td><td>1 pa</td><td class="gauche">Tapis 3m de braises {br}Pari contre les spectateurs{br}Jet de volonté DD25 pour traverser jusqu'au bout{br}La traversé inflige 1d4 dégâts de feu par round.</td><td class="gauche">Poupée de la foire et 50% des gains des paris</td></tr><tr><td>Le lancer d'oeufs</td><td>1 pa</td><td class="gauche">Nécessite 2 participants A et B{br}A. Jet d'attaque distance (-2/3m) VS CA 0{br}B. Jet de Réflexes DD0+2/3m{br}</td><td class="gauche">Poupée de la foire</td></tr><tr><td>Changeuse de destin tsigane</td><td>1 po ou 100 po</td><td class="gauche">Pour **1 po** : tirage de carte avec issue fatale{br}Pour **100 po** : sort de protection de la peur du PJ</td><td class="gauche">Si **100 po** : lorsque le PJ quitte la tente, la tsigane{br}donne une baguette de [[Pathfinder-RPG.Fracassement|fracassement]]{br}en fer froid (35/50, NLS3)</td></tr><tr><td>Le lancer d'anneaux</td><td>x pa</td><td class="gauche">x</td><td class="gauche">x</td></tr><tr><td>La course en sac</td><td>x pa</td><td class="gauche">x</td><td class="gauche">x</td></tr><tr><td>Terreur dans le labyrinthe</td><td>x pa</td><td class="gauche">x</td><td class="gauche">x</td></tr></table>
+<table class="tablo autoalt">
+  <caption>Descriptif concours</caption>
+  <tr class="titre"><td>Évènement</td><td>Coût inscription</td><td>Règles</td><td>Gains</td></tr>
+  <tr>
+    <td>Concours d'archérie</td>
+    <td>1 pa</td>
+    <td class="gauche">
+      Tir à l'arc long de 3 flèches à 30m{br}Jet d'attaque à distance vs. CA des cercles de la cible{br}CA 10, 15,
+      20, 25 et 30 et donne autant de points
+    </td>
+    <td class="gauche">Si **1ère place** : Poupée de la foire{br} Si **90 points** : flèche tueuse d'humains</td>
+  </tr>
+  <tr>
+    <td>Marche sur braises</td>
+    <td>1 pa</td>
+    <td class="gauche">
+      Tapis 3m de braises {br}Pari contre les spectateurs{br}Jet de volonté DD25 pour traverser jusqu'au bout{br}La
+      traversé inflige 1d4 dégâts de feu par round.
+    </td>
+    <td class="gauche">Poupée de la foire et 50% des gains des paris</td>
+  </tr>
+  <tr>
+    <td>Le lancer d'oeufs</td>
+    <td>1 pa</td>
+    <td class="gauche">
+      Nécessite 2 participants A et B{br}A. Jet d'attaque distance (-2/3m) VS CA 0{br}B. Jet de Réflexes
+      DD0+2/3m{br}
+    </td>
+    <td class="gauche">Poupée de la foire</td>
+  </tr>
+  <tr>
+    <td>Changeuse de destin tsigane</td>
+    <td>1 po ou 100 po</td>
+    <td class="gauche">
+      Pour **1 po** : tirage de carte avec issue fatale{br}Pour **100 po** : sort de protection de la peur du PJ
+    </td>
+    <td class="gauche">
+      Si **100 po** : lorsque le PJ quitte la tente, la tsigane{br}donne une baguette de
+      [[Pathfinder-RPG.Fracassement|fracassement]]{br}en fer froid (35/50, NLS3)
+    </td>
+  </tr>
+  <tr><td>Le lancer d'anneaux</td><td>x pa</td><td class="gauche">x</td><td class="gauche">x</td></tr>
+  <tr><td>La course en sac</td><td>x pa</td><td class="gauche">x</td><td class="gauche">x</td></tr>
+  <tr><td>Terreur dans le labyrinthe</td><td>x pa</td><td class="gauche">x</td><td class="gauche">x</td></tr>
+</table>
 
 
 

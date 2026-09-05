@@ -27,7 +27,22 @@ La région des plaines de Carpenden est, à bien des égards, le grenier de la n
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%"><caption>Rencontres aléatoires dans les Plaines de Carpenden<sup>(3)</sup></caption><tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr><tr CLASS="premier"><td>1–8</td><td>1d3 [[Pathfinder-RPG.PNJ routes#VAGABOND|vagabonds]]</td><td>3</td></tr><tr><td>9–18</td><td>1 [[Pathfinder-RPG.Aigle géant|aigle géant]]</td><td>3</td></tr><tr><td>19–24</td><td>1 [[Pathfinder-RPG.Lion|lion]]</td><td>3</td></tr><tr><td>25–34</td><td>3d4 [[Pathfinder-RPG.Antilope|antilopes]]</td><td>4</td></tr><tr><td>35–42</td><td>2 [[Pathfinder-RPG.Fer de hache|fers de hache]]</td><td>4</td></tr><tr><td>43–51</td><td>1d4+1 [[Pathfinder-RPG.Abeille géante|abeilles géantes]]</td><td>4</td></tr><tr><td>52–58</td><td>1d4+2 [[Pathfinder-RPG.Atomie|atomies]]</td><td>5</td></tr><tr><td>59–65</td><td>1 [[Pathfinder-RPG.Lion sanguinaire|lion sanguinaire]]</td><td>5</td></tr><tr><td>66–74</td><td>3d4 [[Pathfinder-RPG.Chien de selle|chiens de selle]]</td><td>5</td></tr><tr><td>75–82</td><td>1d6 [[Pathfinder-RPG.Ankheg|ankhegs]]</td><td>6</td></tr><tr><td>83–90</td><td>1d4+2 [[Pathfinder-RPG.Porc-épic géant|porcs-épics gants]]</td><td>6</td></tr><tr><td>91–100</td><td>2 [[Pathfinder-RPG.Vautour géant|vautours géants]]</td><td>6</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%">
+  <caption>Rencontres aléatoires dans les Plaines de Carpenden<sup>(3)</sup></caption>
+  <tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr>
+  <tr CLASS="premier"><td>1–8</td><td>1d3 [[Pathfinder-RPG.PNJ routes#VAGABOND|vagabonds]]</td><td>3</td></tr>
+  <tr><td>9–18</td><td>1 [[Pathfinder-RPG.Aigle géant|aigle géant]]</td><td>3</td></tr>
+  <tr><td>19–24</td><td>1 [[Pathfinder-RPG.Lion|lion]]</td><td>3</td></tr>
+  <tr><td>25–34</td><td>3d4 [[Pathfinder-RPG.Antilope|antilopes]]</td><td>4</td></tr>
+  <tr><td>35–42</td><td>2 [[Pathfinder-RPG.Fer de hache|fers de hache]]</td><td>4</td></tr>
+  <tr><td>43–51</td><td>1d4+1 [[Pathfinder-RPG.Abeille géante|abeilles géantes]]</td><td>4</td></tr>
+  <tr><td>52–58</td><td>1d4+2 [[Pathfinder-RPG.Atomie|atomies]]</td><td>5</td></tr>
+  <tr><td>59–65</td><td>1 [[Pathfinder-RPG.Lion sanguinaire|lion sanguinaire]]</td><td>5</td></tr>
+  <tr><td>66–74</td><td>3d4 [[Pathfinder-RPG.Chien de selle|chiens de selle]]</td><td>5</td></tr>
+  <tr><td>75–82</td><td>1d6 [[Pathfinder-RPG.Ankheg|ankhegs]]</td><td>6</td></tr>
+  <tr><td>83–90</td><td>1d4+2 [[Pathfinder-RPG.Porc-épic géant|porcs-épics gants]]</td><td>6</td></tr>
+  <tr><td>91–100</td><td>2 [[Pathfinder-RPG.Vautour géant|vautours géants]]</td><td>6</td></tr>
+</table>
 
 </div></div>En raison de ses nombreuses communautés agricoles et de ses fleuves très fréquentées (en particulier l'Andoshen), les plaines de Carpenden sont une région relativement sûre. Cette sécurité, ancrée dans les esprits, conduit de nombreux jeunes à quitter leur domicile et à tenter leur chance en tant qu'aventuriers ou d'autres activités passionnantes dans les grandes villes le long de la côte de la [[mer intérieure]]. Les quelques dangers qui existent incluent, des ours, des brigands, des [[Pathfinder-RPG.Gremlin|gremlins]], des [[Pathfinder-RPG.Drake des rivières|drakes des rivières]], des [[Pathfinder-RPG.Loup|loups]].<sup>(4)</sup>
 

@@ -27,7 +27,17 @@ Si le personnage [[course|court]] pendant tout le round, sa vitesse de déplacem
 {s:Reference|TABLEVITESSEDEPLACEMENT}
 <center>
 
-<table CLASS="tablo"><caption>Vitesse de déplacement tactique</caption><tr CLASS="titre"><td>Race</td><td>Pas d'armure ou armure légère</td><td>Armure intermédiaire ou lourde</td></tr><tr CLASS="premier"><td>[[Humain]], [[demi-elfe]], [[demi-orque]], [[elfe]]</td><td>9 m (6 cases)</td><td>6 m (4 cases)</td></tr><tr CLASS="alt"><td>[[Nain]]</td><td>6 m (4 cases)</td><td>6 m (4 cases)</td></tr><tr><td>[[Gnome]], [[halfelin]]</td><td>6 m (4 cases)</td><td>4,50 m (3 cases)</td></tr></table>
+<table CLASS="tablo">
+  <caption>Vitesse de déplacement tactique</caption>
+  <tr CLASS="titre"><td>Race</td><td>Pas d'armure ou armure légère</td><td>Armure intermédiaire ou lourde</td></tr>
+  <tr CLASS="premier">
+    <td>[[Humain]], [[demi-elfe]], [[demi-orque]], [[elfe]]</td>
+    <td>9 m (6 cases)</td>
+    <td>6 m (4 cases)</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Nain]]</td><td>6 m (4 cases)</td><td>6 m (4 cases)</td></tr>
+  <tr><td>[[Gnome]], [[halfelin]]</td><td>6 m (4 cases)</td><td>4,50 m (3 cases)</td></tr>
+</table>
 
 </center>
 

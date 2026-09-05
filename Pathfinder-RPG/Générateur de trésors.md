@@ -29,15 +29,80 @@ Une fois que vous avez déterminé la valeur de base de votre trésor en fonctio
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Valeur de trésor de chaque rencontre</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau moyen   
-du groupe</td><td COLSPAN="3" CLASS="avecsoustitre">Trésor de la rencontre (po)</td></tr><tr CLASS="soustitre"><td>Progression   
-lente</td><td>Progression   
-moyenne</td><td>Progression   
-rapide</td></tr><tr CLASS="premier"><td>1</td><td>170</td><td>260</td><td>400</td></tr><tr><td>2</td><td>350</td><td>550</td><td>800</td></tr><tr><td>3</td><td>550</td><td>800</td><td>1 200</td></tr><tr><td>4</td><td>750</td><td>1 150</td><td>1 700</td></tr><tr><td>5</td><td>1 000</td><td>1 550</td><td>2 300</td></tr><tr><td>6</td><td>1 350</td><td>2 000</td><td>3 000</td></tr><tr><td>7</td><td>1 750</td><td>2 600</td><td>3 900</td></tr><tr><td>8</td><td>2 200</td><td>3 350</td><td>5 000</td></tr><tr><td>9</td><td>2 850</td><td>4 250</td><td>6 400</td></tr><tr><td>10</td><td>3 650</td><td>5 450</td><td>8 200</td></tr><tr><td>11</td><td>4 650</td><td>7 000</td><td>10 500</td></tr><tr><td>12</td><td>6 000</td><td>9 000</td><td>13 500</td></tr><tr><td>13</td><td>7 750</td><td>11 600</td><td>17 500</td></tr><tr><td>14</td><td>10 000</td><td>15 000</td><td>22 000</td></tr><tr><td>15</td><td>13 000</td><td>19 500</td><td>29 000</td></tr><tr><td>16</td><td>16 500</td><td>25 000</td><td>38 000</td></tr><tr><td>17</td><td>22 000</td><td>32 000</td><td>48 000</td></tr><tr><td>18</td><td>28 000</td><td>41 000</td><td>62 000</td></tr><tr><td>19</td><td>35 000</td><td>53 000</td><td>79 000</td></tr><tr><td>20</td><td>44 000</td><td>67 000</td><td>100 000</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Valeur de trésor de chaque rencontre</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau moyen   
+du groupe</td>
+    <td COLSPAN="3" CLASS="avecsoustitre">Trésor de la rencontre (po)</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>Progression   
+lente</td>
+    <td>Progression   
+moyenne</td>
+    <td>Progression   
+rapide</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>170</td><td>260</td><td>400</td></tr>
+  <tr><td>2</td><td>350</td><td>550</td><td>800</td></tr>
+  <tr><td>3</td><td>550</td><td>800</td><td>1 200</td></tr>
+  <tr><td>4</td><td>750</td><td>1 150</td><td>1 700</td></tr>
+  <tr><td>5</td><td>1 000</td><td>1 550</td><td>2 300</td></tr>
+  <tr><td>6</td><td>1 350</td><td>2 000</td><td>3 000</td></tr>
+  <tr><td>7</td><td>1 750</td><td>2 600</td><td>3 900</td></tr>
+  <tr><td>8</td><td>2 200</td><td>3 350</td><td>5 000</td></tr>
+  <tr><td>9</td><td>2 850</td><td>4 250</td><td>6 400</td></tr>
+  <tr><td>10</td><td>3 650</td><td>5 450</td><td>8 200</td></tr>
+  <tr><td>11</td><td>4 650</td><td>7 000</td><td>10 500</td></tr>
+  <tr><td>12</td><td>6 000</td><td>9 000</td><td>13 500</td></tr>
+  <tr><td>13</td><td>7 750</td><td>11 600</td><td>17 500</td></tr>
+  <tr><td>14</td><td>10 000</td><td>15 000</td><td>22 000</td></tr>
+  <tr><td>15</td><td>13 000</td><td>19 500</td><td>29 000</td></tr>
+  <tr><td>16</td><td>16 500</td><td>25 000</td><td>38 000</td></tr>
+  <tr><td>17</td><td>22 000</td><td>32 000</td><td>48 000</td></tr>
+  <tr><td>18</td><td>28 000</td><td>41 000</td><td>62 000</td></tr>
+  <tr><td>19</td><td>35 000</td><td>53 000</td><td>79 000</td></tr>
+  <tr><td>20</td><td>44 000</td><td>67 000</td><td>100 000</td></tr>
+</table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Équipement des PNJ</caption><tr CLASS="titre"><td>Niveau de base<sup>1</sup></td><td>Niveau héroïque<sup>2</sup></td><td>Valeur du trésor (po)</td></tr><tr CLASS="premier"><td>1</td><td>—</td><td>260</td></tr><tr><td>2</td><td>1</td><td>390</td></tr><tr><td>3</td><td>2</td><td>780</td></tr><tr><td>4</td><td>3</td><td>1 650</td></tr><tr><td>5</td><td>4</td><td>2 400</td></tr><tr><td>6</td><td>5</td><td>3 450</td></tr><tr><td>7</td><td>6</td><td>4 650</td></tr><tr><td>8</td><td>7</td><td>6 000</td></tr><tr><td>9</td><td>8</td><td>7 800</td></tr><tr><td>10</td><td>9</td><td>10 050</td></tr><tr><td>11</td><td>10</td><td>12 750</td></tr><tr><td>12</td><td>11</td><td>16 350</td></tr><tr><td>13</td><td>12</td><td>21 000</td></tr><tr><td>14</td><td>13</td><td>27 000</td></tr><tr><td>15</td><td>14</td><td>34 800</td></tr><tr><td>16</td><td>15</td><td>45 000</td></tr><tr><td>17</td><td>16</td><td>58 500</td></tr><tr><td>18</td><td>17</td><td>75 000</td></tr><tr><td>19</td><td>18</td><td>96 000</td></tr><tr><td>20</td><td>19</td><td>123 000</td></tr><tr><td>—</td><td>20</td><td>159 000</td></tr><tr CLASS="note"><td COLSPAN="3">*(1) Niveau de base pour les PNJ qui ont seulement des niveaux de [[Classes de PNJ|classe de PNJ]].*</td></tr><tr CLASS="note"><td COLSPAN="3">*(2) Niveau héroïque pour les PNJ qui ont des niveaux de classe de PJ.*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="94%">
+  <caption>Équipement des PNJ</caption>
+  <tr CLASS="titre">
+    <td>Niveau de base<sup>1</sup></td>
+    <td>Niveau héroïque<sup>2</sup></td>
+    <td>Valeur du trésor (po)</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>—</td><td>260</td></tr>
+  <tr><td>2</td><td>1</td><td>390</td></tr>
+  <tr><td>3</td><td>2</td><td>780</td></tr>
+  <tr><td>4</td><td>3</td><td>1 650</td></tr>
+  <tr><td>5</td><td>4</td><td>2 400</td></tr>
+  <tr><td>6</td><td>5</td><td>3 450</td></tr>
+  <tr><td>7</td><td>6</td><td>4 650</td></tr>
+  <tr><td>8</td><td>7</td><td>6 000</td></tr>
+  <tr><td>9</td><td>8</td><td>7 800</td></tr>
+  <tr><td>10</td><td>9</td><td>10 050</td></tr>
+  <tr><td>11</td><td>10</td><td>12 750</td></tr>
+  <tr><td>12</td><td>11</td><td>16 350</td></tr>
+  <tr><td>13</td><td>12</td><td>21 000</td></tr>
+  <tr><td>14</td><td>13</td><td>27 000</td></tr>
+  <tr><td>15</td><td>14</td><td>34 800</td></tr>
+  <tr><td>16</td><td>15</td><td>45 000</td></tr>
+  <tr><td>17</td><td>16</td><td>58 500</td></tr>
+  <tr><td>18</td><td>17</td><td>75 000</td></tr>
+  <tr><td>19</td><td>18</td><td>96 000</td></tr>
+  <tr><td>20</td><td>19</td><td>123 000</td></tr>
+  <tr><td>—</td><td>20</td><td>159 000</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(1) Niveau de base pour les PNJ qui ont seulement des niveaux de [[Classes de PNJ|classe de PNJ]].*
+    </td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="3">*(2) Niveau héroïque pour les PNJ qui ont des niveaux de classe de PJ.*</td></tr>
+</table>
 
 </td></tr></table>
 

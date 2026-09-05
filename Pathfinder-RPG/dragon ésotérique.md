@@ -9,7 +9,23 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 240px;">
 
-<table CLASS="tablo centre autoalt"><caption>Variantes de dragons ésotériques</caption><tr CLASS="titre"><td>Dragons sidéraux</td><td>FP*</td></tr><tr CLASS="premier"><td>[[Dragon astral]]</td><td>9, 13, 18</td></tr><tr><td>[[Dragon des cauchemars]]</td><td>6, 10, 15</td></tr><tr><td>[[Dragon des rêves]]</td><td>10, 14, 19</td></tr><tr><td>[[Dragon éthéré]]</td><td>7, 11, 16</td></tr><tr><td>[[Dragon occulte]]</td><td>6, 10, 15</td></tr><tr CLASS="titre"><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td COLSPAN="2">Autres catégories de dragon</td></tr><tr CLASS="premier"><td COLSPAN="2">[[Dragon impérial|Dragons impériaux]]</td></tr><tr><td COLSPAN="2">[[Dragon sidéral|Dragons sidéraux]]</td></tr><tr><td COLSPAN="2">[[Dragon|Dragons véritables]]</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Les FP cités sont ceux des versions jeunes, adultes, et vénérables des dragons concernés.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Variantes de dragons ésotériques</caption>
+  <tr CLASS="titre"><td>Dragons sidéraux</td><td>FP*</td></tr>
+  <tr CLASS="premier"><td>[[Dragon astral]]</td><td>9, 13, 18</td></tr>
+  <tr><td>[[Dragon des cauchemars]]</td><td>6, 10, 15</td></tr>
+  <tr><td>[[Dragon des rêves]]</td><td>10, 14, 19</td></tr>
+  <tr><td>[[Dragon éthéré]]</td><td>7, 11, 16</td></tr>
+  <tr><td>[[Dragon occulte]]</td><td>6, 10, 15</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td></sup></td></tr>
+  <tr CLASS="titre"><td COLSPAN="2">Autres catégories de dragon</td></tr>
+  <tr CLASS="premier"><td COLSPAN="2">[[Dragon impérial|Dragons impériaux]]</td></tr>
+  <tr><td COLSPAN="2">[[Dragon sidéral|Dragons sidéraux]]</td></tr>
+  <tr><td COLSPAN="2">[[Dragon|Dragons véritables]]</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">*(*) Les FP cités sont ceux des versions jeunes, adultes, et vénérables des dragons concernés.*</td>
+  </tr>
+</table>
 
 </div></div><div style="float:right"><nav class="wiki-toc"></nav></div><div class="description">**Source :** Bestiaire 4, p.68</div>
 *Types/Sous-types associés : [[type Dragon|Dragon]] ([[sous-type Extraplanaire|extraplanaire]]).*

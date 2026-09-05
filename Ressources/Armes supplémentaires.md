@@ -15,7 +15,91 @@ LastModified: 2017-04-08 15:09
 
 
 
-<table CLASS="tablo"><caption>Tableau récapitulatif des armes supplémentaires</caption><tr CLASS="titre"><td>Armes</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Facteur de portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes simples légères**</td></tr><tr CLASS="alt"><td>&emsp; Stylet</td><td>2 pa</td><td>1d2</td><td>1d3</td><td>20/×3</td><td>—</td><td>0,1 kg</td><td>P</td><td>—</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes de guerre légères**</td></tr><tr CLASS="alt"><td>&emsp; tanto</td><td>4 po</td><td>1d3</td><td>1d4</td><td>19-20/×2</td><td>—</td><td>0,5 kg</td><td>P et T</td><td>Mortelle</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes de guerre à deux mains**</td></tr><tr CLASS="alt"><td>&emsp; Espadon flamberge</td><td>125 po</td><td>1d10</td><td>1d12</td><td>19-20/×2</td><td>—</td><td>5 kg</td><td>T</td><td>Voir texte</td></tr><tr><td>&emsp; Maillet</td><td>15 po</td><td>1d8</td><td>1d10</td><td>20/×3</td><td>-</td><td>10 kg</td><td>C</td><td>—</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes de guerre à distance**</td></tr><tr CLASS="alt"><td>&emsp; Arc elfique court</td><td>300 po</td><td>-</td><td>1d8</td><td>20/×3</td><td>24 m</td><td>1 kg</td><td>P</td><td>—</td></tr><tr><td>&emsp; Arc elfique long</td><td>400 po</td><td>-</td><td>1d10</td><td>20/×3</td><td>36 m</td><td>1,5 kg</td><td>P</td><td>—</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes exotiques à deux mains**</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tableau récapitulatif des armes supplémentaires</caption>
+  <tr CLASS="titre">
+    <td>Armes</td>
+    <td>Prix</td>
+    <td>Dégâts (P)</td>
+    <td>Dégâts (M)</td>
+    <td>Critique</td>
+    <td>Facteur de portée</td>
+    <td>Poids</td>
+    <td>Type</td>
+    <td>Spécial</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Armes simples légères**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp; Stylet</td>
+    <td>2 pa</td>
+    <td>1d2</td>
+    <td>1d3</td>
+    <td>20/×3</td>
+    <td>—</td>
+    <td>0,1 kg</td>
+    <td>P</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Armes de guerre légères**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp; tanto</td>
+    <td>4 po</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>19-20/×2</td>
+    <td>—</td>
+    <td>0,5 kg</td>
+    <td>P et T</td>
+    <td>Mortelle</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Armes de guerre à deux mains**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp; Espadon flamberge</td>
+    <td>125 po</td>
+    <td>1d10</td>
+    <td>1d12</td>
+    <td>19-20/×2</td>
+    <td>—</td>
+    <td>5 kg</td>
+    <td>T</td>
+    <td>Voir texte</td>
+  </tr>
+  <tr>
+    <td>&emsp; Maillet</td>
+    <td>15 po</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>20/×3</td>
+    <td>-</td>
+    <td>10 kg</td>
+    <td>C</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Armes de guerre à distance**</td></tr>
+  <tr CLASS="alt">
+    <td>&emsp; Arc elfique court</td>
+    <td>300 po</td>
+    <td>-</td>
+    <td>1d8</td>
+    <td>20/×3</td>
+    <td>24 m</td>
+    <td>1 kg</td>
+    <td>P</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; Arc elfique long</td>
+    <td>400 po</td>
+    <td>-</td>
+    <td>1d10</td>
+    <td>20/×3</td>
+    <td>36 m</td>
+    <td>1,5 kg</td>
+    <td>P</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="premier"><td COLSPAN="9">**Armes exotiques à deux mains**</td></tr>
+</table>
 
 
 
@@ -56,13 +140,40 @@ Le tanto est une variante de dague commune dans les contrées orientales. Dans c
 Les arbalètes lourdes prennent un round entier à recharger. Il en existe des [modèles](http://fr.wikipedia.org/wiki/Arbal%C3%A8te_%28arme%29#.C3.89l.C3.A9ments_historiques) à gros ressorts, faisant plus de dégâts. Celles-ci ne peuvent être rechargées que par un individu doué d’une grande force, ou éventuellement en utilisant un puissant levier, ce qui nécessite plus de temps. L'utilisation du don rechargement rapide sur ce type d'engin doit s'accompagner d'un test de force. Il est impossible d'utiliser le rechargement rapide en utilisant un levier spécial. La possibilité d'armes individuelles encore plus puissantes que celles présentées ci dessous est assez restreinte du fait que les premières baliste envoient des carreaux infligeant 3d8 points de dégâts.
 
 
-<table CLASS="tablo col1centre"><caption>Nouvelles arbalètes lourdes</caption><tr CLASS="titre"><td>Dégâts</td><td>Force nécessaire au rechargement</td><td>DD pour rechargement rapide</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>1D10</td><td>Aucune</td><td>Aucun</td><td>50 PO</td><td>4 kg</td></tr><tr CLASS="alt"><td>1D12</td><td>13</td><td>12</td><td>150 PO</td><td>5 kg</td></tr><tr><td>3D4</td><td>15</td><td>13</td><td>250 PO</td><td>6 kg</td></tr><tr CLASS="alt"><td>2D8</td><td>17</td><td>14</td><td>400 PO</td><td>7 kg</td></tr><tr><td>4D4</td><td>19</td><td>15</td><td>500 PO</td><td>8 kg</td></tr><tr CLASS="alt"><td>2D10</td><td>21</td><td>16</td><td>600 PO</td><td>9 kg</td></tr><tr><td>2D12</td><td>25</td><td>18</td><td>800 PO</td><td>11 kg</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Nouvelles arbalètes lourdes</caption>
+  <tr CLASS="titre">
+    <td>Dégâts</td>
+    <td>Force nécessaire au rechargement</td>
+    <td>DD pour rechargement rapide</td>
+    <td>Prix</td>
+    <td>Poids</td>
+  </tr>
+  <tr CLASS="premier"><td>1D10</td><td>Aucune</td><td>Aucun</td><td>50 PO</td><td>4 kg</td></tr>
+  <tr CLASS="alt"><td>1D12</td><td>13</td><td>12</td><td>150 PO</td><td>5 kg</td></tr>
+  <tr><td>3D4</td><td>15</td><td>13</td><td>250 PO</td><td>6 kg</td></tr>
+  <tr CLASS="alt"><td>2D8</td><td>17</td><td>14</td><td>400 PO</td><td>7 kg</td></tr>
+  <tr><td>4D4</td><td>19</td><td>15</td><td>500 PO</td><td>8 kg</td></tr>
+  <tr CLASS="alt"><td>2D10</td><td>21</td><td>16</td><td>600 PO</td><td>9 kg</td></tr>
+  <tr><td>2D12</td><td>25</td><td>18</td><td>800 PO</td><td>11 kg</td></tr>
+</table>
 
 
 Les leviers présentés ci dessous diminuent la force nécessaire pour recharger les arbalètes, mais en augmentent le temps de rechargement. Les leviers les arbalètes disposent d'un dispositif de cliquet anti retour. Si le processus de rechargement doit être interrompu, il suffit d'une action rapide pour enclencher le cliquet et éviter que le ressort ne se détende d'un coup. Si le personnage n'a pas le temps d'enclencher le cliquet, il a tout de même 50% de chance de se bloquer automatiquement.
 
 
-<table CLASS="tablo col1centre"><caption>Leviers pour arbalètes</caption><tr CLASS="titre"><td>Diminution de la valeur de force nécessaire</td><td>temps de rechargement total</td><td>Prix</td></tr><tr CLASS="premier"><td>-1</td><td>1 round + 1 action de mouvement</td><td>5 PO</td></tr><tr CLASS="alt"><td>-2</td><td>1 round + 1 action simple</td><td>10 PO</td></tr><tr><td>-4</td><td>2 round</td><td>20 PO</td></tr><tr CLASS="alt"><td>-6</td><td>3 round</td><td>60 PO</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Leviers pour arbalètes</caption>
+  <tr CLASS="titre">
+    <td>Diminution de la valeur de force nécessaire</td>
+    <td>temps de rechargement total</td>
+    <td>Prix</td>
+  </tr>
+  <tr CLASS="premier"><td>-1</td><td>1 round + 1 action de mouvement</td><td>5 PO</td></tr>
+  <tr CLASS="alt"><td>-2</td><td>1 round + 1 action simple</td><td>10 PO</td></tr>
+  <tr><td>-4</td><td>2 round</td><td>20 PO</td></tr>
+  <tr CLASS="alt"><td>-6</td><td>3 round</td><td>60 PO</td></tr>
+</table>
 
 
 
@@ -90,7 +201,36 @@ Une arme adaptable est considérée comme étant en même temps une arme P et un
 
 
 
-<table CLASS="tablo"><caption>Séries d'armes</caption><tr CLASS="titre"><td>Nom</td><td>1d4</td><td>1d6</td><td>1d8</td><td>1d10</td><td>2d6 ou 1d12</td></tr><tr CLASS="premier"></tr><tr CLASS="alt"><td>Les lames</td><td>Dague</td><td>épée courte</td><td>épée longue</td><td>épée bâtarde</td><td>épée à deux mains</td></tr><tr><td>Les haches</td><td>-</td><td>Hachette</td><td>hache d'arme</td><td>hache naine</td><td>grande hache</td></tr><tr CLASS="alt"><td>Les masses</td><td>-</td><td>Masse légère</td><td>Masse lourde OU Morgenstern</td><td>Massue</td><td>-</td></tr><tr><td>Les épieux</td><td>Pieux</td><td>Épieux</td><td>Lance</td><td>-</td><td>-</td></tr></table>
+<table CLASS="tablo">
+  <caption>Séries d'armes</caption>
+  <tr CLASS="titre"><td>Nom</td><td>1d4</td><td>1d6</td><td>1d8</td><td>1d10</td><td>2d6 ou 1d12</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr CLASS="alt">
+    <td>Les lames</td>
+    <td>Dague</td>
+    <td>épée courte</td>
+    <td>épée longue</td>
+    <td>épée bâtarde</td>
+    <td>épée à deux mains</td>
+  </tr>
+  <tr>
+    <td>Les haches</td>
+    <td>-</td>
+    <td>Hachette</td>
+    <td>hache d'arme</td>
+    <td>hache naine</td>
+    <td>grande hache</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Les masses</td>
+    <td>-</td>
+    <td>Masse légère</td>
+    <td>Masse lourde OU Morgenstern</td>
+    <td>Massue</td>
+    <td>-</td>
+  </tr>
+  <tr><td>Les épieux</td><td>Pieux</td><td>Épieux</td><td>Lance</td><td>-</td><td>-</td></tr>
+</table>
 
 
 

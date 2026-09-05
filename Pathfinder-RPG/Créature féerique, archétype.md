@@ -36,7 +36,20 @@ La « créature féerique » est un archétype hérité ou acquis que l’on peu
 <td><div>Voir un exemple : le [[crapaud féerique géant]].
 
 
-<table CLASS="tablo centre toutgauche"><tr CLASS="titre"><td>DV</td><td>Pouvoirs magiques</td></tr><tr CLASS="premier"></tr><tr><td>1-2</td><td>*[[Lueur féerique]]*, *[[lumières dansantes]]* 3/jour</td></tr><tr><td>3-4</td><td>*[[Enchevêtrement]]*, *[[poussière scintillante]]*</td></tr><tr><td>5-6</td><td>*[[Sommeil profond]]*</td></tr><tr><td>7-8</td><td>*[[Image accomplie]]*</td></tr><tr><td>9-10</td><td>*[[Confusion]]*</td></tr><tr><td>11-12</td><td>*[[Débilité]]*</td></tr><tr><td>13-14</td><td>*[[Double illusoire]]*</td></tr><tr><td>15-16</td><td>*[[projection dimage|Projection d’image]]*</td></tr><tr><td>17-18</td><td>*[[Danse irrésistible]]*</td></tr><tr><td>19-20</td><td>*[[Motif scintillant]]*</td></tr></table>
+<table CLASS="tablo centre toutgauche">
+  <tr CLASS="titre"><td>DV</td><td>Pouvoirs magiques</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr><td>1-2</td><td>*[[Lueur féerique]]*, *[[lumières dansantes]]* 3/jour</td></tr>
+  <tr><td>3-4</td><td>*[[Enchevêtrement]]*, *[[poussière scintillante]]*</td></tr>
+  <tr><td>5-6</td><td>*[[Sommeil profond]]*</td></tr>
+  <tr><td>7-8</td><td>*[[Image accomplie]]*</td></tr>
+  <tr><td>9-10</td><td>*[[Confusion]]*</td></tr>
+  <tr><td>11-12</td><td>*[[Débilité]]*</td></tr>
+  <tr><td>13-14</td><td>*[[Double illusoire]]*</td></tr>
+  <tr><td>15-16</td><td>*[[projection dimage|Projection d’image]]*</td></tr>
+  <tr><td>17-18</td><td>*[[Danse irrésistible]]*</td></tr>
+  <tr><td>19-20</td><td>*[[Motif scintillant]]*</td></tr>
+</table>
 
 
 Les créatures féeriques ressemblent aux créatures ordinaires dont elles dérivent mais ont des couleurs plus vives, des traits délicats et des ailes élégantes telles celles d’une pixie ou d’un esprit follet. Malgré leur apparence fragile, les créatures féeriques sont tout aussi résistantes que leurs parents non-créatures féeriques, même si elles sacrifient la puissance brute au profit de la grâce et de la capacité à voler. Elles ont une longue espérance de vie, sauf mort accidentelle, et montrent rarement des signes de vieillesse.

@@ -25,7 +25,14 @@ Les créatures géantes créées par ce sort ne font jamais de mal au personnage
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>[[NLS]]</td><td>Mille-pattes</td><td>Scorpions</td><td>Araignées</td></tr><tr CLASS="premier"><td>9e ou moins</td><td>3</td><td>1</td><td>2</td></tr><tr CLASS="alt"><td>10e–13e</td><td>4</td><td>2</td><td>3</td></tr><tr><td>14e–17e</td><td>6</td><td>3</td><td>4</td></tr><tr CLASS="alt"><td>18e–19e</td><td>8</td><td>4</td><td>5</td></tr><tr><td>20 ou +</td><td>12</td><td>6</td><td>8</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>[[NLS]]</td><td>Mille-pattes</td><td>Scorpions</td><td>Araignées</td></tr>
+  <tr CLASS="premier"><td>9e ou moins</td><td>3</td><td>1</td><td>2</td></tr>
+  <tr CLASS="alt"><td>10e–13e</td><td>4</td><td>2</td><td>3</td></tr>
+  <tr><td>14e–17e</td><td>6</td><td>3</td><td>4</td></tr>
+  <tr CLASS="alt"><td>18e–19e</td><td>8</td><td>4</td><td>5</td></tr>
+  <tr><td>20 ou +</td><td>12</td><td>6</td><td>8</td></tr>
+</table>
 
 </center>
 

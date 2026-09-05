@@ -32,9 +32,45 @@ Le talent du personnage lui permet de divertir son public et d’en vivre.
 
 <center>
 
-<table CLASS="tablo" WIDTH="90%"><caption>Tests de représentation</caption><tr CLASS="titre"><td>Résultat du   
+<table CLASS="tablo" WIDTH="90%">
+  <caption>Tests de représentation</caption>
+  <tr CLASS="titre">
+    <td>Résultat du   
 test de   
-Représentation</td><td CLASS="gauche">Qualité de la prestation</td></tr><tr CLASS="premier"><td>10</td><td CLASS="gauche">**Quelconque.** Le personnage ferait tout aussi bien de mendier. Il gagne 1d10 pc par jour.</td></tr><tr CLASS="alt"><td>15</td><td CLASS="gauche">**Agréable.** Dans une ville prospère, le personnage gagne 1d10 pa par jour.</td></tr><tr><td>20</td><td CLASS="gauche">**Superbe.** Dans une ville prospère, le personnage gagne 3d10 pa par jour. Au bout d’un certain temps, on l’invitera peut-être à se joindre à une troupe professionnelle et il pourrait acquérir une réputation au niveau local.</td></tr><tr CLASS="alt"><td>25</td><td CLASS="gauche">**Mémorable.** Dans une ville prospère, le personnage gagne 1d6 po par jour. Au bout d’un certain temps, il se fera peut- être remarquer par des mécènes nobles et il pourrait acquérir une réputation au niveau national.</td></tr><tr><td>30</td><td CLASS="gauche">**Sublime.** Dans une ville prospère, le personnage gagne 3d6 po par jour. Au bout d’un certain temps, il se fera peut-être remarquer par des mécènes étrangers, voire par des créatures provenant d’autres plans.</td></tr></table>
+Représentation</td>
+    <td CLASS="gauche">Qualité de la prestation</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>10</td>
+    <td CLASS="gauche">**Quelconque.** Le personnage ferait tout aussi bien de mendier. Il gagne 1d10 pc par jour.</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>15</td>
+    <td CLASS="gauche">**Agréable.** Dans une ville prospère, le personnage gagne 1d10 pa par jour.</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td CLASS="gauche">
+      **Superbe.** Dans une ville prospère, le personnage gagne 3d10 pa par jour. Au bout d’un certain temps, on
+      l’invitera peut-être à se joindre à une troupe professionnelle et il pourrait acquérir une réputation au
+      niveau local.
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>25</td>
+    <td CLASS="gauche">
+      **Mémorable.** Dans une ville prospère, le personnage gagne 1d6 po par jour. Au bout d’un certain temps, il se
+      fera peut- être remarquer par des mécènes nobles et il pourrait acquérir une réputation au niveau national.
+    </td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td CLASS="gauche">
+      **Sublime.** Dans une ville prospère, le personnage gagne 3d6 po par jour. Au bout d’un certain temps, il se
+      fera peut-être remarquer par des mécènes étrangers, voire par des créatures provenant d’autres plans.
+    </td>
+  </tr>
+</table>
 
 </center>
 

@@ -46,4 +46,95 @@ Le personnage est un maître de l’illusion et de la tromperie. Les compétence
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Duperie</td><td>Sous-domaine de l'Avarice</td><td>Sous-domaine de l'Embuscade</td><td>Sous-domaine de l'Insinuation</td><td>Sous-domaine de la Supercherie</td><td>Sous-domaine des Voleurs</td></tr><tr CLASS="premier"><td>1er</td><td>*[[sort Déguisement|déguisement]]*</td><td>*idem*</td><td>*[[alarme]]*</td><td>*[[implantation de pensées]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[invisibilité]]*</td><td>*[[transformation de maître]]*</td><td>*idem*</td><td>*idem*</td><td>*[[image miroir]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[antidétection]]*</td><td>*idem*</td><td>*idem*</td><td>*[[suggestion]]*</td><td>*idem*</td><td>*[[localisation dobjet|localisation d'objet]]*</td></tr><tr><td>4e</td><td>*[[confusion]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[leurre]]*</td><td>*idem*</td><td>*[[mur illusoire]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[double illusoire]]*</td><td>*[[défense magique]]*</td><td>*[[voile]]*</td><td>*[[suggestion de groupe]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[écran]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[projection dimage|projection d'image]]*</td><td>*[[forme éthérée]]*</td></tr><tr><td>8e</td><td>*[[invisibilité de groupe]]*</td><td>*[[création de demi-plan]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[arrêt du temps]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Duperie</td>
+    <td>Sous-domaine de l'Avarice</td>
+    <td>Sous-domaine de l'Embuscade</td>
+    <td>Sous-domaine de l'Insinuation</td>
+    <td>Sous-domaine de la Supercherie</td>
+    <td>Sous-domaine des Voleurs</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[sort Déguisement|déguisement]]*</td>
+    <td>*idem*</td>
+    <td>*[[alarme]]*</td>
+    <td>*[[implantation de pensées]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[invisibilité]]*</td>
+    <td>*[[transformation de maître]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[image miroir]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[antidétection]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[suggestion]]*</td>
+    <td>*idem*</td>
+    <td>*[[localisation dobjet|localisation d'objet]]*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[confusion]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[leurre]]*</td>
+    <td>*idem*</td>
+    <td>*[[mur illusoire]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[double illusoire]]*</td>
+    <td>*[[défense magique]]*</td>
+    <td>*[[voile]]*</td>
+    <td>*[[suggestion de groupe]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[écran]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[projection dimage|projection d'image]]*</td>
+    <td>*[[forme éthérée]]*</td>
+  </tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[invisibilité de groupe]]*</td>
+    <td>*[[création de demi-plan]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[arrêt du temps]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+</table>

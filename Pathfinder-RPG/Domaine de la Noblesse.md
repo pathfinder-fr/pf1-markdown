@@ -36,4 +36,45 @@ Le personnage est un grand chef qui inspire tous ceux qui suivent les enseigneme
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Noblesse</td><td>Sous-domaine de l'Aristocratie</td><td>Sous-domaine du Commandement</td><td>Sous-domaine du Martyre</td></tr><tr CLASS="premier"><td>1er</td><td>*[[faveur divine]]*</td><td>*idem*</td><td>*[[bénédiction]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[discours captivant]]*</td><td>*idem*</td><td>*idem*</td><td>*[[protection dautrui|protection d'autrui]]*</td></tr><tr><td>3e</td><td>*[[panoplie magique]]*</td><td>*[[entrer dans une image]]*</td><td>*[[prière]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[détection du mensonge]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[injonction suprême]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[quête]]*</td><td>*idem*</td><td>*[[inspiration brillante]]*</td><td>*[[serment de sacrifice]]*</td></tr><tr><td>7e</td><td>*[[champ de force]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[exigence]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[tempête vengeresse]]*</td><td>*[[présence écrasante]]*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Noblesse</td>
+    <td>Sous-domaine de l'Aristocratie</td>
+    <td>Sous-domaine du Commandement</td>
+    <td>Sous-domaine du Martyre</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[faveur divine]]*</td>
+    <td>*idem*</td>
+    <td>*[[bénédiction]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[discours captivant]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[protection dautrui|protection d'autrui]]*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[panoplie magique]]*</td>
+    <td>*[[entrer dans une image]]*</td>
+    <td>*[[prière]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>4e</td><td>*[[détection du mensonge]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>5e</td><td>*[[injonction suprême]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[quête]]*</td>
+    <td>*idem*</td>
+    <td>*[[inspiration brillante]]*</td>
+    <td>*[[serment de sacrifice]]*</td>
+  </tr>
+  <tr><td>7e</td><td>*[[champ de force]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[exigence]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[tempête vengeresse]]*</td><td>*[[présence écrasante]]*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

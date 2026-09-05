@@ -12,11 +12,143 @@ Le système des compétences fusionnées réduit le nombre de compétences de 35
 
 <table width="100%"><tr><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|COMPETENCESFUSIONNEES}Compétences fusionnées</caption><tr CLASS="titre"><td>Nouvelle compétence</td><td>Sans formation</td><td>Caractéristique</td><td>Compétences de base incluses</td></tr><tr CLASS="premier"><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td><td>Oui</td><td>[[Dex]]*</td><td>[[Acrobaties]] (sauf pour sauter), [[Équitation]], [[Évasion]], [[Vol]]</td></tr><tr><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td><td>Non</td><td>[[Int]]</td><td>[[Art de la magie]], [[Connaissances]] (mystères), [[UOM|Utilisation d’objets magiques]]</td></tr><tr><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td><td>Oui</td><td>[[For]]*</td><td>[[Acrobaties]] (pour sauter), [[Escalade]], [[Natation]]</td></tr><tr><td>[[Compétences fusionnées, Discrétion|Discrétion]]</td><td>Oui</td><td>[[Dex]]*</td><td>[[Discrétion]]</td></tr><tr><td>[[Compétences fusionnées, Finesse|Finesse]]</td><td>Non</td><td>[[Dex]]*</td><td>[[Escamotage]], [[Sabotage]]</td></tr><tr><td>[[Compétences fusionnées, Influence|Influence]]</td><td>Oui</td><td>[[Cha]]</td><td>[[Bluff]], [[Diplomatie]], [[Intimidation]]</td></tr><tr><td>[[Compétences fusionnées, Nature|Nature]]</td><td>Non</td><td>[[Int]]</td><td>[[Connaissances]] (exploration souterraine, géographie, nature), [[Dressage]]</td></tr><tr><td>[[Compétences fusionnées, Perception|Perception]]</td><td>Oui</td><td>[[Sag]]</td><td>[[Perception]], [[Psychologie]]</td></tr><tr><td>[[Compétences fusionnées, Religion|Religion]]</td><td>Non</td><td>[[Int]]</td><td>[[Connaissances]] (plans, religion)</td></tr><tr><td>[[Compétences fusionnées, Représentation|Représentation]]</td><td>Oui</td><td>[[Cha]]</td><td>[[Déguisement]], [[Représentation]]</td></tr><tr><td>[[Compétences fusionnées, Société|Société]]</td><td>Non</td><td>[[Int]]</td><td>[[Connaissances]] (folklore local, histoire,noblesse), [[Linguistique]]</td></tr><tr><td>[[Compétences fusionnées, Survie|Survie]]</td><td>Oui</td><td>[[Sag]]</td><td>[[Premiers secours]], [[Survie]]</td></tr><tr CLASS="note"><td | COLSPAN="4">*(*) Le malus d’armure au test s’applique.*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>{s:Reference|COMPETENCESFUSIONNEES}Compétences fusionnées</caption>
+  <tr CLASS="titre">
+    <td>Nouvelle compétence</td>
+    <td>Sans formation</td>
+    <td>Caractéristique</td>
+    <td>Compétences de base incluses</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td>
+    <td>Oui</td>
+    <td>[[Dex]]*</td>
+    <td>[[Acrobaties]] (sauf pour sauter), [[Équitation]], [[Évasion]], [[Vol]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td>
+    <td>Non</td>
+    <td>[[Int]]</td>
+    <td>[[Art de la magie]], [[Connaissances]] (mystères), [[UOM|Utilisation d’objets magiques]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td>
+    <td>Oui</td>
+    <td>[[For]]*</td>
+    <td>[[Acrobaties]] (pour sauter), [[Escalade]], [[Natation]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Discrétion|Discrétion]]</td>
+    <td>Oui</td>
+    <td>[[Dex]]*</td>
+    <td>[[Discrétion]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Finesse|Finesse]]</td>
+    <td>Non</td>
+    <td>[[Dex]]*</td>
+    <td>[[Escamotage]], [[Sabotage]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Influence|Influence]]</td>
+    <td>Oui</td>
+    <td>[[Cha]]</td>
+    <td>[[Bluff]], [[Diplomatie]], [[Intimidation]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Nature|Nature]]</td>
+    <td>Non</td>
+    <td>[[Int]]</td>
+    <td>[[Connaissances]] (exploration souterraine, géographie, nature), [[Dressage]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Perception|Perception]]</td>
+    <td>Oui</td>
+    <td>[[Sag]]</td>
+    <td>[[Perception]], [[Psychologie]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Religion|Religion]]</td>
+    <td>Non</td>
+    <td>[[Int]]</td>
+    <td>[[Connaissances]] (plans, religion)</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Représentation|Représentation]]</td>
+    <td>Oui</td>
+    <td>[[Cha]]</td>
+    <td>[[Déguisement]], [[Représentation]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Société|Société]]</td>
+    <td>Non</td>
+    <td>[[Int]]</td>
+    <td>[[Connaissances]] (folklore local, histoire,noblesse), [[Linguistique]]</td>
+  </tr>
+  <tr>
+    <td>[[Compétences fusionnées, Survie|Survie]]</td>
+    <td>Oui</td>
+    <td>[[Sag]]</td>
+    <td>[[Premiers secours]], [[Survie]]</td>
+  </tr>
+  <tr CLASS="note"><td | COLSPAN="4">*(*) Le malus d’armure au test s’applique.*</td></tr>
+</table>
 
 </td><td width="50%">
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|CONVERSIONDESCOMPETENCESDEBASE}Conversion des compétences de base</caption><tr CLASS="titre"><td>Compétence de base</td><td>Compétence fusionnée</td></tr><tr CLASS="premier"><td>[[Acrobaties]]* (pour sauter)</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>[[Acrobaties]] (sauf pour sauter)</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr><td>[[Art de la magie]]</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>[[Artisanat]]</td><td>-</td></tr><tr><td>[[Bluff]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr><tr><td>[[Connaissances]] (exploration souterraine)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Connaissances]] (folklore local)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Connaissances]] (géographie)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Connaissances]] (histoire)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Connaissances]] (ingénierie)</td><td>-</td></tr><tr><td>[[Connaissances]] (mystères)</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>[[Connaissances]] (nature)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Connaissances]] (noblesse)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Connaissances]] (plans)</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr><tr><td>[[Connaissances]] (religion)</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr><tr><td>[[Déguisement]]</td><td>[[Compétences fusionnées, Représentation|Représentation]]</td></tr><tr><td>[[Diplomatie]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr><tr><td>[[Discrétion]]</td><td>[[Compétences fusionnées, Discrétion|Discrétion]]</td></tr><tr><td>[[Dressage]]*</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Équitation]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr><td>[[Escalade]]</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>[[Escamotage]]</td><td>[[Compétences fusionnées, Finesse|Finesse]]</td></tr><tr><td>[[Estimation]]</td><td>-</td></tr><tr><td>[[Évasion]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr><td>[[Intimidation]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr><tr><td>[[Linguistique]]</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Natation]]</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>[[Perception]]</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr><tr><td>[[Premiers secours]]</td><td>[[Compétences fusionnées, Survie|Survie]]</td></tr><tr><td>[[Profession]]</td><td>-</td></tr><tr><td>[[Psychologie]]</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr><tr><td>[[Représentation]]</td><td>[[Compétences fusionnées, Représentation|Représentation]]</td></tr><tr><td>[[Sabotage]]</td><td>[[Compétences fusionnées, Finesse|Finesse]]</td></tr><tr><td>[[Survie]]</td><td>[[Compétences fusionnées, Survie|Survie]]</td></tr><tr><td>[[UOM|Utilisation d’objets magiques]]*</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>[[Vol]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr CLASS="note"><td | COLSPAN="2">*(*) La caractéristique associée à cette compétence est différente avec le système des compétences fusionnées.*</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <caption>{s:Reference|CONVERSIONDESCOMPETENCESDEBASE}Conversion des compétences de base</caption>
+  <tr CLASS="titre"><td>Compétence de base</td><td>Compétence fusionnée</td></tr>
+  <tr CLASS="premier">
+    <td>[[Acrobaties]]* (pour sauter)</td>
+    <td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td>
+  </tr>
+  <tr><td>[[Acrobaties]] (sauf pour sauter)</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr>
+  <tr><td>[[Art de la magie]]</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr>
+  <tr><td>[[Artisanat]]</td><td>-</td></tr>
+  <tr><td>[[Bluff]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr>
+  <tr><td>[[Connaissances]] (exploration souterraine)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>[[Connaissances]] (folklore local)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr>
+  <tr><td>[[Connaissances]] (géographie)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>[[Connaissances]] (histoire)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr>
+  <tr><td>[[Connaissances]] (ingénierie)</td><td>-</td></tr>
+  <tr><td>[[Connaissances]] (mystères)</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr>
+  <tr><td>[[Connaissances]] (nature)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>[[Connaissances]] (noblesse)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr>
+  <tr><td>[[Connaissances]] (plans)</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr>
+  <tr><td>[[Connaissances]] (religion)</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr>
+  <tr><td>[[Déguisement]]</td><td>[[Compétences fusionnées, Représentation|Représentation]]</td></tr>
+  <tr><td>[[Diplomatie]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr>
+  <tr><td>[[Discrétion]]</td><td>[[Compétences fusionnées, Discrétion|Discrétion]]</td></tr>
+  <tr><td>[[Dressage]]*</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr>
+  <tr><td>[[Équitation]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr>
+  <tr><td>[[Escalade]]</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr>
+  <tr><td>[[Escamotage]]</td><td>[[Compétences fusionnées, Finesse|Finesse]]</td></tr>
+  <tr><td>[[Estimation]]</td><td>-</td></tr>
+  <tr><td>[[Évasion]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr>
+  <tr><td>[[Intimidation]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr>
+  <tr><td>[[Linguistique]]</td><td>[[Compétences fusionnées, Société|Société]]</td></tr>
+  <tr><td>[[Natation]]</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr>
+  <tr><td>[[Perception]]</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr>
+  <tr><td>[[Premiers secours]]</td><td>[[Compétences fusionnées, Survie|Survie]]</td></tr>
+  <tr><td>[[Profession]]</td><td>-</td></tr>
+  <tr><td>[[Psychologie]]</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr>
+  <tr><td>[[Représentation]]</td><td>[[Compétences fusionnées, Représentation|Représentation]]</td></tr>
+  <tr><td>[[Sabotage]]</td><td>[[Compétences fusionnées, Finesse|Finesse]]</td></tr>
+  <tr><td>[[Survie]]</td><td>[[Compétences fusionnées, Survie|Survie]]</td></tr>
+  <tr>
+    <td>[[UOM|Utilisation d’objets magiques]]*</td>
+    <td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td>
+  </tr>
+  <tr><td>[[Vol]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr>
+  <tr CLASS="note">
+    <td | COLSPAN="2">
+      *(*) La caractéristique associée à cette compétence est différente avec le système des compétences
+      fusionnées.*
+    </td>
+  </tr>
+</table>
 
 </td></tr></table>
 ### Description des compétences

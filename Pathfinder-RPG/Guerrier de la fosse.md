@@ -15,7 +15,106 @@ Même si la vie des guerriers de la fosse a l'air d'être définie par leur prof
 
 <center>
 
-<table CLASS="tablo"><caption>Le guerrier de la fosse</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Guerrier de la fosse#MAUVAISEQUIPEMENT|Mauvais équipement]], [[Guerrier de la fosse#ARTDUSPECTACLE|art du spectacle]] (1/jour)</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +1</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Guerrier de la fosse#ASTUCEDARME|Astuce d'arme]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Guerrier de la fosse#ARTDUSPECTACLE|Art du spectacle]] (2/jour)</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +2, [[Guerrier de la fosse#RUGISSEMENTDELAFOULE|rugissement de la foule]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Guerrier de la fosse#ASSAUTRUSE|Assaut rusé]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Guerrier de la fosse#ARTDUSPECTACLE|Art du spectacle]] (3/jour)</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +3</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Guerrier de la fosse#RUSEBRUTALE|Ruse brutale]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Guerrier de la fosse#RUGISSEMENTDELAFOULESUPERIEUR|Rugissement de la foule supérieur]], [[Guerrier de la fosse#ARTDUSPECTACLE|art du spectacle]] (4/jour)</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le guerrier de la fosse</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Guerrier de la fosse#MAUVAISEQUIPEMENT|Mauvais équipement]], [[Guerrier de la fosse#ARTDUSPECTACLE|art du
+      spectacle]] (1/jour)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +1</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#ASTUCEDARME|Astuce d'arme]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#ARTDUSPECTACLE|Art du spectacle]] (2/jour)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +2, [[Guerrier de la
+      fosse#RUGISSEMENTDELAFOULE|rugissement de la foule]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#ASSAUTRUSE|Assaut rusé]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#ARTDUSPECTACLE|Art du spectacle]] (3/jour)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#EXPERTISEDESARMESDARENE|Expertise des armes d'arène]] +3</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Guerrier de la fosse#RUSEBRUTALE|Ruse brutale]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Guerrier de la fosse#RUGISSEMENTDELAFOULESUPERIEUR|Rugissement de la foule supérieur]], [[Guerrier de la
+      fosse#ARTDUSPECTACLE|art du spectacle]] (4/jour)
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -51,7 +150,14 @@ Les guerriers de la fosse sont souvent obligés de combattre avec un équipement
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Attitude de départ ou actuelle</td><td>DD pour améliorer l'attitude</td></tr><tr CLASS="premier"><td>Hostile</td><td CLASS="gauche">15 + FP</td></tr><tr><td>Inamical</td><td CLASS="gauche">10 + FP</td></tr><tr><td>Indifférent</td><td CLASS="gauche">5 + FP</td></tr><tr><td>Amical</td><td CLASS="gauche">10 + FP</td></tr><tr><td>Serviable</td><td CLASS="gauche">15 + FP</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <tr CLASS="titre"><td>Attitude de départ ou actuelle</td><td>DD pour améliorer l'attitude</td></tr>
+  <tr CLASS="premier"><td>Hostile</td><td CLASS="gauche">15 + FP</td></tr>
+  <tr><td>Inamical</td><td CLASS="gauche">10 + FP</td></tr>
+  <tr><td>Indifférent</td><td CLASS="gauche">5 + FP</td></tr>
+  <tr><td>Amical</td><td CLASS="gauche">10 + FP</td></tr>
+  <tr><td>Serviable</td><td CLASS="gauche">15 + FP</td></tr>
+</table>
 
 </div></div>Au niveau 1, une fois par jour, un guerrier de la fosse peut considérer un combat normal comme un [[combat de spectacle]] avec l'attitude de la foule de départ étant indifférente. Il fait des tests de combat de spectacle, peut utiliser des [[dons de spectacle]] et obtenir des bonus et malus selon la réaction de la foule comme à la normale, même s'il n'y a pas de foule en train de regarder le combat. Seul le guerrier de la fosse est affecté par cette capacité. Activer cette capacité coûte une [[action rapide]]. Le [[FP]] de la rencontre détermine le [[DD]] des tests de combat de spectacle du guerrier de la fosse, comme résumé ci-contre.
 

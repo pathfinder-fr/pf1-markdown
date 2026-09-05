@@ -58,6 +58,95 @@ Pour ce calcul, les sorts du niveau 0 comptent comme des sorts de niveau 1/2.
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau récapitulatif des dons de création d'objets</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Création danneaux magiques|Création d'anneaux magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 7</td><td>Création d’anneaux magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création darmes et armures magiques|Création d'armes et armures magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 5</td><td>Création d’armures, de boucliers et d’armes magiques</td></tr><tr CLASS="donprérequis0"><td>&emsp;[[Création de créatures artificielles]]</td><td><sup>B1</sup></td><td>[[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td>Création de créatures artificielles</td></tr><tr CLASS="premier donprincipal"><td>[[Création de baguettes magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 5</td><td>Création de baguettes magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création de bâtons magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 11</td><td>Création de bâtons magiques</td></tr><tr CLASS="premier donprincipal"><td>[[Création de créatures artificielles]]</td><td><sup>B1</sup></td><td>[[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td>Création de créatures artificielles</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création de sceptres magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 9</td><td>Création de sceptres magiques</td></tr><tr CLASS="premier donprincipal"><td>[[Création de tatouages magiques]]</td><td><sup>MMI</sup></td><td>5 rangs en [[Artisanat]] (calligraphie, peinture, ou tatouage), [[NLS]] 5</td><td>Le personnage sait créer des tatouages magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td><sup>MJ</sup></td><td>[[NLS]] 3</td><td>Création d’objets magiques merveilleux</td></tr><tr CLASS="donprérequis0"><td>&emsp;[[Création de créatures artificielles]]</td><td><sup>B1</sup></td><td>[[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td>Création de créatures artificielles</td></tr><tr CLASS="premier donprincipal"><td>[[Écriture de parchemins]]</td><td><sup>MJ</sup></td><td>[[NLS]] 1</td><td>Création de parchemins magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Préparation de potions]]</td><td><sup>MJ</sup></td><td>[[NLS]] 3</td><td>Création de potions magiques</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau récapitulatif des dons de création d'objets</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="27%">Conditions</td>
+    <td WIDTH="40%">Avantages</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Création danneaux magiques|Création d'anneaux magiques]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 7</td>
+    <td>Création d’anneaux magiques</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Création darmes et armures magiques|Création d'armes et armures magiques]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 5</td>
+    <td>Création d’armures, de boucliers et d’armes magiques</td>
+  </tr>
+  <tr CLASS="donprérequis0">
+    <td>&emsp;[[Création de créatures artificielles]]</td>
+    <td><sup>B1</sup></td>
+    <td>
+      [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets
+      merveilleux|Création d'objets merveilleux]]
+    </td>
+    <td>Création de créatures artificielles</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Création de baguettes magiques]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 5</td>
+    <td>Création de baguettes magiques</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Création de bâtons magiques]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 11</td>
+    <td>Création de bâtons magiques</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Création de créatures artificielles]]</td>
+    <td><sup>B1</sup></td>
+    <td>
+      [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets
+      merveilleux|Création d'objets merveilleux]]
+    </td>
+    <td>Création de créatures artificielles</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Création de sceptres magiques]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 9</td>
+    <td>Création de sceptres magiques</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Création de tatouages magiques]]</td>
+    <td><sup>MMI</sup></td>
+    <td>5 rangs en [[Artisanat]] (calligraphie, peinture, ou tatouage), [[NLS]] 5</td>
+    <td>Le personnage sait créer des tatouages magiques</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Création dobjets merveilleux|Création d'objets merveilleux]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 3</td>
+    <td>Création d’objets magiques merveilleux</td>
+  </tr>
+  <tr CLASS="donprérequis0">
+    <td>&emsp;[[Création de créatures artificielles]]</td>
+    <td><sup>B1</sup></td>
+    <td>
+      [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets
+      merveilleux|Création d'objets merveilleux]]
+    </td>
+    <td>Création de créatures artificielles</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Écriture de parchemins]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 1</td>
+    <td>Création de parchemins magiques</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Préparation de potions]]</td>
+    <td><sup>MJ</sup></td>
+    <td>[[NLS]] 3</td>
+    <td>Création de potions magiques</td>
+  </tr>
+</table>
 
 </center>

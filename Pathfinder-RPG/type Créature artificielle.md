@@ -35,7 +35,17 @@ Les créatures artificielles possèdent les traits suivant (sauf mention contrai
 
 <center>
 
-<table CLASS="tablo"><caption>taille de la créature artificielle</caption><tr CLASS="titre"><td class="gauche">Taille de la créature artificielle</td><td>Bonus de point de vie</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>-</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td>+10</td></tr><tr><td class="gauche">Moyen</td><td>+20</td></tr><tr CLASS="alt"><td class="gauche">Grand</td><td>+30</td></tr><tr><td class="gauche">très Grand</td><td>+40</td></tr><tr CLASS="alt"><td class="gauche">Gigantesque</td><td>+60</td></tr><tr><td class="gauche">Colossal</td><td>+80</td></tr></table>
+<table CLASS="tablo">
+  <caption>taille de la créature artificielle</caption>
+  <tr CLASS="titre"><td class="gauche">Taille de la créature artificielle</td><td>Bonus de point de vie</td></tr>
+  <tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>-</td></tr>
+  <tr CLASS="alt"><td class="gauche">Petit</td><td>+10</td></tr>
+  <tr><td class="gauche">Moyen</td><td>+20</td></tr>
+  <tr CLASS="alt"><td class="gauche">Grand</td><td>+30</td></tr>
+  <tr><td class="gauche">très Grand</td><td>+40</td></tr>
+  <tr CLASS="alt"><td class="gauche">Gigantesque</td><td>+60</td></tr>
+  <tr><td class="gauche">Colossal</td><td>+80</td></tr>
+</table>
 
 </center>
 

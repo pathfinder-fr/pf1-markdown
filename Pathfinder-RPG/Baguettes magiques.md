@@ -17,17 +17,45 @@ Une baguette est un fin bout de bois contenant un sort unique du 4e niveau ou mo
 
 <table width="100%"><tr><td width="49%">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|DETERMINATION}Baguettes</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Niveau   
-du sort</td><td>Niveau   
-du lanceur</td></tr><tr CLASS="premier"><td>01–05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr><td>06–60</td><td>—</td><td>—</td><td>1er</td><td>1</td></tr><tr><td>61–100</td><td>01–60</td><td>—</td><td>2e</td><td>3</td></tr><tr><td>—</td><td>61–100</td><td>01–60</td><td>3e</td><td>5</td></tr><tr><td>—</td><td>—</td><td>61–100</td><td>4e</td><td>7</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|DETERMINATION}Baguettes</caption>
+  <tr CLASS="titre">
+    <td>Faible</td>
+    <td>Intermédiaire</td>
+    <td>Puissante</td>
+    <td>Niveau   
+du sort</td>
+    <td>Niveau   
+du lanceur</td>
+  </tr>
+  <tr CLASS="premier"><td>01–05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr>
+  <tr><td>06–60</td><td>—</td><td>—</td><td>1er</td><td>1</td></tr>
+  <tr><td>61–100</td><td>01–60</td><td>—</td><td>2e</td><td>3</td></tr>
+  <tr><td>—</td><td>61–100</td><td>01–60</td><td>3e</td><td>5</td></tr>
+  <tr><td>—</td><td>—</td><td>61–100</td><td>4e</td><td>7</td></tr>
+</table>
 
 </td><td width="2%">
 </td><td width="49%">
 
-<table CLASS="tablo centre autoalt"><caption>Coût des baguettes</caption><tr CLASS="titre"><td>Niveau   
-du sort</td><td>Prêtre,   
+<table CLASS="tablo centre autoalt">
+  <caption>Coût des baguettes</caption>
+  <tr CLASS="titre">
+    <td>Niveau   
+du sort</td>
+    <td>Prêtre,   
 druide,   
-magicien</td><td>Ensorceleur</td><td>Barde</td><td>Paladin,   
-rôdeur</td></tr><tr CLASS="premier"><td>0</td><td>375 po</td><td>375 po</td><td>375 po</td><td>—</td></tr><tr><td>1er</td><td>750 po</td><td>750 po</td><td>750 po</td><td>750 po</td></tr><tr><td>2e</td><td>4 500 po</td><td>6 000 po</td><td>6 000 po</td><td>6 000 po</td></tr><tr><td>3e</td><td>11 250 po</td><td>13 500 po</td><td>15 750 po</td><td>15 750 po</td></tr><tr><td>4e</td><td>21 000 po</td><td>24 000 po</td><td>30 000 po</td><td>30 000 po</td></tr></table>
+magicien</td>
+    <td>Ensorceleur</td>
+    <td>Barde</td>
+    <td>Paladin,   
+rôdeur</td>
+  </tr>
+  <tr CLASS="premier"><td>0</td><td>375 po</td><td>375 po</td><td>375 po</td><td>—</td></tr>
+  <tr><td>1er</td><td>750 po</td><td>750 po</td><td>750 po</td><td>750 po</td></tr>
+  <tr><td>2e</td><td>4 500 po</td><td>6 000 po</td><td>6 000 po</td><td>6 000 po</td></tr>
+  <tr><td>3e</td><td>11 250 po</td><td>13 500 po</td><td>15 750 po</td><td>15 750 po</td></tr>
+  <tr><td>4e</td><td>21 000 po</td><td>24 000 po</td><td>30 000 po</td><td>30 000 po</td></tr>
+</table>
 
 </td></tr></table>

@@ -13,7 +13,103 @@ Cette prise de conscience et le schisme qui l'a suivi ont séparé le groupe en 
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Le frère du Sceau</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Frère du Sceau#COMBATAMAINSNUES|Combat à mains nues]], [[Frère du Sceau#LEAUSEPARANTLAPIERRE|l'eau séparant la pierre]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Frère du Sceau#GARDIENDELAPORTE|Gardien de la Porte]], [[Frère du Sceau#RECHERCHEDEPIEGES|recherche de pièges]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Frère du Sceau#RECHERCHEDERUNES|Recherche de runes]]</td></tr><tr><td>4</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Frère du Sceau#COUPFABULEUX|Coup fabuleux]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Frère du Sceau#RUPTUREDUSCEAU|Rupture du sceau]]</td></tr><tr><td>6</td><td>+4</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Frère du Sceau#EFFETDOMINO|Effet domino]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Frère du Sceau#MAINSDEPIERRE|Mains de pierre]]</td></tr><tr><td>8</td><td>+6</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Frère du Sceau#COUPRAPIDE|Coup rapide]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Frère du Sceau#COUPENCASCADE|Coup en cascade]]</td></tr><tr><td>10</td><td>+7</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Frère du Sceau#DESTRUCTIONMAGIQUE|Destruction magique]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Le frère du Sceau</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Frère du Sceau#COMBATAMAINSNUES|Combat à mains nues]], [[Frère du Sceau#LEAUSEPARANTLAPIERRE|l'eau séparant
+      la pierre]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Frère du Sceau#GARDIENDELAPORTE|Gardien de la Porte]], [[Frère du Sceau#RECHERCHEDEPIEGES|recherche de
+      pièges]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Frère du Sceau#RECHERCHEDERUNES|Recherche de runes]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Frère du Sceau#COUPFABULEUX|Coup fabuleux]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Frère du Sceau#RUPTUREDUSCEAU|Rupture du sceau]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Frère du Sceau#EFFETDOMINO|Effet domino]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Frère du Sceau#MAINSDEPIERRE|Mains de pierre]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Frère du Sceau#COUPRAPIDE|Coup rapide]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Frère du Sceau#COUPENCASCADE|Coup en cascade]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Frère du Sceau#DESTRUCTIONMAGIQUE|Destruction magique]]</td>
+  </tr>
+</table>
 
 </center>
 

@@ -15,7 +15,396 @@ Categories:
 </div>*Il existe dans la pureté des éléments et dans l’organisation de la nature un pouvoir qui dépasse les merveilles de la civilisation. Cette magie brute, discrète mais indéniable, est protégée par des adeptes de la philosophie de l’équilibre, appelés druides. À la fois alliés des bêtes et maîtres de la nature, ces défenseurs des étendues sauvages souvent mal compris s’efforcent de protéger leurs terres de tous ceux qui les menacent et démontrent la puissance de la nature à ceux qui se tapissent derrière les murs des cités. De nombreux pouvoirs viennent récompenser la dévotion des druides : ils obtiennent des capacités de métamorphose inégalées, reçoivent l’aide de puissants compagnons animaux et peuvent laisser éclater la colère de la nature. Les plus puissants d’entre eux maîtrisent le pouvoir des tempêtes, des tremblements de terre et des volcans grâce à une sagesse ancestrale que la civilisation a abandonnée et oubliée depuis longtemps.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEDRUIDE}Le druide</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[druide#EMPATHIESAUVAGE|Empathie sauvage]], [[druide#INSTINCTNATUREL|instinct naturel]], [[druide#ORAISONS|oraisons]], [[druide#PACTEAVECLANATURE|pacte avec la nature]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[druide#DEPLACEMENTFACILITE|Déplacement facilité]]</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[druide#ABSENCEDETRACES|Absence de traces]]</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (1/jour), [[druide#RESISTANCEALAPPELDELANATURE|résistance à l'appel de la nature]]</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (2/jour)</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (3/jour)</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[druide#IMMUNITECONTRELEVENIN|Immunité contre le venin]]</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (4/jour)</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (5/jour)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[druide#MILLEVISAGES|Mille visages]]</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (6/jour)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[druide#ETERNELLEJEUNESSE|Éternelle jeunesse]]</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (7/jour)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (8/jour)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (à volonté)</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td><td>4</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEDRUIDE}Le druide</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>0</td>
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[druide#EMPATHIESAUVAGE|Empathie sauvage]], [[druide#INSTINCTNATUREL|instinct naturel]],
+      [[druide#ORAISONS|oraisons]], [[druide#PACTEAVECLANATURE|pacte avec la nature]]
+    </td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[druide#DEPLACEMENTFACILITE|Déplacement facilité]]</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[druide#ABSENCEDETRACES|Absence de traces]]</td>
+    <td>4</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[druide#FORMEANIMALE|Forme animale]] (1/jour), [[druide#RESISTANCEALAPPELDELANATURE|résistance à l'appel de
+      la nature]]
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (2/jour)</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (3/jour)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[druide#IMMUNITECONTRELEVENIN|Immunité contre le venin]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (4/jour)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (5/jour)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[druide#MILLEVISAGES|Mille visages]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (6/jour)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[druide#ETERNELLEJEUNESSE|Éternelle jeunesse]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (7/jour)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (8/jour)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[druide#FORMEANIMALE|Forme animale]] (à volonté)</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+</table>
 
 
 **Rôle.** Certains druides préfèrent rester à l’écart des batailles et laisser leurs compagnons et créatures invoquées combattre pendant qu’ils affaiblissent leurs ennemis grâce aux pouvoirs de la nature. D’autres se transforment en terribles bêtes et se lancent brutalement dans la mêlée. Les druides vénèrent les forces élémentaires, les puissances de la nature ou la nature elle-même. Cela se traduit généralement par une dévotion envers une divinité de la nature, mais les druides peuvent tout aussi bien révérer de vagues esprits, des demi-dieux de forme animale ou même des merveilles naturelles particulièrement impressionnantes.

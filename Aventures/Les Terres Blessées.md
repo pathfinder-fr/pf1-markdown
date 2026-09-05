@@ -16,7 +16,25 @@ Voir aussi : [[Aides de jeu AP13#MARCHEDESCROISES|La Colère des Justes]], [[Gol
 **Habitants connus** : Aponavicius, Belsféreck, Eiandre, Firadreal, Isilda, Jaalika, Khorramazadeth le Roi des Tempêtes, Xanthir Vang, Yracandra, Zelmisdria et Azrivauxus
 **Monstres et dangers** : [[Pathfinder-RPG.Dangers#GEYSERABYSSAL|Geysers abyssaux]], [[Pathfinder-RPG.Dangers#FAILLEABYSSALE|failles abyssales]], [[Pathfinder-RPG.Bébilith|Bébiliths]], fanatiques, [[Pathfinder-RPG.Vermine démoniaque, archétype|Vermine démoniaque]], [[Pathfinder-RPG.dwiergeth|dwiergeths]], [[Pathfinder-RPG.âpresoif|apresoifs]], [[Pathfinder-RPG.Dangers#HERBE-SANGSUE|herbes sangsues]], [[Pathfinder-RPG.Dangers#NUEEDENEOLARVES|nuées de néo-larves]], [[Pathfinder-RPG.horreur chasseresse|horreurs chasseresses]], [[Pathfinder-RPG.rampant des failles|rampants des failles]], [[Pathfinder-RPG.Dangers#BARBEDUMARQUISSANGLANT|barbes de Shax]], [[Pathfinder-RPG.Nuée de vescavores|Nuées de vescavores]], [[Pathfinder-RPG.Guêpe belliciste|Guêpes bellicistes]], [[Pathfinder-RPG.Distordu|Distordus]], [[Pathfinder-RPG.Dragon de la Plaie|Dragons de la Plaie]]
 
-<table CLASS="tablo"><tr CLASS="titre"><td>d100</td><td>Rencontres Aléatoires</td><td>FP Moyen</td></tr><tr CLASS="premier"><td>01-10</td><td>Fanatiques</td><td>10</td></tr><tr><td>11-15</td><td>Patrouille de croisés</td><td>11</td></tr><tr><td>16-25</td><td>2d6 [[Pathfinder-RPG.nuée de vescavores|nuées de vescavores]]</td><td>11</td></tr><tr><td>26-35</td><td>1d8 [[Pathfinder-RPG.bébilith|bébiliths]]</td><td>14</td></tr><tr><td>36-40</td><td>1d6 [[Pathfinder-RPG.Horreur chasseresse|horreurs chasseresses]]</td><td>14</td></tr><tr><td>41-60</td><td>2d6 [[Pathfinder-RPG.distordu|distordus]]</td><td>14</td></tr><tr><td>61-70</td><td>1d6 [[Pathfinder-RPG.dérakni|déraknis]]</td><td>15</td></tr><tr><td>71-75</td><td>1d4 [[Pathfinder-RPG.dwiergeth|dwiergeths]]</td><td>15</td></tr><tr><td>76-80</td><td>1 [[Pathfinder-RPG.rampant des failles|rampant des failles]]</td><td>15</td></tr><tr><td>81-85</td><td>1 [[Pathfinder-RPG.dragon de la Plaie|dragon de la Plaie]]</td><td>15</td></tr><tr><td>86-90</td><td>1 [[Pathfinder-RPG.shemhazian|shemhazian]]</td><td>16</td></tr><tr><td>91-100</td><td>1 [[Pathfinder-RPG.vermine démoniaque, archétype|vermine démoniaque]]</td><td>variable</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>d100</td><td>Rencontres Aléatoires</td><td>FP Moyen</td></tr>
+  <tr CLASS="premier"><td>01-10</td><td>Fanatiques</td><td>10</td></tr>
+  <tr><td>11-15</td><td>Patrouille de croisés</td><td>11</td></tr>
+  <tr><td>16-25</td><td>2d6 [[Pathfinder-RPG.nuée de vescavores|nuées de vescavores]]</td><td>11</td></tr>
+  <tr><td>26-35</td><td>1d8 [[Pathfinder-RPG.bébilith|bébiliths]]</td><td>14</td></tr>
+  <tr><td>36-40</td><td>1d6 [[Pathfinder-RPG.Horreur chasseresse|horreurs chasseresses]]</td><td>14</td></tr>
+  <tr><td>41-60</td><td>2d6 [[Pathfinder-RPG.distordu|distordus]]</td><td>14</td></tr>
+  <tr><td>61-70</td><td>1d6 [[Pathfinder-RPG.dérakni|déraknis]]</td><td>15</td></tr>
+  <tr><td>71-75</td><td>1d4 [[Pathfinder-RPG.dwiergeth|dwiergeths]]</td><td>15</td></tr>
+  <tr><td>76-80</td><td>1 [[Pathfinder-RPG.rampant des failles|rampant des failles]]</td><td>15</td></tr>
+  <tr><td>81-85</td><td>1 [[Pathfinder-RPG.dragon de la Plaie|dragon de la Plaie]]</td><td>15</td></tr>
+  <tr><td>86-90</td><td>1 [[Pathfinder-RPG.shemhazian|shemhazian]]</td><td>16</td></tr>
+  <tr>
+    <td>91-100</td>
+    <td>1 [[Pathfinder-RPG.vermine démoniaque, archétype|vermine démoniaque]]</td>
+    <td>variable</td>
+  </tr>
+</table>
 
 {s:BDTexte|**Fanatiques  (FP 10)** : 4 fanatiques (humain, Prêtre 5, CM), 1 grand prêtre (Tieffelin, prêtre 9, CM)}
 {s:BDTexte|**Patrouille de croisés (FP 11)** : 7 croisés mendéviens (humain, chevalier 5, LB), commandant (humain, paladin 9, LB)}

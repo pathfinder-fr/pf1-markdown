@@ -11,7 +11,36 @@ Categories:
 L<div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%"><caption>Rencontres aléatoires dans la forêt de Verduran<sup>(10)</sup></caption><tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr><tr Class="premier"><td>1–6</td><td>2 [[Pathfinder-RPG.Sanglier sanguinaire|sangliers sanguinaires]]</td><td>6</td></tr><tr><td>7–12</td><td>1d3+1 [[Pathfinder-RPG.Troll de mousse|trolls de mousse]]</td><td>6</td></tr><tr><td>13–18</td><td>1 [[Pathfinder-RPG.Tertre errant|tertre errant]]</td><td>6</td></tr><tr><td>19–24</td><td>1 [[Pathfinder-RPG.Ours sanguinaire|ours sanguinaire]]</td><td>7</td></tr><tr><td>25–29</td><td>1d3+1 [[Pathfinder-RPG.Lion sanguinaire|lions sanguinaires]]</td><td>7</td></tr><tr><td>30–35</td><td>1 [[Pathfinder-RPG.Pukwudgie|pukwudgie]]</td><td>7</td></tr><tr><td>36–46</td><td>2d6+1 [[Pathfinder-RPG.Dryade|dryades]]</td><td>8</td></tr><tr><td>47–58</td><td>1d4+2 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]]</td><td>8</td></tr><tr><td>59–64</td><td>1 [[Pathfinder-RPG.Jeune dragon vert|jeune dragon vert]]</td><td>8</td></tr><tr><td>65–70</td><td>L'[[Pathfinder-RPG.Homme-abeille de Bellis|Homme-abeille de Bellis]]</td><td>9</td></tr><tr><td>71–78</td><td>Colonie de bourdons géants (3d6 [[Pathfinder-RPG.Abeille géante|bourdons géants]], 1 [[Pathfinder-RPG.Abeille reine géante|abeille reine géante]])</td><td>9</td></tr><tr><td>79–83</td><td>1d3+1 [[Pathfinder-RPG.Géant des bois|géants des bois]]</td><td>9</td></tr><tr><td>84–88</td><td>1d8+2 [[Pathfinder-RPG.Chouette géante|chouettes géantes]]</td><td>10</td></tr><tr><td>89–93</td><td>1d6+5 [[Pathfinder-RPG.Pixie|pixies]]</td><td>10</td></tr><tr><td>94–100</td><td>1d6+6 [[Pathfinder-RPG.Satyre|satyres]]</td><td>10</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%">
+  <caption>Rencontres aléatoires dans la forêt de Verduran<sup>(10)</sup></caption>
+  <tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr>
+  <tr Class="premier">
+    <td>1–6</td>
+    <td>2 [[Pathfinder-RPG.Sanglier sanguinaire|sangliers sanguinaires]]</td>
+    <td>6</td>
+  </tr>
+  <tr><td>7–12</td><td>1d3+1 [[Pathfinder-RPG.Troll de mousse|trolls de mousse]]</td><td>6</td></tr>
+  <tr><td>13–18</td><td>1 [[Pathfinder-RPG.Tertre errant|tertre errant]]</td><td>6</td></tr>
+  <tr><td>19–24</td><td>1 [[Pathfinder-RPG.Ours sanguinaire|ours sanguinaire]]</td><td>7</td></tr>
+  <tr><td>25–29</td><td>1d3+1 [[Pathfinder-RPG.Lion sanguinaire|lions sanguinaires]]</td><td>7</td></tr>
+  <tr><td>30–35</td><td>1 [[Pathfinder-RPG.Pukwudgie|pukwudgie]]</td><td>7</td></tr>
+  <tr><td>36–46</td><td>2d6+1 [[Pathfinder-RPG.Dryade|dryades]]</td><td>8</td></tr>
+  <tr><td>47–58</td><td>1d4+2 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]]</td><td>8</td></tr>
+  <tr><td>59–64</td><td>1 [[Pathfinder-RPG.Jeune dragon vert|jeune dragon vert]]</td><td>8</td></tr>
+  <tr><td>65–70</td><td>L'[[Pathfinder-RPG.Homme-abeille de Bellis|Homme-abeille de Bellis]]</td><td>9</td></tr>
+  <tr>
+    <td>71–78</td>
+    <td>
+      Colonie de bourdons géants (3d6 [[Pathfinder-RPG.Abeille géante|bourdons géants]], 1 [[Pathfinder-RPG.Abeille
+      reine géante|abeille reine géante]])
+    </td>
+    <td>9</td>
+  </tr>
+  <tr><td>79–83</td><td>1d3+1 [[Pathfinder-RPG.Géant des bois|géants des bois]]</td><td>9</td></tr>
+  <tr><td>84–88</td><td>1d8+2 [[Pathfinder-RPG.Chouette géante|chouettes géantes]]</td><td>10</td></tr>
+  <tr><td>89–93</td><td>1d6+5 [[Pathfinder-RPG.Pixie|pixies]]</td><td>10</td></tr>
+  <tr><td>94–100</td><td>1d6+6 [[Pathfinder-RPG.Satyre|satyres]]</td><td>10</td></tr>
+</table>
 
 </div></div>La forêt de Verduran est la plus grande forêt d'[[Avistan]] et chevauche les frontières entre l'[[Andoran]], le [[Taldor]] et le [[Galt]].<sup>(1)</sup> Bien qu'ils se trouvent à l'intérieur des frontières de ces nations puissantes, les druides de la forêt y maintiennent un haut niveau d'autonomie, en particulier au Taldor.<sup>(2)</sup>
 

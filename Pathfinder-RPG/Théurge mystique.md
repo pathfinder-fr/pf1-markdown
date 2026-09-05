@@ -14,17 +14,138 @@ Les théurges mystiques sont issus des rangs des lanceurs de sorts multiclassés
 
 <center>
 
-<table CLASS="tablo"><caption>Le théurge mystique</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (1<sup>er</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (2<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (3<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (4<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (5<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[théurge mystique#SYNTHESEDESORTILEGES|Synthèse de sortilèges]]</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le théurge mystique</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (1<sup>er</sup>)</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>&nbsp;</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (2<sup>e</sup>)</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>&nbsp;</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (3<sup>e</sup>)</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>&nbsp;</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (4<sup>e</sup>)</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>&nbsp;</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (5<sup>e</sup>)</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[théurge mystique#SYNTHESEDESORTILEGES|Synthèse de sortilèges]]</td>
+    <td CLASS="gauche">
+      [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

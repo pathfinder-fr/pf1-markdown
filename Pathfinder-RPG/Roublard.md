@@ -14,7 +14,198 @@ Categories:
 </div>*Pour ceux qui subsistent grâce à leur vivacité d’esprit, la vie est une aventure sans fin. Ces roublards qui semblent toujours sentir le danger à l’avance comptent sur leur ruse, leur habileté et leur charme pour tourner le destin à leur avantage. Comme on ne sait jamais à quoi s’attendre, ils se préparent à toutes les éventualités en acquérant de nombreuses compétences et en s’entraînant à devenir de fins manipulateurs, d’agiles acrobates, des ombres discrètes ou encore des experts dans des dizaines d’autres professions ou domaines. Les voleurs et les joueurs, les beaux parleurs et les diplomates, les bandits et les chasseurs de primes, les explorateurs et les enquêteurs : toutes ces occupations rentrent dans la catégorie des roublards, tout comme d’innombrables autres professions nécessitant un esprit vif, une certaine habileté au combat ou un bonne étoile. Beaucoup de roublards préfèrent les villes et les nombreuses opportunités que la civilisation leur offre mais certains adoptent une vie de nomade, visitent de lointaines contrées, rencontrent des peuples exotiques et affrontent des dangers incroyables tout en recherchant des trésors qui le sont tout autant. En fin de compte, tous ceux qui désirent façonner leur destin et leur vie à leur convenance pourraient être considérés comme des roublards.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le roublard</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]]</td></tr><tr><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Roublard#ESQUIVETOTALE|Esquive totale]], [[Roublard#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Roublard#SENSDESPIEGES|sens des pièges]] +1</td></tr><tr><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Roublard#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Roublard#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td></tr><tr><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Roublard#SENSDESPIEGES|Sens des pièges]] +2, [[Roublard#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td></tr><tr><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Roublard#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[Roublard#TALENTDEROUBLARD|talent de roublard]]</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, [[Roublard#SENSDESPIEGES|sens des pièges]] +3</td></tr><tr><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Roublard#TALENTDEMAITREROUBLARD|Talent de maître-roublard]]</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +6d6</td></tr><tr><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Roublard#SENSDESPIEGES|Sens des pièges]] +4, [[Roublard#TALENTDEMAITREROUBLARD|talent de maître-roublard]]</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +7d6</td></tr><tr><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Roublard#TALENTDEMAITREROUBLARD|Talent de maître-roublard]]</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +8d6, [[Roublard#SENSDESPIEGES|sens des pièges]] +5</td></tr><tr><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Roublard#TALENTDEMAITREROUBLARD|Talent de maître-roublard]]</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +9d6</td></tr><tr><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Roublard#SENSDESPIEGES|Sens des pièges]] +6, [[Roublard#TALENTDEMAITREROUBLARD|talent de maître-roublard]]</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +10d6</td></tr><tr><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Roublard#COUPDEMAITRE|Coup de maître]], [[Roublard#TALENTDEMAITREROUBLARD|talent de maître-roublard]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le roublard</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[Roublard#RECHERCHEDESPIEGES|recherche des pièges]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Roublard#ESQUIVETOTALE|Esquive totale]], [[Roublard#TALENTDEROUBLARD|talent de roublard]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Roublard#SENSDESPIEGES|sens des pièges]] +1
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Roublard#ESQUIVEINSTINCTIVE|Esquive instinctive]], [[Roublard#TALENTDEROUBLARD|talent de roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Roublard#SENSDESPIEGES|Sens des pièges]] +2, [[Roublard#TALENTDEROUBLARD|talent de roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Roublard#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]], [[Roublard#TALENTDEROUBLARD|talent
+      de roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, [[Roublard#SENSDESPIEGES|sens des pièges]] +3
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Roublard#TALENTDEMAITREROUBLARD|Talent de maître-roublard]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +6d6</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Roublard#SENSDESPIEGES|Sens des pièges]] +4, [[Roublard#TALENTDEMAITREROUBLARD|talent de maître-roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +7d6</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Roublard#TALENTDEMAITREROUBLARD|Talent de maître-roublard]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +8d6, [[Roublard#SENSDESPIEGES|sens des pièges]] +5
+    </td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Roublard#TALENTDEMAITREROUBLARD|Talent de maître-roublard]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +9d6</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Roublard#SENSDESPIEGES|Sens des pièges]] +6, [[Roublard#TALENTDEMAITREROUBLARD|talent de maître-roublard]]
+    </td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Roublard#ATTAQUESOURNOISE|Attaque sournoise]] +10d6</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Roublard#COUPDEMAITRE|Coup de maître]], [[Roublard#TALENTDEMAITREROUBLARD|talent de maître-roublard]]
+    </td>
+  </tr>
+</table>
 
 
 **Rôle.** La spécialité des roublards consiste à se déplacer sans être vus et à surprendre leurs ennemis tout en évitant généralement d’attaquer de front. Leurs capacités et connaissances variées les rendent très versatiles, chaque roublard possédant des domaines de prédilection bien différents. La majorité des roublards se distinguent particulièrement lorsqu’il s’agit de surmonter des obstacles de tout type : déverrouiller des portes, désamorcer des pièges, éviter des périls magiques ou encore rouler dans la farine des adversaires à l’esprit lent.

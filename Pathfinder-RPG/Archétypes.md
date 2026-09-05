@@ -32,8 +32,18 @@ Les créatures qui possèdent cet archétype sont plus féroces et plus puissant
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures célestes</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à l’acide,  
-à l’électricité et au froid</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Mal</td></tr><tr><td>11+</td><td>15</td><td>10/Mal</td></tr></table>
+<table CLASS="tablo" width="100%">
+  <caption>Protections des créatures célestes</caption>
+  <tr CLASS="titre">
+    <td class="gauche">DV</td>
+    <td>Résistance à l’acide,  
+à l’électricité et au froid</td>
+    <td>RD</td>
+  </tr>
+  <tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr>
+  <tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Mal</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/Mal</td></tr>
+</table>
 
 </div></div>
 Les créatures célestes vivent dans les plans supérieurs mais peuvent être invoquées via des sorts tels qu’invocation de monstres et allié d’outreplan. Le [[FP]] d’une créature céleste augmente de +1 seulement si la créature de base possède au moins 5 [[DV]].
@@ -47,8 +57,14 @@ Les règles rapides et les règles de reconstruction coïncident pour cet arché
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures de l'ombre</caption><tr CLASS="titre"><td>DV</td><td>Résistance au froid  
-et à l’électricité</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>–</td></tr><tr><td>5–10</td><td>10</td><td>5/magique</td></tr><tr><td>11+</td><td>15</td><td>10/magique</td></tr></table>
+<table CLASS="tablo" width="100%">
+  <caption>Protections des créatures de l'ombre</caption>
+  <tr CLASS="titre"><td>DV</td><td>Résistance au froid  
+et à l’électricité</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>1–4</td><td>5</td><td>–</td></tr>
+  <tr><td>5–10</td><td>10</td><td>5/magique</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/magique</td></tr>
+</table>
 
 </div></div>
 Les créatures ayant l’archétype créature de l’ombre vivent sur le plan de l’Ombre et s’aventurent rarement sur les plans plus lumineux. Elles peuvent être convoquées par des [[héraut des ombres (conjurateur)|hérauts des ombres]]. Le FP de la créature de l’ombre augmente de +1. Les règles rapides de reconstruction de la créature de l’ombre sont les mêmes. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
@@ -60,8 +76,14 @@ Les créatures ayant l’archétype créature de l’ombre vivent sur le plan de
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures entropiques</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à  
-l'acide et au feu</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Loi</td></tr><tr><td>11+</td><td>15</td><td>10/Loi</td></tr></table>
+<table CLASS="tablo" width="100%">
+  <caption>Protections des créatures entropiques</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à  
+l'acide et au feu</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr>
+  <tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Loi</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/Loi</td></tr>
+</table>
 
 </div></div>
 Les créatures entropiques vivent dans les plans du Chaos, mais peuvent être invoquées via des sorts tels que *[[convocation de monstres I]]* et *[[allié doutreplan|allié d’outreplan]]*. Le FP d’une créature entropique augmente de +1 seulement si la créature de base possède 5 DV ou plus. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
@@ -73,8 +95,14 @@ Les créatures entropiques vivent dans les plans du Chaos, mais peuvent être in
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures fiélons</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance au  
-feu et au froid</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Bien</td></tr><tr><td>11+</td><td>15</td><td>10/Bien</td></tr></table>
+<table CLASS="tablo" width="100%">
+  <caption>Protections des créatures fiélons</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td>Résistance au  
+feu et au froid</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr>
+  <tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Bien</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/Bien</td></tr>
+</table>
 
 </div></div>
 Les créatures qui possèdent cet archétype vivent dans les plans inférieurs comme les Abysses et l’Enfer mais elles peuvent être invoquées via des sorts tels qu’invocation de monstres et allié d’outreplan. Le [[FP]] d’une créature fiélone augmente de +1 seulement si la créature de base possède au moins 5 DV. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
@@ -101,8 +129,14 @@ Les créatures qui possèdent cet archétype sont plus grandes et plus fortes qu
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo" width="100%"><caption>Protections des créatures inflexibles</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à  
-l'acide, au feu et au froid</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Chaos</td></tr><tr><td>11+</td><td>15</td><td>10/Chaos</td></tr></table>
+<table CLASS="tablo" width="100%">
+  <caption>Protections des créatures inflexibles</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à  
+l'acide, au feu et au froid</td><td>RD</td></tr>
+  <tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr>
+  <tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Chaos</td></tr>
+  <tr><td>11+</td><td>15</td><td>10/Chaos</td></tr>
+</table>
 
 </div></div>
 Les créatures inflexibles vivent dans les plans de la Loi mais peuvent être invoquées via des sorts tels que *[[convocation de monstres I]]* et *[[allié doutreplan|allié d’outreplan]]*. Le FP d’une créature inflexible augmente de +1 seulement si la créature de base possède 5 DV ou plus. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.

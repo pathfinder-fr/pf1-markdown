@@ -188,6 +188,20 @@ leur manœuvrabilité fortement réduites dans ce milieu.
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Élémentaire</td><td>Taille</td><td>Poids</td><td>DD du tourbillon</td><td>Hauteur du tourbillon</td></tr><tr CLASS="premier"><td>Petit</td><td>1,20 m</td><td>½ kg</td><td>12</td><td>3-6 m</td></tr><tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>1 kg</td><td>14</td><td>3–9 m</td></tr><tr><td>Grand</td><td>4,20 m</td><td>2 kg</td><td>18</td><td>3–12 m</td></tr><tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>4 kg</td><td>22</td><td>3-15 m</td></tr><tr><td>Noble</td><td>10,80 m</td><td>5 kg</td><td>23</td><td>3–18 m</td></tr><tr><td>Seigneur</td><td>12 m</td><td>6 kg</td><td>27</td><td>3–18 m</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre">
+    <td>Élémentaire</td>
+    <td>Taille</td>
+    <td>Poids</td>
+    <td>DD du tourbillon</td>
+    <td>Hauteur du tourbillon</td>
+  </tr>
+  <tr CLASS="premier"><td>Petit</td><td>1,20 m</td><td>½ kg</td><td>12</td><td>3-6 m</td></tr>
+  <tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>1 kg</td><td>14</td><td>3–9 m</td></tr>
+  <tr><td>Grand</td><td>4,20 m</td><td>2 kg</td><td>18</td><td>3–12 m</td></tr>
+  <tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>4 kg</td><td>22</td><td>3-15 m</td></tr>
+  <tr><td>Noble</td><td>10,80 m</td><td>5 kg</td><td>23</td><td>3–18 m</td></tr>
+  <tr><td>Seigneur</td><td>12 m</td><td>6 kg</td><td>27</td><td>3–18 m</td></tr>
+</table></center>
 
 </div></td></tr></table>

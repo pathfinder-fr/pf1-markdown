@@ -31,4 +31,25 @@ Le personnage contrôle les tempêtes et le ciel et peut faire tomber les foudre
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du climat</td><td>Sous-domaine des Saisons</td><td>Sous-domaine des Tempêtes</td></tr><tr CLASS="premier"><td>1er</td><td>*[[brume de dissimulation]]*</td><td>*[[baie nourricière]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[nappe de brouillard]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[appel de la foudre]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[tempête de neige]]*</td><td>*[[flétrissement végétal]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[tempête de grêle]]*</td><td>*idem*</td><td>*[[appel de la tempête]]*</td></tr><tr><td>6e</td><td>*[[contrôle des vents]]*</td><td>*idem*</td><td>*[[sirocco]]*</td></tr><tr><td>7e</td><td>*[[contrôle du climat]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[cyclone]]*</td><td>*[[explosion de lumière]]*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[tempête vengeresse]]*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du climat</td>
+    <td>Sous-domaine des Saisons</td>
+    <td>Sous-domaine des Tempêtes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[brume de dissimulation]]*</td>
+    <td>*[[baie nourricière]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>2e</td><td>*[[nappe de brouillard]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>3e</td><td>*[[appel de la foudre]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[tempête de neige]]*</td><td>*[[flétrissement végétal]]*</td><td>*idem*</td></tr>
+  <tr><td>5e</td><td>*[[tempête de grêle]]*</td><td>*idem*</td><td>*[[appel de la tempête]]*</td></tr>
+  <tr><td>6e</td><td>*[[contrôle des vents]]*</td><td>*idem*</td><td>*[[sirocco]]*</td></tr>
+  <tr><td>7e</td><td>*[[contrôle du climat]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[cyclone]]*</td><td>*[[explosion de lumière]]*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[tempête vengeresse]]*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

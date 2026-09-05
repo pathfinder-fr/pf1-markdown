@@ -24,7 +24,13 @@ Ce sort bien plus puissant qu’*[[animation des morts]]* offre la possibilité 
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr><tr CLASS="premier"><td>11 ou moins</td><td>[[Goule]]</td></tr><tr CLASS="alt"><td>12–14</td><td>[[Goule|Blême]]</td></tr><tr><td>15–17</td><td>[[Momie]]</td></tr><tr CLASS="alt"><td>18 ou plus</td><td>[[Mohrg]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr>
+  <tr CLASS="premier"><td>11 ou moins</td><td>[[Goule]]</td></tr>
+  <tr CLASS="alt"><td>12–14</td><td>[[Goule|Blême]]</td></tr>
+  <tr><td>15–17</td><td>[[Momie]]</td></tr>
+  <tr CLASS="alt"><td>18 ou plus</td><td>[[Mohrg]]</td></tr>
+</table>
 
 </center>
 

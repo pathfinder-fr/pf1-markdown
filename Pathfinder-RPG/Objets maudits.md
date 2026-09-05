@@ -21,8 +21,30 @@ Categories:
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>{s:Reference|DETERMINATION}Malédictions ordinaires des objets</caption><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Malédiction</td></tr><tr CLASS="premier"><td>01-15</td><td CLASS="gauche">[[Objets maudits#POUVOIRIMAGINAIRE|Pouvoir imaginaire]]</td></tr><tr CLASS="alt"><td>16-35</td><td CLASS="gauche">[[Objets maudits#EFFETOPPOSE|Effet ou cible opposée]]</td></tr><tr><td>36-45</td><td CLASS="gauche">[[Objets maudits#FONCTIONNEMENTINTERMITTENT|Fonctionnement intermittent]]</td></tr><tr CLASS="alt"><td>46-60</td><td CLASS="gauche">[[Objets maudits#CONDITIONREQUISE|Condition requise]]</td></tr><tr><td>61-75</td><td CLASS="gauche">[[Objets maudits#INCONVENIENT|Inconvénient]]</td></tr><tr CLASS="alt"><td>76-90</td><td CLASS="gauche">Effet complètement différent</td></tr><tr><td>91-100</td><td CLASS="gauche">Substituer un objet maudit spécifique de   
-la table "[[Objets maudits#DETERMINATION2|Objets maudits spécifiques]]".</td></tr></table>
+<table CLASS="tablo">
+  <caption>{s:Reference|DETERMINATION}Malédictions ordinaires des objets</caption>
+  <tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Malédiction</td></tr>
+  <tr CLASS="premier">
+    <td>01-15</td>
+    <td CLASS="gauche">[[Objets maudits#POUVOIRIMAGINAIRE|Pouvoir imaginaire]]</td>
+  </tr>
+  <tr CLASS="alt"><td>16-35</td><td CLASS="gauche">[[Objets maudits#EFFETOPPOSE|Effet ou cible opposée]]</td></tr>
+  <tr>
+    <td>36-45</td>
+    <td CLASS="gauche">[[Objets maudits#FONCTIONNEMENTINTERMITTENT|Fonctionnement intermittent]]</td>
+  </tr>
+  <tr CLASS="alt"><td>46-60</td><td CLASS="gauche">[[Objets maudits#CONDITIONREQUISE|Condition requise]]</td></tr>
+  <tr><td>61-75</td><td CLASS="gauche">[[Objets maudits#INCONVENIENT|Inconvénient]]</td></tr>
+  <tr CLASS="alt"><td>76-90</td><td CLASS="gauche">Effet complètement différent</td></tr>
+  <tr>
+    <td>91-100</td>
+    <td CLASS="gauche">
+      Substituer un objet maudit spécifique de   
+la table "[[Objets maudits#DETERMINATION2|Objets maudits
+      spécifiques]]".
+    </td>
+  </tr>
+</table>
 
 </center></div></div>Voici les effets les plus répandus des objets maudits. Le MJ peut en inventer de nouveaux pour des objets spécifiques.
 
@@ -44,7 +66,32 @@ Les trois catégories d’objets à fonctionnement intermittent se comportent ex
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>d100</td><td CLASS="gauche">Situation</td></tr><tr CLASS="premier"><td>01-03</td><td CLASS="gauche">température en dessous de 0°C</td></tr><tr CLASS="alt"><td>04-05</td><td CLASS="gauche">température au-dessus de 0°C</td></tr><tr><td>06-10</td><td CLASS="gauche">la journée</td></tr><tr CLASS="alt"><td>11-15</td><td CLASS="gauche">la nuit</td></tr><tr><td>16-20</td><td CLASS="gauche">à la lumière directe du soleil</td></tr><tr CLASS="alt"><td>21-25</td><td CLASS="gauche">en dehors de la lumière directe du soleil</td></tr><tr><td>26-34</td><td CLASS="gauche">sous l’eau</td></tr><tr CLASS="alt"><td>35-37</td><td CLASS="gauche">hors de l’eau</td></tr><tr><td>38-45</td><td CLASS="gauche">sous terre</td></tr><tr CLASS="alt"><td>46-55</td><td CLASS="gauche">en surface</td></tr><tr><td>56-60</td><td CLASS="gauche">à moins de 3 m d’un type de créature aléatoire</td></tr><tr CLASS="alt"><td>61-64</td><td CLASS="gauche">à moins de 3 m d’une race ou d’une espèce de créature aléatoire</td></tr><tr><td>65-72</td><td CLASS="gauche">à moins de 3 m d’un lanceur de sorts profanes</td></tr><tr CLASS="alt"><td>73-80</td><td CLASS="gauche">à moins de 3 m d’un lanceur de sorts divins</td></tr><tr><td>81-85</td><td CLASS="gauche">entre les mains d’une créature incapable de lancer des sorts</td></tr><tr CLASS="alt"><td>86-90</td><td CLASS="gauche">entre les mains d’un lanceur de sorts</td></tr><tr><td>91-95</td><td CLASS="gauche">entre les mains d’une créature d’un alignement particulier</td></tr><tr CLASS="alt"><td>96</td><td CLASS="gauche">entre les mains d’une créature féminine ou masculine</td></tr><tr><td>97-99</td><td CLASS="gauche">les jours de fête ou lors d’événements astrologiques particuliers</td></tr><tr CLASS="alt"><td>100</td><td CLASS="gauche">à plus de 150 kilomètres d’un site donné</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>d100</td><td CLASS="gauche">Situation</td></tr>
+  <tr CLASS="premier"><td>01-03</td><td CLASS="gauche">température en dessous de 0°C</td></tr>
+  <tr CLASS="alt"><td>04-05</td><td CLASS="gauche">température au-dessus de 0°C</td></tr>
+  <tr><td>06-10</td><td CLASS="gauche">la journée</td></tr>
+  <tr CLASS="alt"><td>11-15</td><td CLASS="gauche">la nuit</td></tr>
+  <tr><td>16-20</td><td CLASS="gauche">à la lumière directe du soleil</td></tr>
+  <tr CLASS="alt"><td>21-25</td><td CLASS="gauche">en dehors de la lumière directe du soleil</td></tr>
+  <tr><td>26-34</td><td CLASS="gauche">sous l’eau</td></tr>
+  <tr CLASS="alt"><td>35-37</td><td CLASS="gauche">hors de l’eau</td></tr>
+  <tr><td>38-45</td><td CLASS="gauche">sous terre</td></tr>
+  <tr CLASS="alt"><td>46-55</td><td CLASS="gauche">en surface</td></tr>
+  <tr><td>56-60</td><td CLASS="gauche">à moins de 3 m d’un type de créature aléatoire</td></tr>
+  <tr CLASS="alt">
+    <td>61-64</td>
+    <td CLASS="gauche">à moins de 3 m d’une race ou d’une espèce de créature aléatoire</td>
+  </tr>
+  <tr><td>65-72</td><td CLASS="gauche">à moins de 3 m d’un lanceur de sorts profanes</td></tr>
+  <tr CLASS="alt"><td>73-80</td><td CLASS="gauche">à moins de 3 m d’un lanceur de sorts divins</td></tr>
+  <tr><td>81-85</td><td CLASS="gauche">entre les mains d’une créature incapable de lancer des sorts</td></tr>
+  <tr CLASS="alt"><td>86-90</td><td CLASS="gauche">entre les mains d’un lanceur de sorts</td></tr>
+  <tr><td>91-95</td><td CLASS="gauche">entre les mains d’une créature d’un alignement particulier</td></tr>
+  <tr CLASS="alt"><td>96</td><td CLASS="gauche">entre les mains d’une créature féminine ou masculine</td></tr>
+  <tr><td>97-99</td><td CLASS="gauche">les jours de fête ou lors d’événements astrologiques particuliers</td></tr>
+  <tr CLASS="alt"><td>100</td><td CLASS="gauche">à plus de 150 kilomètres d’un site donné</td></tr>
+</table>
 
 </center>
 
@@ -81,7 +128,125 @@ Sauf indication contraire, les inconvénients font effet tant que le personnage 
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>d100</td><td CLASS="gauche">Inconvénient</td></tr><tr CLASS="premier"><td>01-04</td><td CLASS="gauche">Les cheveux du personnage poussent de 2,5 centimètres par heure.</td></tr><tr CLASS="alt"><td>05-09</td><td CLASS="gauche">Le personnage rétrécit (01-50 sur un d100) ou grandit (51-100) de 15 centimètres. Se produit une seule fois.</td></tr><tr><td>10-13</td><td CLASS="gauche">La température chute de 12 °C autour de l’objet.</td></tr><tr CLASS="alt"><td>14-17</td><td CLASS="gauche">La température augmente de 12°C autour de l’objet.</td></tr><tr><td>18-21</td><td CLASS="gauche">Les cheveux du personnage changent de couleur.</td></tr><tr CLASS="alt"><td>22-25</td><td CLASS="gauche">La peau du personnage change de couleur.</td></tr><tr><td>26-29</td><td CLASS="gauche">Le personnage porte à présent une marque (tatouage, étrange lueur ou autre).</td></tr><tr CLASS="alt"><td>30-32</td><td CLASS="gauche">Le personnage change de sexe.</td></tr><tr><td>33-34</td><td CLASS="gauche">Le personnage change de race ou d’espèce.</td></tr><tr CLASS="alt"><td>35</td><td CLASS="gauche">Le personnage contracte une [[maladies|maladie]] aléatoire incurable.</td></tr><tr><td>36-39</td><td CLASS="gauche">L’objet émet sans cesse un bruit dérangeant (des gémissements, des pleurs, des hurlements, des malédictions, des insultes…)</td></tr><tr CLASS="alt"><td>40</td><td CLASS="gauche">L’objet a l’air ridicule (des couleurs criardes, une forme risible, brille d’un rose vif…).</td></tr><tr><td>41-45</td><td CLASS="gauche">Le personnage devient possessif et égoïste.</td></tr><tr CLASS="alt"><td>46-49</td><td CLASS="gauche">Le personnage a une peur paranoïaque de perdre son objet ou de l’abîmer.</td></tr><tr><td>50-51</td><td CLASS="gauche">Le personnage change d’[[alignement]].</td></tr><tr CLASS="alt"><td>52-54</td><td CLASS="gauche">Le personnage doit attaquer la créature la plus proche (5% de chances (01-05 sur un d100) chaque jour).</td></tr><tr><td>55-57</td><td CLASS="gauche">Une fois que le personnage a fini de se servir de l’objet (ou aléatoirement, 1/jour), il est [[étourdi]] pendant 1d4 [[round|rounds]].</td></tr><tr CLASS="alt"><td>58-60</td><td CLASS="gauche">La vision du personnage devient floue (-2 aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]] et aux tests de compétences qui reposent sur la vue).</td></tr><tr><td>61-64</td><td CLASS="gauche">Le personnage gagne un [[niveau négatif]].</td></tr><tr CLASS="alt"><td>65</td><td CLASS="gauche">Le personnage gagne deux [[niveau négatif|niveaux négatifs]].</td></tr><tr><td>66-70</td><td CLASS="gauche">Chaque jour, le personnage doit réussir un jet de [[Volonté]] ou perdre temporairement 1 point d’[[Intelligence]].</td></tr><tr CLASS="alt"><td>71-75</td><td CLASS="gauche">Chaque jour, le personnage doit réussir un jet de [[Volonté]] ou perdre temporairement 1 point de [[Sagesse]].</td></tr><tr><td>76-80</td><td CLASS="gauche">Chaque jour, le personnage doit réussir un jet de [[Volonté]] ou perdre temporairement 1 point de [[Charisme]].</td></tr><tr CLASS="alt"><td>81-85</td><td CLASS="gauche">Chaque jour, le personnage doit réussir un jet de [[Vigueur]] ou perdre temporairement 1 point de [[Constitution]].</td></tr><tr><td>86-90</td><td CLASS="gauche">Chaque jour, le personnage doit réussir un jet de [[Vigueur]] ou perdre temporairement 1 point de [[Force]].</td></tr><tr CLASS="alt"><td>91-95</td><td CLASS="gauche">Chaque jour, le personnage doit réussir un jet de [[Vigueur]] ou perdre temporairement 1 point de [[Dextérité]].</td></tr><tr><td>96</td><td CLASS="gauche">Le personnage est métamorphosé en une créature spécifique (chaque jour, 5% de chances (01-05 sur 1d100).</td></tr><tr CLASS="alt"><td>97</td><td CLASS="gauche">Le personnage ne peut pas lancer de sorts profanes.</td></tr><tr><td>98</td><td CLASS="gauche">Le personnage ne peut pas lancer de sorts divins.</td></tr><tr CLASS="alt"><td>99</td><td CLASS="gauche">Le personnage ne peut pas lancer de sorts.</td></tr><tr><td>100</td><td CLASS="gauche">Choisissez un inconvénient approprié à l’objet ou inventez-en un.</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>d100</td><td CLASS="gauche">Inconvénient</td></tr>
+  <tr CLASS="premier">
+    <td>01-04</td>
+    <td CLASS="gauche">Les cheveux du personnage poussent de 2,5 centimètres par heure.</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>05-09</td>
+    <td CLASS="gauche">
+      Le personnage rétrécit (01-50 sur un d100) ou grandit (51-100) de 15 centimètres. Se produit une seule fois.
+    </td>
+  </tr>
+  <tr><td>10-13</td><td CLASS="gauche">La température chute de 12 °C autour de l’objet.</td></tr>
+  <tr CLASS="alt"><td>14-17</td><td CLASS="gauche">La température augmente de 12°C autour de l’objet.</td></tr>
+  <tr><td>18-21</td><td CLASS="gauche">Les cheveux du personnage changent de couleur.</td></tr>
+  <tr CLASS="alt"><td>22-25</td><td CLASS="gauche">La peau du personnage change de couleur.</td></tr>
+  <tr>
+    <td>26-29</td>
+    <td CLASS="gauche">Le personnage porte à présent une marque (tatouage, étrange lueur ou autre).</td>
+  </tr>
+  <tr CLASS="alt"><td>30-32</td><td CLASS="gauche">Le personnage change de sexe.</td></tr>
+  <tr><td>33-34</td><td CLASS="gauche">Le personnage change de race ou d’espèce.</td></tr>
+  <tr CLASS="alt">
+    <td>35</td>
+    <td CLASS="gauche">Le personnage contracte une [[maladies|maladie]] aléatoire incurable.</td>
+  </tr>
+  <tr>
+    <td>36-39</td>
+    <td CLASS="gauche">
+      L’objet émet sans cesse un bruit dérangeant (des gémissements, des pleurs, des hurlements, des malédictions,
+      des insultes…)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>40</td>
+    <td CLASS="gauche">L’objet a l’air ridicule (des couleurs criardes, une forme risible, brille d’un rose vif…).</td>
+  </tr>
+  <tr><td>41-45</td><td CLASS="gauche">Le personnage devient possessif et égoïste.</td></tr>
+  <tr CLASS="alt">
+    <td>46-49</td>
+    <td CLASS="gauche">Le personnage a une peur paranoïaque de perdre son objet ou de l’abîmer.</td>
+  </tr>
+  <tr><td>50-51</td><td CLASS="gauche">Le personnage change d’[[alignement]].</td></tr>
+  <tr CLASS="alt">
+    <td>52-54</td>
+    <td CLASS="gauche">
+      Le personnage doit attaquer la créature la plus proche (5% de chances (01-05 sur un d100) chaque jour).
+    </td>
+  </tr>
+  <tr>
+    <td>55-57</td>
+    <td CLASS="gauche">
+      Une fois que le personnage a fini de se servir de l’objet (ou aléatoirement, 1/jour), il est [[étourdi]]
+      pendant 1d4 [[round|rounds]].
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>58-60</td>
+    <td CLASS="gauche">
+      La vision du personnage devient floue (-2 aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]] et aux
+      tests de compétences qui reposent sur la vue).
+    </td>
+  </tr>
+  <tr><td>61-64</td><td CLASS="gauche">Le personnage gagne un [[niveau négatif]].</td></tr>
+  <tr CLASS="alt">
+    <td>65</td>
+    <td CLASS="gauche">Le personnage gagne deux [[niveau négatif|niveaux négatifs]].</td>
+  </tr>
+  <tr>
+    <td>66-70</td>
+    <td CLASS="gauche">
+      Chaque jour, le personnage doit réussir un jet de [[Volonté]] ou perdre temporairement 1 point
+      d’[[Intelligence]].
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>71-75</td>
+    <td CLASS="gauche">
+      Chaque jour, le personnage doit réussir un jet de [[Volonté]] ou perdre temporairement 1 point de [[Sagesse]].
+    </td>
+  </tr>
+  <tr>
+    <td>76-80</td>
+    <td CLASS="gauche">
+      Chaque jour, le personnage doit réussir un jet de [[Volonté]] ou perdre temporairement 1 point de
+      [[Charisme]].
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>81-85</td>
+    <td CLASS="gauche">
+      Chaque jour, le personnage doit réussir un jet de [[Vigueur]] ou perdre temporairement 1 point de
+      [[Constitution]].
+    </td>
+  </tr>
+  <tr>
+    <td>86-90</td>
+    <td CLASS="gauche">
+      Chaque jour, le personnage doit réussir un jet de [[Vigueur]] ou perdre temporairement 1 point de [[Force]].
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>91-95</td>
+    <td CLASS="gauche">
+      Chaque jour, le personnage doit réussir un jet de [[Vigueur]] ou perdre temporairement 1 point de
+      [[Dextérité]].
+    </td>
+  </tr>
+  <tr>
+    <td>96</td>
+    <td CLASS="gauche">
+      Le personnage est métamorphosé en une créature spécifique (chaque jour, 5% de chances (01-05 sur 1d100).
+    </td>
+  </tr>
+  <tr CLASS="alt"><td>97</td><td CLASS="gauche">Le personnage ne peut pas lancer de sorts profanes.</td></tr>
+  <tr><td>98</td><td CLASS="gauche">Le personnage ne peut pas lancer de sorts divins.</td></tr>
+  <tr CLASS="alt"><td>99</td><td CLASS="gauche">Le personnage ne peut pas lancer de sorts.</td></tr>
+  <tr><td>100</td><td CLASS="gauche">Choisissez un inconvénient approprié à l’objet ou inventez-en un.</td></tr>
+</table>
 
 </center>
 ### Objets maudits spécifiques
@@ -95,6 +260,668 @@ Les armures et les armes maudites se présentent sous de nombreuses formes. Nous
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>{s:Reference|DETERMINATION2}Objets maudits spécifiques</caption><tr CLASS="titre"><td WIDTH="12%">Objet</td><td WIDTH="3%">Src</td><td WIDTH="20%">Origine</td><td WIDTH="65%">Malédiction</td></tr><tr CLASS="premier"><td>[[Amulette de localisation]]</td><td><sup>A&E</sup></td><td>[[amulette dantidétection|amulette d'antidétection]]</td><td>Impose un malus de -10 aux [[jds|jets de sauvegarde]] contre les sorts de [[école divination|divination]].</td></tr><tr CLASS="premier"><td>[[Anneau cannibale]]</td><td><sup>A&E</sup></td><td>[[anneau de subsistance]]</td><td>Après 7 jours de port, affame le porteur jusqu’à ce qu’il s’adonne au cannibalisme, auquel cas il risque de mourir s’il arrête. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Anneau de gaucherie]]</td><td><sup>A&E</sup></td><td>[[anneau de feuille morte]]</td><td>Impose un malus de -4 à la [[Dextérité]] et 20 % de chances d’échec des sorts profanes au porteur.</td></tr><tr CLASS="premier"><td>[[Anneau de perte de vie]]</td><td><sup>A&E</sup></td><td>[[anneau de régénération]]</td><td>Lorsque le porteur subit des dégâts, il en subit 1d4 points supplémentaires. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Anneau dévoreur de sorts]]</td><td><sup>A&E</sup></td><td>[[anneau de stockage de sort]] (tous), [[anneau de renvoi des sorts]]</td><td>Lorsque le porteur lance un sort profane, il a 25 % de chances de rater. Impose un malus de -4 aux tests d’[[Art de la magie]] pour identifier un sort ou lancer un contresort. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Anneau de vérité]]</td><td><sup>A&E</sup></td><td>[[anneau de barrière mentale]], [[anneau de rayons X]]</td><td>Empêche le porteur de mentir à l’oral ou à l’écrit, mais il peut tenter de ne pas répondre. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Arc briseur de flèches]]</td><td><sup>A&E</sup></td><td>[[arc court (arme)|arc court]] +2</td><td>Brise toute flèche tirée avec. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Arc de tir de près]]</td><td><sup>A&E</sup></td><td>[[arc court (arme)|arc court]] de *[[longue portée (propriété)|longue portée]]* +2</td><td>Impose un malus de -4 aux [[jet dattaque|jets d’attaque]] pour chaque [[facteur de portée]] au-delà du premier, ainsi qu’aux jets de confirmations critique des tirs effectués au-delà du premier [[facteur de portée]]. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Armure dattraction des projectiles|Armure d’attraction des projectiles]]</td><td><sup>A&E</sup></td><td>[[harnois (armure)|harnois]] +3</td><td>Impose un malus de -15 à la [[CA]] contre les attaque à distance.</td></tr><tr CLASS="premier"><td>[[Armure de fureur]]</td><td><sup>A&E</sup></td><td>[[cuirasse de commandement]], [[harnois (armure)|harnois]] +1</td><td>Impose un malus de -4 au [[Charisme]], et tous les ennemis du porteur dans un rayon de 90m autour de lui bénéficient d’un bonus de moral de +1 aux [[jet dattaque|jets d’attaque]] contre lui.</td></tr><tr CLASS="premier"><td>[[Armure des âmes mortes]]</td><td><sup>A&E</sup></td><td>[[armure de cuir cloutée (armure)|armure de cuir cloutée]] de *[[contrôle des morts-vivants (propriété)|contrôle des morts-vivants]]* +1</td><td>Trois fois par jour, lorsque le porteur tente d’utiliser la propriété *[[contrôle des morts-vivants (propriété)|contrôle des morts-vivants]]*, lui et ses alliés dans un rayon de 6m autour de lui se prennent pour des morts-vivants pendant 24 heures.</td></tr><tr CLASS="premier"><td>[[Balai frappeur]]</td><td><sup>A&E</sup></td><td>[[balai volant]]</td><td>Lorsque le porteur tente de voler avec, lui inflige les dégâts d’une chute de 1d4+1,5m puis lui porte 4 coups par [[round]] pendant 4 [[round|rounds]] infligeant 1d6 points de dégâts chacun dont deux peuvent [[aveuglé|aveugler]] la cible.</td></tr><tr CLASS="premier"><td>[[Bandeau de stupidité]]</td><td><sup>A&E</sup></td><td>[[bandeau dintelligence|bandeau d’intelligence +4]]</td><td>Impose un malus de -4 à l’[[Intelligence]] et un malus de -2 aux tests de [[Connaissances]].</td></tr><tr CLASS="premier"><td>[[Bâton merveilleux occasionnel]]</td><td><sup>A&E</sup></td><td>[[bâtons magiques|bâton magique]]</td><td>Lorsque que le porteur tente d’utiliser un pouvoir du bâton, il y a 1 chance sur 10 qu’il manifeste les effets d’un [[sceptre merveilleux]] à la place.</td></tr><tr CLASS="premier"><td>[[Bottes de danse effrénée]]</td><td><sup>A&E</sup></td><td>[[bottes elfiques]], [[bottes de lévitation]], [[bottes de rapidité]], [[bottes de sept lieues]], [[bottes de téléportation]], [[bottes des terres gelées]], [[bottes ailées]]</td><td>Lorsque le porteur se retrouve dans une mêlée (ou la fuit), lui inflige effets du sort *[[danse irrésistible]]*. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Bouclier de linvasion planaire|Bouclier de l’invasion planaire]]</td><td><sup>A&E</sup></td><td>[[bouclier phagocyte]]</td><td>Lorsque le porteur tente d’utiliser le pouvoir de *[[désintégration]]* du bouclier, invoque à la place 1d3 monstres (comme avec *[[convocation de monstres]]* d’un niveau aléatoire) qui attaquent la créature la plus proche pendant 1d6 [[round|rounds]]. Une fois activé, ce pouvoir se manifeste trois fois par jour toutes les 8 heures automatiquement. Impossible de s’en débarrasser librement (s’il a fait effet).</td></tr><tr CLASS="premier"><td>[[Boule de cristal asservissante]]</td><td><sup>A&E</sup></td><td>[[boule de cristal]]</td><td>Lorsque le porteur tente d’utiliser la boule de cristal, il est [[fasciné]] pendant 1d6 minutes et peut recevoir une *[[suggestion]]* par télépathie.</td></tr><tr CLASS="premier"><td>[[Bracelets de tir dégroupé]]</td><td><sup>A&E</sup></td><td>[[bracelets darcher|bracelets d’archer]] (tous)</td><td>Imposent un malus de -2 aux [[jet dattaque|jets d’attaque]] à distance. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Bracelets de vulnérabilité]]</td><td><sup>A&E</sup></td><td>[[bracelets darmure|bracelets d’armure]] +5</td><td>Dès que le porteur se fait attaquer par une créature d’un [[FP]] égal ou supérieur au sien, imposent un malus de -5 à la [[CA]] en permanence. Impossible de s’en débarrasser librement (s’ils ont fait effet).</td></tr><tr CLASS="premier"><td>[[Broche du scarabée tueur]]</td><td><sup>A&E</sup></td><td>[[amulette dantidétection|amulette d’antidétection]], [[amulette darmure naturelle|amulette d’armure naturelle]], [[amulette des plans]], [[amulette des poings invincibles]], [[broche antigolems]], [[broche de défense]], [[scarabée de protection]]</td><td>Lorsque qu’une créature la tient en main pendant 1 [[round]] ou la porte pendant 1 minute, peut la tuer.</td></tr><tr CLASS="premier"><td>[[Cape dancrage|Cape d’ancrage]]</td><td><sup>A&E</sup></td><td>[[cape de prestidigitateur]]</td><td>Inflige les effets du sort *[[ancre dimensionnelle]]* au porteur en permanence. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Cape dimmolation|Cape d’immolation]]</td><td><sup>A&E</sup></td><td>[[objets merveilleux portés sur les épaules|cape magique]]</td><td>Inflige 1d6 points de dégâts de feu par [[round]] au porteur en permanence. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Cape empoisonnée]]</td><td><sup>A&E</sup></td><td>[[cape de la chauve-souris]], [[cape de déplacement|cape de déplacement majeure]], [[cape éthérée]], [[cape de laraignée|cape de l’araignée]], [[cape de résistance]] +5</td><td>Peut infliger un malus de 4d6 points à la [[Constitution]] au porteur. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Cape pétrifiante]]</td><td><sup>A&E</sup></td><td>[[objets merveilleux portés sur les épaules|cape magique]]</td><td>Peut [[pétrifié|pétrifier]] le porteur à chaque [[round]] en permanence. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Casque de changement dalignement|Casque de changement d’alignement]]</td><td><sup>A&E</sup></td><td>[[Casque de compréhension]], [[casque de télépathie]], [[couvre-chef de déguisement]]</td><td>Le porteur peut adopter un alignement diamétralement opposé au sien. Impossible de s’en débarrasser librement (s’il a fait effet).</td></tr><tr CLASS="premier"><td>[[Ceinture de faiblesse]]</td><td><sup>A&E</sup></td><td>[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (tous)</td><td>Impose un malus de -4 à la [[Constitution]]. Lorsque porteur obtient un 1 naturel à un jet de [[Vigueur]], lui inflige 2d8 points de dégâts.</td></tr><tr CLASS="premier"><td>[[Ceinture du sexe opposé]]</td><td><sup>A&E</sup></td><td>[[objets merveilleux portés à la taille|ceinture magique]]</td><td>Peut changer le sexe du porteur, ou le rendre asexué, en permanence.</td></tr><tr CLASS="premier"><td>[[Chapeau de haine]]</td><td><sup>A&E</sup></td><td>[[couvre-chef de déguisement]]</td><td>Lorsque le porteur s’en sert en présence d’une créature qui lui est hostile, lui donne l’apparence de quelqu’un qu’elle a le plus envie de blesser, puis ne répond plus aux ordres du porteur. Lorsqu’il a fait effet, donne toujours l’apparence la plus méprisable selon son environnement au porteur. Impossible de s’en débarrasser librement (s’il a fait effet).</td></tr><tr CLASS="premier"><td>[[Charme dinfection|Charme d’infection]]</td><td><sup>A&E</sup></td><td>[[charme antipoison]], [[charme de bonne santé]], [[charme de coagulation]]</td><td>Après 24 heures de port, inflige une [[affaiblissement temporaire (capacité)|diminution permanente]] de 1 point à la [[Dextérité]], la [[Constitution]] et au [[Charisme]] toutes les semaines. Impossible de s’en débarrasser librement (s’il a fait effet).</td></tr><tr CLASS="premier"><td>[[Collier étrangleur]]</td><td><sup>A&E</sup></td><td>[[charme antipoison]], [[charme de bonne santé]], [[charme de coagulation]], [[collier à boules de feu]], [[collier dadaptation|collier d’adaptation]]</td><td>Inflige 6 points de dégâts par [[round]] au porteur en permanence. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Couronne de cécité]]</td><td><sup>A&E</sup></td><td>[[bandeau de belle allure]], [[bandeau dinspiration|bandeau d’inspiration]], [[bandeau de prouesse mentale]], [[bandeau de supériorité mentale]], [[bandeau dintelligence|bandeau d’intelligence]], [[diadème de la lune]]</td><td>Peut rendre le porteur [[aveuglé|aveugle]] à chaque [[round]] en permanence. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Coutille encombrante]]</td><td><sup>A&E</sup></td><td>[[coutille (arme)|coutille]] +2</td><td>Lorsque le porteur tente d’effectuer une [[attaque dopportunité|attaque d’opportunité]], lui impose un malus de -2 à la [[CA]] et aux [[jet dattaque|jets d’attaque]] jusqu’à la fin de son prochain tour.</td></tr><tr CLASS="premier"><td>[[Encens dobsession|Encens d’obsession]]</td><td><sup>A&E</sup></td><td>[[encens de méditation]]</td><td>L’utilisateur se sert de sa magie à la moindre occasion (même si c’est inutile) jusqu’à ce qu’il n’ai plus d’emplacement disponible ou pendant 24 heures.</td></tr><tr CLASS="premier"><td>[[Épaulettes de lâne bâté|Épaulettes de l’âne bâté]]</td><td><sup>A&E</sup></td><td>[[objets merveilleux portés sur les épaules|épaulette magique]]</td><td>Impose un malus de -4 à la [[Dextérité]] et réduit la vitesse de déplacement du porteur de 3m. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Épée de berserker]]</td><td><sup>A&E</sup></td><td>[[épée à deux mains (arme)|épée à deux mains]] +2, [[armes magiques|arme magique]]</td><td>Lorsque le porteur entre en combat, il bénéficie des effets d’une [[barbare#RAGE|rage de barbare]] mais doit tuer les créatures les plus proches jusqu’à ce qu’il tombe [[inconscient]], qu’il meurt, ou qu’il ne reste qu’une seule créature vivante à moins de 9m de lui.</td></tr><tr CLASS="premier"><td>[[Épée du bouffon]]</td><td><sup>A&E</sup></td><td>[[épée de précision]]</td><td>Tant que le porteur est en combat, lui impose un malus de -10 aux tests de [[Discrétion]] et peut l’empêcher de mentir ou d’être fourbe. Impossible de s’en débarrasser librement (si elle a fait effet).</td></tr><tr CLASS="premier"><td>[[Épée maudite -2]]</td><td><sup>A&E</sup></td><td>[[épée longue (arme)|épée longue]] +2, n’importe quelle [[armes magiques|arme magique]]</td><td>Impose un malus de -2 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués avec. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Fenêtre à sens unique (AE)]]</td><td><sup>A&E</sup></td><td>[[Miroir demprisonnement|Miroir d’emprisonnement]], [[miroir dopposition|miroir d’opposition]]</td><td>Peut être placée contre une surface pour révéler ce qu’il se passe de l’autre côté, mais si elle est utilisée pour espionner des créatures hostiles, donne un faux sentiment de sécurité. Impossible de s’en débarrasser librement (si elle a fait effet).</td></tr><tr CLASS="premier"><td>[[Figurine malchanceuse]]</td><td><sup>A&E</sup></td><td>[[statuette merveilleuse]] (toutes)</td><td>Impose un malus de -2 à la [[CA]], au [[DMD]], aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]], aux tests de compétence et de caractéristique.</td></tr><tr CLASS="premier"><td>[[Filet aquatique]]</td><td><sup>A&E</sup></td><td>[[filet (arme)|filet]] +3</td><td>Sous l’eau, peut capturer une créature à 9m ou moins du porteur à volonté. Sur terre, capture le porteur à la place.</td></tr><tr CLASS="premier"><td>[[Flasque maudite]]</td><td><sup>A&E</sup></td><td>[[carafe intarissable]], [[flasque de fer]], [[urne du mauvais génie]], [[urne fumigène]]</td><td>Lorsqu’elle est ouverte, peut imposer un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]] et aux tests de compétence (comme avec *[[malédiction]]*) de toutes les créatures dans un rayon de 9m d’elle.</td></tr><tr CLASS="premier"><td>[[Flûte démeutes|Flûte d’émeutes]]</td><td><sup>A&E</sup></td><td>[[flûte de hantise]], [[flûte à bruitages]], [[flûte dHamelin|flûte d’Hamelin]]</td><td>Lorsque qu’on en joue dans un environnement urbain (ce qu’elle peut le forcer à faire), tous les gens qui l’entendent peuvent bénéficier des effets du sort *[[rage]]* pendant 1d6 heures alors qu’ils attaquent tout étranger ou personne détestée autour d’eux. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Gantelets de maladresse]]</td><td><sup>A&E</sup></td><td>[[gantelet de rouille]], [[gants antiprojectiles]], [[gants de nage et descalade|gants de nage et d’escalade]], [[gant de rangement]]</td><td>Lorsque le porteur se fait attaquer ou est en danger de mort, il a 50 % de chance de lâcher ce qu’il tient dans une de ses mains à chaque [[round]], et subit un malus de -2 à la [[Dextérité]] en permanence. Impossible de s’en débarrasser librement (s’ils ont fait effet).</td></tr><tr CLASS="premier"><td>[[Grimoire de vacuité]]</td><td><sup>A&E</sup></td><td>[[livre magique]], [[manuel de coordination physique]], [[manuel de remise en forme]], [[manuel de vitalité]], [[traité de perspicacité]]</td><td>Lorsque on en lit un mot, peut imposer un malus de -1 à l’[[Intelligence]] et au [[Charisme]], ainsi qu’une [[affaiblissement temporaire (capacité)|diminution permanente]] de -2 à la [[Sagesse]].</td></tr><tr CLASS="premier"><td>[[Hache darmes mordeuse|Hache d’armes mordeuse]]</td><td><sup>A&E</sup></td><td>[[hache darmes (arme)|hache d’armes]] +2</td><td>Permet d’utiliser le don [[Succession denchaînements|Succession d’enchaînements]] (et force à le faire dès que possible), mais l’attaque supplémentaire est toujours effectuée sur un ennemi adjacent aléatoire au porteur. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Hache de jet au retour mortel]]</td><td><sup>A&E</sup></td><td>[[hache de lancer (arme)|hache de lancer]] *[[boomerang (propriété)|boomerang]]* +2</td><td>Lorsque le porteur rate sa cible à distance et que la propriété *[[boomerang (propriété)|boomerang]]* fait effet, elle frappe le lanceur en utilisant son [[BBA]] maximal. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Hache de morte-chair]]</td><td><sup>CSU</sup></td><td>[[hache darmes naine (arme)|Hache d’armes naine]] [[spectrale (propriété)|spectrale]] [[tueuse (propriété)|tueuse]] de mort-vivant +1 en [[mithral]]</td><td>Lorsqu'il tue un mort-vivant avec, le porteur peut être [[secoué]] pendant 1 minute. Cet effet de peur se cumule avec lui-même, et s'il rend le porteur [[paniqué]], ce dernier doit le lâcher.</td></tr><tr CLASS="premier"><td>[[Lance traîtresse]]</td><td><sup>A&E</sup></td><td>[[épieu (arme)|épieu]] +2, n’importe quelle [[armes magiques|arme magique]]</td><td>Lorsque le porteur obtient un 1 naturel sur un [[jet dattaque|jet d’attaque]] effectué avec, lui inflige les dégâts de l’attaque (les dégâts normaux sont doublés s’il s’agissait une attaque à distance).</td></tr><tr CLASS="premier"><td>[[Main de maniaque]]</td><td><sup>AO</sup></td><td>[[main de pierre]], [[main du mage]], [[main miraculeuse]]</td><td>Greffée au moignon d’un humanoïde qui a perdu une main, confère un bonus de compétence de +2 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués avec, et peut permettre d’effectuer une attaque supplémentaire lors d’une [[actions complexes#ATTAQUEAOUTRANCE|attaque à outrance]] aux prix d’un malus de -2 à la [[CA]]. Tente de tuer les amis du porteur, des innocents, ou le porteur lui-même s’il ne se plie pas à sa volonté. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Marteau pesant]]</td><td><sup>A&E</sup></td><td>[[marteau de guerre (arme)|marteau de guerre]] +2</td><td>Impose un malus de -2 aux [[jet dattaque|jets d’attaque]] et de -3m à la vitesse de déplacement. Confère un bonus de +4 aux [[valeurs de combat#DEGATS|jets de dégâts]]. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Masque de laideur]]</td><td><sup>A&E</sup></td><td>[[objets merveilleux portés sur la tête|masque magique]], [[bandeau de belle allure]]</td><td>Impose un malus de -4 aux tests de [[Bluff]] et de [[Diplomatie]]. Confère un bonus de +2 aux tests d’[[Intimidation]].</td></tr><tr CLASS="premier"><td>[[Masse vampire]]</td><td><sup>A&E</sup></td><td>[[masse darmes lourde (arme)|masse d’armes lourde]] +3</td><td>Doit être plongée dans du sang tous les jours sous peine de perdre son [[armes magiques#BONUSDALTERATION|bonus d’altération]]. Chaque jour, peut rendre le porteur Chaotique Mauvais.</td></tr><tr CLASS="premier"><td>[[Médaillon démission des pensées|Médaillon d’émission des pensées]]</td><td><sup>A&E</sup></td><td>[[médaillon des pensées]]</td><td>Les informations transmissent au porteur sont toujours fausses, mais convaincantes. Transmet les pensées du porteur à toutes les créatures autour de lui en permanence.</td></tr><tr CLASS="premier"><td>[[Miroir de vampirisme des âmes]]</td><td><sup>AO</sup></td><td>[[miroir demprisonnement|miroir d’emprisonnement]], [[miroir dopposition|miroir d’opposition]]</td><td>Peut absorber l’âme des créatures qui se regarde dedans (15 maximum). Les créatures dont l’âme a été absorbée deviennent les hôtes d’esprits similaires à l’alignement opposé.</td></tr><tr CLASS="premier"><td>[[Mousquet instable]]</td><td><sup>A&E</sup></td><td>mousquet +1</td><td>Fait [[long feu]] sur un jet de 1 à 5 et cette valeur est irréductible. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Onguent de vieillesse]]</td><td><sup>A&E</sup></td><td>[[onguent dintemporalité|onguent d’intemporalité]]</td><td>Utilisé sur une créature vivante, la fait vieillir de 30 ans. Utilisé sur des matériaux autrefois vivants, les faits tomber en poussière. 8 doses à la fabrication.</td></tr><tr CLASS="premier"><td>[[Patte de singe]]</td><td><sup>AO</sup></td><td>aucun</td><td>Confère trois *[[souhait|souhaits]]*, mais le résultat est toujours désastreux.</td></tr><tr CLASS="premier"><td>[[Pierre de lest]]</td><td><sup>A&E</sup></td><td>[[gemme à élémentaire]] (terre), [[pierre dalerte|pierre d’alerte]], [[pierre ioun]], [[pierre porte-bonheur]]</td><td>Réduit la vitesse de déplacement du porteur de moitié. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Pierre ioun foreuse desprit|Pierre ioun foreuse d'esprit]]</td><td><sup>RSE</sup></td><td>[[pierre ioun]]</td><td>Inflige 1 point de dégâts par [[round]] au porteur en combat. Inflige 1 point d'[[affaiblissement temporaire (capacité)|affaiblissement temporaire]] à l'[[Intelligence]], la [[Sagesse]] et au [[Charisme]] par round au porteur s'il est [[inconscient]].</td></tr><tr CLASS="premier"><td>[[Pistolet grincheux]]</td><td><sup>A&E</sup></td><td>[[armes magiques|pistolet magique]]</td><td>Tire magiquement sur toute créature dont le porteur ou un de ses alliés essaie d’améliorer l’attitude.</td></tr><tr CLASS="premier"><td>[[Potion toxique]]</td><td><sup>A&E</sup></td><td>[[potions magiques|potion magique]]</td><td>Peut infliger à l’utilisateur un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3 points à la [[Constitution]] par [[round]] pendant 6 [[round|rounds]].</td></tr><tr CLASS="premier"><td>[[Poudre à éternuer]]</td><td><sup>A&E</sup></td><td>[[poudre dapparition|poudre d’apparition]], [[poudre de dissimulation des traces]]</td><td>Manifeste une étendue de 6m de rayon autour de l’utilisateur qui peut infliger un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 3d6 points à la [[Constitution]] à toutes les créatures qui s’y trouve, ou qui les [[étourdi|étourdies]] pendant 5d4 [[round|rounds]].</td></tr><tr CLASS="premier"><td>[[Poupée hantée]]</td><td><sup>AO</sup></td><td>[[poupée anatomique]], [[poupée ganji]], [[poupée malfaisante]]</td><td>Lorsqu’un combat se déroule dans un rayon de 6m ou moins d’elle, peut devenir un [[poltergeist]] [[archétypes#CREATUREEVOLUEE|évolué]] qui peut être questionné  avec *[[appel dun esprit|appel d’un esprit]]* une fois tué. Le sommeil du porteur a 10 % de chances d’être sans effet.</td></tr><tr CLASS="premier"><td>[[Robe dimpuissance|Robe d’impuissance]]</td><td><sup>A&E</sup></td><td>[[robe darchimage|robe d’archimage]], [[robe dossements|robe d’ossements]], [[robe de camelot]], [[robe de mimétisme]], [[robe étoilée]], [[robe prismatique]], [[robe de vision totale]]</td><td>Impose un malus de -10 à la [[Force]] ainsi qu’à l’[[Intelligence]] (ou à la caractéristique d’incantation s’il en possède une) du porteur. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Robe de vermine]]</td><td><sup>A&E</sup></td><td>[[robe darchimage|robe d’archimage]], [[robe dossements|robe d’ossements]], [[robe de camelot]], [[robe de mimétisme]], [[robe étoilée]], [[robe prismatique]], [[robe de vision totale]]</td><td>Lorsque le porteur doit se concentrer ou agir face à des créatures hostiles, lui impose un malus de -5 à l’initiative, un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]] et aux tests de compétence, ainsi qu’un test de concentration [[DD]] 20 + niveau du sort s’il souhaite lancer un sort.</td></tr><tr CLASS="premier"><td>[[Sac dévoreur]]</td><td><sup>A&E</sup></td><td>[[sac sans fond]] (tous)</td><td>Fait disparaître les substances animales et végétales qu’on y stocke. A 60 % de chance de tenter d’[[agrippé|agripper]] toute créature qui y plonge sa main pour prendre un objet, avant de tenter de l’avaler. À chaque heure, il y a 5 % de chances (cumulable) qu’il avale tous les objets qui s’y trouve.</td></tr><tr CLASS="premier"><td>[[Sceptre de magie affaiblie]]</td><td><sup>A&E</sup></td><td>[[sceptres magiques|sceptre magique]]</td><td>Lorsque que le porteur utilise le sceptre en lançant un sort (ce qu’il la force à faire), réduit son [[NLS]] de 2 (si cela l’amène à un [[NLS]] de 0, il y a 50 % de chance qu’il rate l’incantation, et, s’il la réussit, le fait avec un [[NLS]] de 1). Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Sceptre du pyromane]]</td><td><sup>A&E</sup></td><td>[[sceptre dextinction des feux|sceptre d’extinction des feux]]</td><td>Lorsque que le porteur utilise le sceptre pour éteindre ou supprimer un feu pendant un combat ou une situation dangereuse, le rend [[fiévreux]] et peut le force à mettre le feu à tout objet ou structure inflammable proche (sous peine de subir des dégâts de feu) pendant 24 heures. Impossible de s’en débarrasser librement.</td></tr><tr CLASS="premier"><td>[[Timbales de léthargie]]</td><td><sup>A&E</sup></td><td>[[timbales de rapidité]]</td><td>Lorsqu’on en joue, peut infliger les effets du sort *[[lenteur]]* à toutes les créatures qui l’entendent.</td></tr><tr CLASS="premier"><td>[[Yeux de laveugle|Yeux de l’aveugle]]</td><td><sup>A&E</sup></td><td>[[objets merveilleux portés sur les yeux|lunettes ou lentilles magique]]</td><td>Rendent le porteur [[aveuglé|aveugle]] (comme avec *[[cécitésurdité|cécité/surdité]]*).</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>{s:Reference|DETERMINATION2}Objets maudits spécifiques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="12%">Objet</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="20%">Origine</td>
+    <td WIDTH="65%">Malédiction</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Amulette de localisation]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[amulette dantidétection|amulette d'antidétection]]</td>
+    <td>Impose un malus de -10 aux [[jds|jets de sauvegarde]] contre les sorts de [[école divination|divination]].</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau cannibale]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[anneau de subsistance]]</td>
+    <td>
+      Après 7 jours de port, affame le porteur jusqu’à ce qu’il s’adonne au cannibalisme, auquel cas il risque de
+      mourir s’il arrête. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de gaucherie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[anneau de feuille morte]]</td>
+    <td>Impose un malus de -4 à la [[Dextérité]] et 20 % de chances d’échec des sorts profanes au porteur.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de perte de vie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[anneau de régénération]]</td>
+    <td>
+      Lorsque le porteur subit des dégâts, il en subit 1d4 points supplémentaires. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau dévoreur de sorts]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[anneau de stockage de sort]] (tous), [[anneau de renvoi des sorts]]</td>
+    <td>
+      Lorsque le porteur lance un sort profane, il a 25 % de chances de rater. Impose un malus de -4 aux tests
+      d’[[Art de la magie]] pour identifier un sort ou lancer un contresort. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Anneau de vérité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[anneau de barrière mentale]], [[anneau de rayons X]]</td>
+    <td>
+      Empêche le porteur de mentir à l’oral ou à l’écrit, mais il peut tenter de ne pas répondre. Impossible de s’en
+      débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc briseur de flèches]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[arc court (arme)|arc court]] +2</td>
+    <td>Brise toute flèche tirée avec. Impossible de s’en débarrasser librement.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Arc de tir de près]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[arc court (arme)|arc court]] de *[[longue portée (propriété)|longue portée]]* +2</td>
+    <td>
+      Impose un malus de -4 aux [[jet dattaque|jets d’attaque]] pour chaque [[facteur de portée]] au-delà du
+      premier, ainsi qu’aux jets de confirmations critique des tirs effectués au-delà du premier [[facteur de
+      portée]]. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Armure dattraction des projectiles|Armure d’attraction des projectiles]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[harnois (armure)|harnois]] +3</td>
+    <td>Impose un malus de -15 à la [[CA]] contre les attaque à distance.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Armure de fureur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[cuirasse de commandement]], [[harnois (armure)|harnois]] +1</td>
+    <td>
+      Impose un malus de -4 au [[Charisme]], et tous les ennemis du porteur dans un rayon de 90m autour de lui
+      bénéficient d’un bonus de moral de +1 aux [[jet dattaque|jets d’attaque]] contre lui.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Armure des âmes mortes]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[armure de cuir cloutée (armure)|armure de cuir cloutée]] de *[[contrôle des morts-vivants
+      (propriété)|contrôle des morts-vivants]]* +1
+    </td>
+    <td>
+      Trois fois par jour, lorsque le porteur tente d’utiliser la propriété *[[contrôle des morts-vivants
+      (propriété)|contrôle des morts-vivants]]*, lui et ses alliés dans un rayon de 6m autour de lui se prennent
+      pour des morts-vivants pendant 24 heures.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Balai frappeur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[balai volant]]</td>
+    <td>
+      Lorsque le porteur tente de voler avec, lui inflige les dégâts d’une chute de 1d4+1,5m puis lui porte 4 coups
+      par [[round]] pendant 4 [[round|rounds]] infligeant 1d6 points de dégâts chacun dont deux peuvent
+      [[aveuglé|aveugler]] la cible.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bandeau de stupidité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[bandeau dintelligence|bandeau d’intelligence +4]]</td>
+    <td>Impose un malus de -4 à l’[[Intelligence]] et un malus de -2 aux tests de [[Connaissances]].</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bâton merveilleux occasionnel]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[bâtons magiques|bâton magique]]</td>
+    <td>
+      Lorsque que le porteur tente d’utiliser un pouvoir du bâton, il y a 1 chance sur 10 qu’il manifeste les effets
+      d’un [[sceptre merveilleux]] à la place.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bottes de danse effrénée]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[bottes elfiques]], [[bottes de lévitation]], [[bottes de rapidité]], [[bottes de sept lieues]], [[bottes de
+      téléportation]], [[bottes des terres gelées]], [[bottes ailées]]
+    </td>
+    <td>
+      Lorsque le porteur se retrouve dans une mêlée (ou la fuit), lui inflige effets du sort *[[danse
+      irrésistible]]*. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bouclier de linvasion planaire|Bouclier de l’invasion planaire]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[bouclier phagocyte]]</td>
+    <td>
+      Lorsque le porteur tente d’utiliser le pouvoir de *[[désintégration]]* du bouclier, invoque à la place 1d3
+      monstres (comme avec *[[convocation de monstres]]* d’un niveau aléatoire) qui attaquent la créature la plus
+      proche pendant 1d6 [[round|rounds]]. Une fois activé, ce pouvoir se manifeste trois fois par jour toutes les 8
+      heures automatiquement. Impossible de s’en débarrasser librement (s’il a fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Boule de cristal asservissante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[boule de cristal]]</td>
+    <td>
+      Lorsque le porteur tente d’utiliser la boule de cristal, il est [[fasciné]] pendant 1d6 minutes et peut
+      recevoir une *[[suggestion]]* par télépathie.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bracelets de tir dégroupé]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[bracelets darcher|bracelets d’archer]] (tous)</td>
+    <td>
+      Imposent un malus de -2 aux [[jet dattaque|jets d’attaque]] à distance. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bracelets de vulnérabilité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[bracelets darmure|bracelets d’armure]] +5</td>
+    <td>
+      Dès que le porteur se fait attaquer par une créature d’un [[FP]] égal ou supérieur au sien, imposent un malus
+      de -5 à la [[CA]] en permanence. Impossible de s’en débarrasser librement (s’ils ont fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Broche du scarabée tueur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[amulette dantidétection|amulette d’antidétection]], [[amulette darmure naturelle|amulette d’armure
+      naturelle]], [[amulette des plans]], [[amulette des poings invincibles]], [[broche antigolems]], [[broche de
+      défense]], [[scarabée de protection]]
+    </td>
+    <td>Lorsque qu’une créature la tient en main pendant 1 [[round]] ou la porte pendant 1 minute, peut la tuer.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dancrage|Cape d’ancrage]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[cape de prestidigitateur]]</td>
+    <td>
+      Inflige les effets du sort *[[ancre dimensionnelle]]* au porteur en permanence. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dimmolation|Cape d’immolation]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[objets merveilleux portés sur les épaules|cape magique]]</td>
+    <td>
+      Inflige 1d6 points de dégâts de feu par [[round]] au porteur en permanence. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape empoisonnée]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[cape de la chauve-souris]], [[cape de déplacement|cape de déplacement majeure]], [[cape éthérée]], [[cape de
+      laraignée|cape de l’araignée]], [[cape de résistance]] +5
+    </td>
+    <td>
+      Peut infliger un malus de 4d6 points à la [[Constitution]] au porteur. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape pétrifiante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[objets merveilleux portés sur les épaules|cape magique]]</td>
+    <td>
+      Peut [[pétrifié|pétrifier]] le porteur à chaque [[round]] en permanence. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Casque de changement dalignement|Casque de changement d’alignement]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[Casque de compréhension]], [[casque de télépathie]], [[couvre-chef de déguisement]]</td>
+    <td>
+      Le porteur peut adopter un alignement diamétralement opposé au sien. Impossible de s’en débarrasser librement
+      (s’il a fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ceinture de faiblesse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[Ceinturon de constitution de lours|Ceinturon de constitution de l’ours]] (tous)</td>
+    <td>
+      Impose un malus de -4 à la [[Constitution]]. Lorsque porteur obtient un 1 naturel à un jet de [[Vigueur]], lui
+      inflige 2d8 points de dégâts.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ceinture du sexe opposé]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[objets merveilleux portés à la taille|ceinture magique]]</td>
+    <td>Peut changer le sexe du porteur, ou le rendre asexué, en permanence.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chapeau de haine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[couvre-chef de déguisement]]</td>
+    <td>
+      Lorsque le porteur s’en sert en présence d’une créature qui lui est hostile, lui donne l’apparence de
+      quelqu’un qu’elle a le plus envie de blesser, puis ne répond plus aux ordres du porteur. Lorsqu’il a fait
+      effet, donne toujours l’apparence la plus méprisable selon son environnement au porteur. Impossible de s’en
+      débarrasser librement (s’il a fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Charme dinfection|Charme d’infection]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[charme antipoison]], [[charme de bonne santé]], [[charme de coagulation]]</td>
+    <td>
+      Après 24 heures de port, inflige une [[affaiblissement temporaire (capacité)|diminution permanente]] de 1
+      point à la [[Dextérité]], la [[Constitution]] et au [[Charisme]] toutes les semaines. Impossible de s’en
+      débarrasser librement (s’il a fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Collier étrangleur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[charme antipoison]], [[charme de bonne santé]], [[charme de coagulation]], [[collier à boules de feu]],
+      [[collier dadaptation|collier d’adaptation]]
+    </td>
+    <td>
+      Inflige 6 points de dégâts par [[round]] au porteur en permanence. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Couronne de cécité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[bandeau de belle allure]], [[bandeau dinspiration|bandeau d’inspiration]], [[bandeau de prouesse mentale]],
+      [[bandeau de supériorité mentale]], [[bandeau dintelligence|bandeau d’intelligence]], [[diadème de la lune]]
+    </td>
+    <td>
+      Peut rendre le porteur [[aveuglé|aveugle]] à chaque [[round]] en permanence. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coutille encombrante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[coutille (arme)|coutille]] +2</td>
+    <td>
+      Lorsque le porteur tente d’effectuer une [[attaque dopportunité|attaque d’opportunité]], lui impose un malus
+      de -2 à la [[CA]] et aux [[jet dattaque|jets d’attaque]] jusqu’à la fin de son prochain tour.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Encens dobsession|Encens d’obsession]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[encens de méditation]]</td>
+    <td>
+      L’utilisateur se sert de sa magie à la moindre occasion (même si c’est inutile) jusqu’à ce qu’il n’ai plus
+      d’emplacement disponible ou pendant 24 heures.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épaulettes de lâne bâté|Épaulettes de l’âne bâté]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[objets merveilleux portés sur les épaules|épaulette magique]]</td>
+    <td>
+      Impose un malus de -4 à la [[Dextérité]] et réduit la vitesse de déplacement du porteur de 3m. Impossible de
+      s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée de berserker]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[épée à deux mains (arme)|épée à deux mains]] +2, [[armes magiques|arme magique]]</td>
+    <td>
+      Lorsque le porteur entre en combat, il bénéficie des effets d’une [[barbare#RAGE|rage de barbare]] mais doit
+      tuer les créatures les plus proches jusqu’à ce qu’il tombe [[inconscient]], qu’il meurt, ou qu’il ne reste
+      qu’une seule créature vivante à moins de 9m de lui.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée du bouffon]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[épée de précision]]</td>
+    <td>
+      Tant que le porteur est en combat, lui impose un malus de -10 aux tests de [[Discrétion]] et peut l’empêcher
+      de mentir ou d’être fourbe. Impossible de s’en débarrasser librement (si elle a fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Épée maudite -2]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[épée longue (arme)|épée longue]] +2, n’importe quelle [[armes magiques|arme magique]]</td>
+    <td>
+      Impose un malus de -2 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués
+      avec. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Fenêtre à sens unique (AE)]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[Miroir demprisonnement|Miroir d’emprisonnement]], [[miroir dopposition|miroir d’opposition]]</td>
+    <td>
+      Peut être placée contre une surface pour révéler ce qu’il se passe de l’autre côté, mais si elle est utilisée
+      pour espionner des créatures hostiles, donne un faux sentiment de sécurité. Impossible de s’en débarrasser
+      librement (si elle a fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Figurine malchanceuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[statuette merveilleuse]] (toutes)</td>
+    <td>
+      Impose un malus de -2 à la [[CA]], au [[DMD]], aux [[jet dattaque|jets d’attaque]] et [[jds|de sauvegarde]],
+      aux tests de compétence et de caractéristique.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Filet aquatique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[filet (arme)|filet]] +3</td>
+    <td>
+      Sous l’eau, peut capturer une créature à 9m ou moins du porteur à volonté. Sur terre, capture le porteur à la
+      place.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flasque maudite]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[carafe intarissable]], [[flasque de fer]], [[urne du mauvais génie]], [[urne fumigène]]</td>
+    <td>
+      Lorsqu’elle est ouverte, peut imposer un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jds|de
+      sauvegarde]] et aux tests de compétence (comme avec *[[malédiction]]*) de toutes les créatures dans un rayon
+      de 9m d’elle.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flûte démeutes|Flûte d’émeutes]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[flûte de hantise]], [[flûte à bruitages]], [[flûte dHamelin|flûte d’Hamelin]]</td>
+    <td>
+      Lorsque qu’on en joue dans un environnement urbain (ce qu’elle peut le forcer à faire), tous les gens qui
+      l’entendent peuvent bénéficier des effets du sort *[[rage]]* pendant 1d6 heures alors qu’ils attaquent tout
+      étranger ou personne détestée autour d’eux. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gantelets de maladresse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[gantelet de rouille]], [[gants antiprojectiles]], [[gants de nage et descalade|gants de nage et
+      d’escalade]], [[gant de rangement]]
+    </td>
+    <td>
+      Lorsque le porteur se fait attaquer ou est en danger de mort, il a 50 % de chance de lâcher ce qu’il tient
+      dans une de ses mains à chaque [[round]], et subit un malus de -2 à la [[Dextérité]] en permanence. Impossible
+      de s’en débarrasser librement (s’ils ont fait effet).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Grimoire de vacuité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[livre magique]], [[manuel de coordination physique]], [[manuel de remise en forme]], [[manuel de vitalité]],
+      [[traité de perspicacité]]
+    </td>
+    <td>
+      Lorsque on en lit un mot, peut imposer un malus de -1 à l’[[Intelligence]] et au [[Charisme]], ainsi qu’une
+      [[affaiblissement temporaire (capacité)|diminution permanente]] de -2 à la [[Sagesse]].
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache darmes mordeuse|Hache d’armes mordeuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[hache darmes (arme)|hache d’armes]] +2</td>
+    <td>
+      Permet d’utiliser le don [[Succession denchaînements|Succession d’enchaînements]] (et force à le faire dès que
+      possible), mais l’attaque supplémentaire est toujours effectuée sur un ennemi adjacent aléatoire au porteur.
+      Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache de jet au retour mortel]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[hache de lancer (arme)|hache de lancer]] *[[boomerang (propriété)|boomerang]]* +2</td>
+    <td>
+      Lorsque le porteur rate sa cible à distance et que la propriété *[[boomerang (propriété)|boomerang]]* fait
+      effet, elle frappe le lanceur en utilisant son [[BBA]] maximal. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Hache de morte-chair]]</td>
+    <td><sup>CSU</sup></td>
+    <td>
+      [[hache darmes naine (arme)|Hache d’armes naine]] [[spectrale (propriété)|spectrale]] [[tueuse
+      (propriété)|tueuse]] de mort-vivant +1 en [[mithral]]
+    </td>
+    <td>
+      Lorsqu'il tue un mort-vivant avec, le porteur peut être [[secoué]] pendant 1 minute. Cet effet de peur se
+      cumule avec lui-même, et s'il rend le porteur [[paniqué]], ce dernier doit le lâcher.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lance traîtresse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[épieu (arme)|épieu]] +2, n’importe quelle [[armes magiques|arme magique]]</td>
+    <td>
+      Lorsque le porteur obtient un 1 naturel sur un [[jet dattaque|jet d’attaque]] effectué avec, lui inflige les
+      dégâts de l’attaque (les dégâts normaux sont doublés s’il s’agissait une attaque à distance).
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Main de maniaque]]</td>
+    <td><sup>AO</sup></td>
+    <td>[[main de pierre]], [[main du mage]], [[main miraculeuse]]</td>
+    <td>
+      Greffée au moignon d’un humanoïde qui a perdu une main, confère un bonus de compétence de +2 aux [[jet
+      dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] effectués avec, et peut permettre
+      d’effectuer une attaque supplémentaire lors d’une [[actions complexes#ATTAQUEAOUTRANCE|attaque à outrance]]
+      aux prix d’un malus de -2 à la [[CA]]. Tente de tuer les amis du porteur, des innocents, ou le porteur
+      lui-même s’il ne se plie pas à sa volonté. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Marteau pesant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[marteau de guerre (arme)|marteau de guerre]] +2</td>
+    <td>
+      Impose un malus de -2 aux [[jet dattaque|jets d’attaque]] et de -3m à la vitesse de déplacement. Confère un
+      bonus de +4 aux [[valeurs de combat#DEGATS|jets de dégâts]]. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Masque de laideur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[objets merveilleux portés sur la tête|masque magique]], [[bandeau de belle allure]]</td>
+    <td>
+      Impose un malus de -4 aux tests de [[Bluff]] et de [[Diplomatie]]. Confère un bonus de +2 aux tests
+      d’[[Intimidation]].
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Masse vampire]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[masse darmes lourde (arme)|masse d’armes lourde]] +3</td>
+    <td>
+      Doit être plongée dans du sang tous les jours sous peine de perdre son [[armes magiques#BONUSDALTERATION|bonus
+      d’altération]]. Chaque jour, peut rendre le porteur Chaotique Mauvais.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Médaillon démission des pensées|Médaillon d’émission des pensées]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[médaillon des pensées]]</td>
+    <td>
+      Les informations transmissent au porteur sont toujours fausses, mais convaincantes. Transmet les pensées du
+      porteur à toutes les créatures autour de lui en permanence.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Miroir de vampirisme des âmes]]</td>
+    <td><sup>AO</sup></td>
+    <td>[[miroir demprisonnement|miroir d’emprisonnement]], [[miroir dopposition|miroir d’opposition]]</td>
+    <td>
+      Peut absorber l’âme des créatures qui se regarde dedans (15 maximum). Les créatures dont l’âme a été absorbée
+      deviennent les hôtes d’esprits similaires à l’alignement opposé.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Mousquet instable]]</td>
+    <td><sup>A&E</sup></td>
+    <td>mousquet +1</td>
+    <td>
+      Fait [[long feu]] sur un jet de 1 à 5 et cette valeur est irréductible. Impossible de s’en débarrasser
+      librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Onguent de vieillesse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[onguent dintemporalité|onguent d’intemporalité]]</td>
+    <td>
+      Utilisé sur une créature vivante, la fait vieillir de 30 ans. Utilisé sur des matériaux autrefois vivants, les
+      faits tomber en poussière. 8 doses à la fabrication.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Patte de singe]]</td>
+    <td><sup>AO</sup></td>
+    <td>aucun</td>
+    <td>Confère trois *[[souhait|souhaits]]*, mais le résultat est toujours désastreux.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pierre de lest]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[gemme à élémentaire]] (terre), [[pierre dalerte|pierre d’alerte]], [[pierre ioun]], [[pierre porte-bonheur]]
+    </td>
+    <td>Réduit la vitesse de déplacement du porteur de moitié. Impossible de s’en débarrasser librement.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pierre ioun foreuse desprit|Pierre ioun foreuse d'esprit]]</td>
+    <td><sup>RSE</sup></td>
+    <td>[[pierre ioun]]</td>
+    <td>
+      Inflige 1 point de dégâts par [[round]] au porteur en combat. Inflige 1 point d'[[affaiblissement temporaire
+      (capacité)|affaiblissement temporaire]] à l'[[Intelligence]], la [[Sagesse]] et au [[Charisme]] par round au
+      porteur s'il est [[inconscient]].
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pistolet grincheux]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[armes magiques|pistolet magique]]</td>
+    <td>Tire magiquement sur toute créature dont le porteur ou un de ses alliés essaie d’améliorer l’attitude.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Potion toxique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[potions magiques|potion magique]]</td>
+    <td>
+      Peut infliger à l’utilisateur un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d3
+      points à la [[Constitution]] par [[round]] pendant 6 [[round|rounds]].
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Poudre à éternuer]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[poudre dapparition|poudre d’apparition]], [[poudre de dissimulation des traces]]</td>
+    <td>
+      Manifeste une étendue de 6m de rayon autour de l’utilisateur qui peut infliger un [[affaiblissement temporaire
+      (capacité)|affaiblissement temporaire]] de 3d6 points à la [[Constitution]] à toutes les créatures qui s’y
+      trouve, ou qui les [[étourdi|étourdies]] pendant 5d4 [[round|rounds]].
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Poupée hantée]]</td>
+    <td><sup>AO</sup></td>
+    <td>[[poupée anatomique]], [[poupée ganji]], [[poupée malfaisante]]</td>
+    <td>
+      Lorsqu’un combat se déroule dans un rayon de 6m ou moins d’elle, peut devenir un [[poltergeist]]
+      [[archétypes#CREATUREEVOLUEE|évolué]] qui peut être questionné  avec *[[appel dun esprit|appel d’un esprit]]*
+      une fois tué. Le sommeil du porteur a 10 % de chances d’être sans effet.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Robe dimpuissance|Robe d’impuissance]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[robe darchimage|robe d’archimage]], [[robe dossements|robe d’ossements]], [[robe de camelot]], [[robe de
+      mimétisme]], [[robe étoilée]], [[robe prismatique]], [[robe de vision totale]]
+    </td>
+    <td>
+      Impose un malus de -10 à la [[Force]] ainsi qu’à l’[[Intelligence]] (ou à la caractéristique d’incantation
+      s’il en possède une) du porteur. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Robe de vermine]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      [[robe darchimage|robe d’archimage]], [[robe dossements|robe d’ossements]], [[robe de camelot]], [[robe de
+      mimétisme]], [[robe étoilée]], [[robe prismatique]], [[robe de vision totale]]
+    </td>
+    <td>
+      Lorsque le porteur doit se concentrer ou agir face à des créatures hostiles, lui impose un malus de -5 à
+      l’initiative, un malus de -2 aux [[jet dattaque|jets d’attaque]], [[jds|de sauvegarde]] et aux tests de
+      compétence, ainsi qu’un test de concentration [[DD]] 20 + niveau du sort s’il souhaite lancer un sort.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sac dévoreur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[sac sans fond]] (tous)</td>
+    <td>
+      Fait disparaître les substances animales et végétales qu’on y stocke. A 60 % de chance de tenter
+      d’[[agrippé|agripper]] toute créature qui y plonge sa main pour prendre un objet, avant de tenter de l’avaler.
+      À chaque heure, il y a 5 % de chances (cumulable) qu’il avale tous les objets qui s’y trouve.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sceptre de magie affaiblie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[sceptres magiques|sceptre magique]]</td>
+    <td>
+      Lorsque que le porteur utilise le sceptre en lançant un sort (ce qu’il la force à faire), réduit son [[NLS]]
+      de 2 (si cela l’amène à un [[NLS]] de 0, il y a 50 % de chance qu’il rate l’incantation, et, s’il la réussit,
+      le fait avec un [[NLS]] de 1). Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Sceptre du pyromane]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[sceptre dextinction des feux|sceptre d’extinction des feux]]</td>
+    <td>
+      Lorsque que le porteur utilise le sceptre pour éteindre ou supprimer un feu pendant un combat ou une situation
+      dangereuse, le rend [[fiévreux]] et peut le force à mettre le feu à tout objet ou structure inflammable proche
+      (sous peine de subir des dégâts de feu) pendant 24 heures. Impossible de s’en débarrasser librement.
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Timbales de léthargie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[timbales de rapidité]]</td>
+    <td>Lorsqu’on en joue, peut infliger les effets du sort *[[lenteur]]* à toutes les créatures qui l’entendent.</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Yeux de laveugle|Yeux de l’aveugle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>[[objets merveilleux portés sur les yeux|lunettes ou lentilles magique]]</td>
+    <td>Rendent le porteur [[aveuglé|aveugle]] (comme avec *[[cécitésurdité|cécité/surdité]]*).</td>
+  </tr>
+</table>
 
 </center>

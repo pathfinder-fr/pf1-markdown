@@ -18,7 +18,14 @@ Categories:
 Le niveau de lanceur de sorts est égal à celui de la créature de base et le DD des jets de sauvegarde est basé sur le Charisme.
 
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Niveau</td><td>Pouvoirs</td></tr><tr CLASS="premier"><td>1-2</td><td>*[[Communication avec les animaux]]* 3/jour</td></tr><tr><td>3-6</td><td>*[[Agrandissement]]* ou *[[rapetissement]]* 2/jour sous n’importe quelle combinaison</td></tr><tr><td>7-8</td><td>*[[Invisibilité]]* (personnelle) 3/jour</td></tr><tr><td>9-14</td><td>*[[Création de nourriture et deau|Création de nourriture et d’eau]]* 1/jour</td></tr><tr><td>15-16</td><td>*[[Forme éthérée]]* 1/jour</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Niveau</td><td>Pouvoirs</td></tr>
+  <tr CLASS="premier"><td>1-2</td><td>*[[Communication avec les animaux]]* 3/jour</td></tr>
+  <tr><td>3-6</td><td>*[[Agrandissement]]* ou *[[rapetissement]]* 2/jour sous n’importe quelle combinaison</td></tr>
+  <tr><td>7-8</td><td>*[[Invisibilité]]* (personnelle) 3/jour</td></tr>
+  <tr><td>9-14</td><td>*[[Création de nourriture et deau|Création de nourriture et d’eau]]* 1/jour</td></tr>
+  <tr><td>15-16</td><td>*[[Forme éthérée]]* 1/jour</td></tr>
+</table>
 
 - **Particularités.** Le demi-jann a toutes les particularités de la créature de base en plus des suivantes.
   - [[Vision dans le noir (capacité)|Vision dans le noir]] à 18 mètres

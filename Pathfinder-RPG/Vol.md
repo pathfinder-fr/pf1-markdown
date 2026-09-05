@@ -28,7 +28,18 @@ Non, n’importe qu’elle créature qui perd toutes ses actions est incapable d
 
 <center>
 
-<table CLASS="tablo"><caption>Manœuvres aériennes</caption><tr CLASS="titre"><td>Manœuvre aérienne</td><td>DD du test de Vol</td></tr><tr CLASS="premier"><td>Se déplacer sur une distance inférieure à la moitié de sa vitesse et rester en vol</td><td>10</td></tr><tr CLASS="alt"><td>Faire du surplace/vol stationnaire</td><td>15</td></tr><tr><td>Virer de plus de 45° en sacrifiant 1,50 m de mouvement</td><td>15</td></tr><tr CLASS="alt"><td>Virer à 180° en sacrifiant 3 m de mouvement</td><td>20</td></tr><tr><td>Voler vers le haut selon un angle de plus de 45°</td><td>20</td></tr></table>
+<table CLASS="tablo">
+  <caption>Manœuvres aériennes</caption>
+  <tr CLASS="titre"><td>Manœuvre aérienne</td><td>DD du test de Vol</td></tr>
+  <tr CLASS="premier">
+    <td>Se déplacer sur une distance inférieure à la moitié de sa vitesse et rester en vol</td>
+    <td>10</td>
+  </tr>
+  <tr CLASS="alt"><td>Faire du surplace/vol stationnaire</td><td>15</td></tr>
+  <tr><td>Virer de plus de 45° en sacrifiant 1,50 m de mouvement</td><td>15</td></tr>
+  <tr CLASS="alt"><td>Virer à 180° en sacrifiant 3 m de mouvement</td><td>20</td></tr>
+  <tr><td>Voler vers le haut selon un angle de plus de 45°</td><td>20</td></tr>
+</table>
 
 </center>
 

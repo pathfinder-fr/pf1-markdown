@@ -14,7 +14,678 @@ Categories:
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Outils alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td><td>DD</td></tr><tr CLASS="premier"><td>[[Outils alchimiques#Accélérateur instable|↓]] [[Accélérateur instable (objet)|Accélérateur instable]]</td><td>50 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Allume-feu|↓]] [[Allume-feu (objet)|Allume-feu]]</td><td>1 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Ami de limprudent|↓]] [[Ami de limprudent (objet)|Ami de l'imprudent]]</td><td>120 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Appât à bêtes|↓]] [[Appât à bêtes (objet)|Appât à bêtes]]</td><td>30 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Argile noirfeu|↓]] [[Argile noirfeu (objet)|Argile noirfeu]]</td><td>20 po</td><td>5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Attire-araignée|↓]] [[Attire-araignée (objet)|Attire-araignée]]</td><td>40 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Ballon flotteur|↓]] [[Ballon flotteur (objet)|Ballon flotteur]]</td><td>10 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Bâton de lune|↓]] [[Bâton de lune (objet)|Bâton de lune]]</td><td>10 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Bâton éclairant|↓]] [[Bâton éclairant (objet)|Bâton éclairant]]</td><td>2 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Bâton fumigène|↓]] [[Bâton fumigène (objet)|Bâton fumigène]]</td><td>20 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Bâton-bougeoir|↓]] [[Bâton-bougeoir (objet)|Bâton-bougeoir]]</td><td>1 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Baume darme sainte|↓]] [[Baume darme sainte (objet)|Baume d'arme sainte]]</td><td>30 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Baume fraîcheur|↓]] [[Baume fraîcheur (objet)|Baume fraîcheur]]</td><td>15 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Bille fumigène|↓]] [[Bille fumigène (objet)|Bille fumigène]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (adamantium)]]</td><td>100 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (argent)]]</td><td>5 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (fer froid)]]</td><td>20 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (sel fantôme)]]</td><td>200 po</td><td>0,25 kg</td><td>—</td></tr><tr><td>[[Outils alchimiques#Breuvage de guerre hobgobelin|↓]] [[Breuvage de guerre hobgobelin (objet)|Breuvage de guerre hobgobelin]]</td><td>10 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Capsule vomitive|↓]] [[Capsule vomitive (objet)|Capsule vomitive]]</td><td>12 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Ciment alchimique|↓]] [[Ciment alchimique (objet)|Ciment alchimique]]</td><td>5 po</td><td>1 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Coagulant|↓]] [[Coagulant (objet)|Coagulant]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Colle alchimique|↓]] [[Colle alchimique (objet)|Colle alchimique]]</td><td>20 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Corde de vigne-sang|↓]] [[Corde de vigne-sang (objet)|Corde de vigne-sang]]</td><td>200 po</td><td>2,5 kg</td><td>30</td></tr><tr><td>[[Outils alchimiques#Cordon éfrit|↓]] [[Cordon éfrit (objet)|Cordon éfrit]]</td><td>50 po</td><td>—</td><td>10</td></tr><tr><td>[[Outils alchimiques#Cristaux dair|↓]] [[Cristaux dair (objet)|Cristaux d'air]]</td><td>50 po</td><td>—</td><td>—</td></tr><tr><td>[[Outils alchimiques#Défoliant|↓]] [[Défoliant (objet)|Défoliant]]</td><td>30 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Détecteur de lumière|↓]] [[Détecteur de lumière (objet)|Détecteur de lumière]]</td><td>1 po</td><td>—</td><td>10</td></tr><tr><td>[[Outils alchimiques#Dissimulateur dodeur|↓]] [[Dissimulateur dodeur (objet)|Dissimulateur d'odeur]]</td><td>20 po</td><td>1 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Encens antiodeur|↓]] [[Encens antiodeur (objet)|Encens antiodeur]]</td><td>80 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Encre de feu|↓]] [[Encre de feu (objet)|Encre de feu (fiole)]]</td><td>40 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Encre de feu ifrit|↓]] [[Encre de feu ifrit (objet)|Encre de feu ifrit]]</td><td>1 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Encre fantomatique|↓]] [[Encre fantomatique (objet)|Encre fantomatique]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Encre luisante|↓]] [[Encre luisante (objet)|Encre luisante]]</td><td>5 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Encre nauséabonde|↓]] [[Encre nauséabonde (objet)|Encre nauséabonde (magique)]]</td><td>spécial</td><td>0,5 kg</td><td>—</td></tr><tr><td>[[Outils alchimiques#Encre nauséabonde|↓]] [[Encre nauséabonde (objet)|Encre nauséabonde (standard)]]</td><td>5 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (bonne)]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (moyenne)]]</td><td>10 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (simple)]]</td><td>2 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (supérieure)]]</td><td>75 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Épithète du poète|↓]] [[Épithète du poète (objet)|Épithète du poète]]</td><td>120 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Éponge à potion|↓]] [[Éponge à potion (objet)|Éponge à potion]]</td><td>2 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Éponge filtrante|↓]] [[Éponge filtrante (objet)|Éponge filtrante]]</td><td>25 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Feuille-barbare|↓]] [[Feuille-barbare (objet)|Feuille-barbare]]</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Feuilles dérable doré|↓]] [[Feuilles dérable doré (objet)|Feuilles d'érable doré]]</td><td>50 po</td><td>0,25 kg</td><td>—</td></tr><tr><td>[[Outils alchimiques#Film de fraternité|↓]] [[Film de fraternité (objet)|Film de fraternité]]</td><td>190 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Fusée de signalisation|↓]] [[Fusée de signalisation (objet)|Fusée de signalisation]]</td><td>100 po</td><td>1,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Galets du petit Poucet|↓]] [[Galets du petit Poucet (objet)|Galets du petit Poucet]]</td><td>50 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Graines à flash|↓]] [[Graines à flash (objet)|Graines à flash]]</td><td>35 po</td><td>0,25 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Graisse tue-lumière|↓]] [[Graisse tue-lumière (objet)|Graisse tue-lumière]]</td><td>25 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Huile des maîtres|↓]] [[Huile des maîtres (objet)|Huile des maîtres]]</td><td>50 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Huile sainte|↓]] [[Huile sainte (objet)|Huile sainte]]</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Interrupteur éfrit|↓]] [[Interrupteur éfrit (objet)|Interrupteur éfrit]]</td><td>25 po</td><td>—</td><td>10</td></tr><tr><td>[[Outils alchimiques#Jus de ferveur|↓]] [[Jus de ferveur (objet)|Jus de ferveur]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Lance-bombe|↓]] [[Lance-bombe (objet)|Lance-bombe]]</td><td>10 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Lanterne de lumière noire|↓]] [[Lanterne de lumière noire (objet)|Lanterne de lumière noire]]</td><td>20 po</td><td>1,5 kg</td><td>—</td></tr><tr><td>[[Outils alchimiques#Lichen de camouflage|↓]] [[Lichen de camouflage (objet)|Lichen de camouflage]]</td><td>100 po</td><td>—</td><td>—</td></tr><tr><td>[[Outils alchimiques#Liquide dembaumement|↓]] [[Liquide dembaumement (objet)|Liquide d'embaumement]]</td><td>50 po</td><td>5 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Lunettes de vision obscure|↓]] [[Lunettes de vision obscure (objet)|Lunettes de vision obscure]]</td><td>200 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Masque-odeur|↓]] [[Masque-odeur (objet)|Masque-odeur (animal)]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Masque-odeur|↓]] [[Masque-odeur (objet)|Masque-odeur (créature magique)]]</td><td>100 po</td><td>—</td><td>30</td></tr><tr><td>[[Outils alchimiques#Masque-odeur|↓]] [[Masque-odeur (objet)|Masque-odeur (humanoïde)]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Mensonge pétillant|↓]] [[Mensonge pétillant (objet)|Mensonge pétillant]]</td><td>190 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Mousse amortissante|↓]] [[Mousse amortissante (objet)|Mousse amortissante]]</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Mugissement de sanglier|↓]] [[Mugissement de sanglier (objet)|Mugissement de sanglier]]</td><td>190 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Musc des terres sanglantes|↓]] [[Musc des terres sanglantes (objet)|Musc des terres sanglantes]]</td><td>40 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Nushadir|↓]] [[Nushadir (objet)|Nushadir]]</td><td>10 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Odeur de bête|↓]] [[Odeur de bête (objet)|Odeur de bête]]</td><td>75 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Onguent anti-âge|↓]] [[Onguent anti-âge (objet)|Onguent anti-âge]]</td><td>80 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Onguent darmure|↓]] [[Onguent darmure (objet)|Onguent d'armure]]</td><td>30 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Onguent de rochéclats|↓]] [[Onguent de rochéclats (objet)|Onguent de rochéclats]]</td><td>150 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Onguent de sang fiélon|↓]] [[Onguent de sang fiélon (objet)|Onguent de sang fiélon]]</td><td>75 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Papier magnétisé|↓]] [[Papier magnétisé (objet)|Papier magnétisé]]</td><td>11 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Papier réactif|↓]] [[Papier réactif (objet)|Papier réactif]]</td><td>1 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Pastels de guède|↓]] [[Pastels de guède (objet)|Pastels de guède (1 bâtonnet)]]</td><td>60 po</td><td>—</td><td>30</td></tr><tr><td>[[Outils alchimiques#Pastels de guède|↓]] [[Pastels de guède (objet)|Pastels de guède (trousse)]]</td><td>300 po</td><td>0,5 kg</td><td>30</td></tr><tr><td>[[Outils alchimiques#Pastille de précision|↓]] [[Pastille de précision (objet)|Pastille de précision]]</td><td>330 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Pastille du rossignol|↓]] [[Pastille du rossignol (objet)|Pastille du rossignol]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Pâte de doigts noirs|↓]] [[Pâte de doigts noirs (objet)|Pâte de doigts noirs]]</td><td>50 po</td><td>—</td><td>—</td></tr><tr><td>[[Outils alchimiques#Pâte de réparation|↓]] [[Pâte de réparation (objet)|Pâte de réparation]]</td><td>25 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Pâte de rhinarium|↓]] [[Pâte de rhinarium (objet)|Pâte de rhinarium]]</td><td>75 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Plâtre de moulage|↓]] [[Plâtre de moulage (objet)|Plâtre de moulage]]</td><td>5 pa</td><td>2,5 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Poche-araignée|↓]] [[Poche-araignée (objet)|Poche-araignée]]</td><td>30 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Poudre de pistage|↓]] [[Poudre de pistage (objet)|Poudre de pistage]]</td><td>30 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Poudre écumante|↓]] [[Poudre écumante (objet)|Poudre écumante]]</td><td>10 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Poudre oxydante|↓]] [[Poudre oxydante (objet)|Poudre oxydante]]</td><td>60 po</td><td>—</td><td>30</td></tr><tr><td>[[Outils alchimiques#Purulence noire|↓]] [[Purulence noire (objet)|Purulence noire (fiole)]]</td><td>30 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Remède miracle|↓]] [[Remède miracle (objet)|Remède miracle]]</td><td>20 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Résine didactique|↓]] [[Résine didactique (objet)|Résine didactique]]</td><td>410 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Rôdeur mécanique|↓]] [[Rôdeur mécanique (objet)|Rôdeur mécanique (élaboré)]]</td><td>1.500 po</td><td>15 kg</td><td>—</td></tr><tr><td>[[Outils alchimiques#Rôdeur mécanique|↓]] [[Rôdeur mécanique (objet)|Rôdeur mécanique (standard)]]</td><td>500 po</td><td>12,5 kg</td><td>—</td></tr><tr><td>[[Outils alchimiques#Sang difrit|↓]] [[Sang difrit (objet)|Sang d'ifrit]]</td><td>50 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Sang de molosse|↓]] [[Sang de molosse (objet)|Sang de molosse]]</td><td>110 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Sèche-colle alchimique|↓]] [[Sèche-colle alchimique (objet)|Sèche-colle alchimique]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Sérum dintuition|↓]] [[Sérum dintuition (objet)|Sérum d'intuition]]</td><td>190 po</td><td>—</td><td>15</td></tr><tr><td>[[Outils alchimiques#Solution adhésive|↓]] [[Solution adhésive (objet)|Solution adhésive]]</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Solvant alchimique|↓]] [[Solvant alchimique (objet)|Solvant alchimique]]</td><td>20 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Souffle élémentaire|↓]] [[Souffle élémentaire (objet)|Souffle élémentaire]]</td><td>80 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Tabac du traqueur|↓]] [[Tabac du traqueur (objet)|Tabac du traqueur]]</td><td>200 po</td><td>—</td><td>30</td></tr><tr><td>[[Outils alchimiques#Tatouage empoisonné|↓]] [[Tatouage empoisonné (objet)|Tatouage empoisonné]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Teinture repère|↓]] [[Teinture repère (objet)|Teinture repère]]</td><td>15 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Outils alchimiques#Tonique caverneux|↓]] [[Tonique caverneux (objet)|Tonique caverneux]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Outils alchimiques#Tonique de mains rapides|↓]] [[Tonique de mains rapides (objet)|Tonique de mains rapides]]</td><td>250 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Tonique du harceleur nocturne|↓]] [[Tonique du harceleur nocturne (objet)|Tonique du harceleur nocturne]]</td><td>200 po</td><td>—</td><td>20</td></tr><tr><td>[[Outils alchimiques#Tonique infectieux|↓]] [[Tonique infectieux (objet)|Tonique infectieux]]</td><td>150 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>[[Outils alchimiques#Trousse de marquage olfactif|↓]] [[Trousse de marquage olfactif (objet)|Trousse de marquage olfactif]]</td><td>10 po</td><td>2,5 kg</td><td>25</td></tr><tr><td>[[Outils alchimiques#Trousse de teintures alchimiques|↓]] [[Trousse de teintures alchimiques (objet)|Trousse de teintures alchimiques]]</td><td>160 po</td><td>3 kg</td><td>20</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Outils alchimiques</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td><td>DD</td></tr>
+  <tr CLASS="premier">
+    <td>[[Outils alchimiques#Accélérateur instable|↓]] [[Accélérateur instable (objet)|Accélérateur instable]]</td>
+    <td>50 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Allume-feu|↓]] [[Allume-feu (objet)|Allume-feu]]</td>
+    <td>1 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Ami de limprudent|↓]] [[Ami de limprudent (objet)|Ami de l'imprudent]]</td>
+    <td>120 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Appât à bêtes|↓]] [[Appât à bêtes (objet)|Appât à bêtes]]</td>
+    <td>30 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Argile noirfeu|↓]] [[Argile noirfeu (objet)|Argile noirfeu]]</td>
+    <td>20 po</td>
+    <td>5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Attire-araignée|↓]] [[Attire-araignée (objet)|Attire-araignée]]</td>
+    <td>40 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Ballon flotteur|↓]] [[Ballon flotteur (objet)|Ballon flotteur]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Bâton de lune|↓]] [[Bâton de lune (objet)|Bâton de lune]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Bâton éclairant|↓]] [[Bâton éclairant (objet)|Bâton éclairant]]</td>
+    <td>2 po</td>
+    <td>0,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Bâton fumigène|↓]] [[Bâton fumigène (objet)|Bâton fumigène]]</td>
+    <td>20 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Bâton-bougeoir|↓]] [[Bâton-bougeoir (objet)|Bâton-bougeoir]]</td>
+    <td>1 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Baume darme sainte|↓]] [[Baume darme sainte (objet)|Baume d'arme sainte]]</td>
+    <td>30 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Baume fraîcheur|↓]] [[Baume fraîcheur (objet)|Baume fraîcheur]]</td>
+    <td>15 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Bille fumigène|↓]] [[Bille fumigène (objet)|Bille fumigène]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (adamantium)]]</td>
+    <td>100 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (argent)]]</td>
+    <td>5 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (fer froid)]]</td>
+    <td>20 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Blanchis pour arme|↓]] [[Blanchis pour arme (objet)|Blanchis pour arme (sel fantôme)]]</td>
+    <td>200 po</td>
+    <td>0,25 kg</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Breuvage de guerre hobgobelin|↓]] [[Breuvage de guerre hobgobelin (objet)|Breuvage de
+      guerre hobgobelin]]
+    </td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Capsule vomitive|↓]] [[Capsule vomitive (objet)|Capsule vomitive]]</td>
+    <td>12 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Ciment alchimique|↓]] [[Ciment alchimique (objet)|Ciment alchimique]]</td>
+    <td>5 po</td>
+    <td>1 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Coagulant|↓]] [[Coagulant (objet)|Coagulant]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Colle alchimique|↓]] [[Colle alchimique (objet)|Colle alchimique]]</td>
+    <td>20 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Corde de vigne-sang|↓]] [[Corde de vigne-sang (objet)|Corde de vigne-sang]]</td>
+    <td>200 po</td>
+    <td>2,5 kg</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Cordon éfrit|↓]] [[Cordon éfrit (objet)|Cordon éfrit]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Cristaux dair|↓]] [[Cristaux dair (objet)|Cristaux d'air]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Défoliant|↓]] [[Défoliant (objet)|Défoliant]]</td>
+    <td>30 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Détecteur de lumière|↓]] [[Détecteur de lumière (objet)|Détecteur de lumière]]</td>
+    <td>1 po</td>
+    <td>—</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Dissimulateur dodeur|↓]] [[Dissimulateur dodeur (objet)|Dissimulateur d'odeur]]</td>
+    <td>20 po</td>
+    <td>1 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encens antiodeur|↓]] [[Encens antiodeur (objet)|Encens antiodeur]]</td>
+    <td>80 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre de feu|↓]] [[Encre de feu (objet)|Encre de feu (fiole)]]</td>
+    <td>40 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre de feu ifrit|↓]] [[Encre de feu ifrit (objet)|Encre de feu ifrit]]</td>
+    <td>1 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre fantomatique|↓]] [[Encre fantomatique (objet)|Encre fantomatique]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre luisante|↓]] [[Encre luisante (objet)|Encre luisante]]</td>
+    <td>5 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre nauséabonde|↓]] [[Encre nauséabonde (objet)|Encre nauséabonde (magique)]]</td>
+    <td>spécial</td>
+    <td>0,5 kg</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre nauséabonde|↓]] [[Encre nauséabonde (objet)|Encre nauséabonde (standard)]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (bonne)]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (moyenne)]]</td>
+    <td>10 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (simple)]]</td>
+    <td>2 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Encre sympathique|↓]] [[Encre sympathique (objet)|Encre sympathique (supérieure)]]</td>
+    <td>75 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Épithète du poète|↓]] [[Épithète du poète (objet)|Épithète du poète]]</td>
+    <td>120 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Éponge à potion|↓]] [[Éponge à potion (objet)|Éponge à potion]]</td>
+    <td>2 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Éponge filtrante|↓]] [[Éponge filtrante (objet)|Éponge filtrante]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Feuille-barbare|↓]] [[Feuille-barbare (objet)|Feuille-barbare]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Feuilles dérable doré|↓]] [[Feuilles dérable doré (objet)|Feuilles d'érable doré]]</td>
+    <td>50 po</td>
+    <td>0,25 kg</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Film de fraternité|↓]] [[Film de fraternité (objet)|Film de fraternité]]</td>
+    <td>190 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Fusée de signalisation|↓]] [[Fusée de signalisation (objet)|Fusée de signalisation]]</td>
+    <td>100 po</td>
+    <td>1,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Galets du petit Poucet|↓]] [[Galets du petit Poucet (objet)|Galets du petit Poucet]]</td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Graines à flash|↓]] [[Graines à flash (objet)|Graines à flash]]</td>
+    <td>35 po</td>
+    <td>0,25 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Graisse tue-lumière|↓]] [[Graisse tue-lumière (objet)|Graisse tue-lumière]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Huile des maîtres|↓]] [[Huile des maîtres (objet)|Huile des maîtres]]</td>
+    <td>50 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Huile sainte|↓]] [[Huile sainte (objet)|Huile sainte]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Interrupteur éfrit|↓]] [[Interrupteur éfrit (objet)|Interrupteur éfrit]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Jus de ferveur|↓]] [[Jus de ferveur (objet)|Jus de ferveur]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Lance-bombe|↓]] [[Lance-bombe (objet)|Lance-bombe]]</td>
+    <td>10 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Lanterne de lumière noire|↓]] [[Lanterne de lumière noire (objet)|Lanterne de lumière
+      noire]]
+    </td>
+    <td>20 po</td>
+    <td>1,5 kg</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Lichen de camouflage|↓]] [[Lichen de camouflage (objet)|Lichen de camouflage]]</td>
+    <td>100 po</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Liquide dembaumement|↓]] [[Liquide dembaumement (objet)|Liquide d'embaumement]]</td>
+    <td>50 po</td>
+    <td>5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Lunettes de vision obscure|↓]] [[Lunettes de vision obscure (objet)|Lunettes de vision
+      obscure]]
+    </td>
+    <td>200 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Masque-odeur|↓]] [[Masque-odeur (objet)|Masque-odeur (animal)]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Masque-odeur|↓]] [[Masque-odeur (objet)|Masque-odeur (créature magique)]]</td>
+    <td>100 po</td>
+    <td>—</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Masque-odeur|↓]] [[Masque-odeur (objet)|Masque-odeur (humanoïde)]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Mensonge pétillant|↓]] [[Mensonge pétillant (objet)|Mensonge pétillant]]</td>
+    <td>190 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Mousse amortissante|↓]] [[Mousse amortissante (objet)|Mousse amortissante]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Mugissement de sanglier|↓]] [[Mugissement de sanglier (objet)|Mugissement de sanglier]]
+    </td>
+    <td>190 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Musc des terres sanglantes|↓]] [[Musc des terres sanglantes (objet)|Musc des terres
+      sanglantes]]
+    </td>
+    <td>40 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Nushadir|↓]] [[Nushadir (objet)|Nushadir]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Odeur de bête|↓]] [[Odeur de bête (objet)|Odeur de bête]]</td>
+    <td>75 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Onguent anti-âge|↓]] [[Onguent anti-âge (objet)|Onguent anti-âge]]</td>
+    <td>80 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Onguent darmure|↓]] [[Onguent darmure (objet)|Onguent d'armure]]</td>
+    <td>30 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Onguent de rochéclats|↓]] [[Onguent de rochéclats (objet)|Onguent de rochéclats]]</td>
+    <td>150 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Onguent de sang fiélon|↓]] [[Onguent de sang fiélon (objet)|Onguent de sang fiélon]]</td>
+    <td>75 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Papier magnétisé|↓]] [[Papier magnétisé (objet)|Papier magnétisé]]</td>
+    <td>11 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Papier réactif|↓]] [[Papier réactif (objet)|Papier réactif]]</td>
+    <td>1 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pastels de guède|↓]] [[Pastels de guède (objet)|Pastels de guède (1 bâtonnet)]]</td>
+    <td>60 po</td>
+    <td>—</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pastels de guède|↓]] [[Pastels de guède (objet)|Pastels de guède (trousse)]]</td>
+    <td>300 po</td>
+    <td>0,5 kg</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pastille de précision|↓]] [[Pastille de précision (objet)|Pastille de précision]]</td>
+    <td>330 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pastille du rossignol|↓]] [[Pastille du rossignol (objet)|Pastille du rossignol]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pâte de doigts noirs|↓]] [[Pâte de doigts noirs (objet)|Pâte de doigts noirs]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pâte de réparation|↓]] [[Pâte de réparation (objet)|Pâte de réparation]]</td>
+    <td>25 po</td>
+    <td>0,25 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Pâte de rhinarium|↓]] [[Pâte de rhinarium (objet)|Pâte de rhinarium]]</td>
+    <td>75 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Plâtre de moulage|↓]] [[Plâtre de moulage (objet)|Plâtre de moulage]]</td>
+    <td>5 pa</td>
+    <td>2,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Poche-araignée|↓]] [[Poche-araignée (objet)|Poche-araignée]]</td>
+    <td>30 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Poudre de pistage|↓]] [[Poudre de pistage (objet)|Poudre de pistage]]</td>
+    <td>30 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Poudre écumante|↓]] [[Poudre écumante (objet)|Poudre écumante]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Poudre oxydante|↓]] [[Poudre oxydante (objet)|Poudre oxydante]]</td>
+    <td>60 po</td>
+    <td>—</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Purulence noire|↓]] [[Purulence noire (objet)|Purulence noire (fiole)]]</td>
+    <td>30 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Remède miracle|↓]] [[Remède miracle (objet)|Remède miracle]]</td>
+    <td>20 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Résine didactique|↓]] [[Résine didactique (objet)|Résine didactique]]</td>
+    <td>410 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Rôdeur mécanique|↓]] [[Rôdeur mécanique (objet)|Rôdeur mécanique (élaboré)]]</td>
+    <td>1.500 po</td>
+    <td>15 kg</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Rôdeur mécanique|↓]] [[Rôdeur mécanique (objet)|Rôdeur mécanique (standard)]]</td>
+    <td>500 po</td>
+    <td>12,5 kg</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Sang difrit|↓]] [[Sang difrit (objet)|Sang d'ifrit]]</td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Sang de molosse|↓]] [[Sang de molosse (objet)|Sang de molosse]]</td>
+    <td>110 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Sèche-colle alchimique|↓]] [[Sèche-colle alchimique (objet)|Sèche-colle alchimique]]</td>
+    <td>25 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Sérum dintuition|↓]] [[Sérum dintuition (objet)|Sérum d'intuition]]</td>
+    <td>190 po</td>
+    <td>—</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Solution adhésive|↓]] [[Solution adhésive (objet)|Solution adhésive]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Solvant alchimique|↓]] [[Solvant alchimique (objet)|Solvant alchimique]]</td>
+    <td>20 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Souffle élémentaire|↓]] [[Souffle élémentaire (objet)|Souffle élémentaire]]</td>
+    <td>80 po</td>
+    <td>0,25 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Tabac du traqueur|↓]] [[Tabac du traqueur (objet)|Tabac du traqueur]]</td>
+    <td>200 po</td>
+    <td>—</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Tatouage empoisonné|↓]] [[Tatouage empoisonné (objet)|Tatouage empoisonné]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Teinture repère|↓]] [[Teinture repère (objet)|Teinture repère]]</td>
+    <td>15 po</td>
+    <td>0,5 kg</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Tonique caverneux|↓]] [[Tonique caverneux (objet)|Tonique caverneux]]</td>
+    <td>50 po</td>
+    <td>—</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Tonique de mains rapides|↓]] [[Tonique de mains rapides (objet)|Tonique de mains
+      rapides]]
+    </td>
+    <td>250 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Tonique du harceleur nocturne|↓]] [[Tonique du harceleur nocturne (objet)|Tonique du
+      harceleur nocturne]]
+    </td>
+    <td>200 po</td>
+    <td>—</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>[[Outils alchimiques#Tonique infectieux|↓]] [[Tonique infectieux (objet)|Tonique infectieux]]</td>
+    <td>150 po</td>
+    <td>0,5 kg</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Trousse de marquage olfactif|↓]] [[Trousse de marquage olfactif (objet)|Trousse de
+      marquage olfactif]]
+    </td>
+    <td>10 po</td>
+    <td>2,5 kg</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils alchimiques#Trousse de teintures alchimiques|↓]] [[Trousse de teintures alchimiques (objet)|Trousse
+      de teintures alchimiques]]
+    </td>
+    <td>160 po</td>
+    <td>3 kg</td>
+    <td>20</td>
+  </tr>
+</table>
 
 </div>
 

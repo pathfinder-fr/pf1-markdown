@@ -11,7 +11,115 @@ Categories:
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Le signifer infernal</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Signifer infernal#AURADELOI|Aura de loi]], [[Signifer infernal#CATECHESE|catéchèse]], [[Signifer infernal#ORDRE|ordre]], [[Signifer infernal#MASQUEDUSIGNIFER|masque du signifer]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Signifer infernal#EXPERTISEDELARMUREMAGIQUE|Expertise de l'armure magique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Signifer infernal#PORTDELARMUREDUSIGNIFER|Port de l'armure du signifer]] 1</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Signifer infernal#REGARDASSIDU|Regard assidu]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Signifer infernal#EXPERTISEDELARMUREMAGIQUE|Expertise de l'armure magique]] ([[action libre]])</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Signifer infernal#DETECTIONDUMENSONGE|Détection du mensonge]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Signifer infernal#REGARDASSIDU|Regard assidu]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Signifer infernal#FORMATIONALARMUREDULEGIONNAIREINFERNAL|Formation à l'armure du légionnaire infernal]] 2</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Signifer infernal#RESILIENCEINFERNALE|Résilience infernale]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Signifer infernal#HERAUTDIABOLIQUE|Héraut diabolique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Le signifer infernal</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Signifer infernal#AURADELOI|Aura de loi]], [[Signifer infernal#CATECHESE|catéchèse]], [[Signifer
+      infernal#ORDRE|ordre]], [[Signifer infernal#MASQUEDUSIGNIFER|masque du signifer]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Signifer infernal#EXPERTISEDELARMUREMAGIQUE|Expertise de l'armure magique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Signifer infernal#PORTDELARMUREDUSIGNIFER|Port de l'armure du signifer]] 1</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Signifer infernal#REGARDASSIDU|Regard assidu]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Signifer infernal#EXPERTISEDELARMUREMAGIQUE|Expertise de l'armure magique]] ([[action libre]])
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Signifer infernal#DETECTIONDUMENSONGE|Détection du mensonge]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Signifer infernal#REGARDASSIDU|Regard assidu]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Signifer infernal#FORMATIONALARMUREDULEGIONNAIREINFERNAL|Formation à l'armure du légionnaire infernal]] 2
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Signifer infernal#RESILIENCEINFERNALE|Résilience infernale]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Signifer infernal#HERAUTDIABOLIQUE|Héraut diabolique]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 </center>
 

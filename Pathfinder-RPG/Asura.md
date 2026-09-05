@@ -46,6 +46,22 @@ Les asuras peuvent devenir très puissants au fil de leurs cycles interminables 
 
 <center>
 
-<table CLASS="tablo"><caption>ASURAS RANAS CONNUS</caption><tr CLASS="titre"></tr><tr CLASS="alt"><td>&emsp;Andak le Démembré</td></tr><tr><td>&emsp;Bohga le Trésorier</td></tr><tr CLASS="alt"><td>&emsp;Chugarra le Gourou des bouchers</td></tr><tr><td>&emsp;Chupurvagasti, Dame de la brume empoisonnée</td></tr><tr CLASS="alt"><td>&emsp;Gavidya l’Innombrable</td></tr><tr><td>&emsp;Hydim du Jeûne éternel</td></tr><tr CLASS="alt"><td>&emsp;Ioramvol à Bouche de rochers</td></tr><tr><td>&emsp;Maeha, Père des faux mondes</td></tr><tr CLASS="alt"><td>&emsp;Onamahli la Double pureté</td></tr><tr><td>&emsp;Rahu le Dévoreur de soleil</td></tr><tr CLASS="alt"><td>&emsp;Rytara, Serpent de l’œil oriental</td></tr><tr><td>&emsp;Taraksun, l’Éveilleur de fureur</td></tr><tr CLASS="alt"><td>&emsp;Zurapadyn, la Bête tapie dans la fumée</td></tr></table>
+<table CLASS="tablo">
+  <caption>ASURAS RANAS CONNUS</caption>
+  <tr CLASS="titre"></tr>
+  <tr CLASS="alt"><td>&emsp;Andak le Démembré</td></tr>
+  <tr><td>&emsp;Bohga le Trésorier</td></tr>
+  <tr CLASS="alt"><td>&emsp;Chugarra le Gourou des bouchers</td></tr>
+  <tr><td>&emsp;Chupurvagasti, Dame de la brume empoisonnée</td></tr>
+  <tr CLASS="alt"><td>&emsp;Gavidya l’Innombrable</td></tr>
+  <tr><td>&emsp;Hydim du Jeûne éternel</td></tr>
+  <tr CLASS="alt"><td>&emsp;Ioramvol à Bouche de rochers</td></tr>
+  <tr><td>&emsp;Maeha, Père des faux mondes</td></tr>
+  <tr CLASS="alt"><td>&emsp;Onamahli la Double pureté</td></tr>
+  <tr><td>&emsp;Rahu le Dévoreur de soleil</td></tr>
+  <tr CLASS="alt"><td>&emsp;Rytara, Serpent de l’œil oriental</td></tr>
+  <tr><td>&emsp;Taraksun, l’Éveilleur de fureur</td></tr>
+  <tr CLASS="alt"><td>&emsp;Zurapadyn, la Bête tapie dans la fumée</td></tr>
+</table>
 
 </center>

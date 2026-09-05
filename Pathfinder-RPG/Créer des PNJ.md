@@ -25,7 +25,40 @@ Une fois ceci fait, vous devez lui attribuer des [[caractéristiques]], auxquell
 {s:Reference|TABLEBONUSRACIAUX}
 <center>
 
-<table CLASS="tablo"><caption>Bonus raciaux aux caractéristiques</caption><tr CLASS="title"><td>Caractéristique</td><td>[[Nain]]</td><td>[[Elfe]]</td><td>[[Gnome]]</td><td>[[Demi-elfe]]*</td><td>[[Demi-orque]]*</td><td>[[Halfelin]]</td><td>[[Humain]]*</td></tr><tr CLASS="premier"><td>[[Force]]</td><td>—</td><td>—</td><td>–2</td><td>—</td><td>—</td><td>–2</td><td>—</td></tr><tr CLASS="alt"><td>[[Dextérité]]</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>—</td></tr><tr><td>[[Constitution]]</td><td>+2</td><td>–2</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>[[Intelligence]]</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>[[Sagesse]]</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>[[Charisme]]</td><td>–2</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>+2</td><td>—</td></tr><tr><td COLSPAN="8" CLASS="note">(*) Les [[demi-elfe|demi-elfes]], les [[demi-orque|demi-orques]] et les [[humain|humains]] bénéficient d’un bonus de +2 à une [[caractéristiques|caractéristique]] de votre choix.</td></tr></table>
+<table CLASS="tablo">
+  <caption>Bonus raciaux aux caractéristiques</caption>
+  <tr CLASS="title">
+    <td>Caractéristique</td>
+    <td>[[Nain]]</td>
+    <td>[[Elfe]]</td>
+    <td>[[Gnome]]</td>
+    <td>[[Demi-elfe]]*</td>
+    <td>[[Demi-orque]]*</td>
+    <td>[[Halfelin]]</td>
+    <td>[[Humain]]*</td>
+  </tr>
+  <tr CLASS="premier"><td>[[Force]]</td><td>—</td><td>—</td><td>–2</td><td>—</td><td>—</td><td>–2</td><td>—</td></tr>
+  <tr CLASS="alt"><td>[[Dextérité]]</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>—</td></tr>
+  <tr><td>[[Constitution]]</td><td>+2</td><td>–2</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt">
+    <td>[[Intelligence]]</td>
+    <td>—</td>
+    <td>+2</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Sagesse]]</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>[[Charisme]]</td><td>–2</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>+2</td><td>—</td></tr>
+  <tr>
+    <td COLSPAN="8" CLASS="note">
+      (*) Les [[demi-elfe|demi-elfes]], les [[demi-orque|demi-orques]] et les [[humain|humains]] bénéficient d’un
+      bonus de +2 à une [[caractéristiques|caractéristique]] de votre choix.
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -34,7 +67,113 @@ Une fois ceci fait, vous devez lui attribuer des [[caractéristiques]], auxquell
 {s:Reference|TABLECARACTERISTIQUESPNJ}
 <center>
 
-<table CLASS="tablo"><caption>Caractéristiques des PNJ</caption><tr CLASS="titre"><td ROWSPAN="2">Caractéristique</td><td COLSPAN="2" CLASS="avecsoustitre">PNJ de mêlée</td><td COLSPAN="2" CLASS="avecsoustitre">PNJ à distance</td><td COLSPAN="2" CLASS="avecsoustitre">PNJ divin</td><td COLSPAN="2" CLASS="avecsoustitre">PNJ profane</td><td COLSPAN="2" CLASS="avecsoustitre">PNJ à compétences</td></tr><tr CLASS="soustitre"><td>de base</td><td>héroïque</td><td>de base</td><td>héroïque</td><td>de base</td><td>héroïque</td><td>de base</td><td>héroïque</td><td>de base</td><td>héroïque</td></tr><tr CLASS="premier"><td>[[Force]]</td><td>13</td><td>15</td><td>11</td><td>13</td><td>10</td><td>12</td><td>8</td><td>8</td><td>10</td><td>12</td></tr><tr CLASS="alt"><td>[[Dextérité]]</td><td>11</td><td>13</td><td>13</td><td>15</td><td>8</td><td>8</td><td>12</td><td>14</td><td>12</td><td>14</td></tr><tr><td>[[Constitution]]</td><td>12</td><td>14</td><td>12</td><td>14</td><td>12</td><td>14</td><td>10</td><td>12</td><td>11</td><td>13</td></tr><tr CLASS="alt"><td>[[Intelligence]]</td><td>9</td><td>10</td><td>10</td><td>12</td><td>9</td><td>10</td><td>13*</td><td>15*</td><td>13</td><td>15</td></tr><tr><td>[[Sagesse]]</td><td>10</td><td>12</td><td>9</td><td>10</td><td>13</td><td>15</td><td>9</td><td>10</td><td>8</td><td>8</td></tr><tr CLASS="alt"><td>[[Charisme]]</td><td>8</td><td>8</td><td>8</td><td>8</td><td>11</td><td>13</td><td>11*</td><td>13*</td><td>9</td><td>10</td></tr><tr><td COLSPAN="11" CLASS="note">(*) Si les facultés de lancement de sorts du [[PNJ]] dépendent du [[Charisme]], intervertissez les valeurs d'[[Intelligence]] et de [[Charisme]].</td></tr></table>
+<table CLASS="tablo">
+  <caption>Caractéristiques des PNJ</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Caractéristique</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">PNJ de mêlée</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">PNJ à distance</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">PNJ divin</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">PNJ profane</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">PNJ à compétences</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>de base</td>
+    <td>héroïque</td>
+    <td>de base</td>
+    <td>héroïque</td>
+    <td>de base</td>
+    <td>héroïque</td>
+    <td>de base</td>
+    <td>héroïque</td>
+    <td>de base</td>
+    <td>héroïque</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Force]]</td>
+    <td>13</td>
+    <td>15</td>
+    <td>11</td>
+    <td>13</td>
+    <td>10</td>
+    <td>12</td>
+    <td>8</td>
+    <td>8</td>
+    <td>10</td>
+    <td>12</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Dextérité]]</td>
+    <td>11</td>
+    <td>13</td>
+    <td>13</td>
+    <td>15</td>
+    <td>8</td>
+    <td>8</td>
+    <td>12</td>
+    <td>14</td>
+    <td>12</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>[[Constitution]]</td>
+    <td>12</td>
+    <td>14</td>
+    <td>12</td>
+    <td>14</td>
+    <td>12</td>
+    <td>14</td>
+    <td>10</td>
+    <td>12</td>
+    <td>11</td>
+    <td>13</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Intelligence]]</td>
+    <td>9</td>
+    <td>10</td>
+    <td>10</td>
+    <td>12</td>
+    <td>9</td>
+    <td>10</td>
+    <td>13*</td>
+    <td>15*</td>
+    <td>13</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>[[Sagesse]]</td>
+    <td>10</td>
+    <td>12</td>
+    <td>9</td>
+    <td>10</td>
+    <td>13</td>
+    <td>15</td>
+    <td>9</td>
+    <td>10</td>
+    <td>8</td>
+    <td>8</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Charisme]]</td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+    <td>8</td>
+    <td>11</td>
+    <td>13</td>
+    <td>11*</td>
+    <td>13*</td>
+    <td>9</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td COLSPAN="11" CLASS="note">
+      (*) Si les facultés de lancement de sorts du [[PNJ]] dépendent du [[Charisme]], intervertissez les valeurs
+      d'[[Intelligence]] et de [[Charisme]].
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -45,11 +184,59 @@ Une fois ceci fait, vous devez lui attribuer des [[caractéristiques]], auxquell
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>{s:Reference|TABBLENOMBRECOMPETENCESPNJ}Nombre de compétences des PNJ</caption><tr CLASS="titre"><td WIDTH="25%">Classe de PJ</td><td WIDTH="25%">Nombre de   
+<table CLASS="tablo">
+  <caption>{s:Reference|TABBLENOMBRECOMPETENCESPNJ}Nombre de compétences des PNJ</caption>
+  <tr CLASS="titre">
+    <td WIDTH="25%">Classe de PJ</td>
+    <td WIDTH="25%">Nombre de   
 compétences   
-à choisir</td><td CLASS="gauche" WIDTH="25%">Classe de PNJ</td><td WIDTH="25%">Nombre de   
+à choisir</td>
+    <td CLASS="gauche" WIDTH="25%">Classe de PNJ</td>
+    <td WIDTH="25%">Nombre de   
  compétences   
-à choisir</td></tr><tr CLASS="premier"><td>[[Barbare]]</td><td>4 + mod. d’Int*</td><td CLASS="gauche">[[Adepte]]</td><td>2 + mod. d’Int*</td></tr><tr CLASS="alt"><td>[[Barde]]</td><td>6 + mod. d’Int*</td><td CLASS="gauche">[[Noble]]</td><td>4 + mod. d’Int*</td></tr><tr><td>[[Prêtre]]</td><td>2 + mod. d’Int*</td><td CLASS="gauche">[[Homme du peuple]]</td><td>2 +mod. d’Int*</td></tr><tr CLASS="alt"><td>[[Druide]]</td><td>4 +mod. d’Int*</td><td CLASS="gauche">[[Expert]]</td><td>6 + mod. d’Int*</td></tr><tr><td>[[Guerrier]]</td><td>2 + mod. d’Int*</td><td CLASS="gauche">[[homme darme|Hommes d'arme]]</td><td>2 + mod. d’Int*</td></tr><tr CLASS="alt"><td>[[Moine]]</td><td>4 + mod. d’Int*</td></tr><tr><td>[[Paladin]]</td><td>2 + mod. d’Int*</td></tr><tr CLASS="alt"><td>[[Rôdeur]]</td><td>6 + mod. d’Int*</td></tr><tr><td>[[Roublard]]</td><td>8 + mod. d’Int*</td><td COLSPAN="2" ROWSPAN="3" CLASS="note">*(*) Les [[humain|humains]] reçoivent une compétence supplémentaire.*</td></tr><tr CLASS="alt"><td>[[Ensorceleur]]</td><td>2 + mod. d’Int*</td></tr><tr><td>[[Magicien]]</td><td>2 + mod. d’Int*</td></tr></table>
+à choisir</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Barbare]]</td>
+    <td>4 + mod. d’Int*</td>
+    <td CLASS="gauche">[[Adepte]]</td>
+    <td>2 + mod. d’Int*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Barde]]</td>
+    <td>6 + mod. d’Int*</td>
+    <td CLASS="gauche">[[Noble]]</td>
+    <td>4 + mod. d’Int*</td>
+  </tr>
+  <tr>
+    <td>[[Prêtre]]</td>
+    <td>2 + mod. d’Int*</td>
+    <td CLASS="gauche">[[Homme du peuple]]</td>
+    <td>2 +mod. d’Int*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Druide]]</td>
+    <td>4 +mod. d’Int*</td>
+    <td CLASS="gauche">[[Expert]]</td>
+    <td>6 + mod. d’Int*</td>
+  </tr>
+  <tr>
+    <td>[[Guerrier]]</td>
+    <td>2 + mod. d’Int*</td>
+    <td CLASS="gauche">[[homme darme|Hommes d'arme]]</td>
+    <td>2 + mod. d’Int*</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Moine]]</td><td>4 + mod. d’Int*</td></tr>
+  <tr><td>[[Paladin]]</td><td>2 + mod. d’Int*</td></tr>
+  <tr CLASS="alt"><td>[[Rôdeur]]</td><td>6 + mod. d’Int*</td></tr>
+  <tr>
+    <td>[[Roublard]]</td>
+    <td>8 + mod. d’Int*</td>
+    <td COLSPAN="2" ROWSPAN="3" CLASS="note">*(*) Les [[humain|humains]] reçoivent une compétence supplémentaire.*</td>
+  </tr>
+  <tr CLASS="alt"><td>[[Ensorceleur]]</td><td>2 + mod. d’Int*</td></tr>
+  <tr><td>[[Magicien]]</td><td>2 + mod. d’Int*</td></tr>
+</table>
 
 </center></div></div>
 Faites le décompte des niveaux de [[compétences]] que possède le personnage et répartissez-les normalement. Le nombre de rangs dans une compétence est toujours limité par le nombre de [[DV]] du personnage.
@@ -267,7 +454,229 @@ Gardez à l’esprit que ces montants sont approximatifs et qu’ils corresponde
 {s:Reference|TABLEEQUIPEMENTPNJ}
 <center>
 
-<table CLASS="tablo"><caption>Équipement des PNJ</caption><tr CLASS="titre"><td CLASS="avecsoustitre" ALIGN="center" COLSPAN="2">Niveau</td><td ROWSPAN="2">Total de po</td><td ROWSPAN="2">Armes</td><td ROWSPAN="2">Protection</td><td ROWSPAN="2">Magie</td><td ROWSPAN="2">Objets à usage limité</td><td ROWSPAN="2">Équipement</td></tr><tr CLASS="soustitre"><td>PNJ de base</td><td>PNJ héroïque</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">—</td><td>260 po</td><td>50 po</td><td>130 po</td><td>—</td><td>40 po</td><td>40 po</td></tr><tr CLASS="alt"><td>2</td><td CLASS="gauche">1</td><td>390 po</td><td>100 po</td><td>150 po</td><td>—</td><td>40 po</td><td>100 po</td></tr><tr><td>3</td><td CLASS="gauche">2</td><td>780 po</td><td>350 po</td><td>200 po</td><td>—</td><td>80 po</td><td>150 po</td></tr><tr CLASS="alt"><td>4</td><td CLASS="gauche">3</td><td>1 650 po</td><td>650 po</td><td>800 po</td><td>—</td><td>100 po</td><td>200 po</td></tr><tr><td>5</td><td CLASS="gauche">4</td><td>2 400 po</td><td>900 po</td><td>1 000 po</td><td>—</td><td>300 po</td><td>200 po</td></tr><tr CLASS="alt"><td>6</td><td CLASS="gauche">5</td><td>3 450 po</td><td>1 400 po</td><td>1 400 po</td><td>—</td><td>450 po</td><td>200 po</td></tr><tr><td>7</td><td CLASS="gauche">6</td><td>4 650 po</td><td>2 350 po</td><td>1 650 po</td><td>—</td><td>450 po</td><td>200 po</td></tr><tr CLASS="alt"><td>8</td><td CLASS="gauche">7</td><td>6 000 po</td><td>2 700 po</td><td>2 000 po</td><td>500 po</td><td>600 po</td><td>200 po</td></tr><tr><td>9</td><td CLASS="gauche">8</td><td>7 800 po</td><td>3 000 po</td><td>2 500 po</td><td>1 000 po</td><td>800 po</td><td>500 po</td></tr><tr CLASS="alt"><td>10</td><td CLASS="gauche">9</td><td>10 050 po</td><td>3 500 po</td><td>3 000 po</td><td>2 000 po</td><td>1 050 po</td><td>500 po</td></tr><tr><td>11</td><td CLASS="gauche">10</td><td>12 750 po</td><td>4 000 po</td><td>4 000 po</td><td>3 000 po</td><td>1 250 po</td><td>500 po</td></tr><tr CLASS="alt"><td>12</td><td CLASS="gauche">11</td><td>16 350 po</td><td>6 000 po</td><td>4 500 po</td><td>4 000 po</td><td>1 350 po</td><td>500 po</td></tr><tr><td>13</td><td CLASS="gauche">12</td><td>21 000 po</td><td>8 500 po</td><td>5 500 po</td><td>5 000 po</td><td>1 500 po</td><td>500 po</td></tr><tr CLASS="alt"><td>14</td><td CLASS="gauche">13</td><td>27 000 po</td><td>9 000 po</td><td>8 000 po</td><td>7 000 po</td><td>2 500 po</td><td>500 po</td></tr><tr><td>15</td><td CLASS="gauche">14</td><td>34 800 po</td><td>12 000 po</td><td>10 500 po</td><td>9 000 po</td><td>2 800 po</td><td>500 po</td></tr><tr CLASS="alt"><td>16</td><td CLASS="gauche">15</td><td>45 000 po</td><td>17 000 po</td><td>13 500 po</td><td>11 000 po</td><td>3 000 po</td><td>500 po</td></tr><tr><td>17</td><td CLASS="gauche">16</td><td>58 500 po</td><td>19 000 po</td><td>18 000 po</td><td>16 000 po</td><td>4 000 po</td><td>1 500 po</td></tr><tr CLASS="alt"><td>18</td><td CLASS="gauche">17</td><td>75 000 po</td><td>24 000 po</td><td>23 000 po</td><td>20 000 po</td><td>6 500 po</td><td>1 500 po</td></tr><tr><td>19</td><td CLASS="gauche">18</td><td>96 000 po</td><td>30 000 po</td><td>28 000 po</td><td>28 000 po</td><td>8 000 po</td><td>2 000 po</td></tr><tr CLASS="alt"><td>20</td><td CLASS="gauche">19</td><td>123 000 po</td><td>40 000 po</td><td>35 000 po</td><td>35 000 po</td><td>11 000 po</td><td>2 000 po</td></tr><tr><td>—</td><td CLASS="gauche">20</td><td>159 000 po</td><td>55 000 po</td><td>40 000 po</td><td>44 000 po</td><td>18 000 po</td><td>2 000 po</td></tr></table>
+<table CLASS="tablo">
+  <caption>Équipement des PNJ</caption>
+  <tr CLASS="titre">
+    <td CLASS="avecsoustitre" ALIGN="center" COLSPAN="2">Niveau</td>
+    <td ROWSPAN="2">Total de po</td>
+    <td ROWSPAN="2">Armes</td>
+    <td ROWSPAN="2">Protection</td>
+    <td ROWSPAN="2">Magie</td>
+    <td ROWSPAN="2">Objets à usage limité</td>
+    <td ROWSPAN="2">Équipement</td>
+  </tr>
+  <tr CLASS="soustitre"><td>PNJ de base</td><td>PNJ héroïque</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td CLASS="gauche">—</td>
+    <td>260 po</td>
+    <td>50 po</td>
+    <td>130 po</td>
+    <td>—</td>
+    <td>40 po</td>
+    <td>40 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td CLASS="gauche">1</td>
+    <td>390 po</td>
+    <td>100 po</td>
+    <td>150 po</td>
+    <td>—</td>
+    <td>40 po</td>
+    <td>100 po</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td CLASS="gauche">2</td>
+    <td>780 po</td>
+    <td>350 po</td>
+    <td>200 po</td>
+    <td>—</td>
+    <td>80 po</td>
+    <td>150 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td CLASS="gauche">3</td>
+    <td>1 650 po</td>
+    <td>650 po</td>
+    <td>800 po</td>
+    <td>—</td>
+    <td>100 po</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td CLASS="gauche">4</td>
+    <td>2 400 po</td>
+    <td>900 po</td>
+    <td>1 000 po</td>
+    <td>—</td>
+    <td>300 po</td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td CLASS="gauche">5</td>
+    <td>3 450 po</td>
+    <td>1 400 po</td>
+    <td>1 400 po</td>
+    <td>—</td>
+    <td>450 po</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td CLASS="gauche">6</td>
+    <td>4 650 po</td>
+    <td>2 350 po</td>
+    <td>1 650 po</td>
+    <td>—</td>
+    <td>450 po</td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td CLASS="gauche">7</td>
+    <td>6 000 po</td>
+    <td>2 700 po</td>
+    <td>2 000 po</td>
+    <td>500 po</td>
+    <td>600 po</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td CLASS="gauche">8</td>
+    <td>7 800 po</td>
+    <td>3 000 po</td>
+    <td>2 500 po</td>
+    <td>1 000 po</td>
+    <td>800 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td CLASS="gauche">9</td>
+    <td>10 050 po</td>
+    <td>3 500 po</td>
+    <td>3 000 po</td>
+    <td>2 000 po</td>
+    <td>1 050 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td CLASS="gauche">10</td>
+    <td>12 750 po</td>
+    <td>4 000 po</td>
+    <td>4 000 po</td>
+    <td>3 000 po</td>
+    <td>1 250 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td CLASS="gauche">11</td>
+    <td>16 350 po</td>
+    <td>6 000 po</td>
+    <td>4 500 po</td>
+    <td>4 000 po</td>
+    <td>1 350 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td CLASS="gauche">12</td>
+    <td>21 000 po</td>
+    <td>8 500 po</td>
+    <td>5 500 po</td>
+    <td>5 000 po</td>
+    <td>1 500 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td CLASS="gauche">13</td>
+    <td>27 000 po</td>
+    <td>9 000 po</td>
+    <td>8 000 po</td>
+    <td>7 000 po</td>
+    <td>2 500 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td CLASS="gauche">14</td>
+    <td>34 800 po</td>
+    <td>12 000 po</td>
+    <td>10 500 po</td>
+    <td>9 000 po</td>
+    <td>2 800 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td CLASS="gauche">15</td>
+    <td>45 000 po</td>
+    <td>17 000 po</td>
+    <td>13 500 po</td>
+    <td>11 000 po</td>
+    <td>3 000 po</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td CLASS="gauche">16</td>
+    <td>58 500 po</td>
+    <td>19 000 po</td>
+    <td>18 000 po</td>
+    <td>16 000 po</td>
+    <td>4 000 po</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td CLASS="gauche">17</td>
+    <td>75 000 po</td>
+    <td>24 000 po</td>
+    <td>23 000 po</td>
+    <td>20 000 po</td>
+    <td>6 500 po</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td CLASS="gauche">18</td>
+    <td>96 000 po</td>
+    <td>30 000 po</td>
+    <td>28 000 po</td>
+    <td>28 000 po</td>
+    <td>8 000 po</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td CLASS="gauche">19</td>
+    <td>123 000 po</td>
+    <td>40 000 po</td>
+    <td>35 000 po</td>
+    <td>35 000 po</td>
+    <td>11 000 po</td>
+    <td>2 000 po</td>
+  </tr>
+  <tr>
+    <td>—</td>
+    <td CLASS="gauche">20</td>
+    <td>159 000 po</td>
+    <td>55 000 po</td>
+    <td>40 000 po</td>
+    <td>44 000 po</td>
+    <td>18 000 po</td>
+    <td>2 000 po</td>
+  </tr>
+</table>
 
 </center>
 

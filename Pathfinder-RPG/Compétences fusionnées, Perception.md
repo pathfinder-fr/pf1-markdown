@@ -85,11 +85,16 @@ Grâce à la réussite d’un test de Perception opposé, un personnage peut sav
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Objet caché</td><td>DD du test de  
-Perception</td></tr><tr CLASS="premier"><td>Trouver une porte moyennement  
-bien dissimulée</td><td>15</td></tr><tr><td>Trouver une porte secrète  
-moyennement bien conçue</td><td>20</td></tr><tr><td>Trouver un piège</td><td>Variable en fonction  
-du piège</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Objet caché</td><td>DD du test de  
+Perception</td></tr>
+  <tr CLASS="premier"><td>Trouver une porte moyennement  
+bien dissimulée</td><td>15</td></tr>
+  <tr><td>Trouver une porte secrète  
+moyennement bien conçue</td><td>20</td></tr>
+  <tr><td>Trouver un piège</td><td>Variable en fonction  
+du piège</td></tr>
+</table>
 
 </center></div></div>Le personnage peut fouiller minutieusement une zone à la recherche de pièges et de portes secrètes, entre autres. On applique les mêmes modificateurs au [[DD]] de ces tests de Perception qu’à la fonction [[Compétences fusionnées, Perception#DETECTERLAPRESENCEDECREATURESETAUTRESDETAILS|détecter la présence de créatures et autres détails]].
 

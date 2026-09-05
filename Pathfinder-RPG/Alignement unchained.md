@@ -15,7 +15,43 @@ Il vous faut une copie du diagramme de l’alignement donné dans la table "[[Al
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><caption>{s:Reference|EVOLUTIONDELALIGNEMENT}Évolution de l'alignement</caption><tr CLASS="premier alt"><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>&#x2190;</td><td>Loyal</td><td>&#x2192;</td><td>&#x2190;</td><td>Neutre</td><td>&#x2192;</td><td>&#x2190;</td><td>Chaotique</td><td>&#x2192;</td></tr><tr CLASS="alt"><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>&#x2190;</td><td>Bon</td><td>&#x2192;</td><td>&#x2190;</td><td>Neutre</td><td>&#x2192;</td><td>&#x2190;</td><td>Mauvais</td><td>&#x2192;</td></tr></table></div></div>**L’alignement relatif.** Avec la méthode d’alignement relatif, la plupart des personnages, sinon tous, débutent en tant que Neutres sur les deux axes d’alignement (la position « 5 » sur l’axe Loi/Chaos et sur l’axe Bien/Mal). Si la classe de départ du personnage présente des restrictions d’alignement, le personnage débute en se plaçant le plus près possible de la position Neutre sur les axes, tout en respectant les restrictions d’alignement de sa classe. Par exemple, un moine débute en « 3 » sur l’axe Loi/Chaos et en « 5 » sur l’axe Bien/Mal. Un paladin débute à « 3 » sur les deux axes. Avec cette méthode, les conflits moraux représentent un danger pour les personnages de bas niveau car, si l’un d’eux doit respecter une éthique d’alignement pour bénéficier de certains pouvoirs ou progresser dans sa classe, il lui suffit d’un faux pas pour être contraint de se mettre en quête d’un sort de pénitence ou être obligé de reconsidérer son plan de carrière.
+<table CLASS="tablo centre">
+  <caption>{s:Reference|EVOLUTIONDELALIGNEMENT}Évolution de l'alignement</caption>
+  <tr CLASS="premier alt">
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>&#x2190;</td>
+    <td>Loyal</td>
+    <td>&#x2192;</td>
+    <td>&#x2190;</td>
+    <td>Neutre</td>
+    <td>&#x2192;</td>
+    <td>&#x2190;</td>
+    <td>Chaotique</td>
+    <td>&#x2192;</td>
+  </tr>
+  <tr CLASS="alt"><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr>
+  <tr>
+    <td>&#x2190;</td>
+    <td>Bon</td>
+    <td>&#x2192;</td>
+    <td>&#x2190;</td>
+    <td>Neutre</td>
+    <td>&#x2192;</td>
+    <td>&#x2190;</td>
+    <td>Mauvais</td>
+    <td>&#x2192;</td>
+  </tr>
+</table></div></div>**L’alignement relatif.** Avec la méthode d’alignement relatif, la plupart des personnages, sinon tous, débutent en tant que Neutres sur les deux axes d’alignement (la position « 5 » sur l’axe Loi/Chaos et sur l’axe Bien/Mal). Si la classe de départ du personnage présente des restrictions d’alignement, le personnage débute en se plaçant le plus près possible de la position Neutre sur les axes, tout en respectant les restrictions d’alignement de sa classe. Par exemple, un moine débute en « 3 » sur l’axe Loi/Chaos et en « 5 » sur l’axe Bien/Mal. Un paladin débute à « 3 » sur les deux axes. Avec cette méthode, les conflits moraux représentent un danger pour les personnages de bas niveau car, si l’un d’eux doit respecter une éthique d’alignement pour bénéficier de certains pouvoirs ou progresser dans sa classe, il lui suffit d’un faux pas pour être contraint de se mettre en quête d’un sort de pénitence ou être obligé de reconsidérer son plan de carrière.
 
 
 **L’alignement standard.** La méthode standard est moins restrictive que la méthode relative. Le joueur choisit l’alignement de son personnage comme à l’accoutumée et le personnage se positionne sur l’axe au niveau de son alignement mais au plus près de la frontière avec la Neutralité (donc en « 3 » ou en « 7 » sur chaque axe). Si le joueur choisit la Neutralité, son personnage se trouve exactement au milieu de l’axe, à savoir en « 5. »

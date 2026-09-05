@@ -37,17 +37,33 @@ Si le test est raté, la fabrication de l’objet ne progresse pas de toute la j
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>{s:Reference|DDDESTESTSDARTISANAT}DD des tests d’Artisanat et valeurs de progression</caption><tr CLASS="titre"><td>Difficulté de  
-fabrication</td><td>DD du test  
-d’Artisanat</td><td>Valeur de  
+<table CLASS="tablo autoalt">
+  <caption>{s:Reference|DDDESTESTSDARTISANAT}DD des tests d’Artisanat et valeurs de progression</caption>
+  <tr CLASS="titre">
+    <td>Difficulté de  
+fabrication</td>
+    <td>DD du test  
+d’Artisanat</td>
+    <td>Valeur de  
 progression  
-quotidienne</td></tr><tr CLASS="premier"><td>Extrêmement  
-simple</td><td>DD 5</td><td>5 pa</td></tr><tr><td>Simple</td><td>DD 10</td><td>1 po</td></tr><tr><td>Normale</td><td>DD 15</td><td>2 po</td></tr><tr><td>Difficile</td><td>DD 20</td><td>4 po</td></tr><tr><td>Complexe</td><td>DD 25</td><td>8 po</td></tr><tr><td>Très complexe</td><td>DD 30</td><td>16 po</td></tr><tr><td>Extrêmement  
-complexe</td><td>DD 35</td><td>32 po</td></tr><tr><td>Poisons</td><td>DD = DD du jet de  
+quotidienne</td>
+  </tr>
+  <tr CLASS="premier"><td>Extrêmement  
+simple</td><td>DD 5</td><td>5 pa</td></tr>
+  <tr><td>Simple</td><td>DD 10</td><td>1 po</td></tr>
+  <tr><td>Normale</td><td>DD 15</td><td>2 po</td></tr>
+  <tr><td>Difficile</td><td>DD 20</td><td>4 po</td></tr>
+  <tr><td>Complexe</td><td>DD 25</td><td>8 po</td></tr>
+  <tr><td>Très complexe</td><td>DD 30</td><td>16 po</td></tr>
+  <tr><td>Extrêmement  
+complexe</td><td>DD 35</td><td>32 po</td></tr>
+  <tr><td>Poisons</td><td>DD = DD du jet de  
 Vigueur contre  
-le poison</td><td>32 po</td></tr><tr><td>Pièges</td><td>Basé sur la  
+le poison</td><td>32 po</td></tr>
+  <tr><td>Pièges</td><td>Basé sur la  
 complexité, voir  
-texte</td><td>32 po</td></tr></table>
+texte</td><td>32 po</td></tr>
+</table>
 
 </center></div></div>Vous trouverez ci-dessous les différentes catégories de difficulté de fabrication des objets, les [[DD]] des tests d’Artisanat correspondants et des exemples d’objets qui correspondent à chacune de ces catégories. La fabrication de poisons et d’objets alchimiques nécessite des tests d’Artisanat (alchimie). La fabrication d’armures et de boucliers nécessite des tests d’Artisanat (armures). La fabrication d’armes de corps à corps, d’armes à projectiles, d’armes à feu (à l’exception des armes de siège), d’arbalètes et de carreaux d’arbalètes nécessite des tests d’Artisanat (armes). La fabrication d’arcs et de flèches nécessite des tests d’Artisanat (arcs). La fabrication de munitions pour armes à feu nécessite des tests d’Artisanat (alchimie) et la fabrication d’engins de siège, quel que soit leur type, nécessitent des tests d’Artisanat (engins de siège). Les tests d’Artisanat à effectuer dépendent de la nature de l’objet qu’on tente de fabriquer. Voici les artisanats les plus courants : bijoux, calligraphie, constructions en bois, constructions en pierre, étoffes, livres, paniers, peintures, poteries, sculptures, serrures, souliers, travail du cuir, travail du verre et vêtements. La fabrication de la plupart des véhicules terrestres nécessite des tests d’Artisanat (constructions en bois), celle d’engins volants et de navires de mer nécessite des tests d’Artisanat (navires) et des tests d’Artisanat (alchimie) sont nécessaires pour fabriquer des dragons alchimiques et des géants à vapeur. La fabrication de pièges nécessite des tests d’Artisanat (pièges).
 
@@ -100,12 +116,28 @@ texte</td><td>32 po</td></tr></table>
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>{s:Reference|OUVRIERSQUALIFIES}Ouvriers qualifiés</caption><tr CLASS="titre"><td>Rangs en  
-Artisanat</td><td>Bonus en  
-Artisanat</td><td>Rémunération  
-par jour</td><td>Rémunération  
-par semaine</td><td>Taille de la  
-communauté</td></tr><tr CLASS="premier"><td>1</td><td>+4</td><td>3 pa</td><td>2 po, 1 pa</td><td>Hameau</td></tr><tr><td>2</td><td>+5</td><td>4 pa</td><td>2 po, 8 pa</td><td>Village</td></tr><tr><td>3</td><td>+6</td><td>6 pa</td><td>4 po, 2 pa</td><td>Petite bourgade</td></tr><tr><td>4</td><td>+7</td><td>8 pa</td><td>5 po, 6 pa</td><td>Grosse bourgade</td></tr><tr><td>5</td><td>+8</td><td>1 po</td><td>7 po</td><td>Petite ville</td></tr><tr><td>6</td><td>+9</td><td>1 po, 5 pa</td><td>10 po, 5 pa</td><td>Grande ville</td></tr><tr><td>7</td><td>+10</td><td>2 po</td><td>14 po</td><td>Métropole</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>{s:Reference|OUVRIERSQUALIFIES}Ouvriers qualifiés</caption>
+  <tr CLASS="titre">
+    <td>Rangs en  
+Artisanat</td>
+    <td>Bonus en  
+Artisanat</td>
+    <td>Rémunération  
+par jour</td>
+    <td>Rémunération  
+par semaine</td>
+    <td>Taille de la  
+communauté</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>+4</td><td>3 pa</td><td>2 po, 1 pa</td><td>Hameau</td></tr>
+  <tr><td>2</td><td>+5</td><td>4 pa</td><td>2 po, 8 pa</td><td>Village</td></tr>
+  <tr><td>3</td><td>+6</td><td>6 pa</td><td>4 po, 2 pa</td><td>Petite bourgade</td></tr>
+  <tr><td>4</td><td>+7</td><td>8 pa</td><td>5 po, 6 pa</td><td>Grosse bourgade</td></tr>
+  <tr><td>5</td><td>+8</td><td>1 po</td><td>7 po</td><td>Petite ville</td></tr>
+  <tr><td>6</td><td>+9</td><td>1 po, 5 pa</td><td>10 po, 5 pa</td><td>Grande ville</td></tr>
+  <tr><td>7</td><td>+10</td><td>2 po</td><td>14 po</td><td>Métropole</td></tr>
+</table>
 
 </center></div></div>Comme indiqué dans les deux versions de la compétence, l’Artisanat permet aux personnages de superviser des ouvriers non-qualifiés. Un ouvrier non-qualifié ne possède aucun rang en Artisanat mais il peut aider au processus de fabrication des objets avec la compétence d’Artisanat. Il faut avant tout le rémunérer en lui versant 1 pa par jour ou 7 pa pour une semaine de travail. Chaque ouvrier non-qualifié embauché peut effectuer l’action aider quelqu’un avec un bonus de +0 (on part du principe qu’il possède une valeur d’[[Intelligence]] de 10 ou 11 et qu’il ne possède aucun rang dans la compétence d’Artisanat appropriée) lors du test d’Artisanat du personnage. En règle générale, le personnage peut embaucher un maximum de deux artisans pour l’aider à la fabrication de la plupart des objets de petite taille ou relativement simples (tels que le matériel d’aventurier, les objets alchimiques, les armures, les poisons et les armes). S’il souhaite fabriquer des objets imposants ou complexes (tels que des engins de siège ou des véhicules), le personnage peut embaucher jusqu’à dix ouvriers non-qualifiés comme assistants.
 

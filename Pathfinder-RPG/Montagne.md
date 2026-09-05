@@ -18,7 +18,13 @@ Les montagnes présentent un élément important, la paroi rocheuse, qui appara�
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de montagne</td><td>Prairie alpine</td><td>Accidentée</td><td>Haute</td></tr><tr CLASS="premier"><td>Pente douce</td><td>50%</td><td>25%</td><td>15%</td></tr><tr CLASS="alt"><td>Pente raide</td><td>40%</td><td>55%</td><td>55%</td></tr><tr><td>À-pic</td><td>10%</td><td>15%</td><td>20%</td></tr><tr CLASS="alt"><td>Gouffre</td><td>—</td><td>5%</td><td>10%</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Catégories de montagne</td><td>Prairie alpine</td><td>Accidentée</td><td>Haute</td></tr>
+  <tr CLASS="premier"><td>Pente douce</td><td>50%</td><td>25%</td><td>15%</td></tr>
+  <tr CLASS="alt"><td>Pente raide</td><td>40%</td><td>55%</td><td>55%</td></tr>
+  <tr><td>À-pic</td><td>10%</td><td>15%</td><td>20%</td></tr>
+  <tr CLASS="alt"><td>Gouffre</td><td>—</td><td>5%</td><td>10%</td></tr>
+</table>
 
 </center>
 </div></div>

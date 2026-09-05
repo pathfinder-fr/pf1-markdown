@@ -36,4 +36,51 @@ D'un simple toucher, le personnage peut faire saigner les créatures vivantes. I
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Mort</td><td>Sous-domaine du Meurtre</td><td>Sous-domaine des Morts-vivants</td><td>Sous-domaine des Psychopompes</td></tr><tr CLASS="premier"><td>1er</td><td>*[[frayeur]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[mise à mort]]*</td><td>*idem*</td><td>*[[baiser de la goule]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[animation des morts]]*</td><td>*[[affûtage]]*</td><td>*idem*</td><td>*[[chaîne de perdition]]*</td></tr><tr><td>4e</td><td>*[[protection contre la mort]]*</td><td>*idem*</td><td>*[[énergie négative]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[exécution]]*</td><td>*[[suffocation]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[création de mort-vivant]]*</td><td>*idem*</td><td>*idem*</td><td>*[[allié doutreplan|allié d'outreplan]]* <div> (psychopompes seulement)</td></tr><tr><td>7e</td><td>*[[sort destruction|destruction]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[création de mort-vivant dominant]]*</td><td>*idem*</td><td>*idem*</td><td>*[[séquestration]]*</td></tr><tr><td>9e</td><td>*[[plainte doutre-tombe|plainte d’outre-tombe]]*</td><td>*[[suffocation de groupe]]*</td><td>*[[sort absorption dénergie|absorption d'énergie]]*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Mort</td>
+    <td>Sous-domaine du Meurtre</td>
+    <td>Sous-domaine des Morts-vivants</td>
+    <td>Sous-domaine des Psychopompes</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[frayeur]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>2e</td><td>*[[mise à mort]]*</td><td>*idem*</td><td>*[[baiser de la goule]]*</td><td>*idem*</td></tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[animation des morts]]*</td>
+    <td>*[[affûtage]]*</td>
+    <td>*idem*</td>
+    <td>*[[chaîne de perdition]]*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[protection contre la mort]]*</td>
+    <td>*idem*</td>
+    <td>*[[énergie négative]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>5e</td><td>*[[exécution]]*</td><td>*[[suffocation]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[création de mort-vivant]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[allié doutreplan|allié d'outreplan]]* <div> (psychopompes seulement)</td>
+  </tr>
+  <tr><td>7e</td><td>*[[sort destruction|destruction]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[création de mort-vivant dominant]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[séquestration]]*</td>
+  </tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[plainte doutre-tombe|plainte d’outre-tombe]]*</td>
+    <td>*[[suffocation de groupe]]*</td>
+    <td>*[[sort absorption dénergie|absorption d'énergie]]*</td>
+    <td>*idem*</td>
+  </tr>
+</table>

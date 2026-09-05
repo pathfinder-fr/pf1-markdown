@@ -24,7 +24,13 @@ Le corps du personnage se drape instantanément dans une armure faite d'une forc
 L*'armure instantanée *se comporte comme n'importe quelle armure de son genre en ce qui concerne le bonus d'armure, le bonus de [[Dextérité]] maximum, les risques d'échecs des sorts profanes etc. Comme elle est faite de force pure, les créatures intangibles ne peuvent pas l'ignorer comme une armure ordinaire. Le genre d'armure créée dépend du niveau de lanceur de sorts.  
 
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Niveau de lanceur de sorts</td><td>Armure créée</td></tr><tr CLASS="premier"><td CLASS="gauche">5 ou moins</td><td CLASS="centre">cotte de mailles</td></tr><tr CLASS="alt"><td CLASS="gauche">6-8</td><td CLASS="centre">crevice</td></tr><tr><td CLASS="gauche">9-11</td><td CLASS="centre">armure à plaques</td></tr><tr CLASS="alt"><td CLASS="gauche">12 ou plus</td><td CLASS="centre">harnois</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Niveau de lanceur de sorts</td><td>Armure créée</td></tr>
+  <tr CLASS="premier"><td CLASS="gauche">5 ou moins</td><td CLASS="centre">cotte de mailles</td></tr>
+  <tr CLASS="alt"><td CLASS="gauche">6-8</td><td CLASS="centre">crevice</td></tr>
+  <tr><td CLASS="gauche">9-11</td><td CLASS="centre">armure à plaques</td></tr>
+  <tr CLASS="alt"><td CLASS="gauche">12 ou plus</td><td CLASS="centre">harnois</td></tr>
+</table>
 
 
 Si le personnage décide de créer une armure inférieure à ce que son niveau lui permet, il gagne un bonus d'altération magique de +1 à l'armure créée pour chaque catégorie d'armure abandonnée. Par exemple, si le personnage est capable de créer un harnois en *armure instantanée*, il peut également créer une *armure à plaques +1, *une  *crevice +2 *ou une *cotte de mailles +3*. Il ne peut pas remplacer ces bonus par des propriétés spéciales d'armure.

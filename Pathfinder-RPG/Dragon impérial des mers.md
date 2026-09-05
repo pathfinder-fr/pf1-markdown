@@ -48,7 +48,34 @@ Investis de la puissance des vagues et des tempêtes, les dragons des mers, ou j
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>[[Immunité (capacité)|immunité]] à l’électricité, *[[respiration aquatique]]*</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Souffle torrentiel</td><td>—</td></tr><tr><td>Jeune</td><td>Changement de forme, *[[création deau|création d’eau]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>Nageur débridé, *[[poussée hydraulique]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[Appel de la foudre]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[Contrôle de leau|Contrôle de l’eau]]*, écumeur des mers</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Marche sur londe|Marche sur l’onde]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Raz-de-marée, *[[vortex]]*</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier">
+    <td>Dragonnet</td>
+    <td>[[Immunité (capacité)|immunité]] à l’électricité, *[[respiration aquatique]]*</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>Souffle torrentiel</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>Changement de forme, *[[création deau|création d’eau]]*</td><td>1</td></tr>
+  <tr CLASS="alt">
+    <td>Adolescent</td>
+    <td>Nageur débridé, *[[poussée hydraulique]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Jeune adulte</td>
+    <td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td>
+    <td>5</td>
+  </tr>
+  <tr CLASS="alt"><td>Adulte</td><td>*[[Appel de la foudre]]*</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>*[[Contrôle de leau|Contrôle de l’eau]]*, écumeur des mers</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[Marche sur londe|Marche sur l’onde]]*</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>Raz-de-marée, *[[vortex]]*</td><td>19</td></tr>
+</table>
 
 </center>
 </div></td></tr></table>

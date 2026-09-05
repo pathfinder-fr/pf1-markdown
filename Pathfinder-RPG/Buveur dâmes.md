@@ -11,7 +11,113 @@ Categories:
 {s:MenuClassesDePrestige}{s:cs}{s:BotD}*Ces individus ont vendu leur âme aux Cavaliers, apprennent la pire des magies daémoniques et ont le pouvoir d'asservir et de dévorer les âmes. Ces lanceurs de sorts paient une dîme à leur patrons en Abaddon pour chaque esprit qu'ils consument. Ce sont les représentants de la mort, servant les architectes de l'apocalypse jusqu'à ce que finalement, leurs âmes soient dévorées par les patientes mâchoires de leurs maîtres.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le buveur d'âmes</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Buveur dâmes#FAMILIERCACODAEMON|Familier cacodaémon]], [[Buveur dâmes#SERMENTAPOCALYPTIQUE|serment apocalyptique]], [[Buveur dâmes#OBEDIENCE|obédience]]</td><td CLASS="gauche">-</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Buveur dâmes#ENERGIENEGATIVE|Énergie négative 2/jour]], [[Buveur dâmes#RESERVEDAME|réserve d'âmes]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Buveur dâmes#FAVEURDAEMONIQUE|Faveur daémonique 1]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Buveur dâmes#NEANTMINEUR|Néant mineur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Buveur dâmes#ENERGIENEGATIVE|Énergie négative 4/jour]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Buveur dâmes#FAVEURDAEMONIQUE|Faveur daémonique 2]]</td><td CLASS="gauche">-</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Buveur dâmes#NEANT|Néant]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Buveur dâmes#ENERGIENEGATIVE|Énergie négative 6/jour]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Buveur dâmes#FAVEURDAEMONIQUE|Faveur daémonique 3]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Buveur dâmes#NEANTSUPERIEUR|Néant supérieur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le buveur d'âmes</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Buveur dâmes#FAMILIERCACODAEMON|Familier cacodaémon]], [[Buveur dâmes#SERMENTAPOCALYPTIQUE|serment
+      apocalyptique]], [[Buveur dâmes#OBEDIENCE|obédience]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Buveur dâmes#ENERGIENEGATIVE|Énergie négative 2/jour]], [[Buveur dâmes#RESERVEDAME|réserve d'âmes]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Buveur dâmes#FAVEURDAEMONIQUE|Faveur daémonique 1]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Buveur dâmes#NEANTMINEUR|Néant mineur]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Buveur dâmes#ENERGIENEGATIVE|Énergie négative 4/jour]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Buveur dâmes#FAVEURDAEMONIQUE|Faveur daémonique 2]]</td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Buveur dâmes#NEANT|Néant]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Buveur dâmes#ENERGIENEGATIVE|Énergie négative 6/jour]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Buveur dâmes#FAVEURDAEMONIQUE|Faveur daémonique 3]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Buveur dâmes#NEANTSUPERIEUR|Néant supérieur]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 
 **Dés de vie.** d6.

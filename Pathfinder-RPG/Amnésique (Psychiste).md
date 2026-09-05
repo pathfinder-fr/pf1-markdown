@@ -27,4 +27,28 @@ Cette modification à propos des sorts ne s’applique pas aux astuces (c’est-
 Une fois par heure et par une [[action libre]], un amnésique peut tenter de se rappeler le sort de son choix d’un des 2 niveaux les plus élevés qu’il est capable de lancer parmi ceux de la liste de sorts de psychiste. Lorsqu’il utilise cette aptitude, il lance 1d100 et applique le résultat indiqué dans la Table "Souvenirs des sorts". Le stress mental provoqué par les situations de combat facilite la remontée des souvenirs à la surface de la mémoire, voilà pourquoi l’amnésique ajoute 1d10 au résultat de son jet s’il est engagé dans un combat au moment où il tente de se rappeler d’un sort. Quel que soit le résultat, l’amnésique dépense un emplacement d’amnésie du niveau correspondant à celui du sort qu’il tente de se remémorer. Il doit lancer le sort remémoré (le cas échéant) en utilisant cet emplacement d’amnésie pendant le même round, sous peine de perdre l’emplacement de sort sans produire d’effet. Une fois un sort mémorisé par ce biais, l’amnésique peut le lancer comme s’il faisait partie de son répertoire de sorts connus pour le reste de la journée (même s’il n’a pas réussi à le lancer pendant le round au cours duquel il a utilisé cette aptitude), sauf si souvenirs des sorts lui a permis de lancer un sort d’un niveau supérieur à ses capacités actuelles d’incantation.
 
 
-<table CLASS="tablo autoalt centre" WIDTH="80%"><caption>Souvenir des sorts</caption><tr CLASS="titre"><td>d100</td><td>Résultat</td></tr><tr CLASS="premier gauche"><td>1-10</td><td>L’amnésique s’avère incapable de lancer des sorts pendant le round en cours.</td></tr><tr CLASS="gauche"><td>11-35</td><td>L’amnésique ne parvient pas à se rappeler du nouveau sort (mais il peut tout de même lancer des sorts pendant le round en cours).</td></tr><tr CLASS="gauche"><td>36-95</td><td>L’amnésique se rappelle du nouveau sort et peut le lancer.</td></tr><tr CLASS="gauche"><td>96 et +</td><td>L’amnésique peut considérer son résultat comme identique à la tranche 36-95. Sinon, une fois par jour, il peut se rappeler temporairement d’un sort de la liste de sorts de psychiste d’un niveau plus élevé que celui du sort qu’il tente de se remémorer. Le cas échéant, il considère que son niveau de lanceur de sorts est le minimum nécessaire pour le lancer. Il</td></tr></table>
+<table CLASS="tablo autoalt centre" WIDTH="80%">
+  <caption>Souvenir des sorts</caption>
+  <tr CLASS="titre"><td>d100</td><td>Résultat</td></tr>
+  <tr CLASS="premier gauche">
+    <td>1-10</td>
+    <td>L’amnésique s’avère incapable de lancer des sorts pendant le round en cours.</td>
+  </tr>
+  <tr CLASS="gauche">
+    <td>11-35</td>
+    <td>
+      L’amnésique ne parvient pas à se rappeler du nouveau sort (mais il peut tout de même lancer des sorts pendant
+      le round en cours).
+    </td>
+  </tr>
+  <tr CLASS="gauche"><td>36-95</td><td>L’amnésique se rappelle du nouveau sort et peut le lancer.</td></tr>
+  <tr CLASS="gauche">
+    <td>96 et +</td>
+    <td>
+      L’amnésique peut considérer son résultat comme identique à la tranche 36-95. Sinon, une fois par jour, il peut
+      se rappeler temporairement d’un sort de la liste de sorts de psychiste d’un niveau plus élevé que celui du
+      sort qu’il tente de se remémorer. Le cas échéant, il considère que son niveau de lanceur de sorts est le
+      minimum nécessaire pour le lancer. Il
+    </td>
+  </tr>
+</table>

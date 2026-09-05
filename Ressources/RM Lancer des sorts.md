@@ -12,7 +12,39 @@ Un pratiquant de la magie peut, à tout instant, tenter de lancer n’importe qu
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Niveau de sort maximal accessible</caption><tr CLASS="titre"><td>Niveau de classe</td><td>Barde</td><td>Druide</td><td>Ensorceleur</td><td>Magicien</td><td>Paladin</td><td>Prêtre</td><td>Rôdeur</td></tr><tr CLASS="premier"><td>1</td><td>1er</td><td>1er</td><td>1er</td><td>1er</td><td>-</td><td>1er</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>1er</td><td>1er</td><td>1er</td><td>1er</td><td>-</td><td>1er</td><td>-</td></tr><tr><td>3</td><td>1er</td><td>2e</td><td>1er</td><td>2e</td><td>-</td><td>2e</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>2e</td><td>2e</td><td>2e</td><td>2e</td><td>1er</td><td>2e</td><td>1er</td></tr><tr><td>5</td><td>2e</td><td>3e</td><td>2e</td><td>3e</td><td>1er</td><td>3e</td><td>1er</td></tr><tr CLASS="alt"><td>6</td><td>2e</td><td>3e</td><td>3e</td><td>3e</td><td>1er</td><td>3e</td><td>1er</td></tr><tr><td>7</td><td>3e</td><td>4e</td><td>3e</td><td>4e</td><td>2e</td><td>4e</td><td>2e</td></tr><tr CLASS="alt"><td>8</td><td>3e</td><td>4e</td><td>4e</td><td>4e</td><td>2e</td><td>4e</td><td>2e</td></tr><tr><td>9</td><td>3e</td><td>5e</td><td>4e</td><td>5e</td><td>2e</td><td>5e</td><td>2e</td></tr><tr CLASS="alt"><td>10</td><td>4e</td><td>5e</td><td>5e</td><td>5e</td><td>3e</td><td>5e</td><td>3e</td></tr><tr><td>11</td><td>4e</td><td>6e</td><td>5e</td><td>6e</td><td>3e</td><td>6e</td><td>3e</td></tr><tr CLASS="alt"><td>12</td><td>4e</td><td>6e</td><td>6e</td><td>6e</td><td>3e</td><td>6e</td><td>3e</td></tr><tr><td>13</td><td>5e</td><td>7e</td><td>6e</td><td>7e</td><td>4e</td><td>7e</td><td>4e</td></tr><tr CLASS="alt"><td>14</td><td>5e</td><td>7e</td><td>7e</td><td>7e</td><td>4e</td><td>7e</td><td>4e</td></tr><tr><td>15</td><td>5e</td><td>8e</td><td>7e</td><td>8e</td><td>4e</td><td>8e</td><td>4e</td></tr><tr CLASS="alt"><td>16</td><td>6e</td><td>8e</td><td>8e</td><td>8e</td><td>4e</td><td>8e</td><td>4e</td></tr><tr><td>17</td><td>6e</td><td>9e</td><td>8e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr><tr CLASS="alt"><td>18</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr><tr><td>19</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr><tr CLASS="alt"><td>20</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Niveau de sort maximal accessible</caption>
+  <tr CLASS="titre">
+    <td>Niveau de classe</td>
+    <td>Barde</td>
+    <td>Druide</td>
+    <td>Ensorceleur</td>
+    <td>Magicien</td>
+    <td>Paladin</td>
+    <td>Prêtre</td>
+    <td>Rôdeur</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>1er</td><td>1er</td><td>1er</td><td>1er</td><td>-</td><td>1er</td><td>-</td></tr>
+  <tr CLASS="alt"><td>2</td><td>1er</td><td>1er</td><td>1er</td><td>1er</td><td>-</td><td>1er</td><td>-</td></tr>
+  <tr><td>3</td><td>1er</td><td>2e</td><td>1er</td><td>2e</td><td>-</td><td>2e</td><td>-</td></tr>
+  <tr CLASS="alt"><td>4</td><td>2e</td><td>2e</td><td>2e</td><td>2e</td><td>1er</td><td>2e</td><td>1er</td></tr>
+  <tr><td>5</td><td>2e</td><td>3e</td><td>2e</td><td>3e</td><td>1er</td><td>3e</td><td>1er</td></tr>
+  <tr CLASS="alt"><td>6</td><td>2e</td><td>3e</td><td>3e</td><td>3e</td><td>1er</td><td>3e</td><td>1er</td></tr>
+  <tr><td>7</td><td>3e</td><td>4e</td><td>3e</td><td>4e</td><td>2e</td><td>4e</td><td>2e</td></tr>
+  <tr CLASS="alt"><td>8</td><td>3e</td><td>4e</td><td>4e</td><td>4e</td><td>2e</td><td>4e</td><td>2e</td></tr>
+  <tr><td>9</td><td>3e</td><td>5e</td><td>4e</td><td>5e</td><td>2e</td><td>5e</td><td>2e</td></tr>
+  <tr CLASS="alt"><td>10</td><td>4e</td><td>5e</td><td>5e</td><td>5e</td><td>3e</td><td>5e</td><td>3e</td></tr>
+  <tr><td>11</td><td>4e</td><td>6e</td><td>5e</td><td>6e</td><td>3e</td><td>6e</td><td>3e</td></tr>
+  <tr CLASS="alt"><td>12</td><td>4e</td><td>6e</td><td>6e</td><td>6e</td><td>3e</td><td>6e</td><td>3e</td></tr>
+  <tr><td>13</td><td>5e</td><td>7e</td><td>6e</td><td>7e</td><td>4e</td><td>7e</td><td>4e</td></tr>
+  <tr CLASS="alt"><td>14</td><td>5e</td><td>7e</td><td>7e</td><td>7e</td><td>4e</td><td>7e</td><td>4e</td></tr>
+  <tr><td>15</td><td>5e</td><td>8e</td><td>7e</td><td>8e</td><td>4e</td><td>8e</td><td>4e</td></tr>
+  <tr CLASS="alt"><td>16</td><td>6e</td><td>8e</td><td>8e</td><td>8e</td><td>4e</td><td>8e</td><td>4e</td></tr>
+  <tr><td>17</td><td>6e</td><td>9e</td><td>8e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr>
+  <tr CLASS="alt"><td>18</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr>
+  <tr><td>19</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr>
+  <tr CLASS="alt"><td>20</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr>
+</table>
 
 </center>
 
@@ -25,7 +57,34 @@ Au terme de l’incantation, le personnage doit effectuer un test de [[Pathfinde
 
 <center>
 
-<table CLASS="tablo"><tr><td>**Niveau du sort**</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr CLASS="alt"><td>**Malus aux tests de Concentration**</td><td>0</td><td>-1</td><td>-1</td><td>-1</td><td>-2</td><td>-2</td><td>-2</td><td>-3</td><td>-3</td><td>-3</td></tr></table>
+<table CLASS="tablo">
+  <tr>
+    <td>**Niveau du sort**</td>
+    <td>0</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>**Malus aux tests de Concentration**</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-1</td>
+    <td>-1</td>
+    <td>-2</td>
+    <td>-2</td>
+    <td>-2</td>
+    <td>-3</td>
+    <td>-3</td>
+    <td>-3</td>
+  </tr>
+</table>
 
 </center>
 

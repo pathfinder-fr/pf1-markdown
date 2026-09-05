@@ -7,10 +7,288 @@ LastModified: 2024-10-03 18:42
 {s:Menuclassesoccultes}{s:AO}Les capacités du fantôme dépendent du niveau du spirite et de la manifestation choisie lorsqu’il effectue le rituel correspondant. La table suivante indique la plupart des caractéristiques de base du fantôme. Celui-ci est considéré comme un extérieur lorsqu'il s'agit de déterminer si un sort l'affecte ou non.
 
 
-<table CLASS="tablo centre"><caption>Caractéristique de base du fantôme {s:Reference|TABLEFANTOMESPIRITE}</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau  
-de classe</td><td ROWSPAN="2">DV</td><td ROWSPAN="2">BBA</td><td COLSPAN="2" CLASS="avecsoustitre">Jets de sauvegarde</td><td ROWSPAN="2">Compétences</td><td ROWSPAN="2">Dons</td><td ROWSPAN="2">Bonus  
-d'armure</td><td ROWSPAN="2">Bonus  
-de Dex/Cha</td><td ROWSPAN="2">Dégâts</td><td ROWSPAN="2" CLASS="gauche">Spécial</td></tr><tr CLASS="soustitre"><td>forts</td><td>faibles</td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>2</td><td>1</td><td>+0</td><td>+0</td><td>1d6</td><td CLASS="gauche">[[Fantômes (Spirite)#LIEN|Lien]], [[Fantômes (Spirite)#PARTAGEDESORTS|Transfert de sorts]], [[Fantômes (Spirite)#VISIONDANSLENOIR|Vision dans le noir]]</td></tr><tr CLASS="alt"><td>2</td><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>4</td><td>1</td><td>+2</td><td>+1</td><td>1d6</td><td CLASS="gauche">—</td></tr><tr><td>3</td><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>6</td><td>2</td><td>+2</td><td>+1</td><td>1d6</td><td CLASS="gauche">[[Fantômes (Spirite)#TOUCHSPELLS|Livrer un sort de contact (9m)]]</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>6</td><td>2</td><td>+2</td><td>+1</td><td>1d6</td><td CLASS="gauche">[[Fantômes (Spirite)#ATTAQUEMAGIQUE|Attaques magiques]]</td></tr><tr><td>5</td><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>8</td><td>2</td><td>+4</td><td>+2</td><td>1d8</td><td CLASS="gauche">[[Fantômes (Spirite)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td></tr><tr CLASS="alt"><td>6</td><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>10</td><td>3</td><td>+4</td><td>+2</td><td>1d8</td><td CLASS="gauche">[[Fantômes (Spirite)#DEVOTION|Dévotion]]</td></tr><tr><td>7</td><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>12</td><td>3</td><td>+6</td><td>+2</td><td>1d8</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>8</td><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>12</td><td>3</td><td>+6</td><td>+3</td><td>1d8</td><td CLASS="gauche">—</td></tr><tr><td>9</td><td>7</td><td>+7</td><td>+5</td><td>+2</td><td>14</td><td>4</td><td>+6</td><td>+3</td><td>1d10</td><td CLASS="gauche">[[Fantômes (Spirite)#VOLINTANGIBLE|Vol sous forme intangible]]</td></tr><tr CLASS="alt"><td>10</td><td>8</td><td>+8</td><td>+6</td><td>+2</td><td>16</td><td>4</td><td>+8</td><td>+4</td><td>1d10</td><td CLASS="gauche">[[Fantômes (Spirite)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td></tr><tr><td>11</td><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>18</td><td>5</td><td>+8</td><td>+4</td><td>1d10</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>12</td><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>18</td><td>5</td><td>+10</td><td>+5</td><td>1d10</td><td CLASS="gauche">[[Fantômes (Spirite)#TOUCHSPELLS|Livrer un sort de contact (15m)]]</td></tr><tr><td>13</td><td>10</td><td>+10</td><td>+7</td><td>+3</td><td>20</td><td>5</td><td>+10</td><td>+5</td><td>2d6</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>14</td><td>11</td><td>+11</td><td>+7</td><td>+3</td><td>22</td><td>6</td><td>+10</td><td>+5</td><td>2d6</td><td CLASS="gauche">—</td></tr><tr><td>15</td><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>24</td><td>6</td><td>+12</td><td>+6</td><td>2d6</td><td CLASS="gauche">[[Fantômes (Spirite)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td></tr><tr CLASS="alt"><td>16</td><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>24</td><td>6</td><td>+12</td><td>+6</td><td>2d6</td><td CLASS="gauche">—</td></tr><tr><td>17</td><td>13</td><td>+13</td><td>+8</td><td>+4</td><td>26</td><td>7</td><td>+14</td><td>+7</td><td>2d8</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>18</td><td>14</td><td>+14</td><td>+9</td><td>+4</td><td>28</td><td>7</td><td>+14</td><td>+7</td><td>2d8</td><td CLASS="gauche">—</td></tr><tr><td>19</td><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>30</td><td>8</td><td>+14</td><td>+7</td><td>2d8</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>20</td><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>30</td><td>8</td><td>+16</td><td>+8</td><td>2d8</td><td CLASS="gauche">—</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Caractéristique de base du fantôme {s:Reference|TABLEFANTOMESPIRITE}</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau  
+de classe</td>
+    <td ROWSPAN="2">DV</td>
+    <td ROWSPAN="2">BBA</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">Jets de sauvegarde</td>
+    <td ROWSPAN="2">Compétences</td>
+    <td ROWSPAN="2">Dons</td>
+    <td ROWSPAN="2">Bonus  
+d'armure</td>
+    <td ROWSPAN="2">Bonus  
+de Dex/Cha</td>
+    <td ROWSPAN="2">Dégâts</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="soustitre"><td>forts</td><td>faibles</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>2</td>
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>1d6</td>
+    <td CLASS="gauche">
+      [[Fantômes (Spirite)#LIEN|Lien]], [[Fantômes (Spirite)#PARTAGEDESORTS|Transfert de sorts]], [[Fantômes
+      (Spirite)#VISIONDANSLENOIR|Vision dans le noir]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>4</td>
+    <td>1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>1d6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>6</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>1d6</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#TOUCHSPELLS|Livrer un sort de contact (9m)]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>6</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>1d6</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#ATTAQUEMAGIQUE|Attaques magiques]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>8</td>
+    <td>2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>1d8</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>10</td>
+    <td>3</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>1d8</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#DEVOTION|Dévotion]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>6</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>12</td>
+    <td>3</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>1d8</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>6</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>12</td>
+    <td>3</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>1d8</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>7</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>14</td>
+    <td>4</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>1d10</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#VOLINTANGIBLE|Vol sous forme intangible]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>8</td>
+    <td>+8</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>16</td>
+    <td>4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>1d10</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>9</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>18</td>
+    <td>5</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>1d10</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>9</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>18</td>
+    <td>5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>1d10</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#TOUCHSPELLS|Livrer un sort de contact (15m)]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>10</td>
+    <td>+10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>20</td>
+    <td>5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>2d6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>11</td>
+    <td>+11</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>22</td>
+    <td>6</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>2d6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>12</td>
+    <td>+12</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>24</td>
+    <td>6</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>2d6</td>
+    <td CLASS="gauche">[[Fantômes (Spirite)#AUGMENTATIONCARAC|Accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>12</td>
+    <td>+12</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>24</td>
+    <td>6</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>2d6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>13</td>
+    <td>+13</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>26</td>
+    <td>7</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>2d8</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>14</td>
+    <td>+14</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>28</td>
+    <td>7</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>2d8</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>15</td>
+    <td>+15</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>30</td>
+    <td>8</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>2d8</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>15</td>
+    <td>+15</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>30</td>
+    <td>8</td>
+    <td>+16</td>
+    <td>+8</td>
+    <td>2d8</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+</table>
 
 
 **Niveau de classe.** C’est le niveau de spirite du personnage.
@@ -32,9 +310,22 @@ de Dex/Cha</td><td ROWSPAN="2">Dégâts</td><td ROWSPAN="2" CLASS="gauche">Spéc
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Dégâts des coups de fantôme petit ou grand {s:Reference|Dégâts des coups des petits ou grand fantôme}</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">Dégâts (Fantôme  
-de taille P)</td><td ROWSPAN="2">Dégâts (Fantôme  
-de taille G)</td></tr><tr CLASS="soustitre"></tr><tr CLASS="premier"><td>1 - 4</td><td>1d4</td><td>1d8</td></tr><tr><td>5 - 8</td><td>1d6</td><td>2d6</td></tr><tr><td>9 - 12</td><td>1d8</td><td>2d8</td></tr><tr><td>13 - 16</td><td>1d10</td><td>3d6</td></tr><tr><td>17 - 20</td><td>2d6</td><td>3d8</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Dégâts des coups de fantôme petit ou grand {s:Reference|Dégâts des coups des petits ou grand fantôme}</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">Dégâts (Fantôme  
+de taille P)</td>
+    <td ROWSPAN="2">Dégâts (Fantôme  
+de taille G)</td>
+  </tr>
+  <tr CLASS="soustitre"></tr>
+  <tr CLASS="premier"><td>1 - 4</td><td>1d4</td><td>1d8</td></tr>
+  <tr><td>5 - 8</td><td>1d6</td><td>2d6</td></tr>
+  <tr><td>9 - 12</td><td>1d8</td><td>2d8</td></tr>
+  <tr><td>13 - 16</td><td>1d10</td><td>3d6</td></tr>
+  <tr><td>17 - 20</td><td>2d6</td><td>3d8</td></tr>
+</table>
 
 </div></div>**Dégâts des coups.** Les fantômes effectuent deux attaques naturelles de coup. Les dégâts de base de ces attaques dépendent de la taille du fantôme et sont parfois modifiés par les spécificités de l’[[Fantômes (Spirite)#EMOTIONDOMINANTE|émotion dominantes]] du fantôme. La Table ci-contre indique les dégâts en fonction de la taille et du niveau du fantôme. L’apparence d’un fantôme peut souvent faire croire qu’il manie des armes ou attaque avec des armes naturelles différentes. Quelle que soit son apparence, les attaques de coup d’un fantôme infligent toujours les dégâts indiqués dans les Tables "[[fantômes (spirite)#TABLEFANTOMESPIRITE|Caractéristique de base du fantôme]] ou "[[fantômes (spirite)#Dégâts des coups des petits ou grand fantôme|Dégâts des coups de fantôme petit ou grand]]" ci-dessous.
 

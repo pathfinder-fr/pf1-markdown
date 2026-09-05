@@ -74,6 +74,64 @@ CA).
 
 <center>
 
-<table CLASS="tablo"><caption></caption><tr CLASS="titre"><td class="gauche">Taille</td><td class="gauche">Exemple</td><td class="gauche">DV</td><td class="gauche">PC</td><td class="gauche">FP</td></tr><tr CLASS="premier"><td class="gauche">Très petit</td><td class="gauche">chandelier</td><td class="gauche">1d10</td><td class="gauche">1</td><td class="gauche">1/2</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td class="gauche">chaise</td><td class="gauche">2d10+10</td><td class="gauche">1</td><td class="gauche">2</td></tr><tr><td class="gauche">Moyen</td><td class="gauche">cage</td><td class="gauche">3d10+20</td><td class="gauche">2</td><td class="gauche">3</td></tr><tr CLASS="alt"><td class="gauche">Grand</td><td class="gauche">statue</td><td class="gauche">4d10+30</td><td class="gauche">3</td><td class="gauche">5</td></tr><tr><td class="gauche">Très grand</td><td class="gauche">wagon</td><td class="gauche">7d10+40</td><td class="gauche">4</td><td class="gauche">7</td></tr><tr CLASS="alt"><td class="gauche">Gigantesque</td><td class="gauche">catapulte</td><td class="gauche">10d10+60</td><td class="gauche">5</td><td class="gauche">9</td></tr><tr><td class="gauche">Colossal</td><td class="gauche">navire</td><td class="gauche">13d10+80</td><td class="gauche">6</td><td class="gauche">11</td></tr></table> </center>
+<table CLASS="tablo">
+  <caption></caption>
+  <tr CLASS="titre">
+    <td class="gauche">Taille</td>
+    <td class="gauche">Exemple</td>
+    <td class="gauche">DV</td>
+    <td class="gauche">PC</td>
+    <td class="gauche">FP</td>
+  </tr>
+  <tr CLASS="premier">
+    <td class="gauche">Très petit</td>
+    <td class="gauche">chandelier</td>
+    <td class="gauche">1d10</td>
+    <td class="gauche">1</td>
+    <td class="gauche">1/2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td class="gauche">Petit</td>
+    <td class="gauche">chaise</td>
+    <td class="gauche">2d10+10</td>
+    <td class="gauche">1</td>
+    <td class="gauche">2</td>
+  </tr>
+  <tr>
+    <td class="gauche">Moyen</td>
+    <td class="gauche">cage</td>
+    <td class="gauche">3d10+20</td>
+    <td class="gauche">2</td>
+    <td class="gauche">3</td>
+  </tr>
+  <tr CLASS="alt">
+    <td class="gauche">Grand</td>
+    <td class="gauche">statue</td>
+    <td class="gauche">4d10+30</td>
+    <td class="gauche">3</td>
+    <td class="gauche">5</td>
+  </tr>
+  <tr>
+    <td class="gauche">Très grand</td>
+    <td class="gauche">wagon</td>
+    <td class="gauche">7d10+40</td>
+    <td class="gauche">4</td>
+    <td class="gauche">7</td>
+  </tr>
+  <tr CLASS="alt">
+    <td class="gauche">Gigantesque</td>
+    <td class="gauche">catapulte</td>
+    <td class="gauche">10d10+60</td>
+    <td class="gauche">5</td>
+    <td class="gauche">9</td>
+  </tr>
+  <tr>
+    <td class="gauche">Colossal</td>
+    <td class="gauche">navire</td>
+    <td class="gauche">13d10+80</td>
+    <td class="gauche">6</td>
+    <td class="gauche">11</td>
+  </tr>
+</table> </center>
 
 </div></td></tr></table>

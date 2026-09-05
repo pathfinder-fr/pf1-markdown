@@ -8,7 +8,57 @@ LastModified: 2021-10-24 20:05
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Marché noir</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Marché noir#Aconit|↓]] [[Aconit (objet)|Aconit]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Marché noir#Ail|↓]] [[Ail (objet)|Ail]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Marché noir#Belladone|↓]] [[Belladone (objet)|Belladone]]</td><td>2 po</td><td>—</td></tr><tr><td>[[Marché noir#Blanchenuit|↓]] [[Blanchenuit (objet)|Blanchenuit]]</td><td>75 po</td><td>—</td></tr><tr><td>[[Marché noir#Clairécoute|↓]] [[Clairécoute (objet)|Clairécoute]]</td><td>15 po</td><td>—</td></tr><tr><td>[[Marché noir#Écorchefeuille|↓]] [[Écorchefeuille (objet)|Écorchefeuille]]</td><td>20 po</td><td>—</td></tr><tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (halfelin, anguille)]]</td><td>100 po</td><td>19,5 kg</td></tr><tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (labeur éprouvant)]]</td><td>100 po</td><td>100 kg</td></tr><tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (majordome)]]</td><td>50 po</td><td>65 kg</td></tr><tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (spécialisé)]]</td><td>500 po</td><td>80 kg</td></tr><tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (standard)]]</td><td>75 po</td><td>87,5 kg</td></tr><tr><td>[[Marché noir#Gui|↓]] [[Gui (objet)|Gui]]</td><td>—</td><td>—</td></tr><tr><td>[[Marché noir#Houx|↓]] [[Houx (objet)|Houx]]</td><td>—</td><td>—</td></tr><tr><td>[[Marché noir#Pesh|↓]] [[Pesh (objet)|Pesh]]</td><td>20 po</td><td>—</td></tr><tr><td>[[Marché noir#Tabac|↓]] [[Tabac (objet)|Tabac]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Marché noir#Tabac à priser du bachelier|↓]] [[Tabac à priser du bachelier (objet)|Tabac à priser du bachelier]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Marché noir#Tabatière|↓]] [[Tabatière (objet)|Tabatière (en étain ou en bois)]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Marché noir#Tabatière|↓]] [[Tabatière (objet)|Tabatière (en ivoire ou en métal précieux)]]</td><td>300 po</td><td>—</td></tr><tr><td>[[Marché noir#Tabatière|↓]] [[Tabatière (objet)|Tabatière (en os ou en écaille de tortue)]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Marché noir#Thé nocturne|↓]] [[Thé nocturne (objet)|Thé nocturne]]</td><td>1 pa</td><td>—</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Marché noir</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier"><td>[[Marché noir#Aconit|↓]] [[Aconit (objet)|Aconit]]</td><td>5 pa</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Ail|↓]] [[Ail (objet)|Ail]]</td><td>1 pa</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Belladone|↓]] [[Belladone (objet)|Belladone]]</td><td>2 po</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Blanchenuit|↓]] [[Blanchenuit (objet)|Blanchenuit]]</td><td>75 po</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Clairécoute|↓]] [[Clairécoute (objet)|Clairécoute]]</td><td>15 po</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Écorchefeuille|↓]] [[Écorchefeuille (objet)|Écorchefeuille]]</td><td>20 po</td><td>—</td></tr>
+  <tr>
+    <td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (halfelin, anguille)]]</td>
+    <td>100 po</td>
+    <td>19,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (labeur éprouvant)]]</td>
+    <td>100 po</td>
+    <td>100 kg</td>
+  </tr>
+  <tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (majordome)]]</td><td>50 po</td><td>65 kg</td></tr>
+  <tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (spécialisé)]]</td><td>500 po</td><td>80 kg</td></tr>
+  <tr><td>[[Marché noir#Esclave|↓]] [[Esclave (objet)|Esclave (standard)]]</td><td>75 po</td><td>87,5 kg</td></tr>
+  <tr><td>[[Marché noir#Gui|↓]] [[Gui (objet)|Gui]]</td><td>—</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Houx|↓]] [[Houx (objet)|Houx]]</td><td>—</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Pesh|↓]] [[Pesh (objet)|Pesh]]</td><td>20 po</td><td>—</td></tr>
+  <tr><td>[[Marché noir#Tabac|↓]] [[Tabac (objet)|Tabac]]</td><td>1 po</td><td>1 kg</td></tr>
+  <tr>
+    <td>
+      [[Marché noir#Tabac à priser du bachelier|↓]] [[Tabac à priser du bachelier (objet)|Tabac à priser du
+      bachelier]]
+    </td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Marché noir#Tabatière|↓]] [[Tabatière (objet)|Tabatière (en étain ou en bois)]]</td>
+    <td>5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Marché noir#Tabatière|↓]] [[Tabatière (objet)|Tabatière (en ivoire ou en métal précieux)]]</td>
+    <td>300 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Marché noir#Tabatière|↓]] [[Tabatière (objet)|Tabatière (en os ou en écaille de tortue)]]</td>
+    <td>25 po</td>
+    <td>—</td>
+  </tr>
+  <tr><td>[[Marché noir#Thé nocturne|↓]] [[Thé nocturne (objet)|Thé nocturne]]</td><td>1 pa</td><td>—</td></tr>
+</table>
 
 </div>
 

@@ -39,4 +39,23 @@ Voici les options accessibles aux s, d’autres races adaptées peuvent s’en s
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Lancer boomerang]]</td><td><sup>*ISR*</sup></td><td>[[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]]</td><td>Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lancer boomerang]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      [[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type
+      gobelinoïde|gobelinoïde]]
+    </td>
+    <td>
+      Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer
+      la cible originale immédiatement
+    </td>
+  </tr>
+</table>

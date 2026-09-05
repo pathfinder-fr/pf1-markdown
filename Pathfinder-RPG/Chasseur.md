@@ -16,7 +16,307 @@ Categories:
 </div>{s:mca}*Les chasseurs sont des combattants des terres sauvages qui ont tissé des liens étroits avec de fidèles compagnons animaux. Ils ont développé des tactiques leur permettant de se battre aux côtés de leur compagnon en formant un redoutable duo. Ils connaissent une grande variété de sorts naturels et savent utiliser les capacités et les attributs des animaux pour s’améliorer et améliorer leur compagnon.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLECHASSEUR}Le chasseur</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="9" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Chasseur#COMPAGNONANIMAL|Compagnon animal]], [[Chasseur#EMPATHIESAUVAGE|empathie sauvage]], [[Chasseur#ENTRAINEMENTNATUREL|entrainement naturel]], [[Chasseur#IMITATIONANIMALE|imitation animale]], [[Chasseur#ORAISONS|oraisons]]</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Chasseur#COMPAGNONPRECIS|Compagnon précis]], [[Chasseur#PISTAGE|pistage]]</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]], [[Chasseur#TACTIQUEDUCHASSEUR|tactique du chasseur]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Chasseur#LIENEMPATHIQUERENFORCE|Lien empathique renforcé]]</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Chasseur#DEPLACEMENTFACILITE|Déplacement facilité]]</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">2ème [[Chasseur#DEUXIEMEIMITATIONANIMALE|Imitation animale]], [[Chasseur#PISTAGEACCELERE|pistage accéléré]]</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Chasseur#RAPPELDECOMPAGNONANIMAL|Rappel de compagnon animal]]</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Chasseur#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Chasseur#LIENEMPATHIQUE|Lien empathique supérieur]]</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">-</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Chasseur#FAIREUNAVECLAVIESAUVAGE|Faire un avec la vie sauvage]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Chasseur#MAITRECHASSEUR|Maître chasseur]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLECHASSEUR}Le chasseur</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="9" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Chasseur#COMPAGNONANIMAL|Compagnon animal]], [[Chasseur#EMPATHIESAUVAGE|empathie sauvage]],
+      [[Chasseur#ENTRAINEMENTNATUREL|entrainement naturel]], [[Chasseur#IMITATIONANIMALE|imitation animale]],
+      [[Chasseur#ORAISONS|oraisons]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Chasseur#COMPAGNONPRECIS|Compagnon précis]], [[Chasseur#PISTAGE|pistage]]</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Chasseur#DONEQUIPE|Don de travail en équipe]], [[Chasseur#TACTIQUEDUCHASSEUR|tactique du chasseur]]
+    </td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Chasseur#LIENEMPATHIQUERENFORCE|Lien empathique renforcé]]</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Chasseur#DEPLACEMENTFACILITE|Déplacement facilité]]</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      2ème [[Chasseur#DEUXIEMEIMITATIONANIMALE|Imitation animale]], [[Chasseur#PISTAGEACCELERE|pistage accéléré]]
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chasseur#RAPPELDECOMPAGNONANIMAL|Rappel de compagnon animal]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Chasseur#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Chasseur#LIENEMPATHIQUE|Lien empathique supérieur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">-</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Chasseur#FAIREUNAVECLAVIESAUVAGE|Faire un avec la vie sauvage]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Chasseur#DONEQUIPE|Don de travail en équipe]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Chasseur#TOURSUPPLEMENTAIRE|Tour supplémentaire]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Chasseur#MAITRECHASSEUR|Maître chasseur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 {s:ImageDroite|Illustrations/PNJ/Adowyn.jpg|30%}
@@ -44,7 +344,31 @@ Le chasseur est formé au maniement de toutes les armes courantes et de guerre a
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|SORTSDECHASSEURCONNUS}Sorts de chasseur connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre gauche">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|SORTSDECHASSEURCONNUS}Sorts de chasseur connus</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre gauche">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>6</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>11</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr><td>12</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr><td>14</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td><td>-</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td><td>2</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>4</td><td>4</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td><td>4</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>5</td></tr>
+</table>
 
 </div></div>
 #### Sorts

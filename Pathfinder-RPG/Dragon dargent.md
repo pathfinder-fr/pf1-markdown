@@ -56,8 +56,27 @@ de manière honorable.
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr><tr CLASS="premier"><td>Dragonnet</td><td>changement de forme, immunité (acide),   
-souffle paralysant, sous-type [[sous-type froid|froid]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[détection du Mal]]*, marche sur les nuages</td><td>—</td></tr><tr><td>Jeune</td><td>vol gracieux</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[feuille morte]]*, vision malgré le brouillard</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[nappe de brouillard]]*, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura de froid, *[[contrôle des vents]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[contrôle du climat]]*, écailles réfléchissantes</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>*[[inversion de la gravité]]*, vrai courage</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr>
+  <tr CLASS="premier">
+    <td>Dragonnet</td>
+    <td>changement de forme, immunité (acide),   
+souffle paralysant, sous-type [[sous-type froid|froid]]</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>*[[détection du Mal]]*, marche sur les nuages</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>vol gracieux</td><td>1</td></tr>
+  <tr CLASS="alt"><td>Adolescent</td><td>*[[feuille morte]]*, vision malgré le brouillard</td><td>3</td></tr>
+  <tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr>
+  <tr CLASS="alt"><td>Adulte</td><td>*[[nappe de brouillard]]*, [[présence terrifiante]]</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>aura de froid, *[[contrôle des vents]]*</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[contrôle du climat]]*, écailles réfléchissantes</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>*[[inversion de la gravité]]*, vrai courage</td><td>19</td></tr>
+</table>
 
 </center>
 

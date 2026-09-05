@@ -21,7 +21,271 @@ L’antipaladin est une classe modifiée qui utilise et altère de nombreuses fa
 En tant que classe de paladin modifiée, l’antipaladin utilise la Table 2–11 pour déterminer son bonus de base à l’attaque, ses bonus de jets de sauvegarde et ses sorts par jour. Tous ces détails, ainsi que les nouvelles capacités de la classe, se trouvent sur cette table.
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEANTIPALADIN}L'antipaladin</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td CLASS="gauche" ROWSPAN="2">Spécial</td><td CLASS="avecsoustitre" COLSPAN="4">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Antipaladin#AURADUMAL|Aura du mal]], [[Antipaladin#CHATIMENTDUBIEN|châtiment du bien]] 1/jour, [[Antipaladin#DETECTIONDUBIEN|détection du bien]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Antipaladin#RESISTANCEMAUDITE|Résistance maudite]], [[Antipaladin#TOUCHERDECORRUPTION|toucher de la corruption]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Antipaladin#AURADELACHETE|Aura de lâcheté]], [[Antipaladin#CRUAUTE|cruauté]], [[Antipaladin#VECTEURDEMALADIE|vecteur de maladie]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Antipaladin#CANALISATIONDENERGIENEGATIVE|Canalisation d'énergie negative]], [[Antipaladin#CHATIMENTDUBIEN|châtiment du bien]] 2/jour</td><td>0</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Antipaladin#FAVEURDESFIELONS|Faveur des fiélons]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 3/jour</td><td>1</td><td>0</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Antipaladin#AURADEDESESPOIR|Aura de désespoir]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 4/jour</td><td>2</td><td>1</td><td>0</td><td>-</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Antipaladin#AURADEVENGEANCE|Aura de vengeance]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 5/jour</td><td>3</td><td>2</td><td>1</td><td>0</td></tr><tr CLASS="alt"><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Antipaladin#AURADUPECHE|Aura de péché]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 6/jour</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Antipaladin#AURADEDEPRAVATION|Aura de dépravation]]</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 7/jour</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[Antipaladin#CHAMPIONMAUDIT|Champion maudit]]</td><td>4</td><td>4</td><td>3</td><td>3</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEANTIPALADIN}L'antipaladin</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td CLASS="gauche" ROWSPAN="2">Spécial</td>
+    <td CLASS="avecsoustitre" COLSPAN="4">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Antipaladin#AURADUMAL|Aura du mal]], [[Antipaladin#CHATIMENTDUBIEN|châtiment du bien]] 1/jour,
+      [[Antipaladin#DETECTIONDUBIEN|détection du bien]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Antipaladin#RESISTANCEMAUDITE|Résistance maudite]], [[Antipaladin#TOUCHERDECORRUPTION|toucher de la
+      corruption]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Antipaladin#AURADELACHETE|Aura de lâcheté]], [[Antipaladin#CRUAUTE|cruauté]],
+      [[Antipaladin#VECTEURDEMALADIE|vecteur de maladie]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Antipaladin#CANALISATIONDENERGIENEGATIVE|Canalisation d'énergie negative]],
+      [[Antipaladin#CHATIMENTDUBIEN|châtiment du bien]] 2/jour
+    </td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Antipaladin#FAVEURDESFIELONS|Faveur des fiélons]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 3/jour</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Antipaladin#AURADEDESESPOIR|Aura de désespoir]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 4/jour</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Antipaladin#AURADEVENGEANCE|Aura de vengeance]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 5/jour</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Antipaladin#AURADUPECHE|Aura de péché]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 6/jour</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Antipaladin#AURADEDEPRAVATION|Aura de dépravation]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Antipaladin#CRUAUTE|Cruauté]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Antipaladin#CHATIMENTDUBIEN|Châtiment du bien]] 7/jour</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[Antipaladin#CHAMPIONMAUDIT|Champion maudit]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+</table>
 
 
 **Rôle.** Les antipaladins sont les plus dangereux des héros maléfiques. Ils n’accordent aucune importance à la vie des autres et recherchent activement à semer la mort et la destruction au sein des sociétés organisées. Ils ne voyagent généralement qu’en compagnie d’individus qui leur sont soumis, sauf lorsqu’ils s’infiltrent parmi leurs ennemis pour les détruire de l’intérieur.

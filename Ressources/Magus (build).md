@@ -244,4 +244,174 @@ Voici une liste non exhaustive d'objet pour l'équipement d'un magus.
 ### Évolution proposée
 
 
-<table CLASS="tablo autoalt" width="100%"><caption>Exemple d'évolution d'un magus dextérité</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td><td>Arcanes</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Magus|Magus]] 1</td><td>+0</td><td>01</td><td>[[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]</td><td>&nbsp;</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Magus|Magus]] 2</td><td>+1</td><td>02</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Magus|Magus]] 3</td><td>+2</td><td>03</td><td>[[Pathfinder-RPG.Danse du derviche|Danse du derviche]]</td><td>[[Pathfinder-RPG.courte portée (arcane)|Courte portée]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Magus|Magus]] 4</td><td>+3</td><td>04</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Magus|Magus]] 5</td><td>+3</td><td>05</td><td>[[Pathfinder-RPG.Frappe magique|Frappe magique]] ; [[Pathfinder-RPG.Magus#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Sort intense|Métamagie (+1) : Sort intense]]</td><td>&nbsp;</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Magus|Magus]] 6</td><td>+4</td><td>06</td><td>&nbsp;</td><td>[[Pathfinder-RPG.arcanes#MAGIERENFORCEE|Magie renforcée]]</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Magus|Magus]] 7</td><td>+5</td><td>07</td><td>[[Pathfinder-RPG.Arcane supplémentaire|Arcane supplémentaire]] : [++Pathfinder-RPG.arcanes#MELANGEDESSORTS|Mélange des sorts]([[Pathfinder-RPG.Simulacre de vie|Simulacre de vie]] et [[Pathfinder-RPG.Résistance aux énergies destructives|Résistance aux énergies destructives]])</td><td>&nbsp;</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Magus|Magus]] 8</td><td>+6/+1</td><td>08</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Magus|Magus]] 9</td><td>+6/+1</td><td>09</td><td>[[Pathfinder-RPG.Efficacité des sorts accrue|Efficacité des sorts accrue]]</td><td>[[Pathfinder-RPG.coup précis (arcane)|Coup précis]]</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Magus|Magus]] 10</td><td>+7/+2</td><td>10</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Magus|Magus]] 11</td><td>+8/+3</td><td>11</td><td>[[Pathfinder-RPG.Incantation rapide|Métamagie (+4) : Incantation rapide]] ; [[Pathfinder-RPG.Magus#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Extension deffet|Métamagie (+2) : Extension deffet]]</td><td>&nbsp;</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Magus|Magus]] 12</td><td>+9/+4</td><td>12</td><td>&nbsp;</td><td>[[Pathfinder-RPG.optimisation de la magie (arcane)|Optimisation de la magie]]</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Magus|Magus]] 13</td><td>+9/+4</td><td>13</td><td>[[Pathfinder-RPG.Arcane supplémentaire|Arcane supplémentaire]] : [++Pathfinder-RPG.arcanes#MELANGEDESSORTS|Mélange des sorts]([[Pathfinder-RPG.Héroïsme|Héroïsme]] et [[Pathfinder-RPG.Énergie négative|Énergie négative]])</td><td>&nbsp;</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Magus|Magus]] 14</td><td>+10/+5</td><td>14</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Magus|Magus]] 15</td><td>+11/+6/+1</td><td>15</td><td>[[Pathfinder-RPG.Perfection magique|Perfection magique]] : [[Pathfinder-RPG.Décharge électrique|Décharge électrique]]</td><td>[[Pathfinder-RPG.magie accélérée (arcane)|Magie accélérée]]</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Magus|Magus]] 16</td><td>+12/+7/+2</td><td>16</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Magus|Magus]] 17</td><td>+12/+7/+2</td><td>17</td><td>[[Pathfinder-RPG.tableau récapitulatif des dons|Don]] au choix ; [[Pathfinder-RPG.Magus#DONSUPPLEMENTAIRE|Don supplémentaire]] au choix</td><td>&nbsp;</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Magus|Magus]] 18</td><td>+13/+8/+3</td><td>18</td><td>&nbsp;</td><td>[[Pathfinder-RPG.Magus#ARCANE|Arcane]] au choix</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Magus|Magus]] 19</td><td>+14/+9/+4</td><td>19</td><td>[[Pathfinder-RPG.tableau récapitulatif des dons|Don]] au choix</td><td>&nbsp;</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Magus|Magus]] 20</td><td>+15/+10/+5</td><td>20</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>
+<table CLASS="tablo autoalt" width="100%">
+  <caption>Exemple d'évolution d'un magus dextérité</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>Classe</td>
+    <td>BBA</td>
+    <td>NLS</td>
+    <td>Capacités de classe, dons</td>
+    <td>Arcanes</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>01</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 1</td>
+    <td>+0</td>
+    <td>01</td>
+    <td>[[Pathfinder-RPG.Attaque en finesse|Attaque en finesse]]</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr><td>02</td><td>[[Pathfinder-RPG.Magus|Magus]] 2</td><td>+1</td><td>02</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr>
+    <td>03</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 3</td>
+    <td>+2</td>
+    <td>03</td>
+    <td>[[Pathfinder-RPG.Danse du derviche|Danse du derviche]]</td>
+    <td>[[Pathfinder-RPG.courte portée (arcane)|Courte portée]]</td>
+  </tr>
+  <tr><td>04</td><td>[[Pathfinder-RPG.Magus|Magus]] 4</td><td>+3</td><td>04</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr>
+    <td>05</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 5</td>
+    <td>+3</td>
+    <td>05</td>
+    <td>
+      [[Pathfinder-RPG.Frappe magique|Frappe magique]] ; [[Pathfinder-RPG.Magus#DONSUPPLEMENTAIRE|Don
+      supplémentaire]] : [[Pathfinder-RPG.Sort intense|Métamagie (+1) : Sort intense]]
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 6</td>
+    <td>+4</td>
+    <td>06</td>
+    <td>&nbsp;</td>
+    <td>[[Pathfinder-RPG.arcanes#MAGIERENFORCEE|Magie renforcée]]</td>
+  </tr>
+  <tr>
+    <td>07</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 7</td>
+    <td>+5</td>
+    <td>07</td>
+    <td>
+      [[Pathfinder-RPG.Arcane supplémentaire|Arcane supplémentaire]] :
+      [++Pathfinder-RPG.arcanes#MELANGEDESSORTS|Mélange des sorts]([[Pathfinder-RPG.Simulacre de vie|Simulacre de
+      vie]] et [[Pathfinder-RPG.Résistance aux énergies destructives|Résistance aux énergies destructives]])
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr><td>08</td><td>[[Pathfinder-RPG.Magus|Magus]] 8</td><td>+6/+1</td><td>08</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr>
+    <td>09</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 9</td>
+    <td>+6/+1</td>
+    <td>09</td>
+    <td>[[Pathfinder-RPG.Efficacité des sorts accrue|Efficacité des sorts accrue]]</td>
+    <td>[[Pathfinder-RPG.coup précis (arcane)|Coup précis]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 10</td>
+    <td>+7/+2</td>
+    <td>10</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 11</td>
+    <td>+8/+3</td>
+    <td>11</td>
+    <td>
+      [[Pathfinder-RPG.Incantation rapide|Métamagie (+4) : Incantation rapide]] ;
+      [[Pathfinder-RPG.Magus#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Extension deffet|Métamagie
+      (+2) : Extension deffet]]
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 12</td>
+    <td>+9/+4</td>
+    <td>12</td>
+    <td>&nbsp;</td>
+    <td>[[Pathfinder-RPG.optimisation de la magie (arcane)|Optimisation de la magie]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 13</td>
+    <td>+9/+4</td>
+    <td>13</td>
+    <td>
+      [[Pathfinder-RPG.Arcane supplémentaire|Arcane supplémentaire]] :
+      [++Pathfinder-RPG.arcanes#MELANGEDESSORTS|Mélange des sorts]([[Pathfinder-RPG.Héroïsme|Héroïsme]] et
+      [[Pathfinder-RPG.Énergie négative|Énergie négative]])
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 14</td>
+    <td>+10/+5</td>
+    <td>14</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 15</td>
+    <td>+11/+6/+1</td>
+    <td>15</td>
+    <td>
+      [[Pathfinder-RPG.Perfection magique|Perfection magique]] : [[Pathfinder-RPG.Décharge électrique|Décharge
+      électrique]]
+    </td>
+    <td>[[Pathfinder-RPG.magie accélérée (arcane)|Magie accélérée]]</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 16</td>
+    <td>+12/+7/+2</td>
+    <td>16</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 17</td>
+    <td>+12/+7/+2</td>
+    <td>17</td>
+    <td>
+      [[Pathfinder-RPG.tableau récapitulatif des dons|Don]] au choix ; [[Pathfinder-RPG.Magus#DONSUPPLEMENTAIRE|Don
+      supplémentaire]] au choix
+    </td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 18</td>
+    <td>+13/+8/+3</td>
+    <td>18</td>
+    <td>&nbsp;</td>
+    <td>[[Pathfinder-RPG.Magus#ARCANE|Arcane]] au choix</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 19</td>
+    <td>+14/+9/+4</td>
+    <td>19</td>
+    <td>[[Pathfinder-RPG.tableau récapitulatif des dons|Don]] au choix</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>[[Pathfinder-RPG.Magus|Magus]] 20</td>
+    <td>+15/+10/+5</td>
+    <td>20</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>

@@ -51,6 +51,13 @@ La table qui suit reprend les variantes les plus communes (après les deux qui s
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">Solifuge mangeur de chien</td><td>1/2</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td class="gauche">Solifuge "terreur jaune"</td><td>8</td><td>G</td><td>10d8</td></tr><tr CLASS><td class="gauche">Solifuge à bouche tranchante</td><td>11</td><td>TG</td><td>13d8</td></tr><tr CLASS="alt"><td class="gauche">Solifuge banshie</td><td>15</td><td>Gig</td><td>16d8</td></tr><tr CLASS><td class="gauche">Solifuge "tremble-dunes"</td><td>18</td><td>Col</td><td>20d8</td></tr></table></center>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td class="gauche">Solifuge mangeur de chien</td><td>1/2</td><td>TP</td><td>1d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Solifuge "terreur jaune"</td><td>8</td><td>G</td><td>10d8</td></tr>
+  <tr CLASS><td class="gauche">Solifuge à bouche tranchante</td><td>11</td><td>TG</td><td>13d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Solifuge banshie</td><td>15</td><td>Gig</td><td>16d8</td></tr>
+  <tr CLASS><td class="gauche">Solifuge "tremble-dunes"</td><td>18</td><td>Col</td><td>20d8</td></tr>
+</table></center>
 
 </div></td></tr></table>

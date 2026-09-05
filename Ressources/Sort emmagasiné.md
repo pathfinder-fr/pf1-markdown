@@ -22,8 +22,18 @@ Un sort emmagasiné nécessite au minimum un emplacement de sort supérieur de d
 
 <center>
 
-<table CLASS="tablo"><caption>Retard maximal d'un sort emmagasiné      </caption><tr CLASS="titre"><td>Niveau de   
+<table CLASS="tablo">
+  <caption>Retard maximal d'un sort emmagasiné      </caption>
+  <tr CLASS="titre"><td>Niveau de   
 l'emplacement   
 utilisé</td><td>Retard   
 maximal   
-du sort</td></tr><tr CLASS="premier"><td>Niveau +2</td><td>3 rounds</td></tr><tr CLASS="alt"><td>Niveau +3</td><td>5 rounds</td></tr><tr><td>Niveau +4</td><td>7 rounds</td></tr><tr CLASS="alt"><td>Niveau +5</td><td>9 rounds</td></tr><tr><td>Niveau +6</td><td>11 rounds</td></tr><tr CLASS="alt"><td>Niveau +7</td><td>13 rounds</td></tr><tr><td>Niveau +8</td><td>15 rounds</td></tr></table>
+du sort</td></tr>
+  <tr CLASS="premier"><td>Niveau +2</td><td>3 rounds</td></tr>
+  <tr CLASS="alt"><td>Niveau +3</td><td>5 rounds</td></tr>
+  <tr><td>Niveau +4</td><td>7 rounds</td></tr>
+  <tr CLASS="alt"><td>Niveau +5</td><td>9 rounds</td></tr>
+  <tr><td>Niveau +6</td><td>11 rounds</td></tr>
+  <tr CLASS="alt"><td>Niveau +7</td><td>13 rounds</td></tr>
+  <tr><td>Niveau +8</td><td>15 rounds</td></tr>
+</table>

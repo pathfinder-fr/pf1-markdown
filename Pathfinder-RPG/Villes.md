@@ -57,7 +57,50 @@ un quartier. Cela vous permettra d’avoir des quartiers aux caractéristiques d
 
 <center>
 
-<table CLASS="tablo" WIDTH="80%"><caption>{s:Reference|Les profils des communautés}Les profils des communautés</caption><tr CLASS="titre"><td>Type</td><td>Modificateur</td><td>Avantages</td><td>Danger</td><td>Valeur de base</td><td>Limite d’achat</td><td>Incantations</td></tr><tr CLASS="premier"><td>Lieu‑dit</td><td>-4</td><td>1</td><td>-10</td><td>50 po</td><td>500 po</td><td>1</td></tr><tr CLASS="alt"><td>Hameau</td><td>-2</td><td>1</td><td>-5</td><td>200 po</td><td>1 000 po</td><td>2</td></tr><tr><td>Village</td><td>-1</td><td>2</td><td>0</td><td>500 po</td><td>2 500 po</td><td>3</td></tr><tr CLASS="alt"><td>Petite bourgade</td><td>0</td><td>2</td><td>0</td><td>1 000 po</td><td>5 000 po</td><td>4</td></tr><tr><td>Grosse bourgade</td><td>0</td><td>3</td><td>5</td><td>2 000 po</td><td>10 000 po</td><td>5</td></tr><tr CLASS="alt"><td>Petite ville</td><td>+1</td><td>4</td><td>5</td><td>4 000 po</td><td>25 000 po</td><td>6</td></tr><tr><td>Grande ville</td><td>+2</td><td>5</td><td>10</td><td>8 000 po</td><td>50 000 po</td><td>7</td></tr><tr CLASS="alt"><td>Métropole</td><td>+4</td><td>6</td><td>10</td><td>16 000 po</td><td>100 000 po</td><td>8</td></tr></table>
+<table CLASS="tablo" WIDTH="80%">
+  <caption>{s:Reference|Les profils des communautés}Les profils des communautés</caption>
+  <tr CLASS="titre">
+    <td>Type</td>
+    <td>Modificateur</td>
+    <td>Avantages</td>
+    <td>Danger</td>
+    <td>Valeur de base</td>
+    <td>Limite d’achat</td>
+    <td>Incantations</td>
+  </tr>
+  <tr CLASS="premier"><td>Lieu‑dit</td><td>-4</td><td>1</td><td>-10</td><td>50 po</td><td>500 po</td><td>1</td></tr>
+  <tr CLASS="alt"><td>Hameau</td><td>-2</td><td>1</td><td>-5</td><td>200 po</td><td>1 000 po</td><td>2</td></tr>
+  <tr><td>Village</td><td>-1</td><td>2</td><td>0</td><td>500 po</td><td>2 500 po</td><td>3</td></tr>
+  <tr CLASS="alt">
+    <td>Petite bourgade</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td>1 000 po</td>
+    <td>5 000 po</td>
+    <td>4</td>
+  </tr>
+  <tr><td>Grosse bourgade</td><td>0</td><td>3</td><td>5</td><td>2 000 po</td><td>10 000 po</td><td>5</td></tr>
+  <tr CLASS="alt">
+    <td>Petite ville</td>
+    <td>+1</td>
+    <td>4</td>
+    <td>5</td>
+    <td>4 000 po</td>
+    <td>25 000 po</td>
+    <td>6</td>
+  </tr>
+  <tr><td>Grande ville</td><td>+2</td><td>5</td><td>10</td><td>8 000 po</td><td>50 000 po</td><td>7</td></tr>
+  <tr CLASS="alt">
+    <td>Métropole</td>
+    <td>+4</td>
+    <td>6</td>
+    <td>10</td>
+    <td>16 000 po</td>
+    <td>100 000 po</td>
+    <td>8</td>
+  </tr>
+</table>
 
 </center>
 #### Le profil d’une communauté
@@ -65,7 +108,26 @@ un quartier. Cela vous permettra d’avoir des quartiers aux caractéristiques d
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 <center>
 
-<table CLASS="tablo"><caption>{s:Reference|Fourchette de population des communautés}Fourchette de population des communautés</caption><tr CLASS="alt"><td COLSPAN="2">C’est au MJ de décider de la population de sa ville mais il peut utiliser le type de communauté pour l’aider à déterminer le nombre de gens qui y vivent. Comme le nombre précis d’habitants n’a pas d’impact sur le jeu, il reste un ajout cosmétique ; libre à vous d’ajuster les valeurs proposées pour qu’elles correspondent au mieux à votre campagne.</td></tr><tr CLASS="titre"><td>Type de communauté</td><td>Fourchette de population</td></tr><tr CLASS="premier"><td>Lieu‑dit</td><td>moins de 20</td></tr><tr CLASS="alt"><td>Hameau</td><td>21-60</td></tr><tr><td>Village</td><td>61-200</td></tr><tr CLASS="alt"><td>Petite bourgade</td><td>201-2 000</td></tr><tr><td>Grosse bourgade</td><td>2 001-5 000</td></tr><tr CLASS="alt"><td>Petite ville</td><td>5 001-10 000</td></tr><tr><td>Grande ville</td><td>10 001-25 000</td></tr><tr CLASS="alt"><td>Métropole</td><td>plus de 25 000</td></tr></table>
+<table CLASS="tablo">
+  <caption>{s:Reference|Fourchette de population des communautés}Fourchette de population des communautés</caption>
+  <tr CLASS="alt">
+    <td COLSPAN="2">
+      C’est au MJ de décider de la population de sa ville mais il peut utiliser le type de communauté pour l’aider à
+      déterminer le nombre de gens qui y vivent. Comme le nombre précis d’habitants n’a pas d’impact sur le jeu, il
+      reste un ajout cosmétique ; libre à vous d’ajuster les valeurs proposées pour qu’elles correspondent au mieux
+      à votre campagne.
+    </td>
+  </tr>
+  <tr CLASS="titre"><td>Type de communauté</td><td>Fourchette de population</td></tr>
+  <tr CLASS="premier"><td>Lieu‑dit</td><td>moins de 20</td></tr>
+  <tr CLASS="alt"><td>Hameau</td><td>21-60</td></tr>
+  <tr><td>Village</td><td>61-200</td></tr>
+  <tr CLASS="alt"><td>Petite bourgade</td><td>201-2 000</td></tr>
+  <tr><td>Grosse bourgade</td><td>2 001-5 000</td></tr>
+  <tr CLASS="alt"><td>Petite ville</td><td>5 001-10 000</td></tr>
+  <tr><td>Grande ville</td><td>10 001-25 000</td></tr>
+  <tr CLASS="alt"><td>Métropole</td><td>plus de 25 000</td></tr>
+</table>
 
 </center></div></div>Voici comment s’organise le profil d’une ville.
 - **Nom.** Le nom de la communauté est présenté en premier.
@@ -91,7 +153,22 @@ La vie dans une communauté est représentée par six modificateurs qui influent
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 <center>
 
-<table CLASS="tablo"><caption>À la garde ! À la garde !</caption><tr CLASS="alt"><td>Tôt ou tard, vos [[PJ]] finiront inévitablement par appeler la garde de la ville ou par provoquer une situation où les habitants s’en chargeront. Pour cela, il faut faire un test de [[Diplomatie]] avec le modificateur de loi de la ville. Il suffit de réussir un test [[DD]] 5 pour appeler la garde. En cas de succès, les gardes arrivent sur les lieux en 1d6 minutes. Pour chaque tranche de 5 points au‑dessus du DD (arrondi à l’inférieur), réduisez le délai d’arrivée de 1 minute. Si le délai tombe en‑dessous d’une minute, les diminutions suivantes sont appliquées par tranche de 1 round. Par exemple, Ezren se fait agresser par des malandrins et appelle la garde. Il fait 23 au test de Diplomatie et le MJ fait 2 au d6 pour déterminer le temps que les gardes mettent à arriver. Comme Ezren a fait trois fois plus que le score nécessaire, les 2 minutes d’attente se réduisent à 8 rounds.</td></tr></table>
+<table CLASS="tablo">
+  <caption>À la garde ! À la garde !</caption>
+  <tr CLASS="alt">
+    <td>
+      Tôt ou tard, vos [[PJ]] finiront inévitablement par appeler la garde de la ville ou par provoquer une
+      situation où les habitants s’en chargeront. Pour cela, il faut faire un test de [[Diplomatie]] avec le
+      modificateur de loi de la ville. Il suffit de réussir un test [[DD]] 5 pour appeler la garde. En cas de
+      succès, les gardes arrivent sur les lieux en 1d6 minutes. Pour chaque tranche de 5 points au‑dessus du DD
+      (arrondi à l’inférieur), réduisez le délai d’arrivée de 1 minute. Si le délai tombe en‑dessous d’une minute,
+      les diminutions suivantes sont appliquées par tranche de 1 round. Par exemple, Ezren se fait agresser par des
+      malandrins et appelle la garde. Il fait 23 au test de Diplomatie et le MJ fait 2 au d6 pour déterminer le
+      temps que les gardes mettent à arriver. Comme Ezren a fait trois fois plus que le score nécessaire, les 2
+      minutes d’attente se réduisent à 8 rounds.
+    </td>
+  </tr>
+</table>
 
 </center></div></div>
 - **Les lois.** Les lois et édits mesurent le degré de rigidité d’une communauté. Une ville qui possède un faible modificateur de loi n’est pas forcément infestée par le crime, cela indique juste qu’elle n’a pas besoin d’une grosse protection car les crimes sont rares. Un modificateur de loi important indique que les gardes de la communauté sont particulièrement vigilants, alertes et bien organisés. Plus un village est fortement soumis à ses lois, plus ses habitants se montreront hésitants à céder aux démonstrations de force. Le modificateur de loi de la ville s’applique aux tests d’Intimidation destinés à obliger un adversaire à réagir de façon amicale, aux tests de Diplomatie contre les fonctionnaires du gouvernement et aux tests de Diplomatie pour appeler la garde de la ville (voir l’encart).

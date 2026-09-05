@@ -20,7 +20,18 @@ Il y a de nombreuses façons de se perdre en pleine nature. Suivre une route, un
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Terrain</td><td>DD du test de Survie</td></tr><tr CLASS="premier"><td>Désert ou plaine</td><td>14</td></tr><tr CLASS="alt"><td>Environnement urbain, ruines, donjon</td><td>8</td></tr><tr><td>Forêt</td><td>16</td></tr><tr CLASS="alt"><td>Lande ou colline</td><td>10</td></tr><tr><td>Montagne</td><td>12</td></tr><tr CLASS="alt"><td>Pleine mer</td><td>18</td></tr><tr CLASS="titre"><td>Situation</td><td>Modificateur au DD</td></tr><tr CLASS="premier"><td>Outils de navigation appropriés (carte, sextant)</td><td>+4</td></tr><tr CLASS="alt"><td>Mauvaise visibilité</td><td>-4</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Terrain</td><td>DD du test de Survie</td></tr>
+  <tr CLASS="premier"><td>Désert ou plaine</td><td>14</td></tr>
+  <tr CLASS="alt"><td>Environnement urbain, ruines, donjon</td><td>8</td></tr>
+  <tr><td>Forêt</td><td>16</td></tr>
+  <tr CLASS="alt"><td>Lande ou colline</td><td>10</td></tr>
+  <tr><td>Montagne</td><td>12</td></tr>
+  <tr CLASS="alt"><td>Pleine mer</td><td>18</td></tr>
+  <tr CLASS="titre"><td>Situation</td><td>Modificateur au DD</td></tr>
+  <tr CLASS="premier"><td>Outils de navigation appropriés (carte, sextant)</td><td>+4</td></tr>
+  <tr CLASS="alt"><td>Mauvaise visibilité</td><td>-4</td></tr>
+</table>
 
 </div></div>**Chances de se perdre.** Si les personnages risquent de s’égarer, le personnage de tête doit faire un test de [[Survie]]. En cas d’échec, le groupe est bel et bien perdu. Le [[DD]] de ce test dépend du terrain, des conditions de visibilité et de la présence éventuelle d’une carte. Reportez-vous à la table ci-dessous et utilisez le [[DD]] applicable le plus élevé.
 
@@ -44,7 +55,14 @@ La table ci-dessous indique la probabilité que chaque case contienne un éléme
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td ROWSPAN="2">&emsp;</td><td COLSPAN="3" CLASS="avecsoustitre">Catégories de forêt</td></tr><tr CLASS="soustitre"><td>Clairsemée</td><td>Intermédiaire</td><td>Dense</td></tr><tr CLASS="premier"><td>Arbres normaux</td><td>50%</td><td>70%</td><td>80%</td></tr><tr CLASS="alt"><td>Arbres massifs</td><td>—</td><td>10%</td><td>20%</td></tr><tr><td>Broussailles légères</td><td>50%</td><td>70%</td><td>50%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>—</td><td>20%</td><td>50%</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td ROWSPAN="2">&emsp;</td><td COLSPAN="3" CLASS="avecsoustitre">Catégories de forêt</td></tr>
+  <tr CLASS="soustitre"><td>Clairsemée</td><td>Intermédiaire</td><td>Dense</td></tr>
+  <tr CLASS="premier"><td>Arbres normaux</td><td>50%</td><td>70%</td><td>80%</td></tr>
+  <tr CLASS="alt"><td>Arbres massifs</td><td>—</td><td>10%</td><td>20%</td></tr>
+  <tr><td>Broussailles légères</td><td>50%</td><td>70%</td><td>50%</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>—</td><td>20%</td><td>50%</td></tr>
+</table>
 
 </div></div>
 **Arbres.** Les arbres constituent les éléments principaux d’une forêt. Une créature qui se trouve dans la même case qu’un arbre bénéficie d’un bonus de +2 à la [[CA|classe d’armure]] et d’un bonus de +1 aux [[jet de sauvegarde|jets de Réflexes]] (ces bonus ne sont pas cumulables avec d’autres bonus d’abri). En dehors de cela, la présence d’un arbre n’affecte pas l’espace de combat d’une créature car on part du principe que celle-ci tire le meilleur parti possible de cet arbre. Le tronc a une [[CA]] de 4, une solidité de 5 et 150 pv. Un test d’[[Escalade]] [[DD]] 15 permet d’y grimper.
@@ -87,7 +105,13 @@ Il existe deux types de marécages : les landes sèches et les marais croupis. T
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Catégories de marais</td><td>Landes</td><td>Marais</td></tr><tr CLASS="premier"><td>Tourbières peu profondes</td><td>20%</td><td>40%</td></tr><tr CLASS="alt"><td>Tourbières profondes</td><td>5%</td><td>20%</td></tr><tr><td>Broussailles légères</td><td>30%</td><td>20%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>10%</td><td>20%</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Catégories de marais</td><td>Landes</td><td>Marais</td></tr>
+  <tr CLASS="premier"><td>Tourbières peu profondes</td><td>20%</td><td>40%</td></tr>
+  <tr CLASS="alt"><td>Tourbières profondes</td><td>5%</td><td>20%</td></tr>
+  <tr><td>Broussailles légères</td><td>30%</td><td>20%</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>10%</td><td>20%</td></tr>
+</table>
 
 </div></div>
 **Tourbières.** Si une case fait partie d’une tourbière peu profonde, elle contient trente centimètres de boue ou d’eau stagnante. Pour y entrer, il faut dépenser 2 cases de déplacement et le [[DD]] des tests d’[[Acrobaties]] augmente de 2 points.
@@ -124,7 +148,13 @@ Les collines existent dans la plupart des types de terrains, mais il leur arrive
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Catégories de colline</td><td>Coteaux</td><td>Colline accidentée</td></tr><tr CLASS="premier"><td>Pente douce</td><td>75%</td><td>40%</td></tr><tr CLASS="alt"><td>Pente raide</td><td>20%</td><td>50%</td></tr><tr><td>Broussailles légères</td><td>5%</td><td>10%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>15%</td><td>15%</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Catégories de colline</td><td>Coteaux</td><td>Colline accidentée</td></tr>
+  <tr CLASS="premier"><td>Pente douce</td><td>75%</td><td>40%</td></tr>
+  <tr CLASS="alt"><td>Pente raide</td><td>20%</td><td>50%</td></tr>
+  <tr><td>Broussailles légères</td><td>5%</td><td>10%</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>15%</td><td>15%</td></tr>
+</table>
 
 </div/></div>
 **Pente douce.** Cette pente n’est pas assez raide pour affecter les déplacements, mais les personnages situés en amont bénéficient d’un bonus de +1 aux jets d’attaque au corps à corps.
@@ -149,7 +179,13 @@ Les montagnes présentent un élément important, la paroi rocheuse, qui appara�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Catégories de montagne</td><td>Prairie alpine</td><td>Accidentée</td><td>Haute</td></tr><tr CLASS="premier"><td>Pente douce</td><td>50%</td><td>25%</td><td>15%</td></tr><tr CLASS="alt"><td>Pente raide</td><td>40%</td><td>55%</td><td>55%</td></tr><tr><td>À-pic</td><td>10%</td><td>15%</td><td>20%</td></tr><tr CLASS="alt"><td>Gouffre</td><td>—</td><td>5%</td><td>10%</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Catégories de montagne</td><td>Prairie alpine</td><td>Accidentée</td><td>Haute</td></tr>
+  <tr CLASS="premier"><td>Pente douce</td><td>50%</td><td>25%</td><td>15%</td></tr>
+  <tr CLASS="alt"><td>Pente raide</td><td>40%</td><td>55%</td><td>55%</td></tr>
+  <tr><td>À-pic</td><td>10%</td><td>15%</td><td>20%</td></tr>
+  <tr CLASS="alt"><td>Gouffre</td><td>—</td><td>5%</td><td>10%</td></tr>
+</table>
 
 </div></div>
 **Pentes douces et raides.** Elles fonctionnent de la même manière que celles décrites dans la section réservée aux [[Aventures en extérieur#Collines_7|collines]].
@@ -207,7 +243,14 @@ La table ci-dessous indique les éléments que l’on trouve dans chacune des tr
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Catégories de désert</td><td>Toundra</td><td>Rocailleux</td><td>Sable</td></tr><tr CLASS="premier"><td>Broussailles légères</td><td>15%</td><td>5%</td><td>5%</td></tr><tr CLASS="alt"><td>Couche de glace</td><td>25%</td><td>—</td><td>—</td></tr><tr><td>Décombres</td><td>5%</td><td>30%</td><td>10%</td></tr><tr CLASS="alt"><td>Dunes de sable</td><td>—</td><td>30%</td><td>5%</td></tr><tr><td>Gouffre</td><td>—</td><td>—</td><td>50%</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Catégories de désert</td><td>Toundra</td><td>Rocailleux</td><td>Sable</td></tr>
+  <tr CLASS="premier"><td>Broussailles légères</td><td>15%</td><td>5%</td><td>5%</td></tr>
+  <tr CLASS="alt"><td>Couche de glace</td><td>25%</td><td>—</td><td>—</td></tr>
+  <tr><td>Décombres</td><td>5%</td><td>30%</td><td>10%</td></tr>
+  <tr CLASS="alt"><td>Dunes de sable</td><td>—</td><td>30%</td><td>5%</td></tr>
+  <tr><td>Gouffre</td><td>—</td><td>—</td><td>50%</td></tr>
+</table>
 
 </div></div>
 **Broussailles légères.** Elles sont constituées d’arbustes rabougris et de cactus, mais elles fonctionnent sur le même principe que dans les autres milieux naturels.
@@ -238,7 +281,14 @@ Les éléments suivants ne peuvent pas apparaître dans une même case.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre"><tr CLASS="titre"><td>Catégories de plaines</td><td>Ferme</td><td>Pré</td><td>Champ de bataille</td></tr><tr CLASS="premier"><td>Broussailles légères</td><td>40 %</td><td>20 %</td><td>-</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>-</td><td>10 %</td><td>-</td></tr><tr><td>Décombres</td><td>-</td><td>-</td><td>5 %</td></tr><tr CLASS="alt"><td>Tranchées</td><td>5 %</td><td>-</td><td>5 %</td></tr><tr><td>Bermes</td><td>-</td><td>-</td><td>5 %</td></tr></table>
+<table CLASS="tablo centre">
+  <tr CLASS="titre"><td>Catégories de plaines</td><td>Ferme</td><td>Pré</td><td>Champ de bataille</td></tr>
+  <tr CLASS="premier"><td>Broussailles légères</td><td>40 %</td><td>20 %</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>-</td><td>10 %</td><td>-</td></tr>
+  <tr><td>Décombres</td><td>-</td><td>-</td><td>5 %</td></tr>
+  <tr CLASS="alt"><td>Tranchées</td><td>5 %</td><td>-</td><td>5 %</td></tr>
+  <tr><td>Bermes</td><td>-</td><td>-</td><td>5 %</td></tr>
+</table>
 
 </div></div>
 **Broussailles.** Que ce soit des cultures ou une simple végétation, les hautes herbes des plaines fonctionnent de la même manière que les broussailles légères des forêts. Les buissons les plus touffus forment des broussailles épaisses dans les prés.

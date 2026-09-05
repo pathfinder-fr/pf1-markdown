@@ -30,7 +30,36 @@ Edit de rectulo : pareil
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Propriétés spéciales d'armure (MCA)</caption><tr CLASS="titre"><td>Propriété spéciale d’armure +1</td><td>Prix de base <sup>[[Temp objetsmagiques armures MCA#NOTE1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques armures MCA#Impondérable|Impondérable]]</td><td>+4 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Amorphe|Amorphe]]</td><td>+4 500 po</td></tr><tr><td>[[Temp objetsmagiques armures MCA#Reposante|Reposante]]</td><td>+4 500 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Apaisante|Apaisante]]</td><td>Bonus +1</td></tr><tr><td>[[Temp objetsmagiques armures MCA#De sauvegarde|De sauvegarde]]</td><td>Bonus +1</td></tr><tr CLASS="titre"><td>Propriété spéciale d’armure +2</td><td>Prix de base  <sup>[[#NOTE1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques armures MCA#De rancune|De rancune]]</td><td>+7 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Sans trace|Sans trace]]</td><td>+7 500 po</td></tr><tr><td>[[Temp objetsmagiques armures MCA#Vibrante|Vibrante]]<sup>[[#NOTE2|2]]</sup></td><td>Bonus +2</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#D'esquive des sorts|D’esquive des sorts]]</td><td>Bonus +2</td></tr><tr CLASS="titre"><td>Propriété spéciale d’armure +3</td><td>Prix de base  <sup>[[#NOTE1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques armures MCA#De perception|De perception]]</td><td>Bonus +3</td></tr><tr CLASS="note"><td COLSPAN=5>{s:Reference|NOTE1} *(1) Ajoutez le bonus d’enchantement de l’armure pour déterminer le prix total.*</td></tr><tr CLASS="note"><td COLSPAN=5>{s:Reference|NOTE2} *(2)Cette propriété spéciale peut également s’appliquer aux boucliers.*</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Propriétés spéciales d'armure (MCA)</caption>
+  <tr CLASS="titre">
+    <td>Propriété spéciale d’armure +1</td>
+    <td>Prix de base <sup>[[Temp objetsmagiques armures MCA#NOTE1|1]]</sup></td>
+  </tr>
+  <tr CLASS="premier"><td>[[Temp objetsmagiques armures MCA#Impondérable|Impondérable]]</td><td>+4 000 po</td></tr>
+  <tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Amorphe|Amorphe]]</td><td>+4 500 po</td></tr>
+  <tr><td>[[Temp objetsmagiques armures MCA#Reposante|Reposante]]</td><td>+4 500 po</td></tr>
+  <tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Apaisante|Apaisante]]</td><td>Bonus +1</td></tr>
+  <tr><td>[[Temp objetsmagiques armures MCA#De sauvegarde|De sauvegarde]]</td><td>Bonus +1</td></tr>
+  <tr CLASS="titre"><td>Propriété spéciale d’armure +2</td><td>Prix de base  <sup>[[#NOTE1|1]]</sup></td></tr>
+  <tr CLASS="premier"><td>[[Temp objetsmagiques armures MCA#De rancune|De rancune]]</td><td>+7 000 po</td></tr>
+  <tr CLASS="alt"><td>[[Temp objetsmagiques armures MCA#Sans trace|Sans trace]]</td><td>+7 500 po</td></tr>
+  <tr><td>[[Temp objetsmagiques armures MCA#Vibrante|Vibrante]]<sup>[[#NOTE2|2]]</sup></td><td>Bonus +2</td></tr>
+  <tr CLASS="alt">
+    <td>[[Temp objetsmagiques armures MCA#D'esquive des sorts|D’esquive des sorts]]</td>
+    <td>Bonus +2</td>
+  </tr>
+  <tr CLASS="titre"><td>Propriété spéciale d’armure +3</td><td>Prix de base  <sup>[[#NOTE1|1]]</sup></td></tr>
+  <tr CLASS="premier"><td>[[Temp objetsmagiques armures MCA#De perception|De perception]]</td><td>Bonus +3</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN=5>
+      {s:Reference|NOTE1} *(1) Ajoutez le bonus d’enchantement de l’armure pour déterminer le prix total.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN=5>{s:Reference|NOTE2} *(2)Cette propriété spéciale peut également s’appliquer aux boucliers.*</td>
+  </tr>
+</table>
 
 
 </center>
@@ -221,6 +250,17 @@ réussir un jet de [[Vigueur]] DD 16 pour ne pas être hébété pendant
 
 <center>
 
-<table CLASS="tablo col1centre"><caption>Armures et boucliers spéciaux | MJCA</caption><tr CLASS="titre"><td>Armure intermédiaire mineure</td><td>Prix</td></tr><tr CLASS="premier alt"><td>[[Bouclier griffu]]</td><td>8 158 po</td></tr><tr><td>[[Armure du traqueur]]</td><td>8 575 po</td></tr><tr CLASS="titre alt"><td>Armure intermédiaire supérieure</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Peau de pistage infatigable]]</td><td>11 165 po</td></tr><tr CLASS="titre alt"><td>Grande armure mineure</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Haubert du héros]]</td><td>16 600 po</td></tr><tr CLASS="titre alt"><td>Grande armure supérieure</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Harnois du cadavre]]</td><td>35 650 po</td></tr></table>
+<table CLASS="tablo col1centre">
+  <caption>Armures et boucliers spéciaux | MJCA</caption>
+  <tr CLASS="titre"><td>Armure intermédiaire mineure</td><td>Prix</td></tr>
+  <tr CLASS="premier alt"><td>[[Bouclier griffu]]</td><td>8 158 po</td></tr>
+  <tr><td>[[Armure du traqueur]]</td><td>8 575 po</td></tr>
+  <tr CLASS="titre alt"><td>Armure intermédiaire supérieure</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Peau de pistage infatigable]]</td><td>11 165 po</td></tr>
+  <tr CLASS="titre alt"><td>Grande armure mineure</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Haubert du héros]]</td><td>16 600 po</td></tr>
+  <tr CLASS="titre alt"><td>Grande armure supérieure</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Harnois du cadavre]]</td><td>35 650 po</td></tr>
+</table>
 
 </center>

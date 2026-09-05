@@ -41,7 +41,23 @@ Voici les options accessibles aux lashuntas, d’autres races adaptées peuvent 
 
 #### Dons
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Connexion mentale alien]]</td><td><sup>*ISR*</sup></td><td>[[Androïde (race)|Androïde]], [[Kasatha (race)|kasatha]], [[Lashunta (race)|lashunta]], ou [[Triaxien (race)|triaxien]]</td><td>+4 aux jets de sauvegarde contre les effets mentaux et les scrutations</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">Dons</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Connexion mentale alien]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      [[Androïde (race)|Androïde]], [[Kasatha (race)|kasatha]], [[Lashunta (race)|lashunta]], ou [[Triaxien
+      (race)|triaxien]]
+    </td>
+    <td>+4 aux jets de sauvegarde contre les effets mentaux et les scrutations</td>
+  </tr>
+</table>
 
 
 <table width="100%"><tr><td width="49%">

@@ -31,4 +31,35 @@ Le personnage étudie tout ce qui touche à la magie et perçoit une certaine pu
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Magie</td><td>Sous-domaine du Divin</td><td>Sous-domaine du Profane</td></tr><tr CLASS="premier"><td>1er</td><td>*[[identification]]*</td><td>*idem*</td><td>*[[aura magique]]*</td></tr><tr><td>2e</td><td>*[[bouche magique]]*</td><td>*[[bénédiction de leau|bénédiction de l'eau]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[dissipation de la magie]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[transfert de sorts]]*</td><td>*idem*</td><td>*[[œil du mage]]*</td></tr><tr><td>5e</td><td>*[[sort résistance à la magie|résistance à la magie]]*</td><td>*[[purification]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[zone dantimagie|zone d’antimagie]]*</td><td>*idem*</td><td>*[[analyse denchantement|analyse d'enchantement]]*</td></tr><tr><td>7e</td><td>*[[renvoi des sorts]]*</td><td>*[[résurrection]]*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[protection contre les sorts]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[disjonction]]*</td><td>*[[miracle]]*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Magie</td>
+    <td>Sous-domaine du Divin</td>
+    <td>Sous-domaine du Profane</td>
+  </tr>
+  <tr CLASS="premier"><td>1er</td><td>*[[identification]]*</td><td>*idem*</td><td>*[[aura magique]]*</td></tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[bouche magique]]*</td>
+    <td>*[[bénédiction de leau|bénédiction de l'eau]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>3e</td><td>*[[dissipation de la magie]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>4e</td><td>*[[transfert de sorts]]*</td><td>*idem*</td><td>*[[œil du mage]]*</td></tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[sort résistance à la magie|résistance à la magie]]*</td>
+    <td>*[[purification]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[zone dantimagie|zone d’antimagie]]*</td>
+    <td>*idem*</td>
+    <td>*[[analyse denchantement|analyse d'enchantement]]*</td>
+  </tr>
+  <tr><td>7e</td><td>*[[renvoi des sorts]]*</td><td>*[[résurrection]]*</td><td>*idem*</td></tr>
+  <tr><td>8e</td><td>*[[protection contre les sorts]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>9e</td><td>*[[disjonction]]*</td><td>*[[miracle]]*</td><td>*idem*</td></tr>
+</table>

@@ -95,7 +95,50 @@ Ces dons sont accessibles aux hommes-félins :
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Chat noir]]</td><td><sup>MR</sup></td><td>[[homme-félin (race)|Homme-félin]]</td><td>une fois par jour, la créature qui touche l'homme félin doit refaire son attaque avec une pénalité</td></tr><tr CLASS="premier"><td>[[Frappe leste]]</td><td><sup>MR</sup></td><td>[[homme-félin (race)|Homme-félin]], [[Dextérité|Dex]] 13, [[BBA]]+1, trait racial sprinter</td><td>pas de malus de -2 à la CA avec les dons [[Enchaînement]] et [[Fente]] ou pendant une charge</td></tr><tr><td>&emsp;[[Bond griffu]]</td><td><sup>MR</sup></td><td>[[homme-félin (race)|Homme-félin]], [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Frappe leste]], [[BBA]]+10, trait racial griffes du félin ou [[Aspect bestial]]</td><td>L'homme félin peut attaquer à outrance avec ses griffes lors d'une charge</td></tr><tr CLASS="premier"><td>[[Grâce du chat]]</td><td><sup>MR</sup></td><td>[[homme-félin (race)|Homme-félin]], [[Dextérité|Dex]] 13</td><td>+2 au DMD contre les manoeuvres offensives de bousculade, de lutte, de renversement, de repositionnement et de croc-en-jambe</td></tr><tr CLASS="premier"><td>[[Homme-félin modèle]]</td><td><sup>MR</sup></td><td>[[homme-félin (race)|Homme-félin]]</td><td>L'[[Aspect bestial]] de l'homme félin est plus manifeste et lui accorde des avantages</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">&nbsp;</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chat noir]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-félin (race)|Homme-félin]]</td>
+    <td>une fois par jour, la créature qui touche l'homme félin doit refaire son attaque avec une pénalité</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Frappe leste]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-félin (race)|Homme-félin]], [[Dextérité|Dex]] 13, [[BBA]]+1, trait racial sprinter</td>
+    <td>pas de malus de -2 à la CA avec les dons [[Enchaînement]] et [[Fente]] ou pendant une charge</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Bond griffu]]</td>
+    <td><sup>MR</sup></td>
+    <td>
+      [[homme-félin (race)|Homme-félin]], [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Frappe leste]], [[BBA]]+10,
+      trait racial griffes du félin ou [[Aspect bestial]]
+    </td>
+    <td>L'homme félin peut attaquer à outrance avec ses griffes lors d'une charge</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Grâce du chat]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-félin (race)|Homme-félin]], [[Dextérité|Dex]] 13</td>
+    <td>
+      +2 au DMD contre les manoeuvres offensives de bousculade, de lutte, de renversement, de repositionnement et de
+      croc-en-jambe
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Homme-félin modèle]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[homme-félin (race)|Homme-félin]]</td>
+    <td>L'[[Aspect bestial]] de l'homme félin est plus manifeste et lui accorde des avantages</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

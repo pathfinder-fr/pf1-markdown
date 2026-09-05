@@ -59,4 +59,115 @@ D’un simple toucher, le personnage peut instiller le chaos dans les créatures
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Chaos</td><td>Sous-domaine des Azatas</td><td>Sous-domaine des Caprices</td><td>Sous-domaine des Démodandes</td><td>Sous-domaine des Démons</td><td>Sous-domaine de l'Entropie</td><td>Sous-domaine des Festivités</td><td>Sous-domaine des Protéens</td></tr><tr CLASS="premier"><td>1er</td><td>*[[protection contre la Loi]]*</td><td>*[[repli expéditif]]*</td><td>*[[fou rire]]*</td><td>*idem*</td><td>*[[anathème]]*</td><td>*[[bouclier entropique]]*</td><td>*idem*</td><td>*[[confusion mineure]]*</td></tr><tr><td>2e</td><td>*[[arme alignée]]* (lancé comme un sort du Chaos seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[fou rire]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[cercle magique contre la Loi]]*</td><td>*[[sort vol|vol]]*</td><td>*idem*</td><td>*idem*</td><td>*[[rage]]*</td><td>*[[dissipation de la magie]]*</td><td>*[[espoir]]*</td><td>*[[déplacement]]*</td></tr><tr><td>4e</td><td>*[[marteau du Chaos]]*</td><td>*idem*</td><td>*[[confusion]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[rejet de la Loi]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[confusion]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[animation dobjets|animation d’objets]]*</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas uniquement)</td><td>*[[manteau de rêves]]*</td><td>*[[corrosion]]*</td><td>*[[contrat intermédiaire]]* (démons uniquement)</td><td>*idem*</td><td>*[[festin des héros]]*</td><td>*[[contrat intermédiaire]]* (protéens uniquement)</td></tr><tr><td>7e</td><td>*[[parole du Chaos]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[destruction]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[manteau du Chaos]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[danse irrésistible]]*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[convocation de monstres IX]]* (lancé comme un sort du Chaos seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du Chaos</td>
+    <td>Sous-domaine des Azatas</td>
+    <td>Sous-domaine des Caprices</td>
+    <td>Sous-domaine des Démodandes</td>
+    <td>Sous-domaine des Démons</td>
+    <td>Sous-domaine de l'Entropie</td>
+    <td>Sous-domaine des Festivités</td>
+    <td>Sous-domaine des Protéens</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[protection contre la Loi]]*</td>
+    <td>*[[repli expéditif]]*</td>
+    <td>*[[fou rire]]*</td>
+    <td>*idem*</td>
+    <td>*[[anathème]]*</td>
+    <td>*[[bouclier entropique]]*</td>
+    <td>*idem*</td>
+    <td>*[[confusion mineure]]*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[arme alignée]]* (lancé comme un sort du Chaos seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[fou rire]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[cercle magique contre la Loi]]*</td>
+    <td>*[[sort vol|vol]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[rage]]*</td>
+    <td>*[[dissipation de la magie]]*</td>
+    <td>*[[espoir]]*</td>
+    <td>*[[déplacement]]*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[marteau du Chaos]]*</td>
+    <td>*idem*</td>
+    <td>*[[confusion]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[rejet de la Loi]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[confusion]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[animation dobjets|animation d’objets]]*</td>
+    <td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas uniquement)</td>
+    <td>*[[manteau de rêves]]*</td>
+    <td>*[[corrosion]]*</td>
+    <td>*[[contrat intermédiaire]]* (démons uniquement)</td>
+    <td>*idem*</td>
+    <td>*[[festin des héros]]*</td>
+    <td>*[[contrat intermédiaire]]* (protéens uniquement)</td>
+  </tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[parole du Chaos]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[destruction]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[manteau du Chaos]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[danse irrésistible]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[convocation de monstres IX]]* (lancé comme un sort du Chaos seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+</table>

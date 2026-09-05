@@ -24,7 +24,17 @@ Le mage peut rendre les sorts suivants permanents pour lui-même :
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr><tr CLASS="premier"><td>*[[Compréhension des langages]]*</td><td>9</td><td>2  500</td></tr><tr CLASS="alt"><td>*[[Détection de linvisibilité|Détection de l'invisibilité]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Détection de la magie]]*</td><td>9</td><td>2 500</td></tr><tr CLASS="alt"><td>*[[Don des langues]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Lecture de la magie]]*</td><td>9</td><td>2 500</td></tr><tr CLASS="alt"><td>*[[sort Vision dans le noir|Vision dans le noir]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Vision magique]]*</td><td>11</td><td>7 500</td></tr><tr CLASS="alt"><td>*[[Vision des auras]]*</td><td>11</td><td>7 500</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr>
+  <tr CLASS="premier"><td>*[[Compréhension des langages]]*</td><td>9</td><td>2  500</td></tr>
+  <tr CLASS="alt"><td>*[[Détection de linvisibilité|Détection de l'invisibilité]]*</td><td>10</td><td>5 000</td></tr>
+  <tr><td>*[[Détection de la magie]]*</td><td>9</td><td>2 500</td></tr>
+  <tr CLASS="alt"><td>*[[Don des langues]]*</td><td>11</td><td>7 500</td></tr>
+  <tr><td>*[[Lecture de la magie]]*</td><td>9</td><td>2 500</td></tr>
+  <tr CLASS="alt"><td>*[[sort Vision dans le noir|Vision dans le noir]]*</td><td>10</td><td>5 000</td></tr>
+  <tr><td>*[[Vision magique]]*</td><td>11</td><td>7 500</td></tr>
+  <tr CLASS="alt"><td>*[[Vision des auras]]*</td><td>11</td><td>7 500</td></tr>
+</table>
 
 </center>
 
@@ -34,7 +44,16 @@ On ne peut pas rendre ces sorts permanents pour d’autres créatures. Seul un l
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr><tr CLASS="premier"><td>*[[Agrandissement]]*</td><td>9</td><td>2 500</td></tr><tr CLASS="alt"><td>*[[Animal anthropomorphe]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Lien télépathique]]**</td><td>13</td><td>12 500</td></tr><tr CLASS="alt"><td>*[[Morsure magique]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[Morsure magique suprême]]*</td><td>11</td><td>7 500</td></tr><tr CLASS="alt"><td>*[[Rapetissement]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[sort Résistance|Résistance]]*</td><td>9</td><td>2 500</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr>
+  <tr CLASS="premier"><td>*[[Agrandissement]]*</td><td>9</td><td>2 500</td></tr>
+  <tr CLASS="alt"><td>*[[Animal anthropomorphe]]*</td><td>11</td><td>7 500</td></tr>
+  <tr><td>*[[Lien télépathique]]**</td><td>13</td><td>12 500</td></tr>
+  <tr CLASS="alt"><td>*[[Morsure magique]]*</td><td>9</td><td>2 500</td></tr>
+  <tr><td>*[[Morsure magique suprême]]*</td><td>11</td><td>7 500</td></tr>
+  <tr CLASS="alt"><td>*[[Rapetissement]]*</td><td>9</td><td>2 500</td></tr>
+  <tr><td>*[[sort Résistance|Résistance]]*</td><td>9</td><td>2 500</td></tr>
+</table>
 
 
 *(*) Lie deux créatures seulement par sort de permanence.*

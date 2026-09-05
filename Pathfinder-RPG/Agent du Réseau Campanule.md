@@ -15,7 +15,113 @@ La mission d'un agent du réseau repose en partie sur sa capacité à établir e
 
 <center>
 
-<table CLASS="tablo"><caption>L'agent du réseau</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Agent du Réseau Campanule#CULTUREDURESEAU|Culture du réseau]], [[Agent du Réseau Campanule#SEMEURRAPIDE|semeur rapide]] +3m</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent du Réseau Campanule#GARDIENDELACULTURE|Gardien de la culture]], [[Agent du Réseau Campanule#EPOUVANTAIL|épouvantail]] +1, [[Agent du Réseau Campanule#DONDEQUIPE|don d'équipe]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent du Réseau Campanule#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Agent du Réseau Campanule#EPOUVANTAIL|Épouvantail]] +2</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">Première [[Agent du Réseau Campanule#GRANGEDEPREDILECTION|grange de prédilection]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Agent du Réseau Campanule#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Agent du Réseau Campanule#EPOUVANTAIL|épouvantail]] +3,  [[Agent du Réseau Campanule#SEMEURRAPIDE|semeur rapide]] +6m,  [[Agent du Réseau Campanule#DONDEQUIPE|don d'équipe]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">Deuxième [[Agent du Réseau Campanule#GRANGEDEPREDILECTION|grange de prédilection]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent du Réseau Campanule#EPOUVANTAIL|Épouvantail]] +4</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Agent du Réseau Campanule#ATTAQUESOURNOISE|Attaque sournoise]] +3d6, troisième [[Agent du Réseau Campanule#GRANGEDEPREDILECTION|grange de prédilection]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[assassin#ANGEDELAMORT|Ange de la mort]], [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre les poisons]] (+5)</td></tr></table>
+<table CLASS="tablo">
+  <caption>L'agent du réseau</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Agent du Réseau Campanule#CULTUREDURESEAU|Culture du réseau]], [[Agent du Réseau
+      Campanule#SEMEURRAPIDE|semeur rapide]] +3m
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Agent du Réseau Campanule#GARDIENDELACULTURE|Gardien de la culture]], [[Agent du Réseau
+      Campanule#EPOUVANTAIL|épouvantail]] +1, [[Agent du Réseau Campanule#DONDEQUIPE|don d'équipe]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Agent du Réseau Campanule#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Agent du Réseau Campanule#EPOUVANTAIL|Épouvantail]] +2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">Première [[Agent du Réseau Campanule#GRANGEDEPREDILECTION|grange de prédilection]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Agent du Réseau Campanule#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[Agent du Réseau
+      Campanule#EPOUVANTAIL|épouvantail]] +3,  [[Agent du Réseau Campanule#SEMEURRAPIDE|semeur rapide]] +6m,
+      [[Agent du Réseau Campanule#DONDEQUIPE|don d'équipe]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">Deuxième [[Agent du Réseau Campanule#GRANGEDEPREDILECTION|grange de prédilection]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Agent du Réseau Campanule#EPOUVANTAIL|Épouvantail]] +4</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Agent du Réseau Campanule#ATTAQUESOURNOISE|Attaque sournoise]] +3d6, troisième [[Agent du Réseau
+      Campanule#GRANGEDEPREDILECTION|grange de prédilection]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[assassin#ANGEDELAMORT|Ange de la mort]], [[assassin#BONUSAUXJSCONTRELESPOISONS|Bonus aux sauvegardes contre
+      les poisons]] (+5)
+    </td>
+  </tr>
+</table>
 
 </center>
 

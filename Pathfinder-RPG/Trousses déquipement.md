@@ -10,7 +10,343 @@ LastModified: 2023-08-29 17:12
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Trousses d'équipement</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Trousses déquipement#Hôpital mobile|↓]] [[Hôpital mobile (objet)|Hôpital mobile]]</td><td>1.000 po</td><td>250 kg</td></tr><tr><td>[[Trousses déquipement#Jardin de voyage|↓]] [[Jardin de voyage (objet)|Jardin de voyage]]</td><td>200 po</td><td>250 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire déquitation|↓]] [[Nécessaire déquitation (objet)|Nécessaire d'équitation (monture exotique)]]</td><td>36 po</td><td>29,5 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire déquitation|↓]] [[Nécessaire déquitation (objet)|Nécessaire d'équitation (standard)]]</td><td>16 po</td><td>27 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire dexploration souterraine|↓]] [[Nécessaire dexploration souterraine (objet)|Nécessaire d'exploration souterraine (de luxe)]]</td><td>130 po</td><td>7,5 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire dexploration souterraine|↓]] [[Nécessaire dexploration souterraine (objet)|Nécessaire d'exploration souterraine (standard)]]</td><td>15 po</td><td>12,5 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire de camping|↓]] [[Nécessaire de camping (objet)|Nécessaire de camping]]</td><td>12 po</td><td>40 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire de cuisine|↓]] [[Nécessaire de cuisine (objet)|Nécessaire de cuisine]]</td><td>3 po</td><td>8 kg</td></tr><tr><td>[[Trousses déquipement#Nécessaire de spéléologie|↓]] [[Nécessaire de spéléologie (objet)|Nécessaire de spéléologie]]</td><td>174 po</td><td>16 kg</td></tr><tr><td>[[Trousses déquipement#Pompe à incendie|↓]] [[Pompe à incendie (objet)|Pompe à incendie]]</td><td>200 po</td><td>250 kg</td></tr><tr><td>[[Trousses déquipement#Prison portable|↓]] [[Prison portable (objet)|Prison portable]]</td><td>200 po</td><td>150 kg</td></tr><tr><td>[[Trousses déquipement#Trousse dalchimiste|↓]] [[Trousse dalchimiste (objet)|Trousse d'alchimiste]]</td><td>40 po</td><td>12 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse darcaniste|↓]] [[Trousse darcaniste (objet)|Trousse d'arcaniste]]</td><td>21 po</td><td>17 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse denquêteur|↓]] [[Trousse denquêteur (objet)|Trousse d'enquêteur]]</td><td>40 po</td><td>18,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse densorceleur|↓]] [[Trousse densorceleur (objet)|Trousse d'ensorceleur]]</td><td>8 po</td><td>9,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse dExplorateur|↓]] [[Trousse dExplorateur (objet)|Trousse d'Explorateur]]</td><td>12 po</td><td>11 kg</td></tr><tr><td>[[Trousses déquipement#Trousse dhypnotiseur|↓]] [[Trousse dhypnotiseur (objet)|Trousse d'hypnotiseur]]</td><td>35 po</td><td>13,25 kg</td></tr><tr><td>[[Trousses déquipement#Trousse dinfiltrateur|↓]] [[Trousse dinfiltrateur (objet)|Trousse d'infiltrateur]]</td><td>140 po</td><td>7,5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse dinquisiteur|↓]] [[Trousse dinquisiteur (objet)|Trousse d'inquisiteur]]</td><td>30 po</td><td>17 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse doccultiste|↓]] [[Trousse doccultiste (objet)|Trousse d'occultiste]]</td><td>45 po</td><td>16,25 kg</td></tr><tr><td>[[Trousses déquipement#Trousse doracle|↓]] [[Trousse doracle (objet)|Trousse d'oracle]]</td><td>9 po</td><td>14,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de barbare|↓]] [[Trousse de barbare (objet)|Trousse de barbare]]</td><td>9 po</td><td>13 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de barde|↓]] [[Trousse de barde (objet)|Trousse de barde]]</td><td>41 po</td><td>16,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de bretteur|↓]] [[Trousse de bretteur (objet)|Trousse de bretteur]]</td><td>9 po</td><td>21 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de cavalier|↓]] [[Trousse de cavalier (objet)|Trousse de cavalier]]</td><td>23 po</td><td>56 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de chaman|↓]] [[Trousse de chaman (objet)|Trousse de chaman]]</td><td>15 po</td><td>22 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de chasseur|↓]] [[Trousse de chasseur (objet)|Trousse de chasseur]]</td><td>15 po</td><td>21,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de chirurgien|↓]] [[Trousse de chirurgien (objet)|Trousse de chirurgien]]</td><td>400 po</td><td>2 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de chroniqueur|↓]] [[Trousse de chroniqueur (objet)|Trousse de chroniqueur]]</td><td>40 po</td><td>2,25 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de cinétiste|↓]] [[Trousse de cinétiste (objet)|Trousse de cinétiste]]</td><td>8 po</td><td>11 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de conjurateur|↓]] [[Trousse de conjurateur (objet)|Trousse de conjurateur]]</td><td>8 po</td><td>9,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de courtisane|↓]] [[Trousse de courtisane (objet)|Trousse de courtisane]]</td><td>10 po</td><td>2,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de druide|↓]] [[Trousse de druide (objet)|Trousse de druide]]</td><td>14 po</td><td>22 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de guerrier|↓]] [[Trousse de guerrier (objet)|Trousse de guerrier]]</td><td>9 po</td><td>14,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de justicier|↓]] [[Trousse de justicier (objet)|Trousse de justicier]]</td><td>8 po</td><td>11 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de lutteur|↓]] [[Trousse de lutteur (objet)|Trousse de lutteur]]</td><td>9 po</td><td>18,25 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de magicien|↓]] [[Trousse de magicien (objet)|Trousse de magicien]]</td><td>21 po</td><td>10,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de magus|↓]] [[Trousse de magus (objet)|Trousse de magus]]</td><td>22 po</td><td>15,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de médium|↓]] [[Trousse de médium (objet)|Trousse de médium]]</td><td>40 po</td><td>7 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de médium frauduleux|↓]] [[Trousse de médium frauduleux (objet)|Trousse de médium frauduleux]]</td><td>50 po</td><td>5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de moine|↓]] [[Trousse de moine (objet)|Trousse de moine]]</td><td>8 po</td><td>11 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de paladin|↓]] [[Trousse de paladin (objet)|Trousse de paladin]]</td><td>11 po</td><td>15 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de pistolier|↓]] [[Trousse de pistolier (objet)|Trousse de pistolier]]</td><td>26 po</td><td>15,5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de prêtre|↓]] [[Trousse de prêtre (objet)|Trousse de prêtre]]</td><td>16 po</td><td>16 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de prêtre combattant|↓]] [[Trousse de prêtre combattant (objet)|Trousse de prêtre combattant]]</td><td>16 po</td><td>15,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de psychiste|↓]] [[Trousse de psychiste (objet)|Trousse de psychiste]]</td><td>35 po</td><td>13,5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de rôdeur|↓]] [[Trousse de rôdeur (objet)|Trousse de rôdeur]]</td><td>9 po</td><td>14 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de roublard|↓]] [[Trousse de roublard (objet)|Trousse de roublard]]</td><td>50 po</td><td>18,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de sanguin|↓]] [[Trousse de sanguin (objet)|Trousse de sanguin]]</td><td>9 po</td><td>13,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de scalde|↓]] [[Trousse de scalde (objet)|Trousse de scalde]]</td><td>37 po</td><td>23,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de scribe|↓]] [[Trousse de scribe (objet)|Trousse de scribe]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de sorcière|↓]] [[Trousse de sorcière (objet)|Trousse de sorcière]]</td><td>21 po</td><td>10,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de spirite|↓]] [[Trousse de spirite (objet)|Trousse de spirite]]</td><td>50 po</td><td>17 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de survie|↓]] [[Trousse de survie (objet)|Trousse de survie (de maître)]]</td><td>50 po</td><td>2,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de survie|↓]] [[Trousse de survie (objet)|Trousse de survie (standard)]]</td><td>5 po</td><td>2 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de tueur|↓]] [[Trousse de tueur (objet)|Trousse de tueur]]</td><td>22 po</td><td>21,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td></tr><tr><td>[[Trousses déquipement#Trousse de tueur de dragons|↓]] [[Trousse de tueur de dragons (objet)|Trousse de tueur de dragons]]</td><td>485 po</td><td>32 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de tueur de morts-vivants|↓]] [[Trousse de tueur de morts-vivants (objet)|Trousse de tueur de morts-vivants]]</td><td>402 po</td><td>3,5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de tueur de trolls|↓]] [[Trousse de tueur de trolls (objet)|Trousse de tueur de trolls]]</td><td>30 po</td><td>8,5 kg</td></tr><tr><td>[[Trousses déquipement#Trousse de tueur de vampires|↓]] [[Trousse de tueur de vampires (objet)|Trousse de tueur de vampires]]</td><td>500 po</td><td>4 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Trousses d'équipement</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Trousses déquipement#Hôpital mobile|↓]] [[Hôpital mobile (objet)|Hôpital mobile]]</td>
+    <td>1.000 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Jardin de voyage|↓]] [[Jardin de voyage (objet)|Jardin de voyage]]</td>
+    <td>200 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Nécessaire déquitation|↓]] [[Nécessaire déquitation (objet)|Nécessaire d'équitation
+      (monture exotique)]]
+    </td>
+    <td>36 po</td>
+    <td>29,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Nécessaire déquitation|↓]] [[Nécessaire déquitation (objet)|Nécessaire d'équitation
+      (standard)]]
+    </td>
+    <td>16 po</td>
+    <td>27 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Nécessaire dexploration souterraine|↓]] [[Nécessaire dexploration souterraine
+      (objet)|Nécessaire d'exploration souterraine (de luxe)]]
+    </td>
+    <td>130 po</td>
+    <td>7,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Nécessaire dexploration souterraine|↓]] [[Nécessaire dexploration souterraine
+      (objet)|Nécessaire d'exploration souterraine (standard)]]
+    </td>
+    <td>15 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Nécessaire de camping|↓]] [[Nécessaire de camping (objet)|Nécessaire de camping]]</td>
+    <td>12 po</td>
+    <td>40 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Nécessaire de cuisine|↓]] [[Nécessaire de cuisine (objet)|Nécessaire de cuisine]]</td>
+    <td>3 po</td>
+    <td>8 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Nécessaire de spéléologie|↓]] [[Nécessaire de spéléologie (objet)|Nécessaire de
+      spéléologie]]
+    </td>
+    <td>174 po</td>
+    <td>16 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Pompe à incendie|↓]] [[Pompe à incendie (objet)|Pompe à incendie]]</td>
+    <td>200 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Prison portable|↓]] [[Prison portable (objet)|Prison portable]]</td>
+    <td>200 po</td>
+    <td>150 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse dalchimiste|↓]] [[Trousse dalchimiste (objet)|Trousse d'alchimiste]]</td>
+    <td>40 po</td>
+    <td>12 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse darcaniste|↓]] [[Trousse darcaniste (objet)|Trousse d'arcaniste]]</td>
+    <td>21 po</td>
+    <td>17 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse denquêteur|↓]] [[Trousse denquêteur (objet)|Trousse d'enquêteur]]</td>
+    <td>40 po</td>
+    <td>18,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse densorceleur|↓]] [[Trousse densorceleur (objet)|Trousse d'ensorceleur]]</td>
+    <td>8 po</td>
+    <td>9,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse dExplorateur|↓]] [[Trousse dExplorateur (objet)|Trousse d'Explorateur]]</td>
+    <td>12 po</td>
+    <td>11 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse dhypnotiseur|↓]] [[Trousse dhypnotiseur (objet)|Trousse d'hypnotiseur]]</td>
+    <td>35 po</td>
+    <td>13,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse dinfiltrateur|↓]] [[Trousse dinfiltrateur (objet)|Trousse d'infiltrateur]]</td>
+    <td>140 po</td>
+    <td>7,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse dinquisiteur|↓]] [[Trousse dinquisiteur (objet)|Trousse d'inquisiteur]]</td>
+    <td>30 po</td>
+    <td>17 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse doccultiste|↓]] [[Trousse doccultiste (objet)|Trousse d'occultiste]]</td>
+    <td>45 po</td>
+    <td>16,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse doracle|↓]] [[Trousse doracle (objet)|Trousse d'oracle]]</td>
+    <td>9 po</td>
+    <td>14,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de barbare|↓]] [[Trousse de barbare (objet)|Trousse de barbare]]</td>
+    <td>9 po</td>
+    <td>13 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de barde|↓]] [[Trousse de barde (objet)|Trousse de barde]]</td>
+    <td>41 po</td>
+    <td>16,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de bretteur|↓]] [[Trousse de bretteur (objet)|Trousse de bretteur]]</td>
+    <td>9 po</td>
+    <td>21 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de cavalier|↓]] [[Trousse de cavalier (objet)|Trousse de cavalier]]</td>
+    <td>23 po</td>
+    <td>56 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de chaman|↓]] [[Trousse de chaman (objet)|Trousse de chaman]]</td>
+    <td>15 po</td>
+    <td>22 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de chasseur|↓]] [[Trousse de chasseur (objet)|Trousse de chasseur]]</td>
+    <td>15 po</td>
+    <td>21,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de chirurgien|↓]] [[Trousse de chirurgien (objet)|Trousse de chirurgien]]</td>
+    <td>400 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de chroniqueur|↓]] [[Trousse de chroniqueur (objet)|Trousse de chroniqueur]]</td>
+    <td>40 po</td>
+    <td>2,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de cinétiste|↓]] [[Trousse de cinétiste (objet)|Trousse de cinétiste]]</td>
+    <td>8 po</td>
+    <td>11 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de conjurateur|↓]] [[Trousse de conjurateur (objet)|Trousse de conjurateur]]</td>
+    <td>8 po</td>
+    <td>9,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de courtisane|↓]] [[Trousse de courtisane (objet)|Trousse de courtisane]]</td>
+    <td>10 po</td>
+    <td>2,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de druide|↓]] [[Trousse de druide (objet)|Trousse de druide]]</td>
+    <td>14 po</td>
+    <td>22 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de guerrier|↓]] [[Trousse de guerrier (objet)|Trousse de guerrier]]</td>
+    <td>9 po</td>
+    <td>14,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de justicier|↓]] [[Trousse de justicier (objet)|Trousse de justicier]]</td>
+    <td>8 po</td>
+    <td>11 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de lutteur|↓]] [[Trousse de lutteur (objet)|Trousse de lutteur]]</td>
+    <td>9 po</td>
+    <td>18,25 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de magicien|↓]] [[Trousse de magicien (objet)|Trousse de magicien]]</td>
+    <td>21 po</td>
+    <td>10,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de magus|↓]] [[Trousse de magus (objet)|Trousse de magus]]</td>
+    <td>22 po</td>
+    <td>15,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de médium|↓]] [[Trousse de médium (objet)|Trousse de médium]]</td>
+    <td>40 po</td>
+    <td>7 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Trousse de médium frauduleux|↓]] [[Trousse de médium frauduleux (objet)|Trousse de
+      médium frauduleux]]
+    </td>
+    <td>50 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de moine|↓]] [[Trousse de moine (objet)|Trousse de moine]]</td>
+    <td>8 po</td>
+    <td>11 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de paladin|↓]] [[Trousse de paladin (objet)|Trousse de paladin]]</td>
+    <td>11 po</td>
+    <td>15 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de pistolier|↓]] [[Trousse de pistolier (objet)|Trousse de pistolier]]</td>
+    <td>26 po</td>
+    <td>15,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de prêtre|↓]] [[Trousse de prêtre (objet)|Trousse de prêtre]]</td>
+    <td>16 po</td>
+    <td>16 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Trousse de prêtre combattant|↓]] [[Trousse de prêtre combattant (objet)|Trousse de
+      prêtre combattant]]
+    </td>
+    <td>16 po</td>
+    <td>15,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de psychiste|↓]] [[Trousse de psychiste (objet)|Trousse de psychiste]]</td>
+    <td>35 po</td>
+    <td>13,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de rôdeur|↓]] [[Trousse de rôdeur (objet)|Trousse de rôdeur]]</td>
+    <td>9 po</td>
+    <td>14 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de roublard|↓]] [[Trousse de roublard (objet)|Trousse de roublard]]</td>
+    <td>50 po</td>
+    <td>18,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de sanguin|↓]] [[Trousse de sanguin (objet)|Trousse de sanguin]]</td>
+    <td>9 po</td>
+    <td>13,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de scalde|↓]] [[Trousse de scalde (objet)|Trousse de scalde]]</td>
+    <td>37 po</td>
+    <td>23,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de scribe|↓]] [[Trousse de scribe (objet)|Trousse de scribe]]</td>
+    <td>2 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de sorcière|↓]] [[Trousse de sorcière (objet)|Trousse de sorcière]]</td>
+    <td>21 po</td>
+    <td>10,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de spirite|↓]] [[Trousse de spirite (objet)|Trousse de spirite]]</td>
+    <td>50 po</td>
+    <td>17 kg</td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de survie|↓]] [[Trousse de survie (objet)|Trousse de survie (de maître)]]</td>
+    <td>50 po</td>
+    <td>2,5 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de survie|↓]] [[Trousse de survie (objet)|Trousse de survie (standard)]]</td>
+    <td>5 po</td>
+    <td>2 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Trousses déquipement#Trousse de tueur|↓]] [[Trousse de tueur (objet)|Trousse de tueur]]</td>
+    <td>22 po</td>
+    <td>21,75 kg<sup>[[Trousses déquipement#2|2]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Trousse de tueur de dragons|↓]] [[Trousse de tueur de dragons (objet)|Trousse de tueur
+      de dragons]]
+    </td>
+    <td>485 po</td>
+    <td>32 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Trousse de tueur de morts-vivants|↓]] [[Trousse de tueur de morts-vivants
+      (objet)|Trousse de tueur de morts-vivants]]
+    </td>
+    <td>402 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Trousse de tueur de trolls|↓]] [[Trousse de tueur de trolls (objet)|Trousse de tueur de
+      trolls]]
+    </td>
+    <td>30 po</td>
+    <td>8,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Trousses déquipement#Trousse de tueur de vampires|↓]] [[Trousse de tueur de vampires (objet)|Trousse de
+      tueur de vampires]]
+    </td>
+    <td>500 po</td>
+    <td>4 kg</td>
+  </tr>
+</table>
 
 </div>
 

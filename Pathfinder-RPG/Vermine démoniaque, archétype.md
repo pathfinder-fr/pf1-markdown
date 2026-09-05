@@ -81,7 +81,14 @@ de pouvoirs magiques, en fonction de leurs dés de vie. Chaque
 pouvoir est utilisable une fois par jour. Le niveau de lanceur de
 sort est égal au FP de la créature.}
 
-<table CLASS="tablo"><tr CLASS="titre"><td>FP</td><td>Pouvoir</td></tr><tr CLASS="premier"><td>1–4</td><td>[[ténèbres]]</td></tr><tr><td>5-8</td><td>[[vomir une nuée]]</td></tr><tr><td>9-12</td><td>[[fléau dinsectes|fléau d’insectes]]</td></tr><tr><td>13-16</td><td>[[téléportation suprême]] (soi-même plus 25 kg d’objets uniquement)</td></tr><tr><td>17-20</td><td>[[tremblement de terre]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>FP</td><td>Pouvoir</td></tr>
+  <tr CLASS="premier"><td>1–4</td><td>[[ténèbres]]</td></tr>
+  <tr><td>5-8</td><td>[[vomir une nuée]]</td></tr>
+  <tr><td>9-12</td><td>[[fléau dinsectes|fléau d’insectes]]</td></tr>
+  <tr><td>13-16</td><td>[[téléportation suprême]] (soi-même plus 25 kg d’objets uniquement)</td></tr>
+  <tr><td>17-20</td><td>[[tremblement de terre]]</td></tr>
+</table>
 
 {s:BDTexte|**Caractéristiques**. +4 en For, +2 en Con. La valeur d’Intelligence
 de la vermine démoniaque passe à 10 et sa valeur de

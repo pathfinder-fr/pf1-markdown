@@ -7,8 +7,71 @@ LastModified: 2024-09-30 18:55
 {s:Menuclassessupplémentaires}{s:cs}{s:UI}
 
 
-<table CLASS="tablo toutgauche centre autoalt" WIDTH="84%"><caption>Talents sociaux de justicier</caption><tr CLASS="titre"><td>Niveau  
-minimal</td><td COLSPAN="3">Talents sociaux</td></tr><tr CLASS="premier"><td>**1**</td><td>[[talents sociaux#COLLECTEURDERAGOTS|Collecteur de ragots]]</td><td>[[talents sociaux#ETUDIERLETERRAIN|Étudier le terrain]]</td><td>[[talents sociaux#HAVRESUR|Havre sûr]]</td></tr><tr><td>&emsp;</td><td>[[talents sociaux#EFFICACITE|Efficacité]]</td><td>[[talents sociaux#GRACESOCIALE|Grâce sociale]]</td><td>[[talents sociaux#RENOMMEE|Renommée]]</td></tr><tr CLASS="premier"><td>**3**</td><td>[[talents sociaux#ASSISTANCELOYALE|Assistance loyale]]</td><td>[[talents sociaux#RABAISDEREPUTATION|Rabais de réputation]]</td><td>[[talents sociaux#RETOURTRIOMPHANT|Retour triomphant]]</td></tr><tr CLASS="premier"><td>**5**</td><td>[[talents sociaux#AVANTAGEDEREPUTATION|Avantage de réputation]]</td><td>[[talents sociaux#FEINDRELINNOCENCE|Feindre l’innocence]]</td><td>[[talents sociaux#NOMBREUSESFORMES|Nombreuses formes]]</td></tr><tr><td>&emsp;</td><td>[[talents sociaux#ENVOGUE|En vogue]]</td><td>[[talents sociaux#GEAIMOQUEUR|Geai moqueur]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**7**</td><td>[[talents sociaux#CHANGEMENTRAPIDE|Changement rapide]]</td><td>[[talents sociaux#GRANDERENOMMEE|Grande renommée]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**9**</td><td>[[talents sociaux#VERITESUBJECTIVE|Vérité subjective]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**11**</td><td>[[talents sociaux#MONSIEURTOUTLEMONDE|Monsieur tout le monde]]</td><td>[[talents sociaux#RENOMMEEINCROYABLE|Renommée incroyable]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**13**</td><td>[[talents sociaux#CHANGEMENTIMMEDIAT|Changement immédiat]]</td><td>[[talents sociaux#RECONNUINSTANTANEMENT|Reconnu intantanément]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**17**</td><td>[[talents sociaux#TOUSLESVISAGES|Tous les visages]]</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="84%">
+  <caption>Talents sociaux de justicier</caption>
+  <tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="3">Talents sociaux</td></tr>
+  <tr CLASS="premier">
+    <td>**1**</td>
+    <td>[[talents sociaux#COLLECTEURDERAGOTS|Collecteur de ragots]]</td>
+    <td>[[talents sociaux#ETUDIERLETERRAIN|Étudier le terrain]]</td>
+    <td>[[talents sociaux#HAVRESUR|Havre sûr]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents sociaux#EFFICACITE|Efficacité]]</td>
+    <td>[[talents sociaux#GRACESOCIALE|Grâce sociale]]</td>
+    <td>[[talents sociaux#RENOMMEE|Renommée]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**3**</td>
+    <td>[[talents sociaux#ASSISTANCELOYALE|Assistance loyale]]</td>
+    <td>[[talents sociaux#RABAISDEREPUTATION|Rabais de réputation]]</td>
+    <td>[[talents sociaux#RETOURTRIOMPHANT|Retour triomphant]]</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**5**</td>
+    <td>[[talents sociaux#AVANTAGEDEREPUTATION|Avantage de réputation]]</td>
+    <td>[[talents sociaux#FEINDRELINNOCENCE|Feindre l’innocence]]</td>
+    <td>[[talents sociaux#NOMBREUSESFORMES|Nombreuses formes]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>[[talents sociaux#ENVOGUE|En vogue]]</td>
+    <td>[[talents sociaux#GEAIMOQUEUR|Geai moqueur]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**7**</td>
+    <td>[[talents sociaux#CHANGEMENTRAPIDE|Changement rapide]]</td>
+    <td>[[talents sociaux#GRANDERENOMMEE|Grande renommée]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**9**</td>
+    <td>[[talents sociaux#VERITESUBJECTIVE|Vérité subjective]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**11**</td>
+    <td>[[talents sociaux#MONSIEURTOUTLEMONDE|Monsieur tout le monde]]</td>
+    <td>[[talents sociaux#RENOMMEEINCROYABLE|Renommée incroyable]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**13**</td>
+    <td>[[talents sociaux#CHANGEMENTIMMEDIAT|Changement immédiat]]</td>
+    <td>[[talents sociaux#RECONNUINSTANTANEMENT|Reconnu intantanément]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>**17**</td>
+    <td>[[talents sociaux#TOUSLESVISAGES|Tous les visages]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 
 ### Talents sociaux de justicier

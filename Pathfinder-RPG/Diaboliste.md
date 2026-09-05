@@ -11,7 +11,124 @@ Categories:
 {s:MenuClassesDePrestige}{s:cs}{s:BotD}*Bien que les diabolistes cherchent à asservir les forces de l'Enfer et à les tourner vers d'autres buts que la corruption, seuls les plus vaillants des diabolistes peuvent résister aux tentations de la Fosse.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le Diaboliste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Diaboliste#CHARISMEINFERNAL|Charisme infernal +2]], [[Diaboliste#DAMNE|damné]], [[Diaboliste#FAMILIERDIABLOTIN|familier diablotin]], [[Diaboliste#OBEDIENCE|obédience]]</td><td CLASS="gauche">-</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Diaboliste#CANALISATIONFEUINFERNAL|Canalisation de feu infernal]], [[Diaboliste#MARCHEINFERNAL|marché infernal]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Diaboliste#AMELIORATIONCREATURECONVOQUEES|Amélioration des créatures convoquées]], [[Diaboliste#FAVEURDIABOLIQUE|faveur diabolique 1]], [[Diaboliste#HERESIE|hérésie +2]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Diaboliste#CHARISMEINFERNAL|Charisme infernal +4]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Diaboliste#AMEINFERNAL|Âme infernal]], [[Diaboliste#FAMILIERDIABLOTIN|pouvoirs magiques du diablotin]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Diaboliste#FAVEURDIABOLIQUE|Faveur diabolique 2]], [[Diaboliste#TRANSPORTINFERNAL|transport infernal]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Diaboliste#CHARISMEINFERNAL|Charisme infernal +6]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Diaboliste#RAYONDEFEUINFERNAL|Rayon de feu infernal]], [[Diaboliste#FAMILIERDIABLOTIN|pouvoirs magiques du diablotin]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Diaboliste#FAVEURDIABOLIQUE|Faveur diabolique 3]], [[Diaboliste#HERESIE|hérésie +4]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Diaboliste#MAITREINVOCATEUR|Maître invocateur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le Diaboliste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Diaboliste#CHARISMEINFERNAL|Charisme infernal +2]], [[Diaboliste#DAMNE|damné]],
+      [[Diaboliste#FAMILIERDIABLOTIN|familier diablotin]], [[Diaboliste#OBEDIENCE|obédience]]
+    </td>
+    <td CLASS="gauche">-</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Diaboliste#CANALISATIONFEUINFERNAL|Canalisation de feu infernal]], [[Diaboliste#MARCHEINFERNAL|marché
+      infernal]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Diaboliste#AMELIORATIONCREATURECONVOQUEES|Amélioration des créatures convoquées]],
+      [[Diaboliste#FAVEURDIABOLIQUE|faveur diabolique 1]], [[Diaboliste#HERESIE|hérésie +2]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Diaboliste#CHARISMEINFERNAL|Charisme infernal +4]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Diaboliste#AMEINFERNAL|Âme infernal]], [[Diaboliste#FAMILIERDIABLOTIN|pouvoirs magiques du diablotin]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Diaboliste#FAVEURDIABOLIQUE|Faveur diabolique 2]], [[Diaboliste#TRANSPORTINFERNAL|transport infernal]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Diaboliste#CHARISMEINFERNAL|Charisme infernal +6]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Diaboliste#RAYONDEFEUINFERNAL|Rayon de feu infernal]], [[Diaboliste#FAMILIERDIABLOTIN|pouvoirs magiques du
+      diablotin]]
+    </td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Diaboliste#FAVEURDIABOLIQUE|Faveur diabolique 3]], [[Diaboliste#HERESIE|hérésie +4]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Diaboliste#MAITREINVOCATEUR|Maître invocateur]]</td>
+    <td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td>
+  </tr>
+</table>
 
 
 **Dés de vie.** d6.

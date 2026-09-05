@@ -16,7 +16,323 @@ Categories:
 </div>{s:mca}*Que l’enquêteur soit sur la piste d’un fugitif, d’un trésor perdu ou d’un grand criminel, il est animé d’une immense curiosité vis-à-vis du monde et utilise ses connaissances comme une arme. Mêlant cran et érudition en une alchimie téméraire personnelle, il se montre plein de surprises. Il observe le monde qui l’entoure, en tire de précieuses informations sur sa situation actuelle, analyse ces éléments avec une dose d’inspiration et de déduction et s’attaque directement au coeur du sujet en prenant des raccourcis inattendus. Un enquêteur évalue toujours la situation actuelle, jauge ses adversaires potentiels et guette les dangers cachés, tout en mobilisant ses vastes connaissances et ses perceptions développées pour trouver une solution aux problèmes les plus complexes.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEENQUETEUR}L'enquêteur</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+2</td><td CLASS="gauche">[[enquêteur#ALCHIMIE|Alchimie]], [[enquêteur#INSPIRATION|inspiration]], [[enquêteur#RECHERCHEDESPIEGES|recherche des pièges]]</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+3</td><td CLASS="gauche">[[enquêteur#CONNAISSANCEDESPOISONS|Connaissance des poisons]], [[enquêteur#RESISTANCEAUPOISON|résistance aux poisons]] +2</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+3</td><td CLASS="gauche">[[enquêteur#SENSDESPIEGES|Sens des pièges]] +1, [[enquêteur#SOUVENIRPRECIS|souvenir précis]], [[enquêteur#TALENT|talent d’enquêteur]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[enquêteur#ALCHIMIERAPIDE|Alchimie rapide]], [[enquêteur#COMBATETUDIE|combat étudié]], [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] +1d6</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+4</td><td CLASS="gauche">[[enquêteur#RESISTANCEAUPOISON|Résistance aux poisons]] +4, [[enquêteur#TALENT|talent d’enquêteur]]</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +2d6, [[enquêteur#SENSDESPIEGES|sens des pièges]] +2</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+5</td><td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+6</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +3d6, [[enquêteur#RESISTANCEAUXPOISONS|résistance aux poisons]] +6</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+6</td><td CLASS="gauche">[[enquêteur#SENSDESPIEGES|Sens des pièges]] +3, [[enquêteur#TALENT|talent d’enquêteur]]</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +4d6</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+7</td><td CLASS="gauche">[[enquêteur#IMMUNITEAUPOISON|Immunité aux poisons]], [[enquêteur#TALENT|Talent d’enquêteur]]</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +5d6, [[enquêteur#SENSDESPIEGES|sens des pièges]] +4</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+8</td><td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+9</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +6d6</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+9</td><td CLASS="gauche">[[enquêteur#SENSDESPIEGES|Sens des pièges]] +5, [[enquêteur#TALENT|talent d’enquêteur]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +7d6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+10</td><td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +8d6, [[enquêteur#SENSDESPIEGES|sens des pièges]] +6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+11</td><td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+12</td><td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +9d6, [[enquêteur#INSPIRATIONSUPREME|inspiration suprême]]</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEENQUETEUR}L'enquêteur</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="6" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[enquêteur#ALCHIMIE|Alchimie]], [[enquêteur#INSPIRATION|inspiration]],
+      [[enquêteur#RECHERCHEDESPIEGES|recherche des pièges]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[enquêteur#CONNAISSANCEDESPOISONS|Connaissance des poisons]], [[enquêteur#RESISTANCEAUPOISON|résistance aux
+      poisons]] +2
+    </td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[enquêteur#SENSDESPIEGES|Sens des pièges]] +1, [[enquêteur#SOUVENIRPRECIS|souvenir précis]],
+      [[enquêteur#TALENT|talent d’enquêteur]]
+    </td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[enquêteur#ALCHIMIERAPIDE|Alchimie rapide]], [[enquêteur#COMBATETUDIE|combat étudié]],
+      [[enquêteur#FRAPPEETUDIEE|frappe étudiée]] +1d6
+    </td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[enquêteur#RESISTANCEAUPOISON|Résistance aux poisons]] +4, [[enquêteur#TALENT|talent d’enquêteur]]
+    </td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +2d6, [[enquêteur#SENSDESPIEGES|sens des pièges]] +2
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +3d6, [[enquêteur#RESISTANCEAUXPOISONS|résistance aux poisons]] +6
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[enquêteur#SENSDESPIEGES|Sens des pièges]] +3, [[enquêteur#TALENT|talent d’enquêteur]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +4d6</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[enquêteur#IMMUNITEAUPOISON|Immunité aux poisons]], [[enquêteur#TALENT|Talent d’enquêteur]]</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +5d6, [[enquêteur#SENSDESPIEGES|sens des pièges]] +4
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +6d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[enquêteur#SENSDESPIEGES|Sens des pièges]] +5, [[enquêteur#TALENT|talent d’enquêteur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +7d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">
+      [[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +8d6, [[enquêteur#SENSDESPIEGES|sens des pièges]] +6
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[enquêteur#TALENT|Talent d’enquêteur]]</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[enquêteur#FRAPPEETUDIEE|Frappe étudiée]] +9d6, [[enquêteur#INSPIRATIONSUPREME|inspiration suprême]]
+    </td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+</table>
 
 
 {s:ImageDroite|Illustrations/PNJ/Quinn.jpg|30%}

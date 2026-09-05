@@ -81,7 +81,55 @@ Les PJs peuvent gagner lentement des faveurs au fil du temps, après un certain 
 **Avantages.** Chaque organisation offre un ensemble unique d'avantages possibles aux PJs en fonction de leur rang d'influence. Les PJs peuvent dépenser une faveur qu'ils ont gagnée pour obtenir l'un des avantages qu'ils ont débloqués. Certains avantages deviennent gratuits une fois que les PJs deviennent suffisamment influents dans une organisation, ce qui permet aux PJs de les utiliser sans dépenser de faveur (voir [[Influence organisationnelle#PROFIL|Avantages page 113]]).
 
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>Résultat</td><td>{s:Reference|TABLE}Faveur</td></tr><tr CLASS="premier"><td>1</td><td>Délivrer un message à un membre de l'organisation.</td></tr><tr><td>2</td><td>Accomplir une tâche dégoutante ou désagréable pour l'organisation.</td></tr><tr><td>3</td><td>Assister l'organisation dans la collecte d'informations en vue d'une mission à venir.</td></tr><tr><td>4</td><td>Acheter et livrer des fournitures à un membre de l'organisation.</td></tr><tr><td>5</td><td>Assumer les fonctions d'un membre spécifique de rang inférieur de l'organisation pendant une semaine.</td></tr><tr><td>6</td><td>Produire une propagande verbale ou écrite en faveur de l'organisation.</td></tr><tr><td>7</td><td>Assurer la médiation d'un désaccord entre les membres de l'organisation.</td></tr><tr><td>8</td><td>Fournir des services de lancement de sorts ou d'autres tâches spécialisées à l'organisation pendant plusieurs jours.</td></tr><tr><td>9</td><td>Attribuez à l'organisation le mérite de vos propres actions publiques.</td></tr><tr><td>10</td><td>Collecter de l'argent pour l'organisation.</td></tr><tr><td>11</td><td>Aider à la construction ou à la rénovation d'un bâtiment à l'usage de l'organisation.</td></tr><tr><td>12</td><td>Enquêter sur la disparition d'un allié de l'organisation.</td></tr><tr><td>13</td><td>Faire don d'une somme d'argent importante à l'organisation.</td></tr><tr><td>14</td><td>Recruter un nouveau membre dans l'organisation.</td></tr><tr><td>15</td><td>Obtenir un objet important pour l'organisation.</td></tr><tr><td>16</td><td>Vaincre un ennemi difficile de l'organisation. Le FP de l'ennemi doit être égal ou supérieur au NMG du groupe + 2.</td></tr><tr><td>17</td><td>Aider un membre de l'organisation à échapper à une situation dangereuse.</td></tr><tr><td>18</td><td>Recueillir des informations précieuses pour l'organisation.</td></tr><tr><td>19</td><td>Encadrer un nouveau membre de l'organisation.</td></tr><tr><td>20</td><td>Convaincre un individu puissant de coopérer avec l'organisation.</td></tr><tr><td>21</td><td>Couvrir des preuves compromettantes contre l'organisation.</td></tr><tr><td>22</td><td>Planifier et exécuter une opération dangereuse pour atteindre un objectif difficile.</td></tr><tr><td>23</td><td>Saboter une organisation avec des objectifs opposés.</td></tr><tr><td>24</td><td>Rembourser les dettes de l'organisation en effectuant une tâche difficile pour une autre organisation.</td></tr><tr><td>25</td><td>Enquêter sur un possible traître au sein de l'organisation.</td></tr><tr><td>26</td><td>Créer une branche de l'organisation dans un nouveau quartier ou une nouvelle ville.</td></tr><tr><td>27</td><td>Représenter l'organisation dans une réunion aux enjeux extraordinaires.</td></tr><tr><td>28</td><td>Exercer les fonctions d'un membre clé de l'organisation pendant 1 semaine.</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre"><td>Résultat</td><td>{s:Reference|TABLE}Faveur</td></tr>
+  <tr CLASS="premier"><td>1</td><td>Délivrer un message à un membre de l'organisation.</td></tr>
+  <tr><td>2</td><td>Accomplir une tâche dégoutante ou désagréable pour l'organisation.</td></tr>
+  <tr><td>3</td><td>Assister l'organisation dans la collecte d'informations en vue d'une mission à venir.</td></tr>
+  <tr><td>4</td><td>Acheter et livrer des fournitures à un membre de l'organisation.</td></tr>
+  <tr>
+    <td>5</td>
+    <td>Assumer les fonctions d'un membre spécifique de rang inférieur de l'organisation pendant une semaine.</td>
+  </tr>
+  <tr><td>6</td><td>Produire une propagande verbale ou écrite en faveur de l'organisation.</td></tr>
+  <tr><td>7</td><td>Assurer la médiation d'un désaccord entre les membres de l'organisation.</td></tr>
+  <tr>
+    <td>8</td>
+    <td>
+      Fournir des services de lancement de sorts ou d'autres tâches spécialisées à l'organisation pendant plusieurs
+      jours.
+    </td>
+  </tr>
+  <tr><td>9</td><td>Attribuez à l'organisation le mérite de vos propres actions publiques.</td></tr>
+  <tr><td>10</td><td>Collecter de l'argent pour l'organisation.</td></tr>
+  <tr><td>11</td><td>Aider à la construction ou à la rénovation d'un bâtiment à l'usage de l'organisation.</td></tr>
+  <tr><td>12</td><td>Enquêter sur la disparition d'un allié de l'organisation.</td></tr>
+  <tr><td>13</td><td>Faire don d'une somme d'argent importante à l'organisation.</td></tr>
+  <tr><td>14</td><td>Recruter un nouveau membre dans l'organisation.</td></tr>
+  <tr><td>15</td><td>Obtenir un objet important pour l'organisation.</td></tr>
+  <tr>
+    <td>16</td>
+    <td>
+      Vaincre un ennemi difficile de l'organisation. Le FP de l'ennemi doit être égal ou supérieur au NMG du groupe
+      + 2.
+    </td>
+  </tr>
+  <tr><td>17</td><td>Aider un membre de l'organisation à échapper à une situation dangereuse.</td></tr>
+  <tr><td>18</td><td>Recueillir des informations précieuses pour l'organisation.</td></tr>
+  <tr><td>19</td><td>Encadrer un nouveau membre de l'organisation.</td></tr>
+  <tr><td>20</td><td>Convaincre un individu puissant de coopérer avec l'organisation.</td></tr>
+  <tr><td>21</td><td>Couvrir des preuves compromettantes contre l'organisation.</td></tr>
+  <tr><td>22</td><td>Planifier et exécuter une opération dangereuse pour atteindre un objectif difficile.</td></tr>
+  <tr><td>23</td><td>Saboter une organisation avec des objectifs opposés.</td></tr>
+  <tr>
+    <td>24</td>
+    <td>Rembourser les dettes de l'organisation en effectuant une tâche difficile pour une autre organisation.</td>
+  </tr>
+  <tr><td>25</td><td>Enquêter sur un possible traître au sein de l'organisation.</td></tr>
+  <tr><td>26</td><td>Créer une branche de l'organisation dans un nouveau quartier ou une nouvelle ville.</td></tr>
+  <tr><td>27</td><td>Représenter l'organisation dans une réunion aux enjeux extraordinaires.</td></tr>
+  <tr><td>28</td><td>Exercer les fonctions d'un membre clé de l'organisation pendant 1 semaine.</td></tr>
+</table>
 
 
 ### Opérations clandestines

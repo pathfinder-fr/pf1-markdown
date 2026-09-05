@@ -42,14 +42,28 @@ Le [[DD|degré de difficulté]] du [[jet de sauvegarde]] dépend de ce que le la
 
 <table width="100%"><tr><td width="49%">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Connaissances</td><td>Modificateur au  
-jet de Volonté</td></tr><tr CLASS="premier"><td>Aucune*</td><td>+10</td></tr><tr><td>Le personnage a entendu parler du sujet</td><td>+5</td></tr><tr><td>Le personnage a déjà rencontré le sujet</td><td>+0</td></tr><tr><td>Le personnage connaît bien le sujet</td><td>-5</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Il est essentiel de posséder un lien avec une créature que l’on ne connaît pas.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Connaissances</td><td>Modificateur au  
+jet de Volonté</td></tr>
+  <tr CLASS="premier"><td>Aucune*</td><td>+10</td></tr>
+  <tr><td>Le personnage a entendu parler du sujet</td><td>+5</td></tr>
+  <tr><td>Le personnage a déjà rencontré le sujet</td><td>+0</td></tr>
+  <tr><td>Le personnage connaît bien le sujet</td><td>-5</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">*(*) Il est essentiel de posséder un lien avec une créature que l’on ne connaît pas.*</td>
+  </tr>
+</table>
 
 </td><td width="2%">
 </td><td width="49%">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Lien</td><td>Modificateur au  
-jet de Volonté</td></tr><tr CLASS="premier"><td>Portrait</td><td>-2</td></tr><tr><td>Possession ou vêtement</td><td>-4</td></tr><tr><td>Dent, mèche de cheveux, rognures d’ongles, etc.</td><td>-10</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Lien</td><td>Modificateur au  
+jet de Volonté</td></tr>
+  <tr CLASS="premier"><td>Portrait</td><td>-2</td></tr>
+  <tr><td>Possession ou vêtement</td><td>-4</td></tr>
+  <tr><td>Dent, mèche de cheveux, rognures d’ongles, etc.</td><td>-10</td></tr>
+</table>
 
 </td></tr></table>
 

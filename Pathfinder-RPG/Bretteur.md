@@ -16,7 +16,183 @@ Categories:
 </div>{s:MCA}*De nombreux guerriers mènent leurs combats engoncés dans de lourdes armures, de larges et puissantes armes au poing mais les bretteurs privilégient la vitesse, l’agilité et le panache. Ils entrent et sortent de la mêlée en un éclair, épuisant leurs adversaires avec des feintes et des fentes. Il leur sufft d’un simple geste du poignet pour détourner les puissantes attaques qui leur sont destinées d’un vif mouvement de leur lame. Leurs parades habiles et leurs ripostes dévastatrices élèvent le carnage au rang d’art. Certains sont arrogants et insouciants mais, sous ce masque, ce sont des gens entièrement dévoués à leur art. Les bretteurs appartenant aux races de petite taille aiment tout particulièrement prouver qu’il suffit d’un bon dosage de discipline et d’audace pour contrebalancer la force et la taille et ils n’aiment rien tant que vaincre de grosses brutes pataudes et tyranniques.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le bretteur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>+0</td><td CLASS="gauche">[[bretteur#EXPLOITS|Exploits]], [[bretteur#FINESSEDUBRETTEUR|finesse du bretteur]], [[bretteur#PANACHE|panache]]</td></tr><tr><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>+0</td><td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 3/jour</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>+1</td><td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +1, [[bretteur#EXPLOITS|exploits]]</td></tr><tr><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 1</td></tr><tr><td>6</td><td>+6/+1</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 4/jour</td></tr><tr><td>7</td><td>+7/+2</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +2, [[bretteur#EXPLOITS|exploits]]</td></tr><tr><td>8</td><td>+8/+3</td><td>+6</td><td>+2</td><td>+2</td><td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td></tr><tr><td>9</td><td>+9/+4</td><td>+6</td><td>+3</td><td>+3</td><td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 2</td></tr><tr><td>10</td><td>+10/+5</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 5/jour</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +3, [[bretteur#EXPLOITS|exploits]]</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 3</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+9</td><td>+4</td><td>+4</td><td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 6/jour</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+9</td><td>+5</td><td>+5</td><td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +4, [[bretteur#EXPLOITS|exploits]]</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 4</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 7/jour</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +5, [[bretteur#EXPLOITS|exploits]]</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]], [[bretteur#MAITRISEDESARMES|maîtrise des armes du bretteur]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le bretteur</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[bretteur#EXPLOITS|Exploits]], [[bretteur#FINESSEDUBRETTEUR|finesse du bretteur]],
+      [[bretteur#PANACHE|panache]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 3/jour</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +1, [[bretteur#EXPLOITS|exploits]]</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 1</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 4/jour</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +2, [[bretteur#EXPLOITS|exploits]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 2</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 5/jour</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +3, [[bretteur#EXPLOITS|exploits]]</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 3</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 6/jour</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +4, [[bretteur#EXPLOITS|exploits]]</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[bretteur#ENTRAINEMENTAUXARMES|Entraînement aux armes du bretteur]] 4</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[bretteur#CHARMANTEVIE|Charmante vie]] 7/jour</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[bretteur#AGILITE|Agilité]] +5, [[bretteur#EXPLOITS|exploits]]</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[bretteur#DONSUPPLEMENTAIRE|Don supplémentaire]], [[bretteur#MAITRISEDESARMES|maîtrise des armes du
+      bretteur]]
+    </td>
+  </tr>
+</table>
 
 
 {s:ImageDroite|Illustrations/PNJ/Jirelle.jpg|30%}

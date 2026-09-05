@@ -24,7 +24,15 @@ Les nuées composées de créatures de taille Minuscule ou Infime sont affectés
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>Nuée</caption><tr CLASS="titre"><td class="gauche">Nombre de DV de la nuée</td><td>Dégâts de base de la nuée</td></tr><tr CLASS="premier"><td class="gauche">1-5</td><td>1d6</td></tr><tr CLASS="alt"><td class="gauche">6-10</td><td>2d6</td></tr><tr><td class="gauche">11-15</td><td>3d6</td></tr><tr CLASS="alt"><td class="gauche">16-20</td><td>4d6</td></tr><tr><td class="gauche">21 ou plus</td><td>5d6</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>Nuée</caption>
+  <tr CLASS="titre"><td class="gauche">Nombre de DV de la nuée</td><td>Dégâts de base de la nuée</td></tr>
+  <tr CLASS="premier"><td class="gauche">1-5</td><td>1d6</td></tr>
+  <tr CLASS="alt"><td class="gauche">6-10</td><td>2d6</td></tr>
+  <tr><td class="gauche">11-15</td><td>3d6</td></tr>
+  <tr CLASS="alt"><td class="gauche">16-20</td><td>4d6</td></tr>
+  <tr><td class="gauche">21 ou plus</td><td>5d6</td></tr>
+</table>
 
 </center>
 

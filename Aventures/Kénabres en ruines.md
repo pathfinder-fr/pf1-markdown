@@ -59,7 +59,23 @@ Garnison Grise (P, p. 54)
 </div>
 </td><td><div class="BD">
 
-<table CLASS="tablo centre"><caption>Rencontres dans Kénabres en ruines</caption><tr CLASS="titre"><td>d100</td><td>Rencontre</td><td>FP moyen</td></tr><tr CLASS="premier"><td>01-20</td><td>2d4 [[Pathfinder-RPG.Rat sanguinaire|rats sanguinaires]]</td><td>2</td></tr><tr><td>21-35</td><td>1d6 [[Vautour Fiélon|vautours fiélons]]</td><td>2</td></tr><tr><td>36-45</td><td>1d6 [[Pathfinder-RPG.Tieffelin|pillards Tieffelins]]</td><td>2</td></tr><tr><td>46-55</td><td>1 [[Pathfinder-RPG.Hurleur|hurleur]]</td><td>3</td></tr><tr><td>56-65</td><td>1d6 [[Fanatique de Baphomet|fanatiques de Baphomet]]</td><td>4</td></tr><tr><td>66-70</td><td>1d4 [[Pathfinder-RPG.mouche géante démoniaque|mouches géantes démoniaques]]</td><td>4</td></tr><tr><td>71-75</td><td>1d4 [[++Pathfinder-RPG.Dretch|dretchs]</td><td>4</td></tr><tr><td>76-80</td><td>1d3 [[Pathfinder-RPG.abrikandilu|abrikandilus]]</td><td>5</td></tr><tr><td>81-100</td><td>rencontre particulière</td><td>-</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Rencontres dans Kénabres en ruines</caption>
+  <tr CLASS="titre"><td>d100</td><td>Rencontre</td><td>FP moyen</td></tr>
+  <tr CLASS="premier"><td>01-20</td><td>2d4 [[Pathfinder-RPG.Rat sanguinaire|rats sanguinaires]]</td><td>2</td></tr>
+  <tr><td>21-35</td><td>1d6 [[Vautour Fiélon|vautours fiélons]]</td><td>2</td></tr>
+  <tr><td>36-45</td><td>1d6 [[Pathfinder-RPG.Tieffelin|pillards Tieffelins]]</td><td>2</td></tr>
+  <tr><td>46-55</td><td>1 [[Pathfinder-RPG.Hurleur|hurleur]]</td><td>3</td></tr>
+  <tr><td>56-65</td><td>1d6 [[Fanatique de Baphomet|fanatiques de Baphomet]]</td><td>4</td></tr>
+  <tr>
+    <td>66-70</td>
+    <td>1d4 [[Pathfinder-RPG.mouche géante démoniaque|mouches géantes démoniaques]]</td>
+    <td>4</td>
+  </tr>
+  <tr><td>71-75</td><td>1d4 [[++Pathfinder-RPG.Dretch|dretchs]</td><td>4</td></tr>
+  <tr><td>76-80</td><td>1d3 [[Pathfinder-RPG.abrikandilu|abrikandilus]]</td><td>5</td></tr>
+  <tr><td>81-100</td><td>rencontre particulière</td><td>-</td></tr>
+</table>
 
 
 - **Boutique assiégée (FP 3)** : [[Belthis Loumis]], [[Nira Loumis]], [[Pathfinder-RPG.Abrikandilu|Abrikandilu]]
@@ -69,7 +85,152 @@ Garnison Grise (P, p. 54)
 
 
 
-<table CLASS="tablo centre"><caption>Rumeurs dans Kénabres en ruines</caption><tr CLASS="titre"><td>d20</td><td>Rumeurs</td><td>Véracité</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">Le seigneur [[Kénabres-Hulrun Shappok|Hulrun]] a été tué durant l'assaut et les démons l'exposent comme un trophée</td><td>vrai</td></tr><tr><td>2</td><td CLASS="gauche">le [[AP13-Khorramzadeh|roi des tempêtes]] a tué [[Kénabres-Térendelév|Térendelév]] puis a ordonné à ses séides de transporter son cadavre dans la Plaie du Monde</td><td>vrai</td></tr><tr><td>3</td><td CLASS="gauche">Le *Guet de l'aigle* et quelques autres groupes de croisés on survécu à l'assaut et ont instalé un campement fortifié au *Cœur du défenseur*</td><td>vrai</td></tr><tr><td>4</td><td CLASS="gauche">L*'écu* à été détruit, tout comme la *Pierre de Garde* qu'elle contenait ! Les démons sont désormais libres</td><td>vrai</td></tr><tr><td>5</td><td CLASS="gauche">Nérosyan a été entièrement détruite par les démons !</td><td>faux</td></tr><tr><td>6</td><td CLASS="gauche">Plusieurs croisés sont devenus fou : ils provoquent désormais autant de dégâts que les démons |</td></tr><tr><td>7</td><td CLASS="gauche">Les [[Pathfinder-RPG.batard|taupes]] sortent des égouts. Ils kidnappent des survivants pour les dévorer</td><td>faux</td></tr><tr><td>8</td><td CLASS="gauche">La reine [[AP13-Galfrey|Galfrey]] a révélé sa véritable forme de succube et s'est enfuie versla Plaie du Monde. C'est elle qui nous a trahi</td><td>faux</td></tr><tr><td>9</td><td CLASS="gauche">Les fanatiques des démons s'étaient infiltrés en secret à l'intérieur de la cité depuis le début. Il disposent d'abris dans tout Kénabres</td><td>vrai</td></tr><tr><td>10</td><td CLASS="gauche">Certains des gigantesques démons ayant ravagé et détruit la cité continuent à rôder dans les ruines</td><td>faux</td></tr><tr><td>11</td><td CLASS="gauche">[[Pathfinder-RPG.Deskari|Deskari]] en personne a participé à l'assaut lancé sur la cité</td><td>faux</td></tr><tr><td>12</td><td CLASS="gauche">La sorcière [[AP13-Areelu Vorlesh|Areelu Vorlesh]] a l'intention de venir très bientôt dans la cité pour la revendiquer en guise de trophée</td><td>vrai</td></tr><tr><td>13</td><td CLASS="gauche">J'ai vu d'horribles mouches et d'autres insectes géants aux visage humains dévorer les gens dans la rue</td><td>vrai</td></tr><tr><td>14</td><td CLASS="gauche">Les eaux du Sellen sont désormais empoisonnées et les autres réserves d'eau potable vont bientôt connaitre le même sort</td><td>faux</td></tr><tr><td>15</td><td CLASS="gauche">Faîtes attention ! La vérité, c'est que la plupart des "survivants" dans la cité sont possédés par des démons</td><td>faux</td></tr><tr><td>16</td><td CLASS="gauche">Il semblerait que la ville abrite plusieurs groupe de fanatiques voués aux démons et qu'ils ne vénèrent pas tous Deskari</td><td>vrai</td></tr><tr><td>17</td><td CLASS="gauche">Je suis sur que chaque jour, le soleil se lève un peu plus tard et se couche un peu plus tôt. la nuit éternelle est pour bientôt !</td><td>faux</td></tr><tr><td>18</td><td CLASS="gauche">Les démons ont contaminé Kénabres. Tout le monde va succomber à cette maladie en moins d'une semaine</td><td>faux</td></tr><tr><td>19</td><td CLASS="gauche">L'armée mendévienne est en marche vers Kénabres pour nous sauver, mais qui sait combien de temps elle va mettre pour arriver jusqu'ici ?</td><td>vrai</td></tr><tr><td>20</td><td CLASS="gauche">Les démons ont ouvert un portail vers les Abysses à l'endroit où se situait la *Pierre de Garde*... et ce portail grandit de jour en jour</td><td>faux</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Rumeurs dans Kénabres en ruines</caption>
+  <tr CLASS="titre"><td>d20</td><td>Rumeurs</td><td>Véracité</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td CLASS="gauche">
+      Le seigneur [[Kénabres-Hulrun Shappok|Hulrun]] a été tué durant l'assaut et les démons l'exposent comme un
+      trophée
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td CLASS="gauche">
+      le [[AP13-Khorramzadeh|roi des tempêtes]] a tué [[Kénabres-Térendelév|Térendelév]] puis a ordonné à ses séides
+      de transporter son cadavre dans la Plaie du Monde
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td CLASS="gauche">
+      Le *Guet de l'aigle* et quelques autres groupes de croisés on survécu à l'assaut et ont instalé un campement
+      fortifié au *Cœur du défenseur*
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td CLASS="gauche">
+      L*'écu* à été détruit, tout comme la *Pierre de Garde* qu'elle contenait ! Les démons sont désormais libres
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr><td>5</td><td CLASS="gauche">Nérosyan a été entièrement détruite par les démons !</td><td>faux</td></tr>
+  <tr>
+    <td>6</td>
+    <td CLASS="gauche">
+      Plusieurs croisés sont devenus fou : ils provoquent désormais autant de dégâts que les démons |
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td CLASS="gauche">
+      Les [[Pathfinder-RPG.batard|taupes]] sortent des égouts. Ils kidnappent des survivants pour les dévorer
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td CLASS="gauche">
+      La reine [[AP13-Galfrey|Galfrey]] a révélé sa véritable forme de succube et s'est enfuie versla Plaie du
+      Monde. C'est elle qui nous a trahi
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td CLASS="gauche">
+      Les fanatiques des démons s'étaient infiltrés en secret à l'intérieur de la cité depuis le début. Il disposent
+      d'abris dans tout Kénabres
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td CLASS="gauche">
+      Certains des gigantesques démons ayant ravagé et détruit la cité continuent à rôder dans les ruines
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td CLASS="gauche">[[Pathfinder-RPG.Deskari|Deskari]] en personne a participé à l'assaut lancé sur la cité</td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td CLASS="gauche">
+      La sorcière [[AP13-Areelu Vorlesh|Areelu Vorlesh]] a l'intention de venir très bientôt dans la cité pour la
+      revendiquer en guise de trophée
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td CLASS="gauche">
+      J'ai vu d'horribles mouches et d'autres insectes géants aux visage humains dévorer les gens dans la rue
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td CLASS="gauche">
+      Les eaux du Sellen sont désormais empoisonnées et les autres réserves d'eau potable vont bientôt connaitre le
+      même sort
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td CLASS="gauche">
+      Faîtes attention ! La vérité, c'est que la plupart des "survivants" dans la cité sont possédés par des démons
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td CLASS="gauche">
+      Il semblerait que la ville abrite plusieurs groupe de fanatiques voués aux démons et qu'ils ne vénèrent pas
+      tous Deskari
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td CLASS="gauche">
+      Je suis sur que chaque jour, le soleil se lève un peu plus tard et se couche un peu plus tôt. la nuit
+      éternelle est pour bientôt !
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td CLASS="gauche">
+      Les démons ont contaminé Kénabres. Tout le monde va succomber à cette maladie en moins d'une semaine
+    </td>
+    <td>faux</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td CLASS="gauche">
+      L'armée mendévienne est en marche vers Kénabres pour nous sauver, mais qui sait combien de temps elle va
+      mettre pour arriver jusqu'ici ?
+    </td>
+    <td>vrai</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td CLASS="gauche">
+      Les démons ont ouvert un portail vers les Abysses à l'endroit où se situait la *Pierre de Garde*... et ce
+      portail grandit de jour en jour
+    </td>
+    <td>faux</td>
+  </tr>
+</table>
 
 
 

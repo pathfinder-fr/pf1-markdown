@@ -19,14 +19,29 @@ Bien que la plupart des objets associés aux monstres et aux personnages mythiqu
 Ces propriétés spéciales d’armures présentent des effets supplémentaires que déclenche l’utilisation de pouvoir mythique.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Propriété spéciale d'armure</td><td>Prix</td></tr><tr CLASS="premier"><td>[[résonance (propriété)|Résonance]]</td><td>Bonus de +1</td></tr><tr><td>[[négation (propriété)|Négation]]</td><td>Bonus de +4</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Propriété spéciale de bouclier</td><td>Prix</td></tr><tr CLASS="premier"><td>[[déviation (propriété)|Déviation]]</td><td>Bonus de +3</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <tr CLASS="titre"><td>Propriété spéciale d'armure</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[résonance (propriété)|Résonance]]</td><td>Bonus de +1</td></tr>
+  <tr><td>[[négation (propriété)|Négation]]</td><td>Bonus de +4</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Propriété spéciale de bouclier</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[déviation (propriété)|Déviation]]</td><td>Bonus de +3</td></tr>
+</table>
 
 
 #### Armures et les boucliers spéciaux
 N’importe qui peut utiliser ces armures mais elles fonctionnent bien mieux quand elles sont portées par des créatures mythiques.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Armure spécifique</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Cuirasse de résistance]]</td><td>22 350 po</td></tr><tr><td>[[Armure de déplacement spirituel]]</td><td>25 160 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Bouclier spécifique</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Sceau du maréchal-bouclier]]</td><td>17 155 po</td></tr><tr><td>[[Bastion de lHéritière|Bastion de l'Héritière]]</td><td>22 170 po</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <tr CLASS="titre"><td>Armure spécifique</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Cuirasse de résistance]]</td><td>22 350 po</td></tr>
+  <tr><td>[[Armure de déplacement spirituel]]</td><td>25 160 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Bouclier spécifique</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Sceau du maréchal-bouclier]]</td><td>17 155 po</td></tr>
+  <tr><td>[[Bastion de lHéritière|Bastion de l'Héritière]]</td><td>22 170 po</td></tr>
+</table>
 
 
 #### Propriétés spéciales d’armes
@@ -71,7 +86,111 @@ Ces armes majestueuses sont parfaitement adaptées aux créatures mythiques.
 Les pouvoirs de ces objets magiques interagissent avec les créatures mythiques.
 
 
-<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Anneau</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Anneau de magie transcendante]]</td><td>30 000 po</td></tr><tr><td>[[Anneau daffaiblissement des énergies|Anneau d'affaiblissement des énergies]]</td><td>31 500 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux sans emplacement</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Racine de labre-monde|Racine de l’arbre-monde (inférieure)]]</td><td>300 po</td></tr><tr><td>[[Racine de labre-monde|Racine de l’arbre-monde (normale)]]</td><td>1 000 po</td></tr><tr><td>[[Herbes de la bête primitive]]</td><td>1 400 po</td></tr><tr><td>[[Racine de labre-monde|Racine de l’arbre-monde (supérieure)]]</td><td>2 500 po</td></tr><tr><td>[[Lanterne éternelle]]</td><td>3 000 po</td></tr><tr><td>[[Bouteille dabondance|Bouteille d’abondance]]</td><td>4 000 po</td></tr><tr><td>[[Tarenoire]]</td><td>4 200 po</td></tr><tr><td>[[Essence des rêves errants]]</td><td>5 000 po</td></tr><tr><td>[[Nectar des dieux]]</td><td>5 000 po</td></tr><tr><td>[[Rose de mithral]]</td><td>9 000 po</td></tr><tr><td>[[Ambroisie]]</td><td>10 000 po</td></tr><tr><td>[[Chat en pierre de lune]]</td><td>12 000 po</td></tr><tr><td>[[Coupe de Cayden|Coupe de l'aventurier]]</td><td>16 500 po</td></tr><tr><td>[[Encensoir de sanctuaire]]</td><td>18 000 po</td></tr><tr><td>[[Vase canope]]</td><td>24 000 po</td></tr><tr><td>[[Recueil de blagues parfaites]]</td><td>27 000 po</td></tr><tr><td>[[Carillon de désillusion]]</td><td>35 000 po</td></tr><tr><td>[[Corne dabondance|Corne d’abondance]]</td><td>35 000 po</td></tr><tr><td>[[Livre de bannissement]]</td><td>50 000 po</td></tr><tr><td>[[Statuette merveilleuse|Statuette merveilleuse (dragon de basalte)]]</td><td>60 000 po</td></tr><tr><td>[[Lyre des tempêtes]]</td><td>65 000 po</td></tr><tr><td>[[Griffe du tyran]]</td><td>70 000 po</td></tr><tr><td>[[Orbe oculaire]]</td><td>80 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté sur le corps</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Robe du pénitent]]</td><td>95 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté autour du cou</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Collier des frappes spectrales]]</td><td>35 500 po</td></tr><tr><td>[[Corde de potence]]</td><td>18 000 po</td></tr><tr><td>[[Symbole sacré doré]]</td><td>10 000 po</td></tr><tr><td>[[Torque de langage universel]]</td><td>60 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté sur les épaules</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Cape de libre arbitre|Cape de libre arbitre (+1/+2)]]</td><td>1 500 po</td></tr><tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+1/+2)]]</td><td>1 500 po</td></tr><tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+1/+2)]]</td><td>1 500 po</td></tr><tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+2/+3)]]</td><td>6 000 po</td></tr><tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+2/+3)]]</td><td>6 000 po</td></tr><tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+2/+3)]]</td><td>6 000 po</td></tr><tr><td>[[Cape du traqueur]]</td><td>12 000 po</td></tr><tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+3/+4)]]</td><td>13 500 po</td></tr><tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+3/+4)]]</td><td>13 500 po</td></tr><tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+3/+4)]]</td><td>13 500 po</td></tr><tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+4/+5)]]</td><td>24 000 po</td></tr><tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+4/+5)]]</td><td>24 000 po</td></tr><tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+4/+5)]]</td><td>24 000 po</td></tr><tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+5/+6)]]</td><td>37 500 po</td></tr><tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+5/+6)]]</td><td>37 500 po</td></tr><tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+5/+6)]]</td><td>37 500 po</td></tr><tr><td>[[Cape du phénix]]</td><td>55 000 po</td></tr><tr><td>[[Cape dimmolation CMy|Cape d’immolation (CMy)]]</td><td>65 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté sur le front</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Bandeau des pensées hermétiques]]</td><td>150 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté aux mains</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Gants de blocage des sorts]]</td><td>9 000 po</td></tr><tr><td>[[Gants inéluctables]]</td><td>9 000 po</td></tr><tr><td>[[Gants des poings de pierre]]</td><td>10 000 po</td></tr><tr><td>[[Gants daction à distance|Gants d’action à distance]]</td><td>20 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté aux pieds</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Bottes de ciel et terre]]</td><td>20 000 po</td></tr><tr><td>[[Bottes de grand-pas]]</td><td>80 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté aux poignets</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Bracelets de force]]</td><td>10 000 po</td></tr><tr><td>[[Arc-bracelets des compagnons du bouclier]]</td><td>40 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté à la taille</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Ceinture-miroir]]</td><td>36 000 po</td></tr><tr><td>[[Ceinture dancrage|Ceinture d’ancrage]]</td><td>60 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté sur la tête</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Couronne de laurier]]</td><td>19 000 po</td></tr><tr><td>[[Gage des Aînés]]</td><td>27 680 po</td></tr><tr><td>[[Casque aveugle]]</td><td>85 000 po</td></tr><tr><td>[[Heaume du roi-serpent]]</td><td>96 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté sur le torse</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Manteau du fidèle réceptacle]]</td><td>10 000 po</td></tr><tr><td>[[Cartouchière du gardien de la mort]]</td><td>15 000 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Objet merveilleux porté sur les yeux</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Monocle des auras dévoilées]]</td><td>12 700 po</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Sceptre</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Sceptre de douleur]]</td><td>120 000 po</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="96%">
+  <tr CLASS="titre"><td>Anneau</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Anneau de magie transcendante]]</td><td>30 000 po</td></tr>
+  <tr><td>[[Anneau daffaiblissement des énergies|Anneau d'affaiblissement des énergies]]</td><td>31 500 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux sans emplacement</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Racine de labre-monde|Racine de l’arbre-monde (inférieure)]]</td><td>300 po</td></tr>
+  <tr><td>[[Racine de labre-monde|Racine de l’arbre-monde (normale)]]</td><td>1 000 po</td></tr>
+  <tr><td>[[Herbes de la bête primitive]]</td><td>1 400 po</td></tr>
+  <tr><td>[[Racine de labre-monde|Racine de l’arbre-monde (supérieure)]]</td><td>2 500 po</td></tr>
+  <tr><td>[[Lanterne éternelle]]</td><td>3 000 po</td></tr>
+  <tr><td>[[Bouteille dabondance|Bouteille d’abondance]]</td><td>4 000 po</td></tr>
+  <tr><td>[[Tarenoire]]</td><td>4 200 po</td></tr>
+  <tr><td>[[Essence des rêves errants]]</td><td>5 000 po</td></tr>
+  <tr><td>[[Nectar des dieux]]</td><td>5 000 po</td></tr>
+  <tr><td>[[Rose de mithral]]</td><td>9 000 po</td></tr>
+  <tr><td>[[Ambroisie]]</td><td>10 000 po</td></tr>
+  <tr><td>[[Chat en pierre de lune]]</td><td>12 000 po</td></tr>
+  <tr><td>[[Coupe de Cayden|Coupe de l'aventurier]]</td><td>16 500 po</td></tr>
+  <tr><td>[[Encensoir de sanctuaire]]</td><td>18 000 po</td></tr>
+  <tr><td>[[Vase canope]]</td><td>24 000 po</td></tr>
+  <tr><td>[[Recueil de blagues parfaites]]</td><td>27 000 po</td></tr>
+  <tr><td>[[Carillon de désillusion]]</td><td>35 000 po</td></tr>
+  <tr><td>[[Corne dabondance|Corne d’abondance]]</td><td>35 000 po</td></tr>
+  <tr><td>[[Livre de bannissement]]</td><td>50 000 po</td></tr>
+  <tr><td>[[Statuette merveilleuse|Statuette merveilleuse (dragon de basalte)]]</td><td>60 000 po</td></tr>
+  <tr><td>[[Lyre des tempêtes]]</td><td>65 000 po</td></tr>
+  <tr><td>[[Griffe du tyran]]</td><td>70 000 po</td></tr>
+  <tr><td>[[Orbe oculaire]]</td><td>80 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté sur le corps</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Robe du pénitent]]</td><td>95 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté autour du cou</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Collier des frappes spectrales]]</td><td>35 500 po</td></tr>
+  <tr><td>[[Corde de potence]]</td><td>18 000 po</td></tr>
+  <tr><td>[[Symbole sacré doré]]</td><td>10 000 po</td></tr>
+  <tr><td>[[Torque de langage universel]]</td><td>60 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté sur les épaules</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Cape de libre arbitre|Cape de libre arbitre (+1/+2)]]</td><td>1 500 po</td></tr>
+  <tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+1/+2)]]</td><td>1 500 po</td></tr>
+  <tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+1/+2)]]</td><td>1 500 po</td></tr>
+  <tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+2/+3)]]</td><td>6 000 po</td></tr>
+  <tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+2/+3)]]</td><td>6 000 po</td></tr>
+  <tr><td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+2/+3)]]</td><td>6 000 po</td></tr>
+  <tr><td>[[Cape du traqueur]]</td><td>12 000 po</td></tr>
+  <tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+3/+4)]]</td><td>13 500 po</td></tr>
+  <tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+3/+4)]]</td><td>13 500 po</td></tr>
+  <tr>
+    <td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+3/+4)]]</td>
+    <td>13 500 po</td>
+  </tr>
+  <tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+4/+5)]]</td><td>24 000 po</td></tr>
+  <tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+4/+5)]]</td><td>24 000 po</td></tr>
+  <tr>
+    <td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+4/+5)]]</td>
+    <td>24 000 po</td>
+  </tr>
+  <tr><td>[[Cape de libre arbitre|Cape de libre arbitre (+5/+6)]]</td><td>37 500 po</td></tr>
+  <tr><td>[[Cape de réflexes rapides|Cape de réflexes rapides (+5/+6)]]</td><td>37 500 po</td></tr>
+  <tr>
+    <td>[[Épaulières de vigueur inébranlable|Épaulières de vigueur inébranlable (+5/+6)]]</td>
+    <td>37 500 po</td>
+  </tr>
+  <tr><td>[[Cape du phénix]]</td><td>55 000 po</td></tr>
+  <tr><td>[[Cape dimmolation CMy|Cape d’immolation (CMy)]]</td><td>65 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté sur le front</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Bandeau des pensées hermétiques]]</td><td>150 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté aux mains</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Gants de blocage des sorts]]</td><td>9 000 po</td></tr>
+  <tr><td>[[Gants inéluctables]]</td><td>9 000 po</td></tr>
+  <tr><td>[[Gants des poings de pierre]]</td><td>10 000 po</td></tr>
+  <tr><td>[[Gants daction à distance|Gants d’action à distance]]</td><td>20 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté aux pieds</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Bottes de ciel et terre]]</td><td>20 000 po</td></tr>
+  <tr><td>[[Bottes de grand-pas]]</td><td>80 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté aux poignets</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Bracelets de force]]</td><td>10 000 po</td></tr>
+  <tr><td>[[Arc-bracelets des compagnons du bouclier]]</td><td>40 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté à la taille</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Ceinture-miroir]]</td><td>36 000 po</td></tr>
+  <tr><td>[[Ceinture dancrage|Ceinture d’ancrage]]</td><td>60 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté sur la tête</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Couronne de laurier]]</td><td>19 000 po</td></tr>
+  <tr><td>[[Gage des Aînés]]</td><td>27 680 po</td></tr>
+  <tr><td>[[Casque aveugle]]</td><td>85 000 po</td></tr>
+  <tr><td>[[Heaume du roi-serpent]]</td><td>96 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté sur le torse</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Manteau du fidèle réceptacle]]</td><td>10 000 po</td></tr>
+  <tr><td>[[Cartouchière du gardien de la mort]]</td><td>15 000 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Objet merveilleux porté sur les yeux</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Monocle des auras dévoilées]]</td><td>12 700 po</td></tr>
+  <tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr>
+  <tr CLASS="titre"><td>Sceptre</td><td>Prix</td></tr>
+  <tr CLASS="premier"><td>[[Sceptre de douleur]]</td><td>120 000 po</td></tr>
+</table>
 
 </div>
 

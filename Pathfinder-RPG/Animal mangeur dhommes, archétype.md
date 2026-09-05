@@ -41,7 +41,14 @@ Le seigneur démon des bêtes permet à ses fidèles les plus dévoués de chang
 
 
 
-<table CLASS="tablo"><caption>Sang de Baphomet</caption><tr CLASS="premier"><td>**Aura** : [[Transmutation]] modérée; **NLS** : 9 ; **Emplacement** aucun ; **Prix** : 2 250 po ; **Poids** -</td></tr></table>
+<table CLASS="tablo">
+  <caption>Sang de Baphomet</caption>
+  <tr CLASS="premier">
+    <td>
+      **Aura** : [[Transmutation]] modérée; **NLS** : 9 ; **Emplacement** aucun ; **Prix** : 2 250 po ; **Poids** -
+    </td>
+  </tr>
+</table>
 
 La température de cet élexir rouge est toujours celle du sang frais. Une créature peut ingurgiter une bouchée de chair et boire ce liquide par une action simple.
 Si le buveur est un animal, il est [[étourdi]] pendant un round et doit réussir un jet de Volonté DD 17 pour ne pas acquérir définitivement l’archétype *mangeur d'hommes*. Si le *Sang de Baphomet* est consommé en même temps que de la chair d’humanoïde, l'animal ne peut pas faire de jet de sauvegarde.

@@ -45,7 +45,14 @@ Si un [[véhicule]] est tiré ou poussé par des créatures et si l’une d’en
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table class="tablo toutgauche autoalt" id="collision"><caption>Dégâts de collision selon la taille</caption><tr><td>Taille du véhicule</td><td>Dégâts</td></tr><tr><td>G</td><td>1d8</td></tr><tr><td>TG</td><td>2d8</td></tr><tr><td>Gig</td><td>4d8</td></tr><tr><td>C</td><td>8d8</td></tr></table>
+<table class="tablo toutgauche autoalt" id="collision">
+  <caption>Dégâts de collision selon la taille</caption>
+  <tr><td>Taille du véhicule</td><td>Dégâts</td></tr>
+  <tr><td>G</td><td>1d8</td></tr>
+  <tr><td>TG</td><td>2d8</td></tr>
+  <tr><td>Gig</td><td>4d8</td></tr>
+  <tr><td>C</td><td>8d8</td></tr>
+</table>
 
 </center></div></div>{s:Reference|ATTAQUERMANOEUVRECOMBAT}**Manoeuvres de combat.** Les [[véhicules]] n’ont en général pas d’attaque, bien que certains puissent être équipés d’[[engins de siège]]. Un [[véhicule]] peut faire une [[charge (véhicule)|charge]] (et il y est souvent amené), un [[renversement (véhicule)|renversement]] ou une [[collision|collision véhiculée]] comme part intégrante de son déplacement. Contrairement aux créatures, il peut entrer dans l’espace d’êtres ou d’objets plus petits que lui. Ce faisant, il effectue soit un [[renversement (véhicule)|renversement]] soit une [[charge (véhicule)|charge]]. Lorsqu’il heurte une créature ou un objet dont la taille est égale ou supérieure à la sienne, ou qu’il percute un objet solide (un mur ou une structure immobile qui possède une solidité de 5 ou plus), il effectue une manœuvre de [[collision]].  
 - {s:Reference|ATTAQUERRENVERSEMENT}*Renversement véhiculé.* À chaque fois qu’une partie d’un [[véhicule]] (y compris les créatures utilisées pour le propulser) entre dans l’espace occupé par une créature ou un [[véhicule]] plus petit, le [[conducteur]] doit effectuer une manœuvre de renversement à leur encontre. Cela peut nécessiter plusieurs tests de renversement contre une même créature, au fur et à mesure que de nouvelles parties du [[véhicule]] entrent dans la case qu’elle occupe.  
@@ -67,7 +74,15 @@ Si un [[véhicule]] est tracté par une ou plusieurs créatures au moment où il
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table class="tablo toutgauche autoalt" id="endommager"><caption>Points de vie d’un véhicule selon le matériau</caption><tr><td>Matériau</td><td>Points de vie par case</td><td>Solidité</td></tr><tr><td>Cuir</td><td>10</td><td>0</td></tr><tr><td>Bois</td><td>15</td><td>5</td></tr><tr><td>Pierre</td><td>20</td><td>8</td></tr><tr><td>Métal</td><td>20</td><td>10</td></tr><tr><td>Traitement magique</td><td>×2</td><td>×2</td></tr></table></center></div></div>Un véhicule possède un nombre de [[PV|points de vie]] égal à la valeur en [[PV|points de vie]] de son matériau de base multipliée par le nombre de cases occupées par le véhicule. Lorsqu’il tombe en dessous de la moitié de ses [[PV|points de vie]], il est *cassé*. Lorsqu’il atteint 0 point de vie, il est *en panne*. Lorsqu’il atteint un nombre de points de vie égal à son nombre de cases il est *détruit*, si endommagé qu’il ne peut même pas servir de matériau de récupération.  
+<table class="tablo toutgauche autoalt" id="endommager">
+  <caption>Points de vie d’un véhicule selon le matériau</caption>
+  <tr><td>Matériau</td><td>Points de vie par case</td><td>Solidité</td></tr>
+  <tr><td>Cuir</td><td>10</td><td>0</td></tr>
+  <tr><td>Bois</td><td>15</td><td>5</td></tr>
+  <tr><td>Pierre</td><td>20</td><td>8</td></tr>
+  <tr><td>Métal</td><td>20</td><td>10</td></tr>
+  <tr><td>Traitement magique</td><td>×2</td><td>×2</td></tr>
+</table></center></div></div>Un véhicule possède un nombre de [[PV|points de vie]] égal à la valeur en [[PV|points de vie]] de son matériau de base multipliée par le nombre de cases occupées par le véhicule. Lorsqu’il tombe en dessous de la moitié de ses [[PV|points de vie]], il est *cassé*. Lorsqu’il atteint 0 point de vie, il est *en panne*. Lorsqu’il atteint un nombre de points de vie égal à son nombre de cases il est *détruit*, si endommagé qu’il ne peut même pas servir de matériau de récupération.  
 
 - {s:Reference|CONDUITECASSE}*Cassé.* Les [[véhicules]], et parfois leurs systèmes de propulsion, sont des objets et comme tous les objets, ils se cassent quand ils subissent des dégâts supérieurs à la moitié de leurs points de vie. Lorsqu’un [[véhicule]] est dans cet état préjudiciable, il subit une pénalité de -2 à sa [[CA]], ses [[jet de sauvegarde|jets de sauvegarde]] et ses [[BMO|tests de manœuvre de combat]], et le [[DD]] de [[conduire|conduite]] augmente de 2. Si un [[véhicule]] ou son système de propulsion est cassé, la [[vitesse maximale (véhicules)|vitesse maximale]] et la [[accélération (véhicules)|vitesse d’accélération]] sont réduites de moitié jusqu’à ce qu’il soit réparé. S’il est en mouvement et s’il se déplace à une vitesse supérieure à cette nouvelle valeur, il ralentit automatiquement pour atteindre sa nouvelle [[vitesse maximale (véhicules)|vitesse maximale]].
 - {s:Reference|CONDUITEENPANNE}*En panne.* Un véhicule est en panne lorsqu’il tombe à 0 point de vie et en dessous. Il ne peut être conduit et coule (s’il est sur l’eau) ou tombe (s’il est dans les airs). Un [[véhicules aériens|véhicule aérien]] chute à la moitié de sa [[vitesse maximale (véhicules)|vitesse maximale]] par [[round]]. Si un système de propulsion tombe à 0 point de vie ou moins, il est directement détruit.
@@ -88,7 +103,14 @@ Des méthodes plus communes peuvent aussi être utilisées. La compétence [[Art
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table class="tablo toutgauche autoalt" id="systemPropultion"><caption>Systèmes de propulsion</caption><tr><td>Matériel</td><td>Points de vie par case</td><td>Solidité</td></tr><tr><td>Voiles</td><td>5</td><td>0</td></tr><tr><td>Dirigeable</td><td>5</td><td>0</td></tr><tr><td>Moteur alchimique</td><td>20</td><td>8</td></tr><tr><td>Traitement magique</td><td>×2</td><td>×2</td></tr></table>
+<table class="tablo toutgauche autoalt" id="systemPropultion">
+  <caption>Systèmes de propulsion</caption>
+  <tr><td>Matériel</td><td>Points de vie par case</td><td>Solidité</td></tr>
+  <tr><td>Voiles</td><td>5</td><td>0</td></tr>
+  <tr><td>Dirigeable</td><td>5</td><td>0</td></tr>
+  <tr><td>Moteur alchimique</td><td>20</td><td>8</td></tr>
+  <tr><td>Traitement magique</td><td>×2</td><td>×2</td></tr>
+</table>
 
 </center></div></div>Les cases des systèmes de propulsion ont leurs propres caractéristiques, indépendantes de celles du [[véhicule]]. Utilisez les règles suivantes afin de les déterminer.
 
@@ -107,4 +129,13 @@ Des méthodes plus communes peuvent aussi être utilisées. La compétence [[Art
 Voici quelques systèmes de conduite typiques, ainsi que leur [[CA|Classe d’Armure]], leurs [[PV|points de vie]] et leur [[solidité]] habituels. Un système de conduite cassé augmente la difficulté du [[conduire|test de conduite]] de 10. S’il est détruit, il est impossible de [[conduire]] le [[véhicule]], et ce jusqu’à ce qu’il soit réparé.
 
 
-<table class="tablo toutgauche autoalt" id="systemeConduite"><caption>Systèmes de conduite</caption><tr><td>Système de conduite</td><td>CA</td><td>Points de vie</td><td>Solidité</td></tr><tr><td>Rênes</td><td>14</td><td>10</td><td>0</td></tr><tr><td>Gréements</td><td>9</td><td>5 par case de voilure</td><td>0</td></tr><tr><td>Barre</td><td>10</td><td>25</td><td>5</td></tr><tr><td>Manette</td><td>12</td><td>15</td><td>5</td></tr><tr><td>Gouvernail</td><td>10</td><td>25</td><td>5</td></tr><tr><td>Traitement magique</td><td>–</td><td>×2</td><td>×2</td></tr></table>
+<table class="tablo toutgauche autoalt" id="systemeConduite">
+  <caption>Systèmes de conduite</caption>
+  <tr><td>Système de conduite</td><td>CA</td><td>Points de vie</td><td>Solidité</td></tr>
+  <tr><td>Rênes</td><td>14</td><td>10</td><td>0</td></tr>
+  <tr><td>Gréements</td><td>9</td><td>5 par case de voilure</td><td>0</td></tr>
+  <tr><td>Barre</td><td>10</td><td>25</td><td>5</td></tr>
+  <tr><td>Manette</td><td>12</td><td>15</td><td>5</td></tr>
+  <tr><td>Gouvernail</td><td>10</td><td>25</td><td>5</td></tr>
+  <tr><td>Traitement magique</td><td>–</td><td>×2</td><td>×2</td></tr>
+</table>

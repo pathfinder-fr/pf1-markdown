@@ -20,8 +20,27 @@ La table suivante indique les [[DD]] associés aux différentes formes d’entra
 
 <center>
 
-<table CLASS="tablo"><caption>Entraves</caption><tr CLASS="titre"><td>Entraves</td><td>DD du test d’Évasion</td></tr><tr CLASS="premier"><td>cordes, personnage ligoté</td><td>20 + [[BMO]] de l’individu  
- qui a ligoté le personnage</td></tr><tr CLASS="alt"><td>[[Tableau récapitulatif des armes|filet]], sorts de *[[contrôle des plantes]]*, *[[corde animée]]*, *[[empire végétal]]* ou *[[enchevêtrement]]*</td><td>20</td></tr><tr><td>sort de *[[collet]]*</td><td>23</td></tr><tr CLASS="alt"><td>menottes</td><td>30</td></tr><tr><td>conduit étroit</td><td>30</td></tr><tr CLASS="alt"><td>menottes de qualité supérieure</td><td>35</td></tr><tr><td>situation de [[lutte]]</td><td>[[DMD]] de l’adversaire</td></tr></table>
+<table CLASS="tablo">
+  <caption>Entraves</caption>
+  <tr CLASS="titre"><td>Entraves</td><td>DD du test d’Évasion</td></tr>
+  <tr CLASS="premier">
+    <td>cordes, personnage ligoté</td>
+    <td>20 + [[BMO]] de l’individu  
+ qui a ligoté le personnage</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>
+      [[Tableau récapitulatif des armes|filet]], sorts de *[[contrôle des plantes]]*, *[[corde animée]]*, *[[empire
+      végétal]]* ou *[[enchevêtrement]]*
+    </td>
+    <td>20</td>
+  </tr>
+  <tr><td>sort de *[[collet]]*</td><td>23</td></tr>
+  <tr CLASS="alt"><td>menottes</td><td>30</td></tr>
+  <tr><td>conduit étroit</td><td>30</td></tr>
+  <tr CLASS="alt"><td>menottes de qualité supérieure</td><td>35</td></tr>
+  <tr><td>situation de [[lutte]]</td><td>[[DMD]] de l’adversaire</td></tr>
+</table>
 
 </center>
 

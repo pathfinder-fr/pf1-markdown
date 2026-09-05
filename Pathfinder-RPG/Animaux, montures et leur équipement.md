@@ -10,11 +10,550 @@ Categories:
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Montures et familiers</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Animaux, montures et leur équipement#Âne ou mulet|↓]] [[Âne ou mulet (objet)|Âne ou mulet]]</td><td>8 po</td><td>300–400 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Araignée|↓]] [[Araignée (objet)|Araignée]]</td><td>25 po</td><td>0,23 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Belette|↓]] [[Belette (objet)|Belette]]</td><td>2 po</td><td>0,23 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Blaireau|↓]] [[Blaireau (objet)|Blaireau]]</td><td>15 po</td><td>10 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Bovin|↓]] [[Bovin (objet)|Bovin]]</td><td>10-50 po</td><td>750 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Canard|↓]] [[Canard (objet)|Canard]]</td><td>2 po</td><td>1,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Canari|↓]] [[Canari (objet)|Canari]]</td><td>4 pc</td><td>0,25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chat|↓]] [[Chat (objet)|Chat]]</td><td>3 pc</td><td>4 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chat|↓]] [[Chat (objet)|Chat (sage du désert)]]</td><td>6 po</td><td>4 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chauve-souris|↓]] [[Chauve-souris (objet)|Chauve-souris]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chauve-souris|↓]] [[Chauve-souris (objet)|Chauve-souris (bois des ombres)]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chauve-souris sanguinaire de selle|↓]] [[Chauve-souris sanguinaire de selle (objet)|Chauve-souris sanguinaire de selle (entraînée au combat)]]</td><td>450 po</td><td>225 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chauve-souris sanguinaire de selle|↓]] [[Chauve-souris sanguinaire de selle (objet)|Chauve-souris sanguinaire de selle (normale)]]</td><td>300 po</td><td>200 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (léger)]]</td><td>75 po</td><td>450 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (léger, entraîné au combat)]]</td><td>110 po</td><td>600 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (lourd)]]</td><td>200 po</td><td>1 000 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (lourd, entraîné au combat)]]</td><td>300 po</td><td>1 500 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (poney)]]</td><td>30 po</td><td>400 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (poney, entraîné au combat)]]</td><td>45 po</td><td>450 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chèvre|↓]] [[Chèvre (objet)|Chèvre]]</td><td>1-6 po</td><td>25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chien|↓]] [[Chien (objet)|Chien (d'appartement)]]</td><td>15 po</td><td>2,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chien|↓]] [[Chien (objet)|Chien (de garde)]]</td><td>25 po</td><td>12,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chien|↓]] [[Chien (objet)|Chien (de selle)]]</td><td>150 po</td><td>25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chouette|↓]] [[Chouette (objet)|Chouette]]</td><td>20 po</td><td>0,5–1,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Chouette|↓]] [[Chouette (objet)|Chouette (forêt des trois nations)]]</td><td>20 po</td><td>1,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cochon|↓]] [[Cochon (objet)|Cochon]]</td><td>3-10 po</td><td>50–150 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Corbeau|↓]] [[Corbeau (objet)|Corbeau]]</td><td>2 po</td><td>1,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Crabe|↓]] [[Crabe (objet)|Crabe]]</td><td>20 po</td><td>2,5–3,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Crapaud|↓]] [[Crapaud (objet)|Crapaud]]</td><td>2 pc</td><td>0,2 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Crapaud|↓]] [[Crapaud (objet)|Crapaud (vision)]]</td><td>10 po</td><td>0,14 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Dromadaire|↓]] [[Dromadaire (objet)|Dromadaire]]</td><td>150 po</td><td>750 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Écureuil|↓]] [[Écureuil (objet)|Écureuil (normal)]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Écureuil|↓]] [[Écureuil (objet)|Écureuil (volant)]]</td><td>20 po</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Éléphant|↓]] [[Éléphant (objet)|Éléphant]]</td><td>1.000 po</td><td>5 tonnes</td></tr><tr><td>[[Animaux, montures et leur équipement#Épervier|↓]] [[Épervier (objet)|Épervier]]</td><td>18 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Faucon|↓]] [[Faucon (objet)|Faucon]]</td><td>40 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Félin de chasse|↓]] [[Félin de chasse (objet)|Félin de chasse]]</td><td>100 po</td><td>50 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Fer de hache|↓]] [[Fer de hache (objet)|Fer de hache (entrainé au combat)]]</td><td>1.500 po</td><td>250 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Fer de hache|↓]] [[Fer de hache (objet)|Fer de hache (œuf)]]</td><td>1.000 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Gecko de selle|↓]] [[Gecko de selle (objet)|Gecko de selle (entraîné au combat)]]</td><td>400 po</td><td>750 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Gecko de selle|↓]] [[Gecko de selle (objet)|Gecko de selle (normal)]]</td><td>300 po</td><td>600 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Griffon|↓]] [[Griffon (objet)|Griffon (entraîné au combat)]]</td><td>8.000 po</td><td>250 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Griffon|↓]] [[Griffon (objet)|Griffon (œuf)]]</td><td>3.500 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Grive|↓]] [[Grive (objet)|Grive]]</td><td>1 pa</td><td>0,2 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Hérisson|↓]] [[Hérisson (objet)|Hérisson]]</td><td>5 po</td><td>1,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Hippogriffe|↓]] [[Hippogriffe (objet)|Hippogriffe (entraîné au combat)]]</td><td>5.000 po</td><td>250 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Hippogriffe|↓]] [[Hippogriffe (objet)|Hippogriffe (œuf)]]</td><td>200 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Lapin|↓]] [[Lapin (objet)|Lapin]]</td><td>2 po</td><td>1,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Lézard|↓]] [[Lézard (objet)|Lézard]]</td><td>5 pc</td><td>0,057 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Lézard|↓]] [[Lézard (objet)|Lézard (gecko de la Magiocratie)]]</td><td>12 po</td><td>0,011 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Loutre|↓]] [[Loutre (objet)|Loutre]]</td><td>20 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Mastodonte|↓]] [[Mastodonte (objet)|Mastodonte]]</td><td>2.000 po</td><td>8 tonnes</td></tr><tr><td>[[Animaux, montures et leur équipement#Moufette|↓]] [[Moufette (objet)|Moufette]]</td><td>10 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Mouton|↓]] [[Mouton (objet)|Mouton]]</td><td>2-20 po</td><td>75 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Perroquet|↓]] [[Perroquet (objet)|Perroquet]]</td><td>50 po</td><td>2 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Pieuvre|↓]] [[Pieuvre (objet)|Pieuvre]]</td><td>25 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Poulet|↓]] [[Poulet (objet)|Poulet]]</td><td>1 po</td><td>3 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Pseudo-dragon|↓]] [[Pseudo-dragon (objet)|Pseudo-dragon]]</td><td>200 po</td><td>3,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Rat|↓]] [[Rat (objet)|Rat]]</td><td>1 pc</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Rat|↓]] [[Rat (objet)|Rat (bleu)]]</td><td>1 po</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Rat de selle|↓]] [[Rat de selle (objet)|Rat de selle (entraîné au combat)]]</td><td>75 po</td><td>25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Rat de selle|↓]] [[Rat de selle (objet)|Rat de selle (normal)]]</td><td>50 po</td><td>25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Rat sanguinaire|↓]] [[Rat sanguinaire (objet)|Rat sanguinaire]]</td><td>5 po</td><td>25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Rat-âne|↓]] [[Rat-âne (objet)|Rat-âne]]</td><td>1 po</td><td>25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Raton-laveur|↓]] [[Raton-laveur (objet)|Raton-laveur]]</td><td>5 po</td><td>3,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Renard|↓]] [[Renard (objet)|Renard]]</td><td>8 po</td><td>6 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Scorpion à queue verte|↓]] [[Scorpion à queue verte (objet)|Scorpion à queue verte]]</td><td>15 po</td><td>0,25 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Scutigère véloce|↓]] [[Scutigère véloce (objet)|Scutigère véloce]]</td><td>1 pc</td><td>0,085 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Serpent constricteur|↓]] [[Serpent constricteur (objet)|Serpent constricteur]]</td><td>5 po</td><td>30 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Singe|↓]] [[Singe (objet)|Singe]]</td><td>3 po</td><td>2,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Strige|↓]] [[Strige (objet)|Strige]]</td><td>20 po</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Tortue|↓]] [[Tortue (objet)|Tortue]]</td><td>3 po</td><td>2 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Vipère|↓]] [[Vipère (objet)|Vipère]]</td><td>5 po</td><td>0,28 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Yack|↓]] [[Yack (objet)|Yack]]</td><td>24 po</td><td>500 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Montures et familiers</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Animaux, montures et leur équipement#Âne ou mulet|↓]] [[Âne ou mulet (objet)|Âne ou mulet]]</td>
+    <td>8 po</td>
+    <td>300–400 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Araignée|↓]] [[Araignée (objet)|Araignée]]</td>
+    <td>25 po</td>
+    <td>0,23 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Belette|↓]] [[Belette (objet)|Belette]]</td>
+    <td>2 po</td>
+    <td>0,23 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Blaireau|↓]] [[Blaireau (objet)|Blaireau]]</td>
+    <td>15 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Bovin|↓]] [[Bovin (objet)|Bovin]]</td>
+    <td>10-50 po</td>
+    <td>750 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Canard|↓]] [[Canard (objet)|Canard]]</td>
+    <td>2 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Canari|↓]] [[Canari (objet)|Canari]]</td>
+    <td>4 pc</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Animaux, montures et leur équipement#Chat|↓]] [[Chat (objet)|Chat]]</td><td>3 pc</td><td>4 kg</td></tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chat|↓]] [[Chat (objet)|Chat (sage du désert)]]</td>
+    <td>6 po</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chauve-souris|↓]] [[Chauve-souris (objet)|Chauve-souris]]</td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Chauve-souris|↓]] [[Chauve-souris (objet)|Chauve-souris (bois des
+      ombres)]]
+    </td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Chauve-souris sanguinaire de selle|↓]] [[Chauve-souris sanguinaire de
+      selle (objet)|Chauve-souris sanguinaire de selle (entraînée au combat)]]
+    </td>
+    <td>450 po</td>
+    <td>225 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Chauve-souris sanguinaire de selle|↓]] [[Chauve-souris sanguinaire de
+      selle (objet)|Chauve-souris sanguinaire de selle (normale)]]
+    </td>
+    <td>300 po</td>
+    <td>200 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (léger)]]</td>
+    <td>75 po</td>
+    <td>450 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (léger, entraîné au combat)]]</td>
+    <td>110 po</td>
+    <td>600 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (lourd)]]</td>
+    <td>200 po</td>
+    <td>1 000 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (lourd, entraîné au combat)]]</td>
+    <td>300 po</td>
+    <td>1 500 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (poney)]]</td>
+    <td>30 po</td>
+    <td>400 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cheval|↓]] [[Cheval (objet)|Cheval (poney, entraîné au combat)]]</td>
+    <td>45 po</td>
+    <td>450 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chèvre|↓]] [[Chèvre (objet)|Chèvre]]</td>
+    <td>1-6 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chien|↓]] [[Chien (objet)|Chien (d'appartement)]]</td>
+    <td>15 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chien|↓]] [[Chien (objet)|Chien (de garde)]]</td>
+    <td>25 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chien|↓]] [[Chien (objet)|Chien (de selle)]]</td>
+    <td>150 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chouette|↓]] [[Chouette (objet)|Chouette]]</td>
+    <td>20 po</td>
+    <td>0,5–1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Chouette|↓]] [[Chouette (objet)|Chouette (forêt des trois nations)]]</td>
+    <td>20 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cochon|↓]] [[Cochon (objet)|Cochon]]</td>
+    <td>3-10 po</td>
+    <td>50–150 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Corbeau|↓]] [[Corbeau (objet)|Corbeau]]</td>
+    <td>2 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Crabe|↓]] [[Crabe (objet)|Crabe]]</td>
+    <td>20 po</td>
+    <td>2,5–3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Crapaud|↓]] [[Crapaud (objet)|Crapaud]]</td>
+    <td>2 pc</td>
+    <td>0,2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Crapaud|↓]] [[Crapaud (objet)|Crapaud (vision)]]</td>
+    <td>10 po</td>
+    <td>0,14 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Dromadaire|↓]] [[Dromadaire (objet)|Dromadaire]]</td>
+    <td>150 po</td>
+    <td>750 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Écureuil|↓]] [[Écureuil (objet)|Écureuil (normal)]]</td>
+    <td>1 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Écureuil|↓]] [[Écureuil (objet)|Écureuil (volant)]]</td>
+    <td>20 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Éléphant|↓]] [[Éléphant (objet)|Éléphant]]</td>
+    <td>1.000 po</td>
+    <td>5 tonnes</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Épervier|↓]] [[Épervier (objet)|Épervier]]</td>
+    <td>18 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Faucon|↓]] [[Faucon (objet)|Faucon]]</td>
+    <td>40 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Félin de chasse|↓]] [[Félin de chasse (objet)|Félin de chasse]]</td>
+    <td>100 po</td>
+    <td>50 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Fer de hache|↓]] [[Fer de hache (objet)|Fer de hache (entrainé au
+      combat)]]
+    </td>
+    <td>1.500 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Fer de hache|↓]] [[Fer de hache (objet)|Fer de hache (œuf)]]</td>
+    <td>1.000 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Gecko de selle|↓]] [[Gecko de selle (objet)|Gecko de selle (entraîné au
+      combat)]]
+    </td>
+    <td>400 po</td>
+    <td>750 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Gecko de selle|↓]] [[Gecko de selle (objet)|Gecko de selle (normal)]]
+    </td>
+    <td>300 po</td>
+    <td>600 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Griffon|↓]] [[Griffon (objet)|Griffon (entraîné au combat)]]</td>
+    <td>8.000 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Griffon|↓]] [[Griffon (objet)|Griffon (œuf)]]</td>
+    <td>3.500 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Grive|↓]] [[Grive (objet)|Grive]]</td>
+    <td>1 pa</td>
+    <td>0,2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Hérisson|↓]] [[Hérisson (objet)|Hérisson]]</td>
+    <td>5 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Hippogriffe|↓]] [[Hippogriffe (objet)|Hippogriffe (entraîné au
+      combat)]]
+    </td>
+    <td>5.000 po</td>
+    <td>250 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Hippogriffe|↓]] [[Hippogriffe (objet)|Hippogriffe (œuf)]]</td>
+    <td>200 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Lapin|↓]] [[Lapin (objet)|Lapin]]</td>
+    <td>2 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Lézard|↓]] [[Lézard (objet)|Lézard]]</td>
+    <td>5 pc</td>
+    <td>0,057 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Lézard|↓]] [[Lézard (objet)|Lézard (gecko de la Magiocratie)]]</td>
+    <td>12 po</td>
+    <td>0,011 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Loutre|↓]] [[Loutre (objet)|Loutre]]</td>
+    <td>20 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Mastodonte|↓]] [[Mastodonte (objet)|Mastodonte]]</td>
+    <td>2.000 po</td>
+    <td>8 tonnes</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Moufette|↓]] [[Moufette (objet)|Moufette]]</td>
+    <td>10 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Mouton|↓]] [[Mouton (objet)|Mouton]]</td>
+    <td>2-20 po</td>
+    <td>75 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Perroquet|↓]] [[Perroquet (objet)|Perroquet]]</td>
+    <td>50 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Pieuvre|↓]] [[Pieuvre (objet)|Pieuvre]]</td>
+    <td>25 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Poulet|↓]] [[Poulet (objet)|Poulet]]</td>
+    <td>1 po</td>
+    <td>3 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Pseudo-dragon|↓]] [[Pseudo-dragon (objet)|Pseudo-dragon]]</td>
+    <td>200 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr><td>[[Animaux, montures et leur équipement#Rat|↓]] [[Rat (objet)|Rat]]</td><td>1 pc</td><td>0,5 kg</td></tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Rat|↓]] [[Rat (objet)|Rat (bleu)]]</td>
+    <td>1 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Rat de selle|↓]] [[Rat de selle (objet)|Rat de selle (entraîné au
+      combat)]]
+    </td>
+    <td>75 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Rat de selle|↓]] [[Rat de selle (objet)|Rat de selle (normal)]]</td>
+    <td>50 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Rat sanguinaire|↓]] [[Rat sanguinaire (objet)|Rat sanguinaire]]</td>
+    <td>5 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Rat-âne|↓]] [[Rat-âne (objet)|Rat-âne]]</td>
+    <td>1 po</td>
+    <td>25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Raton-laveur|↓]] [[Raton-laveur (objet)|Raton-laveur]]</td>
+    <td>5 po</td>
+    <td>3,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Renard|↓]] [[Renard (objet)|Renard]]</td>
+    <td>8 po</td>
+    <td>6 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Scorpion à queue verte|↓]] [[Scorpion à queue verte (objet)|Scorpion à
+      queue verte]]
+    </td>
+    <td>15 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Scutigère véloce|↓]] [[Scutigère véloce (objet)|Scutigère véloce]]</td>
+    <td>1 pc</td>
+    <td>0,085 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Serpent constricteur|↓]] [[Serpent constricteur (objet)|Serpent
+      constricteur]]
+    </td>
+    <td>5 po</td>
+    <td>30 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Singe|↓]] [[Singe (objet)|Singe]]</td>
+    <td>3 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Strige|↓]] [[Strige (objet)|Strige]]</td>
+    <td>20 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Tortue|↓]] [[Tortue (objet)|Tortue]]</td>
+    <td>3 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Vipère|↓]] [[Vipère (objet)|Vipère]]</td>
+    <td>5 po</td>
+    <td>0,28 kg</td>
+  </tr>
+  <tr><td>[[Animaux, montures et leur équipement#Yack|↓]] [[Yack (objet)|Yack]]</td><td>24 po</td><td>500 kg</td></tr>
+</table>
 
 
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Équipement pour animaux</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Animaux, montures et leur équipement#Barde|↓]] [[Barde (objet)|Barde (taille G)]]</td><td>×4</td><td>×2</td></tr><tr><td>[[Animaux, montures et leur équipement#Barde|↓]] [[Barde (objet)|Barde (taille M)]]</td><td>×2</td><td>×1</td></tr><tr><td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille G)]]</td><td>30 po</td><td>120 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille Min ou I)]]</td><td>10 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille P ou M)]]</td><td>15 po</td><td>30 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille TG)]]</td><td>60 po</td><td>480 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille TP)]]</td><td>2 po</td><td>2,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Écurie|↓]] [[Écurie (objet)|Écurie (par jour)]]</td><td>5 pa</td><td>—</td></tr><tr><td>[[Animaux, montures et leur équipement#Fontes|↓]] [[Fontes (objet)|Fontes]]</td><td>4 po</td><td>4 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Fouet de dressage|↓]] [[Fouet de dressage (objet)|Fouet de dressage]]</td><td>5 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Gant de fauconnerie|↓]] [[Gant de fauconnerie (objet)|Gant de fauconnerie]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Harnachement de dressage|↓]] [[Harnachement de dressage (objet)|Harnachement de dressage]]</td><td>10 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Harnais à corne|↓]] [[Harnais à corne (objet)|Harnais à corne]]</td><td>30 po</td><td>10 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Harnais animal|↓]] [[Harnais animal (objet)|Harnais animal]]</td><td>2 po</td><td>1 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Harnais de vol|↓]] [[Harnais de vol (objet)|Harnais de vol (de maître)]]</td><td>80 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Harnais de vol|↓]] [[Harnais de vol (objet)|Harnais de vol (standard)]]</td><td>10 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Mors et brides|↓]] [[Mors et brides (objet)|Mors et brides]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Nourriture pour animaux|↓]] [[Nourriture pour animaux (objet)|Nourriture pour animaux (par jour)]]</td><td>5 pc</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Ruche de voyage|↓]] [[Ruche de voyage (objet)|Ruche de voyage]]</td><td>10 po</td><td>5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (de bât)]]</td><td>5 po</td><td>7,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (de guerre)]]</td><td>20 po</td><td>15 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (d'équitation)]]</td><td>10 po</td><td>12,5 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (spéciale, de bât)]]</td><td>15 po</td><td>10 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (spéciale, de guerre)]]</td><td>60 po</td><td>20 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (spéciale, d'équitation)]]</td><td>30 po</td><td>15 kg</td></tr><tr><td>[[Animaux, montures et leur équipement#Selle de gorthek|↓]] [[Selle de gorthek (objet)|Selle de gorthek]]</td><td>50 po</td><td>37,5 kg</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Équipement pour animaux</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Animaux, montures et leur équipement#Barde|↓]] [[Barde (objet)|Barde (taille G)]]</td>
+    <td>×4</td>
+    <td>×2</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Barde|↓]] [[Barde (objet)|Barde (taille M)]]</td>
+    <td>×2</td>
+    <td>×1</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille G)]]</td>
+    <td>30 po</td>
+    <td>120 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille Min ou I)]]</td>
+    <td>10 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille P ou M)]]</td>
+    <td>15 po</td>
+    <td>30 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille TG)]]</td>
+    <td>60 po</td>
+    <td>480 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Cage|↓]] [[Cage (objet)|Cage (taille TP)]]</td>
+    <td>2 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Écurie|↓]] [[Écurie (objet)|Écurie (par jour)]]</td>
+    <td>5 pa</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Fontes|↓]] [[Fontes (objet)|Fontes]]</td>
+    <td>4 po</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Fouet de dressage|↓]] [[Fouet de dressage (objet)|Fouet de dressage]]
+    </td>
+    <td>5 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Gant de fauconnerie|↓]] [[Gant de fauconnerie (objet)|Gant de
+      fauconnerie]]
+    </td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Harnachement de dressage|↓]] [[Harnachement de dressage
+      (objet)|Harnachement de dressage]]
+    </td>
+    <td>10 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Harnais à corne|↓]] [[Harnais à corne (objet)|Harnais à corne]]</td>
+    <td>30 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Harnais animal|↓]] [[Harnais animal (objet)|Harnais animal]]</td>
+    <td>2 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Harnais de vol|↓]] [[Harnais de vol (objet)|Harnais de vol (de
+      maître)]]
+    </td>
+    <td>80 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Harnais de vol|↓]] [[Harnais de vol (objet)|Harnais de vol (standard)]]
+    </td>
+    <td>10 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Mors et brides|↓]] [[Mors et brides (objet)|Mors et brides]]</td>
+    <td>2 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Animaux, montures et leur équipement#Nourriture pour animaux|↓]] [[Nourriture pour animaux
+      (objet)|Nourriture pour animaux (par jour)]]
+    </td>
+    <td>5 pc</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Ruche de voyage|↓]] [[Ruche de voyage (objet)|Ruche de voyage]]</td>
+    <td>10 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (de bât)]]</td>
+    <td>5 po</td>
+    <td>7,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (de guerre)]]</td>
+    <td>20 po</td>
+    <td>15 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (d'équitation)]]</td>
+    <td>10 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (spéciale, de bât)]]</td>
+    <td>15 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (spéciale, de guerre)]]</td>
+    <td>60 po</td>
+    <td>20 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle|↓]] [[Selle (objet)|Selle (spéciale, d'équitation)]]</td>
+    <td>30 po</td>
+    <td>15 kg</td>
+  </tr>
+  <tr>
+    <td>[[Animaux, montures et leur équipement#Selle de gorthek|↓]] [[Selle de gorthek (objet)|Selle de gorthek]]</td>
+    <td>50 po</td>
+    <td>37,5 kg</td>
+  </tr>
+</table>
 
 </div>
 

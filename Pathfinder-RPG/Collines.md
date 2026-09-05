@@ -16,7 +16,13 @@ Les collines existent dans la plupart des types de terrains, mais il leur arrive
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de colline</td><td>Coteaux</td><td>Colline accidentée</td></tr><tr CLASS="premier"><td>Pente douce</td><td>75%</td><td>40%</td></tr><tr CLASS="alt"><td>Pente raide</td><td>20%</td><td>50%</td></tr><tr><td>Broussailles légères</td><td>5%</td><td>10%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>15%</td><td>15%</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Catégories de colline</td><td>Coteaux</td><td>Colline accidentée</td></tr>
+  <tr CLASS="premier"><td>Pente douce</td><td>75%</td><td>40%</td></tr>
+  <tr CLASS="alt"><td>Pente raide</td><td>20%</td><td>50%</td></tr>
+  <tr><td>Broussailles légères</td><td>5%</td><td>10%</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>15%</td><td>15%</td></tr>
+</table>
 
 </center>
 </div/></div>

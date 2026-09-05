@@ -65,4 +65,125 @@ Le personnage est sinistre et cruel. Il a vendu son âme à la cause du Mal.
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Mal</td><td>Sous-domaine du Cannibalisme</td><td>Sous-domaine de la Corruption</td><td>Sous-domaine des Daémons</td><td>Sous-domaine des Démodandes</td><td>Sous-domaine des Démons</td><td>Sous-domaine des Diables</td><td>Sous-domaine des Kytons</td><td>Sous-domaine de la Peur</td></tr><tr CLASS="premier"><td>1er</td><td>*[[protection contre le Bien]]*</td><td>*[[morsure magique]]*</td><td>*idem*</td><td>*[[frayeur]]*</td><td>*idem*</td><td>*[[anathème]]*</td><td>*[[injonction]]*</td><td>*[[retardement de la douleur]]*</td><td>*[[frayeur]]*</td></tr><tr><td>2e</td><td>*[[arme alignée]]* (lancé comme un sort du Mal uniquement)</td><td>*[[coeur de lennemi|coeur de l'ennemi]]*</td><td>*[[suggestion]]*</td><td>*idem*</td><td>*[[arme alignée]]* (lancé comme un sort du Chaos ou du Mal uniquement)</td><td>*idem*</td><td>*idem*</td><td>*[[instrument dagonie|instrument d'agonie]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[cercle magique contre le Bien]]*</td><td>*[[morsure magique suprême]]*</td><td>*idem*</td><td>*[[baiser du vampire]]*</td><td>*idem*</td><td>*[[rage]]*</td><td>*[[suggestion]]*</td><td>*[[hurlement dagonie|hurlement d'agonie]]*</td><td>*[[effroi]]*</td></tr><tr><td>4e</td><td>*[[ténèbres maudites]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[terreur]]*</td></tr><tr><td>5e</td><td>*[[rejet du Bien]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[symbole de douleur]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[création de mort-vivant]]*</td><td>*idem*</td><td>*[[malédiction majeure]]*</td><td>*[[contrat intermédiaire]]* (infernaux uniquement)</td><td>*[[corrosion]]*</td><td>*[[contrat intermédiaire]]* (démons uniquement)</td><td>*[[contrat intermédiaire]]* (diables uniquement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[blasphème]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[aura maudite]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[convocation de monstres IX]]* (lancé comme un sort du Mal seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine du Mal</td>
+    <td>Sous-domaine du Cannibalisme</td>
+    <td>Sous-domaine de la Corruption</td>
+    <td>Sous-domaine des Daémons</td>
+    <td>Sous-domaine des Démodandes</td>
+    <td>Sous-domaine des Démons</td>
+    <td>Sous-domaine des Diables</td>
+    <td>Sous-domaine des Kytons</td>
+    <td>Sous-domaine de la Peur</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[protection contre le Bien]]*</td>
+    <td>*[[morsure magique]]*</td>
+    <td>*idem*</td>
+    <td>*[[frayeur]]*</td>
+    <td>*idem*</td>
+    <td>*[[anathème]]*</td>
+    <td>*[[injonction]]*</td>
+    <td>*[[retardement de la douleur]]*</td>
+    <td>*[[frayeur]]*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[arme alignée]]* (lancé comme un sort du Mal uniquement)</td>
+    <td>*[[coeur de lennemi|coeur de l'ennemi]]*</td>
+    <td>*[[suggestion]]*</td>
+    <td>*idem*</td>
+    <td>*[[arme alignée]]* (lancé comme un sort du Chaos ou du Mal uniquement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[instrument dagonie|instrument d'agonie]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[cercle magique contre le Bien]]*</td>
+    <td>*[[morsure magique suprême]]*</td>
+    <td>*idem*</td>
+    <td>*[[baiser du vampire]]*</td>
+    <td>*idem*</td>
+    <td>*[[rage]]*</td>
+    <td>*[[suggestion]]*</td>
+    <td>*[[hurlement dagonie|hurlement d'agonie]]*</td>
+    <td>*[[effroi]]*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[ténèbres maudites]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[terreur]]*</td>
+  </tr>
+  <tr>
+    <td>5e</td>
+    <td>*[[rejet du Bien]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*[[symbole de douleur]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>6e</td>
+    <td>*[[création de mort-vivant]]*</td>
+    <td>*idem*</td>
+    <td>*[[malédiction majeure]]*</td>
+    <td>*[[contrat intermédiaire]]* (infernaux uniquement)</td>
+    <td>*[[corrosion]]*</td>
+    <td>*[[contrat intermédiaire]]* (démons uniquement)</td>
+    <td>*[[contrat intermédiaire]]* (diables uniquement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>7e</td>
+    <td>*[[blasphème]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[aura maudite]]*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>9e</td>
+    <td>*[[convocation de monstres IX]]* (lancé comme un sort du Mal seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+</table>

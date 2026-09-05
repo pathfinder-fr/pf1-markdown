@@ -108,7 +108,56 @@ Les règles suivantes présentent un archétype, des dons, un sort et des objets
 Voici quelques dons très appréciés des gobelours.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Beuglement terrifiant]]</td><td><sup>CM</sup></td><td>[[Force intimidante]]</td><td>Démoralisation gratuite pendant le round de surprise</td></tr><tr CLASS="premier"><td>[[Blessant]]</td><td><sup>CM</sup></td><td>[[For]] 13, [[Attaque en puissance]]</td><td>Attaque au corps à corps gratuite après un test d'Intimidation réussit</td></tr><tr><td>&emsp;[[Rallonge]]</td><td><sup>CM</sup></td><td>[[For]] 13, [[Blessant]], [[Attaque en puissance]]</td><td>Inflige moins de dégâts afin de prolonger la durée d'un effet de peur</td></tr><tr CLASS="premier"><td>[[Coup déstabilisant (CM)]]</td><td><sup>CM</sup></td><td>[[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8</td><td>Utilise la Frappe décivise pour rendre un adversaire chancelant</td></tr><tr CLASS="premier"><td>[[Guérillero]]</td><td><sup>CM</sup></td><td>[[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]]</td><td>Agrippe et renverse les adversaires surpris</td></tr><tr CLASS="premier"><td>[[Menace viscérale]]</td><td><sup>CM</sup></td><td>[[Force intimidante]]</td><td>Utilise l'Intimidation plutôt que le Bluff pour feinter</td></tr><tr CLASS="premier"><td>[[Strangulation (CM)]]</td><td><sup>CM</sup></td><td>[[Maniement dune arme exotique|Maniement d'une arme exotique]] (lasso), [[Arme de prédilection]] (lasso)</td><td>Étrangle les ennemis avec un lasso, les empêchant de parler</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Beuglement terrifiant]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Force intimidante]]</td>
+    <td>Démoralisation gratuite pendant le round de surprise</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Blessant]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 13, [[Attaque en puissance]]</td>
+    <td>Attaque au corps à corps gratuite après un test d'Intimidation réussit</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Rallonge]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 13, [[Blessant]], [[Attaque en puissance]]</td>
+    <td>Inflige moins de dégâts afin de prolonger la durée d'un effet de peur</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coup déstabilisant (CM)]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8</td>
+    <td>Utilise la Frappe décivise pour rendre un adversaire chancelant</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Guérillero]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]]</td>
+    <td>Agrippe et renverse les adversaires surpris</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Menace viscérale]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Force intimidante]]</td>
+    <td>Utilise l'Intimidation plutôt que le Bluff pour feinter</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Strangulation (CM)]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Maniement dune arme exotique|Maniement d'une arme exotique]] (lasso), [[Arme de prédilection]] (lasso)</td>
+    <td>Étrangle les ennemis avec un lasso, les empêchant de parler</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

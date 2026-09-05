@@ -156,6 +156,32 @@ Les [[dons de métamagie]], comme [[Extension deffet|Extension d’effet]] et [[
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Dons de lanceur de mots</caption><tr CLASS="titre"><td WIDTH="22%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Lanceur de sorts expérimental]]</td><td><sup>AM</sup></td><td>Capacité à lancer des sorts</td><td>Accès à des sorts de mots mineurs</td></tr><tr CLASS="premier alt donprincipal"><td>[[Maîtrise du méta mot]]</td><td><sup>AM</sup></td><td>Capacité à lancer des sorts de mot</td><td>Trois utilisations de méta mots supplémentaires/jour</td></tr><tr CLASS="premier donprincipal"><td>[[Mot supplémentaire]]</td><td><sup>AM</sup></td><td>Capacité à lancer des sorts de mot, [[NLS]] 1, voir Spécial</td><td>Accès à un mot effet supplémentaire</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Dons de lanceur de mots</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Lanceur de sorts expérimental]]</td>
+    <td><sup>AM</sup></td>
+    <td>Capacité à lancer des sorts</td>
+    <td>Accès à des sorts de mots mineurs</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Maîtrise du méta mot]]</td>
+    <td><sup>AM</sup></td>
+    <td>Capacité à lancer des sorts de mot</td>
+    <td>Trois utilisations de méta mots supplémentaires/jour</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Mot supplémentaire]]</td>
+    <td><sup>AM</sup></td>
+    <td>Capacité à lancer des sorts de mot, [[NLS]] 1, voir Spécial</td>
+    <td>Accès à un mot effet supplémentaire</td>
+  </tr>
+</table>
 
 </center>

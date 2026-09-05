@@ -8,7 +8,40 @@ LastModified: 2021-10-31 02:11
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Charge transportable {s:Reference|POIDSTRANSPORTABLE}</caption><tr CLASS="titre"><td>Force</td><td>Charge légère</td><td>Charge intermédiaire</td><td>Charge lourde</td></tr><tr CLASS="premier"><td>1</td><td>jusqu’à 1,5 kg</td><td>1,5–3 kg</td><td>3–5 kg</td></tr><tr CLASS="alt"><td>2</td><td>jusqu’à 3 kg</td><td>3–6,5 kg</td><td>6,5–10 kg</td></tr><tr><td>3</td><td>jusqu’à 5 kg</td><td>5–10 kg</td><td>10–15 kg</td></tr><tr CLASS="alt"><td>4</td><td>jusqu’à 6,5 kg</td><td>6,5–13 kg</td><td>13–20 kg</td></tr><tr><td>5</td><td>jusqu’à 8 kg</td><td>8–16,5 kg</td><td>16,5–25 kg</td></tr><tr CLASS="alt"><td>6</td><td>jusqu’à 10 kg</td><td>10–20 kg</td><td>20–30 kg</td></tr><tr><td>7</td><td>jusqu’à 11,5 kg</td><td>11,5–23 kg</td><td>23–35 kg</td></tr><tr CLASS="alt"><td>8</td><td>jusqu’à 13 kg</td><td>13–26,5 kg</td><td>26,5–40 kg</td></tr><tr><td>9</td><td>jusqu’à 15 kg</td><td>15–30 kg</td><td>30–45 kg</td></tr><tr CLASS="alt"><td>10</td><td>jusqu’à 16,5 kg</td><td>16,5–33 kg</td><td>33–50 kg</td></tr><tr><td>11</td><td>jusqu’à 19 kg</td><td>19–38 kg</td><td>38–57,5 kg</td></tr><tr CLASS="alt"><td>12</td><td>jusqu’à 21,5 kg</td><td>21,5–43 kg</td><td>43–65 kg</td></tr><tr><td>13</td><td>jusqu’à 25 kg</td><td>25–50 kg</td><td>50–75 kg</td></tr><tr CLASS="alt"><td>14</td><td>jusqu’à 29 kg</td><td>29–58 kg</td><td>58–87,5 kg</td></tr><tr><td>15</td><td>jusqu’à 33 kg</td><td>33–66,5 kg</td><td>66,5–100 kg</td></tr><tr CLASS="alt"><td>16</td><td>jusqu’à 38 kg</td><td>38–76,5 kg</td><td>76,5–115 kg</td></tr><tr><td>17</td><td>jusqu’à 43 kg</td><td>43–86,5 kg</td><td>86,5–130 kg</td></tr><tr CLASS="alt"><td>18</td><td>jusqu’à 50 kg</td><td>50–100 kg</td><td>100–150 kg</td></tr><tr><td>19</td><td>jusqu’à 58 kg</td><td>58–116,5 kg</td><td>116,5–175 kg</td></tr><tr CLASS="alt"><td>20</td><td>jusqu’à 66,5 kg</td><td>66,5–133 kg</td><td>133–200 kg</td></tr><tr><td>21</td><td>jusqu’à 76,5 kg</td><td>76,5–153 kg</td><td>153–230 kg</td></tr><tr CLASS="alt"><td>22</td><td>jusqu’à 86,5 kg</td><td>86,5–173 kg</td><td>173–260 kg</td></tr><tr><td>23</td><td>jusqu’à 100 kg</td><td>100–200 kg</td><td>200–300 kg</td></tr><tr CLASS="alt"><td>24</td><td>jusqu’à 116,5 kg</td><td>116,5–233 kg</td><td>233–350 kg</td></tr><tr><td>25</td><td>jusqu’à 133 kg</td><td>133–266,5 kg</td><td>266,5–400 kg</td></tr><tr CLASS="alt"><td>26</td><td>jusqu’à 153 kg</td><td>153–306,5 kg</td><td>306,5–460 kg</td></tr><tr><td>27</td><td>jusqu’à 173 kg</td><td>173–346,5 kg</td><td>346,5–520 kg</td></tr><tr CLASS="alt"><td>28</td><td>jusqu’à 200 kg</td><td>200–400 kg</td><td>400–600 kg</td></tr><tr><td>29</td><td>jusqu’à 233 kg</td><td>233–466,5 kg</td><td>466,5–700 kg</td></tr><tr CLASS="alt"><td>+10</td><td>×4</td><td>×4</td><td>×4</td></tr></table>
+<table CLASS="tablo">
+  <caption>Charge transportable {s:Reference|POIDSTRANSPORTABLE}</caption>
+  <tr CLASS="titre"><td>Force</td><td>Charge légère</td><td>Charge intermédiaire</td><td>Charge lourde</td></tr>
+  <tr CLASS="premier"><td>1</td><td>jusqu’à 1,5 kg</td><td>1,5–3 kg</td><td>3–5 kg</td></tr>
+  <tr CLASS="alt"><td>2</td><td>jusqu’à 3 kg</td><td>3–6,5 kg</td><td>6,5–10 kg</td></tr>
+  <tr><td>3</td><td>jusqu’à 5 kg</td><td>5–10 kg</td><td>10–15 kg</td></tr>
+  <tr CLASS="alt"><td>4</td><td>jusqu’à 6,5 kg</td><td>6,5–13 kg</td><td>13–20 kg</td></tr>
+  <tr><td>5</td><td>jusqu’à 8 kg</td><td>8–16,5 kg</td><td>16,5–25 kg</td></tr>
+  <tr CLASS="alt"><td>6</td><td>jusqu’à 10 kg</td><td>10–20 kg</td><td>20–30 kg</td></tr>
+  <tr><td>7</td><td>jusqu’à 11,5 kg</td><td>11,5–23 kg</td><td>23–35 kg</td></tr>
+  <tr CLASS="alt"><td>8</td><td>jusqu’à 13 kg</td><td>13–26,5 kg</td><td>26,5–40 kg</td></tr>
+  <tr><td>9</td><td>jusqu’à 15 kg</td><td>15–30 kg</td><td>30–45 kg</td></tr>
+  <tr CLASS="alt"><td>10</td><td>jusqu’à 16,5 kg</td><td>16,5–33 kg</td><td>33–50 kg</td></tr>
+  <tr><td>11</td><td>jusqu’à 19 kg</td><td>19–38 kg</td><td>38–57,5 kg</td></tr>
+  <tr CLASS="alt"><td>12</td><td>jusqu’à 21,5 kg</td><td>21,5–43 kg</td><td>43–65 kg</td></tr>
+  <tr><td>13</td><td>jusqu’à 25 kg</td><td>25–50 kg</td><td>50–75 kg</td></tr>
+  <tr CLASS="alt"><td>14</td><td>jusqu’à 29 kg</td><td>29–58 kg</td><td>58–87,5 kg</td></tr>
+  <tr><td>15</td><td>jusqu’à 33 kg</td><td>33–66,5 kg</td><td>66,5–100 kg</td></tr>
+  <tr CLASS="alt"><td>16</td><td>jusqu’à 38 kg</td><td>38–76,5 kg</td><td>76,5–115 kg</td></tr>
+  <tr><td>17</td><td>jusqu’à 43 kg</td><td>43–86,5 kg</td><td>86,5–130 kg</td></tr>
+  <tr CLASS="alt"><td>18</td><td>jusqu’à 50 kg</td><td>50–100 kg</td><td>100–150 kg</td></tr>
+  <tr><td>19</td><td>jusqu’à 58 kg</td><td>58–116,5 kg</td><td>116,5–175 kg</td></tr>
+  <tr CLASS="alt"><td>20</td><td>jusqu’à 66,5 kg</td><td>66,5–133 kg</td><td>133–200 kg</td></tr>
+  <tr><td>21</td><td>jusqu’à 76,5 kg</td><td>76,5–153 kg</td><td>153–230 kg</td></tr>
+  <tr CLASS="alt"><td>22</td><td>jusqu’à 86,5 kg</td><td>86,5–173 kg</td><td>173–260 kg</td></tr>
+  <tr><td>23</td><td>jusqu’à 100 kg</td><td>100–200 kg</td><td>200–300 kg</td></tr>
+  <tr CLASS="alt"><td>24</td><td>jusqu’à 116,5 kg</td><td>116,5–233 kg</td><td>233–350 kg</td></tr>
+  <tr><td>25</td><td>jusqu’à 133 kg</td><td>133–266,5 kg</td><td>266,5–400 kg</td></tr>
+  <tr CLASS="alt"><td>26</td><td>jusqu’à 153 kg</td><td>153–306,5 kg</td><td>306,5–460 kg</td></tr>
+  <tr><td>27</td><td>jusqu’à 173 kg</td><td>173–346,5 kg</td><td>346,5–520 kg</td></tr>
+  <tr CLASS="alt"><td>28</td><td>jusqu’à 200 kg</td><td>200–400 kg</td><td>400–600 kg</td></tr>
+  <tr><td>29</td><td>jusqu’à 233 kg</td><td>233–466,5 kg</td><td>466,5–700 kg</td></tr>
+  <tr CLASS="alt"><td>+10</td><td>×4</td><td>×4</td><td>×4</td></tr>
+</table>
 
 </center></div></div>
 {s:Desambi|Charge est également le nom d'un [[charge|type d'action en combat]].}
@@ -22,7 +55,19 @@ Par contre, si le personnage est vraiment faible ou si sa charge est exceptionne
 
 <center>
 
-<table CLASS="tablo"><caption>Effet de la charge</caption><tr CLASS="titre"><td ROWSPAN="2">Charge</td><td ROWSPAN="2">Dex Max</td><td ROWSPAN="2">Malus aux tests</td><td COLSPAN="2" CLASS="avecsoustitre">Vitesse</td><td ROWSPAN="2">Course</td></tr><tr CLASS="soustitre"><td>(9 m)</td><td>(6 m)</td></tr><tr CLASS="premier"><td>Intermédiaire</td><td>+3</td><td>–3</td><td>6m</td><td>4,50 m</td><td>×4</td></tr><tr CLASS="alt"><td>Lourde</td><td>+1</td><td>–6</td><td>6m</td><td>4,50 m</td><td>×3</td></tr></table>
+<table CLASS="tablo">
+  <caption>Effet de la charge</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Charge</td>
+    <td ROWSPAN="2">Dex Max</td>
+    <td ROWSPAN="2">Malus aux tests</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">Vitesse</td>
+    <td ROWSPAN="2">Course</td>
+  </tr>
+  <tr CLASS="soustitre"><td>(9 m)</td><td>(6 m)</td></tr>
+  <tr CLASS="premier"><td>Intermédiaire</td><td>+3</td><td>–3</td><td>6m</td><td>4,50 m</td><td>×4</td></tr>
+  <tr CLASS="alt"><td>Lourde</td><td>+1</td><td>–6</td><td>6m</td><td>4,50 m</td><td>×3</td></tr>
+</table>
 
 </center>
 
@@ -45,6 +90,16 @@ La table ci-dessous dévoile le malus imposé à toutes les [[vitesse de déplac
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>VD de base</td><td>VD réduite</td><td CLASS="gauche">VD de base</td><td>VD réduite</td></tr><tr CLASS="premier"><td>1,50 m</td><td>1,50 m</td><td CLASS="gauche">19,50 m</td><td>13,50 m</td></tr><tr CLASS="alt"><td>3 m - 4,50 m</td><td>3 m</td><td CLASS="gauche">21 m - 22,50 m</td><td>15 m</td></tr><tr><td>6 m</td><td>4,50 m</td><td CLASS="gauche">24 m</td><td>16,50 m</td></tr><tr CLASS="alt"><td>7,50 m - 9 m</td><td>6 m</td><td CLASS="gauche">25,50 m - 27 m</td><td>18 m</td></tr><tr><td>10,50 m</td><td>7,50 m</td><td CLASS="gauche">28,50 m</td><td>19,50 m</td></tr><tr CLASS="alt"><td>12 m - 13,50 m</td><td>9 m</td><td CLASS="gauche">30 m - 31,50 m</td><td>21 m</td></tr><tr><td>15 m</td><td>10,50 m</td><td CLASS="gauche">33 m</td><td>22,50 m</td></tr><tr CLASS="alt"><td>16,50 m - 18 m</td><td>12 m</td><td CLASS="gauche">34,50 m - 36 m</td><td>24 m</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>VD de base</td><td>VD réduite</td><td CLASS="gauche">VD de base</td><td>VD réduite</td></tr>
+  <tr CLASS="premier"><td>1,50 m</td><td>1,50 m</td><td CLASS="gauche">19,50 m</td><td>13,50 m</td></tr>
+  <tr CLASS="alt"><td>3 m - 4,50 m</td><td>3 m</td><td CLASS="gauche">21 m - 22,50 m</td><td>15 m</td></tr>
+  <tr><td>6 m</td><td>4,50 m</td><td CLASS="gauche">24 m</td><td>16,50 m</td></tr>
+  <tr CLASS="alt"><td>7,50 m - 9 m</td><td>6 m</td><td CLASS="gauche">25,50 m - 27 m</td><td>18 m</td></tr>
+  <tr><td>10,50 m</td><td>7,50 m</td><td CLASS="gauche">28,50 m</td><td>19,50 m</td></tr>
+  <tr CLASS="alt"><td>12 m - 13,50 m</td><td>9 m</td><td CLASS="gauche">30 m - 31,50 m</td><td>21 m</td></tr>
+  <tr><td>15 m</td><td>10,50 m</td><td CLASS="gauche">33 m</td><td>22,50 m</td></tr>
+  <tr CLASS="alt"><td>16,50 m - 18 m</td><td>12 m</td><td CLASS="gauche">34,50 m - 36 m</td><td>24 m</td></tr>
+</table>
 
 </center>

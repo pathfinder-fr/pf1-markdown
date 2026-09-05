@@ -31,14 +31,31 @@ Ce sort permet d’espionner une créature qui peut se trouver à n’importe qu
 
 <table width="100%"><tr><td width="49%">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Connaissance</td><td>Modificateur du  
-jet de Volonté</td></tr><tr CLASS="premier"><td>Aucune*</td><td>+10</td></tr><tr><td>Rapportée (le personnage a seulement entendu parler du sujet)</td><td>+5</td></tr><tr><td>Personnelle (le personnage a déjà rencontré le sujet)</td><td>+0</td></tr><tr><td>Grande (le personnage connaît bien le sujet)</td><td>-5</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Pour pouvoir l’espionner, le lanceur de sorts doit posséder un lien le rapprochant d’une créature qu’il ne connaît pas (voir ci-dessous).*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Connaissance</td><td>Modificateur du  
+jet de Volonté</td></tr>
+  <tr CLASS="premier"><td>Aucune*</td><td>+10</td></tr>
+  <tr><td>Rapportée (le personnage a seulement entendu parler du sujet)</td><td>+5</td></tr>
+  <tr><td>Personnelle (le personnage a déjà rencontré le sujet)</td><td>+0</td></tr>
+  <tr><td>Grande (le personnage connaît bien le sujet)</td><td>-5</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      *(*) Pour pouvoir l’espionner, le lanceur de sorts doit posséder un lien le rapprochant d’une créature qu’il
+      ne connaît pas (voir ci-dessous).*
+    </td>
+  </tr>
+</table>
 
 </td><td width="2%">
 </td><td width="49%">
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Lien</td><td>Modificateur du  
-jet de Volonté</td></tr><tr CLASS="premier"><td>Esquisse ou portrait</td><td>-2</td></tr><tr><td>Possession matérielle ou vêtement</td><td>-4</td></tr><tr><td>Partie du corps (mèche de cheveux, rognures d’ongles, etc.)</td><td>-10</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Lien</td><td>Modificateur du  
+jet de Volonté</td></tr>
+  <tr CLASS="premier"><td>Esquisse ou portrait</td><td>-2</td></tr>
+  <tr><td>Possession matérielle ou vêtement</td><td>-4</td></tr>
+  <tr><td>Partie du corps (mèche de cheveux, rognures d’ongles, etc.)</td><td>-10</td></tr>
+</table>
 
 </td></tr></table>
 

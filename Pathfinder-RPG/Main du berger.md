@@ -23,7 +23,16 @@ La main prend forme face au lanceur de sorts, qui lui décrit physiquement l’i
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Distance</td><td>Temps nécessaire à la localisation</td></tr><tr CLASS="premier"><td>Jusqu’à 30 m</td><td>1 [[round]]</td></tr><tr CLASS="alt"><td>300 m</td><td>1 minute</td></tr><tr><td>1,5 km</td><td>10 minutes</td></tr><tr CLASS="alt"><td>3 km</td><td>1 heure</td></tr><tr><td>4,5 km</td><td>2 heures</td></tr><tr CLASS="alt"><td>6 km</td><td>3 heures</td></tr><tr><td>7,5 km</td><td>4 heures</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Distance</td><td>Temps nécessaire à la localisation</td></tr>
+  <tr CLASS="premier"><td>Jusqu’à 30 m</td><td>1 [[round]]</td></tr>
+  <tr CLASS="alt"><td>300 m</td><td>1 minute</td></tr>
+  <tr><td>1,5 km</td><td>10 minutes</td></tr>
+  <tr CLASS="alt"><td>3 km</td><td>1 heure</td></tr>
+  <tr><td>4,5 km</td><td>2 heures</td></tr>
+  <tr CLASS="alt"><td>6 km</td><td>3 heures</td></tr>
+  <tr><td>7,5 km</td><td>4 heures</td></tr>
+</table>
 
 </center>
 

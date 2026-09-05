@@ -61,28 +61,126 @@ Il est possible de cumuler les effets. Pour cela, on part de l'effet qui a le mo
 
 ### Actions passives possibles
 
-<table CLASS="tablo"><caption>Utilisations passives des points de destin</caption><tr CLASS="titre"><td>Situation</td><td>Point dépensé   
+<table CLASS="tablo">
+  <caption>Utilisations passives des points de destin</caption>
+  <tr CLASS="titre">
+    <td>Situation</td>
+    <td>Point dépensé   
  à priori ou   
- à posteriori</td><td>% de chance   
- d'utilisation</td><td>Modificateur   
- pour le cumul</td></tr><tr CLASS="premier"><td>Stabiliser</td><td>priori</td><td>95</td><td>-5 %</td></tr><tr CLASS="alt"><td>JS contre effet mortel</td><td>priori</td><td>95</td><td>-5 %</td></tr><tr><td>Coup de grâce adverse</td><td>priori</td><td>95</td><td>-5 %</td></tr><tr CLASS="alt"><td>Coup adverse si PV<0</td><td>priori</td><td>95</td><td>-5 %</td></tr><tr><td>Stabiliser</td><td>Posteriori</td><td>90</td><td>-10 %</td></tr><tr CLASS="alt"><td>Coup adverse amenant à (- Constit.)</td><td>Posteriori</td><td>90</td><td>-10 %</td></tr><tr><td>Coup adverse si PV < DV</td><td>priori</td><td>90</td><td>-10 %</td></tr><tr CLASS="alt"><td>JS contre un effet mortel</td><td>Posteriori</td><td>80</td><td>-10 %</td></tr><tr><td>Coup critique adverse</td><td>priori   
- avant annonce des dégâts</td><td>80</td><td>-10 %</td></tr><tr CLASS="alt"><td>JS contre effet débilitant</td><td>priori</td><td>80</td><td>-10 %</td></tr><tr><td>Coup adverse ammenant à -1 PV</td><td>Posteriori</td><td>80</td><td>-10 %</td></tr><tr CLASS="alt"><td>Dégâts minimaux sur n dés</td><td>priori</td><td>80 - (nx5)</td><td>-10 % -(2xn)</td></tr><tr><td>Coup adverse amenant à PV < DV</td><td>posteriori</td><td>70</td><td>-20 %</td></tr><tr CLASS="alt"><td>Coup critique adverse</td><td>après annonce des dégâts</td><td>50</td><td>-25 %</td></tr><tr><td>JS contre un effet débilitant</td><td>Posteriori</td><td>50</td><td>-25 %</td></tr></table>
+ à posteriori</td>
+    <td>% de chance   
+ d'utilisation</td>
+    <td>Modificateur   
+ pour le cumul</td>
+  </tr>
+  <tr CLASS="premier"><td>Stabiliser</td><td>priori</td><td>95</td><td>-5 %</td></tr>
+  <tr CLASS="alt"><td>JS contre effet mortel</td><td>priori</td><td>95</td><td>-5 %</td></tr>
+  <tr><td>Coup de grâce adverse</td><td>priori</td><td>95</td><td>-5 %</td></tr>
+  <tr CLASS="alt"><td>Coup adverse si PV<0</td><td>priori</td><td>95</td><td>-5 %</td></tr>
+  <tr><td>Stabiliser</td><td>Posteriori</td><td>90</td><td>-10 %</td></tr>
+  <tr CLASS="alt"><td>Coup adverse amenant à (- Constit.)</td><td>Posteriori</td><td>90</td><td>-10 %</td></tr>
+  <tr><td>Coup adverse si PV < DV</td><td>priori</td><td>90</td><td>-10 %</td></tr>
+  <tr CLASS="alt"><td>JS contre un effet mortel</td><td>Posteriori</td><td>80</td><td>-10 %</td></tr>
+  <tr><td>Coup critique adverse</td><td>priori   
+ avant annonce des dégâts</td><td>80</td><td>-10 %</td></tr>
+  <tr CLASS="alt"><td>JS contre effet débilitant</td><td>priori</td><td>80</td><td>-10 %</td></tr>
+  <tr><td>Coup adverse ammenant à -1 PV</td><td>Posteriori</td><td>80</td><td>-10 %</td></tr>
+  <tr CLASS="alt"><td>Dégâts minimaux sur n dés</td><td>priori</td><td>80 - (nx5)</td><td>-10 % -(2xn)</td></tr>
+  <tr><td>Coup adverse amenant à PV < DV</td><td>posteriori</td><td>70</td><td>-20 %</td></tr>
+  <tr CLASS="alt"><td>Coup critique adverse</td><td>après annonce des dégâts</td><td>50</td><td>-25 %</td></tr>
+  <tr><td>JS contre un effet débilitant</td><td>Posteriori</td><td>50</td><td>-25 %</td></tr>
+</table>
 
 
 
 ### Actions actives possibles
 
-<table CLASS="tablo"><caption>Utilisations actives des points de destin</caption><tr CLASS="titre"><td>Situation</td><td>% de chance   
- d'utilisation</td><td>Modificateur   
- pour le cumul</td></tr><tr CLASS="premier"><td>Stabiliser</td><td>95</td><td>-5 %</td></tr><tr CLASS="alt"><td>Action rapide supplémentaire</td><td>95</td><td>-5 %</td></tr><tr><td>Bonus de +1 à un jet durant le round suivant</td><td>95</td><td>-5 %</td></tr><tr CLASS="alt"><td>Pas de placement supplémentaire</td><td>80</td><td>-10 %</td></tr><tr><td>Action de mouvement supplémentaire</td><td>80</td><td>-10 %</td></tr><tr CLASS="alt"><td>Ajouter 1d6 sur un dé 20 ou un DD</td><td>80</td><td>-10 %</td></tr><tr><td>Obtenir un bonus de +1 durant un round (JS, dégâts, CA, Attaque,…)</td><td>80</td><td>-10 %</td></tr><tr CLASS="alt"><td>Une action ne cause aucune attaque d’opportunité</td><td>80</td><td>-10 %</td></tr><tr><td>Deux pas de placement supplémentaires</td><td>50</td><td>-25 %</td></tr><tr CLASS="alt"><td>Action simple supplémentaire</td><td>50</td><td>-25 %</td></tr><tr><td>Ajouter 2d6 sur un dé 20</td><td>50</td><td>-25 %</td></tr><tr CLASS="alt"><td>Faire 20 sur un jet de dé</td><td>50</td><td>-25 %</td></tr><tr><td>Utiliser un don non connu</td><td>50</td><td>-25 %</td></tr><tr CLASS="alt"><td>Obtenir un bonus de +2 durant un round (JS, dégâts, CA, Attaque,…)</td><td>50</td><td>-25 %</td></tr><tr><td>Se mettre en première position à l’initiative</td><td>50</td><td>-25 %</td></tr><tr CLASS="alt"><td>Utiliser un pouvoir de classe accessible à un niveau supérieur (+ n)</td><td>40 - (nx5)</td><td>/</td></tr><tr><td>Trois pas de placements supplémentaires</td><td>30</td><td>/</td></tr><tr CLASS="alt"><td>Ajouter 3d6 sur un dé 20</td><td>30</td><td>/</td></tr><tr><td>Réaliser un coup critique</td><td>30</td><td>/</td></tr><tr CLASS="alt"><td>Obtenir un bonus de +3 durant un round (JS, dégâts, CA, Attaque,…)</td><td>30</td><td>/</td></tr><tr><td>Réaliser une action d’éclat durant 1 round</td><td>30</td><td>/</td></tr><tr CLASS="alt"><td>Réaliser une action d’éclat durant 1d2 round</td><td>25</td><td>/</td></tr><tr><td>Réaliser une action d’éclat durant 1d3 round</td><td>15</td><td>/</td></tr><tr CLASS="alt"><td>Réaliser une action d’éclat durant 1d4 round</td><td>10</td><td>/</td></tr><tr><td>Quatre pas de placements supplémentaires</td><td>5</td><td>/</td></tr><tr CLASS="alt"><td>Réaliser une action d’éclat durant 1d6 round</td><td>5</td><td>/</td></tr><tr><td>Obtenir un bonus de +4 durant un round (JS ou dégâts ou CA ou Attaque,…)</td><td>5</td><td>/</td></tr></table>
+<table CLASS="tablo">
+  <caption>Utilisations actives des points de destin</caption>
+  <tr CLASS="titre">
+    <td>Situation</td>
+    <td>% de chance   
+ d'utilisation</td>
+    <td>Modificateur   
+ pour le cumul</td>
+  </tr>
+  <tr CLASS="premier"><td>Stabiliser</td><td>95</td><td>-5 %</td></tr>
+  <tr CLASS="alt"><td>Action rapide supplémentaire</td><td>95</td><td>-5 %</td></tr>
+  <tr><td>Bonus de +1 à un jet durant le round suivant</td><td>95</td><td>-5 %</td></tr>
+  <tr CLASS="alt"><td>Pas de placement supplémentaire</td><td>80</td><td>-10 %</td></tr>
+  <tr><td>Action de mouvement supplémentaire</td><td>80</td><td>-10 %</td></tr>
+  <tr CLASS="alt"><td>Ajouter 1d6 sur un dé 20 ou un DD</td><td>80</td><td>-10 %</td></tr>
+  <tr><td>Obtenir un bonus de +1 durant un round (JS, dégâts, CA, Attaque,…)</td><td>80</td><td>-10 %</td></tr>
+  <tr CLASS="alt"><td>Une action ne cause aucune attaque d’opportunité</td><td>80</td><td>-10 %</td></tr>
+  <tr><td>Deux pas de placement supplémentaires</td><td>50</td><td>-25 %</td></tr>
+  <tr CLASS="alt"><td>Action simple supplémentaire</td><td>50</td><td>-25 %</td></tr>
+  <tr><td>Ajouter 2d6 sur un dé 20</td><td>50</td><td>-25 %</td></tr>
+  <tr CLASS="alt"><td>Faire 20 sur un jet de dé</td><td>50</td><td>-25 %</td></tr>
+  <tr><td>Utiliser un don non connu</td><td>50</td><td>-25 %</td></tr>
+  <tr CLASS="alt">
+    <td>Obtenir un bonus de +2 durant un round (JS, dégâts, CA, Attaque,…)</td>
+    <td>50</td>
+    <td>-25 %</td>
+  </tr>
+  <tr><td>Se mettre en première position à l’initiative</td><td>50</td><td>-25 %</td></tr>
+  <tr CLASS="alt">
+    <td>Utiliser un pouvoir de classe accessible à un niveau supérieur (+ n)</td>
+    <td>40 - (nx5)</td>
+    <td>/</td>
+  </tr>
+  <tr><td>Trois pas de placements supplémentaires</td><td>30</td><td>/</td></tr>
+  <tr CLASS="alt"><td>Ajouter 3d6 sur un dé 20</td><td>30</td><td>/</td></tr>
+  <tr><td>Réaliser un coup critique</td><td>30</td><td>/</td></tr>
+  <tr CLASS="alt">
+    <td>Obtenir un bonus de +3 durant un round (JS, dégâts, CA, Attaque,…)</td>
+    <td>30</td>
+    <td>/</td>
+  </tr>
+  <tr><td>Réaliser une action d’éclat durant 1 round</td><td>30</td><td>/</td></tr>
+  <tr CLASS="alt"><td>Réaliser une action d’éclat durant 1d2 round</td><td>25</td><td>/</td></tr>
+  <tr><td>Réaliser une action d’éclat durant 1d3 round</td><td>15</td><td>/</td></tr>
+  <tr CLASS="alt"><td>Réaliser une action d’éclat durant 1d4 round</td><td>10</td><td>/</td></tr>
+  <tr><td>Quatre pas de placements supplémentaires</td><td>5</td><td>/</td></tr>
+  <tr CLASS="alt"><td>Réaliser une action d’éclat durant 1d6 round</td><td>5</td><td>/</td></tr>
+  <tr><td>Obtenir un bonus de +4 durant un round (JS ou dégâts ou CA ou Attaque,…)</td><td>5</td><td>/</td></tr>
+</table>
 
 
 ### Actions magiques possibles
 
 
-<table CLASS="tablo"><caption>Utilisations des points de destin en rapport avec la magie et les pouvoirs</caption><tr CLASS="titre"><td>Situation</td><td>% de chance   
- d'utilisation</td><td>Modificateur   
- pour le cumul</td></tr><tr CLASS="premier"><td>Dégâts maximaux sur n dés</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr><tr CLASS="alt"><td>Ajouter un don de métamagie connu ( + n)</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr><tr><td>Ajouter un don de métamagie connu ( + n)</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr><tr CLASS="alt"><td>Transformer en sort en un autre connu ( + n)</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr><tr><td>Jet de sauvegarde adverse raté</td><td>50 %</td><td>-25 %</td></tr><tr CLASS="alt"><td>Résistance à la magie outrepassée</td><td>50 %</td><td>-25 %</td></tr><tr><td>Rappeler un sort de niveau inférieur au niveau maximal</td><td>50 %</td><td>-25 %</td></tr><tr CLASS="alt"><td>Rappeler un pouvoir utilisable plusieurs fois par jour</td><td>50 %</td><td>-25 %</td></tr><tr><td>Ajouter un don de métamagie inconnu ( + n)</td><td>40 - (10xn)</td><td>-30 - (nx5) %</td></tr><tr CLASS="alt"><td>Transformer en sort en un autre inconnu ( + n)</td><td>40 - (10xn)</td><td>-30 - (nx5) %</td></tr><tr><td>RM et JS outrepassés</td><td>30 %</td><td>/</td></tr><tr CLASS="alt"><td>Rappeler un sort de niveau maximal</td><td>30 %</td><td>/</td></tr><tr><td>Rappeler un pouvoir utilisable une fois par jour ou plusieurs fois par semaine</td><td>30 %</td><td>/</td></tr><tr CLASS="alt"><td>Rappeler un pouvoir utilisable une fois par semaine</td><td>5 %</td><td>/</td></tr></table>
+<table CLASS="tablo">
+  <caption>Utilisations des points de destin en rapport avec la magie et les pouvoirs</caption>
+  <tr CLASS="titre">
+    <td>Situation</td>
+    <td>% de chance   
+ d'utilisation</td>
+    <td>Modificateur   
+ pour le cumul</td>
+  </tr>
+  <tr CLASS="premier"><td>Dégâts maximaux sur n dés</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr>
+  <tr CLASS="alt"><td>Ajouter un don de métamagie connu ( + n)</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr>
+  <tr><td>Ajouter un don de métamagie connu ( + n)</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr>
+  <tr CLASS="alt"><td>Transformer en sort en un autre connu ( + n)</td><td>80 - (10xn)</td><td>-10 - (nx5) %</td></tr>
+  <tr><td>Jet de sauvegarde adverse raté</td><td>50 %</td><td>-25 %</td></tr>
+  <tr CLASS="alt"><td>Résistance à la magie outrepassée</td><td>50 %</td><td>-25 %</td></tr>
+  <tr><td>Rappeler un sort de niveau inférieur au niveau maximal</td><td>50 %</td><td>-25 %</td></tr>
+  <tr CLASS="alt"><td>Rappeler un pouvoir utilisable plusieurs fois par jour</td><td>50 %</td><td>-25 %</td></tr>
+  <tr><td>Ajouter un don de métamagie inconnu ( + n)</td><td>40 - (10xn)</td><td>-30 - (nx5) %</td></tr>
+  <tr CLASS="alt">
+    <td>Transformer en sort en un autre inconnu ( + n)</td>
+    <td>40 - (10xn)</td>
+    <td>-30 - (nx5) %</td>
+  </tr>
+  <tr><td>RM et JS outrepassés</td><td>30 %</td><td>/</td></tr>
+  <tr CLASS="alt"><td>Rappeler un sort de niveau maximal</td><td>30 %</td><td>/</td></tr>
+  <tr>
+    <td>Rappeler un pouvoir utilisable une fois par jour ou plusieurs fois par semaine</td>
+    <td>30 %</td>
+    <td>/</td>
+  </tr>
+  <tr CLASS="alt"><td>Rappeler un pouvoir utilisable une fois par semaine</td><td>5 %</td><td>/</td></tr>
+</table>
 
 
 ## Règles d'acquisition des points de destin

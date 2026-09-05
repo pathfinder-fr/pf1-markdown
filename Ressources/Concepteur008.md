@@ -19,14 +19,145 @@ J'utilise les termes de :{br}
 
 ### DD
 
-<table CLASS="tablo centre"><caption>Scores de bases</caption><tr CLASS="titre"><td>Exemple</td><td>Vue</td><td>Ouïe</td><td>Odorat</td><td>Toucher</td><td>Goût</td></tr><tr CLASS="premier"></tr><tr CLASS="alt"><td>Entendre les bruits d'un combat</td><td>—</td><td>-10</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Sentir l'odeur de détritus en putréfaction :</td><td>—</td><td>—</td><td>-10</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Sentir l’odeur de la fumée</td><td>—</td><td>—</td><td>0</td><td>—</td><td>—</td></tr><tr><td>Entendre les détails d’une conversation</td><td>—</td><td>0</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Percevoir une créature visible</td><td>0</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Déterminer si de la nourriture est avariée</td><td>—</td><td>—</td><td>5</td><td>—</td><td>5</td></tr><tr CLASS="alt"><td>Entendre les pas d’une créature</td><td>—</td><td>10</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Entendre les détails d’une conversation à voix basse</td><td>—</td><td>15</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Trouver une porte cachée de difficulté moyenne</td><td>15</td><td>—</td><td>—</td><td>15</td><td>—</td></tr><tr><td>Entendre le son d’une clef tournant dans une serrure</td><td>—</td><td>20</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Trouver une porte secrète de difficulté forte</td><td>20</td><td>—</td><td>—</td><td>20</td><td>—</td></tr><tr><td>Entendre le son d’un arc dont on tend la corde</td><td>—</td><td>25</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Percevoir les vibrations d’une créature souterraine passant sous le personnage</td><td>—</td><td>—</td><td>—</td><td>25</td><td>—</td></tr><tr><td>Remarquer un pickpocket</td><td COLSPAN="5">vue ou toucher opposé au test d’Escamotage</td></tr><tr CLASS="alt"><td>Remarquer une créature qui se cache</td><td COLSPAN="5">vue ou ouïe opposé au test de Discrétion</td></tr><tr><td>Trouver un piège caché</td><td COLSPAN="5">vue opposé au DD de perception du piège</td></tr><tr CLASS="alt"><td>Identifier les effets d’une potion en la goûtant</td><td COLSPAN="5">goût 15 + NLS de la potion</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Scores de bases</caption>
+  <tr CLASS="titre"><td>Exemple</td><td>Vue</td><td>Ouïe</td><td>Odorat</td><td>Toucher</td><td>Goût</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr CLASS="alt"><td>Entendre les bruits d'un combat</td><td>—</td><td>-10</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>Sentir l'odeur de détritus en putréfaction :</td><td>—</td><td>—</td><td>-10</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Sentir l’odeur de la fumée</td><td>—</td><td>—</td><td>0</td><td>—</td><td>—</td></tr>
+  <tr><td>Entendre les détails d’une conversation</td><td>—</td><td>0</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Percevoir une créature visible</td><td>0</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>Déterminer si de la nourriture est avariée</td><td>—</td><td>—</td><td>5</td><td>—</td><td>5</td></tr>
+  <tr CLASS="alt"><td>Entendre les pas d’une créature</td><td>—</td><td>10</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr>
+    <td>Entendre les détails d’une conversation à voix basse</td>
+    <td>—</td>
+    <td>15</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Trouver une porte cachée de difficulté moyenne</td>
+    <td>15</td>
+    <td>—</td>
+    <td>—</td>
+    <td>15</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Entendre le son d’une clef tournant dans une serrure</td>
+    <td>—</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Trouver une porte secrète de difficulté forte</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td>20</td>
+    <td>—</td>
+  </tr>
+  <tr><td>Entendre le son d’un arc dont on tend la corde</td><td>—</td><td>25</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt">
+    <td>Percevoir les vibrations d’une créature souterraine passant sous le personnage</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>25</td>
+    <td>—</td>
+  </tr>
+  <tr><td>Remarquer un pickpocket</td><td COLSPAN="5">vue ou toucher opposé au test d’Escamotage</td></tr>
+  <tr CLASS="alt">
+    <td>Remarquer une créature qui se cache</td>
+    <td COLSPAN="5">vue ou ouïe opposé au test de Discrétion</td>
+  </tr>
+  <tr><td>Trouver un piège caché</td><td COLSPAN="5">vue opposé au DD de perception du piège</td></tr>
+  <tr CLASS="alt">
+    <td>Identifier les effets d’une potion en la goûtant</td>
+    <td COLSPAN="5">goût 15 + NLS de la potion</td>
+  </tr>
+</table>
 
 
 {br}{br}{br}
 
 ### Modificateurs aux DD
 
-<table CLASS="tablo centre"><caption>Modificateurs</caption><tr CLASS="titre"><td>Exemple</td><td>Vue</td><td>Ouïe</td><td>Odorat</td><td>Toucher</td><td>Goût</td></tr><tr CLASS="premier"></tr><tr CLASS="alt"><td>Distance entre le personnage et la source</td><td COLSPAN="3">+1 pour 3m/2c</td><td>—</td><td>—</td></tr><tr><td>A travers une porte fermé</td><td>Imp</td><td>+5</td><td>+5</td><td>Imp</td><td>Imp</td></tr><tr CLASS="alt"><td>A travers un mur</td><td>Imp</td><td>+10</td><td>+10</td><td>Imp</td><td>Imp</td></tr><tr><td>D'une plaine au soleil à une cave éclairée à la bougie</td><td>de -2 à +5</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>D'un silence monacale à une taverne pendant une fête de la bière</td><td>—</td><td>de -2 à +5</td><td>—</td><td>—</td><td>—</td></tr><tr><td>D'une zone neutre au marchand de poisson</td><td>—</td><td>—</td><td>de 0 à +5</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Personnage distrait ou faisant autre chose en même temps (en combat, en fuite)</td><td>+5</td><td>+5</td><td>+5</td><td>+5</td><td>+5</td></tr><tr><td>Personnage endormi</td><td>Imp</td><td>+10</td><td>+10</td><td>+10</td><td>+10</td></tr><tr CLASS="alt"><td>Tempête de sable</td><td>+4</td><td>+4</td><td>+4</td><td>—</td><td>—</td></tr><tr><td>Distance entre le personnage et la source dans une forêt (bruit de fond)</td><td>—</td><td>+2 pour 3m/2c</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Distance entre le personnage et la source en montagne</td><td>—</td><td>+1 pour 6m/4c</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Pluie ou neige</td><td>+4</td><td>+4</td><td>+4</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Grèle</td><td>+4</td><td>—</td><td>+4</td><td>—</td><td>—</td></tr><tr><td>Vent important</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Vent violent</td><td>—</td><td>+4</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Vent de tempète</td><td>—</td><td>+8</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Tornade</td><td>—</td><td>Imp</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Cyclones, blizzards, ouragans ou tornades</td><td>Imp</td><td>Imp</td><td>Imp</td><td>+10</td><td>+10</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Modificateurs</caption>
+  <tr CLASS="titre"><td>Exemple</td><td>Vue</td><td>Ouïe</td><td>Odorat</td><td>Toucher</td><td>Goût</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr CLASS="alt">
+    <td>Distance entre le personnage et la source</td>
+    <td COLSPAN="3">+1 pour 3m/2c</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr><td>A travers une porte fermé</td><td>Imp</td><td>+5</td><td>+5</td><td>Imp</td><td>Imp</td></tr>
+  <tr CLASS="alt"><td>A travers un mur</td><td>Imp</td><td>+10</td><td>+10</td><td>Imp</td><td>Imp</td></tr>
+  <tr>
+    <td>D'une plaine au soleil à une cave éclairée à la bougie</td>
+    <td>de -2 à +5</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>D'un silence monacale à une taverne pendant une fête de la bière</td>
+    <td>—</td>
+    <td>de -2 à +5</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr><td>D'une zone neutre au marchand de poisson</td><td>—</td><td>—</td><td>de 0 à +5</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt">
+    <td>Personnage distrait ou faisant autre chose en même temps (en combat, en fuite)</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+  </tr>
+  <tr><td>Personnage endormi</td><td>Imp</td><td>+10</td><td>+10</td><td>+10</td><td>+10</td></tr>
+  <tr CLASS="alt"><td>Tempête de sable</td><td>+4</td><td>+4</td><td>+4</td><td>—</td><td>—</td></tr>
+  <tr>
+    <td>Distance entre le personnage et la source dans une forêt (bruit de fond)</td>
+    <td>—</td>
+    <td>+2 pour 3m/2c</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Distance entre le personnage et la source en montagne</td>
+    <td>—</td>
+    <td>+1 pour 6m/4c</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr><td>Pluie ou neige</td><td>+4</td><td>+4</td><td>+4</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Grèle</td><td>+4</td><td>—</td><td>+4</td><td>—</td><td>—</td></tr>
+  <tr><td>Vent important</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Vent violent</td><td>—</td><td>+4</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>Vent de tempète</td><td>—</td><td>+8</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Tornade</td><td>—</td><td>Imp</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr>
+    <td>Cyclones, blizzards, ouragans ou tornades</td>
+    <td>Imp</td>
+    <td>Imp</td>
+    <td>Imp</td>
+    <td>+10</td>
+    <td>+10</td>
+  </tr>
+</table>
 
 
 Certaines actions peuvent être facilitées ou compliquées par l'environnement :{br}
@@ -38,7 +169,25 @@ Certaines actions peuvent être facilitées ou compliquées par l'environnement 
 ### Portée des tests visuels
 
 
-<table CLASS="tablo centre"><caption>Portées des visions</caption><tr CLASS="titre"><td>Milieu</td><td>Portée</td></tr><tr CLASS="premier"></tr><tr CLASS="alt"><td>Sur une colline</td><td>2d10x3m</td></tr><tr><td>Dans les collines accidentées</td><td>2d6x3m</td></tr><tr CLASS="alt"><td>Dans le désert</td><td>6d6x3m</td></tr><tr><td>Tempète de sable</td><td>1d10x1m50</td></tr><tr CLASS="alt"><td>Forêt clairsemée</td><td>3d6x3m</td></tr><tr><td>Forêt intermédiaire</td><td>2d8x3m</td></tr><tr CLASS="alt"><td>Forêt dense</td><td>2d6x3m</td></tr><tr><td>Dans une lande</td><td>6d6x3m</td></tr><tr CLASS="alt"><td>Dans un marécage</td><td>2d8x3m</td></tr><tr><td>En eau clair ou rivière calme</td><td>4d8x3m</td></tr><tr CLASS="alt"><td>En eau trouble</td><td>1d8x3m</td></tr><tr><td>En montagne</td><td>4d10x3m</td></tr><tr CLASS="alt"><td>En plaine</td><td>6d6x40m</td></tr><tr><td>Lourde chute de neige et brouillard</td><td>Vision à 1m50</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Portées des visions</caption>
+  <tr CLASS="titre"><td>Milieu</td><td>Portée</td></tr>
+  <tr CLASS="premier"></tr>
+  <tr CLASS="alt"><td>Sur une colline</td><td>2d10x3m</td></tr>
+  <tr><td>Dans les collines accidentées</td><td>2d6x3m</td></tr>
+  <tr CLASS="alt"><td>Dans le désert</td><td>6d6x3m</td></tr>
+  <tr><td>Tempète de sable</td><td>1d10x1m50</td></tr>
+  <tr CLASS="alt"><td>Forêt clairsemée</td><td>3d6x3m</td></tr>
+  <tr><td>Forêt intermédiaire</td><td>2d8x3m</td></tr>
+  <tr CLASS="alt"><td>Forêt dense</td><td>2d6x3m</td></tr>
+  <tr><td>Dans une lande</td><td>6d6x3m</td></tr>
+  <tr CLASS="alt"><td>Dans un marécage</td><td>2d8x3m</td></tr>
+  <tr><td>En eau clair ou rivière calme</td><td>4d8x3m</td></tr>
+  <tr CLASS="alt"><td>En eau trouble</td><td>1d8x3m</td></tr>
+  <tr><td>En montagne</td><td>4d10x3m</td></tr>
+  <tr CLASS="alt"><td>En plaine</td><td>6d6x40m</td></tr>
+  <tr><td>Lourde chute de neige et brouillard</td><td>Vision à 1m50</td></tr>
+</table>
 
 
 Les lumières modifient les portées des tests visuels, veuillez regarder cette page de wiki pour en savoir plus : [[Pathfinder-RPG.Exploration#VISIONLUMIERE|La règle complémentaire sur la lumière]].{br}

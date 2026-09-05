@@ -116,7 +116,22 @@ De ces valeurs découlent les modificateurs, en fonction du tableau ci-dessous.
 
 
 
-<table class="tablo"><thead><tr><th>Valeur</th><th>Modificateur</th><th>1er</th><th>2ème</th><th>3ème</th><th>4ème</th><th>5ème</th></tr></thead><tbody><tr><td>4-5</td><td>-3</td></tr><tr><td>6-7</td><td>-2</td></tr><tr><td>8-9</td><td>-1</td></tr><tr><td>10-11</td><td>+0</td></tr><tr><td>12-13</td><td>+1</td><td>1</td></tr><tr><td>14-15</td><td>+2</td><td>1</td><td>1</td></tr><tr><td>16-17</td><td>+3</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18-19</td><td>+4</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20-21</td><td>+5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></tbody></table>
+<table class="tablo">
+  <thead>
+    <tr><th>Valeur</th><th>Modificateur</th><th>1er</th><th>2ème</th><th>3ème</th><th>4ème</th><th>5ème</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>4-5</td><td>-3</td></tr>
+    <tr><td>6-7</td><td>-2</td></tr>
+    <tr><td>8-9</td><td>-1</td></tr>
+    <tr><td>10-11</td><td>+0</td></tr>
+    <tr><td>12-13</td><td>+1</td><td>1</td></tr>
+    <tr><td>14-15</td><td>+2</td><td>1</td><td>1</td></tr>
+    <tr><td>16-17</td><td>+3</td><td>1</td><td>1</td><td>1</td></tr>
+    <tr><td>18-19</td><td>+4</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+    <tr><td>20-21</td><td>+5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+  </tbody>
+</table>
 
 
 
@@ -162,7 +177,20 @@ On utilise le modificateur de Force pour :
 
 
 
-<table><tr><td>Modificateur x1</td><td>pour les armes à une main, portées par la main directrice.</td></tr><tr><td>Modificateur x0,5</td><td>pour les armes à une main, portées par la main non directrice. (arrondie à l'inférieur)</td></tr><tr><td>Modificateur X1,5</td><td>pour les armes à deux mains. (arrondie à l'inférieur)</td></tr><tr><td>Modificateur X1</td><td>pour les armes de jet et tir, sauf l'arbalète et l'arc.</td></tr><tr><td>Modificateur X1</td><td>pour les arcs, on n'applique que les malus sauf si l'arc à la faculté "de force".</td></tr><tr><td>Modificateur X0</td><td>pour les arbalètes, on n'applique aucun modificateur de Force aux dégâts.</td></tr></table>
+<table>
+  <tr><td>Modificateur x1</td><td>pour les armes à une main, portées par la main directrice.</td></tr>
+  <tr>
+    <td>Modificateur x0,5</td>
+    <td>pour les armes à une main, portées par la main non directrice. (arrondie à l'inférieur)</td>
+  </tr>
+  <tr><td>Modificateur X1,5</td><td>pour les armes à deux mains. (arrondie à l'inférieur)</td></tr>
+  <tr><td>Modificateur X1</td><td>pour les armes de jet et tir, sauf l'arbalète et l'arc.</td></tr>
+  <tr>
+    <td>Modificateur X1</td>
+    <td>pour les arcs, on n'applique que les malus sauf si l'arc à la faculté "de force".</td>
+  </tr>
+  <tr><td>Modificateur X0</td><td>pour les arbalètes, on n'applique aucun modificateur de Force aux dégâts.</td></tr>
+</table>
 
 
 

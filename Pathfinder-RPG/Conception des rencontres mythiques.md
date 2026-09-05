@@ -26,13 +26,45 @@ Le Manuel des Joueurs ne propose aucune récompense en PX pour des rencontres do
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Récompenses en points d’expérience pour les FP élevés</caption><tr CLASS="titre"><td>FP</td><td>PX totaux</td><td>XP individuels 1-3</td><td>XP individuels 4-5</td><td>XP individuels 6+</td></tr><tr CLASS="premier"><td>26</td><td>2 457 600</td><td>820 000</td><td>614 400</td><td>409 600</td></tr><tr><td>27</td><td>3 276 800</td><td>1 092 000</td><td>819 200</td><td>546 000</td></tr><tr><td>28</td><td>4 915 200</td><td>1 640 000</td><td>1 228 800</td><td>819 200</td></tr><tr><td>29</td><td>6 553 600</td><td>2 184 000</td><td>1 638 400</td><td>1 092 000</td></tr><tr><td>30</td><td>9 830 400</td><td>3 280 000</td><td>2 457 600</td><td>1 638 400</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Récompenses en points d’expérience pour les FP élevés</caption>
+  <tr CLASS="titre">
+    <td>FP</td>
+    <td>PX totaux</td>
+    <td>XP individuels 1-3</td>
+    <td>XP individuels 4-5</td>
+    <td>XP individuels 6+</td>
+  </tr>
+  <tr CLASS="premier"><td>26</td><td>2 457 600</td><td>820 000</td><td>614 400</td><td>409 600</td></tr>
+  <tr><td>27</td><td>3 276 800</td><td>1 092 000</td><td>819 200</td><td>546 000</td></tr>
+  <tr><td>28</td><td>4 915 200</td><td>1 640 000</td><td>1 228 800</td><td>819 200</td></tr>
+  <tr><td>29</td><td>6 553 600</td><td>2 184 000</td><td>1 638 400</td><td>1 092 000</td></tr>
+  <tr><td>30</td><td>9 830 400</td><td>3 280 000</td><td>2 457 600</td><td>1 638 400</td></tr>
+</table>
 
 </center>
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>Valeur du butin par rencontre pour les FP élevés</caption><tr CLASS="titre"><td>Progression FP</td><td>Progression lente</td><td>Progression moyenne</td><td>Progression rapide</td></tr><tr CLASS="premier"><td>21</td><td>55 000 po</td><td>84 000 po</td><td>125 000 po</td></tr><tr><td>22</td><td>69 000 po</td><td>104 000 po</td><td>155 000 po</td></tr><tr><td>23</td><td>85 000 po</td><td>127 000 po</td><td>190 000 po</td></tr><tr><td>24</td><td>102 000 po</td><td>155 000 po</td><td>230 000 po</td></tr><tr><td>25</td><td>125 000 po</td><td>185 000 po</td><td>275 000 po</td></tr><tr><td>26</td><td>150 000 po</td><td>220 000 po</td><td>330 000 po</td></tr><tr><td>27</td><td>175 000 po</td><td>260 000 po</td><td>390 000 po</td></tr><tr><td>28</td><td>205 000 po</td><td>305 000 po</td><td>460 000 po</td></tr><tr><td>29</td><td>240 000 po</td><td>420 000 po</td><td>540 000 po</td></tr><tr><td>30</td><td>280 000 po</td><td>420 000 po</td><td>630 000 po</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>Valeur du butin par rencontre pour les FP élevés</caption>
+  <tr CLASS="titre">
+    <td>Progression FP</td>
+    <td>Progression lente</td>
+    <td>Progression moyenne</td>
+    <td>Progression rapide</td>
+  </tr>
+  <tr CLASS="premier"><td>21</td><td>55 000 po</td><td>84 000 po</td><td>125 000 po</td></tr>
+  <tr><td>22</td><td>69 000 po</td><td>104 000 po</td><td>155 000 po</td></tr>
+  <tr><td>23</td><td>85 000 po</td><td>127 000 po</td><td>190 000 po</td></tr>
+  <tr><td>24</td><td>102 000 po</td><td>155 000 po</td><td>230 000 po</td></tr>
+  <tr><td>25</td><td>125 000 po</td><td>185 000 po</td><td>275 000 po</td></tr>
+  <tr><td>26</td><td>150 000 po</td><td>220 000 po</td><td>330 000 po</td></tr>
+  <tr><td>27</td><td>175 000 po</td><td>260 000 po</td><td>390 000 po</td></tr>
+  <tr><td>28</td><td>205 000 po</td><td>305 000 po</td><td>460 000 po</td></tr>
+  <tr><td>29</td><td>240 000 po</td><td>420 000 po</td><td>540 000 po</td></tr>
+  <tr><td>30</td><td>280 000 po</td><td>420 000 po</td><td>630 000 po</td></tr>
+</table>
 
 </center>
 

@@ -17,7 +17,14 @@ Quand une de ces structures est [[brisé|brisée]], sa [[solidité]] est réduit
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Les bâtiments</caption><tr CLASS="titre"><td>Matériau</td><td>Solidité</td><td>G</td><td>TG</td><td>Gig</td><td>Col</td></tr><tr CLASS="premier"><td>Bois</td><td>5</td><td>120</td><td>270</td><td>960</td><td>3 240</td></tr><tr><td>Pierre</td><td>8</td><td>200</td><td>450</td><td>1 600</td><td>5 400</td></tr><tr><td>Fer ou acier</td><td>10</td><td>400</td><td>900</td><td>3 200</td><td>10 800</td></tr><tr><td>Adamantium</td><td>20</td><td>560</td><td>1 260</td><td>4 480</td><td>15 120</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Les bâtiments</caption>
+  <tr CLASS="titre"><td>Matériau</td><td>Solidité</td><td>G</td><td>TG</td><td>Gig</td><td>Col</td></tr>
+  <tr CLASS="premier"><td>Bois</td><td>5</td><td>120</td><td>270</td><td>960</td><td>3 240</td></tr>
+  <tr><td>Pierre</td><td>8</td><td>200</td><td>450</td><td>1 600</td><td>5 400</td></tr>
+  <tr><td>Fer ou acier</td><td>10</td><td>400</td><td>900</td><td>3 200</td><td>10 800</td></tr>
+  <tr><td>Adamantium</td><td>20</td><td>560</td><td>1 260</td><td>4 480</td><td>15 120</td></tr>
+</table>
 
 </div></div>Les bâtiments sont des structures de grande [[taille]] avec beaucoup de points de vie et une [[CA]] négligeable (un bâtiment G a une CA de 4, un TG de 3 et un Gig ou plus de 0). Le bâtiment est [[brisé]] une fois qu’il tombe à la moitié de ses points de vie. Il tient encore debout mais il est partiellement éventré. On peut y entrer sans mal et on considère qu’il a une brèche. Si le bâtiment tombe à 0 point de vie, il est entièrement détruit. Les créatures qui se trouvent dans le bâtiment sont alors victimes des mêmes effets que lors d’un éboulement.
 
@@ -29,7 +36,14 @@ Pour les bâtiments encore plus grands, il suffit d’ajouter les points de vie 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Les murs</caption><tr CLASS="titre"><td>Matériau</td><td>Solidité</td><td>Points de vie par carré de 1,50 m</td></tr><tr CLASS="premier"><td>Bois</td><td>5</td><td>30</td></tr><tr><td>Pierre</td><td>8</td><td>45</td></tr><tr><td>Fer ou acier</td><td>10</td><td>90</td></tr><tr><td>Adamantium</td><td>20</td><td>120</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Les murs</caption>
+  <tr CLASS="titre"><td>Matériau</td><td>Solidité</td><td>Points de vie par carré de 1,50 m</td></tr>
+  <tr CLASS="premier"><td>Bois</td><td>5</td><td>30</td></tr>
+  <tr><td>Pierre</td><td>8</td><td>45</td></tr>
+  <tr><td>Fer ou acier</td><td>10</td><td>90</td></tr>
+  <tr><td>Adamantium</td><td>20</td><td>120</td></tr>
+</table>
 
 </div></div>Les murs qui protègent un château ou une ville sont de robustes fortifications, habituellement bâties sous forme de sections de 1,50 m de côté. Une case de mur a une [[CA]] de 5 ainsi qu’une [[solidité]] et un montant de points de vie qui dépend de son type.
 
@@ -41,7 +55,22 @@ Quand un mur est [[brisé]], sa [[solidité]] est réduite de moitié mais il ne
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Les portes</caption><tr CLASS="titre"><td>Matériau</td><td>DD Enfoncer <sup>(1)</sup></td><td>Solidité</td><td>G</td><td>TG</td><td>Gig</td><td>Col</td></tr><tr CLASS="premier"><td>Bois</td><td>35</td><td>5</td><td>60</td><td>135</td><td>240</td><td>540</td></tr><tr><td>Pierre</td><td>38</td><td>8</td><td>100</td><td>225</td><td>400</td><td>900</td></tr><tr><td>Fer ou acier</td><td>24</td><td>10</td><td>200</td><td>500</td><td>800</td><td>1 800</td></tr><tr><td>Adamantium</td><td>48</td><td>20</td><td>280</td><td>630</td><td>1 120</td><td>2 520</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Les portes</caption>
+  <tr CLASS="titre">
+    <td>Matériau</td>
+    <td>DD Enfoncer <sup>(1)</sup></td>
+    <td>Solidité</td>
+    <td>G</td>
+    <td>TG</td>
+    <td>Gig</td>
+    <td>Col</td>
+  </tr>
+  <tr CLASS="premier"><td>Bois</td><td>35</td><td>5</td><td>60</td><td>135</td><td>240</td><td>540</td></tr>
+  <tr><td>Pierre</td><td>38</td><td>8</td><td>100</td><td>225</td><td>400</td><td>900</td></tr>
+  <tr><td>Fer ou acier</td><td>24</td><td>10</td><td>200</td><td>500</td><td>800</td><td>1 800</td></tr>
+  <tr><td>Adamantium</td><td>48</td><td>20</td><td>280</td><td>630</td><td>1 120</td><td>2 520</td></tr>
+</table>
 
 </div></div>Les portes permettent d’entrer et de sortir d’une structure fortifiée, ce sont généralement les points faibles des défenses.
 

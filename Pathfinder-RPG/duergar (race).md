@@ -75,7 +75,44 @@ Ces dons sont accessibles aux duergars :
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Dur comme le fer]]</td><td><sup>CM</sup></td><td>[[Robustesse]], [[Duergar (race)|duergar]]</td><td>Les bonus d'altération à l'armure naturelle fonctionnent mieux sur le personnage</td></tr><tr CLASS="premier"><td>[[Flexibilité innée]]</td><td><sup>CM</sup></td><td>[[Duergar (race)|Duergar]]; deux pouvoirs magiques utilisables une fois par jour</td><td>Gain d'utilisations supplémentaires des pouvoirs magiques</td></tr><tr CLASS="premier"><td>[[Invisibilité prolongée]]</td><td><sup>MR</sup></td><td>[[duergar (race)|duergar]]</td><td>Voir description du don</td></tr><tr CLASS="premier"><td>[[Magie des nains gris]]</td><td><sup>CM</sup></td><td>[[Duergar (race)|Duergar]]</td><td>Gain d'un nouveau pouvoir magique duergar</td></tr><tr CLASS="premier"><td>[[Pas de géant]]</td><td><sup>MR</sup></td><td>[[duergar (race)|duergar]], trait racial lentement mais sûrement</td><td>Voir description du don</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <tr CLASS="titre">
+    <td WIDTH="25%">&nbsp;</td>
+    <td WIDTH= "6%">Source</td>
+    <td WIDTH="25%">Conditions</td>
+    <td WIDTH="44%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dur comme le fer]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Robustesse]], [[Duergar (race)|duergar]]</td>
+    <td>Les bonus d'altération à l'armure naturelle fonctionnent mieux sur le personnage</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Flexibilité innée]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Duergar (race)|Duergar]]; deux pouvoirs magiques utilisables une fois par jour</td>
+    <td>Gain d'utilisations supplémentaires des pouvoirs magiques</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Invisibilité prolongée]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[duergar (race)|duergar]]</td>
+    <td>Voir description du don</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Magie des nains gris]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Duergar (race)|Duergar]]</td>
+    <td>Gain d'un nouveau pouvoir magique duergar</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pas de géant]]</td>
+    <td><sup>MR</sup></td>
+    <td>[[duergar (race)|duergar]], trait racial lentement mais sûrement</td>
+    <td>Voir description du don</td>
+  </tr>
+</table>
 
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">

@@ -23,13 +23,25 @@ Ce sort bien plus puissant qu’*[[animation des morts]]* offre la possibilité 
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr><tr CLASS="premier"><td>15 ou moins</td><td>[[Ombre]]</td></tr><tr CLASS="alt"><td>16–17</td><td>[[Âme-en-peine]]</td></tr><tr><td>18–19</td><td>[[Spectre]]</td></tr><tr CLASS="alt"><td>20 ou plus</td><td>[[Dévoreur]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr>
+  <tr CLASS="premier"><td>15 ou moins</td><td>[[Ombre]]</td></tr>
+  <tr CLASS="alt"><td>16–17</td><td>[[Âme-en-peine]]</td></tr>
+  <tr><td>18–19</td><td>[[Spectre]]</td></tr>
+  <tr CLASS="alt"><td>20 ou plus</td><td>[[Dévoreur]]</td></tr>
+</table>
 
 
 (((Ce sort s’apparente à *[[création de mort-vivant]]*, si ce n’est qu’il permet d’animer des créatures plus puissantes : [[ombre|ombres]], [[âme-en-peine|âmes en peine]], [[spectre|spectres]] et [[dévoreur|dévoreurs d’âme]]. Le type de [[type mort-vivant|mort-vivant]] créé est choisi en fonction du [[NLS|niveau de lanceur de sorts]] du personnage :
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr><tr CLASS="premier"><td>15 ou moins</td><td>[[Ombre]]</td></tr><tr CLASS="alt"><td>16–17</td><td>[[Âme-en-peine]]</td></tr><tr><td>18–19</td><td>[[Spectre]]</td></tr><tr CLASS="alt"><td>20 ou plus</td><td>[[Dévoreur]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr>
+  <tr CLASS="premier"><td>15 ou moins</td><td>[[Ombre]]</td></tr>
+  <tr CLASS="alt"><td>16–17</td><td>[[Âme-en-peine]]</td></tr>
+  <tr><td>18–19</td><td>[[Spectre]]</td></tr>
+  <tr CLASS="alt"><td>20 ou plus</td><td>[[Dévoreur]]</td></tr>
+</table>
 
 </center>)))

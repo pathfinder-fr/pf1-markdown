@@ -13,4 +13,840 @@ Tous les objets merveilleux décrits ci-dessous pèsent entre 0,125 g et 2 kg sa
 
 {s:filtrable}
 
-<table CLASS="tablo centre autoalt toutgauche filtrable"><caption>Objets merveilleux portés sur les épaules</caption><tr CLASS="titre"><td WIDTH="22%">Objet</td><td WIDTH= "3%">Source</td><td WIDTH="65%">Capacités</td><td WIDTH="10%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Cape enveloppante]]</td><td><sup>MJRA, A&E</sup></td><td>Peut conférer un [[valeurs de combat#CAMOUFLAGE|camouflage]] de 20 % pendant 1 minute ou jusqu’à ce que ce dernier évite le porteur de se faire toucher. Usage unique.</td><td>200 po</td></tr><tr CLASS="premier"><td>[[Cape de déguisement humain]]</td><td><sup>A&E, MR</sup></td><td>Efface les traits particuliers d’un personnage de race demi-humaine tant qu’il la porte.</td><td>900 po</td></tr><tr CLASS="premier"><td>[[Cape de résistance]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de résistance aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]].</td><td>—</td></tr><tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>1 000 po</td></tr><tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 4 000 po</td></tr><tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 9 000 po</td></tr><tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 16 000 po</td></tr><tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 25 000 po</td></tr><tr CLASS="premier"><td>[[Cape défensive]]</td><td><sup>A&E</sup></td><td>Peut se transformer en rondache de maître en bois à volonté, elle peut être enchantée.</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[Châle de transfert vital]]</td><td><sup>A&E, MR</sup></td><td>Une fois par jour, peut stocker jusqu’à 10 points de vie du porteur et les lui rendre s’il tombe à -1 points de vie ou moins. Ne peut pas empêcher de mourir. Affaiblie la créature dont les points de vie sont stockés si elle ne la porte pas.</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[Cordes de mulet]]</td><td><sup>A&E</sup></td><td>Le porteur ajoute 8 à sa valeur de [[Force]] pour calculer sa charge transportable.</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[Cape de libre arbitre]]</td><td><sup>CMy</sup></td><td>Confère un bonus de résistance aux [[jds|jets de sauvegarde]] dépendant du modèle, qui est supérieur de 1 pour la [[Volonté]]. S'il rate un jet de Volonté, le porteur peut dépenser une utilisation de [[pouvoir mythique]] pour relancer le jet (si le second jet est raté, ce pouvoir est désactivé pendant 24 heures).</td><td>—</td></tr><tr><td>&emsp; +1/+2</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +1 et à +2 pour la Volonté.</td><td>1 500 po</td></tr><tr><td>&emsp; +2/+3</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +2 et à +3 pour la Volonté.</td><td>6 000 po</td></tr><tr><td>&emsp; +3/+4</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +3 et à +4 pour la Volonté.</td><td>13 500 po</td></tr><tr><td>&emsp; +4/+5</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +4 et à +5 pour la Volonté.</td><td>24 000 po</td></tr><tr><td>&emsp; +5/+6</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +5 et à +6 pour la Volonté.</td><td>37 500 po</td></tr><tr CLASS="premier"><td>[[Cape de réflexes rapides]]</td><td><sup>CMy</sup></td><td>Confère un bonus de résistance aux [[jds|jets de sauvegarde]] dépendant du modèle, qui est supérieur de 1 pour les [[Réflexes]]. S'il rate un jet de Réflexes, le porteur peut dépenser une utilisation de [[pouvoir mythique]] pour relancer le jet (si le second jet est raté, ce pouvoir est désactivé pendant 24 heures).</td><td>—</td></tr><tr><td>&emsp; +1/+2</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +1 et à +2 pour les Réflexes.</td><td>1 500 po</td></tr><tr><td>&emsp; +2/+3</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +2 et à +3 pour les Réflexes.</td><td>6 000 po</td></tr><tr><td>&emsp; +3/+4</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +3 et à +4 pour les Réflexes.</td><td>13 500 po</td></tr><tr><td>&emsp; +4/+5</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +4 et à +5 pour les Réflexes.</td><td>24 000 po</td></tr><tr><td>&emsp; +5/+6</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +5 et à +6 pour les Réflexes.</td><td>37 500 po</td></tr><tr CLASS="premier"><td>[[Cape de transformiste]]</td><td><sup>A&E</sup></td><td>Peut stocker jusqu’à 3 déguisements (réalisés avec la compétence [[Déguisement]]) que le porteur peut revêtir librement.</td><td>1 500 po</td></tr><tr CLASS="premier"><td>[[épaulières de vigueur inébranlable]]</td><td><sup>CMy</sup></td><td>Confère un bonus de résistance aux [[jds|jets de sauvegarde]] dépendant du modèle, qui est supérieur de 1 pour les [[Vigueur]]. S'il rate un jet de Vigueur, le porteur peut dépenser une utilisation de [[pouvoir mythique]] pour relancer le jet (si le second jet est raté, ce pouvoir est désactivé pendant 24 heures).</td><td>—</td></tr><tr><td>&emsp; +1/+2</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +1 et à +2 pour la Vigueur.</td><td>1 500 po</td></tr><tr><td>&emsp; +2/+3</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +2 et à +3 pour la Vigueur.</td><td>6 000 po</td></tr><tr><td>&emsp; +3/+4</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +3 et à +4 pour la Vigueur.</td><td>13 500 po</td></tr><tr><td>&emsp; +4/+5</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +4 et à +5 pour la Vigueur.</td><td>24 000 po</td></tr><tr><td>&emsp; +5/+6</td><td><sup>CMy</sup></td><td>Le bonus s’élève à +5 et à +6 pour la Vigueur.</td><td>37 500 po</td></tr><tr CLASS="premier"><td>[[Cape du lâche accroupi]]</td><td><sup>MJRA, A&E</sup></td><td>Peut forcer les assaillants à réussir un jet de [[Volonté]] pour porter leurs attaques (comme avec *[[sanctuaire]]*). Ce pouvoir occulte la vision du porteur et l’empêche d’agir.</td><td>1 800 po</td></tr><tr CLASS="premier"><td>[[Cape du ciel nocturne]]</td><td><sup>D&M, *ISG*</sup></td><td>Protège de la chaleur et du froid (comme avec *[[endurance aux énergies destructives]]* quand le porteur dort. Permet de dormir en armure intermédiaire sans conséquence. Une fois par jour, permet de lancer *[[repérage]]*. Un suivant de [[Desna (technique)|Desna]] peut faire apparaître la configuration céleste actuelle sur l'objet, et lancer *[[grand pas]]* et *[[illumination]]* une fois par jour.</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Cape du magicien solitaire]]</td><td><sup>A&E</sup></td><td>Permet de lancer *[[prestidigitation]]* à volonté. Permet de lancer plusieurs sorts selon l’école de magie choisie à la fabrication.</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Cape elfique]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]].</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Cape de disparition enflammée]]</td><td><sup>A&E, MR</sup></td><td>Lorsque le porteur subit un effet infligeant des dégâts de feu, laisse une illusion de son corps en cendres et confère les effets du sort *[[invisibilité]]* pendant 5 [[round|rounds]] maximum.</td><td>2 600 po</td></tr><tr CLASS="premier"><td>[[Cape de la croisée]]</td><td><sup>D&M, *ISG*</sup></td><td>Une fois par jour, permet de lancer *[[bénédiction]]*. Un suivant d'[[Iomédae (technique)|Iomédae]] bénéficie d'un bonus d'altération de +1 à l'armure naturelle, et peut manifester une bannière sainte au dessus de sa tête à volonté.</td><td>2 700 po</td></tr><tr CLASS="premier"><td>[[Cape du traqueur de mort]]</td><td><sup>D&M, *ISG*</sup></td><td>Une fois par jour, permet de lancer *[[anathème]]*. Un suivant de [[Groétus (technique)|Groétus]] peut lancer *[[simulacre de vie]]* (renforcé à chaque ennemi tué) une fois par jour.</td><td>2 700 po</td></tr><tr CLASS="premier"><td>[[Cape de crocs]]</td><td><sup>A&E, MR</sup></td><td>Confère un bonus de résistance de +1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]]. Cinq fois par jour, peut conférer une attaque de morsure infligeant 1d6 points de dégâts pendant 1 [[round]] (si le porteur en possède déjà une, sa taille augmente d’une catégorie pour en déterminer les dégâts).</td><td>2 800 po</td></tr><tr CLASS="premier"><td>[[Cape du grand héros barghest]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de compétence de +2 aux tests d'[[Intimidation]]. Un suivant d'un des héros barghests gobelins peut lancer *[[métamorphose]]* ([[chien gobelin]] uniquement) une fois par jour.</td><td>2 800 po</td></tr><tr CLASS="premier"><td>[[épaulettes dorées de laigle|épaulettes dorées de l'aigle]]</td><td><sup>RSE</sup></td><td>Confère un bonus de compétence de +2 aux tests de [[Diplomatie]] et à une autre compétence choisie à la fabrication. Une fois par jour, permet de lancer *[[bénédiction]]*. Quand le porteur tombe à 0 [[pv]], confère les effets de *[[sanctuaire]]*.</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Spallières du serpent]]</td><td><sup>A&E</sup></td><td>Confère un bonus d’esquive de +2 à la [[CA]] contre les [[valeurs de combat#ATTAQUEDOPPORTUNITE|attaques d’opportunité]] et un bonus de +1 au [[DMD]] contre les manœuvres de [[manœuvres offensives#BOUSCULADE|bousculade]], de [[manœuvres offensives#LUTTE|lutte]], de [[manœuvres offensives#REPOSITIONNEMENT|repositionnement]] et de [[manœuvres offensives#CROCENJAMBE|croc-en-jambe]].</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Cape dalarme sanglante|Cape d'alarme sanglante]]</td><td><sup>*ISR*</sup></td><td>Une fois par jour, les blessures d'un porteur [[Homme-rat (race)|homme-rat]] alertent automatiquement l'allié homme-rat le plus proche dans un rayon de 1,5 km.</td><td>3 200 po</td></tr><tr CLASS="premier"><td>[[Peau dours du briseur dos|Peau d'ours du briseur d'os]]</td><td><sup>D&M, *ISG*</sup></td><td>Confère un bonus de compétence de +2 aux tests d'[[Intimidation]]. Une fois par jour, permet de lancer *[[bénédiction]]*. Un suivant d'Urazra peut lancer *[[forme bestiale II]]* (ours noir ou brun) une fois par jour.</td><td>3 300 po</td></tr><tr CLASS="premier"><td>[[Cape des brumes montagneuses]]</td><td><sup>A&E, MR</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Une fois par jour, permet de lancer *[[brume de dissimulation]]*.</td><td>3 500 po</td></tr><tr CLASS="premier"><td>[[Cape de plumécailles]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Natation]]. Une fois par jour, permet de lancer *[[feuille morte]]*, *[[forme bestiale I]]* (oiseau ou en poisson uniquement) et *[[invisibilité pour les animaux]]* (soi-même uniquement).</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Cape du grand chêne]]</td><td><sup>A&E</sup></td><td>Une fois par jour, permet de lancer *[[forme darbre|forme d’arbre]]* (arbre vivant uniquement). Rend 1d6 points de vie par heure passée sous cette forme sous la lumière du soleil.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Cape du rat sanguinaire]]</td><td><sup>A&E, MR</sup></td><td>Jusqu’à 5 minutes par jour, permet de se transformer en [[rat sanguinaire]] (comme avec *[[forme bestiale I]]*).</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Châle décume de mer|Châle d’écume de mer]]</td><td><sup>A&E, MR</sup></td><td>Une fois par jour, peut conférer les effets du sort *[[petite sirène]]* pendant 5 heures maximum.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Suaire dun mort|Suaire d'un mort]]</td><td><sup>RSE</sup></td><td>Confère les effets d*'[[invisibilité pour les morts-vivants]]* en permanence. Une fois par jour, peut rendre le porteur [[invisible]] pendant 5 minutes.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Cape du gredin sournois]]</td><td><sup>MCA</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Peut dissimuler une arme légère qui ne peut être repérée qu’avec un test de [[Perception]] [[DD]] 20 (comme pour un passage secret). Un [[bretteur]] peut dépenser 1 point de [[panache]] pour bénéficier des effets du sort *[[disparition]]* pendant 5 [[round|rounds]], à volonté.</td><td>6 400 po</td></tr><tr CLASS="premier"><td>[[Cape de laigle|Cape de l’aigle]]</td><td><sup>A&E</sup></td><td>Confère les effets du sort [[feuille morte]] dès que son porteur fait une chute d’au moins 1,50 m. Une fois par jour, permet de se transformer en [[aigle]] (comme avec *[[forme bestiale I]]* mais avec la vitesse de vol de 24 m) pendant 10 minutes maximum, et confère un bonus de compétence de +5 aux tests de [[Perception]].</td><td>7 000 po</td></tr><tr CLASS="premier"><td>[[Cape de la raie manta]]</td><td><sup>MJ, A&E</sup></td><td>Tant que le porteur est dans l’eau salée, le transforme en [[raie manta]] (comme avec *[[forme bestiale II]]* mais avec un bonus d’armure naturelle de +3 et la capacité de respirer sous l’eau) et lui confère une attaque de queue infligeant 1d6 points de dégâts.</td><td>7 200 po</td></tr><tr CLASS="premier"><td>[[Cape du chasseur]]</td><td><sup>A&E</sup></td><td>Jusqu’à 10 minutes par jour, permet à un porteur possédant la capacité [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] de se transformer en un animal natif de cet environnement (comme avec *[[forme bestiale I]]*) tant qu’il s’y trouve.</td><td>7 500 po</td></tr><tr CLASS="premier"><td>[[Cape des exploits audacieux]]</td><td><sup>MCA</sup></td><td>Confère un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] (ce bonus passe à +4 pendant 1 [[round]] quand le porteur utilise la capacité [[bretteur#CHARMANTEVIE|charmante vie]]). Quand le porteur accomplit l’exploit [[exploits (bretteur)#BRAVOURE|bravoure]], il ajoute un dé sur un 5 ou un 6 (plutôt que sur un 6 uniquement).</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Cape du roi troll]]</td><td><sup>CM</sup></td><td>Confère un bonus de compétence de +5  aux tests d'[[Intimidation]]. Trois fois par jour, permet de lancer *[[mains brûlantes]]*.</td><td>9 000 po</td></tr><tr CLASS="premier"><td>[[Cape du poète]]</td><td><sup>MCA</sup></td><td>Permet a un porteur qui possède la capacité [[représentation bardique]] d’utiliser des [[scalde #CHANTDERAGE|chant de rage]] comme un [[scalde]] de niveau 4 en en dépensant des rounds. Permet à un porteur qui possède la capacité [[scalde #CHANTDERAGE|chant de rage]] d’utiliser l’[[représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] et l’[[représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] comme un [[barde]] de niveau 4 en en dépensant des rounds. Peut accorder un [[scalde#POUVOIRDERAGE|pouvoir de rage]] choisi à la fabrication aux créatures affectées par le chant de rage du porteur à la place des siens.</td><td>9 750 po</td></tr><tr CLASS="premier"><td>[[Cape cocon]]</td><td><sup>A&E</sup></td><td>Tant que le porteur est endormi (magiquement ou non), confère un bonus d’altération de +4 à l’armure naturelle et le protège contre les coups critiques et les attaques sournoises (comme avec une armure de [[défense légère (propriété)|défense légère]]).</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Cape de marcheur du crépuscule]]</td><td><sup>A&E</sup></td><td>Confère la [[vision nocturne (capacité)|vision nocturne]] en permanence. Une fois par jour, peut entourer le porteur de ténèbres (comme avec *[[ténèbres]]*), lui conférant la [[capacités spéciales#VISIONDANSLENOIR|vision dans le noir]] (18m).</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Cape de pierre]]</td><td><sup>A&E</sup></td><td>Peut conférer une [[RD]] 5/adamantium et un bonus de circonstance de +5 aux tests de [[Discrétion]] à volonté. Tant que ce pouvoir est actif, le porteur perd son bonus de [[Dextérité]] à la [[CA]].</td><td>10 000 po</td></tr><tr><td>&emsp; [[Cape de pierre|Cape de pierre supérieure]]</td><td><sup>A&E</sup></td><td>Fonctionne comme la *Cape de Pierre*, mais la [[RD]] s’élève à 10/adamantium.</td><td>| 20 000 po</td></tr><tr CLASS="premier"><td>[[Spallières du taureau]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +2 au [[DMD]] contre les manœuvres de [[manœuvres offensives#BOUSCULADE|bousculade]]. Lorsque le porteur effectue une telle manœuvre, il peut lancer 2 jets et conserver le meilleur résultat.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Cape de prestidigitateur]]</td><td><sup>MJ, A&E</sup></td><td>Une fois par jour, permet de lancer *[[porte dimensionnelle]]* (porteur uniquement).</td><td>10 800 po</td></tr><tr CLASS="premier"><td>[[Spallières du lion vigilant]]</td><td><sup>A&E</sup></td><td>Deux fois par jour, lorsque le porteur réussit un test d’[[Acrobaties]] pour traverser l’espace contrôlé par une créature, attaque cette dernière.</td><td>10 800 po</td></tr><tr CLASS="premier"><td>[[Cape dombre et déclat|Cape d'ombre et d'éclat]]</td><td><sup>RSE</sup></td><td>Cette cape a deux fonctions, soit elle confère un bonus d'altération de +2 au [[Charisme]], soit elle confère un bonus de compétence de +2 aux tests de [[Discrétion]] et permet de lancer *[[flou]]* trois fois par jour.</td><td>11 000 po</td></tr><tr CLASS="premier"><td>[[Cape du lion]]</td><td><sup>A&E</sup></td><td>Confère un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les effets mentaux et la terreur, et un bonus de circonstance de +2 aux tests d’[[Intimidation]]. Une fois par jour, permet de se transformer en [[lion]] (comme avec *[[forme bestiale II]]*) pendant 10 minutes. Un porteur avec la capacité [[paladin#CHATIMENTDUMAL|châtiment du mal]] ou [[antipaladin#CHATIMENTDUBIEN|du bien]] peut en dépenser une utilisation pour réutiliser ce dernier pouvoir.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Cape du traqueur]]</td><td><sup>CMy</sup></td><td>Confère un bonus de +5 aux tests de [[Discrétion]] et de [[Survie]] pour suivre des traces. Immunise le porteur contre la capacité [[Odorat (capacité)|odorat]]. Au prix d'une utilisation de [[pouvoir mythique]], peut conférer les effets d'une *[[invisibilité suprême]]* difficilement révélable (qui se termine 1 minute après avoir porté une attaque) pendant 1 heure.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Houppelande de spores]]</td><td><sup>A&E</sup></td><td>Confère un bonus de résistance de +4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les maladies. Une fois par jour, peut infliger 1d6 puis 1d3 points de dégâts pendant 3 [[round|rounds]] aux créatures adjacentes au porteur.</td><td>13 400 po</td></tr><tr CLASS="premier"><td>[[Cape de feinte]]</td><td><sup>MCA</sup></td><td>Trois fois par jour, peut faire perdre son bonus de [[Dextérité]] à la [[CA]] à un créature jusqu’au prochain tout du porteur (peut [[hébété|hébéter]] la créature pendant la même durée si un porteur [[bretteur]] accomplit l’exploit [[exploits (bretteur)#FEINTEDEQUALITE|feinte de qualité]] ou utilise ce pouvoir).</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Cape dévasion radieuse|Cape d’évasion radieuse]]</td><td><sup>A&E</sup></td><td>Manifeste les effets du sort *[[lumière]]* (à 3m) en permanence. Deux fois par jour, peut [[états préjudiciables#Aveuglé|aveugler]] toutes les créatures à 6 m ou moins du porteur pendant 1d4 [[round|rounds]] puis conférer les effets du sort *[[invisibilité]]* à ce dernier pendant 1 minute maximum.</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Cape de laraignée|Cape de l’araignée]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de chance de +2 aux jets de [[Vigueur]] contre le venin des araignées ainsi que les effets du sort *[[pattes daraignée|pattes d’araignée]]* en permanence. Le porteur se déplace normalement et sans risque dans les toiles (magiques ou naturelles). Une fois par jour, permet de lancer *[[toile daraignée|toile d’araignée]]*.</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Cape tentaculaire]]</td><td><sup>A&E</sup></td><td>Deux fois par jour, peut conférer deux attaques de tentacule infligeant des dégâts contondants selon sa taille avec une allonge de 3m et la capacité [[étreinte (capacité)|étreinte]] avec un bonus de +4 aux tests de [[manœuvres offensives#LUTTE|lutte]], pendant 1 minute.</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Poncho de franc-tireur]]</td><td><sup>A&E</sup></td><td>Confère un bonus de chance de +2 à la [[CA]] au contact. Une fois par jour, permet de se jeter [[états préjudiciables#ATERRE|à terre]] pour annuler une attaque de contact à distance. Ces pouvoirs ne fonctionnent que contre les attaques d’armes à feu et la magie hostile.</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Spallières à pointes démoniaques]]</td><td><sup>A&E</sup></td><td>Similaires à des pointes pour armure +2 qui infligent 1d2 points de dégâts de saignement supplémentaires. Elles augmentent les dégâts des pointes pour armure déjà portées d’une catégorie.</td><td>14 350 po</td></tr><tr CLASS="premier"><td>[[Cape confortable]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +4 aux jets de sauvegarde contre les maladies, l’[[absorption dénergie (capacité)|absorption d’énergie]], les poisons, et les effets de [[états préjudiciables#Fatigué|fatigue]] et d’[[états préjudiciables#épuisé|épuisement]] ainsi que les effets du sort *[[endurance aux énergies destructives]]* en permanence. Les repos de 8 heures rendent 2 points de vie par [[DV]] et ceux de 24 heures 5 points de vie par [[DV]].</td><td>15 600 po</td></tr><tr CLASS="premier"><td>[[Châle de mégère]]</td><td><sup>A&E</sup></td><td>Donne l’apparence d’une vénérable femme de sa race au porteur (sans bonus ni malus liés à l’âge) tant qu’il le porte. Confère un bonus de circonstance de +4 aux tests de compétence basés sur le [[Charisme]] pour paraître amical, inoffensif, sans défense ou respectable (+8 avec les enfants). Permet de rejoindre un cercle de geunaude.</td><td>16 000 po</td></tr><tr CLASS="premier"><td>[[Pèlerine de bateleur]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +8 aux tests d’[[Escamotage]]. Peut stocker un un objet de 1,50m de côté ou moins pesant jusqu’à 50kg ou moins dans un espace extra-dimensionnel pendant 1 heure maximum.</td><td>17 200 po</td></tr><tr CLASS="premier"><td>[[Cape de rêves ailés]]</td><td><sup>*ISG*</sup></td><td>Une fois par jour, permet de lancer *[[manteau de guêpes]]* (sans poison, dégâts complets aux créatures intangibles) et *[[poussière scintillante]]*.</td><td>17 500 po</td></tr><tr CLASS="premier"><td>[[étole de justice]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +5 aux tests de [[Psychologie]]. Jusqu’à 5 minutes par jour, peut manifester les effets du sort *[[zone de vérité]]*. Lorsqu’il lance *[[détection du Chaos]]*, *[[détection du Mal|du Mal]]*, *[[détection de la Loi|de la Loi]]* ou *[[détection du Bien|du Bien]]*, le porteur obtient les informations du troisième [[round]] au début du tour suivant l’incantation. Confère à un [[inquisiteur]] un bonus aux tests de [[Perception]] et au [[DMD]] (comme avec une arme [[juge (propriété)|de juge]]) lorsqu’il utilise sa capacité [[inquisiteur#JUGEMENT|jugement]].</td><td>18 000 po</td></tr><tr CLASS="premier"><td>[[Cape de la méduse]]</td><td><sup>A&E</sup></td><td>Tant que le porteur est dans l’eau salée, confère un [[modificateurs de combat#CAMOUGLAGE|camouflage]] de 20%, la capacité à respirer sous l’eau et une vitesse de nage de 6m. Dans cette situation, inflige 1 point de dégâts aux créatures qui terminent leur tour sur une case adjacente au porteur et peut les rendre [[états préjudiciables#Fiévreux|fiévreuses]].</td><td>19 200 po</td></tr><tr CLASS="premier"><td>[[Cape de diplomate]]</td><td><sup>A&E, MR</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Diplomatie]] et de [[Psychologie]]. Une fois par jour, lorsque le porteur effectue un tel test, il peut lancer 2 jets et conserver le meilleur résultat. Augmente l’impact des tests de [[Diplomatie]] visant à modifier l’attitude d’une créature.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Cape tranchante]]</td><td><sup>A&E</sup></td><td>Permet d’effectuer une attaque infligeant 2d6 points de dégâts à toutes les créatures adjacentes par une [[action complexe]], elle peut être enchantée.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Cape de déplacement]] mineure</td><td><sup>MJ, A&E</sup></td><td>Confère les effets du sort *[[flou]]* en permanence.</td><td>24 000 po</td></tr><tr><td>&emsp; [[Cape de déplacement]] majeure</td><td><sup>MJ, A&E</sup></td><td>Jusqu’à 15 [[round|rounds]] par jour, peut conférer les effets du sort *[[déplacement]]*.</td><td>| 50 000 po</td></tr><tr CLASS="premier"><td>[[Peau de lycanthrope|Peau de lycanthrope (loup, rat, sanglier)]]</td><td><sup>*ISR*</sup></td><td>Permet de parler aux animaux proches des loups, rats et sangliers (comme avec *[[communication avec les animaux]]*). Un porteur [[Changepeau (race)|changepeau]] dont l'héritage correspond à l'un des animaux associés peut prendre sa forme comme avec *[[forme bestiale I]]* (ainsi que la taille et l'apparence) aussi longtemps qu'il le souhaite.</td><td>24 000 po</td></tr><tr><td>[[Peau de lycanthrope|Peau de lycanthrope (chauve-sourris, crocodile, grizzly, tigre)]]</td><td><sup>*ISR*</sup></td><td>Mêmes effets, mais avec les animaux proches des chauves-sourris, crocodiles, grizzly et tigres à la place.</td><td>| 40 000 po</td></tr><tr CLASS="premier"><td>[[Cape de la chauve-souris]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Permet de se pendre la tête en bas aux plafonds. Permet de lancer *[[sort vol|vol]]* ([[Vol]] +7) ou de se transformer en [[chauve-souris]] (comme avec *[[forme bestiale III]]* mais avec la vitesse de vol de 12m), jusqu’à 7 minutes par jour chacun (rendant la cape inutile pendant la même durée ensuite).</td><td>26 000 po</td></tr><tr CLASS="premier"><td>[[Cape dété et dhiver|Cape d'été et d'hiver]]</td><td><sup>*ISR*</sup></td><td>Une fois par jour, permet d'utiliser *[[bouclier de feu]]* adapté à la température environnante. Un porteur triaxien obtient une [[Résistance (capacité)|résistance aux énergies destructives]] de 10 au feu (s'il est né de l'été) ou au froid (s'il est né de l'hiver), ou une résistance de 5 au feu et au froid (s'il est transitionnel).</td><td>30 000 po</td></tr><tr CLASS="premier"><td>[[Cape de bandit de grand chemin]]</td><td><sup>A&E</sup></td><td>Confère un bonus de compétence de +5 aux tests de [[Bluff]] ou de [[Discrétion]] (pas les deux en même temps). Permet d'effectuer un test d'[[évasion]] immédiatement pour éviter d'être [[agrippé]], [[immobilisé]] ou restreint (comme avec *[[ordre libérateur]]*).</td><td>32 500 po</td></tr><tr CLASS="premier"><td>[[Cape de désarmement]]</td><td><sup>MCA</sup></td><td>Permet d’effectuer une manœuvre de [[désarmement]] sans provoquer d’[[attaque dopportunité|attaque d'opportunité]] par une [[action rapide]] (Un personnage qui possède la capacité [[panache]] peut en dépenser 1 point pour bénéficier d’un bonus de compétence de +5 à son test).</td><td>35 000 po</td></tr><tr CLASS="premier"><td>[[Spallières de juggernaut]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +4 au [[DMD]] et la capacité [[férocité (capacité)|férocité]]. Peut conférer les effets du sort *[[agrandissement]]* à volonté. Trois fois par jour après que le porteur ait tué un adversaire, confère les effets du sort *[[juggernaut mortel]]* pendant 1 minute.</td><td>40 000 po</td></tr><tr CLASS="premier"><td>[[Cape de charlatan]]</td><td><sup>A&E</sup></td><td>Trois fois par jour, permet de lancer [[porte dimensionnelle]] (porteur uniquement). Une fois par jour, permet de lancer *[[forme éthérée]]*.</td><td>45 000 po</td></tr><tr CLASS="premier"><td>[[Ailes de vol]]</td><td><sup>MJ, A&E</sup></td><td>Peut conférer un bonus de compétence de +5 aux tests de [[Vol]] et une vitesse de vol de 18m (manœuvrabilité moyenne), à volonté.</td><td>54 000 po</td></tr><tr CLASS="premier"><td>[[Cape du phénix]]</td><td><sup>CMy</sup></td><td>Jusqu'à 10 [[round|rounds]] par jour, peut conférer la capacité [[Combustion (capacité)|combustion]] aux attaques à mains nues et naturelles du porteur. Lorsqu'il est réduit à moins de 0 [[pv]] et au prix d'une utilisation de [[pouvoir mythique]], le porteur peut bénéficier des effets d'un *[[souffle de vie]]* et d'un *[[corps élémentaire II]]* (feu uniquement, avec une vitesse de vol de 15m).</td><td>55 000 po</td></tr><tr CLASS="premier"><td>[[Cape éthérée]]</td><td><sup>MJ, A&E</sup></td><td>Jusqu’à 10 minutes par jour, peut conférer les effets du sort *[[forme éthérée]]*.</td><td>55 000 po</td></tr><tr CLASS="premier"><td>[[Cape des ombres sourdes]]</td><td><sup>*UI*</sup></td><td>À volonté, peut baisser la luminosité dans un rayon de 9 m d'une catégorie et étouffer les sons émits par le porteur (comme avec *[[manipulation des sons]]*) pendant 15 minutes. Une fois par semaine, permet de lancer *[[traversée des ombres]]*. Une seule fois, peut conférer les effets de *[[corps dombre|corps d'ombre]]* pendant 15 minutes.</td><td>63 250 po</td></tr><tr CLASS="premier"><td>[[Cape dimmolation CMy|Cape d’immolation (CMy)]]</td><td><sup>CMy</sup></td><td>Confère une [[Résistance (capacité)|résistance]] au feu de 20. Jusqu'à 10 [[round|rounds]] par jour, peut conférer les effets de *[[bouclier de feu]]*. Au prix d'une utilisation de [[pouvoir mythique]], le porteur peut recharger le pouvoir de la cape, ou infliger des dégâts de feu aux créatures dans un rayon de 9m autour de lui en leur faisant croire qu'il est mort jusqu'à son prochain tour.</td><td>65 000 po</td></tr><tr CLASS="premier"><td>[[Ailes de gargouille]]</td><td><sup>A&E</sup></td><td>Jusqu’à 5 minutes par jour, peut conférer une vitesse de vol de 18m (manœuvrabilité moyenne) et une [[RD]] 10/adamantium.</td><td>72 000 po</td></tr><tr CLASS="premier"><td>[[Cape de la vouivre]]</td><td><sup>A&E</sup></td><td>Confère un bonus de résistance de +4 aux jets de [[Volonté]] ainsi que les effets du sort *[[feuille morte]]* en permanence. Une fois par jour, permet de lancer *[[sort vol|vol]]*. Peut conférer une attaque de dard infligeant 1d6 points de dégâts et les effets du sort *[[empoisonnement]]*, à volonté.</td><td>78 600 po</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche filtrable">
+  <caption>Objets merveilleux portés sur les épaules</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Objet</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="65%">Capacités</td>
+    <td WIDTH="10%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape enveloppante]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Peut conférer un [[valeurs de combat#CAMOUFLAGE|camouflage]] de 20 % pendant 1 minute ou jusqu’à ce que ce
+      dernier évite le porteur de se faire toucher. Usage unique.
+    </td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de déguisement humain]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>Efface les traits particuliers d’un personnage de race demi-humaine tant qu’il la porte.</td>
+    <td>900 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de résistance]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère un bonus de résistance aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]].</td>
+    <td>—</td>
+  </tr>
+  <tr><td>&emsp; +1</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +1.</td><td>1 000 po</td></tr>
+  <tr><td>&emsp; +2</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +2.</td><td>| 4 000 po</td></tr>
+  <tr><td>&emsp; +3</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +3.</td><td>| 9 000 po</td></tr>
+  <tr><td>&emsp; +4</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +4.</td><td>| 16 000 po</td></tr>
+  <tr><td>&emsp; +5</td><td><sup>MJ, A&E</sup></td><td>Le bonus s’élève à +5.</td><td>| 25 000 po</td></tr>
+  <tr CLASS="premier">
+    <td>[[Cape défensive]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Peut se transformer en rondache de maître en bois à volonté, elle peut être enchantée.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Châle de transfert vital]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Une fois par jour, peut stocker jusqu’à 10 points de vie du porteur et les lui rendre s’il tombe à -1 points
+      de vie ou moins. Ne peut pas empêcher de mourir. Affaiblie la créature dont les points de vie sont stockés si
+      elle ne la porte pas.
+    </td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cordes de mulet]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Le porteur ajoute 8 à sa valeur de [[Force]] pour calculer sa charge transportable.</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de libre arbitre]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Confère un bonus de résistance aux [[jds|jets de sauvegarde]] dépendant du modèle, qui est supérieur de 1 pour
+      la [[Volonté]]. S'il rate un jet de Volonté, le porteur peut dépenser une utilisation de [[pouvoir mythique]]
+      pour relancer le jet (si le second jet est raté, ce pouvoir est désactivé pendant 24 heures).
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; +1/+2</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +1 et à +2 pour la Volonté.</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +2/+3</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +2 et à +3 pour la Volonté.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +3/+4</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +3 et à +4 pour la Volonté.</td>
+    <td>13 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +4/+5</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +4 et à +5 pour la Volonté.</td>
+    <td>24 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +5/+6</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +5 et à +6 pour la Volonté.</td>
+    <td>37 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de réflexes rapides]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Confère un bonus de résistance aux [[jds|jets de sauvegarde]] dépendant du modèle, qui est supérieur de 1 pour
+      les [[Réflexes]]. S'il rate un jet de Réflexes, le porteur peut dépenser une utilisation de [[pouvoir
+      mythique]] pour relancer le jet (si le second jet est raté, ce pouvoir est désactivé pendant 24 heures).
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; +1/+2</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +1 et à +2 pour les Réflexes.</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +2/+3</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +2 et à +3 pour les Réflexes.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +3/+4</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +3 et à +4 pour les Réflexes.</td>
+    <td>13 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +4/+5</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +4 et à +5 pour les Réflexes.</td>
+    <td>24 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +5/+6</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +5 et à +6 pour les Réflexes.</td>
+    <td>37 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de transformiste]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut stocker jusqu’à 3 déguisements (réalisés avec la compétence [[Déguisement]]) que le porteur peut revêtir
+      librement.
+    </td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[épaulières de vigueur inébranlable]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Confère un bonus de résistance aux [[jds|jets de sauvegarde]] dépendant du modèle, qui est supérieur de 1 pour
+      les [[Vigueur]]. S'il rate un jet de Vigueur, le porteur peut dépenser une utilisation de [[pouvoir mythique]]
+      pour relancer le jet (si le second jet est raté, ce pouvoir est désactivé pendant 24 heures).
+    </td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>&emsp; +1/+2</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +1 et à +2 pour la Vigueur.</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +2/+3</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +2 et à +3 pour la Vigueur.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +3/+4</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +3 et à +4 pour la Vigueur.</td>
+    <td>13 500 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +4/+5</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +4 et à +5 pour la Vigueur.</td>
+    <td>24 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; +5/+6</td>
+    <td><sup>CMy</sup></td>
+    <td>Le bonus s’élève à +5 et à +6 pour la Vigueur.</td>
+    <td>37 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du lâche accroupi]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Peut forcer les assaillants à réussir un jet de [[Volonté]] pour porter leurs attaques (comme avec
+      *[[sanctuaire]]*). Ce pouvoir occulte la vision du porteur et l’empêche d’agir.
+    </td>
+    <td>1 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du ciel nocturne]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Protège de la chaleur et du froid (comme avec *[[endurance aux énergies destructives]]* quand le porteur dort.
+      Permet de dormir en armure intermédiaire sans conséquence. Une fois par jour, permet de lancer *[[repérage]]*.
+      Un suivant de [[Desna (technique)|Desna]] peut faire apparaître la configuration céleste actuelle sur l'objet,
+      et lancer *[[grand pas]]* et *[[illumination]]* une fois par jour.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du magicien solitaire]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet de lancer *[[prestidigitation]]* à volonté. Permet de lancer plusieurs sorts selon l’école de magie
+      choisie à la fabrication.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape elfique]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]].</td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de disparition enflammée]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Lorsque le porteur subit un effet infligeant des dégâts de feu, laisse une illusion de son corps en cendres et
+      confère les effets du sort *[[invisibilité]]* pendant 5 [[round|rounds]] maximum.
+    </td>
+    <td>2 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de la croisée]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[bénédiction]]*. Un suivant d'[[Iomédae (technique)|Iomédae]] bénéficie
+      d'un bonus d'altération de +1 à l'armure naturelle, et peut manifester une bannière sainte au dessus de sa
+      tête à volonté.
+    </td>
+    <td>2 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du traqueur de mort]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[anathème]]*. Un suivant de [[Groétus (technique)|Groétus]] peut lancer
+      *[[simulacre de vie]]* (renforcé à chaque ennemi tué) une fois par jour.
+    </td>
+    <td>2 700 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de crocs]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Confère un bonus de résistance de +1 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]]. Cinq fois
+      par jour, peut conférer une attaque de morsure infligeant 1d6 points de dégâts pendant 1 [[round]] (si le
+      porteur en possède déjà une, sa taille augmente d’une catégorie pour en déterminer les dégâts).
+    </td>
+    <td>2 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du grand héros barghest]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de compétence de +2 aux tests d'[[Intimidation]]. Un suivant d'un des héros barghests
+      gobelins peut lancer *[[métamorphose]]* ([[chien gobelin]] uniquement) une fois par jour.
+    </td>
+    <td>2 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[épaulettes dorées de laigle|épaulettes dorées de l'aigle]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Confère un bonus de compétence de +2 aux tests de [[Diplomatie]] et à une autre compétence choisie à la
+      fabrication. Une fois par jour, permet de lancer *[[bénédiction]]*. Quand le porteur tombe à 0 [[pv]], confère
+      les effets de *[[sanctuaire]]*.
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spallières du serpent]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus d’esquive de +2 à la [[CA]] contre les [[valeurs de combat#ATTAQUEDOPPORTUNITE|attaques
+      d’opportunité]] et un bonus de +1 au [[DMD]] contre les manœuvres de [[manœuvres
+      offensives#BOUSCULADE|bousculade]], de [[manœuvres offensives#LUTTE|lutte]], de [[manœuvres
+      offensives#REPOSITIONNEMENT|repositionnement]] et de [[manœuvres offensives#CROCENJAMBE|croc-en-jambe]].
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dalarme sanglante|Cape d'alarme sanglante]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Une fois par jour, les blessures d'un porteur [[Homme-rat (race)|homme-rat]] alertent automatiquement l'allié
+      homme-rat le plus proche dans un rayon de 1,5 km.
+    </td>
+    <td>3 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Peau dours du briseur dos|Peau d'ours du briseur d'os]]</td>
+    <td><sup>D&M, *ISG*</sup></td>
+    <td>
+      Confère un bonus de compétence de +2 aux tests d'[[Intimidation]]. Une fois par jour, permet de lancer
+      *[[bénédiction]]*. Un suivant d'Urazra peut lancer *[[forme bestiale II]]* (ours noir ou brun) une fois par
+      jour.
+    </td>
+    <td>3 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape des brumes montagneuses]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Une fois par jour, permet de lancer *[[brume
+      de dissimulation]]*.
+    </td>
+    <td>3 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de plumécailles]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Natation]]. Une fois par jour, permet de lancer *[[feuille
+      morte]]*, *[[forme bestiale I]]* (oiseau ou en poisson uniquement) et *[[invisibilité pour les animaux]]*
+      (soi-même uniquement).
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du grand chêne]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[forme darbre|forme d’arbre]]* (arbre vivant uniquement). Rend 1d6
+      points de vie par heure passée sous cette forme sous la lumière du soleil.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du rat sanguinaire]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Jusqu’à 5 minutes par jour, permet de se transformer en [[rat sanguinaire]] (comme avec *[[forme bestiale
+      I]]*).
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Châle décume de mer|Châle d’écume de mer]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>Une fois par jour, peut conférer les effets du sort *[[petite sirène]]* pendant 5 heures maximum.</td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Suaire dun mort|Suaire d'un mort]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Confère les effets d*'[[invisibilité pour les morts-vivants]]* en permanence. Une fois par jour, peut rendre
+      le porteur [[invisible]] pendant 5 minutes.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du gredin sournois]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Peut dissimuler une arme légère qui ne peut
+      être repérée qu’avec un test de [[Perception]] [[DD]] 20 (comme pour un passage secret). Un [[bretteur]] peut
+      dépenser 1 point de [[panache]] pour bénéficier des effets du sort *[[disparition]]* pendant 5
+      [[round|rounds]], à volonté.
+    </td>
+    <td>6 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de laigle|Cape de l’aigle]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère les effets du sort [[feuille morte]] dès que son porteur fait une chute d’au moins 1,50 m. Une fois
+      par jour, permet de se transformer en [[aigle]] (comme avec *[[forme bestiale I]]* mais avec la vitesse de vol
+      de 24 m) pendant 10 minutes maximum, et confère un bonus de compétence de +5 aux tests de [[Perception]].
+    </td>
+    <td>7 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de la raie manta]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Tant que le porteur est dans l’eau salée, le transforme en [[raie manta]] (comme avec *[[forme bestiale II]]*
+      mais avec un bonus d’armure naturelle de +3 et la capacité de respirer sous l’eau) et lui confère une attaque
+      de queue infligeant 1d6 points de dégâts.
+    </td>
+    <td>7 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du chasseur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Jusqu’à 10 minutes par jour, permet à un porteur possédant la capacité
+      [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]] de se transformer en un animal natif de
+      cet environnement (comme avec *[[forme bestiale I]]*) tant qu’il s’y trouve.
+    </td>
+    <td>7 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape des exploits audacieux]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Confère un bonus de résistance de +2 aux [[jds|jets de sauvegarde]] (ce bonus passe à +4 pendant 1 [[round]]
+      quand le porteur utilise la capacité [[bretteur#CHARMANTEVIE|charmante vie]]). Quand le porteur accomplit
+      l’exploit [[exploits (bretteur)#BRAVOURE|bravoure]], il ajoute un dé sur un 5 ou un 6 (plutôt que sur un 6
+      uniquement).
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du roi troll]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      Confère un bonus de compétence de +5  aux tests d'[[Intimidation]]. Trois fois par jour, permet de lancer
+      *[[mains brûlantes]]*.
+    </td>
+    <td>9 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du poète]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Permet a un porteur qui possède la capacité [[représentation bardique]] d’utiliser des [[scalde
+      #CHANTDERAGE|chant de rage]] comme un [[scalde]] de niveau 4 en en dépensant des rounds. Permet à un porteur
+      qui possède la capacité [[scalde #CHANTDERAGE|chant de rage]] d’utiliser
+      l’[[représentations#INSPIRATIONVAILLANTE|inspiration vaillante]] et
+      l’[[représentations#INSPIRATIONTALENTUEUSE|inspiration talentueuse]] comme un [[barde]] de niveau 4 en en
+      dépensant des rounds. Peut accorder un [[scalde#POUVOIRDERAGE|pouvoir de rage]] choisi à la fabrication aux
+      créatures affectées par le chant de rage du porteur à la place des siens.
+    </td>
+    <td>9 750 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape cocon]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Tant que le porteur est endormi (magiquement ou non), confère un bonus d’altération de +4 à l’armure naturelle
+      et le protège contre les coups critiques et les attaques sournoises (comme avec une armure de [[défense légère
+      (propriété)|défense légère]]).
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de marcheur du crépuscule]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère la [[vision nocturne (capacité)|vision nocturne]] en permanence. Une fois par jour, peut entourer le
+      porteur de ténèbres (comme avec *[[ténèbres]]*), lui conférant la [[capacités
+      spéciales#VISIONDANSLENOIR|vision dans le noir]] (18m).
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de pierre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut conférer une [[RD]] 5/adamantium et un bonus de circonstance de +5 aux tests de [[Discrétion]] à volonté.
+      Tant que ce pouvoir est actif, le porteur perd son bonus de [[Dextérité]] à la [[CA]].
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Cape de pierre|Cape de pierre supérieure]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Fonctionne comme la *Cape de Pierre*, mais la [[RD]] s’élève à 10/adamantium.</td>
+    <td>| 20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spallières du taureau]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +2 au [[DMD]] contre les manœuvres de [[manœuvres offensives#BOUSCULADE|bousculade]].
+      Lorsque le porteur effectue une telle manœuvre, il peut lancer 2 jets et conserver le meilleur résultat.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de prestidigitateur]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Une fois par jour, permet de lancer *[[porte dimensionnelle]]* (porteur uniquement).</td>
+    <td>10 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spallières du lion vigilant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Deux fois par jour, lorsque le porteur réussit un test d’[[Acrobaties]] pour traverser l’espace contrôlé par
+      une créature, attaque cette dernière.
+    </td>
+    <td>10 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dombre et déclat|Cape d'ombre et d'éclat]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Cette cape a deux fonctions, soit elle confère un bonus d'altération de +2 au [[Charisme]], soit elle confère
+      un bonus de compétence de +2 aux tests de [[Discrétion]] et permet de lancer *[[flou]]* trois fois par jour.
+    </td>
+    <td>11 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du lion]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les
+      effets mentaux et la terreur, et un bonus de circonstance de +2 aux tests d’[[Intimidation]]. Une fois par
+      jour, permet de se transformer en [[lion]] (comme avec *[[forme bestiale II]]*) pendant 10 minutes. Un porteur
+      avec la capacité [[paladin#CHATIMENTDUMAL|châtiment du mal]] ou [[antipaladin#CHATIMENTDUBIEN|du bien]] peut
+      en dépenser une utilisation pour réutiliser ce dernier pouvoir.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du traqueur]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Confère un bonus de +5 aux tests de [[Discrétion]] et de [[Survie]] pour suivre des traces. Immunise le
+      porteur contre la capacité [[Odorat (capacité)|odorat]]. Au prix d'une utilisation de [[pouvoir mythique]],
+      peut conférer les effets d'une *[[invisibilité suprême]]* difficilement révélable (qui se termine 1 minute
+      après avoir porté une attaque) pendant 1 heure.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Houppelande de spores]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de résistance de +4 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre les
+      maladies. Une fois par jour, peut infliger 1d6 puis 1d3 points de dégâts pendant 3 [[round|rounds]] aux
+      créatures adjacentes au porteur.
+    </td>
+    <td>13 400 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de feinte]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Trois fois par jour, peut faire perdre son bonus de [[Dextérité]] à la [[CA]] à un créature jusqu’au prochain
+      tout du porteur (peut [[hébété|hébéter]] la créature pendant la même durée si un porteur [[bretteur]]
+      accomplit l’exploit [[exploits (bretteur)#FEINTEDEQUALITE|feinte de qualité]] ou utilise ce pouvoir).
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dévasion radieuse|Cape d’évasion radieuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Manifeste les effets du sort *[[lumière]]* (à 3m) en permanence. Deux fois par jour, peut [[états
+      préjudiciables#Aveuglé|aveugler]] toutes les créatures à 6 m ou moins du porteur pendant 1d4 [[round|rounds]]
+      puis conférer les effets du sort *[[invisibilité]]* à ce dernier pendant 1 minute maximum.
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de laraignée|Cape de l’araignée]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Confère un bonus de chance de +2 aux jets de [[Vigueur]] contre le venin des araignées ainsi que les effets du
+      sort *[[pattes daraignée|pattes d’araignée]]* en permanence. Le porteur se déplace normalement et sans risque
+      dans les toiles (magiques ou naturelles). Une fois par jour, permet de lancer *[[toile daraignée|toile
+      d’araignée]]*.
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape tentaculaire]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Deux fois par jour, peut conférer deux attaques de tentacule infligeant des dégâts contondants selon sa taille
+      avec une allonge de 3m et la capacité [[étreinte (capacité)|étreinte]] avec un bonus de +4 aux tests de
+      [[manœuvres offensives#LUTTE|lutte]], pendant 1 minute.
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Poncho de franc-tireur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de chance de +2 à la [[CA]] au contact. Une fois par jour, permet de se jeter [[états
+      préjudiciables#ATERRE|à terre]] pour annuler une attaque de contact à distance. Ces pouvoirs ne fonctionnent
+      que contre les attaques d’armes à feu et la magie hostile.
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spallières à pointes démoniaques]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Similaires à des pointes pour armure +2 qui infligent 1d2 points de dégâts de saignement supplémentaires.
+      Elles augmentent les dégâts des pointes pour armure déjà portées d’une catégorie.
+    </td>
+    <td>14 350 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape confortable]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +4 aux jets de sauvegarde contre les maladies, l’[[absorption dénergie
+      (capacité)|absorption d’énergie]], les poisons, et les effets de [[états préjudiciables#Fatigué|fatigue]] et
+      d’[[états préjudiciables#épuisé|épuisement]] ainsi que les effets du sort *[[endurance aux énergies
+      destructives]]* en permanence. Les repos de 8 heures rendent 2 points de vie par [[DV]] et ceux de 24 heures 5
+      points de vie par [[DV]].
+    </td>
+    <td>15 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Châle de mégère]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Donne l’apparence d’une vénérable femme de sa race au porteur (sans bonus ni malus liés à l’âge) tant qu’il le
+      porte. Confère un bonus de circonstance de +4 aux tests de compétence basés sur le [[Charisme]] pour paraître
+      amical, inoffensif, sans défense ou respectable (+8 avec les enfants). Permet de rejoindre un cercle de
+      geunaude.
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pèlerine de bateleur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +8 aux tests d’[[Escamotage]]. Peut stocker un un objet de 1,50m de côté ou moins pesant
+      jusqu’à 50kg ou moins dans un espace extra-dimensionnel pendant 1 heure maximum.
+    </td>
+    <td>17 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de rêves ailés]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Une fois par jour, permet de lancer *[[manteau de guêpes]]* (sans poison, dégâts complets aux créatures
+      intangibles) et *[[poussière scintillante]]*.
+    </td>
+    <td>17 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[étole de justice]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +5 aux tests de [[Psychologie]]. Jusqu’à 5 minutes par jour, peut manifester les effets du
+      sort *[[zone de vérité]]*. Lorsqu’il lance *[[détection du Chaos]]*, *[[détection du Mal|du Mal]]*,
+      *[[détection de la Loi|de la Loi]]* ou *[[détection du Bien|du Bien]]*, le porteur obtient les informations du
+      troisième [[round]] au début du tour suivant l’incantation. Confère à un [[inquisiteur]] un bonus aux tests de
+      [[Perception]] et au [[DMD]] (comme avec une arme [[juge (propriété)|de juge]]) lorsqu’il utilise sa capacité
+      [[inquisiteur#JUGEMENT|jugement]].
+    </td>
+    <td>18 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de la méduse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Tant que le porteur est dans l’eau salée, confère un [[modificateurs de combat#CAMOUGLAGE|camouflage]] de 20%,
+      la capacité à respirer sous l’eau et une vitesse de nage de 6m. Dans cette situation, inflige 1 point de
+      dégâts aux créatures qui terminent leur tour sur une case adjacente au porteur et peut les rendre [[états
+      préjudiciables#Fiévreux|fiévreuses]].
+    </td>
+    <td>19 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de diplomate]]</td>
+    <td><sup>A&E, MR</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Diplomatie]] et de [[Psychologie]]. Une fois par jour,
+      lorsque le porteur effectue un tel test, il peut lancer 2 jets et conserver le meilleur résultat. Augmente
+      l’impact des tests de [[Diplomatie]] visant à modifier l’attitude d’une créature.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape tranchante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet d’effectuer une attaque infligeant 2d6 points de dégâts à toutes les créatures adjacentes par une
+      [[action complexe]], elle peut être enchantée.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de déplacement]] mineure</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère les effets du sort *[[flou]]* en permanence.</td>
+    <td>24 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Cape de déplacement]] majeure</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Jusqu’à 15 [[round|rounds]] par jour, peut conférer les effets du sort *[[déplacement]]*.</td>
+    <td>| 50 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Peau de lycanthrope|Peau de lycanthrope (loup, rat, sanglier)]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Permet de parler aux animaux proches des loups, rats et sangliers (comme avec *[[communication avec les
+      animaux]]*). Un porteur [[Changepeau (race)|changepeau]] dont l'héritage correspond à l'un des animaux
+      associés peut prendre sa forme comme avec *[[forme bestiale I]]* (ainsi que la taille et l'apparence) aussi
+      longtemps qu'il le souhaite.
+    </td>
+    <td>24 000 po</td>
+  </tr>
+  <tr>
+    <td>[[Peau de lycanthrope|Peau de lycanthrope (chauve-sourris, crocodile, grizzly, tigre)]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>Mêmes effets, mais avec les animaux proches des chauves-sourris, crocodiles, grizzly et tigres à la place.</td>
+    <td>| 40 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de la chauve-souris]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Permet de se pendre la tête en bas aux
+      plafonds. Permet de lancer *[[sort vol|vol]]* ([[Vol]] +7) ou de se transformer en [[chauve-souris]] (comme
+      avec *[[forme bestiale III]]* mais avec la vitesse de vol de 12m), jusqu’à 7 minutes par jour chacun (rendant
+      la cape inutile pendant la même durée ensuite).
+    </td>
+    <td>26 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dété et dhiver|Cape d'été et d'hiver]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Une fois par jour, permet d'utiliser *[[bouclier de feu]]* adapté à la température environnante. Un porteur
+      triaxien obtient une [[Résistance (capacité)|résistance aux énergies destructives]] de 10 au feu (s'il est né
+      de l'été) ou au froid (s'il est né de l'hiver), ou une résistance de 5 au feu et au froid (s'il est
+      transitionnel).
+    </td>
+    <td>30 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de bandit de grand chemin]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests de [[Bluff]] ou de [[Discrétion]] (pas les deux en même temps).
+      Permet d'effectuer un test d'[[évasion]] immédiatement pour éviter d'être [[agrippé]], [[immobilisé]] ou
+      restreint (comme avec *[[ordre libérateur]]*).
+    </td>
+    <td>32 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de désarmement]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Permet d’effectuer une manœuvre de [[désarmement]] sans provoquer d’[[attaque dopportunité|attaque
+      d'opportunité]] par une [[action rapide]] (Un personnage qui possède la capacité [[panache]] peut en dépenser
+      1 point pour bénéficier d’un bonus de compétence de +5 à son test).
+    </td>
+    <td>35 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Spallières de juggernaut]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +4 au [[DMD]] et la capacité [[férocité (capacité)|férocité]]. Peut conférer les effets du
+      sort *[[agrandissement]]* à volonté. Trois fois par jour après que le porteur ait tué un adversaire, confère
+      les effets du sort *[[juggernaut mortel]]* pendant 1 minute.
+    </td>
+    <td>40 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de charlatan]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Trois fois par jour, permet de lancer [[porte dimensionnelle]] (porteur uniquement). Une fois par jour, permet
+      de lancer *[[forme éthérée]]*.
+    </td>
+    <td>45 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ailes de vol]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Peut conférer un bonus de compétence de +5 aux tests de [[Vol]] et une vitesse de vol de 18m (manœuvrabilité
+      moyenne), à volonté.
+    </td>
+    <td>54 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape du phénix]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Jusqu'à 10 [[round|rounds]] par jour, peut conférer la capacité [[Combustion (capacité)|combustion]] aux
+      attaques à mains nues et naturelles du porteur. Lorsqu'il est réduit à moins de 0 [[pv]] et au prix d'une
+      utilisation de [[pouvoir mythique]], le porteur peut bénéficier des effets d'un *[[souffle de vie]]* et d'un
+      *[[corps élémentaire II]]* (feu uniquement, avec une vitesse de vol de 15m).
+    </td>
+    <td>55 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape éthérée]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Jusqu’à 10 minutes par jour, peut conférer les effets du sort *[[forme éthérée]]*.</td>
+    <td>55 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape des ombres sourdes]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      À volonté, peut baisser la luminosité dans un rayon de 9 m d'une catégorie et étouffer les sons émits par le
+      porteur (comme avec *[[manipulation des sons]]*) pendant 15 minutes. Une fois par semaine, permet de lancer
+      *[[traversée des ombres]]*. Une seule fois, peut conférer les effets de *[[corps dombre|corps d'ombre]]*
+      pendant 15 minutes.
+    </td>
+    <td>63 250 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape dimmolation CMy|Cape d’immolation (CMy)]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Confère une [[Résistance (capacité)|résistance]] au feu de 20. Jusqu'à 10 [[round|rounds]] par jour, peut
+      conférer les effets de *[[bouclier de feu]]*. Au prix d'une utilisation de [[pouvoir mythique]], le porteur
+      peut recharger le pouvoir de la cape, ou infliger des dégâts de feu aux créatures dans un rayon de 9m autour
+      de lui en leur faisant croire qu'il est mort jusqu'à son prochain tour.
+    </td>
+    <td>65 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Ailes de gargouille]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Jusqu’à 5 minutes par jour, peut conférer une vitesse de vol de 18m (manœuvrabilité moyenne) et une [[RD]]
+      10/adamantium.
+    </td>
+    <td>72 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cape de la vouivre]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de résistance de +4 aux jets de [[Volonté]] ainsi que les effets du sort *[[feuille morte]]*
+      en permanence. Une fois par jour, permet de lancer *[[sort vol|vol]]*. Peut conférer une attaque de dard
+      infligeant 1d6 points de dégâts et les effets du sort *[[empoisonnement]]*, à volonté.
+    </td>
+    <td>78 600 po</td>
+  </tr>
+</table>

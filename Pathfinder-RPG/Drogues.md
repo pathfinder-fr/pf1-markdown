@@ -67,7 +67,18 @@ Selon la gravité de la dépendance, il faut parfois réussir deux ou trois jets
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 <center>
 
-<table CLASS="tablo"><caption>L’alcoolisme</caption><tr CLASS="alt"><td>Tout comme les drogues, on peut abuser de l’alcool et subir ses effets négatifs. En général, un personnage peut consommer un nombre de boissons alcoolisées égal à 1 plus deux fois son modificateur de [[Constitution]] avant d’être [[fiévreux]] pour 1 heure par boisson consommée au‑delà du nombre maximum autorisé. On peut traiter les alcools particulièrement forts ou exotiques comme des drogues. Ceux qui abusent régulièrement de l’alcool peuvent même développer une forme de dépendance modérée.</td></tr></table>
+<table CLASS="tablo">
+  <caption>L’alcoolisme</caption>
+  <tr CLASS="alt">
+    <td>
+      Tout comme les drogues, on peut abuser de l’alcool et subir ses effets négatifs. En général, un personnage
+      peut consommer un nombre de boissons alcoolisées égal à 1 plus deux fois son modificateur de [[Constitution]]
+      avant d’être [[fiévreux]] pour 1 heure par boisson consommée au‑delà du nombre maximum autorisé. On peut
+      traiter les alcools particulièrement forts ou exotiques comme des drogues. Ceux qui abusent régulièrement de
+      l’alcool peuvent même développer une forme de dépendance modérée.
+    </td>
+  </tr>
+</table>
 
 </center></div></div>
 Il existe de nombreuses drogues, dans le monde réel comme dans les mondes fantastiques. Voici un échantillon qui illustre divers effets. Toutes les drogues possèdent les caractéristiques suivantes :

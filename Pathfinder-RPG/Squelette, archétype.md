@@ -16,7 +16,20 @@ Categories:
 
 <center>
 
-<table CLASS="tablo" WIDTH="50%"><caption>Table du FP du squelette</caption><tr CLASS="titre"><td class="gauche">DV</td><td>FP</td><td>PX</td></tr><tr CLASS="premier"><td class="gauche">1/2</td><td>1/6</td><td>65</td></tr><tr CLASS="alt"><td class="gauche">1</td><td>1/3</td><td>135</td></tr><tr><td class="gauche">2-3</td><td>1</td><td>400</td></tr><tr CLASS="alt"><td class="gauche">4-5</td><td>2</td><td>600</td></tr><tr><td class="gauche">6-7</td><td>3</td><td>800</td></tr><tr CLASS="alt"><td class="gauche">8-9</td><td>4</td><td>1200</td></tr><tr><td class="gauche">10-11</td><td>5</td><td>1600</td></tr><tr CLASS="alt"><td class="gauche">12-14</td><td>6</td><td>2400</td></tr><tr><td class="gauche">15-17</td><td>7</td><td>3200</td></tr><tr CLASS="alt"><td class="gauche">18-20</td><td>8</td><td>4800</td></tr></table>
+<table CLASS="tablo" WIDTH="50%">
+  <caption>Table du FP du squelette</caption>
+  <tr CLASS="titre"><td class="gauche">DV</td><td>FP</td><td>PX</td></tr>
+  <tr CLASS="premier"><td class="gauche">1/2</td><td>1/6</td><td>65</td></tr>
+  <tr CLASS="alt"><td class="gauche">1</td><td>1/3</td><td>135</td></tr>
+  <tr><td class="gauche">2-3</td><td>1</td><td>400</td></tr>
+  <tr CLASS="alt"><td class="gauche">4-5</td><td>2</td><td>600</td></tr>
+  <tr><td class="gauche">6-7</td><td>3</td><td>800</td></tr>
+  <tr CLASS="alt"><td class="gauche">8-9</td><td>4</td><td>1200</td></tr>
+  <tr><td class="gauche">10-11</td><td>5</td><td>1600</td></tr>
+  <tr CLASS="alt"><td class="gauche">12-14</td><td>6</td><td>2400</td></tr>
+  <tr><td class="gauche">15-17</td><td>7</td><td>3200</td></tr>
+  <tr CLASS="alt"><td class="gauche">18-20</td><td>8</td><td>4800</td></tr>
+</table>
 
 </center>
 
@@ -26,7 +39,16 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Tableau de bonus d'armure du squelette</caption><tr CLASS="titre"><td class="gauche">taille du squelette</td><td>Bonus d'armure naturelle</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>+0</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td>+1</td></tr><tr><td class="gauche">Moyen ou Grand</td><td>+2</td></tr><tr CLASS="alt"><td class="gauche">Très Grand</td><td>+3</td></tr><tr><td class="gauche">Gigantesque</td><td>+6</td></tr><tr CLASS="alt"><td class="gauche">Colossal</td><td>+10</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tableau de bonus d'armure du squelette</caption>
+  <tr CLASS="titre"><td class="gauche">taille du squelette</td><td>Bonus d'armure naturelle</td></tr>
+  <tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>+0</td></tr>
+  <tr CLASS="alt"><td class="gauche">Petit</td><td>+1</td></tr>
+  <tr><td class="gauche">Moyen ou Grand</td><td>+2</td></tr>
+  <tr CLASS="alt"><td class="gauche">Très Grand</td><td>+3</td></tr>
+  <tr><td class="gauche">Gigantesque</td><td>+6</td></tr>
+  <tr CLASS="alt"><td class="gauche">Colossal</td><td>+10</td></tr>
+</table>
 
 </center>
 

@@ -88,7 +88,21 @@ Quand le personnage réussit un test de manoeuvre de spectacle, l’attitude de 
 Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieurs facteurs, dont l’attitude de départ de la foule, son attitude actuelle, la taille du public et le nombre de créatures qui participent au combat. Le [[Pathfinder-RPG.DD|DD]] de base dépend de l’attitude actuelle de la foule envers l’équipe concernée.
 
 
-<table CLASS="tablo centre autoalt"><caption>DD des tests de combat de spectacle</caption><tr CLASS="titre"><td>Attitude de départ ou actuelle</td><td>DD de base pour améliorer l’attitude</td></tr><tr CLASS="premier"><td>Hostile</td><td>20</td></tr><tr><td>Inamical</td><td>15</td></tr><tr><td>Indifférent</td><td>10</td></tr><tr><td>Amical</td><td>15</td></tr><tr><td>Serviable</td><td>20<sup>[[Combat de spectacle#NOTE1|1]]</sup></td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE1}*(1) DD pour gagner 1 point de victoire.Le DD de base varie en fonction de la taille de la foule, du nombre de participants dans chaque équipe et d’autres facteurs.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>DD des tests de combat de spectacle</caption>
+  <tr CLASS="titre"><td>Attitude de départ ou actuelle</td><td>DD de base pour améliorer l’attitude</td></tr>
+  <tr CLASS="premier"><td>Hostile</td><td>20</td></tr>
+  <tr><td>Inamical</td><td>15</td></tr>
+  <tr><td>Indifférent</td><td>10</td></tr>
+  <tr><td>Amical</td><td>15</td></tr>
+  <tr><td>Serviable</td><td>20<sup>[[Combat de spectacle#NOTE1|1]]</sup></td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      {s:Reference|NOTE1}*(1) DD pour gagner 1 point de victoire.Le DD de base varie en fonction de la taille de la
+      foule, du nombre de participants dans chaque équipe et d’autres facteurs.*
+    </td>
+  </tr>
+</table>
 
 
 **Taille de la foule.** Il est plus difficile de conquérir un vaste public. Pour le faire changer d’attitude, il faut accomplir de grandes prouesses ou réaliser une suite de démonstrations appréciées. Voici les catégories de taille de la foule et leur effet sur le [[Pathfinder-RPG.DD|DD]] d’amélioration d’attitude et de gain de points de victoire.

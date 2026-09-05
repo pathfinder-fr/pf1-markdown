@@ -67,8 +67,22 @@ Les [[elfe|elfes]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement elfique</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Grimoire de poche (vierge)</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>Labo d’artisanat portatif</td><td>300 po</td><td>20 kg</td></tr><tr><td>Manuel d’exercices arcaniques familial</td><td>300 po</td><td>1,5 kg</td></tr><tr><td>Sac anti-ours</td><td>2 po</td><td>1,5 kg<sup>1</sup></td></tr><tr><td>Tente suspendue</td><td>20 po</td><td>7,5 kg<sup>1</sup></td></tr><tr CLASS="note"><td COLSPAN="3">(1) Ces objets ont une contenance et pèsent 1/4 du poids indiqué  
-s’ils sont conçus pour des créatures de taille P.</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Équipement elfique</caption>
+  <tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr>
+  <tr><td>Grimoire de poche (vierge)</td><td>50 po</td><td>0,5 kg</td></tr>
+  <tr><td>Labo d’artisanat portatif</td><td>300 po</td><td>20 kg</td></tr>
+  <tr><td>Manuel d’exercices arcaniques familial</td><td>300 po</td><td>1,5 kg</td></tr>
+  <tr><td>Sac anti-ours</td><td>2 po</td><td>1,5 kg<sup>1</sup></td></tr>
+  <tr><td>Tente suspendue</td><td>20 po</td><td>7,5 kg<sup>1</sup></td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      (1) Ces objets ont une contenance et pèsent 1/4 du poids indiqué  
+s’ils sont conçus pour des créatures de
+      taille P.
+    </td>
+  </tr>
+</table>
 
 </center></div></div>
 
@@ -91,8 +105,21 @@ Les [[gnome|gnomes]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des gnomes</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Bâton de lune</td><td>10 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>Carnet obsessionnel</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Encens antiodeur</td><td>110 po</td><td>-</td><td>20</td></tr><tr><td>Habits de dilettante</td><td>20 po</td><td>4 kg<sup>1</sup></td><td>-</td></tr><tr><td>Sifflet du prévôt</td><td>1 po</td><td>-</td><td>-</td></tr><tr CLASS="note"><td COLSPAN="4">(1) Cet objet pèse seulement 1/4 du poids indiqué s’il est fait  
-pour des créatures de taille P.</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Équipement des gnomes</caption>
+  <tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr>
+  <tr><td>Bâton de lune</td><td>10 po</td><td>0,5 kg</td><td>25</td></tr>
+  <tr><td>Carnet obsessionnel</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr>
+  <tr><td>Encens antiodeur</td><td>110 po</td><td>-</td><td>20</td></tr>
+  <tr><td>Habits de dilettante</td><td>20 po</td><td>4 kg<sup>1</sup></td><td>-</td></tr>
+  <tr><td>Sifflet du prévôt</td><td>1 po</td><td>-</td><td>-</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="4">
+      (1) Cet objet pèse seulement 1/4 du poids indiqué s’il est fait  
+pour des créatures de taille P.
+    </td>
+  </tr>
+</table>
 
 </center></div></div>
 
@@ -167,7 +194,82 @@ Les [[nain|nains]] ont accès à l’équipement suivant.
 
 <center>
 
-<table CLASS="tablo cadre"><caption>Armes exotiques naines</caption><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]]</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td><td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td><td>Poids</td><td>[[Tableau récapitulatif des armes#TYPE|Type]]</td><td>Spécial</td></tr><tr><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMELEGERE|LÉGÈRES]]**</td></tr><tr CLASS="alt"><td>Casque bélier nain</td><td>20 po</td><td>1d3</td><td>1d4</td><td>x2</td><td>-</td><td>5 kg</td><td>C</td><td>voir texte</td></tr><tr CLASS="lignesup"><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEAUNEMAIN|À UNE MAIN]]**</td></tr><tr CLASS="alt"><td>Hache d'armes naine double</td><td>60 po</td><td>1d8</td><td>1d10</td><td>x3</td><td>-</td><td>6 kg</td><td>T</td><td>voir texte</td></tr><tr CLASS="lignesup"><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEADEUXMAINS|À DEUX MAINS]]**</td></tr><tr CLASS="alt"><td>Hache naine à long manche</td><td>50 po</td><td>1d10</td><td>1d12</td><td>x3</td><td>-</td><td>7 kg</td><td>T</td><td>allonge</td></tr><tr><td>Marteau de guerre nain à long manche</td><td>70 po</td><td>1d10</td><td>2d6</td><td>x3</td><td>-</td><td>10 kg</td><td>C</td><td>allonge</td></tr></table>
+<table CLASS="tablo cadre">
+  <caption>Armes exotiques naines</caption>
+  <tr CLASS="titre">
+    <td>[[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]]</td>
+    <td>Prix</td>
+    <td>Dégâts (P)</td>
+    <td>Dégâts (M)</td>
+    <td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td>
+    <td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td>
+    <td>Poids</td>
+    <td>[[Tableau récapitulatif des armes#TYPE|Type]]</td>
+    <td>Spécial</td>
+  </tr>
+  <tr>
+    <td COLSPAN="9">
+      **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des
+      armes#ARMELEGERE|LÉGÈRES]]**
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Casque bélier nain</td>
+    <td>20 po</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>x2</td>
+    <td>-</td>
+    <td>5 kg</td>
+    <td>C</td>
+    <td>voir texte</td>
+  </tr>
+  <tr CLASS="lignesup">
+    <td COLSPAN="9">
+      **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des
+      armes#ARMEAUNEMAIN|À UNE MAIN]]**
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Hache d'armes naine double</td>
+    <td>60 po</td>
+    <td>1d8</td>
+    <td>1d10</td>
+    <td>x3</td>
+    <td>-</td>
+    <td>6 kg</td>
+    <td>T</td>
+    <td>voir texte</td>
+  </tr>
+  <tr CLASS="lignesup">
+    <td COLSPAN="9">
+      **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des
+      armes#ARMEADEUXMAINS|À DEUX MAINS]]**
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Hache naine à long manche</td>
+    <td>50 po</td>
+    <td>1d10</td>
+    <td>1d12</td>
+    <td>x3</td>
+    <td>-</td>
+    <td>7 kg</td>
+    <td>T</td>
+    <td>allonge</td>
+  </tr>
+  <tr>
+    <td>Marteau de guerre nain à long manche</td>
+    <td>70 po</td>
+    <td>1d10</td>
+    <td>2d6</td>
+    <td>x3</td>
+    <td>-</td>
+    <td>10 kg</td>
+    <td>C</td>
+    <td>allonge</td>
+  </tr>
+</table>
 
 </center>
 
@@ -251,9 +353,19 @@ Les [[drow (race)|drows]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des drows</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Attire-araignée</td><td>40 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>Graisse tue-lumière</td><td>25 po</td><td>–</td><td>15</td></tr><tr><td>Monture chauve-souris sanguinaire</td><td>300 po</td><td>–</td><td>–</td></tr><tr><td>Monture chauve-souris sanguinaire  
-(formée au combat)</td><td>450 po</td><td>–</td><td>–</td></tr><tr><td>Monture gecko</td><td>300 po</td><td>–</td><td>–</td></tr><tr><td>Monture gecko  
-(formée au combat)</td><td>400 po</td><td>–</td><td>–</td></tr><tr><td>Poche-araignée</td><td>30 po</td><td>0,5 kg</td><td>20</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Équipement des drows</caption>
+  <tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr>
+  <tr><td>Attire-araignée</td><td>40 po</td><td>0,25 kg</td><td>20</td></tr>
+  <tr><td>Graisse tue-lumière</td><td>25 po</td><td>–</td><td>15</td></tr>
+  <tr><td>Monture chauve-souris sanguinaire</td><td>300 po</td><td>–</td><td>–</td></tr>
+  <tr><td>Monture chauve-souris sanguinaire  
+(formée au combat)</td><td>450 po</td><td>–</td><td>–</td></tr>
+  <tr><td>Monture gecko</td><td>300 po</td><td>–</td><td>–</td></tr>
+  <tr><td>Monture gecko  
+(formée au combat)</td><td>400 po</td><td>–</td><td>–</td></tr>
+  <tr><td>Poche-araignée</td><td>30 po</td><td>0,5 kg</td><td>20</td></tr>
+</table>
 
 </center></div></div>
 
@@ -356,7 +468,17 @@ Les [[hobgobelin (race)|hobgobelins]] ont accès à l’équipement suivant.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><caption>Équipement des hobgobelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Accélérateur instable</td><td>50 po</td><td>0,25 kg</td><td>DD 25</td></tr><tr><td>Breuvage de guerre hobgobelin</td><td>10 po</td><td>0,5 kg</td><td>DD 20<sup>1</sup></td></tr><tr><td>Fers</td><td>15 po</td><td>1 kg</td><td>–</td></tr><tr><td>Fers de maître</td><td>50 po</td><td>1 kg</td><td>–</td></tr><tr><td>Infusion de puanteur</td><td>40 po</td><td>0,5 kg</td><td>DD 25</td></tr><tr><td>Menottes à pointes</td><td>+15 po</td><td>0,5 kg</td><td>–</td></tr><tr CLASS="note"><td COLSPAN="4">(1) DD d’Artisanat 15 pour les hobgobelins.</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Équipement des hobgobelins</caption>
+  <tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr>
+  <tr><td>Accélérateur instable</td><td>50 po</td><td>0,25 kg</td><td>DD 25</td></tr>
+  <tr><td>Breuvage de guerre hobgobelin</td><td>10 po</td><td>0,5 kg</td><td>DD 20<sup>1</sup></td></tr>
+  <tr><td>Fers</td><td>15 po</td><td>1 kg</td><td>–</td></tr>
+  <tr><td>Fers de maître</td><td>50 po</td><td>1 kg</td><td>–</td></tr>
+  <tr><td>Infusion de puanteur</td><td>40 po</td><td>0,5 kg</td><td>DD 25</td></tr>
+  <tr><td>Menottes à pointes</td><td>+15 po</td><td>0,5 kg</td><td>–</td></tr>
+  <tr CLASS="note"><td COLSPAN="4">(1) DD d’Artisanat 15 pour les hobgobelins.</td></tr>
+</table>
 
 </center></div></div>
 
@@ -719,7 +841,54 @@ Si l’attaque se solde par un croc-en-jambe réussi et enchevêtre la cible, ce
 
 <center>
 
-<table CLASS="tablo cadre"><caption>Armes exotiques duergar</caption><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]]</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td><td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td><td>Poids</td><td>[[Tableau récapitulatif des armes#TYPE|Type]]</td><td>Spécial</td></tr><tr><td COLSPAN="9">**ARMES À [[Caractéristiques des armes#ARMEADISTANCE|DISTANCE]]**</td></tr><tr CLASS="alt"><td>Arbalète légère d'esclavagiste</td><td>250 po</td><td>1d3</td><td>1d4</td><td>19/20 (voir texte)</td><td>12 m (8 {s:c})</td><td>3 kg</td><td>C</td><td>Non létaux, croc-en-jambe, voir texte</td></tr><tr CLASS="lignesup"><td>Arbalète lourde d'esclavagiste</td><td>400 po</td><td>1d6</td><td>1d8</td><td>19/20 (voir texte)</td><td>24 m (16 {s:c})</td><td>6 kg</td><td>C</td><td>Non létaux, croc-en-jambe, voir texte</td></tr><tr CLASS="lignesup"><td>Carreau bolas</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2 kg</td><td>-</td><td>-</td></tr></table>
+<table CLASS="tablo cadre">
+  <caption>Armes exotiques duergar</caption>
+  <tr CLASS="titre">
+    <td>[[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]]</td>
+    <td>Prix</td>
+    <td>Dégâts (P)</td>
+    <td>Dégâts (M)</td>
+    <td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td>
+    <td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td>
+    <td>Poids</td>
+    <td>[[Tableau récapitulatif des armes#TYPE|Type]]</td>
+    <td>Spécial</td>
+  </tr>
+  <tr><td COLSPAN="9">**ARMES À [[Caractéristiques des armes#ARMEADISTANCE|DISTANCE]]**</td></tr>
+  <tr CLASS="alt">
+    <td>Arbalète légère d'esclavagiste</td>
+    <td>250 po</td>
+    <td>1d3</td>
+    <td>1d4</td>
+    <td>19/20 (voir texte)</td>
+    <td>12 m (8 {s:c})</td>
+    <td>3 kg</td>
+    <td>C</td>
+    <td>Non létaux, croc-en-jambe, voir texte</td>
+  </tr>
+  <tr CLASS="lignesup">
+    <td>Arbalète lourde d'esclavagiste</td>
+    <td>400 po</td>
+    <td>1d6</td>
+    <td>1d8</td>
+    <td>19/20 (voir texte)</td>
+    <td>24 m (16 {s:c})</td>
+    <td>6 kg</td>
+    <td>C</td>
+    <td>Non létaux, croc-en-jambe, voir texte</td>
+  </tr>
+  <tr CLASS="lignesup">
+    <td>Carreau bolas</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2 kg</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
 
 </center>
 

@@ -74,7 +74,15 @@ Les variantes les plus courantes sont reprises dans la table ci-dessous :
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">Scorpion à queue verte</td><td>1/4</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td class="gauche">Scorpion fantomatique</td><td>1/2</td><td>P</td><td>2d8</td></tr><tr><td class="gauche">Scorpion des grottes</td><td>1</td><td>M</td><td>3d8</td></tr><tr CLASS="alt"><td class="gauche">Scorpion piégeur</td><td>8</td><td>TG</td><td>10d8</td></tr><tr><td class="gauche">Scorpion empereur géant</td><td>11</td><td>Gig</td><td>16d8</td></tr><tr CLASS="alt"><td class="gauche">Scorpion noir</td><td>15</td><td>Col</td><td>22d8</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr>
+  <tr CLASS="premier"><td class="gauche">Scorpion à queue verte</td><td>1/4</td><td>TP</td><td>1d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Scorpion fantomatique</td><td>1/2</td><td>P</td><td>2d8</td></tr>
+  <tr><td class="gauche">Scorpion des grottes</td><td>1</td><td>M</td><td>3d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Scorpion piégeur</td><td>8</td><td>TG</td><td>10d8</td></tr>
+  <tr><td class="gauche">Scorpion empereur géant</td><td>11</td><td>Gig</td><td>16d8</td></tr>
+  <tr CLASS="alt"><td class="gauche">Scorpion noir</td><td>15</td><td>Col</td><td>22d8</td></tr>
+</table>
 
 </center>
 

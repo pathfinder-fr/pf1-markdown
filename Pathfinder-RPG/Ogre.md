@@ -156,8 +156,20 @@ Parfois, les ogres se reproduisent avec d’autres géants. Le résultat de ces 
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Métissage</td><td CLASS="gauche">Pouvoirs spéciaux</td></tr><tr CLASS="premier"><td>Sang de feu</td><td CLASS="gauche">[[Résistance (capacité)|Résistance]] au feu 10</td></tr><tr><td>Sang de glace</td><td CLASS="gauche">[[Résistance (capacité)|Résistance]] au froid 10</td></tr><tr><td>Sang de pierre</td><td CLASS="gauche">[[Réception de rochers (capacité)|Réception de rochers]],  
-[[lancer de rochers (capacité)|lancer de rochers]] (1d8, 36 m)</td></tr><tr><td>Sang des plaines</td><td CLASS="gauche">Augmentez l’armure naturelle de 2</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>Métissage</td><td CLASS="gauche">Pouvoirs spéciaux</td></tr>
+  <tr CLASS="premier"><td>Sang de feu</td><td CLASS="gauche">[[Résistance (capacité)|Résistance]] au feu 10</td></tr>
+  <tr><td>Sang de glace</td><td CLASS="gauche">[[Résistance (capacité)|Résistance]] au froid 10</td></tr>
+  <tr>
+    <td>Sang de pierre</td>
+    <td CLASS="gauche">
+      [[Réception de rochers (capacité)|Réception de rochers]],  
+[[lancer de rochers (capacité)|lancer de
+      rochers]] (1d8, 36 m)
+    </td>
+  </tr>
+  <tr><td>Sang des plaines</td><td CLASS="gauche">Augmentez l’armure naturelle de 2</td></tr>
+</table>
 
 </center></div></div>
 #### Géant (FP +1)
@@ -172,6 +184,67 @@ Les ogres sont réputés pour leur bêtise, leur violence et leurs immondes habi
 Voici quelques dons accessibles aux ogres.
 <center>
 
-<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Brute rageuse]]</td><td><sup>CM</sup></td><td>[[For]] 21, [[ogre]]</td><td>Gain d'un pouvoir de rage et capacité à entrer en rage 1 fois/jour</td></tr><tr CLASS="premier"><td>[[Chair corrompue]]</td><td><sup>CM</sup></td><td>[[Con]] 15, 6 [[DV]], [[ogre]]</td><td>Gain du pouvoir de puanteur</td></tr><tr CLASS="premier"><td>[[Critique sauvage]]</td><td><sup>CM</sup></td><td>[[For]] 19, [[ogre]], [[attaque sournoise]] +2d6</td><td>Ajoute les dégâts d'attaque sournoise lors d'une Frappe décisive critique</td></tr><tr CLASS="premier"><td>[[Écrasement dogre|Écrasement d'ogre]]</td><td><sup>CM</sup></td><td>[[For]] 25, [[Science de la lutte]], [[Science du combat à mains nues]], [[ogre]], taille G ou plus</td><td>Augmente les dégâts des attaques à mains nues contre la cible d'une lutte, gain du pouvoir constriction</td></tr><tr CLASS="premier"><td>[[Gobeur glouton]]</td><td><sup>CM</sup></td><td>[[Science du combat à mains nues]] et [[Science de la lutte]], ou pouvoir [[étreinte (capacité)|étreinte]], [[ogre]], taille G ou plus</td><td>Le personnage agrippe les créatures plus petite dans sa bouche</td></tr><tr CLASS="premier"><td>[[Souffle fétide]]</td><td><sup>CM</sup></td><td>[[Con]] 15, [[Chair corrompue]], 6 [[DV]], [[ogre]]</td><td>Souffle un cône d'air fétide et de flegme</td></tr><tr CLASS="premier"><td>[[Tête vestigiale]]</td><td><sup>CM</sup></td><td>[[Ogre]]</td><td>Une tête vestigiale rabougrie aide à résister aux effets subits par un jet de Volonté raté</td></tr><tr CLASS="premier"><td>[[Traqueur nocturne]]</td><td><sup>CM</sup></td><td>[[Talent]] (Discrétion), pouvoir [[vision dans le noir (capacité)|vision dans le noir]], [[Ogrelin, archétype|demi-ogre]] ou [[ogre]], taille G ou plus</td><td>Pas de malus de taille aux tests de Discrétion dans les ténèbres</td></tr></table>
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Brute rageuse]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 21, [[ogre]]</td>
+    <td>Gain d'un pouvoir de rage et capacité à entrer en rage 1 fois/jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chair corrompue]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Con]] 15, 6 [[DV]], [[ogre]]</td>
+    <td>Gain du pouvoir de puanteur</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Critique sauvage]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 19, [[ogre]], [[attaque sournoise]] +2d6</td>
+    <td>Ajoute les dégâts d'attaque sournoise lors d'une Frappe décisive critique</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Écrasement dogre|Écrasement d'ogre]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[For]] 25, [[Science de la lutte]], [[Science du combat à mains nues]], [[ogre]], taille G ou plus</td>
+    <td>Augmente les dégâts des attaques à mains nues contre la cible d'une lutte, gain du pouvoir constriction</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gobeur glouton]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      [[Science du combat à mains nues]] et [[Science de la lutte]], ou pouvoir [[étreinte (capacité)|étreinte]],
+      [[ogre]], taille G ou plus
+    </td>
+    <td>Le personnage agrippe les créatures plus petite dans sa bouche</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Souffle fétide]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Con]] 15, [[Chair corrompue]], 6 [[DV]], [[ogre]]</td>
+    <td>Souffle un cône d'air fétide et de flegme</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tête vestigiale]]</td>
+    <td><sup>CM</sup></td>
+    <td>[[Ogre]]</td>
+    <td>Une tête vestigiale rabougrie aide à résister aux effets subits par un jet de Volonté raté</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Traqueur nocturne]]</td>
+    <td><sup>CM</sup></td>
+    <td>
+      [[Talent]] (Discrétion), pouvoir [[vision dans le noir (capacité)|vision dans le noir]], [[Ogrelin,
+      archétype|demi-ogre]] ou [[ogre]], taille G ou plus
+    </td>
+    <td>Pas de malus de taille aux tests de Discrétion dans les ténèbres</td>
+  </tr>
+</table>
 
 </center>

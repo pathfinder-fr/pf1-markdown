@@ -57,7 +57,20 @@ Ce sort s’apparente à celui de *[[création mineure]]*, à la différence qu�
 Grâce à cette [[invocation]] le personnage peut créer un objet non-magique de matière inerte, d’origine végétale ou minérale (pierre, métaux, cristaux, etc.). La durée d’existence de l’objet est déterminée par sa dureté et sa rareté :
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Exemples de matériaux</td><td>Durée d’existence</td></tr><tr CLASS="premier"><td>Matière végétale</td><td>2 heures/[[niveau]]</td></tr><tr><td>Pierre, cristal, métal vulgaire</td><td>1 heure/[[niveau]]</td></tr><tr><td>Métal précieux</td><td>20 minutes/[[niveau]]</td></tr><tr><td>Pierre précieuse</td><td>10 minutes/[[niveau]]</td></tr><tr><td>Métal rare*</td><td>1 [[round]]/[[niveau]]</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Incluant l’[[adamantium]], l’[[argent alchimique]] et le [[mithral]]. Il n’est pas possible d’utiliser création majeure pour créer un objet en [[fer froid]].*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Exemples de matériaux</td><td>Durée d’existence</td></tr>
+  <tr CLASS="premier"><td>Matière végétale</td><td>2 heures/[[niveau]]</td></tr>
+  <tr><td>Pierre, cristal, métal vulgaire</td><td>1 heure/[[niveau]]</td></tr>
+  <tr><td>Métal précieux</td><td>20 minutes/[[niveau]]</td></tr>
+  <tr><td>Pierre précieuse</td><td>10 minutes/[[niveau]]</td></tr>
+  <tr><td>Métal rare*</td><td>1 [[round]]/[[niveau]]</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      *(*) Incluant l’[[adamantium]], l’[[argent alchimique]] et le [[mithral]]. Il n’est pas possible d’utiliser
+      création majeure pour créer un objet en [[fer froid]].*
+    </td>
+  </tr>
+</table>
 
 
 Le volume de l’objet créé ne peut en aucun cas dépasser 30 dm³ par [[niveau]]. Si l’objet souhaité est assez complexe, il faut réussir un test d’[[Artisanat]] approprié.

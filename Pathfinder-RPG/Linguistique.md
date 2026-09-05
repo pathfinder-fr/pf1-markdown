@@ -26,7 +26,17 @@ Le test de compétence est réalisé en secret, ce qui signifie que le personnag
 
 <center>
 
-<table CLASS="tablo"><caption>Modificateurs de contrefaçon</caption><tr CLASS="titre"><td>Condition</td><td>Modificateur au test de Linguistique</td></tr><tr CLASS="premier"><td>Type de document inconnu du lecteur</td><td>-2</td></tr><tr CLASS="alt"><td>Type de document peu connu du lecteur</td><td>0</td></tr><tr><td>Type de document connu du lecteur</td><td>+2</td></tr><tr CLASS="alt"><td>Écriture inconnue du lecteur</td><td>-2</td></tr><tr><td>Écriture peu connue du lecteur</td><td>0</td></tr><tr CLASS="alt"><td>Écriture bien connue du lecteur</td><td>+2</td></tr><tr><td>Le lecteur ne fait que survoler le document</td><td>-2</td></tr></table>
+<table CLASS="tablo">
+  <caption>Modificateurs de contrefaçon</caption>
+  <tr CLASS="titre"><td>Condition</td><td>Modificateur au test de Linguistique</td></tr>
+  <tr CLASS="premier"><td>Type de document inconnu du lecteur</td><td>-2</td></tr>
+  <tr CLASS="alt"><td>Type de document peu connu du lecteur</td><td>0</td></tr>
+  <tr><td>Type de document connu du lecteur</td><td>+2</td></tr>
+  <tr CLASS="alt"><td>Écriture inconnue du lecteur</td><td>-2</td></tr>
+  <tr><td>Écriture peu connue du lecteur</td><td>0</td></tr>
+  <tr CLASS="alt"><td>Écriture bien connue du lecteur</td><td>+2</td></tr>
+  <tr><td>Le lecteur ne fait que survoler le document</td><td>-2</td></tr>
+</table>
 
 </center>
 

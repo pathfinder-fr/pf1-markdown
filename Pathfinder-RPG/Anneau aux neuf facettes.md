@@ -20,7 +20,29 @@ Par exemple, si la facette du jour est la jaune, le porteur peut tenter un test 
 Toute créature non Bonne qui porte l’*anneau aux neuf facettes* reçoit immédiatement 2d6 points de dégâts [[Blessures et mort#NONLETAL|non-létaux]] et 2d6 points de dégâts [[Blessures et mort#NONLETAL|non-létaux]] supplémentaires chaque minute où elle conserve l’anneau.
 
 
-<table CLASS="tablo autoalt centre"><tr CLASS="titre"><td>1d10/étape</td><td>Couleur</td><td>Pouvoir de la facette active</td></tr><tr CLASS="premier"><td>1</td><td>Vert</td><td>Le porteur est immunisé contre les maladies</td></tr><tr><td>2</td><td>Indigo</td><td>Le porteur n’a pas besoin d’air pour survivre</td></tr><tr><td>3</td><td>Orange</td><td>Le porteur gagne un bonus d’armure naturelle de +5</td></tr><tr><td>4</td><td>Violet</td><td>Le porteur gagne [[vision nocturne (capacité)|vision nocturne]]</td></tr><tr><td>5</td><td>Rouge</td><td>Le porteur gagne [[guérison accélérée (capacité)|guérison accélérée]] 1</td></tr><tr><td>6</td><td>Bleu</td><td>Le porteur peut utiliser *[[sort vol|vol]]* à volonté</td></tr><tr><td>7</td><td>Blanc</td><td>Le porteur gagne résistance au froid 30</td></tr><tr><td>8</td><td>Jaune</td><td>Le porteur gagne *[[liberté de mouvement]]*</td></tr><tr><td>9</td><td>Cuivre</td><td>Le porteur gagne un bonus de résistance de +5 à ses [[jds|jets de sauvegarde]]</td></tr><tr><td>10*</td><td>Relancez</td><td></sup></td></tr><tr CLASS="note"><td COLSPAN="3">*(*) Cette étape ne compte pas comme une facette quand il s’agit d’ajuster la capacité journalière de l’anneau.*</td></tr></table>
+<table CLASS="tablo autoalt centre">
+  <tr CLASS="titre"><td>1d10/étape</td><td>Couleur</td><td>Pouvoir de la facette active</td></tr>
+  <tr CLASS="premier"><td>1</td><td>Vert</td><td>Le porteur est immunisé contre les maladies</td></tr>
+  <tr><td>2</td><td>Indigo</td><td>Le porteur n’a pas besoin d’air pour survivre</td></tr>
+  <tr><td>3</td><td>Orange</td><td>Le porteur gagne un bonus d’armure naturelle de +5</td></tr>
+  <tr><td>4</td><td>Violet</td><td>Le porteur gagne [[vision nocturne (capacité)|vision nocturne]]</td></tr>
+  <tr><td>5</td><td>Rouge</td><td>Le porteur gagne [[guérison accélérée (capacité)|guérison accélérée]] 1</td></tr>
+  <tr><td>6</td><td>Bleu</td><td>Le porteur peut utiliser *[[sort vol|vol]]* à volonté</td></tr>
+  <tr><td>7</td><td>Blanc</td><td>Le porteur gagne résistance au froid 30</td></tr>
+  <tr><td>8</td><td>Jaune</td><td>Le porteur gagne *[[liberté de mouvement]]*</td></tr>
+  <tr>
+    <td>9</td>
+    <td>Cuivre</td>
+    <td>Le porteur gagne un bonus de résistance de +5 à ses [[jds|jets de sauvegarde]]</td>
+  </tr>
+  <tr><td>10*</td><td>Relancez</td><td></sup></td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="3">
+      *(*) Cette étape ne compte pas comme une facette quand il s’agit d’ajuster la capacité journalière de
+      l’anneau.*
+    </td>
+  </tr>
+</table>
 
 
 <u>***Voir aussi l'[[Golarion.Anneau aux neuf facettes|histoire et les implications de cet artefact]].***</u>

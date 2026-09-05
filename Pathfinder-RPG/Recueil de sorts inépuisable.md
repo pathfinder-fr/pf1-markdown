@@ -24,7 +24,19 @@ Considérez que chaque sort est lancé comme si le personnage utilisait un [[par
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Circonstance</td><td>Chance que la page se tourne</td></tr><tr CLASS="premier"><td>Pratiquant de la magie employant un sort utilisable par sa classe et à son niveau</td><td>10 %</td></tr><tr CLASS="alt"><td>Pratiquant de la magie employant un sort ne correspondant pas à sa classe et à son niveau</td><td>20 %</td></tr><tr><td>Non-pratiquant de la magie employant un sort divin</td><td>25 %</td></tr><tr CLASS="alt"><td>Non-pratiquant de la magie employant un sort profane</td><td>30 %</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Circonstance</td><td>Chance que la page se tourne</td></tr>
+  <tr CLASS="premier">
+    <td>Pratiquant de la magie employant un sort utilisable par sa classe et à son niveau</td>
+    <td>10 %</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>Pratiquant de la magie employant un sort ne correspondant pas à sa classe et à son niveau</td>
+    <td>20 %</td>
+  </tr>
+  <tr><td>Non-pratiquant de la magie employant un sort divin</td><td>25 %</td></tr>
+  <tr CLASS="alt"><td>Non-pratiquant de la magie employant un sort profane</td><td>30 %</td></tr>
+</table>
 
 </center>
 

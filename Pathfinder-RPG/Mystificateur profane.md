@@ -12,7 +12,117 @@ La voie du mystificateur profane s'impose naturellement aux [[roublard|roublards
 
 <center>
 
-<table CLASS="tablo"><caption>Le mystificateur profane</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[mystificateur profane#PRESTIDIGITATIONADISTANCE|Prestidigitation à distance]]</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+1</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[mystificateur profane#ATTAQUEIMPREVISIBLE|Attaque imprévisible]] 1/jour</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +2d6</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+2</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[mystificateur profane#SORTSVICIEUX|Sorts vicieux]] 3/jour</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+3</td><td>+4</td><td>+2</td><td>+4</td><td CLASS="gauche">[[mystificateur profane#ATTAQUEIMPREVISIBLE|Attaque imprévisible]] 2/jour, [[mystificateur profane#SORTSVICIEUX|sorts vicieux]] 4/jour</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+4</td><td>+3</td><td>+4</td><td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>9</td><td>+4</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[mystificateur profane#VOLEURINVISIBLE|Voleur invisible]], [[mystificateur profane#SORTSVICIEUX|sorts vicieux]] 5/jour</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, [[mystificateur profane#SORTSSURPRISE|sorts surprise]]</td><td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le mystificateur profane</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Nombre de sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[mystificateur profane#PRESTIDIGITATIONADISTANCE|Prestidigitation à distance]]</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[mystificateur profane#ATTAQUEIMPREVISIBLE|Attaque imprévisible]] 1/jour</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +2d6</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTSVICIEUX|Sorts vicieux]] 3/jour</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[mystificateur profane#ATTAQUEIMPREVISIBLE|Attaque imprévisible]] 2/jour, [[mystificateur
+      profane#SORTSVICIEUX|sorts vicieux]] 4/jour
+    </td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[mystificateur profane#VOLEURINVISIBLE|Voleur invisible]], [[mystificateur profane#SORTSVICIEUX|sorts
+      vicieux]] 5/jour
+    </td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[mystificateur profane#ATTAQUESOURNOISE|Attaque sournoise]] +5d6, [[mystificateur profane#SORTSSURPRISE|sorts
+      surprise]]
+    </td>
+    <td CLASS="gauche">[[mystificateur profane#SORTS|+1 niveau dans la classe existante]]</td>
+  </tr>
+</table>
 
 </center>
 

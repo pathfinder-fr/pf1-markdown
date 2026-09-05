@@ -20,9 +20,38 @@ Par exemple, le guerrier mentionné précédemment pourrait utiliser l'accroisse
 La rapidité de cette progression dépend du type de parties que votre groupe désire jouer. Certains aiment les parties rapides où les personnages gagnent des niveaux toutes les sessions de jeu alors que d’autres préfèrent les parties où les personnages progressent moins fréquemment. Au final, c’est à votre groupe de choisir le rythme de progression qui lui convient le mieux. La progression des personnages au fil des niveaux se déroule comme indiqué dans le tableau ci-dessous.
 
 
-<table CLASS="tablo centre autoalt"><caption>Progression des personnages et bonus dépendant du niveau</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau du  
-personnage</td><td CLASS="avecsoustitre" COLSPAN="3">Total des [[XP|points d'expérience]]</td><td ROWSPAN="2">[[Dons]]</td><td ROWSPAN="2">Accroissement d'une  
-[[Caractéristiques|caractéristique]]</td></tr><tr CLASS="soustitre"><td>Progression lente</td><td>Progression moyenne</td><td>Progression rapide</td></tr><tr CLASS="premier"><td>1</td><td>—</td><td>—</td><td>—</td><td>1er</td><td>—</td></tr><tr><td>2</td><td>3 000</td><td>2 000</td><td>1 300</td><td>—</td><td>—</td></tr><tr><td>3</td><td>7 500</td><td>5 000</td><td>3 300</td><td>2e</td><td>—</td></tr><tr><td>4</td><td>14 000</td><td>9 000</td><td>6 000</td><td>—</td><td>1er</td></tr><tr><td>5</td><td>23 000</td><td>15 000</td><td>10 000</td><td>3e</td><td>—</td></tr><tr><td>6</td><td>35 000</td><td>23 000</td><td>15 000</td><td>—</td><td>—</td></tr><tr><td>7</td><td>53 000</td><td>35 000</td><td>23 000</td><td>4e</td><td>—</td></tr><tr><td>8</td><td>77 000</td><td>51 000</td><td>34 000</td><td>—</td><td>2e</td></tr><tr><td>9</td><td>115 000</td><td>75 000</td><td>50 000</td><td>5e</td><td>—</td></tr><tr><td>10</td><td>160 000</td><td>105 000</td><td>71 000</td><td>—</td><td>—</td></tr><tr><td>11</td><td>235 500</td><td>155 000</td><td>105 000</td><td>6e</td><td>—</td></tr><tr><td>12</td><td>330 000</td><td>220 000</td><td>145 000</td><td>—</td><td>3e</td></tr><tr><td>13</td><td>475 000</td><td>315 000</td><td>210 000</td><td>7e</td><td>—</td></tr><tr><td>14</td><td>665 000</td><td>445 000</td><td>295 000</td><td>—</td><td>—</td></tr><tr><td>15</td><td>995 000</td><td>635 000</td><td>425 000</td><td>8e</td><td>—</td></tr><tr><td>16</td><td>1 350 000</td><td>890 000</td><td>600 000</td><td>—</td><td>4e</td></tr><tr><td>17</td><td>1 900 000</td><td>1 300 000</td><td>850 000</td><td>9e</td><td>—</td></tr><tr><td>18</td><td>2 700 000</td><td>1 800 000</td><td>1 200 000</td><td>—</td><td>—</td></tr><tr><td>19</td><td>3 850 000</td><td>2 550 000</td><td>1 700 000</td><td>10e</td><td>—</td></tr><tr><td>20</td><td>5 350 000</td><td>3 600 000</td><td>2 400 000</td><td>—</td><td>5e</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Progression des personnages et bonus dépendant du niveau</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau du  
+personnage</td>
+    <td CLASS="avecsoustitre" COLSPAN="3">Total des [[XP|points d'expérience]]</td>
+    <td ROWSPAN="2">[[Dons]]</td>
+    <td ROWSPAN="2">Accroissement d'une  
+[[Caractéristiques|caractéristique]]</td>
+  </tr>
+  <tr CLASS="soustitre"><td>Progression lente</td><td>Progression moyenne</td><td>Progression rapide</td></tr>
+  <tr CLASS="premier"><td>1</td><td>—</td><td>—</td><td>—</td><td>1er</td><td>—</td></tr>
+  <tr><td>2</td><td>3 000</td><td>2 000</td><td>1 300</td><td>—</td><td>—</td></tr>
+  <tr><td>3</td><td>7 500</td><td>5 000</td><td>3 300</td><td>2e</td><td>—</td></tr>
+  <tr><td>4</td><td>14 000</td><td>9 000</td><td>6 000</td><td>—</td><td>1er</td></tr>
+  <tr><td>5</td><td>23 000</td><td>15 000</td><td>10 000</td><td>3e</td><td>—</td></tr>
+  <tr><td>6</td><td>35 000</td><td>23 000</td><td>15 000</td><td>—</td><td>—</td></tr>
+  <tr><td>7</td><td>53 000</td><td>35 000</td><td>23 000</td><td>4e</td><td>—</td></tr>
+  <tr><td>8</td><td>77 000</td><td>51 000</td><td>34 000</td><td>—</td><td>2e</td></tr>
+  <tr><td>9</td><td>115 000</td><td>75 000</td><td>50 000</td><td>5e</td><td>—</td></tr>
+  <tr><td>10</td><td>160 000</td><td>105 000</td><td>71 000</td><td>—</td><td>—</td></tr>
+  <tr><td>11</td><td>235 500</td><td>155 000</td><td>105 000</td><td>6e</td><td>—</td></tr>
+  <tr><td>12</td><td>330 000</td><td>220 000</td><td>145 000</td><td>—</td><td>3e</td></tr>
+  <tr><td>13</td><td>475 000</td><td>315 000</td><td>210 000</td><td>7e</td><td>—</td></tr>
+  <tr><td>14</td><td>665 000</td><td>445 000</td><td>295 000</td><td>—</td><td>—</td></tr>
+  <tr><td>15</td><td>995 000</td><td>635 000</td><td>425 000</td><td>8e</td><td>—</td></tr>
+  <tr><td>16</td><td>1 350 000</td><td>890 000</td><td>600 000</td><td>—</td><td>4e</td></tr>
+  <tr><td>17</td><td>1 900 000</td><td>1 300 000</td><td>850 000</td><td>9e</td><td>—</td></tr>
+  <tr><td>18</td><td>2 700 000</td><td>1 800 000</td><td>1 200 000</td><td>—</td><td>—</td></tr>
+  <tr><td>19</td><td>3 850 000</td><td>2 550 000</td><td>1 700 000</td><td>10e</td><td>—</td></tr>
+  <tr><td>20</td><td>5 350 000</td><td>3 600 000</td><td>2 400 000</td><td>—</td><td>5e</td></tr>
+</table>
 
 
 ### Faire progresser votre personnage

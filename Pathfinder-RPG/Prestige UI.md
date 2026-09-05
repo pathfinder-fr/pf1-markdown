@@ -67,8 +67,167 @@ Le niveau de compagnon d'arme de certains a été ajusté par rapport aux public
 
 <div class="article_3col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Compagnons d'armes monstrueux</caption><tr CLASS="titre"><td>Monstre</td><td>Niveau de  
-compagnon d'armes</td></tr><tr CLASS="premier"><td>[[Adlet]]<sup>B3</sup></td><td>14</td></tr><tr><td>[[Ahuizotl]]<sup>B3</sup></td><td>11</td></tr><tr><td>[[Aigle géant]]</td><td>6</td></tr><tr><td>[[Apallie]]<sup>B5</sup></td><td>4</td></tr><tr><td>[[Aranéa]]<sup>B2</sup></td><td>8</td></tr><tr><td>[[Arbitre]]<sup>B2</sup> (inévitable)</td><td>7</td></tr><tr><td>[[Archon annonciateur]]<sup>B3</sup></td><td>7</td></tr><tr><td>[[Archon bouclier]]<sup>B2</sup> (archon)</td><td>17</td></tr><tr><td>[[Archon légionnaire]]<sup>B3</sup> (archon)</td><td>15</td></tr><tr><td>[[Archon canin]] (archon)</td><td>12</td></tr><tr><td>[[Armure fantôme gardienne]]<sup>B4</sup></td><td>4</td></tr><tr><td>[[Armure fantôme géante]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[monstre Augure|Augure]]<sup>B3</sup> (kyton)</td><td>7</td></tr><tr><td>[[Avoral]]<sup>B2</sup> (agathion)</td><td>15</td></tr><tr><td>[[Axiomite]]<sup>B2</sup></td><td>14</td></tr><tr><td>[[Azer]]<sup>B2</sup></td><td>3</td></tr><tr><td>[[Babau]] (démon)</td><td>11</td></tr><tr><td>[[Bralani]] (azata)</td><td>11</td></tr><tr><td>[[Cambion]]<sup>B5</sup> (démon)</td><td>5</td></tr><tr><td>[[Cassisien]]<sup>B2</sup> (ange)</td><td>7</td></tr><tr><td>[[Centaure]]</td><td>5</td></tr><tr><td>[[Ceustodaémon]]<sup>B2</sup> (daémon)</td><td>14</td></tr><tr><td>[[Champion squelette]]</td><td>6</td></tr><tr><td>[[Chapeau rouge]]<sup>B2</sup></td><td>9</td></tr><tr><td>[[Chat infernal]]<sup>B2</sup></td><td>14</td></tr><tr><td>[[Cheval draconique]]<sup>B2</sup></td><td>16</td></tr><tr><td>[[Chien esquiveur]]<sup>B2</sup></td><td>6</td></tr><tr><td>[[Chouette géante]]<sup>B3</sup></td><td>9</td></tr><tr><td>[[Chuspiki]]<sup>B5</sup></td><td>6</td></tr><tr><td>[[Criosphinx]]<sup>B3</sup> (sphinx)</td><td>13</td></tr><tr><td>[[Cyclope kabandha]]<sup>B5</sup> (cyclope)</td><td>14</td></tr><tr><td>[[Dame des cygnes]]<sup>B4</sup></td><td>10</td></tr><tr><td>[[Démon des ombres]] (démon)</td><td>15</td></tr><tr><td>[[Derhii]]<sup>B3</sup></td><td>10</td></tr><tr><td>[[Destrier noir]]</td><td>11</td></tr><tr><td>[[Dévoreur de pensées]]<sup>B5</sup></td><td>7</td></tr><tr><td>[[Diable]] barbu</td><td>13</td></tr><tr><td>[[Diablotin]] (diable)</td><td>8</td></tr><tr><td>[[Dogue dombre|Dogue d'ombre]]<sup>B3</sup></td><td>9</td></tr><tr><td>[[Draconien]]<sup>B5</sup></td><td>12</td></tr><tr><td>[[Dragon]] jeune</td><td>CR + 8</td></tr><tr><td>[[Dragonne]]<sup>B3</sup></td><td>11</td></tr><tr><td>[[Drake dombre|Drake d'ombre]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[Draugr]]<sup>B2</sup></td><td>6</td></tr><tr><td>[[Dretch]] (démon)</td><td>5</td></tr><tr><td>[[Drider]]</td><td>11</td></tr><tr><td>[[Dullahan]]<sup>B2</sup></td><td>15</td></tr><tr><td>[[Einherji]]<sup>B4</sup></td><td>17</td></tr><tr><td>[[Encantado]]<sup>B5</sup></td><td>11</td></tr><tr><td>[[Érinye]] (diable)</td><td>16</td></tr><tr><td>[[Ettin]]</td><td>11</td></tr><tr><td>[[Faune]]<sup>B3</sup></td><td>4</td></tr><tr><td>[[Félin des mers]]<sup>B4</sup></td><td>8</td></tr><tr><td>[[Festrog]]<sup>B3</sup></td><td>3</td></tr><tr><td>[[Firbolg]]<sup>B5</sup></td><td>8</td></tr><tr><td>[[Flumph]]<sup>B3</sup></td><td>4</td></tr><tr><td>[[Gancanagh]]<sup>B5</sup> (azata)</td><td>8</td></tr><tr><td>[[Garuda]]<sup>B3</sup></td><td>16</td></tr><tr><td>[[Géant des bois]]<sup>B2</sup></td><td>11</td></tr><tr><td>[[Géant de pierre]]</td><td>13</td></tr><tr><td>[[Ghul]]<sup>B3</sup></td><td>9</td></tr><tr><td>[[Girallon]]</td><td>11</td></tr><tr><td>[[Goule]]</td><td>5</td></tr><tr><td>[[Griffon]]</td><td>8</td></tr><tr><td>[[Guenaude de sang]]<sup>B4</sup></td><td>16</td></tr><tr><td>[[Gynosphinx]] (sphinx)</td><td>16</td></tr><tr><td>[[Haniver]]<sup>B4</sup> (gremlin)</td><td>3</td></tr><tr><td>[[Heikegani]]<sup>B5</sup></td><td>6</td></tr><tr><td>[[Hiéracosphinx]]<sup>B3</sup> (sphinx)</td><td>11</td></tr><tr><td>[[Hippocampe]]<sup>B2</sup></td><td>4</td></tr><tr><td>[[Hippogriffe]]<sup>B2</sup></td><td>6</td></tr><tr><td>[[Homme-poisson des profondeurs]]<sup>B5</sup></td><td>6</td></tr><tr><td>[[Huldre]]<sup>B4</sup></td><td>9</td></tr><tr><td>[[Hurleur]]<sup>B2</sup></td><td>7</td></tr><tr><td>[[Incube]]<sup>B3</sup> (démon)</td><td>14</td></tr><tr><td>[[Jann]] (génie)</td><td>12</td></tr><tr><td>[[Karkadann]]<sup>B5</sup></td><td>7</td></tr><tr><td>[[Kech]]<sup>B3</sup></td><td>6</td></tr><tr><td>[[Kirin]]<sup>B3</sup></td><td>13</td></tr><tr><td>[[Kuwa]]<sup>B3</sup> (oni)</td><td>7</td></tr><tr><td>[[Lammasu]]<sup>B3</sup></td><td>15</td></tr><tr><td>[[Léchi attrape-mouche]]<sup>B5</sup></td><td>6</td></tr><tr><td>[[Léchi calebasse]]<sup>B3</sup></td><td>3</td></tr><tr><td>[[Léchi dalgues|Léchi d'algues]]<sup>B3</sup></td><td>5</td></tr><tr><td>[[Léchi de feuilles]]<sup>B3</sup></td><td>2</td></tr><tr><td>[[Léchi fongique]]<sup>B3</sup></td><td>4</td></tr><tr><td>[[Léchi lotus]]<sup>B5</sup></td><td>8</td></tr><tr><td>[[Léonal]]<sup>B2</sup> (agathion)</td><td>17</td></tr><tr><td>[[Leucrotta]]<sup>B2</sup></td><td>9</td></tr><tr><td>[[Lézard de vase]]<sup>B5</sup></td><td>1</td></tr><tr><td>[[Licorne]]</td><td>8</td></tr><tr><td>[[Lillende]] (azata)</td><td>11</td></tr><tr><td>[[Loup arctique]] (worg)</td><td>8</td></tr><tr><td>[[Lutin]]<sup>B2</sup></td><td>3</td></tr><tr><td>[[Lyrakien]]<sup>B2</sup> (azata)</td><td>8</td></tr><tr><td>[[Maftet]]<sup>B3</sup></td><td>11</td></tr><tr><td>[[Manticore]]</td><td>9</td></tr><tr><td>[[Méduse]]</td><td>14</td></tr><tr><td>[[Méphite]]</td><td>7</td></tr><tr><td>[[Mercane]]<sup>B2</sup></td><td>11</td></tr><tr><td>[[Mimique]]</td><td>9</td></tr><tr><td>[[Molosse infernal]]</td><td>7</td></tr><tr><td>[[Naga gardien]]</td><td>14</td></tr><tr><td>[[Népendis]]<sup>B4</sup></td><td>14</td></tr><tr><td>[[Néphilim]]<sup>B3</sup></td><td>13</td></tr><tr><td>[[Nosoï]]<sup>B4</sup> (psychopompe)</td><td>8</td></tr><tr><td>[[Nycar]]<sup>B4</sup></td><td>6</td></tr><tr><td>[[Ogre mage]] (oni)</td><td>13</td></tr><tr><td>[[Owb]]<sup>B4</sup></td><td>12</td></tr><tr><td>[[Pantin des âmes]]<sup>B4</sup></td><td>12</td></tr><tr><td>[[Peau déchiquetée]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[Pégase]]</td><td>6</td></tr><tr><td>[[Pixie]]</td><td>8</td></tr><tr><td>[[Pooka]]<sup>B4</sup></td><td>8</td></tr><tr><td>[[Poupée des âmes]]<sup>B2</sup></td><td>5</td></tr><tr><td>[[Pseudo-dragon]]</td><td>6</td></tr><tr><td>[[Psychémentaire]]<sup>B5</sup></td><td>15</td></tr><tr><td>[[Pyrauste]]<sup>B5</sup></td><td>3</td></tr><tr><td>[[Raktavarna]]<sup>B3</sup> (rakshasa)</td><td>7</td></tr><tr><td>[[Ratelin]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[Renard serpentin]]<sup>B4</sup></td><td>6</td></tr><tr><td>[[Reptial]]<sup>B5</sup> (agathion)</td><td>7</td></tr><tr><td>[[Sabosan]]<sup>B3</sup></td><td>10</td></tr><tr><td>[[Saguaroi]]<sup>B4</sup></td><td>9</td></tr><tr><td>[[Sasquatch]]<sup>B3</sup></td><td>5</td></tr><tr><td>[[Satyre]]</td><td>10</td></tr><tr><td>[[Shaé]]<sup>B3</sup></td><td>7</td></tr><tr><td>[[Shedu]]<sup>B3</sup></td><td>17</td></tr><tr><td>[[Shikigami]]<sup>B3</sup> (kami)</td><td>7</td></tr><tr><td>[[Shobhad]]<sup>B4</sup></td><td>9</td></tr><tr><td>[[Shriezyx]]<sup>B4</sup></td><td>9</td></tr><tr><td>[[Shulsaga]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[Silvanshie]]<sup>B2</sup> (agathion)</td><td>7</td></tr><tr><td>[[Sirène]]<sup>B2</sup></td><td>16</td></tr><tr><td>[[Skulk]]<sup>B2</sup></td><td>4</td></tr><tr><td>[[Sleipnir]]<sup>B3</sup></td><td>16</td></tr><tr><td>[[Snallygaster]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[Songeur]]<sup>B4</sup></td><td>7</td></tr><tr><td>[[Spriggan]]<sup>B2</sup></td><td>6</td></tr><tr><td>[[Svartalfar]]<sup>B4</sup></td><td>12</td></tr><tr><td>[[Sylvanien]]</td><td>14</td></tr><tr><td>[[Tanuki]]<sup>B3</sup></td><td>8</td></tr><tr><td>[[Tête de citrouille]]<sup>B4</sup></td><td>5</td></tr><tr><td>[[Traqueur invisible]]</td><td>14</td></tr><tr><td>[[Tristesource]]<sup>B4</sup></td><td>9</td></tr><tr><td>[[Triton]]<sup>B2</sup></td><td>3</td></tr><tr><td>[[Uræus]]<sup>B5</sup></td><td>9</td></tr><tr><td>[[Vanth]]<sup>B4</sup> (psychopompe)</td><td>15</td></tr><tr><td>[[Vautour géant]]<sup>B3</sup></td><td>7</td></tr><tr><td>[[Vollute]]<sup>B5</sup></td><td>6</td></tr><tr><td>[[Vouivre]]</td><td>10</td></tr><tr><td>[[Vulnudaémon]]<sup>B3</sup> |daémon)</td><td>9</td></tr><tr><td>[[Vulpinal]]<sup>B2</sup> (agathion)</td><td>11</td></tr><tr><td>[[Wécufe]]<sup>B3</sup></td><td>5</td></tr><tr><td>[[Worg]]</td><td>4</td></tr><tr><td>[[Xanthos]]<sup>B4</sup></td><td>17</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Compagnons d'armes monstrueux</caption>
+  <tr CLASS="titre"><td>Monstre</td><td>Niveau de  
+compagnon d'armes</td></tr>
+  <tr CLASS="premier"><td>[[Adlet]]<sup>B3</sup></td><td>14</td></tr>
+  <tr><td>[[Ahuizotl]]<sup>B3</sup></td><td>11</td></tr>
+  <tr><td>[[Aigle géant]]</td><td>6</td></tr>
+  <tr><td>[[Apallie]]<sup>B5</sup></td><td>4</td></tr>
+  <tr><td>[[Aranéa]]<sup>B2</sup></td><td>8</td></tr>
+  <tr><td>[[Arbitre]]<sup>B2</sup> (inévitable)</td><td>7</td></tr>
+  <tr><td>[[Archon annonciateur]]<sup>B3</sup></td><td>7</td></tr>
+  <tr><td>[[Archon bouclier]]<sup>B2</sup> (archon)</td><td>17</td></tr>
+  <tr><td>[[Archon légionnaire]]<sup>B3</sup> (archon)</td><td>15</td></tr>
+  <tr><td>[[Archon canin]] (archon)</td><td>12</td></tr>
+  <tr><td>[[Armure fantôme gardienne]]<sup>B4</sup></td><td>4</td></tr>
+  <tr><td>[[Armure fantôme géante]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[monstre Augure|Augure]]<sup>B3</sup> (kyton)</td><td>7</td></tr>
+  <tr><td>[[Avoral]]<sup>B2</sup> (agathion)</td><td>15</td></tr>
+  <tr><td>[[Axiomite]]<sup>B2</sup></td><td>14</td></tr>
+  <tr><td>[[Azer]]<sup>B2</sup></td><td>3</td></tr>
+  <tr><td>[[Babau]] (démon)</td><td>11</td></tr>
+  <tr><td>[[Bralani]] (azata)</td><td>11</td></tr>
+  <tr><td>[[Cambion]]<sup>B5</sup> (démon)</td><td>5</td></tr>
+  <tr><td>[[Cassisien]]<sup>B2</sup> (ange)</td><td>7</td></tr>
+  <tr><td>[[Centaure]]</td><td>5</td></tr>
+  <tr><td>[[Ceustodaémon]]<sup>B2</sup> (daémon)</td><td>14</td></tr>
+  <tr><td>[[Champion squelette]]</td><td>6</td></tr>
+  <tr><td>[[Chapeau rouge]]<sup>B2</sup></td><td>9</td></tr>
+  <tr><td>[[Chat infernal]]<sup>B2</sup></td><td>14</td></tr>
+  <tr><td>[[Cheval draconique]]<sup>B2</sup></td><td>16</td></tr>
+  <tr><td>[[Chien esquiveur]]<sup>B2</sup></td><td>6</td></tr>
+  <tr><td>[[Chouette géante]]<sup>B3</sup></td><td>9</td></tr>
+  <tr><td>[[Chuspiki]]<sup>B5</sup></td><td>6</td></tr>
+  <tr><td>[[Criosphinx]]<sup>B3</sup> (sphinx)</td><td>13</td></tr>
+  <tr><td>[[Cyclope kabandha]]<sup>B5</sup> (cyclope)</td><td>14</td></tr>
+  <tr><td>[[Dame des cygnes]]<sup>B4</sup></td><td>10</td></tr>
+  <tr><td>[[Démon des ombres]] (démon)</td><td>15</td></tr>
+  <tr><td>[[Derhii]]<sup>B3</sup></td><td>10</td></tr>
+  <tr><td>[[Destrier noir]]</td><td>11</td></tr>
+  <tr><td>[[Dévoreur de pensées]]<sup>B5</sup></td><td>7</td></tr>
+  <tr><td>[[Diable]] barbu</td><td>13</td></tr>
+  <tr><td>[[Diablotin]] (diable)</td><td>8</td></tr>
+  <tr><td>[[Dogue dombre|Dogue d'ombre]]<sup>B3</sup></td><td>9</td></tr>
+  <tr><td>[[Draconien]]<sup>B5</sup></td><td>12</td></tr>
+  <tr><td>[[Dragon]] jeune</td><td>CR + 8</td></tr>
+  <tr><td>[[Dragonne]]<sup>B3</sup></td><td>11</td></tr>
+  <tr><td>[[Drake dombre|Drake d'ombre]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[Draugr]]<sup>B2</sup></td><td>6</td></tr>
+  <tr><td>[[Dretch]] (démon)</td><td>5</td></tr>
+  <tr><td>[[Drider]]</td><td>11</td></tr>
+  <tr><td>[[Dullahan]]<sup>B2</sup></td><td>15</td></tr>
+  <tr><td>[[Einherji]]<sup>B4</sup></td><td>17</td></tr>
+  <tr><td>[[Encantado]]<sup>B5</sup></td><td>11</td></tr>
+  <tr><td>[[Érinye]] (diable)</td><td>16</td></tr>
+  <tr><td>[[Ettin]]</td><td>11</td></tr>
+  <tr><td>[[Faune]]<sup>B3</sup></td><td>4</td></tr>
+  <tr><td>[[Félin des mers]]<sup>B4</sup></td><td>8</td></tr>
+  <tr><td>[[Festrog]]<sup>B3</sup></td><td>3</td></tr>
+  <tr><td>[[Firbolg]]<sup>B5</sup></td><td>8</td></tr>
+  <tr><td>[[Flumph]]<sup>B3</sup></td><td>4</td></tr>
+  <tr><td>[[Gancanagh]]<sup>B5</sup> (azata)</td><td>8</td></tr>
+  <tr><td>[[Garuda]]<sup>B3</sup></td><td>16</td></tr>
+  <tr><td>[[Géant des bois]]<sup>B2</sup></td><td>11</td></tr>
+  <tr><td>[[Géant de pierre]]</td><td>13</td></tr>
+  <tr><td>[[Ghul]]<sup>B3</sup></td><td>9</td></tr>
+  <tr><td>[[Girallon]]</td><td>11</td></tr>
+  <tr><td>[[Goule]]</td><td>5</td></tr>
+  <tr><td>[[Griffon]]</td><td>8</td></tr>
+  <tr><td>[[Guenaude de sang]]<sup>B4</sup></td><td>16</td></tr>
+  <tr><td>[[Gynosphinx]] (sphinx)</td><td>16</td></tr>
+  <tr><td>[[Haniver]]<sup>B4</sup> (gremlin)</td><td>3</td></tr>
+  <tr><td>[[Heikegani]]<sup>B5</sup></td><td>6</td></tr>
+  <tr><td>[[Hiéracosphinx]]<sup>B3</sup> (sphinx)</td><td>11</td></tr>
+  <tr><td>[[Hippocampe]]<sup>B2</sup></td><td>4</td></tr>
+  <tr><td>[[Hippogriffe]]<sup>B2</sup></td><td>6</td></tr>
+  <tr><td>[[Homme-poisson des profondeurs]]<sup>B5</sup></td><td>6</td></tr>
+  <tr><td>[[Huldre]]<sup>B4</sup></td><td>9</td></tr>
+  <tr><td>[[Hurleur]]<sup>B2</sup></td><td>7</td></tr>
+  <tr><td>[[Incube]]<sup>B3</sup> (démon)</td><td>14</td></tr>
+  <tr><td>[[Jann]] (génie)</td><td>12</td></tr>
+  <tr><td>[[Karkadann]]<sup>B5</sup></td><td>7</td></tr>
+  <tr><td>[[Kech]]<sup>B3</sup></td><td>6</td></tr>
+  <tr><td>[[Kirin]]<sup>B3</sup></td><td>13</td></tr>
+  <tr><td>[[Kuwa]]<sup>B3</sup> (oni)</td><td>7</td></tr>
+  <tr><td>[[Lammasu]]<sup>B3</sup></td><td>15</td></tr>
+  <tr><td>[[Léchi attrape-mouche]]<sup>B5</sup></td><td>6</td></tr>
+  <tr><td>[[Léchi calebasse]]<sup>B3</sup></td><td>3</td></tr>
+  <tr><td>[[Léchi dalgues|Léchi d'algues]]<sup>B3</sup></td><td>5</td></tr>
+  <tr><td>[[Léchi de feuilles]]<sup>B3</sup></td><td>2</td></tr>
+  <tr><td>[[Léchi fongique]]<sup>B3</sup></td><td>4</td></tr>
+  <tr><td>[[Léchi lotus]]<sup>B5</sup></td><td>8</td></tr>
+  <tr><td>[[Léonal]]<sup>B2</sup> (agathion)</td><td>17</td></tr>
+  <tr><td>[[Leucrotta]]<sup>B2</sup></td><td>9</td></tr>
+  <tr><td>[[Lézard de vase]]<sup>B5</sup></td><td>1</td></tr>
+  <tr><td>[[Licorne]]</td><td>8</td></tr>
+  <tr><td>[[Lillende]] (azata)</td><td>11</td></tr>
+  <tr><td>[[Loup arctique]] (worg)</td><td>8</td></tr>
+  <tr><td>[[Lutin]]<sup>B2</sup></td><td>3</td></tr>
+  <tr><td>[[Lyrakien]]<sup>B2</sup> (azata)</td><td>8</td></tr>
+  <tr><td>[[Maftet]]<sup>B3</sup></td><td>11</td></tr>
+  <tr><td>[[Manticore]]</td><td>9</td></tr>
+  <tr><td>[[Méduse]]</td><td>14</td></tr>
+  <tr><td>[[Méphite]]</td><td>7</td></tr>
+  <tr><td>[[Mercane]]<sup>B2</sup></td><td>11</td></tr>
+  <tr><td>[[Mimique]]</td><td>9</td></tr>
+  <tr><td>[[Molosse infernal]]</td><td>7</td></tr>
+  <tr><td>[[Naga gardien]]</td><td>14</td></tr>
+  <tr><td>[[Népendis]]<sup>B4</sup></td><td>14</td></tr>
+  <tr><td>[[Néphilim]]<sup>B3</sup></td><td>13</td></tr>
+  <tr><td>[[Nosoï]]<sup>B4</sup> (psychopompe)</td><td>8</td></tr>
+  <tr><td>[[Nycar]]<sup>B4</sup></td><td>6</td></tr>
+  <tr><td>[[Ogre mage]] (oni)</td><td>13</td></tr>
+  <tr><td>[[Owb]]<sup>B4</sup></td><td>12</td></tr>
+  <tr><td>[[Pantin des âmes]]<sup>B4</sup></td><td>12</td></tr>
+  <tr><td>[[Peau déchiquetée]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[Pégase]]</td><td>6</td></tr>
+  <tr><td>[[Pixie]]</td><td>8</td></tr>
+  <tr><td>[[Pooka]]<sup>B4</sup></td><td>8</td></tr>
+  <tr><td>[[Poupée des âmes]]<sup>B2</sup></td><td>5</td></tr>
+  <tr><td>[[Pseudo-dragon]]</td><td>6</td></tr>
+  <tr><td>[[Psychémentaire]]<sup>B5</sup></td><td>15</td></tr>
+  <tr><td>[[Pyrauste]]<sup>B5</sup></td><td>3</td></tr>
+  <tr><td>[[Raktavarna]]<sup>B3</sup> (rakshasa)</td><td>7</td></tr>
+  <tr><td>[[Ratelin]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[Renard serpentin]]<sup>B4</sup></td><td>6</td></tr>
+  <tr><td>[[Reptial]]<sup>B5</sup> (agathion)</td><td>7</td></tr>
+  <tr><td>[[Sabosan]]<sup>B3</sup></td><td>10</td></tr>
+  <tr><td>[[Saguaroi]]<sup>B4</sup></td><td>9</td></tr>
+  <tr><td>[[Sasquatch]]<sup>B3</sup></td><td>5</td></tr>
+  <tr><td>[[Satyre]]</td><td>10</td></tr>
+  <tr><td>[[Shaé]]<sup>B3</sup></td><td>7</td></tr>
+  <tr><td>[[Shedu]]<sup>B3</sup></td><td>17</td></tr>
+  <tr><td>[[Shikigami]]<sup>B3</sup> (kami)</td><td>7</td></tr>
+  <tr><td>[[Shobhad]]<sup>B4</sup></td><td>9</td></tr>
+  <tr><td>[[Shriezyx]]<sup>B4</sup></td><td>9</td></tr>
+  <tr><td>[[Shulsaga]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[Silvanshie]]<sup>B2</sup> (agathion)</td><td>7</td></tr>
+  <tr><td>[[Sirène]]<sup>B2</sup></td><td>16</td></tr>
+  <tr><td>[[Skulk]]<sup>B2</sup></td><td>4</td></tr>
+  <tr><td>[[Sleipnir]]<sup>B3</sup></td><td>16</td></tr>
+  <tr><td>[[Snallygaster]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[Songeur]]<sup>B4</sup></td><td>7</td></tr>
+  <tr><td>[[Spriggan]]<sup>B2</sup></td><td>6</td></tr>
+  <tr><td>[[Svartalfar]]<sup>B4</sup></td><td>12</td></tr>
+  <tr><td>[[Sylvanien]]</td><td>14</td></tr>
+  <tr><td>[[Tanuki]]<sup>B3</sup></td><td>8</td></tr>
+  <tr><td>[[Tête de citrouille]]<sup>B4</sup></td><td>5</td></tr>
+  <tr><td>[[Traqueur invisible]]</td><td>14</td></tr>
+  <tr><td>[[Tristesource]]<sup>B4</sup></td><td>9</td></tr>
+  <tr><td>[[Triton]]<sup>B2</sup></td><td>3</td></tr>
+  <tr><td>[[Uræus]]<sup>B5</sup></td><td>9</td></tr>
+  <tr><td>[[Vanth]]<sup>B4</sup> (psychopompe)</td><td>15</td></tr>
+  <tr><td>[[Vautour géant]]<sup>B3</sup></td><td>7</td></tr>
+  <tr><td>[[Vollute]]<sup>B5</sup></td><td>6</td></tr>
+  <tr><td>[[Vouivre]]</td><td>10</td></tr>
+  <tr><td>[[Vulnudaémon]]<sup>B3</sup> |daémon)</td><td>9</td></tr>
+  <tr><td>[[Vulpinal]]<sup>B2</sup> (agathion)</td><td>11</td></tr>
+  <tr><td>[[Wécufe]]<sup>B3</sup></td><td>5</td></tr>
+  <tr><td>[[Worg]]</td><td>4</td></tr>
+  <tr><td>[[Xanthos]]<sup>B4</sup></td><td>17</td></tr>
+</table>
 
 </div>
 
@@ -147,20 +306,57 @@ De nombreux facteurs peuvent affecter la valeur de Prestige du personnage (qui a
 **Modificateurs de Prestige infâme.** La réputation du personnage (du point de vue d'un compagnon d'armes ou d'un suivant qu'il tente d'attirer) augmente ou diminue sa valeur Prestige.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>Réputation du personnage</td><td>Mod.</td></tr><tr CLASS="premier"><td>Redoutable</td><td>+2</td></tr><tr><td>Récompense la loyauté  
-et la réussite</td><td>+1</td></tr><tr><td>Possède un pouvoir spécial</td><td>+1</td></tr><tr><td>Indécis</td><td>-1</td></tr><tr><td>Tolérant face à l'échec</td><td>-1</td></tr><tr><td>Miséricordieux</td><td>-2</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <tr CLASS="titre"><td>Réputation du personnage</td><td>Mod.</td></tr>
+  <tr CLASS="premier"><td>Redoutable</td><td>+2</td></tr>
+  <tr><td>Récompense la loyauté  
+et la réussite</td><td>+1</td></tr>
+  <tr><td>Possède un pouvoir spécial</td><td>+1</td></tr>
+  <tr><td>Indécis</td><td>-1</td></tr>
+  <tr><td>Tolérant face à l'échec</td><td>-1</td></tr>
+  <tr><td>Miséricordieux</td><td>-2</td></tr>
+</table>
 
 
 D'autres modificateurs s'appliquent quand un personnage tente de gagner les services d'un compagnon d'armes.
 
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><tr CLASS="titre"><td>Le personnage…</td><td>Mod.</td></tr><tr CLASS="premier"><td>A gagné en puissance en éliminant un supérieur</td><td>+1</td></tr><tr><td>N'a pas réussit à punir ou tuer un sbire qui a commis une erreur coûteuse</td><td>-2*</td></tr><tr><td>Recrute un compagnon d'un alignement différent</td><td>-1</td></tr><tr CLASS=”note”><td COLSPAN="2">*(*) Cumulable par incident de compassion manifestée. Ce malus s'applique même si le personnage fait preuve de pitié pour éviter de tuer ou de punir plus de 20 % de ses serviteurs pendant un niveau de personnage donné (voir la note de bas du tableau suivant).*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%">
+  <tr CLASS="titre"><td>Le personnage…</td><td>Mod.</td></tr>
+  <tr CLASS="premier"><td>A gagné en puissance en éliminant un supérieur</td><td>+1</td></tr>
+  <tr><td>N'a pas réussit à punir ou tuer un sbire qui a commis une erreur coûteuse</td><td>-2*</td></tr>
+  <tr><td>Recrute un compagnon d'un alignement différent</td><td>-1</td></tr>
+  <tr CLASS=”note”>
+    <td COLSPAN="2">
+      *(*) Cumulable par incident de compassion manifestée. Ce malus s'applique même si le personnage fait preuve de
+      pitié pour éviter de tuer ou de punir plus de 20 % de ses serviteurs pendant un niveau de personnage donné
+      (voir la note de bas du tableau suivant).*
+    </td>
+  </tr>
+</table>
 
 
 Les suivants ont des priorités différentes de celles des compagnons d'armes. Lorsque vous essayez d'attirer un suivant, utilisez les modificateurs suivants.
 
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><tr CLASS="titre"><td>Le personnage…</td><td>Mod.</td></tr><tr CLASS="premier"><td>Possède une forteresse, une base d'opérations, une maison de guilde, etc</td><td>+2</td></tr><tr><td>A puni ou tué des sbires pour faire exemple et prouver sa domination</td><td>+1*</td></tr><tr><td>Tend à avoir de longues périodes d'inactivité</td><td>-1</td></tr><tr><td>Empêche ses sbires de piller ou de s'emparer d'autres butins de guerre</td><td>-1</td></tr><tr CLASS=”note”><td COLSPAN="2">*(*) Cumulable jusqu'à un bonus maximum de +1 par niveau de personnage. Si le personnage punis ou tue plus de 20 % de ses sbires pendant un niveau de personnage donné, ce bonus devient un malus à la place. Lorsque le personnage gagne un nouveau niveau, tout bonus ou malus résultant du fait de punir ou de tuer des sbires est remis à 0.*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%">
+  <tr CLASS="titre"><td>Le personnage…</td><td>Mod.</td></tr>
+  <tr CLASS="premier">
+    <td>Possède une forteresse, une base d'opérations, une maison de guilde, etc</td>
+    <td>+2</td>
+  </tr>
+  <tr><td>A puni ou tué des sbires pour faire exemple et prouver sa domination</td><td>+1*</td></tr>
+  <tr><td>Tend à avoir de longues périodes d'inactivité</td><td>-1</td></tr>
+  <tr><td>Empêche ses sbires de piller ou de s'emparer d'autres butins de guerre</td><td>-1</td></tr>
+  <tr CLASS=”note”>
+    <td COLSPAN="2">
+      *(*) Cumulable jusqu'à un bonus maximum de +1 par niveau de personnage. Si le personnage punis ou tue plus de
+      20 % de ses sbires pendant un niveau de personnage donné, ce bonus devient un malus à la place. Lorsque le
+      personnage gagne un nouveau niveau, tout bonus ou malus résultant du fait de punir ou de tuer des sbires est
+      remis à 0.*
+    </td>
+  </tr>
+</table>
 
 
 #### Porteur d'arme

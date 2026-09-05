@@ -20,7 +20,20 @@ Cette compétence s’utilise sous la forme de tests opposés aux tests de [[Psy
 
 <center>
 
-<table CLASS="tablo"><caption>Tests de bluff</caption><tr CLASS="titre"><td>Circonstances</td><td>Modificateur au test de Bluff</td></tr><tr CLASS="premier"><td>La cible veut croire le personnage.</td><td>+5</td></tr><tr CLASS="alt"><td>Le mensonge est crédible.</td><td>+0</td></tr><tr><td>Le mensonge est peu crédible.</td><td>-5</td></tr><tr CLASS="alt"><td>Le mensonge est très peu crédible.</td><td>-10</td></tr><tr><td>Le mensonge est impossible à croire.</td><td>-20</td></tr><tr CLASS="alt"><td>La cible est saoule ou ses capacités sont affaiblies pour une raison ou une autre.</td><td>+5</td></tr><tr><td>Le personnage possède une preuve convaincante.</td><td>jusqu’à +10</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tests de bluff</caption>
+  <tr CLASS="titre"><td>Circonstances</td><td>Modificateur au test de Bluff</td></tr>
+  <tr CLASS="premier"><td>La cible veut croire le personnage.</td><td>+5</td></tr>
+  <tr CLASS="alt"><td>Le mensonge est crédible.</td><td>+0</td></tr>
+  <tr><td>Le mensonge est peu crédible.</td><td>-5</td></tr>
+  <tr CLASS="alt"><td>Le mensonge est très peu crédible.</td><td>-10</td></tr>
+  <tr><td>Le mensonge est impossible à croire.</td><td>-20</td></tr>
+  <tr CLASS="alt">
+    <td>La cible est saoule ou ses capacités sont affaiblies pour une raison ou une autre.</td>
+    <td>+5</td>
+  </tr>
+  <tr><td>Le personnage possède une preuve convaincante.</td><td>jusqu’à +10</td></tr>
+</table>
 
 </center>
 

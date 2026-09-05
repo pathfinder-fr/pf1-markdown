@@ -24,7 +24,27 @@ Il est également possible de saboter des objets simples comme une selle ou la r
 
 <center>
 
-<table CLASS="tablo"><caption>Tests de Sabotage</caption><tr CLASS="titre"><td>Objet/mécanisme</td><td>Temps nécessaire</td><td CLASS="gauche">DD du test - Exemple de Sabotage*</td></tr><tr CLASS="premier"><td>simple</td><td>1 round</td><td CLASS="gauche">10 — coincer une serrure</td></tr><tr CLASS="alt"><td>complexe</td><td>1d4 rounds</td><td CLASS="gauche">15 — saboter une roue de chariot</td></tr><tr><td>très complexe</td><td>2d4 rounds</td><td CLASS="gauche">20 — désarmer ou réarmer un piège</td></tr><tr CLASS="alt"><td>extrêmement complexe</td><td>2d4 rounds</td><td CLASS="gauche">25 — désarmer un piège complexe, saboter un mécanisme à engrenages complexes</td></tr><tr><td COLSPAN="4" CLASS="note">*(*) Le DD augmente de +5 si le personnage tente de saboter l’objet sans que cela soit immédiatement visible.*</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tests de Sabotage</caption>
+  <tr CLASS="titre">
+    <td>Objet/mécanisme</td>
+    <td>Temps nécessaire</td>
+    <td CLASS="gauche">DD du test - Exemple de Sabotage*</td>
+  </tr>
+  <tr CLASS="premier"><td>simple</td><td>1 round</td><td CLASS="gauche">10 — coincer une serrure</td></tr>
+  <tr CLASS="alt"><td>complexe</td><td>1d4 rounds</td><td CLASS="gauche">15 — saboter une roue de chariot</td></tr>
+  <tr><td>très complexe</td><td>2d4 rounds</td><td CLASS="gauche">20 — désarmer ou réarmer un piège</td></tr>
+  <tr CLASS="alt">
+    <td>extrêmement complexe</td>
+    <td>2d4 rounds</td>
+    <td CLASS="gauche">25 — désarmer un piège complexe, saboter un mécanisme à engrenages complexes</td>
+  </tr>
+  <tr>
+    <td COLSPAN="4" CLASS="note">
+      *(*) Le DD augmente de +5 si le personnage tente de saboter l’objet sans que cela soit immédiatement visible.*
+    </td>
+  </tr>
+</table>
 
 </center>
 
@@ -32,7 +52,14 @@ Il est également possible de saboter des objets simples comme une selle ou la r
 
 <center>
 
-<table CLASS="tablo"><caption>Tests de Crochetage</caption><tr CLASS="titre"><td>**Serrure**</td><td>**DD du test de Sabotage**</td></tr><tr CLASS="premier"><td>simple</td><td>20</td></tr><tr CLASS="alt"><td>moyenne</td><td>25</td></tr><tr><td>bonne</td><td>30</td></tr><tr CLASS="alt"><td>excellente</td><td>40</td></tr></table>
+<table CLASS="tablo">
+  <caption>Tests de Crochetage</caption>
+  <tr CLASS="titre"><td>**Serrure**</td><td>**DD du test de Sabotage**</td></tr>
+  <tr CLASS="premier"><td>simple</td><td>20</td></tr>
+  <tr CLASS="alt"><td>moyenne</td><td>25</td></tr>
+  <tr><td>bonne</td><td>30</td></tr>
+  <tr CLASS="alt"><td>excellente</td><td>40</td></tr>
+</table>
 
 </center>
 

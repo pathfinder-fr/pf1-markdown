@@ -16,7 +16,270 @@ Categories:
 </div>{s:mca}*Nombre de féroces combattants puisent dans des réserves de rage enfouies en eux mais un pouvoir inné bouillonne au coeur des sanguins. Une puissance occulte similaire à celle des ensorceleurs coule dans leurs veines. Les ensorceleurs utilisent ce pouvoir pour lancer leurs sorts tandis que les sanguins en profitent pour entrer dans un état second où leur lignage se révèle, où les échos de leurs ancêtres déploient un pouvoir dévastateur. Les sanguins parviennent alors à lancer certains sorts profanes de manière instinctive. La magie des sanguins est aussi rapide, violente et irrésistible que leurs prouesses physiques.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLESANGUIN}Le sanguin</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Sanguin#DEPLACEMENTACCELERE|Déplacement accéléré]], [[Sanguin#LIGNAGE|lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]], [[Sanguin#RAGESANGUINE|rage sanguine]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Sanguin#ESQUIVEINSTINCTIVE|Esquive instinctive]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Sanguin#SANCTUAIRESANGUIN|Sanctuaire sanguin]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Sanguin#DISPENSE|Dispense de composantes matérielles]], [[Sanguin#INCANTATIONSANGUINE|incantation sanguine]], [[Sanguin#LIGNAGE|pouvoir de lignage]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Sanguin#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 1/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 2/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Sanguin#RAGEDEGRANDSANGUIN|Rage de grand sanguin]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]]</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 3/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Sanguin#VOLONTEINDOMPTABLE|Volonté indomptable]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#REDUCTIONDEGATS|réduction de dégâts]] 4/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Sanguin#RAGESANGUINESANSFATIGUE|Rage sanguine sans fatigue]]</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 5/-</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#RAGEDEMAITRESANGUIN|rage de maître sanguin]]</td><td>4</td><td>4</td><td>3</td><td>2</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLESANGUIN}Le sanguin</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Sanguin#DEPLACEMENTACCELERE|Déplacement accéléré]], [[Sanguin#LIGNAGE|lignage]], [[Sanguin#LIGNAGE|pouvoir
+      de lignage]], [[Sanguin#RAGESANGUINE|rage sanguine]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[Sanguin#ESQUIVEINSTINCTIVE|Esquive instinctive]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Sanguin#SANCTUAIRESANGUIN|Sanctuaire sanguin]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Sanguin#DISPENSE|Dispense de composantes matérielles]], [[Sanguin#INCANTATIONSANGUINE|incantation
+      sanguine]], [[Sanguin#LIGNAGE|pouvoir de lignage]]
+    </td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Sanguin#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 1/-, [[Sanguin#LIGNAGE|sort de lignage]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]]</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 2/-, [[Sanguin#LIGNAGE|sort de lignage]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Sanguin#RAGEDEGRANDSANGUIN|Rage de grand sanguin]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]]</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 3/-, [[Sanguin#LIGNAGE|sort de lignage]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Sanguin#VOLONTEINDOMPTABLE|Volonté indomptable]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#REDUCTIONDEGATS|réduction de dégâts]] 4/-,
+      [[Sanguin#LIGNAGE|sort de lignage]]
+    </td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Sanguin#RAGESANGUINESANSFATIGUE|Rage sanguine sans fatigue]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 5/-</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#RAGEDEMAITRESANGUIN|rage de maître sanguin]]
+    </td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+</table>
 
 
 **Rôle.** Maîtres des champs de bataille, les sanguins sèment le carnage dans les rangs ennemis grâce aux exploits nés de leur lignage et de leur force physique. Leur place est sur la ligne de front, face aux ennemis, où ils renforcent leurs immenses talents martiaux avec un brin de magie profane.
@@ -102,7 +365,31 @@ Au niveau 4, le sanguin gagne [[Dispense de composantes matérielles]] comme don
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Sorts de sanguin connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>8</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>9</td><td>5</td><td>4</td><td>-</td><td>-</td></tr><tr><td>10</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>11</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>12</td><td>6</td><td>5</td><td>4</td><td>-</td></tr><tr><td>13</td><td>6</td><td>5</td><td>5</td><td>2</td></tr><tr><td>14</td><td>6</td><td>5</td><td>5</td><td>3</td></tr><tr><td>15</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>4</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>4</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>5</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>5</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>5</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Sorts de sanguin connus</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr>
+  <tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier"><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr><td>7</td><td>4</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr><td>8</td><td>4</td><td>3</td><td>-</td><td>-</td></tr>
+  <tr><td>9</td><td>5</td><td>4</td><td>-</td><td>-</td></tr>
+  <tr><td>10</td><td>5</td><td>4</td><td>2</td><td>-</td></tr>
+  <tr><td>11</td><td>5</td><td>4</td><td>3</td><td>-</td></tr>
+  <tr><td>12</td><td>6</td><td>5</td><td>4</td><td>-</td></tr>
+  <tr><td>13</td><td>6</td><td>5</td><td>5</td><td>2</td></tr>
+  <tr><td>14</td><td>6</td><td>5</td><td>5</td><td>3</td></tr>
+  <tr><td>15</td><td>6</td><td>6</td><td>5</td><td>4</td></tr>
+  <tr><td>16</td><td>6</td><td>6</td><td>6</td><td>4</td></tr>
+  <tr><td>17</td><td>6</td><td>6</td><td>6</td><td>4</td></tr>
+  <tr><td>18</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
+  <tr><td>19</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
+  <tr><td>20</td><td>6</td><td>6</td><td>6</td><td>5</td></tr>
+</table>
 
 </div></div>{s:reference|SORTS}
 #### Sorts

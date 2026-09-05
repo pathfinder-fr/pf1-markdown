@@ -39,7 +39,267 @@ Armes et armures. La licorne errante ne reçoit aucune formation au maniement de
 
 <center>
 
-<table CLASS="tablo"><caption>Licorne errante</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="9" CLASS="avecsoustitre">Pouvoirs magiques quotidiens</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>Guérison</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td><td CLASS="gauche">Déguisement (1/j), Corne magique (+1)</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">Châtiment du mal (1/j), Fléau de la non-vie</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Seconde*</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">Châtiment du mal (2/j)</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">Déguisement (2/j), Corne magique (+2)</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>Troisième</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">Ailes</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">Châtiment du mal (3/j)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>Quatrième</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">Corne magique (+3)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">Aura de vie, Déguisement (3/j)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>Cinquième</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">Châtiment du mal (4/j)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">Corne magique (+4)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>-</td><td>Sixième</td></tr><tr><td>11</td><td>+11</td><td>+6</td><td>+6</td><td>+4</td><td CLASS="gauche">Aura de paix</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+12</td><td>+6</td><td>+6</td><td>+4</td><td CLASS="gauche">Déguisement (4/j), Châtiment du mal (5/j)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>1</td><td>Septième</td></tr><tr><td>13</td><td>+13</td><td>+7</td><td>+7</td><td>+4</td><td CLASS="gauche">Corne magique (+5)</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+14</td><td>+7</td><td>+7</td><td>+5</td><td CLASS="gauche">Apothéose céleste, Aura de protection</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>Huitième</td></tr></table>
+<table CLASS="tablo">
+  <caption>Licorne errante</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="9" CLASS="avecsoustitre">Pouvoirs magiques quotidiens</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>Guérison</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">Déguisement (1/j), Corne magique (+1)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">Châtiment du mal (1/j), Fléau de la non-vie</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Seconde*</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">Châtiment du mal (2/j)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">Déguisement (2/j), Corne magique (+2)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Troisième</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">Ailes</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">Châtiment du mal (3/j)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Quatrième</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">Corne magique (+3)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td CLASS="gauche">Aura de vie, Déguisement (3/j)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Cinquième</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">Châtiment du mal (4/j)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">Corne magique (+4)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>Sixième</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td CLASS="gauche">Aura de paix</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td CLASS="gauche">Déguisement (4/j), Châtiment du mal (5/j)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>Septième</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+4</td>
+    <td CLASS="gauche">Corne magique (+5)</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td CLASS="gauche">Apothéose céleste, Aura de protection</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>Huitième</td>
+  </tr>
+</table>
 
 </center>
 
@@ -72,7 +332,23 @@ A partir du niveau 2, la licorne errant apprend à canaliser ses pouvoirs de gu�
 Les pouvoirs magiques suivants peuvent être sélectionnés.
 
 
-<table CLASS="tablo"><caption>Les guérisons de la licorne errante</caption><tr CLASS="titre"><td>Niveau</td><td>Pouvoirs de guérisons disponnibles</td></tr><tr CLASS="premier"><td>2</td><td>Purification de nourriture et d'eau (utilisable à volonté), ralentissement du poison, restauration partielle, regain d'assurance, neutralisation du poison</td></tr><tr CLASS="alt"><td>4</td><td>Guérison de la cécité et de la surdité, guérison des maladies</td></tr><tr><td>6</td><td>Délivrance des malédictions</td></tr><tr CLASS="alt"><td>8</td><td>Souffle de vie, annulation d'enchantement, restauration (*)</td></tr><tr><td>10</td><td>Guérison suprême</td></tr><tr CLASS="alt"><td>12</td><td>Régénération</td></tr><tr><td>14</td><td>Rappel à la vie</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les guérisons de la licorne errante</caption>
+  <tr CLASS="titre"><td>Niveau</td><td>Pouvoirs de guérisons disponnibles</td></tr>
+  <tr CLASS="premier">
+    <td>2</td>
+    <td>
+      Purification de nourriture et d'eau (utilisable à volonté), ralentissement du poison, restauration partielle,
+      regain d'assurance, neutralisation du poison
+    </td>
+  </tr>
+  <tr CLASS="alt"><td>4</td><td>Guérison de la cécité et de la surdité, guérison des maladies</td></tr>
+  <tr><td>6</td><td>Délivrance des malédictions</td></tr>
+  <tr CLASS="alt"><td>8</td><td>Souffle de vie, annulation d'enchantement, restauration (*)</td></tr>
+  <tr><td>10</td><td>Guérison suprême</td></tr>
+  <tr CLASS="alt"><td>12</td><td>Régénération</td></tr>
+  <tr><td>14</td><td>Rappel à la vie</td></tr>
+</table>
 
 
 

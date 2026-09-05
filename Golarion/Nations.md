@@ -8,6 +8,321 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Les nations de Golarion</caption><tr CLASS="titre"><td>Nation</td><td>Continent</td><td>Habitants/adjectif</td><td CLASS="gauche">Brève description</td></tr><tr CLASS="premier"><td>[[Absalom]]</td><td>[[mer Intérieure]]</td><td>absalomien</td><td CLASS="gauche">la Ville au Centre du Monde, la cité la plus connue (et peut-être la plus importante et la plus influente) de Golarion, située sur l’île de Kortos</td></tr><tr CLASS="alt"><td>[[Alkenastre]]</td><td>[[Garund]]</td><td>alkenastrien</td><td CLASS="gauche">mini-nation connue surtout pour ses fabricants d’armes à feu (capitale : Alkenastre-ville)</td></tr><tr><td>[[Andoran]]</td><td>[[Avistan]]</td><td>andorien</td><td CLASS="gauche">la nation de la liberté, une démocratie naissante qui cherche activement à exporter sa philosophie (capitale : Almas)</td></tr><tr CLASS="alt"><td>[[Belkzen]]</td><td>[[Avistan]]</td><td>(orques)</td><td CLASS="gauche">territoire aux mains des orques (capitale : Urgir, l’ancienne Citadelle du Ciel naine appelée Koldukar)</td></tr><tr><td>[[Brévoy]]</td><td>[[Avistan]]</td><td>brévoyiens</td><td CLASS="gauche">royaume divisé en deux régions aux caractères bien différents (capitale : Nouvelle-Stetven)</td></tr><tr CLASS="alt"><td>[[Chéliax]]</td><td>[[Avistan]]</td><td>chélaxien</td><td CLASS="gauche">empire sur le déclin gouverné par une famille noble d’adorateurs des diables, la maison de Thrune (capitale: Égorian)</td></tr><tr><td>[[Dernier-Rempart]]</td><td>[[Avistan]]</td><td>?</td><td CLASS="gauche">une terre fortifiée créée pour surveiller les orques du Belkzen et les morts-vivants de l’Ustalav (capitale : Vigie)</td></tr><tr CLASS="alt"><td>[[Druma]]</td><td>[[Avistan]]</td><td>drumite</td><td CLASS="gauche">pays dont la philosophie est basée sur les prophéties de Kalistrade et l’accumulation de richesses (capitale : Kerse)</td></tr><tr><td>[[Entraves]]</td><td>[[Garund]]</td><td>?</td><td CLASS="gauche">nombreuses îles servant de repaires aux pirates et protégées par le dangereux Oeil d’Abendégo (capitale : Port Péril)</td></tr><tr CLASS="alt"><td>[[Galt]]</td><td>[[Avistan]]</td><td>galtien</td><td CLASS="gauche">une nation où les révolutions se succèdent sans cesse, connue pour ses guillotines magiques (capitale : Isarn)</td></tr><tr><td>[[Geb]]</td><td>[[Garund]]</td><td>gébite</td><td CLASS="gauche">un domaine où les morts-vivants sont des citoyens à part (plus qu’)entière créé par l’archimage Geb (capitale : Méchitar)</td></tr><tr CLASS="alt"><td>[[Herméa]]</td><td>[[Avistan]]</td><td>herméen</td><td CLASS="gauche">une île isolée où le dragon d’or Mengkare s'est donné pour mission de rendre la race humaine parfaite (capitale : Promesse)</td></tr><tr><td>[[Irrisen]]</td><td>[[Avistan]]</td><td>irriséen</td><td CLASS="gauche">une terre gelée dirigée par les filles de la Mère des Sorcières, Baba Yaga (capitale : Trône-Blanc)</td></tr><tr CLASS="alt"><td>[[Isger]]</td><td>[[Avistan]]</td><td>isgérien</td><td CLASS="gauche">un pays soumis au Chéliax et agité par de nombreux troubles (capitale : Elidir)</td></tr><tr><td>[[Jalmeray]]</td><td>[[Garund]]</td><td>?</td><td CLASS="gauche">le Royaume de l’Impossible, un petit bout du Vudra au large du Nex (capitale : Niswan)</td></tr><tr CLASS="alt"><td>[[Katapesh]]</td><td>[[Garund]]</td><td>katapéshite</td><td CLASS="gauche">un royaume marchand connu pour sa drogue, le pesh, et ses mystérieux dirigeants, les Maîtres du Pacte (capitale : Katapesh-ville)</td></tr><tr><td>[[Kyonin]]</td><td>[[Avistan]]</td><td>(elfes)</td><td CLASS="gauche">le royaume des elfes au sein de l’Avistan, dirigée par la reine Télandia Édasseril (capitale : Iadara)</td></tr><tr CLASS="alt"><td>[[Mendev]]</td><td>[[Avistan]]</td><td>mendévien</td><td CLASS="gauche">pays occupé par les croisés qui combattent les démons de la Plaie du Monde (capitale : Nérosyan)</td></tr><tr><td>[[Molthune]]</td><td>[[Avistan]]</td><td>molthunien</td><td CLASS="gauche">ancienne colonie chélaxienne cherchant à prospérer et à s’étendre (capitale : Canorate)</td></tr><tr CLASS="alt"><td>[[Mwangi]]</td><td>[[Garund]]</td><td>mwangi</td><td CLASS="gauche">vaste jungle mystérieuse abritant de très nombreux secrets au centre du Garund (sans capitale)</td></tr><tr><td>[[Médiogalti]]</td><td>[[Garund]]</td><td>médiogaltais</td><td CLASS="gauche">île couverte de jungle, repaire de pirates et quartier général des assassins de la Mante Rouge (capitale : Ilizmagorti)</td></tr><tr CLASS="alt"><td>[[Nex]]</td><td>[[Garund]]</td><td>nexien</td><td CLASS="gauche">magiocratie à la mémoire de son fondateur, l’archimage Nex (capitale : Quantium)</td></tr><tr><td>[[Nidal]]</td><td>[[Avistan]]</td><td>nidalien</td><td CLASS="gauche">terre d’ombres dont les habitants se sont soumis à Zon-Kuthon pour survivre à l’âge des Ténèbres (capitale : Pangolais)</td></tr><tr CLASS="alt"><td>[[Nirmathas]]</td><td>[[Avistan]]</td><td>nirmathi</td><td CLASS="gauche">terre forestière anciennement soumise à la Molthuse et désormais en guerre avec elle (capitale : Tamran)</td></tr><tr><td>[[Numérie]]</td><td>[[Avistan]]</td><td>numérien</td><td CLASS="gauche">étendue désolée connue pour ses mystérieux métaux qu’on dit tombés du ciel et ses technocrates (capitale : Pluie-d’étoiles)</td></tr><tr CLASS="alt"><td>[[Osirion]]</td><td>[[Garund]]</td><td>osirionais</td><td CLASS="gauche">une des nations les plus anciennes, ancienne terre des pharaons (capitale : Sothis)</td></tr><tr><td>[[Plaie du monde]]</td><td>[[Avistan]]</td><td>(démons)</td><td CLASS="gauche">terre déchirée par le Chaos d’où émane des hordes démoniaques</td></tr><tr CLASS="alt"><td>[[Qadira]]</td><td>[[Avistan]]</td><td>qadiriote</td><td CLASS="gauche">satrapie (colonie dirigée par un satrape) du padishah du Kélesh en guerre froide avec le Taldan (capitale : Katheer)</td></tr><tr><td>[[Rahadoum]]</td><td>[[Garund]]</td><td>rahadoumais</td><td CLASS="gauche">nation sans dieu, où tous les cultes divins sont interdits et où l’Homme est roi (capitale : Azir)</td></tr><tr CLASS="alt"><td>[[Razmiran]]</td><td>[[Avistan]]</td><td>razmiranais</td><td CLASS="gauche">théocratie dirigée par le (faux) dieu-vivant Razmir (capitale : Marche-du-Trône)</td></tr><tr><td>[[Royaumes des Seigneurs des Mammouths]]</td><td>[[Avistan]]</td><td>?</td><td CLASS="gauche">une terre peuplée par des tribus de barbares capables de contrôler les animaux gigantesques qui y habitent (sans capitale)</td></tr><tr CLASS="alt"><td>[[Royaumes fluviaux]]</td><td>[[Avistan]]</td><td>?</td><td CLASS="gauche">nombreuses régions où tous les héros, les exclus et les hommes en fuite peuvent se faire un nom ou se refaire une vie (sans capitale)</td></tr><tr><td>[[Sargava]]</td><td>[[Garund]]</td><td>sargavien</td><td CLASS="gauche">colonie chélaxienne au bord de la jungle du Mwangi en relation étroite avec les pirates des Entraves (capitale : Éléder)</td></tr><tr CLASS="alt"><td>[[Taldor]]</td><td>[[Avistan]]</td><td>taldan</td><td CLASS="gauche">empire sur le déclin qui était autrefois la première puissance de l’Avistan (capitale : Oppara)</td></tr><tr><td>[[Terres des Rois des Linnorms]]</td><td>[[Avistan]]</td><td>?</td><td CLASS="gauche">un royaume gelé où il faut tuer un dragon linnorm pour devenir roi (capitale : Kalsgard)</td></tr><tr CLASS="alt"><td>[[Terres humides]]</td><td>[[Garund]]</td><td>?</td><td CLASS="gauche">contrée ravagée par les pluies et l’eau amenées par l’Oeil d’Abendégo, territoire d’anciennes civilisations (sans capitale)</td></tr><tr><td>[[Thuvie]]</td><td>[[Garund]]</td><td>thuvien</td><td CLASS="gauche">le pays où l’élixir d’éternité a été inventé et où il est régulièrement vendu (capitale : Mérab)</td></tr><tr CLASS="alt"><td>[[Ustalav]]</td><td>[[Avistan]]</td><td>ustalavien</td><td CLASS="gauche">contrée ancienne et mystérieuse aux nombreuses légendes lugubres (capitale : Caliphas)</td></tr><tr><td>[[Varisie]]</td><td>[[Avistan]]</td><td>varisien</td><td CLASS="gauche">terre partiellement colonisée (villes principales : Korvosa, Magnimar, Riddleport/Port-Énigme)</td></tr></table>
+<table CLASS="tablo">
+  <caption>Les nations de Golarion</caption>
+  <tr CLASS="titre">
+    <td>Nation</td>
+    <td>Continent</td>
+    <td>Habitants/adjectif</td>
+    <td CLASS="gauche">Brève description</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Absalom]]</td>
+    <td>[[mer Intérieure]]</td>
+    <td>absalomien</td>
+    <td CLASS="gauche">
+      la Ville au Centre du Monde, la cité la plus connue (et peut-être la plus importante et la plus influente) de
+      Golarion, située sur l’île de Kortos
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Alkenastre]]</td>
+    <td>[[Garund]]</td>
+    <td>alkenastrien</td>
+    <td CLASS="gauche">mini-nation connue surtout pour ses fabricants d’armes à feu (capitale : Alkenastre-ville)</td>
+  </tr>
+  <tr>
+    <td>[[Andoran]]</td>
+    <td>[[Avistan]]</td>
+    <td>andorien</td>
+    <td CLASS="gauche">
+      la nation de la liberté, une démocratie naissante qui cherche activement à exporter sa philosophie (capitale :
+      Almas)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Belkzen]]</td>
+    <td>[[Avistan]]</td>
+    <td>(orques)</td>
+    <td CLASS="gauche">
+      territoire aux mains des orques (capitale : Urgir, l’ancienne Citadelle du Ciel naine appelée Koldukar)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Brévoy]]</td>
+    <td>[[Avistan]]</td>
+    <td>brévoyiens</td>
+    <td CLASS="gauche">royaume divisé en deux régions aux caractères bien différents (capitale : Nouvelle-Stetven)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Chéliax]]</td>
+    <td>[[Avistan]]</td>
+    <td>chélaxien</td>
+    <td CLASS="gauche">
+      empire sur le déclin gouverné par une famille noble d’adorateurs des diables, la maison de Thrune (capitale:
+      Égorian)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Dernier-Rempart]]</td>
+    <td>[[Avistan]]</td>
+    <td>?</td>
+    <td CLASS="gauche">
+      une terre fortifiée créée pour surveiller les orques du Belkzen et les morts-vivants de l’Ustalav (capitale :
+      Vigie)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Druma]]</td>
+    <td>[[Avistan]]</td>
+    <td>drumite</td>
+    <td CLASS="gauche">
+      pays dont la philosophie est basée sur les prophéties de Kalistrade et l’accumulation de richesses (capitale :
+      Kerse)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Entraves]]</td>
+    <td>[[Garund]]</td>
+    <td>?</td>
+    <td CLASS="gauche">
+      nombreuses îles servant de repaires aux pirates et protégées par le dangereux Oeil d’Abendégo (capitale : Port
+      Péril)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Galt]]</td>
+    <td>[[Avistan]]</td>
+    <td>galtien</td>
+    <td CLASS="gauche">
+      une nation où les révolutions se succèdent sans cesse, connue pour ses guillotines magiques (capitale : Isarn)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Geb]]</td>
+    <td>[[Garund]]</td>
+    <td>gébite</td>
+    <td CLASS="gauche">
+      un domaine où les morts-vivants sont des citoyens à part (plus qu’)entière créé par l’archimage Geb (capitale
+      : Méchitar)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Herméa]]</td>
+    <td>[[Avistan]]</td>
+    <td>herméen</td>
+    <td CLASS="gauche">
+      une île isolée où le dragon d’or Mengkare s'est donné pour mission de rendre la race humaine parfaite
+      (capitale : Promesse)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Irrisen]]</td>
+    <td>[[Avistan]]</td>
+    <td>irriséen</td>
+    <td CLASS="gauche">
+      une terre gelée dirigée par les filles de la Mère des Sorcières, Baba Yaga (capitale : Trône-Blanc)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Isger]]</td>
+    <td>[[Avistan]]</td>
+    <td>isgérien</td>
+    <td CLASS="gauche">un pays soumis au Chéliax et agité par de nombreux troubles (capitale : Elidir)</td>
+  </tr>
+  <tr>
+    <td>[[Jalmeray]]</td>
+    <td>[[Garund]]</td>
+    <td>?</td>
+    <td CLASS="gauche">le Royaume de l’Impossible, un petit bout du Vudra au large du Nex (capitale : Niswan)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Katapesh]]</td>
+    <td>[[Garund]]</td>
+    <td>katapéshite</td>
+    <td CLASS="gauche">
+      un royaume marchand connu pour sa drogue, le pesh, et ses mystérieux dirigeants, les Maîtres du Pacte
+      (capitale : Katapesh-ville)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Kyonin]]</td>
+    <td>[[Avistan]]</td>
+    <td>(elfes)</td>
+    <td CLASS="gauche">
+      le royaume des elfes au sein de l’Avistan, dirigée par la reine Télandia Édasseril (capitale : Iadara)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Mendev]]</td>
+    <td>[[Avistan]]</td>
+    <td>mendévien</td>
+    <td CLASS="gauche">
+      pays occupé par les croisés qui combattent les démons de la Plaie du Monde (capitale : Nérosyan)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Molthune]]</td>
+    <td>[[Avistan]]</td>
+    <td>molthunien</td>
+    <td CLASS="gauche">ancienne colonie chélaxienne cherchant à prospérer et à s’étendre (capitale : Canorate)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Mwangi]]</td>
+    <td>[[Garund]]</td>
+    <td>mwangi</td>
+    <td CLASS="gauche">
+      vaste jungle mystérieuse abritant de très nombreux secrets au centre du Garund (sans capitale)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Médiogalti]]</td>
+    <td>[[Garund]]</td>
+    <td>médiogaltais</td>
+    <td CLASS="gauche">
+      île couverte de jungle, repaire de pirates et quartier général des assassins de la Mante Rouge (capitale :
+      Ilizmagorti)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Nex]]</td>
+    <td>[[Garund]]</td>
+    <td>nexien</td>
+    <td CLASS="gauche">magiocratie à la mémoire de son fondateur, l’archimage Nex (capitale : Quantium)</td>
+  </tr>
+  <tr>
+    <td>[[Nidal]]</td>
+    <td>[[Avistan]]</td>
+    <td>nidalien</td>
+    <td CLASS="gauche">
+      terre d’ombres dont les habitants se sont soumis à Zon-Kuthon pour survivre à l’âge des Ténèbres (capitale :
+      Pangolais)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Nirmathas]]</td>
+    <td>[[Avistan]]</td>
+    <td>nirmathi</td>
+    <td CLASS="gauche">
+      terre forestière anciennement soumise à la Molthuse et désormais en guerre avec elle (capitale : Tamran)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Numérie]]</td>
+    <td>[[Avistan]]</td>
+    <td>numérien</td>
+    <td CLASS="gauche">
+      étendue désolée connue pour ses mystérieux métaux qu’on dit tombés du ciel et ses technocrates (capitale :
+      Pluie-d’étoiles)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Osirion]]</td>
+    <td>[[Garund]]</td>
+    <td>osirionais</td>
+    <td CLASS="gauche">une des nations les plus anciennes, ancienne terre des pharaons (capitale : Sothis)</td>
+  </tr>
+  <tr>
+    <td>[[Plaie du monde]]</td>
+    <td>[[Avistan]]</td>
+    <td>(démons)</td>
+    <td CLASS="gauche">terre déchirée par le Chaos d’où émane des hordes démoniaques</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Qadira]]</td>
+    <td>[[Avistan]]</td>
+    <td>qadiriote</td>
+    <td CLASS="gauche">
+      satrapie (colonie dirigée par un satrape) du padishah du Kélesh en guerre froide avec le Taldan (capitale :
+      Katheer)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Rahadoum]]</td>
+    <td>[[Garund]]</td>
+    <td>rahadoumais</td>
+    <td CLASS="gauche">
+      nation sans dieu, où tous les cultes divins sont interdits et où l’Homme est roi (capitale : Azir)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Razmiran]]</td>
+    <td>[[Avistan]]</td>
+    <td>razmiranais</td>
+    <td CLASS="gauche">théocratie dirigée par le (faux) dieu-vivant Razmir (capitale : Marche-du-Trône)</td>
+  </tr>
+  <tr>
+    <td>[[Royaumes des Seigneurs des Mammouths]]</td>
+    <td>[[Avistan]]</td>
+    <td>?</td>
+    <td CLASS="gauche">
+      une terre peuplée par des tribus de barbares capables de contrôler les animaux gigantesques qui y habitent
+      (sans capitale)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Royaumes fluviaux]]</td>
+    <td>[[Avistan]]</td>
+    <td>?</td>
+    <td CLASS="gauche">
+      nombreuses régions où tous les héros, les exclus et les hommes en fuite peuvent se faire un nom ou se refaire
+      une vie (sans capitale)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Sargava]]</td>
+    <td>[[Garund]]</td>
+    <td>sargavien</td>
+    <td CLASS="gauche">
+      colonie chélaxienne au bord de la jungle du Mwangi en relation étroite avec les pirates des Entraves (capitale
+      : Éléder)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Taldor]]</td>
+    <td>[[Avistan]]</td>
+    <td>taldan</td>
+    <td CLASS="gauche">
+      empire sur le déclin qui était autrefois la première puissance de l’Avistan (capitale : Oppara)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Terres des Rois des Linnorms]]</td>
+    <td>[[Avistan]]</td>
+    <td>?</td>
+    <td CLASS="gauche">un royaume gelé où il faut tuer un dragon linnorm pour devenir roi (capitale : Kalsgard)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Terres humides]]</td>
+    <td>[[Garund]]</td>
+    <td>?</td>
+    <td CLASS="gauche">
+      contrée ravagée par les pluies et l’eau amenées par l’Oeil d’Abendégo, territoire d’anciennes civilisations
+      (sans capitale)
+    </td>
+  </tr>
+  <tr>
+    <td>[[Thuvie]]</td>
+    <td>[[Garund]]</td>
+    <td>thuvien</td>
+    <td CLASS="gauche">
+      le pays où l’élixir d’éternité a été inventé et où il est régulièrement vendu (capitale : Mérab)
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>[[Ustalav]]</td>
+    <td>[[Avistan]]</td>
+    <td>ustalavien</td>
+    <td CLASS="gauche">contrée ancienne et mystérieuse aux nombreuses légendes lugubres (capitale : Caliphas)</td>
+  </tr>
+  <tr>
+    <td>[[Varisie]]</td>
+    <td>[[Avistan]]</td>
+    <td>varisien</td>
+    <td CLASS="gauche">
+      terre partiellement colonisée (villes principales : Korvosa, Magnimar, Riddleport/Port-Énigme)
+    </td>
+  </tr>
+</table>
 
 </center>

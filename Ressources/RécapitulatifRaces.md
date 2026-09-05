@@ -6,4 +6,692 @@ LastModified: 2018-09-04 21:34
 
 {s:SortTable}
 
-<table CLASS="tablo sortable centre" ID="tabdons"><caption>Récapitulatif des races</caption><thead><tr><th>Races</th><th>Au choix</th><th>For.</th><th>Dex.</th><th>Con.</th><th>Int.</th><th>Sag.</th><th>Cha.</th><th>Taille</th><th>Vision</th><th>Vitesse</th><th>Type</th><th>Sous-type</th><th>Capacité iconique</th></tr></thead><tbody><tr><td>[[pathfinder-RPG.demi-elfe|demi-elfe]]</td><td>| +2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Elfe</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.demi-orque|demi-orque]]</td><td>| +2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Orque</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.elfe|elfe]]</td><td>| -</td><td>-</td><td>+2</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Elfe</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.gnome|gnome]]</td><td>| -</td><td>-2</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>+2</td><td>P</td><td>Nocturne</td><td>6m</td><td>Humanoïde</td><td>Gnome</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.halfelin|halfelin]]</td><td>| -</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>P</td><td>-</td><td>6m</td><td>Humanoïde</td><td>Halfelin</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.humain|humain]]</td><td>| +2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>M</td><td>-</td><td>9m</td><td>Humanoïde</td><td>Humain</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.nain|nain]]</td><td>| -</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-2</td><td>M</td><td>Noir 18m</td><td>6m</td><td>Humanoïde</td><td>Nain</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.aasimar (race)|aasimar]]</td><td>| -</td><td>-</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>+2</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.dhampir (race)|dhampir]]</td><td>| -</td><td>-</td><td>+2</td><td>-2</td><td>-</td><td>-</td><td>+2</td><td>M</td><td>Noct & noir</td><td>9m</td><td>Humanoïde</td><td>Dhampir</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.drow (race)|drow]]</td><td>| -</td><td>-</td><td>+2</td><td>-2</td><td>-</td><td>-</td><td>+2</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Elfe</td><td>Résistance à la magie</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.fetchelin (race)|fetchelin]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>M</td><td>Noct & noir</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.gobelin (race)|gobelin]]</td><td>| -</td><td>-2</td><td>+4</td><td>-</td><td>-</td><td>-</td><td>-2</td><td>P</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Gobelinoïde</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.hobgobelin (race)|hobgobelin]]</td><td>| -</td><td>-</td><td>+2</td><td>+2</td><td>-</td><td>-</td><td>-</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Gobelinoïde</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.homme-félin (race)|hommes-félin]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Homme félin</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.homme-rat (race)|hommes-rat]]</td><td>| -</td><td>-2</td><td>+2</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>P</td><td>Noir 18m</td><td>6m</td><td>Humanoïde</td><td>Homme-rat</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.ifrit (race)|ifrit]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.kobold (race)|kobold]]</td><td>| -</td><td>-4</td><td>+2</td><td>-2</td><td>-</td><td>-</td><td>-</td><td>P</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Reptilien</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.ondin (race)|ondin]]</td><td>| -</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.orque (race)|orque]]</td><td>| -</td><td>+4</td><td>-</td><td>-</td><td>-2</td><td>-2</td><td>-2</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Orque</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.oréade (race)|oréade]]</td><td>| -</td><td>+2</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>-2</td><td>M</td><td>Noir 18m</td><td>6m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.sylphe (race)|sylphe]]</td><td>| -</td><td>-</td><td>+2</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.tengu (race)|tengu]]</td><td>| -</td><td>-</td><td>+2</td><td>-2</td><td>-</td><td>+2</td><td>-</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Tengu</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.tieffelin (race)|tieffelin]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-</td><td>-2</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.aquatique (race)|aquatique]]</td><td>| -</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>-2</td><td>+2</td><td>M</td><td>-</td><td>9m</td><td>Humanoïde</td><td>Aquatique</td><td>Amphibie, nage 9m</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.changelin (race)|changelin]]</td><td>| -</td><td>-</td><td>-</td><td>-2</td><td>-</td><td>+2</td><td>+2</td><td>M</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Chagelin</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.duergar (race)|duergar]]</td><td>| -</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-4</td><td>M</td><td>Noir 36m</td><td>6m</td><td>Humanoïde</td><td>Nain</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.grippli (race)|grippli]]</td><td>| -</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>+2</td><td>-</td><td>P</td><td>Noir 18m</td><td>9m</td><td>Humanoïde</td><td>Grippli</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.homme-poisson (race)|hommes-poisson]]</td><td>| -</td><td>0</td><td>+2</td><td>+2</td><td>-</td><td>-</td><td>+2</td><td>M</td><td>Noir 18m</td><td>1,5m</td><td>Humanoïde</td><td>Aquatique</td><td>Amphibie, nage 18m</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.kitsune (race)|kitsune]]</td><td>| -</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>-</td><td>+2</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Kitsune et métamorphe</td><td>Changement de forme</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.nagaji (race)|nagaji]]</td><td>| -</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>-</td><td>+2</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Reptiliens</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.samsaran (race)|samsaran]]</td><td>| -</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>+2</td><td>-</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Samsaran</td><td>-</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.strix (race)|strix]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-</td><td>-2</td><td>M</td><td>Noct & noir</td><td>9m</td><td>Humanoïde</td><td>Strix</td><td>Vol 18m</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.suli (race)|suli]]</td><td>| -</td><td>+2</td><td>0</td><td>-</td><td>-2</td><td>-</td><td>+2</td><td>M</td><td>Nocturne</td><td>9m</td><td>Extérieur</td><td>Natif</td><td>Assaut élémentaire</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.svirfneblin (race)|svirfneblin]]</td><td>| -</td><td>-2</td><td>+2</td><td>-</td><td>-</td><td>+2</td><td>-4</td><td>P</td><td>Noir 36m</td><td>6m</td><td>Humanoïde</td><td>Gnome</td><td>-</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.vanara (race)|vanara]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>+2</td><td>-2</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Vanara</td><td>Queue préhensible</td><td></td><td>&nbsp;</td></tr><tr><td>[[pathfinder-RPG.vishkanya (race)|vishkanya]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>-</td><td>-2</td><td>+2</td><td>M</td><td>Nocturne</td><td>9m</td><td>Humanoïde</td><td>Vishkanyas</td><td>Toxiques</td><td></td><td>&nbsp;</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.wayang (race)|wayang]]</td><td>| -</td><td>-</td><td>+2</td><td>-</td><td>+2</td><td>-2</td><td>0</td><td>P</td><td>Noir 18m</td><td>6m</td><td>Humanoïde</td><td>Wayang</td><td>-</td><td></td><td>&nbsp;</td></tr></tbody></table>
+<table CLASS="tablo sortable centre" ID="tabdons">
+  <caption>Récapitulatif des races</caption>
+  <thead>
+    <tr>
+      <th>Races</th>
+      <th>Au choix</th>
+      <th>For.</th>
+      <th>Dex.</th>
+      <th>Con.</th>
+      <th>Int.</th>
+      <th>Sag.</th>
+      <th>Cha.</th>
+      <th>Taille</th>
+      <th>Vision</th>
+      <th>Vitesse</th>
+      <th>Type</th>
+      <th>Sous-type</th>
+      <th>Capacité iconique</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[[pathfinder-RPG.demi-elfe|demi-elfe]]</td>
+      <td>| +2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Elfe</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.demi-orque|demi-orque]]</td>
+      <td>| +2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Orque</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.elfe|elfe]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Elfe</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.gnome|gnome]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>P</td>
+      <td>Nocturne</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Gnome</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.halfelin|halfelin]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>P</td>
+      <td>-</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Halfelin</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.humain|humain]]</td>
+      <td>| +2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>M</td>
+      <td>-</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Humain</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.nain|nain]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Nain</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.aasimar (race)|aasimar]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.dhampir (race)|dhampir]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noct & noir</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Dhampir</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.drow (race)|drow]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Elfe</td>
+      <td>Résistance à la magie</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.fetchelin (race)|fetchelin]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noct & noir</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.gobelin (race)|gobelin]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+4</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>P</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Gobelinoïde</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.hobgobelin (race)|hobgobelin]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Gobelinoïde</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.homme-félin (race)|hommes-félin]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Homme félin</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.homme-rat (race)|hommes-rat]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>P</td>
+      <td>Noir 18m</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Homme-rat</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.ifrit (race)|ifrit]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.kobold (race)|kobold]]</td>
+      <td>| -</td>
+      <td>-4</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>P</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Reptilien</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.ondin (race)|ondin]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.orque (race)|orque]]</td>
+      <td>| -</td>
+      <td>+4</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>-2</td>
+      <td>-2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Orque</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.oréade (race)|oréade]]</td>
+      <td>| -</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>6m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.sylphe (race)|sylphe]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.tengu (race)|tengu]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Tengu</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.tieffelin (race)|tieffelin]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.aquatique (race)|aquatique]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>-</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Aquatique</td>
+      <td>Amphibie, nage 9m</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.changelin (race)|changelin]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Chagelin</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.duergar (race)|duergar]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-4</td>
+      <td>M</td>
+      <td>Noir 36m</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Nain</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.grippli (race)|grippli]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>P</td>
+      <td>Noir 18m</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Grippli</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.homme-poisson (race)|hommes-poisson]]</td>
+      <td>| -</td>
+      <td>0</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Noir 18m</td>
+      <td>1,5m</td>
+      <td>Humanoïde</td>
+      <td>Aquatique</td>
+      <td>Amphibie, nage 18m</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.kitsune (race)|kitsune]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Kitsune et métamorphe</td>
+      <td>Changement de forme</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.nagaji (race)|nagaji]]</td>
+      <td>| -</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Reptiliens</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.samsaran (race)|samsaran]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Samsaran</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.strix (race)|strix]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>M</td>
+      <td>Noct & noir</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Strix</td>
+      <td>Vol 18m</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.suli (race)|suli]]</td>
+      <td>| -</td>
+      <td>+2</td>
+      <td>0</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Extérieur</td>
+      <td>Natif</td>
+      <td>Assaut élémentaire</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.svirfneblin (race)|svirfneblin]]</td>
+      <td>| -</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-4</td>
+      <td>P</td>
+      <td>Noir 36m</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Gnome</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.vanara (race)|vanara]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Vanara</td>
+      <td>Queue préhensible</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>[[pathfinder-RPG.vishkanya (race)|vishkanya]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-2</td>
+      <td>+2</td>
+      <td>M</td>
+      <td>Nocturne</td>
+      <td>9m</td>
+      <td>Humanoïde</td>
+      <td>Vishkanyas</td>
+      <td>Toxiques</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr CLASS="alt">
+      <td>[[pathfinder-RPG.wayang (race)|wayang]]</td>
+      <td>| -</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-</td>
+      <td>+2</td>
+      <td>-2</td>
+      <td>0</td>
+      <td>P</td>
+      <td>Noir 18m</td>
+      <td>6m</td>
+      <td>Humanoïde</td>
+      <td>Wayang</td>
+      <td>-</td>
+      <td></td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>

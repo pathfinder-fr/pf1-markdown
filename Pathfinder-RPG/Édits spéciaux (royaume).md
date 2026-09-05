@@ -21,7 +21,14 @@ Votre représentant doit faire un test de [[Diplomatie]] dont le [[DD]] obéit �
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
 
-<table CLASS="tablo centre autoalt"><caption>Modificateur de différence d’alignement</caption><tr CLASS="titre"><td>Différence d’alignement*</td><td>Modificateur du DD</td></tr><tr CLASS="premier"><td>Pareil</td><td>+0</td></tr><tr><td>1 cran</td><td>+5</td></tr><tr><td>2 crans</td><td>+15</td></tr><tr CLASS="note"><td COLSPAN="2">Par axe d’alignement</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Modificateur de différence d’alignement</caption>
+  <tr CLASS="titre"><td>Différence d’alignement*</td><td>Modificateur du DD</td></tr>
+  <tr CLASS="premier"><td>Pareil</td><td>+0</td></tr>
+  <tr><td>1 cran</td><td>+5</td></tr>
+  <tr><td>2 crans</td><td>+15</td></tr>
+  <tr CLASS="note"><td COLSPAN="2">Par axe d’alignement</td></tr>
+</table>
 
 </div></div>
 - **Modificateur de taille spécial.** Il s’agit de la [[Royaumes et guerre#TAILLE|taille]] du royaume divisée par 5.

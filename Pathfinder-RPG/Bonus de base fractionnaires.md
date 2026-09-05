@@ -33,8 +33,44 @@ Cette règle concerne uniquement les personnages multiclassés et le nombre d’
 
 <center>
 
-<table CLASS="tablo autoalt" WIDTH="100%"><caption>Bonus fractionnaires par niveau de classe</caption><tr CLASS="titre"><td>Niveau de classe</td><td>Bonus de sauvegarde  
-de base (bon)<sup>1</sup></td><td>Bonus de sauvegarde  
-de base (mauvais)</td><td>BBA (d10 ou d12)</td><td>BBA (d8)</td><td>BBA (d6)</td></tr><tr CLASS="premier"><td>1</td><td>+0,5</td><td>+0,3</td><td>+1</td><td>+0,75</td><td>+0,5</td></tr><tr><td>2</td><td>+1</td><td>+0,6</td><td>+2</td><td>+1,5</td><td>+1</td></tr><tr><td>3</td><td>+1,5</td><td>+1</td><td>+3</td><td>+2,25</td><td>+1,5</td></tr><tr><td>4</td><td>+2</td><td>+1,3</td><td>+4</td><td>+3</td><td>+2</td></tr><tr><td>5</td><td>+2,5</td><td>+1,6</td><td>+5</td><td>+3,75</td><td>+2,5</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+6</td><td>+4,5</td><td>+3</td></tr><tr><td>7</td><td>+3,5</td><td>+2,3</td><td>+7</td><td>+5,25</td><td>+3,5</td></tr><tr><td>8</td><td>+4</td><td>+2,6</td><td>+8</td><td>+6</td><td>+4</td></tr><tr><td>9</td><td>+4,5</td><td>+3</td><td>+9</td><td>+6,75</td><td>+4,5</td></tr><tr><td>10</td><td>+5</td><td>+3,3</td><td>+10</td><td>+7,5</td><td>+5</td></tr><tr><td>11</td><td>+5,5</td><td>+3,6</td><td>+11</td><td>+8,25</td><td>+5,5</td></tr><tr><td>12</td><td>+6</td><td>+4</td><td>+12</td><td>+9</td><td>+6</td></tr><tr><td>13</td><td>+6,5</td><td>+4,3</td><td>+13</td><td>+9,75</td><td>+6,5</td></tr><tr><td>14</td><td>+7</td><td>+4,6</td><td>+14</td><td>+10,5</td><td>+7</td></tr><tr><td>15</td><td>+7,5</td><td>+5</td><td>+15</td><td>+11,25</td><td>+7,5</td></tr><tr><td>16</td><td>+8</td><td>+5,3</td><td>+16</td><td>+12</td><td>+8</td></tr><tr><td>17</td><td>+8,5</td><td>+5,6</td><td>+17</td><td>+12,75</td><td>+8,5</td></tr><tr><td>18</td><td>+9</td><td>+6</td><td>+18</td><td>+13,5</td><td>+9</td></tr><tr><td>19</td><td>+9,5</td><td>+6,3</td><td>+19</td><td>+14,25</td><td>+9,5</td></tr><tr><td>20</td><td>+10</td><td>+6,6</td><td>+20</td><td>+15</td><td>+10</td></tr><tr CLASS="note"><td COLSPAN="6">*(1) Si une classe au moins du personnage bénéficie d’une bonne progression pour le bonus au jet de sauvegarde en question, ajoutez 2 au bonus total.*</td></tr></table>
+<table CLASS="tablo autoalt" WIDTH="100%">
+  <caption>Bonus fractionnaires par niveau de classe</caption>
+  <tr CLASS="titre">
+    <td>Niveau de classe</td>
+    <td>Bonus de sauvegarde  
+de base (bon)<sup>1</sup></td>
+    <td>Bonus de sauvegarde  
+de base (mauvais)</td>
+    <td>BBA (d10 ou d12)</td>
+    <td>BBA (d8)</td>
+    <td>BBA (d6)</td>
+  </tr>
+  <tr CLASS="premier"><td>1</td><td>+0,5</td><td>+0,3</td><td>+1</td><td>+0,75</td><td>+0,5</td></tr>
+  <tr><td>2</td><td>+1</td><td>+0,6</td><td>+2</td><td>+1,5</td><td>+1</td></tr>
+  <tr><td>3</td><td>+1,5</td><td>+1</td><td>+3</td><td>+2,25</td><td>+1,5</td></tr>
+  <tr><td>4</td><td>+2</td><td>+1,3</td><td>+4</td><td>+3</td><td>+2</td></tr>
+  <tr><td>5</td><td>+2,5</td><td>+1,6</td><td>+5</td><td>+3,75</td><td>+2,5</td></tr>
+  <tr><td>6</td><td>+3</td><td>+2</td><td>+6</td><td>+4,5</td><td>+3</td></tr>
+  <tr><td>7</td><td>+3,5</td><td>+2,3</td><td>+7</td><td>+5,25</td><td>+3,5</td></tr>
+  <tr><td>8</td><td>+4</td><td>+2,6</td><td>+8</td><td>+6</td><td>+4</td></tr>
+  <tr><td>9</td><td>+4,5</td><td>+3</td><td>+9</td><td>+6,75</td><td>+4,5</td></tr>
+  <tr><td>10</td><td>+5</td><td>+3,3</td><td>+10</td><td>+7,5</td><td>+5</td></tr>
+  <tr><td>11</td><td>+5,5</td><td>+3,6</td><td>+11</td><td>+8,25</td><td>+5,5</td></tr>
+  <tr><td>12</td><td>+6</td><td>+4</td><td>+12</td><td>+9</td><td>+6</td></tr>
+  <tr><td>13</td><td>+6,5</td><td>+4,3</td><td>+13</td><td>+9,75</td><td>+6,5</td></tr>
+  <tr><td>14</td><td>+7</td><td>+4,6</td><td>+14</td><td>+10,5</td><td>+7</td></tr>
+  <tr><td>15</td><td>+7,5</td><td>+5</td><td>+15</td><td>+11,25</td><td>+7,5</td></tr>
+  <tr><td>16</td><td>+8</td><td>+5,3</td><td>+16</td><td>+12</td><td>+8</td></tr>
+  <tr><td>17</td><td>+8,5</td><td>+5,6</td><td>+17</td><td>+12,75</td><td>+8,5</td></tr>
+  <tr><td>18</td><td>+9</td><td>+6</td><td>+18</td><td>+13,5</td><td>+9</td></tr>
+  <tr><td>19</td><td>+9,5</td><td>+6,3</td><td>+19</td><td>+14,25</td><td>+9,5</td></tr>
+  <tr><td>20</td><td>+10</td><td>+6,6</td><td>+20</td><td>+15</td><td>+10</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="6">
+      *(1) Si une classe au moins du personnage bénéficie d’une bonne progression pour le bonus au jet de sauvegarde
+      en question, ajoutez 2 au bonus total.*
+    </td>
+  </tr>
+</table>
 
 </center>

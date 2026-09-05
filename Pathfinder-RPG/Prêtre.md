@@ -16,7 +16,394 @@ Categories:
 </div>*La foi et les miracles divins suscitent des vocations. Les prêtres, ces êtres appelés à servir des puissances qui dépassent l’entendement de la plupart des mortels, en prêchent les merveilles et satisfont les besoins spirituels de leur peuple. Ce ne sont cependant pas de simples faiseurs de sermons mais bel et bien des émissaires divins qui accomplissent la volonté des dieux à la force de leur bras et grâce à la magie divine. Ces prêtres sont dévoués aux doctrines des religions et des philosophies qui les inspirent et œuvrent à faire connaître leur foi et à accroître son influence. Même s’ils possèdent des pouvoirs similaires, on retrouve autant de différences entre les prêtres qu’entre les divinités qu’ils servent : certains offrent soins et pardon, d’autres la justice, la loi et la liberté, et d’autres encore corrompent et incitent des conflits. Les prêtres agissent de bien des manières mais tous ceux qui empruntent ce chemin marchent aux côtés des alliés les plus puissants qui soient : ils sont les bras armés des dieux eux-mêmes.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEPRETRE}Le prêtre</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[prêtre#AURA|Aura]], [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] 1d6, [[prêtre#DOMAINES|domaines]], [[prêtre#ORAISONS|oraisons]], [[prêtre#INCANTATIONSPONTANEE|incantation spontanée]]</td><td>3</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 2d6</td><td>4</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 3d6</td><td>4</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 4d6</td><td>4</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 5d6</td><td>4</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 6d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 8d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td><td>-</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 9d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>2+1</td><td>1+1</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td><td>2+1</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 10d6</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>3+1</td><td>3+1</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">&nbsp;</td><td>4</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td><td>4+1</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEPRETRE}Le prêtre</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>0</td>
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[prêtre#AURA|Aura]], [[prêtre#CANALISATIONDENERGIE|canalisation d'énergie]] 1d6,
+      [[prêtre#DOMAINES|domaines]], [[prêtre#ORAISONS|oraisons]], [[prêtre#INCANTATIONSPONTANEE|incantation
+      spontanée]]
+    </td>
+    <td>3</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 2d6</td>
+    <td>4</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 3d6</td>
+    <td>4</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 4d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 5d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 6d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 7d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 8d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 9d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+    <td>1+1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+    <td>2+1</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[prêtre#CANALISATIONDENERGIE|Canalisation d'énergie]] 10d6</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>3+1</td>
+    <td>3+1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">&nbsp;</td>
+    <td>4</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+    <td>4+1</td>
+  </tr>
+</table>
 
 
 **Rôle.** Les prêtres sont plus que capables de défendre l’honneur de leur dieu au combat, ce sont généralement des combattants vaillants et compétents. Mais leur véritable force réside dans leur capacité à faire appel au pouvoir de leur dieu, que ce soit pour améliorer leur habileté au combat et celle de leurs alliés, pour affaiblir leurs ennemis ou encore pour guérir les blessures de leurs compagnons blessés.

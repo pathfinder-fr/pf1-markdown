@@ -13,7 +13,47 @@ Cette page est la traduction d'une aide de jeu partagée par Jason Tondro (@doct
 Les terres des kaavas constituent un terrain difficile. Les PJ peuvent espérer parcourir 16 km par jour s'ils ne rencontrent aucun obstacle. Chaque jour, lancez un test nu de DD 14. En cas de réussite, une rencontre se produit ce jour-là. En cas de réussite critique, deux rencontres se produisent. Les rencontres décrites ci-dessous sont prévues pour des personnages de niveau 1 à 3.
 
 
-<table CLASS="tablo centre autoalt toutgauche"><caption>Rencontres dans les terres des kaavas</caption><tr CLASS="titre"><td>d20</td><td>Rencontre</td><td>&nbsp;</td><td>d20</td><td>Rencontre</td></tr><tr CLASS="premier"><td>[[#1|1]]</td><td>chasseur békyar</td><td>&nbsp;</td><td>[[#11|11]]</td><td>ptéranodons en chasse</td></tr><tr><td>[[#2|2]]</td><td>charau-kas</td><td>&nbsp;</td><td>[[#12|12]]</td><td>éclaireurs kaavas</td></tr><tr><td>[[#3|3]]</td><td>oiseau coloré</td><td>&nbsp;</td><td>[[#13|13]]</td><td>léopard de Mbaiki</td></tr><tr><td>[[#4|4]]</td><td>des "compys"</td><td>&nbsp;</td><td>[[#14|14]]</td><td>champ de racines miraculeuses</td></tr><tr><td>[[#5|5]]</td><td>singes démoniaques</td><td>&nbsp;</td><td>[[#15|15]]</td><td>moustiques</td></tr><tr><td>[[#6|6]]</td><td>attrape-mouche (géant)</td><td>&nbsp;</td><td>[[#16|16]]</td><td>merveille naturelle</td></tr><tr><td>[[#7|7]]</td><td>fantômes de la forêt</td><td>&nbsp;</td><td>[[#17|17]]</td><td>pygmée kaava</td></tr><tr><td>[[#8|8]]</td><td>capitaines libres ou chercheurs de trésor</td><td>&nbsp;</td><td>[[#18|18]]</td><td>guenaude de la forêt tropicale</td></tr><tr><td>[[#9|9]]</td><td>gecko géant</td><td>&nbsp;</td><td>[[#19|19]]</td><td>nuée d'araignées</td></tr><tr><td>[[#10|10]]</td><td>gripplis</td><td>&nbsp;</td><td>[[#20|20]]</td><td>umasi</td></tr><tr CLASS="note"><td COLSPAN="4">Cliquez sur un des nombres pour descendre jusqu'à la description de la rencontre.</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche">
+  <caption>Rencontres dans les terres des kaavas</caption>
+  <tr CLASS="titre"><td>d20</td><td>Rencontre</td><td>&nbsp;</td><td>d20</td><td>Rencontre</td></tr>
+  <tr CLASS="premier">
+    <td>[[#1|1]]</td>
+    <td>chasseur békyar</td>
+    <td>&nbsp;</td>
+    <td>[[#11|11]]</td>
+    <td>ptéranodons en chasse</td>
+  </tr>
+  <tr><td>[[#2|2]]</td><td>charau-kas</td><td>&nbsp;</td><td>[[#12|12]]</td><td>éclaireurs kaavas</td></tr>
+  <tr><td>[[#3|3]]</td><td>oiseau coloré</td><td>&nbsp;</td><td>[[#13|13]]</td><td>léopard de Mbaiki</td></tr>
+  <tr>
+    <td>[[#4|4]]</td>
+    <td>des "compys"</td>
+    <td>&nbsp;</td>
+    <td>[[#14|14]]</td>
+    <td>champ de racines miraculeuses</td>
+  </tr>
+  <tr><td>[[#5|5]]</td><td>singes démoniaques</td><td>&nbsp;</td><td>[[#15|15]]</td><td>moustiques</td></tr>
+  <tr>
+    <td>[[#6|6]]</td>
+    <td>attrape-mouche (géant)</td>
+    <td>&nbsp;</td>
+    <td>[[#16|16]]</td>
+    <td>merveille naturelle</td>
+  </tr>
+  <tr><td>[[#7|7]]</td><td>fantômes de la forêt</td><td>&nbsp;</td><td>[[#17|17]]</td><td>pygmée kaava</td></tr>
+  <tr>
+    <td>[[#8|8]]</td>
+    <td>capitaines libres ou chercheurs de trésor</td>
+    <td>&nbsp;</td>
+    <td>[[#18|18]]</td>
+    <td>guenaude de la forêt tropicale</td>
+  </tr>
+  <tr><td>[[#9|9]]</td><td>gecko géant</td><td>&nbsp;</td><td>[[#19|19]]</td><td>nuée d'araignées</td></tr>
+  <tr><td>[[#10|10]]</td><td>gripplis</td><td>&nbsp;</td><td>[[#20|20]]</td><td>umasi</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="4">Cliquez sur un des nombres pour descendre jusqu'à la description de la rencontre.</td>
+  </tr>
+</table>
 
 
 {s:Reference|1}

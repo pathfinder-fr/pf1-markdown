@@ -14,7 +14,183 @@ Categories:
 <tr>
 <td width="70%">
 
-<table CLASS="tablo centre autoalt"><caption>Le ninja</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[ninja#UTILISATIONDUPOISON|utilisation du poison]]</td></tr><tr><td>2</td><td>+1</td><td>+3</td><td>+0</td><td>+0</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#RÉSERVEDEKI|réserve de ki]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+1</td><td>+1</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[ninja#PASDETRACE|pas de trace]] +1</td></tr><tr><td>4</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]],[[ninja#ESQUIVEINSTINCTIVE|esquive instinctive]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td></tr><tr><td>6</td><td>+4</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#PASDETRACE|pas de trace]] +2, [[ninja#PIEDLÉGER|pied léger]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+2</td><td>+2</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td></tr><tr><td>8</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+2</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#ESQUIVEINSTINCTIVESUPÉRIEURE|esquive instinctive supérieure]]</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+3</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +5d6 ,[[ninja#PASDETRACE|pas de trace]] +3</td></tr><tr><td>10</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[ninja#ASTUCEDEMAÎTRE|Astuce de maître]], [[ninja#ASTUCEDENINJA|astuce de ninja]]</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+3</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +6d6</td></tr><tr><td>12</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#PASDETRACE|pas de trace]] +4</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +7d6</td></tr><tr><td>14</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+4</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]]</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+5</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +8d6, [[ninja#PASDETRACE|pas de trace]] +5</td></tr><tr><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]]</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +9d6</td></tr><tr><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#PASDETRACE|pas de trace]] +6</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td><td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +10d6</td></tr><tr><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#MAÎTRESECRET|maître secret]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le ninja</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +1d6, [[ninja#UTILISATIONDUPOISON|utilisation du poison]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#RÉSERVEDEKI|réserve de ki]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +2d6, [[ninja#PASDETRACE|pas de trace]] +1</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]],[[ninja#ESQUIVEINSTINCTIVE|esquive instinctive]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#PASDETRACE|pas de trace]] +2, [[ninja#PIEDLÉGER|pied léger]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +4d6</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#ESQUIVEINSTINCTIVESUPÉRIEURE|esquive instinctive supérieure]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +5d6 ,[[ninja#PASDETRACE|pas de trace]] +3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDEMAÎTRE|Astuce de maître]], [[ninja#ASTUCEDENINJA|astuce de ninja]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +6d6</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#PASDETRACE|pas de trace]] +4</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +7d6</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +8d6, [[ninja#PASDETRACE|pas de trace]] +5</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]]</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +9d6</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#PASDETRACE|pas de trace]] +6</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[ninja#ATTAQUESOURNOISE|Attaque sournoise]] +10d6</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[ninja#ASTUCEDENINJA|Astuce de ninja]], [[ninja#MAÎTRESECRET|maître secret]]</td>
+  </tr>
+</table>
 
 </td>
 <td width="30%" valign="bottom">

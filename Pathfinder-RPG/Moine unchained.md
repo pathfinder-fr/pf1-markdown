@@ -19,9 +19,302 @@ Categories:
 </div>La plupart des aptitudes du moine ont été retravaillées, y compris son bonus de base à l’attaque, ses dés de vie, ses sauvegardes et nombre de ses aptitudes spéciales. Le résultat aboutit à une version du moine qui est non seulement plus simple à jouer mais qui bénéficie également de beaucoup plus de polyvalence. Le déluge de coups est bien plus simple à utiliser au cours du jeu. Nombre des aptitudes de moine acquises à haut niveau, comme pas chassé et paume vibratoire, ont été intégrées au nouveau système des pouvoirs de ki. Au fur et à mesure que le moine gagne des niveaux, il peut choisir toute une variété de pouvoirs de ki, ce qui permet au joueur de véritablement personnaliser son personnage.
 
 
-<table CLASS="tablo autoalt centre"><caption>{s:Reference|TABLEMOINE}Le moine</caption><tr CLASS="titre"><td>Niv</td><td>BBA</td><td>Réf</td><td>Vig</td><td>Vol</td><td CLASS="gauche">Spécial</td><td>Déluge de coups</td><td>Dégâts à mains nues*</td><td>Bonus   
-de CA</td><td>Déplacement accéléré</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#DELUGEDECOUPS|déluge de coups (att supp)]],   
-[[Moine unchained#COUPETOURDISSANT|coup étourdissant]], [[Moine unchained#COMBATAMAINSNUES|combat à mains nues]]</td><td>+1/+1</td><td>1d6</td><td>+0</td><td>+0 m</td></tr><tr><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#ESQUIVETOTALE|esquive totale]]</td><td>+2/+2</td><td>1d6</td><td>+0</td><td>+0 m</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Moine unchained#DEPLACEMENTACCELERE|déplacement accéléré]], [[Moine unchained#RESERVEDEKI|frappe ki (magique)]],</br> [[Moine unchained#RESERVEDEKI|réserve de ki]]</td><td>+3/+3</td><td>1d6</td><td>+0</td><td>+3 m (2 cases)</td></tr><tr><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]], [[Moine unchained#SERENITE|sérénité]]</td><td>+4/+4</td><td>1d8</td><td>+1</td><td>+3 m (2 cases)</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée (1/round)]], [[Moine unchained#PURETEPHYSIQUE|pureté physique]]</td><td>+5/+5</td><td>1d8</td><td>+1</td><td>+3 m (2 cases)</td></tr><tr><td>6</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td><td>+6/+6/+1</td><td>1d8</td><td>+1</td><td>+6 m (4 cases)</td></tr><tr><td>7</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Moine unchained#RESERVEDEKI|frappe ki (argent/fer froid)]]</td><td>+7/+7/+2</td><td>1d8</td><td>+1</td><td>+6 m (4 cases)</td></tr><tr><td>8</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td><td>+8/+8/+3</td><td>1d10</td><td>+2</td><td>+6 m (4 cases)</td></tr><tr><td>9</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Moine unchained#ESQUIVESURNATURELLE|esquive surnaturelle]], [[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée]]</td><td>+9/+9/+4</td><td>1d10</td><td>+2</td><td>+9 m (6 cases)</td></tr><tr><td>10</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]],</br>[[Moine unchained#RESERVEDEKI|frappe ki (loyale)]]</td><td>+10/+10/+5</td><td>1d10</td><td>+2</td><td>+9 m (6 cases)</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Moine unchained#DELUGEDECOUPS|déluge de coups (attaque supplémentaire)]]</td><td>+11/+11/+11/+6/+1</td><td>1d10</td><td>+2</td><td>+9 m (6 cases)</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td><td>+12/+12/+12/+7/+2</td><td>2d6</td><td>+3</td><td>+12 m (8 cases)</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée]],</br> [[Moine unchained#LANGUEDUSOLEILETDELALUNE|langue du soleil et de la lune]]</td><td>+13/+13/+13/+8/+3</td><td>2d6</td><td>+3</td><td>+12 m (8 cases)</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td><td>+14/+14/+14/+9/+4</td><td>2d6</td><td>+3</td><td>+12 m (8 cases)</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée (2/round)]]</td><td>+15/+15/+15/+10/+5</td><td>2d6</td><td>+3</td><td>+15 m (10 cases)</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]], [[Moine unchained#RESERVEDEKI|frappe ki (adamantuim)]]</td><td>+16/+16/+16/+11/+6/+1</td><td>2d8</td><td>+4</td><td>+15 m (10 cases)</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée]], [[Moine unchained#ETERNELLEJEUNESSE|éternelle jeunesse]]</td><td>+17/+17/+17/+12/+7/+2</td><td>2d8</td><td>+4</td><td>+15 m (10 cases)</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td><td>+18/+18/+18/+13/+8/+3</td><td>2d8</td><td>+4</td><td>+18 m (12 cases)</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Moine unchained#PURETEMENTALE|pureté mentale]]</td><td>+19/+19/+19/+14/+9/+4</td><td>2d8</td><td>+4</td><td>+18 m (12 cases)</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]], [[Moine unchained#PERFECTIONDELETRE|perfection de l'être]]</td><td>+20/+20/+20/+15/+10/+5</td><td>2d10</td><td>+5</td><td>+18 m (12 cases)</td></tr><tr><td CLASS="note" COLSPAN="10">(*) Il s'agit de la valeur pour les moines de taille M. Voir le texte pour les moines de taille P ou G.</td></tr></table>
+<table CLASS="tablo autoalt centre">
+  <caption>{s:Reference|TABLEMOINE}Le moine</caption>
+  <tr CLASS="titre">
+    <td>Niv</td>
+    <td>BBA</td>
+    <td>Réf</td>
+    <td>Vig</td>
+    <td>Vol</td>
+    <td CLASS="gauche">Spécial</td>
+    <td>Déluge de coups</td>
+    <td>Dégâts à mains nues*</td>
+    <td>Bonus   
+de CA</td>
+    <td>Déplacement accéléré</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#DELUGEDECOUPS|déluge de coups (att
+      supp)]],   
+[[Moine unchained#COUPETOURDISSANT|coup étourdissant]], [[Moine unchained#COMBATAMAINSNUES|combat
+      à mains nues]]
+    </td>
+    <td>+1/+1</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+0 m</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#ESQUIVETOTALE|esquive totale]]
+    </td>
+    <td>+2/+2</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+0 m</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DEPLACEMENTACCELERE|déplacement accéléré]], [[Moine unchained#RESERVEDEKI|frappe ki
+      (magique)]],</br> [[Moine unchained#RESERVEDEKI|réserve de ki]]
+    </td>
+    <td>+3/+3</td>
+    <td>1d6</td>
+    <td>+0</td>
+    <td>+3 m (2 cases)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]], [[Moine unchained#SERENITE|sérénité]]</td>
+    <td>+4/+4</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+3 m (2 cases)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée (1/round)]], [[Moine unchained#PURETEPHYSIQUE|pureté
+      physique]]
+    </td>
+    <td>+5/+5</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+3 m (2 cases)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]
+    </td>
+    <td>+6/+6/+1</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+6 m (4 cases)</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Moine unchained#RESERVEDEKI|frappe ki (argent/fer froid)]]</td>
+    <td>+7/+7/+2</td>
+    <td>1d8</td>
+    <td>+1</td>
+    <td>+6 m (4 cases)</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td>
+    <td>+8/+8/+3</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+6 m (4 cases)</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Moine unchained#ESQUIVESURNATURELLE|esquive surnaturelle]], [[Moine unchained#FRAPPESPECIALISEE|frappe
+      spécialisée]]
+    </td>
+    <td>+9/+9/+4</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+9 m (6 cases)</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]],</br>
+      [[Moine unchained#RESERVEDEKI|frappe ki (loyale)]]
+    </td>
+    <td>+10/+10/+5</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+9 m (6 cases)</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Moine unchained#DELUGEDECOUPS|déluge de coups (attaque supplémentaire)]]</td>
+    <td>+11/+11/+11/+6/+1</td>
+    <td>1d10</td>
+    <td>+2</td>
+    <td>+9 m (6 cases)</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]</td>
+    <td>+12/+12/+12/+7/+2</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+12 m (8 cases)</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée]],</br> [[Moine
+      unchained#LANGUEDUSOLEILETDELALUNE|langue du soleil et de la lune]]
+    </td>
+    <td>+13/+13/+13/+8/+3</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+12 m (8 cases)</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]
+    </td>
+    <td>+14/+14/+14/+9/+4</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+12 m (8 cases)</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée (2/round)]]</td>
+    <td>+15/+15/+15/+10/+5</td>
+    <td>2d6</td>
+    <td>+3</td>
+    <td>+15 m (10 cases)</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]], [[Moine unchained#RESERVEDEKI|frappe ki (adamantuim)]]
+    </td>
+    <td>+16/+16/+16/+11/+6/+1</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+15 m (10 cases)</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Moine unchained#FRAPPESPECIALISEE|frappe spécialisée]], [[Moine unchained#ETERNELLEJEUNESSE|éternelle
+      jeunesse]]
+    </td>
+    <td>+17/+17/+17/+12/+7/+2</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+15 m (10 cases)</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Moine unchained#DONSUPPLEMENTAIRE|don supplémentaire]], [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]
+    </td>
+    <td>+18/+18/+18/+13/+8/+3</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+18 m (12 cases)</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Moine unchained#PURETEMENTALE|pureté mentale]]</td>
+    <td>+19/+19/+19/+14/+9/+4</td>
+    <td>2d8</td>
+    <td>+4</td>
+    <td>+18 m (12 cases)</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]], [[Moine unchained#PERFECTIONDELETRE|perfection de l'être]]
+    </td>
+    <td>+20/+20/+20/+15/+10/+5</td>
+    <td>2d10</td>
+    <td>+5</td>
+    <td>+18 m (12 cases)</td>
+  </tr>
+  <tr>
+    <td CLASS="note" COLSPAN="10">
+      (*) Il s'agit de la valeur pour les moines de taille M. Voir le texte pour les moines de taille P ou G.
+    </td>
+  </tr>
+</table>
 
 
 **Alignement.** N’importe quel alignement Loyal.
@@ -66,10 +359,19 @@ L’attaque à mains nues du moine est considérée à la fois comme une arme ma
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><caption>Dégâts à mains nues des moines  
- de taille P ou G</caption><tr CLASS="titre"><td>Niveau</td><td>Dégâts  
+<table CLASS="tablo">
+  <caption>Dégâts à mains nues des moines  
+ de taille P ou G</caption>
+  <tr CLASS="titre"><td>Niveau</td><td>Dégâts  
  (taille P)</td><td>Dégâts  
- (taille G)</td></tr><tr CLASS="premier"><td>1–3</td><td>1d4</td><td>1d8</td></tr><tr CLASS="alt"><td>4–7</td><td>1d6</td><td>2d6</td></tr><tr><td>8–11</td><td>1d8</td><td>2d8</td></tr><tr CLASS="alt"><td>12–15</td><td>1d10</td><td>3d6</td></tr><tr><td>16–19</td><td>2d6</td><td>3d8</td></tr><tr CLASS="alt"><td>20</td><td>2d8</td><td>4d8</td></tr></table>
+ (taille G)</td></tr>
+  <tr CLASS="premier"><td>1–3</td><td>1d4</td><td>1d8</td></tr>
+  <tr CLASS="alt"><td>4–7</td><td>1d6</td><td>2d6</td></tr>
+  <tr><td>8–11</td><td>1d8</td><td>2d8</td></tr>
+  <tr CLASS="alt"><td>12–15</td><td>1d10</td><td>3d6</td></tr>
+  <tr><td>16–19</td><td>2d6</td><td>3d8</td></tr>
+  <tr CLASS="alt"><td>20</td><td>2d8</td><td>4d8</td></tr>
+</table>
 
 </center>
 </div></div>

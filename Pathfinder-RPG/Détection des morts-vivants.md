@@ -38,7 +38,13 @@ Troisième [[round]] : intensité et emplacement de chacune des auras. Si une au
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>DV du mort-vivant</td><td>Intensité de l’aura</td><td>Persistance</td></tr><tr CLASS="premier"><td>1 ou moins</td><td>Faible</td><td>1d6 [[round|rounds]]</td></tr><tr CLASS="alt"><td>2–4</td><td>Modérée</td><td>1d6 minutes</td></tr><tr><td>5–10</td><td>Puissante</td><td>1d6x10 minutes</td></tr><tr CLASS="alt"><td>11 ou plus</td><td>Surpuissante</td><td>1d6 jours</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>DV du mort-vivant</td><td>Intensité de l’aura</td><td>Persistance</td></tr>
+  <tr CLASS="premier"><td>1 ou moins</td><td>Faible</td><td>1d6 [[round|rounds]]</td></tr>
+  <tr CLASS="alt"><td>2–4</td><td>Modérée</td><td>1d6 minutes</td></tr>
+  <tr><td>5–10</td><td>Puissante</td><td>1d6x10 minutes</td></tr>
+  <tr CLASS="alt"><td>11 ou plus</td><td>Surpuissante</td><td>1d6 jours</td></tr>
+</table>
 
 </center>
 

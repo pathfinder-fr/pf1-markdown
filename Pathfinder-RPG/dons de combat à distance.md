@@ -12,7 +12,96 @@ Categories:
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Style de combat : Combat à distance</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td CLASS="gauche" WIDTH="25%">Conditions</td><td CLASS="gauche" WIDTH="45%">Avantages</td></tr><tr CLASS="premier"><td>[[Maîtrise du tir à bout portant]]<sup>APG</sup>*</td><td CLASS="gauche">[[Spécialisation martiale]] avec l’[[arme à distance]] choisie</td><td CLASS="gauche">Attaquer avec une [[arme à distance]] ne provoque plus d’[[attaque dopportunité|attaque d’opportunité]]</td></tr><tr CLASS="premier"><td>[[Tir à bout portant]]*</td><td CLASS="gauche">-</td><td CLASS="gauche">+1 à l’attaque et aux dégâts sur les cibles distantes de moins de 9 m (6 {s:c})</td></tr><tr><td>&emsp;[[Rechargement rapide]]*</td><td CLASS="gauche">Maniement de l’arme (arbalète)</td><td CLASS="gauche">Rechargement rapide d’une arbalète</td></tr><tr><td>&emsp;&emsp;[[Maîtrise des arbalètes]]<sup>APG</sup>*</td><td CLASS="gauche">[[Dex]] 15, [[Rechargement rapide]], [[Tir rapide]]</td><td CLASS="gauche">Recharger une arbalète par une [[action rapide]], permet les [[attaque à outrance|attaques à outrance]]</td></tr><tr><td>&emsp;[[Tir de loin]]*</td><td CLASS="gauche">[[Tir à bout portant]]</td><td CLASS="gauche">Réduits les [[attaque à distance|malus de distance]] de moitié</td></tr><tr><td>&emsp;[[Tir de précision]]*</td><td CLASS="gauche">[[Tir à bout portant]]</td><td CLASS="gauche">Pas de malus pour tirer dans la mêlée</td></tr><tr><td>&emsp;&emsp;[[Science du tir de précision]]*</td><td CLASS="gauche">[[Dex]] 19, [[BBA]] +11, [[Tir à bout portant]], [[Tir de précision]]</td><td CLASS="gauche">Pas de pourcentage de [[camouflage]] ni d’[[abri]] contre les attaques à distance</td></tr><tr><td>&emsp;&emsp;&emsp;[[Viser juste]]*</td><td CLASS="gauche">[[Science du tir de précision]], [[BBA]] +16</td><td CLASS="gauche">Pas de bonus d’armure ni de bouclier contre une attaque à distance</td></tr><tr><td>&emsp;&emsp;[[Tir avec concentration]]<sup>APG</sup>*</td><td CLASS="gauche">[[Int]] 13, [[Tir de précision]]</td><td CLASS="gauche">Ajouter le modificateur d’[[Intelligence]] aux dégâts avec les arcs et les arbalètes</td></tr><tr><td>&emsp;[[Tir en mouvement]]*</td><td CLASS="gauche">[[Dex]] 13, [[Souplesse du serpent]], [[Tir à bout portant]], [[BBA]] +4</td><td CLASS="gauche">Effectuer une [[attaque à distance]] pendant un déplacement</td></tr><tr><td>&emsp;&emsp;[[Tir en retraite]]<sup>APG</sup>*</td><td CLASS="gauche">[[Tir en mouvement]], [[BBA]] +6</td><td CLASS="gauche">Effectuer une [[attaque à distance]] pendant une [[retraite (action)|retraite]]</td></tr><tr><td>&emsp;[[Tir perturbateur]]<sup>APG</sup>*</td><td CLASS="gauche">[[Dex]] 13, [[Tir à bout portant]], [[guerrier]] niveau 6</td><td CLASS="gauche">Les [[attaque à distance|attaques à distance]] augmentent le [[DD]] des [[test de concentration|tests de Concentration]] des ennemis</td></tr><tr><td>&emsp;[[Tir rapide]]*</td><td CLASS="gauche">[[Dex]] 13, [[Tir à bout portant]]</td><td CLASS="gauche">Une [[attaque à distance]] supplémentaire</td></tr><tr><td>&emsp;&emsp;[[Feu nourri]]*</td><td CLASS="gauche">[[Dex]] 17, [[Tir rapide]], [[BBA]] +6</td><td CLASS="gauche">Tir de deux flèches à la fois</td></tr><tr CLASS="premier"><td>[[Viser]]*</td><td CLASS="gauche">[[Dex]] 13, [[BBA]] +1</td><td CLASS="gauche">Échange le bonus d’[[attaque à distance]] contre un bonus aux dégâts</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Style de combat : Combat à distance</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td CLASS="gauche" WIDTH="25%">Conditions</td>
+    <td CLASS="gauche" WIDTH="45%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maîtrise du tir à bout portant]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Spécialisation martiale]] avec l’[[arme à distance]] choisie</td>
+    <td CLASS="gauche">
+      Attaquer avec une [[arme à distance]] ne provoque plus d’[[attaque dopportunité|attaque d’opportunité]]
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tir à bout portant]]*</td>
+    <td CLASS="gauche">-</td>
+    <td CLASS="gauche">+1 à l’attaque et aux dégâts sur les cibles distantes de moins de 9 m (6 {s:c})</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Rechargement rapide]]*</td>
+    <td CLASS="gauche">Maniement de l’arme (arbalète)</td>
+    <td CLASS="gauche">Rechargement rapide d’une arbalète</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Maîtrise des arbalètes]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Dex]] 15, [[Rechargement rapide]], [[Tir rapide]]</td>
+    <td CLASS="gauche">
+      Recharger une arbalète par une [[action rapide]], permet les [[attaque à outrance|attaques à outrance]]
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Tir de loin]]*</td>
+    <td CLASS="gauche">[[Tir à bout portant]]</td>
+    <td CLASS="gauche">Réduits les [[attaque à distance|malus de distance]] de moitié</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Tir de précision]]*</td>
+    <td CLASS="gauche">[[Tir à bout portant]]</td>
+    <td CLASS="gauche">Pas de malus pour tirer dans la mêlée</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Science du tir de précision]]*</td>
+    <td CLASS="gauche">[[Dex]] 19, [[BBA]] +11, [[Tir à bout portant]], [[Tir de précision]]</td>
+    <td CLASS="gauche">Pas de pourcentage de [[camouflage]] ni d’[[abri]] contre les attaques à distance</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;&emsp;[[Viser juste]]*</td>
+    <td CLASS="gauche">[[Science du tir de précision]], [[BBA]] +16</td>
+    <td CLASS="gauche">Pas de bonus d’armure ni de bouclier contre une attaque à distance</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Tir avec concentration]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Int]] 13, [[Tir de précision]]</td>
+    <td CLASS="gauche">Ajouter le modificateur d’[[Intelligence]] aux dégâts avec les arcs et les arbalètes</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Tir en mouvement]]*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Souplesse du serpent]], [[Tir à bout portant]], [[BBA]] +4</td>
+    <td CLASS="gauche">Effectuer une [[attaque à distance]] pendant un déplacement</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Tir en retraite]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Tir en mouvement]], [[BBA]] +6</td>
+    <td CLASS="gauche">Effectuer une [[attaque à distance]] pendant une [[retraite (action)|retraite]]</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Tir perturbateur]]<sup>APG</sup>*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Tir à bout portant]], [[guerrier]] niveau 6</td>
+    <td CLASS="gauche">
+      Les [[attaque à distance|attaques à distance]] augmentent le [[DD]] des [[test de concentration|tests de
+      Concentration]] des ennemis
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Tir rapide]]*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[Tir à bout portant]]</td>
+    <td CLASS="gauche">Une [[attaque à distance]] supplémentaire</td>
+  </tr>
+  <tr>
+    <td>&emsp;&emsp;[[Feu nourri]]*</td>
+    <td CLASS="gauche">[[Dex]] 17, [[Tir rapide]], [[BBA]] +6</td>
+    <td CLASS="gauche">Tir de deux flèches à la fois</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Viser]]*</td>
+    <td CLASS="gauche">[[Dex]] 13, [[BBA]] +1</td>
+    <td CLASS="gauche">Échange le bonus d’[[attaque à distance]] contre un bonus aux dégâts</td>
+  </tr>
+</table>
 
 </center>
 *Les dons marqués de <sup>APG</sup> proviennent du Manuel des Joueurs - Règles Avancées.*   

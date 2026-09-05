@@ -22,7 +22,43 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements génériques</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-02</td><td>[[Évènements dintermède#Coup de chance(Évènements des bâtiments)|Coup de chance]]</td></tr><tr><td>03-08</td><td>[[Évènements dintermède#Journée reposante(Évènements des bâtiments)|Journée reposante]]</td></tr><tr><td>09-12</td><td>[[Évènements dintermède#Beau temps(Évènements des bâtiments)|Beau temps]]</td></tr><tr><td>13-15</td><td>[[Évènements dintermède#Visite d’une personnalité(Évènements des bâtiments)|Visite d’une personnalité]]</td></tr><tr><td>16-65</td><td>[[Évènements dintermède#Évènement lié à un bâtiment particulier(Évènements des bâtiments)|Évènement lié à un bâtiment spécifique]]</td></tr><tr><td>66-73</td><td>[[Évènements dintermède#Commérages(Évènements des bâtiments)|Commérages]]</td></tr><tr><td>74-77</td><td>[[Évènements dintermède#Mauvais temps(Évènements des bâtiments)|Mauvais temps]]</td></tr><tr><td>78-80</td><td>[[Évènements dintermède#Incendie(Évènements des bâtiments)|Incendie]]</td></tr><tr><td>81-82</td><td>[[Évènements dintermède#Accident mortel(Évènements des bâtiments)|Accident mortel]]</td></tr><tr><td>83-84</td><td>[[Évènements dintermède#Infestation(Évènements des bâtiments)|Infestation]]</td></tr><tr><td>85-88</td><td>[[Évènements dintermède#Concurrence(Évènements des bâtiments)|Concurrence]]</td></tr><tr><td>89-90</td><td>[[Évènements dintermède#Maladie(Évènements des bâtiments)|Maladie]]</td></tr><tr><td>91-94</td><td>[[Évènements dintermède#Taxes(Évènements des bâtiments)|Taxes]]</td></tr><tr><td>95-98</td><td>[[Évènements dintermède#Activité criminelle(Évènements des bâtiments)|Activité criminelle]]</td></tr><tr><td>99-100</td><td>Lancez deux fois les dés</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements génériques</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-02</td>
+    <td>[[Évènements dintermède#Coup de chance(Évènements des bâtiments)|Coup de chance]]</td>
+  </tr>
+  <tr>
+    <td>03-08</td>
+    <td>[[Évènements dintermède#Journée reposante(Évènements des bâtiments)|Journée reposante]]</td>
+  </tr>
+  <tr><td>09-12</td><td>[[Évènements dintermède#Beau temps(Évènements des bâtiments)|Beau temps]]</td></tr>
+  <tr>
+    <td>13-15</td>
+    <td>[[Évènements dintermède#Visite d’une personnalité(Évènements des bâtiments)|Visite d’une personnalité]]</td>
+  </tr>
+  <tr>
+    <td>16-65</td>
+    <td>
+      [[Évènements dintermède#Évènement lié à un bâtiment particulier(Évènements des bâtiments)|Évènement lié à un
+      bâtiment spécifique]]
+    </td>
+  </tr>
+  <tr><td>66-73</td><td>[[Évènements dintermède#Commérages(Évènements des bâtiments)|Commérages]]</td></tr>
+  <tr><td>74-77</td><td>[[Évènements dintermède#Mauvais temps(Évènements des bâtiments)|Mauvais temps]]</td></tr>
+  <tr><td>78-80</td><td>[[Évènements dintermède#Incendie(Évènements des bâtiments)|Incendie]]</td></tr>
+  <tr><td>81-82</td><td>[[Évènements dintermède#Accident mortel(Évènements des bâtiments)|Accident mortel]]</td></tr>
+  <tr><td>83-84</td><td>[[Évènements dintermède#Infestation(Évènements des bâtiments)|Infestation]]</td></tr>
+  <tr><td>85-88</td><td>[[Évènements dintermède#Concurrence(Évènements des bâtiments)|Concurrence]]</td></tr>
+  <tr><td>89-90</td><td>[[Évènements dintermède#Maladie(Évènements des bâtiments)|Maladie]]</td></tr>
+  <tr><td>91-94</td><td>[[Évènements dintermède#Taxes(Évènements des bâtiments)|Taxes]]</td></tr>
+  <tr>
+    <td>95-98</td>
+    <td>[[Évènements dintermède#Activité criminelle(Évènements des bâtiments)|Activité criminelle]]</td>
+  </tr>
+  <tr><td>99-100</td><td>Lancez deux fois les dés</td></tr>
+</table>
 
 </div></div>{s:Reference|Accident mortel(Évènements des bâtiments)}**Accident mortel.** Quelqu’un est victime d’un accident épouvantable dans le bâtiment de votre personnage ou à proximité. Lancez 1d6 : entre 1 et 4 la victime est un [[Salles et employés#Employés|employé]] déterminé au hasard ou un résident du bâtiment, entre 5 et 6, la victime est un visiteur ou un passant. Le [[MJ]] détermine la nature de l’accident. La victime agonisante est gravement blessée. Il survit si quelqu’un réussit un test de [[Premiers secours]] [[DD]] 15 ou lui prodigue des soins magiques. Si la victime succombe, votre personnage perd 1d3 points d’[[Intermèdes#Influence|Influence]].
 
@@ -57,7 +93,31 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de l’auberge</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-15</td><td>[[Évènements dintermède#Votre établissement défraye la chronique(Évènements de l’auberge)|Votre établissement défraye la chronique]]</td></tr><tr><td>16-30</td><td>[[Évènements dintermède#Rupture de stock(Évènements de l’auberge)|Rupture de stock]]</td></tr><tr><td>31-55</td><td>[[Évènements dintermède#Évènements de la taverne|Effectuez un jet de dés sur la table des évènements de la Taverne]]</td></tr><tr><td>56-75</td><td>[[Évènements dintermède#Client étrange(Évènements de l’auberge)|Client étrange]]</td></tr><tr><td>76-95</td><td>[[Évènements dintermède#Vol(Évènements de l’auberge)|Vol]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Explosion de violence(Évènements de l’auberge)|Explosion de violence]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de l’auberge</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-15</td>
+    <td>
+      [[Évènements dintermède#Votre établissement défraye la chronique(Évènements de l’auberge)|Votre établissement
+      défraye la chronique]]
+    </td>
+  </tr>
+  <tr><td>16-30</td><td>[[Évènements dintermède#Rupture de stock(Évènements de l’auberge)|Rupture de stock]]</td></tr>
+  <tr>
+    <td>31-55</td>
+    <td>
+      [[Évènements dintermède#Évènements de la taverne|Effectuez un jet de dés sur la table des évènements de la
+      Taverne]]
+    </td>
+  </tr>
+  <tr><td>56-75</td><td>[[Évènements dintermède#Client étrange(Évènements de l’auberge)|Client étrange]]</td></tr>
+  <tr><td>76-95</td><td>[[Évènements dintermède#Vol(Évènements de l’auberge)|Vol]]</td></tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Explosion de violence(Évènements de l’auberge)|Explosion de violence]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Client étrange(Évènements de l’auberge)}**Client étrange.** Après avoir été réveillé lors d’une nuit orageuse par quelques coups frappés à la porte principale, votre personnage a découvert un mystérieux étranger qui patientait sur le perron de son auberge. Il y a 50% de chances que ce client soit un simple voyageur à la recherche d’un abri pour se protéger du mauvais temps, 25% de chances qu’il vous offre un cadeau en échange du refuge (ce qui permet de choisir entre un gain de 1d4 points de [[Intermèdes#Marchandises|Marchandises]] ou d’[[Intermèdes#Influence|Influence]]) et 25% de chances qu’il ait des intentions malveillantes (le cas échéant, le MJ devrait préparer une rencontre de combat adaptée au niveau de votre personnage).
 
@@ -74,7 +134,41 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la bibliothèque</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-30</td><td>[[Évènements dintermède#Importante acquisition de livres(Évènements de la bibliothèque)|Importante acquisition de livres]]</td></tr><tr><td>31-45</td><td>[[Évènements dintermède#Écrivain célèbre(Évènements de la bibliothèque)|Écrivain célèbre]]</td></tr><tr><td>46-50</td><td>[[Évènements dintermède#Visiteur étrange(Évènements de la bibliothèque)|Visiteur étrange]]</td></tr><tr><td>51-55</td><td>[[Évènements dintermède#Trouvaille rare(Évènements de la bibliothèque)|Trouvaille rare]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Incendie(Évènements de la bibliothèque)|Incendie]]</td></tr><tr><td>71-75</td><td>[[Évènements dintermède#Infestation de vers du papier(Évènements de la bibliothèque)|Infestation de vers du papier]]</td></tr><tr><td>76-100</td><td>[[Évènements dintermède#Vol de livres(Évènements de la bibliothèque)|Vol de livres]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la bibliothèque</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-30</td>
+    <td>
+      [[Évènements dintermède#Importante acquisition de livres(Évènements de la bibliothèque)|Importante acquisition
+      de livres]]
+    </td>
+  </tr>
+  <tr>
+    <td>31-45</td>
+    <td>[[Évènements dintermède#Écrivain célèbre(Évènements de la bibliothèque)|Écrivain célèbre]]</td>
+  </tr>
+  <tr>
+    <td>46-50</td>
+    <td>[[Évènements dintermède#Visiteur étrange(Évènements de la bibliothèque)|Visiteur étrange]]</td>
+  </tr>
+  <tr>
+    <td>51-55</td>
+    <td>[[Évènements dintermède#Trouvaille rare(Évènements de la bibliothèque)|Trouvaille rare]]</td>
+  </tr>
+  <tr><td>56-70</td><td>[[Évènements dintermède#Incendie(Évènements de la bibliothèque)|Incendie]]</td></tr>
+  <tr>
+    <td>71-75</td>
+    <td>
+      [[Évènements dintermède#Infestation de vers du papier(Évènements de la bibliothèque)|Infestation de vers du
+      papier]]
+    </td>
+  </tr>
+  <tr>
+    <td>76-100</td>
+    <td>[[Évènements dintermède#Vol de livres(Évènements de la bibliothèque)|Vol de livres]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Écrivain célèbre(Évènements de la bibliothèque)}**Écrivain célèbre.** Un écrivain réputé souhaite se rendre dans la bibliothèque de votre personnage pour effectuer des recherches pendant 2d6 jours. Votre personnage gagne 1 point d'[[Intermèdes#Influence|Influence]] pour chaque jour pendant lequel l’écrivain travaille. Ce dernier quitte prématurément les lieux si un évènement fait perdre à votre personnage des points de[[Intermèdes#Marchandises|Marchandises]] ou de[[Intermèdes#Magie|Magie]]. Le cas échéant, votre personnage doit réussir un test de [[Diplomatie]] ou de [[Bluff]] [[DD]] 20 pour éviter de perdre le double des points d'[[Intermèdes#Influence|Influence]] gagnés grâce à la visite de l’écrivain à cause de rumeurs négatives
 
@@ -95,7 +189,23 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la boutique</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-30</td><td>[[Évènements dintermède#Journée chargée(Évènements de la boutique)|Journée chargée]]</td></tr><tr><td>31-45</td><td>[[Évènements dintermède#Journée ennuyeuse(Évènements de la boutique)|Journée ennuyeuse]]</td></tr><tr><td>46-60</td><td>[[Évènements dintermède#Vol à l’étalage(Évènements de la boutique)|Vol à l’étalage]]</td></tr><tr><td>61-75</td><td>[[Évènements dintermède#Escroc(Évènements de la boutique)|Escroc]]</td></tr><tr><td>76-90</td><td>[[Évènements dintermède#Cambriolage(Évènements de la boutique)|Cambriolage]]</td></tr><tr><td>91-95</td><td>[[Évènements dintermède#Racket(Évènements de la boutique)|Racket]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Vol qualifié(Évènements de la boutique)|Vol qualifié]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la boutique</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-30</td>
+    <td>[[Évènements dintermède#Journée chargée(Évènements de la boutique)|Journée chargée]]</td>
+  </tr>
+  <tr>
+    <td>31-45</td>
+    <td>[[Évènements dintermède#Journée ennuyeuse(Évènements de la boutique)|Journée ennuyeuse]]</td>
+  </tr>
+  <tr><td>46-60</td><td>[[Évènements dintermède#Vol à l’étalage(Évènements de la boutique)|Vol à l’étalage]]</td></tr>
+  <tr><td>61-75</td><td>[[Évènements dintermède#Escroc(Évènements de la boutique)|Escroc]]</td></tr>
+  <tr><td>76-90</td><td>[[Évènements dintermède#Cambriolage(Évènements de la boutique)|Cambriolage]]</td></tr>
+  <tr><td>91-95</td><td>[[Évènements dintermède#Racket(Évènements de la boutique)|Racket]]</td></tr>
+  <tr><td>96-100</td><td>[[Évènements dintermède#Vol qualifié(Évènements de la boutique)|Vol qualifié]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Cambriolage(Évènements de la boutique)}**Cambriolage.** Des voleurs ont tenté de s’introduire dans la boutique de votre personnage pour s’emparer de certains objets. Votre personnage peut immédiatement dépenser 1d6 points d'[[Intermèdes#Influence|Influence]] pour faire avorter leur tentative. Sinon, effectuez un test de [[Perception]] ou d’[[Intimidation]] [[DD]] 25. En cas de réussite, les défenses du bâtiment fonctionnent correctement, les voleurs sont appréhendés et votre personnage gagne 1d2 points d'[[Intermèdes#Influence|Influence]]. En cas d’échec, votre personnage perd 1d4 points de[[Intermèdes#Marchandises|Marchandises]]. Le MJ peut se servir de cet évènement comme idée d’aventure pour permettre à votre personnage de pourchasser et attraper luimême les voleurs.
 
@@ -116,7 +226,40 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la boutique de magie</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-25</td><td>[[Évènements dintermède#Aventurier naïf(Évènements de la boutique de magie)|Aventurier naïf]]</td></tr><tr><td>26-30</td><td>[[Évènements dintermède#Évènements de la boutique|Effectuez un jet sur la table des évènements de la boutique]]</td></tr><tr><td>31-35</td><td>[[Évènements dintermède#Évènements de l’école de magie|Effectuez un jet sur la table des évènements de l’école de magie]]</td></tr><tr><td>36-50</td><td>[[Évènements dintermède#Magie inattendue(Évènements de la boutique de magie)|Magie inattendue]]</td></tr><tr><td>51-70</td><td>[[Évènements dintermède#Cambriolage(Évènements de la boutique de magie)|Cambriolage]]</td></tr><tr><td>71-100</td><td>[[Évènements dintermède#Citoyens inquiets(Évènements de la boutique de magie)|Citoyens inquiets]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la boutique de magie</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-25</td>
+    <td>[[Évènements dintermède#Aventurier naïf(Évènements de la boutique de magie)|Aventurier naïf]]</td>
+  </tr>
+  <tr>
+    <td>26-30</td>
+    <td>
+      [[Évènements dintermède#Évènements de la boutique|Effectuez un jet sur la table des évènements de la
+      boutique]]
+    </td>
+  </tr>
+  <tr>
+    <td>31-35</td>
+    <td>
+      [[Évènements dintermède#Évènements de l’école de magie|Effectuez un jet sur la table des évènements de l’école
+      de magie]]
+    </td>
+  </tr>
+  <tr>
+    <td>36-50</td>
+    <td>[[Évènements dintermède#Magie inattendue(Évènements de la boutique de magie)|Magie inattendue]]</td>
+  </tr>
+  <tr>
+    <td>51-70</td>
+    <td>[[Évènements dintermède#Cambriolage(Évènements de la boutique de magie)|Cambriolage]]</td>
+  </tr>
+  <tr>
+    <td>71-100</td>
+    <td>[[Évènements dintermède#Citoyens inquiets(Évènements de la boutique de magie)|Citoyens inquiets]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Aventurier naïf(Évènements de la boutique de magie)}**Aventurier naïf.** Un aventurier se rend dans la boutique de votre personnage pour y vendre un objet magique qu’il a mal identifié ou dont il ignore la véritable nature. La plupart du temps, c’est un objet mineur (d’une valeur inférieure à 1 000 po), mais il y a 10% de chances que cet objet déterminé aléatoirement soit d’une grande valeur (jusqu’à 4 000 po). L’aventurier propose de vendre l’objet à votre personnage pour la moitié de sa valeur estimée de manière erronée (par exemple, s’il croit qu’une potion de soins importants est d’après lui une potion de soins modérés, il propose de la vendre contre 150 po au lieu du prix de vente normal de 375 po). Si votre personnage informe l’aventurier de la véritable valeur et de la nature de l’objet avant de lui acheter (en modifiant son prix d’achat en conséquence), la réputation de son honnêteté se propage et il gagne 2d6 points d'[[Intermèdes#Influence|Influence]]. Il y a 50% de chances que l’aventurier désormais informé décide de conserver l’objet et 50% de chances qu’il décide tout de même de le vendre au prix d’achat normal.
 
@@ -131,7 +274,28 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du château</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-20</td><td>[[Évènements dintermède#Fête grandiose(Évènements du château)|Fête grandiose]]</td></tr><tr><td>21-35</td><td>[[Évènements dintermède#Nouveau serviteur(Évènements du château)|Nouveau serviteur]]</td></tr><tr><td>36-55</td><td>[[Évènements dintermède#Défenses inappropriées(Évènements du château)|Défenses inappropriées]]</td></tr><tr><td>56-75</td><td>[[Évènements dintermède#Exercice d’entraînement(Évènements du château)|Exercice d’entraînement]]</td></tr><tr><td>76-85</td><td>[[Évènements dintermède#Bouffon désagréable(Évènements du château)|Bouffon désagréable]]</td></tr><tr><td>86-100</td><td>[[Évènements dintermède#Révolte(Évènements du château)|Révolte]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du château</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-20</td>
+    <td>[[Évènements dintermède#Fête grandiose(Évènements du château)|Fête grandiose]]</td>
+  </tr>
+  <tr><td>21-35</td><td>[[Évènements dintermède#Nouveau serviteur(Évènements du château)|Nouveau serviteur]]</td></tr>
+  <tr>
+    <td>36-55</td>
+    <td>[[Évènements dintermède#Défenses inappropriées(Évènements du château)|Défenses inappropriées]]</td>
+  </tr>
+  <tr>
+    <td>56-75</td>
+    <td>[[Évènements dintermède#Exercice d’entraînement(Évènements du château)|Exercice d’entraînement]]</td>
+  </tr>
+  <tr>
+    <td>76-85</td>
+    <td>[[Évènements dintermède#Bouffon désagréable(Évènements du château)|Bouffon désagréable]]</td>
+  </tr>
+  <tr><td>86-100</td><td>[[Évènements dintermède#Révolte(Évènements du château)|Révolte]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Bouffon désagréable(Évènements du château)}**Bouffon désagréable.** Pendant les divertissements proposés par le bouffon de votre personnage, les invités sont stupéfaits par les passages plus calomnieux de son spectacle et votre personnage doit prendre une décision difficile quant à ce barde mal embouché mais néanmoins populaire. Si votre personnage souhaite faire de son cas un exemple (en le renvoyant, en le jetant en prison ou en l’exécutant), il perd 1d6 points d'[[Intermèdes#Influence|Influence]] car certains de ses pairs sont fort mécontents. S’il ne prend pas l’insulte au sérieux, il gagne le respect de ses serviteurs et des gens du peuple, mais perd 1 point d'[[Intermèdes#Influence|Influence]] et 1d3 points de[[Intermèdes#Travail|Travail]].
 
@@ -150,7 +314,44 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de l’école de bardes</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Visite d’un maître(Évènements de l’école de bardes)|Visite d’un maître]]</td></tr><tr><td>11-25</td><td>[[Évènements dintermède#Prodige(Évènements de l’école de bardes)|Prodige]]</td></tr><tr><td>26-30</td><td>[[Évènements dintermède#Évènements de l’école de magie|Effectuez un jet sur la table des évènements de l’école de magie]]</td></tr><tr><td>31-50</td><td>[[Évènements dintermède#Rupture de fournitures(Évènements de l’école de bardes)|Rupture de fournitures]]</td></tr><tr><td>51-60</td><td>[[Évènements dintermède#Scène abimée(Évènements de l’école de bardes)|Scène abimée]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Instrument dérobé(Évènements de l’école de bardes)|Instrument dérobé]]</td></tr><tr><td>71-75</td><td>[[Évènements dintermède#Élève doué mais défaillant(Évènements de l’école de bardes)|Élève doué mais défaillant]]</td></tr><tr><td>76-85</td><td>[[Évènements dintermède#Vandalisme(Évènements de l’école de bardes)|Vandalisme]]</td></tr><tr><td>86-95</td><td>[[Évènements dintermède#Élève doué(Évènements de l’école de bardes)|Élève doué]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Bizutage qui dérape(Évènements de l’école de bardes)|Bizutage qui dérape]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de l’école de bardes</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Visite d’un maître(Évènements de l’école de bardes)|Visite d’un maître]]</td>
+  </tr>
+  <tr><td>11-25</td><td>[[Évènements dintermède#Prodige(Évènements de l’école de bardes)|Prodige]]</td></tr>
+  <tr>
+    <td>26-30</td>
+    <td>
+      [[Évènements dintermède#Évènements de l’école de magie|Effectuez un jet sur la table des évènements de l’école
+      de magie]]
+    </td>
+  </tr>
+  <tr>
+    <td>31-50</td>
+    <td>[[Évènements dintermède#Rupture de fournitures(Évènements de l’école de bardes)|Rupture de fournitures]]</td>
+  </tr>
+  <tr><td>51-60</td><td>[[Évènements dintermède#Scène abimée(Évènements de l’école de bardes)|Scène abimée]]</td></tr>
+  <tr>
+    <td>56-70</td>
+    <td>[[Évènements dintermède#Instrument dérobé(Évènements de l’école de bardes)|Instrument dérobé]]</td>
+  </tr>
+  <tr>
+    <td>71-75</td>
+    <td>
+      [[Évènements dintermède#Élève doué mais défaillant(Évènements de l’école de bardes)|Élève doué mais
+      défaillant]]
+    </td>
+  </tr>
+  <tr><td>76-85</td><td>[[Évènements dintermède#Vandalisme(Évènements de l’école de bardes)|Vandalisme]]</td></tr>
+  <tr><td>86-95</td><td>[[Évènements dintermède#Élève doué(Évènements de l’école de bardes)|Élève doué]]</td></tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Bizutage qui dérape(Évènements de l’école de bardes)|Bizutage qui dérape]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Bizutage qui dérape(Évènements de l’école de bardes)}**Bizutage qui dérape.** Cet évènement est similaire à celui des évènements de l’école de magie (voir page 127).
 
@@ -175,7 +376,42 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de l’école de magie</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Subvention inattendue(Évènements de l’école de magie)|Subvention inattendue]]</td></tr><tr><td>11-20</td><td>[[Évènements dintermède#Découverte d’un élève(Évènements de l’école de magie)|Découverte d’un élève]]</td></tr><tr><td>21-40</td><td>[[Évènements dintermède#Évènements de l’école militaire|Effectuez un jet sur la table des évènements de l’école militaire]]</td></tr><tr><td>41-45</td><td>[[Évènements dintermède#Élève rancunier(Évènements de l’école de magie)|Élève rancunier]]</td></tr><tr><td>46-70</td><td>[[Évènements dintermède#Gaspillage magique(Évènements de l’école de magie)|Gaspillage magique]]</td></tr><tr><td>71-80</td><td>[[Évènements dintermède#Expérience incontrôlable(Évènements de l’école de magie)|Expérience incontrôlable]]</td></tr><tr><td>81-90</td><td>[[Évènements dintermède#Explosion(Évènements de l’école de magie)|Explosion]]</td></tr><tr><td>91-100</td><td>[[Évènements dintermède#Bizutage qui dérape(Évènements de l’école de magie)|Bizutage qui dérape]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de l’école de magie</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Subvention inattendue(Évènements de l’école de magie)|Subvention inattendue]]</td>
+  </tr>
+  <tr>
+    <td>11-20</td>
+    <td>[[Évènements dintermède#Découverte d’un élève(Évènements de l’école de magie)|Découverte d’un élève]]</td>
+  </tr>
+  <tr>
+    <td>21-40</td>
+    <td>
+      [[Évènements dintermède#Évènements de l’école militaire|Effectuez un jet sur la table des évènements de
+      l’école militaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>41-45</td>
+    <td>[[Évènements dintermède#Élève rancunier(Évènements de l’école de magie)|Élève rancunier]]</td>
+  </tr>
+  <tr>
+    <td>46-70</td>
+    <td>[[Évènements dintermède#Gaspillage magique(Évènements de l’école de magie)|Gaspillage magique]]</td>
+  </tr>
+  <tr>
+    <td>71-80</td>
+    <td>[[Évènements dintermède#Expérience incontrôlable(Évènements de l’école de magie)|Expérience incontrôlable]]</td>
+  </tr>
+  <tr><td>81-90</td><td>[[Évènements dintermède#Explosion(Évènements de l’école de magie)|Explosion]]</td></tr>
+  <tr>
+    <td>91-100</td>
+    <td>[[Évènements dintermède#Bizutage qui dérape(Évènements de l’école de magie)|Bizutage qui dérape]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Bizutage qui dérape(Évènements de l’école de magie)}**Bizutage qui dérape.** L’un des élèves de l’établissement de votre personnage est victime d’une farce cruelle mise en œuvre par les autres étudiants. L’évènement de bizutage est dangereux et honteux, et votre personnage perd 1d6 points d'[[Intermèdes#Influence|Influence]] lorsque la communauté apprend ce qu’il s’est passé. Votre personnage doit réussir un test de Premiers secours ou d’[[Art de la magie]] [[DD]] 20 pour aider l’élève. En cas d’échec, ce dernier meurt ou est définitivement mutilé, et votre personnage perd à nouveau 2d6 points d'[[Intermèdes#Influence|Influence]], 1d6 points de[[Intermèdes#Travail|Travail]] et 1d3 points de[[Intermèdes#Magie|Magie]] alors qu’il doit gérer les tragiques conséquences de ce bizutage.
 
@@ -196,7 +432,35 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de l’école militaire</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Ancien élève désormais célèbre(Évènements de l’école militaire)|Ancien élève désormais célèbre]]</td></tr><tr><td>11-20</td><td>[[Évènements dintermède#Subvention inattendue(Évènements de l’école militaire)|Subvention inattendue]]</td></tr><tr><td>21-45</td><td>[[Évènements dintermède#Compétition(Évènements de l’école militaire)|Compétition]]</td></tr><tr><td>46-60</td><td>[[Évènements dintermède#Scandale(Évènements de l’école militaire)|Scandale]]</td></tr><tr><td>61-65</td><td>[[Évènements dintermède#Évènements de la tour du mage|Effectuez un jet sur la table des évènements de la tour du mage]]</td></tr><tr><td>66-80</td><td>[[Évènements dintermède#Élève trop gâté(Évènements de l’école militaire)|Élève trop gâté]]</td></tr><tr><td>81-100</td><td>[[Évènements dintermède#Duel(Évènements de l’école militaire)|Duel]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de l’école militaire</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>
+      [[Évènements dintermède#Ancien élève désormais célèbre(Évènements de l’école militaire)|Ancien élève désormais
+      célèbre]]
+    </td>
+  </tr>
+  <tr>
+    <td>11-20</td>
+    <td>[[Évènements dintermède#Subvention inattendue(Évènements de l’école militaire)|Subvention inattendue]]</td>
+  </tr>
+  <tr><td>21-45</td><td>[[Évènements dintermède#Compétition(Évènements de l’école militaire)|Compétition]]</td></tr>
+  <tr><td>46-60</td><td>[[Évènements dintermède#Scandale(Évènements de l’école militaire)|Scandale]]</td></tr>
+  <tr>
+    <td>61-65</td>
+    <td>
+      [[Évènements dintermède#Évènements de la tour du mage|Effectuez un jet sur la table des évènements de la tour
+      du mage]]
+    </td>
+  </tr>
+  <tr>
+    <td>66-80</td>
+    <td>[[Évènements dintermède#Élève trop gâté(Évènements de l’école militaire)|Élève trop gâté]]</td>
+  </tr>
+  <tr><td>81-100</td><td>[[Évènements dintermède#Duel(Évènements de l’école militaire)|Duel]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Ancien élève désormais célèbre(Évènements de l’école militaire)}**Ancien élève désormais célèbre.** Un ancien vétéran ou un héros apprécié, autrefois élève de l’école de votre personnage ou attaché d’une manière ou d’une autre à ses traditions, vient visiter l’établissement. L’ancien élève reste sur place pendant 2d6 jours, période pendant laquelle votre personnage gagne 1 point d'[[Intermèdes#Influence|Influence]] chaque jour. Votre personnage doit passer beaucoup de temps en compagnie du visiteur. S’il ne passe pas la majeure partie de son temps à discuter et à manger en sa compagnie, le visiteur s’ennuie et décide de quitter les lieux, ce qui provoque la perte de 2d6 points d'[[Intermèdes#Influence|Influence]].
 
@@ -215,7 +479,23 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de l’écurie</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-15</td><td>[[Évènements dintermède#Visite d’une personnalité(Évènements de l’écurie)|Visite d’une personnalité]]</td></tr><tr><td>16-30</td><td>[[Évènements dintermède#Requête urgente(Évènements de l’écurie)|Requête urgente]]</td></tr><tr><td>31-45</td><td>[[Évènements dintermède#Cheval enragé(Évènements de l’écurie)|Cheval enragé]]</td></tr><tr><td>46-65</td><td>[[Évènements dintermède#Prédateurs(Évènements de l’écurie)|Prédateurs]]</td></tr><tr><td>66-80</td><td>[[Évènements dintermède#Chevaux en fuite(Évènements de l’écurie)|Chevaux en fuite]]</td></tr><tr><td>81-95</td><td>[[Évènements dintermède#Voleurs de chevaux(Évènements de l’écurie)|Voleurs de chevaux]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Écurie incendiée(Évènements de l’écurie)|Écurie incendiée]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de l’écurie</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-15</td>
+    <td>[[Évènements dintermède#Visite d’une personnalité(Évènements de l’écurie)|Visite d’une personnalité]]</td>
+  </tr>
+  <tr><td>16-30</td><td>[[Évènements dintermède#Requête urgente(Évènements de l’écurie)|Requête urgente]]</td></tr>
+  <tr><td>31-45</td><td>[[Évènements dintermède#Cheval enragé(Évènements de l’écurie)|Cheval enragé]]</td></tr>
+  <tr><td>46-65</td><td>[[Évènements dintermède#Prédateurs(Évènements de l’écurie)|Prédateurs]]</td></tr>
+  <tr><td>66-80</td><td>[[Évènements dintermède#Chevaux en fuite(Évènements de l’écurie)|Chevaux en fuite]]</td></tr>
+  <tr>
+    <td>81-95</td>
+    <td>[[Évènements dintermède#Voleurs de chevaux(Évènements de l’écurie)|Voleurs de chevaux]]</td>
+  </tr>
+  <tr><td>96-100</td><td>[[Évènements dintermède#Écurie incendiée(Évènements de l’écurie)|Écurie incendiée]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Cheval enragé(Évènements de l’écurie)}**Cheval enragé.** L’un des chevaux de l’écurie de votre personnage devient enragé  ; il a senti la présence d’un prédateur, il n’apprécie pas la proximité d’un autre cheval ou quelqu’un a tenté de s’en emparer et de fuir avec, par exemple. Vous devez effectuer un test de [[Dressage]], d’[[Équitation]] ou d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] [[DD]] 25 pour calmer l’animal. En cas d’échec, le cheval devient fou furieux, ce qui provoque la perte de 1d3 points de[[Intermèdes#Marchandises|Marchandises]] et 1d2 points d'[[Intermèdes#Influence|Influence]]. De plus, il y a 25% de chances que cet incident soit immédiatement suivi par l’évènement Chevaux en fuite (voir ci-dessous).
 
@@ -236,7 +516,43 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la forge</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-15</td><td>[[Évènements dintermède#Commande spéciale(Évènements de la forge)|Commande spéciale]]</td></tr><tr><td>16-20</td><td>[[Évènements dintermède#Production inattendue d’un objet de maître(Évènements de la forge)|Production inattendue d’un objet de maître]]</td></tr><tr><td>21-25</td><td>[[Évènements dintermède#Métal exotique(Évènements de la forge)|Métal exotique]]</td></tr><tr><td>26-30</td><td>[[Évènements dintermède#Minerai précieux(Évènements de la forge)|Minerai précieux]]</td></tr><tr><td>31-35</td><td>[[Évènements dintermède#Évènements de la boutique|Effectuez un jet sur la table des évènements de la boutique]]</td></tr><tr><td>36-50</td><td>[[Évènements dintermède#Gaspillage de matériel(Évènements de la forge)|Gaspillage de matériel]]</td></tr><tr><td>51-65</td><td>[[Évènements dintermède#Problème de ravitaillement(Évènements de la forge)|Problème de ravitaillement]]</td></tr><tr><td>66-80</td><td>[[Évènements dintermède#Commission imposée(Évènements de la forge)|Commission imposée]]</td></tr><tr><td>81-100</td><td>[[Évènements dintermède#Accident mortel(Évènements de la forge)|Accident mortel]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la forge</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-15</td>
+    <td>[[Évènements dintermède#Commande spéciale(Évènements de la forge)|Commande spéciale]]</td>
+  </tr>
+  <tr>
+    <td>16-20</td>
+    <td>
+      [[Évènements dintermède#Production inattendue d’un objet de maître(Évènements de la forge)|Production
+      inattendue d’un objet de maître]]
+    </td>
+  </tr>
+  <tr><td>21-25</td><td>[[Évènements dintermède#Métal exotique(Évènements de la forge)|Métal exotique]]</td></tr>
+  <tr><td>26-30</td><td>[[Évènements dintermède#Minerai précieux(Évènements de la forge)|Minerai précieux]]</td></tr>
+  <tr>
+    <td>31-35</td>
+    <td>
+      [[Évènements dintermède#Évènements de la boutique|Effectuez un jet sur la table des évènements de la
+      boutique]]
+    </td>
+  </tr>
+  <tr>
+    <td>36-50</td>
+    <td>[[Évènements dintermède#Gaspillage de matériel(Évènements de la forge)|Gaspillage de matériel]]</td>
+  </tr>
+  <tr>
+    <td>51-65</td>
+    <td>[[Évènements dintermède#Problème de ravitaillement(Évènements de la forge)|Problème de ravitaillement]]</td>
+  </tr>
+  <tr>
+    <td>66-80</td>
+    <td>[[Évènements dintermède#Commission imposée(Évènements de la forge)|Commission imposée]]</td>
+  </tr>
+  <tr><td>81-100</td><td>[[Évènements dintermède#Accident mortel(Évènements de la forge)|Accident mortel]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Accident mortel(Évènements de la forge)}**Accident mortel.** Cet évènement est identique à [[Évènements dintermède#Accident mortel(Évènements des bâtiments)|celui du même nom]] décrit dans les évènements génériques des bâtiments, sauf qu’il y a également 25% de chances que l’accident provoque le début d’un incendie (comme l’évènement d’incendie de la même section).
 
@@ -259,7 +575,37 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de l’herboriste</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Découverte dangereuse(Évènements de l’herboriste)|Découverte dangereuse]]</td></tr><tr><td>11-30</td><td>[[Évènements dintermède#Évènements du laboratoire d’alchimiste|Effectuez un jet sur la table des évènements du laboratoire d’alchimie]]</td></tr><tr><td>31-55</td><td>[[Évènements dintermède#Remède de charlatan(Évènements de l’herboriste)|Remède de charlatan]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Concoction d’insomnie(Évènements de l’herboriste)|Concoction d’insomnie]]</td></tr><tr><td>71-80</td><td>[[Évènements dintermède#Nouveau stupéfiant(Évènements de l’herboriste)|Nouvel intoxicant]]</td></tr><tr><td>81-100</td><td>[[Évènements dintermède#Vapeurs nocives(Évènements de l’herboriste)|Vapeurs nocives]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de l’herboriste</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Découverte dangereuse(Évènements de l’herboriste)|Découverte dangereuse]]</td>
+  </tr>
+  <tr>
+    <td>11-30</td>
+    <td>
+      [[Évènements dintermède#Évènements du laboratoire d’alchimiste|Effectuez un jet sur la table des évènements du
+      laboratoire d’alchimie]]
+    </td>
+  </tr>
+  <tr>
+    <td>31-55</td>
+    <td>[[Évènements dintermède#Remède de charlatan(Évènements de l’herboriste)|Remède de charlatan]]</td>
+  </tr>
+  <tr>
+    <td>56-70</td>
+    <td>[[Évènements dintermède#Concoction d’insomnie(Évènements de l’herboriste)|Concoction d’insomnie]]</td>
+  </tr>
+  <tr>
+    <td>71-80</td>
+    <td>[[Évènements dintermède#Nouveau stupéfiant(Évènements de l’herboriste)|Nouvel intoxicant]]</td>
+  </tr>
+  <tr>
+    <td>81-100</td>
+    <td>[[Évènements dintermède#Vapeurs nocives(Évènements de l’herboriste)|Vapeurs nocives]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Concoction d’insomnie(Évènements de l’herboriste)}**Concoction d’insomnie.** L’exposition accidentelle à un traitement stimulant à base d’herbes médicinales a rendu vos employés insomniaques, ce qui a incidemment augmenté leur rendement. Pendant 1d6 jours, chaque journée pendant laquelle votre personnage dépense 1 point d'[[Intermèdes#Influence|Influence]] pour presser les travailleurs, le bâtiment gagne un bonus de +10 au premier test quotidien de [[Acquisition des capitaux#Production de capitaux|production de capitaux]].
 
@@ -276,7 +622,62 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du laboratoire d’alchimiste</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Découverte(Évènements du laboratoire d’alchimiste)|Découverte]]</td></tr><tr><td>11-30</td><td>[[Évènements dintermède#Remède contre le rhume(Évènements du laboratoire d’alchimiste)|Remède contre le rhume]]</td></tr><tr><td>31-40</td><td>[[Évènements dintermède#Commande de potions de soins(Évènements du laboratoire d’alchimiste)|Commande de potions de soins]]</td></tr><tr><td>41-45</td><td>[[Évènements dintermède#Affliction embarrassante(Évènements du laboratoire d’alchimiste)|Affliction embarrassante]]</td></tr><tr><td>46-55</td><td>[[Évènements dintermède#Problème cosmétique(Évènements du laboratoire d’alchimiste)|Problème cosmétique]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Empoisonnement accidentel(Évènements du laboratoire d’alchimiste)|Empoisonnement accidentel]]</td></tr><tr><td>71-80</td><td>[[Évènements dintermède#Contamination(Évènements du laboratoire d’alchimiste)|Contamination]]</td></tr><tr><td>81-85</td><td>[[Évènements dintermède#Mutation instable(Évènements du laboratoire d’alchimiste)|Mutation instable]]</td></tr><tr><td>86-95</td><td>[[Évènements dintermède#Explosion(Évènements du laboratoire d’alchimiste)|Explosion]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Maladie contagieuse(Évènements du laboratoire d’alchimiste)|Maladie contagieuse]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du laboratoire d’alchimiste</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Découverte(Évènements du laboratoire d’alchimiste)|Découverte]]</td>
+  </tr>
+  <tr>
+    <td>11-30</td>
+    <td>
+      [[Évènements dintermède#Remède contre le rhume(Évènements du laboratoire d’alchimiste)|Remède contre le
+      rhume]]
+    </td>
+  </tr>
+  <tr>
+    <td>31-40</td>
+    <td>
+      [[Évènements dintermède#Commande de potions de soins(Évènements du laboratoire d’alchimiste)|Commande de
+      potions de soins]]
+    </td>
+  </tr>
+  <tr>
+    <td>41-45</td>
+    <td>
+      [[Évènements dintermède#Affliction embarrassante(Évènements du laboratoire d’alchimiste)|Affliction
+      embarrassante]]
+    </td>
+  </tr>
+  <tr>
+    <td>46-55</td>
+    <td>[[Évènements dintermède#Problème cosmétique(Évènements du laboratoire d’alchimiste)|Problème cosmétique]]</td>
+  </tr>
+  <tr>
+    <td>56-70</td>
+    <td>
+      [[Évènements dintermède#Empoisonnement accidentel(Évènements du laboratoire d’alchimiste)|Empoisonnement
+      accidentel]]
+    </td>
+  </tr>
+  <tr>
+    <td>71-80</td>
+    <td>[[Évènements dintermède#Contamination(Évènements du laboratoire d’alchimiste)|Contamination]]</td>
+  </tr>
+  <tr>
+    <td>81-85</td>
+    <td>[[Évènements dintermède#Mutation instable(Évènements du laboratoire d’alchimiste)|Mutation instable]]</td>
+  </tr>
+  <tr>
+    <td>86-95</td>
+    <td>[[Évènements dintermède#Explosion(Évènements du laboratoire d’alchimiste)|Explosion]]</td>
+  </tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Maladie contagieuse(Évènements du laboratoire d’alchimiste)|Maladie contagieuse]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Affliction embarrassante(Évènements du laboratoire d’alchimiste)}**Affliction embarrassante.** Un marchand, un noble ou une autre personne importante et riche demande discrètement de l’aide à votre personnage pour régler un problème personnel, comme une mauvaise haleine ou de piètres performance sexuelle. Si votre personnage réussit un test d’[[Artisanat]] (alchimie) [[DD]] 20, il règle discrètement le problème et gagne 1d4 points d'[[Intermèdes#Influence|Influence]] ; il y a 10% de chances que le client vous recommande auprès de quelqu’un affligé du même problème et que le bâtiment gagne un bonus de +10 au prochain test de [[Acquisition des capitaux#Production de capitaux|production de capitaux]]. En cas d’échec au test d’Artisanat, le problème n’est pas résolu mais votre personnage ne subit aucune conséquence néfaste car le client souhaite rester discret vis-à-vis de son problème.
 
@@ -303,7 +704,32 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la maison</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Relique enfouie(Évènements de la maison)|Relique enfouie]]</td></tr><tr><td>11-35</td><td>[[Évènements dintermède#Évènements de l’auberge|Effectuez un jet sur la table des évènements de l’Auberge]]</td></tr><tr><td>36-55</td><td>[[Évènements dintermède#Querelle de voisinage(Évènements de la maison)|Querelle de voisinage]]</td></tr><tr><td>56-65</td><td>[[Évènements dintermède#Maison hantée(Évènements de la maison)|Maison hantée]]</td></tr><tr><td>66-80</td><td>[[Évènements dintermède#Voisin exigeant(Évènements de la maison)|Voisin exigeant]]</td></tr><tr><td>81-95</td><td>[[Évènements dintermède#Fondations instables(Évènements de la maison)|Fondations instables]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Incendie criminel(Évènements de la maison)|Incendie criminel]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la maison</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Relique enfouie(Évènements de la maison)|Relique enfouie]]</td>
+  </tr>
+  <tr>
+    <td>11-35</td>
+    <td>[[Évènements dintermède#Évènements de l’auberge|Effectuez un jet sur la table des évènements de l’Auberge]]</td>
+  </tr>
+  <tr>
+    <td>36-55</td>
+    <td>[[Évènements dintermède#Querelle de voisinage(Évènements de la maison)|Querelle de voisinage]]</td>
+  </tr>
+  <tr><td>56-65</td><td>[[Évènements dintermède#Maison hantée(Évènements de la maison)|Maison hantée]]</td></tr>
+  <tr><td>66-80</td><td>[[Évènements dintermède#Voisin exigeant(Évènements de la maison)|Voisin exigeant]]</td></tr>
+  <tr>
+    <td>81-95</td>
+    <td>[[Évènements dintermède#Fondations instables(Évènements de la maison)|Fondations instables]]</td>
+  </tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Incendie criminel(Évènements de la maison)|Incendie criminel]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Fondations instables(Évènements de la maison)}**Fondations instables.** Les fondations de la maison de votre personnage sont en train de s’effondrer. Le bâtiment devient [[Salles et employés#Salles brisées|brisé]] et votre personnage perd 1d2 points d'[[Intermèdes#Influence|Influence]] à cause de ce problème. Les réparations s’élèvent à 1d2 points de[[Intermèdes#Marchandises|Marchandises]] et 1d6 points de[[Intermèdes#Travail|Travail]], après quoi, le bâtiment n’est plus brisé.
 
@@ -322,7 +748,36 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la maison de la guilde</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-25</td><td>[[Évènements dintermède#Prospérité(Évènements de la maison de la guilde)|Prospérité]]</td></tr><tr><td>26-35</td><td>[[Évènements dintermède#Rénovations(Évènements de la maison de la guilde)|Rénovations]]</td></tr><tr><td>36-55</td><td>[[Évènements dintermède#Augmentation des taxes(Évènements de la maison de la guilde)|Augmentation des taxes]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Dissensions internes(Évènements de la maison de la guilde)|Dissensions internes]]</td></tr><tr><td>71-85</td><td>[[Évènements dintermède#Guilde concurrente(Évènements de la maison de la guilde)|Guilde concurrente]]</td></tr><tr><td>86-100</td><td>[[Évènements dintermède#Pratiques déloyales(Évènements de la maison de la guilde)|Pratiques déloyales]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la maison de la guilde</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-25</td>
+    <td>[[Évènements dintermède#Prospérité(Évènements de la maison de la guilde)|Prospérité]]</td>
+  </tr>
+  <tr>
+    <td>26-35</td>
+    <td>[[Évènements dintermède#Rénovations(Évènements de la maison de la guilde)|Rénovations]]</td>
+  </tr>
+  <tr>
+    <td>36-55</td>
+    <td>
+      [[Évènements dintermède#Augmentation des taxes(Évènements de la maison de la guilde)|Augmentation des taxes]]
+    </td>
+  </tr>
+  <tr>
+    <td>56-70</td>
+    <td>[[Évènements dintermède#Dissensions internes(Évènements de la maison de la guilde)|Dissensions internes]]</td>
+  </tr>
+  <tr>
+    <td>71-85</td>
+    <td>[[Évènements dintermède#Guilde concurrente(Évènements de la maison de la guilde)|Guilde concurrente]]</td>
+  </tr>
+  <tr>
+    <td>86-100</td>
+    <td>[[Évènements dintermède#Pratiques déloyales(Évènements de la maison de la guilde)|Pratiques déloyales]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Augmentation des taxes(Évènements de la maison de la guilde)}**Augmentation des taxes.** De nouvelles lois augmentent les taxes imposées aux guildes locales ou peut-être que votre personnage est victime d’un percepteur trop zélé qui a une dent contre lui. Il doit effectuer un test de Profession ou d’Artisanat adapté à la nature de sa guilde. En cas d’échec, le bâtiment subit un malus de -5 aux tests de [[Acquisition des capitaux#Production de capitaux|production de capitaux]]. Chaque fois que vous tombez à nouveau sur cet évènement suite à un lancer de dés, ce malus se cumule (jusqu’à un maximum de -25). À n’importe quel moment, votre personnage peut dépenser 1d3 points de[[Intermèdes#Marchandises|Marchandises]] ou d'[[Intermèdes#Influence|Influence]] pour payer ces taxes, corrompre le percepteur ou trouver une faille dans la loi, ce qui réduit le malus de 5 points (jusqu’à un minimum de 0).
 
@@ -341,7 +796,33 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du monastère</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-05</td><td>[[Évènements dintermède#Relique itinérante(Évènements du monastère)|Relique itinérante]]</td></tr><tr><td>06-25</td><td>[[Évènements dintermède#Journée productive(Évènements du monastère)|Journée productive]]</td></tr><tr><td>26-35</td><td>[[Évènements dintermède#Prêtre de passage(Évènements du monastère)|Prêtre de passage]]</td></tr><tr><td>36-60</td><td>[[Évènements dintermède#Jour saint(Évènements du monastère)|Jour saint]]</td></tr><tr><td>61-75</td><td>[[Évènements dintermède#Inquisiteur(Évènements du monastère)|Inquisiteur]]</td></tr><tr><td>76-85</td><td>[[Évènements dintermède#Attaque de monstre(Évènements du monastère)|Attaque de monstre]]</td></tr><tr><td>86-95</td><td>[[Évènements dintermède#Scandale(Évènements du monastère)|Scandale]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Évènements du temple|Effectuez un jet sur la table des évènements du temple]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du monastère</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-05</td>
+    <td>[[Évènements dintermède#Relique itinérante(Évènements du monastère)|Relique itinérante]]</td>
+  </tr>
+  <tr>
+    <td>06-25</td>
+    <td>[[Évènements dintermède#Journée productive(Évènements du monastère)|Journée productive]]</td>
+  </tr>
+  <tr>
+    <td>26-35</td>
+    <td>[[Évènements dintermède#Prêtre de passage(Évènements du monastère)|Prêtre de passage]]</td>
+  </tr>
+  <tr><td>36-60</td><td>[[Évènements dintermède#Jour saint(Évènements du monastère)|Jour saint]]</td></tr>
+  <tr><td>61-75</td><td>[[Évènements dintermède#Inquisiteur(Évènements du monastère)|Inquisiteur]]</td></tr>
+  <tr>
+    <td>76-85</td>
+    <td>[[Évènements dintermède#Attaque de monstre(Évènements du monastère)|Attaque de monstre]]</td>
+  </tr>
+  <tr><td>86-95</td><td>[[Évènements dintermède#Scandale(Évènements du monastère)|Scandale]]</td></tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Évènements du temple|Effectuez un jet sur la table des évènements du temple]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Attaque de monstre(Évènements du monastère)}**Attaque de monstre.** Une chose dangereuse (avec un FP égal au niveau de votre personnage +1) attaque le monastère : un monstre vorace venu des terres sauvages, une tribu d’humanoïdes sauvages ou un culte adverse. L’attaque initiale provoque la perte de 1d6 points répartis comme vous l’entendez entre les[[Intermèdes#Marchandises|Marchandises]], le[[Intermèdes#Travail|Travail]] et la[[Intermèdes#Magie|Magie]]. Tous les 1d6 jours, les antagonistes reviennent à l’attaque ce qui provoque la perte de capitaux comme indiqué cidessus et ce, jusqu’à ce que votre personnage parvienne à les vaincre. Si votre personnage n’y parvient pas par ses propres moyens, il peut embaucher des aventuriers pour accomplir cette mission pour un montant égal à son niveau de personnage × 1 000 po.
 
@@ -362,7 +843,31 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la salle de bal</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-25</td><td>[[Évènements dintermède#Danseur réputé(Évènements de la salle de bal)|Danseur réputé]]</td></tr><tr><td>26-35</td><td>[[Évènements dintermède#Élan du cœur(Évènements de la salle de bal)|Élan du cœur]]</td></tr><tr><td>36-55</td><td>[[Évènements dintermède#Magie dans la salle de bal(Évènements de la salle de bal)|Magie dans la salle de bal]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Fièvre et vérole(Évènements de la salle de bal)|Fièvre et vérole]]</td></tr><tr><td>71-85</td><td>[[Évènements dintermède#Danseur-étoile fiélon(Évènements de la salle de bal)|Danseur-étoile fiélon]]</td></tr><tr><td>86-95</td><td>[[Évènements dintermède#Salon maudit(Évènements de la salle de bal)|Salon maudit]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Nuit sauvage(Évènements de la salle de bal)|Nuit sauvage]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la salle de bal</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-25</td>
+    <td>[[Évènements dintermède#Danseur réputé(Évènements de la salle de bal)|Danseur réputé]]</td>
+  </tr>
+  <tr><td>26-35</td><td>[[Évènements dintermède#Élan du cœur(Évènements de la salle de bal)|Élan du cœur]]</td></tr>
+  <tr>
+    <td>36-55</td>
+    <td>
+      [[Évènements dintermède#Magie dans la salle de bal(Évènements de la salle de bal)|Magie dans la salle de bal]]
+    </td>
+  </tr>
+  <tr>
+    <td>56-70</td>
+    <td>[[Évènements dintermède#Fièvre et vérole(Évènements de la salle de bal)|Fièvre et vérole]]</td>
+  </tr>
+  <tr>
+    <td>71-85</td>
+    <td>[[Évènements dintermède#Danseur-étoile fiélon(Évènements de la salle de bal)|Danseur-étoile fiélon]]</td>
+  </tr>
+  <tr><td>86-95</td><td>[[Évènements dintermède#Salon maudit(Évènements de la salle de bal)|Salon maudit]]</td></tr>
+  <tr><td>96-100</td><td>[[Évènements dintermède#Nuit sauvage(Évènements de la salle de bal)|Nuit sauvage]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Danseur-étoile fiélon(Évènements de la salle de bal)}**Danseur-étoile fiélon.** L’un des meilleurs danseurs de votre personnage est corrompu par une magie malfaisante. Il est possédé, un Extérieur métamorphe et maléfique a pris sa place ou un incident similaire est survenu. Depuis, il s’en prend aux clients de l’établissement. Votre personnage doit dépenser 5 points de[[Intermèdes#Magie|Magie]] ou appliquer des sorts appropriés pour exorciser la présence maléfique. Sinon, votre personnage perd 1 point d'[[Intermèdes#Influence|Influence]] ou de[[Intermèdes#Travail|Travail]] (à votre discrétion) chaque jour, mais le bâtiment gagne un bonus de +10 aux tests de production de po ou de[[Intermèdes#Magie|Magie]].
 
@@ -383,7 +888,35 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la taverne</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-15</td><td>[[Évènements dintermède#Concours de beuverie(Évènements de la taverne)|Concours de beuverie]]</td></tr><tr><td>16-30</td><td>[[Évènements dintermède#Manigances amoureuses(Évènements de la taverne)|Manigances amoureuses]]</td></tr><tr><td>31-50</td><td>[[Évènements dintermède#Bagarre de taverne(Évènements de la taverne)|Bagarre de taverne]]</td></tr><tr><td>51-65</td><td>[[Évènements dintermède#Spectacle réjouissant(Évènements de la taverne)|Spectacle réjouissant]]</td></tr><tr><td>66-75</td><td>[[Évènements dintermède#Racket(Évènements de la taverne)|Racket]]</td></tr><tr><td>76-85</td><td>[[Évènements dintermède#Célèbre visiteur(Évènements de la taverne)|Célèbre visiteur]]</td></tr><tr><td>86-100</td><td>[[Évènements dintermède#Problème en cuisine(Évènements de la taverne)|Problème en cuisine]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la taverne</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-15</td>
+    <td>[[Évènements dintermède#Concours de beuverie(Évènements de la taverne)|Concours de beuverie]]</td>
+  </tr>
+  <tr>
+    <td>16-30</td>
+    <td>[[Évènements dintermède#Manigances amoureuses(Évènements de la taverne)|Manigances amoureuses]]</td>
+  </tr>
+  <tr>
+    <td>31-50</td>
+    <td>[[Évènements dintermède#Bagarre de taverne(Évènements de la taverne)|Bagarre de taverne]]</td>
+  </tr>
+  <tr>
+    <td>51-65</td>
+    <td>[[Évènements dintermède#Spectacle réjouissant(Évènements de la taverne)|Spectacle réjouissant]]</td>
+  </tr>
+  <tr><td>66-75</td><td>[[Évènements dintermède#Racket(Évènements de la taverne)|Racket]]</td></tr>
+  <tr>
+    <td>76-85</td>
+    <td>[[Évènements dintermède#Célèbre visiteur(Évènements de la taverne)|Célèbre visiteur]]</td>
+  </tr>
+  <tr>
+    <td>86-100</td>
+    <td>[[Évènements dintermède#Problème en cuisine(Évènements de la taverne)|Problème en cuisine]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Bagarre de taverne(Évènements de la taverne)}**Bagarre de taverne.** Il suffit d’une raillerie sur l’origine, la barbe ou l’aspect d’un client pour qu’une bagarre explose en moins de temps qu’il n’en faut pour le dire ! Cette échauffourée alimente l’infâme notoriété de la taverne du personnage, ce qui lui rapporte 1d4 points d'[[Intermèdes#Influence|Influence]]. Effectuez un test d’[[Intimidation]] [[DD]] 20. En cas d’échec, votre personnage perd 1d3 points de[[Intermèdes#Marchandises|Marchandises]], de[[Intermèdes#Travail|Travail]] et/ou de[[Intermèdes#Magie|Magie]] (répartis comme l’entend le MJ) à cause des dommages occasionnés.
 
@@ -404,7 +937,30 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du temple</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01</td><td>[[Évènements dintermède#Miracle majeur(Évènements du temple)|Miracle majeur]]</td></tr><tr><td>02-05</td><td>[[Évènements dintermède#Rituel sacré(Évènements du temple)|Rituel sacré]]</td></tr><tr><td>06-25</td><td>[[Évènements dintermède#Demande de cérémonie(Évènements du temple)|Demande de cérémonie]]</td></tr><tr><td>26-35</td><td>[[Évènements dintermède#Visiteur important(Évènements du temple)|Visiteur important]]</td></tr><tr><td>36-75</td><td>[[Évènements dintermède#Demande de soins(Évènements du temple)|Demande de soins]]</td></tr><tr><td>76-80</td><td>[[Évènements dintermède#Miracle mineur(Évènements du temple)|Miracle mineur]]</td></tr><tr><td>81-95</td><td>[[Évènements dintermède#Scandale(Évènements du temple)|Scandale]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Évènements du monastère|Effectuez un jet sur la table des évènements du monastère]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du temple</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01</td>
+    <td>[[Évènements dintermède#Miracle majeur(Évènements du temple)|Miracle majeur]]</td>
+  </tr>
+  <tr><td>02-05</td><td>[[Évènements dintermède#Rituel sacré(Évènements du temple)|Rituel sacré]]</td></tr>
+  <tr>
+    <td>06-25</td>
+    <td>[[Évènements dintermède#Demande de cérémonie(Évènements du temple)|Demande de cérémonie]]</td>
+  </tr>
+  <tr>
+    <td>26-35</td>
+    <td>[[Évènements dintermède#Visiteur important(Évènements du temple)|Visiteur important]]</td>
+  </tr>
+  <tr><td>36-75</td><td>[[Évènements dintermède#Demande de soins(Évènements du temple)|Demande de soins]]</td></tr>
+  <tr><td>76-80</td><td>[[Évènements dintermède#Miracle mineur(Évènements du temple)|Miracle mineur]]</td></tr>
+  <tr><td>81-95</td><td>[[Évènements dintermède#Scandale(Évènements du temple)|Scandale]]</td></tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Évènements du monastère|Effectuez un jet sur la table des évènements du monastère]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Demande de cérémonie(Évènements du temple)}**Demande de cérémonie.** Une personne de la région dotée d’une bonne réputation ou d’un rang social élevé demande à ce que le temple de votre personnage organise une cérémonie spéciale : un mariage, des funérailles, la bénédiction d’une nouvelle entreprise ou un autre service déterminé par le MJ. Effectuez un test de [[Connaissances]] (religion) [[DD]] 20. En cas de réussite, la cérémonie est particulièrement bien réalisée et votre personnage gagne 1d3 points d'[[Intermèdes#Influence|Influence]] et 2d20 po sous forme de donations.
 
@@ -425,7 +981,35 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du théâtre</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Critiques élogieuses(Évènements du théâtre)|Critiques élogieuses]]</td></tr><tr><td>11-25</td><td>[[Évènements dintermède#Salle comble(Évènements du théâtre)|Salle comble]]</td></tr><tr><td>26-35</td><td>[[Évènements dintermède#Visite d’une troupe itinérante(Évènements du théâtre)|Visite d’une troupe itinérante]]</td></tr><tr><td>36-55</td><td>[[Évènements dintermède#Manigances amoureuses(Évènements du théâtre)|Manigances amoureuses]]</td></tr><tr><td>56-70</td><td>[[Évènements dintermède#Spectacle médiocre(Évènements du théâtre)|Spectacle médiocre]]</td></tr><tr><td>71-90</td><td>[[Évènements dintermède#Diva(Évènements du théâtre)|Diva]]</td></tr><tr><td>91-95</td><td>[[Évènements dintermède#Pièce maudite(Évènements du théâtre)|Pièce maudite]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Salle de spectacle incendiée(Évènements du théâtre)|Salle de spectacle incendiée]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du théâtre</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Critiques élogieuses(Évènements du théâtre)|Critiques élogieuses]]</td>
+  </tr>
+  <tr><td>11-25</td><td>[[Évènements dintermède#Salle comble(Évènements du théâtre)|Salle comble]]</td></tr>
+  <tr>
+    <td>26-35</td>
+    <td>
+      [[Évènements dintermède#Visite d’une troupe itinérante(Évènements du théâtre)|Visite d’une troupe itinérante]]
+    </td>
+  </tr>
+  <tr>
+    <td>36-55</td>
+    <td>[[Évènements dintermède#Manigances amoureuses(Évènements du théâtre)|Manigances amoureuses]]</td>
+  </tr>
+  <tr>
+    <td>56-70</td>
+    <td>[[Évènements dintermède#Spectacle médiocre(Évènements du théâtre)|Spectacle médiocre]]</td>
+  </tr>
+  <tr><td>71-90</td><td>[[Évènements dintermède#Diva(Évènements du théâtre)|Diva]]</td></tr>
+  <tr><td>91-95</td><td>[[Évènements dintermède#Pièce maudite(Évènements du théâtre)|Pièce maudite]]</td></tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Salle de spectacle incendiée(Évènements du théâtre)|Salle de spectacle incendiée]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Critiques élogieuses(Évènements du théâtre)}**Critiques élogieuses.** Le théâtre de votre personnage produit de bons spectacles qui génèrent une profusion de critiques élogieuses. Votre personnage gagne 1d6 points d'[[Intermèdes#Influence|Influence]].
 
@@ -448,7 +1032,43 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la tour du mage</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-05</td><td>[[Évènements dintermède#Découverte magique capitale(Évènements de la tour du mage)|Découverte magique capitale]]</td></tr><tr><td>06-10</td><td>[[Évènements dintermède#Objet magique mystérieux(Évènements de la tour du mage)|Objet magique mystérieux]]</td></tr><tr><td>11-40</td><td>[[Évènements dintermède#Visiteur désespéré(Évènements de la tour du mage)|Visiteur désespéré]]</td></tr><tr><td>41-65</td><td>[[Évènements dintermède#Évènements de la boutique de magie|Effectuez un jet sur la table des évènements de la boutique de magie]]</td></tr><tr><td>66-95</td><td>[[Évènements dintermède#Incident catastrophique(Évènements de la tour du mage)|Incident catastrophique]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Déferlante magique dangereuse(Évènements de la tour du mage)|Déferlante magique dangereuse]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la tour du mage</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-05</td>
+    <td>
+      [[Évènements dintermède#Découverte magique capitale(Évènements de la tour du mage)|Découverte magique
+      capitale]]
+    </td>
+  </tr>
+  <tr>
+    <td>06-10</td>
+    <td>[[Évènements dintermède#Objet magique mystérieux(Évènements de la tour du mage)|Objet magique mystérieux]]</td>
+  </tr>
+  <tr>
+    <td>11-40</td>
+    <td>[[Évènements dintermède#Visiteur désespéré(Évènements de la tour du mage)|Visiteur désespéré]]</td>
+  </tr>
+  <tr>
+    <td>41-65</td>
+    <td>
+      [[Évènements dintermède#Évènements de la boutique de magie|Effectuez un jet sur la table des évènements de la
+      boutique de magie]]
+    </td>
+  </tr>
+  <tr>
+    <td>66-95</td>
+    <td>[[Évènements dintermède#Incident catastrophique(Évènements de la tour du mage)|Incident catastrophique]]</td>
+  </tr>
+  <tr>
+    <td>96-100</td>
+    <td>
+      [[Évènements dintermède#Déferlante magique dangereuse(Évènements de la tour du mage)|Déferlante magique
+      dangereuse]]
+    </td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Découverte magique capitale(Évènements de la tour du mage)}**Découverte magique capitale.** Le travail acharné de votre personnage lui a permis de découvrir un nouveau sort. Ses apprentis doivent maintenant travailler sans relâche pour coucher ce sort par écrit, ce qui provoque une dépense de 1d4 points de[[Intermèdes#Travail|Travail]] et 1d6 points de[[Intermèdes#Magie|Magie]]. Il y a 75% de chances que cette découverte aboutisse à la création d’un parchemin sur lequel est inscrit un sort profane de bas niveau (lancez 1d4 pour déterminer le niveau du sort) et 25% de chances qu’elle aboutisse à la création d’un parchemin sur lequel est inscrit un sort profane de niveau intermédiaire (lancez 1d2+4 pour déterminer le niveau du sort).
 
@@ -465,7 +1085,19 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du zoo</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-20</td><td>[[Évènements dintermède#Donation exotique(Évènements du zoo)|Donation exotique]]</td></tr><tr><td>21-55</td><td>[[Évènements dintermède#Festival(Évènements du zoo)|Festival]]</td></tr><tr><td>56-60</td><td>[[Évènements dintermède#Contagion(Évènements du zoo)|Contagion]]</td></tr><tr><td>61-75</td><td>[[Évènements dintermède#Animal évadé(Évènements du zoo)|Animal évadé]]</td></tr><tr><td>76-90</td><td>[[Évènements dintermède#Visiteur égaré(Évènements du zoo)|Visiteur égaré]]</td></tr><tr><td>91-100</td><td>[[Évènements dintermède#Druide remonté(Évènements du zoo)|Druide remonté]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du zoo</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-20</td>
+    <td>[[Évènements dintermède#Donation exotique(Évènements du zoo)|Donation exotique]]</td>
+  </tr>
+  <tr><td>21-55</td><td>[[Évènements dintermède#Festival(Évènements du zoo)|Festival]]</td></tr>
+  <tr><td>56-60</td><td>[[Évènements dintermède#Contagion(Évènements du zoo)|Contagion]]</td></tr>
+  <tr><td>61-75</td><td>[[Évènements dintermède#Animal évadé(Évènements du zoo)|Animal évadé]]</td></tr>
+  <tr><td>76-90</td><td>[[Évènements dintermède#Visiteur égaré(Évènements du zoo)|Visiteur égaré]]</td></tr>
+  <tr><td>91-100</td><td>[[Évènements dintermède#Druide remonté(Évènements du zoo)|Druide remonté]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Animal évadé(Évènements du zoo)}**Animal évadé.** L’un des animaux du zoo de votre personnage s’est échappé de sa cage. Si vous avez détaillé le type de créatures que contient le bâtiment, déterminez aléatoirement laquelle est parvenue à s’échapper. Votre personnage doit effectuer un test de Dressage, de Perception, de Survie ou d’[[Druide#EMPATHIESAUVAGE|empathie sauvage]] (ou un test de [[Bluff]] ou de [[Diplomatie]] si la créature est intelligente) [[DD]] 25 pour rattraper la créature et la remettre à l’abri dans sa cage. En cas d’échec, votre personnage perd 1d6 points d'[[Intermèdes#Influence|Influence]] et 1d4 points de[[Intermèdes#Travail|Travail]]. De plus, le bâtiment ne produit aucun capital pendant cette journée.
 
@@ -487,7 +1119,42 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la cabale</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-05</td><td>[[Évènements dintermède#Trouvailles(Évènements de la cabale)|Trouvailles]]</td></tr><tr><td>06-20</td><td>[[Évènements dintermède#Flux ésotérique(Évènements de la cabale)|Flux ésotérique]]</td></tr><tr><td>21-30</td><td>[[Évènements dintermède#Opportunité de travail(Évènements de la cabale)|Opportunité de travail]]</td></tr><tr><td>31-50</td><td>[[Évènements dintermède#Présage(Évènements de la cabale)|Présage]]</td></tr><tr><td>51-60</td><td>[[Évènements dintermède#Évènements de la tour du mage|Effectuez un jet sur la table des évènements de la tour du mage]]</td></tr><tr><td>61-75</td><td>[[Évènements dintermède#Évènements de l’école de magie|Effectuez un jet sur la table des évènements de l’école de magie]]</td></tr><tr><td>76-90</td><td>[[Évènements dintermède#Querelle de familiers(Évènements de la cabale)|Querelle de familiers]]</td></tr><tr><td>91-100</td><td>[[Évènements dintermède#Problème d’image(Évènements de la cabale)|Problème d’image]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la cabale</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-05</td>
+    <td>[[Évènements dintermède#Trouvailles(Évènements de la cabale)|Trouvailles]]</td>
+  </tr>
+  <tr><td>06-20</td><td>[[Évènements dintermède#Flux ésotérique(Évènements de la cabale)|Flux ésotérique]]</td></tr>
+  <tr>
+    <td>21-30</td>
+    <td>[[Évènements dintermède#Opportunité de travail(Évènements de la cabale)|Opportunité de travail]]</td>
+  </tr>
+  <tr><td>31-50</td><td>[[Évènements dintermède#Présage(Évènements de la cabale)|Présage]]</td></tr>
+  <tr>
+    <td>51-60</td>
+    <td>
+      [[Évènements dintermède#Évènements de la tour du mage|Effectuez un jet sur la table des évènements de la tour
+      du mage]]
+    </td>
+  </tr>
+  <tr>
+    <td>61-75</td>
+    <td>
+      [[Évènements dintermède#Évènements de l’école de magie|Effectuez un jet sur la table des évènements de l’école
+      de magie]]
+    </td>
+  </tr>
+  <tr>
+    <td>76-90</td>
+    <td>[[Évènements dintermède#Querelle de familiers(Évènements de la cabale)|Querelle de familiers]]</td>
+  </tr>
+  <tr>
+    <td>91-100</td>
+    <td>[[Évènements dintermède#Problème d’image(Évènements de la cabale)|Problème d’image]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Flux ésotérique(Évènements de la cabale)}**Flux ésotérique.** Votre personnage a obtenu un pouvoir supplémentaire suite à un rituel expérimental accompli par sa cabale. Lancez 1d4 : il gagne un emplacement de sort profane supplémentaire d’un niveau égal au résultat du dé (sans dépasser le niveau de sort maximal auquel il a accès, comme s’il bénéficiait de ce bonus grâce à une valeur de caractéristique élevée), et ce pendant vingt-quatre heures.
 
@@ -506,7 +1173,33 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la compagnie de mercenaires</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-15</td><td>[[Évènements dintermède#Résultats impressionnants(Évènements de la compagnie de mercenaires)|Résultats impressionnants]]</td></tr><tr><td>16-25</td><td>[[Évènements dintermède#Aubaine(Évènements de la compagnie de mercenaires)|Aubaine]]</td></tr><tr><td>26-50</td><td>[[Évènements dintermède#Bagarre(Évènements de la compagnie de mercenaires)|Bagarre]]</td></tr><tr><td>51-70</td><td>[[Évènements dintermède#Concurrence(Évènements de la compagnie de mercenaires)|Concurrence]]</td></tr><tr><td>71-80</td><td>[[Évènements dintermède#Scandale(Évènements de la compagnie de mercenaires)|Scandale]]</td></tr><tr><td>81-85</td><td>[[Évènements dintermède#Duel(Évènements de la compagnie de mercenaires)|Duel]]</td></tr><tr><td>86-95</td><td>[[Évènements dintermède#Schisme(Évènements de la compagnie de mercenaires)|Schisme]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Mutinerie(Évènements de la compagnie de mercenaires)|Mutinerie]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la compagnie de mercenaires</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-15</td>
+    <td>
+      [[Évènements dintermède#Résultats impressionnants(Évènements de la compagnie de mercenaires)|Résultats
+      impressionnants]]
+    </td>
+  </tr>
+  <tr><td>16-25</td><td>[[Évènements dintermède#Aubaine(Évènements de la compagnie de mercenaires)|Aubaine]]</td></tr>
+  <tr><td>26-50</td><td>[[Évènements dintermède#Bagarre(Évènements de la compagnie de mercenaires)|Bagarre]]</td></tr>
+  <tr>
+    <td>51-70</td>
+    <td>[[Évènements dintermède#Concurrence(Évènements de la compagnie de mercenaires)|Concurrence]]</td>
+  </tr>
+  <tr>
+    <td>71-80</td>
+    <td>[[Évènements dintermède#Scandale(Évènements de la compagnie de mercenaires)|Scandale]]</td>
+  </tr>
+  <tr><td>81-85</td><td>[[Évènements dintermède#Duel(Évènements de la compagnie de mercenaires)|Duel]]</td></tr>
+  <tr><td>86-95</td><td>[[Évènements dintermède#Schisme(Évènements de la compagnie de mercenaires)|Schisme]]</td></tr>
+  <tr>
+    <td>96-100</td>
+    <td>[[Évènements dintermède#Mutinerie(Évènements de la compagnie de mercenaires)|Mutinerie]]</td>
+  </tr>
+</table>
 
 </div></div>{s:Reference|Aubaine(Évènements de la compagnie de mercenaires)}**Aubaine.** L’organisation de votre personnage est généreusement récompensée pour ses récents efforts, soit par le biais d’une rémunération versée par un employeur reconnaissant, soit par des tributs conséquents amassés suite au pillage d’un camp adverse. Votre personnage gagne 1d10 × 10 po, 1d6 points de[[Intermèdes#Marchandises|Marchandises]] et 1 point de magie.
 
@@ -529,7 +1222,21 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements du culte</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-05</td><td>[[Évènements dintermède#Flux divin(Évènements du culte)|Flux divin]]</td></tr><tr><td>06-20</td><td>[[Évènements dintermède#Présage(Évènements du culte)|Présage]]</td></tr><tr><td>21-45</td><td>[[Évènements dintermède#Rituel populaire(Évènements du culte)|Rituel populaire]]</td></tr><tr><td>46-60</td><td>[[Évènements dintermède#Évènements du temple|Effectuez un jet sur la table des évènements du temple]]</td></tr><tr><td>61-75</td><td>[[Évènements dintermède#Problème d’image(Évènements du culte)|Problème d’image]]</td></tr><tr><td>76-90</td><td>[[Évènements dintermède#Apostat(Évènements du culte)|Apostat]]</td></tr><tr><td>91-95</td><td>[[Évènements dintermède#Blasphème(Évènements du culte)|Blasphème]]</td></tr><tr><td>96-100</td><td>[[Évènements dintermède#Schisme(Évènements du culte)|Schisme]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements du culte</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier"><td>01-05</td><td>[[Évènements dintermède#Flux divin(Évènements du culte)|Flux divin]]</td></tr>
+  <tr><td>06-20</td><td>[[Évènements dintermède#Présage(Évènements du culte)|Présage]]</td></tr>
+  <tr><td>21-45</td><td>[[Évènements dintermède#Rituel populaire(Évènements du culte)|Rituel populaire]]</td></tr>
+  <tr>
+    <td>46-60</td>
+    <td>[[Évènements dintermède#Évènements du temple|Effectuez un jet sur la table des évènements du temple]]</td>
+  </tr>
+  <tr><td>61-75</td><td>[[Évènements dintermède#Problème d’image(Évènements du culte)|Problème d’image]]</td></tr>
+  <tr><td>76-90</td><td>[[Évènements dintermède#Apostat(Évènements du culte)|Apostat]]</td></tr>
+  <tr><td>91-95</td><td>[[Évènements dintermède#Blasphème(Évènements du culte)|Blasphème]]</td></tr>
+  <tr><td>96-100</td><td>[[Évènements dintermède#Schisme(Évènements du culte)|Schisme]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Apostat(Évènements du culte)}**Apostat.** Un membre du culte de votre personnage quitte l’organisation et la dénigre auprès d’étrangers. Pendant 1d6 jours, l’organisation subit un malus de -5 aux tests de [[Acquisition des capitaux#Production de capitaux|production de capitaux]]. Si vous obtenez un 6 au dé lancé pour déterminer la durée de l’évènement, il y a 50% de chances que l’évènement problème d’image (voir ci-dessous) survienne à la fin de celui d’apostat. Réduire l’apostat au silence (en usant de menaces, de violence ou de pots-de-vin pour une valeur de 1d6 points de[[Intermèdes#Marchandises|Marchandises]] ou d'[[Intermèdes#Influence|Influence]]) met prématurément fin à ce malus.
 
@@ -550,7 +1257,35 @@ Beaucoup d’évènements autorisent à faire un test de compétence pour modifi
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
 
-<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de la guilde des voleurs</caption><tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements dintermède#Vol conséquent(Évènements de la guilde des voleurs)|Vol conséquent]]</td></tr><tr><td>11-30</td><td>[[Évènements dintermède#Période faste pour le crime(Évènements de la guilde des voleurs)|Période faste pour le crime]]</td></tr><tr><td>31-45</td><td>[[Évènements dintermède#Concurrence(Évènements de la guilde des voleurs)|Concurrence]]</td></tr><tr><td>46-60</td><td>[[Évènements dintermède#Mesures répressives(Évènements de la guilde des voleurs)|Mesures répressives]]</td></tr><tr><td>61-70</td><td>[[Évènements dintermède#Coup monté(Évènements de la guilde des voleurs)|Coup monté]]</td></tr><tr><td>71-90</td><td>[[Évènements dintermède#Aventuriers fouineurs(Évènements de la guilde des voleurs)|Aventuriers fouineurs]]</td></tr><tr><td>91-100</td><td>[[Évènements dintermède#Mutinerie(Évènements de la guilde des voleurs)|Mutinerie]]</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt">
+  <caption>Évènements de la guilde des voleurs</caption>
+  <tr CLASS="titre"><td WIDTH="30%">1d100</td><td WIDTH="70%">Évènement</td></tr>
+  <tr CLASS="premier">
+    <td>01-10</td>
+    <td>[[Évènements dintermède#Vol conséquent(Évènements de la guilde des voleurs)|Vol conséquent]]</td>
+  </tr>
+  <tr>
+    <td>11-30</td>
+    <td>
+      [[Évènements dintermède#Période faste pour le crime(Évènements de la guilde des voleurs)|Période faste pour le
+      crime]]
+    </td>
+  </tr>
+  <tr>
+    <td>31-45</td>
+    <td>[[Évènements dintermède#Concurrence(Évènements de la guilde des voleurs)|Concurrence]]</td>
+  </tr>
+  <tr>
+    <td>46-60</td>
+    <td>[[Évènements dintermède#Mesures répressives(Évènements de la guilde des voleurs)|Mesures répressives]]</td>
+  </tr>
+  <tr><td>61-70</td><td>[[Évènements dintermède#Coup monté(Évènements de la guilde des voleurs)|Coup monté]]</td></tr>
+  <tr>
+    <td>71-90</td>
+    <td>[[Évènements dintermède#Aventuriers fouineurs(Évènements de la guilde des voleurs)|Aventuriers fouineurs]]</td>
+  </tr>
+  <tr><td>91-100</td><td>[[Évènements dintermède#Mutinerie(Évènements de la guilde des voleurs)|Mutinerie]]</td></tr>
+</table>
 
 </div></div>{s:Reference|Aventuriers fouineurs(Évènements de la guilde des voleurs)}**Aventuriers fouineurs.** Un groupe de bons samaritains plus dégourdis que la normale fouine dans votre territoire et se frotte à vos employés. Votre personnage doit réussir un test de [[Sabotage]], d’[[Escamotage]] ou de [[Discrétion]] [[DD]] 25 pour ne pas perdre 1d6 points de[[Intermèdes#Marchandises|Marchandises]] à cause de leurs agissements. S’il obtient une marge de réussite de 10 ou plus à son test, votre personnage gagne 1d3 points d'[[Intermèdes#Influence|Influence]] pour avoir battu à plates coutures les aventuriers. S’il obtient une marge d’échec de 10 ou plus, l’un de ses groupes d’employés est capturé (traitez cet évènement comme celui de coup monté décrit ci-dessus).
 

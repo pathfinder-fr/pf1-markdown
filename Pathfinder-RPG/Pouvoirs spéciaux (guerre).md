@@ -16,7 +16,139 @@ Les modificateurs de pouvoirs spéciaux s’appliquent uniquement si la majorit�
 Vous pouvez vous servir des pouvoirs spéciaux que nous vous présentons pour en créer vous-même. Sauf indication contraire, les effets de ces pouvoirs se dissipent à la fin de la bataille (sauf en ce qui concerne les dégâts aux pv). Notez qu’en ce qui concerne les pouvoirs qui affectent les alliés, votre armée est considérée comme sa propre alliée.
 
 
-<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%" STYLE="table-layout: fixed;"><caption>Liste des pouvoirs spéciaux</caption><tr CLASS="titre"><td>Nom</td></tr><tr CLASS="premier"><td>[[Pouvoirs spéciaux (guerre)#ABSORPTIONDENERGIE|Absorption d’énergie]]</td><td>[[Pouvoirs spéciaux (guerre)#CHARGEPUISSANTE|Charge puissante]]</td><td>[[Pouvoirs spéciaux (guerre)#DELUGEDECOUPS|Déluge de coups]]</td><td>[[Pouvoirs spéciaux (guerre)#IMMUNITE|Immunité]]</td><td>[[Pouvoirs spéciaux (guerre)#NUEE|Nuée]]</td><td>[[Pouvoirs spéciaux (guerre)#RAGE|Rage]]</td><td>[[Pouvoirs spéciaux (guerre)#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#ALCHIMIE|Alchimie]]</td><td>[[Pouvoirs spéciaux (guerre)#CHATIMENTDUMAL|Châtiment du Mal]]</td><td>[[Pouvoirs spéciaux (guerre)#DEPOURVUDINTELLIGENCE|Dépourvu d’intelligence]]</td><td>[[Pouvoirs spéciaux (guerre)#IMPOSITIONDESMAINS|Imposition des mains]]</td><td>[[Pouvoirs spéciaux (guerre)#ODORAT|Odorat]]</td><td>[[Pouvoirs spéciaux (guerre)#RECEPTIONDEROCHERS|Réception de rochers]]</td><td>[[Pouvoirs spéciaux (guerre)#STYLEDECOMBAT|Style de combat]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#AFFAIBLISSEMENTTEMPORAIREDIMINUTIONPERMANENTEDECARACTERISTIQUE|Aff. temp/dim. permanente de caractéristique]]</td><td>[[Pouvoirs spéciaux (guerre)#COMBUSTION|Combustion]]</td><td>[[Pouvoirs spéciaux (guerre)#EIDOLON|Eidolon]]</td><td>[[Pouvoirs spéciaux (guerre)#INCANTATION|Incantation]]</td><td>[[Pouvoirs spéciaux (guerre)#ORDRE|Ordre]]</td><td>[[Pouvoirs spéciaux (guerre)#REDUCTIONDEDEGATS|Réduction de dégâts]]</td><td>[[Pouvoirs spéciaux (guerre)#TACTICIEN|Tacticien]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#AMPHIBIE|Amphibie]]</td><td>[[Pouvoirs spéciaux (guerre)#COMPAGNONANIMAL|Compagnon animal]]</td><td>[[Pouvoirs spéciaux (guerre)#ENNEMIJURE|Ennemi juré]]</td><td>[[Pouvoirs spéciaux (guerre)#INSPIRATIONVAILLANTE|Inspiration vaillante]]</td><td>[[Pouvoirs spéciaux (guerre)#PACTEDUCHASSEUR|Pacte du chasseur]]</td><td>[[Pouvoirs spéciaux (guerre)#REGENERATION|Régénération]]</td><td>[[Pouvoirs spéciaux (guerre)#TALENTDEROUBLARD|Talent de roublard]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#AQUATIQUE|Aquatique]]</td><td>[[Pouvoirs spéciaux (guerre)#COUPETOURDISSANT|Coup étourdissant]]</td><td>[[Pouvoirs spéciaux (guerre)#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td><td>[[Pouvoirs spéciaux (guerre)#INTANGIBLE|Intangible]]</td><td>[[Pouvoirs spéciaux (guerre)#PARALYSIE|Paralysie]]</td><td>[[Pouvoirs spéciaux (guerre)#RESERVEDEKI|Réserve de ki]]</td><td>[[Pouvoirs spéciaux (guerre)#TELEPORTATION|Téléportation]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#ATTAQUESOURNOISE|Attaque sournoise]]</td><td>[[Pouvoirs spéciaux (guerre)#COURAGE|Courage]]</td><td>[[Pouvoirs spéciaux (guerre)#ENTRAîNEMENTAUXARMURES|Entraînement aux armures]]</td><td>[[Pouvoirs spéciaux (guerre)#INVISIBILITE|Invisibilité]]</td><td>[[Pouvoirs spéciaux (guerre)#PATTESARRIERES|Pattes arrières]]</td><td>[[Pouvoirs spéciaux (guerre)#RESISTANCE|Résistance]]</td><td>[[Pouvoirs spéciaux (guerre)#TERREUR|Terreur]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#AURADEBRAVOURE|Aura de bravoure]]</td><td>[[Pouvoirs spéciaux (guerre)#CREATIONDETEMPETEDESABLE|Création de tempête de sable]]</td><td>[[Pouvoirs spéciaux (guerre)#ESCALADE|Escalade]]</td><td>[[Pouvoirs spéciaux (guerre)#JUGEMENT|Jugement]]</td><td>[[Pouvoirs spéciaux (guerre)#PERCEPTIONAVEUGLE|Perception aveugle]]</td><td>[[Pouvoirs spéciaux (guerre)#RESISTANCEALAMAGIE|Résistance à la magie]]</td><td>[[Pouvoirs spéciaux (guerre)#TOURBILLON|Tourbillon]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#AURASURNATURELLE|Aura surnaturelle]]</td><td>[[Pouvoirs spéciaux (guerre)#CREATIONDEREJETON|Création de rejeton]]</td><td>[[Pouvoirs spéciaux (guerre)#ESQUIVETOTALE|Esquive totale]]</td><td>[[Pouvoirs spéciaux (guerre)#LANCERDEROCHERS|Lancer de rochers]]</td><td>[[Pouvoirs spéciaux (guerre)#PERCEPTIONDESVIBRATIONS|Perception des vibrations]]</td><td>[[Pouvoirs spéciaux (guerre)#RESISTANCEAUPOISON|Résistance au poison]]</td><td>[[Pouvoirs spéciaux (guerre)#VEGETALE|Végétale]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#AVEUGLEPARLALUMIERE|Aveuglé par la lumière]]</td><td>[[Pouvoirs spéciaux (guerre)#CREATUREARTIFICIELLE|Créature artificielle]]</td><td>[[Pouvoirs spéciaux (guerre)#ETREINTE|Étreinte]]</td><td>[[Pouvoirs spéciaux (guerre)#MALADIE|Maladie]]</td><td>[[Pouvoirs spéciaux (guerre)#PETRIFICATION|Pétrification]]</td><td>[[Pouvoirs spéciaux (guerre)#SAIGNEMENT|Saignement]]</td><td>[[Pouvoirs spéciaux (guerre)#VISIONDANSLENOIR|Vision dans le noir]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#BOMBE|Bombe]]</td><td>[[Pouvoirs spéciaux (guerre)#CREUSEMENT|Creusement]]</td><td>[[Pouvoirs spéciaux (guerre)#EVENTRATION|Éventration]]</td><td>[[Pouvoirs spéciaux (guerre)#MALEFICE|Maléfice]]</td><td>[[Pouvoirs spéciaux (guerre)#PISTAGE|Pistage]]</td><td>[[Pouvoirs spéciaux (guerre)#SANTEDIVINE|Santé divine]]</td><td>[[Pouvoirs spéciaux (guerre)#VISIONNOCTURNE|Vision nocturne]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#BOND|Bond]]</td><td>[[Pouvoirs spéciaux (guerre)#CROCENJAMBE|Croc-en-jambe]]</td><td>[[Pouvoirs spéciaux (guerre)#FEROCITE|Férocité]]</td><td>[[Pouvoirs spéciaux (guerre)#MOBILITE|Mobilité]]</td><td>[[Pouvoirs spéciaux (guerre)#PIETINEMENT|Piétinement]]</td><td>[[Pouvoirs spéciaux (guerre)#SENSDESPIEGES|Sens des pièges]]</td><td>[[Pouvoirs spéciaux (guerre)#VOL|Vol]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#CANALISATIONDENERGIENEGATIVE|Canalisation d’énergie négative]]</td><td>[[Pouvoirs spéciaux (guerre)#DECOUVERTE|Découverte]]</td><td>[[Pouvoirs spéciaux (guerre)#FORMEANIMALE|Forme animale]]</td><td>[[Pouvoirs spéciaux (guerre)#MONTURE|Monture]]</td><td>[[Pouvoirs spéciaux (guerre)#POISON|Poison]]</td><td>[[Pouvoirs spéciaux (guerre)#SENSIBILITEALALUMIERE|Sensibilité à la lumière]]</td><td>[[Pouvoirs spéciaux (guerre)#VORTEX|Vortex]]</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#CANALISATIONDENERGIEPOSITIVE|Canalisation d’énergie positive]]</td><td>[[Pouvoirs spéciaux (guerre)#DEFENSEIMPORTANTE|Défense importante]]</td><td>[[Pouvoirs spéciaux (guerre)#GRACE|Grâce]]</td><td>[[Pouvoirs spéciaux (guerre)#MORTVIVANT|Mort-vivant]]</td><td>[[Pouvoirs spéciaux (guerre)#PREPARATIONDEPOTION|Préparation de potion]]</td><td>[[Pouvoirs spéciaux (guerre)#SOUFFLE|Souffle]]</td><td>&emsp;</td></tr><tr><td>[[Pouvoirs spéciaux (guerre)#CANNIBALISME|Cannibalisme]]</td><td>[[Pouvoirs spéciaux (guerre)#DEFI|Défi]]</td><td>[[Pouvoirs spéciaux (guerre)#GUERISONACCELEREE|Guérison accélérée]]</td><td>[[Pouvoirs spéciaux (guerre)#NAGEDANSLATERRE|Nage dans la terre]]</td><td>[[Pouvoirs spéciaux (guerre)#PROTECTIONDALLIE|Protection d’allié]]</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%" STYLE="table-layout: fixed;">
+  <caption>Liste des pouvoirs spéciaux</caption>
+  <tr CLASS="titre"><td>Nom</td></tr>
+  <tr CLASS="premier">
+    <td>[[Pouvoirs spéciaux (guerre)#ABSORPTIONDENERGIE|Absorption d’énergie]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CHARGEPUISSANTE|Charge puissante]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#DELUGEDECOUPS|Déluge de coups]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#IMMUNITE|Immunité]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#NUEE|Nuée]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#RAGE|Rage]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#ALCHIMIE|Alchimie]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CHATIMENTDUMAL|Châtiment du Mal]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#DEPOURVUDINTELLIGENCE|Dépourvu d’intelligence]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#IMPOSITIONDESMAINS|Imposition des mains]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ODORAT|Odorat]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#RECEPTIONDEROCHERS|Réception de rochers]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#STYLEDECOMBAT|Style de combat]]</td>
+  </tr>
+  <tr>
+    <td>
+      [[Pouvoirs spéciaux (guerre)#AFFAIBLISSEMENTTEMPORAIREDIMINUTIONPERMANENTEDECARACTERISTIQUE|Aff. temp/dim.
+      permanente de caractéristique]]
+    </td>
+    <td>[[Pouvoirs spéciaux (guerre)#COMBUSTION|Combustion]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#EIDOLON|Eidolon]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#INCANTATION|Incantation]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ORDRE|Ordre]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#REDUCTIONDEDEGATS|Réduction de dégâts]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#TACTICIEN|Tacticien]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#AMPHIBIE|Amphibie]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#COMPAGNONANIMAL|Compagnon animal]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ENNEMIJURE|Ennemi juré]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#INSPIRATIONVAILLANTE|Inspiration vaillante]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PACTEDUCHASSEUR|Pacte du chasseur]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#REGENERATION|Régénération]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#TALENTDEROUBLARD|Talent de roublard]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#AQUATIQUE|Aquatique]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#COUPETOURDISSANT|Coup étourdissant]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#INTANGIBLE|Intangible]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PARALYSIE|Paralysie]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#RESERVEDEKI|Réserve de ki]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#TELEPORTATION|Téléportation]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#ATTAQUESOURNOISE|Attaque sournoise]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#COURAGE|Courage]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ENTRAîNEMENTAUXARMURES|Entraînement aux armures]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#INVISIBILITE|Invisibilité]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PATTESARRIERES|Pattes arrières]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#RESISTANCE|Résistance]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#TERREUR|Terreur]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#AURADEBRAVOURE|Aura de bravoure]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CREATIONDETEMPETEDESABLE|Création de tempête de sable]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ESCALADE|Escalade]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#JUGEMENT|Jugement]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PERCEPTIONAVEUGLE|Perception aveugle]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#RESISTANCEALAMAGIE|Résistance à la magie]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#TOURBILLON|Tourbillon]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#AURASURNATURELLE|Aura surnaturelle]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CREATIONDEREJETON|Création de rejeton]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ESQUIVETOTALE|Esquive totale]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#LANCERDEROCHERS|Lancer de rochers]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PERCEPTIONDESVIBRATIONS|Perception des vibrations]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#RESISTANCEAUPOISON|Résistance au poison]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#VEGETALE|Végétale]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#AVEUGLEPARLALUMIERE|Aveuglé par la lumière]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CREATUREARTIFICIELLE|Créature artificielle]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#ETREINTE|Étreinte]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#MALADIE|Maladie]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PETRIFICATION|Pétrification]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#SAIGNEMENT|Saignement]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#VISIONDANSLENOIR|Vision dans le noir]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#BOMBE|Bombe]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CREUSEMENT|Creusement]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#EVENTRATION|Éventration]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#MALEFICE|Maléfice]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PISTAGE|Pistage]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#SANTEDIVINE|Santé divine]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#VISIONNOCTURNE|Vision nocturne]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#BOND|Bond]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#CROCENJAMBE|Croc-en-jambe]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#FEROCITE|Férocité]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#MOBILITE|Mobilité]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PIETINEMENT|Piétinement]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#SENSDESPIEGES|Sens des pièges]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#VOL|Vol]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#CANALISATIONDENERGIENEGATIVE|Canalisation d’énergie négative]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#DECOUVERTE|Découverte]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#FORMEANIMALE|Forme animale]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#MONTURE|Monture]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#POISON|Poison]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#SENSIBILITEALALUMIERE|Sensibilité à la lumière]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#VORTEX|Vortex]]</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#CANALISATIONDENERGIEPOSITIVE|Canalisation d’énergie positive]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#DEFENSEIMPORTANTE|Défense importante]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#GRACE|Grâce]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#MORTVIVANT|Mort-vivant]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PREPARATIONDEPOTION|Préparation de potion]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#SOUFFLE|Souffle]]</td>
+    <td>&emsp;</td>
+  </tr>
+  <tr>
+    <td>[[Pouvoirs spéciaux (guerre)#CANNIBALISME|Cannibalisme]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#DEFI|Défi]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#GUERISONACCELEREE|Guérison accélérée]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#NAGEDANSLATERRE|Nage dans la terre]]</td>
+    <td>[[Pouvoirs spéciaux (guerre)#PROTECTIONDALLIE|Protection d’allié]]</td>
+    <td>&emsp;</td>
+    <td>&emsp;</td>
+  </tr>
+</table>
 
 <table width="100%"><tr><td width="49%">
 - {s:Reference|ABSORPTIONDENERGIE}**Absorption d’énergie.** Si l’armée blesse un ennemi, elle réduit le [[Combat de masse#MA|MA]] et la [[Combat de masse#VDEF|VDéf]] de celui-ci de 1 pendant 24 heures.

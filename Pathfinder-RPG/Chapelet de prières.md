@@ -13,7 +13,42 @@ Categories:
 Ce chapelet prend la forme d’un collier non-magique, mais il suffit qu’un personnage lance un sort [[magie divine|divin]] en le portant sur lui pour que sa véritable nature se révèle. Le personnage connaît alors aussitôt les pouvoirs des grains du chapelet et la façon de les activer. Chaque chapelet contient deux (ou plus) grains spéciaux, chacun ayant un pouvoir magique.
 
 
-<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Grain enchanté</td><td CLASS="gauche">Pouvoir</td></tr><tr CLASS="premier"><td>Grain de bénédiction</td><td CLASS="gauche">Le personnage peut lancer *[[bénédiction]]*.</td></tr><tr><td>Grain de châtiment</td><td CLASS="gauche">Le personnage peut lancer *[[châtiment sacré]]*, *[[courroux de lordre|courroux de l’ordre]]*, *[[marteau du Chaos]]* ou *[[ténèbres maudites]]* (jet de [[Volonté]] [[DD]] 17 pour effet partiel).</td></tr><tr><td>Grain de convocation</td><td CLASS="gauche">Convoque une créature puissante des plans extérieurs (un ange, un démon, etc.) pour aider le porteur pendant une journée (si le personnage invoque ainsi un émissaire de son dieu pour des raisons frivoles, ce dernier risque au mieux de confisquer les objets du personnage et de placer sur lui une quête appropriée).</td></tr><tr><td>Grain de guérison</td><td CLASS="gauche">Le personnage peut lancer au choix *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]*, *[[guérison des maladies]]* ou *[[soins importants]]*.</td></tr><tr><td>Grain de karma</td><td CLASS="gauche">Le personnage lance ses sorts avec un bonus de +4 au niveau de lanceur de sorts. Cet effet dure dix minutes.</td></tr><tr><td>Grain de vent divin</td><td CLASS="gauche">Le personnage peut lancer *[[vent divin]]*.</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <tr CLASS="titre"><td>Grain enchanté</td><td CLASS="gauche">Pouvoir</td></tr>
+  <tr CLASS="premier">
+    <td>Grain de bénédiction</td>
+    <td CLASS="gauche">Le personnage peut lancer *[[bénédiction]]*.</td>
+  </tr>
+  <tr>
+    <td>Grain de châtiment</td>
+    <td CLASS="gauche">
+      Le personnage peut lancer *[[châtiment sacré]]*, *[[courroux de lordre|courroux de l’ordre]]*, *[[marteau du
+      Chaos]]* ou *[[ténèbres maudites]]* (jet de [[Volonté]] [[DD]] 17 pour effet partiel).
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de convocation</td>
+    <td CLASS="gauche">
+      Convoque une créature puissante des plans extérieurs (un ange, un démon, etc.) pour aider le porteur pendant
+      une journée (si le personnage invoque ainsi un émissaire de son dieu pour des raisons frivoles, ce dernier
+      risque au mieux de confisquer les objets du personnage et de placer sur lui une quête appropriée).
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de guérison</td>
+    <td CLASS="gauche">
+      Le personnage peut lancer au choix *[[guérison de la cécitésurdité|guérison de la cécité/surdité]]*,
+      *[[guérison des maladies]]* ou *[[soins importants]]*.
+    </td>
+  </tr>
+  <tr>
+    <td>Grain de karma</td>
+    <td CLASS="gauche">
+      Le personnage lance ses sorts avec un bonus de +4 au niveau de lanceur de sorts. Cet effet dure dix minutes.
+    </td>
+  </tr>
+  <tr><td>Grain de vent divin</td><td CLASS="gauche">Le personnage peut lancer *[[vent divin]]*.</td></tr>
+</table>
 
 
 Un chapelet de prière mineur contient un grain de bénédiction et un grain de guérison. Un chapelet de prière courant contient un grain guérison, un grain de karma et un grain de châtiment. Un chapelet de prière majeur contient un grain de guérison, un grain de karma, un grain de convocation et un grain de vent divin.

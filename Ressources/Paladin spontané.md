@@ -36,7 +36,165 @@ Contrairement à un [[Pathfinder-RPG.paladin|paladin]] ou à un [[Pathfinder-RPG
 {s:Reference|TABLEPALADINEMPIREEN}
 <center>
 
-<table CLASS="tablo"><caption>Sorts d'un paladin empyréen</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td CLASS="avecsoustitre" COLSPAN="9">Sorts par jour  -   Sorts connus</td></tr><tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td><td>-</td><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>0</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>1</td><td>0</td><td>-</td><td>-</td><td>-</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>2</td><td>1</td><td>0</td><td>-</td><td>-</td><td>3</td><td>2</td><td>1</td><td>-</td></tr><tr><td>11</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td><td>3</td><td>2</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>4</td><td>3</td><td>2</td><td>-</td></tr><tr><td>13</td><td>3</td><td>2</td><td>1</td><td>0</td><td>-</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>14</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr><td>15</td><td>3</td><td>2</td><td>2</td><td>1</td><td>-</td><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>16</td><td>3</td><td>3</td><td>2</td><td>1</td><td>-</td><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr><td>17</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>5</td><td>4</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>4</td><td>3</td><td>2</td><td>2</td><td>-</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr CLASS="alt"><td>20</td><td>4</td><td>4</td><td>3</td><td>3</td><td>-</td><td>5</td><td>5</td><td>4</td><td>4</td></tr></table>
+<table CLASS="tablo">
+  <caption>Sorts d'un paladin empyréen</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td CLASS="avecsoustitre" COLSPAN="9">Sorts par jour  -   Sorts connus</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>1e</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>-</td>
+    <td>1e</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>5</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>7</td><td>1</td><td>0</td><td>-</td><td>-</td><td>-</td><td>2</td><td>1</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr><td>9</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>3</td><td>2</td><td>-</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr><td>11</td><td>2</td><td>1</td><td>1</td><td>-</td><td>-</td><td>3</td><td>2</td><td>1</td><td>-</td></tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr><td>13</td><td>3</td><td>2</td><td>1</td><td>0</td><td>-</td><td>4</td><td>3</td><td>2</td><td>1</td></tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr><td>15</td><td>3</td><td>2</td><td>2</td><td>1</td><td>-</td><td>5</td><td>4</td><td>3</td><td>2</td></tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr><td>17</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>5</td><td>4</td><td>3</td><td>2</td></tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>-</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr><td>19</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td><td>5</td><td>5</td><td>4</td><td>3</td></tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>-</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+</table>
 
 </center>
 

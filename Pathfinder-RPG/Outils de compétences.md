@@ -10,7 +10,539 @@ LastModified: 2023-02-01 15:13
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Outils de compétences</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Outils de compétences#Abaque|↓]] [[Abaque (objet)|Abaque]]</td><td>2 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Album de portraits|↓]] [[Album de portraits (objet)|Album de portraits]]</td><td>10 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Autel portable|↓]] [[Autel portable (objet)|Autel portable]]</td><td>250 po</td><td>20 kg</td></tr><tr><td>[[Outils de compétences#Balance de marchand|↓]] [[Balance de marchand (objet)|Balance de marchand]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Balancier|↓]] [[Balancier (objet)|Balancier]]</td><td>8 pa</td><td>6 kg</td></tr><tr><td>[[Outils de compétences#Bille de fronde alchimique|↓]] [[Bille de fronde alchimique (objet)|Bille de fronde alchimique]]</td><td>5 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Bocal de sangsues|↓]] [[Bocal de sangsues (objet)|Bocal de sangsues]]</td><td>5 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Bouteille en verre de sucre|↓]] [[Bouteille en verre de sucre (objet)|Bouteille en verre de sucre]]</td><td>1 po</td><td>—</td></tr><tr><td>[[Outils de compétences#Carnet obsessionnel|↓]] [[Carnet obsessionnel (objet)|Carnet obsessionnel]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Cartes du ciel|↓]] [[Cartes du ciel (objet)|Cartes du ciel]]</td><td>200 po</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Chistera|↓]] [[Chistera (objet)|Chistera]]</td><td>12 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Civière|↓]] [[Civière (objet)|Civière]]</td><td>1 po</td><td>5 kg</td></tr><tr><td>[[Outils de compétences#Corde rugissante|↓]] [[Corde rugissante (objet)|Corde rugissante]]</td><td>15 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Cornet à feu|↓]] [[Cornet à feu (objet)|Cornet à feu]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Encensoir céleste|↓]] [[Encensoir céleste (objet)|Encensoir céleste]]</td><td>50 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Enclume|↓]] [[Enclume (objet)|Enclume]]</td><td>5 po</td><td>5–50 kg</td></tr><tr><td>[[Outils de compétences#Ensemble de pochoirs dombre|↓]] [[Ensemble de pochoirs dombre (objet)|Ensemble de pochoirs d'ombre]]</td><td>30 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Épissoir|↓]] [[Épissoir (objet)|Épissoir]]</td><td>8 pa</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Étendard tribal|↓]] [[Étendard tribal (objet)|Étendard tribal]]</td><td>50 po</td><td>10 kg</td></tr><tr><td>[[Outils de compétences#Fétiche tribal|↓]] [[Fétiche tribal (objet)|Fétiche tribal]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Outils de compétences#Flotteur|↓]] [[Flotteur (objet)|Flotteur]]</td><td>1 po</td><td>1 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Fourreau du tricheur|↓]] [[Fourreau du tricheur (objet)|Fourreau du tricheur]]</td><td>100 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Gant de jet|↓]] [[Gant de jet (objet)|Gant de jet]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Gants de psychométricien|↓]] [[Gants de psychométricien (objet)|Gants de psychométricien]]</td><td>10 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Graisse de lutteur|↓]] [[Graisse de lutteur (objet)|Graisse de lutteur (pot)]]</td><td>5 po</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Graisse de porc|↓]] [[Graisse de porc (objet)|Graisse de porc]]</td><td>1 pa</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Griffes de troll barbelées|↓]] [[Griffes de troll barbelées (objet)|Griffes de troll barbelées]]</td><td>20 po</td><td>2 kg</td></tr><tr><td>[[Outils de compétences#Grimoire|↓]] [[Grimoire (objet)|Grimoire]]</td><td>15 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Grimoire de poche|↓]] [[Grimoire de poche (objet)|Grimoire de poche]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Grimoire de voyage|↓]] [[Grimoire de voyage (objet)|Grimoire de voyage]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Guide des empreintes de pas|↓]] [[Guide des empreintes de pas (objet)|Guide des empreintes de pas]]</td><td>50 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Houx et gui|↓]] [[Houx et gui (objet)|Houx et gui]]</td><td>0 po</td><td>—</td></tr><tr><td>[[Outils de compétences#Instrument de musique|↓]] [[Instrument de musique (objet)|Instrument de musique (de maître)]]</td><td>100 po</td><td>1,5 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Instrument de musique|↓]] [[Instrument de musique (objet)|Instrument de musique (standard)]]</td><td>5 po</td><td>1,5 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Instruments doccultiste|↓]] [[Instruments doccultiste (objet)|Instruments d'occultiste]]</td><td>10 po</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Instruments de chirurgien|↓]] [[Instruments de chirurgien (objet)|Instruments de chirurgien]]</td><td>20 po</td><td>2,5 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Kit de déguisement orque|↓]] [[Kit de déguisement orque (objet)|Kit de déguisement orque]]</td><td>75 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Laboratoire dalchimiste|↓]] [[Laboratoire dalchimiste (objet)|Laboratoire d'alchimiste]]</td><td>200 po</td><td>20 kg</td></tr><tr><td>[[Outils de compétences#Laboratoire dalchimiste portable|↓]] [[Laboratoire dalchimiste portable (objet)|Laboratoire d'alchimiste portable]]</td><td>75 po</td><td>10 kg</td></tr><tr><td>[[Outils de compétences#Laboratoire dartisanat portatif|↓]] [[Laboratoire dartisanat portatif (objet)|Laboratoire d'artisanat portatif]]</td><td>300 po</td><td>20 kg</td></tr><tr><td>[[Outils de compétences#Lampe céleste|↓]] [[Lampe céleste (objet)|Lampe céleste]]</td><td>300 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Les Prophéties du Paradis|↓]] [[Les Prophéties du Paradis (objet)|Les Prophéties du Paradis]]</td><td>75 po</td><td>5 kg</td></tr><tr><td>[[Outils de compétences#Malette desquire|↓]] [[Malette desquire (objet)|Malette d'esquire]]</td><td>100 po</td><td>4 kg</td></tr><tr><td>[[Outils de compétences#Manuel dexercices arcaniques familial|↓]] [[Manuel dexercices arcaniques familial (objet)|Manuel d'exercices arcaniques familial]]</td><td>300 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Manuel des arts divinatoires|↓]] [[Manuel des arts divinatoires (objet)|Manuel des arts divinatoires]]</td><td>30 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Masque de médecin|↓]] [[Masque de médecin (objet)|Masque de médecin]]</td><td>50 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Matériel descalade|↓]] [[Matériel descalade (objet)|Matériel d'escalade]]</td><td>80 po</td><td>2,5 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Meule à bras circulaire|↓]] [[Meule à bras circulaire (objet)|Meule à bras circulaire]]</td><td>10 po</td><td>10 kg</td></tr><tr><td>[[Outils de compétences#Nécessaire de pêche|↓]] [[Nécessaire de pêche (objet)|Nécessaire de pêche]]</td><td>5 pa</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Nécessaire de pyrogravure|↓]] [[Nécessaire de pyrogravure (objet)|Nécessaire de pyrogravure]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Ombrelle|↓]] [[Ombrelle (objet)|Ombrelle (ordinaire)]]</td><td>1 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Ombrelle|↓]] [[Ombrelle (objet)|Ombrelle (parapluie)]]</td><td>2 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Outil de maître|↓]] [[Outil de maître (objet)|Outil de maître]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Outils dartisan|↓]] [[Outils dartisan (objet)|Outils d'artisan (de maître)]]</td><td>55 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Outils dartisan|↓]] [[Outils dartisan (objet)|Outils d'artisan (standard)]]</td><td>5 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Outils de cambrioleur|↓]] [[Outils de cambrioleur (objet)|Outils de cambrioleur (de maître)]]</td><td>100 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Outils de cambrioleur|↓]] [[Outils de cambrioleur (objet)|Outils de cambrioleur (standards)]]</td><td>30 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Outils de cambrioleur discrets|↓]] [[Outils de cambrioleur discrets (objet)|Outils de cambrioleur discrets]]</td><td>190 po</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Ouvrage de référence sur locculte|↓]] [[Ouvrage de référence sur locculte (objet)|Ouvrage de référence sur l'occulte]]</td><td>80 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Palmes|↓]] [[Palmes (objet)|Palmes]]</td><td>1 pa</td><td>2,5 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Piège à ours|↓]] [[Piège à ours (objet)|Piège à ours]]</td><td>2 po</td><td>5 kg</td></tr><tr><td>[[Outils de compétences#Plâtre de copie dempreintes|↓]] [[Plâtre de copie dempreintes (objet)|Plâtre de copie d'empreintes]]</td><td>2 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Presse dimprimerie|↓]] [[Presse dimprimerie (objet)|Presse d'imprimerie (1 page)]]</td><td>250 po</td><td>75 kg</td></tr><tr><td>[[Outils de compétences#Recueil de formules|↓]] [[Recueil de formules (objet)|Recueil de formules]]</td><td>15 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Recueil de formules de voyage|↓]] [[Recueil de formules de voyage (objet)|Recueil de formules de voyage]]</td><td>10 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Roue karmique du samsaran|↓]] [[Roue karmique du samsaran (objet)|Roue karmique du samsaran]]</td><td>25 po</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Sacoche à composantes|↓]] [[Sacoche à composantes (objet)|Sacoche à composantes]]</td><td>5 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Sacoche de lalchimiste|↓]] [[Sacoche de lalchimiste (objet)|Sacoche de l'alchimiste]]</td><td>25 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Solarium portable|↓]] [[Solarium portable (objet)|Solarium portable]]</td><td>800 po</td><td>17,5 kg</td></tr><tr><td>[[Outils de compétences#Soufflet|↓]] [[Soufflet (objet)|Soufflet]]</td><td>1 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Suerie portable|↓]] [[Suerie portable (objet)|Suerie portable]]</td><td>25 po</td><td>12,5 kg</td></tr><tr><td>[[Outils de compétences#Tarot de voyant|↓]] [[Tarot de voyant (objet)|Tarot de voyant (de maître)]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Tarot de voyant|↓]] [[Tarot de voyant (objet)|Tarot de voyant (de qualité)]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Tarot de voyant|↓]] [[Tarot de voyant (objet)|Tarot de voyant (standard)]]</td><td>1 po</td><td>0,25 kg</td></tr><tr><td>[[Outils de compétences#Tenue de médecin|↓]] [[Tenue de médecin (objet)|Tenue de médecin]]</td><td>150 po</td><td>3 kg</td></tr><tr><td>[[Outils de compétences#Thermomètre|↓]] [[Thermomètre (objet)|Thermomètre]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Tome dépopées|↓]] [[Tome dépopées (objet)|Tome d'épopées]]</td><td>50 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse à symptômes|↓]] [[Trousse à symptômes (objet)|Trousse à symptômes]]</td><td>25 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse dantidotes|↓]] [[Trousse dantidotes (objet)|Trousse d'antidotes]]</td><td>100 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse dartiste|↓]] [[Trousse dartiste (objet)|Trousse d'artiste]]</td><td>5 pa</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de cartographe|↓]] [[Trousse de cartographe (objet)|Trousse de cartographe]]</td><td>10 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Trousse de déguisement|↓]] [[Trousse de déguisement (objet)|Trousse de déguisement]]</td><td>50 po</td><td>4 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Trousse de faussaire|↓]] [[Trousse de faussaire (objet)|Trousse de faussaire]]</td><td>200 po</td><td>3 kg</td></tr><tr><td>[[Outils de compétences#Trousse de jongleur|↓]] [[Trousse de jongleur (objet)|Trousse de jongleur]]</td><td>15 po</td><td>5 kg<sup>[[Outils de compétences#1|1]]</sup></td></tr><tr><td>[[Outils de compétences#Trousse de joueur|↓]] [[Trousse de joueur (objet)|Trousse de joueur (standard)]]</td><td>75 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de joueur|↓]] [[Trousse de joueur (objet)|Trousse de joueur (tricheur)]]</td><td>300 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de musc|↓]] [[Trousse de musc (objet)|Trousse de musc]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de parfumerie|↓]] [[Trousse de parfumerie (objet)|Trousse de parfumerie]]</td><td>40 po</td><td>5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de phrénologue|↓]] [[Trousse de phrénologue (objet)|Trousse de phrénologue]]</td><td>50 po</td><td>2,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de premiers secours|↓]] [[Trousse de premiers secours (objet)|Trousse de premiers secours]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Trousse de sage-femme|↓]] [[Trousse de sage-femme (objet)|Trousse de sage-femme]]</td><td>10 po</td><td>1 kg</td></tr><tr><td>[[Outils de compétences#Trousse de vétérinaire|↓]] [[Trousse de vétérinaire (objet)|Trousse de vétérinaire]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Outils de compétences#Tyrolienne|↓]] [[Tyrolienne (objet)|Tyrolienne]]</td><td>50 po</td><td>1,5 kg</td></tr><tr><td>[[Outils de compétences#Viseur du chasseur|↓]] [[Viseur du chasseur (objet)|Viseur du chasseur]]</td><td>100 po</td><td>—</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <caption>Outils de compétences</caption>
+  <tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr>
+  <tr CLASS="premier">
+    <td>[[Outils de compétences#Abaque|↓]] [[Abaque (objet)|Abaque]]</td>
+    <td>2 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Album de portraits|↓]] [[Album de portraits (objet)|Album de portraits]]</td>
+    <td>10 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Autel portable|↓]] [[Autel portable (objet)|Autel portable]]</td>
+    <td>250 po</td>
+    <td>20 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Balance de marchand|↓]] [[Balance de marchand (objet)|Balance de marchand]]</td>
+    <td>2 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Balancier|↓]] [[Balancier (objet)|Balancier]]</td><td>8 pa</td><td>6 kg</td></tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Bille de fronde alchimique|↓]] [[Bille de fronde alchimique (objet)|Bille de fronde
+      alchimique]]
+    </td>
+    <td>5 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Bocal de sangsues|↓]] [[Bocal de sangsues (objet)|Bocal de sangsues]]</td>
+    <td>5 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Bouteille en verre de sucre|↓]] [[Bouteille en verre de sucre (objet)|Bouteille en
+      verre de sucre]]
+    </td>
+    <td>1 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Carnet obsessionnel|↓]] [[Carnet obsessionnel (objet)|Carnet obsessionnel]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Cartes du ciel|↓]] [[Cartes du ciel (objet)|Cartes du ciel]]</td>
+    <td>200 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Chistera|↓]] [[Chistera (objet)|Chistera]]</td><td>12 po</td><td>0,5 kg</td></tr>
+  <tr><td>[[Outils de compétences#Civière|↓]] [[Civière (objet)|Civière]]</td><td>1 po</td><td>5 kg</td></tr>
+  <tr>
+    <td>[[Outils de compétences#Corde rugissante|↓]] [[Corde rugissante (objet)|Corde rugissante]]</td>
+    <td>15 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Cornet à feu|↓]] [[Cornet à feu (objet)|Cornet à feu]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Encensoir céleste|↓]] [[Encensoir céleste (objet)|Encensoir céleste]]</td>
+    <td>50 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Enclume|↓]] [[Enclume (objet)|Enclume]]</td><td>5 po</td><td>5–50 kg</td></tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Ensemble de pochoirs dombre|↓]] [[Ensemble de pochoirs dombre (objet)|Ensemble de
+      pochoirs d'ombre]]
+    </td>
+    <td>30 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Épissoir|↓]] [[Épissoir (objet)|Épissoir]]</td><td>8 pa</td><td>0,25 kg</td></tr>
+  <tr>
+    <td>[[Outils de compétences#Étendard tribal|↓]] [[Étendard tribal (objet)|Étendard tribal]]</td>
+    <td>50 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Fétiche tribal|↓]] [[Fétiche tribal (objet)|Fétiche tribal]]</td>
+    <td>5 po</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Flotteur|↓]] [[Flotteur (objet)|Flotteur]]</td>
+    <td>1 po</td>
+    <td>1 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Fourreau du tricheur|↓]] [[Fourreau du tricheur (objet)|Fourreau du tricheur]]</td>
+    <td>100 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Gant de jet|↓]] [[Gant de jet (objet)|Gant de jet]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Gants de psychométricien|↓]] [[Gants de psychométricien (objet)|Gants de
+      psychométricien]]
+    </td>
+    <td>10 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Graisse de lutteur|↓]] [[Graisse de lutteur (objet)|Graisse de lutteur (pot)]]</td>
+    <td>5 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Graisse de porc|↓]] [[Graisse de porc (objet)|Graisse de porc]]</td>
+    <td>1 pa</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Griffes de troll barbelées|↓]] [[Griffes de troll barbelées (objet)|Griffes de troll
+      barbelées]]
+    </td>
+    <td>20 po</td>
+    <td>2 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Grimoire|↓]] [[Grimoire (objet)|Grimoire]]</td><td>15 po</td><td>1,5 kg</td></tr>
+  <tr>
+    <td>[[Outils de compétences#Grimoire de poche|↓]] [[Grimoire de poche (objet)|Grimoire de poche]]</td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Grimoire de voyage|↓]] [[Grimoire de voyage (objet)|Grimoire de voyage]]</td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Guide des empreintes de pas|↓]] [[Guide des empreintes de pas (objet)|Guide des
+      empreintes de pas]]
+    </td>
+    <td>50 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Houx et gui|↓]] [[Houx et gui (objet)|Houx et gui]]</td><td>0 po</td><td>—</td></tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Instrument de musique|↓]] [[Instrument de musique (objet)|Instrument de musique (de
+      maître)]]
+    </td>
+    <td>100 po</td>
+    <td>1,5 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Instrument de musique|↓]] [[Instrument de musique (objet)|Instrument de musique
+      (standard)]]
+    </td>
+    <td>5 po</td>
+    <td>1,5 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Instruments doccultiste|↓]] [[Instruments doccultiste (objet)|Instruments
+      d'occultiste]]
+    </td>
+    <td>10 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Instruments de chirurgien|↓]] [[Instruments de chirurgien (objet)|Instruments de
+      chirurgien]]
+    </td>
+    <td>20 po</td>
+    <td>2,5 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Kit de déguisement orque|↓]] [[Kit de déguisement orque (objet)|Kit de déguisement
+      orque]]
+    </td>
+    <td>75 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Laboratoire dalchimiste|↓]] [[Laboratoire dalchimiste (objet)|Laboratoire
+      d'alchimiste]]
+    </td>
+    <td>200 po</td>
+    <td>20 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Laboratoire dalchimiste portable|↓]] [[Laboratoire dalchimiste portable
+      (objet)|Laboratoire d'alchimiste portable]]
+    </td>
+    <td>75 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Laboratoire dartisanat portatif|↓]] [[Laboratoire dartisanat portatif
+      (objet)|Laboratoire d'artisanat portatif]]
+    </td>
+    <td>300 po</td>
+    <td>20 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Lampe céleste|↓]] [[Lampe céleste (objet)|Lampe céleste]]</td>
+    <td>300 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Les Prophéties du Paradis|↓]] [[Les Prophéties du Paradis (objet)|Les Prophéties du
+      Paradis]]
+    </td>
+    <td>75 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Malette desquire|↓]] [[Malette desquire (objet)|Malette d'esquire]]</td>
+    <td>100 po</td>
+    <td>4 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Manuel dexercices arcaniques familial|↓]] [[Manuel dexercices arcaniques familial
+      (objet)|Manuel d'exercices arcaniques familial]]
+    </td>
+    <td>300 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Manuel des arts divinatoires|↓]] [[Manuel des arts divinatoires (objet)|Manuel des
+      arts divinatoires]]
+    </td>
+    <td>30 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Masque de médecin|↓]] [[Masque de médecin (objet)|Masque de médecin]]</td>
+    <td>50 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Matériel descalade|↓]] [[Matériel descalade (objet)|Matériel d'escalade]]</td>
+    <td>80 po</td>
+    <td>2,5 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Meule à bras circulaire|↓]] [[Meule à bras circulaire (objet)|Meule à bras
+      circulaire]]
+    </td>
+    <td>10 po</td>
+    <td>10 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Nécessaire de pêche|↓]] [[Nécessaire de pêche (objet)|Nécessaire de pêche]]</td>
+    <td>5 pa</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Nécessaire de pyrogravure|↓]] [[Nécessaire de pyrogravure (objet)|Nécessaire de
+      pyrogravure]]
+    </td>
+    <td>1 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Ombrelle|↓]] [[Ombrelle (objet)|Ombrelle (ordinaire)]]</td>
+    <td>1 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Ombrelle|↓]] [[Ombrelle (objet)|Ombrelle (parapluie)]]</td>
+    <td>2 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Outil de maître|↓]] [[Outil de maître (objet)|Outil de maître]]</td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Outils dartisan|↓]] [[Outils dartisan (objet)|Outils d'artisan (de maître)]]</td>
+    <td>55 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Outils dartisan|↓]] [[Outils dartisan (objet)|Outils d'artisan (standard)]]</td>
+    <td>5 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Outils de cambrioleur|↓]] [[Outils de cambrioleur (objet)|Outils de cambrioleur (de
+      maître)]]
+    </td>
+    <td>100 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Outils de cambrioleur|↓]] [[Outils de cambrioleur (objet)|Outils de cambrioleur
+      (standards)]]
+    </td>
+    <td>30 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Outils de cambrioleur discrets|↓]] [[Outils de cambrioleur discrets (objet)|Outils de
+      cambrioleur discrets]]
+    </td>
+    <td>190 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Ouvrage de référence sur locculte|↓]] [[Ouvrage de référence sur locculte
+      (objet)|Ouvrage de référence sur l'occulte]]
+    </td>
+    <td>80 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Palmes|↓]] [[Palmes (objet)|Palmes]]</td>
+    <td>1 pa</td>
+    <td>2,5 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Piège à ours|↓]] [[Piège à ours (objet)|Piège à ours]]</td>
+    <td>2 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Plâtre de copie dempreintes|↓]] [[Plâtre de copie dempreintes (objet)|Plâtre de copie
+      d'empreintes]]
+    </td>
+    <td>2 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Presse dimprimerie|↓]] [[Presse dimprimerie (objet)|Presse d'imprimerie (1 page)]]</td>
+    <td>250 po</td>
+    <td>75 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Recueil de formules|↓]] [[Recueil de formules (objet)|Recueil de formules]]</td>
+    <td>15 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Recueil de formules de voyage|↓]] [[Recueil de formules de voyage (objet)|Recueil de
+      formules de voyage]]
+    </td>
+    <td>10 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Roue karmique du samsaran|↓]] [[Roue karmique du samsaran (objet)|Roue karmique du
+      samsaran]]
+    </td>
+    <td>25 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Sacoche à composantes|↓]] [[Sacoche à composantes (objet)|Sacoche à composantes]]</td>
+    <td>5 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Sacoche de lalchimiste|↓]] [[Sacoche de lalchimiste (objet)|Sacoche de l'alchimiste]]
+    </td>
+    <td>25 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Solarium portable|↓]] [[Solarium portable (objet)|Solarium portable]]</td>
+    <td>800 po</td>
+    <td>17,5 kg</td>
+  </tr>
+  <tr><td>[[Outils de compétences#Soufflet|↓]] [[Soufflet (objet)|Soufflet]]</td><td>1 po</td><td>1,5 kg</td></tr>
+  <tr>
+    <td>[[Outils de compétences#Suerie portable|↓]] [[Suerie portable (objet)|Suerie portable]]</td>
+    <td>25 po</td>
+    <td>12,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Tarot de voyant|↓]] [[Tarot de voyant (objet)|Tarot de voyant (de maître)]]</td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Tarot de voyant|↓]] [[Tarot de voyant (objet)|Tarot de voyant (de qualité)]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Tarot de voyant|↓]] [[Tarot de voyant (objet)|Tarot de voyant (standard)]]</td>
+    <td>1 po</td>
+    <td>0,25 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Tenue de médecin|↓]] [[Tenue de médecin (objet)|Tenue de médecin]]</td>
+    <td>150 po</td>
+    <td>3 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Thermomètre|↓]] [[Thermomètre (objet)|Thermomètre]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Tome dépopées|↓]] [[Tome dépopées (objet)|Tome d'épopées]]</td>
+    <td>50 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse à symptômes|↓]] [[Trousse à symptômes (objet)|Trousse à symptômes]]</td>
+    <td>25 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse dantidotes|↓]] [[Trousse dantidotes (objet)|Trousse d'antidotes]]</td>
+    <td>100 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse dartiste|↓]] [[Trousse dartiste (objet)|Trousse d'artiste]]</td>
+    <td>5 pa</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Trousse de cartographe|↓]] [[Trousse de cartographe (objet)|Trousse de cartographe]]
+    </td>
+    <td>10 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Trousse de déguisement|↓]] [[Trousse de déguisement (objet)|Trousse de déguisement]]
+    </td>
+    <td>50 po</td>
+    <td>4 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de faussaire|↓]] [[Trousse de faussaire (objet)|Trousse de faussaire]]</td>
+    <td>200 po</td>
+    <td>3 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de jongleur|↓]] [[Trousse de jongleur (objet)|Trousse de jongleur]]</td>
+    <td>15 po</td>
+    <td>5 kg<sup>[[Outils de compétences#1|1]]</sup></td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de joueur|↓]] [[Trousse de joueur (objet)|Trousse de joueur (standard)]]</td>
+    <td>75 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de joueur|↓]] [[Trousse de joueur (objet)|Trousse de joueur (tricheur)]]</td>
+    <td>300 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de musc|↓]] [[Trousse de musc (objet)|Trousse de musc]]</td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de parfumerie|↓]] [[Trousse de parfumerie (objet)|Trousse de parfumerie]]</td>
+    <td>40 po</td>
+    <td>5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Trousse de phrénologue|↓]] [[Trousse de phrénologue (objet)|Trousse de phrénologue]]
+    </td>
+    <td>50 po</td>
+    <td>2,5 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Trousse de premiers secours|↓]] [[Trousse de premiers secours (objet)|Trousse de
+      premiers secours]]
+    </td>
+    <td>50 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Trousse de sage-femme|↓]] [[Trousse de sage-femme (objet)|Trousse de sage-femme]]</td>
+    <td>10 po</td>
+    <td>1 kg</td>
+  </tr>
+  <tr>
+    <td>
+      [[Outils de compétences#Trousse de vétérinaire|↓]] [[Trousse de vétérinaire (objet)|Trousse de vétérinaire]]
+    </td>
+    <td>25 po</td>
+    <td>0,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Tyrolienne|↓]] [[Tyrolienne (objet)|Tyrolienne]]</td>
+    <td>50 po</td>
+    <td>1,5 kg</td>
+  </tr>
+  <tr>
+    <td>[[Outils de compétences#Viseur du chasseur|↓]] [[Viseur du chasseur (objet)|Viseur du chasseur]]</td>
+    <td>100 po</td>
+    <td>—</td>
+  </tr>
+</table>
 
 </div>
 

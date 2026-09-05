@@ -48,7 +48,30 @@ Gardiens de l’équilibre, les dragons souverains, ou longwangs ainsi qu’on l
 
 <center>
 
-<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Dissonance dogmatique</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[détection du Mal|détection du Bien/Mal]]*</td><td>—</td></tr><tr><td>Jeune</td><td>Changement de forme, violente riposte</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Apaisement des émotions]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[Don des langues]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>Armure dorée, *[[résonance]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Rayons prismatiques]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Maître du contresort, *[[moment de prescience]]*</td><td>19</td></tr></table>
+<table CLASS="tablo toutgauche">
+  <caption>Tableau des gains de capacités</caption>
+  <tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr>
+  <tr CLASS="premier"><td>Dragonnet</td><td>Dissonance dogmatique</td><td>—</td></tr>
+  <tr CLASS="alt"><td>Très jeune</td><td>*[[détection du Mal|détection du Bien/Mal]]*</td><td>—</td></tr>
+  <tr><td>Jeune</td><td>Changement de forme, violente riposte</td><td>1</td></tr>
+  <tr CLASS="alt">
+    <td>Adolescent</td>
+    <td>*[[Apaisement des émotions]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Jeune adulte</td>
+    <td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td>
+    <td>5</td>
+  </tr>
+  <tr CLASS="alt"><td>Adulte</td><td>*[[Don des langues]]*</td><td>7</td></tr>
+  <tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr>
+  <tr CLASS="alt"><td>Vieux</td><td>Armure dorée, *[[résonance]]*</td><td>11</td></tr>
+  <tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr>
+  <tr CLASS="alt"><td>Vénérable</td><td>*[[Rayons prismatiques]]*</td><td>15</td></tr>
+  <tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr>
+  <tr CLASS="alt"><td>Grand dracosire</td><td>Maître du contresort, *[[moment de prescience]]*</td><td>19</td></tr>
+</table>
 
 </center>
 </div></td></tr></table>

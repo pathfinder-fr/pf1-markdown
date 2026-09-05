@@ -19,7 +19,26 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEARCHIMAGE}Le Filou</caption><tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr><tr CLASS="premier"><td>1</td><td>[[Filou Mythique#ATTAQUEDUFILOU|Attaque du filou]], [[Filou Mythique#APTITUDEDEVOIE|aptitude de voie]]</td></tr><tr><td>2</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>3</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>4</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>5</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>6</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>7</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>8</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>9</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>10</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Filou Mythique#FILOUSUPREME|filou suprême]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|TABLEARCHIMAGE}Le Filou</caption>
+  <tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>[[Filou Mythique#ATTAQUEDUFILOU|Attaque du filou]], [[Filou Mythique#APTITUDEDEVOIE|aptitude de voie]]</td>
+  </tr>
+  <tr><td>2</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>3</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>4</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>5</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>6</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>7</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>8</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr><td>9</td><td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr>
+  <tr>
+    <td>10</td>
+    <td>[[Filou Mythique#APTITUDEDEVOIE|Aptitude de voie]], [[Filou Mythique#FILOUSUPREME|filou suprême]]</td>
+  </tr>
+</table>
 
 </div></div>Au fur et à mesure que le filou monte en [[grades]], il obtient les aptitudes suivantes :
 

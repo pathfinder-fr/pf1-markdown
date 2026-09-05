@@ -14,7 +14,115 @@ Grâce à leur vaste éventail de compétences, les bardes et les roublards sont
 
 <center>
 
-<table CLASS="tablo"><caption>Le maître espion</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[maître espion#ARTDELATROMPERIE|Art de la tromperie]], [[maître espion#MAITREDESDEGUISEMENTS|maître des déguisements]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +1d6</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître espion#MENSONGEDESINVOLTE|Mensonge désinvolte]], [[maître espion#MASQUERSONALIGNEMENT|masquer son alignement]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[maître espion#AURANONMAGIQUE|Aura non magique]] 2/jour, [[maître espion#CONNAISSANCESSUPERFICIELLES|connaissances superficielles]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[maître espion#PENSEESDISSIMULEES|Pensées dissimulées]], [[maître espion#CHANGEMENTRAPIDE|changement rapide]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +2d6</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[maître espion#ECHAPPERALADETECTION|Échapper à la détection]], [[maître espion#ESPRITFUYANT|esprit fuyant]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[maître espion#CHANGERSONALIGNEMENT|Changer son alignement]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+4</td><td CLASS="gauche">[[maître espion#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+4</td><td CLASS="gauche">[[maître espion#ATTAQUEMORTELLE|Attaque mortelle]], [[maître espion#TROMPERLAMAGIE|tromper la magie]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[maître espion#ESPRITSECRET|Esprit secret]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[maître espion#VOLDIDENTITE|Vol d’identité]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le maître espion</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[maître espion#ARTDELATROMPERIE|Art de la tromperie]], [[maître espion#MAITREDESDEGUISEMENTS|maître des
+      déguisements]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +1d6
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[maître espion#MENSONGEDESINVOLTE|Mensonge désinvolte]], [[maître espion#MASQUERSONALIGNEMENT|masquer son
+      alignement]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[maître espion#AURANONMAGIQUE|Aura non magique]] 2/jour, [[maître
+      espion#CONNAISSANCESSUPERFICIELLES|connaissances superficielles]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[maître espion#PENSEESDISSIMULEES|Pensées dissimulées]], [[maître espion#CHANGEMENTRAPIDE|changement
+      rapide]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +2d6
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[maître espion#ECHAPPERALADETECTION|Échapper à la détection]], [[maître espion#ESPRITFUYANT|esprit fuyant]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[maître espion#CHANGERSONALIGNEMENT|Changer son alignement]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[maître espion#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[maître espion#ATTAQUEMORTELLE|Attaque mortelle]], [[maître espion#TROMPERLAMAGIE|tromper la magie]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[maître espion#ESPRITSECRET|Esprit secret]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[maître espion#VOLDIDENTITE|Vol d’identité]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +4d6
+    </td>
+  </tr>
+</table>
 
 </center>
 

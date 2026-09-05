@@ -34,4 +34,45 @@ bonus racial sur ses tests de [[Perception]] égal à la moitié de son niveau d
 
 ### Sorts de domaine
 
-<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Faune</td><td>Sous-domaine de la Plume</td><td>Sous-domaine du Poil</td></tr><tr CLASS="premier"><td>1er</td><td>*[[apaisement des animaux]]*</td><td>*idem*</td><td>*[[morsure magique]]*</td></tr><tr><td>2e</td><td>*[[immobilisation danimal|immobilisation d’animal]]*</td><td>*[[feuille morte]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[domination danimal|domination d’animal]]*</td><td>*[[sort Vol|vol]]*</td><td>*[[forme bestiale I]] (animaux seulement)*</td></tr><tr><td>4e</td><td>*[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[forme bestiale III]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[coquille antivie]]*</td><td>*[[vol de groupe]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[métamorphose animale]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[changement de forme]]*</td><td>*idem*</td><td>*idem*</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%">
+  <tr CLASS="titre">
+    <td WIDTH="4%">Niv</td>
+    <td WIDTH="26%">Domaine de la Faune</td>
+    <td>Sous-domaine de la Plume</td>
+    <td>Sous-domaine du Poil</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1er</td>
+    <td>*[[apaisement des animaux]]*</td>
+    <td>*idem*</td>
+    <td>*[[morsure magique]]*</td>
+  </tr>
+  <tr>
+    <td>2e</td>
+    <td>*[[immobilisation danimal|immobilisation d’animal]]*</td>
+    <td>*[[feuille morte]]*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr>
+    <td>3e</td>
+    <td>*[[domination danimal|domination d’animal]]*</td>
+    <td>*[[sort Vol|vol]]*</td>
+    <td>*[[forme bestiale I]] (animaux seulement)*</td>
+  </tr>
+  <tr>
+    <td>4e</td>
+    <td>*[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* (animaux seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>5e</td><td>*[[forme bestiale III]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr><td>6e</td><td>*[[coquille antivie]]*</td><td>*[[vol de groupe]]*</td><td>*idem*</td></tr>
+  <tr><td>7e</td><td>*[[métamorphose animale]]*</td><td>*idem*</td><td>*idem*</td></tr>
+  <tr>
+    <td>8e</td>
+    <td>*[[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]]* (animaux seulement)</td>
+    <td>*idem*</td>
+    <td>*idem*</td>
+  </tr>
+  <tr><td>9e</td><td>*[[changement de forme]]*</td><td>*idem*</td><td>*idem*</td></tr>
+</table>

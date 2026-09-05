@@ -13,7 +13,119 @@ Ils existent à la frontière de la lumière et des ténèbres, et y tissent les
 {s:Reference|TABLEMAITREDESOMBRES}
 <center>
 
-<table CLASS="tablo"><caption>Le maître des ombres</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[maître des ombres#DISCRETIONTOTALE|Discrétion totale]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître des ombres#ESQUIVETOTALE|Esquive totale]], [[maître des ombres#VISIONDANSLENOIR|vision dans le noir]], [[maître des ombres#ESQUIVEINSTINCTIVE|esquive instinctive]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître des ombres#POUVOIRDEROUBLARD|Talent de roublard]], [[maître des ombres#OMBRESILLUSOIRES|ombres illusoires]], [[maître des ombres#APPELDUCOMPAGNONDOMBRE|appel du compagnon d’ombre]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître des ombres#CONVOCATIONDOMBRE|Convocation d’ombre]], [[maître des ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (12 m / 8 cases)</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[maître des ombres#ROULEBOULE|Roulé-boulé]], [[maître des ombres#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[maître des ombres#POUVOIRDEROUBLARD|Talent de roublard]], [[maître des ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (24 m / 16 cases)</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[maître des ombres#ESPRITFUYANT|Esprit fuyant]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[maître des ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (48 m / 32 cases), [[maître des ombres#POUVOIRDESOMBRES|pouvoir des ombres]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[maître des ombres#POUVOIRDEROUBLARD|Talent de roublard]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[maître des ombres#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]], [[maître des ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (96 m / 64 cases), [[maître des ombres#MAITREDESOMBRES|maître des ombres]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le maître des ombres</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[maître des ombres#DISCRETIONTOTALE|Discrétion totale]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[maître des ombres#ESQUIVETOTALE|Esquive totale]], [[maître des ombres#VISIONDANSLENOIR|vision dans le
+      noir]], [[maître des ombres#ESQUIVEINSTINCTIVE|esquive instinctive]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[maître des ombres#POUVOIRDEROUBLARD|Talent de roublard]], [[maître des ombres#OMBRESILLUSOIRES|ombres
+      illusoires]], [[maître des ombres#APPELDUCOMPAGNONDOMBRE|appel du compagnon d’ombre]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[maître des ombres#CONVOCATIONDOMBRE|Convocation d’ombre]], [[maître des
+      ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (12 m / 8 cases)
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[maître des ombres#ROULEBOULE|Roulé-boulé]], [[maître des ombres#ESQUIVEINSTINCTIVESUPERIEURE|esquive
+      instinctive supérieure]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[maître des ombres#POUVOIRDEROUBLARD|Talent de roublard]], [[maître des
+      ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (24 m / 16 cases)
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[maître des ombres#ESPRITFUYANT|Esprit fuyant]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[maître des ombres#TELEPORTATIONPARLESOMBRES|Téléportation par les ombres]] (48 m / 32 cases), [[maître des
+      ombres#POUVOIRDESOMBRES|pouvoir des ombres]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[maître des ombres#POUVOIRDEROUBLARD|Talent de roublard]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[maître des ombres#ESQUIVEEXTRAORDINAIRE|Esquive extraordinaire]], [[maître des
+      ombres#TELEPORTATIONPARLESOMBRES|téléportation par les ombres]] (96 m / 64 cases), [[maître des
+      ombres#MAITREDESOMBRES|maître des ombres]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

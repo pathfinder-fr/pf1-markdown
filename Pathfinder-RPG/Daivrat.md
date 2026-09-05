@@ -13,7 +13,110 @@ Categories:
 Il existe divers types de génies, si semblables que la plupart des gens ne peuvent pas faire la différence mais les daivrat savent distinguer un djinn d’un jann et un [[Demi-jann, archétype|demi-jann]] d’un [[Suli (race)|suli]]-jann. Les daivrat sont exclusivement des habitants de la Porte de l'Est car, de toutes régions du monde, c’est le seul pays qui traite traditionnellement avec les génies. Les génies d’alignement Bon et Neutre accueillent les daivrat en amis et même les odieux éfrits savent qu’ils peuvent compter sur leurs « amis » daivrat, parfois au détriment de ces derniers.''
 
 
-<table CLASS="tablo centre autoalt"><caption>Le Daivrat</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Daivrat#ECOLEELEMENTAIRE|École élémentaire]], [[Daivrat#LANGUEDESGENIES|langue des génies]]</td><td CLASS="gauche">—</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Daivrat#QUETEDESORT|Quête de sort]] (niveau 3)</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Daivrat#AMIDESGENIES|Ami des génies]] (+2)</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Daivrat#HARMONISATIONELEMENTAIRE|Harmonisation élémentaire]]</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Daivrat#QUETEDESORT|Quête de sort]] (niveau 6)</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Daivrat#FAMILIERZHYEN|Familier zhyen]]</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Daivrat#ECOLEELEMENTAIRESUPERIEURE|École élémentaire supérieure]]</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Daivrat#QUETEDESORT|Quête de sort]] (niveau 8)</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Daivrat#AMIDESGENIES|Ami des génies]] (+4)</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Daivrat#GENIE|Génie]]</td><td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le Daivrat</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+    <td CLASS="gauche">Sorts par jour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Daivrat#ECOLEELEMENTAIRE|École élémentaire]], [[Daivrat#LANGUEDESGENIES|langue des génies]]
+    </td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Daivrat#QUETEDESORT|Quête de sort]] (niveau 3)</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Daivrat#AMIDESGENIES|Ami des génies]] (+2)</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Daivrat#HARMONISATIONELEMENTAIRE|Harmonisation élémentaire]]</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Daivrat#QUETEDESORT|Quête de sort]] (niveau 6)</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Daivrat#FAMILIERZHYEN|Familier zhyen]]</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Daivrat#ECOLEELEMENTAIRESUPERIEURE|École élémentaire supérieure]]</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Daivrat#QUETEDESORT|Quête de sort]] (niveau 8)</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Daivrat#AMIDESGENIES|Ami des génies]] (+4)</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Daivrat#GENIE|Génie]]</td>
+    <td CLASS="gauche">+1 niveau de classe de lancement de sorts existante</td>
+  </tr>
+</table>
 
 
 **Rôle.** Les daivrat remplissent le même rôle que les lanceurs de sorts standards, en plus de faire de bons diplomates auprès des génies et des races qui leur sont alliées.

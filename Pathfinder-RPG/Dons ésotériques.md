@@ -10,4 +10,75 @@ Categories:
 {s:MenuDons}{s:PU}Dans une campagne qui utilise le système des [[composantes matérielles ésotériques]], les personnages ont accès aux dons suivants. Chaque fois qu’un personnage devrait gagner un [[Dons#DONMETAMAGIE|don de métamagie]] supplémentaire, il peut décider de gagner un don ésotérique à la place.
 
 
-<table CLASS="tablo centre toutgauche" WIDTH="100%"><caption>Tableau récapitulatif des dons ésotériques</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="22%">Conditions</td><td WIDTH="55%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Abjuration ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts d'abjuration du personnage confèrent un bonus de compétence de +1 à un type de jet de sauvegarde pendant sa durée.</td></tr><tr CLASS="premier alt donprincipal"><td>[[Divination ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts de divination du personnage ont plus de chance de lui donner des informations</td></tr><tr CLASS="premier donprincipal"><td>[[Enchantement ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts d'enchantement du personnage imposent un malus aux tests de compétence ou de caractéristique, aux jets d'attaque, de dégâts ou de sauvegarde</td></tr><tr CLASS="premier alt donprincipal"><td>[[Évocation ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts d'évocation du personnage infligent plus de dégâts</td></tr><tr CLASS="premier donprincipal"><td>[[Illusion ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts d'illusion du personnage sont plus difficiles à dévoiler</td></tr><tr CLASS="premier alt donprincipal"><td>[[Invocation ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts d'invocation du personnage qui convoquent des créatures confèrent un camouflage à l'une d'entre elles pendant 1 round</td></tr><tr CLASS="premier donprincipal"><td>[[Nécromancie ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts de nécromancie du personnage rendent leurs cibles secouées</td></tr><tr CLASS="premier alt donprincipal"><td>[[Transmutation ésotérique]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts de transmutation du personnage confèrent un bonus à une caractéristique physique</td></tr><tr CLASS="premier donprincipal"><td>[[Ésotérisme irrésistible]]</td><td><sup>PU</sup></td><td>—</td><td>Les sorts du personnage utilisant des composantes ésotériques sont plus difficiles à arrêter ou dissiper</td></tr></table>
+<table CLASS="tablo centre toutgauche" WIDTH="100%">
+  <caption>Tableau récapitulatif des dons ésotériques</caption>
+  <tr CLASS="titre">
+    <td WIDTH="20%">Dons</td>
+    <td WIDTH="3%">Src</td>
+    <td WIDTH="22%">Conditions</td>
+    <td WIDTH="55%">Avantages</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Abjuration ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>
+      Les sorts d'abjuration du personnage confèrent un bonus de compétence de +1 à un type de jet de sauvegarde
+      pendant sa durée.
+    </td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Divination ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>Les sorts de divination du personnage ont plus de chance de lui donner des informations</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Enchantement ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>
+      Les sorts d'enchantement du personnage imposent un malus aux tests de compétence ou de caractéristique, aux
+      jets d'attaque, de dégâts ou de sauvegarde
+    </td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Évocation ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>Les sorts d'évocation du personnage infligent plus de dégâts</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Illusion ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>Les sorts d'illusion du personnage sont plus difficiles à dévoiler</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Invocation ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>
+      Les sorts d'invocation du personnage qui convoquent des créatures confèrent un camouflage à l'une d'entre
+      elles pendant 1 round
+    </td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Nécromancie ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>Les sorts de nécromancie du personnage rendent leurs cibles secouées</td>
+  </tr>
+  <tr CLASS="premier alt donprincipal">
+    <td>[[Transmutation ésotérique]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>Les sorts de transmutation du personnage confèrent un bonus à une caractéristique physique</td>
+  </tr>
+  <tr CLASS="premier donprincipal">
+    <td>[[Ésotérisme irrésistible]]</td>
+    <td><sup>PU</sup></td>
+    <td>—</td>
+    <td>Les sorts du personnage utilisant des composantes ésotériques sont plus difficiles à arrêter ou dissiper</td>
+  </tr>
+</table>

@@ -8,7 +8,101 @@ Vous apprenez votre première altération magique au niveau 2 et vous en apprene
 
 <center>
 
-<table CLASS="tablo toutgauche autoalt" ID="tabexploit"><caption>Altérations magiques</caption><tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr><tr CLASS="premier"><td>[[Altérations magiques#ANALYSERAPIDE|Analyse rapide]]</td><td>2</td><td>[[Altérations magiques#ARMESURCHAGEE|Arme surchargée]]</td><td>2</td></tr><tr><td>[[Altérations magiques#CIBLAGESELECTIF|Ciblage sélectif]]</td><td>2</td><td>[[Altérations magiques#CONTRESMESURESANTISORTS|Contres-mesures anti-sorts]]</td><td>2</td></tr><tr><td>[[Altérations magiques#CONTRETECHNOLOGIE|Contre-technologie]]</td><td>2</td><td>[[Altérations magiques#CREATIONTECHNOLOGIQUE|Création technologique]]</td><td>2</td></tr><tr><td>[[Altérations magiques#INFLUENCEROBOTIQUE|Influence robotique]]</td><td>2</td><td>[[Altérations magiques#MAITRISETECHNOMANCIENNE|Maîtrise technomancienne]]</td><td>2</td></tr><tr><td>[[Altérations magiques#SORTALIMENTE|Sort alimenté]]</td><td>2</td><td>[[Altérations magiques#SORTSOFFENSIFS|Sorts offensifs]]</td><td>2</td></tr><tr><td>[[Altérations magiques#CHOCDERECHARGE|Choc de recharge]]</td><td>5</td><td>[[Altérations magiques#DEBOGAGEDESORT|Débogage de sort]]</td><td>5</td></tr><tr><td>[[Altérations magiques#FABRICATIONDARMES|Fabrication d'armes]]</td><td>5</td><td>[[Altérations magiques#GRENADEENCHANTEE|Grenade enchantée]]</td><td>5</td></tr><tr><td>[[Altérations magiques#NEGATIONDELAMAGIE|Négation de la magie]]</td><td>5</td><td>[[Altérations magiques#SORTDISTANT|Sort distant]]</td><td>5</td></tr><tr><td>[[Altérations magiques#SORTPROLONGE|Sort prolongé]]</td><td>5</td><td>-</td><td>-</td></tr><tr><td>[[Altérations magiques#CONTRESMESURESTECHNOLOGIQUES|Contres-mesures technologiques]]</td><td>8</td><td>[[Altérations magiques#ECOUTEDIVATOIRE|Écoute divinatoire]]</td><td>8</td></tr><tr><td>[[Altérations magiques#MARQUEMENTALE|Marque mentale]]</td><td>8</td><td>[[Altérations magiques#SORTELARGI|Sort élargi]]</td><td>8</td></tr><tr><td>[[Altérations magiques#TELEPORTATIONECLAIR|Téléportation éclair]]</td><td>8</td><td>[[Altérations magiques#TIRDESORTILEGE|Tir de sortilège]]</td><td>8</td></tr><tr><td>[[Altérations magiques#REINITIALISATIONMENTALE|Réinitialisation mentale]]</td><td>11</td><td>[[Altérations magiques#SENTINELLEDECONTRETECHNOLOGIE|Sentinelle de contre-technologie]]</td><td>11</td></tr><tr><td>[[Altérations magiques#SORTETERNEL|Sort éternel]]</td><td>11</td><td>[[Altérations magiques#TIRAUTOGUIDE|Tir autoguidé]]</td><td>11</td></tr><tr><td>[[Altérations magiques#BIBLIOTHEQUEDESORTS|Bibliothèque de sorts]]</td><td>14</td><td>[[Altérations magiques#PLUIEDEFEU|Pluie de feu]]</td><td>14</td></tr><tr><td>[[Altérations magiques#SORTRAPIDE|Sort rapide]]</td><td>14</td><td>[[Altérations magiques#TIRDEPHASE|Tir déphasé]]</td><td>14</td></tr></table>
+<table CLASS="tablo toutgauche autoalt" ID="tabexploit">
+  <caption>Altérations magiques</caption>
+  <tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr>
+  <tr CLASS="premier">
+    <td>[[Altérations magiques#ANALYSERAPIDE|Analyse rapide]]</td>
+    <td>2</td>
+    <td>[[Altérations magiques#ARMESURCHAGEE|Arme surchargée]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#CIBLAGESELECTIF|Ciblage sélectif]]</td>
+    <td>2</td>
+    <td>[[Altérations magiques#CONTRESMESURESANTISORTS|Contres-mesures anti-sorts]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#CONTRETECHNOLOGIE|Contre-technologie]]</td>
+    <td>2</td>
+    <td>[[Altérations magiques#CREATIONTECHNOLOGIQUE|Création technologique]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#INFLUENCEROBOTIQUE|Influence robotique]]</td>
+    <td>2</td>
+    <td>[[Altérations magiques#MAITRISETECHNOMANCIENNE|Maîtrise technomancienne]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#SORTALIMENTE|Sort alimenté]]</td>
+    <td>2</td>
+    <td>[[Altérations magiques#SORTSOFFENSIFS|Sorts offensifs]]</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#CHOCDERECHARGE|Choc de recharge]]</td>
+    <td>5</td>
+    <td>[[Altérations magiques#DEBOGAGEDESORT|Débogage de sort]]</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#FABRICATIONDARMES|Fabrication d'armes]]</td>
+    <td>5</td>
+    <td>[[Altérations magiques#GRENADEENCHANTEE|Grenade enchantée]]</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#NEGATIONDELAMAGIE|Négation de la magie]]</td>
+    <td>5</td>
+    <td>[[Altérations magiques#SORTDISTANT|Sort distant]]</td>
+    <td>5</td>
+  </tr>
+  <tr><td>[[Altérations magiques#SORTPROLONGE|Sort prolongé]]</td><td>5</td><td>-</td><td>-</td></tr>
+  <tr>
+    <td>[[Altérations magiques#CONTRESMESURESTECHNOLOGIQUES|Contres-mesures technologiques]]</td>
+    <td>8</td>
+    <td>[[Altérations magiques#ECOUTEDIVATOIRE|Écoute divinatoire]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#MARQUEMENTALE|Marque mentale]]</td>
+    <td>8</td>
+    <td>[[Altérations magiques#SORTELARGI|Sort élargi]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#TELEPORTATIONECLAIR|Téléportation éclair]]</td>
+    <td>8</td>
+    <td>[[Altérations magiques#TIRDESORTILEGE|Tir de sortilège]]</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#REINITIALISATIONMENTALE|Réinitialisation mentale]]</td>
+    <td>11</td>
+    <td>[[Altérations magiques#SENTINELLEDECONTRETECHNOLOGIE|Sentinelle de contre-technologie]]</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#SORTETERNEL|Sort éternel]]</td>
+    <td>11</td>
+    <td>[[Altérations magiques#TIRAUTOGUIDE|Tir autoguidé]]</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#BIBLIOTHEQUEDESORTS|Bibliothèque de sorts]]</td>
+    <td>14</td>
+    <td>[[Altérations magiques#PLUIEDEFEU|Pluie de feu]]</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>[[Altérations magiques#SORTRAPIDE|Sort rapide]]</td>
+    <td>14</td>
+    <td>[[Altérations magiques#TIRDEPHASE|Tir déphasé]]</td>
+    <td>14</td>
+  </tr>
+</table>
 
 </center>
 

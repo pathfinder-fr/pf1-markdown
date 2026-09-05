@@ -37,7 +37,35 @@ Le nombre de jours fériés annuels correspond au nombre que vous avez promis et
 Ces améliorations sont des modifications physiques que vous pouvez apporter à votre royaume : fonder une nouvelle [[Communautés et quartiers|communauté]], ajouter des [[Communautés et quartiers#BATIMENTS|bâtiments]] dans une communauté, construire une [[Améliorations de terrain#Route_9|route]], installer des équipements pour faciliter l’extraction de ressources naturelles (une [[Améliorations de terrain#Mine_6|mine]] par exemple) ou encore ajouter un nouvel hexagone à votre royaume. Le nombre limite d’améliorations mensuelles est fonction de la taille de votre royaume, comme indiqué dans la table "Les édits d’amélioration", ci-contre. Vous pouvez effectuer toutes les améliorations données dans la ligne correspondant à votre royaume. Par exemple, si vous avez un royaume d’une taille de 5, à chaque tour, vous pouvez créer une nouvelle communauté, un nouveau bâtiment, deux améliorations de terrain et revendiquer un hexagone de plus.
 
 
-<table CLASS="tablo centre autoalt"><caption>Les édits d’amelioration</caption><tr CLASS="titre"><td>Taille du royaume</td><td>Nouvelles communautés<sup>1</sup></td><td>Nouveaux bâtiments<sup>2</sup></td><td>Améliorations de terrain</td><td>Nouveaux hexagones</td></tr><tr CLASS="premier"><td>01-10</td><td>1</td><td>1</td><td>2</td><td>1</td></tr><tr><td>11-25</td><td>1</td><td>2</td><td>3</td><td>2</td></tr><tr><td>26-50</td><td>1</td><td>5</td><td>5</td><td>3</td></tr><tr><td>51-100</td><td>2</td><td>10</td><td>7</td><td>4</td></tr><tr><td>101-200</td><td>3</td><td>20</td><td>9</td><td>8</td></tr><tr><td>201+</td><td>4</td><td>illimités</td><td>12</td><td>12</td></tr><tr CLASS="note"><td COLSPAN="5">*(1) Au lieu de créer une nouvelle communauté, votre royaume peut créer une nouvelle unité militaire (voir Le combat de masse, à partir de la page 249). Il peut aussi agrandir ou équiper une unité existante ou encore rendre toute sa puissance à une unité diminuée.*</td></tr><tr CLASS="note"><td COLSPAN="5">''(2) La destruction ou l’amélioration de bâtiment (comme un sanctuaire amélioré en temple) est à décompter de cette limite. La maison, le manoir,</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Les édits d’amelioration</caption>
+  <tr CLASS="titre">
+    <td>Taille du royaume</td>
+    <td>Nouvelles communautés<sup>1</sup></td>
+    <td>Nouveaux bâtiments<sup>2</sup></td>
+    <td>Améliorations de terrain</td>
+    <td>Nouveaux hexagones</td>
+  </tr>
+  <tr CLASS="premier"><td>01-10</td><td>1</td><td>1</td><td>2</td><td>1</td></tr>
+  <tr><td>11-25</td><td>1</td><td>2</td><td>3</td><td>2</td></tr>
+  <tr><td>26-50</td><td>1</td><td>5</td><td>5</td><td>3</td></tr>
+  <tr><td>51-100</td><td>2</td><td>10</td><td>7</td><td>4</td></tr>
+  <tr><td>101-200</td><td>3</td><td>20</td><td>9</td><td>8</td></tr>
+  <tr><td>201+</td><td>4</td><td>illimités</td><td>12</td><td>12</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      *(1) Au lieu de créer une nouvelle communauté, votre royaume peut créer une nouvelle unité militaire (voir Le
+      combat de masse, à partir de la page 249). Il peut aussi agrandir ou équiper une unité existante ou encore
+      rendre toute sa puissance à une unité diminuée.*
+    </td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="5">
+      ''(2) La destruction ou l’amélioration de bâtiment (comme un sanctuaire amélioré en temple) est à décompter de
+      cette limite. La maison, le manoir,
+    </td>
+  </tr>
+</table>
 
 
 {s:Reference|PUBLICITAIRES}

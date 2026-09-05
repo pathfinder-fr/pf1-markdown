@@ -22,8 +22,15 @@ Au niveau 2, un enquêteur infiltré apprend à imiter les voix et les sons qu�
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo autoalt"><tr CLASS="titre"><td>+ Voix imitée</td><td>Modificateur au test</td></tr><tr><td>Voix différente de celle du personnage,  
- sans être celle d’un individu spécifique</td><td>+5</td></tr><tr><td>Voix d’une créature de sexe différent</td><td>-2</td></tr><tr><td>Voix d’une créature de race différente</td><td>-2</td></tr><tr><td>Voix d’une créature d’une catégorie d’âge différente</td><td>-2</td></tr><tr><td>Voix d’une créature d’une catégorie de taille différente</td><td>-5</td></tr></table>
+<table CLASS="tablo autoalt">
+  <tr CLASS="titre"><td>+ Voix imitée</td><td>Modificateur au test</td></tr>
+  <tr><td>Voix différente de celle du personnage,  
+ sans être celle d’un individu spécifique</td><td>+5</td></tr>
+  <tr><td>Voix d’une créature de sexe différent</td><td>-2</td></tr>
+  <tr><td>Voix d’une créature de race différente</td><td>-2</td></tr>
+  <tr><td>Voix d’une créature d’une catégorie d’âge différente</td><td>-2</td></tr>
+  <tr><td>Voix d’une créature d’une catégorie de taille différente</td><td>-5</td></tr>
+</table>
 
 </center></div></div>
 

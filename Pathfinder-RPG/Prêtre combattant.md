@@ -16,7 +16,363 @@ Categories:
 </div>{s:mca}*Capables d’utiliser la puissance des dieux sous forme de bénédictions et de sorts, les prêtres combattants mêlent magie divine et talents martiaux. Ce sont d’imprenables bastions de leur religion qui chantent les louanges de leur dieu alors même qu’ils soumettent leurs ennemis en les rouant de coups. Ils ne reculent jamais devant un défi lancé à leurs croyances. Les prêtres usent souvent de subtilité et de diplomatie pour atteindre leurs objectifs alors que les prêtres combattants n’hésitent pas à recourir à la violence dès que la situation l’exige. Dans nombre de religions, ils forment le noyau des forces martiales de leur église : ils récupèrent les reliques perdues, volent au secours des membres du clergé enlevés et défendent les préceptes de leur église contre tous ceux qui osent les défier.*
 
 
-<table CLASS="tablo centre"><caption>Le prêtre combattant</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td ROWSPAN="2" CLASS="center">Arme Sacrée*</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Prêtre combattant#ARMEDEPREDILECTION|Arme de prédilection]], [[Prêtre combattant#ARMESACREE|arme sacrée]], [[Prêtre combattant#AURA|aura]], [[Prêtre combattant#BENEDICTIONS|bénédictions]] (mineures), [[Prêtre combattant#ORAISONS|oraisons]]</td><td>1d6</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 1d6</td><td>1d6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>1d6</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Prêtre combattant#ARMESACREE|Arme sacrée]] +1, [[Prêtre combattant#CANALISATIONDENERGIE|canalisation d'énergie]]</td><td>1d6</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 2d6</td><td>1d8</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>1d8</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +1</td><td>1d8</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Prêtre combattant#ARMESACREE|Arme sacrée]] +2, [[Prêtre combattant#FERVEUR|Ferveur]] 3d6</td><td>1d8</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>1d8</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +2, [[Prêtre combattant#BENEDICTIONS|bénédictions]] (majeures)</td><td>1d10</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 4d6</td><td>1d10</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Prêtre combattant#ARMESACREE|Arme sacrée]] +3, [[Prêtre combattant#DONSUPPLEMENTAIRE|don supplémentaire]]</td><td>1d10</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +3</td><td>1d10</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 5d6</td><td>1d10</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>2d6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Prêtre combattant#ARMESACREE|Arme sacrée]] +4, [[Prêtre combattant#ARMURESACREE|armure sacrée]] +4</td><td>2d6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td><td>1</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 6d6</td><td>2d6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td><td>2</td></tr><tr CLASS="alt"><td>18</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td><td>2d6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td><td>3</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +5</td><td>2d6</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td CLASS="gauche">[[Prêtre combattant#ARMESACREE|Arme sacrée]] +5, [[Prêtre combattant#ASPECTDELAGUERRE|aspect de la guerre]], [[Prêtre combattant#FERVEUR|ferveur]] 7d6</td><td>2d8</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td></tr><tr CLASS="note"><td COLSPAN="14">*(*) Les valeurs sont indiquées pour des prêtres combattants de taille M. Pour ceux de taille P et G, consultez le pouvoir de classe [[Prêtre combattant#ARMESACREE|arme sacrée]].*</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>Le prêtre combattant</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td ROWSPAN="2" CLASS="center">Arme Sacrée*</td>
+    <td COLSPAN="7" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Prêtre combattant#ARMEDEPREDILECTION|Arme de prédilection]], [[Prêtre combattant#ARMESACREE|arme sacrée]],
+      [[Prêtre combattant#AURA|aura]], [[Prêtre combattant#BENEDICTIONS|bénédictions]] (mineures), [[Prêtre
+      combattant#ORAISONS|oraisons]]
+    </td>
+    <td>1d6</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 1d6</td>
+    <td>1d6</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>1d6</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Prêtre combattant#ARMESACREE|Arme sacrée]] +1, [[Prêtre combattant#CANALISATIONDENERGIE|canalisation
+      d'énergie]]
+    </td>
+    <td>1d6</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 2d6</td>
+    <td>1d8</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>1d8</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +1</td>
+    <td>1d8</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Prêtre combattant#ARMESACREE|Arme sacrée]] +2, [[Prêtre combattant#FERVEUR|Ferveur]] 3d6</td>
+    <td>1d8</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>1d8</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[Prêtre combattant#ARMURESACREE|Armure sacrée]] +2, [[Prêtre combattant#BENEDICTIONS|bénédictions]]
+      (majeures)
+    </td>
+    <td>1d10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 4d6</td>
+    <td>1d10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">
+      [[Prêtre combattant#ARMESACREE|Arme sacrée]] +3, [[Prêtre combattant#DONSUPPLEMENTAIRE|don supplémentaire]]
+    </td>
+    <td>1d10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +3</td>
+    <td>1d10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 5d6</td>
+    <td>1d10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>2d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">
+      [[Prêtre combattant#ARMESACREE|Arme sacrée]] +4, [[Prêtre combattant#ARMURESACREE|armure sacrée]] +4
+    </td>
+    <td>2d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Prêtre combattant#FERVEUR|Ferveur]] 6d6</td>
+    <td>2d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]]</td>
+    <td>2d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Prêtre combattant#ARMURESACREE|Armure sacrée]] +5</td>
+    <td>2d6</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td CLASS="gauche">
+      [[Prêtre combattant#ARMESACREE|Arme sacrée]] +5, [[Prêtre combattant#ASPECTDELAGUERRE|aspect de la guerre]],
+      [[Prêtre combattant#FERVEUR|ferveur]] 7d6
+    </td>
+    <td>2d8</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+  <tr CLASS="note">
+    <td COLSPAN="14">
+      *(*) Les valeurs sont indiquées pour des prêtres combattants de taille M. Pour ceux de taille P et G,
+      consultez le pouvoir de classe [[Prêtre combattant#ARMESACREE|arme sacrée]].*
+    </td>
+  </tr>
+</table>
 
 
 **Rôle.** Les prêtres combattants sont des guérisseurs et des lanceurs de sorts compétents qui puisent dans leurs pouvoirs divins au beau milieu des batailles où leur armure et leurs talents martiaux sont mis à rude épreuve.
@@ -86,8 +442,16 @@ Au niveau 1, le prêtre combattant reçoit [[Arme de prédilection]] comme don s
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>Dégâts de l'arme sacrée des prêtres  
-combattants de taille P ou G</caption><tr CLASS="titre"><td ROWSPAN="1">Niveau</td><td ROWSPAN="1">Dégats (P)</td><td ROWSPAN="1">Dégats (G)</td></tr><tr CLASS="premier"><td>1-4</td><td>1d4</td><td>1d8</td></tr><tr><td>5-9</td><td>1d6</td><td>2d6</td></tr><tr><td>10-14</td><td>1d8</td><td>2d8</td></tr><tr><td>15-19</td><td>1d10</td><td>3d6</td></tr><tr><td>20</td><td>2d6</td><td>3d8</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Dégâts de l'arme sacrée des prêtres  
+combattants de taille P ou G</caption>
+  <tr CLASS="titre"><td ROWSPAN="1">Niveau</td><td ROWSPAN="1">Dégats (P)</td><td ROWSPAN="1">Dégats (G)</td></tr>
+  <tr CLASS="premier"><td>1-4</td><td>1d4</td><td>1d8</td></tr>
+  <tr><td>5-9</td><td>1d6</td><td>2d6</td></tr>
+  <tr><td>10-14</td><td>1d8</td><td>2d8</td></tr>
+  <tr><td>15-19</td><td>1d10</td><td>3d6</td></tr>
+  <tr><td>20</td><td>2d6</td><td>3d8</td></tr>
+</table>
 
 </div></div>Dès le niveau 1, les armes du prêtre combattant sont imprégnées de la puissance de sa foi. Cela s’applique à l’arme de prédilection de son dieu mais aussi à toutes celles qui bénéficient du don [[Arme de prédilection]]. Si le prêtre combattant a pris ce don à plusieurs reprises, toutes les armes associées sont sacrées pour lui.
 

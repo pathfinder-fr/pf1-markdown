@@ -13,7 +13,377 @@ LastModified: 2024-10-03 15:36
 </div>{s:AO}*L’esprit de toutes les créatures douées de sensations recèle un pouvoir qui rivalise avec le plus formidable des artefacts magiques ou des sites sacrés. En accédant à ces stupéfiants trésors d’énergie mentale, le psychiste peut façonner le monde qui l’entoure, manipuler les esprits et ouvrir la voie menant vers d’autres plans. Aucun endroit n’est trop isolé et aucune idée trop secrète pour un psychiste capable de maîtriser tous les types de magie psychique. Les méthodes qui permettent aux psychistes de développer leurs pouvoirs mentaux sont nombreuses et les disciplines auxquelles ils adhèrent affectent leurs aptitudes.*
 
 
-<table CLASS="tablo centre"><caption>{s:Reference|TABLEPSYCHISTE}Le psychiste</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]], [[Psychiste#ASTUCES|astuces]], [[Psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]], [[Psychiste#POUVOIRDISCIPLINAIRE|pouvoir disciplinaire]], [[Psychiste#RESERVEPHRENIQUE|réserve phrénique]], [[Psychiste#SORTDISCIPLINAIRE|sort disciplinaire]]</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Psychiste#DETECTIONDEPENSEES|Détection de pensées]]</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Psychiste#POUVOIRDISCIPLINAIRE|Pouvoir disciplinaire]]</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td CLASS="gauche">[[Psychiste#LIENTELEPATHIQUE|Lien télépathique]]</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td CLASS="gauche">[[Psychiste#AMPLIFICATIONSMAJEURES|Amplification majeure]], [[Psychiste#AMPLIFICATIONPHRENIQUE|amplification phrénique]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td CLASS="gauche">[[Psychiste#POUVOIRDISCIPLINAIRE|Pouvoir disciplinaire]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>14</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+9</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td><td>-</td></tr><tr><td>15</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+9</td><td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>16</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td><td>-</td></tr><tr><td>17</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td CLASS="gauche">[[Psychiste#TELEPATHIE|Télépathie]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td><td>-</td></tr><tr CLASS="alt"><td>18</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>5</td><td>3</td></tr><tr><td>19</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>4</td></tr><tr CLASS="alt"><td>20</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td CLASS="gauche">[[Psychiste#MANIPULATIONDUSOI|Manipulation du soi]]</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:Reference|TABLEPSYCHISTE}Le psychiste</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2">Spécial</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre">
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]], [[Psychiste#ASTUCES|astuces]],
+      [[Psychiste#DISCIPLINEPSYCHIQUE|discipline psychique]], [[Psychiste#POUVOIRDISCIPLINAIRE|pouvoir
+      disciplinaire]], [[Psychiste#RESERVEPHRENIQUE|réserve phrénique]], [[Psychiste#SORTDISCIPLINAIRE|sort
+      disciplinaire]]
+    </td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Psychiste#DETECTIONDEPENSEES|Détection de pensées]]</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td>
+    <td>5</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Psychiste#POUVOIRDISCIPLINAIRE|Pouvoir disciplinaire]]</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[Psychiste#LIENTELEPATHIQUE|Lien télépathique]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+7</td>
+    <td CLASS="gauche">
+      [[Psychiste#AMPLIFICATIONSMAJEURES|Amplification majeure]], [[Psychiste#AMPLIFICATIONPHRENIQUE|amplification
+      phrénique]]
+    </td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+6/+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+6/+1</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+8</td>
+    <td CLASS="gauche">[[Psychiste#POUVOIRDISCIPLINAIRE|Pouvoir disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+7/+2</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+9</td>
+    <td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+8/+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+8/+3</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+10</td>
+    <td CLASS="gauche">[[Psychiste#TELEPATHIE|Télépathie]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Psychiste#SORTDISCIPLINAIRE|Sort disciplinaire]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+11</td>
+    <td CLASS="gauche">[[Psychiste#AMPLIFICATIONPHRENIQUE|Amplification phrénique]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>4</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+10/+5</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+12</td>
+    <td CLASS="gauche">[[Psychiste#MANIPULATIONDUSOI|Manipulation du soi]]</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+  </tr>
+</table>
 
 
 {s:ImageDroite|Illustrations/PNJ/Rivani.jpg|30%}**Rôle.** Dotés d’un large éventail de sorts, les psychistes peuvent gérer nombre de situations mais s’avèrent particulièrement compétents lorsqu’il faut déplacer et manipuler des objets, ou quand il faut lire et influencer les pensées d’autrui.
@@ -39,7 +409,282 @@ Le psychiste est formé au maniement de toutes les armes courantes mais pas au p
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 
-<table CLASS="tablo centre autoalt"><caption>{s:Reference|SORTSCONNUSDUPSYCHISTE}Sorts connus par le psychiste</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre gauche">Sorts connus</td></tr><tr CLASS="soustitre"><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>5</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>6</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>6</td><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>7</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>7</td><td>5</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8</td><td>8</td><td>5</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9</td><td>8</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10</td><td>9</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11</td><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>12</td><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>15</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>-</td><td>-</td></tr><tr><td>16</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td></tr><tr><td>17</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>-</td></tr><tr><td>18</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>19</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr><tr><td>20</td><td>9</td><td>5</td><td>5</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>{s:Reference|SORTSCONNUSDUPSYCHISTE}Sorts connus par le psychiste</caption>
+  <tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre gauche">Sorts connus</td></tr>
+  <tr CLASS="soustitre">
+    <td>0</td>
+    <td>1er</td>
+    <td>2e</td>
+    <td>3e</td>
+    <td>4e</td>
+    <td>5e</td>
+    <td>6e</td>
+    <td>7e</td>
+    <td>8e</td>
+    <td>9e</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>5</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>5</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>6</td>
+    <td>3</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>6</td>
+    <td>4</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>7</td>
+    <td>4</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>7</td>
+    <td>5</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>8</td>
+    <td>5</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>8</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>9</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>9</td>
+    <td>5</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+</table>
 
 </div></div>Un psychiste peut lancer des sorts psychiques appartenant à la [[Sorts de psychiste|liste des sorts du psychiste]]. Il les lance sans avoir à les préparer à l’avance. Pour apprendre ou lancer un sort, un psychiste doit avoir une valeur d'[[Intelligence]] au moins égale à 10 + le niveau du sort. Le [[DD]] des jets de sauvegarde contre ses sorts est égal à 10 + le niveau du sort + le modificateur d'[[Intelligence]] du psychiste.
 

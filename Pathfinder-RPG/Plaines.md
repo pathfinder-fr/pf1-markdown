@@ -20,7 +20,14 @@ Les éléments suivants ne peuvent pas apparaître dans une même case.
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de plaines</td><td>Ferme</td><td>Pré</td><td>Champ de bataille</td></tr><tr CLASS="premier"><td>Broussailles légères</td><td>40 %</td><td>20 %</td><td>-</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>-</td><td>10 %</td><td>-</td></tr><tr><td>Décombres</td><td>-</td><td>-</td><td>5 %</td></tr><tr CLASS="alt"><td>Tranchées</td><td>5 %</td><td>-</td><td>5 %</td></tr><tr><td>Bermes</td><td>-</td><td>-</td><td>5 %</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>Catégories de plaines</td><td>Ferme</td><td>Pré</td><td>Champ de bataille</td></tr>
+  <tr CLASS="premier"><td>Broussailles légères</td><td>40 %</td><td>20 %</td><td>-</td></tr>
+  <tr CLASS="alt"><td>Broussailles épaisses</td><td>-</td><td>10 %</td><td>-</td></tr>
+  <tr><td>Décombres</td><td>-</td><td>-</td><td>5 %</td></tr>
+  <tr CLASS="alt"><td>Tranchées</td><td>5 %</td><td>-</td><td>5 %</td></tr>
+  <tr><td>Bermes</td><td>-</td><td>-</td><td>5 %</td></tr>
+</table>
 
 </center>
 </div></div>

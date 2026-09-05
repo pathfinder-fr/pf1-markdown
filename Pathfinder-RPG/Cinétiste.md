@@ -16,7 +16,224 @@ Categories:
 </div>{s:AO}*Les cinétistes sont des conduits vivants d’énergie et de matière élémentaires qui manipulent leur environnement en puisant dans leurs propres réserves physiques. Leurs pouvoirs se révèlent souvent à eux lors d’une expérience particulièrement violente ou traumatisante, événement lors duquel ils se déclenchent spontanément. Leurs pouvoirs sont rarement le fruit d’un héritage et les mentors qui acceptent de les guider sont plutôt rares. Ils doivent donc étudier en profondeur les mystères qui les habitent pour apprendre à contrôler leurs dons.*
 
 
-<table CLASS="tablo centre autoalt"><caption>Le cinétiste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Cinétiste#ACCUMULATIONDEPOUVOIR|Accumulation de pouvoir]], [[Cinétiste#BRÛLURE|brûlure]], [[Cinétiste#ÉLÉMENTDEPRÉDILECTION|élément de prédilection]], [[Cinétiste#EXPLOSIONCINÉTIQUE|explosion cinétique]], [[Cinétiste#INJECTION|injection]]</td></tr><tr><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Cinétiste#DÉFENSEÉLÉMENTAIRE|Défense élémentaire]], [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +1, [[Cinétiste#INJECTION|injection]]</td></tr><tr><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Cinétiste#INJECTION|injection]], [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]], [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (extension)</td></tr><tr><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +2, [[Cinétiste#RÉSERVEINTERNE|réserve interne]] 1, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Cinétiste#EXTENSIONÉLÉMENTAIRE|Extension élémentaire]]</td></tr><tr><td>8</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 2, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>9</td><td>+6/+1</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +3, [[Cinétiste#INJECTION|injection]], [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (quintessence)</td></tr><tr><td>10</td><td>+7/+2</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>11</td><td>+8/+3</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Cinétiste#INJECTION|injection]], [[Cinétiste#RÉSERVEINTERNE|réserve interne]] 2, [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 3, [[Cinétiste#SURCHARGE|surcharge]]</td></tr><tr><td>12</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +4, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>13</td><td>+9/+4</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Cinétiste#INJECTION|injection]], [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (accélération)</td></tr><tr><td>14</td><td>+10/+5</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 4, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>15</td><td>+11/+6/+1</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +5, [[Cinétiste#EXTENSIONÉLÉMENTAIRE|extension élémentaire]]</td></tr><tr><td>16</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Cinétiste#RÉSERVEINTERNE|réserve interne]] 3, [[Cinétiste#SPÉCIALISATIONCOMPOSITE|spécialisation composite]], [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>17</td><td>+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Cinétiste#INJECTION|injection]], [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (double), [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 5</td></tr><tr><td>18</td><td>+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +6, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr><tr><td>19</td><td>+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Cinétiste#INJECTION|injection]], [[Cinétiste#MAITREDELAMÉTACINÉTIQUE|maître de la métacinétique]]</td></tr><tr><td>20</td><td>+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Cinétiste#OMNICINÉTIQUE|Omnicinétique]], [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 6, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>Le cinétiste</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Cinétiste#ACCUMULATIONDEPOUVOIR|Accumulation de pouvoir]], [[Cinétiste#BRÛLURE|brûlure]],
+      [[Cinétiste#ÉLÉMENTDEPRÉDILECTION|élément de prédilection]], [[Cinétiste#EXPLOSIONCINÉTIQUE|explosion
+      cinétique]], [[Cinétiste#INJECTION|injection]]
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>+1</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Cinétiste#DÉFENSEÉLÉMENTAIRE|Défense élémentaire]], [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage
+      utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +1, [[Cinétiste#INJECTION|injection]]
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Cinétiste#INJECTION|injection]], [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]],
+      [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (extension)
+    </td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>+4</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +2, [[Cinétiste#RÉSERVEINTERNE|réserve
+      interne]] 1, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[Cinétiste#EXTENSIONÉLÉMENTAIRE|Extension élémentaire]]</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 2,
+      [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6/+1</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +3, [[Cinétiste#INJECTION|injection]],
+      [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (quintessence)
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>+7/+2</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+8/+3</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Cinétiste#INJECTION|injection]], [[Cinétiste#RÉSERVEINTERNE|réserve interne]] 2,
+      [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 3, [[Cinétiste#SURCHARGE|surcharge]]
+    </td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +4,
+      [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+9/+4</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[Cinétiste#INJECTION|injection]], [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (accélération)</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">
+      [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 4,
+      [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+11/+6/+1</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +5,
+      [[Cinétiste#EXTENSIONÉLÉMENTAIRE|extension élémentaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Cinétiste#RÉSERVEINTERNE|réserve interne]] 3, [[Cinétiste#SPÉCIALISATIONCOMPOSITE|spécialisation
+      composite]], [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">
+      [[Cinétiste#INJECTION|injection]], [[Cinétiste#MÉTACINÉTIQUE|métacinétique]] (double),
+      [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]] 5
+    </td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Cinétiste#BOUILLONNEMENTÉLÉMENTAIRE|Bouillonnement élémentaire]] +6,
+      [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Cinétiste#INJECTION|injection]], [[Cinétiste#MAITREDELAMÉTACINÉTIQUE|maître de la métacinétique]]
+    </td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[Cinétiste#OMNICINÉTIQUE|Omnicinétique]], [[Cinétiste#SPÉCIALISTEDESINJECTIONS|spécialiste des injections]]
+      6, [[Cinétiste#TALENTSAUVAGEUTILITAIRE|talent sauvage utilitaire]]
+    </td>
+  </tr>
+</table>
 
 
 **Rôle.** Les cinétistes utilisent généralement leurs pouvoirs pour agresser leurs ennemis à distance mais, étant donné la façon dont leurs talents se développent, ils peuvent canaliser leurs aptitudes cinétiques dans nombre de situations différentes. Les cinétistes sont souvent différents des membres de leur famille et de leurs amis et décident donc souvent de voler de leurs propres ailes en partant seul ou accompagnés d’autres individus dotés eux aussi de pouvoirs extraordinaires.

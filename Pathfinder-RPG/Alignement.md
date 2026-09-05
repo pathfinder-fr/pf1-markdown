@@ -44,7 +44,22 @@ De temps à autre, les règles emploient le terme d’ « étapes » quand elles
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>|| Loi</td><td>Neutre</td><td>Chaos</td></tr><tr CLASS="premier"><td>**Bien**</td><td>[[LB|Loyal bon]]</td><td>[[NB|Neutre bon]]</td><td>[[CB|Chaotique bon]]</td></tr><tr><td>**Neutre**</td><td>[[LN|Loyal neutre]]</td><td>[[N|Neutre]]</td><td>[[CN|Chaotique neutre]]</td></tr><tr><td>**Mal**</td><td>[[LM|Loyal mauvais]]</td><td>[[NM|Neutre mauvais]]</td><td>[[CM|Chaotique mauvais]]</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>|| Loi</td><td>Neutre</td><td>Chaos</td></tr>
+  <tr CLASS="premier">
+    <td>**Bien**</td>
+    <td>[[LB|Loyal bon]]</td>
+    <td>[[NB|Neutre bon]]</td>
+    <td>[[CB|Chaotique bon]]</td>
+  </tr>
+  <tr><td>**Neutre**</td><td>[[LN|Loyal neutre]]</td><td>[[N|Neutre]]</td><td>[[CN|Chaotique neutre]]</td></tr>
+  <tr>
+    <td>**Mal**</td>
+    <td>[[LM|Loyal mauvais]]</td>
+    <td>[[NM|Neutre mauvais]]</td>
+    <td>[[CM|Chaotique mauvais]]</td>
+  </tr>
+</table>
 
 </center>
 

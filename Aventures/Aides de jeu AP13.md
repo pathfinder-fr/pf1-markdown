@@ -181,7 +181,38 @@ Armures magiques (armée)
 [[AP13-Aravashnial|Aravashnial]] : 1d4 potions (max 10) et 1 parchemin (max 5) par nuit
 
 
-<table CLASS="tablo centre toutgauche"><caption>Tirage aléatoire</caption><tr CLASS="titre"><td>potions</td><td>parchemins</td></tr><tr CLASS="premier"><td>potion de [[Pathfinder-RPG.ruse du renard|ruse du renard]] (NLS 3)</td><td>parchemin d'[[Pathfinder-RPG.agrandissement de groupe|agrandissement de groupe]] (NLS 7)</td></tr><tr><td>potion de [[Pathfinder-RPG.sagesse du hibou|sagesse du hibou]] (NLS 3)</td><td>parchemin de [[Pathfinder-RPG.symbole de douleur|symbole de douleur]] (NLS 9)</td></tr><tr><td>potion de [[Pathfinder-RPG.lévitation|lévitation]] (NLS 3)</td><td>parchemin d'[[Pathfinder-RPG.allié doutreplan|allié d'outreplan]] (NLS 9)</td></tr><tr><td>potion de [[Pathfinder-RPG.résistance aux énergies destructives|résistance aux énergies destructives (électricité)]] (NLS 3)</td><td>parchemin de [[Pathfinder-RPG.brume mentale|brume mentale]] (NLS 9)</td></tr><tr><td>potion de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5)</td><td>parchemin de [[Pathfinder-RPG.magie des ombres|magie des ombres]] (NLS 9)</td></tr><tr><td>potion de [[Pathfinder-RPG.don des langues|don des langues]] (NLS 5) ||</td></tr><tr><td>potion d'[[Pathfinder-RPG.espoir|espoir]] (NLS 5) ||</td></tr><tr><td>potion de [[Pathfinder-RPG.délivrance des malédictions|délivrance des malédictions]] (NLS 5) ||</td></tr><tr><td>potions de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5) ||</td></tr><tr><td>potion de [[Pathfinder-RPG.neutralisation du poison|neutralisation du poison]] (NLS 5) ||</td></tr></table>
+<table CLASS="tablo centre toutgauche">
+  <caption>Tirage aléatoire</caption>
+  <tr CLASS="titre"><td>potions</td><td>parchemins</td></tr>
+  <tr CLASS="premier">
+    <td>potion de [[Pathfinder-RPG.ruse du renard|ruse du renard]] (NLS 3)</td>
+    <td>parchemin d'[[Pathfinder-RPG.agrandissement de groupe|agrandissement de groupe]] (NLS 7)</td>
+  </tr>
+  <tr>
+    <td>potion de [[Pathfinder-RPG.sagesse du hibou|sagesse du hibou]] (NLS 3)</td>
+    <td>parchemin de [[Pathfinder-RPG.symbole de douleur|symbole de douleur]] (NLS 9)</td>
+  </tr>
+  <tr>
+    <td>potion de [[Pathfinder-RPG.lévitation|lévitation]] (NLS 3)</td>
+    <td>parchemin d'[[Pathfinder-RPG.allié doutreplan|allié d'outreplan]] (NLS 9)</td>
+  </tr>
+  <tr>
+    <td>
+      potion de [[Pathfinder-RPG.résistance aux énergies destructives|résistance aux énergies destructives
+      (électricité)]] (NLS 3)
+    </td>
+    <td>parchemin de [[Pathfinder-RPG.brume mentale|brume mentale]] (NLS 9)</td>
+  </tr>
+  <tr>
+    <td>potion de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5)</td>
+    <td>parchemin de [[Pathfinder-RPG.magie des ombres|magie des ombres]] (NLS 9)</td>
+  </tr>
+  <tr><td>potion de [[Pathfinder-RPG.don des langues|don des langues]] (NLS 5) ||</td></tr>
+  <tr><td>potion d'[[Pathfinder-RPG.espoir|espoir]] (NLS 5) ||</td></tr>
+  <tr><td>potion de [[Pathfinder-RPG.délivrance des malédictions|délivrance des malédictions]] (NLS 5) ||</td></tr>
+  <tr><td>potions de [[Pathfinder-RPG.soins importants|soins importants]] (NLS 5) ||</td></tr>
+  <tr><td>potion de [[Pathfinder-RPG.neutralisation du poison|neutralisation du poison]] (NLS 5) ||</td></tr>
+</table>
 
 - F1 [[Pathfinder-RPG.Brimorak|2 Brimoraks]]
 - F2 [[Pathfinder-RPG.Gargouille|4 Gargouilles]]

@@ -13,7 +13,105 @@ La classe de prestige de chroniqueur attire tous ceux qui voient le monde comme 
 
 <center>
 
-<table CLASS="tablo"><caption>Le chroniqueur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[chroniqueur#SAVOIRBARDIQUE|Savoir bardique]], [[chroniqueur#POCHESPROFONDES|poches profondes]], [[chroniqueur#MAITRESCRIBE|maître scribe]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[chroniqueur#SURVIVREPOURRACONTER|Survivre pour raconter]], [[chroniqueur#DECOUVERTEDESSENTIERS|découverte des sentiers]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[chroniqueur#REPRESENTATIONBARDIQUE|Représentation bardique]], [[chroniqueur#AIDESUPERIEURE|aide supérieure]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[chroniqueur#SAGASEPIQUES|Sagas épiques]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[chroniqueur#RUMEURS|Rumeurs]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (mouvement)</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+4</td><td CLASS="gauche">[[chroniqueur#INVOQUERLESLEGENDES|Invoquer les légendes]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+4</td><td CLASS="gauche">[[chroniqueur#SAGASEPIQUESLEGENDAIRES|Sagas épiques légendaires]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (simple)</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[chroniqueur#LAIDESMORTSHONORES|Lai des morts honorés]]</td></tr></table>
+<table CLASS="tablo">
+  <caption>Le chroniqueur</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[chroniqueur#SAVOIRBARDIQUE|Savoir bardique]], [[chroniqueur#POCHESPROFONDES|poches profondes]],
+      [[chroniqueur#MAITRESCRIBE|maître scribe]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[chroniqueur#SURVIVREPOURRACONTER|Survivre pour raconter]], [[chroniqueur#DECOUVERTEDESSENTIERS|découverte
+      des sentiers]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[chroniqueur#REPRESENTATIONBARDIQUE|Représentation bardique]], [[chroniqueur#AIDESUPERIEURE|aide supérieure]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[chroniqueur#SAGASEPIQUES|Sagas épiques]]</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[chroniqueur#RUMEURS|Rumeurs]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (mouvement)</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[chroniqueur#INVOQUERLESLEGENDES|Invoquer les légendes]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+6</td>
+    <td>+4</td>
+    <td>+3</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[chroniqueur#SAGASEPIQUESLEGENDAIRES|Sagas épiques légendaires]]</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (simple)</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[chroniqueur#LAIDESMORTSHONORES|Lai des morts honorés]]</td>
+  </tr>
+</table>
 
 </center>
 

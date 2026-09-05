@@ -28,7 +28,84 @@ Sorts traduits et mis en forme par Gilthorne, relus par rectulo
 
 <center>
 
-<table CLASS="tablo autoalt toutgauche"><caption>dons de Heroes of the street</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Armes immondes]]*</td><td>HotS</td><td>[[Connaissances]] (Exploration souterraine) 1 rang, [[Connaissances]] (Nature) 1 rang</td><td>Vous pouvez transmettre la fièvre des marais avec votre arme en l'enduisant de saletés</td></tr><tr CLASS="premier"><td>[[Aveuglement immonde]]*</td><td>HotS</td><td>[[Lancer improvisé]]</td><td>Vous utilisez la saleté pour aveugler vos adversaires</td></tr><tr CLASS="premier"><td>[[Coupeur de gorge]]*</td><td>HotS</td><td>[[BBA]]+1</td><td>Vous pouvez infliger un coup de grâce aux créatures inconscientes,clouée ou immobilisée</td></tr><tr CLASS="premier"><td>[[Dératiseur]]*</td><td>HotS</td><td>[[Connaissances]] (Exploration souterraine) 1 rang, [[BBA]]+1</td><td>Vous savez vous défendre contre les créatures très petites et les nuées</td></tr><tr CLASS="premier"><td>[[Dispositifs subtils]]</td><td>HotS</td><td>[[Discret]]</td><td>Vous savez camoufler l'utilisation des objets magiques que vous manipulez</td></tr><tr CLASS="premier"><td>[[Funambule]]</td><td>HotS</td><td>[[Dex]] 13</td><td>Votre équilibre vous permet d'éviter les chutes et de vous concentrer sur le combat</td></tr><tr CLASS="premier"><td>[[Glaneur de détritus]]</td><td>HotS</td><td>—</td><td>Votre exposition régulière aux immondes et infortunés résidus propres aux égouts et souterrains urbains vous a fait développer une résistance aux effets de telles conditions</td></tr><tr CLASS="premier"><td>[[Lanceur rusé]]</td><td>HotS</td><td>[[Fourberie]], capacité à lancer des sorts de niveau 1</td><td>Vous pouvez dissimuler vos sorts aux observateurs alentour</td></tr><tr CLASS="premier"><td>[[Contacts avec la pègre]]</td><td>HotS</td><td>—</td><td>Vous pouvez vous aider de vos relations avec le monde souterrain quand vous êtes en milieu urbain ou souterrain.</td></tr><tr><td>&emsp; [[Émissaire de Guilde]]</td><td>HotS</td><td>[[Prestige]] ou [[Contacts avec la pègre]]</td><td>Votre place dans le monde de la pègre vous permet de trouver des contacts dans les villes pour obtenir des objets, des services et des informations</td></tr></table>
+<table CLASS="tablo autoalt toutgauche">
+  <caption>dons de Heroes of the street</caption>
+  <tr CLASS="titre">
+    <td WIDTH="30%">Dons</td>
+    <td WIDTH= "3%">Src</td>
+    <td WIDTH="30%">Conditions</td>
+    <td WIDTH="37%">Avantages</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Armes immondes]]*</td>
+    <td>HotS</td>
+    <td>[[Connaissances]] (Exploration souterraine) 1 rang, [[Connaissances]] (Nature) 1 rang</td>
+    <td>Vous pouvez transmettre la fièvre des marais avec votre arme en l'enduisant de saletés</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Aveuglement immonde]]*</td>
+    <td>HotS</td>
+    <td>[[Lancer improvisé]]</td>
+    <td>Vous utilisez la saleté pour aveugler vos adversaires</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Coupeur de gorge]]*</td>
+    <td>HotS</td>
+    <td>[[BBA]]+1</td>
+    <td>Vous pouvez infliger un coup de grâce aux créatures inconscientes,clouée ou immobilisée</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dératiseur]]*</td>
+    <td>HotS</td>
+    <td>[[Connaissances]] (Exploration souterraine) 1 rang, [[BBA]]+1</td>
+    <td>Vous savez vous défendre contre les créatures très petites et les nuées</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Dispositifs subtils]]</td>
+    <td>HotS</td>
+    <td>[[Discret]]</td>
+    <td>Vous savez camoufler l'utilisation des objets magiques que vous manipulez</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Funambule]]</td>
+    <td>HotS</td>
+    <td>[[Dex]] 13</td>
+    <td>Votre équilibre vous permet d'éviter les chutes et de vous concentrer sur le combat</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Glaneur de détritus]]</td>
+    <td>HotS</td>
+    <td>—</td>
+    <td>
+      Votre exposition régulière aux immondes et infortunés résidus propres aux égouts et souterrains urbains vous a
+      fait développer une résistance aux effets de telles conditions
+    </td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Lanceur rusé]]</td>
+    <td>HotS</td>
+    <td>[[Fourberie]], capacité à lancer des sorts de niveau 1</td>
+    <td>Vous pouvez dissimuler vos sorts aux observateurs alentour</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Contacts avec la pègre]]</td>
+    <td>HotS</td>
+    <td>—</td>
+    <td>
+      Vous pouvez vous aider de vos relations avec le monde souterrain quand vous êtes en milieu urbain ou
+      souterrain.
+    </td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Émissaire de Guilde]]</td>
+    <td>HotS</td>
+    <td>[[Prestige]] ou [[Contacts avec la pègre]]</td>
+    <td>
+      Votre place dans le monde de la pègre vous permet de trouver des contacts dans les villes pour obtenir des
+      objets, des services et des informations
+    </td>
+  </tr>
+</table>
 
 </center>
 

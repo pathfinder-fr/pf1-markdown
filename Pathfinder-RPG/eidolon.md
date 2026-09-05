@@ -11,12 +11,311 @@ Categories:
 
 <center>
 
-<table CLASS="tablo"><caption>Caractéristiques de base de l'eidolon</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau  
-de classe</td><td ROWSPAN="2">DV</td><td ROWSPAN="2">BBA</td><td COLSPAN="2" CLASS="avecsoustitre">Jets de sauvegarde</td><td ROWSPAN="2">Comp.</td><td ROWSPAN="2">Dons</td><td ROWSPAN="2">Bonus  
-d'armure</td><td ROWSPAN="2">Bonus  
-For/Dex</td><td ROWSPAN="2">Réserve  
-d'évolution</td><td ROWSPAN="2">Attaques  
-max</td><td ROWSPAN="2" CLASS="gauche">Spécial</td></tr><tr CLASS="soustitre"><td>forts</td><td>faibles</td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>4</td><td>1</td><td>+0</td><td>+0</td><td>3</td><td>3</td><td CLASS="gauche">[[eidolon#LIEN|lien]], [[eidolon#TRANSFERTDESSORTS|transfert des sorts]], [[eidolon#VISIONDANSLENOIR|vision dans le noir]]</td></tr><tr CLASS="alt"><td>2</td><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>8</td><td>1</td><td>+2</td><td>+1</td><td>4</td><td>3</td><td CLASS="gauche">[[eidolon#ESQUIVETOTALE|esquive totale]]</td></tr><tr><td>3</td><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>12</td><td>2</td><td>+2</td><td>+1</td><td>5</td><td>3</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>12</td><td>2</td><td>+2</td><td>+1</td><td>7</td><td>4</td><td CLASS="gauche">—</td></tr><tr><td>5</td><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>16</td><td>2</td><td>+4</td><td>+2</td><td>8</td><td>4</td><td CLASS="gauche">[[eidolon#ACCROISSEMENTDUNECARACTERISTIQUE|accroissement d'une caractéristique]]</td></tr><tr CLASS="alt"><td>6</td><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>20</td><td>3</td><td>+4</td><td>+2</td><td>9</td><td>4</td><td CLASS="gauche">[[eidolon#DEVOTION|dévotion]]</td></tr><tr><td>7</td><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>24</td><td>3</td><td>+6</td><td>+3</td><td>10</td><td>4</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>8</td><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>24</td><td>3</td><td>+6</td><td>+3</td><td>11</td><td>4</td><td CLASS="gauche">—</td></tr><tr><td>9</td><td>7</td><td>+7</td><td>+5</td><td>+2</td><td>28</td><td>4</td><td>+6</td><td>+3</td><td>13</td><td>5</td><td CLASS="gauche">[[eidolon#ATTAQUESMULTIPLES|attaques multiples]]</td></tr><tr CLASS="alt"><td>10</td><td>8</td><td>+8</td><td>+6</td><td>+2</td><td>32</td><td>4</td><td>+8</td><td>+4</td><td>14</td><td>5</td><td CLASS="gauche">[[eidolon#ACCROISSEMENTDUNECARACTERISTIQUE|accroissement d'une caractéristique]]</td></tr><tr><td>11</td><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>36</td><td>5</td><td>+8</td><td>+4</td><td>15</td><td>5</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>12</td><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>36</td><td>5</td><td>+10</td><td>+5</td><td>16</td><td>5</td><td CLASS="gauche">—</td></tr><tr><td>13</td><td>10</td><td>+10</td><td>+7</td><td>+3</td><td>40</td><td>5</td><td>+10</td><td>+5</td><td>17</td><td>5</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>14</td><td>11</td><td>+11</td><td>+7</td><td>+3</td><td>44</td><td>6</td><td>+10</td><td>+5</td><td>19</td><td>6</td><td CLASS="gauche">[[EIDOLON#ESQUIVESURNATURELLE|esquive surnaturelle]]</td></tr><tr><td>15</td><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>48</td><td>6</td><td>+12</td><td>+6</td><td>20</td><td>6</td><td CLASS="gauche">[[eidolon#ACCROISSEMENTDUNECARACTERISTIQUE|accroissement d'une caractéristique]]</td></tr><tr CLASS="alt"><td>16</td><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>48</td><td>6</td><td>+12</td><td>+6</td><td>21</td><td>6</td><td CLASS="gauche">—</td></tr><tr><td>17</td><td>13</td><td>+13</td><td>+8</td><td>+4</td><td>52</td><td>7</td><td>+14</td><td>+7</td><td>22</td><td>6</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>18</td><td>14</td><td>+14</td><td>+9</td><td>+4</td><td>56</td><td>7</td><td>+14</td><td>+7</td><td>23</td><td>6</td><td CLASS="gauche">—</td></tr><tr><td>19</td><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>60</td><td>8</td><td>+14</td><td>+7</td><td>25</td><td>7</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>20</td><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>60</td><td>8</td><td>+16</td><td>+8</td><td>26</td><td>7</td><td CLASS="gauche">—</td></tr></table>
+<table CLASS="tablo">
+  <caption>Caractéristiques de base de l'eidolon</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau  
+de classe</td>
+    <td ROWSPAN="2">DV</td>
+    <td ROWSPAN="2">BBA</td>
+    <td COLSPAN="2" CLASS="avecsoustitre">Jets de sauvegarde</td>
+    <td ROWSPAN="2">Comp.</td>
+    <td ROWSPAN="2">Dons</td>
+    <td ROWSPAN="2">Bonus  
+d'armure</td>
+    <td ROWSPAN="2">Bonus  
+For/Dex</td>
+    <td ROWSPAN="2">Réserve  
+d'évolution</td>
+    <td ROWSPAN="2">Attaques  
+max</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="soustitre"><td>forts</td><td>faibles</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td>4</td>
+    <td>1</td>
+    <td>+0</td>
+    <td>+0</td>
+    <td>3</td>
+    <td>3</td>
+    <td CLASS="gauche">
+      [[eidolon#LIEN|lien]], [[eidolon#TRANSFERTDESSORTS|transfert des sorts]], [[eidolon#VISIONDANSLENOIR|vision
+      dans le noir]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td>8</td>
+    <td>1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>4</td>
+    <td>3</td>
+    <td CLASS="gauche">[[eidolon#ESQUIVETOTALE|esquive totale]]</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>12</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>5</td>
+    <td>3</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>12</td>
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>7</td>
+    <td>4</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>16</td>
+    <td>2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>8</td>
+    <td>4</td>
+    <td CLASS="gauche">[[eidolon#ACCROISSEMENTDUNECARACTERISTIQUE|accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>20</td>
+    <td>3</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td>9</td>
+    <td>4</td>
+    <td CLASS="gauche">[[eidolon#DEVOTION|dévotion]]</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>6</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>24</td>
+    <td>3</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>10</td>
+    <td>4</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>6</td>
+    <td>+6</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>24</td>
+    <td>3</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>11</td>
+    <td>4</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>7</td>
+    <td>+7</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>28</td>
+    <td>4</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>13</td>
+    <td>5</td>
+    <td CLASS="gauche">[[eidolon#ATTAQUESMULTIPLES|attaques multiples]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>8</td>
+    <td>+8</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>32</td>
+    <td>4</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>14</td>
+    <td>5</td>
+    <td CLASS="gauche">[[eidolon#ACCROISSEMENTDUNECARACTERISTIQUE|accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>9</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>36</td>
+    <td>5</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>15</td>
+    <td>5</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>9</td>
+    <td>+9</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td>36</td>
+    <td>5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>16</td>
+    <td>5</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>10</td>
+    <td>+10</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>40</td>
+    <td>5</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>17</td>
+    <td>5</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>11</td>
+    <td>+11</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td>44</td>
+    <td>6</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td>19</td>
+    <td>6</td>
+    <td CLASS="gauche">[[EIDOLON#ESQUIVESURNATURELLE|esquive surnaturelle]]</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>12</td>
+    <td>+12</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>48</td>
+    <td>6</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>20</td>
+    <td>6</td>
+    <td CLASS="gauche">[[eidolon#ACCROISSEMENTDUNECARACTERISTIQUE|accroissement d'une caractéristique]]</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>12</td>
+    <td>+12</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>48</td>
+    <td>6</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td>21</td>
+    <td>6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>13</td>
+    <td>+13</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td>52</td>
+    <td>7</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>22</td>
+    <td>6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>14</td>
+    <td>+14</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td>56</td>
+    <td>7</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>23</td>
+    <td>6</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>15</td>
+    <td>+15</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>60</td>
+    <td>8</td>
+    <td>+14</td>
+    <td>+7</td>
+    <td>25</td>
+    <td>7</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>15</td>
+    <td>+15</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td>60</td>
+    <td>8</td>
+    <td>+16</td>
+    <td>+8</td>
+    <td>26</td>
+    <td>7</td>
+    <td CLASS="gauche">—</td>
+  </tr>
+</table>
 
 </center>
 

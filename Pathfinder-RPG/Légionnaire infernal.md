@@ -12,7 +12,118 @@ LastModified: 2023-08-15 11:04
 
 <center>
 
-<table CLASS="tablo autoalt"><caption>Le légionnaire infernal</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Légionnaire infernal#AURADELOI|aura de Loi]], [[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]], [[Légionnaire infernal#DETECTIONDUCHAOS|Détection du Chaos]], [[Légionnaire infernal#ORDRE|Ordre]] 1/jour</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Légionnaire infernal#ARMUREDULEGIONNAIREINFERNAL|Armure de Légionnaire infernal]], [[Légionnaire infernal#DETECTIONDUMENSONGE|Détection du mensonge]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Légionnaire infernal#DISCIPLINES|Discipline]] 1, [[Légionnaire infernal#FORCEDEVOLONTE|Force de volonté]] 1</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]] 2/jour</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Légionnaire infernal#ARMUREDULEGIONNAIREINFERNAL|Armure de Légionnaire infernal]] 2</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Légionnaire infernal#DISCIPLINES|Discipline]] 2, [[Légionnaire infernal#FORCEDEVOLONTE|Force de volonté]] 2</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]] 3/jour, [[Légionnaire infernal#HERAUTDELALOI|Héraut de la loi]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Légionnaire infernal#ARMUREDULEGIONNAIREINFERNAL|Armure de Légionnaire infernal]] 3 (vitesse de course)</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Légionnaire infernal#ARMUREINFERNALE|Armure infernale]], [[Légionnaire infernal#DISCIPLINES|Discipline]] 3, [[Légionnaire infernal#FORCEDEVOLONTE|Force de volonté]] 3</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]] 4/jour, [[Légionnaire infernal#LEGIONNAIREDESENFERS|Légionnaire des Enfers]]</td></tr></table>
+<table CLASS="tablo autoalt">
+  <caption>Le légionnaire infernal</caption>
+  <tr CLASS="titre">
+    <td>Niveau</td>
+    <td>BBA</td>
+    <td>Réflexes</td>
+    <td>Vigueur</td>
+    <td>Volonté</td>
+    <td CLASS="gauche">Spécial</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td>+1</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#AURADELOI|aura de Loi]], [[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]],
+      [[Légionnaire infernal#DETECTIONDUCHAOS|Détection du Chaos]], [[Légionnaire infernal#ORDRE|Ordre]] 1/jour
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#ARMUREDULEGIONNAIREINFERNAL|Armure de Légionnaire infernal]], [[Légionnaire
+      infernal#DETECTIONDUMENSONGE|Détection du mensonge]]
+    </td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#DISCIPLINES|Discipline]] 1, [[Légionnaire infernal#FORCEDEVOLONTE|Force de volonté]] 1
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]] 2/jour</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[Légionnaire infernal#ARMUREDULEGIONNAIREINFERNAL|Armure de Légionnaire infernal]] 2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#DISCIPLINES|Discipline]] 2, [[Légionnaire infernal#FORCEDEVOLONTE|Force de volonté]] 2
+    </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]] 3/jour, [[Légionnaire
+      infernal#HERAUTDELALOI|Héraut de la loi]]
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#ARMUREDULEGIONNAIREINFERNAL|Armure de Légionnaire infernal]] 3 (vitesse de course)
+    </td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#ARMUREINFERNALE|Armure infernale]], [[Légionnaire infernal#DISCIPLINES|Discipline]] 3,
+      [[Légionnaire infernal#FORCEDEVOLONTE|Force de volonté]] 3
+    </td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10</td>
+    <td>+3</td>
+    <td>+5</td>
+    <td>+3</td>
+    <td CLASS="gauche">
+      [[Légionnaire infernal#CHATIMENTDUCHAOS|Châtiment du Chaos]] 4/jour, [[Légionnaire
+      infernal#LEGIONNAIREDESENFERS|Légionnaire des Enfers]]
+    </td>
+  </tr>
+</table>
 
 </center>
 

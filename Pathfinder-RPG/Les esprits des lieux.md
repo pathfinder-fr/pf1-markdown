@@ -121,8 +121,27 @@ cérémonie ratée), l’esprit ne peut plus
 activer cet effet pendant 24 heures.
 
 
-<table CLASS="tablo centre autoalt"><caption>6-1 : modificateurs de FP pour les esprits des lieux</caption><tr CLASS="titre"><td>Type de pouvoir</td><td>Modificateur du FP</td></tr><tr CLASS="premier"><td>Cérémonie nécessitant plus d’un test de compétence</td><td>+1 par test supplémentaire</td></tr><tr><td>Effets permanents</td><td>+1 par effet permanent en plus du premier</td></tr><tr><td>Privé</td><td>-1</td></tr><tr><td>Coterie</td><td>+1</td></tr><tr><td>Difficile à soigner<sup>1</sup></td><td>-1</td></tr><tr><td>Sensible à la corruption<sup>2</sup></td><td>-1</td></tr><tr CLASS="note"><td COLSPAN="2">*(1) Les esprits des lieux difficiles à soigner récupèrent seulement la moitié des points de vie normaux lorsqu’ils bénéficient d’un effet restaurant les points de vie.  
-(2) Les esprits des lieux sensibles à la corruption perdent deux fois plus de points de vie que la normale suite à une action de corruption.*</td></tr></table>
+<table CLASS="tablo centre autoalt">
+  <caption>6-1 : modificateurs de FP pour les esprits des lieux</caption>
+  <tr CLASS="titre"><td>Type de pouvoir</td><td>Modificateur du FP</td></tr>
+  <tr CLASS="premier">
+    <td>Cérémonie nécessitant plus d’un test de compétence</td>
+    <td>+1 par test supplémentaire</td>
+  </tr>
+  <tr><td>Effets permanents</td><td>+1 par effet permanent en plus du premier</td></tr>
+  <tr><td>Privé</td><td>-1</td></tr>
+  <tr><td>Coterie</td><td>+1</td></tr>
+  <tr><td>Difficile à soigner<sup>1</sup></td><td>-1</td></tr>
+  <tr><td>Sensible à la corruption<sup>2</sup></td><td>-1</td></tr>
+  <tr CLASS="note">
+    <td COLSPAN="2">
+      *(1) Les esprits des lieux difficiles à soigner récupèrent seulement la moitié des points de vie normaux
+      lorsqu’ils bénéficient d’un effet restaurant les points de vie.  
+(2) Les esprits des lieux sensibles à la
+      corruption perdent deux fois plus de points de vie que la normale suite à une action de corruption.*
+    </td>
+  </tr>
+</table>
 
 
 ### La corruption

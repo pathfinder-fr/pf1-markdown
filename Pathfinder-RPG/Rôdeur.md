@@ -15,7 +15,270 @@ Categories:
 </div>*Pour ceux qui aiment le frisson de la chasse, seules comptent les notions de prédateurs et de proies. Qu’ils soient éclaireurs, pisteurs ou chasseurs de prime, les rôdeurs partagent de nombreuses particularités : une maîtrise inégalée de certaines armes, une grande habileté pour débusquer le gibier, même le plus inaccessible, et un savoir-faire leur permettant de venir à bout d’une grande variétés de proies. Ces chasseurs allient savoir, patience et habileté pour traquer les hommes, les bêtes ou encore les animaux. Ils développent un instinct de prédateur, un savoir-faire applicable à de multiples environnements et des capacités martiales toujours plus dangereuses. Certains chassent les créatures qui s’attaquent aux humains et protègent les frontières de la civilisation alors que d’autres se lancent à la poursuite d’un gibier plus rusé, et parfois même de fugitifs appartenant à la même communauté qu’eux.*
 
 
-<table CLASS="tablo centre"><caption>{s:reference|TABLERODEUR}Le rôdeur</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[rôdeur#EMPATHIESAUVAGE|Empathie sauvage]], 1er [[rôdeur#ENNEMIJURE|ennemi juré]], [[rôdeur#PISTAGE|pistage]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[rôdeur#ENDURANCE|Endurance]], 1er [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[rôdeur#PACTEDUCHASSEUR|Pacte du chasseur]]</td><td>0*</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">2e [[rôdeur#ENNEMIJURE|Ennemi juré]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[rôdeur#DEPLACEMENTFACILITE|Déplacement facilité]]</td><td>1</td><td>0*</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">2e [[rôdeur#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[rôdeur#PISTAGEACCELERE|pistage accéléré]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[rôdeur#ESQUIVETOTALE|Esquive totale]]</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]], 3e [[rôdeur#ENNEMIJURE|ennemi juré]]</td><td>2</td><td>1</td><td>0*</td><td>-</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[rôdeur#PROIEDUCHASSEUR|Proie du chasseur]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[rôdeur#CAMOUFLAGE|Camouflage]]</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">3e [[rôdeur#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td><td>3</td><td>2</td><td>1</td><td>0*</td></tr><tr CLASS="alt"><td>14</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">4e [[rôdeur#ENNEMIJURE|Ennemi juré]]</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>16</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[rôdeur#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[rôdeur#DISCRETIONTOTALE|Discrétion totale]]</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]], 4e [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[rôdeur#PROIEDUMAITRECHASSEUR|Proie du maître chasseur]]</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">5e [[rôdeur#ENNEMIJURE|Ennemi juré]], [[rôdeur#MAITRECHASSEUR|maître chasseur]]</td><td>4</td><td>4</td><td>3</td><td>3</td></tr><tr CLASS="note"><td COLSPAN="10">*(*) Aucun sort sauf sorts bonus octroyés par une Sagesse élevée.*</td></tr></table>
+<table CLASS="tablo centre">
+  <caption>{s:reference|TABLERODEUR}Le rôdeur</caption>
+  <tr CLASS="titre">
+    <td ROWSPAN="2">Niveau</td>
+    <td ROWSPAN="2">BBA</td>
+    <td ROWSPAN="2">Réflexes</td>
+    <td ROWSPAN="2">Vigueur</td>
+    <td ROWSPAN="2">Volonté</td>
+    <td ROWSPAN="2" CLASS="gauche">Spécial</td>
+    <td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td>
+  </tr>
+  <tr CLASS="soustitre"><td>1e</td><td>2e</td><td>3e</td><td>4e</td></tr>
+  <tr CLASS="premier">
+    <td>1</td>
+    <td>+1</td>
+    <td>+2</td>
+    <td>+2</td>
+    <td>+0</td>
+    <td CLASS="gauche">
+      [[rôdeur#EMPATHIESAUVAGE|Empathie sauvage]], 1er [[rôdeur#ENNEMIJURE|ennemi juré]], [[rôdeur#PISTAGE|pistage]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>2</td>
+    <td>+2</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+0</td>
+    <td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]]</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+3</td>
+    <td>+1</td>
+    <td CLASS="gauche">
+      [[rôdeur#ENDURANCE|Endurance]], 1er [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]
+    </td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">[[rôdeur#PACTEDUCHASSEUR|Pacte du chasseur]]</td>
+    <td>0*</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>+5</td>
+    <td>+4</td>
+    <td>+4</td>
+    <td>+1</td>
+    <td CLASS="gauche">2e [[rôdeur#ENNEMIJURE|Ennemi juré]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>6</td>
+    <td>+6/+1</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]]</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>+7/+2</td>
+    <td>+5</td>
+    <td>+5</td>
+    <td>+2</td>
+    <td CLASS="gauche">[[rôdeur#DEPLACEMENTFACILITE|Déplacement facilité]]</td>
+    <td>1</td>
+    <td>0*</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>8</td>
+    <td>+8/+3</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+2</td>
+    <td CLASS="gauche">
+      2e [[rôdeur#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[rôdeur#PISTAGEACCELERE|pistage
+      accéléré]]
+    </td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>+9/+4</td>
+    <td>+6</td>
+    <td>+6</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[rôdeur#ESQUIVETOTALE|Esquive totale]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>10</td>
+    <td>+10/+5</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]], 3e [[rôdeur#ENNEMIJURE|ennemi juré]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0*</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>+11/+6/+1</td>
+    <td>+7</td>
+    <td>+7</td>
+    <td>+3</td>
+    <td CLASS="gauche">[[rôdeur#PROIEDUCHASSEUR|Proie du chasseur]]</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>12</td>
+    <td>+12/+7/+2</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[rôdeur#CAMOUFLAGE|Camouflage]]</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>+13/+8/+3</td>
+    <td>+8</td>
+    <td>+8</td>
+    <td>+4</td>
+    <td CLASS="gauche">3e [[rôdeur#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>0*</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>14</td>
+    <td>+14/+9/+4</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+4</td>
+    <td CLASS="gauche">[[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>+15/+10/+5</td>
+    <td>+9</td>
+    <td>+9</td>
+    <td>+5</td>
+    <td CLASS="gauche">4e [[rôdeur#ENNEMIJURE|Ennemi juré]]</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>16</td>
+    <td>+16/+11/+6/+1</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[rôdeur#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>+17/+12/+7/+2</td>
+    <td>+10</td>
+    <td>+10</td>
+    <td>+5</td>
+    <td CLASS="gauche">[[rôdeur#DISCRETIONTOTALE|Discrétion totale]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>1</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>18</td>
+    <td>+18/+13/+8/+3</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">
+      [[rôdeur#DONDESTYLEDECOMBAT|Don de style de combat]], 4e [[rôdeur#ENVIRONNEMENTDEPREDILECTION|environnement de
+      prédilection]]
+    </td>
+    <td>4</td>
+    <td>3</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>+19/+14/+9/+4</td>
+    <td>+11</td>
+    <td>+11</td>
+    <td>+6</td>
+    <td CLASS="gauche">[[rôdeur#PROIEDUMAITRECHASSEUR|Proie du maître chasseur]]</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+    <td>2</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>20</td>
+    <td>+20/+15/+10/+5</td>
+    <td>+12</td>
+    <td>+12</td>
+    <td>+6</td>
+    <td CLASS="gauche">5e [[rôdeur#ENNEMIJURE|Ennemi juré]], [[rôdeur#MAITRECHASSEUR|maître chasseur]]</td>
+    <td>4</td>
+    <td>4</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+  <tr CLASS="note"><td COLSPAN="10">*(*) Aucun sort sauf sorts bonus octroyés par une Sagesse élevée.*</td></tr>
+</table>
 
 
 **Rôle.** Les rôdeurs sont des guérilleros adroits tant au corps à corps qu’à distance et doués pour les attaques éclair. Leurs capacités leur permettent d’infliger de très importantes blessures à certains types d’ennemis, mais elles restent également utiles dans les autres cas.
@@ -144,7 +407,22 @@ Si l’endroit où le rôdeur se trouve entre dans plusieurs catégories d’env
 
 <div class="article_2col">
 
-<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>{s:Reference|TABLEENVIRONNEMENTDEPREDILECTION}Environnements de prédilection du rôdeur</td></tr><tr CLASS="premier"><td>Aquatique (sur et sous la surface)</td></tr><tr><td>Désert (déserts de sable ou étendues désertiques)</td></tr><tr><td>Forêt (de conifères ou à feuilles caduques)</td></tr><tr><td>Froid (territoires enneigés ou gelés, glaciers et toundra)</td></tr><tr><td>Jungle</td></tr><tr><td>Marais</td></tr><tr><td>Montagnes (y compris les collines)</td></tr><tr><td>Plaines</td></tr><tr><td>Plans (choisir un plan autre que le plan Matériel)</td></tr><tr><td>Sous terre (grottes et complexes souterrains)</td></tr><tr><td>Urbain (bâtiments, rues et égouts)</td></tr></table>
+<table CLASS="tablo centre autoalt" WIDTH="100%">
+  <tr CLASS="titre">
+    <td>{s:Reference|TABLEENVIRONNEMENTDEPREDILECTION}Environnements de prédilection du rôdeur</td>
+  </tr>
+  <tr CLASS="premier"><td>Aquatique (sur et sous la surface)</td></tr>
+  <tr><td>Désert (déserts de sable ou étendues désertiques)</td></tr>
+  <tr><td>Forêt (de conifères ou à feuilles caduques)</td></tr>
+  <tr><td>Froid (territoires enneigés ou gelés, glaciers et toundra)</td></tr>
+  <tr><td>Jungle</td></tr>
+  <tr><td>Marais</td></tr>
+  <tr><td>Montagnes (y compris les collines)</td></tr>
+  <tr><td>Plaines</td></tr>
+  <tr><td>Plans (choisir un plan autre que le plan Matériel)</td></tr>
+  <tr><td>Sous terre (grottes et complexes souterrains)</td></tr>
+  <tr><td>Urbain (bâtiments, rues et égouts)</td></tr>
+</table>
 
 </div>
 

@@ -24,8 +24,19 @@ Le personnage doit choisir sciemment le facteur qu’il souhaite simuler. Il doi
 
 <center>
 
-<table CLASS="tablo"><caption>tests d'Utilisation d'Objets Magiques</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test d’Utilisation   
-d’objets magiques</td></tr><tr CLASS="premier"><td>Activer un objet par chance</td><td>25</td></tr><tr CLASS="alt"><td>Déchiffrer un sort écrit</td><td>25 + niveau du sort</td></tr><tr><td>Simuler une aptitude de classe</td><td>20</td></tr><tr CLASS="alt"><td>Simuler une valeur de [[caractéristiques|caractéristique]]</td><td>voir la description</td></tr><tr><td>Simuler une [[race]]</td><td>25</td></tr><tr CLASS="alt"><td>Simuler un [[alignement]]</td><td>30</td></tr><tr><td>Utiliser un parchemin</td><td>20 + [[NLS]]</td></tr><tr CLASS="alt"><td>Utiliser une baguette</td><td>20</td></tr></table>
+<table CLASS="tablo">
+  <caption>tests d'Utilisation d'Objets Magiques</caption>
+  <tr CLASS="titre"><td>Tâche</td><td>DD du test d’Utilisation   
+d’objets magiques</td></tr>
+  <tr CLASS="premier"><td>Activer un objet par chance</td><td>25</td></tr>
+  <tr CLASS="alt"><td>Déchiffrer un sort écrit</td><td>25 + niveau du sort</td></tr>
+  <tr><td>Simuler une aptitude de classe</td><td>20</td></tr>
+  <tr CLASS="alt"><td>Simuler une valeur de [[caractéristiques|caractéristique]]</td><td>voir la description</td></tr>
+  <tr><td>Simuler une [[race]]</td><td>25</td></tr>
+  <tr CLASS="alt"><td>Simuler un [[alignement]]</td><td>30</td></tr>
+  <tr><td>Utiliser un parchemin</td><td>20 + [[NLS]]</td></tr>
+  <tr CLASS="alt"><td>Utiliser une baguette</td><td>20</td></tr>
+</table>
 
 </center>
 

@@ -42,15 +42,529 @@ Les exemples de poisons présentés ci-dessous ne constituent qu’une partie de
 
 <center>
 
-<table CLASS="tablo autoalt" WIDTH="100%"><caption>Exemples de poisons{s:Reference|TABLEAUPOISONS}</caption><tr CLASS="titre"><td>Nom</td><td>Type</td><td>DD Vig</td><td>Incubation</td><td>Fréquence</td><td>Effet</td><td>Coût</td></tr><tr CLASS="premier"><td>[[Poisons#Ajonc à feuilles bleues|Ajonc à feuilles bleues]]</td><td>Blessure</td><td>14</td><td>—</td><td>1/rd pdt 2 rds</td><td>1 [[Constitution|Con]]/[[Inconscient|Inconscience]] 1d3 h</td><td>120 po</td></tr><tr><td>[[Poisons#Bavededhabba|Bave de dhabba]]</td><td>Blessure</td><td>12</td><td>—</td><td>—</td><td>1d6 dégâts d’acide, [[nauséeux|nausée]]/1d4 [[Dex]]</td><td>50 po</td></tr><tr><td>[[Poisons#Brûle-sorts|Brûle-sorts]]</td><td>Blessure</td><td>14</td><td>–</td><td>1/rd pdt 4 rds</td><td><abbr title="La cible doit réussir un test de concentration DD 10 + niveau du sort pour parvenir à lancer un sort, et subit un malus de -5 à tous ses autres tests de concentration.">voir texte</abbr></td><td>200 po</td></tr><tr><td>[[Poisons#Essencedombre|Essence d’ombre]]</td><td>Blessure</td><td>17</td><td>—</td><td>1/rd pdt 6 rds</td><td>[[diminution permanente|Dim]] 1 [[Force|For]]/1d2 [[Force|For]]</td><td>250 po</td></tr><tr><td>[[Poisons#Extraitdesanvert|Extrait de sanvert]]</td><td>Blessure</td><td>13</td><td>—</td><td>1/rd pdt 4 rds</td><td>1 [[Constitution|Con]]</td><td>100 po</td></tr><tr><td>[[Poisons#Mortelame|Mortelame]]</td><td>Blessure</td><td>20</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d3 [[Constitution|Con]]</td><td>1 800 po</td></tr><tr><td>[[Poisons#Poisondaraignéenoiredesmarais|Poison d'araignée noire des marais]]</td><td>Blessure</td><td>14</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d4 [[Dextérité|Dex]], [[confus|confusion]] 1 rd</td><td>800 po</td></tr><tr><td>[[Poisons#Poisondevouivre|Poison de vouivre]]</td><td>Blessure</td><td>17</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d4 [[Constitution|Con]]</td><td>3 000 po</td></tr><tr><td>[[Poisons#Poisondrow|Poison drow]]</td><td>Blessure</td><td>13</td><td>—</td><td>1/min pdt 2 min</td><td>[[Inconscient|Inconscience]] 1 min/2d4 h</td><td>75 po</td></tr><tr><td>[[Poisons#Préserve-plaie|Préserve-plaie]]</td><td>Blessure</td><td>18</td><td>1 rd</td><td>1/jour</td><td><abbr titre="Les tests de Premiers soins effectués sur la victime subissent un malus de -10. Les soins magiques nécessitent de réussir un test de niveau de lanceur de sorts DD 25 pour fonctionner.">voir texte</abbr></td><td>75 po</td></tr><tr><td>[[Poisons#Tormentille|Tormentille]]</td><td>Blessure</td><td>12</td><td>1 rd</td><td>1/rd pdt 4 rds</td><td>1 [[Constitution|Con]], 1 [[Sagesse|Sag]], [[confus|confusion]] 1 rd</td><td>100 po</td></tr><tr><td>[[Poisons#VenindaraignéedetailleM|Venin d’araignée de taille M]]</td><td>Blessure</td><td>14</td><td>—</td><td>1/rd pdt 4 rds</td><td>1d2 [[Force|For]]</td><td>150 po</td></tr><tr><td>[[Poisons#Venindaraignéeécorchefeuille|Venin d’araignée écorchefeuille]]</td><td>Blessure</td><td>11</td><td>—</td><td>—</td><td>1d3 [[Con]]/1d3 [[Con]]</td><td>100 po</td></tr><tr><td>[[Poisons#Venindeguêpegéante|Venin de guêpe géante]]</td><td>Blessure</td><td>18</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d2 [[Dextérité|Dex]]</td><td>210 po</td></tr><tr><td>[[Poisons#Venindemille-pattesdetailleP|Venin de mille-pattes de taille P]]</td><td>Blessure</td><td>11</td><td>—</td><td>1/rd pdt 4 rds</td><td>1 [[Dextérité|Dex]]</td><td>90 po</td></tr><tr><td>[[Poisons#Venindescorpiongéant|Venin de scorpion géant]]</td><td>Blessure</td><td>17</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d2 [[Force|For]]</td><td>200 po</td></tr><tr><td>[[Poisons#Venindeverpourpre|Venin de ver pourpre]]</td><td>Blessure</td><td>24</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d3 [[Force|For]]</td><td>700 po</td></tr><tr><td>[[Poisons#Venindevipèreàtêtenoire|Venin de vipère à tête noire]]</td><td>Blessure</td><td>11</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d2 [[Constitution|Con]]</td><td>120 po</td></tr><tr><td>[[Poisons#Toxinedemédusearc-en-ciel|Toxine de méduse arc-en-ciel]]</td><td>Blessure,  
-contact</td><td>14</td><td>—</td><td>1/rd pdt 2 rds</td><td>[[chancelant|chancelement]] 1d6 rds/  
-[[paralysé|paralysie]] 1d6 min</td><td>400 po</td></tr><tr><td>[[Poisons#Bavedecockatrice|Bave de cockatrice]]</td><td>Blessure,  
+<table CLASS="tablo autoalt" WIDTH="100%">
+  <caption>Exemples de poisons{s:Reference|TABLEAUPOISONS}</caption>
+  <tr CLASS="titre">
+    <td>Nom</td>
+    <td>Type</td>
+    <td>DD Vig</td>
+    <td>Incubation</td>
+    <td>Fréquence</td>
+    <td>Effet</td>
+    <td>Coût</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Poisons#Ajonc à feuilles bleues|Ajonc à feuilles bleues]]</td>
+    <td>Blessure</td>
+    <td>14</td>
+    <td>—</td>
+    <td>1/rd pdt 2 rds</td>
+    <td>1 [[Constitution|Con]]/[[Inconscient|Inconscience]] 1d3 h</td>
+    <td>120 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Bavededhabba|Bave de dhabba]]</td>
+    <td>Blessure</td>
+    <td>12</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d6 dégâts d’acide, [[nauséeux|nausée]]/1d4 [[Dex]]</td>
+    <td>50 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Brûle-sorts|Brûle-sorts]]</td>
+    <td>Blessure</td>
+    <td>14</td>
+    <td>–</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>
+      <abbr title="La cible doit réussir un test de concentration DD 10 + niveau du sort pour parvenir à lancer un sort, et subit un malus de -5 à tous ses autres tests de concentration.">
+      voir texte</abbr>
+    </td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Essencedombre|Essence d’ombre]]</td>
+    <td>Blessure</td>
+    <td>17</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>[[diminution permanente|Dim]] 1 [[Force|For]]/1d2 [[Force|For]]</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Extraitdesanvert|Extrait de sanvert]]</td>
+    <td>Blessure</td>
+    <td>13</td>
+    <td>—</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>1 [[Constitution|Con]]</td>
+    <td>100 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Mortelame|Mortelame]]</td>
+    <td>Blessure</td>
+    <td>20</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d3 [[Constitution|Con]]</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Poisondaraignéenoiredesmarais|Poison d'araignée noire des marais]]</td>
+    <td>Blessure</td>
+    <td>14</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d4 [[Dextérité|Dex]], [[confus|confusion]] 1 rd</td>
+    <td>800 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Poisondevouivre|Poison de vouivre]]</td>
+    <td>Blessure</td>
+    <td>17</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d4 [[Constitution|Con]]</td>
+    <td>3 000 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Poisondrow|Poison drow]]</td>
+    <td>Blessure</td>
+    <td>13</td>
+    <td>—</td>
+    <td>1/min pdt 2 min</td>
+    <td>[[Inconscient|Inconscience]] 1 min/2d4 h</td>
+    <td>75 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Préserve-plaie|Préserve-plaie]]</td>
+    <td>Blessure</td>
+    <td>18</td>
+    <td>1 rd</td>
+    <td>1/jour</td>
+    <td>
+      <abbr titre="Les tests de Premiers soins effectués sur la victime subissent un malus de -10. Les soins magiques nécessitent de réussir un test de niveau de lanceur de sorts DD 25 pour fonctionner.">
+      voir texte</abbr>
+    </td>
+    <td>75 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Tormentille|Tormentille]]</td>
+    <td>Blessure</td>
+    <td>12</td>
+    <td>1 rd</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>1 [[Constitution|Con]], 1 [[Sagesse|Sag]], [[confus|confusion]] 1 rd</td>
+    <td>100 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#VenindaraignéedetailleM|Venin d’araignée de taille M]]</td>
+    <td>Blessure</td>
+    <td>14</td>
+    <td>—</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>1d2 [[Force|For]]</td>
+    <td>150 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindaraignéeécorchefeuille|Venin d’araignée écorchefeuille]]</td>
+    <td>Blessure</td>
+    <td>11</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d3 [[Con]]/1d3 [[Con]]</td>
+    <td>100 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindeguêpegéante|Venin de guêpe géante]]</td>
+    <td>Blessure</td>
+    <td>18</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d2 [[Dextérité|Dex]]</td>
+    <td>210 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindemille-pattesdetailleP|Venin de mille-pattes de taille P]]</td>
+    <td>Blessure</td>
+    <td>11</td>
+    <td>—</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>1 [[Dextérité|Dex]]</td>
+    <td>90 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindescorpiongéant|Venin de scorpion géant]]</td>
+    <td>Blessure</td>
+    <td>17</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d2 [[Force|For]]</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindeverpourpre|Venin de ver pourpre]]</td>
+    <td>Blessure</td>
+    <td>24</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d3 [[Force|For]]</td>
+    <td>700 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindevipèreàtêtenoire|Venin de vipère à tête noire]]</td>
+    <td>Blessure</td>
+    <td>11</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d2 [[Constitution|Con]]</td>
+    <td>120 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Toxinedemédusearc-en-ciel|Toxine de méduse arc-en-ciel]]</td>
+    <td>Blessure,  
+contact</td>
+    <td>14</td>
+    <td>—</td>
+    <td>1/rd pdt 2 rds</td>
+    <td>[[chancelant|chancelement]] 1d6 rds/  
+[[paralysé|paralysie]] 1d6 min</td>
+    <td>400 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Bavedecockatrice|Bave de cockatrice]]</td>
+    <td>Blessure,  
 contact,  
-ingestion</td><td>12</td><td>—</td><td>1/rd pdt 4 rds</td><td>1d2 [[Dextérité|Dex]], <abbr title="Un affaiblissement égal à la valeur de Dex prétrifie la victime, avec un jet de sauvegarde quotidien pour revenir à 1 point de Dex.">voir texte</abbr></td><td>1 000 po</td></tr><tr><td>[[Poisons#Baietueuse|Baie tueuse]]</td><td>Blessure,  
-ingestion</td><td>15</td><td>1 rd/  
-30 min</td><td>1/min pdt 5 min</td><td>1d3 [[For]], 1 [[Con]], [[paralysé|paralysie]] 1d3 rds</td><td>90 po</td></tr><tr><td>[[Poisons#Bavedeguenaude|Bave de guenaude]]</td><td>Blessure,  
-ingestion</td><td>16</td><td>—</td><td>1/rd pdt 6 rds</td><td>[[aveuglé|cécité]] 1d10 rds/1d4 [[Sagesse|Sag]]</td><td>1 500 po</td></tr><tr><td>[[Poisons#Venindaraignéevioloniste|Venin d’araignée violoniste]]</td><td>Blessure,  
-ingestion</td><td>13</td><td>1 min</td><td>1/min pdt 6 min</td><td>[[nauséeux|nausée]] 1d4 rds/1d3 [[Force|For]], 1d4 [[Constitution|Con]]</td><td>500 po</td></tr><tr><td>[[Poisons#Bilededragon|Bile de dragon]]</td><td>Contact</td><td>26</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d3 [[Force|For]]</td><td>1 500 po</td></tr><tr><td>[[Poisons#Extraitdelotusnoir|Extrait de lotus noir]]</td><td>Contact</td><td>20</td><td>1 min</td><td>1/rd pdt 6 rds</td><td>1d6 [[Constitution|Con]]</td><td>4 500 po</td></tr><tr><td>[[Poisons#Fléaudumage|Fléau du mage]]</td><td>Contact</td><td>20</td><td>—</td><td>—</td><td><abbr title="+10 au DD des tests de concentration pendant 1 heure.">voir texte</abbr></td><td>500 po</td></tr><tr><td>[[Poisons#Herbefactice|Herbe factice]]</td><td>Contact</td><td>18</td><td><abbr title="immédiate et 1 semaine">voir texte</abbr></td><td>variable</td><td><abbr title="+1 Con/jour pendant 7 jours, puis disparition des bonus et 1d6 Con/jour pendant 7 jours.">voir texte</abbr></td><td>6 500 po</td></tr><tr><td>[[Poisons#Larmesdelamort|Larmes de la mort]]</td><td>Contact</td><td>22</td><td>1 min</td><td>1/min pdt 6 min</td><td>1d6 [[Constitution|Con]], [[paralysé|paralysie]] 1 min</td><td>6 500 po</td></tr><tr><td>[[Poisons#Nitharite|Nitharite]]</td><td>Contact</td><td>13</td><td>1 min</td><td>1/min pdt 6 min</td><td>1d3 [[Constitution|Con]]</td><td>650 po</td></tr><tr><td>[[Poisons#Pommedépine|Pomme d’épine]]</td><td>Contact</td><td>11</td><td>10 min</td><td>1/min pdt 6 min</td><td>1 [[Int]], [[Sag]] et [[Con]], [[aveuglé|cécité]] pdt 1 min</td><td>90 po</td></tr><tr><td>[[Poisons#Poudredassonne|Poudre d’assonne]]</td><td>Contact</td><td>16</td><td>1 min</td><td>1/min pdt 6 min</td><td>2d12 [[pv]]/1 [[Constitution|Con]]</td><td>300 po</td></tr><tr><td>[[Poisons#Racinedemalyasse|Racine de malyasse]]</td><td>Contact</td><td>16</td><td>1 min</td><td>1/min pdt 6 min</td><td>1d2 [[Dextérité|Dex]]</td><td>250 po</td></tr><tr><td>[[Poisons#Terrinave|Terrinave]]</td><td>Contact</td><td>16</td><td>1 min</td><td>1/min pdt 6 min</td><td>1d3 [[Dextérité|Dex]]</td><td>400 po</td></tr><tr><td>[[Poisons#Aconit|Aconit]]</td><td>Ingestion</td><td>16</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d3 [[Constitution|Con]]</td><td>500 po</td></tr><tr><td>[[Poisons#Amnésite|Amnésite]]</td><td>Ingestion</td><td>14</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d3 [[Intelligence|Int]]</td><td>125 po</td></tr><tr><td>[[Poisons#Arsenic|Arsenic]]</td><td>Ingestion</td><td>13</td><td>10 min</td><td>1/min pdt 4 min</td><td>1d2 [[Constitution|Con]]</td><td>120 po</td></tr><tr><td>[[Poisons#Belladone|Belladone]]</td><td>Ingestion</td><td>14</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d2 [[Force|For]], <abbr title="La cible peut tenter un jet de sauvegarde pour guérir une malédiction lycanthropique contractée dans l’heure précédente">voir texte</abbr></td><td>100 po</td></tr><tr><td>[[Poisons#Calotropis|Calotropis]]</td><td>Ingestion</td><td>14</td><td>1 heure</td><td>1/min pdt 6 min</td><td>1 [[Sag]], 1d3 [[Dex]]</td><td>120 po</td></tr><tr><td>[[Poisons#Cendresdeliche|Cendres de liche]]</td><td>Ingestion</td><td>17</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d3 [[Force|For]]</td><td>400 po</td></tr><tr><td>[[Poisons#Cigüe|Cigüe]]</td><td>Ingestion</td><td>18</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d6 [[Dextérité|Dex]], <abbr title="Asphyxie la cible si elle tombe à 0 en Dextérité">voir texte</abbr></td><td>2 500 po</td></tr><tr><td>[[Poisons#Entolomezébré|Entolome zébré]]</td><td>Ingestion</td><td>11</td><td>10 min</td><td>1/min pdt 4 min</td><td>1d3 [[Sagesse|Sag]], 1 [[Intelligence|Int]]</td><td>180 po</td></tr><tr><td>[[Poisons#Huiledetaggit|Huile de taggit]]</td><td>Ingestion</td><td>15</td><td>1 min</td><td>—</td><td>[[Inconscient|Inconscience]] 1d3 h</td><td>90 po</td></tr><tr><td>[[Poisons#Peshpourpre|Pesh pourpre]]</td><td>Ingestion</td><td>18</td><td>—</td><td>—</td><td>1d2 [[Con]] et [[For]]/[[inconscient|inconscience]] pdt 1 heure</td><td>200 po</td></tr><tr><td>[[Poisons#Piluledefolie|Pilule de folie]]</td><td>Ingestion</td><td>14</td><td>—</td><td>—</td><td>*[[confusion]]* pdt 1 min</td><td>1 500 po</td></tr><tr><td>[[Poisons#Poisondedevindesmarais|Poison de devin des marais]]</td><td>Ingestion</td><td>18</td><td>10 min</td><td>1/min pdt 3 min</td><td>1d4 [[Sagesse|Sag]]/1d2 [[Sagesse|Sag]], [[confus|confusion]] 1 min</td><td>400 po</td></tr><tr><td>[[Poisons#Racinedaconit|Racine d’aconit]]</td><td>Ingestion</td><td>25</td><td>1 min</td><td>1/rd pdt 5 rds</td><td>1d3 [[Dex]], 1 [[Con]], [[nauséeux|nausée]] pdt 1 rd</td><td>1 800 po</td></tr><tr><td>[[Poisons#Rêvesindigo|Rêves indigo]]</td><td>Ingestion</td><td>13</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d3 [[Sagesse|Sag]]</td><td>150 po</td></tr><tr><td>[[Poisons#Sommeilduroi|Sommeil du roi]]</td><td>Ingestion</td><td>19</td><td>1 jour</td><td>1/jour</td><td>[[diminution permanente|Dim]] 1 [[Constitution|Con]]</td><td>5 000 po</td></tr><tr><td>[[Poisons#Ténébreuxvireux|Ténébreux vireux]]</td><td>Ingestion</td><td>18</td><td>10 min</td><td>1/min pdt 6 min</td><td>1d3 [[Constitution|Con]], 1 [[Force|For]]</td><td>800 po</td></tr><tr><td>[[Poisons#Brumedefolie|Brume de folie]]</td><td>Inhalation</td><td>15</td><td>—</td><td>1/rd pdt 6 rds</td><td>1d3 [[Sagesse|Sag]]</td><td>1 500 po</td></tr><tr><td>[[Poisons#Cendresdungol|Cendres d’ungol]]</td><td>Inhalation</td><td>15</td><td>—</td><td>1/rd pdt 4 rds</td><td>[[diminution permanente|Dim]] 1 [[Charisme|Cha]]/1d2 [[Charisme|Cha]]</td><td>1 000 po</td></tr><tr><td>[[Poisons#Pollendelysazur|Pollen de lys azur]]</td><td>Inhalation</td><td>15</td><td>—</td><td>1/min pdt 2 min</td><td>[[Nauséeux|Nausée]] 1 min/[[paralysé|paralysie]] 2d4 h</td><td>1 500 po</td></tr><tr><td>[[Poisons#Vapeurdecauchemar|Vapeur de cauchemar]]</td><td>Inhalation</td><td>20</td><td>—</td><td>1/rd pdt 6 rds</td><td>1 [[Sagesse|Sag]], [[confus|confusion]] 1 rd</td><td>1 800 po</td></tr><tr><td>[[Poisons#Vapeurdothurbrûlé|Vapeurs d’othur brûlé]]</td><td>Inhalation</td><td>18</td><td>—</td><td>1/rd pdt 6 rds</td><td>[[diminution permanente|Dim]] 1 [[Constitution|Con]]/1d3 [[Constitution|Con]]</td><td>2 100 po</td></tr></table>
+ingestion</td>
+    <td>12</td>
+    <td>—</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>
+      1d2 [[Dextérité|Dex]],
+      <abbr title="Un affaiblissement égal à la valeur de Dex prétrifie la victime, avec un jet de sauvegarde quotidien pour revenir à 1 point de Dex.">
+      voir texte</abbr>
+    </td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Baietueuse|Baie tueuse]]</td>
+    <td>Blessure,  
+ingestion</td>
+    <td>15</td>
+    <td>1 rd/  
+30 min</td>
+    <td>1/min pdt 5 min</td>
+    <td>1d3 [[For]], 1 [[Con]], [[paralysé|paralysie]] 1d3 rds</td>
+    <td>90 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Bavedeguenaude|Bave de guenaude]]</td>
+    <td>Blessure,  
+ingestion</td>
+    <td>16</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>[[aveuglé|cécité]] 1d10 rds/1d4 [[Sagesse|Sag]]</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Venindaraignéevioloniste|Venin d’araignée violoniste]]</td>
+    <td>Blessure,  
+ingestion</td>
+    <td>13</td>
+    <td>1 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>[[nauséeux|nausée]] 1d4 rds/1d3 [[Force|For]], 1d4 [[Constitution|Con]]</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Bilededragon|Bile de dragon]]</td>
+    <td>Contact</td>
+    <td>26</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d3 [[Force|For]]</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Extraitdelotusnoir|Extrait de lotus noir]]</td>
+    <td>Contact</td>
+    <td>20</td>
+    <td>1 min</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d6 [[Constitution|Con]]</td>
+    <td>4 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Fléaudumage|Fléau du mage]]</td>
+    <td>Contact</td>
+    <td>20</td>
+    <td>—</td>
+    <td>—</td>
+    <td><abbr title="+10 au DD des tests de concentration pendant 1 heure.">voir texte</abbr></td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Herbefactice|Herbe factice]]</td>
+    <td>Contact</td>
+    <td>18</td>
+    <td><abbr title="immédiate et 1 semaine">voir texte</abbr></td>
+    <td>variable</td>
+    <td>
+      <abbr title="+1 Con/jour pendant 7 jours, puis disparition des bonus et 1d6 Con/jour pendant 7 jours.">voir
+      texte</abbr>
+    </td>
+    <td>6 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Larmesdelamort|Larmes de la mort]]</td>
+    <td>Contact</td>
+    <td>22</td>
+    <td>1 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d6 [[Constitution|Con]], [[paralysé|paralysie]] 1 min</td>
+    <td>6 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Nitharite|Nitharite]]</td>
+    <td>Contact</td>
+    <td>13</td>
+    <td>1 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Constitution|Con]]</td>
+    <td>650 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Pommedépine|Pomme d’épine]]</td>
+    <td>Contact</td>
+    <td>11</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1 [[Int]], [[Sag]] et [[Con]], [[aveuglé|cécité]] pdt 1 min</td>
+    <td>90 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Poudredassonne|Poudre d’assonne]]</td>
+    <td>Contact</td>
+    <td>16</td>
+    <td>1 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>2d12 [[pv]]/1 [[Constitution|Con]]</td>
+    <td>300 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Racinedemalyasse|Racine de malyasse]]</td>
+    <td>Contact</td>
+    <td>16</td>
+    <td>1 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d2 [[Dextérité|Dex]]</td>
+    <td>250 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Terrinave|Terrinave]]</td>
+    <td>Contact</td>
+    <td>16</td>
+    <td>1 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Dextérité|Dex]]</td>
+    <td>400 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Aconit|Aconit]]</td>
+    <td>Ingestion</td>
+    <td>16</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Constitution|Con]]</td>
+    <td>500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Amnésite|Amnésite]]</td>
+    <td>Ingestion</td>
+    <td>14</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Intelligence|Int]]</td>
+    <td>125 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Arsenic|Arsenic]]</td>
+    <td>Ingestion</td>
+    <td>13</td>
+    <td>10 min</td>
+    <td>1/min pdt 4 min</td>
+    <td>1d2 [[Constitution|Con]]</td>
+    <td>120 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Belladone|Belladone]]</td>
+    <td>Ingestion</td>
+    <td>14</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>
+      1d2 [[Force|For]],
+      <abbr title="La cible peut tenter un jet de sauvegarde pour guérir une malédiction lycanthropique contractée dans l’heure précédente">
+      voir texte</abbr>
+    </td>
+    <td>100 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Calotropis|Calotropis]]</td>
+    <td>Ingestion</td>
+    <td>14</td>
+    <td>1 heure</td>
+    <td>1/min pdt 6 min</td>
+    <td>1 [[Sag]], 1d3 [[Dex]]</td>
+    <td>120 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Cendresdeliche|Cendres de liche]]</td>
+    <td>Ingestion</td>
+    <td>17</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Force|For]]</td>
+    <td>400 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Cigüe|Cigüe]]</td>
+    <td>Ingestion</td>
+    <td>18</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d6 [[Dextérité|Dex]], <abbr title="Asphyxie la cible si elle tombe à 0 en Dextérité">voir texte</abbr></td>
+    <td>2 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Entolomezébré|Entolome zébré]]</td>
+    <td>Ingestion</td>
+    <td>11</td>
+    <td>10 min</td>
+    <td>1/min pdt 4 min</td>
+    <td>1d3 [[Sagesse|Sag]], 1 [[Intelligence|Int]]</td>
+    <td>180 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Huiledetaggit|Huile de taggit]]</td>
+    <td>Ingestion</td>
+    <td>15</td>
+    <td>1 min</td>
+    <td>—</td>
+    <td>[[Inconscient|Inconscience]] 1d3 h</td>
+    <td>90 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Peshpourpre|Pesh pourpre]]</td>
+    <td>Ingestion</td>
+    <td>18</td>
+    <td>—</td>
+    <td>—</td>
+    <td>1d2 [[Con]] et [[For]]/[[inconscient|inconscience]] pdt 1 heure</td>
+    <td>200 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Piluledefolie|Pilule de folie]]</td>
+    <td>Ingestion</td>
+    <td>14</td>
+    <td>—</td>
+    <td>—</td>
+    <td>*[[confusion]]* pdt 1 min</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Poisondedevindesmarais|Poison de devin des marais]]</td>
+    <td>Ingestion</td>
+    <td>18</td>
+    <td>10 min</td>
+    <td>1/min pdt 3 min</td>
+    <td>1d4 [[Sagesse|Sag]]/1d2 [[Sagesse|Sag]], [[confus|confusion]] 1 min</td>
+    <td>400 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Racinedaconit|Racine d’aconit]]</td>
+    <td>Ingestion</td>
+    <td>25</td>
+    <td>1 min</td>
+    <td>1/rd pdt 5 rds</td>
+    <td>1d3 [[Dex]], 1 [[Con]], [[nauséeux|nausée]] pdt 1 rd</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Rêvesindigo|Rêves indigo]]</td>
+    <td>Ingestion</td>
+    <td>13</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Sagesse|Sag]]</td>
+    <td>150 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Sommeilduroi|Sommeil du roi]]</td>
+    <td>Ingestion</td>
+    <td>19</td>
+    <td>1 jour</td>
+    <td>1/jour</td>
+    <td>[[diminution permanente|Dim]] 1 [[Constitution|Con]]</td>
+    <td>5 000 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Ténébreuxvireux|Ténébreux vireux]]</td>
+    <td>Ingestion</td>
+    <td>18</td>
+    <td>10 min</td>
+    <td>1/min pdt 6 min</td>
+    <td>1d3 [[Constitution|Con]], 1 [[Force|For]]</td>
+    <td>800 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Brumedefolie|Brume de folie]]</td>
+    <td>Inhalation</td>
+    <td>15</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1d3 [[Sagesse|Sag]]</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Cendresdungol|Cendres d’ungol]]</td>
+    <td>Inhalation</td>
+    <td>15</td>
+    <td>—</td>
+    <td>1/rd pdt 4 rds</td>
+    <td>[[diminution permanente|Dim]] 1 [[Charisme|Cha]]/1d2 [[Charisme|Cha]]</td>
+    <td>1 000 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Pollendelysazur|Pollen de lys azur]]</td>
+    <td>Inhalation</td>
+    <td>15</td>
+    <td>—</td>
+    <td>1/min pdt 2 min</td>
+    <td>[[Nauséeux|Nausée]] 1 min/[[paralysé|paralysie]] 2d4 h</td>
+    <td>1 500 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Vapeurdecauchemar|Vapeur de cauchemar]]</td>
+    <td>Inhalation</td>
+    <td>20</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>1 [[Sagesse|Sag]], [[confus|confusion]] 1 rd</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr>
+    <td>[[Poisons#Vapeurdothurbrûlé|Vapeurs d’othur brûlé]]</td>
+    <td>Inhalation</td>
+    <td>18</td>
+    <td>—</td>
+    <td>1/rd pdt 6 rds</td>
+    <td>[[diminution permanente|Dim]] 1 [[Constitution|Con]]/1d3 [[Constitution|Con]]</td>
+    <td>2 100 po</td>
+  </tr>
+</table>
 
 </center>
 

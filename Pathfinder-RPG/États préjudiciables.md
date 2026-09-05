@@ -54,7 +54,19 @@ Jetez 1d100 et consultez la table suivante au début de chaque round pour déter
 
 <center>
 
-<table CLASS="tablo"><tr CLASS="titre"><td>d100</td><td CLASS="gauche">Comportement</td></tr><tr CLASS="premier"><td>01–25</td><td CLASS="gauche">Agit normalement.</td></tr><tr CLASS="alt"><td>26–50</td><td CLASS="gauche">Ne fait rien et babille de manière incohérente.</td></tr><tr><td>51–75</td><td CLASS="gauche">S’inflige 1d8 points de dégâts + bonus de [[Force]] avec un objet en main.</td></tr><tr CLASS="alt"><td>76–100</td><td CLASS="gauche">Attaque la créature la plus proche (dans ce cas, un familier fait partie du sujet).</td></tr></table>
+<table CLASS="tablo">
+  <tr CLASS="titre"><td>d100</td><td CLASS="gauche">Comportement</td></tr>
+  <tr CLASS="premier"><td>01–25</td><td CLASS="gauche">Agit normalement.</td></tr>
+  <tr CLASS="alt"><td>26–50</td><td CLASS="gauche">Ne fait rien et babille de manière incohérente.</td></tr>
+  <tr>
+    <td>51–75</td>
+    <td CLASS="gauche">S’inflige 1d8 points de dégâts + bonus de [[Force]] avec un objet en main.</td>
+  </tr>
+  <tr CLASS="alt">
+    <td>76–100</td>
+    <td CLASS="gauche">Attaque la créature la plus proche (dans ce cas, un familier fait partie du sujet).</td>
+  </tr>
+</table>
 
 </center>
 

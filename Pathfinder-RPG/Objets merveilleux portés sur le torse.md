@@ -13,4 +13,366 @@ Tous les objets merveilleux décrits ci-dessous pèsent entre 500 g et 2,5 kg.
 
 {s:filtrable}
 
-<table CLASS="tablo centre autoalt toutgauche filtrable"><caption>Objets merveilleux portés sur le torse</caption><tr CLASS="titre"><td WIDTH="22%">Objet</td><td WIDTH= "3%">Source</td><td WIDTH="65%">Capacités</td><td WIDTH="10%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Bandages de guérison rapide]]</td><td><sup>MJRA, A&E</sup></td><td>Soignes les plaies et les [[affaiblissement temporaire (capacité)|affaiblissements de caractéristiques]] du porteur comme s’il avait passé une nuit de sommeil, tout en augmentant son niveau effectif (ou ses DV) de +4 concernant les [[premiers secours|soins à long terme]]. Usage unique.</td><td>200 po</td></tr><tr CLASS="premier"><td>[[Maillot de sprinter]]</td><td><sup>A&E</sup></td><td>Une fois par jour au bout de 24 heures de port, le porteur peut effectuer une [[action de mouvement]] supplémentaire par une [[action rapide]].</td><td>1 000 po</td></tr><tr CLASS="premier"><td>[[Cartouchière inépuisable]]</td><td><sup>A&E</sup></td><td>Peut contenir 60 [[Cartouche alchimique (arme)|cartouches alchimiques]], 4 armes à feu à une main, 500g de munitions, une corne à poudre et 2 armes à feu à deux mains en rendant ces objets plus faciles d’accès.</td><td>1 500 po</td></tr><tr CLASS="premier"><td>[[Veste à outils]]</td><td><sup>MJRA, A&E</sup></td><td>Une fois par jour, peut convoquer les outils nécessaires à un test d’[[Artisanat]] pendant 24 heures.</td><td>1 800 po</td></tr><tr CLASS="premier"><td>[[Veste polyvalente]]</td><td><sup>RSE</sup></td><td>Peut stocker jusqu'à 6 objets pesant 500 g au maximum, ainsi que 4 fois un volume 15cm<sup>3</sup> (2,250 kg maximum) d'équipement. Contient une [[Rations de survie (objet)|rations de route]], une [[Outre (objet)|outre]] remplie d'eau, deux [[Bougie (objet)|bougies]] et un [[Allume-feu (objet)|allume-feu]], recréés jusqu'à 1 fois tous les trois jours.</td><td>2 000 po</td></tr><tr CLASS="premier"><td>[[Manteau à poches]]</td><td><sup>RSE, UI</sup></td><td>Confère un bonus de circonstances de +5 aux tests d'[[Escamotage]] pour cacher un objet dedans. Il faut une [[action simple]] pour récupérer un objet placé à l'intérieur.</td><td>2 500 po</td></tr><tr CLASS="premier"><td>[[Gilet de médecin]]</td><td><sup>A&E</sup></td><td>Fait office de [[Trousse de premiers secours (objet)|trousse de premiers secours]] infinie. Permet de soigner 1d4 points d’[[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de caractéristique avec un test de [[Premiers secours]].</td><td>3 000 po</td></tr><tr CLASS="premier"><td>[[Manteau des bas-fonds]]</td><td><sup>*UI*</sup></td><td>Jusqu'à 5 minutes par jour dans un milieu urbain, peut transformer le porteur en [[cafard géant]] (comme avec *[[forme de vermine I]]*).</td><td>3 750 po</td></tr><tr><td>&emsp;[[Manteau des bas-fonds supérieur]]</td><td><sup>*UI*</sup></td><td>Jusqu'à 9 minutes par jour dans un milieu urbain, peut transformer le porteur en [[cafard géant|cafard venimeux]] (comme avec *[[forme de vermine II]]*) ou en une nuée de cafards Minuscules (similaires à une [[nuée de rats]]).</td><td>| 37 500 po</td></tr><tr CLASS="premier"><td>[[Écharpe du champion]]</td><td><sup>MJRA, A&E</sup></td><td>Un [[guerrier]] voit son niveau effectif de [[guerrier]] augmenté de 4 pour déterminer ses aptitudes d’[[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] et de [[guerrier#COURAGE|courage]].</td><td>4 000 po</td></tr><tr CLASS="premier"><td>[[Veste de la lame silencieuse]]</td><td><sup>*ISG*</sup></td><td>Confère un bonus de compétence de +5 aux tests d'[[Escamotage]]. Si le porteur est adjacent à un allié utilisant la [[Discrétion]], confère un bonus de compétence de +5 aux tests de Discrétion.</td><td>4 300 po</td></tr><tr CLASS="premier"><td>[[Tunique dincantation minutieuse|Tunique d’incantation minutieuse]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +2 aux [[lancer des sorts#CONCENTRATION|tests de concentration]].</td><td>5 000 po</td></tr><tr CLASS="premier"><td>[[Veste absorbante]]</td><td><sup>A&E</sup></td><td>Permet de consommer des potions à durée instantanée ou indiquée en [[round]] par une [[action rapide]] round par round.</td><td>5 000 po</td></tr><tr CLASS="premier"><td>[[Gilet dévasion|Gilet d’évasion]]</td><td><sup>MJ, A&E</sup></td><td>Confère un bonus de compétence de +6 aux tests d’[[Évasion]]. Contient des outils de cambrioleur magiques conférant un bonus de compétence de +4 aux tests de [[Sabotage]].</td><td>5 200 po</td></tr><tr CLASS="premier"><td>[[Gilet de tir impitoyable]]</td><td><sup>A&E</sup></td><td>Un [[pistolier]] voit le coût de l’exploit [[exploits#BOUTPORTANT|bout portant]] réduit de 1. Permet de tenter une mise à mort contre une créature réduite à 0 points de vie ou moins par un tir d’arme à feu, par une [[action rapide]].</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Gilet du traqueur]]</td><td><sup>A&E</sup></td><td>Confère un bonus de moral de +1 au premier [[valeurs de combat#JETDATTAQUE|jet d’attaque]] et [valeurs de combat#DEGATS|de dégâts]] des armes contre les créatures que le porteur a traqué durant les dernières 24 heures, le bonus s’élève à +2 si ces créatures sont [[États préjudiciables#Prisaudépourvu|prise au dépourvu]] et, si le porteur possède la capacité [[rôdeur#ENNEMIJURE|ennemi juré]], confère un bonus de +4 aux jets de confirmation critique contre elles.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Plastron prophétique]]</td><td><sup>A&E</sup></td><td>Augmente les chances de succès des sorts *[[augure]]*, *[[divination]]* et *[[contact avec les plans]]*. Le porteur peut poser une question de plus ou obtenir une information supplémentaire avec les sorts *[[communion]]* et *[[communion avec la nature]]*.</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Tunique de puissance dévastatrice]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +2 au [[DMD]] contre les manœuvres de [[manœuvres offensives#DESARMEMENT|désarmement]] et de [[manœuvres offensives#DESTRUCTION|destruction]] d’arme. Un [[samouraï]] peut appliquer la propriété d’arme [[tonnerre (propriété)|tonnerre]] à un coup critique réussit sur la cible de son [[samouraï#DEFI|défi]].</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Vareuse de sorcière ricaneuse]]</td><td><sup>A&E</sup></td><td>Confère un bonus de +2 aux tests d’[[Intimidation]]. Une [[sorcière]] obtient le [[sorcière#MALEFICE|maléfice]] de [[maléfices#Ricanement|ricanement]] et, si elle le possède déjà, elle peut l’utiliser 2 fois par jour par une [[action rapide]].</td><td>6 000 po</td></tr><tr CLASS="premier"><td>[[Uniforme resplendissant]]</td><td><sup>A&E</sup></td><td>Un [[chevalier]] avec la capacité [[chevalier#TACTICIEN|tacticien]] en obtient une utilisation supplémentaire par jour qui affecte tous les alliés à 18 m ou moins.</td><td>7 000 po</td></tr><tr CLASS="premier"><td>[[Blouse du bâtard impudent]]</td><td><sup>MCA</sup></td><td>Un porteur qui possède la capacité [[panache]] en récupère 1 point à chaque fois qu’il reçoit des dégâts d’un coup critique confirmé.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Chemise de linsoupçonnable|Chemise de l'insoupçonnable]]</td><td><sup>*ISR*</sup></td><td>Les autres créatures ignorent facilement le porteur s'il n'est pas explicitement hostile.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Chemise enflammée]]</td><td><sup>A&E</sup></td><td>En situation de [[manœuvres offensives#LUTTE|lutte]], inflige 1d6+10 points de dégâts de feu à l’adversaire du porteur chaque [[round]], l’adversaire prend feu pendant 1 [[round]] après la fin de la lutte.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Tunique en peau de serpent]]</td><td><sup>A&E</sup></td><td>Confère un bonus d’armure de +1 à la [[CA]], un bonus d’altération de +2 à la [[Dextérité]] et un bonus de résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre le poison.</td><td>8 000 po</td></tr><tr CLASS="premier"><td>[[Baudrier du tueur]]</td><td><sup>A&E</sup></td><td>Un [[inquisiteur]] voit son niveau effectif de [[inquisiteur]] augmenté de 5 pour déterminer les effets de ses capacités de [[inquisiteur#TUEUR|tueur]] et [[inquisiteur#TUEURSUPERIEUR|tueur supérieur]]. Un non-inquisiteur obtient ces capacités comme un inquisiteur de niveau 5, uniquement avec une armes accrochée à ce baudrier pendant 24 heures.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Chemise de liberté]]</td><td><sup>A&E</sup></td><td>Une fois par jour, peut conférer les effets du sort *[[liberté de mouvement]]* pendant 10 minutes.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Manteau du fidèle réceptacle]]</td><td><sup>CMy</sup></td><td>Les créatures soignées par les [[Prêtre#CANALISATIONDENERGIE|canalisations d'énergie]] du porteur bénéficient des effets d'une *[[bénédiction]]* pendant 1 minute, et toutes les créatures blessées par celles-ci sont soumises aux effets d'une *[[imprécation]]* pendant la même durée et subissent des dégâts supplémentaires.</td><td>10 000 po</td></tr><tr CLASS="premier"><td>[[Veston de lempoisonneur|Veston de l’empoisonneur]]</td><td><sup>A&E</sup></td><td>Trois fois par jour, peut créer une fiole d’un [[poisons|poison]] valant jusqu’à 300 po inutilisable au bout d’une heure.</td><td>12 000 po</td></tr><tr><td>&emsp; [[Veston de lempoisonneur Supérieur|Veston de l’empoisonneur supérieur]]</td><td><sup>A&E</sup></td><td>Fonctionne comme le *Veston de l’Empoisonneur* mais peut également, une fois par jour, créer une fiole d’un [[poisons|poison]] valant jusqu’à 4 000 po inutilisable au bout d’une heure.</td><td>| 58 000 po</td></tr><tr CLASS="premier"><td>[[Baudrier de stabilité magique]]</td><td><sup>*ISR*</sup></td><td>Peut stocker jusqu'à deux carquois de [[carreaux darbalète (arme)|carreaux d'arbalète]], un carquois de [[flèches (arme)|flèches]], ou 40 [[balle darme à feu (arme)|balles]] ou cartouches d'arme à feu, ainsi qu'une arme. Confère un bonus aux [[jds|jets de sauvegarde]] et aux tests de [[concentration]] contre les effets de la [[magie primordiale]], même si le porteur n'est pas un lanceur de sorts.</td><td>14 000 po</td></tr><tr CLASS="premier"><td>[[Cartouchière du gardien de la mort]]</td><td><sup>CMy</sup></td><td>Peut manifester quatre pouvoirs visants à combattre les morts-vivants. Au prix d'une utilisation de [[pouvoir mythique]], le porteur peut utiliser un de ces pouvoirs sans en dépenser d'utilisation journalière.</td><td>15 000 po</td></tr><tr CLASS="premier"><td>[[Veste du cafard]]</td><td><sup>MJRA, A&E</sup></td><td>Un [[roublard]] obtient le [[roublard#TALENT|talent]] de [[talents#résilience|résilience]] et, s’il le possède déjà, il lui confère 2 points de vie par niveau de roublard.</td><td>16 000 po</td></tr><tr CLASS="premier"><td>[[Gilet de stabilité mutagène]]</td><td><sup>A&E</sup></td><td>Un [[alchimiste]] ne subit plus les malus aux caractéristiques mentales infligées par ses [[alchimiste#MUTAGENE|mutagènes]]. Permet de stocker le nécessaire à la confection de produits alchimiques.</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Chemise du mangeur de malchance]]</td><td><sup>*ISR*</sup></td><td>Lorsqu'un allié est soumis à une [[registre|malédiction]], un [[Sorcière#MALEFICE|maléfice]], un mauvais sort ou un autre effet qui le forcerait à lancer plusieurs fois le même jet pour conserver le pire résultat, un porteur [[Tengu (race)|tengu]] peut tenter de dissiper l'effet pour obtenir des [[points de vie temporaires]].</td><td>22 600 po</td></tr><tr CLASS="premier"><td>[[Linceul spectral]]</td><td><sup>A&E</sup></td><td>Permet de voir les créatures invisibles et éthérées (comme avec *[[détection de linvisibilité|détection de l’invisibilité]]*). Une fois par jour, permet au porteur de devenir [[États préjudiciables#Intangible|intangible]] et de gagner une vitesse de vol égale à sa vitesse de base pednant 10 [[round|rounds]].</td><td>26 000 po</td></tr><tr CLASS="premier"><td>[[Pèlerine dimmortalité|Pèlerine d’immortalité]]</td><td><sup>A&E</sup></td><td>Un porteur d’[[État civil et mensurations#AGE|âge mûr]] ne subit plus les malus aux caractéristiques physiques imposés par son âge.</td><td>50 000 po</td></tr><tr CLASS="premier"><td>[[Baudrier miséricordieux]]</td><td><sup>A&E</sup></td><td>Un [[paladin]] peut choisir 3 [[paladin#GRACE|grâces]] supplémentaires qui font effet pendant 24 heures chaque jour. Lorsque qu’il utilise une [[paladin#GRACE|grâce]] pour réprimer un effet de malédiction, de maladie ou de poison pendant 1 heure, il la supprime à la place.</td><td>60 000 po</td></tr><tr CLASS="premier"><td>[[Chasuble de la foi]]</td><td><sup>MJ, A&E</sup></td><td>Confère une [[RD]] 5/Mal.</td><td>76 000 po</td></tr><tr CLASS="premier"><td>[[Chasuble de résistance à la magie]]</td><td><sup>A&E</sup></td><td>Confère une [[résistance à la magie (capacité)|résistance à la magie]] de 21.</td><td>90 000 po</td></tr></table>
+<table CLASS="tablo centre autoalt toutgauche filtrable">
+  <caption>Objets merveilleux portés sur le torse</caption>
+  <tr CLASS="titre">
+    <td WIDTH="22%">Objet</td>
+    <td WIDTH= "3%">Source</td>
+    <td WIDTH="65%">Capacités</td>
+    <td WIDTH="10%">Prix de vente</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Bandages de guérison rapide]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Soignes les plaies et les [[affaiblissement temporaire (capacité)|affaiblissements de caractéristiques]] du
+      porteur comme s’il avait passé une nuit de sommeil, tout en augmentant son niveau effectif (ou ses DV) de +4
+      concernant les [[premiers secours|soins à long terme]]. Usage unique.
+    </td>
+    <td>200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Maillot de sprinter]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Une fois par jour au bout de 24 heures de port, le porteur peut effectuer une [[action de mouvement]]
+      supplémentaire par une [[action rapide]].
+    </td>
+    <td>1 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cartouchière inépuisable]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Peut contenir 60 [[Cartouche alchimique (arme)|cartouches alchimiques]], 4 armes à feu à une main, 500g de
+      munitions, une corne à poudre et 2 armes à feu à deux mains en rendant ces objets plus faciles d’accès.
+    </td>
+    <td>1 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Veste à outils]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>Une fois par jour, peut convoquer les outils nécessaires à un test d’[[Artisanat]] pendant 24 heures.</td>
+    <td>1 800 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Veste polyvalente]]</td>
+    <td><sup>RSE</sup></td>
+    <td>
+      Peut stocker jusqu'à 6 objets pesant 500 g au maximum, ainsi que 4 fois un volume 15cm<sup>3</sup> (2,250 kg
+      maximum) d'équipement. Contient une [[Rations de survie (objet)|rations de route]], une [[Outre
+      (objet)|outre]] remplie d'eau, deux [[Bougie (objet)|bougies]] et un [[Allume-feu (objet)|allume-feu]],
+      recréés jusqu'à 1 fois tous les trois jours.
+    </td>
+    <td>2 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Manteau à poches]]</td>
+    <td><sup>RSE, UI</sup></td>
+    <td>
+      Confère un bonus de circonstances de +5 aux tests d'[[Escamotage]] pour cacher un objet dedans. Il faut une
+      [[action simple]] pour récupérer un objet placé à l'intérieur.
+    </td>
+    <td>2 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gilet de médecin]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Fait office de [[Trousse de premiers secours (objet)|trousse de premiers secours]] infinie. Permet de soigner
+      1d4 points d’[[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de caractéristique avec un
+      test de [[Premiers secours]].
+    </td>
+    <td>3 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Manteau des bas-fonds]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Jusqu'à 5 minutes par jour dans un milieu urbain, peut transformer le porteur en [[cafard géant]] (comme avec
+      *[[forme de vermine I]]*).
+    </td>
+    <td>3 750 po</td>
+  </tr>
+  <tr>
+    <td>&emsp;[[Manteau des bas-fonds supérieur]]</td>
+    <td><sup>*UI*</sup></td>
+    <td>
+      Jusqu'à 9 minutes par jour dans un milieu urbain, peut transformer le porteur en [[cafard géant|cafard
+      venimeux]] (comme avec *[[forme de vermine II]]*) ou en une nuée de cafards Minuscules (similaires à une
+      [[nuée de rats]]).
+    </td>
+    <td>| 37 500 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Écharpe du champion]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Un [[guerrier]] voit son niveau effectif de [[guerrier]] augmenté de 4 pour déterminer ses aptitudes
+      d’[[guerrier#ENTRAINEMENTAUXARMURES|entraînement aux armures]] et de [[guerrier#COURAGE|courage]].
+    </td>
+    <td>4 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Veste de la lame silencieuse]]</td>
+    <td><sup>*ISG*</sup></td>
+    <td>
+      Confère un bonus de compétence de +5 aux tests d'[[Escamotage]]. Si le porteur est adjacent à un allié
+      utilisant la [[Discrétion]], confère un bonus de compétence de +5 aux tests de Discrétion.
+    </td>
+    <td>4 300 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tunique dincantation minutieuse|Tunique d’incantation minutieuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Confère un bonus de +2 aux [[lancer des sorts#CONCENTRATION|tests de concentration]].</td>
+    <td>5 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Veste absorbante]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet de consommer des potions à durée instantanée ou indiquée en [[round]] par une [[action rapide]] round
+      par round.
+    </td>
+    <td>5 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gilet dévasion|Gilet d’évasion]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>
+      Confère un bonus de compétence de +6 aux tests d’[[Évasion]]. Contient des outils de cambrioleur magiques
+      conférant un bonus de compétence de +4 aux tests de [[Sabotage]].
+    </td>
+    <td>5 200 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gilet de tir impitoyable]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un [[pistolier]] voit le coût de l’exploit [[exploits#BOUTPORTANT|bout portant]] réduit de 1. Permet de tenter
+      une mise à mort contre une créature réduite à 0 points de vie ou moins par un tir d’arme à feu, par une
+      [[action rapide]].
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gilet du traqueur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de moral de +1 au premier [[valeurs de combat#JETDATTAQUE|jet d’attaque]] et [valeurs de
+      combat#DEGATS|de dégâts]] des armes contre les créatures que le porteur a traqué durant les dernières 24
+      heures, le bonus s’élève à +2 si ces créatures sont [[États préjudiciables#Prisaudépourvu|prise au dépourvu]]
+      et, si le porteur possède la capacité [[rôdeur#ENNEMIJURE|ennemi juré]], confère un bonus de +4 aux jets de
+      confirmation critique contre elles.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Plastron prophétique]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Augmente les chances de succès des sorts *[[augure]]*, *[[divination]]* et *[[contact avec les plans]]*. Le
+      porteur peut poser une question de plus ou obtenir une information supplémentaire avec les sorts
+      *[[communion]]* et *[[communion avec la nature]]*.
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tunique de puissance dévastatrice]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +2 au [[DMD]] contre les manœuvres de [[manœuvres offensives#DESARMEMENT|désarmement]] et
+      de [[manœuvres offensives#DESTRUCTION|destruction]] d’arme. Un [[samouraï]] peut appliquer la propriété d’arme
+      [[tonnerre (propriété)|tonnerre]] à un coup critique réussit sur la cible de son [[samouraï#DEFI|défi]].
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Vareuse de sorcière ricaneuse]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus de +2 aux tests d’[[Intimidation]]. Une [[sorcière]] obtient le
+      [[sorcière#MALEFICE|maléfice]] de [[maléfices#Ricanement|ricanement]] et, si elle le possède déjà, elle peut
+      l’utiliser 2 fois par jour par une [[action rapide]].
+    </td>
+    <td>6 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Uniforme resplendissant]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un [[chevalier]] avec la capacité [[chevalier#TACTICIEN|tacticien]] en obtient une utilisation supplémentaire
+      par jour qui affecte tous les alliés à 18 m ou moins.
+    </td>
+    <td>7 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Blouse du bâtard impudent]]</td>
+    <td><sup>MCA</sup></td>
+    <td>
+      Un porteur qui possède la capacité [[panache]] en récupère 1 point à chaque fois qu’il reçoit des dégâts d’un
+      coup critique confirmé.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chemise de linsoupçonnable|Chemise de l'insoupçonnable]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>Les autres créatures ignorent facilement le porteur s'il n'est pas explicitement hostile.</td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chemise enflammée]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      En situation de [[manœuvres offensives#LUTTE|lutte]], inflige 1d6+10 points de dégâts de feu à l’adversaire du
+      porteur chaque [[round]], l’adversaire prend feu pendant 1 [[round]] après la fin de la lutte.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Tunique en peau de serpent]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Confère un bonus d’armure de +1 à la [[CA]], un bonus d’altération de +2 à la [[Dextérité]] et un bonus de
+      résistance de +2 aux [[valeurs de combat#JETDESAUVEGARDE|jets de sauvegarde]] contre le poison.
+    </td>
+    <td>8 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Baudrier du tueur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un [[inquisiteur]] voit son niveau effectif de [[inquisiteur]] augmenté de 5 pour déterminer les effets de ses
+      capacités de [[inquisiteur#TUEUR|tueur]] et [[inquisiteur#TUEURSUPERIEUR|tueur supérieur]]. Un non-inquisiteur
+      obtient ces capacités comme un inquisiteur de niveau 5, uniquement avec une armes accrochée à ce baudrier
+      pendant 24 heures.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chemise de liberté]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Une fois par jour, peut conférer les effets du sort *[[liberté de mouvement]]* pendant 10 minutes.</td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Manteau du fidèle réceptacle]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Les créatures soignées par les [[Prêtre#CANALISATIONDENERGIE|canalisations d'énergie]] du porteur bénéficient
+      des effets d'une *[[bénédiction]]* pendant 1 minute, et toutes les créatures blessées par celles-ci sont
+      soumises aux effets d'une *[[imprécation]]* pendant la même durée et subissent des dégâts supplémentaires.
+    </td>
+    <td>10 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Veston de lempoisonneur|Veston de l’empoisonneur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Trois fois par jour, peut créer une fiole d’un [[poisons|poison]] valant jusqu’à 300 po inutilisable au bout
+      d’une heure.
+    </td>
+    <td>12 000 po</td>
+  </tr>
+  <tr>
+    <td>&emsp; [[Veston de lempoisonneur Supérieur|Veston de l’empoisonneur supérieur]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Fonctionne comme le *Veston de l’Empoisonneur* mais peut également, une fois par jour, créer une fiole d’un
+      [[poisons|poison]] valant jusqu’à 4 000 po inutilisable au bout d’une heure.
+    </td>
+    <td>| 58 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Baudrier de stabilité magique]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Peut stocker jusqu'à deux carquois de [[carreaux darbalète (arme)|carreaux d'arbalète]], un carquois de
+      [[flèches (arme)|flèches]], ou 40 [[balle darme à feu (arme)|balles]] ou cartouches d'arme à feu, ainsi qu'une
+      arme. Confère un bonus aux [[jds|jets de sauvegarde]] et aux tests de [[concentration]] contre les effets de
+      la [[magie primordiale]], même si le porteur n'est pas un lanceur de sorts.
+    </td>
+    <td>14 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Cartouchière du gardien de la mort]]</td>
+    <td><sup>CMy</sup></td>
+    <td>
+      Peut manifester quatre pouvoirs visants à combattre les morts-vivants. Au prix d'une utilisation de [[pouvoir
+      mythique]], le porteur peut utiliser un de ces pouvoirs sans en dépenser d'utilisation journalière.
+    </td>
+    <td>15 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Veste du cafard]]</td>
+    <td><sup>MJRA, A&E</sup></td>
+    <td>
+      Un [[roublard]] obtient le [[roublard#TALENT|talent]] de [[talents#résilience|résilience]] et, s’il le possède
+      déjà, il lui confère 2 points de vie par niveau de roublard.
+    </td>
+    <td>16 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Gilet de stabilité mutagène]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un [[alchimiste]] ne subit plus les malus aux caractéristiques mentales infligées par ses
+      [[alchimiste#MUTAGENE|mutagènes]]. Permet de stocker le nécessaire à la confection de produits alchimiques.
+    </td>
+    <td>20 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chemise du mangeur de malchance]]</td>
+    <td><sup>*ISR*</sup></td>
+    <td>
+      Lorsqu'un allié est soumis à une [[registre|malédiction]], un [[Sorcière#MALEFICE|maléfice]], un mauvais sort
+      ou un autre effet qui le forcerait à lancer plusieurs fois le même jet pour conserver le pire résultat, un
+      porteur [[Tengu (race)|tengu]] peut tenter de dissiper l'effet pour obtenir des [[points de vie temporaires]].
+    </td>
+    <td>22 600 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Linceul spectral]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Permet de voir les créatures invisibles et éthérées (comme avec *[[détection de linvisibilité|détection de
+      l’invisibilité]]*). Une fois par jour, permet au porteur de devenir [[États
+      préjudiciables#Intangible|intangible]] et de gagner une vitesse de vol égale à sa vitesse de base pednant 10
+      [[round|rounds]].
+    </td>
+    <td>26 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Pèlerine dimmortalité|Pèlerine d’immortalité]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un porteur d’[[État civil et mensurations#AGE|âge mûr]] ne subit plus les malus aux caractéristiques physiques
+      imposés par son âge.
+    </td>
+    <td>50 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Baudrier miséricordieux]]</td>
+    <td><sup>A&E</sup></td>
+    <td>
+      Un [[paladin]] peut choisir 3 [[paladin#GRACE|grâces]] supplémentaires qui font effet pendant 24 heures chaque
+      jour. Lorsque qu’il utilise une [[paladin#GRACE|grâce]] pour réprimer un effet de malédiction, de maladie ou
+      de poison pendant 1 heure, il la supprime à la place.
+    </td>
+    <td>60 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chasuble de la foi]]</td>
+    <td><sup>MJ, A&E</sup></td>
+    <td>Confère une [[RD]] 5/Mal.</td>
+    <td>76 000 po</td>
+  </tr>
+  <tr CLASS="premier">
+    <td>[[Chasuble de résistance à la magie]]</td>
+    <td><sup>A&E</sup></td>
+    <td>Confère une [[résistance à la magie (capacité)|résistance à la magie]] de 21.</td>
+    <td>90 000 po</td>
+  </tr>
+</table>
