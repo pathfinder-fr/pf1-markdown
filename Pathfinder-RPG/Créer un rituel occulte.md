@@ -61,82 +61,9 @@ Cela peut aussi affecter la fenêtre d’incantation du rituel. Les
 tables "[[Créer un rituel occulte#MODIFICATIONDESRITUELSOCCULTES|Modifications des rituels occultes]]" donnent quelques
 exemples de modification de DD et de fenêtre d’incantation.
 
-{| CLASS="tablo centre autoalt" width="80%"
-|+ {s:Reference|MODIFICATIONDESRITUELSOCCULTES}Modifications des rituels occultes
-|- CLASS="titre"
-| Fenêtre d'incantation || Modificateur du DD du teste ou modification
-|- CLASS="premier"
-| Fenêtre d’incantation réduite (comme « pendant la pleine lune ») || -4
-|-
-| Fenêtre d’incantation sévèrement réduite (comme « durant une éclipse lunaire ») || -8
-|- CLASS="titre"
-| &emsp; || &emsp;
-|- CLASS="titre"
-| Focalisateur et composantes matérielles || </sup>
-|- CLASS="premier"
-| Composantes matérielles onéreuses (500 po) || -1
-|-
-| Composantes matérielles onéreuses (5 000 po) || -2
-|-
-| Composantes matérielles onéreuses (25 00 po) || -4
-|-
-| Focalisateur onéreux (5 000 po) || -1
-|-
-| Focalisateur onéreux (25 000 po) || -2
-|- CLASS="titre"
-| &emsp; || &emsp;
-|- CLASS="titre"
-| Portée || </sup>
-|- CLASS="premier"
-| Portée supérieure à la normale || +1 à +6
-|-
-| Portée inférieure à la normale || -1 à –4
-|- CLASS="titre"
-| Zone
-|-
-| Zone plus large que la normale || +1 à +6
-|-
-| Zone plus petite que la normale || -1 à –4
-|- CLASS="titre"
-| &emsp; || &emsp;
-|- CLASS="titre"
-| Cible || </sup>
-|-  CLASS="premier"
-| La cible non consentante doit être sans défense || -2
-|-
-| Cibles limitées (par DV, type de créature, etc.) || -3
-|-
-| Cibles multiples au lieu d’une seule || +4
-|- CLASS="titre"
-| Durée || <sup></sup>
-|-
-| Durée supérieure à la normale || +1 à +6
-|-
-| Durée plus courte que la normale || -1 à –4
-|-
-| Un an ou plus || temps d’incantation divisé en portions de 1 heure/niveau au lieu de 10 minutes/niveau
-|- CLASS="titre"
-| &emsp; || &emsp;
-|- CLASS="titre"
-| Contrecoup || </sup>
-|- CLASS="premier"
-| Par 2d6 points de dégâts || -1
-|-
-| Officiant épuisé || -2
-|-
-| Par niveau négatif temporaire reçu || -2
-|-
-| Par niveau négatif permanent reçu || -4
-|-
-| Officiant réduit à –1 pv || -3
-|-
-| Officiant affecté par une maladie || -4
-|-
-| Officiant subit les effets d’une malédiction || -4
-|-
-| Contrecoup affectant aussi les officiants secondaires || -1
-|-
-|}
+
+<table CLASS="tablo centre autoalt" width="80%"><caption>{s:Reference|MODIFICATIONDESRITUELSOCCULTES}Modifications des rituels occultes</caption><tr CLASS="titre"><td>Fenêtre d'incantation</td><td>Modificateur du DD du teste ou modification</td></tr><tr CLASS="premier"><td>Fenêtre d’incantation réduite (comme « pendant la pleine lune »)</td><td>-4</td></tr><tr><td>Fenêtre d’incantation sévèrement réduite (comme « durant une éclipse lunaire »)</td><td>-8</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Focalisateur et composantes matérielles</td><td></sup></td></tr><tr CLASS="premier"><td>Composantes matérielles onéreuses (500 po)</td><td>-1</td></tr><tr><td>Composantes matérielles onéreuses (5 000 po)</td><td>-2</td></tr><tr><td>Composantes matérielles onéreuses (25 00 po)</td><td>-4</td></tr><tr><td>Focalisateur onéreux (5 000 po)</td><td>-1</td></tr><tr><td>Focalisateur onéreux (25 000 po)</td><td>-2</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Portée</td><td></sup></td></tr><tr CLASS="premier"><td>Portée supérieure à la normale</td><td>+1 à +6</td></tr><tr><td>Portée inférieure à la normale</td><td>-1 à –4</td></tr><tr CLASS="titre"><td>Zone</td></tr><tr><td>Zone plus large que la normale</td><td>+1 à +6</td></tr><tr><td>Zone plus petite que la normale</td><td>-1 à –4</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Cible</td><td></sup></td></tr><tr CLASS="premier"><td>La cible non consentante doit être sans défense</td><td>-2</td></tr><tr><td>Cibles limitées (par DV, type de créature, etc.)</td><td>-3</td></tr><tr><td>Cibles multiples au lieu d’une seule</td><td>+4</td></tr><tr CLASS="titre"><td>Durée</td><td><sup></sup></td></tr><tr><td>Durée supérieure à la normale</td><td>+1 à +6</td></tr><tr><td>Durée plus courte que la normale</td><td>-1 à –4</td></tr><tr><td>Un an ou plus</td><td>temps d’incantation divisé en portions de 1 heure/niveau au lieu de 10 minutes/niveau</td></tr><tr CLASS="titre"><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="titre"><td>Contrecoup</td><td></sup></td></tr><tr CLASS="premier"><td>Par 2d6 points de dégâts</td><td>-1</td></tr><tr><td>Officiant épuisé</td><td>-2</td></tr><tr><td>Par niveau négatif temporaire reçu</td><td>-2</td></tr><tr><td>Par niveau négatif permanent reçu</td><td>-4</td></tr><tr><td>Officiant réduit à –1 pv</td><td>-3</td></tr><tr><td>Officiant affecté par une maladie</td><td>-4</td></tr><tr><td>Officiant subit les effets d’une malédiction</td><td>-4</td></tr><tr><td>Contrecoup affectant aussi les officiants secondaires</td><td>-1</td></tr></table>
+
 
 **Étape 4 — Compétences du rituel.** Cette étape consiste
 à déterminer les compétences à utiliser pour célébrer le
@@ -172,25 +99,7 @@ rituels de haut niveau).
 *Chaque résumé donné plus bas indique la portée, la cible, la durée et d’autres aspects associés à une école donnée pour les rituels occultes.*
 
 <center>
-{| CLASS="tablo autoalt"
-|+ {s:Reference|RITUELSDEREFERENCE}Rituels de référence basés sur l’école
-|- CLASS="titre"
-| École || Portée || Cible || Durée || Jet de sauvegarde || RM
-|- CLASS="premier"
-| **Abjuration** ||  courte ||  1 créature ou plus, chacune devant se trouver à 9 m ou moins des autres ||  minutes || Volonté pour annuler || oui
-|-
-| **Divination** ||  longue ||  personnelle || minutes || aucun || non
-|-
-| **Enchantement** || courte ||  1 créature vivante || minutes ||  Volonté pour annuler || oui
-|-
-| **Évocation** || moyenne || zone éclair de 1,50 m de large ou rayonnement de 6 m de rayon ||  instantanée || Réflexes 1/2 dégâts || oui
-|-
-| **Illusion** ||  contact ||  1 créature vivante ou 0,6 m3 de matière ||  Durée minutes || Volonté pour percer à jour ||  non
-|-
-| **Invocation** ||  courte || 1 créature || heures (instantanée pour la branche de la téléportation) ||  Volonté pour annuler (inoffensif ) || oui (inoffensif)
-|-
-| **Nécromancie** ||  courte ||  1 créature ou cadavre ou plus ||  instantanée || aucun || non.
-|-
-| **Transmutation** || moyenne ||  1 créature vivante ou 0,6 m3 de matière || rounds ||  Vigueur 1/2 dégâts (ou inoffensif) || oui
-|}
+
+<table CLASS="tablo autoalt"><caption>{s:Reference|RITUELSDEREFERENCE}Rituels de référence basés sur l’école</caption><tr CLASS="titre"><td>École</td><td>Portée</td><td>Cible</td><td>Durée</td><td>Jet de sauvegarde</td><td>RM</td></tr><tr CLASS="premier"><td>**Abjuration**</td><td>courte</td><td>1 créature ou plus, chacune devant se trouver à 9 m ou moins des autres</td><td>minutes</td><td>Volonté pour annuler</td><td>oui</td></tr><tr><td>**Divination**</td><td>longue</td><td>personnelle</td><td>minutes</td><td>aucun</td><td>non</td></tr><tr><td>**Enchantement**</td><td>courte</td><td>1 créature vivante</td><td>minutes</td><td>Volonté pour annuler</td><td>oui</td></tr><tr><td>**Évocation**</td><td>moyenne</td><td>zone éclair de 1,50 m de large ou rayonnement de 6 m de rayon</td><td>instantanée</td><td>Réflexes 1/2 dégâts</td><td>oui</td></tr><tr><td>**Illusion**</td><td>contact</td><td>1 créature vivante ou 0,6 m3 de matière</td><td>Durée minutes</td><td>Volonté pour percer à jour</td><td>non</td></tr><tr><td>**Invocation**</td><td>courte</td><td>1 créature</td><td>heures (instantanée pour la branche de la téléportation)</td><td>Volonté pour annuler (inoffensif )</td><td>oui (inoffensif)</td></tr><tr><td>**Nécromancie**</td><td>courte</td><td>1 créature ou cadavre ou plus</td><td>instantanée</td><td>aucun</td><td>non.</td></tr><tr><td>**Transmutation**</td><td>moyenne</td><td>1 créature vivante ou 0,6 m3 de matière</td><td>rounds</td><td>Vigueur 1/2 dégâts (ou inoffensif)</td><td>oui</td></tr></table>
+
 </center>

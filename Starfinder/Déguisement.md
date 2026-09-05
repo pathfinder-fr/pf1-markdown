@@ -17,19 +17,7 @@ Certains sorts magiques, comme déguisement, vous confèrent un bonus de +10 aux
 Les DD des tests de Déguisement sont modifiés par le type de déguisement et par d’autres circonstances déterminées par le MJ. Ces modificateurs sont cumulatifs ; utilisez tous ceux qui s’appliquent.
 
 <CENTER>
-{| CLASS="tablo"
-|+ TESTS DE DÉGUISEMENT
-|- CLASS="titre"
-| DÉGUISEMENT || MODIF. AU DD
-|- CLASS="premier"
-| Modification de détails mineurs seulement || -5
-|-
-| Modification d’un aspect majeur || +2 à +5
-|-
-| Se déguiser en une créature du même type mais d’une race différence || +2 à +8
-|-
-| Se déguiser en une créature d’un type différent || +10
-|-
-| Se déguiser en une créature d’une catégorie de taille différente || +10
-|}
+
+<table CLASS="tablo"><caption>TESTS DE DÉGUISEMENT</caption><tr CLASS="titre"><td>DÉGUISEMENT</td><td>MODIF. AU DD</td></tr><tr CLASS="premier"><td>Modification de détails mineurs seulement</td><td>-5</td></tr><tr><td>Modification d’un aspect majeur</td><td>+2 à +5</td></tr><tr><td>Se déguiser en une créature du même type mais d’une race différence</td><td>+2 à +8</td></tr><tr><td>Se déguiser en une créature d’un type différent</td><td>+10</td></tr><tr><td>Se déguiser en une créature d’une catégorie de taille différente</td><td>+10</td></tr></table>
+
 </CENTER>

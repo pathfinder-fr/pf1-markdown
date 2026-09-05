@@ -38,36 +38,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (2), *[[potions magiques|potion]] de [[soins modérés]]*, [[Feu grégeois (objet)|feux grégeois]] (3), [[Pierre tonnerre (objet)|pierres-tonnerres]] (2) ; **Équipement divers** [[clibanion (armure)|clibanion de maître]], [[rondache (armure)|rondache en acier de maître]], *[[fouet scorpion (arme)|fouet scorpion +1]]*, [[javeline (arme)|javeline de maître]], *[[cape de résistance|cape de résistance +1]]*, 15 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Gnoll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gnoll]] || 1
-|-
-| [[Flind]] || 3
-|-
-| [[Cogneur gnoll]] || 3
-|-
-| [[Enragé-né gnoll]] || 3
-|-
-| [[Sergent gnoll]] || 4
-|-
-| [[OEil de Lamashtu]] || 5
-|-
-| [[Lieutenant gnoll]] || 6
-|-
-| [[Chef de meute gnoll]] || 9
-|-
-| [[Gardien gnoll]] || 10
-|-
-| [[Saccageur gnoll]] || 11
-|-
-| [[Élue de Lamashtu]] || 12
-|-
-| [[Buda gnoll]] || 13
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+
 </div>L’alpha de la meute assigne les rôles de dirigeants à qui bon lui semble.
 
 Les lieutenants gnolls usent d’intimidation et des claquements de leur fouet scorpion pour obliger les membres plus faibles de la meute à se battre et pour décourager leurs adversaires.

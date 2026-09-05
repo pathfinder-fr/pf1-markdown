@@ -36,36 +36,5 @@ Les créatures de taille G ou plus qui utilisent une arme à allonge peuvent att
 
 {s:Reference|TABLEAUTAILLES}
 {s:Desambi|Voir aussi le [[Valeurs de combat#TABMODTAILLE|tableau des modificateurs de taille à la CA]].}
-{| CLASS="tablo centre autoalt"
-|+ Taille des créatures et échelle
-|- CLASS="titre"
-| Taille de créature || Espace occupé* || Allonge*
-|- CLASS="premier"
-| Infime (I) || 15 cm || 0
-|-
-| Minuscule (Min) || 30 cm || 0
-|-
-| Très petite (TP) || 75 cm || 0
-|-
-| Petite (P) || 1,50 m || 1,50 m
-|-
-| Moyenne (M) || 1,50 m || 1,50 m
-|-
-| Grande (G) (haute) || 3 m || 3 m
-|-
-| Grande (G) (longue) || 3 m || 1,50 m
-|-
-| Très grande (TG) (haute) || 4,50 m || 4,50 m
-|-
-| Très grande (TG) (longue) || 4,50 m || 3 m
-|-
-| Gigantesque (Gig) (haute) || 6 m || 6 m
-|-
-| Gigantesque (Gig) (longue) || 6 m || 4,50 m
-|-
-| Colossale (C) (haute) || 9 m || 9 m
-|-
-| Colossale (C) (longue) || 9 m || 6 m
-|-
-| CLASS="note" COLSPAN="3" | *(*) Ce sont les valeurs types pour des créatures de la taille indiquée. Des exceptions sont possibles.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Taille des créatures et échelle</caption><tr CLASS="titre"><td>Taille de créature</td><td>Espace occupé*</td><td>Allonge*</td></tr><tr CLASS="premier"><td>Infime (I)</td><td>15 cm</td><td>0</td></tr><tr><td>Minuscule (Min)</td><td>30 cm</td><td>0</td></tr><tr><td>Très petite (TP)</td><td>75 cm</td><td>0</td></tr><tr><td>Petite (P)</td><td>1,50 m</td><td>1,50 m</td></tr><tr><td>Moyenne (M)</td><td>1,50 m</td><td>1,50 m</td></tr><tr><td>Grande (G) (haute)</td><td>3 m</td><td>3 m</td></tr><tr><td>Grande (G) (longue)</td><td>3 m</td><td>1,50 m</td></tr><tr><td>Très grande (TG) (haute)</td><td>4,50 m</td><td>4,50 m</td></tr><tr><td>Très grande (TG) (longue)</td><td>4,50 m</td><td>3 m</td></tr><tr><td>Gigantesque (Gig) (haute)</td><td>6 m</td><td>6 m</td></tr><tr><td>Gigantesque (Gig) (longue)</td><td>6 m</td><td>4,50 m</td></tr><tr><td>Colossale (C) (haute)</td><td>9 m</td><td>9 m</td></tr><tr><td>Colossale (C) (longue)</td><td>9 m</td><td>6 m</td></tr><tr><td CLASS="note" COLSPAN="3">*(*) Ce sont les valeurs types pour des créatures de la taille indiquée. Des exceptions sont possibles.*</td></tr></table>

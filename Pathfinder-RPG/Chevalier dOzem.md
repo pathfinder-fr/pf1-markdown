@@ -12,86 +12,9 @@ Categories:
 L’ordre est très religieux, composé de fidèles dévoués à leur divinité actuelle, la déesse de la bravoure. Bien auparavant, les chevaliers de la vie vénéraient le dieu connu de nos jours sous le nom de “dieu défunt” et ont invoqué la demi-déesse qui était le héraut de ce dernier pour les aider dans leur combat contre le Tyran qui murmure. La mort du héraut causée par la main du Tyran qui murmure et le trépas du dieu forceront l’ordre à prêter allégeance à son héritière : la déesse de la bravoure, elle-même une héroïne des croisades. Les chevaliers de la vie ressentent une grande rancune envers l’archimage mort-vivant qui a volé le corps du héraut du dieu défunt et qui l’a ensuite réanimée en liche, la nommant reine-catin. Ils poursuivent la demi-déesse sous sa nouvelle forme, en espérant la détruire et donner à son âme l’accès au repos éternel.''
 
 <center>
-{| CLASS="tablo autoalt"
-|+ Le chevalier de la vie
-|- CLASS="titre"
-| Niveau
-| BBA
-| Réflexes
-| Vigueur
-| Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1
-| +1
-| +0
-| +1
-| +0
-| CLASS="gauche" | [[Chevalier dOzem#SENTINELLECONTRELESMORTSVIVANTS|Sentinelle contre les morts-vivants]]
-|- CLASS="alt"
-| 2
-| +2
-| +1
-| +1
-| +1
-| CLASS="gauche" | [[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]
-|-
-| 3
-| +3
-| +1
-| +2
-| +1
-| CLASS="gauche" | [[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#ENNEMIJURE|ennemi juré]] (mort-vivant)
-|- CLASS="alt"
-| 4
-| +4
-| +1
-| +2
-| +1
-| CLASS="gauche" | [[Chevalier dOzem#DEJOUERLAMAGIEINFECTE|Déjouer la magie infecte]]
-|-
-| 5
-| +5
-| +2
-| +3
-| +3
-| CLASS="gauche" | [[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]
-|- CLASS="alt"
-| 6
-| +6
-| +2
-| +3
-| +2
-| CLASS="gauche" | [[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#CONVICTIONSACREE|conviction sacrée]]
-|-
-| 7
-| +7
-| +2
-| +4
-| +2
-| CLASS="gauche" | [[Chevalier dOzem#PURIFICATIONDELAMALVEILLANCE|Purification de la malveillance]]
-|- CLASS="alt"
-| 8
-| +8
-| +3
-| +5
-| +3
-| CLASS="gauche" | [[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]
-|-
-| 9
-| +9
-| +3
-| +5
-| +3
-| CLASS="gauche" | [[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#DEJOUERLESLANCEURSDESORTSMORTSVIVANTS|déjouer les lanceurs de sorts morts-vivants]]
-|- CLASS="alt"
-| 10
-| +10
-| +3
-| +5
-| +3
-| CLASS="gauche" | [[Chevalier dOzem#ACCOUTREMENTDELAVERTU|Accoutrement de la vertu]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Le chevalier de la vie</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Chevalier dOzem#SENTINELLECONTRELESMORTSVIVANTS|Sentinelle contre les morts-vivants]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#ENNEMIJURE|ennemi juré]] (mort-vivant)</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Chevalier dOzem#DEJOUERLAMAGIEINFECTE|Déjouer la magie infecte]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#CONVICTIONSACREE|conviction sacrée]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Chevalier dOzem#PURIFICATIONDELAMALVEILLANCE|Purification de la malveillance]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#DONDEQUIPE|Don d'équipe]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#DONDELEGIDE|Don de l'égide]], [[Chevalier dOzem#DEJOUERLESLANCEURSDESORTSMORTSVIVANTS|déjouer les lanceurs de sorts morts-vivants]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Chevalier dOzem#ACCOUTREMENTDELAVERTU|Accoutrement de la vertu]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d10

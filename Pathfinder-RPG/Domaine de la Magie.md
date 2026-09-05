@@ -30,27 +30,5 @@ Le personnage étudie tout ce qui touche à la magie et perçoit une certaine pu
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Magie
-| Sous-domaine du Divin || Sous-domaine du Profane
-|- CLASS="premier"
-| 1er || *[[identification]]* || *idem* || *[[aura magique]]*
-|-
-| 2e || *[[bouche magique]]* || *[[bénédiction de leau|bénédiction de l'eau]]* || *idem*
-|-
-| 3e || *[[dissipation de la magie]]* || *idem* || *idem*
-|-
-| 4e || *[[transfert de sorts]]* || *idem* || *[[œil du mage]]*
-|-
-| 5e || *[[sort résistance à la magie|résistance à la magie]]* || *[[purification]]* || *idem*
-|-
-| 6e || *[[zone dantimagie|zone d’antimagie]]* || *idem* || *[[analyse denchantement|analyse d'enchantement]]*
-|-
-| 7e || *[[renvoi des sorts]]* || *[[résurrection]]* || *idem*
-|-
-| 8e || *[[protection contre les sorts]]* || *idem* || *idem*
-|-
-| 9e || *[[disjonction]]* || *[[miracle]]* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Magie</td><td>Sous-domaine du Divin</td><td>Sous-domaine du Profane</td></tr><tr CLASS="premier"><td>1er</td><td>*[[identification]]*</td><td>*idem*</td><td>*[[aura magique]]*</td></tr><tr><td>2e</td><td>*[[bouche magique]]*</td><td>*[[bénédiction de leau|bénédiction de l'eau]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[dissipation de la magie]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[transfert de sorts]]*</td><td>*idem*</td><td>*[[œil du mage]]*</td></tr><tr><td>5e</td><td>*[[sort résistance à la magie|résistance à la magie]]*</td><td>*[[purification]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[zone dantimagie|zone d’antimagie]]*</td><td>*idem*</td><td>*[[analyse denchantement|analyse d'enchantement]]*</td></tr><tr><td>7e</td><td>*[[renvoi des sorts]]*</td><td>*[[résurrection]]*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[protection contre les sorts]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[disjonction]]*</td><td>*[[miracle]]*</td><td>*idem*</td></tr></table>

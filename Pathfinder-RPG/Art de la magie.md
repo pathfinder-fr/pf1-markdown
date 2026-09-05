@@ -20,23 +20,9 @@ Categories:
 Même si ce n’est pas directement indiqué dans le <u>*[[Art de la magie|Manuel des joueurs]]*</u>, beaucoup d’éléments du jeu partent du principe que chaque sort a ses propres manifestations, qu’il produise un effet visuel évident, comme *[[boule de feu]]*, ou non. Vous pouvez trouver des exemples pour vous donner une idée de comment décrire la manifestation d’un sort dans plusieurs illustrations des produits Pathfinder, mais au final, il revient à votre groupe, ou même à l’esthétique d’un lanceur de sort particulier, de décrire les détails exacts. Quoi qu’il en soit, ces manifestations sont toujours clairement magiques, même pour un non-initié ; cela empêche les lanceurs de sorts qui utilisent les pouvoirs magiques, la magie psychique, ou des méthodes similaires de faire fi des règles face aux non-initiés hors combat. Des capacités particulières existent (et vont probablement apparaître dans *L'Art de l'intrigue*) pour faciliter spécifiquement l’usage de méthodes sournoises afin de camoufler ces manifestations et de tromper les gens en toute discrétion, mais elles offrent toujours à un observateur une chance de détecter la ruse.}On utilise cette compétence chaque fois qu’il est question des connaissances ou du savoir-faire du personnage dans le domaine de l’incantation des sorts ou de la [[création dobjets magiques|création d’objets magiques]]. Elle permet également d’identifier les propriétés des objets magiques à l’aide de sorts tels que *[[détection de la magie]]* ou *[[identification]]*. Le [[DD]] du test dépend de la tâche tentée.
 
 <center>
-{| CLASS="tablo"
-|+ DD des tests d’Art de la magie
-|- CLASS="titre"
-| Tâche || DD du test d’Art de la magie
-|- CLASS="premier"
-| Identifier un sort lorsqu’il est lancé || 15 + [[niveau de sort|niveau du sort]]
-|- CLASS="alt"
-| Apprendre un sort à partir d’un grimoire ou d’un parchemin || 15 + [[niveau de sort|niveau du sort]]
-|-
-| Préparer un sort à partir d’un grimoire emprunté || 15 + [[niveau de sort|niveau du sort]]
-|- CLASS="alt"
-| Identifier les propriétés d’un objet magique en utilisant le sort de détection de la magie || 15 + [[NLS]] de l’objet magique
-|-
-| Déchiffrer un parchemin || 20 + [[niveau de sort|niveau du sort]]
-|- CLASS="alt"
-| Fabriquer un objet magique || Variable selon les objets
-|}
+
+<table CLASS="tablo"><caption>DD des tests d’Art de la magie</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test d’Art de la magie</td></tr><tr CLASS="premier"><td>Identifier un sort lorsqu’il est lancé</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Apprendre un sort à partir d’un grimoire ou d’un parchemin</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr><td>Préparer un sort à partir d’un grimoire emprunté</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Identifier les propriétés d’un objet magique en utilisant le sort de détection de la magie</td><td>15 + [[NLS]] de l’objet magique</td></tr><tr><td>Déchiffrer un parchemin</td><td>20 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Fabriquer un objet magique</td><td>Variable selon les objets</td></tr></table>
+
 </center>
 
 ### Action

@@ -16,41 +16,13 @@ Disons par exemple que votre personnage a un [[BBA|bonus de base à l’attaque]
 **Le suivi.** Avec ce système, le jeu va plus vite si les joueurs calculent et notent à l’avance le nombre de points de dégâts que leur personnage inflige avec chacune de leurs armes en cas d’éraflure. Le [[MJ]] peut aussi noter la [[CA]]-6, la CA+5, la CA+10 et la CA+15 de ses monstres.
 
 <table width="100%"><tr><td width="70%">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
-|+ {s:Reference|RESULTATS}Résultats des attaques
-|- CLASS="titre"
-| Résultat du jet d’attaque || Type de coup || Dégâts infligés
-|- CLASS="premier"
-| Inférieur à la CA de 6 ou plus || Raté || Aucun
-|-
-| Inférieur à la CA de 5 ou moins || Éraflure || 1/2 dégâts minimaux
-|-
-| Égal ou supérieur à la CA || Touché || Dégâts normaux
-|-
-| Supérieur à la CA de 5 ou plus* || Coup supplémentaire || Dégâts normaux
-|- CLASS="note"
-| | COLSPAN="3" | *(*) Le personnage a droit à un coup supplémentaire pour chaque tranche de 5 points entre le résultat du jet d’attaque et la CA de la cible, dans la limite autorisée par le BBA comme indiqué dans la table "[[Éliminer les attaques multiples#MAXIMUM|Nombre maximum de coups]]".*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><caption>{s:Reference|RESULTATS}Résultats des attaques</caption><tr CLASS="titre"><td>Résultat du jet d’attaque</td><td>Type de coup</td><td>Dégâts infligés</td></tr><tr CLASS="premier"><td>Inférieur à la CA de 6 ou plus</td><td>Raté</td><td>Aucun</td></tr><tr><td>Inférieur à la CA de 5 ou moins</td><td>Éraflure</td><td>1/2 dégâts minimaux</td></tr><tr><td>Égal ou supérieur à la CA</td><td>Touché</td><td>Dégâts normaux</td></tr><tr><td>Supérieur à la CA de 5 ou plus*</td><td>Coup supplémentaire</td><td>Dégâts normaux</td></tr><tr CLASS="note"><td | COLSPAN="3">*(*) Le personnage a droit à un coup supplémentaire pour chaque tranche de 5 points entre le résultat du jet d’attaque et la CA de la cible, dans la limite autorisée par le BBA comme indiqué dans la table "[[Éliminer les attaques multiples#MAXIMUM|Nombre maximum de coups]]".*</td></tr></table>
+
 </td><td width="30%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ {s:Reference|MAXIMUM}Nombre maximum de coups
-|- CLASS="titre"
-| BBA || Maximum de coups
-|- CLASS="premier"
-| +0 à +5 || 1
-|-
-| +6 à +10 || 2
-|-
-| +11 à +15 || 3
-|-
-| +16 à +20 || 4
-|-
-| +21 à 25* || 5
-|-
-| +26 à +30* || 6
-|- CLASS="note"
-| | COLSPAN="2" | *(*) En général, seuls les monstres ont des [[BBA]] si élevé.*
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|MAXIMUM}Nombre maximum de coups</caption><tr CLASS="titre"><td>BBA</td><td>Maximum de coups</td></tr><tr CLASS="premier"><td>+0 à +5</td><td>1</td></tr><tr><td>+6 à +10</td><td>2</td></tr><tr><td>+11 à +15</td><td>3</td></tr><tr><td>+16 à +20</td><td>4</td></tr><tr><td>+21 à 25*</td><td>5</td></tr><tr><td>+26 à +30*</td><td>6</td></tr><tr CLASS="note"><td | COLSPAN="2">*(*) En général, seuls les monstres ont des [[BBA]] si élevé.*</td></tr></table>
+
 </td></tr></table>
 
 #### Attaquer des cibles multiples

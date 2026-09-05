@@ -20,125 +20,11 @@ Categories:
 
 <center>
 
-{| CLASS="tablo"
 
-|+ Prestige
+<table CLASS="tablo"><tr><td>+ Prestige</td></tr><tr CLASS="titre"><td ROWSPAN="2">Valeur de   
+Prestige</td><td ROWSPAN="2">Niveau du   
+compagnon d'armes</td><td CLASS="avecsoustitres" COLSPAN="6">Nombre de suivants par niveau</td></tr><tr CLASS="soustitre"><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr CLASS="premier"><td>1 ou moins</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>6</td><td>4</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>5</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>8</td><td>5</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>6</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>10</td><td>7</td><td>5</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>7</td><td>6</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>12</td><td>8</td><td>8</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>9</td><td>10</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>14</td><td>10</td><td>15</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>15</td><td>10</td><td>20</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>16</td><td>11</td><td>25</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>17</td><td>12</td><td>30</td><td>3</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>18</td><td>12</td><td>35</td><td>3</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>19</td><td>13</td><td>40</td><td>4</td><td>2</td><td>1</td><td>1</td><td>—</td></tr><tr CLASS="alt"><td>20</td><td>14</td><td>50</td><td>5</td><td>3</td><td>2</td><td>1</td><td>—</td></tr><tr><td>21</td><td>15</td><td>60</td><td>6</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>22</td><td>15</td><td>75</td><td>7</td><td>4</td><td>2</td><td>2</td><td>1</td></tr><tr><td>23</td><td>16</td><td>90</td><td>9</td><td>5</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>24</td><td>17</td><td>110</td><td>11</td><td>6</td><td>3</td><td>2</td><td>1</td></tr><tr><td>25 ou plus</td><td>17</td><td>135</td><td>13</td><td>7</td><td>4</td><td>2</td><td>2</td></tr></table>
 
-|- CLASS="titre"
-
-| ROWSPAN="2" | Valeur de   
-Prestige
-
-| ROWSPAN="2" | Niveau du   
-compagnon d'armes
-
-| CLASS="avecsoustitres" COLSPAN="6" | Nombre de suivants par niveau
-
-|- CLASS="soustitre"
-
-| 1 || 2 || 3 || 4 || 5 || 6
-
-|- CLASS="premier"
-
-| 1 ou moins || — || — || — || — || — || — || —
-
-|- CLASS="alt"
-
-| 2 || 1 || — || — || — || — || — || —
-
-|-
-
-| 3 || 2 || — || — || — || — || — || —
-
-|- CLASS="alt"
-
-| 4 || 3 || — || — || — || — || — || —
-
-|-
-
-| 5 || 3 || — || — || — || — || — || —
-
-|- CLASS="alt"
-
-| 6 || 4 || — || — || — || — || — || —
-
-|-
-
-| 7 || 5 || — || — || — || — || — || —
-
-|- CLASS="alt"
-
-| 8 || 5 || — || — || — || — || — || —
-
-|-
-
-| 9 || 6 || — || — || — || — || — || —
-
-|- CLASS="alt"
-
-| 10 || 7 || 5 || — || — || — || — || —
-
-|-
-
-| 11 || 7 || 6 || — || — || — || — || —
-
-|- CLASS="alt"
-
-| 12 || 8 || 8 || — || — || — || — || —
-
-|-
-
-| 13 || 9 || 10 || 1 || — || — || — || —
-
-|- CLASS="alt"
-
-| 14 || 10 || 15 || 1 || — || — || — || —
-
-|-
-
-| 15 || 10 || 20 || 2 || 1 || — || — || —
-
-|- CLASS="alt"
-
-| 16 || 11 || 25 || 2 || 1 || — || — || —
-
-|-
-
-| 17 || 12 || 30 || 3 || 1 || 1 || — || —
-
-|- CLASS="alt"
-
-| 18 || 12 || 35 || 3 || 1 || 1 || — || —
-
-|-
-
-| 19 || 13 || 40 || 4 || 2 || 1 || 1 || —
-
-|- CLASS="alt"
-
-| 20 || 14 || 50 || 5 || 3 || 2 || 1 || —
-
-|-
-
-| 21 || 15 || 60 || 6 || 3 || 2 || 1 || 1
-
-|- CLASS="alt"
-
-| 22 || 15 || 75 || 7 || 4 || 2 || 2 || 1
-
-|-
-
-| 23 || 16 || 90 || 9 || 5 || 3 || 2 || 1
-
-|- CLASS="alt"
-
-| 24 || 17 || 110 || 11 || 6 || 3 || 2 || 1
-
-|-
-
-| 25 ou plus || 17 || 135 || 13 || 7 || 4 || 2 || 2
-
-|}
 
 </center></div></div>
 
@@ -158,39 +44,9 @@ Les suivants ne gagnent pas d’expérience et ne gagnent donc pas de niveaux. Q
 
 <center>
 
-{| CLASS="tablo"
 
-|+ Modificateurs de prestige
+<table CLASS="tablo"><tr><td>+ Modificateurs de prestige</td></tr><tr CLASS="titre"><td>Le personnage a la réputation d’être</td><td>Modificateur</td></tr><tr CLASS="premier"><td>Un grand homme</td><td>+2</td></tr><tr CLASS="alt"><td>Juste et généreux</td><td>+1</td></tr><tr><td>Doté d’un pouvoir spécial</td><td>+1</td></tr><tr CLASS="alt"><td>Accablé par les échecs multiples</td><td>-1</td></tr><tr><td>Hautain</td><td>-1</td></tr><tr CLASS="alt"><td>Cruel</td><td>-2</td></tr></table>
 
-|- CLASS="titre"
-
-| Le personnage a la réputation d’être || Modificateur
-
-|- CLASS="premier"
-
-| Un grand homme || +2
-
-|- CLASS="alt"
-
-| Juste et généreux || +1
-
-|-
-
-| Doté d’un pouvoir spécial || +1
-
-|- CLASS="alt"
-
-| Accablé par les échecs multiples || -1
-
-|-
-
-| Hautain || -1
-
-|- CLASS="alt"
-
-| Cruel || -2
-
-|}
 
 </center>
 
@@ -200,27 +56,9 @@ D’autres modificateurs s’appliquent quand un personnage tente de gagner les 
 
 <center>
 
-{| CLASS="tablo"
 
-|+ Modificateurs de prestige (compagnon d'armes)
+<table CLASS="tablo"><tr><td>+ Modificateurs de prestige (compagnon d'armes)</td></tr><tr CLASS="titre"><td>Le personnage</td><td>Modificateur</td></tr><tr CLASS="premier"><td>A un familier, destrier de paladin ou compagnon animal</td><td>-2</td></tr><tr CLASS="alt"><td>Recrute un compagnon d’armes d’un alignement autre que le sien</td><td>-1</td></tr><tr><td>A déjà causé la mort d’un compagnon d’armes</td><td>–2*</td></tr></table>
 
-|- CLASS="titre"
-
-| Le personnage || Modificateur
-
-|- CLASS="premier"
-
-| A un familier, destrier de paladin ou compagnon animal || -2
-
-|- CLASS="alt"
-
-| Recrute un compagnon d’armes d’un alignement autre que le sien || -1
-
-|-
-
-| A déjà causé la mort d’un compagnon d’armes || –2*
-
-|}
 
 
 *(*) Par compagnon d’armes tué à cause du PJ.*
@@ -233,26 +71,8 @@ Les suivants n’ont pas les mêmes propriétés que les compagnons d’armes. Q
 
 <center>
 
-{| CLASS="tablo"
 
-|+ Modificateurs de prestige (suivants)
+<table CLASS="tablo"><tr><td>+ Modificateurs de prestige (suivants)</td></tr><tr CLASS="titre"><td>Le personnage</td><td>Modificateur</td></tr><tr CLASS="premier"><td>Possède une place forte, une base d’opérations, une guilde, etc.</td><td>+2</td></tr><tr CLASS="alt"><td>Voyage beaucoup</td><td>–1</td></tr><tr><td>A déjà causé la mort d’autres suivants</td><td>–1</td></tr></table>
 
-|- CLASS="titre"
-
-| Le personnage || Modificateur
-
-|- CLASS="premier"
-
-| Possède une place forte, une base d’opérations, une guilde, etc. || +2
-
-|- CLASS="alt"
-
-| Voyage beaucoup || –1
-
-|-
-
-| A déjà causé la mort d’autres suivants || –1
-
-|}
 
 </center>

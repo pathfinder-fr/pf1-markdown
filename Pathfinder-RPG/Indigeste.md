@@ -37,15 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'indigeste
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Indigeste]] || 1/4
-|-
-| [[Nuée dindigestes|Nuée d'indigestes]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'indigeste</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Indigeste]]</td><td>1/4</td></tr><tr><td>[[Nuée dindigestes|Nuée d'indigestes]]</td><td>5</td></tr></table>
+
 </div>*Un mélange d’os et de fragments de crâne à demi-liquéfiés flotte dans une gelée jaune et brune.*
 
 Les indigestes forment une bouillie animée, un mélange de morceaux d’humanoïde impossibles à assimiler. Ils apparaissent quand une immense créature engloutit sa proie vivante puis succombe à une magie nécromantique révoltante. Les souffrances endurées lors de son agonie lui arrachent une étincelle de conscience primitive qui s’en va animer les vestiges humanoïdes gélatineux encore présents dans son estomac. Ces restes se transforment alors en un mort-vivant visqueux, avide de digérer à son tour autrui. Si la créature assassinée digérait plusieurs créatures, ce phénomène donne naissance à une nuée d’indigestes. Un indigeste est un prédateur implacable qui chasse en embuscade. Il ondule et rampe dans les zones sombres du monde, en quête de nourriture.

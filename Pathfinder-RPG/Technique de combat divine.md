@@ -16,62 +16,9 @@ LastModified: 2022-03-11 02:30
 
 **Spécial.**  Un [[inquisiteur]], un [[prêtre]], ou un [[prêtre combattant]] qui vénère une divinité peut choisir de renoncer soit au premier pouvoir d'un de ses [[Prêtre#DOMAINES|domaines]] soit à une [[Prêtre combattant#BENEDICTIONS|bénédiction mineure]] pour accéder à la technique de combat de son dieu sans avoir à remplir les conditions préalables de la technique (y compris le don Technique de combat divine). De plus, un prêtre combattant peut renoncer à une [[Prêtre combattant#BENEDICTIONS|bénédiction majeure]] pour obtenir l'avantage avancé sans en remplir les conditions préalables. Dans quelques cas, d'autres classes peuvent obtenir les avantages de ce don en sacrifiant des capacités de classe, comme indiqué dans les techniques de combat divines appropriées.
 
-{| CLASS="tablo autoalt centre toutgauche filtrable"
-|+ Tableau récapitulatif des techniques de combat divines
-|- CLASS="titre"
-| WIDTH="30%" | Technique
-| WIDTH= "3%" | Source
-| WIDTH="25%" | Dieu
-| WIDTH="39%" | Description
 
-|- CLASS="premier"
-| [[Technique de combat divine#ARBALETEDUJUGEMENT|Arbalète du jugement]] || <sup>*WMH*</sup> || Dieu de la civilisation || Technique d'arbalète visant à désarmer et clouer votre adversaire sur place pour le neutraliser.
+<table CLASS="tablo autoalt centre toutgauche filtrable"><caption>Tableau récapitulatif des techniques de combat divines</caption><tr CLASS="titre"><td WIDTH="30%">Technique</td><td WIDTH= "3%">Source</td><td WIDTH="25%">Dieu</td><td WIDTH="39%">Description</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#ARBALETEDUJUGEMENT|Arbalète du jugement]]</td><td><sup>*WMH*</sup></td><td>Dieu de la civilisation</td><td>Technique d'arbalète visant à désarmer et clouer votre adversaire sur place pour le neutraliser.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#ARTDELEPEEDUSEIGNEURDESBATAILLES|Art de l'épée du seigneur des batailles]]</td><td><sup>*WMH*</sup></td><td>Dieu de la guerre</td><td>Technique d'épée longue cherchant à infliger le plus de dommages possibles.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#CHOPEETEPEEDELAVENTURIER|Chope et épée de l'aventurier]]</td><td><sup>*WMH*</sup></td><td>Dieu des aventuriers</td><td>Technique de combat à l'épée et la chope capable de dérouter vos ennemis.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#ETOILEFILANTEDUPAPILLON|Étoile filante du papillon]]</td><td><sup>*DA*</sup></td><td>Déesse des étoiles</td><td>Technique élégante et spectaculaire de lancer de lamétoiles.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#FAMINEDELALICHE|Famine de la liche]]</td><td><sup>*DA*</sup></td><td>Déesse-liche des maladies</td><td>Technique de faux vicieuse aggravant les maladies de votre cible.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#FOUETEMPOISONNEDELAGUEPE|Fouet empoisonné de la guêpe]]</td><td><sup>*WMH*</sup></td><td>Déesse-elfe aux trois visages</td><td>Technique de combat au fouet destinée à empoisonner ses ennemis.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#FRAPPESPATIENTESDUFORGERON|Frappes patientes du forgeron]]</td><td><sup>*DA*</sup></td><td>Dieu-nain des artisans</td><td>Technique apprenant à attendre et saisir l'opportunité pour porter de puissantes frappes au marteau de guerre.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#LACERATIONDUTORTIONNAIRE|Lacération du tortionnaire]]</td><td><sup>*WMH*</sup></td><td>Dieu de la torture</td><td>Technique de chaîne cloutée utilisée pour infliger une douleur extrême.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#LAMEINSPIRANTEDELHERITIERE|Lame inspirante de l'héritière]]</td><td><sup>*WMH*</sup></td><td>Déesse de la bravoure</td><td>Technique d'épée longue impressionnante inspirant courage et espoir.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#MANDATDUCONTRACTEUR|Mandat du contracteur]]</td><td><sup>*DA*</sup></td><td>Dieu-diable des contrats</td><td>Technique de masse frappant les points sensibles de l'adversaire pour le déstabiliser.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#MISERICORDEDUSOLEIL|Miséricorde du soleil]]</td><td><sup>*DA*</sup></td><td>Déesse-ange du soleil</td><td>Technique de cimeterre permettant de vaincre l'ennemi sans le tuer et de recevoir en retour la bienveillance de la déesse.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#MUTILATIONDELAMERE|Mutilation de la mère]]</td><td><sup>*DA*</sup></td><td>Déesse de la folie</td><td>Technique cruelle de mutilation de l'ennemi à la falcata ou au kukri.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#POINGPERFECTIONNEDUGUIDE|Poing perfectionné du guide]]</td><td><sup>*DA*</sup></td><td>Dieu du savoir</td><td>Technique de combat à mains nues infligeant des dégâts de manière plus sûre et régulière.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#SURINSILENCIEUXDELASSASSIN|Surin silencieux de l'assassin]]</td><td><sup>*DA*</sup></td><td>Dieu du meurtre</td><td>Technique tirant profit de la furtivité de son utilisateur pour faciliter ses assassinats.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#TIRDEDIVERSIONDUBORGNE|Tir de diversion du borgne]]</td><td><sup>*DA*</sup></td><td>Dieu de la famille</td><td>Technique de tir à l'arc détournant l'attention de votre cible de vos alliés.</td></tr><tr CLASS="premier"><td>[[Technique de combat divine#TONNERREDURAVAGEUR|Tonnerre du ravageur]]</td><td><sup>*DA*</sup></td><td>Dieu de la destruction</td><td>Technique brutale de combat à la grande hache rabaissant l'ennemi.</td></tr></table>
 
-|- CLASS="premier"
-| [[Technique de combat divine#ARTDELEPEEDUSEIGNEURDESBATAILLES|Art de l'épée du seigneur des batailles]] || <sup>*WMH*</sup> || Dieu de la guerre || Technique d'épée longue cherchant à infliger le plus de dommages possibles.
-
-|- CLASS="premier"
-| [[Technique de combat divine#CHOPEETEPEEDELAVENTURIER|Chope et épée de l'aventurier]] || <sup>*WMH*</sup> || Dieu des aventuriers || Technique de combat à l'épée et la chope capable de dérouter vos ennemis.
-
-|- CLASS="premier"
-| [[Technique de combat divine#ETOILEFILANTEDUPAPILLON|Étoile filante du papillon]] || <sup>*DA*</sup> || Déesse des étoiles || Technique élégante et spectaculaire de lancer de lamétoiles.
-
-|- CLASS="premier"
-| [[Technique de combat divine#FAMINEDELALICHE|Famine de la liche]] || <sup>*DA*</sup> || Déesse-liche des maladies || Technique de faux vicieuse aggravant les maladies de votre cible.
-
-|- CLASS="premier"
-| [[Technique de combat divine#FOUETEMPOISONNEDELAGUEPE|Fouet empoisonné de la guêpe]] || <sup>*WMH*</sup> || Déesse-elfe aux trois visages || Technique de combat au fouet destinée à empoisonner ses ennemis.
-
-|- CLASS="premier"
-| [[Technique de combat divine#FRAPPESPATIENTESDUFORGERON|Frappes patientes du forgeron]] || <sup>*DA*</sup> || Dieu-nain des artisans || Technique apprenant à attendre et saisir l'opportunité pour porter de puissantes frappes au marteau de guerre.
-
-|- CLASS="premier"
-| [[Technique de combat divine#LACERATIONDUTORTIONNAIRE|Lacération du tortionnaire]] || <sup>*WMH*</sup> || Dieu de la torture || Technique de chaîne cloutée utilisée pour infliger une douleur extrême.
-
-|- CLASS="premier"
-| [[Technique de combat divine#LAMEINSPIRANTEDELHERITIERE|Lame inspirante de l'héritière]] || <sup>*WMH*</sup> || Déesse de la bravoure || Technique d'épée longue impressionnante inspirant courage et espoir.
-
-|- CLASS="premier"
-| [[Technique de combat divine#MANDATDUCONTRACTEUR|Mandat du contracteur]] || <sup>*DA*</sup> || Dieu-diable des contrats || Technique de masse frappant les points sensibles de l'adversaire pour le déstabiliser.
-
-|- CLASS="premier"
-| [[Technique de combat divine#MISERICORDEDUSOLEIL|Miséricorde du soleil]] || <sup>*DA*</sup> || Déesse-ange du soleil || Technique de cimeterre permettant de vaincre l'ennemi sans le tuer et de recevoir en retour la bienveillance de la déesse.
-
-|- CLASS="premier"
-| [[Technique de combat divine#MUTILATIONDELAMERE|Mutilation de la mère]] || <sup>*DA*</sup> || Déesse de la folie || Technique cruelle de mutilation de l'ennemi à la falcata ou au kukri.
-
-|- CLASS="premier"
-| [[Technique de combat divine#POINGPERFECTIONNEDUGUIDE|Poing perfectionné du guide]] || <sup>*DA*</sup> || Dieu du savoir || Technique de combat à mains nues infligeant des dégâts de manière plus sûre et régulière.
-
-|- CLASS="premier"
-| [[Technique de combat divine#SURINSILENCIEUXDELASSASSIN|Surin silencieux de l'assassin]] || <sup>*DA*</sup> || Dieu du meurtre || Technique tirant profit de la furtivité de son utilisateur pour faciliter ses assassinats.
-
-|- CLASS="premier"
-| [[Technique de combat divine#TIRDEDIVERSIONDUBORGNE|Tir de diversion du borgne]] || <sup>*DA*</sup> || Dieu de la famille || Technique de tir à l'arc détournant l'attention de votre cible de vos alliés.
-
-|- CLASS="premier"
-| [[Technique de combat divine#TONNERREDURAVAGEUR|Tonnerre du ravageur]] || <sup>*DA*</sup> || Dieu de la destruction || Technique brutale de combat à la grande hache rabaissant l'ennemi.
-|}
 
 {s:WMH}{s:Reference|ARBALETEDUJUGEMENT}
 ### Arbalète du jugement

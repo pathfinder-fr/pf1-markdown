@@ -112,48 +112,5 @@ Sceptre mineur d'Extension de durée: principalement pour Héroïsme. {br}
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du barde archer
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Barde.ashx|Barde]] 1 || +0 || 01 || [[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision.ashx|tir de précision]]
-|-
-| 02 || [[Pathfinder-RPG.Barde.ashx|Barde]] 2 || +1 || 02 || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Barde.ashx|Barde]] 3 || +2 || 03 || [[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]
-|-
-| 04 || [[Pathfinder-RPG.Barde.ashx|Barde]] 4 || +3 || 04 || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Barde.ashx|Barde]] 5 || +3 || 05 || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
-|-
-| 06 || [[Pathfinder-RPG.Barde.ashx|Barde]] 6 || +4 || 06 || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Barde.ashx|Barde]] 7 || +5 || 07 || [[Pathfinder-RPG.Viser.ashx|Viser]]
-|-
-| 08 || [[Pathfinder-RPG.Barde.ashx|Barde]] 8 || +6/+1 || 08 || &nbsp;
-|-
-| 09 || [[Pathfinder-RPG.Barde.ashx|Barde]] 9 || +6/+1 || 09 || [[Pathfinder-RPG.Feu nourri.ashx|feu nourri]]
-|-
-| 10 || [[Pathfinder-RPG.Barde.ashx|Barde]] 10 || +7/+2 || 10 || &nbsp;
-|-
-| 11 || [[Pathfinder-RPG.Barde.ashx|Barde]] 11 || +8/+3 || 11 || [[Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]]
-|-
-| 12 || [[Pathfinder-RPG.Barde.ashx|Barde]] 12 || +9/+4 || 12 || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Barde.ashx|Barde]] 13 || +9/+4 || 13 || [[Pathfinder-RPG.Voix discordante.ashx|Voix discordante]]
-|-
-| 14 || [[Pathfinder-RPG.Barde.ashx|Barde]] 14 || +10/+5 || 14 || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Barde.ashx|Barde]] 15 || +11/+6/+1 || 15 || [[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]]
-|-
-| 16 || [[Pathfinder-RPG.Barde.ashx|Barde]] 16 || +12/+7/+2 || 16 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Barde.ashx|Barde]] 17 || +12/+7/+2 || 17 || &nbsp;
-|-
-| 18 || [[Pathfinder-RPG.Barde.ashx|Barde]] 18 || +13/+8/+3 || 18 || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Barde.ashx|Barde]] 19 || +14/+9/+4 || 19 || &nbsp;
-|-
-| 20 || [[Pathfinder-RPG.Barde.ashx|Barde]] 20 || +15/+10/+5 || 20 || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du barde archer</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 1</td><td>+0</td><td>01</td><td>[[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision.ashx|tir de précision]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 2</td><td>+1</td><td>02</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 3</td><td>+2</td><td>03</td><td>[[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 4</td><td>+3</td><td>04</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 5</td><td>+3</td><td>05</td><td>[[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 6</td><td>+4</td><td>06</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 7</td><td>+5</td><td>07</td><td>[[Pathfinder-RPG.Viser.ashx|Viser]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 8</td><td>+6/+1</td><td>08</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 9</td><td>+6/+1</td><td>09</td><td>[[Pathfinder-RPG.Feu nourri.ashx|feu nourri]]</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 10</td><td>+7/+2</td><td>10</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 11</td><td>+8/+3</td><td>11</td><td>[[Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]]</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 12</td><td>+9/+4</td><td>12</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 13</td><td>+9/+4</td><td>13</td><td>[[Pathfinder-RPG.Voix discordante.ashx|Voix discordante]]</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 14</td><td>+10/+5</td><td>14</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 15</td><td>+11/+6/+1</td><td>15</td><td>[[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]]</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 16</td><td>+12/+7/+2</td><td>16</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 17</td><td>+12/+7/+2</td><td>17</td><td>&nbsp;</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 18</td><td>+13/+8/+3</td><td>18</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 19</td><td>+14/+9/+4</td><td>19</td><td>&nbsp;</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Barde.ashx|Barde]] 20</td><td>+15/+10/+5</td><td>20</td><td>&nbsp;</td></tr></table>

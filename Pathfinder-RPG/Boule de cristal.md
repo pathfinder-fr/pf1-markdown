@@ -15,21 +15,10 @@ La boule de cristal, qui fait généralement une quinzaine de centimètres de di
 
 Certaines boules de cristal possèdent des pouvoirs dont leur utilisateur peut se servir pour examiner plus en détail l’endroit qui l’intéresse.
 
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|- CLASS="titre"
-| Type de boule de cristal || Prix de vente
-|- CLASS="premier"
-| Boule de cristal ordinaire || 42 000 po
-|-
-| Boule de cristal dotée de *[[détection de linvisibilité|détection de l’invisibilité]]* || 50 000 po
-|-
-| Boule de cristal dotée de *[[détection de pensées]]*   
-(jet de [[Volonté]] [[DD]] 13 pour annuler) || 51 000 po
-|-
-| Boule de cristal dotée de télépathie* || 70 000 po
-|-
-| Boule de cristal dotée de *[[vision lucide]]* || 80 000 po
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>Type de boule de cristal</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>Boule de cristal ordinaire</td><td>42 000 po</td></tr><tr><td>Boule de cristal dotée de *[[détection de linvisibilité|détection de l’invisibilité]]*</td><td>50 000 po</td></tr><tr><td>Boule de cristal dotée de *[[détection de pensées]]*   
+(jet de [[Volonté]] [[DD]] 13 pour annuler)</td><td>51 000 po</td></tr><tr><td>Boule de cristal dotée de télépathie*</td><td>70 000 po</td></tr><tr><td>Boule de cristal dotée de *[[vision lucide]]*</td><td>80 000 po</td></tr></table>
+
 
 *(*) Le personnage peut communiquer silencieusement avec l’individu apparaissant dans la boule de cristal. Une fois par jour, il peut également essayer de lui transmettre une suggestion (voir le sort [[suggestion]], jet de [[Volonté]] [[DD]] 14 pour annuler).*
 (((Création)))

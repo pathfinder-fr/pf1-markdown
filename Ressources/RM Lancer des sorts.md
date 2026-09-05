@@ -11,51 +11,9 @@ Categories:
 Un pratiquant de la magie peut, à tout instant, tenter de lancer n’importe quel sort dont il a connaissance à condition que la valeur de sa caractéristique primordiale soit au moins égale à 10 + niveau du sort concerné et que ce sort soit d’un niveau auquel il a accès (cf. tableau ci-dessous).
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Niveau de sort maximal accessible
-|- CLASS="titre"
-| Niveau de classe || Barde || Druide || Ensorceleur || Magicien || Paladin || Prêtre || Rôdeur
-|- CLASS="premier"
-| 1 || 1er || 1er || 1er || 1er || - || 1er || -
-|- CLASS="alt"
-| 2 || 1er || 1er || 1er || 1er || - || 1er || -
-|-
-| 3 || 1er || 2e || 1er || 2e || - || 2e || -
-|- CLASS="alt"
-| 4 || 2e || 2e || 2e || 2e || 1er || 2e || 1er
-|-
-| 5 || 2e || 3e || 2e || 3e || 1er || 3e || 1er
-|- CLASS="alt"
-| 6 || 2e || 3e || 3e || 3e || 1er || 3e || 1er
-|-
-| 7 || 3e || 4e || 3e || 4e || 2e || 4e || 2e
-|- CLASS="alt"
-| 8 || 3e || 4e || 4e || 4e || 2e || 4e || 2e
-|-
-| 9 || 3e || 5e || 4e || 5e || 2e || 5e || 2e
-|- CLASS="alt"
-| 10 || 4e || 5e || 5e || 5e || 3e || 5e || 3e
-|-
-| 11 || 4e || 6e || 5e || 6e || 3e || 6e || 3e
-|- CLASS="alt"
-| 12 || 4e || 6e || 6e || 6e || 3e || 6e || 3e
-|-
-| 13 || 5e || 7e || 6e || 7e || 4e || 7e || 4e
-|- CLASS="alt"
-| 14 || 5e || 7e || 7e || 7e || 4e || 7e || 4e
-|-
-| 15 || 5e || 8e || 7e || 8e || 4e || 8e || 4e
-|- CLASS="alt"
-| 16 || 6e || 8e || 8e || 8e || 4e || 8e || 4e
-|-
-| 17 || 6e || 9e || 8e || 9e || 4e || 9e || 4e
-|- CLASS="alt"
-| 18 || 6e || 9e || 9e || 9e || 4e || 9e || 4e
-|-
-| 19 || 6e || 9e || 9e || 9e || 4e || 9e || 4e
-|- CLASS="alt"
-| 20 || 6e || 9e || 9e || 9e || 4e || 9e || 4e
-|}
+
+<table CLASS="tablo col1centre"><caption>Niveau de sort maximal accessible</caption><tr CLASS="titre"><td>Niveau de classe</td><td>Barde</td><td>Druide</td><td>Ensorceleur</td><td>Magicien</td><td>Paladin</td><td>Prêtre</td><td>Rôdeur</td></tr><tr CLASS="premier"><td>1</td><td>1er</td><td>1er</td><td>1er</td><td>1er</td><td>-</td><td>1er</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>1er</td><td>1er</td><td>1er</td><td>1er</td><td>-</td><td>1er</td><td>-</td></tr><tr><td>3</td><td>1er</td><td>2e</td><td>1er</td><td>2e</td><td>-</td><td>2e</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>2e</td><td>2e</td><td>2e</td><td>2e</td><td>1er</td><td>2e</td><td>1er</td></tr><tr><td>5</td><td>2e</td><td>3e</td><td>2e</td><td>3e</td><td>1er</td><td>3e</td><td>1er</td></tr><tr CLASS="alt"><td>6</td><td>2e</td><td>3e</td><td>3e</td><td>3e</td><td>1er</td><td>3e</td><td>1er</td></tr><tr><td>7</td><td>3e</td><td>4e</td><td>3e</td><td>4e</td><td>2e</td><td>4e</td><td>2e</td></tr><tr CLASS="alt"><td>8</td><td>3e</td><td>4e</td><td>4e</td><td>4e</td><td>2e</td><td>4e</td><td>2e</td></tr><tr><td>9</td><td>3e</td><td>5e</td><td>4e</td><td>5e</td><td>2e</td><td>5e</td><td>2e</td></tr><tr CLASS="alt"><td>10</td><td>4e</td><td>5e</td><td>5e</td><td>5e</td><td>3e</td><td>5e</td><td>3e</td></tr><tr><td>11</td><td>4e</td><td>6e</td><td>5e</td><td>6e</td><td>3e</td><td>6e</td><td>3e</td></tr><tr CLASS="alt"><td>12</td><td>4e</td><td>6e</td><td>6e</td><td>6e</td><td>3e</td><td>6e</td><td>3e</td></tr><tr><td>13</td><td>5e</td><td>7e</td><td>6e</td><td>7e</td><td>4e</td><td>7e</td><td>4e</td></tr><tr CLASS="alt"><td>14</td><td>5e</td><td>7e</td><td>7e</td><td>7e</td><td>4e</td><td>7e</td><td>4e</td></tr><tr><td>15</td><td>5e</td><td>8e</td><td>7e</td><td>8e</td><td>4e</td><td>8e</td><td>4e</td></tr><tr CLASS="alt"><td>16</td><td>6e</td><td>8e</td><td>8e</td><td>8e</td><td>4e</td><td>8e</td><td>4e</td></tr><tr><td>17</td><td>6e</td><td>9e</td><td>8e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr><tr CLASS="alt"><td>18</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr><tr><td>19</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr><tr CLASS="alt"><td>20</td><td>6e</td><td>9e</td><td>9e</td><td>9e</td><td>4e</td><td>9e</td><td>4e</td></tr></table>
+
 </center>
 
 Au terme de l’incantation, le personnage doit effectuer un test de [[Pathfinder-RPG.Concentration|Concentration]] dont le DD est égal à 5 x niveau du sort qu’il tente de lancer (s’il s’agit d’un sort de niveau 0, un tel test n’est nécessaire que si le modificateur total associé est négatif). En cas de succès, il parvient à lancer le sort ; dans le cas contraire, les conséquences exactes dépendent de la marge d’échec :
@@ -66,12 +24,9 @@ Au terme de l’incantation, le personnage doit effectuer un test de [[Pathfinde
 À chaque fois qu’un pratiquant de la magie parvient à lancer un sort, la fatigue mentale qui en résulte lui impose un malus dépendant du niveau du sort en question (cf. tableau ci-dessous) à tous les tests de Concentration effectués par la suite. Ce malus se cumule avec tous les malus résultant de l’éventuel lancement d’autres sorts et disparait au bout d’une heure passée sans que le personnage n’ait lancé de sorts.
 
 <center>
-{| CLASS="tablo"
-|-
-| **Niveau du sort** || 0 || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9
-|- CLASS="alt"
-| **Malus aux tests de Concentration** || 0 || -1 || -1 || -1 || -2 || -2 || -2 || -3 || -3 || -3
-|}
+
+<table CLASS="tablo"><tr><td>**Niveau du sort**</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr CLASS="alt"><td>**Malus aux tests de Concentration**</td><td>0</td><td>-1</td><td>-1</td><td>-1</td><td>-2</td><td>-2</td><td>-2</td><td>-3</td><td>-3</td><td>-3</td></tr></table>
+
 </center>
 
 Un pratiquant de la magie peut accroître ses chances de réussir à un lancer un sort en augmentant volontairement le temps d’incantation de celui-ci : chaque multiplication dudit temps d’incantation par une valeur égale au niveau effectif du sort concerné (minimum 2) confère un bonus de +2 au test de Concentration effectué -une fois cette incantation achevée- afin de lancer le sort en question (dans le cadre de cette règle, la valeur des temps d’incantation inférieurs à un round est considérée comme étant égale à un round). Le personnage doit choisir d’utiliser ou non cette option et, le cas échéant, décider du temps qu’il consacre effectivement à l’incantation au moment d’entamer cette dernière ; une fois ces décisions prises, elles ne peuvent plus être modifiées (mais il demeure possible de s’interrompre volontairement en cours d’incantation).

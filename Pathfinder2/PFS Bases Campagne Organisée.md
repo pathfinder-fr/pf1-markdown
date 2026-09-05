@@ -112,32 +112,9 @@ La campagne attribue plusieurs récompenses différentes aux joueurs et aux MJ p
 {s:Reference|ACHIEVEMENT_POINTS}
 **Achievement Points** : En jouant, en masterisant et en enregistrant en ligne les parties de Pathfinder Society, les participants gagnent des *Achievement Points* (ACP en abrégé), une monnaie virtuelle avec laquelle ils peuvent acheter des récompenses spéciales comme l'accès à des ascendances, des objets et des sorts peu communs, et bien plus encore. Le nombre de points obtenu dépend de la taille de l'aventure et de l'événement pendant lequel elle est organisée. Les événements *Standards* désignent les parties jouées à la maison et la plupart des lieux publics. Les événements *Premiers* désignent la plupart des conventions et des événements spéciaux organisés par le Coordinateur d'Aventures régional. Les événements *Premier Plus* désignent les manifestations importantes (telles que les conventions Gen Con, Origins et PaizoCon) où Pathfinder Society a une présence particulière et où débutent souvent des aventures majeures.
 
-{| CLASS="tablo centre"
-|- CLASS="titre"
-| Aventure || Participant || Évènement || Gain d'AcP
-|- CLASS="premier"
-| Quête || Joueur || Standard || 1
-|-
-| Quête || Joueur || Premier || 1
-|-
-| Quête || Joueur || Premier Plus || 1.5
-|-
-| Quête || MJ || Standard || 2
-|-
-| Quête || MJ || Premier || 3
-|-
-| Scénario || Joueur || Standard || 4
-|-
-| Scénario || Joueur || Premier || 5
-|-
-| Scénario || Joueur || Premier Plus || 6
-|-
-| Scénario || MJ || Standard || 8
-|-
-| Scénario || MJ || Premier || 10
-|-
-| Scénario || MJ || Premier Plus || 12
-|}
+
+<table CLASS="tablo centre"><tr CLASS="titre"><td>Aventure</td><td>Participant</td><td>Évènement</td><td>Gain d'AcP</td></tr><tr CLASS="premier"><td>Quête</td><td>Joueur</td><td>Standard</td><td>1</td></tr><tr><td>Quête</td><td>Joueur</td><td>Premier</td><td>1</td></tr><tr><td>Quête</td><td>Joueur</td><td>Premier Plus</td><td>1.5</td></tr><tr><td>Quête</td><td>MJ</td><td>Standard</td><td>2</td></tr><tr><td>Quête</td><td>MJ</td><td>Premier</td><td>3</td></tr><tr><td>Scénario</td><td>Joueur</td><td>Standard</td><td>4</td></tr><tr><td>Scénario</td><td>Joueur</td><td>Premier</td><td>5</td></tr><tr><td>Scénario</td><td>Joueur</td><td>Premier Plus</td><td>6</td></tr><tr><td>Scénario</td><td>MJ</td><td>Standard</td><td>8</td></tr><tr><td>Scénario</td><td>MJ</td><td>Premier</td><td>10</td></tr><tr><td>Scénario</td><td>MJ</td><td>Premier Plus</td><td>12</td></tr></table>
+
 
 Vous pouvez échanger vos ACP contre des récompenses sur (Lien pas encore disponible). Lorsque vous achetez une récompense, vous devez l'attribuer à l'un de vos PJ, et l'avantage accordé sera automatiquement inséré sur une Chronique spéciale avec votre numéro de jeu organisé et le numéro de votre personnage.
 

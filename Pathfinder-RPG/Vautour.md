@@ -32,15 +32,9 @@ LastModified: 2020-09-22 16:45
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de vautour
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Vautour]] || 1/2
-|-
-| [[Vautour géant]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de vautour</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Vautour]]</td><td>1/2</td></tr><tr><td>[[Vautour géant]]</td><td>4</td></tr></table>
+
 </div>*Ce vautour aux plumes foncées a la tête et le cou nus. Son long bec crochu est couvert de croûtes de charognes.*
 
 Bien qu’apparentés aux rapaces et autres oiseaux de proie, les vautours se nourrissent essentiellement de charogne qu’ils repèrent ou sentent depuis les hauteurs. Les vautours ont des serres moins puissantes que celles des autres oiseaux de proie mais leur bec très crochu et tranchant déchire la chair vivante aussi facilement qu’une épée affûtée.

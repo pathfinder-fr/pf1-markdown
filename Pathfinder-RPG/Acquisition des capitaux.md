@@ -16,21 +16,11 @@ Le moyen le plus simple pour obtenir des capitaux consiste à les acquérir en a
 ### Production de capitaux
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px;">
-{| CLASS="tablo autoalt centre"
-|+ {s:Reference|Valeurs des capitaux}Valeurs des capitaux
-|- CLASS="titre"
-| Capital || Coût  
-d'achat || Coût  
-produit
-|- CLASS="premier"
-| [[Intermèdes#Marchandises|Marchandises]] || 20 po || 10 po
-|-
-| [[Intermèdes#Influence|Influence]] || 30 po || 15 po
-|-
-| [[Intermèdes#Travail|Travail]] || 20 po || 10 po
-|-
-| [[Intermèdes#Magie|Magie]] || 100 po || 50 po
-|}
+
+<table CLASS="tablo autoalt centre"><caption>{s:Reference|Valeurs des capitaux}Valeurs des capitaux</caption><tr CLASS="titre"><td>Capital</td><td>Coût  
+d'achat</td><td>Coût  
+produit</td></tr><tr CLASS="premier"><td>[[Intermèdes#Marchandises|Marchandises]]</td><td>20 po</td><td>10 po</td></tr><tr><td>[[Intermèdes#Influence|Influence]]</td><td>30 po</td><td>15 po</td></tr><tr><td>[[Intermèdes#Travail|Travail]]</td><td>20 po</td><td>10 po</td></tr><tr><td>[[Intermèdes#Magie|Magie]]</td><td>100 po</td><td>50 po</td></tr></table>
+
 </div></div>Nombre d’activités d’intermède, comme la réalisation de travaux ordinaires grâce à une compétence d’[[Artisanat]] ou de [[Profession]] ou la production de recettes engendrées par la gestion quotidienne d’une [[Bâtiments et organisations#TAVERNE|taverne]] ou d’une [[Bâtiments et organisations#AUBERGE|auberge]], permettent aux personnages de [[Activités dintermède#Produire des capitaux|produire des capitaux]]. La production de capitaux est semblable à l’utilisation d’un don de fabrication d’objets magiques : le personnage doit consacrer du temps à la fabrication de l’objet en payant la moitié seulement du prix normal de cet objet. Si la description d’une activité d’intermède précise qu’elle permet de produire des capitaux, le personnage peut produire ce capital en passant le temps d’intermède requis et en dépensant la somme correspondante en po. Le coût (en po) pour produire des capitaux est égal à la moitié de leur coût d’achat, comme indiqué dans la colonne Coût produit de la table "[[Acquisition des capitaux#Valeurs des capitaux|Valeurs des capitaux]]". Par exemple, l’[[Intermèdes#Influence|Influence]] possède un [[Acquisition des capitaux#Valeurs des capitaux|Coût produit]] de 15 po le point. Si le personnage souhaite développer son réseau social en ville pour produire trois points d’[[Intermèdes#Influence|Influence]], il doit y consacrer un jour d’intermède et dépenser 45 po (3 × 15 po). La production de capitaux prend plus de temps mais permet de les acquérir à un coût bien moins élevé que l’achat pur et simple. Il est plus facile de noter la liste des capitaux produits si le personnage règle la somme requise dès leur acquisition ; dans le cas contraire, il devra également noter la liste des capitaux produits mais non encore possédés (car il n’a pas encore réglé la somme en po correspondante).
 
 Ce chapitre part du principe que vous utilisez le système d’intermède pour produire des capitaux au lieu de les acheter. Par conséquent, toutes les valeurs en po de ce chapitre ([[Intermèdes|Les intermèdes]] du Guide de Campagne) se basent sur le [[Acquisition des capitaux#Valeurs des capitaux|Coût produit]]. Si vous n’utilisez pas le système d’intermède pour produire des capitaux (et que vous les acquérez à la place sous forme de récompense de trésor, par exemple) ou si vous souhaitez acquérir rapidement quelque chose en dépensant des pièces d’or, pensez à doubler la valeur en po indiquée pour déterminer le [[Acquisition des capitaux#Valeurs des capitaux|Coût d’achat]] de l’objet ou du service souhaité.
@@ -49,21 +39,9 @@ Le personnage peut travailler une journée pour gagner 5 pa (en temps normal, un
 #### Travail qualifié
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo autoalt centre"
-|+ {s:Reference|Production de capitaux}Production de capitaux
-|- CLASS="titre"
-| Résultat du test de compétence || Capital produit* ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])
-|- CLASS="premier"
-| 10 || 1
-|-
-| 20 || 2
-|-
-| 30 || 3
-|-
-| 40 || 4
-|-
-| CLASS="note" COLSPAN="2" | *(*) Pour chaque tranche de 10 points au-dessus de 40 obtenue sur le résultat du test, le personnage produit un point de capital supplémentaire.*
-|}
+
+<table CLASS="tablo autoalt centre"><caption>{s:Reference|Production de capitaux}Production de capitaux</caption><tr CLASS="titre"><td>Résultat du test de compétence</td><td>Capital produit* ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])</td></tr><tr CLASS="premier"><td>10</td><td>1</td></tr><tr><td>20</td><td>2</td></tr><tr><td>30</td><td>3</td></tr><tr><td>40</td><td>4</td></tr><tr><td CLASS="note" COLSPAN="2">*(*) Pour chaque tranche de 10 points au-dessus de 40 obtenue sur le résultat du test, le personnage produit un point de capital supplémentaire.*</td></tr></table>
+
 </div></div>Si le personnage possède des rangs dans une compétence utile, il peut travailler une journée pour produire davantage de capitaux que ceux produits avec un travail non qualifié. Remarquez que cette méthode peut impliquer des moyens légaux et illégaux de production de capitaux. Par exemple, une journée passée à gagner de l’argent avec [[Escamotage]] peut se traduire par une journée passée  à donner des spectacles de rue magiques ou bien à dérober les bourses des passants.
 
 Déterminez si le personnage produit un type de capital ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]]) ou gagne des po, puis effectuez un test de compétence. Vous pouvez décider de faire 10 sur ce test.
@@ -118,27 +96,9 @@ Certains types de capitaux, l’[[Intermèdes#Influence|Influence]] en particuli
 ### Limites des dépenses
 La population d’une communauté fixe la limite de l’aide que votre personnage peut obtenir pendant une journée. La table "[[Acquisition des capitaux#Limite des dépenses|Limite des dépenses]]" indique le nombre maximum de [[Intermèdes#Marchandises|Marchandises]], d’[[Intermèdes#Influence|Influence]] et de [[Intermèdes#Travail|Travail]] que votre personnage peut dépenser chaque jour dans une communauté. Même s’il dispose de beaucoup de [[Intermèdes#Marchandises|Marchandises]] et de [[Intermèdes#Travail|Travail]] acquis grâce à diverses faveurs, si la communauté est de taille extrêmement réduite, elle n’aura tout simplement pas assez de force de travail disponible pour que les capitaux du personnage puissent se transformer en projets finalisés.
 
-{| CLASS="tablo autoalt centre" WIDTH="60%"
-|+ {s:Reference|Limite des dépenses}Limite des dépenses
-|- CLASS="titre"
-| Communauté || Limite des dépenses par jour ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])
-|- CLASS="premier"
-| Lieu-dit || 2
-|-
-| Hameau || 4
-|-
-| Village || 10
-|-
-| Petite bourgade || 15
-|-
-| Grosse bourgade || 25
-|-
-| Petite ville || 35
-|-
-| Grande ville || 50
-|-
-| Capitale || 65
-|}
+
+<table CLASS="tablo autoalt centre" WIDTH="60%"><caption>{s:Reference|Limite des dépenses}Limite des dépenses</caption><tr CLASS="titre"><td>Communauté</td><td>Limite des dépenses par jour ([[Intermèdes#Marchandises|Marchandises]], [[Intermèdes#Influence|Influence]], [[Intermèdes#Travail|Travail]] ou [[Intermèdes#Magie|Magie]])</td></tr><tr CLASS="premier"><td>Lieu-dit</td><td>2</td></tr><tr><td>Hameau</td><td>4</td></tr><tr><td>Village</td><td>10</td></tr><tr><td>Petite bourgade</td><td>15</td></tr><tr><td>Grosse bourgade</td><td>25</td></tr><tr><td>Petite ville</td><td>35</td></tr><tr><td>Grande ville</td><td>50</td></tr><tr><td>Capitale</td><td>65</td></tr></table>
+
 
 {s:Reference|Utilisation des suivants}
 ### Utilisation des suivants

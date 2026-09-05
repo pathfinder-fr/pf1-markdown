@@ -32,17 +32,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon des nuages
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon des nuages]] || &nbsp; || 9
-|-
-| [[Dragon des nuages adulte]] || &nbsp; || 13
-|-
-| [[Dragon des nuages vénérable]] || &nbsp; || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon des nuages</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des nuages]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon des nuages adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon des nuages vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Les écailles bleu clair de ce dragon à quatre cornes dégagent des volutes de brume. Son museau est court mais garni de dents acérées.*
 
 Les dragons des nuages se tiennent à l’écart des complots et
@@ -61,35 +53,9 @@ sécurité les nouveaux trésors
 qu’ils viennent d’acquérir.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité contre l’électricité, vision dans la brume || —
-|- CLASS="alt"
-| Très jeune || *[[brume de dissimulation]]* || —
-|-
-| Jeune || *[[nappe de brouillard]]* || —
-|- CLASS="alt"
-| Adolescent || [[dragon#PRESENCETERRIFIANTE|présence terrifiante]] || 1
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 3
-|- CLASS="alt"
-| Adulte || *[[brouillard dense]]*, forme de nuage || 5
-|-
-| Âge mûr || [[RD]] 10/magie || 7
-|- CLASS="alt"
-| Vieux || *[[brume mortelle]]* || 9
-|-
-| Très vieux || [[RD]] 15/magie || 11
-|- CLASS="alt"
-| Vénérable || morsure tonitruante, *[[vent divin]]* || 13
-|-
-| Dracosire || [[RD]] 20/magie || 15
-|- CLASS="alt"
-| Grand dracosire || souffle nuage, *[[tempête vengeresse]]* || 17
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité contre l’électricité, vision dans la brume</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[brume de dissimulation]]*</td><td>—</td></tr><tr><td>Jeune</td><td>*[[nappe de brouillard]]*</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>[[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[brouillard dense]]*, forme de nuage</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[brume mortelle]]*</td><td>9</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>morsure tonitruante, *[[vent divin]]*</td><td>13</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>souffle nuage, *[[tempête vengeresse]]*</td><td>17</td></tr></table>
+
 </center>
 
 

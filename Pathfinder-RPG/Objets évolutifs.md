@@ -30,51 +30,9 @@ Beaucoup d’objets évolutifs débloquent de nouveaux pouvoirs jusqu’au nivea
 #### Niveaux dépareillés
 Si un [[PJ]] reçoit un objet évolutif dont le [[NLS|niveau de lanceur de sorts]] est inférieur à son niveau de personnage, il reçoit en réalité un objet dont la valeur est supérieure au prix indiqué dans le profil de l’objet. Consultez la table "[[Objets évolutifs#VALEURDESOBJETSEVOLUTIFS|Valeur des objets évolutifs]]" et utilisez le niveau du PJ pour estimer la valeur réelle de son objet : c’est ce prix d’achat qui détermine sa véritable valeur. Donner un objet dont le niveau de lanceur de sorts est supérieur au niveau du personnage ne pose pas les mêmes problèmes car l’objet ne débloquera pas ses pouvoirs supérieurs avant un certain temps. Ne réduisez pas le trésor pour ce genre d’objet tant que le niveau du PJ ne dépasse pas le niveau de lanceur de sorts de l’objet.
 
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|VALEURDESOBJETSEVOLUTIFS}Valeur des objets évolutifs
-|- CLASS="titre"
-| Niveau || Babiole (5%) || Trophée (15%) || Merveille (30%)
-|- CLASS="premier"
-| 1 || 15 po || 45 po || 90 po
-|-
-| 2 || 50 po || 150 po || 300 po
-|-
-| 3 || 150 po || 450 po || 900 po
-|-
-| 4 || 300 po || 900 po || 1 800 po
-|-
-| 5 || 525 po || 1 575 po || 3 150 po
-|-
-| 6 || 800 po || 2 400 po || 4 800 po
-|-
-| 7 || 1 175 po || 3 525 po || 7 050 po
-|-
-| 8 || 1 650 po || 4 950 po || 9 900 po
-|-
-| 9 || 2 300 po || 6 900 po || 13 800 po
-|-
-| 10 || 3 100 po || 9 300 po || 18 600 po
-|-
-| 11 || 4 100 po || 12 300 po || 24 600 po
-|-
-| 12 || 5 400 po || 16 200 po || 32 400 po
-|-
-| 13 || 7 000 po || 21 000 po || 42 000 po
-|-
-| 14 || 9 250 po || 27 750 po || 55 500 po
-|-
-| 15 || 12 000 po || 36 000 po || 72 000 po
-|-
-| 16 || 15 750 po || 47 250 po || 94 500 po
-|-
-| 17 || 20 500 po || 61 500 po || 129 000 po
-|-
-| 18 || 26 500 po || 79 500 po || 159 000 po
-|-
-| 19 || 34 250 po || 102 750 po || 205 500 po
-|-
-| 20 || 44 000 po || 132 000 po || 264 000 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|VALEURDESOBJETSEVOLUTIFS}Valeur des objets évolutifs</caption><tr CLASS="titre"><td>Niveau</td><td>Babiole (5%)</td><td>Trophée (15%)</td><td>Merveille (30%)</td></tr><tr CLASS="premier"><td>1</td><td>15 po</td><td>45 po</td><td>90 po</td></tr><tr><td>2</td><td>50 po</td><td>150 po</td><td>300 po</td></tr><tr><td>3</td><td>150 po</td><td>450 po</td><td>900 po</td></tr><tr><td>4</td><td>300 po</td><td>900 po</td><td>1 800 po</td></tr><tr><td>5</td><td>525 po</td><td>1 575 po</td><td>3 150 po</td></tr><tr><td>6</td><td>800 po</td><td>2 400 po</td><td>4 800 po</td></tr><tr><td>7</td><td>1 175 po</td><td>3 525 po</td><td>7 050 po</td></tr><tr><td>8</td><td>1 650 po</td><td>4 950 po</td><td>9 900 po</td></tr><tr><td>9</td><td>2 300 po</td><td>6 900 po</td><td>13 800 po</td></tr><tr><td>10</td><td>3 100 po</td><td>9 300 po</td><td>18 600 po</td></tr><tr><td>11</td><td>4 100 po</td><td>12 300 po</td><td>24 600 po</td></tr><tr><td>12</td><td>5 400 po</td><td>16 200 po</td><td>32 400 po</td></tr><tr><td>13</td><td>7 000 po</td><td>21 000 po</td><td>42 000 po</td></tr><tr><td>14</td><td>9 250 po</td><td>27 750 po</td><td>55 500 po</td></tr><tr><td>15</td><td>12 000 po</td><td>36 000 po</td><td>72 000 po</td></tr><tr><td>16</td><td>15 750 po</td><td>47 250 po</td><td>94 500 po</td></tr><tr><td>17</td><td>20 500 po</td><td>61 500 po</td><td>129 000 po</td></tr><tr><td>18</td><td>26 500 po</td><td>79 500 po</td><td>159 000 po</td></tr><tr><td>19</td><td>34 250 po</td><td>102 750 po</td><td>205 500 po</td></tr><tr><td>20</td><td>44 000 po</td><td>132 000 po</td><td>264 000 po</td></tr></table>
+
 
 ### Achat et vente
 La vente d’un objet évolutif peut donner lieu à un jeu de marchandage délicat. Ce genre d’objet aura plus de valeur pour un acheteur de haut niveau tandis que l’acquisition et le développement de l’objet auront coûté une importante quantité de richesses à un vendeur de haut niveau. Le montant maximum qu’un PJ peut obtenir contre un objet évolutif est égal à la moitié de la valeur indiquée (comme pour la vente de n’importe quel objet magique) dans la table "[[Objets évolutifs#VALEURDESOBJETSEVOLUTIFS|Valeur des objets évolutifs]]" correspondant à la catégorie de l’objet et au niveau actuel du personnage. Pour obtenir ce montant, le PJ doit trouver un acheteur déterminé de niveau au moins égal au sien, ce qui peut demander beaucoup de temps et d’efforts. Si le PJ doit vendre l’objet au plus vite, il pourrait n’en retirer que 25% de sa valeur, voire moins. Un PJ ne peut pas vendre un objet évolutif à plus de 50% de la valeur correspondant à son niveau de personnage actuel, même s’il le vend à un PNJ de niveau supérieur au sien.
@@ -95,54 +53,9 @@ N’oubliez pas de réajuster le prix à chaque niveau où un sort se débloque 
 
 **Finalisation de l’objet.** Répétez ce processus pour chaque ensemble de nouveaux pouvoirs. Essayez d’ajouter un nouveau pouvoir à débloquer tous les 2 à 4 niveaux. Cela dit, il n’est pas nécessaire d’échelonner tous les objets jusqu’au niveau 20 : arrêtez-vous quand l’ensemble des pouvoirs vous paraît satisfaisant.
 
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|PRIXDESSORTS}Prix des sorts (une utilisation par jour)
-|- CLASS="titre"
-| ROWSPAN="2" | NLS
-| COLSPAN="10" CLASS="avecsoustitre" | Niveau du sort
-|- CLASS="soustitre"
-| 0 || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9
-|- CLASS="premier"
-| 1 || 180 po || 360 po || — || — || — || — || — || — || — || —
-|-
-| 2 || 360 po || 720 po || — || — || — || — || — || — || — || —
-|-
-| 3 || 540 po || 1 080 po || 2 160 po || — || — || — || — || — || — || —
-|-
-| 4 || 720 po || 1 440 po || 2 880 po || — || — || — || — || — || — || —
-|-
-| 5 || 900 po || 1 800 po || 3 600 po || 5 400 po || — || — || — || — || — || —
-|-
-| 6 || 1 080 po || 2 160 po || 4 320 po || 6 480 po || — || — || — || — || — || —
-|-
-| 7 || 1 260 po || 2 520 po || 5 040 po || 7 560 po || 10 080 po || — || — || — || — || —
-|-
-| 8 || 1 440 po || 2 880 po || 5 760 po || 8 640 po || 11 520 po || — || — || — || — || —
-|-
-| 9 || 1 620 po || 3 240 po || 6 480 po || 9 720 po || 12 960 po || 16 200 po || — || — || — || —
-|-
-| 10 || 1 800 po || 3 600 po || 7 200 po || 10 80 0po || 14 400 po || 18 000 po || — || — || — || —
-|-
-| 11 || 1 980 po || 3 960 po || 7 920 po || 11 880 po || 15 840 po || 19 800 po || 23 760 po || — || — || —
-|-
-| 12 || 2 160 po || 4 320 po || 8 640 po || 12 960 po || 17 280 po || 21 600 po || 25 920 po || — || — || —
-|-
-| 13 || 2 340 po || 4 680 po || 9 360 po || 14 040 po || 18 720 po || 23 400 po || 28 080 po || 32 760 po || — || —
-|-
-| 14 || 2 520 po || 5 040 po || 10 080 po || 15 120 po || 20 160 po || 25 200 po || 30 240 po || 35 280 po || — || —
-|-
-| 15 || 2 700 po || 5 400 po || 10 800 po || 16 200 po || 21 600 po || 27 000 po || 32 400 po || 37 800 po || 43 200 po || —
-|-
-| 16 || 2 880 po || 5 760 po || 11 520 po || 17 280 po || 23 040 po || 28 800 po || 34 560 po || 40 320po || 46 080 po || —
-|-
-| 17 || 3 060 po || 6 120 po || 12 240 po || 18 360 po || 24 480 po || 30 600 po || 36 720 po || 42 840 po || 48 960 po || 55 080 po
-|-
-| 18 || 3 240 po || 6 480 po || 12 960 po || 19 440 po || 25 920 po || 32 400 po || 38 880 po || 45 360 po || 51 840 po || 58 320 po
-|-
-| 19 || 3 420 po || 6 840 po || 13 680 po || 20 520 po || 27 360 po || 34 200 po || 41 040 po || 47 880 po || 54 720 po || 61 560 po
-|-
-| 20 || 3 600 po || 7 200 po || 14 400 po || 21 600 po || 28 800 po || 36 000 po || 43 200 po || 50 400 po || 57 600 po || 64 800 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|PRIXDESSORTS}Prix des sorts (une utilisation par jour)</caption><tr CLASS="titre"><td ROWSPAN="2">NLS</td><td COLSPAN="10" CLASS="avecsoustitre">Niveau du sort</td></tr><tr CLASS="soustitre"><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr CLASS="premier"><td>1</td><td>180 po</td><td>360 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>360 po</td><td>720 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>540 po</td><td>1 080 po</td><td>2 160 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>720 po</td><td>1 440 po</td><td>2 880 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>900 po</td><td>1 800 po</td><td>3 600 po</td><td>5 400 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>1 080 po</td><td>2 160 po</td><td>4 320 po</td><td>6 480 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>1 260 po</td><td>2 520 po</td><td>5 040 po</td><td>7 560 po</td><td>10 080 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>1 440 po</td><td>2 880 po</td><td>5 760 po</td><td>8 640 po</td><td>11 520 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>1 620 po</td><td>3 240 po</td><td>6 480 po</td><td>9 720 po</td><td>12 960 po</td><td>16 200 po</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>1 800 po</td><td>3 600 po</td><td>7 200 po</td><td>10 80 0po</td><td>14 400 po</td><td>18 000 po</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>1 980 po</td><td>3 960 po</td><td>7 920 po</td><td>11 880 po</td><td>15 840 po</td><td>19 800 po</td><td>23 760 po</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>2 160 po</td><td>4 320 po</td><td>8 640 po</td><td>12 960 po</td><td>17 280 po</td><td>21 600 po</td><td>25 920 po</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>2 340 po</td><td>4 680 po</td><td>9 360 po</td><td>14 040 po</td><td>18 720 po</td><td>23 400 po</td><td>28 080 po</td><td>32 760 po</td><td>—</td><td>—</td></tr><tr><td>14</td><td>2 520 po</td><td>5 040 po</td><td>10 080 po</td><td>15 120 po</td><td>20 160 po</td><td>25 200 po</td><td>30 240 po</td><td>35 280 po</td><td>—</td><td>—</td></tr><tr><td>15</td><td>2 700 po</td><td>5 400 po</td><td>10 800 po</td><td>16 200 po</td><td>21 600 po</td><td>27 000 po</td><td>32 400 po</td><td>37 800 po</td><td>43 200 po</td><td>—</td></tr><tr><td>16</td><td>2 880 po</td><td>5 760 po</td><td>11 520 po</td><td>17 280 po</td><td>23 040 po</td><td>28 800 po</td><td>34 560 po</td><td>40 320po</td><td>46 080 po</td><td>—</td></tr><tr><td>17</td><td>3 060 po</td><td>6 120 po</td><td>12 240 po</td><td>18 360 po</td><td>24 480 po</td><td>30 600 po</td><td>36 720 po</td><td>42 840 po</td><td>48 960 po</td><td>55 080 po</td></tr><tr><td>18</td><td>3 240 po</td><td>6 480 po</td><td>12 960 po</td><td>19 440 po</td><td>25 920 po</td><td>32 400 po</td><td>38 880 po</td><td>45 360 po</td><td>51 840 po</td><td>58 320 po</td></tr><tr><td>19</td><td>3 420 po</td><td>6 840 po</td><td>13 680 po</td><td>20 520 po</td><td>27 360 po</td><td>34 200 po</td><td>41 040 po</td><td>47 880 po</td><td>54 720 po</td><td>61 560 po</td></tr><tr><td>20</td><td>3 600 po</td><td>7 200 po</td><td>14 400 po</td><td>21 600 po</td><td>28 800 po</td><td>36 000 po</td><td>43 200 po</td><td>50 400 po</td><td>57 600 po</td><td>64 800 po</td></tr></table>
+
 
 ### Les objets évolutifs indépendants
 Le [[MJ]] peut intégrer des objets évolutifs en tant qu’éléments individuels d’un trésor même s’il n’utilise pas le système des objets évolutifs dans son jeu. L’objet de base peut être utilisé sans aucune de ses améliorations de niveau supérieur ou le MJ peut définir un niveau supérieur et créer un objet indépendant doté des pouvoirs de base plus un ou plusieurs niveaux débloqués. Il devrait utiliser le prix normal correspondant à ce niveau de l’objet évolutif, comme indiqué dans la table "[[Objets évolutifs#VALEURDESOBJETSEVOLUTIFS|Valeur des objets évolutifs]]".

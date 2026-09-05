@@ -12,42 +12,9 @@ Categories:
 Les aristocraties du monde varient selon les régions. Un vice-roi de l'Empire décadent en route vers l'opéra, habillé dans des habits de soirée luxueux et très voyants et avec une braguette couverte de bijoux brillants n'aura donc rien à voir avec une princesse de la Porte de l'Est qui restera majestueuse en chevauchant un étalon pur-sang d'une valeur inestimable vêtue de sa magnifique robe en soie fine.  Cela étant dit, tous les héritiers nobles ont bien des points en commun : du pouvoir, des servants, de la fortune, et la certitude que leur place est au sommet de la société.''
 
 <center>
-{| CLASS="tablo"
-|+ L'héritier noble
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Héritier noble#PROSPERITE|Prospérité]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Héritier noble#GRANDMENEUR|Grand meneur]]
-|-
-| 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Héritier noble#ERUDITIONARISTOCRATIQUE|Érudition aristocratique]]
-|- CLASS="alt"
-| 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [[Héritier noble#INFLUENCEPRESTIGIEUSE|Influence prestigieuse]], [[Héritier noble#EXPERTISEREGIONALE|expertise régionale]]
-|-
-| 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]
-|- CLASS="alt"
-| 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]
-|-
-| 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [[Héritier noble#SERVITEUR|Serviteur]]
-|- CLASS="alt"
-| 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]
-|-
-| 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]
-|- CLASS="alt"
-| 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [[Héritier noble#NOBLEHORSPAIR|Noble hors pair]]
-|}
+
+<table CLASS="tablo"><caption>L'héritier noble</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Héritier noble#PROSPERITE|Prospérité]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Héritier noble#GRANDMENEUR|Grand meneur]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Héritier noble#ERUDITIONARISTOCRATIQUE|Érudition aristocratique]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Héritier noble#INFLUENCEPRESTIGIEUSE|Influence prestigieuse]], [[Héritier noble#EXPERTISEREGIONALE|expertise régionale]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Héritier noble#SERVITEUR|Serviteur]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Héritier noble#EXPERTISEREGIONALE|Expertise régionale]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Héritier noble#ETUDESDILETTANTES|Études dilettantes]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Héritier noble#NOBLEHORSPAIR|Noble hors pair]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d8.

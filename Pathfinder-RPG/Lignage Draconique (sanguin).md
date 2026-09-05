@@ -23,32 +23,9 @@ Le pouvoir des dragons imprègne le personnage et se manifeste de diverses mani�
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt" ID="tabdragon"
-|+ lignage draconique
-|- CLASS="titre"
-| Type de Dragon || Type d'énergie || Forme du souffle
-|- CLASS="premier"
-| Blanc || Froid || Cône de 9m
-|-
-| Bleu || Électricité || Ligne de 18m
-|-
-| Noir || Acide || Ligne de 18m
-|-
-| Rouge || Feu || Cône de 9m
-|-
-| Vert || Acide || Cône de 9m
-|-
-| Airain || Feu || Ligne de 18m
-|-
-| Argent || Froid || Cône de 9m
-|-
-| Bronze || Électricité || Ligne de 18m
-|-
-| Cuivre || Acide || Ligne de 18m
-|-
-| Or || Feu || Cône de 9m
-|-
-|}
+
+<table CLASS="tablo centre toutgauche autoalt" ID="tabdragon"><caption>lignage draconique</caption><tr CLASS="titre"><td>Type de Dragon</td><td>Type d'énergie</td><td>Forme du souffle</td></tr><tr CLASS="premier"><td>Blanc</td><td>Froid</td><td>Cône de 9m</td></tr><tr><td>Bleu</td><td>Électricité</td><td>Ligne de 18m</td></tr><tr><td>Noir</td><td>Acide</td><td>Ligne de 18m</td></tr><tr><td>Rouge</td><td>Feu</td><td>Cône de 9m</td></tr><tr><td>Vert</td><td>Acide</td><td>Cône de 9m</td></tr><tr><td>Airain</td><td>Feu</td><td>Ligne de 18m</td></tr><tr><td>Argent</td><td>Froid</td><td>Cône de 9m</td></tr><tr><td>Bronze</td><td>Électricité</td><td>Ligne de 18m</td></tr><tr><td>Cuivre</td><td>Acide</td><td>Ligne de 18m</td></tr><tr><td>Or</td><td>Feu</td><td>Cône de 9m</td></tr></table>
+
 </div></div>Au niveau 1, il doit choisir un type de dragon métallique ou chromatique. Il ne peut pas en changer par la suite. Une partie de ses pouvoirs de lignage infligent des dégâts et offrent des résistances basés sur le type de dragon, comme indiqué plus loin.
 
 {s:reference|GRIFFES}**Griffes (Sur).** À partir du niveau 1, le personnage a des griffes qui poussent. Elles fonctionnent comme des [[armes naturelles]] qui lui permettent d’effectuer deux attaques de griffe lors d’une [[attaque à outrance]], en appliquant son [[BBA|bonus de base à l’attaque]] maximal. Ces attaques infligent 1d6 points de dégâts (1d4 si le personnage est de taille P) plus le modificateur de [[Force]] du personnage. Dès le niveau 4, ces griffes sont considérées comme des armes magiques vis-à-vis de la [[RD|réduction aux dégâts]]. À partir du niveau 8, les dégâts passent à 1d8 (1d6 pour un personnage de taille P). Au niveau 12, les griffes infligent 1d6 points de dégâts du type d’énergie destructive associé au personnage en plus à chaque fois qu’elles touchent.

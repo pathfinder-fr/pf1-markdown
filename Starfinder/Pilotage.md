@@ -27,17 +27,9 @@ spatial peuvent obtenir l’état de dégât critique de dysfonctionnement
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| FAMILIARITÉ || DD
-|- CLASS="premier"
-| **Fréquemment visité ou base natale** || 10
-|- CLASS="alt"
-| **Rarement visité** || 15
-|-
-| **Inconnu** || 25
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>FAMILIARITÉ</td><td>DD</td></tr><tr CLASS="premier"><td>**Fréquemment visité ou base natale**</td><td>10</td></tr><tr CLASS="alt"><td>**Rarement visité**</td><td>15</td></tr><tr><td>**Inconnu**</td><td>25</td></tr><tr CLASS="alt"></tr></table>
+
 </center>
 </div>
 </div>

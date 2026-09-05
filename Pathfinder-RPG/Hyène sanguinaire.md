@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de hyène
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hyène]] || 1
-|-
-| [[Hyène sanguinaire]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de hyène</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hyène]]</td><td>1</td></tr><tr><td>[[Hyène sanguinaire]]</td><td>3</td></tr></table>
+
 </div>*Cette immense hyène possède une large tête, des yeux chassieux rouges et une gueule remplie de grandes dents acérées.*
 
 Les hyènes sanguinaires sont plus terrifiantes que leurs cousins de plus petite taille. Lorsqu’elles trouvent une carcasse, les hyènes sanguinaires profitent du repas facile qui leur est offert, mais elles préfèrent généralement chasser leurs proies elles-mêmes. Les meutes de hyènes sanguinaires ne s’arrêtent de bouger et de chasser que pour dormir, se reproduire ou se nourrir.

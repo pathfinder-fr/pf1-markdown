@@ -16,54 +16,9 @@ Les adhérents de la Verte religion suivent une hiérarchie stricte qui reflète
 Les membres de la Verte religion s'opposent avec férocité aux abominations vivantes ou mortes-vivantes qui n'ont aucune place dans l'ordre naturel. Connus pour leur impartialité, les acolytes de la Nature servent souvent de juges, d'ambassadeurs ou de médiateurs entre deux partis opposés.''
 
 <center>
-{| CLASS="tablo autoalt"
-|+ L'acolyte de la Nature
-|- CLASS="titre"
 
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" |  [[Acolyte de la Foi Verte#EMPATHIESAUVAGE|Empathie sauvage]],[[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +1
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Acolyte de la Foi Verte#LIENSAUVAGE|Lien sauvage]] +1
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Acolyte de la Foi Verte#HIBERNATION|Hibernation]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +2,
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [[Acolyte de la Foi Verte#DOMINATIONDELANATURE|Domination de la nature]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +2
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Acolyte de la Foi Verte#ENGAGEMENTANIMAL|Engagement animal]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +3,
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [[Acolyte de la Foi Verte#IMMUNITEAUVENIN|Immunité au venin]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +3
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [[Acolyte de la Foi Verte#FLEAUDESABOMINATIONS|Fléau des abominations]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +4,
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [[Acolyte de la Foi Verte#ARCHIDRUIDE|Archidruide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +4
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [[Acolyte de la Foi Verte#GRANDDRUIDE|Grand druide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +5, [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +5
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [[Acolyte de la Foi Verte#ETERNELLEJEUNESSE|Eternelle jeunesse]], [[Acolyte de la Foi Verte#HAUTDRUIDE|Haut-Druide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +6, [[Acolyte de la Foi Verte#LONGEVITE|longévite]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +6
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|}
+<table CLASS="tablo autoalt"><caption>L'acolyte de la Nature</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Acolyte de la Foi Verte#EMPATHIESAUVAGE|Empathie sauvage]],[[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +1</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Acolyte de la Foi Verte#LIENSAUVAGE|Lien sauvage]] +1</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Acolyte de la Foi Verte#HIBERNATION|Hibernation]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +2,</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Acolyte de la Foi Verte#DOMINATIONDELANATURE|Domination de la nature]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +2</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Acolyte de la Foi Verte#ENGAGEMENTANIMAL|Engagement animal]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +3,</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Acolyte de la Foi Verte#IMMUNITEAUVENIN|Immunité au venin]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +3</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Acolyte de la Foi Verte#FLEAUDESABOMINATIONS|Fléau des abominations]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +4,</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Acolyte de la Foi Verte#ARCHIDRUIDE|Archidruide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +4</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Acolyte de la Foi Verte#GRANDDRUIDE|Grand druide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +5, [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +5</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Acolyte de la Foi Verte#ETERNELLEJEUNESSE|Eternelle jeunesse]], [[Acolyte de la Foi Verte#HAUTDRUIDE|Haut-Druide]], [[Acolyte de la Foi Verte#LIENSAUVAGE|lien sauvage]] +6, [[Acolyte de la Foi Verte#LONGEVITE|longévite]], [[Acolyte de la Foi Verte#PACTEAVECLECOMPAGNON|pacte avec le compagnon]] +6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d8.

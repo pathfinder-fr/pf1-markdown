@@ -47,15 +47,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de taupe cérébrale
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Reine taupe cérébrale]] || 5
-|-
-| [[Taupe cérébrale]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de taupe cérébrale</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Reine taupe cérébrale]]</td><td>5</td></tr><tr><td>[[Taupe cérébrale]]</td><td>1</td></tr></table>
+
 </div>*Le corps pelé et enflé de ce rongeur à six pattes ressemble à un cerveau boursouflé.*
 
 Des tumeurs magiques dévastent parfois le corps des taupes cérébrales qui se gavent d’énergie psychique. Ces tumeurs augmentent considérablement leur intelligence et leur capacité d’incantation psychique, mais les condamnent à une mort lente. Ces taupes, appelées reines, se connectent aux cerveaux des taupes cérébrales pour former un esprit de ruche psychique. La plupart d’entre elles utilisent leurs nouveaux pouvoirs mentaux pour tenter de fournir ou transmettre un legs à leur nichée une fois leur mort venue, et leurs complots déjantés s’enfoncent toujours plus dans l’excentricité et l’agressivité au fur et à mesure que leur fin approche.

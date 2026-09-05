@@ -23,26 +23,9 @@ Ce sort rend permanent l’effet de certains autres sorts. En fonction du sort, 
 Le mage peut rendre les sorts suivants permanents pour lui-même :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Sort || NLS requis || Coût en po
-|- CLASS="premier"
-| *[[Compréhension des langages]]* || 9 || 2  500
-|- CLASS="alt"
-| *[[Détection de linvisibilité|Détection de l'invisibilité]]* || 10 || 5 000
-|-
-| *[[Détection de la magie]]* || 9 || 2 500
-|- CLASS="alt"
-| *[[Don des langues]]* || 11 || 7 500
-|-
-| *[[Lecture de la magie]]* || 9 || 2 500
-|- CLASS="alt"
-| *[[sort Vision dans le noir|Vision dans le noir]]* || 10 || 5 000
-|-
-| *[[Vision magique]]* || 11 || 7 500
-|- CLASS="alt"
-| *[[Vision des auras]]* || 11 || 7 500
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr><tr CLASS="premier"><td>*[[Compréhension des langages]]*</td><td>9</td><td>2  500</td></tr><tr CLASS="alt"><td>*[[Détection de linvisibilité|Détection de l'invisibilité]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Détection de la magie]]*</td><td>9</td><td>2 500</td></tr><tr CLASS="alt"><td>*[[Don des langues]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Lecture de la magie]]*</td><td>9</td><td>2 500</td></tr><tr CLASS="alt"><td>*[[sort Vision dans le noir|Vision dans le noir]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Vision magique]]*</td><td>11</td><td>7 500</td></tr><tr CLASS="alt"><td>*[[Vision des auras]]*</td><td>11</td><td>7 500</td></tr></table>
+
 </center>
 
 On ne peut pas rendre ces sorts permanents pour d’autres créatures. Seul un lanceur de sorts d’un niveau supérieur à celui qu’avait le mage lorsqu’il a jeté *permanence* peut dissiper un sort rendu permanent de cette façon.
@@ -50,24 +33,9 @@ On ne peut pas rendre ces sorts permanents pour d’autres créatures. Seul un l
 *Permanence* peut également servir à rendre les sorts suivants permanents pour le lanceur de sorts, pour une autre créature ou pour un objet (selon les cas) :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Sort || NLS requis || Coût en po
-|- CLASS="premier"
-| *[[Agrandissement]]* || 9 || 2 500
-|- CLASS="alt"
-| *[[Animal anthropomorphe]]* || 11 || 7 500
-|-
-| *[[Lien télépathique]]** || 13 || 12 500
-|- CLASS="alt"
-| *[[Morsure magique]]* || 9 || 2 500
-|-
-| *[[Morsure magique suprême]]* || 11 || 7 500
-|- CLASS="alt"
-| *[[Rapetissement]]* || 9 || 2 500
-|-
-| *[[sort Résistance|Résistance]]* || 9 || 2 500
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr><tr CLASS="premier"><td>*[[Agrandissement]]*</td><td>9</td><td>2 500</td></tr><tr CLASS="alt"><td>*[[Animal anthropomorphe]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Lien télépathique]]**</td><td>13</td><td>12 500</td></tr><tr CLASS="alt"><td>*[[Morsure magique]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[Morsure magique suprême]]*</td><td>11</td><td>7 500</td></tr><tr CLASS="alt"><td>*[[Rapetissement]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[sort Résistance|Résistance]]*</td><td>9</td><td>2 500</td></tr></table>
+
 
 *(*) Lie deux créatures seulement par sort de permanence.*
 </center>
@@ -75,82 +43,9 @@ On ne peut pas rendre ces sorts permanents pour d’autres créatures. Seul un l
 Enfin, les sorts suivants peuvent aussi être rendus permanents, mais seulement sur des objets ou des zones :
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Sort || NLS requis || Coût en po
-|- CLASS="premier"
-| *[[Alarme]]* || 9 || 2 500
-|-
-| *[[Alarme dinvisibilité|Alarme d'invisibilité]]* (MCA) || 9 || 2 500
-|-
-| *[[Animation dobjets|Animation d'objets]]* || 14 || 15 000
-|-
-| *[[Bouche magique]]* || 10 || 5 000
-|-
-| *[[Bourrasque]]* || 11 || 7 500
-|-
-| *[[Brouillard dense]]* || 12 || 10 000
-|-
-| *[[Cercle de téléportation]]* || 17 || 22 500
-|-
-| *[[Invisibilité]]* || 10 || 5 000
-|-
-| *[[Lanterne dansante]]* || 9 || 2 500
-|-
-| *[[Lumières dansantes]]* || 9 || 2 500
-|-
-| *[[Mur de feu]]* || 12 || 10 000
-|-
-| *[[Mur de force]]* || 13 || 12 500
-|-
-| *[[Mur prismatique]]* || 16 || 20 000
-|-
-| *[[Nuage nauséabond]]* || 11 || 7 500
-|-
-| *[[Piège de téléportation]]* || ? || 7 000
-|-
-| *[[Porte de phase]]* || 15 || 17 500
-|-
-| *[[Réduction dobjet|Réduction d'objet]]* || 11 || 7 500
-|-
-| *[[Sanctuaire secret]]* || 13 || 12 500
-|-
-| *[[Son imaginaire]]* || 9 || 2 500
-|-
-| *[[Sphère prismatique]]* || 17 || 22 500
-|-
-| *[[Symbole daliénation mentale|Symbole d'aliénation mentale]]* || 16 || 20 000
-|-
-| *[[Symbole détourdissement|Symbole d'étourdissement]]* || 15 || 17 500
-|-
-| *[[Symbole de douleur]]* || 13 || 12 500
-|-
-| *[[Symbole de faiblesse]]* || 15 || 17 500
-|-
-| *[[Symbole de fou-rire]]* || 12 || 10 000
-|-
-| *[[Symbole de guérison]]* || 10 || 10 000
-|-
-| *[[Symbole de miroir]]* || 10 || 5 000
-|-
-| *[[Symbole de mort]]* || 16 || 20 000
-|-
-| *[[Symbole de persuasion]]* || 14 || 15 000
-|-
-| *[[Symbole de révélation]]* || 12 || 10 000
-|-
-| *[[Symbole de scrutation]]* || 13 || 10 000
-|-
-| *[[Symbole de sommeil]]* || 16 || 20 000
-|-
-| *[[Symbole de terreur]]* || 14 || 15 000
-|-
-| *[[Symbole de vulnérabilité]]* || 18 || 25 000
-|-
-| *[[Symbole fatal]]* || 13 || 10 000
-|-
-| *[[Toile daraignée|Toile d'araignée]]* || 10 || 5 000
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Sort</td><td>NLS requis</td><td>Coût en po</td></tr><tr CLASS="premier"><td>*[[Alarme]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[Alarme dinvisibilité|Alarme d'invisibilité]]* (MCA)</td><td>9</td><td>2 500</td></tr><tr><td>*[[Animation dobjets|Animation d'objets]]*</td><td>14</td><td>15 000</td></tr><tr><td>*[[Bouche magique]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Bourrasque]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Brouillard dense]]*</td><td>12</td><td>10 000</td></tr><tr><td>*[[Cercle de téléportation]]*</td><td>17</td><td>22 500</td></tr><tr><td>*[[Invisibilité]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Lanterne dansante]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[Lumières dansantes]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[Mur de feu]]*</td><td>12</td><td>10 000</td></tr><tr><td>*[[Mur de force]]*</td><td>13</td><td>12 500</td></tr><tr><td>*[[Mur prismatique]]*</td><td>16</td><td>20 000</td></tr><tr><td>*[[Nuage nauséabond]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Piège de téléportation]]*</td><td>?</td><td>7 000</td></tr><tr><td>*[[Porte de phase]]*</td><td>15</td><td>17 500</td></tr><tr><td>*[[Réduction dobjet|Réduction d'objet]]*</td><td>11</td><td>7 500</td></tr><tr><td>*[[Sanctuaire secret]]*</td><td>13</td><td>12 500</td></tr><tr><td>*[[Son imaginaire]]*</td><td>9</td><td>2 500</td></tr><tr><td>*[[Sphère prismatique]]*</td><td>17</td><td>22 500</td></tr><tr><td>*[[Symbole daliénation mentale|Symbole d'aliénation mentale]]*</td><td>16</td><td>20 000</td></tr><tr><td>*[[Symbole détourdissement|Symbole d'étourdissement]]*</td><td>15</td><td>17 500</td></tr><tr><td>*[[Symbole de douleur]]*</td><td>13</td><td>12 500</td></tr><tr><td>*[[Symbole de faiblesse]]*</td><td>15</td><td>17 500</td></tr><tr><td>*[[Symbole de fou-rire]]*</td><td>12</td><td>10 000</td></tr><tr><td>*[[Symbole de guérison]]*</td><td>10</td><td>10 000</td></tr><tr><td>*[[Symbole de miroir]]*</td><td>10</td><td>5 000</td></tr><tr><td>*[[Symbole de mort]]*</td><td>16</td><td>20 000</td></tr><tr><td>*[[Symbole de persuasion]]*</td><td>14</td><td>15 000</td></tr><tr><td>*[[Symbole de révélation]]*</td><td>12</td><td>10 000</td></tr><tr><td>*[[Symbole de scrutation]]*</td><td>13</td><td>10 000</td></tr><tr><td>*[[Symbole de sommeil]]*</td><td>16</td><td>20 000</td></tr><tr><td>*[[Symbole de terreur]]*</td><td>14</td><td>15 000</td></tr><tr><td>*[[Symbole de vulnérabilité]]*</td><td>18</td><td>25 000</td></tr><tr><td>*[[Symbole fatal]]*</td><td>13</td><td>10 000</td></tr><tr><td>*[[Toile daraignée|Toile d'araignée]]*</td><td>10</td><td>5 000</td></tr></table>
+
 </center>
 
 Un sort rendu permanent pour une autre créature, un objet ou une zone (mais pas pour le mage) se dissipe normalement. Le [[MJ]] peut autoriser les personnages à associer *permanence* à d’autres sorts.

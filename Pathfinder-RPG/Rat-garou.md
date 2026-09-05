@@ -72,27 +72,9 @@ Categories:
 {s:BDTexte|**Maladie (Ext)** *fièvre des marais* : morsure - blessure ; *JS* [[Vigueur]] [[DD]] 14 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [[affaiblissement temporaire]] 1d3 [[Dextérité|Dex]] et 1d3 [[Constitution|Con]] ; *guérison* 2 réussites consécutives. le [[DD]] dépend de la [[Constitution]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de lycanthrope
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chauve-souris garou]] || 3
-|-
-| [[Crocodile garou]] || 3
-|-
-| [[Loup-garou]] || 2
-|-
-| [[Ours-garou]] || 4
-|-
-| [[Rat-garou]] || 2
-|-
-| [[Requin garou]] || 3
-|-
-| [[Sanglier-garou]] || 2
-|-
-| [[Tigre-garou]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de lycanthrope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris garou]]</td><td>3</td></tr><tr><td>[[Crocodile garou]]</td><td>3</td></tr><tr><td>[[Loup-garou]]</td><td>2</td></tr><tr><td>[[Ours-garou]]</td><td>4</td></tr><tr><td>[[Rat-garou]]</td><td>2</td></tr><tr><td>[[Requin garou]]</td><td>3</td></tr><tr><td>[[Sanglier-garou]]</td><td>2</td></tr><tr><td>[[Tigre-garou]]</td><td>4</td></tr></table>
+
 </div>
 <ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>''Cet humanoïde voûté en armure de cuir clouté a le corps couvert de
 fourrure, un visage de rat et une longue queue sans poils.''

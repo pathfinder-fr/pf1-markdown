@@ -12,42 +12,9 @@ Categories:
 Cette prise de conscience et le schisme qui l'a suivi ont séparé le groupe en deux factions. Les Fidèles croient devoir à tout prix maintenir leur confiance sacrée, peu importe qui l’a décrété. Les Scions, quant à eux, affirment que les promesses faites à leurs maîtres partis il y a longtemps de cela ne se doivent plus d’être tenues. Pendant ce temps, une troisième faction marginale de la fratrie s’est formée, pour ceux qui cherchent à réunir à nouveau leurs frères.''
 
 <center>
-{| CLASS="tablo autoalt"
-|+ Le frère du Sceau
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +1 || +1
-| CLASS="gauche" | [[Frère du Sceau#COMBATAMAINSNUES|Combat à mains nues]], [[Frère du Sceau#LEAUSEPARANTLAPIERRE|l'eau séparant la pierre]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Frère du Sceau#GARDIENDELAPORTE|Gardien de la Porte]], [[Frère du Sceau#RECHERCHEDEPIEGES|recherche de pièges]]
-|-
-| 3 || +2 || +2 || +2 || +2
-| CLASS="gauche" | [[Frère du Sceau#RECHERCHEDERUNES|Recherche de runes]]
-|-
-| 4 || +3 || +2 || +2 || +2
-| CLASS="gauche" | [[Frère du Sceau#COUPFABULEUX|Coup fabuleux]]
-|-
-| 5 || +3 || +3 || +3 || +3
-| CLASS="gauche" | [[Frère du Sceau#RUPTUREDUSCEAU|Rupture du sceau]]
-|-
-| 6 || +4 || +3 || +3 || +3
-| CLASS="gauche" | [[Frère du Sceau#EFFETDOMINO|Effet domino]]
-|-
-| 7 || +5 || +4 || +4 || +4
-| CLASS="gauche" | [[Frère du Sceau#MAINSDEPIERRE|Mains de pierre]]
-|-
-| 8 || +6 || +4 || +4 || +4
-| CLASS="gauche" | [[Frère du Sceau#COUPRAPIDE|Coup rapide]]
-|-
-| 9 || +6 || +5 || +5 || +5
-| CLASS="gauche" | [[Frère du Sceau#COUPENCASCADE|Coup en cascade]]
-|-
-| 10 || +7 || +5 || +5 || +5
-| CLASS="gauche" | [[Frère du Sceau#DESTRUCTIONMAGIQUE|Destruction magique]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Le frère du Sceau</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Frère du Sceau#COMBATAMAINSNUES|Combat à mains nues]], [[Frère du Sceau#LEAUSEPARANTLAPIERRE|l'eau séparant la pierre]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Frère du Sceau#GARDIENDELAPORTE|Gardien de la Porte]], [[Frère du Sceau#RECHERCHEDEPIEGES|recherche de pièges]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Frère du Sceau#RECHERCHEDERUNES|Recherche de runes]]</td></tr><tr><td>4</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Frère du Sceau#COUPFABULEUX|Coup fabuleux]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Frère du Sceau#RUPTUREDUSCEAU|Rupture du sceau]]</td></tr><tr><td>6</td><td>+4</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Frère du Sceau#EFFETDOMINO|Effet domino]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Frère du Sceau#MAINSDEPIERRE|Mains de pierre]]</td></tr><tr><td>8</td><td>+6</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Frère du Sceau#COUPRAPIDE|Coup rapide]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Frère du Sceau#COUPENCASCADE|Coup en cascade]]</td></tr><tr><td>10</td><td>+7</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Frère du Sceau#DESTRUCTIONMAGIQUE|Destruction magique]]</td></tr></table>
+
 </center>
 
 **Dés de vie.** d8

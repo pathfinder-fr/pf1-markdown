@@ -34,19 +34,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'ours
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grizzly]] || 4
-|-
-| [[Ours sanguinaire]] || 7
-|-
-| [[Ours polaire]] || 5
-|-
-| [[Ours polaire sanguinaire]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'ours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grizzly]]</td><td>4</td></tr><tr><td>[[Ours sanguinaire]]</td><td>7</td></tr><tr><td>[[Ours polaire]]</td><td>5</td></tr><tr><td>[[Ours polaire sanguinaire]]</td><td>8</td></tr></table>
+
 </div>*Ce gros ours est entièrement blanc, à l’exception de ses petits yeux noirs et de ses sombres babines retroussées sur d’énormes crocs luisants.*
 
 Les ours polaires nagent le long des régions littorales froides et parcourent les plaines glacées en quête de proies, le plus souvent des phoques qu’ils attrapent au travers de trous creusés dans la glace. La graisse d’un ours polaire lui permet de rester à flot et son long cou de garder sa tête au-dessus de la surface. Ses pattes démesurées dotées d’orteils palmés lui permettent de se mouvoir sans ciller dans les eaux des mers glacées et un ours polaire peut nager sur plus de 150 kilomètres en un seul jour.

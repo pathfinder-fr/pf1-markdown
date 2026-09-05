@@ -32,23 +32,9 @@ Categories:
 {s:Reference|VISIONMALGRELAFUMEE}{s:BDTexte|**Vision malgré la fumée (Ext).** Un très jeune dragon rouge peut voir parfaitement dans un environnement enfumé (comme ceux créés par un sort de *[[pyrotechnie]]*).}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon rouge
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon rouge]] || &nbsp; || 10
-|-
-| [[Dragon rouge adulte]] || &nbsp; || 14
-|-
-| [[Dragon rouge vénérable]] || &nbsp; || 19
-|-
-| **Membres mythiques** || **FP** || **RMY**
-|- CLASS="premier"
-| [[Dracosire rouge mythique]] || 25 || 10
-|-
-| [[Jeune dragon rouge mythique]] || 12 || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon rouge</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon rouge]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon rouge adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon rouge vénérable]]</td><td>&nbsp;</td><td>19</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dracosire rouge mythique]]</td><td>25</td><td>10</td></tr><tr><td>[[Jeune dragon rouge mythique]]</td><td>12</td><td>5</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li>*Une couronne de cornes cruelles ceint la tête de ce puissant dragon dont le long corps est couvert d’écailles épaisses, couleur de lave.*
 
 Rares sont les créatures aussi cruelles et terrifiantes que les
@@ -57,35 +43,9 @@ chromatiques sèment la destruction et la mort dans les contrées
 que balaie leur ombre.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || sous-type du [[sous-type Feu|Feu]] || —
-|- CLASS="alt"
-| Très jeune || vision malgré la fumée || —
-|-
-| Jeune || *[[détection de la magie]]* || 1
-|- CLASS="alt"
-| Adolescent || [[présence terrifiante]], *[[pyrotechnie]]* || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || aura de feu, *[[suggestion]]* || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || manipulation des flammes, *[[mur de feu]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || fusion de la pierre, *[[orientation]]* || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || incinération, *[[localisation suprême]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>sous-type du [[sous-type Feu|Feu]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>vision malgré la fumée</td><td>—</td></tr><tr><td>Jeune</td><td>*[[détection de la magie]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>[[présence terrifiante]], *[[pyrotechnie]]*</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>aura de feu, *[[suggestion]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>manipulation des flammes, *[[mur de feu]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>fusion de la pierre, *[[orientation]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>incinération, *[[localisation suprême]]*</td><td>19</td></tr></table>
+
 </center>
 </div>
 

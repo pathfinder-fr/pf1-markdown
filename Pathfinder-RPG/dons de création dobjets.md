@@ -57,46 +57,7 @@ Pour ce calcul, les sorts du niveau 0 comptent comme des sorts de niveau 1/2.
 **Test de compétence.** Pour créer un objet magique, il faut réussir un test d’[[Art de la magie]] [[DD]] 5 + [[NLS|niveau de lanceur de sorts]] de l’objet. Le personnage peut également utiliser une compétence d’[[Artisanat]] ou de [[Profession]] adaptée à l’objet qu’il fabrique. Consultez la section sur la [[Création dobjets magiques|Création d'objets magiques]] pour plus de détails sur les tests d’[[Artisanat]] et de [[Profession]] qui peuvent remplacer le test d’[[Art de la magie]]. Le [[DD]] du test peut augmenter si l’artisan est pressé ou s’il ne remplit pas toutes les conditions. En cas d’échec, les composantes matérielles sont perdues, mais si le personnage échoue de cinq ou plus, il produit un [[objets maudits|objet maudit]].
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau récapitulatif des dons de création d'objets
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="27%" | Conditions
-| WIDTH="40%" | Avantages
 
-|- CLASS="premier donprincipal"
-| [[Création danneaux magiques|Création d'anneaux magiques]] || <sup>MJ</sup> || [[NLS]] 7 || Création d’anneaux magiques
+<table CLASS="tablo toutgauche"><caption>Tableau récapitulatif des dons de création d'objets</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Création danneaux magiques|Création d'anneaux magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 7</td><td>Création d’anneaux magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création darmes et armures magiques|Création d'armes et armures magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 5</td><td>Création d’armures, de boucliers et d’armes magiques</td></tr><tr CLASS="donprérequis0"><td>&emsp;[[Création de créatures artificielles]]</td><td><sup>B1</sup></td><td>[[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td>Création de créatures artificielles</td></tr><tr CLASS="premier donprincipal"><td>[[Création de baguettes magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 5</td><td>Création de baguettes magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création de bâtons magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 11</td><td>Création de bâtons magiques</td></tr><tr CLASS="premier donprincipal"><td>[[Création de créatures artificielles]]</td><td><sup>B1</sup></td><td>[[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td>Création de créatures artificielles</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création de sceptres magiques]]</td><td><sup>MJ</sup></td><td>[[NLS]] 9</td><td>Création de sceptres magiques</td></tr><tr CLASS="premier donprincipal"><td>[[Création de tatouages magiques]]</td><td><sup>MMI</sup></td><td>5 rangs en [[Artisanat]] (calligraphie, peinture, ou tatouage), [[NLS]] 5</td><td>Le personnage sait créer des tatouages magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td><sup>MJ</sup></td><td>[[NLS]] 3</td><td>Création d’objets magiques merveilleux</td></tr><tr CLASS="donprérequis0"><td>&emsp;[[Création de créatures artificielles]]</td><td><sup>B1</sup></td><td>[[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]]</td><td>Création de créatures artificielles</td></tr><tr CLASS="premier donprincipal"><td>[[Écriture de parchemins]]</td><td><sup>MJ</sup></td><td>[[NLS]] 1</td><td>Création de parchemins magiques</td></tr><tr CLASS="premier alt donprincipal"><td>[[Préparation de potions]]</td><td><sup>MJ</sup></td><td>[[NLS]] 3</td><td>Création de potions magiques</td></tr></table>
 
-|- CLASS="premier alt donprincipal"
-| [[Création darmes et armures magiques|Création d'armes et armures magiques]] || <sup>MJ</sup> || [[NLS]] 5 || Création d’armures, de boucliers et d’armes magiques
-|- CLASS="donprérequis0"
-| &emsp;[[Création de créatures artificielles]] || <sup>B1</sup> || [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]] || Création de créatures artificielles
-
-|- CLASS="premier donprincipal"
-| [[Création de baguettes magiques]] || <sup>MJ</sup> || [[NLS]] 5 || Création de baguettes magiques
-
-|- CLASS="premier alt donprincipal"
-| [[Création de bâtons magiques]] || <sup>MJ</sup> || [[NLS]] 11 || Création de bâtons magiques
-
-|- CLASS="premier donprincipal"
-| [[Création de créatures artificielles]] || <sup>B1</sup> || [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]] || Création de créatures artificielles
-
-|- CLASS="premier alt donprincipal"
-| [[Création de sceptres magiques]] || <sup>MJ</sup> || [[NLS]] 9 || Création de sceptres magiques
-
-|- CLASS="premier donprincipal"
-| [[Création de tatouages magiques]] || <sup>MMI</sup> || 5 rangs en [[Artisanat]] (calligraphie, peinture, ou tatouage), [[NLS]] 5 || Le personnage sait créer des tatouages magiques
-
-|- CLASS="premier alt donprincipal"
-| [[Création dobjets merveilleux|Création d'objets merveilleux]] || <sup>MJ</sup> || [[NLS]] 3 || Création d’objets magiques merveilleux
-|- CLASS="donprérequis0"
-| &emsp;[[Création de créatures artificielles]] || <sup>B1</sup> || [[NLS]] 5, [[Création darmes et armures magiques|Création d'armes et armures magiques]], [[Création dobjets merveilleux|Création d'objets merveilleux]] || Création de créatures artificielles
-
-|- CLASS="premier donprincipal"
-| [[Écriture de parchemins]] || <sup>MJ</sup> || [[NLS]] 1 || Création de parchemins magiques
-
-|- CLASS="premier alt donprincipal"
-| [[Préparation de potions]] || <sup>MJ</sup> || [[NLS]] 3 || Création de potions magiques
-|}
 </center>

@@ -245,44 +245,18 @@ Archétypes :
 
 Dons Dhampirs créés(Legoian) **A vérifier**
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau des dons raciaux
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="titre lignesup"
-| Dhampir:
-|- CLASS="premier"
-| [[Buveur de sang]] || <sup>MR</sup> || [[Dhampir]] || La consommation du sang d'un type humanoïde revigore le dhampir
-|-
-| &emsp;[[Festin sanglant]] || <sup>MR</sup> || [[Buveur de sang]], [[BBA]]+6 || La consommation de sang accorde une force surhumaine au dhampir
-|-
-| &emsp;[[Goûts variés]] || <sup>MR</sup> || [[Buveur de sang]] || Le dhampir développe un goût pour le sang d'un type supplémentaire d'humanoïde
-|-
-| &emsp;[[Récupération de sang]] || <sup>MR</sup> || [[Buveur de sang]] || Le dhampir peut boire le sang d'un mort récent
-|- CLASS="premier"
-| [[Charmeur-né]] || <sup>MR</sup> || [[Charisme|Cha]] 17, [[dhampir]] || Faire 20 sur les tests basés sur le Charisme contre les humanoïdes
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau des dons raciaux</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="titre lignesup"><td>Dhampir:</td></tr><tr CLASS="premier"><td>[[Buveur de sang]]</td><td><sup>MR</sup></td><td>[[Dhampir]]</td><td>La consommation du sang d'un type humanoïde revigore le dhampir</td></tr><tr><td>&emsp;[[Festin sanglant]]</td><td><sup>MR</sup></td><td>[[Buveur de sang]], [[BBA]]+6</td><td>La consommation de sang accorde une force surhumaine au dhampir</td></tr><tr><td>&emsp;[[Goûts variés]]</td><td><sup>MR</sup></td><td>[[Buveur de sang]]</td><td>Le dhampir développe un goût pour le sang d'un type supplémentaire d'humanoïde</td></tr><tr><td>&emsp;[[Récupération de sang]]</td><td><sup>MR</sup></td><td>[[Buveur de sang]]</td><td>Le dhampir peut boire le sang d'un mort récent</td></tr><tr CLASS="premier"><td>[[Charmeur-né]]</td><td><sup>MR</sup></td><td>[[Charisme|Cha]] 17, [[dhampir]]</td><td>Faire 20 sur les tests basés sur le Charisme contre les humanoïdes</td></tr></table>
+
 </center>
 
 Equipements Dhampirs ajoutés au [[équipements raciaux#DHAMPIR|équipements raciaux]](Legoian) **A vérifier**
 
 Objets magiques Dhampirs créés(Legoian) **A vérifier (et à ajouter à la liste des objets magiques?)**
-{| CLASS="tablo"
-|+ Objets magiques Dhampirs
-|- CLASS="titre"
-| Objet || Prix de  
-vente
-|- CLASS="premier"
-| *[[Amulette de vie canalisée]]* || 12 000 po
-|- CLASS="premier"
-| *[[Lentilles de ténèbres]]* || 12 000 po
-|- CLASS="premier"
-| *[[Symbole de commandement maudit]]* || 8 000 po
-|}
+
+<table CLASS="tablo"><caption>Objets magiques Dhampirs</caption><tr CLASS="titre"><td>Objet</td><td>Prix de  
+vente</td></tr><tr CLASS="premier"><td>*[[Amulette de vie canalisée]]*</td><td>12 000 po</td></tr><tr CLASS="premier"><td>*[[Lentilles de ténèbres]]*</td><td>12 000 po</td></tr><tr CLASS="premier"><td>*[[Symbole de commandement maudit]]*</td><td>8 000 po</td></tr></table>
+
 
 Sorts Dhampirs créés et ajoutés aux listes de sorts avec la mention (MR-Dhampir) (Legoian) **A vérifier**
 - [[Canalisation de vie]]
@@ -302,36 +276,10 @@ Archétypes :
 
 Dons Drow créés(Legoian) **A vérifier**
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau des dons raciaux
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="titre lignesup"
-| Drow:
-|- CLASS="premier"
-| [[Démarche de laraignée (drow)|Démarche de l’araignée  
-(drow)]] || <sup>MR</sup> || [[Drow]], Niv 3 || pouvoir magique [[pattes daraignée|pattes d’araignée]] une fois par jour
-|- CLASS="premier"
-| [[Invocateur daraignées|Invocateur d’araignées]] || <sup>MR</sup> || [[Drow]], capacité de lancer les sorts *[[convocation de monstres]]* ou *[[convocation dalliés naturels|convocation d’alliés naturels]]* || convocation renforcée d'araignées
-|- CLASS="premier"
-| [[Mage ténébreux]] || <sup>MR</sup> || [[Drow]], [[NLS]] 1 || +2 NLS sur les sorts d'ombre et de ténèbres
-|- CLASS="premier"
-| [[Noblesse drow]] || <sup>MR</sup> || [[Drow]], capacité à utiliser les pouvoirs magiques || *[[détection de la magie]]* à volonté, *[[feuille morte]]* et *[[lévitation]]* une fois par jour
-|-
-| &emsp;[[Science de la noblesse drow]] || <sup>MR</sup> ||  [[Noblesse drow]], [[Charisme|Cha]] 13 || *[[lumières dansantes]]*, *[[lueur féerique]]*, *[[feuille morte]]* et *[[lévitation]]* deux fois par jour, renforcement *[[ténèbres profondes]]*
-|-
-| &emsp;&emsp;[[Noblesse drow supérieure]] || <sup>MR</sup> || [[Science de la noblesse drow]] || pouvoirs magiques hors *[[ténèbres profondes]]* à volonté
-|-
-| &emsp;&emsp;&emsp;[[Fils de lombre|Fils de l’ombre]] || <sup>MR</sup> || [[Noblesse drow supérieure]], [[Sagesse|Sag]] 13 || *[[dissipation de la magie]]*, *[[faveur divine]]* ou *[[suggestion]]* une fois par jour
-|-
-| &emsp;&emsp;&emsp;&emsp;[[Fils de lombre supérieur|Fils de l’ombre supérieur]] || <sup>MR</sup> || [[Fils de lombre|Fils de l’ombre]], [[Sagesse|Sag]] 13 || *[[dissipation de la magie]]*, *[[faveur divine]]* et *[[suggestion]]* une fois par jour
-|-
-| &emsp;&emsp;&emsp;[[Noble résistance à la magie]] || <sup>MR</sup> || [[Noblesse drow supérieure]], [[Sagesse|Sag]] 13, Niv 13 || résistance à la magie égale à 11 + niveau
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau des dons raciaux</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="titre lignesup"><td>Drow:</td></tr><tr CLASS="premier"><td>[[Démarche de laraignée (drow)|Démarche de l’araignée  
+(drow)]]</td><td><sup>MR</sup></td><td>[[Drow]], Niv 3</td><td>pouvoir magique [[pattes daraignée|pattes d’araignée]] une fois par jour</td></tr><tr CLASS="premier"><td>[[Invocateur daraignées|Invocateur d’araignées]]</td><td><sup>MR</sup></td><td>[[Drow]], capacité de lancer les sorts *[[convocation de monstres]]* ou *[[convocation dalliés naturels|convocation d’alliés naturels]]*</td><td>convocation renforcée d'araignées</td></tr><tr CLASS="premier"><td>[[Mage ténébreux]]</td><td><sup>MR</sup></td><td>[[Drow]], [[NLS]] 1</td><td>+2 NLS sur les sorts d'ombre et de ténèbres</td></tr><tr CLASS="premier"><td>[[Noblesse drow]]</td><td><sup>MR</sup></td><td>[[Drow]], capacité à utiliser les pouvoirs magiques</td><td>*[[détection de la magie]]* à volonté, *[[feuille morte]]* et *[[lévitation]]* une fois par jour</td></tr><tr><td>&emsp;[[Science de la noblesse drow]]</td><td><sup>MR</sup></td><td>[[Noblesse drow]], [[Charisme|Cha]] 13</td><td>*[[lumières dansantes]]*, *[[lueur féerique]]*, *[[feuille morte]]* et *[[lévitation]]* deux fois par jour, renforcement *[[ténèbres profondes]]*</td></tr><tr><td>&emsp;&emsp;[[Noblesse drow supérieure]]</td><td><sup>MR</sup></td><td>[[Science de la noblesse drow]]</td><td>pouvoirs magiques hors *[[ténèbres profondes]]* à volonté</td></tr><tr><td>&emsp;&emsp;&emsp;[[Fils de lombre|Fils de l’ombre]]</td><td><sup>MR</sup></td><td>[[Noblesse drow supérieure]], [[Sagesse|Sag]] 13</td><td>*[[dissipation de la magie]]*, *[[faveur divine]]* ou *[[suggestion]]* une fois par jour</td></tr><tr><td>&emsp;&emsp;&emsp;&emsp;[[Fils de lombre supérieur|Fils de l’ombre supérieur]]</td><td><sup>MR</sup></td><td>[[Fils de lombre|Fils de l’ombre]], [[Sagesse|Sag]] 13</td><td>*[[dissipation de la magie]]*, *[[faveur divine]]* et *[[suggestion]]* une fois par jour</td></tr><tr><td>&emsp;&emsp;&emsp;[[Noble résistance à la magie]]</td><td><sup>MR</sup></td><td>[[Noblesse drow supérieure]], [[Sagesse|Sag]] 13, Niv 13</td><td>résistance à la magie égale à 11 + niveau</td></tr></table>
+
 </center>
 
 Le don Démarche de l'araignée existe déjà dans APG, j'ai donc ajouté "(drow)" à la fin de celui-ci (Legoian)
@@ -339,18 +287,10 @@ Le don Démarche de l'araignée existe déjà dans APG, j'ai donc ajouté "(drow
 Equipements drow ajoutés au [[équipements raciaux#DROW|équipements raciaux]](Legoian) **A vérifier**
 
 Objets magiques Drows créés(Legoian) **A vérifier (et à ajouter à la liste des objets magiques?)**
-{| CLASS="tablo"
-|+ Objets magiques Drows
-|- CLASS="titre"
-| Objet || Prix de  
-vente
-|- CLASS="premier"
-| *[[Lame de ténèbres]]* || 8 810 po
-|- CLASS="premier"
-| *[[Sceptre dombres|Sceptre d’ombres]]* || 64 305 po
-|- CLASS="premier"
-| *[[Vêtements vivants]]* || 5 000 po
-|}
+
+<table CLASS="tablo"><caption>Objets magiques Drows</caption><tr CLASS="titre"><td>Objet</td><td>Prix de  
+vente</td></tr><tr CLASS="premier"><td>*[[Lame de ténèbres]]*</td><td>8 810 po</td></tr><tr CLASS="premier"><td>*[[Sceptre dombres|Sceptre d’ombres]]*</td><td>64 305 po</td></tr><tr CLASS="premier"><td>*[[Vêtements vivants]]*</td><td>5 000 po</td></tr></table>
+
 
 Sorts Drows créés et ajoutés aux listes de sorts avec la mention (MR-Drow) (Legoian) **A vérifier**
 - [[Nuage de toile]]
@@ -369,44 +309,16 @@ Archétypes :
 
 dons des Fetchelins créés par Rectulo à relire
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau des dons raciaux
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="titre lignesup"
-| Fetchelin :
-|- CLASS="premier"
-| [[Arpenteur des ombres]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres || Le personnage peut utiliser *[[porte dimensionnelle]]* comme pouvoir magique
-|- CLASS="premier"
-| [[Fantôme dombre|Fantôme d’ombre]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres || Le personnage dispose d'une utilisation par jour de plus son pouvoir traversée des ombres
-|- CLASS="premier"
-| [[Frappe obscure]]* || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Combat en aveugle]] || +1 au jet d'attaque dans les endroits sombres
-|- CLASS="premier"
-| [[Vision obscure]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]] || Vision dans le noir à 27 m (18 {s:c})
-|-
-| &emsp;[[Vision ténébreuse]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Vision obscure]] || Les personnages a une vision limitée dans les ténèbres magiques
-|-
-| &emsp;&emsp;[[Vision ténébreuse supérieure]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Vision obscure]], [[Vision ténébreuse]] || le personnage gagne la capacité de [[vision dans les ténèbres]]
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau des dons raciaux</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="titre lignesup"><td>Fetchelin :</td></tr><tr CLASS="premier"><td>[[Arpenteur des ombres]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres</td><td>Le personnage peut utiliser *[[porte dimensionnelle]]* comme pouvoir magique</td></tr><tr CLASS="premier"><td>[[Fantôme dombre|Fantôme d’ombre]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres</td><td>Le personnage dispose d'une utilisation par jour de plus son pouvoir traversée des ombres</td></tr><tr CLASS="premier"><td>[[Frappe obscure]]*</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], [[Combat en aveugle]]</td><td>+1 au jet d'attaque dans les endroits sombres</td></tr><tr CLASS="premier"><td>[[Vision obscure]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]]</td><td>Vision dans le noir à 27 m (18 {s:c})</td></tr><tr><td>&emsp;[[Vision ténébreuse]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], [[Vision obscure]]</td><td>Les personnages a une vision limitée dans les ténèbres magiques</td></tr><tr><td>&emsp;&emsp;[[Vision ténébreuse supérieure]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], [[Vision obscure]], [[Vision ténébreuse]]</td><td>le personnage gagne la capacité de [[vision dans les ténèbres]]</td></tr></table>
+
 </center>
 
 Objets magiques Fetchelins créés et mis en forme (rectulo)
-{| CLASS="tablo"
-|+ Objets magiques Fetchelins
-|- CLASS="titre"
-| Objet || Prix de  
-vente
-|- CLASS="premier"
-| *[[Amulette de lumière cachée]]* || 9 000 po
-|- CLASS="premier"
-| *[[Fenêtre vacillante]]* || 20 000 po
-|- CLASS="premier"
-| *[[Lanterne dombres dansantes|Lanterne d’ombres dansantes]]* || 41 000 po
-|}
+
+<table CLASS="tablo"><caption>Objets magiques Fetchelins</caption><tr CLASS="titre"><td>Objet</td><td>Prix de  
+vente</td></tr><tr CLASS="premier"><td>*[[Amulette de lumière cachée]]*</td><td>9 000 po</td></tr><tr CLASS="premier"><td>*[[Fenêtre vacillante]]*</td><td>20 000 po</td></tr><tr CLASS="premier"><td>*[[Lanterne dombres dansantes|Lanterne d’ombres dansantes]]*</td><td>41 000 po</td></tr></table>
+
 
 Sorts fetchelin créés (rectulo) **A lier**
 - [[Éclairs dobscurité aveuglante|Éclairs d’obscurité aveuglante]]
@@ -429,43 +341,17 @@ archétypes des hommes-félins
 - [[Gardien agile (moine)]]
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau des dons raciaux
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="titre lignesup"
-| Hommes-félins :
-|- CLASS="premier"
-| [[Bond griffu]]* || <sup>UM</sup> || [[homme-félin]], [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Frappe leste]], [[BBA]]+10, trait racial griffes du félin ou [[Aspect bestial]] (manifestation griffes bestiales) || Le personnage peut faire une attaque à outrance après une charge
-|-
-| [[Chat noir]] || <sup>UM</sup> || [[homme-félin (race)|homme-félin]] || Une fois par jour, forcer un adversaire à refaire son jet d'attaque avec un malus de -4
-|-
-| [[Frappe leste]]* || <sup>UM</sup> || [[homme-félin (race)|homme-félin]], [[Dextérité|Dex]] 13, [[BBA]]+1, trait racial sprinter || supprime les malus à la CA avec [[Enchaînement]], [[Fente]] et pendant une [[charge]]
-|-
-| [[Grâce du chat]] || <sup>UM</sup> || [[homme-félin (race)|homme-félin]], [[Dextérité|Dex]] 13 || bonus de +2 au DMD contre certaines manoeuvres offensives
-|-
-| [[Homme-félin modèle]] || <sup>UM</sup> || [[homme-félin (race)|homme-félin]] || La nature féline du personnage plus prononcée lui permet d'obtenir certaines capacités
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau des dons raciaux</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="titre lignesup"><td>Hommes-félins :</td></tr><tr CLASS="premier"><td>[[Bond griffu]]*</td><td><sup>UM</sup></td><td>[[homme-félin]], [[Force|For]] 13, [[Dextérité|Dex]] 15, [[Frappe leste]], [[BBA]]+10, trait racial griffes du félin ou [[Aspect bestial]] (manifestation griffes bestiales)</td><td>Le personnage peut faire une attaque à outrance après une charge</td></tr><tr><td>[[Chat noir]]</td><td><sup>UM</sup></td><td>[[homme-félin (race)|homme-félin]]</td><td>Une fois par jour, forcer un adversaire à refaire son jet d'attaque avec un malus de -4</td></tr><tr><td>[[Frappe leste]]*</td><td><sup>UM</sup></td><td>[[homme-félin (race)|homme-félin]], [[Dextérité|Dex]] 13, [[BBA]]+1, trait racial sprinter</td><td>supprime les malus à la CA avec [[Enchaînement]], [[Fente]] et pendant une [[charge]]</td></tr><tr><td>[[Grâce du chat]]</td><td><sup>UM</sup></td><td>[[homme-félin (race)|homme-félin]], [[Dextérité|Dex]] 13</td><td>bonus de +2 au DMD contre certaines manoeuvres offensives</td></tr><tr><td>[[Homme-félin modèle]]</td><td><sup>UM</sup></td><td>[[homme-félin (race)|homme-félin]]</td><td>La nature féline du personnage plus prononcée lui permet d'obtenir certaines capacités</td></tr></table>
+
 </center>
 
 Les objets magiques suivants sont souvent créés et utilisés par les hommes-félins.
 
-{| CLASS="tablo"
-|+ Objets magiques des Hommes-félins
-|- CLASS="titre"
-| Objet || Prix de  
-vente
-|- CLASS="premier"
-| *[[Diadème à oeil-de-chat]]* || 18 000 po
-|- CLASS="premier"
-| *[[Griffes métalliques de lacération]]* || 10 305 po
-|- CLASS="premier"
-| *[[Pattes de velours du casse-cou]]* || 1 400 po
-|}
+
+<table CLASS="tablo"><caption>Objets magiques des Hommes-félins</caption><tr CLASS="titre"><td>Objet</td><td>Prix de  
+vente</td></tr><tr CLASS="premier"><td>*[[Diadème à oeil-de-chat]]*</td><td>18 000 po</td></tr><tr CLASS="premier"><td>*[[Griffes métalliques de lacération]]*</td><td>10 305 po</td></tr><tr CLASS="premier"><td>*[[Pattes de velours du casse-cou]]*</td><td>1 400 po</td></tr></table>
+
 - Diadème à oeil-de-chat ~~texte copié (rectulo) -  mis en forme (ariock)~~ **relecture**
 - Griffes métalliques de lacération ~~texte copié (rectulo) -  mis en forme (ariock)~~ **relecture**
 - Pattes de velours du casse-cou ~~texte copié (rectulo) -  mis en forme (ariock)~~ **relecture**
@@ -622,32 +508,16 @@ Talents de roublard créés, ajoutés à la liste des talents avec pages de redi
 
 Dons Kitsune créés(Legoian) **A vérifier**
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau des dons raciaux
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="titre lignesup"
-| Kitsune:
-|- CLASS="premier"
-| [[Portrait craché]] || <sup>MR</sup> || [[kitsune (race)|Kitsune]] || Le kitsune peut prendre l’apparence d’un individu spécifique
-|-
-| [[Queue magique]] || <sup>MR</sup> || [[kitsune (race)|Kitsune]] || Le kitsune gagne un nouveau pouvoir magique utilisable deux fois par jour.
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau des dons raciaux</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="titre lignesup"><td>Kitsune:</td></tr><tr CLASS="premier"><td>[[Portrait craché]]</td><td><sup>MR</sup></td><td>[[kitsune (race)|Kitsune]]</td><td>Le kitsune peut prendre l’apparence d’un individu spécifique</td></tr><tr><td>[[Queue magique]]</td><td><sup>MR</sup></td><td>[[kitsune (race)|Kitsune]]</td><td>Le kitsune gagne un nouveau pouvoir magique utilisable deux fois par jour.</td></tr></table>
+
 </center>
 
 Objets magiques Kitsune créés(Legoian) **A vérifier (et à ajouter à la liste des objets magiques?)**
-{| CLASS="tablo"
-|+ Objets magiques Kitsune
-|- CLASS="titre"
-| Objet || Prix de  
-vente
-|- CLASS="premier"
-| *[[Gemme-étoile du kitsune]]* || 750 po (niv.1), 3 000 po (niv.2), 6 750 po (niv.3)
-|}
+
+<table CLASS="tablo"><caption>Objets magiques Kitsune</caption><tr CLASS="titre"><td>Objet</td><td>Prix de  
+vente</td></tr><tr CLASS="premier"><td>*[[Gemme-étoile du kitsune]]*</td><td>750 po (niv.1), 3 000 po (niv.2), 6 750 po (niv.3)</td></tr></table>
+
 #### [[nagaji (race)|Les nagajis]]
 - ~~textes copiés sur la page existante.~~ (Philtros)
 
@@ -662,33 +532,19 @@ Archétypes de classe créés(Legoian) **A vérifier**
 
 Dons Samsarans créés(Legoian) **A vérifier**
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau des dons raciaux
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="titre lignesup"
-| Samsaran:
-|- CLASS="premier"
-| [[Sang de la vie]] || <sup>MR</sup> || [[Samsaran (race)|Samsaran]] || Le samsaran guérit les autres avec son sang.
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau des dons raciaux</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="titre lignesup"><td>Samsaran:</td></tr><tr CLASS="premier"><td>[[Sang de la vie]]</td><td><sup>MR</sup></td><td>[[Samsaran (race)|Samsaran]]</td><td>Le samsaran guérit les autres avec son sang.</td></tr></table>
+
 </center>
 
 Equipements Samsarans ajoutés au [[équipements raciaux#SAMSARAN]](Legoian) A vérifier
 
 
 Objets magiques Samsaran créés(Legoian) **A vérifier (et à ajouter à la liste des objets magiques?)**
-{| CLASS="tablo"
-|+ Objets magiques Kitsune
-|- CLASS="titre"
-| Objet || Prix de  
-vente
-|- CLASS="premier"
-| *[[Encens de destins multiples]]* || 3 300 po po
-|}
+
+<table CLASS="tablo"><caption>Objets magiques Kitsune</caption><tr CLASS="titre"><td>Objet</td><td>Prix de  
+vente</td></tr><tr CLASS="premier"><td>*[[Encens de destins multiples]]*</td><td>3 300 po po</td></tr></table>
+
 
 Sorts Samsarans créés et ajoutés aux listes de sorts avec la mention (MR-Samsaran) (Legoian)
 

@@ -28,23 +28,9 @@ La *[[restauration partielle]]* n’a aucun effet sur la folie, mais la *[[resta
 ### Les types de maladies mentales
 Quand une créature sombre dans la démence, lancez un dé dans la table suivante pour déterminer la maladie mentale contractée. Sinon, vous pouvez choisir le type de folie qui correspond le mieux à sa cause.
 <center>
-{| CLASS="tablo autoalt"
-|+ Table aléatoire des folies
-|- CLASS="titre"
-| %D || Folie
-|- CLASS="premier"
-| 1-11 || [[Santé mentale#AMNÉSIE|amnésie]]
-|-
-| 12-48 || [[Santé mentale#TOC|toc/phobie]]
-|-
-| 49-68 || [[Santé mentale#TROUBLEPERSONNALITÉMULTIPLE|trouble de la personnalité multiple]]
-|-
-| 69-78 || [[Santé mentale#PARANOÏA|paranoïa]]
-|-
-| 79-84 || [[Santé mentale#PSYCHOSE|psychose]]
-|-
-| 85-100 || [[Santé mentale#SCHIZOPHRÉNIE|schizophrénie]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Table aléatoire des folies</caption><tr CLASS="titre"><td>%D</td><td>Folie</td></tr><tr CLASS="premier"><td>1-11</td><td>[[Santé mentale#AMNÉSIE|amnésie]]</td></tr><tr><td>12-48</td><td>[[Santé mentale#TOC|toc/phobie]]</td></tr><tr><td>49-68</td><td>[[Santé mentale#TROUBLEPERSONNALITÉMULTIPLE|trouble de la personnalité multiple]]</td></tr><tr><td>69-78</td><td>[[Santé mentale#PARANOÏA|paranoïa]]</td></tr><tr><td>79-84</td><td>[[Santé mentale#PSYCHOSE|psychose]]</td></tr><tr><td>85-100</td><td>[[Santé mentale#SCHIZOPHRÉNIE|schizophrénie]]</td></tr></table>
+
 </center>
 ### Exemples de maladies mentales
 <table width="100%"><tr style="vertical-align: top"><td width="50%">

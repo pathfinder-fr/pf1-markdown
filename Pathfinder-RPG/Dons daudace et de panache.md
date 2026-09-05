@@ -12,77 +12,16 @@ Categories:
 {s:uc}Un don d’audace interagit avec l’audace du [[pistolier]], avec celle d’un pouvoir de classe ou avec celle qui découle du don [[Pistolier amateur]]. Il élargit généralement l’éventail d’exploits. Parfois, ces dons augmentent le nombre de points d’audace du personnage ou modifient sa manière de les récupérer. Un pistolier peut choisir un don d’audace comme don supplémentaire.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau récapitulatif des dons d'audace
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="27%" | Conditions
-| WIDTH="40%" | Avantages
 
-|- CLASS="premier donprincipal"
-| [[Anonyme]] || <sup>AG</sup> || Capacité de classe [[audace]] ou [[Pistolier amateur]], 4 rangs en [[Bluff]]. || Bonus de +2 aux tests de Bluff et possibilité de dépenser de l’audace pour gagner +10 aux tests de Déguisement
+<table CLASS="tablo toutgauche"><caption>Tableau récapitulatif des dons d'audace</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Anonyme]]</td><td><sup>AG</sup></td><td>Capacité de classe [[audace]] ou [[Pistolier amateur]], 4 rangs en [[Bluff]].</td><td>Bonus de +2 aux tests de Bluff et possibilité de dépenser de l’audace pour gagner +10 aux tests de Déguisement</td></tr><tr CLASS="premier alt donprincipal"><td>[[Audace supplémentaire]]</td><td><sup>AG</sup></td><td>Capacité de classe [[audace]] ou [[Pistolier amateur]]</td><td>2 points d’audace de plus par jour et maximum d’audace augmenté de 2</td></tr><tr CLASS="premier donprincipal"><td>[[Exploit de la cachette secrète]]</td><td><sup>AG</sup></td><td>Capacité de classe [[audace]] ou [[Pistolier amateur]], 1 rang en [[Escamotage]]</td><td>Dépense 1 point d’audace pour récupérer de la poudre ou des munitions sur sa personne</td></tr><tr CLASS="premier alt donprincipal"><td>[[Exploit du tir empoisonné]]</td><td><sup>*DTT*</sup></td><td>Capacité de classe [[audace]] ou [[Pistolier amateur]]</td><td>Tire un poison ingéré ou inhalé dans un cône de 3m avec une arme à feu</td></tr><tr CLASS="premier donprincipal"><td>[[Exploit du tir par ricochet]]</td><td><sup>AG</sup></td><td>Capacité de classe [[audace]] ou [[Pistolier amateur]], [[Combat en aveugle]]</td><td>Fait ricocher le tir sur un mur ou un élément solide</td></tr><tr CLASS="premier alt donprincipal"><td>[[Exploit du tireur habile]]</td><td><sup>AG</sup></td><td>Capacité de classe [[audace]] ou [[Pistolier amateur]], [[Esquive]], [[Souplesse du serpent]]</td><td>Tant que le personnage a au moins 1 point d’audace, il ne provoque pas d’attaque d’opportunité quand il tire ou recharge une arme à feu</td></tr><tr CLASS="premier donprincipal"><td>[[Exploit signé]]</td><td><sup>AG</sup></td><td>Capacité de classe [[audace]], [[pistolier]] de niveau 11</td><td>1 exploit coûte 1 point d’audace de moins</td></tr><tr CLASS="premier alt donprincipal"><td>[[Tir en plein saut]]</td><td><sup>AG</sup></td><td>[[Dex]] 13, capacité de classe [[audace]] ou [[Pistolier amateur]], [[Esquive]], [[Souplesse du serpent]], [[BBA]] +4.</td><td>Peut se déplacer à sa vitesse et faire une attaque avec une arme à feu</td></tr></table>
 
-|- CLASS="premier alt donprincipal"
-| [[Audace supplémentaire]] || <sup>AG</sup> || Capacité de classe [[audace]] ou [[Pistolier amateur]] || 2 points d’audace de plus par jour et maximum d’audace augmenté de 2
-
-|- CLASS="premier donprincipal"
-| [[Exploit de la cachette secrète]] || <sup>AG</sup> || Capacité de classe [[audace]] ou [[Pistolier amateur]], 1 rang en [[Escamotage]] || Dépense 1 point d’audace pour récupérer de la poudre ou des munitions sur sa personne
-
-|- CLASS="premier alt donprincipal"
-| [[Exploit du tir empoisonné]] || <sup>*DTT*</sup> || Capacité de classe [[audace]] ou [[Pistolier amateur]] || Tire un poison ingéré ou inhalé dans un cône de 3m avec une arme à feu
-
-|- CLASS="premier donprincipal"
-| [[Exploit du tir par ricochet]] || <sup>AG</sup> || Capacité de classe [[audace]] ou [[Pistolier amateur]], [[Combat en aveugle]] || Fait ricocher le tir sur un mur ou un élément solide
-
-|- CLASS="premier alt donprincipal"
-| [[Exploit du tireur habile]] || <sup>AG</sup> || Capacité de classe [[audace]] ou [[Pistolier amateur]], [[Esquive]], [[Souplesse du serpent]] || Tant que le personnage a au moins 1 point d’audace, il ne provoque pas d’attaque d’opportunité quand il tire ou recharge une arme à feu
-
-|- CLASS="premier donprincipal"
-| [[Exploit signé]] || <sup>AG</sup> || Capacité de classe [[audace]], [[pistolier]] de niveau 11 || 1 exploit coûte 1 point d’audace de moins
-
-|- CLASS="premier alt donprincipal"
-| [[Tir en plein saut]] || <sup>AG</sup> || [[Dex]] 13, capacité de classe [[audace]] ou [[Pistolier amateur]], [[Esquive]], [[Souplesse du serpent]], [[BBA]] +4. || Peut se déplacer à sa vitesse et faire une attaque avec une arme à feu
-|}
 </center>
 
 ### Don de panache
 {s:mca}Les dons de panache agissent sur le pouvoir de classe du [[Bretteur]] panache ou sur le panache qu’apporte le don [[Bretteur amateur]]. Les bretteurs peuvent prendre des dons de panache comme dons supplémentaires.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau récapitulatif des dons de panache
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="27%" | Conditions
-| WIDTH="40%" | Avantages
 
-|- CLASS="premier donprincipal"
-| [[Arme en main éclair]]* || <sup>*UI*</sup> || [[Arme en main]], exploit [[Exploits (bretteur)#INITIATIVEDUBRETTEUR|initiative du bretteur]], [[bretteur]] de niveau 7 || Dégaine une arme par réflexe
+<table CLASS="tablo toutgauche"><caption>Tableau récapitulatif des dons de panache</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="27%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Arme en main éclair]]*</td><td><sup>*UI*</sup></td><td>[[Arme en main]], exploit [[Exploits (bretteur)#INITIATIVEDUBRETTEUR|initiative du bretteur]], [[bretteur]] de niveau 7</td><td>Dégaine une arme par réflexe</td></tr><tr CLASS="premier alt donprincipal"><td>[[Cape de duel]]*</td><td><sup>MCA</sup></td><td>Capacité de classe [[panache]] ou [[Bretteur amateur]]; [[Esquive]], 1 rang en [[Escamotage]]</td><td>Le personnage utilise sa cape comme une targe piégée</td></tr><tr CLASS="premier donprincipal"><td>[[Enrager lennemi|Enrager l'ennemi]]*</td><td><sup>*UI*</sup></td><td>[[Cha]] 13, [[Bretteur amateur]] ou capacité de classe [[Bretteur#PANACHE|panache]], [[Persuasion]]</td><td>Réduit la défense d'un adversaire jusqu'à ce qu'il attaque le personnage</td></tr><tr CLASS="premier alt donprincipal"><td>[[Exploit acrobatique déconcertant]]</td><td><sup>MCA</sup></td><td>Capacité de classe [[panache]] ou [[Bretteur amateur]], [[Acrobate rusé]], 7 rangs en [[Acrobaties]]</td><td>Quand le personnage évite des attaques d'opportunité et touche un ennemi, il peut lui annuler son bonus de Dex à la CA pendant 1 round</td></tr><tr CLASS="premier donprincipal"><td>[[Exploit de la menace désarmante]]</td><td><sup>MCA</sup></td><td>Capacité de classe [[panache]] ou [[Bretteur amateur]]; 2 rangs en [[Diplomatie]], 2 rangs en [[Intimidation]]</td><td>Le personnage utilise Intimidation sans rendre sa cible inamicale</td></tr><tr CLASS="premier alt donprincipal"><td>[[Exploit du coup de pommeau]]</td><td><sup>MCA</sup></td><td>Capacité de classe [[panache]] ou [[Bretteur amateur]]; [[BBA]] +3</td><td>Le personnage attaque avec le pommeau d'une arme perforante légère ou à une main et renverse ses ennemis</td></tr><tr CLASS="premier donprincipal"><td>[[Frappe structurelle]]*</td><td><sup>*UI*</sup></td><td>5 rangs en [[Connaissances]] (ingénierie), capacité de classe [[Duelliste#ATTAQUEPRECISE|attaque précise]] ou exploit [[Exploits (bretteur) #ATTAQUEPRECISE|attaque précise]]</td><td>Utilise attaque précise contre les créatures normalement immunisées</td></tr><tr CLASS="premier alt donprincipal"><td>[[Panache supplémentaire]]</td><td><sup>MCA</sup></td><td>Capacité de classe [[panache]] ou [[Bretteur amateur]]</td><td>Gain de 2 points de panache supplémentaires</td></tr><tr CLASS="premier donprincipal"><td>[[Tour ignoble]]*</td><td><sup>*DTT*</sup></td><td>[[Int]] 13; capacité de classe [[panache]] ou [[Bretteur amateur]]; [[Expertise du combat]]; [[Science du sale coup]]</td><td>Les cibles de sales coups doivent réussir un jet de sauvegarde pour se débarrasser de leurs effets</td></tr></table>
 
-|- CLASS="premier alt donprincipal"
-| [[Cape de duel]]* || <sup>MCA</sup> || Capacité de classe [[panache]] ou [[Bretteur amateur]]; [[Esquive]], 1 rang en [[Escamotage]] || Le personnage utilise sa cape comme une targe piégée
-
-|- CLASS="premier donprincipal"
-| [[Enrager lennemi|Enrager l'ennemi]]* || <sup>*UI*</sup> || [[Cha]] 13, [[Bretteur amateur]] ou capacité de classe [[Bretteur#PANACHE|panache]], [[Persuasion]] || Réduit la défense d'un adversaire jusqu'à ce qu'il attaque le personnage
-
-|- CLASS="premier alt donprincipal"
-| [[Exploit acrobatique déconcertant]] || <sup>MCA</sup> || Capacité de classe [[panache]] ou [[Bretteur amateur]], [[Acrobate rusé]], 7 rangs en [[Acrobaties]] || Quand le personnage évite des attaques d'opportunité et touche un ennemi, il peut lui annuler son bonus de Dex à la CA pendant 1 round
-
-|- CLASS="premier donprincipal"
-| [[Exploit de la menace désarmante]] || <sup>MCA</sup> || Capacité de classe [[panache]] ou [[Bretteur amateur]]; 2 rangs en [[Diplomatie]], 2 rangs en [[Intimidation]] || Le personnage utilise Intimidation sans rendre sa cible inamicale
-
-|- CLASS="premier alt donprincipal"
-| [[Exploit du coup de pommeau]] || <sup>MCA</sup> || Capacité de classe [[panache]] ou [[Bretteur amateur]]; [[BBA]] +3 || Le personnage attaque avec le pommeau d'une arme perforante légère ou à une main et renverse ses ennemis
-
-|- CLASS="premier donprincipal"
-| [[Frappe structurelle]]* || <sup>*UI*</sup> || 5 rangs en [[Connaissances]] (ingénierie), capacité de classe [[Duelliste#ATTAQUEPRECISE|attaque précise]] ou exploit [[Exploits (bretteur) #ATTAQUEPRECISE|attaque précise]] || Utilise attaque précise contre les créatures normalement immunisées
-
-|- CLASS="premier alt donprincipal"
-| [[Panache supplémentaire]] || <sup>MCA</sup> || Capacité de classe [[panache]] ou [[Bretteur amateur]] || Gain de 2 points de panache supplémentaires
-
-|- CLASS="premier donprincipal"
-| [[Tour ignoble]]* || <sup>*DTT*</sup> || [[Int]] 13; capacité de classe [[panache]] ou [[Bretteur amateur]]; [[Expertise du combat]]; [[Science du sale coup]] || Les cibles de sales coups doivent réussir un jet de sauvegarde pour se débarrasser de leurs effets
-|}
 </center>

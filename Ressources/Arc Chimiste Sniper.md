@@ -152,48 +152,5 @@ En moyenne à ce niveau, la vigueur vaut en moyenne 10.7 et le réflexe 9. Je me
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du *nom du build*
-|- CLASS="titre"
-| Niveau || Classe || BBA || Dons, capacités de classe
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +0 || *Libre*
-|-
-| 02 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe immobilisante]]
-|-
-| 03 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +2 || *Libre*
-|-
-| 04 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +3 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Projectile explosif]]
-|-
-| 05 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +3 || *Libre*
-|-
-| 06 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de froid]]
-|-
-| 07 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +5 || [[Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]]
-|-
-| 08 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +6/+1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Poison céleste]]
-|-
-| 09 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +6/+1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de force]]
-|-
-| 10 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +7/+2 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Cognatogène]]
-|-
-| 11 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +8/+3 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Poison malin]]
-|-
-| 12 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +9/+4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe maudite]]
-|-
-| 13 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +9/+4 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Ailes]]
-|-
-| 14 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +10/+5 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Corgnatogène supérieur]]
-|-
-| 15 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +11/+6/+1 || [[Pathfinder-RPG.découvertes.ashx|Découverte : Familier tumeur]]
-|-
-| 16 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +12/+7/+2 || *Libre*
-|-
-| 17 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +12/+7/+2 || *Libre*
-|-
-| 18 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +13/+8/+3 || *Libre*
-|-
-| 19 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +14/+9/+4 || *Libre*
-|-
-| 20 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] || +15/+10/+5 || *Libre*
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du *nom du build*</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+0</td><td>*Libre*</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+1</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe immobilisante]]</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+2</td><td>*Libre*</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+3</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Projectile explosif]]</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+3</td><td>*Libre*</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+4</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de froid]]</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+5</td><td>[[Pathfinder-RPG.Volonté de fer.ashx|Volonté de fer]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+6/+1</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Poison céleste]]</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+6/+1</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe de force]]</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+7/+2</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Cognatogène]]</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+8/+3</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Poison malin]]</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+9/+4</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Bombe maudite]]</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+9/+4</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Ailes]]</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+10/+5</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Corgnatogène supérieur]]</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+11/+6/+1</td><td>[[Pathfinder-RPG.découvertes.ashx|Découverte : Familier tumeur]]</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+12/+7/+2</td><td>*Libre*</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+12/+7/+2</td><td>*Libre*</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+13/+8/+3</td><td>*Libre*</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+14/+9/+4</td><td>*Libre*</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]]</td><td>+15/+10/+5</td><td>*Libre*</td></tr></table>

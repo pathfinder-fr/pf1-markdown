@@ -48,22 +48,9 @@ constant d’humidité nourrissante. Ils doivent toutefois prendre soin
 de rester à l’écart du terrain de chasse de la plante pour ne pas devenir
 eux-mêmes ses victimes.
 
-{| CLASS="tablo toutgauche"
-|- CLASS="titre"
-| d6 || Hallucination
-|- CLASS="premier"
-| 1 || Vous vous enfoncez dans des sables mouvants ! Vous tombez [[à terre]] et passez 1 round à agiter les bras et les jambes comme si vous tentiez de nager.
-|- CLASS="alt"
-| 2 || Attaqué par une nuée d'araignées ! Vous employez une [[action complexe]] pour frapper le sol avec votre arme.
-|-
-| 3 || Un des objets que vous tenez s'est transformé en serpent ! Vous le laissez tomber et vous vous en éloignez à vitesse maximale pendant 1 round.
-|- CLASS="alt"
-| 4 || Vous étouffez ! Vous restez sur place, retenez votre respiration et agrippez votre gorge pendant 1 round.
-|-
-| 5 || Vous avez été réduit au 1/10<sup>e</sup> de votre taille ! Vous restez entièrement immobile pendant 1 round pour que les monstres ne vous repèrent pas.
-|- CLASS="alt"
-| 6 || Vous êtes en train de fondre ! Vous agrippez différentes parties de votre corps pour tenter de les empêcher de tomber et ne faites rien d'autre pendant 1 round.
-|}
+
+<table CLASS="tablo toutgauche"><tr CLASS="titre"><td>d6</td><td>Hallucination</td></tr><tr CLASS="premier"><td>1</td><td>Vous vous enfoncez dans des sables mouvants ! Vous tombez [[à terre]] et passez 1 round à agiter les bras et les jambes comme si vous tentiez de nager.</td></tr><tr CLASS="alt"><td>2</td><td>Attaqué par une nuée d'araignées ! Vous employez une [[action complexe]] pour frapper le sol avec votre arme.</td></tr><tr><td>3</td><td>Un des objets que vous tenez s'est transformé en serpent ! Vous le laissez tomber et vous vous en éloignez à vitesse maximale pendant 1 round.</td></tr><tr CLASS="alt"><td>4</td><td>Vous étouffez ! Vous restez sur place, retenez votre respiration et agrippez votre gorge pendant 1 round.</td></tr><tr><td>5</td><td>Vous avez été réduit au 1/10<sup>e</sup> de votre taille ! Vous restez entièrement immobile pendant 1 round pour que les monstres ne vous repèrent pas.</td></tr><tr CLASS="alt"><td>6</td><td>Vous êtes en train de fondre ! Vous agrippez différentes parties de votre corps pour tenter de les empêcher de tomber et ne faites rien d'autre pendant 1 round.</td></tr></table>
+
 
 </div>
 

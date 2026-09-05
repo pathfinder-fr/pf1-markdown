@@ -22,16 +22,9 @@ Vous pouvez utiliser la compétence Informatique pour produire de faux documents
 Les DD des tests d’Informatique pour détecter une contrefaçon dépendent du type de document contrefait, ainsi que d’autres circonstances déterminées par le MJ et indiquées dans la table suivante.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| CIRCONSTANCE || MODIF. AU DD
-|- CLASS="premier"
-|/ Le document va à l’encontre d’une chose connue ou d’ordres || -2
-|/ Le type de document est bien connu de celui qui l’examine || -2
-|/ Le type de document n’est pas connu de celui qui l’examine || +2
-|/ Celui qui examine le document ne fait qu’y jeter un œil || +2
-|/ Le faussaire possède un document officiel similaire en modèle || +8
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>CIRCONSTANCE</td><td>MODIF. AU DD</td></tr><tr CLASS="premier"></tr><tr><td>Le document va à l’encontre d’une chose connue ou d’ordres</td><td>-2</td></tr><tr><td>Le type de document est bien connu de celui qui l’examine</td><td>-2</td></tr><tr><td>Le type de document n’est pas connu de celui qui l’examine</td><td>+2</td></tr><tr><td>Celui qui examine le document ne fait qu’y jeter un œil</td><td>+2</td></tr><tr><td>Le faussaire possède un document officiel similaire en modèle</td><td>+8</td></tr></table>
+
 </center>
 
 #### Désactiver ou manipuler un module

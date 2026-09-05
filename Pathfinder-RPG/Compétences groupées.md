@@ -14,28 +14,15 @@ Avec ce système, les joueurs n’ont pas à répartir leurs rangs de compétenc
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|- CLASS="titre"
-| Groupes de  
-compétences || Compétences du groupe
-|- CLASS="premier"
-| Naturelles || [[Dressage]], [[Premiers secours]], [[Survie]]
-|-
-| Perceptives || [[Perception]], [[Psychologie]]
-|-
-| Physiques || [[Acrobaties]], [[Équitation]], [[Escalade]],  
-[[Évasion]], [[Natation]], [[Vol]]
-|-
-| Roublardes || [[Déguisement]], [[Discrétion]], [[Escamotage]],  
-[[Sabotage]], [[UOM|Utilisation d’objets magiques]]
-|-
-| Savantes || [[Art de la magie]], [[Artisanat]],  
+
+<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td>Groupes de  
+compétences</td><td>Compétences du groupe</td></tr><tr CLASS="premier"><td>Naturelles</td><td>[[Dressage]], [[Premiers secours]], [[Survie]]</td></tr><tr><td>Perceptives</td><td>[[Perception]], [[Psychologie]]</td></tr><tr><td>Physiques</td><td>[[Acrobaties]], [[Équitation]], [[Escalade]],  
+[[Évasion]], [[Natation]], [[Vol]]</td></tr><tr><td>Roublardes</td><td>[[Déguisement]], [[Discrétion]], [[Escamotage]],  
+[[Sabotage]], [[UOM|Utilisation d’objets magiques]]</td></tr><tr><td>Savantes</td><td>[[Art de la magie]], [[Artisanat]],  
 [[Connaissances]] (toutes), [[Estimation]],  
-[[Profession]]
-|-
-| Sociales || [[Bluff]], [[Diplomatie]], [[Intimidation]],  
-[[Linguistique]], [[Représentation]]
-|}
+[[Profession]]</td></tr><tr><td>Sociales</td><td>[[Bluff]], [[Diplomatie]], [[Intimidation]],  
+[[Linguistique]], [[Représentation]]</td></tr></table>
+
 </center></div></div>Au niveau 1, un personnage obtient une formation dans un nombre de groupes de compétences déterminé par le nombre de rangs de compétence que sa classe lui confère à chaque niveau, comme indiqué dans la table "[[Compétences groupées#SPECIALITES|Spécialités et groupes de compétences par niveau]]". Un personnage peut obtenir une formation dans n’importe quel groupe de compétences, même si aucune des compétences des groupes choisis ne sont des compétences de classe.
 
 De plus, toujours au niveau 1, un personnage acquiert une spécialité de compétence et un nombre de spécialités supplémentaires égal à la moitié de son modificateur d’[[Intelligence]]. Au niveau 2 et tous les 2 niveaux par la suite, un personnage acquiert une spécialité dans une compétence supplémentaire. Si, à un moment ou à un autre, le modificateur d’Intelligence du personnage augmente ou diminue, le nombre de spécialités de compétence supplémentaires qu’il possède change en conséquence. Chaque spécialité s’applique à une seule compétence particulière et un personnage peut choisir une spécialité dans une compétence qui ne fait pas partie de l’un des groupes de compétences qu’il a sélectionnés. Son bonus dans cette compétence ne sera cependant pas aussi élevé que celui qu’il aurait obtenu s’il était également formé dans le groupe de compétences correspondant.
@@ -48,77 +35,18 @@ Par exemple, un [[druide]] de niveau 1 avec une valeur d’[[Intelligence]] de 1
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ {s:Reference|SPECIALITES}Spécialités et groupes de compétences par niveau
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau du  
-personnage
-| ROWSPAN="2" | Spécialités  
-du personnage
-| COLSPAN="9" CLASS="avecsoustitre" | Groupes
-|- CLASS="soustitre"
-| <sup>1</sup>2 + Int<sup>2</sup>
-| 4 + Int<sup>3</sup>
-| 6 + Int<sup>4</sup>
-| 8 + Int<sup>5</sup>
-|- CLASS="premier"
-| 1 || 1 || 2 || 2 || 3 || 3
-|-
-| 2 || 2 || 2 || 2 || 3 || 3
-|-
-| 3 || 2 || 2 || 2 || 3 || 3
-|-
-| 4 || 3 || 2 || 2 || 3 || 3
-|-
-| 5 || 3 || 2 || 2 || 3 || 3
-|-
-| 6 || 4 || 2 || 2 || 3 || 3
-|-
-| 7 || 4 || 2 || 2 || 3 || 3
-|-
-| 8 || 5 || 2 || 3 || 3 || 4
-|-
-| 9 || 5 || 2 || 3 || 3 || 4
-|-
-| 10 || 6 || 3 || 3 || 4 || 4
-|-
-| 11 || 6 || 3 || 3 || 4 || 4
-|-
-| 12 || 7 || 3 || 3 || 4 || 4
-|-
-| 13 || 7 || 3 || 3 || 4 || 4
-|-
-| 14 || 8 || 3 || 3 || 4 || 4
-|-
-| 15 || 8 || 3 || 3 || 4 || 4
-|-
-| 16 || 9 || 3 || 3 || 4 || 4
-|-
-| 17 || 9 || 3 || 3 || 4 || 4
-|-
-| 18 || 10 || 3 || 4 || 4 || 5
-|-
-| 19 || 10 || 3 || 4 || 4 || 5
-|-
-| 20 || 11 || 3 || 4 || 4 || 5
-|- CLASS="note"
-| | COLSPAN="6" | *(1) Un personnage ajoute la moitié de son bonus d’[[Intelligence]] au nombre  
+
+<table CLASS="tablo autoalt"><caption>{s:Reference|SPECIALITES}Spécialités et groupes de compétences par niveau</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau du  
+personnage</td><td ROWSPAN="2">Spécialités  
+du personnage</td><td COLSPAN="9" CLASS="avecsoustitre">Groupes</td></tr><tr CLASS="soustitre"><td><sup>1</sup>2 + Int<sup>2</sup></td><td>4 + Int<sup>3</sup></td><td>6 + Int<sup>4</sup></td><td>8 + Int<sup>5</sup></td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>2</td><td>2</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>3</td><td>2</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>4</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>5</td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>6</td><td>4</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>7</td><td>4</td><td>2</td><td>2</td><td>3</td><td>3</td></tr><tr><td>8</td><td>5</td><td>2</td><td>3</td><td>3</td><td>4</td></tr><tr><td>9</td><td>5</td><td>2</td><td>3</td><td>3</td><td>4</td></tr><tr><td>10</td><td>6</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>11</td><td>6</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>12</td><td>7</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>13</td><td>7</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>14</td><td>8</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>15</td><td>8</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>16</td><td>9</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>17</td><td>9</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>18</td><td>10</td><td>3</td><td>4</td><td>4</td><td>5</td></tr><tr><td>19</td><td>10</td><td>3</td><td>4</td><td>4</td><td>5</td></tr><tr><td>20</td><td>11</td><td>3</td><td>4</td><td>4</td><td>5</td></tr><tr CLASS="note"><td | COLSPAN="6">*(1) Un personnage ajoute la moitié de son bonus d’[[Intelligence]] au nombre  
 de spécialités qu’il peut choisir ; les personnages possèdent toujours une  
-spécialité au minimum.*
-|- CLASS="note"
-| | COLSPAN="6" | *(2) Cette catégorie inclut les [[Arcaniste|arcanistes]], les [[Conjurateur|conjurateurs]], les [[Ensorceleur|ensorceleurs]],  
+spécialité au minimum.*</td></tr><tr CLASS="note"><td | COLSPAN="6">*(2) Cette catégorie inclut les [[Arcaniste|arcanistes]], les [[Conjurateur|conjurateurs]], les [[Ensorceleur|ensorceleurs]],  
 les [[Guerrier|guerriers]], les [[Magicien|magiciens]], les [[Magus]], les [[Paladin|paladins]], les [[Prêtre|prêtres]], les [[Prêtre combattant|prêtres  
-combattants]] et les [[Sorcière|sorcières]].*
-|- CLASS="note"
-| | COLSPAN="6" | *(3) Cette catégorie inclut les [[Alchimiste|alchimistes]], les [[Barbare|barbares]], les [[Bretteur|bretteurs]],  
+combattants]] et les [[Sorcière|sorcières]].*</td></tr><tr CLASS="note"><td | COLSPAN="6">*(3) Cette catégorie inclut les [[Alchimiste|alchimistes]], les [[Barbare|barbares]], les [[Bretteur|bretteurs]],  
 les [[Chaman|chamans]], les [[Druide|druides]], les [[Lutteur|lutteurs]], les [[Moine|moines]], les [[Oracle|oracles]], les [[Pistolier|pistoliers]],  
-les [[Sanguin|sanguins]] et les [[Scalde|scaldes]].*
-|- CLASS="note"
-| | COLSPAN="6" | *(4) Cette catégorie inclut les [[Barde|bardes]], les [[Chasseur|chasseurs]], les [[Chevalier|chevaliers]],  
-les [[Enquêteur|enquêteurs]], les [[Inquisiteur|inquisiteurs]], les [[Rôdeur|rôdeurs]] et les [[Tueur|tueurs]].*
-|- CLASS="note"
-| | COLSPAN="6" | *(5) Cette catégorie inclut les [[Roublard|roublards]].*
-|}
+les [[Sanguin|sanguins]] et les [[Scalde|scaldes]].*</td></tr><tr CLASS="note"><td | COLSPAN="6">*(4) Cette catégorie inclut les [[Barde|bardes]], les [[Chasseur|chasseurs]], les [[Chevalier|chevaliers]],  
+les [[Enquêteur|enquêteurs]], les [[Inquisiteur|inquisiteurs]], les [[Rôdeur|rôdeurs]] et les [[Tueur|tueurs]].*</td></tr><tr CLASS="note"><td | COLSPAN="6">*(5) Cette catégorie inclut les [[Roublard|roublards]].*</td></tr></table>
+
 </center></div></div>Si un personnage possède une spécialité dans une compétence et que cette compétence fait également partie d’un groupe dans lequel il est formé, son bonus aux tests est égal au modificateur de la caractéristique appropriée + son niveau de personnage. S’il ne remplit qu’une seule des deux conditions (il possède uniquement une spécialité dans la compétence ou il est uniquement formé au groupe auquel appartient la compétence la compter au nombre de ses spécialités) son bonus est égal au modificateur de la caractéristique appropriée + la moitié de son niveau de personnage (1 au minimum).
 
 Si une compétence figure sur la liste des compétences de classe d’un personnage, celui-ci bénéficie d’un bonus de +3 s’il est formé dans le groupe auquel appartient la compétence ou s’il dispose d’une spécialité dans cette compétence, il n’a pas besoin de remplir les deux conditions. Les bonus de compétence de classe s’appliquent aux compétences prises individuellement et non à toutes les compétences d’un même groupe. Si la [[Diplomatie]] est une compétence de classe pour un personnage et pas le [[Bluff]], le fait d’être formé au groupe des compétences sociales ne lui permet pas d’ajouter le bonus de compétence de classe aux tests de Bluff. Toutes les circonstances qui modifient les tests de compétence, tels que le don [[Talent]] ou certains sorts, confèrent toujours le même bonus ou infligent toujours le même malus, comme lors d’une campagne où l’on applique les règles normales sur les compétences.
@@ -138,24 +66,11 @@ Au lieu de gagner des rangs de compétence contextuelle à chaque niveau, un per
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|- CLASS="titre"
-| Groupes de  
-compétences || Compétences du groupe
-|- CLASS="premier"
-| Naturelles || [[Compétences fusionnées, Nature|Nature]], [[Compétences fusionnées, Survie|Survie]]
-|-
-| Perceptives || [[Compétences fusionnées, Perception|Perception]]
-|-
-| Physiques || [[Compétences fusionnées, Acrobaties|Acrobaties]], [[Compétences fusionnées, Athlétisme|Athlétisme]]
-|-
-| Roublardes || [[Compétences fusionnées, Discrétion|Discrétion]], [[Compétences fusionnées, Finesse|Finesse]]
-|-
-| Savantes || [[Compétences fusionnées, Art de la magie|Art de la magie]], [[Compétences fusionnées, Religion|Religion]],  
-[[Compétences fusionnées, Société|Société]]
-|-
-| Sociales || [[Compétences fusionnées, Influence|Influence]], [[Compétences fusionnées, Représentation|Représentation]]
-|}
+
+<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td>Groupes de  
+compétences</td><td>Compétences du groupe</td></tr><tr CLASS="premier"><td>Naturelles</td><td>[[Compétences fusionnées, Nature|Nature]], [[Compétences fusionnées, Survie|Survie]]</td></tr><tr><td>Perceptives</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr><tr><td>Physiques</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]], [[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>Roublardes</td><td>[[Compétences fusionnées, Discrétion|Discrétion]], [[Compétences fusionnées, Finesse|Finesse]]</td></tr><tr><td>Savantes</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]], [[Compétences fusionnées, Religion|Religion]],  
+[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>Sociales</td><td>[[Compétences fusionnées, Influence|Influence]], [[Compétences fusionnées, Représentation|Représentation]]</td></tr></table>
+
 </center></div></div>
 #### Compétences fusionnées
 Divisez le nombre de groupes de compétences et celui des spécialités de compétence que les personnages obtiennent par deux (arrondi à l’inférieur avec un minimum de 1). Utilisez la moitié du nombre de rangs gagnés par niveau d’une classe donnée (comme indiqué [[Compétences#ACQUERIR|ici]]) pour déterminer le nombre de groupes de [[Compétences groupées#SPECIALITES|compétences et de spécialités]] que le personnage de cette classe peut choisir, et non la moitié des valeurs ajustées indiquées dans la section des "[[Compétences fusionnées#COMPETENCESDECLASSE|Compétences de classe]]". Les groupes de compétences changent et deviennent ceux ci-contre.

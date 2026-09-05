@@ -21,19 +21,9 @@ Categories:
 Les créatures d’alignement autre que Bon entendant la parole sacrée sont affectées en fonction du nombre de leurs DV :
 
 <center>
-{| CLASS="tablo"
-|+
-|- CLASS="titre"
-| DV || Effet
-|- CLASS="premier"
-| Égaux au [[niveau de lanceur de sorts]] || Assourdissement
-|- CLASS="alt"
-| Jusqu’au [[niveau de lanceur de sorts]] -1 || Assourdissement, cécité
-|-
-| Jusqu’au [[niveau de lanceur de sorts]] -5  || Assourdissement, cécité, paralysie
-|- CLASS="alt"
-| Jusqu’au [[niveau de lanceur de sorts]] -10 || Assourdissement, cécité, mort, paralysie
-|}
+
+<table CLASS="tablo"><caption></caption><tr CLASS="titre"><td>DV</td><td>Effet</td></tr><tr CLASS="premier"><td>Égaux au [[niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -1</td><td>Assourdissement, cécité</td></tr><tr><td>Jusqu’au [[niveau de lanceur de sorts]] -5</td><td>Assourdissement, cécité, paralysie</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -10</td><td>Assourdissement, cécité, mort, paralysie</td></tr></table>
+
 </center>
 
 Ces effets sont cumulatifs et simultanés. Un jet de [[Volonté]] réussit permet de [[Présentation des sorts#JETSDESAUVEGARDE|réduire ou d’annuler]] les effets néfastes. Les créatures affectées par plusieurs effets ne font qu’un [[jet de sauvegarde]] qu’elles appliquent à tous.

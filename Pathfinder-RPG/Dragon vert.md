@@ -33,21 +33,9 @@ Categories:
 {s:BDTexte|**Respiration aquatique (Ext).** Un dragon vert peut respirer sous l'eau sans limite de temps et il peut utiliser son souffle, ses sorts et ses autres capacités lorsqu'il est immergé.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon vert
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon vert]] || &nbsp; || 8
-|-
-| [[Dragon vert adulte]] || &nbsp; || 12
-|-
-| [[Dragon vert vénérable]] || &nbsp; || 17
-|-
-| **Membres mythiques** || **FP** || **RMY**
-|- CLASS="premier"
-| [[Dragon vert mythique|Très vieux dragon vert mythique]] || 20 || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon vert</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon vert]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon vert adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon vert vénérable]]</td><td>&nbsp;</td><td>17</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon vert mythique|Très vieux dragon vert mythique]]</td><td>20</td><td>8</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Une unique corne acérée orne le bout du museau tout en dents de ce féroce dragon couvert d’écailles couleur d’émeraude.*
 
 Les dragons verts vivent dans les forêts les plus anciennes du monde,
@@ -56,35 +44,9 @@ proies. De tous les dragons chromatiques, les verts sont sans doute
 ceux avec lesquels la diplomatie a le plus de chances de fonctionner.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité (acide), respiration aquatique || —
-|- CLASS="alt"
-| Très jeune || déplacement facilité || —
-|-
-| Jeune || *[[enchevêtrement]]* || —
-|- CLASS="alt"
-| Adolescent || *[[charme-personne]]*, [[présence terrifiante]] || 1
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 3
-|- CLASS="alt"
-| Adulte || absence de traces, *[[suggestion]]* || 5
-|-
-| Âge mûr || [[RD]] 10/magie || 7
-|- CLASS="alt"
-| Vieux || camouflage, *[[croissance végétale]]* || 9
-|-
-| Très vieux || [[RD]] 15/magie || 11
-|- CLASS="alt"
-| Vénérable || *[[domination]]*, miasmes || 13
-|-
-| Dracosire || [[RD]] 20/magie || 15
-|- CLASS="alt"
-| Grand dracosire || *[[empire végétal]]*, éveil de [[sylvanien|sylvaniens]] || 17
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité (acide), respiration aquatique</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>déplacement facilité</td><td>—</td></tr><tr><td>Jeune</td><td>*[[enchevêtrement]]*</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[charme-personne]]*, [[présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>absence de traces, *[[suggestion]]*</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>camouflage, *[[croissance végétale]]*</td><td>9</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[domination]]*, miasmes</td><td>13</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>*[[empire végétal]]*, éveil de [[sylvanien|sylvaniens]]</td><td>17</td></tr></table>
+
 </center>
 </div>
 

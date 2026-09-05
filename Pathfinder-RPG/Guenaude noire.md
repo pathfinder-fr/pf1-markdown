@@ -47,25 +47,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de guenaude
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Guenaude annis]] || 6
-|-
-| [[Guenaude arctique]] || 7
-|-
-| [[Guenaude de sang]] || 8
-|-
-| [[Guenaude des tempêtes]] || 7
-|-
-| [[Guenaude marine]] || 4
-|-
-| [[Guenaude noire]] || 9
-|-
-| [[Guenaude verte]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de guenaude</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Guenaude annis]]</td><td>6</td></tr><tr><td>[[Guenaude arctique]]</td><td>7</td></tr><tr><td>[[Guenaude de sang]]</td><td>8</td></tr><tr><td>[[Guenaude des tempêtes]]</td><td>7</td></tr><tr><td>[[Guenaude marine]]</td><td>4</td></tr><tr><td>[[Guenaude noire]]</td><td>9</td></tr><tr><td>[[Guenaude verte]]</td><td>5</td></tr></table>
+
 </div>*Cette vieille et horrible sorcière aux dents acérées a couvert son corps squelettique de trophées macabres et de lambeaux d’habits.*
 
 Les guenaudes noires sont des assassins terrifiants et des

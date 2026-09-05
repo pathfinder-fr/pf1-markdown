@@ -40,34 +40,8 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de bourbiérins
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Bourbiérin]] || 2
-|-
-| [[Bourbiérin balafré]] || 6
-|-
-| [[Bourbiérin sauvage]] || 4
-|-
-| [[Brute bourbiérine]] || 3
-|-
-| [[Champion bourbiérin]] || 7
-|-
-| [[Chasseur bourbiérin]] || 5
-|-
-| [[Grandcoasseur bourbiérin]] || 3
-|-
-| [[Guerrier abyssal bourbiérin]] || 8
-|-
-| [[Oracle du marais bourbiérin]] || 4
-|-
-| [[Prêtre-roi bourbiérin]] || 11
-|-
-| [[Prophète bourbiérin]] || 5
-|-
-| [[Traqueur bourbiérin]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de bourbiérins</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bourbiérin]]</td><td>2</td></tr><tr><td>[[Bourbiérin balafré]]</td><td>6</td></tr><tr><td>[[Bourbiérin sauvage]]</td><td>4</td></tr><tr><td>[[Brute bourbiérine]]</td><td>3</td></tr><tr><td>[[Champion bourbiérin]]</td><td>7</td></tr><tr><td>[[Chasseur bourbiérin]]</td><td>5</td></tr><tr><td>[[Grandcoasseur bourbiérin]]</td><td>3</td></tr><tr><td>[[Guerrier abyssal bourbiérin]]</td><td>8</td></tr><tr><td>[[Oracle du marais bourbiérin]]</td><td>4</td></tr><tr><td>[[Prêtre-roi bourbiérin]]</td><td>11</td></tr><tr><td>[[Prophète bourbiérin]]</td><td>5</td></tr><tr><td>[[Traqueur bourbiérin]]</td><td>9</td></tr></table>
+
 </div>Ces lanceurs de sorts sont souvent les enfants des prêtres-rois.
 </div></td></tr></table>

@@ -60,15 +60,9 @@ LastModified: 2020-09-21 15:20
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de marsupial
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Kangourou]] || 1/2
-|-
-| [[Thylacine]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de marsupial</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Kangourou]]</td><td>1/2</td></tr><tr><td>[[Thylacine]]</td><td>1/2</td></tr></table>
+
 </div>*Cette créature, ressemblant à un chat, a une fourrure tigrée et des moustaches qui pendent de chaque côté de sa longue gueule garnie de dents aiguisées.*
 
 Ces marsupiaux carnivores aux larges mâchoires chassent généralement de nuit et sont réputés pour leur sauvagerie. De jour, ils nichent dans le creux des arbres ou dans les amas de buissons.

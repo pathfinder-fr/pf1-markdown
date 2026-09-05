@@ -12,30 +12,9 @@ Categories:
 
 Les talents marqués d’un astérisque ajoutent un effet à l’attaque sournoise du tueur. Ce dernier ne peut appliquer qu’un seul de ces talents à une attaque donnée et doit choisir lequel avant d’effectuer son jet d’attaque.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="60%"
-|+ Talents de tueur
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="2" | Talents
-|- CLASS="premier"
-| [[Talents (tueur)#ALLIEETUDIE|Allié étudié]] || [[Talents (tueur)#TROMPERLESINDISCRETS|Tromper les indiscrets]]
-|-
-| [[Talents (tueur)#ANALYSEDUSANG|Analyse du sang]] || [[Talents (tueur)#RECHERCHEDEPIEGES|Recherche de pièges]]
-|-
-| [[Talents (tueur)#COUPRALENTISSANT|Coup ralentissant]]* || [[Talents (tueur)#UTILISATIONDESPOISONS|Utilisation des poisons]]
-|-
-| [[Talents (tueur)#TALENTDEROUBLARD|Talent de roublard]] || [[Talents (tueur)#STYLEDECOMBATDURODEUR|Style de combat du rôdeur]]
-|-
-| [[Talents (tueur)#DISTANCEMORTELLE|Distance mortelle]] || &emsp;
-|-
-|- CLASS="titre"
-| &emsp;
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="2" | Talents de maître
-|- CLASS="premier"
-| [[Talents (tueur)#ASSASSINAT|Assassinat]] || [[Talents (tueur)#DEPLACEMENTFACILITE|Déplacement facilité]]
-|-
-| [[Talents (tueur)#CAMOUFLAGEDUTUEUR|Camouflage du tueur]] || [[Talents (tueur)#TALENTSDEMAITREROUBLARD|Talents de maître roublard]]
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="60%"><caption>Talents de tueur</caption><tr CLASS="titre"><td CLASS="centre" COLSPAN="2">Talents</td></tr><tr CLASS="premier"><td>[[Talents (tueur)#ALLIEETUDIE|Allié étudié]]</td><td>[[Talents (tueur)#TROMPERLESINDISCRETS|Tromper les indiscrets]]</td></tr><tr><td>[[Talents (tueur)#ANALYSEDUSANG|Analyse du sang]]</td><td>[[Talents (tueur)#RECHERCHEDEPIEGES|Recherche de pièges]]</td></tr><tr><td>[[Talents (tueur)#COUPRALENTISSANT|Coup ralentissant]]*</td><td>[[Talents (tueur)#UTILISATIONDESPOISONS|Utilisation des poisons]]</td></tr><tr><td>[[Talents (tueur)#TALENTDEROUBLARD|Talent de roublard]]</td><td>[[Talents (tueur)#STYLEDECOMBATDURODEUR|Style de combat du rôdeur]]</td></tr><tr><td>[[Talents (tueur)#DISTANCEMORTELLE|Distance mortelle]]</td><td>&emsp;</td></tr><tr CLASS="titre"><td>&emsp;</td></tr><tr CLASS="titre"><td CLASS="centre" COLSPAN="2">Talents de maître</td></tr><tr CLASS="premier"><td>[[Talents (tueur)#ASSASSINAT|Assassinat]]</td><td>[[Talents (tueur)#DEPLACEMENTFACILITE|Déplacement facilité]]</td></tr><tr><td>[[Talents (tueur)#CAMOUFLAGEDUTUEUR|Camouflage du tueur]]</td><td>[[Talents (tueur)#TALENTSDEMAITREROUBLARD|Talents de maître roublard]]</td></tr></table>
+
 
 ### Description des talents de tueur
 <table width="100%"><tr><td width="49%">
@@ -74,26 +53,9 @@ De même, au niveau 10, il peut choisir à nouveau ce talent et faire son choix 
 Un tueur peut choisir l’un des talents de roublard suivant au lieu d’un talent de tueur :
 
 <center>
-{| CLASS="tablo toutgauche autoalt" ID="tabtalroub"
-|+ Talents de roublard
-|- CLASS="titre"
-| COLSPAN="2" | Talents
-|  |
-|- CLASS="premier"
-| [[Talents#ALLIEINVOLONTAIRE|Allié involontaire]] || [[Talents#ATTAQUESANGLANTE|Attaque sanglante]]* || [[Talents#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*
-|-
-| [[Talents#ATTAQUESURPRISE|Attaque surprise]] || [[Talents#AUDACE|Audace]] || [[Talents#BOTTESECRETE|Botte secrète]]
-|-
-| [[Talents#CAMOUFLAGE|Camouflage]] || [[Talents#DENICHEURDEPIEGES|Dénicheur de pièges]] || [[Talents#DIFFICILEABERNER|Difficile à berner]]
-|-
-| [[Talents#DISCRETETRAPIDE|Discret et rapide]] || [[Talents#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]] || [[Talents#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]
-|-
-| [[Talents#FORMATIONMARTIALE|Formation martiale]] || [[Talents#MAITRISEDUTERRAIN|Maîtrise du terrain]] || [[Talents#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]
-|-
-| [[Talents#OEILDELARCHER|Oeil de l’archer]] || [[Talents#REACTIONSLENTES|Réactions lentes]]* || [[Talents#TIRSOUDAIN|Tir soudain]]
-|-
-| [[Talents#ROUBLARDENFINESSE|Roublard en finesse]] || [[Talents#POISONPERSISTANT|Poison persistant]]
-|}
+
+<table CLASS="tablo toutgauche autoalt" ID="tabtalroub"><caption>Talents de roublard</caption><tr CLASS="titre"><td COLSPAN="2">Talents</td></tr><tr CLASS="premier"><td>[[Talents#ALLIEINVOLONTAIRE|Allié involontaire]]</td><td>[[Talents#ATTAQUESANGLANTE|Attaque sanglante]]*</td><td>[[Talents#ATTAQUESOURNOISEPUISSANTE|Attaque sournoise puissante]]*</td></tr><tr><td>[[Talents#ATTAQUESURPRISE|Attaque surprise]]</td><td>[[Talents#AUDACE|Audace]]</td><td>[[Talents#BOTTESECRETE|Botte secrète]]</td></tr><tr><td>[[Talents#CAMOUFLAGE|Camouflage]]</td><td>[[Talents#DENICHEURDEPIEGES|Dénicheur de pièges]]</td><td>[[Talents#DIFFICILEABERNER|Difficile à berner]]</td></tr><tr><td>[[Talents#DISCRETETRAPIDE|Discret et rapide]]</td><td>[[Talents#EMPOISONNEMENTRAPIDE|Empoisonnement rapide]]</td><td>[[Talents#ENTRAINEMENTAUXARMESAFEU|Entraînement aux armes à feu]]</td></tr><tr><td>[[Talents#FORMATIONMARTIALE|Formation martiale]]</td><td>[[Talents#MAITRISEDUTERRAIN|Maîtrise du terrain]]</td><td>[[Talents#MOUVEMENTAQUATREPATTES|Mouvement à quatre pattes]]</td></tr><tr><td>[[Talents#OEILDELARCHER|Oeil de l’archer]]</td><td>[[Talents#REACTIONSLENTES|Réactions lentes]]*</td><td>[[Talents#TIRSOUDAIN|Tir soudain]]</td></tr><tr><td>[[Talents#ROUBLARDENFINESSE|Roublard en finesse]]</td><td>[[Talents#POISONPERSISTANT|Poison persistant]]</td></tr></table>
+
 </center>
 
 Les effets des talents basés sur le niveau de roublard appliquent à la place le niveau de tueur. Si le talent de roublard impose une condition, le tueur doit remplir cette condition avant de choisir le talent de roublard. Le tueur peut choisir ce talent à plusieurs reprises mais il doit à chaque fois choisir un talent de roublard différent.
@@ -154,18 +116,9 @@ choisir l’un des talents de maître roublard ou de maître ninja
 suivant au lieu d’un talent de maître tueur
 
 <center>
-{| CLASS="tablo toutgauche autoalt" ID="tabtaltueurm"
-|+ Talents de maître roublard et de maître ninja
-|- CLASS="titre"
-| COLSPAN="2" | Talents
-|  |
-|- CLASS="premier"
-| [[Talents#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]* || [[Talents#COUPASSOMMANT|Coup assommant]] || [[Talents#DON|Don]]
-|-
-| [[Astuces#ESQUIVETOTALE|Esquive Totale]] || [[Talents#MAITREDUDEGUISEMENT|Maître du déguisement]] || [[Talents#OPPORTUNISME|Opportunisme]]
-|-
-| [[Talents#SURPRISEDUCHASSEUR|Surprise du chasseur]] || [[Talents#TIREURDISCRET|Tireur discret]]
-|}
+
+<table CLASS="tablo toutgauche autoalt" ID="tabtaltueurm"><caption>Talents de maître roublard et de maître ninja</caption><tr CLASS="titre"><td COLSPAN="2">Talents</td></tr><tr CLASS="premier"><td>[[Talents#ATTAQUESOURNOISEMORTELLE|Attaque sournoise mortelle]]*</td><td>[[Talents#COUPASSOMMANT|Coup assommant]]</td><td>[[Talents#DON|Don]]</td></tr><tr><td>[[Astuces#ESQUIVETOTALE|Esquive Totale]]</td><td>[[Talents#MAITREDUDEGUISEMENT|Maître du déguisement]]</td><td>[[Talents#OPPORTUNISME|Opportunisme]]</td></tr><tr><td>[[Talents#SURPRISEDUCHASSEUR|Surprise du chasseur]]</td><td>[[Talents#TIREURDISCRET|Tireur discret]]</td></tr></table>
+
 </center>
 
 Un tueur peut choisir ce talent à plusieurs reprises mais ne peut pas choisir deux fois le même talent de maître roublard ou de maître ninja.

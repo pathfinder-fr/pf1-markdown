@@ -36,35 +36,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de mégafaune
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Archelon]] || 5
-|-
-| [[Arsinoithérium]] || 7
-|-
-| [[Baluchithérium]] || 8
-|-
-| [[Basilosaure]] || 12
-|-
-| [[Chalicothérium]] || 6
-|-
-| [[Glyptodonte]] || 6
-|-
-| [[Kaprosuchus]] || 5
-|-
-| [[Mégalania]] || 7
-|-
-| [[Mégalocéros]] || 4
-|-
-| [[Mégathérium]] || 5
-|-
-| [[Moa]] || 2
-|-
-| [[Uintathérium]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de mégafaune</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Archelon]]</td><td>5</td></tr><tr><td>[[Arsinoithérium]]</td><td>7</td></tr><tr><td>[[Baluchithérium]]</td><td>8</td></tr><tr><td>[[Basilosaure]]</td><td>12</td></tr><tr><td>[[Chalicothérium]]</td><td>6</td></tr><tr><td>[[Glyptodonte]]</td><td>6</td></tr><tr><td>[[Kaprosuchus]]</td><td>5</td></tr><tr><td>[[Mégalania]]</td><td>7</td></tr><tr><td>[[Mégalocéros]]</td><td>4</td></tr><tr><td>[[Mégathérium]]</td><td>5</td></tr><tr><td>[[Moa]]</td><td>2</td></tr><tr><td>[[Uintathérium]]</td><td>7</td></tr></table>
+
 </div>*La carapace de cette immense tortue de mer atteint facilement les 6 mètres de long. Sa tête étroite se termine par un bec crochu.*
 
 Cousin éloigné de la tortue luth, plus petite, l’archelon peut atteindre 4 mètres de long pour 5 mètres d’un bout à l’autre de ses nageoires. Pesant 2,5 tonnes, l’archelon a une morsure excessivement puissante et n’hésite pas à s’en servir pour repousser les nuisances aquatiques.

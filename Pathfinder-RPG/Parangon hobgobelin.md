@@ -39,32 +39,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] d'[[endurance de lours|endurance de l’ours]]*, *[[potions magiques|potion]] de [[force de taureau]]*, *[[potions magiques|potion]] de [[soins importants]]*, [[Feu grégeois (objet)|feux grégeois]] (2), [[Jus de ferveur (objet)|jus de ferveur]] ; **Équipement divers** [[javeline (arme)|javelines de maître]] (3), *[[bracelets darmure|bracelets d’armure +2]]*, *[[cape de résistance|cape de résistance +2]]*, *[[anneau de protection|anneau de protection +1]]*, *[[amulette des poings invincibles]]*, 7 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Hobgobelin
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hobgobelin]] || 1/2
-|-
-| [[Yzobu]] || 1
-|-
-| [[Sergent hobgobelin]] || 2
-|-
-| [[Zélote des batailles hobgobelin]] || 2
-|-
-| [[Lieutenant hobgobelin]] || 4
-|-
-| [[Précurseur hobgobelin]] || 6
-|-
-| [[Bombardier hobgobelin]] || 7
-|-
-| [[Prêtre guerrier hobgobelin]] || 8
-|-
-| [[Parangon hobgobelin]] || 10
-|-
-| [[Commandant hobgobelin]] || 12
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Hobgobelin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr><tr><td>[[Yzobu]]</td><td>1</td></tr><tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr><tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr><tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr><tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr><tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr><tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr><tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr><tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr></table>
+
 </div>Tous les hobgobelins sont attirés par le combat et les conflits, mais ils n’apprécient pas tous de n’être qu’un membre anonyme d’une unité militaire. Certains cherchent à perfectionner leur corps pour devenir un escadron à eux seuls, le pinacle de la maîtrise du combat, un temple de la technique parfaite et du talent. Ces hobgobelins sont austères, cruels et éprouvent une confiance absolue en leurs capacités.
 
 De nombreux parangons hobgobelins rejoignent une équipe spécialisée au sein d’une armée hobgobeline mais ils mènent une vie isolée, à l’écart des leurs, au lieu de ressentir un véritable esprit de camaraderie. Nombre d’entre eux parcourent le monde, participent à des tournois d’arts martiaux, qu’il s’agisse de luttes de gladiateurs dans une arène ou de compétitions dans un lointain monastère pratiquant des techniques étrangères. D’autres deviennent mercenaires et vendent leurs talents au plus offrant tant que leur contrat leur permet de faire souffrir les faibles et les indignes. Que le parangon serve de garde du corps à un marchand ou un politicien corrompu ou de gros bras dans une guilde criminelle, tant qu’il est prêt à servir un maître qui paie bien, il n’a aucun mal à trouver du travail, où qu’il se trouve.

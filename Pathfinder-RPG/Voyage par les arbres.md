@@ -20,18 +20,9 @@ Categories:
 Ce sort permet de pénétrer dans un arbre ou de se déplacer d’un arbre à un autre. L’arbre dans lequel le personnage entre et ceux par lesquels il passe avant de ressortir doivent appartenir à la même espèce. La largeur de leur tronc doit également leur permettre d’accueillir le lanceur de sorts. Dès que ce dernier pénètre dans un chêne (par exemple), il sait instantanément où tous les autres chênes situés dans les limites de portée du sort se trouvent (voir ci-dessous), ce qui lui permet de décider jusqu’auquel il souhaite se téléporter ou s’il veut ressortir par l’arbre par lequel il est entré. L’arbre au cœur duquel il peut réapparaître peut se trouver plus ou moins loin, en fonction de son espèce :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Espèce d’arbre || Portée du déplacement
-|- CLASS="premier"
-| Chêne, frêne, if || 900 m
-|- CLASS="alt"
-| Orme, tilleul || 600 m
-|-
-|| Autre arbre à feuilles caduques || 450 m
-|- CLASS="alt"
-| Conifère || 300 m
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Espèce d’arbre</td><td>Portée du déplacement</td></tr><tr CLASS="premier"><td>Chêne, frêne, if</td><td>900 m</td></tr><tr CLASS="alt"><td>Orme, tilleul</td><td>600 m</td></tr><tr><td>| Autre arbre à feuilles caduques</td><td>450 m</td></tr><tr CLASS="alt"><td>Conifère</td><td>300 m</td></tr></table>
+
 </center>
 
 Le personnage peut se téléporter une fois par [[NLS|niveau de lanceur de sorts]] (le fait de se déplacer du premier au deuxième arbre compte seulement pour un passage). Le sort s’achève dès que le personnage a épuisé son nombre de déplacements possibles ou dès qu’il sort d’un arbre. Chaque déplacement est une [[action complexe]].

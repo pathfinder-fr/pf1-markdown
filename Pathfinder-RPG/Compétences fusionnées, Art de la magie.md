@@ -29,19 +29,14 @@ Cette fonction de l’Art de la magie s’utilise comme la compétence de base [
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test  
-d’Art de la magie
-|- CLASS="premier"
-| Apprendre un sort à partir d’un  
-grimoire ou d’un [[Parchemins magiques|parchemin]] || 15 + niveau  
-du sort
-|-
-| Préparer un sort à partir d’un  
-grimoire emprunté || 15 + niveau  
-du sort
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
+d’Art de la magie</td></tr><tr CLASS="premier"><td>Apprendre un sort à partir d’un  
+grimoire ou d’un [[Parchemins magiques|parchemin]]</td><td>15 + niveau  
+du sort</td></tr><tr><td>Préparer un sort à partir d’un  
+grimoire emprunté</td><td>15 + niveau  
+du sort</td></tr></table>
+
 </center></div></div>Le personnage doit réussir un test d’Art de la magie pour ajouter de nouveaux sorts dans son grimoire ou pour préparer un sort à partir d’un grimoire emprunté.
 
 **Action.** Il faut une heure par niveau du sort pour apprendre un sort (les sorts de niveau 0 requièrent trente minutes). Si le personnage travaille à partir d’un grimoire emprunté, cela n’allonge pas le temps de préparation des sorts.
@@ -63,33 +58,20 @@ Le personnage peut utiliser l’Art de la magie pour identifier un monstre de ty
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test  
-d’Art de la magie
-|- CLASS="premier"
-| Identifier les auras magiques  
-en utilisant *[[détection de la magie]]* || 15 + niveau  
-du sort
-|-
-| Identifier les propriétés d’un objet  
-magique en utilisant *[[détection de la magie]]* || 15 + NLS de  
-l’objet magique
-|-
-| Identifier un sort en cours d’incantation || 15 + niveau  
-du sort
-|-
-| Déchiffrer un [[Parchemins magiques|parchemin]] sans  
-utiliser *[[lecture de la magie]]* || 20 + niveau  
-du sort
-|-
-| Identifier un effet de sort déjà actif || 20 + niveau  
-du sort
-|-
-| Identifier un sort qui vient de  
-viser le personnage || 25 + niveau  
-du sort
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
+d’Art de la magie</td></tr><tr CLASS="premier"><td>Identifier les auras magiques  
+en utilisant *[[détection de la magie]]*</td><td>15 + niveau  
+du sort</td></tr><tr><td>Identifier les propriétés d’un objet  
+magique en utilisant *[[détection de la magie]]*</td><td>15 + NLS de  
+l’objet magique</td></tr><tr><td>Identifier un sort en cours d’incantation</td><td>15 + niveau  
+du sort</td></tr><tr><td>Déchiffrer un [[Parchemins magiques|parchemin]] sans  
+utiliser *[[lecture de la magie]]*</td><td>20 + niveau  
+du sort</td></tr><tr><td>Identifier un effet de sort déjà actif</td><td>20 + niveau  
+du sort</td></tr><tr><td>Identifier un sort qui vient de  
+viser le personnage</td><td>25 + niveau  
+du sort</td></tr></table>
+
 </center></div></div>Le personnage peut identifier avec précision un sort au moment de son incantation ou en observant ses effets s’il réussit un test d’Art de la magie. Il est également capable d’identifier la nature des auras magiques et de déchiffrer un parchemin sans utiliser le sort de lecture de la magie.
 
 **Action.** Aucune dans la plupart des cas. Il faut une [[action complexe]] pour déchiffrer un [[Parchemins magiques|parchemin]] et 3 [[round|rounds]] par tentative d’identification des propriétés d’un objet magique.
@@ -103,17 +85,12 @@ du sort
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test  
-d’Art de la magie
-|- CLASS="premier"
-| Identifier les sorts que l’on peut  
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
+d’Art de la magie</td></tr><tr CLASS="premier"><td>Identifier les sorts que l’on peut  
 lancer à l’aide d’une composante  
-matérielle spécifique || 20
-|-
-| Identifier des matériaux créés  
-par magie || 20 + niveau  
-du sort
-|}
+matérielle spécifique</td><td>20</td></tr><tr><td>Identifier des matériaux créés  
+par magie</td><td>20 + niveau  
+du sort</td></tr></table>
+
 </center></div></div>Le personnage peut utiliser l’Art de la magie pour se remémorer des connaissances à propos des mystères anciens, des symboles et des traditions magiques. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus d’informations. Utilisez les DD de la table ci-contre pour certaines tâches.

@@ -17,61 +17,9 @@ Categories:
 - **FP.** Varie en fonction du nombre de [[DV]] du zombi, comme indiqué dans la table suivante.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ Table du FP du zombi
-|- CLASS="titre"
-| class="gauche" | DV
-| FP
-| PX
-|- CLASS="premier"
-| class="gauche" | 1/2
-| 1/8
-| 50
-|- CLASS="alt"
-| class="gauche" | 1
-| 1/4
-| 100
-|-
-| class="gauche" | 2
-| 1/2
-| 200
-|- CLASS="alt"
-| class="gauche" | 3-4
-| 1
-| 400
-|-
-| class="gauche" | 5–6
-| 2
-| 600
-|- CLASS="alt"
-| class="gauche" | 7-8
-| 3
-| 800
-|-
-| class="gauche" | 9–10
-| 4
-| 1200
-|- CLASS="alt"
-| class="gauche" | 11-12
-| 5
-| 1600
-|-
-| class="gauche" | 13–16
-| 6
-| 2400
-|- CLASS="alt"
-| class="gauche" | 17-20
-| 7
-| 3200
-|-
-| class="gauche" | 21–24
-| 8
-| 4800
-|- CLASS="alt"
-| class="gauche" | 25–28
-| 9
-| 6400
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>Table du FP du zombi</caption><tr CLASS="titre"><td class="gauche">DV</td><td>FP</td><td>PX</td></tr><tr CLASS="premier"><td class="gauche">1/2</td><td>1/8</td><td>50</td></tr><tr CLASS="alt"><td class="gauche">1</td><td>1/4</td><td>100</td></tr><tr><td class="gauche">2</td><td>1/2</td><td>200</td></tr><tr CLASS="alt"><td class="gauche">3-4</td><td>1</td><td>400</td></tr><tr><td class="gauche">5–6</td><td>2</td><td>600</td></tr><tr CLASS="alt"><td class="gauche">7-8</td><td>3</td><td>800</td></tr><tr><td class="gauche">9–10</td><td>4</td><td>1200</td></tr><tr CLASS="alt"><td class="gauche">11-12</td><td>5</td><td>1600</td></tr><tr><td class="gauche">13–16</td><td>6</td><td>2400</td></tr><tr CLASS="alt"><td class="gauche">17-20</td><td>7</td><td>3200</td></tr><tr><td class="gauche">21–24</td><td>8</td><td>4800</td></tr><tr CLASS="alt"><td class="gauche">25–28</td><td>9</td><td>6400</td></tr></table>
+
 </center>
 
 - **Alignement.** Toujours Neutre Mauvais.
@@ -79,62 +27,17 @@ Categories:
 - **CA.** Le bonus d’armure naturelle change, comme indiqué ci-dessous :
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ Table d'armure naturelle du zombi
-|- CLASS="titre"
-| class="gauche" | Taille du zombi
-| Bonus d’armure naturelle
-|- CLASS="premier"
-| class="gauche" | Très Petit ou plus petit
-| +0
-|- CLASS="alt"
-| class="gauche" | Petit
-| +1
-|-
-| class="gauche" | Moyen
-| +2
-|- CLASS="alt"
-| class="gauche" | Grand
-| +3
-|-
-| class="gauche" | Très Grand
-| +4
-|- CLASS="alt"
-| class="gauche" | Gigantesque
-| +7
-|-
-| class="gauche" | Colossal
-| +11
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>Table d'armure naturelle du zombi</caption><tr CLASS="titre"><td class="gauche">Taille du zombi</td><td>Bonus d’armure naturelle</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>+0</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td>+1</td></tr><tr><td class="gauche">Moyen</td><td>+2</td></tr><tr CLASS="alt"><td class="gauche">Grand</td><td>+3</td></tr><tr><td class="gauche">Très Grand</td><td>+4</td></tr><tr CLASS="alt"><td class="gauche">Gigantesque</td><td>+7</td></tr><tr><td class="gauche">Colossal</td><td>+11</td></tr></table>
+
 </center>
 
 - **DV.** Le zombi perd tous les [[DV]] correspondant à des niveaux de classes (mais conserve au moins 1 DV) et tous ses DV deviennent des d8. Il gagne des DV supplémentaires, comme indiqué ci-dessous :
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DV supplémentaires du zombi
-|- CLASS="titre"
-| Taille du zombi
-| DV en bonus
-|- CLASS="premier"
-| class="gauche" | Très Petit ou plus petit
-| —
-|- CLASS="alt"
-| class="gauche" | Petit ou Moyen
-| +1 DV
-|-
-| class="gauche" | Grand
-| +2 DV
-|- CLASS="alt"
-| class="gauche" | Très Grand
-| +4 DV
-|-
-| Gigantesque
-| +6 DV
-|- CLASS="alt"
-| Colossal
-| +10 DV
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DV supplémentaires du zombi</caption><tr CLASS="titre"><td>Taille du zombi</td><td>DV en bonus</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>—</td></tr><tr CLASS="alt"><td class="gauche">Petit ou Moyen</td><td>+1 DV</td></tr><tr><td class="gauche">Grand</td><td>+2 DV</td></tr><tr CLASS="alt"><td class="gauche">Très Grand</td><td>+4 DV</td></tr><tr><td>Gigantesque</td><td>+6 DV</td></tr><tr CLASS="alt"><td>Colossal</td><td>+10 DV</td></tr></table>
+
 </center>
 
 Le zombi utilise son modificateur de [[Charisme]] (au lieu de celui de [[Constitution]]) pour déterminer ses [[pv|points de vie]] supplémentaires.

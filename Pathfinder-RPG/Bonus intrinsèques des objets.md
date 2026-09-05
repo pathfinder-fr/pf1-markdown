@@ -29,124 +29,43 @@ La plupart des objets qui accordent des bonus aux statistiques appartiennent à 
 **Changements de caractéristiques.** Si la table précise qu’un objet confère des bonus d’altération aux valeurs de caractéristique, le porteur peut changer les valeurs de caractéristique associées en enlevant l’objet puis en le renfilant. Le nouveau bonus devient un bonus temporaire pendant vingt-quatre heures. Tous les objets qui confèrent un bonus d’[[Intelligence]] augmentent le bonus d’une compétence prédéfinie, tout comme le [[Bandeau dintelligence|bandeau d’intelligence]]. Les [[Amulette des poings invincibles|amulettes des poings invincibles]] et les [[Bracelets darmure|bracelets d’armure]] suivent les mêmes règles que les armes et armures : il est donc possible d’en faire des objets plus puissants (équivalent +10).
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ Objets sur l’emplacement du corps
-|- CLASS="titre"
-| Prix de départ || Bonus d’altération aux valeurs  
-de caractéristiques physiques || Augmentation  
-du prix
-|- CLASS="premier"
-| 0-3 999 po || — || —
-|-
-| 4 000-9 999 po || +2 à une valeur || +4 000 po
-|-
-| 10 000-15 999 po || +2 à deux valeurs || +10 000 po
-|-
-| 16 000-35 999 po || +4 à une valeur ou +2 aux trois || +16 000 po
-|-
-| 36 000-39 999 po || +6 à une valeur ou +4 à l’une et +2 aux deux autres || +36 000 po
-|-
-| 40 000-63 999 po || L’un des choix ci-dessus ou +4 à deux valeurs || +40 000 po
-|-
-| 64 000-89 999 po || +6 à une valeur et à une autre ou +4 aux trois +4 || +64 000 po
-|-
-| 90 000-143 999 po || +6 à deux valeurs ou à l’une et +4 aux deux autres +6 || +90 000 po
-|-
-| 144 000 po et plus || +6 aux trois valeurs || +144 000 po
-|}
 
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ Objets sur l’emplacement de la tête
-|- CLASS="titre"
-| Prix de départ || Bonus d’altération aux valeurs  
-de caractéristiques mentales || Augmentation  
-du prix
-|- CLASS="premier"
-| 0-3 999 po || — || —
-|-
-| 4 000-9 999 po || +2 à une valeur || +4 000 po
-|-
-| 10 000-15 999 po || +2 à deux valeurs || +10 000 po
-|-
-| 16 000-35 999 po || +4 à une valeur ou +2 aux trois || +16 000 po
-|}
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Objets sur l’emplacement du corps</caption><tr CLASS="titre"><td>Prix de départ</td><td>Bonus d’altération aux valeurs  
+de caractéristiques physiques</td><td>Augmentation  
+du prix</td></tr><tr CLASS="premier"><td>0-3 999 po</td><td>—</td><td>—</td></tr><tr><td>4 000-9 999 po</td><td>+2 à une valeur</td><td>+4 000 po</td></tr><tr><td>10 000-15 999 po</td><td>+2 à deux valeurs</td><td>+10 000 po</td></tr><tr><td>16 000-35 999 po</td><td>+4 à une valeur ou +2 aux trois</td><td>+16 000 po</td></tr><tr><td>36 000-39 999 po</td><td>+6 à une valeur ou +4 à l’une et +2 aux deux autres</td><td>+36 000 po</td></tr><tr><td>40 000-63 999 po</td><td>L’un des choix ci-dessus ou +4 à deux valeurs</td><td>+40 000 po</td></tr><tr><td>64 000-89 999 po</td><td>+6 à une valeur et à une autre ou +4 aux trois +4</td><td>+64 000 po</td></tr><tr><td>90 000-143 999 po</td><td>+6 à deux valeurs ou à l’une et +4 aux deux autres +6</td><td>+90 000 po</td></tr><tr><td>144 000 po et plus</td><td>+6 aux trois valeurs</td><td>+144 000 po</td></tr></table>
+
+
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Objets sur l’emplacement de la tête</caption><tr CLASS="titre"><td>Prix de départ</td><td>Bonus d’altération aux valeurs  
+de caractéristiques mentales</td><td>Augmentation  
+du prix</td></tr><tr CLASS="premier"><td>0-3 999 po</td><td>—</td><td>—</td></tr><tr><td>4 000-9 999 po</td><td>+2 à une valeur</td><td>+4 000 po</td></tr><tr><td>10 000-15 999 po</td><td>+2 à deux valeurs</td><td>+10 000 po</td></tr><tr><td>16 000-35 999 po</td><td>+4 à une valeur ou +2 aux trois</td><td>+16 000 po</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|-
-| 36 000-39 999 po || +6 à une valeur ou +4 à l’une et +2 aux deux autres || +36 000 po
-|-
-| 40 000-63 999 po || L’un des choix ci-dessus ou +4 à deux valeurs || +40 000 po
-|-
-| 64 000-89 999 po || +6 à une valeur et à une autre ou +4 aux trois +4 || +64 000 po
-|-
-| 90 000-143 999 po || +6 à deux valeurs ou à l’une et +4 aux deux autres +6 || +90 000 po
-|-
-| 144 000 po et plus || +6 aux trois valeurs || +144 000 po
-|}
 
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ Objets sur l’emplacement du cou
-|- CLASS="titre"
-| Prix de départ || Bonus d’altération  
-à l'armure naturelle || Augmentation  
-du prix
-|- CLASS="premier"
-| 0-1 999 po || — || —
-|-
-| 2 000-7 999 po || +1 || +2 000 po
-|-
-| 8 000-17 999 po || +2 || +8 000 po
-|-
-| 18 000-31 999 po || +3 || +18 000 po
-|-
-| 32 000-49 999 po || +4 || +32 000 po
-|-
-| 50 000 po et plus || +5 || +50 000 po
-|}
+<table CLASS="tablo centre autoalt" WIDTH="96%"><tr><td>36 000-39 999 po</td><td>+6 à une valeur ou +4 à l’une et +2 aux deux autres</td><td>+36 000 po</td></tr><tr><td>40 000-63 999 po</td><td>L’un des choix ci-dessus ou +4 à deux valeurs</td><td>+40 000 po</td></tr><tr><td>64 000-89 999 po</td><td>+6 à une valeur et à une autre ou +4 aux trois +4</td><td>+64 000 po</td></tr><tr><td>90 000-143 999 po</td><td>+6 à deux valeurs ou à l’une et +4 aux deux autres +6</td><td>+90 000 po</td></tr><tr><td>144 000 po et plus</td><td>+6 aux trois valeurs</td><td>+144 000 po</td></tr></table>
 
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ Objets sur l’emplacement des épaules
-|- CLASS="titre"
-| Prix de départ || Bonus de résistance  
-aux jets de sauvegarde || Augmentation  
-du prix
-|- CLASS="premier"
-| 0-999 po || — || —
-|-
-| 1 000-3 999 po || +1 || +1 000 po
-|-
-| 4 000-8 999 po || +2 || +4 000 po
-|-
-| 9 000-15 999 po || +3 || +9 000 po
-|-
-| 16 000-24 999 po || +4 || +16 000 po
-|-
-| 25 000 po et plus || +5 || +25 000 po
-|}
+
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Objets sur l’emplacement du cou</caption><tr CLASS="titre"><td>Prix de départ</td><td>Bonus d’altération  
+à l'armure naturelle</td><td>Augmentation  
+du prix</td></tr><tr CLASS="premier"><td>0-1 999 po</td><td>—</td><td>—</td></tr><tr><td>2 000-7 999 po</td><td>+1</td><td>+2 000 po</td></tr><tr><td>8 000-17 999 po</td><td>+2</td><td>+8 000 po</td></tr><tr><td>18 000-31 999 po</td><td>+3</td><td>+18 000 po</td></tr><tr><td>32 000-49 999 po</td><td>+4</td><td>+32 000 po</td></tr><tr><td>50 000 po et plus</td><td>+5</td><td>+50 000 po</td></tr></table>
+
+
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Objets sur l’emplacement des épaules</caption><tr CLASS="titre"><td>Prix de départ</td><td>Bonus de résistance  
+aux jets de sauvegarde</td><td>Augmentation  
+du prix</td></tr><tr CLASS="premier"><td>0-999 po</td><td>—</td><td>—</td></tr><tr><td>1 000-3 999 po</td><td>+1</td><td>+1 000 po</td></tr><tr><td>4 000-8 999 po</td><td>+2</td><td>+4 000 po</td></tr><tr><td>9 000-15 999 po</td><td>+3</td><td>+9 000 po</td></tr><tr><td>16 000-24 999 po</td><td>+4</td><td>+16 000 po</td></tr><tr><td>25 000 po et plus</td><td>+5</td><td>+25 000 po</td></tr></table>
+
 </td></tr></table>
 
 ### Anneaux
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Anneaux
-|- CLASS="titre"
-| Prix de départ || Bonus de  
-parade à la CA || Augmentation  
-du prix
-|- CLASS="premier"
-| 0-1 999 po || — || —
-|-
-| 2 000-7 999 po || +1 || +2 000 po
-|-
-| 8 000-17 999 po || +2 || +8 000 po
-|-
-| 18 000-31 999 po || +3 || +18 000 po
-|-
-| 32 000-49 999 po || +4 || +32 000 po
-|-
-| 50 000 po et plus || +5 || +50 000 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Anneaux</caption><tr CLASS="titre"><td>Prix de départ</td><td>Bonus de  
+parade à la CA</td><td>Augmentation  
+du prix</td></tr><tr CLASS="premier"><td>0-1 999 po</td><td>—</td><td>—</td></tr><tr><td>2 000-7 999 po</td><td>+1</td><td>+2 000 po</td></tr><tr><td>8 000-17 999 po</td><td>+2</td><td>+8 000 po</td></tr><tr><td>18 000-31 999 po</td><td>+3</td><td>+18 000 po</td></tr><tr><td>32 000-49 999 po</td><td>+4</td><td>+32 000 po</td></tr><tr><td>50 000 po et plus</td><td>+5</td><td>+50 000 po</td></tr></table>
+
 </div></div>Les anneaux fonctionnent pratiquement comme les objets merveilleux.
 
 **Objets supprimés.** Supprimez tous les [[Anneau de protection|anneaux de protection]] et ajoutez le bonus de parade indiqué dans la table "Anneaux", ci-contre.

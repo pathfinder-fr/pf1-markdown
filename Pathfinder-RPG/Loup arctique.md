@@ -40,15 +40,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de worg
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Loup arctique]] || 5
-|-
-| [[Worg]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de worg</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Loup arctique]]</td><td>5</td></tr><tr><td>[[Worg]]</td><td>2</td></tr></table>
+
 </div>''Ce loup aussi grand qu’un ours et couvert de fourrure blanche a le museau
 cerclé de givre et des yeux bleu pâle, presque blancs.''
 

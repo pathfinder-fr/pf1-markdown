@@ -9,19 +9,9 @@ Le casque cérothien, comme n’importe quel casque, complète la protection off
 Il existe des casque cérotien en divers matériaux, des casques de maître ou même magique. Les casques boutoirs et les casques haches permettent de délivrer des dégâts tranchants ou contondants. Enfin il existe des casque adaptés aux cérothiens ayant choisi le don arme naturelle supérieure. {br}
 La plupart des casques cérothiens comprennent au-dessus de l’œil une petite cavité dans lesquelles les lentilles des lorgnons peuvent être conservées en sécurité. Il faut une action de mouvement pour mettre en place les lorgnons ou pour les reloger dans la cavité.{br}
 
-{| CLASS="tablo"
-|+ Casques des cérothiens
-|- CLASS="titre"
-| Armes  || Prix || Dégâts (P) || Dégâts (M) || Dégâts (G) || Critique || Poids || Type || Spécial
-|- CLASS="premier"
-| COLSPAN="9" | **Armes de guerre**
-|- CLASS="alt"
-| &emsp; Casque boutoir || 50 po || 1d3 || 1d4 || 1d6 || 20/×2 || 1 kg || C || Voir description
-|-
-| &emsp; Casque cérothien || 100 po || 1d4 || 1d6 || 1d8 || 20/×3 || 1 kg || P || Voir description
-|- CLASS="alt"
-| &emsp; Casque hache || 150 po || 1d4 || 1d6 || 1d8 || 20/×2 || 1 kg || T || Voir description
-|}
+
+<table CLASS="tablo"><caption>Casques des cérothiens</caption><tr CLASS="titre"><td>Armes</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Dégâts (G)</td><td>Critique</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr CLASS="premier"><td COLSPAN="9">**Armes de guerre**</td></tr><tr CLASS="alt"><td>&emsp; Casque boutoir</td><td>50 po</td><td>1d3</td><td>1d4</td><td>1d6</td><td>20/×2</td><td>1 kg</td><td>C</td><td>Voir description</td></tr><tr><td>&emsp; Casque cérothien</td><td>100 po</td><td>1d4</td><td>1d6</td><td>1d8</td><td>20/×3</td><td>1 kg</td><td>P</td><td>Voir description</td></tr><tr CLASS="alt"><td>&emsp; Casque hache</td><td>150 po</td><td>1d4</td><td>1d6</td><td>1d8</td><td>20/×2</td><td>1 kg</td><td>T</td><td>Voir description</td></tr></table>
+
 
 
 

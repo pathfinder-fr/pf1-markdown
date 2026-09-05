@@ -17,18 +17,9 @@ Le propriétaire du livre n’a pas besoin de l’avoir en sa possession pour ut
 
 À chaque fois que l’on lance un sort, il y a des chances que l’énergie générée tourne la page du livre, en dépit de toutes les précautions. Cela dépend du sort concerné et du type de sorts que le propriétaire sait lancer.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Condition || Chances que la page se tourne
-|- CLASS="premier"
-| Le lanceur de sorts utilise un sort qu’il peut lancer grâce à sa classe et à son niveau || 10%
-|-
-| Le lanceur de sorts utilise un sort qu’il ne peut pas lancer grâce à sa classe et à son niveau || 20%
-|-
-| Le propriétaire n’est pas un lanceur de sorts et emploie un sort divin || 25%
-|-
-| Le propriétaire n’est pas un lanceur de sorts et emploie un sort profane || 30%
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Condition</td><td>Chances que la page se tourne</td></tr><tr CLASS="premier"><td>Le lanceur de sorts utilise un sort qu’il peut lancer grâce à sa classe et à son niveau</td><td>10%</td></tr><tr><td>Le lanceur de sorts utilise un sort qu’il ne peut pas lancer grâce à sa classe et à son niveau</td><td>20%</td></tr><tr><td>Le propriétaire n’est pas un lanceur de sorts et emploie un sort divin</td><td>25%</td></tr><tr><td>Le propriétaire n’est pas un lanceur de sorts et emploie un sort profane</td><td>30%</td></tr></table>
+
 
 Quand il s’agit de déterminer la durée d’incantation, les risques d’échec du sort etc., faites comme si le personnage le lançait à partir d’un [[parchemins magiques|parchemin]].
 (((Destruction)))

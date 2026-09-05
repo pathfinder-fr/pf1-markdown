@@ -28,56 +28,5 @@ Plusieurs sections importantes des règles de Pathfinder 2 ont été mises à jo
 #### Concepts remplacés
 Les règles et éléments narratifs qui apparaissent dans la table ci-dessous ont été remplacés par de nouveaux termes ou de nouveaux concepts dans les règles mises à jour pour le Remaster. Ces modifications sont détaillées plus loin dans le texte.
 
-{| CLASS="tablo centre autoalt"
-|+ Concepts remplacés
-|- CLASS="titre"
-| COLSPAN="2" CLASS="avecsoustitre" | Ancien
-| COLSPAN="2" CLASS="avecsoustitre" | Nouveau
-| ROWSPAN="2" | Notes
-|- CLASS="soustitre"
-| VO || VF || VO || VF
-|- CLASS="premier"
-| Ability modifier || Modificateur de caractéristique || Attribute modifier || Modificateur d'attribut || Voir Modificateurs de caractéristiques plus loin
-|-
-| Ability score || Caractéristique || — || — || Voir Modificateurs de caractéristiques plus loin
-|-
-| Abyss || Les Abysses || The Outer Rifts || La Fosse Extérieure ? || Changement lié au monde
-|-
-| Aquan || aqueux || Thalassic || thalassique || Changement lié au monde
-|-
-| Attack of Opportunity || Attaque d'opportunité || Reactive Strike || Frappe réactive || Nom plus descriptif, moins de confusion pour les joueurs venant d'un autre système qui utilise ce terme
-|-
-| Auran || Aérien || Susurran || susurrien || Changement lié au monde
-|-
-| Azer || azer || Munsahir || munsahir || Voir plus loin
-|-
-| City of Brass || Cité d'Airain || Medina Mudii'a || Medina Mudii'a || Changement lié au monde
-|-
-| Conteract level || Niveau de contre || Counteract rank || Rang de contre || Pour éviter la confusion entre niveau et niveau
-|-
-| Darkwood || Bois sombre || Duskwood || Bois sombre || Changement lié au monde
-|-
-| Sustain a Spell || Maintenir un sort || Sustain || Maintenir || Voir plus loin
-|-
-| Divine Ability || Caractéristique divine || Divine attribute || Attribut divin || Par cohérence avec la nouvelle terminologie
-|-
-| Djinni || djinn || Jaathoom || jaathoom || Voir plus loin
-|-
-| Efreeti || efrit || Ifrit || Ifrit || Voir plus loin
-|-
-| Flat-footed || Pris au dépourvu || Off-guard || guarde-basse || Le terme n'était pas clair et assez étrange.
-|-
-| Focus spell component || Focalisateur || Locus || locus || Changé pour éviter la confusion avec les sorts de focalisation
-|-
-| Ifrit || ifrit || Naari || naari || Voir plus loin
-|-
-| Ignan || igneux || Pyric || pyrique || Changement lié au monde
-|-
-| Janni || jann || Jann || jann || Voir plus loin
-|-
-| Marid || marid || Faydhaan || faydhaan || Voir plus loin
-|-
-| Material Plane || plan Matériel || The Universe || l'Univers || Changement lié au monde
-|-
-| Mephit |  | méphite |  | Scamp |
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Concepts remplacés</caption><tr CLASS="titre"><td COLSPAN="2" CLASS="avecsoustitre">Ancien</td><td COLSPAN="2" CLASS="avecsoustitre">Nouveau</td><td ROWSPAN="2">Notes</td></tr><tr CLASS="soustitre"><td>VO</td><td>VF</td><td>VO</td><td>VF</td></tr><tr CLASS="premier"><td>Ability modifier</td><td>Modificateur de caractéristique</td><td>Attribute modifier</td><td>Modificateur d'attribut</td><td>Voir Modificateurs de caractéristiques plus loin</td></tr><tr><td>Ability score</td><td>Caractéristique</td><td>—</td><td>—</td><td>Voir Modificateurs de caractéristiques plus loin</td></tr><tr><td>Abyss</td><td>Les Abysses</td><td>The Outer Rifts</td><td>La Fosse Extérieure ?</td><td>Changement lié au monde</td></tr><tr><td>Aquan</td><td>aqueux</td><td>Thalassic</td><td>thalassique</td><td>Changement lié au monde</td></tr><tr><td>Attack of Opportunity</td><td>Attaque d'opportunité</td><td>Reactive Strike</td><td>Frappe réactive</td><td>Nom plus descriptif, moins de confusion pour les joueurs venant d'un autre système qui utilise ce terme</td></tr><tr><td>Auran</td><td>Aérien</td><td>Susurran</td><td>susurrien</td><td>Changement lié au monde</td></tr><tr><td>Azer</td><td>azer</td><td>Munsahir</td><td>munsahir</td><td>Voir plus loin</td></tr><tr><td>City of Brass</td><td>Cité d'Airain</td><td>Medina Mudii'a</td><td>Medina Mudii'a</td><td>Changement lié au monde</td></tr><tr><td>Conteract level</td><td>Niveau de contre</td><td>Counteract rank</td><td>Rang de contre</td><td>Pour éviter la confusion entre niveau et niveau</td></tr><tr><td>Darkwood</td><td>Bois sombre</td><td>Duskwood</td><td>Bois sombre</td><td>Changement lié au monde</td></tr><tr><td>Sustain a Spell</td><td>Maintenir un sort</td><td>Sustain</td><td>Maintenir</td><td>Voir plus loin</td></tr><tr><td>Divine Ability</td><td>Caractéristique divine</td><td>Divine attribute</td><td>Attribut divin</td><td>Par cohérence avec la nouvelle terminologie</td></tr><tr><td>Djinni</td><td>djinn</td><td>Jaathoom</td><td>jaathoom</td><td>Voir plus loin</td></tr><tr><td>Efreeti</td><td>efrit</td><td>Ifrit</td><td>Ifrit</td><td>Voir plus loin</td></tr><tr><td>Flat-footed</td><td>Pris au dépourvu</td><td>Off-guard</td><td>guarde-basse</td><td>Le terme n'était pas clair et assez étrange.</td></tr><tr><td>Focus spell component</td><td>Focalisateur</td><td>Locus</td><td>locus</td><td>Changé pour éviter la confusion avec les sorts de focalisation</td></tr><tr><td>Ifrit</td><td>ifrit</td><td>Naari</td><td>naari</td><td>Voir plus loin</td></tr><tr><td>Ignan</td><td>igneux</td><td>Pyric</td><td>pyrique</td><td>Changement lié au monde</td></tr><tr><td>Janni</td><td>jann</td><td>Jann</td><td>jann</td><td>Voir plus loin</td></tr><tr><td>Marid</td><td>marid</td><td>Faydhaan</td><td>faydhaan</td><td>Voir plus loin</td></tr><tr><td>Material Plane</td><td>plan Matériel</td><td>The Universe</td><td>l'Univers</td><td>Changement lié au monde</td></tr><tr><td>Mephit</td><td>méphite</td><td>Scamp ||</td></tr></table>

@@ -41,15 +41,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de destrier noir
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cauchemar]] || 11
-|-
-| [[Destrier noir]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de destrier noir</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cauchemar]]</td><td>11</td></tr><tr><td>[[Destrier noir]]</td><td>5</td></tr></table>
+
 </div>*Du feu jaillit de la crinière et des nasaux de cet étrange cheval à la peau noire comme de l’encre et ses sabots projettent des étincelles.*
 
 Les destriers noirs sont annonciateurs de

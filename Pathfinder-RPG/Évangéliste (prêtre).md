@@ -24,28 +24,7 @@ L’évangéliste peut donner un certain nombre de représentations surnaturelle
 L’Évangéliste ne peut pas lancer de sorts de soins ou de blessure spontanés en sacrifiant un sort préparé. En revanche, il peut lancer l’un des suivants en sacrifiant un sort du niveau indiqué.
 
 <center>
-{| CLASS="tablo"
-|+ Incantation spontanée
-|- CLASS="titre"
-| Niveau de sort || Sort de remplacement
-|-
-| &emsp;1 || *[[injonction]]*
-|- CLASS="alt"
-| &emsp;2 || *[[discours captivant]]*
-|-
-| &emsp;3 || *[[don des langues]]*
-|- CLASS="alt"
-| &emsp;4 || *[[suggestion]]*
-|-
-| &emsp;5 || *[[injonction suprême]]*
-|- CLASS="alt"
-| &emsp;6 || *[[quête]]*
-|-
-| &emsp;7 || *[[suggestion de groupe]]*
-|- CLASS="alt"
-| &emsp;8 || *[[attirance]]*
-|-
-| &emsp;9 || *[[exigence]]*
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo"><caption>Incantation spontanée</caption><tr CLASS="titre"><td>Niveau de sort</td><td>Sort de remplacement</td></tr><tr><td>&emsp;1</td><td>*[[injonction]]*</td></tr><tr CLASS="alt"><td>&emsp;2</td><td>*[[discours captivant]]*</td></tr><tr><td>&emsp;3</td><td>*[[don des langues]]*</td></tr><tr CLASS="alt"><td>&emsp;4</td><td>*[[suggestion]]*</td></tr><tr><td>&emsp;5</td><td>*[[injonction suprême]]*</td></tr><tr CLASS="alt"><td>&emsp;6</td><td>*[[quête]]*</td></tr><tr><td>&emsp;7</td><td>*[[suggestion de groupe]]*</td></tr><tr CLASS="alt"><td>&emsp;8</td><td>*[[attirance]]*</td></tr><tr><td>&emsp;9</td><td>*[[exigence]]*</td></tr><tr CLASS="alt"></tr></table>
+
 </center>

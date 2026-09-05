@@ -17,20 +17,9 @@ Categories:
 #### L'échelle de stratégie
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Stratégie || VDÉF || MA || Dégâts infligés
-|- CLASS="premier"
-| Défensive || +4 || -4 || -6
-|-
-| Prudente || +2 || -2 || -3
-|-
-| Standard || +0 || +0 || +0
-|-
-| Agressive || -2 || +2 || +3
-|-
-| Téméraire || -4 || +4 || +6
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Stratégie</td><td>VDÉF</td><td>MA</td><td>Dégâts infligés</td></tr><tr CLASS="premier"><td>Défensive</td><td>+4</td><td>-4</td><td>-6</td></tr><tr><td>Prudente</td><td>+2</td><td>-2</td><td>-3</td></tr><tr><td>Standard</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>Agressive</td><td>-2</td><td>+2</td><td>+3</td></tr><tr><td>Téméraire</td><td>-4</td><td>+4</td><td>+6</td></tr></table>
+
 </div></div>Lors de la première phase de corps à corps, le commandant choisit une stratégie parmi les cinq proposées sur l’échelle de stratégie. Ces stratégies modifient la [[Combat de masse#VDEF|VDéf]], le [[Combat de masse#MA|MA]] et les modificateurs de dégâts de l’armée.
 
 Le commandant peut modifier sa stratégie à chaque phase de corps à corps après la première. Il n’a pas besoin de faire de test pour adopter une nouvelle stratégie située un cran au-dessus ou en dessous de celle qu’il utilise actuellement, il réussit automatiquement. En revanche, s’il veut modifier sa stratégie de plus d’un cran, son armée doit faire un test de [[Combat de masse#MORAL|moral]] de [[DD]] 20. Si elle réussit, elle adopte la stratégie voulue, sinon, elle continue de suivre sa stratégie actuelle.

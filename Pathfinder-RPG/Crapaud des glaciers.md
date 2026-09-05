@@ -39,17 +39,9 @@ Categories:
 {s:BDTexte|**Froid glacial (Sur).** Toutes les créatures situées dans un rayon de 6 mètres autour d’un crapaud des glaciers subit 1d6 points de dégâts de froid chaque round lors du tour du crapaud.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crapaud
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Crapaud]] || 1/8
-|-
-| [[Crapaud des glaciers]] || 6
-|-
-| [[Crapaud géant]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crapaud</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crapaud]]</td><td>1/8</td></tr><tr><td>[[Crapaud des glaciers]]</td><td>6</td></tr><tr><td>[[Crapaud géant]]</td><td>2</td></tr></table>
+
 </div>*Ce crapaud de taille étonnante a une peau bleu pâle et son corps est couvert d’excroissances acérées et gelées.*
 
 Les crapauds des glaciers sont

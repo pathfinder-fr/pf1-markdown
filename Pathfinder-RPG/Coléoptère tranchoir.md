@@ -40,19 +40,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de coléoptère
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Charançon géant]] || 4
-|-
-| [[Coléoptère goliath]] || 8
-|-
-| [[Coléoptère tranchoir]] || 4
-|-
-| [[Punaise de feu]] || 1/3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de coléoptère</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Charançon géant]]</td><td>4</td></tr><tr><td>[[Coléoptère goliath]]</td><td>8</td></tr><tr><td>[[Coléoptère tranchoir]]</td><td>4</td></tr><tr><td>[[Punaise de feu]]</td><td>1/3</td></tr></table>
+
 </div>*Ce coléoptère trapu mais immense se déplace par une série de petits mouvements rapides. Ses mandibules ont l’air particulièrement acérées.*
 
 La gueule du coléoptère tranchoir est munie d’appendices

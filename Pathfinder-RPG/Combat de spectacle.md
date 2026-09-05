@@ -52,37 +52,13 @@ Lors d’un combat de spectacle, la première chose à faire consiste à déterm
 Quand un combattant a l’occasion de modifier l’attitude de la foule, il fait un test de combat de spectacle. C’est un test basé sur le [[Pathfinder-RPG.Charisme|Charisme]] et modifié par le bonus de base à l’attaque plus le rang éventuel du personnage en [[Pathfinder-RPG.Représentation|Représentation]] (comédie), (danse) ou (jeu d’acteur), choisissez le plus élevé. Ce test s’effectue par une [[Pathfinder-RPG.action rapide|action rapide]] qui se déclenche quand le personnage fait une action déclencheuse (voir la partie Modifier l’attitude de la foule).
 
 <table width="100%"><tr style="vertical-align: top"><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ Test selon le bonus de base à l'attaque
-|- CLASS="titre"
-| Bonus de base à l'attaque || Bonus au test de combat de spectacle
-|- CLASS="premier"
-| 0 || +0
-|-
-| 1-5 || +1
-|-
-| 6-10 || +2
-|-
-| 11-15 || +3
-|-
-| 16+ || +4
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Test selon le bonus de base à l'attaque</caption><tr CLASS="titre"><td>Bonus de base à l'attaque</td><td>Bonus au test de combat de spectacle</td></tr><tr CLASS="premier"><td>0</td><td>+0</td></tr><tr><td>1-5</td><td>+1</td></tr><tr><td>6-10</td><td>+2</td></tr><tr><td>11-15</td><td>+3</td></tr><tr><td>16+</td><td>+4</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ Test selon le meilleur rang en Représentation
-|- CLASS="titre"
-| Meilleur rang en Représentation || Bonus au test de combat de spectacle
-|- CLASS="premier"
-| 0 || +0
-|-
-| 1-5 || +1
-|-
-| 6-10 || +2
-|-
-| 11-15 || +3
-|-
-| 16+ || +4
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>Test selon le meilleur rang en Représentation</caption><tr CLASS="titre"><td>Meilleur rang en Représentation</td><td>Bonus au test de combat de spectacle</td></tr><tr CLASS="premier"><td>0</td><td>+0</td></tr><tr><td>1-5</td><td>+1</td></tr><tr><td>6-10</td><td>+2</td></tr><tr><td>11-15</td><td>+3</td></tr><tr><td>16+</td><td>+4</td></tr></table>
+
 </td></tr></table>
 
 Quand le personnage utilise une [[Caractéristiques des armes#SPECTACLE|arme de spectacle]], il gagne un bonus de +2 aux tests de combat de spectacle. Certains dons, sorts et autres peuvent aussi apporter un bonus au test.
@@ -93,23 +69,9 @@ Quand le personnage réussit un test de manoeuvre de spectacle, l’attitude de 
 ### DD des tests de combat de spectacle
 Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieurs facteurs, dont l’attitude de départ de la foule, son attitude actuelle, la taille du public et le nombre de créatures qui participent au combat. Le [[Pathfinder-RPG.DD|DD]] de base dépend de l’attitude actuelle de la foule envers l’équipe concernée.
 
-{| CLASS="tablo centre autoalt"
-|+ DD des tests de combat de spectacle
-|- CLASS="titre"
-| Attitude de départ ou actuelle || DD de base pour améliorer l’attitude
-|- CLASS="premier"
-| Hostile || 20
-|-
-| Inamical || 15
-|-
-| Indifférent || 10
-|-
-| Amical || 15
-|-
-| Serviable || 20<sup>[[Combat de spectacle#NOTE1|1]]</sup>
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE1}*(1) DD pour gagner 1 point de victoire.Le DD de base varie en fonction de la taille de la foule, du nombre de participants dans chaque équipe et d’autres facteurs.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>DD des tests de combat de spectacle</caption><tr CLASS="titre"><td>Attitude de départ ou actuelle</td><td>DD de base pour améliorer l’attitude</td></tr><tr CLASS="premier"><td>Hostile</td><td>20</td></tr><tr><td>Inamical</td><td>15</td></tr><tr><td>Indifférent</td><td>10</td></tr><tr><td>Amical</td><td>15</td></tr><tr><td>Serviable</td><td>20<sup>[[Combat de spectacle#NOTE1|1]]</sup></td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE1}*(1) DD pour gagner 1 point de victoire.Le DD de base varie en fonction de la taille de la foule, du nombre de participants dans chaque équipe et d’autres facteurs.*</td></tr></table>
+
 
 **Taille de la foule.** Il est plus difficile de conquérir un vaste public. Pour le faire changer d’attitude, il faut accomplir de grandes prouesses ou réaliser une suite de démonstrations appréciées. Voici les catégories de taille de la foule et leur effet sur le [[Pathfinder-RPG.DD|DD]] d’amélioration d’attitude et de gain de points de victoire.
 - *Public réduit.* Ce public comprend entre 2 et 25 créatures et n’influe pas sur le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle. 
@@ -132,19 +94,9 @@ Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieu
 **Autres modificateurs.** Voici d’autres éléments qui modifient systématiquement le [[Pathfinder-RPG.DD|DD]] des tests qui permettent de modifier l’attitude de la foule ou de gagner des [[Pathfinder-RPG.Combat de spectacle|points de victoire]].
 - *Tricher.* Si un camp triche ostensiblement ou enfreint les règles, le [[Pathfinder-RPG.DD|DD]] de ses tests de combat de spectacle augmente de 2 pour le reste du combat. Ce malus est cumulable. Pour repérer la tricherie, déterminez le bonus de [[Pathfinder-RPG.Perception|Perception]] et de [[Pathfinder-RPG.Psychologie|Psychologie]] de la foule (+0 pour une foule d’humains ordinaires) et appliquez les modificateurs basés sur la taille du public. Le [[Pathfinder-RPG.DD|DD]] dépend de ce que fait le combattant pour cacher sa tricherie (habituellement, il recourt au [[Pathfinder-RPG.Bluff|Bluff]] ou à la [[Pathfinder-RPG.Discrétion|Discrétion]]). 
 
-{| CLASS="tablo centre autoalt"
-|+ Tricher
-|- CLASS="titre"
-| Taille de la foule || Bonus aux tests de Perception et de Psychologie pour repérer une tricherie
-|- CLASS="premier"
-| Public réduit || +8
-|-
-| Public ordinaire || +12
-|-
-| Large public || +16
-|-
-| Public très nombreux || +20
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Tricher</caption><tr CLASS="titre"><td>Taille de la foule</td><td>Bonus aux tests de Perception et de Psychologie pour repérer une tricherie</td></tr><tr CLASS="premier"><td>Public réduit</td><td>+8</td></tr><tr><td>Public ordinaire</td><td>+12</td></tr><tr><td>Large public</td><td>+16</td></tr><tr><td>Public très nombreux</td><td>+20</td></tr></table>
+
 - *En supériorité numérique.* Si un camp est en supériorité numérique avec un ratio inférieur à 2 contre 1, le [[Pathfinder-RPG.DD|DD]] des tests qui permettent de modifier l’attitude de la foule ou de gagner des [[Pathfinder-RPG.Combat de spectacle|points de victoire]] de cette équipe augmente de 2. Si le ratio est supérieur à 2 contre 1, le [[Pathfinder-RPG.DD|DD]] augmente de 6. Cette augmentation disparaît ou diminue si le nombre de combattants s’équilibre ou s’il passe à moins de 2 contre 1.
 
 - *Avantage injuste.* Si une équipe a un avantage injuste évident (si elle commence le combat avec une position fortifiée, si elle a des armes et des armures de qualité supérieure ou encore si son adversaire est désarmé), le [[Pathfinder-RPG.DD|DD]] des tests qui permettent de modifier l’attitude de la foule ou de gagner des [[Pathfinder-RPG.Combat de spectacle|points de victoire]] augmente de 2. Le MJ peut accentuer le malus jusqu’à un maximum de 6 si l’injustice est énorme.
@@ -152,19 +104,9 @@ Le [[Pathfinder-RPG.DD|DD]] des tests de combat de spectacle se base sur plusieu
 - *Pot de vin ou coercition.* On peut acheter la foule ou faire pression sur elle. En général, pour ce faire, il faut donner une certaine quantité d’or basée sur la taille du public et réussir un test de Diplomatie basé sur cette même taille. Si l’équipe paie et rate son test de [[Pathfinder-RPG.Diplomatie|Diplomatie]], elle reçoit un malus pour tricherie mais elle perd tout de même son or. Si elle réussit son test, le [[Pathfinder-RPG.DD|DD]] des tests qui permettent de modifier l’attitude de la foule ou de gagner des [[Pathfinder-RPG.Combat de spectacle|points de victoire]] diminue de 2.
 Le [[Pathfinder-RPG.DD|DD]] diminue de 1 point de plus par tranche de 5 points au dessus du [[Pathfinder-RPG.DD|DD]] du test de [[Pathfinder-RPG.Diplomatie|Diplomatie]].
 
-{| CLASS="tablo centre autoalt"
-|+ Pot de vin ou coercition
-|- CLASS="titre"
-| Taille de la foule || DD de Diplomatie || Or dépensé
-|- CLASS="premier"
-| Public réduit || 15 || 25 po
-|-
-| Public ordinaire || 20 || 150 po
-|-
-| Large public || 25 || 750 po
-|-
-| Public très nombreux || 30 || 2 000 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Pot de vin ou coercition</caption><tr CLASS="titre"><td>Taille de la foule</td><td>DD de Diplomatie</td><td>Or dépensé</td></tr><tr CLASS="premier"><td>Public réduit</td><td>15</td><td>25 po</td></tr><tr><td>Public ordinaire</td><td>20</td><td>150 po</td></tr><tr><td>Large public</td><td>25</td><td>750 po</td></tr><tr><td>Public très nombreux</td><td>30</td><td>2 000 po</td></tr></table>
+
 
 {s:Reference|MODIFIERATTITUDEFOULE}
 ### Modifier l'attitude de la foule

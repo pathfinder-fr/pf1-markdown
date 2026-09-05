@@ -14,53 +14,9 @@ De plusieurs manières, la culture naine est en déclin depuis leur émergence f
 Ces nains qui se consacrent passionnément à la réalisation de ce rêve sont connus sous le nom de prospecteurs célestes. Ils voyagent à travers les continents, en déterrant le plus d'informations possibles sur l'histoire naine. Beaucoup forment des expéditions pour explorer les ruines naines délaissées par leurs ancêtres pendant la migration, et se battent souvent contre les ignobles créatures qui se cachent sous la surface du monde dans leur recherche de savoir. D'autres espèrent redécouvrir ou reconquérir une des mythiques citadelles sur la surface perdues dans l'éternité qui s'est écoulée depuis la quête de la surface.''
 
 <center>
-{| CLASS="tablo"
-|+ Le prospecteur céleste
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +1
-| CLASS="gauche" | [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +1d6, [[Prospecteur céleste#GARDIENDELACITADELLE|gardien de la citadelle]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Prospecteur céleste#ARMURERUNIQUE|Armure runique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 3 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [[Prospecteur céleste#COMMUNION|Communion]] 1/semaine
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +2
-| CLASS="gauche" | [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +2d6, [[Prospecteur céleste#PORTDELARMURENAINE|port de l'armure naine]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 5 || +5 || +2 || +3 || +3
-| CLASS="gauche" | [[Prospecteur céleste#VISIONDANSLENOIR|Vision dans le noir]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +3
-| CLASS="gauche" | [[Prospecteur céleste#RUNESDERESISTANCE|Runes de résistance]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 7 || +7 || +2 || +4 || +4
-| CLASS="gauche" | [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +3d6, [[Prospecteur céleste#VISIONDANSLENOIR|vision dans le noir]] (+9m)
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +4
-| CLASS="gauche" | [[Prospecteur céleste#PISTESDESANCIENS|Pistes des anciens]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 9 || +9 || +3 || +5 || +5
-| CLASS="gauche" | [[Prospecteur céleste#PILIER|Pilier]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 10 || +10 || +3 || +5 || +5
-| CLASS="gauche" | [[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +4d6, [[Prospecteur céleste#APPELAUXARMES|appel aux armes]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|}
+
+<table CLASS="tablo"><caption>Le prospecteur céleste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +1d6, [[Prospecteur céleste#GARDIENDELACITADELLE|gardien de la citadelle]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prospecteur céleste#ARMURERUNIQUE|Armure runique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Prospecteur céleste#COMMUNION|Communion]] 1/semaine</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +2d6, [[Prospecteur céleste#PORTDELARMURENAINE|port de l'armure naine]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Prospecteur céleste#VISIONDANSLENOIR|Vision dans le noir]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Prospecteur céleste#RUNESDERESISTANCE|Runes de résistance]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +3d6, [[Prospecteur céleste#VISIONDANSLENOIR|vision dans le noir]] (+9m)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Prospecteur céleste#PISTESDESANCIENS|Pistes des anciens]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Prospecteur céleste#PILIER|Pilier]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Prospecteur céleste#ARMEANCESTRALE|Arme ancestrale]] +4d6, [[Prospecteur céleste#APPELAUXARMES|appel aux armes]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d10.

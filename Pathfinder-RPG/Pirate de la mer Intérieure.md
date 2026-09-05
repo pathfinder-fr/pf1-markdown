@@ -10,42 +10,9 @@ LastModified: 2023-05-01 22:24
 indispensables à bord d’un navire peuvent s’élever au rang de capitaine et commander leur propre navire. Les pirates de Haute mer maîtrisent tout aussi bien la navigation que l’escrime et la plupart ont déjà plus d’une fois regardé la mort droit dans les yeux. Ils maîtrisent toute une gamme de compétences utiles à la navigation ou au pillage et tous les pirates de la mer Intérieure sont assez différents les uns des autres.''
 
 <center>
-{| CLASS="tablo"
-|+ Le Pirate de Haute mer
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +0
-| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +1d6
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
-|-
-| 3 || +2 || +2 || +1 || +1
-| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
-|- CLASS="alt"
-| 4 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +2d6
-|-
-| 5 || +3 || +3 || +2 || +2
-| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
-|- CLASS="alt"
-| 6 || +4 || +3 || +2 || +2
-| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEMAÎTREPIRATE|Talents de maître pirate]], [[Pirate de la mer Intérieure#TALENTDEPIRATE|talent de pirate]]
-|-
-| 7 || +5 || +4 || +2 || +2
-| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +3d6
-|- CLASS="alt"
-| 8 || +6 || +4 || +3 || +3
-| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
-|-
-| 9 || +6 || +5 || +3 || +3
-| CLASS="gauche" | [[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]
-|- CLASS="alt"
-| 10 || +7 || +5 || +3 || +3
-| CLASS="gauche" | [[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +4d6
-|}
+
+<table CLASS="tablo"><caption>Le Pirate de Haute mer</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +1d6</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +2d6</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEMAÎTREPIRATE|Talents de maître pirate]], [[Pirate de la mer Intérieure#TALENTDEPIRATE|talent de pirate]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +3d6</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Pirate de la mer Intérieure#TALENTDEPIRATE|Talent de pirate]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Pirate de la mer Intérieure#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td></tr></table>
+
 </center>
 
 **Rôle.** Beaucoup de marins qui écument les mers sont des pirates, mais les individus suffisamment expérimentés qui décident de prendre des niveaux dans cette classe de prestige sont plus talentueux que la main-d’oeuvre courante à bord d’un navire. Les pirates de Haute mer possèdent souvent leur propre navire et, si ce n’est pas le cas, ils remplissent généralement le rôle d’officier et intègrent l’équipage de navires célèbres sous le commandement de capitaines accomplis.

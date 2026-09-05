@@ -23,20 +23,5 @@ Olivier Fanton, un des traducteurs de cette édition, proposait sur [son site](h
 - **Ridicule** : Le personnage se rend tellement ridicule par un mouvement incongru que ses adversaires intelligents ont contre lui un bonus de +2 à l'attaque contre le personnage, ainsi qu'aux effets de peur générés par le personnage.
 
 <center>
-{| CLASS="tablo"
-|+    Table aléatoire des échecs critiques      
-|- CLASS="titre"
-| 1d6 || Caractéristique || Conséquence
-|- CLASS="premier"
-| 1  || Force || Maladresse
-|- CLASS="alt"
-| 2  || Dextérité || A terre
-|-
-| 3  || Constitution || Fatigué
-|- CLASS="alt"
-| 4  || Intelligence || Attaques d'opportunités
-|-
-| 5  || Sagesse || Surpris
-|- CLASS="alt"
-| 6  || Charisme || Ridicule
-|}
+
+<table CLASS="tablo"><caption>Table aléatoire des échecs critiques      </caption><tr CLASS="titre"><td>1d6</td><td>Caractéristique</td><td>Conséquence</td></tr><tr CLASS="premier"><td>1</td><td>Force</td><td>Maladresse</td></tr><tr CLASS="alt"><td>2</td><td>Dextérité</td><td>A terre</td></tr><tr><td>3</td><td>Constitution</td><td>Fatigué</td></tr><tr CLASS="alt"><td>4</td><td>Intelligence</td><td>Attaques d'opportunités</td></tr><tr><td>5</td><td>Sagesse</td><td>Surpris</td></tr><tr CLASS="alt"><td>6</td><td>Charisme</td><td>Ridicule</td></tr></table>

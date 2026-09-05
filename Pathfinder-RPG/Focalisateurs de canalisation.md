@@ -8,48 +8,9 @@ Categories:
 
 {s:MenuEquipement}Un focalisateur de canalisation est un vêtement ou un autre objet qui inclut le [[Équipement daventurier#Symbole sacré|symbole sacré]] d’une religion particulière et compte comme [[composantes|focalisateur divin]] de cette foi. En recourant à une utilisation de [[Prêtre#CANALISATIONDENERGIE|canalisation d’énergie]], un [[prêtre]] (ou tout autre personnage possédant cette capacité) peut déclencher un pouvoir spécial de l’objet. La canalisation d’énergie utilisée n’a pas d’autre effet que celui d’activer le focalisateur de canalisation, qui peut être réutilisé à plusieurs reprises. Lorsqu’on ne l’active pas, il n’a aucune aura ni aucun pouvoir magique. À moins que le contraire ne soit spécifié, un focalisateur de canalisation activé peut être utilisé par n’importe quel fidèle de la foi indiquée, même si ce n’est pas lui qui l’a activé.
 
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="80%"
-|+ Focalisateurs de canalisation
-|- CLASS="titre"
-| Objet || Prix || Poids || Divinité associée
-|- CLASS="premier"
-| [[Focalisateurs de canalisation#Anneaux sanctifiés|↓]] [[Anneaux sanctifiés (objet)|Anneaux sanctifiés (paire)]] || 5 po || — || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Arme consacrée|↓]] [[Arme consacrée (objet)|Arme consacrée]] || +150 po || 1 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Bâton denseignant|↓]] [[Bâton denseignant (objet)|Bâton d'enseignant]] || 75 po || 2,5 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Bouclier sanctifié|↓]] [[Bouclier sanctifié (objet)|Bouclier sanctifié]] || +100 po || — || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Calice sacré|↓]] [[Calice sacré (objet)|Calice sacré]] || 200 po || — || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Chaînes de contrition|↓]] [[Chaînes de contrition (objet)|Chaînes de contrition]] || 200 po || 1 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Cristal de méditation|↓]] [[Cristal de méditation (objet)|Cristal de méditation]] || 100 po || 0,5 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Écaille du juste|↓]] [[Écaille du juste (objet)|Écaille du juste]] || 50 po || 0,5 kg || [[Golarion.Abadar|Dieu de la civilisation]]
-|-
-| [[Focalisateurs de canalisation#Fétiche ailé|↓]] [[Fétiche ailé (objet)|Fétiche ailé]] || 50 po || — || [[Golarion.Pharasma|Déesse qui juge les défunts]]
-|-
-| [[Focalisateurs de canalisation#Fouet brûlant|↓]] [[Fouet brûlant (objet)|Fouet brûlant]] || 50 po || 2,5 kg || [[Golarion.Calistria|Déesse-elfe aux trois visages]]
-|-
-| [[Focalisateurs de canalisation#Gong de bronze|↓]] [[Gong de bronze (objet)|Gong de bronze]] || 100 po || 2,5 kg || [[Golarion.Irori|Dieu du savoir]]
-|-
-| [[Focalisateurs de canalisation#Icône de bois flotté|↓]] [[Icône de bois flotté (objet)|Icône de bois flotté]] || 25 po || — || [[Golarion.Gozreh|Dieu de la nature]]
-|-
-| [[Focalisateurs de canalisation#Instrument du divin|↓]] [[Instrument du divin (objet)|Instrument du divin]] || 200 po || 1,5 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Masque scindé|↓]] [[Masque scindé (objet)|Masque scindé]] || 250 po || 0,5 kg || [[Golarion.Néthys|Dieu de la magie]]
-|-
-| [[Focalisateurs de canalisation#Œil de fer|↓]] [[Œil de fer (objet)|Œil de fer]] || 50 po || 0,5 kg || [[Golarion.Gorum|Dieu de la guerre]]
-|-
-| [[Focalisateurs de canalisation#Sceau de focalisation pointu|↓]] [[Sceau de focalisation pointu (objet)|Sceau de focalisation pointu]] || 100 po || 1 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Verrou de lépargné|↓]] [[Verrou de lépargné (objet)|Verrou de l'épargné]] || +50 po || 0,5 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-| [[Focalisateurs de canalisation#Vêtements dapparat autoritaires|↓]] [[Vêtements dapparat autoritaires (objet)|Vêtements d'apparat autoritaires]] || 450 po || 7,5 kg || [[Golarion.Religions et philosophies|toutes]]
-|-
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="80%"><caption>Focalisateurs de canalisation</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td><td>Divinité associée</td></tr><tr CLASS="premier"><td>[[Focalisateurs de canalisation#Anneaux sanctifiés|↓]] [[Anneaux sanctifiés (objet)|Anneaux sanctifiés (paire)]]</td><td>5 po</td><td>—</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Arme consacrée|↓]] [[Arme consacrée (objet)|Arme consacrée]]</td><td>+150 po</td><td>1 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Bâton denseignant|↓]] [[Bâton denseignant (objet)|Bâton d'enseignant]]</td><td>75 po</td><td>2,5 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Bouclier sanctifié|↓]] [[Bouclier sanctifié (objet)|Bouclier sanctifié]]</td><td>+100 po</td><td>—</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Calice sacré|↓]] [[Calice sacré (objet)|Calice sacré]]</td><td>200 po</td><td>—</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Chaînes de contrition|↓]] [[Chaînes de contrition (objet)|Chaînes de contrition]]</td><td>200 po</td><td>1 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Cristal de méditation|↓]] [[Cristal de méditation (objet)|Cristal de méditation]]</td><td>100 po</td><td>0,5 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Écaille du juste|↓]] [[Écaille du juste (objet)|Écaille du juste]]</td><td>50 po</td><td>0,5 kg</td><td>[[Golarion.Abadar|Dieu de la civilisation]]</td></tr><tr><td>[[Focalisateurs de canalisation#Fétiche ailé|↓]] [[Fétiche ailé (objet)|Fétiche ailé]]</td><td>50 po</td><td>—</td><td>[[Golarion.Pharasma|Déesse qui juge les défunts]]</td></tr><tr><td>[[Focalisateurs de canalisation#Fouet brûlant|↓]] [[Fouet brûlant (objet)|Fouet brûlant]]</td><td>50 po</td><td>2,5 kg</td><td>[[Golarion.Calistria|Déesse-elfe aux trois visages]]</td></tr><tr><td>[[Focalisateurs de canalisation#Gong de bronze|↓]] [[Gong de bronze (objet)|Gong de bronze]]</td><td>100 po</td><td>2,5 kg</td><td>[[Golarion.Irori|Dieu du savoir]]</td></tr><tr><td>[[Focalisateurs de canalisation#Icône de bois flotté|↓]] [[Icône de bois flotté (objet)|Icône de bois flotté]]</td><td>25 po</td><td>—</td><td>[[Golarion.Gozreh|Dieu de la nature]]</td></tr><tr><td>[[Focalisateurs de canalisation#Instrument du divin|↓]] [[Instrument du divin (objet)|Instrument du divin]]</td><td>200 po</td><td>1,5 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Masque scindé|↓]] [[Masque scindé (objet)|Masque scindé]]</td><td>250 po</td><td>0,5 kg</td><td>[[Golarion.Néthys|Dieu de la magie]]</td></tr><tr><td>[[Focalisateurs de canalisation#Œil de fer|↓]] [[Œil de fer (objet)|Œil de fer]]</td><td>50 po</td><td>0,5 kg</td><td>[[Golarion.Gorum|Dieu de la guerre]]</td></tr><tr><td>[[Focalisateurs de canalisation#Sceau de focalisation pointu|↓]] [[Sceau de focalisation pointu (objet)|Sceau de focalisation pointu]]</td><td>100 po</td><td>1 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Verrou de lépargné|↓]] [[Verrou de lépargné (objet)|Verrou de l'épargné]]</td><td>+50 po</td><td>0,5 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr><tr><td>[[Focalisateurs de canalisation#Vêtements dapparat autoritaires|↓]] [[Vêtements dapparat autoritaires (objet)|Vêtements d'apparat autoritaires]]</td><td>450 po</td><td>7,5 kg</td><td>[[Golarion.Religions et philosophies|toutes]]</td></tr></table>
+
 
 ### Description des focalisateurs de canalisation
 {s:cs}{s:AA}{s:Reference|Anneaux sanctifiés (paire)}

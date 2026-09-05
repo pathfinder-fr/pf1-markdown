@@ -42,55 +42,9 @@ Categories:
 {s:BDTexte|**Rochers surchauffés (Sur).** Les géants du feu peuvent transférer la chaleur de leur corps vers un rocher au cours de l'action d'attaque qui leur permet de le lancer. Un rocher ainsi surchauffé inflige 1d6 points de dégâts de feu supplémentaires en cas d'attaque réussie.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de géant
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Géant de cendre]] || 11
-|-
-| [[Géant de la jungle]] || 10
-|-
-| [[Géant de la lune]] || 15
-|-
-| [[Géant de la taïga]] || 12
-|-
-| [[Géant de lombre|Géant de l'ombre]] || 13
-|-
-| [[Géant de pierre]] || 8
-|-
-| [[Géant des bois]] || 6
-|-
-| [[Géant des collines]] || 7
-|-
-| [[Géant des falaises]] || 9
-|-
-| [[Géant des grottes]] || 6
-|-
-| [[Géant des marais]] || 8
-|-
-| [[Géant des nuages]] || 11
-|-
-| [[Géant des océans]] || 14
-|-
-| [[Géant des rivières]] || 6
-|-
-| [[Géant des runes]] || 17
-|-
-| [[Géant des scories]] || 7
-|-
-| [[Géant des tempêtes]] || 13
-|-
-| [[Géant des éclipses]] || 19
-|-
-| [[Géant du désert]] || 9
-|-
-| [[Géant du feu]] || 10
-|-
-| [[Géant du froid]] || 9
-|-
-| [[Géant du soleil]] || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de géant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Géant de cendre]]</td><td>11</td></tr><tr><td>[[Géant de la jungle]]</td><td>10</td></tr><tr><td>[[Géant de la lune]]</td><td>15</td></tr><tr><td>[[Géant de la taïga]]</td><td>12</td></tr><tr><td>[[Géant de lombre|Géant de l'ombre]]</td><td>13</td></tr><tr><td>[[Géant de pierre]]</td><td>8</td></tr><tr><td>[[Géant des bois]]</td><td>6</td></tr><tr><td>[[Géant des collines]]</td><td>7</td></tr><tr><td>[[Géant des falaises]]</td><td>9</td></tr><tr><td>[[Géant des grottes]]</td><td>6</td></tr><tr><td>[[Géant des marais]]</td><td>8</td></tr><tr><td>[[Géant des nuages]]</td><td>11</td></tr><tr><td>[[Géant des océans]]</td><td>14</td></tr><tr><td>[[Géant des rivières]]</td><td>6</td></tr><tr><td>[[Géant des runes]]</td><td>17</td></tr><tr><td>[[Géant des scories]]</td><td>7</td></tr><tr><td>[[Géant des tempêtes]]</td><td>13</td></tr><tr><td>[[Géant des éclipses]]</td><td>19</td></tr><tr><td>[[Géant du désert]]</td><td>9</td></tr><tr><td>[[Géant du feu]]</td><td>10</td></tr><tr><td>[[Géant du froid]]</td><td>9</td></tr><tr><td>[[Géant du soleil]]</td><td>16</td></tr></table>
+
 </div>*Ce géant au pas lourd possède des jambes courtes et épaisses et des bras très musclés Ses cheveux et sa barbe semblent être faits de feu.*
 
 Les géants du feu forment la race de géants la plus stricte et la plus
@@ -157,17 +111,9 @@ Les règles suivantes présentent un nouveau mystère d’oracle ainsi que des d
 #### Dons
 Voici un don des géants du feu.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Rocher fumant]]</td><td><sup>CM</sup></td><td>[[BBA]] +11, pouvoir [[Géant du feu|rochers surchauffés]]</td><td>Les rochers lancés émettent un nuage de fumée</td></tr></table>
 
-|- CLASS="premier"
-| [[Rocher fumant]] || <sup>CM</sup> || [[BBA]] +11, pouvoir [[Géant du feu|rochers surchauffés]] || Les rochers lancés émettent un nuage de fumée
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Mystère d'oracle

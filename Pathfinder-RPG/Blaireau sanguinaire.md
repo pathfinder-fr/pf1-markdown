@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de blaireau
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Blaireau]] || 1/2
-|-
-| [[Blaireau sanguinaire]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de blaireau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Blaireau]]</td><td>1/2</td></tr><tr><td>[[Blaireau sanguinaire]]</td><td>2</td></tr></table>
+
 </div>*Ce blaireau gigantesque grogne et gratte le sol avec des griffes semblables à des pelles. On peut deviner les muscles épais qui se cachent sous sa fourrure zébrée et hirsute.*
 
 Le blaireau sanguinaire est un prédateur implacable, violent et très protecteur de son territoire. Il passe la plupart de son temps à chasser, tuer et dévorer toute une série de proies faciles comme des lapins, des cerfs et parfois du bétail. Les blaireaux sanguinaires n’hésitent pas à attaquer des créatures plus grandes qu’eux. Leur comportement est caractérisé par une ténacité légendaire qui a incité de nombreuses races, telles que les gnomes vivant dans les forêts, à les considérer avec honneur et respect. Les blaireaux sanguinaires vivent dans des terriers profonds qu’ils ont creusés avec leurs griffes monstrueuses. Contrairement aux blaireaux ordinaires, les griffes des blaireaux sanguinaires leur permettent de creuser la roche. Les blaireaux sanguinaires n’ont guère de patience face aux distractions et aux interruptions. Dès qu’elles sont confrontées à un obstacle, ces créatures qui ne connaissent absolument pas la peur passent brutalement à l’attaque et, si elles sont blessées, elles se laissent gagner par une frénésie meurtrière. Les blaireaux sanguinaires mesurent 1,20 mètre de hauteur aux épaules et pèsent 250 kg.

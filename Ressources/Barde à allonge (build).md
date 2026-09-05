@@ -118,48 +118,5 @@ La pique est la seule arme à allonge maîtrisée par le barde. En complément, 
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du barde à allonge humain
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Barde|Barde]] 1 || +0 || 1 || [[Pathfinder-RPG.Attaques réflexes.ashx|Attaques réflexes]], [[Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]]
-|-
-| 02 || [[Pathfinder-RPG.Barde|Barde]] 2 || +1 || 2 || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Barde|Barde]] 3 || +2 || 3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
-|-
-| 04 || [[Pathfinder-RPG.Barde|Barde]] 4 || +3 || 4 || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Barde|Barde]] 5 || +3 || 5 || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
-|-
-| 06 || [[Pathfinder-RPG.Barde|Barde]] 6 || +4 || 6 || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Barde|Barde]] 7 || +5 || 7 || [[Pathfinder-RPG.Prestige.ashx|Prestige]]
-|-
-| 08 || [[Pathfinder-RPG.Barde|Barde]] 8 || +6 || 8 || &nbsp;
-|-
-| 09 || [[Pathfinder-RPG.Barde|Barde]] 9 || +6 || 9 || [[Pathfinder-RPG.Fente.ashx|Fente]]
-|-
-| 10 || [[Pathfinder-RPG.Barde|Barde]] 10 || +7 || 10 || &nbsp;
-|-
-| 11 || [[Pathfinder-RPG.Barde|Barde]] 11 || +8 || 11 || [[Pathfinder-RPG.Voix discordante.ashx|Voix discordante]]
-|-
-| 12 || [[Pathfinder-RPG.Barde|Barde]] 12 || +9 || 12 || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Barde|Barde]] 13 || +9 || 13 || &nbsp;
-|-
-| 14 || [[Pathfinder-RPG.Barde|Barde]] 14 || +10 || 14 || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Barde|Barde]] 15 || +11 ||  15 || &nbsp;
-|-
-| 16 || [[Pathfinder-RPG.Barde|Barde]] 16 || +12 || 16 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Barde|Barde]] 17 || +12 || 17 || &nbsp;
-|-
-| 18 || [[Pathfinder-RPG.Barde|Barde]] 18 || +13 || 18 || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Barde|Barde]] 19 || +14 || 19 || &nbsp;
-|-
-| 20 || [[Pathfinder-RPG.Barde|Barde]] 20 || +15 || 20 || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du barde à allonge humain</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Barde|Barde]] 1</td><td>+0</td><td>1</td><td>[[Pathfinder-RPG.Attaques réflexes.ashx|Attaques réflexes]], [[Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Barde|Barde]] 2</td><td>+1</td><td>2</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Barde|Barde]] 3</td><td>+2</td><td>3</td><td>[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Barde|Barde]] 4</td><td>+3</td><td>4</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Barde|Barde]] 5</td><td>+3</td><td>5</td><td>[[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Barde|Barde]] 6</td><td>+4</td><td>6</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Barde|Barde]] 7</td><td>+5</td><td>7</td><td>[[Pathfinder-RPG.Prestige.ashx|Prestige]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Barde|Barde]] 8</td><td>+6</td><td>8</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Barde|Barde]] 9</td><td>+6</td><td>9</td><td>[[Pathfinder-RPG.Fente.ashx|Fente]]</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Barde|Barde]] 10</td><td>+7</td><td>10</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Barde|Barde]] 11</td><td>+8</td><td>11</td><td>[[Pathfinder-RPG.Voix discordante.ashx|Voix discordante]]</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Barde|Barde]] 12</td><td>+9</td><td>12</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Barde|Barde]] 13</td><td>+9</td><td>13</td><td>&nbsp;</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Barde|Barde]] 14</td><td>+10</td><td>14</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Barde|Barde]] 15</td><td>+11</td><td>15</td><td>&nbsp;</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Barde|Barde]] 16</td><td>+12</td><td>16</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Barde|Barde]] 17</td><td>+12</td><td>17</td><td>&nbsp;</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Barde|Barde]] 18</td><td>+13</td><td>18</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Barde|Barde]] 19</td><td>+14</td><td>19</td><td>&nbsp;</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Barde|Barde]] 20</td><td>+15</td><td>20</td><td>&nbsp;</td></tr></table>

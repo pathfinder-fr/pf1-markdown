@@ -187,20 +187,7 @@ les parties du corps des
 de terre.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Élémentaire || Taille || Poids
-|- CLASS="premier"
-| Petit || 1,20 m || 40 kg
-|- CLASS="alt"
-| Moyen || 2,40 m || 375 kg
-|-
-| Grand || 4,20 m || 3 000 kg
-|- CLASS="alt"
-| Très Grand || 9,60 m || 24 000 kg
-|-
-| Noble || 10,80 m || 27 000 kg
-|-
-| Seigneur || 12 m || 60 000 kg
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Élémentaire</td><td>Taille</td><td>Poids</td></tr><tr CLASS="premier"><td>Petit</td><td>1,20 m</td><td>40 kg</td></tr><tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>375 kg</td></tr><tr><td>Grand</td><td>4,20 m</td><td>3 000 kg</td></tr><tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>24 000 kg</td></tr><tr><td>Noble</td><td>10,80 m</td><td>27 000 kg</td></tr><tr><td>Seigneur</td><td>12 m</td><td>60 000 kg</td></tr></table></center>
+
 </div></td></tr></table>

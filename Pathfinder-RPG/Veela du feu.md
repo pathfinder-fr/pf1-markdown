@@ -45,19 +45,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de veela
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Veela de lair|Veela de l'air]] || 7
-|-
-| [[Veela de la terre]] || 7
-|-
-| [[Veela de leau|Veela de l'eau]] || 7
-|-
-| [[Veela du feu]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de veela</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Veela de lair|Veela de l'air]]</td><td>7</td></tr><tr><td>[[Veela de la terre]]</td><td>7</td></tr><tr><td>[[Veela de leau|Veela de l'eau]]</td><td>7</td></tr><tr><td>[[Veela du feu]]</td><td>7</td></tr></table>
+
 </div>*Ce mince humanoïde androgyne présente une grâce surnaturelle et une peau à la couleur surprenante.*
 
 Capricieux mais séduisants, les veelas sont des esprits élémentaires matérialisés. Sur les plans Élémentaires, ils baignent dans les énergies volatiles de l’élément dont ils tirent leur puissance, mais perdent une part de l’énergie élémentaire qui sature leur corps lorsqu’ils se matérialisent sur les autres plans. Pour compenser cela, ils sont capables de siphonner la vitalité des autres êtres vivants quand ces derniers prennent part à l’une de leurs antiques danses. En général, un veela demande la permission de son partenaire avant de l’inviter à danser et le laisse ravi mais épuisé à la fin de la chorégraphie. Il faut que la situation soit vraiment désespérée pour qu’un veela recoure à la danse de manière offensive. Les rares individus qui parviennent à égaler la grâce des mouvements de ces esprits danseurs gagnent leur respect et les poussent parfois à partager une partie de leurs pouvoirs magiques bénéfiques.

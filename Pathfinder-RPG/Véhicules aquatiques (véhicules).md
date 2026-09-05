@@ -448,21 +448,10 @@ Pour contrôler un vaisseau lors d’un **Combat Bord-à-bord**, le pilote doit 
 
 ##### Gouvernes
 Chaque véhicule nécessite une gouverne particulière pour être manœuvré. Une gouverne est un objet standard avec les immunités et les résistances des objets. Une gouverne a ses propres statistiques. Le tableau ci-dessous présente quelques gouvernes typiques. Lorsqu'une gouverne devient brisée, tous les tests de navigation sont effectués avec une pénalité de -10. Lorsqu'une gouverne est détruite, le navire ne peut plus être manœuvré jusqu’à ce que la gouverne soit réparée.
-{| CLASS="tablo"
-|- CLASS="titre"
-| Gouverne || CA || PV || Solidité
-|- CLASS="premier"
-| Rames<sup>1</sup> || 12 || 10 par rame || 5
-|-
-| Barre à roue || 10 || 25 || 5
-|-
-| Gouvernail || 10 || 25 || 5
-|-
-| Gouverne traitée magiquement<sup>2</sup> || - || x2 || x2
-|- CLASS="note"
-| COLSPAN="4" | 1. Les rames sont considérées comme brisés lorsque plus de la moitié des rames d’un navire sont détruites.  
-2. Plus d’informations sur les gouvernes traitées magiquement dans la section Ship Modifications.
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Gouverne</td><td>CA</td><td>PV</td><td>Solidité</td></tr><tr CLASS="premier"><td>Rames<sup>1</sup></td><td>12</td><td>10 par rame</td><td>5</td></tr><tr><td>Barre à roue</td><td>10</td><td>25</td><td>5</td></tr><tr><td>Gouvernail</td><td>10</td><td>25</td><td>5</td></tr><tr><td>Gouverne traitée magiquement<sup>2</sup></td><td>-</td><td>x2</td><td>x2</td></tr><tr CLASS="note"><td COLSPAN="4">1. Les rames sont considérées comme brisés lorsque plus de la moitié des rames d’un navire sont détruites.  
+2. Plus d’informations sur les gouvernes traitées magiquement dans la section Ship Modifications.</td></tr></table>
+
 ##### Propulsion et compétences de navigation
 Chaque véhicule a un mode de propulsion. Les embarcations et les navires sont usuellement propulsés par les courants, la force musculaire, le vent ou par les trois. La propulsion affecte la vitesse et la manœuvrabilité d'un navire. De manière plus importante la propulsion détermine la compétence utilisée pour contrôle le navire. Contrôler un vaisseau nécessite du sens commun, de l'attention, de l'intuition et une dose de maîtrise de la propulsion du navire. Pour la propulsion avec le vent ou le courant, cela consiste à combiner l’action du courant, des voiles, des rames et du gouvernail pour diriger le bateau. Pour une propulsion à la force musculaire, cela consistera principalement à guider les créatures impliquées. Les modes de propulsion génériques des navires ainsi que les compétences requises pour piloter les bateaux utilisant ce mode de propulsion sont présentés si-dessous.
 
@@ -496,24 +485,13 @@ De telles poursuites peuvent s’étaler sur plusieurs jours alors que chaque na
 
 **Retraite** : une fois engagé dans un combat Bord-à-Bord, un navire qui se déplace hors des limites de la battlemap met immédiatement fin au combat Bord-à-Bord. A la discrétion du MD, une poursuite peut s’engager selon les règles ci-dessus ou alors on peut considérer que le vaisseau s’est échappé.
 
-{| CLASS="tablo"
-|+ Modes de propulsion
-| COLSPAN="4" | Cet encart présente quelques modes de propulsion typiques. Pour calculer la CA de la propulsion d’un navire, il faut ajouter le modificateur de la compétence de navigation du pilote (ou son modificateur de sagesse le cas échéant) à la CA de base. Quand une propulsion est brisée, la vitesse maximale du navire est réduite de moitié et il ne peut plus gagner l’avantage avant que la propulsion ne soit réparée ou remplacée. Si le navire était en mouvement à une vitesse supérieure à sa nouvelle vitesse maximale, il décélère immédiatement à cette nouvelle vitesse maximale.  
+
+<table CLASS="tablo"><caption>Modes de propulsion</caption><tr><td COLSPAN="4">Cet encart présente quelques modes de propulsion typiques. Pour calculer la CA de la propulsion d’un navire, il faut ajouter le modificateur de la compétence de navigation du pilote (ou son modificateur de sagesse le cas échéant) à la CA de base. Quand une propulsion est brisée, la vitesse maximale du navire est réduite de moitié et il ne peut plus gagner l’avantage avant que la propulsion ne soit réparée ou remplacée. Si le navire était en mouvement à une vitesse supérieure à sa nouvelle vitesse maximale, il décélère immédiatement à cette nouvelle vitesse maximale.  
   
 *Rames* : Les rames sont souvent plus fragiles que les navires qu’elles propulsent et sont difficile à remplacer. Détruire les rames d’un navire est une bonne méthode pour le capturer. Les rames sont brisées si plus de la moitié des rames d’un navire sont détruites. Si toutes les rames d’un navire sont détruites, le vaisseau ne peut plus utiliser la force musculaire comme moyen de propulsion et doit compter sur le courant et/ou le vent pour se mouvoir.  
   
-*Voiles et gréement* : Les voiles (y compris le gréement pour les contrôler) sont souvent plus fragiles que les navires qu’elles propulsent bien qu’il soit relativement aisé de les réparer. Détruire les voiles d’un navire est une bonne méthode pour le capturer. Les voiles encaissent le double de dommages par les attaques de feu et d’acide. Les voiles sont brisées si au moins la moitié de la surface de voilure (comptée en case) est détruite. Si toute les voiles d’un navire sont détruites, le vaisseau ne peut plus utiliser la force du vent comme moyen de propulsion et doit compter sur le courant et/ou la force musculaire pour se mouvoir.
-|- CLASS="titre"
-| Propulsion || CA de base || PV || Solidité
-|- CLASS="premier"
-| Rames || 12 || 10 par rames || 5
-|-
-| Voiles || 6 || 4 par case de voilure || 0
-|-
-| Propulsion traitée magiquement<sup>1</sup> || - || x2 || x2
-|- CLASS="note"
-| COLSPAN="4" | 1. la section Ship Modification donne plus d’information sur les propulsions traitées magiquement
-|}
+*Voiles et gréement* : Les voiles (y compris le gréement pour les contrôler) sont souvent plus fragiles que les navires qu’elles propulsent bien qu’il soit relativement aisé de les réparer. Détruire les voiles d’un navire est une bonne méthode pour le capturer. Les voiles encaissent le double de dommages par les attaques de feu et d’acide. Les voiles sont brisées si au moins la moitié de la surface de voilure (comptée en case) est détruite. Si toute les voiles d’un navire sont détruites, le vaisseau ne peut plus utiliser la force du vent comme moyen de propulsion et doit compter sur le courant et/ou la force musculaire pour se mouvoir.</td></tr><tr CLASS="titre"><td>Propulsion</td><td>CA de base</td><td>PV</td><td>Solidité</td></tr><tr CLASS="premier"><td>Rames</td><td>12</td><td>10 par rames</td><td>5</td></tr><tr><td>Voiles</td><td>6</td><td>4 par case de voilure</td><td>0</td></tr><tr><td>Propulsion traitée magiquement<sup>1</sup></td><td>-</td><td>x2</td><td>x2</td></tr><tr CLASS="note"><td COLSPAN="4">1. la section Ship Modification donne plus d’information sur les propulsions traitées magiquement</td></tr></table>
+
 
 
 
@@ -699,24 +677,14 @@ Pour effectuer une attaque avec un engin de siège à tir indirect, le chef d'é
 Si l'attaque échoue, lancez 1d8 pour déterminer la direction vers laquelle le tir a dévié. Un 1 indique que le tir est trop court (sur la ligne entre l'engin et la case ciblée), les autres résultats s'interprétant en déterminant les cases autour de la cible dans le sens des aiguilles d'une montre. Ensuite, lancez 1d4 pour chaque facteur de portée utilisé lors du tir (1d4 si la cible est dans le premier facteur de portée de l'engin de siège, 2d4 s'il est situé dans le deuxième...). Le total de ce jet indique l'erreur de distance (1 point égal 1 case dans la direction donnée par le premier jet). La munition inflige ses dégâts et effets dans la case dans laquelle elle tombe.
 
 <center>
-{| CLASS="tablo"
-|+ Modificateurs d'attaque indirecte
-|- CLASS="titre"
-| Condition || Modificateur
-|- CLASS="premier"
-| Pas de ligne de vue vers la case visée || -6
-|- CLASS="alt"
-| Tirs successifs (l'équipe peut déterminer  
+
+<table CLASS="tablo"><caption>Modificateurs d'attaque indirecte</caption><tr CLASS="titre"><td>Condition</td><td>Modificateur</td></tr><tr CLASS="premier"><td>Pas de ligne de vue vers la case visée</td><td>-6</td></tr><tr CLASS="alt"><td>Tirs successifs (l'équipe peut déterminer  
 dans quelle case le dernier échec est tombé)  
-* Bonus cumulatif par tir manqué (max +10) || +2*
-|-
-| Tirs successifs (l'équipe ne peut pas déterminer   
+* Bonus cumulatif par tir manqué (max +10)</td><td>+2*</td></tr><tr><td>Tirs successifs (l'équipe ne peut pas déterminer   
 dans quelle case le dernier échecest tombé,  
 mais un observateur peut donnerdes informations)  
-* Bonus cumulatif par tir manqué (max +5) || +1*
-|- CLASS="alt"
-| Tirs successifs après un tir réussi || +10
-|}
+* Bonus cumulatif par tir manqué (max +5)</td><td>+1*</td></tr><tr CLASS="alt"><td>Tirs successifs après un tir réussi</td><td>+10</td></tr></table>
+
 </center>
 
 
@@ -730,38 +698,12 @@ Si un chef d'équipe possède le don Ingénieur de siège (*Art de la guerre*, p
 
 ### Description des engins de siège
 <center>
-{| CLASS="tablo"
-|+ Engins de siège
-|- CLASS="titre"
-| Engin de siège || Prix || Dégâts || Critique || Facteur de portée || Type || Equipe || Visée || Rechargement
-|- CLASS="premier"
-| COLSPAN="9" | *Engins de siège à tir direct de taille G*
-|-
-| &emsp;Baliste légère || 500 po || 3d8 || 19–20/×2 || 36 m (24 {s:c}) || P || 1 || 0 || 2
-|- CLASS="premier"
-| COLSPAN="9" | *Engins de siège à tir indirect de taille G*
-|-
-| &emsp;Catapulte légère || 550 po || 4d6 || ×2 || 45 m (30 {s:c})  
-(15 m/10 {s:c} min.) || C || 2 || 2 || 3
-|- CLASS="premier"
-| COLSPAN="9" | *Engins de siège à tir direct de taille Gig*
-|-
-| &emsp;Baliste lourde || 800 po || 4d8 || 19–20/×2 || 54 m (36 {s:c}) || P || 3 || 2 || 3
-|- class="alt"
-| &emsp;Drake de feu || 4 000 po || 6d6 || — || — || feu || 3 || 2 || 5
-|- CLASS="premier"
-| COLSPAN="9" | *Engins de siège à tir indirect de taille Gig*
-|- CLASS="premier"
-| &emsp;Catapulte standard || 800 po || 6d6 || ×2 || 60 m (40 {s:c})  
-(30 m/20 {s:c} min.) || C || 3 || 2 || 3
-|- class="alt"
-| &emsp;Onagre, flèches || 1 000 po || 3d8 || x3 || 30 m (20 {s:c})  
-(15 m/10 {s:c} min.) || P || 3 || 2 || 3
-|- CLASS="premier"
-| COLSPAN="9" | *Autres*
-|-
-| &emsp;Corvus (Pont d'abordage) || 100 po || — || — || — || — || 1 || — || —
-|}
+
+<table CLASS="tablo"><caption>Engins de siège</caption><tr CLASS="titre"><td>Engin de siège</td><td>Prix</td><td>Dégâts</td><td>Critique</td><td>Facteur de portée</td><td>Type</td><td>Equipe</td><td>Visée</td><td>Rechargement</td></tr><tr CLASS="premier"><td COLSPAN="9">*Engins de siège à tir direct de taille G*</td></tr><tr><td>&emsp;Baliste légère</td><td>500 po</td><td>3d8</td><td>19–20/×2</td><td>36 m (24 {s:c})</td><td>P</td><td>1</td><td>0</td><td>2</td></tr><tr CLASS="premier"><td COLSPAN="9">*Engins de siège à tir indirect de taille G*</td></tr><tr><td>&emsp;Catapulte légère</td><td>550 po</td><td>4d6</td><td>×2</td><td>45 m (30 {s:c})  
+(15 m/10 {s:c} min.)</td><td>C</td><td>2</td><td>2</td><td>3</td></tr><tr CLASS="premier"><td COLSPAN="9">*Engins de siège à tir direct de taille Gig*</td></tr><tr><td>&emsp;Baliste lourde</td><td>800 po</td><td>4d8</td><td>19–20/×2</td><td>54 m (36 {s:c})</td><td>P</td><td>3</td><td>2</td><td>3</td></tr><tr class="alt"><td>&emsp;Drake de feu</td><td>4 000 po</td><td>6d6</td><td>—</td><td>—</td><td>feu</td><td>3</td><td>2</td><td>5</td></tr><tr CLASS="premier"><td COLSPAN="9">*Engins de siège à tir indirect de taille Gig*</td></tr><tr CLASS="premier"><td>&emsp;Catapulte standard</td><td>800 po</td><td>6d6</td><td>×2</td><td>60 m (40 {s:c})  
+(30 m/20 {s:c} min.)</td><td>C</td><td>3</td><td>2</td><td>3</td></tr><tr class="alt"><td>&emsp;Onagre, flèches</td><td>1 000 po</td><td>3d8</td><td>x3</td><td>30 m (20 {s:c})  
+(15 m/10 {s:c} min.)</td><td>P</td><td>3</td><td>2</td><td>3</td></tr><tr CLASS="premier"><td COLSPAN="9">*Autres*</td></tr><tr><td>&emsp;Corvus (Pont d'abordage)</td><td>100 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>—</td><td>—</td></tr></table>
+
 </center>
 
 Les engins de sièges sont décrits selon le format suivant dans le tableau "Engins de siège" :
@@ -807,21 +749,9 @@ Un onagre utilise un système de palettes coudées en composite pour lancer un g
 Les types de munitions suivants peuvent être utilisés avec certains engins de siège à tir indirect. La description des munitions indique quels engins de siège peuvent utiliser ces munitions. Les coûts et les poid indiqués dans le tableau "Munitions spéciales pour engins de siège" correspondent à une utilisation de la munition.
 
 <center>
-{| CLASS="tablo"
-|+ Munitions spéciales pour engins de siège
-|- CLASS="titre"
-| Munition || Prix || Poids
-|- CLASS="premier"
-| Ballot pestiféré || 80 po || 10 kg
-|- CLASS="alt"
-| Glace liquide || 400 po || 10 kg
-|-
-| Feu grégeois || 200 po || 5 kg
-|- CLASS="alt"
-| Fumée  || 250 po || 10 kg
-|-
-| Tir de chaîne || 50 po || 15 kg
-|}
+
+<table CLASS="tablo"><caption>Munitions spéciales pour engins de siège</caption><tr CLASS="titre"><td>Munition</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>Ballot pestiféré</td><td>80 po</td><td>10 kg</td></tr><tr CLASS="alt"><td>Glace liquide</td><td>400 po</td><td>10 kg</td></tr><tr><td>Feu grégeois</td><td>200 po</td><td>5 kg</td></tr><tr CLASS="alt"><td>Fumée</td><td>250 po</td><td>10 kg</td></tr><tr><td>Tir de chaîne</td><td>50 po</td><td>15 kg</td></tr></table>
+
 </center>
 
 #### Ballot pestiféré

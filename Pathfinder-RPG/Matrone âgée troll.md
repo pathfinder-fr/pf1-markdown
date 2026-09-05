@@ -46,34 +46,9 @@ Categories:
 </div>
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Troll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Troll des égouts]] || 2
-|-
-| [[Troll]] || 5
-|-
-| [[Acolyte troll]] || 6
-|-
-| [[Gardien troll]] || 6
-|-
-| [[Brute troll]] || 7
-|-
-| [[Étripeur troll]] || 8
-|-
-| [[Troll furieux]] || 8
-|-
-| [[Berserker troll]] || 9
-|-
-| [[Éventreur troll]] || 10
-|-
-| [[Matrone âgée troll]] || 10
-|-
-| [[Monarque troll]] || 15
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Troll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr><tr><td>[[Troll]]</td><td>5</td></tr><tr><td>[[Acolyte troll]]</td><td>6</td></tr><tr><td>[[Gardien troll]]</td><td>6</td></tr><tr><td>[[Brute troll]]</td><td>7</td></tr><tr><td>[[Étripeur troll]]</td><td>8</td></tr><tr><td>[[Troll furieux]]</td><td>8</td></tr><tr><td>[[Berserker troll]]</td><td>9</td></tr><tr><td>[[Éventreur troll]]</td><td>10</td></tr><tr><td>[[Matrone âgée troll]]</td><td>10</td></tr><tr><td>[[Monarque troll]]</td><td>15</td></tr></table>
+
 </div>Mystérieuse et érudite, la matrone âgée étudie tous les jeunes trolls dans l’espoir d’y déceler un potentiel pour l’apprentissage de la magie.
 
 La matrone âgée troll est un puits de connaissances magiques pour sa tribu. Elle est à la fois la plus farouche protectrice de ses compagnons et leur plus sévère critique, châtiant tous ceux qui échouent à accomplir les objectifs (parfois cryptiques) qu’elle leur a fixés. Les femelles trolls sont pratiquement les seules à bénéficier des enseignements de la matrone, bien que cette dernière puisse placer un jeune mâle prometteur sur la voie du rôdeur. La matrone ne vit et ne voyage pratiquement qu’avec des femelles en passe de devenir adultes et aux prises avec leurs études. Celles qu’elle rejette parce qu’elle les juge indignes rejoignent leurs sœurs sans jamais mentionner les choses étranges qu’elles ont connues au contact de la matrone. Même les trolls monarques prêtent l’oreille aux conseils des vénérables matrones car elles ont survécu à de nombreux monarques et ont vu naître, grandir et mourir de nombreuses générations de trolls.

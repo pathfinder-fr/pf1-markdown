@@ -8,21 +8,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux formiens
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Contremaître formien]] || 7
-|-
-| [[Guerrière formienne]] || 3
-|-
-| [[Myrmarque formien]] || 10
-|-
-| [[Ouvrier formien]] || 1/2
-|-
-| [[Reine formienne]] || 17
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux formiens</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Contremaître formien]]</td><td>7</td></tr><tr><td>[[Guerrière formienne]]</td><td>3</td></tr><tr><td>[[Myrmarque formien]]</td><td>10</td></tr><tr><td>[[Ouvrier formien]]</td><td>1/2</td></tr><tr><td>[[Reine formienne]]</td><td>17</td></tr></table>
+
 </div></div><div style="float:right">***Voir aussi les [[Traits des formiens (capacité)|traits des formiens]].***</div><div class="description">**Source :** Bestiaire 4 p.102</div>
 *Types/Sous-types associés : [[type Humanoïde monstrueux|Humanoïde monstrueux]]*
 

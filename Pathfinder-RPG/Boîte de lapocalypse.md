@@ -16,22 +16,9 @@ Cette petite boîte anodine en bois noir apparaît aléatoirement à travers le 
 
 Seule une créature marquée de sa malédiction peut ouvrir la *Boîte de l’apocalypse*. Une fois par jour, la créature maudite peut ouvrir la boîte et en retirer un objet que son cœur désire. L’objet ne doit pas être magique, il ne doit pas peser plus de 25 kilogrammes et sa valeur ne doit pas excéder 50 000 po. Outre cela, il n’a pour seules limites que les paramètres du sort de *[[souhait]]*. Une créature [[mythique]] peut dépenser deux utilisations de [[pouvoir mythique]] pour retirer, chaque jour, un second objet répondant à ces critères. Chaque fois que la *Boîte de l’apocalypse* est ouverte, il y a 50% de chances qu’au lieu d’accorder un *souhait*, elle invoque un certain nombre d’horribles monstres qui attaquent immédiatement toute personne en vue et restent sur le Plan matériel pour y semer le chaos pendant 1 semaine avant de retourner sur leur plan d’origine. Sur la table ci-dessous, lancez un dé pour déterminer quels sont les monstres qui apparaissent.
 
-{| CLASS="tablo autoalt centre"
-|- CLASS="titre"
-| 1d6 || Monstres convoqués
-|- CLASS="premier"
-| 1 || Apocalypse daémonique : 1d4+1 [[Oléthrodaémon|oléthrodaémons]]
-|-
-| 2 || Invasion démoniaque : 1 [[Balor]] et 2d6 [[Glabrezu|glabrezus]]
-|-
-| 3 || Assaut infernal : 1 [[Diantrefosse]] et 2d6 [[Diable barbelé|diables barbelés]]
-|-
-| 4 || Domination oni : 1 [[Yai du vide]] et 2d6 [[Géant des nuages|géants des nuages]] [[Archétypes#CREATUREFIELON|fiélons]]
-|-
-| 5 || Infestation qlippoth : 1 [[Iathavos]] et 2d6 [[Nyogoth|nyogoths]]
-|-
-| 6 || Visite indicible : 1d4+3 [[Shoggoth|shoggoths]]
-|}
+
+<table CLASS="tablo autoalt centre"><tr CLASS="titre"><td>1d6</td><td>Monstres convoqués</td></tr><tr CLASS="premier"><td>1</td><td>Apocalypse daémonique : 1d4+1 [[Oléthrodaémon|oléthrodaémons]]</td></tr><tr><td>2</td><td>Invasion démoniaque : 1 [[Balor]] et 2d6 [[Glabrezu|glabrezus]]</td></tr><tr><td>3</td><td>Assaut infernal : 1 [[Diantrefosse]] et 2d6 [[Diable barbelé|diables barbelés]]</td></tr><tr><td>4</td><td>Domination oni : 1 [[Yai du vide]] et 2d6 [[Géant des nuages|géants des nuages]] [[Archétypes#CREATUREFIELON|fiélons]]</td></tr><tr><td>5</td><td>Infestation qlippoth : 1 [[Iathavos]] et 2d6 [[Nyogoth|nyogoths]]</td></tr><tr><td>6</td><td>Visite indicible : 1d4+3 [[Shoggoth|shoggoths]]</td></tr></table>
+
 
 La *Boîte de l’apocalypse* se caractérise par son désir très tenace d’être ouverte. Chaque jour, la créature maudite doit réussir un jet de [[Volonté]] ou être contrainte de l’ouvrir. Il s’agit d’un effet mental de [[branche coercition|coercition]]. Le [[DD]] de sauvegarde est au départ de 20 mais il augmente de 2 pour chaque jour où la boîte reste fermée, jusqu’à ce que la créature maudite rate un jet de Volonté, auquel cas elle ouvre la boîte et le DD revient à 20.
 (((Destruction)))

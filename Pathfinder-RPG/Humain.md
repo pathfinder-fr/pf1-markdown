@@ -214,97 +214,9 @@ Le désir de contrôle des humains sur le monde qui les entoure peut parfois les
 Voici les options accessibles aux humains, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Apprentissage rapide]]</td><td><sup>MR</sup></td><td>[[Int]] 13, [[humain]]</td><td>+1 point de vie et +1 point de compétence à chaque montée de niveau dans la classe de prédilection</td></tr><tr><td>&emsp;[[Improvisation]]</td><td><sup>MR</sup></td><td>[[Int]] 13, [[Apprentissage rapide]], [[humain]]</td><td>+2 aux tests de compétence sans rangs, les compétences qui nécessitent une formation peuvent être utilisés sans</td></tr><tr><td>&emsp;&emsp;[[Science de limprovisation|Science de l'improvisation]]</td><td><sup>MR</sup></td><td>[[Int]] 13, [[Apprentissage rapide]], [[Improvisation]], [[humain]]</td><td>Les pénalités de non-formation sont divisées par deux, les bonus d'Improvisation passe à +4</td></tr><tr CLASS="premier"><td>[[Barrage de styles]]</td><td><sup>*ISR*</sup></td><td>[[BBA]] +1, [[humain]]</td><td>Les alliés adjacents différents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) aux manœuvres offensives</td></tr><tr CLASS="premier"><td>[[Chance insolente]]</td><td><sup>MR</sup></td><td>[[Humain]]</td><td>1 fois par jour, relance un 1 naturel</td></tr><tr><td>&emsp;[[Chance inexplicable]]</td><td><sup>MR</sup></td><td>[[Chance insolente]], [[humain]]</td><td>1 fois par jour, +8 avant de faire un jet ou +4 après</td></tr><tr><td>&emsp;&emsp;[[Transmettre sa chance]]</td><td><sup>MR</sup></td><td>[[Chance insolente]], [[Chance inexplicable]], [[humain]]</td><td>Gain d'une utilisation supplémentaire de Chance insolente, utilise Chance inexplicable au profit d'un allié</td></tr><tr CLASS="premier"><td>[[Convergence magique élevée]]</td><td><sup>*ISR*</sup></td><td>N'importe quel [[Dons#DONMETAMAGIE|don de métamagie]], 7 rangs en [[Art de la magie]], capacité à lancer des sorts de 2e niveau, [[humain]] (garundi)</td><td>Applique spontanément des dons de métamagie sans dépenser d'emplacements de sorts supérieurs ou augmenter le temps d'incantation si des alliés se préparent à lancer le même sort</td></tr><tr CLASS="premier"><td>[[Critiques divers]]*</td><td><sup>MR</sup></td><td>[[Guerrier]] de niveau 11, [[humain]]</td><td>1 fois par jour, gagne un don de critique</td></tr><tr CLASS="premier"><td>[[Curiosité intrépide]]</td><td><sup>MR</sup></td><td>[[Cha]] 13, [[humain]]</td><td>+1 aux jets de sauvegarde contre les effets d'émotion, nouveaux jets pour réduire un effet de peur d'un cran</td></tr><tr><td>&emsp;[[Assurance intimidante]]</td><td><sup>MR</sup></td><td>[[Cha]] 13, [[Curiosité intrépide]], 5 rangs en [[Intimidation]], [[humain]]</td><td>+1 aux jets de sauvegarde contre les effets d'émotion, test d'Intimidation gratuit sur un critique confirmé</td></tr><tr><td>&emsp;[[Destin intrépide]]</td><td><sup>MR</sup></td><td>[[Cha]] 13, [[Curiosité intrépide]], 10 rangs en [[Intimidation]], [[humain]]</td><td>+1 aux jets de sauvegarde contre les effets d'émotion, relance un 1 naturel 1 fois par jour et peut faire un test d'Intimidation gratuit si le nouveau jet est une réussite</td></tr><tr CLASS="premier"><td>[[Éclectisme]]</td><td><sup>MJRA</sup></td><td>[[Humain]]</td><td>Gagne une classe de prédilection de plus</td></tr><tr CLASS="premier"><td>[[Esprit unique]]</td><td><sup>*ISR*</sup></td><td>[[Vigilance]], 3 rangs en [[Psychologie]], [[humain]] (vudrain)</td><td>Évite les malus dus à l'état pris au dépourvu, aveuglé ou en combattant des ennemis invisibles si adjacent à un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Grand veneur]]</td><td><sup>MR</sup></td><td>1 rang en [[Dressage]]; capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[Paladin#PACTEDIVIN|pacte divin (destrier)]], ou [[Chevalier#MONTURE|monture]]; [[humain]]</td><td>+2 aux tests de Dressage et de Connaissances (nature) avec l'animal choisi, augmente le niveau de 1 pour déterminer les capacités du compagnon animal</td></tr><tr CLASS="premier"><td>[[Héritage racial]]</td><td><sup>MJRA</sup></td><td>[[Humain]]</td><td>Fonctionne comme un humain et un membre d’une autre race</td></tr><tr CLASS="premier"><td>[[Lien du quah]]</td><td><sup>*ISR*</sup></td><td>[[Totem spirituel]], [[humain]] (shoanti)</td><td>Double les avantages du don Totem spirituel lorsqu'un allié du même quah se trouve à 9 mètres ou moins</td></tr><tr CLASS="premier"><td>[[Loyal jusquà la mort|Loyal jusqu'à la mort]]</td><td><sup>*ISR*</sup></td><td>[[Humain]] (tianais)</td><td>Devient la cible d'une attaque dirigée vers un allié adjacent qui possède ce don</td></tr><tr CLASS="premier"><td>[[Opportuniste sans scrupule]]</td><td><sup>*ISR*</sup></td><td>[[Humain]] (chélaxien)</td><td>L'attaque d'opportunité réussie d'un allié qui possède ce don confère un bonus de +2 aux attaques contre le même ennemi pendant 1 round</td></tr><tr CLASS="premier"><td>[[Polyvalence martiale]]*</td><td><sup>MR</sup></td><td>[[Guerrier]] de niveau 4, [[humain]]</td><td>Un unique don de combat peut être appliqué à toutes les armes du même groupe</td></tr><tr><td>&emsp;[[Maîtrise martiale]]*</td><td><sup>MR</sup></td><td>Polyvalence martiale, [[guerrier]] de niveau 16, [[humain]]</td><td>Les dons de combat peuvent être appliqués à toutes les armes du même groupe</td></tr><tr CLASS="premier"><td>[[Poursuite de la gloire]]</td><td><sup>*ISR*</sup></td><td>[[Humain]] (ulfe)</td><td>Bonus de moral de +2 aux attaques dans le cadre d'une charge en étant adjacent à un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Rejeton de lempire perdu|Rejeton de l'empire perdu]]</td><td><sup>*ISR*</sup></td><td>[[Humain]] (chélaxien ou taldorien)</td><td>Bonus de compétence de +2 à un jet d'attaque, un jet de sauvegarde, un test de compétence ou un test de caractéristique lorsqu'adjacent à un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Rivalité amicale]]</td><td><sup>*ISR*</sup></td><td>[[Humain]] (taldorien)</td><td>Bonus de moral de +2 aux attaques de corps à corps lorsque le personnage est seul à menacer un ennemi et qu'un allié avec ce don est seul à en menacer un autre</td></tr><tr CLASS="premier"><td>[[Ruse diplomatique]]</td><td><sup>*ISR*</sup></td><td>3 rangs en [[Diplomatie]], [[humain]] (kéléshite)</td><td>Effectue une action libre dans le cadre d'un test d'initiative</td></tr><tr CLASS="premier"><td>[[Style juju]]</td><td><sup>*ISR*</sup></td><td>3 rangs en [[Connaissances]] (religion), [[humain]] (mwangi)</td><td>Lance des sorts de contact à 4,5 mètres s'ils ciblent un allié mwangi avec ce don</td></tr><tr CLASS="premier"><td>[[Succès éclatant]]</td><td><sup>MR</sup></td><td>[[Humain]]</td><td>+2 sur un unique jet après avoir confirmé un coup critique ou avoir obtenu un 20 naturel sur un jet de sauvegarde</td></tr><tr CLASS="premier"><td>[[Triangulation]]</td><td><sup>*ISR*</sup></td><td>[[Combat en aveugle]], [[Maîtrise du combat en aveugle]], [[Science du combat en aveugle]], 15 rangs en [[Perception]], [[humain]] (kéllide)</td><td>Localise automatiquement les créatures invisibles et relancer les chances de rater dues à un camouflage lorsqu'un allié avec ce don se trouve à 9 mètres ou moins</td></tr><tr CLASS="premier"><td>[[Troupe mortelle]]</td><td><sup>*ISR*</sup></td><td>3 rangs en [[Représentation]] (comédie) ou en [[Représentation]] (danse), [[humain]] (varisien)</td><td>+4 sur certaines manœuvres offensives et compétences contre les adversaires menacés par un allié avec ce don</td></tr><tr CLASS="premier"><td>[[Volonté héroïque]]</td><td><sup>MR</sup></td><td>[[Volonté de fer]], bonus de base de [[Volonté]] +4, [[humain]]</td><td>Nouveau jet de Volonté 1 fois par jour pour se libérer d'un effet néfaste</td></tr></table>
 
-|- CLASS="premier"
-| [[Apprentissage rapide]] || <sup>MR</sup> || [[Int]] 13, [[humain]] || +1 point de vie et +1 point de compétence à chaque montée de niveau dans la classe de prédilection
-|-
-| &emsp;[[Improvisation]] || <sup>MR</sup> || [[Int]] 13, [[Apprentissage rapide]], [[humain]] || +2 aux tests de compétence sans rangs, les compétences qui nécessitent une formation peuvent être utilisés sans
-|-
-| &emsp;&emsp;[[Science de limprovisation|Science de l'improvisation]] || <sup>MR</sup> || [[Int]] 13, [[Apprentissage rapide]], [[Improvisation]], [[humain]] || Les pénalités de non-formation sont divisées par deux, les bonus d'Improvisation passe à +4
-
-|- CLASS="premier"
-| [[Barrage de styles]] || <sup>*ISR*</sup> || [[BBA]] +1, [[humain]] || Les alliés adjacents différents avec ce don obtiennent un bonus cumulatif de +1 (maximum +4) aux manœuvres offensives
-
-|- CLASS="premier"
-| [[Chance insolente]] || <sup>MR</sup> || [[Humain]] || 1 fois par jour, relance un 1 naturel
-|-
-| &emsp;[[Chance inexplicable]] || <sup>MR</sup> || [[Chance insolente]], [[humain]] || 1 fois par jour, +8 avant de faire un jet ou +4 après
-|-
-| &emsp;&emsp;[[Transmettre sa chance]] || <sup>MR</sup> || [[Chance insolente]], [[Chance inexplicable]], [[humain]] || Gain d'une utilisation supplémentaire de Chance insolente, utilise Chance inexplicable au profit d'un allié
-
-|- CLASS="premier"
-| [[Convergence magique élevée]] || <sup>*ISR*</sup> || N'importe quel [[Dons#DONMETAMAGIE|don de métamagie]], 7 rangs en [[Art de la magie]], capacité à lancer des sorts de 2e niveau, [[humain]] (garundi) || Applique spontanément des dons de métamagie sans dépenser d'emplacements de sorts supérieurs ou augmenter le temps d'incantation si des alliés se préparent à lancer le même sort
-
-|- CLASS="premier"
-| [[Critiques divers]]* || <sup>MR</sup> || [[Guerrier]] de niveau 11, [[humain]] || 1 fois par jour, gagne un don de critique
-
-|- CLASS="premier"
-| [[Curiosité intrépide]] || <sup>MR</sup> || [[Cha]] 13, [[humain]] || +1 aux jets de sauvegarde contre les effets d'émotion, nouveaux jets pour réduire un effet de peur d'un cran
-|-
-| &emsp;[[Assurance intimidante]] || <sup>MR</sup> || [[Cha]] 13, [[Curiosité intrépide]], 5 rangs en [[Intimidation]], [[humain]] || +1 aux jets de sauvegarde contre les effets d'émotion, test d'Intimidation gratuit sur un critique confirmé
-|-
-| &emsp;[[Destin intrépide]] || <sup>MR</sup> || [[Cha]] 13, [[Curiosité intrépide]], 10 rangs en [[Intimidation]], [[humain]] || +1 aux jets de sauvegarde contre les effets d'émotion, relance un 1 naturel 1 fois par jour et peut faire un test d'Intimidation gratuit si le nouveau jet est une réussite
-
-|- CLASS="premier"
-| [[Éclectisme]] || <sup>MJRA</sup> || [[Humain]] || Gagne une classe de prédilection de plus
-
-|- CLASS="premier"
-| [[Esprit unique]] || <sup>*ISR*</sup> || [[Vigilance]], 3 rangs en [[Psychologie]], [[humain]] (vudrain) || Évite les malus dus à l'état pris au dépourvu, aveuglé ou en combattant des ennemis invisibles si adjacent à un allié avec ce don
-
-|- CLASS="premier"
-| [[Grand veneur]] || <sup>MR</sup> || 1 rang en [[Dressage]]; capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[Paladin#PACTEDIVIN|pacte divin (destrier)]], ou [[Chevalier#MONTURE|monture]]; [[humain]] || +2 aux tests de Dressage et de Connaissances (nature) avec l'animal choisi, augmente le niveau de 1 pour déterminer les capacités du compagnon animal
-
-|- CLASS="premier"
-| [[Héritage racial]] || <sup>MJRA</sup> || [[Humain]] || Fonctionne comme un humain et un membre d’une autre race
-
-|- CLASS="premier"
-| [[Lien du quah]] || <sup>*ISR*</sup> || [[Totem spirituel]], [[humain]] (shoanti) || Double les avantages du don Totem spirituel lorsqu'un allié du même quah se trouve à 9 mètres ou moins
-
-|- CLASS="premier"
-| [[Loyal jusquà la mort|Loyal jusqu'à la mort]] || <sup>*ISR*</sup> || [[Humain]] (tianais) || Devient la cible d'une attaque dirigée vers un allié adjacent qui possède ce don
-
-|- CLASS="premier"
-| [[Opportuniste sans scrupule]] || <sup>*ISR*</sup> || [[Humain]] (chélaxien) || L'attaque d'opportunité réussie d'un allié qui possède ce don confère un bonus de +2 aux attaques contre le même ennemi pendant 1 round
-
-|- CLASS="premier"
-| [[Polyvalence martiale]]* || <sup>MR</sup> || [[Guerrier]] de niveau 4, [[humain]] || Un unique don de combat peut être appliqué à toutes les armes du même groupe
-|-
-| &emsp;[[Maîtrise martiale]]* || <sup>MR</sup> || Polyvalence martiale, [[guerrier]] de niveau 16, [[humain]] || Les dons de combat peuvent être appliqués à toutes les armes du même groupe
-
-|- CLASS="premier"
-| [[Poursuite de la gloire]] || <sup>*ISR*</sup> || [[Humain]] (ulfe) || Bonus de moral de +2 aux attaques dans le cadre d'une charge en étant adjacent à un allié avec ce don
-
-|- CLASS="premier"
-| [[Rejeton de lempire perdu|Rejeton de l'empire perdu]] || <sup>*ISR*</sup> || [[Humain]] (chélaxien ou taldorien) || Bonus de compétence de +2 à un jet d'attaque, un jet de sauvegarde, un test de compétence ou un test de caractéristique lorsqu'adjacent à un allié avec ce don
-
-|- CLASS="premier"
-| [[Rivalité amicale]] || <sup>*ISR*</sup> || [[Humain]] (taldorien) || Bonus de moral de +2 aux attaques de corps à corps lorsque le personnage est seul à menacer un ennemi et qu'un allié avec ce don est seul à en menacer un autre
-
-|- CLASS="premier"
-| [[Ruse diplomatique]] || <sup>*ISR*</sup> || 3 rangs en [[Diplomatie]], [[humain]] (kéléshite) || Effectue une action libre dans le cadre d'un test d'initiative
-
-|- CLASS="premier"
-| [[Style juju]] || <sup>*ISR*</sup> || 3 rangs en [[Connaissances]] (religion), [[humain]] (mwangi) || Lance des sorts de contact à 4,5 mètres s'ils ciblent un allié mwangi avec ce don
-
-|- CLASS="premier"
-| [[Succès éclatant]] || <sup>MR</sup> || [[Humain]] || +2 sur un unique jet après avoir confirmé un coup critique ou avoir obtenu un 20 naturel sur un jet de sauvegarde
-
-|- CLASS="premier"
-| [[Triangulation]] || <sup>*ISR*</sup> || [[Combat en aveugle]], [[Maîtrise du combat en aveugle]], [[Science du combat en aveugle]], 15 rangs en [[Perception]], [[humain]] (kéllide) || Localise automatiquement les créatures invisibles et relancer les chances de rater dues à un camouflage lorsqu'un allié avec ce don se trouve à 9 mètres ou moins
-
-|- CLASS="premier"
-| [[Troupe mortelle]] || <sup>*ISR*</sup> || 3 rangs en [[Représentation]] (comédie) ou en [[Représentation]] (danse), [[humain]] (varisien) || +4 sur certaines manœuvres offensives et compétences contre les adversaires menacés par un allié avec ce don
-
-|- CLASS="premier"
-| [[Volonté héroïque]] || <sup>MR</sup> || [[Volonté de fer]], bonus de base de [[Volonté]] +4, [[humain]] || Nouveau jet de Volonté 1 fois par jour pour se libérer d'un effet néfaste
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

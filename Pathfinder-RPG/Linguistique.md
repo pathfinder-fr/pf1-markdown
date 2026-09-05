@@ -25,33 +25,9 @@ Le MJ effectue les deux tests (celui de Linguistique et, si besoin, celui de Sag
 Le test de compétence est réalisé en secret, ce qui signifie que le personnage ne connaît jamais avec certitude la qualité de son faux. Tout comme pour la compétence de [[Déguisement]], aucun test n’est nécessaire tant que personne n’examine le document. Lorsque cela se produit, le test de Linguistique de l’individu qui examine le document pour en vérifier l’authenticité est opposé à celui du personnage qui a créé la contrefaçon. Le test de l’individu qui observe le document prend en compte les modificateurs suivants si les conditions indiquées sont remplies.
 
 <center>
-{| CLASS="tablo"
-|+ Modificateurs de contrefaçon
-|- CLASS="titre"
-| Condition
-| Modificateur au test de Linguistique
-|- CLASS="premier"
-| Type de document inconnu du lecteur
-| -2
-|- CLASS="alt"
-| Type de document peu connu du lecteur
-| 0
-|-
-| Type de document connu du lecteur
-| +2
-|- CLASS="alt"
-| Écriture inconnue du lecteur
-| -2
-|-
-| Écriture peu connue du lecteur
-| 0
-|- CLASS="alt"
-| Écriture bien connue du lecteur
-| +2
-|-
-| Le lecteur ne fait que survoler le document
-| -2
-|}
+
+<table CLASS="tablo"><caption>Modificateurs de contrefaçon</caption><tr CLASS="titre"><td>Condition</td><td>Modificateur au test de Linguistique</td></tr><tr CLASS="premier"><td>Type de document inconnu du lecteur</td><td>-2</td></tr><tr CLASS="alt"><td>Type de document peu connu du lecteur</td><td>0</td></tr><tr><td>Type de document connu du lecteur</td><td>+2</td></tr><tr CLASS="alt"><td>Écriture inconnue du lecteur</td><td>-2</td></tr><tr><td>Écriture peu connue du lecteur</td><td>0</td></tr><tr CLASS="alt"><td>Écriture bien connue du lecteur</td><td>+2</td></tr><tr><td>Le lecteur ne fait que survoler le document</td><td>-2</td></tr></table>
+
 </center>
 
 {s:REFERENCE|APPRENDREUNELANGUE}

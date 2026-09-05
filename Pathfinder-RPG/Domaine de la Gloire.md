@@ -30,27 +30,5 @@ Le personnage est le réceptacle d’une certaine gloire divine qui fait de lui 
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Gloire
-| Sous-domaine de l'Héroïsme || Sous-domaine de l'Honneur
-|- CLASS="premier"
-| 1er || *[[bouclier de la foi]]* || *idem* || *idem*
-|-
-| 2e || *[[bénédiction darme|bénédiction d’arme]]* || *idem* || *[[zone de vérité]]*
-|-
-| 3e || *[[lumière brûlante]]* || *[[héroïsme]]* || *idem*
-|-
-| 4e || *[[châtiment sacré]]* || *idem* || *idem*
-|-
-| 5e || *[[force du colosse]]* || *idem* || *idem*
-|-
-| 6e || *[[annihilation de mort-vivant]]* || *[[héroïsme suprême]]* || *[[quête]]*
-|-
-| 7e || *[[épée sainte]]* || *idem* || *idem*
-|-
-| 8e || *[[aura sacrée]]* || *idem* || *idem*
-|-
-| 9e || *[[portail]]* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Gloire</td><td>Sous-domaine de l'Héroïsme</td><td>Sous-domaine de l'Honneur</td></tr><tr CLASS="premier"><td>1er</td><td>*[[bouclier de la foi]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[bénédiction darme|bénédiction d’arme]]*</td><td>*idem*</td><td>*[[zone de vérité]]*</td></tr><tr><td>3e</td><td>*[[lumière brûlante]]*</td><td>*[[héroïsme]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[châtiment sacré]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[force du colosse]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[annihilation de mort-vivant]]*</td><td>*[[héroïsme suprême]]*</td><td>*[[quête]]*</td></tr><tr><td>7e</td><td>*[[épée sainte]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[aura sacrée]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[portail]]*</td><td>*idem*</td><td>*idem*</td></tr></table>

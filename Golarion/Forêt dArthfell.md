@@ -9,72 +9,14 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt" WIDTH="100%"
-|+ Rencontres aléatoires dans la forêt d'Arthfell<sup>(7)</sup>
-|- CLASS="titre"
-| WIDTH="22%" | d100
-| WIDTH="76%" | Résultat
-| WIDTH="2%" | FP
-|- Class="premier"
-| 01-10 || 1d3 [[Pathfinder-RPG.Ettercap|ettercaps]] || 4
-|-
-| 11-20 || 1d3 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]] || 4
-|-
-| 21-30 || 1 [[Pathfinder-RPG.Guenaude verte|guenaude verte]] || 5
-|-
-| 31-50 || 3d4 [[Pathfinder-RPG.Hobgobelin|hobgobelins]] || 5
-|-
-| 51-54 || 1 [[Pathfinder-RPG.Manticore|manticore]] || 5
-|-
-| 55-70 || 2d6 [[Pathfinder-RPG.Loup-garou|loups-garous]] || 5
-|-
-| 71-74 || 1 drake caustique<sup>1</sup> || 6
-|-
-| 75 || Cercle (3 [[Pathfinder-RPG.Guenaude verte|guenaude verte]]) || 6
-|-
-| 76 || 1 [[Pathfinder-RPG.Sylvanien|sylvanien]] || 8
-|-
-| 77-97 || Meute de loups (2d6 [[Pathfinder-RPG.Loup|loups]], 1d2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] et 1 [[Pathfinder-RPG.Loup arctique|loup arctique]]) || 8
-|-
-| 98-100 || 2d4 cadavres || —
-|- CLASS="note"
-| COLSPAN="3" | *(1) Utilisez les statistiques d'une [[Pathfinder-RPG.Vouivre|vouivre]]; remplacez l'attaque de dard par la capacité de cracher une ligne d'acide à 9 m tous les 1d4 rounds (5d6 points de dégâts d'acide, Réflexes 1/2 dégâts).*
-|}
+
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%"><caption>Rencontres aléatoires dans la forêt d'Arthfell<sup>(7)</sup></caption><tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr><tr Class="premier"><td>01-10</td><td>1d3 [[Pathfinder-RPG.Ettercap|ettercaps]]</td><td>4</td></tr><tr><td>11-20</td><td>1d3 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]]</td><td>4</td></tr><tr><td>21-30</td><td>1 [[Pathfinder-RPG.Guenaude verte|guenaude verte]]</td><td>5</td></tr><tr><td>31-50</td><td>3d4 [[Pathfinder-RPG.Hobgobelin|hobgobelins]]</td><td>5</td></tr><tr><td>51-54</td><td>1 [[Pathfinder-RPG.Manticore|manticore]]</td><td>5</td></tr><tr><td>55-70</td><td>2d6 [[Pathfinder-RPG.Loup-garou|loups-garous]]</td><td>5</td></tr><tr><td>71-74</td><td>1 drake caustique<sup>1</sup></td><td>6</td></tr><tr><td>75</td><td>Cercle (3 [[Pathfinder-RPG.Guenaude verte|guenaude verte]])</td><td>6</td></tr><tr><td>76</td><td>1 [[Pathfinder-RPG.Sylvanien|sylvanien]]</td><td>8</td></tr><tr><td>77-97</td><td>Meute de loups (2d6 [[Pathfinder-RPG.Loup|loups]], 1d2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] et 1 [[Pathfinder-RPG.Loup arctique|loup arctique]])</td><td>8</td></tr><tr><td>98-100</td><td>2d4 cadavres</td><td>—</td></tr><tr CLASS="note"><td COLSPAN="3">*(1) Utilisez les statistiques d'une [[Pathfinder-RPG.Vouivre|vouivre]]; remplacez l'attaque de dard par la capacité de cracher une ligne d'acide à 9 m tous les 1d4 rounds (5d6 points de dégâts d'acide, Réflexes 1/2 dégâts).*</td></tr></table>
+
 </div>
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt" WIDTH="100%"
-|+ Rencontres aléatoires dans la forêt d'Arthfell<sup>(8)</sup>
-|- CLASS="titre"
-| WIDTH="22%" | d100
-| WIDTH="76%" | Résultat
-| WIDTH="2%" | FP
-|- Class="premier"
-| 1–4 || 1 [[Pathfinder-RPG.Forlarren|forlarren]] || 2
-|-
-| 5–11 || 1 [[Pathfinder-RPG.PNJ Défenseur des cavernes|défenseur des cavernes]] || 4
-|-
-| 12–24 || 1d4+2 [[Pathfinder-RPG.Nécrophage|nécrophages]] || 4
-|-
-| 25–33 || 2 [fellsigs](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fellsig) || 5
-|-
-| 34–42 || 2 [Lumber Consortium enforcers](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Lumber%20Consortium%20Enforcer) || 5
-|-
-| 43–50 || 1d4+2 [Eagle Knights](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Eagle%20Knight) || 6
-|-
-| 51–62 || 2 [sawdust sloughs](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Sawdust%20Slough) || 6
-|-
-| 63–75 || 1d6+2 [[Pathfinder-RPG.Homme-brindille|hommes-brindilles]] || 7
-|-
-| 76–80 || 2 [[Pathfinder-RPG.Chapeau rouge|chapeaux rouges]] || 8
-|-
-| 81–84 || 2 [[Pathfinder-RPG.Tendricule|tendricules]] || 8
-|-
-| 85–90 || Troupe de ragewight (1 [ragewight](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Ragewight), 1d4+1 [[Pathfinder-RPG.Nécrophage des glaces|nécrophages des glaces]]) || 9
-|-
-| 91–97 || 1 [[Pathfinder-RPG.Nuée de tiques|nuée de tiques]] || 9
-|-
-| 98–100 || 1 [Candlestone courtier](https://aonprd.com/MonsterDisplay.aspx?ItemName=Candlestone%20Courtier) || 12
-|}
+
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%"><caption>Rencontres aléatoires dans la forêt d'Arthfell<sup>(8)</sup></caption><tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr><tr Class="premier"><td>1–4</td><td>1 [[Pathfinder-RPG.Forlarren|forlarren]]</td><td>2</td></tr><tr><td>5–11</td><td>1 [[Pathfinder-RPG.PNJ Défenseur des cavernes|défenseur des cavernes]]</td><td>4</td></tr><tr><td>12–24</td><td>1d4+2 [[Pathfinder-RPG.Nécrophage|nécrophages]]</td><td>4</td></tr><tr><td>25–33</td><td>2 [fellsigs](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fellsig)</td><td>5</td></tr><tr><td>34–42</td><td>2 [Lumber Consortium enforcers](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Lumber%20Consortium%20Enforcer)</td><td>5</td></tr><tr><td>43–50</td><td>1d4+2 [Eagle Knights](https://www.aonprd.com/NPCDisplay.aspx?ItemName=Eagle%20Knight)</td><td>6</td></tr><tr><td>51–62</td><td>2 [sawdust sloughs](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Sawdust%20Slough)</td><td>6</td></tr><tr><td>63–75</td><td>1d6+2 [[Pathfinder-RPG.Homme-brindille|hommes-brindilles]]</td><td>7</td></tr><tr><td>76–80</td><td>2 [[Pathfinder-RPG.Chapeau rouge|chapeaux rouges]]</td><td>8</td></tr><tr><td>81–84</td><td>2 [[Pathfinder-RPG.Tendricule|tendricules]]</td><td>8</td></tr><tr><td>85–90</td><td>Troupe de ragewight (1 [ragewight](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Ragewight), 1d4+1 [[Pathfinder-RPG.Nécrophage des glaces|nécrophages des glaces]])</td><td>9</td></tr><tr><td>91–97</td><td>1 [[Pathfinder-RPG.Nuée de tiques|nuée de tiques]]</td><td>9</td></tr><tr><td>98–100</td><td>1 [Candlestone courtier](https://aonprd.com/MonsterDisplay.aspx?ItemName=Candlestone%20Courtier)</td><td>12</td></tr></table>
+
 </div></div>Les vieux pins et sapins de la forêt d'Arthfell constituent l'une des régions boisées les plus tristement célèbres de la nation [[Andoran|andorane]]. Connue pour ses cabales druidiques, ses groupes de loups-garous menaçants et d'autres dangers, Arthfell est rarement traversée, bien que la civilisation empiète toujours sur ses frontières.<sup>(1)</sup> La région de l'Andoran connue sous le nom d'[[Arthfell]] tire son nom de cette forêt.<sup>(2)</sup>
 
 #### Géographie

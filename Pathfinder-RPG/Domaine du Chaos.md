@@ -58,27 +58,5 @@ D’un simple toucher, le personnage peut instiller le chaos dans les créatures
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine du Chaos
-| Sous-domaine des Azatas || Sous-domaine des Caprices || Sous-domaine des Démodandes || Sous-domaine des Démons || Sous-domaine de l'Entropie || Sous-domaine des Festivités || Sous-domaine des Protéens
-|- CLASS="premier"
-| 1er || *[[protection contre la Loi]]* || *[[repli expéditif]]* || *[[fou rire]]* || *idem* || *[[anathème]]* || *[[bouclier entropique]]* || *idem* || *[[confusion mineure]]*
-|-
-| 2e || *[[arme alignée]]* (lancé comme un sort du Chaos seulement) || *idem* || *idem* || *idem* || *idem* || *idem* || *[[fou rire]]* || *idem*
-|-
-| 3e || *[[cercle magique contre la Loi]]* || *[[sort vol|vol]]* || *idem* || *idem* || *[[rage]]* || *[[dissipation de la magie]]* || *[[espoir]]* || *[[déplacement]]*
-|-
-| 4e || *[[marteau du Chaos]]* || *idem* || *[[confusion]]* || *idem* || *idem* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[rejet de la Loi]]* || *idem* || *idem* || *idem* || *idem* || *[[confusion]]* || *idem* || *idem*
-|-
-| 6e || *[[animation dobjets|animation d’objets]]* || *[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas uniquement) || *[[manteau de rêves]]* || *[[corrosion]]* || *[[contrat intermédiaire]]* (démons uniquement) || *idem* || *[[festin des héros]]* || *[[contrat intermédiaire]]* (protéens uniquement)
-|-
-| 7e || *[[parole du Chaos]]* || *idem* || *idem* || *idem* || *idem* || *[[destruction]]* || *idem* || *idem*
-|-
-| 8e || *[[manteau du Chaos]]* || *idem* || *idem* || *idem* || *idem* || *idem* || *[[danse irrésistible]]* || *idem*
-|-
-| 9e || *[[convocation de monstres IX]]* (lancé comme un sort du Chaos seulement) || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Chaos</td><td>Sous-domaine des Azatas</td><td>Sous-domaine des Caprices</td><td>Sous-domaine des Démodandes</td><td>Sous-domaine des Démons</td><td>Sous-domaine de l'Entropie</td><td>Sous-domaine des Festivités</td><td>Sous-domaine des Protéens</td></tr><tr CLASS="premier"><td>1er</td><td>*[[protection contre la Loi]]*</td><td>*[[repli expéditif]]*</td><td>*[[fou rire]]*</td><td>*idem*</td><td>*[[anathème]]*</td><td>*[[bouclier entropique]]*</td><td>*idem*</td><td>*[[confusion mineure]]*</td></tr><tr><td>2e</td><td>*[[arme alignée]]* (lancé comme un sort du Chaos seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[fou rire]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[cercle magique contre la Loi]]*</td><td>*[[sort vol|vol]]*</td><td>*idem*</td><td>*idem*</td><td>*[[rage]]*</td><td>*[[dissipation de la magie]]*</td><td>*[[espoir]]*</td><td>*[[déplacement]]*</td></tr><tr><td>4e</td><td>*[[marteau du Chaos]]*</td><td>*idem*</td><td>*[[confusion]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[rejet de la Loi]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[confusion]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[animation dobjets|animation d’objets]]*</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas uniquement)</td><td>*[[manteau de rêves]]*</td><td>*[[corrosion]]*</td><td>*[[contrat intermédiaire]]* (démons uniquement)</td><td>*idem*</td><td>*[[festin des héros]]*</td><td>*[[contrat intermédiaire]]* (protéens uniquement)</td></tr><tr><td>7e</td><td>*[[parole du Chaos]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[destruction]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[manteau du Chaos]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[danse irrésistible]]*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[convocation de monstres IX]]* (lancé comme un sort du Chaos seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>

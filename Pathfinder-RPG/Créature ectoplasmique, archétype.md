@@ -17,25 +17,9 @@ LastModified: 2020-09-18 04:08
 - **Classe d’armure**. Le bonus d’armure naturelle de la créature change comme suit :
 
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Taille de l’ectoplasme || Bonus d’armure naturelle
-|- CLASS="premier"
-| TP ou plus petite || +0
-|-
-| P || +1
-|-
-| M || +2
-|-
-| G || +3
-|-
-| TG || +4
-|-
-| Gig || +6
-|-
-| C || +8
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Taille de l’ectoplasme</td><td>Bonus d’armure naturelle</td></tr><tr CLASS="premier"><td>TP ou plus petite</td><td>+0</td></tr><tr><td>P</td><td>+1</td></tr><tr><td>M</td><td>+2</td></tr><tr><td>G</td><td>+3</td></tr><tr><td>TG</td><td>+4</td></tr><tr><td>Gig</td><td>+6</td></tr><tr><td>C</td><td>+8</td></tr></table>
+
 
 
 - **Dés de vie.** Éliminez les DV que la créature a gagnés avec ses niveaux de classe (jusqu’à un minimum de 1 DV) et changez ses dés de vie raciaux en d8. Les créatures ectoplasmiques utilisent leur modificateur de Charisme (plutôt que de Constitution) pour déterminer leurs points de vie supplémentaires.

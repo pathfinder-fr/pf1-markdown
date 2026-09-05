@@ -39,15 +39,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de tigre
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Tigre]] || 4
-|-
-| [[Tigre sanguinaire]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de tigre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Tigre]]</td><td>4</td></tr><tr><td>[[Tigre sanguinaire]]</td><td>8</td></tr></table>
+
 </div>''Ce puissant prédateur félin à la robe orange-rouge tachetée de bandes
 noires se déplace avec une grâce mortelle.''
 

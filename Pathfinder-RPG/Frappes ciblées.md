@@ -21,19 +21,9 @@ Les frappes ciblées se divisent en trois grandes catégories de difficulté : f
 
 **Coups critiques et confirmation de coups critiques**. Une frappe ciblée a des chances normales de devenir un [[Actions simples#COUPCRITIQUE|coup critique]], et inflige un effet supplémentaire lorsqu’un [[Actions simples#COUPCRITIQUE|coup critique]] est confirmé. L’effet spécifique à appliquer lorsqu’un [[Actions simples#COUPCRITIQUE|coup critique]] est réussi dépend de la zone ciblée. Ces effets sont décrits dans la partie [[Frappes ciblées#EFFETSDESFRAPPESCIBLEES|Effets des frappes ciblées]].
 
-{| CLASS="tablo toutgauche"
-|+ Dons de frappe ciblée
-|- CLASS="titre"
-| WIDTH="20%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="37%" | Conditions
-| WIDTH="40%" | Avantages
 
-|- CLASS="premier"
-| [[Science de la frappe ciblée]] || <sup>AG</sup> || [[Int]] 13, [[Expertise du combat]] || Bonus de +2 au [[jet dattaque|jet d'attaque]] sur une frappe ciblée, faire une frappe ciblée parmi des attaques multiples
-|- CLASS="alt"
-| &emsp;[[Frappe ciblée supérieure]] || <sup>AG</sup> || [[Int]] 13, [[Expertise du combat]], [[Science de la frappe ciblée]], [[BBA]] +6 || Remplacer une attaque par une frappe ciblée, plusieurs frappes ciblées par [[round]]
-|}
+<table CLASS="tablo toutgauche"><caption>Dons de frappe ciblée</caption><tr CLASS="titre"><td WIDTH="20%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="37%">Conditions</td><td WIDTH="40%">Avantages</td></tr><tr CLASS="premier"><td>[[Science de la frappe ciblée]]</td><td><sup>AG</sup></td><td>[[Int]] 13, [[Expertise du combat]]</td><td>Bonus de +2 au [[jet dattaque|jet d'attaque]] sur une frappe ciblée, faire une frappe ciblée parmi des attaques multiples</td></tr><tr CLASS="alt"><td>&emsp;[[Frappe ciblée supérieure]]</td><td><sup>AG</sup></td><td>[[Int]] 13, [[Expertise du combat]], [[Science de la frappe ciblée]], [[BBA]] +6</td><td>Remplacer une attaque par une frappe ciblée, plusieurs frappes ciblées par [[round]]</td></tr></table>
+
 
 {s:Reference|REGLESADDITIONNELLES}
 ### Règles additionnelles
@@ -107,31 +97,9 @@ et des [[Affaiblissement temporaire (capacité)#Diminution_permanente_0|diminuti
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ {s:Reference|TABLOCALISATION}Localisation des frappes ciblées
-|- CLASS="titre"
-| Localisation || Difficulté || Malus
-|- CLASS="premier"
-| [[Frappes ciblées#Abdomen|Abdomen]] || Délicate || -5
-|-
-| [[Frappes ciblées#Bras|Bras]] || Facile || -2
-|-
-| &emsp;[[Frappes ciblées#Main|Main]] || Délicate || -5
-|-
-| [[Frappes ciblées#Jambe|Jambe]] || Facile || -2
-|-
-| [[Frappes ciblées#Tête|Tête]] || Délicate || -5
-|-
-| &emsp;[[Frappes ciblées#Cou|Cou]] || Difficile || -10
-|-
-| &emsp;[[Frappes ciblées#Œil|Œil]] || Difficile || -10
-|-
-| &emsp;[[Frappes ciblées#Oreille|Oreille]] || Difficile || -10
-|-
-| [[Frappes ciblées#Tronc|Tronc]] || Facile || -2
-|-
-| &emsp;[[Frappes ciblées#Cœur|Cœur]] || Difficile || -10
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TABLOCALISATION}Localisation des frappes ciblées</caption><tr CLASS="titre"><td>Localisation</td><td>Difficulté</td><td>Malus</td></tr><tr CLASS="premier"><td>[[Frappes ciblées#Abdomen|Abdomen]]</td><td>Délicate</td><td>-5</td></tr><tr><td>[[Frappes ciblées#Bras|Bras]]</td><td>Facile</td><td>-2</td></tr><tr><td>&emsp;[[Frappes ciblées#Main|Main]]</td><td>Délicate</td><td>-5</td></tr><tr><td>[[Frappes ciblées#Jambe|Jambe]]</td><td>Facile</td><td>-2</td></tr><tr><td>[[Frappes ciblées#Tête|Tête]]</td><td>Délicate</td><td>-5</td></tr><tr><td>&emsp;[[Frappes ciblées#Cou|Cou]]</td><td>Difficile</td><td>-10</td></tr><tr><td>&emsp;[[Frappes ciblées#Œil|Œil]]</td><td>Difficile</td><td>-10</td></tr><tr><td>&emsp;[[Frappes ciblées#Oreille|Oreille]]</td><td>Difficile</td><td>-10</td></tr><tr><td>[[Frappes ciblées#Tronc|Tronc]]</td><td>Facile</td><td>-2</td></tr><tr><td>&emsp;[[Frappes ciblées#Cœur|Cœur]]</td><td>Difficile</td><td>-10</td></tr></table>
+
 </div></div>{s:Reference|Abdomen}
 #### Abdomen
 L’abdomen correspond à la zone du bas-ventre chez les

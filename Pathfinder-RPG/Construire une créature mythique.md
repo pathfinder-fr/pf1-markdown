@@ -41,32 +41,9 @@ Il est particulièrement difficile de créer un nouveau monstre mythique puisqu�
 
 : Si le monstre n’est pas assez puissant et que son RMy de l’étape 2 n’est pas un nombre entier, augmentez le RMy du monstre de 1 (ajustez les modificateurs apportés par le [[sous-type mythique]]). Si le monstre est trop puissant et que vous devez arrondir à l’inférieur pour obtenir son [[FP]] final, comparez le monstre aux statistiques correspondant au FP supérieur. Une fois que les aptitudes et statistiques du monstre correspondent à son FP, vous avez terminé.
 
-{| CLASS="tablo centre autoalt"
-|+ Aptitudes du sous-type mythique
-|- CLASS="titre"
-| Rang mythique || Bonus de caractéristique || Don mythique || Type de dés de montée en puissance
-|- CLASS="premier"
-| 1 || - || 1er || 1d6
-|-
-| 2 || 1er || - || 1d6
-|-
-| 3 || - || 2e || 1d6
-|-
-| 4 || 2e || - || 1d8
-|-
-| 5 || - || 3e || 1d8
-|-
-| 6 || 3e || - || 1d8
-|-
-| 7 || - || 4e || 1d10
-|-
-| 8 || 4e || - || 1d10
-|-
-| 9 || - || 5e || 1d10
-|-
-| 10 || 5e || - || 1d12
-|-
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Aptitudes du sous-type mythique</caption><tr CLASS="titre"><td>Rang mythique</td><td>Bonus de caractéristique</td><td>Don mythique</td><td>Type de dés de montée en puissance</td></tr><tr CLASS="premier"><td>1</td><td>-</td><td>1er</td><td>1d6</td></tr><tr><td>2</td><td>1er</td><td>-</td><td>1d6</td></tr><tr><td>3</td><td>-</td><td>2e</td><td>1d6</td></tr><tr><td>4</td><td>2e</td><td>-</td><td>1d8</td></tr><tr><td>5</td><td>-</td><td>3e</td><td>1d8</td></tr><tr><td>6</td><td>3e</td><td>-</td><td>1d8</td></tr><tr><td>7</td><td>-</td><td>4e</td><td>1d10</td></tr><tr><td>8</td><td>4e</td><td>-</td><td>1d10</td></tr><tr><td>9</td><td>-</td><td>5e</td><td>1d10</td></tr><tr><td>10</td><td>5e</td><td>-</td><td>1d12</td></tr></table>
+
 
 {s:Reference|POINTSDEVIEMYTHIQUESSUPPLEMENTAIRES}
 ### Points de vie mythiques supplémentaires

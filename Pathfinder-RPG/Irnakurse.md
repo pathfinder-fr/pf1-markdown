@@ -39,21 +39,9 @@ LastModified: 2020-11-24 23:46
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de créature distordue
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Drider]] || 7
-|-
-| [[Ghonhatine]] || 10
-|-
-| [[Grothlut]] || 3
-|-
-| [[Halsora]] || 7
-|-
-| [[Irnakurse]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de créature distordue</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Drider]]</td><td>7</td></tr><tr><td>[[Ghonhatine]]</td><td>10</td></tr><tr><td>[[Grothlut]]</td><td>3</td></tr><tr><td>[[Halsora]]</td><td>7</td></tr><tr><td>[[Irnakurse]]</td><td>9</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Cette masse aux yeux fous, composée de membres déformés, de traits mal placés et d’échardes d’os se traîne dans une cacophonie de bruits de chair flasque.*
 
 Les irnakurses, signifiant « les parfaits » en langue elfique, sont une incarnation de toute la haine que les drows éprouvent pour leurs cousins de la surface. Ces abominations, condensées de rage dont on a lavé le cerveau, sont le fruit de la distorsion de la chair exercée sur les elfes et, si les drows le pouvaient, elles seraient également l’incarnation de l’avenir de la race elfique.

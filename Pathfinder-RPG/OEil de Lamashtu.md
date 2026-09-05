@@ -41,35 +41,8 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potion]] de [[soins légers]]*, *[[baguettes magiques|baguette]] de [[soins modérés]]* (50 charges), [[Feu grégeois (objet)|feux grégeois]] (2) ; **Équipement divers** [[armure décailles (armure)|armure d’écailles de maître]], [[javeline (arme)|javelines]] (2), [[cimeterre à deux mains (arme)|cimeterre à deux mains de maître]], *[[amulette darmure naturelle|amulette d’armure naturelle +1]]*, 33 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Gnoll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gnoll]] || 1
-|-
-| [[Flind]] || 3
-|-
-| [[Cogneur gnoll]] || 3
-|-
-| [[Enragé-né gnoll]] || 3
-|-
-| [[Sergent gnoll]] || 4
-|-
-| [[OEil de Lamashtu]] || 5
-|-
-| [[Lieutenant gnoll]] || 6
-|-
-| [[Chef de meute gnoll]] || 9
-|-
-| [[Gardien gnoll]] || 10
-|-
-| [[Saccageur gnoll]] || 11
-|-
-| [[Élue de Lamashtu]] || 12
-|-
-| [[Buda gnoll]] || 13
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+
 </div>Les gnolls révèrent Lamashtu plus que tout autre dieu.
 </div></td></tr></table>

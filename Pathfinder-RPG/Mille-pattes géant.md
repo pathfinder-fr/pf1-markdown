@@ -39,19 +39,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de mille-pattes
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Mille-pattes à queue fouettante]] || 3
-|-
-| [[Mille-pattes géant]] || 1/2
-|-
-| [[Mille-pattes titanesque]] || 9
-|-
-| [[Nuée de mille-pattes]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de mille-pattes</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Mille-pattes à queue fouettante]]</td><td>3</td></tr><tr><td>[[Mille-pattes géant]]</td><td>1/2</td></tr><tr><td>[[Mille-pattes titanesque]]</td><td>9</td></tr><tr><td>[[Nuée de mille-pattes]]</td><td>4</td></tr></table>
+
 </div>*Ce monstre allongé composé de plusieurs segments se tortille et tend ses mandibules venimeuses à la recherche de proie.*
 
 Les mille-pattes géants s’attaquent à quasiment toutes les créatures
@@ -74,43 +64,9 @@ et la [[Constitution]] en conséquence).
 Les variantes les plus courantes sont reprises dans la table ci-dessous :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| class="gauche" | Espèce
-| FP
-| Taille
-|DV
-|- CLASS="premier"
-| class="gauche" | Scutigère véloce
-| 1/8
-| TP
-| 1d8
-|- CLASS="alt"
-| class="gauche" | Mille-pattes des égouts
-| 1/4
-| P
-| 1d8
-|- CLASS
-| class="gauche" | Mille-pattes sifflant
-| 1
-| G
-| 2d8
-|- CLASS="alt"
-| class="gauche" | Mille-pattes à queue fouettante
-| 2
-| TG
-| 4d8
-|- CLASS
-| class="gauche" | Grand mille-pattes des forêts
-| 6
-| Gig
-| 7d8
-|- CLASS="alt"
-| class="gauche" | Mille-pattes titanesque
-| 9
-| Col
-| 10d8
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">Scutigère véloce</td><td>1/8</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td class="gauche">Mille-pattes des égouts</td><td>1/4</td><td>P</td><td>1d8</td></tr><tr CLASS><td class="gauche">Mille-pattes sifflant</td><td>1</td><td>G</td><td>2d8</td></tr><tr CLASS="alt"><td class="gauche">Mille-pattes à queue fouettante</td><td>2</td><td>TG</td><td>4d8</td></tr><tr CLASS><td class="gauche">Grand mille-pattes des forêts</td><td>6</td><td>Gig</td><td>7d8</td></tr><tr CLASS="alt"><td class="gauche">Mille-pattes titanesque</td><td>9</td><td>Col</td><td>10d8</td></tr></table></center>
+
 
 #### Le Mille-pattes géant comme compagnon animal
 **Caractéristiques de départ.** **Taille** P ; **Vitesse** 6 m (4 {s:c}), escalade 6 m (4 {s:c}) ; **Attaque** morsure (1d4 plus poison) ; **Attaque spéciale** poison (*Fréquence* 1 round (6), *Effet* affaiblissement temporaire 1 [[Dextérité|Dex]], *Guérison* 1 jet de sauvegarde, *DD* dépendant de la [[Constitution]]) ; **Particularité** [[vision dans le noir]] 18 m (12 {s:c}) ; **Caractéristiques** [[Force|For]] 8, [[Dextérité|Dex]] 17, [[Constitution|Con]] 11, [[Intelligence|Int]] –, [[Sagesse|Sag]] 10, [[Charisme|Cha]] 2 ; **CA** armure naturelle +2 ; **DMD** impossible de lui faire un [[croc-en-jambe]]

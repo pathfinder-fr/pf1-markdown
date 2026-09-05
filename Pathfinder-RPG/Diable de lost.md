@@ -47,17 +47,9 @@ LastModified: 2021-04-04 10:11
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Les variantes de Diable de l'ost
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Diable de lost|Diable de l'ost]] (Magaav) || 6
-|-
-| [[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav) || 6
-|-
-| [[Diable de lost mineur|Diable de l'ost mineur]] (Gaav) || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Les variantes de Diable de l'ost</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Diable de lost|Diable de l'ost]] (Magaav)</td><td>6</td></tr><tr><td>[[Diable de lost Majeur|Diable de l'ost majeur]] (Magaav)</td><td>6</td></tr><tr><td>[[Diable de lost mineur|Diable de l'ost mineur]] (Gaav)</td><td>3</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[diable|diables]].***</li></ul>
 *Des cornes tordues sortent de la tête écorchée de cette créature ailée et des fumerolles empoisonnées s’échappent de sa gueule entre ses crocs jaunis. *
 

@@ -94,38 +94,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux oréades, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Échos de la pierre]]</td><td><sup>MR</sup></td><td>[[oréade (race)|Oréade]]</td><td>+4 aux tests de Perception en souterrain, +4 aux tests de Survie pour ne pas se perdre en milieu caverneux ou rocailleux</td></tr><tr><td>&emsp;[[Murmures de la terre]]</td><td><sup>MR</sup></td><td>[[oréade (race)|Oréade]], [[Échos de la pierre]], niveau 9</td><td>Gain d'une perception des vibrations limitée</td></tr><tr CLASS="premier"><td>[[Flot des éléments]]</td><td><sup>*ISR*</sup></td><td>Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td></tr><tr CLASS="premier"><td>[[Frappe élémentaire]]</td><td><sup>*ISR*</sup></td><td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Inflige +1 dégât de l'énergie liée à la race du personnage</td></tr><tr CLASS="premier"><td>[[Sang de nain]]</td><td><sup>MR</sup></td><td>[[oréade (race)|Oréade]]</td><td>Gain des traits raciaux nains lentement mais sûrement et connaissances de la pierre</td></tr><tr CLASS="premier"><td>[[Saut élémentaire]]</td><td><sup>MR</sup></td><td>[[ifrit (race)|Ifrit]], [[sylphe (race)|sylphe]], [[ondin (race)|ondin]] ou [[oréade (race)|oréade]], niveau 15</td><td>Le personnage peut lancer *changement de plan* 1 fois par jour pour retourner sur le plan de ses ancêtres</td></tr><tr CLASS="premier"><td>[[Semelle de pierre]]</td><td><sup>MR</sup></td><td>[[oréade (race)|Oréade]]</td><td>Ignore les terrains difficiles de terre et de pierre</td></tr><tr><td>&emsp;[[Fouisseur oréade]]</td><td><sup>MR</sup></td><td>[[oréade (race)|Oréade]], [[semelle de pierre]], niveau 9</td><td>Gain d'une vitesse de creusement</td></tr><tr><td>&emsp;&emsp;[[Oréade nageur de terre]]</td><td><sup>MR</sup></td><td>[[oréade (race)|Oréade]], [[semelle de pierre]], [[Fouisseur oréade]], niveau 13</td><td>Gain de la capacité nage dans la terre</td></tr></table>
 
-|- CLASS="premier"
-| [[Échos de la pierre]] || <sup>MR</sup> || [[oréade (race)|Oréade]] || +4 aux tests de Perception en souterrain, +4 aux tests de Survie pour ne pas se perdre en milieu caverneux ou rocailleux
-|-
-| &emsp;[[Murmures de la terre]] || <sup>MR</sup> || [[oréade (race)|Oréade]], [[Échos de la pierre]], niveau 9 || Gain d'une perception des vibrations limitée
-
-|- CLASS="premier"
-| [[Flot des éléments]] || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
-
-|- CLASS="premier"
-| [[Frappe élémentaire]] || <sup>*ISR*</sup> || [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Inflige +1 dégât de l'énergie liée à la race du personnage
-
-|- CLASS="premier"
-| [[Sang de nain]] || <sup>MR</sup> || [[oréade (race)|Oréade]] || Gain des traits raciaux nains lentement mais sûrement et connaissances de la pierre
-
-|- CLASS="premier"
-| [[Saut élémentaire]] || <sup>MR</sup> || [[ifrit (race)|Ifrit]], [[sylphe (race)|sylphe]], [[ondin (race)|ondin]] ou [[oréade (race)|oréade]], niveau 15 || Le personnage peut lancer *changement de plan* 1 fois par jour pour retourner sur le plan de ses ancêtres
-
-|- CLASS="premier"
-| [[Semelle de pierre]] || <sup>MR</sup> || [[oréade (race)|Oréade]] || Ignore les terrains difficiles de terre et de pierre
-|-
-| &emsp;[[Fouisseur oréade]] || <sup>MR</sup> || [[oréade (race)|Oréade]], [[semelle de pierre]], niveau 9 || Gain d'une vitesse de creusement
-|-
-| &emsp;&emsp;[[Oréade nageur de terre]] || <sup>MR</sup> || [[oréade (race)|Oréade]], [[semelle de pierre]], [[Fouisseur oréade]], niveau 13 || Gain de la capacité nage dans la terre
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

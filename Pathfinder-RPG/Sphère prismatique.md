@@ -53,49 +53,16 @@ Le mur est composé de sept couleurs, chacune ayant un effet spécifique. La tab
 
 Le mur peut être détruit par une succession de plusieurs sorts, qui doivent être lancés de manière à dissiper chaque couleur par ordre d’apparition de celles-ci (le rouge, puis l’orange, etc.). *[[Disjonction]]* détruit un *mur prismatique*, de même qu’un *[[sceptre doblitération|sceptre d’oblitération]]*, mais *[[zone dantimagie|zone d’antimagie]]* est sans effet. *[[Dissipation de la magie]]* et *[[dissipation suprême]]* ne fonctionne qu’une fois toutes les autres couleurs détruites. La [[RM|résistance à la magie]] permet de traverser sans risque un *mur prismatique*, mais il faut réussir un test contre chacune des couleurs, dans l’ordre.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Place || Couleur
-| CLASS="gauche" | Effet
-| Annulée par
-|- CLASS="premier"
-| 1re || Rouge
-| CLASS="gauche" | Arrête les armes à distance non-magiques   
-Inflige 20 points de dégâts de feu ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])
-| *[[cône de froid]]*
-|-
-| 2e || Orange
-| CLASS="gauche" | Arrête les armes à distance magiques   
-Inflige 40 points de dégâts d’acide ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])
-| *[[bourrasque]]*
-|-
-| 3e || Jaune
-| CLASS="gauche" | Arrête le [[poison]], le gaz et la *[[pétrification]]*  
- Inflige 80 points de dégâts d’électricité ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])
-| *[[désintégration]]*
-|-
-| 4e || Vert
-| CLASS="gauche" | Arrête les souffles   
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Place</td><td>Couleur</td><td CLASS="gauche">Effet</td><td>Annulée par</td></tr><tr CLASS="premier"><td>1re</td><td>Rouge</td><td CLASS="gauche">Arrête les armes à distance non-magiques   
+Inflige 20 points de dégâts de feu ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])</td><td>*[[cône de froid]]*</td></tr><tr><td>2e</td><td>Orange</td><td CLASS="gauche">Arrête les armes à distance magiques   
+Inflige 40 points de dégâts d’acide ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])</td><td>*[[bourrasque]]*</td></tr><tr><td>3e</td><td>Jaune</td><td CLASS="gauche">Arrête le [[poison]], le gaz et la *[[pétrification]]*  
+ Inflige 80 points de dégâts d’électricité ([[Réflexes]], [[Présentation des sorts#JETSDESAUVEGARDE|1/2 dégâts]])</td><td>*[[désintégration]]*</td></tr><tr><td>4e</td><td>Vert</td><td CLASS="gauche">Arrête les souffles   
 [[Poison]] (*fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet primaire* mort ;   
-*effet secondaire* 1 [[Constitution|Con]]/[[round]] ; *guérison* 2 réussites consécutives)
-| *[[passe-muraille]]*
-|-
-| 5e || Bleu
-| CLASS="gauche" | Arrête les [[divination|divinations]] et les attaques [[registre|mentales]]   
- *[[Pétrification]]* ([[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])
-| *[[projectile magique]]*
-|-
-| 6e || Indigo
-| CLASS="gauche" | Arrête tous les sorts  
- Démence (voir *[[aliénation mentale]]* ; [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])
-| *[[lumière du jour]]*
-|-
-| 7e || Violet
-| CLASS="gauche" | Champ d’énergie détruisant tous les objets et effets*  
- Créatures envoyées dans un autre plan ([[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])
-| *[[dissipation de la magie]]* ou   
-*[[dissipation suprême]]*
-|- CLASS="note"
-| COLSPAN="4" | *(*) la couleur violette rend toutes les autres inutiles, mais elles sont tout de même présentées car certains objets magiques peuvent créer un effet prismatique couleur après couleur, et la [[RM|résistance à la magie]] peut permettre de résister à certaines couleurs.*
-|}
+*effet secondaire* 1 [[Constitution|Con]]/[[round]] ; *guérison* 2 réussites consécutives)</td><td>*[[passe-muraille]]*</td></tr><tr><td>5e</td><td>Bleu</td><td CLASS="gauche">Arrête les [[divination|divinations]] et les attaques [[registre|mentales]]   
+ *[[Pétrification]]* ([[Vigueur]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td><td>*[[projectile magique]]*</td></tr><tr><td>6e</td><td>Indigo</td><td CLASS="gauche">Arrête tous les sorts  
+ Démence (voir *[[aliénation mentale]]* ; [[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td><td>*[[lumière du jour]]*</td></tr><tr><td>7e</td><td>Violet</td><td CLASS="gauche">Champ d’énergie détruisant tous les objets et effets*  
+ Créatures envoyées dans un autre plan ([[Volonté]], [[Présentation des sorts#JETSDESAUVEGARDE|annule]])</td><td>*[[dissipation de la magie]]* ou   
+*[[dissipation suprême]]*</td></tr><tr CLASS="note"><td COLSPAN="4">*(*) la couleur violette rend toutes les autres inutiles, mais elles sont tout de même présentées car certains objets magiques peuvent créer un effet prismatique couleur après couleur, et la [[RM|résistance à la magie]] peut permettre de résister à certaines couleurs.*</td></tr></table>
+
 )))

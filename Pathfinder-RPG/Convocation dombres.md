@@ -46,22 +46,9 @@ Les objets réussissent systématiquement leur jet de [[Volonté]] contre ce sor
 ---
 Ce sort tisse les ombres et les couleurs du kapenia du personnage en forme de personnages légendaires des contes varisiens. Ce sort fonctionne comme une *[[convocation dombres|convocation d'ombres]]* émulant une *[[convocation de monstres I]]*, à l'exception de ce qui est indiqué ici. Le personnage ne peut convoquer qu'une seule copie d'un même personnage à la fois, même s'il lance ce sort plusieurs fois. Les créatures d'ombre sont à 40 % réelles et sont choisies parmi la liste suivante.
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Personnage || Profil de créature
-|- CLASS="premier"
-| Anelda la magnifique || [[Voleur indépendant]]
-|-
-| Fils de l'hiver || [[Anguille fuyante]]
-|-
-| Grand-mère Crapaud || [[Crapaud féerique géant]]
-|-
-| Sonnorae le conteur || [[Escroc]]
-|-
-| Vyushbaro le sauveur || [[Champion fêtard]]
-|-
-| Zykomso l'esclavagiste || [[Diable barbu]]
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Personnage</td><td>Profil de créature</td></tr><tr CLASS="premier"><td>Anelda la magnifique</td><td>[[Voleur indépendant]]</td></tr><tr><td>Fils de l'hiver</td><td>[[Anguille fuyante]]</td></tr><tr><td>Grand-mère Crapaud</td><td>[[Crapaud féerique géant]]</td></tr><tr><td>Sonnorae le conteur</td><td>[[Escroc]]</td></tr><tr><td>Vyushbaro le sauveur</td><td>[[Champion fêtard]]</td></tr><tr><td>Zykomso l'esclavagiste</td><td>[[Diable barbu]]</td></tr></table>
+
 
 ## [[Convocation dombres suprême|Convocation d'ombres suprême]]
 **École** [[Illusion]] ([[branche ombre|ombre]]) <nowiki>[</nowiki>[[registre|ombre]]<nowiki>]</nowiki> ; **Niveau** [[ensorceleur|Ens]]/[[magicien|Mag]] 7

@@ -12,53 +12,9 @@ La plupart des pouvoirs de classe de la voyante requièrent seulement un d6 pour
 
 {s:Reference|TABLEVOYANTE}
 <center>
-{| CLASS="tablo"
-|+ La Voyante
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Liseuse de tourment#Bénédiction du tourment|Bénédiction du tourment]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Liseuse de tourment#MAGIEDUTOURMENT|Magie du tourment]],[[Liseuse de tourment#TOURDELINTELLIGENCE|tour de l’Intelligence]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[Liseuse de tourment#TOURDELAFORCE|Tour de la Force]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Liseuse de tourment#TOURDUCHARISME|Tour du Charisme]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Liseuse de tourment#JEUSPIRITUEL|Jeu spirituel]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Liseuse de tourment#DIVINATION|Divination]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Liseuse de tourment#TOURDELACONSTITUTION|Tour de la Constitution]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Liseuse de tourment#TOURDELADEXTERITE|Tour de la Dextérité]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|-CLASS="alt"
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Liseuse de tourment#TOURDELASAGESSE|Tour de la Sagesse]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Liseuse de tourment#LIRELESSIGNES|Lire les signes]]
-| CLASS="gauche" | [[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]
-|}
+
+<table CLASS="tablo"><caption>La Voyante</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Liseuse de tourment#Bénédiction du tourment|Bénédiction du tourment]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Liseuse de tourment#MAGIEDUTOURMENT|Magie du tourment]],[[Liseuse de tourment#TOURDELINTELLIGENCE|tour de l’Intelligence]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELAFORCE|Tour de la Force]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Liseuse de tourment#TOURDUCHARISME|Tour du Charisme]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Liseuse de tourment#JEUSPIRITUEL|Jeu spirituel]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Liseuse de tourment#DIVINATION|Divination]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELACONSTITUTION|Tour de la Constitution]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELADEXTERITE|Tour de la Dextérité]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Liseuse de tourment#TOURDELASAGESSE|Tour de la Sagesse]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Liseuse de tourment#LIRELESSIGNES|Lire les signes]]</td><td CLASS="gauche">[[Liseuse de tourment#SORTS|+1 niveau dans la classe existante]]</td></tr></table>
+
 </center>
 
 
@@ -132,29 +88,9 @@ On ne peut pas appliquer la magie du tourment et un don de métamagie au même s
 {s:Reference|JEUSPIRITUEL}
 #### Jeu spirituel (Sur)
 
-{| CLASS="tablo col1centre fright"
-|+ Associations d’alignement du jeu du tourment
-|- CLASS="titre"
-| Alignement || Désaccord || Accord partiel
-|- CLASS="premier"
-| LB || CM || NB, CB, LN, LM
-|-
-| NB || NM || LB, CB, N, NM
-|-
-| CB || LM || LB, NB, CN, CM
-|-
-| LN || CN || N, LB, LM
-|-
-| N || – || –
-|-
-| CN || LN || N, CB, CM
-|-
-| LM || CB || NM, CM, LB, LN
-|-
-| NM || NB || LM, CM, NB, N
-|-
-| CM || LB || LM, NM, CB, CN
-|}
+
+<table CLASS="tablo col1centre fright"><caption>Associations d’alignement du jeu du tourment</caption><tr CLASS="titre"><td>Alignement</td><td>Désaccord</td><td>Accord partiel</td></tr><tr CLASS="premier"><td>LB</td><td>CM</td><td>NB, CB, LN, LM</td></tr><tr><td>NB</td><td>NM</td><td>LB, CB, N, NM</td></tr><tr><td>CB</td><td>LM</td><td>LB, NB, CN, CM</td></tr><tr><td>LN</td><td>CN</td><td>N, LB, LM</td></tr><tr><td>N</td><td>–</td><td>–</td></tr><tr><td>CN</td><td>LN</td><td>N, CB, CM</td></tr><tr><td>LM</td><td>CB</td><td>NM, CM, LB, LN</td></tr><tr><td>NM</td><td>NB</td><td>LM, CM, NB, N</td></tr><tr><td>CM</td><td>LB</td><td>LM, NM, CB, CN</td></tr></table>
+
 Par une action simple, une voyante de niveau 5 peut convoquer un jeu du tourment scintillant et translucide qui s’envole dans les airs et englobe une cible située à moins de 9 mètres dans une nuée de cartes tranchantes. La voyante tire ensuite un nombre de cartes égal à son niveau de classe et le jeu spirituel inflige des dégâts basés sur le nombre d’accords qu’elle tire, comme indiqué dans la table à droite.
 
 Chaque accord parfait (défini en fonction de l’alignement de la voyante) inflige 5 points de dégâts, chaque accord partiel inflige 3 points. Les cartes neutres infligent 1 point de dégâts et les désaccords ne causent pas de dégâts.

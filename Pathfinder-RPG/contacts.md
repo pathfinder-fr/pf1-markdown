@@ -84,22 +84,9 @@ Chaque fois qu’un contact échoue dans une tâche ou l’abandonne, il rajoute
 ### Gagner, entretenir et perdre des contacts
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Confiance du PNJ (valeur) || DD de Diplomatie*
-|- Class="premier"
-| Méfiant (1) || 20
-|-
-| Sceptique (2) || 15
-|-
-| Fiable (3) || 10
-|-
-| Digne de confiance (4) || 15
-|-
-| Confident (5) || 20
-|- CLASS="note"
-| COLSPAN="3" | *(*) Si le contact a un bonus aux tests de Diplomatie qu’il fait pour négocier avec le personnage après avoir échoué dans une tâche ou après l’avoir abandonnée, ajoutez ce bonus au DD.*
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Confiance du PNJ (valeur)</td><td>DD de Diplomatie*</td></tr><tr Class="premier"><td>Méfiant (1)</td><td>20</td></tr><tr><td>Sceptique (2)</td><td>15</td></tr><tr><td>Fiable (3)</td><td>10</td></tr><tr><td>Digne de confiance (4)</td><td>15</td></tr><tr><td>Confident (5)</td><td>20</td></tr><tr CLASS="note"><td COLSPAN="3">*(*) Si le contact a un bonus aux tests de Diplomatie qu’il fait pour négocier avec le personnage après avoir échoué dans une tâche ou après l’avoir abandonnée, ajoutez ce bonus au DD.*</td></tr></table>
+
 </div></div>Le MJ peut autoriser les joueurs à commencer la campagne avec un contact (qui, en général, a une valeur de confiance de 2 ou 3) mais, outre cela, les personnages ne gagnent de contacts qu’en jouant, au fil de la campagne. Pour gagner un nouveau contact, le personnage doit d’abord gagner la confiance du PNJ grâce à des interactions positives répétées ou à une seule rencontre approfondie.
 
 Les interactions positives incluent un appui régulier dans les affaires du PNJ, l’apport de certaines formes de compensations supplémentaires pour ses efforts, l’accomplissement d’une tâche en son nom ou l’utilisation de son influence personnelle pour aider le contact à accéder à un plus grand pouvoir ou prestige. Parmi les interactions approfondies, on note : sauver la vie du PNJ ou de quelqu’un qui lui est cher, protéger sa réputation contre des diffamations dévastatrices ou empêcher qu’il ne perde sa propriété ou son argent. Une fois que le personnage a eu au moins cinq interactions positives ou une interaction approfondie avec un PNJ, il peut alors le considérer comme un contact. Cela signifie que le personnage peut lui demander de l’aide et qu’il peut tenter d’augmenter la valeur de confiance de ce contact à son égard.

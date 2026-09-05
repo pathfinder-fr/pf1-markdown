@@ -24,20 +24,9 @@ Ce sort transforme un certain nombre de [[mille-pattes géant|mille-pattes]], d�
 Les créatures géantes créées par ce sort ne font jamais de mal au personnage, mais ce dernier ne peut leur donner que des instructions très succinctes (« Attaquez », « Défendez-moi », « Arrêtez-vous », etc.). Un ordre leur indiquant d’attaquer un individu ou un monstre spécifique dès que celui-ci apparaîtra ou de protéger un lieu contre un péril bien précis est trop compliqué. Sauf instructions contraires, elles attaquent tout ce qui se trouve à proximité.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| [[NLS]] || Mille-pattes || Scorpions || Araignées
-|- CLASS="premier"
-| 9e ou moins || 3 || 1 || 2
-|- CLASS="alt"
-| 10e–13e || 4 || 2 || 3
-|-
-| 14e–17e || 6 || 3 || 4
-|- CLASS="alt"
-| 18e–19e || 8 || 4 || 5
-|-
-| 20 ou + || 12 || 6 || 8
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>[[NLS]]</td><td>Mille-pattes</td><td>Scorpions</td><td>Araignées</td></tr><tr CLASS="premier"><td>9e ou moins</td><td>3</td><td>1</td><td>2</td></tr><tr CLASS="alt"><td>10e–13e</td><td>4</td><td>2</td><td>3</td></tr><tr><td>14e–17e</td><td>6</td><td>3</td><td>4</td></tr><tr CLASS="alt"><td>18e–19e</td><td>8</td><td>4</td><td>5</td></tr><tr><td>20 ou +</td><td>12</td><td>6</td><td>8</td></tr></table>
+
 </center>
 
 ### Mythique

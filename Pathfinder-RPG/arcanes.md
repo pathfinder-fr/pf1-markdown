@@ -15,63 +15,10 @@ Categories:
 
 Les arcanes de magus suivants sont accessibles à tous les magi qui remplissent les conditions requises.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="94%"
-|+ Arcanes de magus
-|- CLASS="titre"
-| Niveau  
-minimal
-| COLSPAN="3" | Arcanes
-|- CLASS="premier"
-| **1** || [[Arcanes#ARCANEFLAMBOYANT|Arcane flamboyant (Ext)]] || [[Arcanes#FAMILIER|Familier (Ext)]] || [[Arcanes#MANIEURDESCEPTRE|Manieur de sceptres (Sur)]]
-|-
-| &emsp; || [[Arcanes#ASSAUTDIVINATOIRE|Assaut divinatoire (Sur)]] || [[Arcanes#FORTIFICATIONARCANIQUE|Fortification arcanique (Sur)]] || [[Arcanes#MELANGEDESSORTS|Mélange des sorts (Ext)]]
-|-
-| &emsp; || [[Arcanes#BOUCLIERMAGIQUE|Bouclier magique (Sur)]] || [[Arcanes#MAGIEELOIGNEE|Magie éloignée (Sur)]] || [[Arcanes#ODORATARCANIQUE|Odorat arcanique (Sur)]]
-|-
-| &emsp; || [[Arcanes#CAPEARCANIQUE|Cape arcanique (Sur)]] || [[Arcanes#MAGIESILENCIEUSE|Magie silencieuse (Sur)]] || [[Arcanes#PRECISIONARCANIQUE|Précision arcanique (Sur)]]
-|-
-| &emsp; || [[Arcanes#CICATRICEMAGIQUE|Cicatrice magique (Ext)]] || [[Arcanes#MAGIESTATIQUE|Magie statique (Sur)]] || [[Arcanes#RESERVEDECOUPS|Réserve de coups (Sur)]]
-|-
-| &emsp; || [[Arcanes#COMBATMAGIQUENATUREL|Combat magique naturel (Sur)]] || [[Arcanes#MAGUSLANCEUR|Magus lanceur (Sur)]] || [[Arcanes#RESERVEDERAYONS|Réserve de rayons (Sur)]]
-|-
-| &emsp; || [[Arcanes#CONCENTRE|Concentré (Ext)]] || [[Arcanes#MAITREDESMANOEUVRES|Maître des manoeuvres (Ext)]] || [[Arcanes#SOUFFRANCEPERSISTANTE|Souffrance persistante (Sur)]]
-|-
-| &emsp; || [[Arcanes#COURTEPORTEE|Courte portée (Ext)]] || [[Arcanes#MAITRISEDESBAGUETTES|Maîtrise des baguettes (Sur)]] || [[Arcanes#SPECIALISTEDESBAGUETTES|Spécialiste des baguettes (Sur)]]
-|-
-| &emsp; || [[Arcanes#EXPLOITARCANIQUE|Exploit arcanique (Ext)]] || [[Arcanes#MAITREDESSCEPTRES|Maîtrise des sceptres (Sur)]] || &emsp;
-|-
-|- CLASS="premier"
-| **3** || [[Arcanes#PROTECTIONINTUITIVE|Protection intuitive (Mag)]] || &emsp; || &emsp;
-|-
-|- CLASS="premier"
-| **6** || [[Arcanes#AGILITEAQUATIQUE|Agilité aquatique (Sur)]] || [[Arcanes#ETUDESDIVERSIFIEES|Études diversifiées (Ext)]] || [[Arcanes#PERTURBATEUR|Perturbateur (Ext)]]
-|-
-| &emsp; || [[Arcanes#ARCANEDEKI|Arcane de ki (Sur)]] || [[Arcanes#LAMELONGUEDUREE|Lame longue durée (Sur)]] || [[Arcanes#RESERVEDECOUPSTONITRUANTE|Réserve de coups tonitruante (Sur)]]
-|-
-| &emsp; || [[Arcanes#ATTAQUERAVECPRESCIENCE|Attaquer avec prescience (Sur)]] || [[Arcanes#MAGIERENFORCEE|Magie renforcée (Sur)]] || [[Arcanes#SOMBREALTERATION|Sombre altération (Sur)]]
-|-
-|- CLASS="premier"
-| **9** || [[Arcanes#AFFUTAGEARCANIQUE|Affûtage arcanique (Sur)]] || [[Arcanes#COUPPRECIS|Coup précis (Ext)]] || [[Arcanes#LAMEFANTOME|Lame fantôme (Sur)]]
-|-
-| &emsp; || [[Arcanes#ASSAUTACCELERE|Assaut accéléré (Sur)]] || [[Arcanes#DEFENDREAVECPRESCIENCE|Défendre avec prescience (Sur)]] || [[Arcanes#RESERVEDECOUPSPERSISTANTE|Réserve de coups persistante (Sur)]]
-|-
-| &emsp; || [[Arcanes#ASSAUTBRUMEUX|Assaut brumeux (Sur)]] || [[Arcanes#FRAPPEDEDISSIPATION|Frappe de dissipation (Sur)]] || &emsp;
-|-
-| &emsp; || [[Arcanes#BRISEURDESORTS|Briseur de sorts (Ext)]] || [[Arcanes#FRAPPEMAGIQUEDISTANTE|Frappe magique distante (Sur)]] || &emsp;
-|-
-|- CLASS="premier"
-| **10** || [[Arcanes#PIEGEDERODEUR|Piège de rôdeur (Ext)]] || &emsp; || &emsp;
-|-
-|- CLASS="premier"
-| **12** || [[Arcanes#DUPERIEMAGIQUE|Duperie magique (Sur)]] || [[Arcanes#FRAPPEMAGIQUELOINTAINE|Frappe magique lointaine (Sur)]] || [[Arcanes#RESERVEDECOUPSARICOCHET|Réserve de coups à ricochet (Sur)]]
-|-
-| &emsp; || [[Arcanes#FORTIFICATIONARCANIQUESUPERIEURE|Fortification arcanique supérieure (Sur)]] || [[Arcanes#LAMEDEDIEE|Lame dédiée (Sur)]] || &emsp;
-|-
-| &emsp; || [[Arcanes#FRAPPECRITIQUE|Frappe critique (Sur)]] || [[Arcanes#OPTIMISATIONDELAMAGIE|Optimisation de la magie (Sur)]] || &emsp;
-|-
-|- CLASS="premier"
-| **15** || [[Arcanes#LAMETUEUSE|Lame tueuse (Sur)]] || [[Arcanes#MAGIEACCELEREE|Magie accélérée (Sur)]] || [[Arcanes#RENVOI|Renvoi (Sur)]]
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="94%"><caption>Arcanes de magus</caption><tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="3">Arcanes</td></tr><tr CLASS="premier"><td>**1**</td><td>[[Arcanes#ARCANEFLAMBOYANT|Arcane flamboyant (Ext)]]</td><td>[[Arcanes#FAMILIER|Familier (Ext)]]</td><td>[[Arcanes#MANIEURDESCEPTRE|Manieur de sceptres (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#ASSAUTDIVINATOIRE|Assaut divinatoire (Sur)]]</td><td>[[Arcanes#FORTIFICATIONARCANIQUE|Fortification arcanique (Sur)]]</td><td>[[Arcanes#MELANGEDESSORTS|Mélange des sorts (Ext)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#BOUCLIERMAGIQUE|Bouclier magique (Sur)]]</td><td>[[Arcanes#MAGIEELOIGNEE|Magie éloignée (Sur)]]</td><td>[[Arcanes#ODORATARCANIQUE|Odorat arcanique (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#CAPEARCANIQUE|Cape arcanique (Sur)]]</td><td>[[Arcanes#MAGIESILENCIEUSE|Magie silencieuse (Sur)]]</td><td>[[Arcanes#PRECISIONARCANIQUE|Précision arcanique (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#CICATRICEMAGIQUE|Cicatrice magique (Ext)]]</td><td>[[Arcanes#MAGIESTATIQUE|Magie statique (Sur)]]</td><td>[[Arcanes#RESERVEDECOUPS|Réserve de coups (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#COMBATMAGIQUENATUREL|Combat magique naturel (Sur)]]</td><td>[[Arcanes#MAGUSLANCEUR|Magus lanceur (Sur)]]</td><td>[[Arcanes#RESERVEDERAYONS|Réserve de rayons (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#CONCENTRE|Concentré (Ext)]]</td><td>[[Arcanes#MAITREDESMANOEUVRES|Maître des manoeuvres (Ext)]]</td><td>[[Arcanes#SOUFFRANCEPERSISTANTE|Souffrance persistante (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#COURTEPORTEE|Courte portée (Ext)]]</td><td>[[Arcanes#MAITRISEDESBAGUETTES|Maîtrise des baguettes (Sur)]]</td><td>[[Arcanes#SPECIALISTEDESBAGUETTES|Spécialiste des baguettes (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#EXPLOITARCANIQUE|Exploit arcanique (Ext)]]</td><td>[[Arcanes#MAITREDESSCEPTRES|Maîtrise des sceptres (Sur)]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**3**</td><td>[[Arcanes#PROTECTIONINTUITIVE|Protection intuitive (Mag)]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**6**</td><td>[[Arcanes#AGILITEAQUATIQUE|Agilité aquatique (Sur)]]</td><td>[[Arcanes#ETUDESDIVERSIFIEES|Études diversifiées (Ext)]]</td><td>[[Arcanes#PERTURBATEUR|Perturbateur (Ext)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#ARCANEDEKI|Arcane de ki (Sur)]]</td><td>[[Arcanes#LAMELONGUEDUREE|Lame longue durée (Sur)]]</td><td>[[Arcanes#RESERVEDECOUPSTONITRUANTE|Réserve de coups tonitruante (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#ATTAQUERAVECPRESCIENCE|Attaquer avec prescience (Sur)]]</td><td>[[Arcanes#MAGIERENFORCEE|Magie renforcée (Sur)]]</td><td>[[Arcanes#SOMBREALTERATION|Sombre altération (Sur)]]</td></tr><tr CLASS="premier"><td>**9**</td><td>[[Arcanes#AFFUTAGEARCANIQUE|Affûtage arcanique (Sur)]]</td><td>[[Arcanes#COUPPRECIS|Coup précis (Ext)]]</td><td>[[Arcanes#LAMEFANTOME|Lame fantôme (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#ASSAUTACCELERE|Assaut accéléré (Sur)]]</td><td>[[Arcanes#DEFENDREAVECPRESCIENCE|Défendre avec prescience (Sur)]]</td><td>[[Arcanes#RESERVEDECOUPSPERSISTANTE|Réserve de coups persistante (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#ASSAUTBRUMEUX|Assaut brumeux (Sur)]]</td><td>[[Arcanes#FRAPPEDEDISSIPATION|Frappe de dissipation (Sur)]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Arcanes#BRISEURDESORTS|Briseur de sorts (Ext)]]</td><td>[[Arcanes#FRAPPEMAGIQUEDISTANTE|Frappe magique distante (Sur)]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**10**</td><td>[[Arcanes#PIEGEDERODEUR|Piège de rôdeur (Ext)]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**12**</td><td>[[Arcanes#DUPERIEMAGIQUE|Duperie magique (Sur)]]</td><td>[[Arcanes#FRAPPEMAGIQUELOINTAINE|Frappe magique lointaine (Sur)]]</td><td>[[Arcanes#RESERVEDECOUPSARICOCHET|Réserve de coups à ricochet (Sur)]]</td></tr><tr><td>&emsp;</td><td>[[Arcanes#FORTIFICATIONARCANIQUESUPERIEURE|Fortification arcanique supérieure (Sur)]]</td><td>[[Arcanes#LAMEDEDIEE|Lame dédiée (Sur)]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Arcanes#FRAPPECRITIQUE|Frappe critique (Sur)]]</td><td>[[Arcanes#OPTIMISATIONDELAMAGIE|Optimisation de la magie (Sur)]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**15**</td><td>[[Arcanes#LAMETUEUSE|Lame tueuse (Sur)]]</td><td>[[Arcanes#MAGIEACCELEREE|Magie accélérée (Sur)]]</td><td>[[Arcanes#RENVOI|Renvoi (Sur)]]</td></tr></table>
+
 
 ### Arcanes de magus
 <table width="100%"><tr><td width="49%">

@@ -86,49 +86,9 @@ L’un des choix les plus critiques qu’il vous faut faire à propos de votre p
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Les synergies de réapprentissage
-|- CLASS="titre"
-| Ancienne classe || Nouvelle classe
-|-
-| **Alchimiste** || Magus, roublard, sorcière, magicien
-|-
-| **Barbare** || Chevalier, guerrier, rôdeur
-|-
-| **Barde** || Oracle, roublard, ensorceleur
-|-
-| **Chevalier** || Barbare, guerrier
-|-
-| **Conjurateur** || Ensorceleur, sorcière, magicien
-|-
-| **Druide** || Prêtre, oracle, rôdeur
-|-
-| **Ensorceleur** || Barde, oracle, invocateur, sorcière, magicien
-|-
-| **Guerrier** || Barbare, chevalier, pistolier, magus, moine, paladin, rôdeur, roublard
-|-
-| **Inquisiteur** || Prêtre, paladin, rôdeur
-|-
-| **Magicien** || Alchimiste, magus, ensorceleur, invocateur, sorcière
-|-
-| **Magus** || Alchimiste, guerrier, magicien
-|-
-| **Moine** || Guerrier, roublard
-|-
-| **Oracle** || Barde, prêtre, druide, paladin, ensorceleur
-|-
-| **Paladin** || Prêtre, guerrier, inquisiteur, oracle
-|-
-| **Pistolier** || Guerrier, rôdeur
-|-
-| **Prêtre** || Druide, inquisiteur, oracle, paladin
-|-
-| **Rôdeur** || Barbare, druide, guerrier, pistolier, inquisiteur
-|-
-| **Roublard** || Alchimiste, barde, guerrier, moine
-|-
-| **Sorcière** || Alchimiste, ensorceleur, invocateur, magicien
-|}
+
+<table CLASS="tablo autoalt"><caption>Les synergies de réapprentissage</caption><tr CLASS="titre"><td>Ancienne classe</td><td>Nouvelle classe</td></tr><tr><td>**Alchimiste**</td><td>Magus, roublard, sorcière, magicien</td></tr><tr><td>**Barbare**</td><td>Chevalier, guerrier, rôdeur</td></tr><tr><td>**Barde**</td><td>Oracle, roublard, ensorceleur</td></tr><tr><td>**Chevalier**</td><td>Barbare, guerrier</td></tr><tr><td>**Conjurateur**</td><td>Ensorceleur, sorcière, magicien</td></tr><tr><td>**Druide**</td><td>Prêtre, oracle, rôdeur</td></tr><tr><td>**Ensorceleur**</td><td>Barde, oracle, invocateur, sorcière, magicien</td></tr><tr><td>**Guerrier**</td><td>Barbare, chevalier, pistolier, magus, moine, paladin, rôdeur, roublard</td></tr><tr><td>**Inquisiteur**</td><td>Prêtre, paladin, rôdeur</td></tr><tr><td>**Magicien**</td><td>Alchimiste, magus, ensorceleur, invocateur, sorcière</td></tr><tr><td>**Magus**</td><td>Alchimiste, guerrier, magicien</td></tr><tr><td>**Moine**</td><td>Guerrier, roublard</td></tr><tr><td>**Oracle**</td><td>Barde, prêtre, druide, paladin, ensorceleur</td></tr><tr><td>**Paladin**</td><td>Prêtre, guerrier, inquisiteur, oracle</td></tr><tr><td>**Pistolier**</td><td>Guerrier, rôdeur</td></tr><tr><td>**Prêtre**</td><td>Druide, inquisiteur, oracle, paladin</td></tr><tr><td>**Rôdeur**</td><td>Barbare, druide, guerrier, pistolier, inquisiteur</td></tr><tr><td>**Roublard**</td><td>Alchimiste, barde, guerrier, moine</td></tr><tr><td>**Sorcière**</td><td>Alchimiste, ensorceleur, invocateur, magicien</td></tr></table>
+
 </center></div></div>
 La plupart des classes de prestige présentent une synergie de réapprentissage avec les classes de base partageant les mêmes aptitudes de classe. Par exemple, la classe de prestige mystificateur profane nécessite et fait évoluer le lancement de sorts profanes ; elle présente donc une synergie de réapprentissage avec toutes les classes de lanceurs de sorts profanes. Elle nécessite et fait également évoluer l’attaque sournoise, présentant donc une synergie de réapprentissage avec les classes accordant l’attaque sournoise. La décision finale revient au MJ quand il s’agit de savoir si une classe de prestige présente ou non une synergie de réapprentissage avec une classe de base mais il devrait faire preuve de générosité : si vous préférez passer du temps à changer des niveaux encore et encore plutôt que de partir à l’aventure, libre à vous.
 

@@ -90,24 +90,9 @@ de constriction de l’anémone des forêts noires ou la capacité
 de jet d’acide du tigre des profondeurs.
 
 <center>
-{| CLASS="tablo"
-|+ Table des espèces les plus courantes
-|- CLASS="titre"
-| Espèce || FP  || Taille || DV
-|-
-| &emsp;Anémone commune || 1/4 || TP || 1d8
-|- CLASS="alt"
-| &emsp;Anémone bleue || 1/2 || P || 2d8
-|-
-| &emsp;Anémone mortuaire || 1 || M || 3d8
-|- CLASS="alt"
-| &emsp;Anémone des forêts noires || 6 || TG || 9d8
-|-
-| &emsp;Anémone lit de sirène || 9 || Gig || 14d8
-|- CLASS="alt"
-| &emsp;Anémone tigre des profondeurs || 13 || C || 19d8
-|-
-|}
+
+<table CLASS="tablo"><caption>Table des espèces les plus courantes</caption><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr><td>&emsp;Anémone commune</td><td>1/4</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td>&emsp;Anémone bleue</td><td>1/2</td><td>P</td><td>2d8</td></tr><tr><td>&emsp;Anémone mortuaire</td><td>1</td><td>M</td><td>3d8</td></tr><tr CLASS="alt"><td>&emsp;Anémone des forêts noires</td><td>6</td><td>TG</td><td>9d8</td></tr><tr><td>&emsp;Anémone lit de sirène</td><td>9</td><td>Gig</td><td>14d8</td></tr><tr CLASS="alt"><td>&emsp;Anémone tigre des profondeurs</td><td>13</td><td>C</td><td>19d8</td></tr></table>
+
 </center>
 
 </div></td></tr></table>

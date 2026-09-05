@@ -44,33 +44,9 @@ Categories:
 {s:ImageDroite|Bestiaire/Gobelours_Bruthazmus.jpg|90%}
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de gobelours
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gobelours]] || 2
-|-
-| [[Grincedent gobelours]] || 4
-|-
-| [[Traqueur gobelours]] || 5
-|-
-| [[Fanatique gobelours]] || 7
-|-
-| [[Dévoreur gobelours]] || 8
-|-
-| [[Rôdeur gobelours]] || 8
-|-
-| [[Spectre terrifiant]] || 8
-|-
-| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] || 10
-|-
-| [[Ombre discrète gobelours]] || 10
-|-
-| [[Mage du sang gobelours]] || 11
-|-
-| [[Tyran gobelours]] || 13
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de gobelours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gobelours]]</td><td>2</td></tr><tr><td>[[Grincedent gobelours]]</td><td>4</td></tr><tr><td>[[Traqueur gobelours]]</td><td>5</td></tr><tr><td>[[Fanatique gobelours]]</td><td>7</td></tr><tr><td>[[Dévoreur gobelours]]</td><td>8</td></tr><tr><td>[[Rôdeur gobelours]]</td><td>8</td></tr><tr><td>[[Spectre terrifiant]]</td><td>8</td></tr><tr><td>[[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]]</td><td>10</td></tr><tr><td>[[Ombre discrète gobelours]]</td><td>10</td></tr><tr><td>[[Mage du sang gobelours]]</td><td>11</td></tr><tr><td>[[Tyran gobelours]]</td><td>13</td></tr></table>
+
 </div>*Cette créature à la fourrure sombre brandit un morgenstern à piques. Ses yeux laiteux brillent d’excitation à l’idée de tuer.*
 
 Les gobelours sont les plus grands des gobelinoïdes : ces lourdes brutes mesurent au moins une tête de plus que la plupart des humains. Solitaires, ils préfèrent vivre et tuer seuls plutôt que de se retrouver avec d’autres individus de leur espèce. Malgré tout, on rencontre parfois des petits groupes de gobelours qui travaillent ensemble ou ont rejoint une tribu de gobelins ou de [[Hobgobelin|hobgobelins]] pour tenir le rôle de gardes
@@ -116,34 +92,9 @@ Les règles suivantes présentent un archétype, des dons, un sort et des objets
 #### Dons
 Voici quelques dons très appréciés des gobelours.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Beuglement terrifiant]]</td><td><sup>CM</sup></td><td>[[Force intimidante]]</td><td>Démoralisation gratuite pendant le round de surprise</td></tr><tr CLASS="premier"><td>[[Blessant]]</td><td><sup>CM</sup></td><td>[[For]] 13, [[Attaque en puissance]]</td><td>Attaque au corps à corps gratuite après un test d'Intimidation réussit</td></tr><tr><td>&emsp;[[Rallonge]]</td><td><sup>CM</sup></td><td>[[For]] 13, [[Blessant]], [[Attaque en puissance]]</td><td>Inflige moins de dégâts afin de prolonger la durée d'un effet de peur</td></tr><tr CLASS="premier"><td>[[Coup déstabilisant (CM)]]</td><td><sup>CM</sup></td><td>[[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8</td><td>Utilise la Frappe décivise pour rendre un adversaire chancelant</td></tr><tr CLASS="premier"><td>[[Guérillero]]</td><td><sup>CM</sup></td><td>[[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]]</td><td>Agrippe et renverse les adversaires surpris</td></tr><tr CLASS="premier"><td>[[Menace viscérale]]</td><td><sup>CM</sup></td><td>[[Force intimidante]]</td><td>Utilise l'Intimidation plutôt que le Bluff pour feinter</td></tr><tr CLASS="premier"><td>[[Strangulation (CM)]]</td><td><sup>CM</sup></td><td>[[Maniement dune arme exotique|Maniement d'une arme exotique]] (lasso), [[Arme de prédilection]] (lasso)</td><td>Étrangle les ennemis avec un lasso, les empêchant de parler</td></tr></table>
 
-|- CLASS="premier"
-| [[Beuglement terrifiant]] || <sup>CM</sup> || [[Force intimidante]] || Démoralisation gratuite pendant le round de surprise
-
-|- CLASS="premier"
-| [[Blessant]] || <sup>CM</sup> || [[For]] 13, [[Attaque en puissance]] || Attaque au corps à corps gratuite après un test d'Intimidation réussit
-|-
-| &emsp;[[Rallonge]] || <sup>CM</sup> || [[For]] 13, [[Blessant]], [[Attaque en puissance]] || Inflige moins de dégâts afin de prolonger la durée d'un effet de peur
-
-|- CLASS="premier"
-| [[Coup déstabilisant (CM)]] || <sup>CM</sup> || [[For]] 13, [[Attaque en puissance]], [[Frappe décisive]], [[BBA]] +8 || Utilise la Frappe décivise pour rendre un adversaire chancelant
-
-|- CLASS="premier"
-| [[Guérillero]] || <sup>CM</sup> || [[Dex]] 13, [[Science de la lutte]], [[Science du combat à mains nues]] || Agrippe et renverse les adversaires surpris
-
-|- CLASS="premier"
-| [[Menace viscérale]] || <sup>CM</sup> || [[Force intimidante]] || Utilise l'Intimidation plutôt que le Bluff pour feinter
-
-|- CLASS="premier"
-| [[Strangulation (CM)]] || <sup>CM</sup> || [[Maniement dune arme exotique|Maniement d'une arme exotique]] (lasso), [[Arme de prédilection]] (lasso) || Étrangle les ennemis avec un lasso, les empêchant de parler
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

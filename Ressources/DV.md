@@ -16,91 +16,13 @@ Avec cette variante, les dés de vie attribués sont tout simplement,... Ceux de
 Les DV utilisés sont les suivants.
 
 <center>
-{| CLASS="tablo"
-|+ Dés de vie des personnages
-|- CLASS="titre"
-| Classe || DV normal || DV de la variante
-|- CLASS="premier"
-| [[Pathfinder-RPG.Alchimiste|Alchimiste]]<sup>APG</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Arcaniste|Arcaniste]]<sup>ACG</sup> || d6 || d4
-|-
-| [[Pathfinder-RPG.Barbare|Barbare]] || d12 || d12
-|-
-| [[Pathfinder-RPG.Barde|Barde]] || d8 || d6
-|-
-| [[Pathfinder-RPG.Bretteur|Bretteur]]<sup>ACG</sup> || d10 || d10
-|-
-| [[Pathfinder-RPG.Chaman|Chaman]]<sup>ACG</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Chasseur|Chasseur]]<sup>ACG</sup> || d8 || d8
-|-
-| [[Pathfinder-RPG.Chevalier|Chevalier]]<sup>APG</sup> || d10 || d10
-|-
-| [[Pathfinder-RPG.Conjurateur|Conjurateur]]<sup>APG</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Druide|Druide]] || d6 || d6
-|-
-| [[Pathfinder-RPG.Enquêteur|Enquêteur]]<sup>ACG</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Ensorceleur|Ensorceleur]] || d6 || d4
-|-
-| [[Pathfinder-RPG.Guerrier|Guerrier]] || d10 || d10
-|-
-| [[Pathfinder-RPG.Inquisiteur|Inquisiteur]]<sup>APG</sup> || d8 || d8
-|-
-| [[Pathfinder-RPG.Lutteur|Lutteur]]<sup>ACG</sup> || d10 || d10
-|-
-| [[Pathfinder-RPG.Magicien|Magicien]] || d6 || d4
-|-
-| [[Pathfinder-RPG.Magus|Magus]]<sup>UM</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Moine|Moine]] || d8 || d8
-|-
-| [[Pathfinder-RPG.Ninja|Ninja]]<sup>UC</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Oracle|Oracle]]<sup>APG</sup> || d8 || d6
-|-
-| [[Pathfinder-RPG.Paladin|Paladin]] || d10 || d10
-|-
-| [[Pathfinder-RPG.Pistolier|Pistolier]]<sup>UC</sup> || d10 || d8
-|-
-| [[Pathfinder-RPG.Prêtre|Prêtre]] || d8 || d8
-|-
-| [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]]<sup>ACG</sup> || d8 || d8
-|-
-| [[Pathfinder-RPG.Rôdeur|Rôdeur]] || d10 || d8
-|-
-| [[Pathfinder-RPG.Roublard|Roublard]] || d8 || d6
-|-
-| [[Pathfinder-RPG.Samouraï|Samouraï]]<sup>UC</sup> || d10 || d10
-|-
-| [[Pathfinder-RPG.Sanguin|Sanguin]]<sup>ACG</sup> || d10 || d10
-|-
-| [[Pathfinder-RPG.Scalde|Scalde]]<sup>ACG</sup> || d8 || d8
-|-
-| [[Pathfinder-RPG.Sorcière|Sorcière]]<sup>APG</sup> || d6 || d4
-|-
-| [[Pathfinder-RPG.Tueur|Tueur]]<sup>ACG</sup> || d10 || d8
-|}
+
+<table CLASS="tablo"><caption>Dés de vie des personnages</caption><tr CLASS="titre"><td>Classe</td><td>DV normal</td><td>DV de la variante</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Alchimiste|Alchimiste]]<sup>APG</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Arcaniste|Arcaniste]]<sup>ACG</sup></td><td>d6</td><td>d4</td></tr><tr><td>[[Pathfinder-RPG.Barbare|Barbare]]</td><td>d12</td><td>d12</td></tr><tr><td>[[Pathfinder-RPG.Barde|Barde]]</td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Bretteur|Bretteur]]<sup>ACG</sup></td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Chaman|Chaman]]<sup>ACG</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Chasseur|Chasseur]]<sup>ACG</sup></td><td>d8</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Chevalier|Chevalier]]<sup>APG</sup></td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Conjurateur|Conjurateur]]<sup>APG</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Druide|Druide]]</td><td>d6</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Enquêteur|Enquêteur]]<sup>ACG</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Ensorceleur|Ensorceleur]]</td><td>d6</td><td>d4</td></tr><tr><td>[[Pathfinder-RPG.Guerrier|Guerrier]]</td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Inquisiteur|Inquisiteur]]<sup>APG</sup></td><td>d8</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Lutteur|Lutteur]]<sup>ACG</sup></td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Magicien|Magicien]]</td><td>d6</td><td>d4</td></tr><tr><td>[[Pathfinder-RPG.Magus|Magus]]<sup>UM</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Moine|Moine]]</td><td>d8</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Ninja|Ninja]]<sup>UC</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Oracle|Oracle]]<sup>APG</sup></td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Paladin|Paladin]]</td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Pistolier|Pistolier]]<sup>UC</sup></td><td>d10</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Prêtre|Prêtre]]</td><td>d8</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]]<sup>ACG</sup></td><td>d8</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Rôdeur|Rôdeur]]</td><td>d10</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Roublard|Roublard]]</td><td>d8</td><td>d6</td></tr><tr><td>[[Pathfinder-RPG.Samouraï|Samouraï]]<sup>UC</sup></td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Sanguin|Sanguin]]<sup>ACG</sup></td><td>d10</td><td>d10</td></tr><tr><td>[[Pathfinder-RPG.Scalde|Scalde]]<sup>ACG</sup></td><td>d8</td><td>d8</td></tr><tr><td>[[Pathfinder-RPG.Sorcière|Sorcière]]<sup>APG</sup></td><td>d6</td><td>d4</td></tr><tr><td>[[Pathfinder-RPG.Tueur|Tueur]]<sup>ACG</sup></td><td>d10</td><td>d8</td></tr></table>
+
 </center>
 
 <center>
-{| CLASS="tablo"
-|+ Points de vie supplémentaires par rang mythique
-|- CLASS="titre"
-| Voie mythique || PV normal || PV de la variante
-|- CLASS="premier"
-| Archimage || 3 || 2
-|-
-| Champion || 5 || 5
-|-
-| Filou || 4 || 3
-|-
-| Hiérophante || 4 || 3
-|-
-| Maréchal || 4 || 4
-|-
-| Protecteur || 5 || 5
-|}
+
+<table CLASS="tablo"><caption>Points de vie supplémentaires par rang mythique</caption><tr CLASS="titre"><td>Voie mythique</td><td>PV normal</td><td>PV de la variante</td></tr><tr CLASS="premier"><td>Archimage</td><td>3</td><td>2</td></tr><tr><td>Champion</td><td>5</td><td>5</td></tr><tr><td>Filou</td><td>4</td><td>3</td></tr><tr><td>Hiérophante</td><td>4</td><td>3</td></tr><tr><td>Maréchal</td><td>4</td><td>4</td></tr><tr><td>Protecteur</td><td>5</td><td>5</td></tr></table>
+
 </center>

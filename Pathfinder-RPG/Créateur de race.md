@@ -15,17 +15,9 @@ Il arrive parfois que des particularités raciales et des traits raciaux coûten
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo centre autoalt"
-|+ Points de race et nombre maximum de traits par niveau de puissance
-|- CLASS="titre"
-| Niveau de puissance || Points de race || Traits par catégorie
-|- CLASS="premier"
-| Standard || 1-10 || 3
-|-
-| Évolué || 11-20 || 4
-|-
-| Monstrueux || 21 et plus || 5
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Points de race et nombre maximum de traits par niveau de puissance</caption><tr CLASS="titre"><td>Niveau de puissance</td><td>Points de race</td><td>Traits par catégorie</td></tr><tr CLASS="premier"><td>Standard</td><td>1-10</td><td>3</td></tr><tr><td>Évolué</td><td>11-20</td><td>4</td></tr><tr><td>Monstrueux</td><td>21 et plus</td><td>5</td></tr></table>
+
 </div></div>Il y a trois niveaux de puissance : standard, évolué et monstrueux. Les races standard ne peuvent prendre que des traits raciaux standard, les races évoluées peuvent prendre des traits raciaux standard et évolués, et les races monstrueuses peuvent prendre des traits raciaux standard, évolués et monstrueux. La table 4-1 indique le nombre de PR que vous pouvez dépenser ainsi que le nombre maximum de traits raciaux que vous pouvez prendre par catégorie selon votre niveau de puissance.
 
 Une fois que vous avez défini le niveau de puissance de la race, suivez chacune des étapes suivantes pour la créer.
@@ -34,25 +26,9 @@ Une fois que vous avez défini le niveau de puissance de la race, suivez chacune
 #### Encadré : Mettre les races évoluées et monstrueuses au défi
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| ROWSPAN="2" | PR moyen
-| COLSPAN="4" CLASS="avecsoustitre" | Niveau moyen du groupe
-|- CLASS="soustitre"
-| 1-5
-| 6-10
-| 11-15
-| 16-20
-|- CLASS="premier"
-| 20
-| +1 || — || — || —
-|- CLASS="alt"
-| 30
-| +2 || +1 || — || —
-|-
-| 40
-| +3 || +2 || +1 || —
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td ROWSPAN="2">PR moyen</td><td COLSPAN="4" CLASS="avecsoustitre">Niveau moyen du groupe</td></tr><tr CLASS="soustitre"><td>1-5</td><td>6-10</td><td>11-15</td><td>16-20</td></tr><tr CLASS="premier"><td>20</td><td>+1</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>30</td><td>+2</td><td>+1</td><td>—</td><td>—</td></tr><tr><td>40</td><td>+3</td><td>+2</td><td>+1</td><td>—</td></tr></table>
+
 </div></div>Du fait de leurs capacités et de leurs traits raciaux puissants, les races évoluées et monstrueuses nécessitent de plus grands défis, notamment à bas niveaux. La ligne de conduite à suivre est de traiter le groupe de personnages aux races évoluées et monstrueuses comme étant supérieur d’un niveau ou plus, en fonction du nombre total de leurs PR dépensés, comme indiqué dans le tableau ci-dessous. Calculez le niveau moyen du groupe adapté à ce groupe et utilisez ce nombre, plutôt que le niveau moyen du groupe, lorsque vous créez des rencontres et des aventures adaptées. Pour les groupes aux niveaux de puissance mixtes, faites la moyenne des PR et arrondissez le résultat au plus proche multiple de 10.
 
 ### Étape 1 : Concept

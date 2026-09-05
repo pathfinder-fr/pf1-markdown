@@ -45,27 +45,5 @@ Le personnage aime détruire et ravager, et il sait comment porter des attaques 
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Destruction
-| Sous-domaine de la Catastrophe || Sous-domaine de la Haine || Sous-domaine de la Rage || Sous-domaine de la Torture
-|- CLASS="premier"
-| 1er || *[[coup au but]]* || *idem* || *[[ordre assassin]]* || *idem* || *idem*
-|-
-| 2e || *[[fracassement]]* || *[[bourrasque]]* || *[[manteau de colère]]* || *[[force de taureau]]* || *[[frappe douloureuse]]*
-|-
-| 3e || *[[rage]]* || *[[appel de la foudre]]* || *idem* || *idem* || *idem*
-|-
-| 4e || *[[blessure critique]]* || *idem* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[cri]]* || *idem* || *idem* || *idem* || *[[symbole de douleur]]*
-|-
-| 6e || *[[mise à mal]]* || *idem* || *idem* || *[[pleine lune]]* || *idem*
-|-
-| 7e || *[[désintégration]]* || *[[contrôle du climat]]* || *idem* || *idem* || *idem*
-|-
-| 8e || *[[tremblement de terre]]* || *idem* || *idem* || *idem* || *[[exigence]]*
-|-
-| 9e || *[[implosion]]* || *idem* || *idem* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Destruction</td><td>Sous-domaine de la Catastrophe</td><td>Sous-domaine de la Haine</td><td>Sous-domaine de la Rage</td><td>Sous-domaine de la Torture</td></tr><tr CLASS="premier"><td>1er</td><td>*[[coup au but]]*</td><td>*idem*</td><td>*[[ordre assassin]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[fracassement]]*</td><td>*[[bourrasque]]*</td><td>*[[manteau de colère]]*</td><td>*[[force de taureau]]*</td><td>*[[frappe douloureuse]]*</td></tr><tr><td>3e</td><td>*[[rage]]*</td><td>*[[appel de la foudre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[blessure critique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[cri]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[symbole de douleur]]*</td></tr><tr><td>6e</td><td>*[[mise à mal]]*</td><td>*idem*</td><td>*idem*</td><td>*[[pleine lune]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[désintégration]]*</td><td>*[[contrôle du climat]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[tremblement de terre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[exigence]]*</td></tr><tr><td>9e</td><td>*[[implosion]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>

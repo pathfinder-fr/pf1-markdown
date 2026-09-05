@@ -5,59 +5,9 @@ LastModified: 2016-08-10 15:33
 ---
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Propriétés spéciales d’arme
-|- CLASS="titre"
-| Propriété spéciale d’arme +1 || Prix de base<sup>[[#ARMC1|1]]</sup>
-|- CLASS="premier"
-| [[Temp objetsmagiques armes MCA#Projectile|Projectile fantôme]] || +2 000 po
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Préhensile|Préhensile]] || +2 500 po
-|-
-| [[Temp objetsmagiques armes MCA#Chante-sang|Chante-sang]] || bonus +1
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Diversion|De diversion]] || bonus +1
-|-
-| [[Temp objetsmagiques armes MCA#Riposte|De riposte]] || bonus +1
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Déconcertante|Déconcertante]] || bonus +1
-|-
-| [[Temp objetsmagiques armes MCA#Flamboyante|Flamboyante]] || bonus +1
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Fortuite|Fortuite]] || bonus +1
-|-
-| [[Temp objetsmagiques armes MCA#Inspirée|Inspirée]] || bonus +1
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Querelleuse|Querelleuse]] || bonus +1
-|-
-| [[Temp objetsmagiques armes MCA#Sacrée|Sacrée]] || bonus +1
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Traque-esprits|Traque-esprits]] || bonus +1
-|-
-| [[Temp objetsmagiques armes MCA#Traque-sang|Traque-sang]] || bonus +1
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#Voleuse de destin|Voleuse de destin]] || bonus +1
-|- CLASS="titre"
-| Propriété spéciale d’arme +2 || Prix de base<sup>[[#ARMC1|1]]</sup>
-|- CLASS="premier alt"
-| [[Temp objetsmagiques armes MCA#D’exclusion|D'exclusion]] || +3 750 po
-|-
-| [[Temp objetsmagiques armes MCA#Sournoise|Sournoise]] || +5 000 po
-|- CLASS="alt"
-| [[Temp objetsmagiques armes MCA#De diversion supérieure|De diversion supérieure]] || bonus +2
-|- CLASS="titre"
-| Propriété spéciale d’arme +3 || Prix de base<sup>[[#ARMC1|1]]</sup>
-|- CLASS="premier alt"
-| [[Temp objetsmagiques armes MCA#Épuisante|Épuisante]] || bonus +3
-|-
-| [[Temp objetsmagiques armes MCA#Flamboyante supérieure|Flamboyante supérieure]] || bonus +3
-|- CLASS="alt titre"
-| Propriété spéciale d’arme +5 || Prix de base<sup>[[#ARMC1|1]]</sup>
-|- CLASS="premier"
-| [[Temp objetsmagiques armes MCA#Volante|Volante]] || bonus +5
-|- CLASS="note"
-| COLSPAN=5 | {s:Reference|ARMC1} (1) Ajoutez le bonus d’altération de l’arme pour déterminer le prix total.
-|}
+
+<table CLASS="tablo col1centre"><caption>Propriétés spéciales d’arme</caption><tr CLASS="titre"><td>Propriété spéciale d’arme +1</td><td>Prix de base<sup>[[#ARMC1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques armes MCA#Projectile|Projectile fantôme]]</td><td>+2 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Préhensile|Préhensile]]</td><td>+2 500 po</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Chante-sang|Chante-sang]]</td><td>bonus +1</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Diversion|De diversion]]</td><td>bonus +1</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Riposte|De riposte]]</td><td>bonus +1</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Déconcertante|Déconcertante]]</td><td>bonus +1</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Flamboyante|Flamboyante]]</td><td>bonus +1</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Fortuite|Fortuite]]</td><td>bonus +1</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Inspirée|Inspirée]]</td><td>bonus +1</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Querelleuse|Querelleuse]]</td><td>bonus +1</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Sacrée|Sacrée]]</td><td>bonus +1</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Traque-esprits|Traque-esprits]]</td><td>bonus +1</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Traque-sang|Traque-sang]]</td><td>bonus +1</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#Voleuse de destin|Voleuse de destin]]</td><td>bonus +1</td></tr><tr CLASS="titre"><td>Propriété spéciale d’arme +2</td><td>Prix de base<sup>[[#ARMC1|1]]</sup></td></tr><tr CLASS="premier alt"><td>[[Temp objetsmagiques armes MCA#D’exclusion|D'exclusion]]</td><td>+3 750 po</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Sournoise|Sournoise]]</td><td>+5 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques armes MCA#De diversion supérieure|De diversion supérieure]]</td><td>bonus +2</td></tr><tr CLASS="titre"><td>Propriété spéciale d’arme +3</td><td>Prix de base<sup>[[#ARMC1|1]]</sup></td></tr><tr CLASS="premier alt"><td>[[Temp objetsmagiques armes MCA#Épuisante|Épuisante]]</td><td>bonus +3</td></tr><tr><td>[[Temp objetsmagiques armes MCA#Flamboyante supérieure|Flamboyante supérieure]]</td><td>bonus +3</td></tr><tr CLASS="alt titre"><td>Propriété spéciale d’arme +5</td><td>Prix de base<sup>[[#ARMC1|1]]</sup></td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques armes MCA#Volante|Volante]]</td><td>bonus +5</td></tr><tr CLASS="note"><td COLSPAN=5>{s:Reference|ARMC1} (1) Ajoutez le bonus d’altération de l’arme pour déterminer le prix total.</td></tr></table>
+
 </center>
 
 
@@ -442,29 +392,9 @@ est possible de désigner d’autres ennemis mais la plupart de ces
 armes sont harmonisées contre les créatures ayant les mystères ou
 les esprits suivants.
 <centre>
-{| CLASS="tablo col1centre"
-| d100 || Ennemi désigné
-|- CLASS="premier"
-| 01-10 || Batailles
-|-
-| 11-20 || Os
-|-
-| 21-30 || Flammes
-|-
-| 31-40 || Cieux
-|-
-| 41-50 || Vie
-|-
-| 51-60 || Savoir
-|-
-| 61-70 || Nature
-|-
-| 71-80 || Pierre
-|-
-| 81-90 || Vagues
-|-
-| 91-100 || Vent
-|}
+
+<table CLASS="tablo col1centre"><tr><td>d100</td><td>Ennemi désigné</td></tr><tr CLASS="premier"><td>01-10</td><td>Batailles</td></tr><tr><td>11-20</td><td>Os</td></tr><tr><td>21-30</td><td>Flammes</td></tr><tr><td>31-40</td><td>Cieux</td></tr><tr><td>41-50</td><td>Vie</td></tr><tr><td>51-60</td><td>Savoir</td></tr><tr><td>61-70</td><td>Nature</td></tr><tr><td>71-80</td><td>Pierre</td></tr><tr><td>81-90</td><td>Vagues</td></tr><tr><td>91-100</td><td>Vent</td></tr></table>
+
 </centre>
 (((Fabrication)))**Coût** bonus +1
 **Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[convocation dalliés naturels I|convocation d’alliés naturels I]]
@@ -494,33 +424,9 @@ l’ennemi désigné d’une arme, faites un jet dans la table qui
 suit. Il est possible de désigner d’autres ennemis mais la plupart de
 ces armes sont harmonisées contre les créatures ayant les lignages
 suivants.
-{| CLASS="alt tablo col1centre"
-| d100 || Ennemi désigné
-|- CLASS="premier"
-| 01-05 || Aberrant
-|-
-| 06-15 || Abyssal
-|-
-| 16-30 || Profane
-|-
-| 31-35 || Céleste
-|-
-| 36-40 || Voué à un grand destin
-|-
-| 41-50 || Draconique
-|-
-| 51-60 || Élémentaire
-|-
-| 61-70 || Féerique
-|-
-| 71-80 || Infernal
-|-
-| 81-90 || Mort-vivant
-|-
-| 91-95 || Autre
-|-
-| 96-100 || Tous
-|}
+
+<table CLASS="alt tablo col1centre"><tr><td>d100</td><td>Ennemi désigné</td></tr><tr CLASS="premier"><td>01-05</td><td>Aberrant</td></tr><tr><td>06-15</td><td>Abyssal</td></tr><tr><td>16-30</td><td>Profane</td></tr><tr><td>31-35</td><td>Céleste</td></tr><tr><td>36-40</td><td>Voué à un grand destin</td></tr><tr><td>41-50</td><td>Draconique</td></tr><tr><td>51-60</td><td>Élémentaire</td></tr><tr><td>61-70</td><td>Féerique</td></tr><tr><td>71-80</td><td>Infernal</td></tr><tr><td>81-90</td><td>Mort-vivant</td></tr><tr><td>91-95</td><td>Autre</td></tr><tr><td>96-100</td><td>Tous</td></tr></table>
+
 (((Fabrication)))**Coût** bonus +1
 **Conditions** [[Création darmes et armures magiques|Création d’armes et d’armures magiques]], [[convocation de monstres I]]
 </div>
@@ -586,19 +492,7 @@ d’audace ou de panache, il ne dépense pas d’action et sa tentative
 ### Armes spéciales
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Armes spéciales
-|- CLASS="titre"
-| Armes spéciales mineures intermédiaires || Prix
-|- CLASS="premier"
-| [[Rapière du bretteur]] || 7 320 po
-|- CLASS="alt"
-| [[Lame du bourreau]] || 13 850 po
-|- CLASS="titre"
-| Armes spéciales supérieures intermédiaires || Prix
-|- CLASS="premier alt"
-| [[Rapière de déplacement tactique]] || 30 320 po
-|-
-| [[Fil du duelliste]] || 35 320 po
-|}
+
+<table CLASS="tablo col1centre"><caption>Armes spéciales</caption><tr CLASS="titre"><td>Armes spéciales mineures intermédiaires</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Rapière du bretteur]]</td><td>7 320 po</td></tr><tr CLASS="alt"><td>[[Lame du bourreau]]</td><td>13 850 po</td></tr><tr CLASS="titre"><td>Armes spéciales supérieures intermédiaires</td><td>Prix</td></tr><tr CLASS="premier alt"><td>[[Rapière de déplacement tactique]]</td><td>30 320 po</td></tr><tr><td>[[Fil du duelliste]]</td><td>35 320 po</td></tr></table>
+
 </center>

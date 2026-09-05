@@ -27,23 +27,9 @@ Categories:
 Les victimes de cet [[enchantement]] deviennent [[confus|confuses]], ce qui les empêche de prendre la moindre décision. Pour déterminer ce que chacun fera pendant le [[round]] à venir, lancer 1d100 au début du tour de chaque sujet.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| 1d100
-| CLASS="gauche" | Comportement
-|- CLASS="premier"
-| 01–25
-| CLASS="gauche" | Agit normalement.
-|- CLASS="alt"
-| 26-50
-| CLASS="gauche" | Ne fait rien et babille de manière incohérente.
-|-
-| 51–75
-| CLASS="gauche" | S’inflige 1d8 points de dégâts + modificateur de [[Force]] avec un objet en main.
-|- CLASS="alt"
-| 76–100
-| CLASS="gauche" | Attaque la créature la plus proche (dans ce cas, un [[familier]] fait partie du sujet).
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Comportement</td></tr><tr CLASS="premier"><td>01–25</td><td CLASS="gauche">Agit normalement.</td></tr><tr CLASS="alt"><td>26-50</td><td CLASS="gauche">Ne fait rien et babille de manière incohérente.</td></tr><tr><td>51–75</td><td CLASS="gauche">S’inflige 1d8 points de dégâts + modificateur de [[Force]] avec un objet en main.</td></tr><tr CLASS="alt"><td>76–100</td><td CLASS="gauche">Attaque la créature la plus proche (dans ce cas, un [[familier]] fait partie du sujet).</td></tr></table>
+
 </center>
 
 Un personnage [[confus]] dans l’incapacité de mener à bien l’action indiquée ne fait rien d’autre que babiller de manière incohérente. Les attaquants n’ont aucun d’avantage particulier face à un personnage [[confus]]. En revanche, ce dernier riposte automatiquement lors de son tour de jeu suivant, du moins s’il est toujours [[confus]]. Il est bon de prendre en note qu’un personnage [[confus]] ne porte pas d’[[attaque dopportunité|attaque d’opportunité]] contre une créature sauf s’il est déjà en train de l’attaquer (soit à cause de sa dernière action, soit parce qu’il vient d’être attaqué).
@@ -53,21 +39,9 @@ Un personnage [[confus]] dans l’incapacité de mener à bien l’action indiqu
 Effectuez un jet sur la table ci-dessous à la place de celle de la version [[non-mythique]] au début du tour de chaque cible pour déterminer l’effet produit pendant le round en cours.
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Table des effets mythiques
-|- CLASS="titre"
-| d100
-| Comportement
 
-|- CLASS="premier"
-| 01-25 || La cible agit normalement, mais subit un malus de -2 aux jets d’attaque, aux tests de compétence et de caractéristique jusqu’à son prochain tour.
-|-
-| 26-50 || La cible ne fait rien d’autre que de bafouiller des choses incompréhensibles et subit un malus de -4 à la [[CA]] jusqu’à son prochain tour.
-|-
-| 51-75 || La cible s’inflige 2d8 points de dégâts + son modificateur de [[Force]] avec l’objet qu’elle tient en main.
-|-
-| 76-100 || La cible attaque l’allié le plus proche (un familier est considéré comme un allié dans le cadre de ce sort).
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Table des effets mythiques</caption><tr CLASS="titre"><td>d100</td><td>Comportement</td></tr><tr CLASS="premier"><td>01-25</td><td>La cible agit normalement, mais subit un malus de -2 aux jets d’attaque, aux tests de compétence et de caractéristique jusqu’à son prochain tour.</td></tr><tr><td>26-50</td><td>La cible ne fait rien d’autre que de bafouiller des choses incompréhensibles et subit un malus de -4 à la [[CA]] jusqu’à son prochain tour.</td></tr><tr><td>51-75</td><td>La cible s’inflige 2d8 points de dégâts + son modificateur de [[Force]] avec l’objet qu’elle tient en main.</td></tr><tr><td>76-100</td><td>La cible attaque l’allié le plus proche (un familier est considéré comme un allié dans le cadre de ce sort).</td></tr></table>
+
 </center>
 
 

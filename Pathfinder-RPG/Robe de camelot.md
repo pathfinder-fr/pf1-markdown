@@ -20,36 +20,9 @@ Categories:
 
 La robe possède également 4d4 pièces de tissu supplémentaires, à déterminer sur la table suivante en lançant 1d100 pour chacun d’entre eux.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|- CLASS="titre"
-| 1d100 || Résultat
-|- CLASS="premier"
-| 01–08 || Bourse de 100 pièces d’or
-|-
-| 09–15 || Coffret en argent (15 cm x 15 cm x 30 cm), valeur 500 po
-|-
-| 16–22 || Porte en fer (jusqu’à 3 m de haut et 3 m de large, barrée d’un côté  doit être placée verticalement, après quoi elle se fixe d’elle-même)
-|-
-| 23–30 || Gemmes, 10 (100 po chacune)
-|-
-| 31–44 || Échelle en bois (7,50 m de long)
-|-
-| 45–51 || Mulet (et fontes)
-|-
-| 52–59 || Fosse ouverte (3 m x 3 m x 3 m)
-|-
-| 60–68 || [[Potions magiques|Potion]] de *[[soins importants]]*
-|-
-| 69–75 || Barque (3,50 m de long)
-|-
-| 76–83 || [[Parchemins magiques#DETERMINATION|Parchemin de faible puissance]] (1 sort, déterminé aléatoirement)
-|-
-| 84–90 || Chiens de guerre, 2 (mêmes caractéristiques que les [[chien de selle|chiens de selle]])
-|-
-| 91–96 || Fenêtre (1,20 m x 60 cm, jusqu’à 60 cm de renfoncement)
-|-
-| 97–100 || Un bélier portable
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>1d100</td><td>Résultat</td></tr><tr CLASS="premier"><td>01–08</td><td>Bourse de 100 pièces d’or</td></tr><tr><td>09–15</td><td>Coffret en argent (15 cm x 15 cm x 30 cm), valeur 500 po</td></tr><tr><td>16–22</td><td>Porte en fer (jusqu’à 3 m de haut et 3 m de large, barrée d’un côté  doit être placée verticalement, après quoi elle se fixe d’elle-même)</td></tr><tr><td>23–30</td><td>Gemmes, 10 (100 po chacune)</td></tr><tr><td>31–44</td><td>Échelle en bois (7,50 m de long)</td></tr><tr><td>45–51</td><td>Mulet (et fontes)</td></tr><tr><td>52–59</td><td>Fosse ouverte (3 m x 3 m x 3 m)</td></tr><tr><td>60–68</td><td>[[Potions magiques|Potion]] de *[[soins importants]]*</td></tr><tr><td>69–75</td><td>Barque (3,50 m de long)</td></tr><tr><td>76–83</td><td>[[Parchemins magiques#DETERMINATION|Parchemin de faible puissance]] (1 sort, déterminé aléatoirement)</td></tr><tr><td>84–90</td><td>Chiens de guerre, 2 (mêmes caractéristiques que les [[chien de selle|chiens de selle]])</td></tr><tr><td>91–96</td><td>Fenêtre (1,20 m x 60 cm, jusqu’à 60 cm de renfoncement)</td></tr><tr><td>97–100</td><td>Un bélier portable</td></tr></table>
+
 </center>
 
 Il est possible d’avoir plusieurs fois le même objet. Une fois enlevées de la robe, les pièces de tissu ne sont pas remplacées, pas plus que les objets qu’elles représentent.

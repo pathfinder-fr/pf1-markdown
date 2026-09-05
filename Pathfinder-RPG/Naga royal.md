@@ -51,23 +51,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de naga
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Naga aquatique]] || 7
-|-
-| [[Naga corrupteur]] || 9
-|-
-| [[Naga gardien]] || 10
-|-
-| [[Naga lunaire]] || 6
-|-
-| [[Naga royal]] || 11
-|-
-| [[Naga ténébreux]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de naga</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Naga aquatique]]</td><td>7</td></tr><tr><td>[[Naga corrupteur]]</td><td>9</td></tr><tr><td>[[Naga gardien]]</td><td>10</td></tr><tr><td>[[Naga lunaire]]</td><td>6</td></tr><tr><td>[[Naga royal]]</td><td>11</td></tr><tr><td>[[Naga ténébreux]]</td><td>8</td></tr></table>
+
 </div>*Cette créature au corps de serpent a cinq têtes au visage humanoïde altier, couvertes d’un capuchon de cobra.*
 
 Fiers et altiers, les nagas royaux hantent les cités perdues et les royaumes oubliés, protégeant des trésors anciens pour d’obscures raisons connues d’eux seuls. Les cinq visages du naga royal ont des traits féroces et anguleux lui donnant un air terrifiant lorsqu’il est en colère. Les capuchons et les visages reptiliens du naga royal sont parés d’anneaux, de couronnes et d’autres accessoires de valeur, comme pour illustrer leur fierté et leur vanité naturelles. Un naga royal mesure 5,50 mètres de long et pèse souvent plus de 375 kilos.

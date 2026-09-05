@@ -66,34 +66,13 @@ Dans la plupart des cas, les [[magicien|magiciens]] font payer le droit de recop
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Niveau   
- du sort || Coût de la   
-copie (po) || &emsp; || Niveau   
-du sort || Coût de la   
-copie (po)
-|- CLASS="premier"
-| 0 || 5 po || &emsp;
-| CLASS="gauche" | 5
-| 250 po
-|- CLASS="alt"
-| 1 || 10po || &emsp;
-| CLASS="gauche" | 6
-| 360 po
-|-
-| 2 || 40 po || &emsp;
-| CLASS="gauche" | 7
-| 490 po
-|- CLASS="alt"
-| 3 || 90 po || &emsp;
-| CLASS="gauche" | 8
-| 640 po
-|-
-| 4 || 160 po || &emsp;
-| CLASS="gauche" | 9
-| 810 po
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Niveau   
+ du sort</td><td>Coût de la   
+copie (po)</td><td>&emsp;</td><td>Niveau   
+du sort</td><td>Coût de la   
+copie (po)</td></tr><tr CLASS="premier"><td>0</td><td>5 po</td><td>&emsp;</td><td CLASS="gauche">5</td><td>250 po</td></tr><tr CLASS="alt"><td>1</td><td>10po</td><td>&emsp;</td><td CLASS="gauche">6</td><td>360 po</td></tr><tr><td>2</td><td>40 po</td><td>&emsp;</td><td CLASS="gauche">7</td><td>490 po</td></tr><tr CLASS="alt"><td>3</td><td>90 po</td><td>&emsp;</td><td CLASS="gauche">8</td><td>640 po</td></tr><tr><td>4</td><td>160 po</td><td>&emsp;</td><td CLASS="gauche">9</td><td>810 po</td></tr></table>
+
 </center></div></div>
 Lorsque le [[magicien]] a compris un nouveau sort, il peut le recopier dans son [[magicien#GRIMOIRE|grimoire]].
 

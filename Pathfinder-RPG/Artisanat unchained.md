@@ -36,39 +36,19 @@ Si le test est raté, la fabrication de l’objet ne progresse pas de toute la j
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ {s:Reference|DDDESTESTSDARTISANAT}DD des tests d’Artisanat et valeurs de progression
-|- CLASS="titre"
-| Difficulté de  
-fabrication || DD du test  
-d’Artisanat || Valeur de  
+
+<table CLASS="tablo autoalt"><caption>{s:Reference|DDDESTESTSDARTISANAT}DD des tests d’Artisanat et valeurs de progression</caption><tr CLASS="titre"><td>Difficulté de  
+fabrication</td><td>DD du test  
+d’Artisanat</td><td>Valeur de  
 progression  
-quotidienne
-|- CLASS="premier"
-| Extrêmement  
-simple || DD 5 || 5 pa
-|-
-| Simple || DD 10 || 1 po
-|-
-| Normale || DD 15 || 2 po
-|-
-| Difficile || DD 20 || 4 po
-|-
-| Complexe || DD 25 || 8 po
-|-
-| Très complexe || DD 30 || 16 po
-|-
-| Extrêmement  
-complexe || DD 35 || 32 po
-|-
-| Poisons || DD = DD du jet de  
+quotidienne</td></tr><tr CLASS="premier"><td>Extrêmement  
+simple</td><td>DD 5</td><td>5 pa</td></tr><tr><td>Simple</td><td>DD 10</td><td>1 po</td></tr><tr><td>Normale</td><td>DD 15</td><td>2 po</td></tr><tr><td>Difficile</td><td>DD 20</td><td>4 po</td></tr><tr><td>Complexe</td><td>DD 25</td><td>8 po</td></tr><tr><td>Très complexe</td><td>DD 30</td><td>16 po</td></tr><tr><td>Extrêmement  
+complexe</td><td>DD 35</td><td>32 po</td></tr><tr><td>Poisons</td><td>DD = DD du jet de  
 Vigueur contre  
-le poison || 32 po
-|-
-| Pièges || Basé sur la  
+le poison</td><td>32 po</td></tr><tr><td>Pièges</td><td>Basé sur la  
 complexité, voir  
-texte || 32 po
-|}
+texte</td><td>32 po</td></tr></table>
+
 </center></div></div>Vous trouverez ci-dessous les différentes catégories de difficulté de fabrication des objets, les [[DD]] des tests d’Artisanat correspondants et des exemples d’objets qui correspondent à chacune de ces catégories. La fabrication de poisons et d’objets alchimiques nécessite des tests d’Artisanat (alchimie). La fabrication d’armures et de boucliers nécessite des tests d’Artisanat (armures). La fabrication d’armes de corps à corps, d’armes à projectiles, d’armes à feu (à l’exception des armes de siège), d’arbalètes et de carreaux d’arbalètes nécessite des tests d’Artisanat (armes). La fabrication d’arcs et de flèches nécessite des tests d’Artisanat (arcs). La fabrication de munitions pour armes à feu nécessite des tests d’Artisanat (alchimie) et la fabrication d’engins de siège, quel que soit leur type, nécessitent des tests d’Artisanat (engins de siège). Les tests d’Artisanat à effectuer dépendent de la nature de l’objet qu’on tente de fabriquer. Voici les artisanats les plus courants : bijoux, calligraphie, constructions en bois, constructions en pierre, étoffes, livres, paniers, peintures, poteries, sculptures, serrures, souliers, travail du cuir, travail du verre et vêtements. La fabrication de la plupart des véhicules terrestres nécessite des tests d’Artisanat (constructions en bois), celle d’engins volants et de navires de mer nécessite des tests d’Artisanat (navires) et des tests d’Artisanat (alchimie) sont nécessaires pour fabriquer des dragons alchimiques et des géants à vapeur. La fabrication de pièges nécessite des tests d’Artisanat (pièges).
 
 ##### Extrêmement simple (DD 5)
@@ -119,30 +99,14 @@ texte || 32 po
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ {s:Reference|OUVRIERSQUALIFIES}Ouvriers qualifiés
-|- CLASS="titre"
-| Rangs en  
-Artisanat || Bonus en  
-Artisanat || Rémunération  
-par jour || Rémunération  
-par semaine || Taille de la  
-communauté
-|- CLASS="premier"
-| 1 || +4 || 3 pa || 2 po, 1 pa || Hameau
-|-
-| 2 || +5 || 4 pa || 2 po, 8 pa || Village
-|-
-| 3 || +6 || 6 pa || 4 po, 2 pa || Petite bourgade
-|-
-| 4 || +7 || 8 pa || 5 po, 6 pa || Grosse bourgade
-|-
-| 5 || +8 || 1 po || 7 po || Petite ville
-|-
-| 6 || +9 || 1 po, 5 pa || 10 po, 5 pa || Grande ville
-|-
-| 7 || +10 || 2 po || 14 po || Métropole
-|}
+
+<table CLASS="tablo autoalt"><caption>{s:Reference|OUVRIERSQUALIFIES}Ouvriers qualifiés</caption><tr CLASS="titre"><td>Rangs en  
+Artisanat</td><td>Bonus en  
+Artisanat</td><td>Rémunération  
+par jour</td><td>Rémunération  
+par semaine</td><td>Taille de la  
+communauté</td></tr><tr CLASS="premier"><td>1</td><td>+4</td><td>3 pa</td><td>2 po, 1 pa</td><td>Hameau</td></tr><tr><td>2</td><td>+5</td><td>4 pa</td><td>2 po, 8 pa</td><td>Village</td></tr><tr><td>3</td><td>+6</td><td>6 pa</td><td>4 po, 2 pa</td><td>Petite bourgade</td></tr><tr><td>4</td><td>+7</td><td>8 pa</td><td>5 po, 6 pa</td><td>Grosse bourgade</td></tr><tr><td>5</td><td>+8</td><td>1 po</td><td>7 po</td><td>Petite ville</td></tr><tr><td>6</td><td>+9</td><td>1 po, 5 pa</td><td>10 po, 5 pa</td><td>Grande ville</td></tr><tr><td>7</td><td>+10</td><td>2 po</td><td>14 po</td><td>Métropole</td></tr></table>
+
 </center></div></div>Comme indiqué dans les deux versions de la compétence, l’Artisanat permet aux personnages de superviser des ouvriers non-qualifiés. Un ouvrier non-qualifié ne possède aucun rang en Artisanat mais il peut aider au processus de fabrication des objets avec la compétence d’Artisanat. Il faut avant tout le rémunérer en lui versant 1 pa par jour ou 7 pa pour une semaine de travail. Chaque ouvrier non-qualifié embauché peut effectuer l’action aider quelqu’un avec un bonus de +0 (on part du principe qu’il possède une valeur d’[[Intelligence]] de 10 ou 11 et qu’il ne possède aucun rang dans la compétence d’Artisanat appropriée) lors du test d’Artisanat du personnage. En règle générale, le personnage peut embaucher un maximum de deux artisans pour l’aider à la fabrication de la plupart des objets de petite taille ou relativement simples (tels que le matériel d’aventurier, les objets alchimiques, les armures, les poisons et les armes). S’il souhaite fabriquer des objets imposants ou complexes (tels que des engins de siège ou des véhicules), le personnage peut embaucher jusqu’à dix ouvriers non-qualifiés comme assistants.
 
 Si le [[MJ]] l’y autorise, le personnage peut également embaucher et superviser des ouvriers qualifiés. Ces ouvriers possèdent des rangs dans la compétence d’Artisanat appropriée et apportent donc une aide plus intéressante lors du processus de fabrication. La table "[[Artisanat unchained#OUVRIERSQUALIFIES|Ouvriers qualifiés]]" fournit les informations sur ce type d’individus, le montant de leur rémunération, le nombre de rangs qu’ils possèdent dans la compétence d’Artisanat appropriée, leur bonus aux tests d’Artisanat et la taille moyenne des communautés où on peut les trouver. Le personnage peut uniquement embaucher des ouvriers qualifiés qui possèdent moins de rangs dans la compétence d’Artisanat appropriée que lui. En effet, un ouvrier plus qualifié n’acceptera pas le statut de simple assistant.
@@ -169,64 +133,5 @@ Le coût de fabrication des matières premières spéciales est toujours deux fo
 
 **Matières premières pures.** Ces matières premières facilitent le processus de fabrication des objets. Quand un personnage utilise ce type de matières premières, il effectue deux tests d’Artisanat et conserve le meilleur résultat.
 
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|+ Prix des matières premières spéciales
-|- CLASS="titre"
-| Matières premières spéciales (500 g) || Faciles à travailler || Qualité supérieure || Malléables || Pures
-|- CLASS="premier"
-| Acier || 8 po || 8 po || 5 po || 6 po
-|-
-| [[Acier ardent]] || 300 po || 300 po || 187 po, 5 pa || 225 po
-|-
-| [[Acier glacé]] || 300 po || 300 po || 187 po, 5 pa || 225 po
-|-
-| [[Acier vivant]] || 200 po || 200 po || 125 po || 150 po
-|-
-| [[Adamantium]] || 600 po || 600 po || 375 po || 450 po
-|-
-| [[Argent alchimique]] || 20 po || 20 po || 12 po, 5 pa || 15 po
-|-
-| Bois || 2 po || 2 po || 1 po, 2 pa, 5 pc || 1 po, 5 pa
-|-
-| [[Bois flexible]] || 300 po || 300 po || 187 po, 5 pa || 225 po
-|-
-| [[Bois vert]] || 100 po || 100 po || 62 po, 5 pa || 75 po
-|-
-| [[Armes et armures primitives#Bronze_0|Bronze]] || 10 po || 10 po || 6 po, 2 pa, 5 pc || 7 po, 5 pa
-|-
-| [[Bronze élyséen]] || 400 po || 400 po || 250 po || 300 po
-|-
-| [[Crin de griffon]] || 80 po || 80 po || 50 po || 60 po
-|-
-| [[Cristal de sang]] || 80 po || 80 po || 50 po || 60 po
-|-
-| Cuir || 6 po || 6 po || 3 po, 7 pa, 5 pc || 4 po, 5 pa
-|-
-| [[Ébénite]] || 20 po || 20 po || 12 po, 5pa || 15 po
-|-
-| [[Fer froid]] || 100 po || 100 po || 62 po, 5 pa || 75 po
-|-
-| [[Mithral]] || 800 po || 800 po || 500 po || 600 po
-|-
-| [[Armes et armures primitives#Obsidienne_1|Obsidienne]] || 6 po || 6 po || 3 po, 7 pa, 5 pc || 4 po, 5 pa
-|-
-| [[Armes et armures primitives#Or_2|Or]] || 100 po || 100 po || 62 po, 5 pa || 75 po
-|-
-| [[Armes et armures primitives#Os_3|Os]] || 2 po || 2 po || 1 po, 2 pa, 5 pc || 1 po, 5 pa
-|-
-| [[Peau dange|Peau d’ange]] || 200 po || 200 po || 125 po || 150 po
-|-
-| [[Peau danguille|Peau d’anguille]] || 250 po || 250 po || 156 po, 2 pa, 5 pc || 187 po, 5 pa
-|-
-| [[Peau de dragon]] || 100 po || 100 po || 62 po, 5 pa || 75 po
-|-
-| [[Armes et armures primitives#Pierre_4|Pierre]] || 6 po || 6 po || 3 po, 7 pa, 5 pc || 4 po, 5 pa
-|-
-| [[Racine de wy]] || 400 po || 400 po || 250 po || 300 po
-|-
-| Tissu || 8 po || 8 po || 5 po || 6 po
-|-
-| [[Tissu de sombrefeuille]] || 20 po || 20 po || 12 po, 5 pa || 15 po
-|-
-| [[Viridium]] || 400 po || 400 po || 250 po || 300 po
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>Prix des matières premières spéciales</caption><tr CLASS="titre"><td>Matières premières spéciales (500 g)</td><td>Faciles à travailler</td><td>Qualité supérieure</td><td>Malléables</td><td>Pures</td></tr><tr CLASS="premier"><td>Acier</td><td>8 po</td><td>8 po</td><td>5 po</td><td>6 po</td></tr><tr><td>[[Acier ardent]]</td><td>300 po</td><td>300 po</td><td>187 po, 5 pa</td><td>225 po</td></tr><tr><td>[[Acier glacé]]</td><td>300 po</td><td>300 po</td><td>187 po, 5 pa</td><td>225 po</td></tr><tr><td>[[Acier vivant]]</td><td>200 po</td><td>200 po</td><td>125 po</td><td>150 po</td></tr><tr><td>[[Adamantium]]</td><td>600 po</td><td>600 po</td><td>375 po</td><td>450 po</td></tr><tr><td>[[Argent alchimique]]</td><td>20 po</td><td>20 po</td><td>12 po, 5 pa</td><td>15 po</td></tr><tr><td>Bois</td><td>2 po</td><td>2 po</td><td>1 po, 2 pa, 5 pc</td><td>1 po, 5 pa</td></tr><tr><td>[[Bois flexible]]</td><td>300 po</td><td>300 po</td><td>187 po, 5 pa</td><td>225 po</td></tr><tr><td>[[Bois vert]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Armes et armures primitives#Bronze_0|Bronze]]</td><td>10 po</td><td>10 po</td><td>6 po, 2 pa, 5 pc</td><td>7 po, 5 pa</td></tr><tr><td>[[Bronze élyséen]]</td><td>400 po</td><td>400 po</td><td>250 po</td><td>300 po</td></tr><tr><td>[[Crin de griffon]]</td><td>80 po</td><td>80 po</td><td>50 po</td><td>60 po</td></tr><tr><td>[[Cristal de sang]]</td><td>80 po</td><td>80 po</td><td>50 po</td><td>60 po</td></tr><tr><td>Cuir</td><td>6 po</td><td>6 po</td><td>3 po, 7 pa, 5 pc</td><td>4 po, 5 pa</td></tr><tr><td>[[Ébénite]]</td><td>20 po</td><td>20 po</td><td>12 po, 5pa</td><td>15 po</td></tr><tr><td>[[Fer froid]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Mithral]]</td><td>800 po</td><td>800 po</td><td>500 po</td><td>600 po</td></tr><tr><td>[[Armes et armures primitives#Obsidienne_1|Obsidienne]]</td><td>6 po</td><td>6 po</td><td>3 po, 7 pa, 5 pc</td><td>4 po, 5 pa</td></tr><tr><td>[[Armes et armures primitives#Or_2|Or]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Armes et armures primitives#Os_3|Os]]</td><td>2 po</td><td>2 po</td><td>1 po, 2 pa, 5 pc</td><td>1 po, 5 pa</td></tr><tr><td>[[Peau dange|Peau d’ange]]</td><td>200 po</td><td>200 po</td><td>125 po</td><td>150 po</td></tr><tr><td>[[Peau danguille|Peau d’anguille]]</td><td>250 po</td><td>250 po</td><td>156 po, 2 pa, 5 pc</td><td>187 po, 5 pa</td></tr><tr><td>[[Peau de dragon]]</td><td>100 po</td><td>100 po</td><td>62 po, 5 pa</td><td>75 po</td></tr><tr><td>[[Armes et armures primitives#Pierre_4|Pierre]]</td><td>6 po</td><td>6 po</td><td>3 po, 7 pa, 5 pc</td><td>4 po, 5 pa</td></tr><tr><td>[[Racine de wy]]</td><td>400 po</td><td>400 po</td><td>250 po</td><td>300 po</td></tr><tr><td>Tissu</td><td>8 po</td><td>8 po</td><td>5 po</td><td>6 po</td></tr><tr><td>[[Tissu de sombrefeuille]]</td><td>20 po</td><td>20 po</td><td>12 po, 5 pa</td><td>15 po</td></tr><tr><td>[[Viridium]]</td><td>400 po</td><td>400 po</td><td>250 po</td><td>300 po</td></tr></table>

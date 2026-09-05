@@ -44,25 +44,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de scorpion
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Scorpion dard-vert]] || 1/4
-|-
-| [[Scorpion des cavernes]] || 1
-|-
-| [[Scorpion empereur géant]] || 11
-|-
-| [[Scorpion fantomatique]] || 1/2
-|-
-| [[Scorpion géant]] || 3
-|-
-| [[Scorpion noir]] || 15
-|-
-| [[Scorpion piégeur]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de scorpion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Scorpion dard-vert]]</td><td>1/4</td></tr><tr><td>[[Scorpion des cavernes]]</td><td>1</td></tr><tr><td>[[Scorpion empereur géant]]</td><td>11</td></tr><tr><td>[[Scorpion fantomatique]]</td><td>1/2</td></tr><tr><td>[[Scorpion géant]]</td><td>3</td></tr><tr><td>[[Scorpion noir]]</td><td>15</td></tr><tr><td>[[Scorpion piégeur]]</td><td>8</td></tr></table>
+
 </div>*Ce gigantesque scorpion a une carapace noire comme le charbon et des pinces de la taille d’un être humain.*
 
 L’immense scorpion noir est l’un des plus grands prédateurs des déserts. Cette créature capable de piquer ses ennemis avec une rapidité étonnante est constamment en chasse.

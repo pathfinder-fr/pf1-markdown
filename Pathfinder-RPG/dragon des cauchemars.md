@@ -33,51 +33,17 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon des cauchemars
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Jeune dragon des cauchemars]] || 6
-|-
-| [[Dragon des cauchemars adulte]] || 10
-|-
-| [[Dragon des cauchemars vénérable]] || 15
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon des cauchemars</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des cauchemars]]</td><td>6</td></tr><tr><td>[[Dragon des cauchemars adulte]]</td><td>10</td></tr><tr><td>[[Dragon des cauchemars vénérable]]</td><td>15</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Ce dragon couleur d’ébène, agrémenté de touffes de poils rouges et affreusement crispé, semble traquer les ombres.*
 
 Ces chasseurs de la dimension du Rêve poussent les dormeurs à cauchemarder et intensifient la terreur des mauvais rêves en cours. Les dragons des cauchemars œuvrent souvent aux côtés des guenaudes noires pour compléter leur sinistre collection d’âmes assoupies.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] || —
-|- CLASS="alt"
-| Très jeune || vision onirique || —
-|-
-| Jeune || [[Immunité (capacité)|immunité]] contre les effets mentaux || —
-|- CLASS="alt"
-| Adolescent || [[Magie psychique (capacité)|magie psychique]], [[Présence terrifiante (capacité)|présence terrifiante]] || 1
-|-
-| Jeune adulte || changement de forme, [[RD]] 5/magie || 3
-|- CLASS="alt"
-| Adulte || griffes cauchemardesques || 5
-|-
-| Âge mûr || [[RD]] 10/magie || 7
-|- CLASS="alt"
-| Vieux || assassin cauchemardesque, [[Magie psychique (capacité)|magie psychique]] || 9
-|-
-| Très vieux || [[RD]] 15/magie || 11
-|- CLASS="alt"
-| Vénérable || présence horrifiante || 13
-|-
-| Dracosire || [[RD]] 20/magie || 15
-|- CLASS="alt"
-| Grand dracosire || terreur onirique || 17
-|}</center>
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>[[Vision dans les ténèbres (capacité)|vision dans les ténèbres]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>vision onirique</td><td>—</td></tr><tr><td>Jeune</td><td>[[Immunité (capacité)|immunité]] contre les effets mentaux</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>[[Magie psychique (capacité)|magie psychique]], [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>changement de forme, [[RD]] 5/magie</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>griffes cauchemardesques</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>assassin cauchemardesque, [[Magie psychique (capacité)|magie psychique]]</td><td>9</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>présence horrifiante</td><td>13</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>terreur onirique</td><td>17</td></tr></table></center>
+
 </div>
 
 </td></tr></table>

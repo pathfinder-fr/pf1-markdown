@@ -11,22 +11,8 @@ Le sang et les autres fluides du dragon mythique sont investis d’acide, de fro
 
 Si le dragon a le pouvoir engloutissement, il ajoute ces dégâts à ceux de son pouvoir d’engloutissement.
 
-{| CLASS="tablo centre autoalt"
-|+ Dégâts du sang draconique
-|- CLASS="titre"
-| Taille du dragon
-| Points de dégâts d’énergie
-|- CLASS="premier"
-| M ou plus petite || 1d4
-|-
-| G || 1d6
-|-
-| TG || 1d8
-|-
-| Gig || 2d6
-|-
-| C || 2d8
-|-
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Dégâts du sang draconique</caption><tr CLASS="titre"><td>Taille du dragon</td><td>Points de dégâts d’énergie</td></tr><tr CLASS="premier"><td>M ou plus petite</td><td>1d4</td></tr><tr><td>G</td><td>1d6</td></tr><tr><td>TG</td><td>1d8</td></tr><tr><td>Gig</td><td>2d6</td></tr><tr><td>C</td><td>2d8</td></tr></table>
+
 
 *Format :* sang draconique (2d6 feu) ; *Emplacement :* Capacité défensives.

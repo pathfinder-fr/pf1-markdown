@@ -50,29 +50,9 @@ Dans certains cas de figure, on ne prend pas le [[Caractéristiques des armures#
 <div style="border: 1px solid #4b3124; padding: 4px">
 {s:Reference|TABMODTAILLE}
 <center>
-{| CLASS="tablo"
-|+ Modificateurs de taille
-|- CLASS="titre"
-| Taille || Modificateur de taille
-|- CLASS="premier"
-| Colossal (C) || –8
-|- CLASS="alt"
-| Gigantesque (Gig) || –4
-|-
-| Très grand (TG) || –2
-|- CLASS="alt"
-| Grand (G) || –1
-|-
-| Moyen (M) || +0
-|- CLASS="alt"
-| Petit (P) || +1
-|-
-| Très petit (TP) || +2
-|- CLASS="alt"
-| Minuscule (Min) || +4
-|-
-| Infime (I) || +8
-|}
+
+<table CLASS="tablo"><caption>Modificateurs de taille</caption><tr CLASS="titre"><td>Taille</td><td>Modificateur de taille</td></tr><tr CLASS="premier"><td>Colossal (C)</td><td>–8</td></tr><tr CLASS="alt"><td>Gigantesque (Gig)</td><td>–4</td></tr><tr><td>Très grand (TG)</td><td>–2</td></tr><tr CLASS="alt"><td>Grand (G)</td><td>–1</td></tr><tr><td>Moyen (M)</td><td>+0</td></tr><tr CLASS="alt"><td>Petit (P)</td><td>+1</td></tr><tr><td>Très petit (TP)</td><td>+2</td></tr><tr CLASS="alt"><td>Minuscule (Min)</td><td>+4</td></tr><tr><td>Infime (I)</td><td>+8</td></tr></table>
+
 </center></div></div>
 D’autres facteurs peuvent améliorer la [[Valeurs de combat#CA|CA]] d’un combattant.
 

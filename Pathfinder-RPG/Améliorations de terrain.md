@@ -19,47 +19,9 @@ Si une amélioration peut se transformer en une autre amélioration plus efficac
 
 **Prix.** Cette ligne indique le coût, en [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]], pour construire l’amélioration de terrain.
 
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|TERRAINSETAMELIORATIONSDETERRAIN}Les terrains et les ameliorations de terrain
-|- CLASS="titre"
-| Terrain || Durée d'exploration<sup>[[Améliorations de terrain#NOTE1|1]]</sup> || Durée de préparation<sup>[[Améliorations de terrain#NOTE2|2]]</sup> || Coût de préparation<sup>[[Améliorations de terrain#NOTE3|3]]</sup> || Prix d'une ferme<sup>[[Améliorations de terrain#NOTE4|4]]</sup> || Prix d'une route<sup>[[Améliorations de terrain#NOTE5|5]], [[Améliorations de terrain#NOTE6|6]]</sup>
-|- CLASS="premier"
-| Caverne<sup>[[Améliorations de terrain#NOTE7|7]]</sup> || 3 jours || 3 mois || 8 PC || — || 4 PC
-|-
-| Côte<sup>[[Améliorations de terrain#NOTE8|8]]</sup> || spécial || spécial || spécial || spécial || spécial
-|-
-| [[Exploration GC#DESERT|Désert]] || 2 jours || 1 mois || 4 PC || 8 PC || 4 PC
-|-
-| [[Exploration GC#FORET|Forêt]] || 2 jours || 2 mois || 4 PC || — || 2 PC
-|-
-| [[Exploration GC#COLLINES|Collines]] || 1 jour || 1 mois || 2 PC || 4 PC || 3 PC
-|-
-| [[Exploration GC#JUNGLE|Jungle]] || 2 jours || 4 mois || 12 PC || — || 4 PC
-|-
-| [[Exploration GC#MARAIS|Marais]] || 3 jours || 3 mois || 8 PC || — || 4 PC
-|-
-| [[Exploration GC#MONTAGNES|Montagnes]] || 3 jours || 4 mois || 12 PC || — || 4 PC
-|-
-| [[Exploration GC#PLAINES|Plaines]] || 1 jour || immédiat || 1 PC || 2 PC || 1 PC
-|-
-| [[Exploration GC#EAUX|Eaux]] || 2 jours || — || — || — || —
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE1}*(1) La durée d’exploration indique le temps qu’il faut à un groupe d’éclaireurs ordinaires pour explorer un hexagone de ce type. Les éclaireurs sont supposés avoir une vitesse de 9 mètres. Si ce n’est pas le cas, consultez la table "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]". En ce qui concerne la durée d’exploration, traitez les cavernes comme des montagnes et les jungles comme des marais. Ne faites pas d’ajustement pour la vitesse sur l’eau, nous partons déjà du principe que les éclaireurs utilisent un bateau.*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE2}*(2) La durée de préparation représente le nombre de mois de labeurs nécessaires pour préparer l’hexagone à la colonisation (en commençant au tour en cours). Pour les communautés qui se trouvent en plaine, la construction peut commencer de suite.*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE3}*(3) Le coût de préparation représente le prix à payer, en [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]], pour dégager un hexagone de ce type avant d’y installer une communauté.*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE4}*(4) Le prix d’une ferme représente le nombre de [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] à payer pour cultiver l’hexagone. La ferme doit se trouver dans un hexagone qui contient une rivière, un lac, un marais ou un canal ou bien être adjacente à deux hexagones qui contiennent déjà des fermes.*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE5}*(5) Le prix d’une route représente le nombre de [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] à payer pour construire une route qui traverse l’hexagone et le relie à tous les hexagones adjacents. Ce prix est doublé si l’hexagone contient une rivière. Si le royaume a une [[Royaumes et guerre#TAILLE|taille]] de 26 ou plus, il peut opter pour une grand-route (ou améliorer une route pour en faire une grand-route).*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE6}*(6) Si l’hexagone contient une rivière, doublez le prix indiqué pour refléter les dépenses en construction de pont.*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE7}*(7) C’est un vaste réseau de grottes et de passages souterrains que l’on peut trouver sur n’importe quel terrain, excepté le marais. Il fonctionne comme un hexagone supplémentaire qui existe sous terre, sous l’hexagone de surface.*
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE8}*(8) Traitez en toutes choses cet hexagone comme s’il était du même type que le terrain purement terrestre le plus proche.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|TERRAINSETAMELIORATIONSDETERRAIN}Les terrains et les ameliorations de terrain</caption><tr CLASS="titre"><td>Terrain</td><td>Durée d'exploration<sup>[[Améliorations de terrain#NOTE1|1]]</sup></td><td>Durée de préparation<sup>[[Améliorations de terrain#NOTE2|2]]</sup></td><td>Coût de préparation<sup>[[Améliorations de terrain#NOTE3|3]]</sup></td><td>Prix d'une ferme<sup>[[Améliorations de terrain#NOTE4|4]]</sup></td><td>Prix d'une route<sup>[[Améliorations de terrain#NOTE5|5]], [[Améliorations de terrain#NOTE6|6]]</sup></td></tr><tr CLASS="premier"><td>Caverne<sup>[[Améliorations de terrain#NOTE7|7]]</sup></td><td>3 jours</td><td>3 mois</td><td>8 PC</td><td>—</td><td>4 PC</td></tr><tr><td>Côte<sup>[[Améliorations de terrain#NOTE8|8]]</sup></td><td>spécial</td><td>spécial</td><td>spécial</td><td>spécial</td><td>spécial</td></tr><tr><td>[[Exploration GC#DESERT|Désert]]</td><td>2 jours</td><td>1 mois</td><td>4 PC</td><td>8 PC</td><td>4 PC</td></tr><tr><td>[[Exploration GC#FORET|Forêt]]</td><td>2 jours</td><td>2 mois</td><td>4 PC</td><td>—</td><td>2 PC</td></tr><tr><td>[[Exploration GC#COLLINES|Collines]]</td><td>1 jour</td><td>1 mois</td><td>2 PC</td><td>4 PC</td><td>3 PC</td></tr><tr><td>[[Exploration GC#JUNGLE|Jungle]]</td><td>2 jours</td><td>4 mois</td><td>12 PC</td><td>—</td><td>4 PC</td></tr><tr><td>[[Exploration GC#MARAIS|Marais]]</td><td>3 jours</td><td>3 mois</td><td>8 PC</td><td>—</td><td>4 PC</td></tr><tr><td>[[Exploration GC#MONTAGNES|Montagnes]]</td><td>3 jours</td><td>4 mois</td><td>12 PC</td><td>—</td><td>4 PC</td></tr><tr><td>[[Exploration GC#PLAINES|Plaines]]</td><td>1 jour</td><td>immédiat</td><td>1 PC</td><td>2 PC</td><td>1 PC</td></tr><tr><td>[[Exploration GC#EAUX|Eaux]]</td><td>2 jours</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE1}*(1) La durée d’exploration indique le temps qu’il faut à un groupe d’éclaireurs ordinaires pour explorer un hexagone de ce type. Les éclaireurs sont supposés avoir une vitesse de 9 mètres. Si ce n’est pas le cas, consultez la table "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]". En ce qui concerne la durée d’exploration, traitez les cavernes comme des montagnes et les jungles comme des marais. Ne faites pas d’ajustement pour la vitesse sur l’eau, nous partons déjà du principe que les éclaireurs utilisent un bateau.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE2}*(2) La durée de préparation représente le nombre de mois de labeurs nécessaires pour préparer l’hexagone à la colonisation (en commençant au tour en cours). Pour les communautés qui se trouvent en plaine, la construction peut commencer de suite.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE3}*(3) Le coût de préparation représente le prix à payer, en [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]], pour dégager un hexagone de ce type avant d’y installer une communauté.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE4}*(4) Le prix d’une ferme représente le nombre de [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] à payer pour cultiver l’hexagone. La ferme doit se trouver dans un hexagone qui contient une rivière, un lac, un marais ou un canal ou bien être adjacente à deux hexagones qui contiennent déjà des fermes.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE5}*(5) Le prix d’une route représente le nombre de [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] à payer pour construire une route qui traverse l’hexagone et le relie à tous les hexagones adjacents. Ce prix est doublé si l’hexagone contient une rivière. Si le royaume a une [[Royaumes et guerre#TAILLE|taille]] de 26 ou plus, il peut opter pour une grand-route (ou améliorer une route pour en faire une grand-route).*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE6}*(6) Si l’hexagone contient une rivière, doublez le prix indiqué pour refléter les dépenses en construction de pont.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE7}*(7) C’est un vaste réseau de grottes et de passages souterrains que l’on peut trouver sur n’importe quel terrain, excepté le marais. Il fonctionne comme un hexagone supplémentaire qui existe sous terre, sous l’hexagone de surface.*</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE8}*(8) Traitez en toutes choses cet hexagone comme s’il était du même type que le terrain purement terrestre le plus proche.*</td></tr></table>
+
 
 <div class="article_2col">
 #### Aqueduc*

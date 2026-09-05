@@ -41,29 +41,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'araignée
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Araignée écarlate]] || 1/4
-|-
-| [[Araignée géante]] || 1
-|-
-| [[Araignée goliath]] || 11
-|-
-| [[Araignée lunaire]] || 2
-|-
-| [[Araignée ogre]] || 5
-|-
-| [[Araignée-crabe géante]] || 1/2
-|-
-| [[Nuée daraignées|Nuée d'araignées]] || 1
-|-
-| [[Tarentule géante]] || 8
-|-
-| [[Veuve noire géante]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'araignée</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Araignée écarlate]]</td><td>1/4</td></tr><tr><td>[[Araignée géante]]</td><td>1</td></tr><tr><td>[[Araignée goliath]]</td><td>11</td></tr><tr><td>[[Araignée lunaire]]</td><td>2</td></tr><tr><td>[[Araignée ogre]]</td><td>5</td></tr><tr><td>[[Araignée-crabe géante]]</td><td>1/2</td></tr><tr><td>[[Nuée daraignées|Nuée d'araignées]]</td><td>1</td></tr><tr><td>[[Tarentule géante]]</td><td>8</td></tr><tr><td>[[Veuve noire géante]]</td><td>3</td></tr></table>
+
 </div>*Cette gigantesque tarentule verte et brune dotée d’énormes crocs acérés est de la taille d’une grande maison.*
 
 Les araignées goliath sont des chasseresses géantes qui se nourrissent le plus souvent de scorpions et de serpents géants, ainsi que de jeunes dragons, mais elles attrapent parfois des proies plus petites qu’elles paralysent pour les dévorer plus tard.

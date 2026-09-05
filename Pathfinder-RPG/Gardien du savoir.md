@@ -12,53 +12,9 @@ La classe de prestige du gardien du savoir n'a que faire de ceux qui n'ont pas e
 
 {s:Reference|TABLEGARDIENDUSAVOIR}
 <center>
-{| CLASS="tablo"
-|+ Le gardien du savoir
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[gardien du savoir#SAVOIR|Savoir]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[gardien du savoir#LANGAGESUPPLEMENTAIRE|Langage supplémentaire]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[gardien du savoir#SAVOIRSUPERIEUR|Savoir supérieur]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[gardien du savoir#LANGAGESUPPLEMENTAIRE|Langage supplémentaire]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|-
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[gardien du savoir#SECRET|Secret]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[gardien du savoir#SAVOIRDIVIN|Savoir divin]]
-| CLASS="gauche" | [[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]
-|}
+
+<table CLASS="tablo"><caption>Le gardien du savoir</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[gardien du savoir#SECRET|Secret]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[gardien du savoir#SAVOIR|Savoir]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[gardien du savoir#SECRET|Secret]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[gardien du savoir#LANGAGESUPPLEMENTAIRE|Langage supplémentaire]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[gardien du savoir#SECRET|Secret]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[gardien du savoir#SAVOIRSUPERIEUR|Savoir supérieur]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[gardien du savoir#SECRET|Secret]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[gardien du savoir#LANGAGESUPPLEMENTAIRE|Langage supplémentaire]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[gardien du savoir#SECRET|Secret]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[gardien du savoir#SAVOIRDIVIN|Savoir divin]]</td><td CLASS="gauche">[[gardien du savoir#SORTS|+1 niveau dans la classe de lanceur de sorts existante]]</td></tr></table>
+
 </center>
 
 **Rôle.** Un gardien du savoir consacre sa vie à l'étude, à la recherche et au travail sur le terrain. Si les deux premières tâches confirment sa réputation de rat de bibliothèque reclus, la dernière oblige le personnage à chercher l'aide d'aventuriers qui, en échange d'un arrangement bénéfique aux deux parties, fournissent à l'érudit la protection dont il a besoin pendant ses recherches loin de ses livres. En retour, il se révèle une source d'informations et une force de frappe magique non négligeables pour le groupe qui l'accompagne. Certains gardiens du savoir tournent en ridicule ceux d'entre eux qui craignent de quitter la sécurité de leur temple ou de leur bibliothèque, et soulignent qu'on ne trouve qu'un savoir ancien dans les livres. On ne peut acquérir de nouvelles connaissances qu'en les cherchant dans le monde. Ces érudits plus actifs ne dédaignent pas se joindre à un groupe d'aventuriers, satisfaits des connaissances qu'ils pourront récolter tout au long du voyage.
@@ -98,55 +54,11 @@ Au premier niveau et tous les deux niveaux ensuite (niveaux 3, 5, 7 et 9), le ga
 
 {s:Reference|TABLESECRETS}
 <center>
-{| CLASS="tablo"
-|+ Les secrets du gardien du savoir
-|- CLASS="titre"
-| Niveau   
-+ mod. Int
-| CLASS="gauche" | Secret
-| CLASS="gauche" | Effet
-|- CLASS="premier"
-| 1
-| CLASS="gauche" | Secret de maîtrise
-| CLASS="gauche" | Degré de maîtrise de 4 dans une [[compétences|compétence]]  
- que le personnage ne maîtrisait pas
-|- CLASS="alt"
-| 2
-| CLASS="gauche" | Secret de vitalité
-| CLASS="gauche" | [[Robustesse]]
-|-
-| 3
-| CLASS="gauche" | Secret de la force intérieure
-| CLASS="gauche" | +2 aux jets de [[Volonté]]
-|- CLASS="alt"
-| 4
-| CLASS="gauche" | Secret de la résistance physique
-| CLASS="gauche" | +2 aux jets de [[Vigueur]]
-|-
-| 5
-| CLASS="gauche" | Secret de la vivacité
-| CLASS="gauche" | +2 aux jets de [[Réflexes]]
-|- CLASS="alt"
-| 6
-| CLASS="gauche" | Secret du combat
-| CLASS="gauche" | +1 aux jets d’attaque
-|-
-| 7
-| CLASS="gauche" | Secret de l’esquive
-| CLASS="gauche" | Bonus d’esquive de +1 à la [[CA]]
-|- CLASS="alt"
-| 8
-| CLASS="gauche" | Savoir pratique
-| CLASS="gauche" | Don au choix
-|-
-| 9
-| CLASS="gauche" | Arcane secret
-| CLASS="gauche" | 1 sort en bonus du 1<sup>er</sup> niveau*
-|- CLASS="alt"
-| 10
-| CLASS="gauche" | Autre arcane secret
-| CLASS="gauche" | 1 sort en bonus du 2<sup>e</sup> niveau*
-|}
+
+<table CLASS="tablo"><caption>Les secrets du gardien du savoir</caption><tr CLASS="titre"><td>Niveau   
++ mod. Int</td><td CLASS="gauche">Secret</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">Secret de maîtrise</td><td CLASS="gauche">Degré de maîtrise de 4 dans une [[compétences|compétence]]  
+ que le personnage ne maîtrisait pas</td></tr><tr CLASS="alt"><td>2</td><td CLASS="gauche">Secret de vitalité</td><td CLASS="gauche">[[Robustesse]]</td></tr><tr><td>3</td><td CLASS="gauche">Secret de la force intérieure</td><td CLASS="gauche">+2 aux jets de [[Volonté]]</td></tr><tr CLASS="alt"><td>4</td><td CLASS="gauche">Secret de la résistance physique</td><td CLASS="gauche">+2 aux jets de [[Vigueur]]</td></tr><tr><td>5</td><td CLASS="gauche">Secret de la vivacité</td><td CLASS="gauche">+2 aux jets de [[Réflexes]]</td></tr><tr CLASS="alt"><td>6</td><td CLASS="gauche">Secret du combat</td><td CLASS="gauche">+1 aux jets d’attaque</td></tr><tr><td>7</td><td CLASS="gauche">Secret de l’esquive</td><td CLASS="gauche">Bonus d’esquive de +1 à la [[CA]]</td></tr><tr CLASS="alt"><td>8</td><td CLASS="gauche">Savoir pratique</td><td CLASS="gauche">Don au choix</td></tr><tr><td>9</td><td CLASS="gauche">Arcane secret</td><td CLASS="gauche">1 sort en bonus du 1<sup>er</sup> niveau*</td></tr><tr CLASS="alt"><td>10</td><td CLASS="gauche">Autre arcane secret</td><td CLASS="gauche">1 sort en bonus du 2<sup>e</sup> niveau*</td></tr></table>
+
 
 *(*) Équivalent à un sort en bonus offert par une caractéristique élevée.*
 </center>

@@ -33,52 +33,17 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon temporel
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon temporel]] || &nbsp; || 11
-|-
-| [[Dragon temporel adulte]] || &nbsp; || 15
-|-
-| [[Dragon temporel vénérable]] || &nbsp; || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon temporel</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon temporel]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon temporel adulte]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Dragon temporel vénérable]]</td><td>&nbsp;</td><td>20</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les écailles fissurées de ce dragon crépitent sous l’effet d’un pouvoir aussi patient que terrifiant. Certaines de ses cornes sont vieilles et fragiles tandis que d’autres sont neuves et immaculées.*
 
 Gardiens de l’Histoire, les dragons temporels sont les plus puissants de tous les dragons sidéraux. Ils veillent et attendent, protégeant l’univers contre tous ceux qui voudraient modifier l’ordre
 temporel.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet  || Immortel, immunité au froid, lire les fils || -
-|-
-| Très jeune || Détection de la magie (constant) ||   -
-|-
-| Jeune  || Partage des souvenirs || 1
-|-
-| Adolescent || Présence étrangère || 3
-|-
-| Jeune adulte || RD 5/magie, résistance à la magie || 5
-|-
-| Adulte || Clairaudience/clairvoyance || 7
-|-
-| Âge mûr || RD 10/magie || 9
-|-
-| Vieux || Localisation de créature, souffle de saut temporel || 11
-|-
-| Très vieux || RD 15/magie || 13
-|-
-| Vénérable || Seconde chance, mythes et légendes || 15
-|-
-| Dracosire || RD 20/magie || 17
-|-
-| Grand dracosire || Arrêt du temps (3/jour), voyage temporel || 19
-|-
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Immortel, immunité au froid, lire les fils</td><td>-</td></tr><tr><td>Très jeune</td><td>Détection de la magie (constant)</td><td>-</td></tr><tr><td>Jeune</td><td>Partage des souvenirs</td><td>1</td></tr><tr><td>Adolescent</td><td>Présence étrangère</td><td>3</td></tr><tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr><tr><td>Adulte</td><td>Clairaudience/clairvoyance</td><td>7</td></tr><tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr><tr><td>Vieux</td><td>Localisation de créature, souffle de saut temporel</td><td>11</td></tr><tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr><tr><td>Vénérable</td><td>Seconde chance, mythes et légendes</td><td>15</td></tr><tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr><tr><td>Grand dracosire</td><td>Arrêt du temps (3/jour), voyage temporel</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

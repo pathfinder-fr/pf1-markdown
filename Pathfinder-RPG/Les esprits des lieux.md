@@ -120,26 +120,10 @@ son effet cérémoniel (ou après une
 cérémonie ratée), l’esprit ne peut plus
 activer cet effet pendant 24 heures.
 
-{| CLASS="tablo centre autoalt"
-|+ 6-1 : modificateurs de FP pour les esprits des lieux
-|- CLASS="titre"
-| Type de pouvoir || Modificateur du FP
-|- CLASS="premier"
-| Cérémonie nécessitant plus d’un test de compétence || +1 par test supplémentaire
-|-
-| Effets permanents || +1 par effet permanent en plus du premier
-|-
-| Privé || -1
-|-
-| Coterie || +1
-|-
-| Difficile à soigner<sup>1</sup> || -1
-|-
-| Sensible à la corruption<sup>2</sup> || -1
-|- CLASS="note"
-| COLSPAN="2" | *(1) Les esprits des lieux difficiles à soigner récupèrent seulement la moitié des points de vie normaux lorsqu’ils bénéficient d’un effet restaurant les points de vie.  
-(2) Les esprits des lieux sensibles à la corruption perdent deux fois plus de points de vie que la normale suite à une action de corruption.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>6-1 : modificateurs de FP pour les esprits des lieux</caption><tr CLASS="titre"><td>Type de pouvoir</td><td>Modificateur du FP</td></tr><tr CLASS="premier"><td>Cérémonie nécessitant plus d’un test de compétence</td><td>+1 par test supplémentaire</td></tr><tr><td>Effets permanents</td><td>+1 par effet permanent en plus du premier</td></tr><tr><td>Privé</td><td>-1</td></tr><tr><td>Coterie</td><td>+1</td></tr><tr><td>Difficile à soigner<sup>1</sup></td><td>-1</td></tr><tr><td>Sensible à la corruption<sup>2</sup></td><td>-1</td></tr><tr CLASS="note"><td COLSPAN="2">*(1) Les esprits des lieux difficiles à soigner récupèrent seulement la moitié des points de vie normaux lorsqu’ils bénéficient d’un effet restaurant les points de vie.  
+(2) Les esprits des lieux sensibles à la corruption perdent deux fois plus de points de vie que la normale suite à une action de corruption.*</td></tr></table>
+
 
 ### La corruption
 On ne peut pas blesser un esprit des lieux comme on le
@@ -153,32 +137,9 @@ rapprochent de la corruption tandis que certains actes de
 bonté restaurent leurs points de vie et les protègent contre
 cette corruption.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|- CLASS="titre"
-| Acte  || Effet
-|- CLASS="premier"
-| Commettre un acte violent || pv réduits de 1
-|-
-| Commettre un meurtre || pv réduits de 1 par tranche de 3 DV de la victime (1 pv au minimum)
-|-
-| Lancer animation des morts || pv réduits de 1 par mort-vivant créé
-|-
-| Lancer création de mort-vivant ou création de mort-vivant dominant || pv réduits de 1 par niveau de sort lancé
-|-
-| Convocation d’un extérieur Mauvais || pv réduits de 1 par extérieur Mauvais invoqué
-|-
-| Appel d’un extérieur Mauvais || pv réduits de 1 par niveau du sort lancé
-|-
-| Lancer profanation || pv réduits de 2
-|-
-| Lancer sanctification maléfique || pv réduits de 4
-|-
-| Cérémonie de l’esprit des lieux réussie || Restaure 2 pv
-|-
-| Lancer consécration || Restaure 2 pv (au maximum une fois/jour)
-|-
-| Lancer sanctification || Restaure 4 pv
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>Acte</td><td>Effet</td></tr><tr CLASS="premier"><td>Commettre un acte violent</td><td>pv réduits de 1</td></tr><tr><td>Commettre un meurtre</td><td>pv réduits de 1 par tranche de 3 DV de la victime (1 pv au minimum)</td></tr><tr><td>Lancer animation des morts</td><td>pv réduits de 1 par mort-vivant créé</td></tr><tr><td>Lancer création de mort-vivant ou création de mort-vivant dominant</td><td>pv réduits de 1 par niveau de sort lancé</td></tr><tr><td>Convocation d’un extérieur Mauvais</td><td>pv réduits de 1 par extérieur Mauvais invoqué</td></tr><tr><td>Appel d’un extérieur Mauvais</td><td>pv réduits de 1 par niveau du sort lancé</td></tr><tr><td>Lancer profanation</td><td>pv réduits de 2</td></tr><tr><td>Lancer sanctification maléfique</td><td>pv réduits de 4</td></tr><tr><td>Cérémonie de l’esprit des lieux réussie</td><td>Restaure 2 pv</td></tr><tr><td>Lancer consécration</td><td>Restaure 2 pv (au maximum une fois/jour)</td></tr><tr><td>Lancer sanctification</td><td>Restaure 4 pv</td></tr></table>
+
 
 Si un esprit des lieux tombe à 0 point de vie, il est corrompu
 et se comporte alors comme une apparition (Guide du maître

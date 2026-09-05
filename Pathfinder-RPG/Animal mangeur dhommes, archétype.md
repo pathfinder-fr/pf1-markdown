@@ -40,11 +40,9 @@ TODO : La colère des Justes p.509
 Le seigneur démon des bêtes permet à ses fidèles les plus dévoués de changer des animaux ordinaires en mangeurs d'hommes grâce à un élixir magiques. Cet ichor appelé le *sang de Baphomet* est censé contenir un distillat de sauvagerie animale. Un prêtre de Baphomet peut accéder aux sorts requis grâce à ses domaines : [[forme bestiale III]] via le domaine de la [[domaine de la Faune|Faune]] ou de la [[domaine de la Faune|Fourrure]] et [[rage]] via le sous-domaine des [[Domaine du Chaos#SOUSDOMAINES|Démons]] ou de la [[Domaine de la Force#SOUSDOMAINES|férocité]].
 
 
-{| CLASS="tablo"
-|+ Sang de Baphomet
-|- CLASS="premier"
-| **Aura** : [[Transmutation]] modérée; **NLS** : 9 ; **Emplacement** aucun ; **Prix** : 2 250 po ; **Poids** -
-|}
+
+<table CLASS="tablo"><caption>Sang de Baphomet</caption><tr CLASS="premier"><td>**Aura** : [[Transmutation]] modérée; **NLS** : 9 ; **Emplacement** aucun ; **Prix** : 2 250 po ; **Poids** -</td></tr></table>
+
 La température de cet élexir rouge est toujours celle du sang frais. Une créature peut ingurgiter une bouchée de chair et boire ce liquide par une action simple.
 Si le buveur est un animal, il est [[étourdi]] pendant un round et doit réussir un jet de Volonté DD 17 pour ne pas acquérir définitivement l’archétype *mangeur d'hommes*. Si le *Sang de Baphomet* est consommé en même temps que de la chair d’humanoïde, l'animal ne peut pas faire de jet de sauvegarde.
 Si le buveur n'est pas un animal, il entre dans une rage frénétique comme s'il était sou l'effet d'un sort de [[rage]]; Il doit réussir un jet de Volonté DD 17 pour ne pas être [[confus]] tant que dure la rage. Si le *Sang de Baphomet* est bu tout en dévorant de la chair d’humanoïde (un acte Chaotique Mauvais), le buveur ne peut pas faire de jet de sauvegarde.

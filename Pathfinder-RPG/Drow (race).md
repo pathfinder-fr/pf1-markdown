@@ -100,48 +100,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:MR}Voici les options accessibles aux drows, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Démarche de laraignée (drow)|Démarche de l'araignée (drow)]]</td><td><sup>MR</sup></td><td>[[drow (race)|Drow]], [[niveau]] 3</td><td>le personnage peut utiliser *[[pattes daraignée|pattes d'araignée]]* une fois par jour</td></tr><tr CLASS="premier"><td>[[Frappe du fléau des anges]]</td><td><sup>CM</sup></td><td>[[Châtiment canalisé]], lanceur de sorts divins de niveau 5, capacité de classe [[Antipaladin#CANALISATIONDENERGIENEGATIVE|canalisation d'énergie négative]]</td><td>Améliore le châtiment sur les créatures Bonnes</td></tr><tr CLASS="premier"><td>[[Invocateur daraignées|Invocateur d'araignées]]</td><td><sup>MR</sup></td><td>[[drow (race)|Drow]], capacité de lancer les sorts *[[convocation de monstres]]* ou *[[convocation dalliés naturels|convocation d’alliés naturels]]*</td><td>le lanceur peut convoquer des araignées</td></tr><tr CLASS="premier"><td>[[Lanterne du sniper]]</td><td><sup>CM</sup></td><td>[[Tir à bout portant]], pouvoir magique racial *[[lumières dansantes]]*</td><td>Améliore *lumières dansantes* pour aider les attaques à distance</td></tr><tr CLASS="premier"><td>[[Linceul dombres|Linceul d'ombres]]</td><td><sup>CM</sup></td><td>[[Attaques réflexes]], pouvoir magique racial *[[ténèbres]]*</td><td>Créé une brume de ténèbres autour du personnage qui lui confère un camouflage</td></tr><tr CLASS="premier"><td>[[Mage ténébreux]]</td><td><sup>MR</sup></td><td>[[drow (race)|Drow]], niveau 1 de lanceur de sorts</td><td>Les sorts des registres [[Créer un sort#OMBRE|ombre]] et [[Créer un sort#TENEBRES|ténèbres]] durent plus longtemps</td></tr><tr CLASS="premier"><td>[[Noblesse drow]]</td><td><sup>MR</sup></td><td>[[drow (race)|Drow]]</td><td>*[[détection de la magie]]* à volonté, *[[feuille morte]]* et *[[lévitation]]* une fois par jour</td></tr><tr><td>&emsp;[[Science de la noblesse drow]]</td><td><sup>MR</sup></td><td>[[Noblesse drow]], [[Charisme]] 13</td><td>*[[lumières dansantes]]*, *[[lueur féerique]]*, *[[feuille morte]]* et *[[lévitation]]* et *[[ténèbres profondes]]* deux fois par jour,</td></tr><tr><td>&emsp;&emsp;[[Noblesse drow supérieure]]</td><td><sup>MR</sup></td><td>[[Science de la noblesse drow]]</td><td>utilisation accrue des pouvoirs magiques</td></tr><tr><td>&emsp;&emsp;&emsp;[[Fils de lombre|Fils de l’ombre]]</td><td><sup>MR</sup></td><td>[[Noblesse drow supérieure]], [[Sagesse]] 13</td><td>acquisition d'un pouvoir magique parmi *[[dissipation de la magie]]*, *[[faveur divine]]* ou *[[suggestion]]* utilisable une fois par jour</td></tr><tr><td>&emsp;&emsp;&emsp;&emsp;[[Fils de lombre supérieur|Fils de l’ombre supérieur]]</td><td><sup>MR</sup></td><td>[[Fils de lombre|Fils de l’ombre]]</td><td>*[[dissipation de la magie]]*, *[[faveur divine]]* et *[[suggestion]]* une fois par jour</td></tr><tr><td>&emsp;&emsp;&emsp;[[Noble résistance à la magie]]</td><td><sup>MR</sup></td><td>[[Noblesse drow supérieure]], [[niveau]] 13</td><td>[[Résistance à la magie]] 11+niveau du personnage</td></tr><tr CLASS="premier"><td>[[Ténèbres dégoulinantes]]</td><td><sup>*ISR*</sup></td><td>[[Drow (race)|Drow]], pouvoir magique racial *[[ténèbres]]*</td><td>Gain d'un camouflage de 20 % lorsqu'adjacent à un allié avec ce don</td></tr></table>
 
-|- CLASS="premier"
-| [[Démarche de laraignée (drow)|Démarche de l'araignée (drow)]] || <sup>MR</sup> || [[drow (race)|Drow]], [[niveau]] 3 || le personnage peut utiliser *[[pattes daraignée|pattes d'araignée]]* une fois par jour
-
-|- CLASS="premier"
-| [[Frappe du fléau des anges]] || <sup>CM</sup> || [[Châtiment canalisé]], lanceur de sorts divins de niveau 5, capacité de classe [[Antipaladin#CANALISATIONDENERGIENEGATIVE|canalisation d'énergie négative]] || Améliore le châtiment sur les créatures Bonnes
-
-|- CLASS="premier"
-| [[Invocateur daraignées|Invocateur d'araignées]] || <sup>MR</sup> || [[drow (race)|Drow]], capacité de lancer les sorts *[[convocation de monstres]]* ou *[[convocation dalliés naturels|convocation d’alliés naturels]]* || le lanceur peut convoquer des araignées
-
-|- CLASS="premier"
-| [[Lanterne du sniper]] || <sup>CM</sup> || [[Tir à bout portant]], pouvoir magique racial *[[lumières dansantes]]* || Améliore *lumières dansantes* pour aider les attaques à distance
-
-|- CLASS="premier"
-| [[Linceul dombres|Linceul d'ombres]] || <sup>CM</sup> || [[Attaques réflexes]], pouvoir magique racial *[[ténèbres]]* || Créé une brume de ténèbres autour du personnage qui lui confère un camouflage
-
-|- CLASS="premier"
-| [[Mage ténébreux]] || <sup>MR</sup> || [[drow (race)|Drow]], niveau 1 de lanceur de sorts || Les sorts des registres [[Créer un sort#OMBRE|ombre]] et [[Créer un sort#TENEBRES|ténèbres]] durent plus longtemps
-
-|- CLASS="premier"
-| [[Noblesse drow]] || <sup>MR</sup> || [[drow (race)|Drow]] || *[[détection de la magie]]* à volonté, *[[feuille morte]]* et *[[lévitation]]* une fois par jour
-|-
-| &emsp;[[Science de la noblesse drow]] || <sup>MR</sup> || [[Noblesse drow]], [[Charisme]] 13 || *[[lumières dansantes]]*, *[[lueur féerique]]*, *[[feuille morte]]* et *[[lévitation]]* et *[[ténèbres profondes]]* deux fois par jour,
-|-
-| &emsp;&emsp;[[Noblesse drow supérieure]] || <sup>MR</sup> || [[Science de la noblesse drow]] || utilisation accrue des pouvoirs magiques
-|-
-| &emsp;&emsp;&emsp;[[Fils de lombre|Fils de l’ombre]] || <sup>MR</sup> || [[Noblesse drow supérieure]], [[Sagesse]] 13 || acquisition d'un pouvoir magique parmi *[[dissipation de la magie]]*, *[[faveur divine]]* ou *[[suggestion]]* utilisable une fois par jour
-|-
-| &emsp;&emsp;&emsp;&emsp;[[Fils de lombre supérieur|Fils de l’ombre supérieur]] || <sup>MR</sup> || [[Fils de lombre|Fils de l’ombre]] || *[[dissipation de la magie]]*, *[[faveur divine]]* et *[[suggestion]]* une fois par jour
-|-
-| &emsp;&emsp;&emsp;[[Noble résistance à la magie]] || <sup>MR</sup> || [[Noblesse drow supérieure]], [[niveau]] 13 || [[Résistance à la magie]] 11+niveau du personnage
-
-|- CLASS="premier"
-| [[Ténèbres dégoulinantes]] || <sup>*ISR*</sup> || [[Drow (race)|Drow]], pouvoir magique racial *[[ténèbres]]* || Gain d'un camouflage de 20 % lorsqu'adjacent à un allié avec ce don
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

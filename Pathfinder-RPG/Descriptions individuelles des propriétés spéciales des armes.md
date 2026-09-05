@@ -809,30 +809,9 @@ Cette propriété spéciale peut uniquement être placée sur les armes de corps
 **Aura** [[Invocation]] modérée ; **NLS** 8 ; **Emplacement** [[Armes magiques|propriété d'arme]] ; **Prix** Bonus de +1 ; **Poids** —
 (((Description)))
 Une arme *traque-esprits* excelle contre les ennemis possédant le pouvoir de classe [[chaman#ESPRIT|esprit]] ou [[oracle#MYSTERE|mystère]] (mais elle n’a aucun effet contre un [[chaman]] ayant un lien temporaire avec l’esprit approprié grâce au pouvoir de classe [[chaman#ESPRITERRANT|esprit errant]] ou un effet similaire). Contre un ennemi désigné, le bonus d’altération de l’arme est augmenté de 2. Elle inflige également 2d6 points de dégâts supplémentaires contre ces ennemis. Quand l’arme est combinée à des pouvoirs comme [[Descriptions individuelles des propriétés spéciales des armes#Tueuse|tueuse]] ou [[Descriptions individuelles des propriétés spéciales des armes#Traque-sang|traque-sang]], l’augmentation du bonus d’altération apportée par ces pouvoirs ne se cumule pas mais le personnage rajoute 1d6 points de dégâts de plus aux dégâts supplémentaires de chaque pouvoir au-delà du premier. (Par exemple, une arme *tueuse traque-esprits* inflige 3d6 points de dégâts supplémentaires tandis qu’une arme *tueuse traque-esprits traque-sang* inflige 4d6 points de dégâts supplémentaires.) Pour déterminer aléatoirement l’ennemi désigné d’une arme, faites un jet dans la table qui suit. Il est possible de désigner d’autres ennemis mais la plupart de ces armes sont harmonisées contre les créatures ayant les mystères ou les esprits suivants.
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| 1d100 || Esprit ou mystère désigné
-|- CLASS="premier"
-| 01–10 || Batailles
-|-
-| 11–20 || Os
-|-
-| 21–30 || Flammes
-|-
-| 31-40 || Cieux
-|-
-| 41-50 || Vie
-|-
-| 51–60 || Savoir
-|-
-| 61-70 || Nature
-|-
-| 71-80 || Pierre
-|-
-| 81-90 || Vagues
-|-
-| 91-100 || Vent
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>1d100</td><td>Esprit ou mystère désigné</td></tr><tr CLASS="premier"><td>01–10</td><td>Batailles</td></tr><tr><td>11–20</td><td>Os</td></tr><tr><td>21–30</td><td>Flammes</td></tr><tr><td>31-40</td><td>Cieux</td></tr><tr><td>41-50</td><td>Vie</td></tr><tr><td>51–60</td><td>Savoir</td></tr><tr><td>61-70</td><td>Nature</td></tr><tr><td>71-80</td><td>Pierre</td></tr><tr><td>81-90</td><td>Vagues</td></tr><tr><td>91-100</td><td>Vent</td></tr></table>
+
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[convocation dalliés naturels I|convocation d’alliés naturels I]]* ; **Coût** Bonus de +1
 </div>
@@ -843,34 +822,9 @@ Une arme *traque-esprits* excelle contre les ennemis possédant le pouvoir de cl
 **Aura** [[Invocation]] modérée ; **NLS** 8 ; **Emplacement** [[Armes magiques|propriété d'arme]] ; **Prix** Bonus de +1 ; **Poids** —
 (((Description)))
 Une arme traque-sang excelle contre les ennemis possédant le pouvoir de classe [[ensorceleur#LIGNAGE|lignage]]. Contre un ennemi désigné, le bonus d’altération de l’arme est augmenté de 2. Elle inflige également 2d6 points de dégâts supplémentaires contre ces ennemis. Quand l’arme est combinée à des pouvoirs comme [[Descriptions individuelles des propriétés spéciales des armes#Tueuse|tueuse]] ou [[Descriptions individuelles des propriétés spéciales des armes#Traque-esprits|traque-esprits]], l’augmentation du bonus d’altération apportée par ces pouvoirs ne se cumule pas mais le personnage rajoute 1d6 points de dégâts de plus aux dégâts supplémentaires de chaque pouvoir au-delà du premier. (Par exemple, une arme *tueuse traque-sang* inflige 3d6 points de dégâts supplémentaires tandis qu’une arme *tueuse traque-esprits traque-sang* inflige 4d6 points de dégâts supplémentaires.) Pour déterminer aléatoirement l’ennemi désigné d’une arme, faites un jet dans la table qui suit. Il est possible de désigner d’autres ennemis mais la plupart de ces armes sont harmonisées contre les créatures ayant les lignages suivants.
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| 1d100 || Lignage désigné
-|- CLASS="premier"
-| 01–05 || Aberrant
-|-
-| 06–15 || Abyssal
-|-
-| 16–30 || Profane
-|-
-| 31–35 || Céleste
-|-
-| 36-40 || Voué à un grand destin
-|-
-| 41–50 || Draconique
-|-
-| 51-60 || Élémentaire
-|-
-| 61-70 || Féerique
-|-
-| 71-80 || Infernal
-|-
-| 81-90 || Mort-vivant
-|-
-| 91-95 || Autre
-|-
-| 96-100 || Tous
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>1d100</td><td>Lignage désigné</td></tr><tr CLASS="premier"><td>01–05</td><td>Aberrant</td></tr><tr><td>06–15</td><td>Abyssal</td></tr><tr><td>16–30</td><td>Profane</td></tr><tr><td>31–35</td><td>Céleste</td></tr><tr><td>36-40</td><td>Voué à un grand destin</td></tr><tr><td>41–50</td><td>Draconique</td></tr><tr><td>51-60</td><td>Élémentaire</td></tr><tr><td>61-70</td><td>Féerique</td></tr><tr><td>71-80</td><td>Infernal</td></tr><tr><td>81-90</td><td>Mort-vivant</td></tr><tr><td>91-95</td><td>Autre</td></tr><tr><td>96-100</td><td>Tous</td></tr></table>
+
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[convocation de monstres I]]* ; **Coût** Bonus de +1
 </div>
@@ -908,36 +862,9 @@ Un personnage peut appliquer plusieurs propriétés spéciales <u>*[[tueuse (pro
 Si un personnage a plusieurs effets *tueur* sur une arme et attaque une créature contre laquelle plusieurs *tueurs* s’appliquent (comme une arme *tueuse d’extérieurs chaotiques et mauvais* utilisée contre un démon), les effets ne se cumulent pas : le bonus d’altération de l’arme est seulement supérieur de +2 par rapport à son bonus d’altération réel, et elle n’inflige que +2d6 points de dégâts supplémentaires contre cet adversaire.
 
 (Comparez cela à l’[[Guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] du guerrier ou les bonus d’[[Rôdeur#ENNEMIJURE|ennemis jurés]] du rôdeur, les deux indiquent que le personnage utilise le bonus le plus élevé si plusieurs bonus s’appliquent.)}Une arme *tueuse* est particulièrement efficace contre un type ou un sous-type de créature donné. Contre ses adversaires désignés, son bonus d’altération augmente de +2. De plus, lors d’une attaque réussie, l’arme inflige 2d6 points de dégâts supplémentaires contre ses adversaires désignés. Pour déterminer aléatoirement le type de créatures désigné d’une arme *tueuse*, jetez 1d100 et consultez la table suivante.
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| 1d100 || Type désigné
-|- CLASS="premier"
-| 01–05 || Aberrations
-|-
-| 06–09 || Animaux
-|-
-| 10–16 || Créatures artificielles
-|-
-| 17–22 || Dragons
-|-
-| 23–27 || Fées
-|-
-| 28–60 || Humanoïdes (choisir un sous-type)
-|-
-| 61–65 || Créatures magiques
-|-
-| 66-70 || Humanoïdes monstrueux
-|-
-| 71-72 || Vases
-|-
-| 73-88 || Extérieurs (choisir un sous-type)
-|-
-| 89-90 || Plantes
-|-
-| 91-98 || Morts-vivants
-|-
-| 99-100 || Vermines
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>1d100</td><td>Type désigné</td></tr><tr CLASS="premier"><td>01–05</td><td>Aberrations</td></tr><tr><td>06–09</td><td>Animaux</td></tr><tr><td>10–16</td><td>Créatures artificielles</td></tr><tr><td>17–22</td><td>Dragons</td></tr><tr><td>23–27</td><td>Fées</td></tr><tr><td>28–60</td><td>Humanoïdes (choisir un sous-type)</td></tr><tr><td>61–65</td><td>Créatures magiques</td></tr><tr><td>66-70</td><td>Humanoïdes monstrueux</td></tr><tr><td>71-72</td><td>Vases</td></tr><tr><td>73-88</td><td>Extérieurs (choisir un sous-type)</td></tr><tr><td>89-90</td><td>Plantes</td></tr><tr><td>91-98</td><td>Morts-vivants</td></tr><tr><td>99-100</td><td>Vermines</td></tr></table>
+
 (((Création)))
 **Conditions** [[Création darmes et armures magiques|Création d’armes et armures magiques]], *[[convocation de monstres I]]* ; **Coût** Bonus de +1
 </div>

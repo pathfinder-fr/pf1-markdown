@@ -25,28 +25,9 @@ Le personnage attrape une créature par télékinésie et s'en sert pour martele
 
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Taille de la créature  || Dégâts infligés
-|- CLASS="premier"
-| Infime || 1d4
-|-
-| Minuscule || 1d6
-|-
-| Très petite || 1d8
-|-
-| Petite || 1d10
-|-
-| Moyenne || 2d6
-|-
-| Grande || 2d8
-|-
-| Très grande || 2d10
-|-
-| Gigantesque || 3d6
-|-
-| Colossale || 3d8
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Taille de la créature</td><td>Dégâts infligés</td></tr><tr CLASS="premier"><td>Infime</td><td>1d4</td></tr><tr><td>Minuscule</td><td>1d6</td></tr><tr><td>Très petite</td><td>1d8</td></tr><tr><td>Petite</td><td>1d10</td></tr><tr><td>Moyenne</td><td>2d6</td></tr><tr><td>Grande</td><td>2d8</td></tr><tr><td>Très grande</td><td>2d10</td></tr><tr><td>Gigantesque</td><td>3d6</td></tr><tr><td>Colossale</td><td>3d8</td></tr></table>
+
 </center>
 
 La créature cible peut faire un jet de [[Vigueur]] à chaque fois que le personnage tente de s'en servir comme arme. Si elle réussit son [[jet de sauvegarde]], elle peut agir normalement mais si elle rate son jet, elle perd toutes ses actions du [[round]] et finit son tour [[à terre|par terre]] dans une case adjacente à la cible que le personnage a attaquée. Cependant, si la créature choisit de résister aux efforts que le personnage fait pour la déplacer et n'entreprend pas d'autres actions pour le round, elle reçoit un bonus de circonstances de +4 aux [[jet de sauvegarde|jets de sauvegarde]]. Le sort se termine immédiatement si la créature meurt ou si elle est détruite.

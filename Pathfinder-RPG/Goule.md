@@ -44,31 +44,9 @@ Categories:
 {s:ImageCentre|Bestiaire/Goule_img.jpg|90%}
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de goule
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chauve-souris aile de suie]] || 1/2
-|-
-| [[Molosse goule]] || 1
-|-
-| [[Goule]] || 1
-|-
-| [[Goule sournoise]] || 3
-|-
-| [[Goule traqueuse]] || 6
-|-
-| [[Grand-veneur goule]] || 7
-|-
-| [[Assassin masqué]] || 8
-|-
-| [[Commandant goule]] || 8
-|-
-| [[Antique fossoyeur]] || 10
-|-
-| [[Monarque goule]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de goule</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris aile de suie]]</td><td>1/2</td></tr><tr><td>[[Molosse goule]]</td><td>1</td></tr><tr><td>[[Goule]]</td><td>1</td></tr><tr><td>[[Goule sournoise]]</td><td>3</td></tr><tr><td>[[Goule traqueuse]]</td><td>6</td></tr><tr><td>[[Grand-veneur goule]]</td><td>7</td></tr><tr><td>[[Assassin masqué]]</td><td>8</td></tr><tr><td>[[Commandant goule]]</td><td>8</td></tr><tr><td>[[Antique fossoyeur]]</td><td>10</td></tr><tr><td>[[Monarque goule]]</td><td>12</td></tr></table>
+
 </div>*Cette créature humanoïde possède de longues dents acérées et sa peau pâle semble avoir été étirée autour d’un corps affamé.*
 
 Les goules sont des morts-vivants qui hantent les cimetières et dévorent les cadavres. Selon certaines légendes, les premières goules auraient été des humains cannibales revenus de la mort à cause de leurs appétits contre nature. D’autres parlent plutôt d’humains qui se seraient repus en dévorant les cadavres en putréfaction de leurs frères puis qui seraient
@@ -119,27 +97,9 @@ Cette section présente un lignage d’ensorceleur ainsi que des dons et des sor
 #### Dons
 Voici quelques dons offrant de nouvelles perspectives aux goules.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Cadavre de compagnie]]</td><td><sup>CM</sup></td><td>Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[goule]]</td><td>Gain d'un compagnon animal mort-vivant</td></tr><tr CLASS="premier"><td>[[Creuseur de terrier]]</td><td><sup>CM</sup></td><td>[[Goule]]</td><td>Gain d'une vitesse de creusement</td></tr><tr><td>&emsp;[[Dormeur]]</td><td><sup>CM</sup></td><td>[[Creuseur de terrier]], [[goule]]</td><td>Gain du pouvoir guérison accélérée près de terre ou de pierre</td></tr><tr><td>&emsp;&emsp;[[Vieux comme la poussière]]</td><td><sup>CM</sup></td><td>[[Dormeur]], [[Creuseur de terrier]], avoir été une [[goule]] pendant au moins 500 ans</td><td>Empêche de mourir sauf si le corps est complètement détruit</td></tr><tr CLASS="premier"><td>[[Sac dos|Sac d'os]]</td><td><sup>CM</sup></td><td>[[Goule]]</td><td>Bonus aux jets tests d'Évasion. Considéré comme d'une taille inférieure pour se faufiler</td></tr></table>
 
-|- CLASS="premier"
-| [[Cadavre de compagnie]] || <sup>CM</sup> || Capacité de classe [[Chasseur#COMPAGNONANIMAL|compagnon animal]], [[goule]] || Gain d'un compagnon animal mort-vivant
-
-|- CLASS="premier"
-| [[Creuseur de terrier]] || <sup>CM</sup> || [[Goule]] || Gain d'une vitesse de creusement
-|-
-| &emsp;[[Dormeur]] || <sup>CM</sup> || [[Creuseur de terrier]], [[goule]] || Gain du pouvoir guérison accélérée près de terre ou de pierre
-|-
-| &emsp;&emsp;[[Vieux comme la poussière]] || <sup>CM</sup> || [[Dormeur]], [[Creuseur de terrier]], avoir été une [[goule]] pendant au moins 500 ans || Empêche de mourir sauf si le corps est complètement détruit
-
-|- CLASS="premier"
-| [[Sac dos|Sac d'os]] || <sup>CM</sup> || [[Goule]] || Bonus aux jets tests d'Évasion. Considéré comme d'une taille inférieure pour se faufiler
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Lignages d'ensorceleur

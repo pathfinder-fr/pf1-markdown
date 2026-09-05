@@ -33,51 +33,17 @@ suivants lorsqu’il atteint la catégorie d’âge indiquée : adolescent – *
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon éthéré
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Jeune dragon éthéré]] || 7
-|-
-| [[Dragon éthéré adulte]] || 11
-|-
-| [[Dragon éthéré vénérable]] || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon éthéré</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon éthéré]]</td><td>7</td></tr><tr><td>[[Dragon éthéré adulte]]</td><td>11</td></tr><tr><td>[[Dragon éthéré vénérable]]</td><td>16</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Les ombres et l’obscurité semblent plus épaisses autour des ailes dépenaillées de ce dragon silencieux.*
 
 Les dragons éthérés sont des créatures pragmatiques qui cherchent avant tout à survivre dans les secteurs les plus éloignés du plan Éthéré.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || attaques spectrales, [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]] || —
-|- CLASS="alt"
-| Très jeune || [[Compression (capacité)|compression]] || —
-|-
-| Jeune || dévoreur d'âmes || —
-|- CLASS="alt"
-| Adolescent || [[Magie psychique (capacité)|magie psychique]], [[Présence terrifiante (capacité)|présence terrifiante]] || 1
-|-
-| Jeune adulte || [[RD]] 5/magie || 3
-|- CLASS="alt"
-| Adulte || déplacement fantomatique || 5
-|-
-| Âge mûr || [[RD]] 10/magie || 7
-|- CLASS="alt"
-| Vieux || attaques spectrales, [[Magie psychique (capacité)|magie psychique]] || 9
-|-
-| Très vieux || [[RD]] 15/magie || 11
-|- CLASS="alt"
-| Vénérable || souffle tombal || 13
-|-
-| Dracosire || [[RD]] 20/magie || 15
-|- CLASS="alt"
-| Grand dracosire || maîtrise psychique || 17
-|}</center>
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>attaques spectrales, [[Vision dans les ténèbres (capacité)|vision dans les ténèbres]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>[[Compression (capacité)|compression]]</td><td>—</td></tr><tr><td>Jeune</td><td>dévoreur d'âmes</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>[[Magie psychique (capacité)|magie psychique]], [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>déplacement fantomatique</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>attaques spectrales, [[Magie psychique (capacité)|magie psychique]]</td><td>9</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>souffle tombal</td><td>13</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>maîtrise psychique</td><td>17</td></tr></table></center>
+
 </div>
 
 </td></tr></table>

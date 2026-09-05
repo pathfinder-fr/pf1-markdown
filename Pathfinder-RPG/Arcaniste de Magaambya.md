@@ -12,53 +12,9 @@ Categories:
 L'aspect le plus surprenant des techniques magiques des arcanistes de l'académie du Vieux-Mage est leur façon d'interpréter et d'utiliser la magie druidique comme un pouvoir profane. Cette combinaison étrange permet à l'arcaniste de l'académie du Vieux-Mage d'avoir accès à une versatilité incroyable dans ses études, car les secrets de la magie druidique dépassent normalement l'entendement des lanceurs de sorts profanes. Pourtant, l'arcaniste de l'académie du Vieux-Mage ne se contente pas de simplement copier la magie du monde naturel – il la développe. Il respecte simultanément les traditions dont la magie vient, tout en l'explorant d'une manière que les druides - qui voient leur magie comme une conséquence de leur foi – considèrent rarement. La méthode de conversion des sorts druidiques est malgré tout éprouvante pour l'esprit de l'arcaniste de l'académie du Vieux-Mage, et puisque chaque arcaniste de l'académie du Vieux-Mage doit créer ses propres traductions, l'académie n'a pas rendu les versions profanes des sorts druidiques disponibles à tous les lanceurs de sorts profanes. En fait, la plupart des élèves de l'académie du Vieux-Mage s'opposent à une telle attitude, car bien qu'ils soient intrigués par cette magie, ils respectent les traditions et ne veulent pas voir ces secrets révélés à ceux qui ne pourraient pas les respecter.''
 
 <center>
-{| CLASS="tablo"
-|+ Arcaniste de l'académie du Vieux-Mage
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Arcaniste de Magaambya#AURADEBIEN|Aura de Bien]], [[Arcaniste de Magaambya#MAGIEDELACYON|magie de l'alcyon]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Arcaniste de Magaambya#MAITRISESUPERIEUREDESSORTS|Maîtrise supérieure des sorts]], [[Arcaniste de Magaambya#SORTSVERTUEUX|sorts vertueux]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[Arcaniste de Magaambya#SOUVENIRPSALMODIE|Souvenir psalmodié]] (1 minute), [[Arcaniste de Magaambya#BONTEDURABLE|bonté durable]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Arcaniste de Magaambya#MAITRISESPONTANEEDESSOSRTS|Maîtrise spontanée des sorts]] (1/jour)
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Arcaniste de Magaambya#PROTECTIONBENIE|Protection bénie]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Arcaniste de Magaambya#MAITRISEIMMEDIATEDESSORTS|Maîtrise immédiate des sorts]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Arcaniste de Magaambya#CONTRAVENTIONMORALISATRICE|Contravention moralisatrice]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|- CLASS="alt"
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Arcaniste de Magaambya#MAITRISESPONTANEEDESSOSRTS|Maîtrise spontanée des sorts]] (2/jour)
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Arcaniste de Magaambya#ARCANESAINTE|Arcane sainte]], [[Arcaniste de Magaambya##SOUVENIRPSALMODIE|Souvenir psalmodié]] (Complexe)
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Arcaniste de Magaambya#GARDIENALTRUISTE|Gardien altruiste]], [[Arcaniste de Magaambya#ETERNELLEJEUNESSE|éternelle jeunesse]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|}
+
+<table CLASS="tablo"><caption>Arcaniste de l'académie du Vieux-Mage</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Arcaniste de Magaambya#AURADEBIEN|Aura de Bien]], [[Arcaniste de Magaambya#MAGIEDELACYON|magie de l'alcyon]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Arcaniste de Magaambya#MAITRISESUPERIEUREDESSORTS|Maîtrise supérieure des sorts]], [[Arcaniste de Magaambya#SORTSVERTUEUX|sorts vertueux]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Arcaniste de Magaambya#SOUVENIRPSALMODIE|Souvenir psalmodié]] (1 minute), [[Arcaniste de Magaambya#BONTEDURABLE|bonté durable]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Arcaniste de Magaambya#MAITRISESPONTANEEDESSOSRTS|Maîtrise spontanée des sorts]] (1/jour)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Arcaniste de Magaambya#PROTECTIONBENIE|Protection bénie]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Arcaniste de Magaambya#MAITRISEIMMEDIATEDESSORTS|Maîtrise immédiate des sorts]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Arcaniste de Magaambya#CONTRAVENTIONMORALISATRICE|Contravention moralisatrice]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Arcaniste de Magaambya#MAITRISESPONTANEEDESSOSRTS|Maîtrise spontanée des sorts]] (2/jour)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Arcaniste de Magaambya#ARCANESAINTE|Arcane sainte]], [[Arcaniste de Magaambya##SOUVENIRPSALMODIE|Souvenir psalmodié]] (Complexe)</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Arcaniste de Magaambya#GARDIENALTRUISTE|Gardien altruiste]], [[Arcaniste de Magaambya#ETERNELLEJEUNESSE|éternelle jeunesse]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d6.

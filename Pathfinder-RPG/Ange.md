@@ -10,29 +10,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux anges
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Balisse]] || 8
-|-
-| [[Cassisien]] || 2
-|-
-| [[Choral]] || 6
-|-
-| [[Déva astral]] || 14
-|-
-| [[Déva monadique]] || 12
-|-
-| [[Déva movanique]] || 10
-|-
-| [[Empyréen]] || 20
-|-
-| [[Planétar]] || 16
-|-
-| [[Solar]] || 23
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux anges</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Balisse]]</td><td>8</td></tr><tr><td>[[Cassisien]]</td><td>2</td></tr><tr><td>[[Choral]]</td><td>6</td></tr><tr><td>[[Déva astral]]</td><td>14</td></tr><tr><td>[[Déva monadique]]</td><td>12</td></tr><tr><td>[[Déva movanique]]</td><td>10</td></tr><tr><td>[[Empyréen]]</td><td>20</td></tr><tr><td>[[Planétar]]</td><td>16</td></tr><tr><td>[[Solar]]</td><td>23</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire p.11.</div>
 *Types/Sous-types associés. [[type Extérieur|Extérieur]] ([[sous-type ange|ange]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]])*
 <nav class="wiki-toc"></nav>

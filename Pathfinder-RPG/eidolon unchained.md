@@ -12,80 +12,16 @@ Categories:
 Les pouvoirs de l’eidolon dépendent du niveau de son conjurateur et de ses choix quant à l’utilisation des points de sa réserve d’évolution. La table ci-dessous  détermine bon nombre des statistiques de base de la créature. Chacun possède une forme basique qui modifie ces statistiques. Les eidolons sont considérés comme des extérieurs quand il s’agit de déterminer si un sort les affecte ou non.
 
 <center>
-{| CLASS="tablo"
-|+ {s:Reference|PROFILDEBASEDELEIDOLON}Profil de base de l'eidolon unchained
-|- CLASS="titre"
-| Niveau  
-de classe || DV || BBA || Bons  
-jets || Mauvais  
-jets || Comp. || Dons || Bonus  
-d'armure || Bonus  
-For/Dex || Réserve  
-d'évolution || Attaques  
-max
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || 1 || +1 || +2 || +0 || 4 || 1 || +0 || +0 || 1 || 3
-| CLASS="gauche" | [[eidolon unchained#LIEN|lien]], [[eidolon unchained#TRANSFERTDESSORTS|transfert des sorts]], [[eidolon unchained#VISIONDANSLENOIR|vision dans le noir]]
-|- CLASS="alt"
-| 2 || 2 || +2 || +3 || +0 || 8 || 1 || +2 || +1 || 2 || 3
-| CLASS="gauche" | [[eidolon unchained #ESQUIVETOTALE|esquive totale]]
-|-
-| 3 || 3 || +3 || +3 || +1 || 12 || 2 || +2 || +1 || 3 || 3
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 4 || 3 || +3 || +3 || +1 || 12 || 2 || +2 || +1 || 3 || 4
-| CLASS="gauche" | —
-|-
-| 5 || 4 || +4 || +4 || +1 || 16 || 2 || +4 || +2 || 4 || 4
-| CLASS="gauche" | [[eidolon unchained#AUGMENTATIONDUNECARACTERISTIQUE|augmentation d'une caractéristique]]
-|- CLASS="alt"
-| 6 || 5 || +5 || +4 || +1 || 20 || 3 || +4 || +2 || 5 || 4
-| CLASS="gauche" | [[eidolon unchained#DEVOTION|dévotion]]
-|-
-| 7 || 6 || +6 || +5 || +2 || 24 || 3 || +6 || +3 || 6 || 4
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 8 || 6 || +6 || +5 || +2 || 24 || 3 || +6 || +3 || 6 || 4
-| CLASS="gauche" | —
-|-
-| 9 || 7 || +7 || +5 || +2 || 28 || 4 || +6 || +3 || 7 || 5
-| CLASS="gauche" | [[eidolon unchained#ATTAQUESMULTIPLES|attaques multiples]]
-|- CLASS="alt"
-| 10 || 8 || +8 || +6 || +2 || 32 || 4 || +8 || +4 || 8 || 5
-| CLASS="gauche" | [[eidolon unchained#AUGMENTATIONDUNECARACTERISTIQUE|augmentation d'une caractéristique]]
-|-
-| 11 || 9 || +9 || +6 || +3 || 36 || 5 || +8 || +4 || 9 || 5
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 12 || 9 || +9 || +6 || +3 || 36 || 5 || +10 || +5 || 9 || 5
-| CLASS="gauche" | —
-|-
-| 13 || 10 || +10 || +7 || +3 || 40 || 5 || +10 || +5 || 10 || 5
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 14 || 11 || +11 || +7 || +3 || 44 || 6 || +10 || +5 || 11 || 6
-| CLASS="gauche" | [[eidolon unchained#ESQUIVESURNATURELLE|esquive surnaturelle]]
-|-
-| 15 || 12 || +12 || +8 || +4 || 48 || 6 || +12 || +6 || 12 || 6
-| CLASS="gauche" | [[eidolon unchained#AUGMENTATIONDUNECARACTERISTIQUE|augmentation d'une caractéristique]]
-|- CLASS="alt"
-| 16 || 12 || +12 || +8 || +4 || 48 || 6 || +12 || +6 || 12 || 6
-| CLASS="gauche" | —
-|-
-| 17 || 13 || +13 || +8 || +4 || 52 || 7 || +14 || +7 || 13 || 6
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 18 || 14 || +14 || +9 || +4 || 56 || 7 || +14 || +7 || 14 || 6
-| CLASS="gauche" | —
-|-
-| 19 || 15 || +15 || +9 || +5 || 60 || 8 || +14 || +7 || 15 || 7
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 20 || 15 || +15 || +9 || +5 || 60 || 8 || +16 || +8 || 15 || 7
-| CLASS="gauche" | —
-|-
-|}
+
+<table CLASS="tablo"><caption>{s:Reference|PROFILDEBASEDELEIDOLON}Profil de base de l'eidolon unchained</caption><tr CLASS="titre"><td>Niveau  
+de classe</td><td>DV</td><td>BBA</td><td>Bons  
+jets</td><td>Mauvais  
+jets</td><td>Comp.</td><td>Dons</td><td>Bonus  
+d'armure</td><td>Bonus  
+For/Dex</td><td>Réserve  
+d'évolution</td><td>Attaques  
+max</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>+1</td><td>+2</td><td>+0</td><td>4</td><td>1</td><td>+0</td><td>+0</td><td>1</td><td>3</td><td CLASS="gauche">[[eidolon unchained#LIEN|lien]], [[eidolon unchained#TRANSFERTDESSORTS|transfert des sorts]], [[eidolon unchained#VISIONDANSLENOIR|vision dans le noir]]</td></tr><tr CLASS="alt"><td>2</td><td>2</td><td>+2</td><td>+3</td><td>+0</td><td>8</td><td>1</td><td>+2</td><td>+1</td><td>2</td><td>3</td><td CLASS="gauche">[[eidolon unchained #ESQUIVETOTALE|esquive totale]]</td></tr><tr><td>3</td><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>12</td><td>2</td><td>+2</td><td>+1</td><td>3</td><td>3</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>+3</td><td>+3</td><td>+1</td><td>12</td><td>2</td><td>+2</td><td>+1</td><td>3</td><td>4</td><td CLASS="gauche">—</td></tr><tr><td>5</td><td>4</td><td>+4</td><td>+4</td><td>+1</td><td>16</td><td>2</td><td>+4</td><td>+2</td><td>4</td><td>4</td><td CLASS="gauche">[[eidolon unchained#AUGMENTATIONDUNECARACTERISTIQUE|augmentation d'une caractéristique]]</td></tr><tr CLASS="alt"><td>6</td><td>5</td><td>+5</td><td>+4</td><td>+1</td><td>20</td><td>3</td><td>+4</td><td>+2</td><td>5</td><td>4</td><td CLASS="gauche">[[eidolon unchained#DEVOTION|dévotion]]</td></tr><tr><td>7</td><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>24</td><td>3</td><td>+6</td><td>+3</td><td>6</td><td>4</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>8</td><td>6</td><td>+6</td><td>+5</td><td>+2</td><td>24</td><td>3</td><td>+6</td><td>+3</td><td>6</td><td>4</td><td CLASS="gauche">—</td></tr><tr><td>9</td><td>7</td><td>+7</td><td>+5</td><td>+2</td><td>28</td><td>4</td><td>+6</td><td>+3</td><td>7</td><td>5</td><td CLASS="gauche">[[eidolon unchained#ATTAQUESMULTIPLES|attaques multiples]]</td></tr><tr CLASS="alt"><td>10</td><td>8</td><td>+8</td><td>+6</td><td>+2</td><td>32</td><td>4</td><td>+8</td><td>+4</td><td>8</td><td>5</td><td CLASS="gauche">[[eidolon unchained#AUGMENTATIONDUNECARACTERISTIQUE|augmentation d'une caractéristique]]</td></tr><tr><td>11</td><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>36</td><td>5</td><td>+8</td><td>+4</td><td>9</td><td>5</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>12</td><td>9</td><td>+9</td><td>+6</td><td>+3</td><td>36</td><td>5</td><td>+10</td><td>+5</td><td>9</td><td>5</td><td CLASS="gauche">—</td></tr><tr><td>13</td><td>10</td><td>+10</td><td>+7</td><td>+3</td><td>40</td><td>5</td><td>+10</td><td>+5</td><td>10</td><td>5</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>14</td><td>11</td><td>+11</td><td>+7</td><td>+3</td><td>44</td><td>6</td><td>+10</td><td>+5</td><td>11</td><td>6</td><td CLASS="gauche">[[eidolon unchained#ESQUIVESURNATURELLE|esquive surnaturelle]]</td></tr><tr><td>15</td><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>48</td><td>6</td><td>+12</td><td>+6</td><td>12</td><td>6</td><td CLASS="gauche">[[eidolon unchained#AUGMENTATIONDUNECARACTERISTIQUE|augmentation d'une caractéristique]]</td></tr><tr CLASS="alt"><td>16</td><td>12</td><td>+12</td><td>+8</td><td>+4</td><td>48</td><td>6</td><td>+12</td><td>+6</td><td>12</td><td>6</td><td CLASS="gauche">—</td></tr><tr><td>17</td><td>13</td><td>+13</td><td>+8</td><td>+4</td><td>52</td><td>7</td><td>+14</td><td>+7</td><td>13</td><td>6</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>18</td><td>14</td><td>+14</td><td>+9</td><td>+4</td><td>56</td><td>7</td><td>+14</td><td>+7</td><td>14</td><td>6</td><td CLASS="gauche">—</td></tr><tr><td>19</td><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>60</td><td>8</td><td>+14</td><td>+7</td><td>15</td><td>7</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>20</td><td>15</td><td>+15</td><td>+9</td><td>+5</td><td>60</td><td>8</td><td>+16</td><td>+8</td><td>15</td><td>7</td><td CLASS="gauche">—</td></tr></table>
+
 </center>
 
 <div style="background-color: #fff; float: right; padding: 0 0 12px 12px"><nav class="wiki-toc"></nav></div>

@@ -89,48 +89,5 @@ A moins que le personnage soit un demi-orque, auquel cas il prendra fate's favor
 
 *Avec NLS*
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du *nom du build*
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS (pal/cham) || Dons, capacités de classe
-|- CLASS="premier"
-| 01 || Paladin 1 || +1 || - || [Fey foundling](http://www.d20pfsrd.com/feats/general-feats/fey-foundling)
-|-
-| 02 || Paladin 2 || +2 || - || &nbsp;
-|-
-| 03 || Paladin 3 || +3 || - || [[Pathfinder-RPG.Grâce supérieure.ashx|Grâce supérieure]]
-|-
-| 04 || Chaman 1 || +3 || -/1 || &nbsp;
-|-
-| 05 || Chaman 2 || +4 || -/2 || [Boon companion](http://www.d20pfsrd.com/feats/general-feats/boon-companion/)
-|-
-| 06 || Chaman 3 || +5 || -/3 || &nbsp;
-|-
-| 07 || Paladin 4 || +6 || 1/3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
-|-
-| 08 || Paladin 5 || +7 || 2/3 || &nbsp;
-|-
-| 09 || Paladin 6 || +8 || 3/3 || [[Pathfinder-RPG.Imposition des mains supplémentaire.ashx|Imposition des mains supplémentaire]]
-|-
-| 10 || Paladin 7 || +9 || 4/3 || &nbsp;
-|-
-| 11 || Paladin 8 || +10 || 5/3 || &nbsp;
-|-
-| 12 || Paladin 9 || +11 || 6/3 || &nbsp;
-|-
-| 13 || Paladin 10 || +12 || 7/3 || &nbsp;
-|-
-| 14 || Paladin 11 || +13 || 8/3 || &nbsp;
-|-
-| 15 || Paladin 12 || +14 || 9/3 || &nbsp;
-|-
-| 16 || Paladin 13 || +15 || 10/3 || &nbsp;
-|-
-| 17 || Paladin 14 || +16 || 11/3 || &nbsp;
-|-
-| 18 || Paladin 15 || +17 || 12/3 || &nbsp;
-|-
-| 19 || Paladin 16 || +18 || 13/3 || &nbsp;
-|-
-| 20 || Paladin 17 || +19 || 14/3 || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du *nom du build*</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS (pal/cham)</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>01</td><td>Paladin 1</td><td>+1</td><td>-</td><td>[Fey foundling](http://www.d20pfsrd.com/feats/general-feats/fey-foundling)</td></tr><tr><td>02</td><td>Paladin 2</td><td>+2</td><td>-</td><td>&nbsp;</td></tr><tr><td>03</td><td>Paladin 3</td><td>+3</td><td>-</td><td>[[Pathfinder-RPG.Grâce supérieure.ashx|Grâce supérieure]]</td></tr><tr><td>04</td><td>Chaman 1</td><td>+3</td><td>-/1</td><td>&nbsp;</td></tr><tr><td>05</td><td>Chaman 2</td><td>+4</td><td>-/2</td><td>[Boon companion](http://www.d20pfsrd.com/feats/general-feats/boon-companion/)</td></tr><tr><td>06</td><td>Chaman 3</td><td>+5</td><td>-/3</td><td>&nbsp;</td></tr><tr><td>07</td><td>Paladin 4</td><td>+6</td><td>1/3</td><td>[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]</td></tr><tr><td>08</td><td>Paladin 5</td><td>+7</td><td>2/3</td><td>&nbsp;</td></tr><tr><td>09</td><td>Paladin 6</td><td>+8</td><td>3/3</td><td>[[Pathfinder-RPG.Imposition des mains supplémentaire.ashx|Imposition des mains supplémentaire]]</td></tr><tr><td>10</td><td>Paladin 7</td><td>+9</td><td>4/3</td><td>&nbsp;</td></tr><tr><td>11</td><td>Paladin 8</td><td>+10</td><td>5/3</td><td>&nbsp;</td></tr><tr><td>12</td><td>Paladin 9</td><td>+11</td><td>6/3</td><td>&nbsp;</td></tr><tr><td>13</td><td>Paladin 10</td><td>+12</td><td>7/3</td><td>&nbsp;</td></tr><tr><td>14</td><td>Paladin 11</td><td>+13</td><td>8/3</td><td>&nbsp;</td></tr><tr><td>15</td><td>Paladin 12</td><td>+14</td><td>9/3</td><td>&nbsp;</td></tr><tr><td>16</td><td>Paladin 13</td><td>+15</td><td>10/3</td><td>&nbsp;</td></tr><tr><td>17</td><td>Paladin 14</td><td>+16</td><td>11/3</td><td>&nbsp;</td></tr><tr><td>18</td><td>Paladin 15</td><td>+17</td><td>12/3</td><td>&nbsp;</td></tr><tr><td>19</td><td>Paladin 16</td><td>+18</td><td>13/3</td><td>&nbsp;</td></tr><tr><td>20</td><td>Paladin 17</td><td>+19</td><td>14/3</td><td>&nbsp;</td></tr></table>

@@ -16,73 +16,14 @@ Le rendement ne devrait pas excéder 5% par an pour les investissements à faibl
 ### Mécanique des investissements
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px;">
-{| CLASS="tablo centre autoalt"
-|+ Les récompenses d’investissements
-|- CLASS="titre"
-| Investissement
-| Rendement  
-normal
-| Année  
-ratée
-| Année  
-normale
-| Année  
-réussie
-| Bon  
-Rendement
-|- CLASS="premier"
-| COLSPAN=6 | Arts
-|-
-| &emsp;créatifs || 4% || 01-30 || 31-95 || 96-00 || 2d4+1
-|-
-| &emsp;spectacle || 2% || 01-35 || 36-95 || 96-00 || 2d6+1
-|-
-| Banque || 2% || 01-10 || 11-98 || 99-00 || 1d4+1
-|-
-| COLSPAN=6 | Artisanat
-|-
-| &emsp;normal || 1% || 01-05 || 06-95 || 96-00 || 1d3+1
-|-
-| &emsp;magique || 5% || 01-30 || 31-95 || 96-00 || 1d8+1
-|-
-| &emsp;militaire || 5% || 01-15 || 16-90 || 91-00 || 1d6+1
-|-
-| Carrières || 3% || 01-20 || 21-90 || 91-00 || 1d6+1
-|-
-| Écuries || 1% || 01-05 || 06-98 || 99-00 || 1d3+1
-|-
-| Exploration || 2% || 01-40 || 41-85 || 86-00 || 2d8+1
-|-
-| Grenier à blé/moulin || 3% || 01-10 || 11-98 || 99-00 || 1d3+1
-|-
-| COLSPAN=6 | Guilde
-|-
-| &emsp;d’assassins || 5% || 01-30 || 31-95 || 96-00 || 2d4+1
-|-
-| &emsp;d’artisans || 2% || 01-05 || 06-98 || 99-00 || 1d3+1
-|-
-| &emsp;marchande || 3% || 01-10 || 11-98 || 99-00 || 1d4+1
-|-
-| &emsp;de voleurs || 4% || 01-15 || 16-90 || 91-00 || 1d8+1
-|-
-| COLSPAN=6 | Importation
-|-
-| &emsp;exotique || 5% || 01-30 || 31-90 || 91-00 || 1d10+1
-|-
-| &emsp;ordinaire || 2% || 01-15 || 16-95 || 96-00 || 1d4+1
-|-
-| Invention || 3% || 01-40 || 41-90 || 91-00 || 2d6+1
-|-
-| Protection || 3% || 01-30 || 31-95 || 96-00 || 1d8+1
-|-
-| COLSPAN=6 | Recherche
-|-
-| &emsp;magique || 5% || 01-50 || 51-75 || 76-00 || 2d6+1
-|-
-| &emsp;normale || 3% || 01-20 || 21-85 || 86-00 || 1d8+1
-|-
-| Tavernes || 2% || 01-10 || 11-98 || 99-00 || 1d4+1
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les récompenses d’investissements</caption><tr CLASS="titre"><td>Investissement</td><td>Rendement  
+normal</td><td>Année  
+ratée</td><td>Année  
+normale</td><td>Année  
+réussie</td><td>Bon  
+Rendement</td></tr><tr CLASS="premier"><td COLSPAN=6>Arts</td></tr><tr><td>&emsp;créatifs</td><td>4%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>2d4+1</td></tr><tr><td>&emsp;spectacle</td><td>2%</td><td>01-35</td><td>36-95</td><td>96-00</td><td>2d6+1</td></tr><tr><td>Banque</td><td>2%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr><tr><td COLSPAN=6>Artisanat</td></tr><tr><td>&emsp;normal</td><td>1%</td><td>01-05</td><td>06-95</td><td>96-00</td><td>1d3+1</td></tr><tr><td>&emsp;magique</td><td>5%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>1d8+1</td></tr><tr><td>&emsp;militaire</td><td>5%</td><td>01-15</td><td>16-90</td><td>91-00</td><td>1d6+1</td></tr><tr><td>Carrières</td><td>3%</td><td>01-20</td><td>21-90</td><td>91-00</td><td>1d6+1</td></tr><tr><td>Écuries</td><td>1%</td><td>01-05</td><td>06-98</td><td>99-00</td><td>1d3+1</td></tr><tr><td>Exploration</td><td>2%</td><td>01-40</td><td>41-85</td><td>86-00</td><td>2d8+1</td></tr><tr><td>Grenier à blé/moulin</td><td>3%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d3+1</td></tr><tr><td COLSPAN=6>Guilde</td></tr><tr><td>&emsp;d’assassins</td><td>5%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>2d4+1</td></tr><tr><td>&emsp;d’artisans</td><td>2%</td><td>01-05</td><td>06-98</td><td>99-00</td><td>1d3+1</td></tr><tr><td>&emsp;marchande</td><td>3%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr><tr><td>&emsp;de voleurs</td><td>4%</td><td>01-15</td><td>16-90</td><td>91-00</td><td>1d8+1</td></tr><tr><td COLSPAN=6>Importation</td></tr><tr><td>&emsp;exotique</td><td>5%</td><td>01-30</td><td>31-90</td><td>91-00</td><td>1d10+1</td></tr><tr><td>&emsp;ordinaire</td><td>2%</td><td>01-15</td><td>16-95</td><td>96-00</td><td>1d4+1</td></tr><tr><td>Invention</td><td>3%</td><td>01-40</td><td>41-90</td><td>91-00</td><td>2d6+1</td></tr><tr><td>Protection</td><td>3%</td><td>01-30</td><td>31-95</td><td>96-00</td><td>1d8+1</td></tr><tr><td COLSPAN=6>Recherche</td></tr><tr><td>&emsp;magique</td><td>5%</td><td>01-50</td><td>51-75</td><td>76-00</td><td>2d6+1</td></tr><tr><td>&emsp;normale</td><td>3%</td><td>01-20</td><td>21-85</td><td>86-00</td><td>1d8+1</td></tr><tr><td>Tavernes</td><td>2%</td><td>01-10</td><td>11-98</td><td>99-00</td><td>1d4+1</td></tr></table>
+
 </div></div>Quand un PJ décide d’investir, demandez au joueur combien d’argent son personnage souhaite apporter. Il s’agit de la mise de fonds et ceci a un effet direct sur la quantité d’argent que l’investissement rapporte chaque année (cf. ci-contre).
 
 Le MJ peut utiliser la table des récompenses d’investissements comme indicateur général pour déterminer la quantité d’argent qu’un investissement est susceptible de rapporter. Le MJ peut modifier ces pourcentages afin qu’ils reflètent les particularités de la campagne. Les joueurs et le MJ ne devraient se servir de ce guide que pour les investissements effectués dans un monde fantastique, pas dans la réalité.

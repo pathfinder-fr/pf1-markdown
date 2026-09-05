@@ -16,13 +16,5 @@ Categories:
 
 Ce mot effet [[étourdi|étourdit]] une créature vivante sans que celle-ci ait besoin d’entendre le mage le prononcer. Sa durée dépend des points de vies actuels de la cible. Au-delà de 151 points de vie, il n’a aucun effet.
 
-{| CLASS="tablo toutgauche"
-|- CLASS="titre"
-| Points de vie || Durée
-|- CLASS="premier"
-| 50 et moins || Permanente
-|-
-| 51-100 || 1d4+1 minutes
-|-
-| 101-150 || 1d4+1 rounds
-|}
+
+<table CLASS="tablo toutgauche"><tr CLASS="titre"><td>Points de vie</td><td>Durée</td></tr><tr CLASS="premier"><td>50 et moins</td><td>Permanente</td></tr><tr><td>51-100</td><td>1d4+1 minutes</td></tr><tr><td>101-150</td><td>1d4+1 rounds</td></tr></table>

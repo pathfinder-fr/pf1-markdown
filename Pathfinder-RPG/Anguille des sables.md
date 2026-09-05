@@ -46,17 +46,9 @@ Categories:
 {s:BDtexte|**Ajustement de niveau** –}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'anguille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Anguille des sables]] || 5
-|-
-| [[Anguille électrique]] || 2
-|-
-| [[Murène géante]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'anguille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Anguille des sables]]</td><td>5</td></tr><tr><td>[[Anguille électrique]]</td><td>2</td></tr><tr><td>[[Murène géante]]</td><td>5</td></tr></table>
+
 </div><u>***Contenu issu d'un supplément 3.5***</u>
 
 *Une forme longue et sinueuse glisse sur le sable. Une peau scintillante et irisée est tendue sur son corps d’environ 2,40 mètres de long. Tout en rampant, la créature ouvre sa gueule étroite, révélant des protubérances osseuses fines comme des aiguilles qui émergent de la chair molle de sa gueule.*

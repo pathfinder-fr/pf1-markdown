@@ -28,18 +28,9 @@ Categories:
 {s:BDTexte|* *Vitesse accrue (Ext).* Les difformités de certains mutants de la Terre sans magie sont telles que leur vitesse de base augmente de 3 mètres.}
 {s:BDTexte|**Difformités.** En plus de ses pouvoirs spéciaux, présentés ci-dessus, le mutant de la Terre sans magie gagne l’une des difformités suivantes du fait de sa transformation (lancez 1d4 pour déterminer la difformité au hasard).}
 
-{| CLASS="tablo toutgauche autoalt" STYLE="padding:0px 0px 0px 8px"
-|- CLASS="titre"
-| Dé || Effet
-|- CLASS="premier"
-| 1 || *Bras difforme :* le mutant a une main avec laquelle il ne peut pas manier d’arme mais son attaque de coup inflige les mêmes dégâts que s’il était plus grand de deux catégories de taille.
-|-
-| 2 || *Jambe difforme :* la vitesse de base du mutant est réduite de 3 mètres (vitesse de base minimum de 1,50 mètre) mais il gagne un bonus racial de +4 au [[DMD]].
-|-
-| 3 || *Esprit brisé :* le mutant subit un malus de -2 en [[Intelligence]] mais gagne un bonus racial de +2 aux jets de [[Volonté]].
-|-
-| 4 || *Peau distordue :* le mutant perd son bonus racial de +2 en [[Constitution|Con]] mais gagne un bonus supplémentaire de +2 en [[CA|armure naturelle]].
-|}
+
+<table CLASS="tablo toutgauche autoalt" STYLE="padding:0px 0px 0px 8px"><tr CLASS="titre"><td>Dé</td><td>Effet</td></tr><tr CLASS="premier"><td>1</td><td>*Bras difforme :* le mutant a une main avec laquelle il ne peut pas manier d’arme mais son attaque de coup inflige les mêmes dégâts que s’il était plus grand de deux catégories de taille.</td></tr><tr><td>2</td><td>*Jambe difforme :* la vitesse de base du mutant est réduite de 3 mètres (vitesse de base minimum de 1,50 mètre) mais il gagne un bonus racial de +4 au [[DMD]].</td></tr><tr><td>3</td><td>*Esprit brisé :* le mutant subit un malus de -2 en [[Intelligence]] mais gagne un bonus racial de +2 aux jets de [[Volonté]].</td></tr><tr><td>4</td><td>*Peau distordue :* le mutant perd son bonus racial de +2 en [[Constitution|Con]] mais gagne un bonus supplémentaire de +2 en [[CA|armure naturelle]].</td></tr></table>
+
 </div></td>
 <td><div>Exemples de mutant de la Terre sans magie : [[gnoll mutant]].
 

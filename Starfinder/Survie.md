@@ -9,22 +9,9 @@ LastModified: 2021-01-05 21:52
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| TÂCHE || DD
-|- CLASS="premier"
-| **Apaiser un animal** || 10 + 1,5 × FP de l’animal
-|- CLASS="alt"
-| **Élever un animal sauvage** || 15 + 1,5 × FP de l’animal
-|-
-| **Prévoir le temps** || 15
-|- CLASS="alt"
-| **Résister à un climat extrême** || 15
-|-
-| **S’orienter** || 15
-|- CLASS="alt"
-| **Vivre de la terre** || 10
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>TÂCHE</td><td>DD</td></tr><tr CLASS="premier"><td>**Apaiser un animal**</td><td>10 + 1,5 × FP de l’animal</td></tr><tr CLASS="alt"><td>**Élever un animal sauvage**</td><td>15 + 1,5 × FP de l’animal</td></tr><tr><td>**Prévoir le temps**</td><td>15</td></tr><tr CLASS="alt"><td>**Résister à un climat extrême**</td><td>15</td></tr><tr><td>**S’orienter**</td><td>15</td></tr><tr CLASS="alt"><td>**Vivre de la terre**</td><td>10</td></tr></table>
+
 </center>
 </div>
 </div>
@@ -49,28 +36,9 @@ inamicaux.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Action || DD
-|- CLASS="premier"
-| **Amortir sa chute** || 15
-|- CLASS="alt"
-| **Combattre en chevauchant une monture dressée au combat** || 10
-|-
-| **Contrôler une monture en combat** || 20
-|- CLASS="alt"
-| **Éperonner sa monture** || 15
-|-
-| **Guider avec les jambes** || 5
-|- CLASS="alt"
-| **Monter ou descendre de selle rapidement** || 20
-|-
-| **Rester en selle** || 5
-|-
-| **S’abriter** || 15
-|-
-| **Sauter** || 15
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Action</td><td>DD</td></tr><tr CLASS="premier"><td>**Amortir sa chute**</td><td>15</td></tr><tr CLASS="alt"><td>**Combattre en chevauchant une monture dressée au combat**</td><td>10</td></tr><tr><td>**Contrôler une monture en combat**</td><td>20</td></tr><tr CLASS="alt"><td>**Éperonner sa monture**</td><td>15</td></tr><tr><td>**Guider avec les jambes**</td><td>5</td></tr><tr CLASS="alt"><td>**Monter ou descendre de selle rapidement**</td><td>20</td></tr><tr><td>**Rester en selle**</td><td>5</td></tr><tr><td>**S’abriter**</td><td>15</td></tr><tr><td>**Sauter**</td><td>15</td></tr></table>
+
 </center>
 </div>
 </div>
@@ -168,19 +136,9 @@ climatiques.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Surface || DD
-|- CLASS="premier"
-| **Sol très mou (neige fraîche, poussière épaisse, boue humide)** || 5
-|- CLASS="alt"
-| **Sol mou (terre meuble, boue séchée)** || 10
-|-
-| **Sol ferme (champs, forêts, tapis épais, sols poussiéreux ou crasseux)** || 15
-|- CLASS="alt"
-| **Sol solide (roche nue, la plupart des sols à l’intérieur des bâtisses)** || 20
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Surface</td><td>DD</td></tr><tr CLASS="premier"><td>**Sol très mou (neige fraîche, poussière épaisse, boue humide)**</td><td>5</td></tr><tr CLASS="alt"><td>**Sol mou (terre meuble, boue séchée)**</td><td>10</td></tr><tr><td>**Sol ferme (champs, forêts, tapis épais, sols poussiéreux ou crasseux)**</td><td>15</td></tr><tr CLASS="alt"><td>**Sol solide (roche nue, la plupart des sols à l’intérieur des bâtisses)**</td><td>20</td></tr></table>
+
 </center>
 </div>
 </div>

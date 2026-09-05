@@ -9,37 +9,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt" WIDTH="100%"
-|+ Rencontres aléatoires dans le Val de Sombrelune<sup>(7)</sup>
-|- CLASS="titre"
-| WIDTH="22%" | d100
-| WIDTH="76%" | Résultat
-| WIDTH="2%" | FP
-|- Class="premier"
-| 1–10 || 2 [[Pathfinder-RPG.Moufette géante|moufettes géantes]] || 5
-|-
-| 11–21 || Éclaireurs hobgobelins (2  [[Pathfinder-RPG.Hobgobelin|hobgobelins]], 1  [[Pathfinder-RPG.Lieutenant hobgobelin|lieutenant hobgobelin]] || 5
-|-
-| 22–28 || 2 [[Pathfinder-RPG.Grizzly|grizzlys]] || 6
-|-
-| 29–35 || 2 [[Pathfinder-RPG.Satyre|satyres]] || 6
-|-
-| 36–45 || 1d4+2 [[Pathfinder-RPG.Loup-garou|loups-garous]] || 6
-|-
-| 46–60 || 3d4 [[Pathfinder-RPG.Loup|loups]] || 6
-|-
-| 61–67 || 1d4+2 [[Pathfinder-RPG.Liane meurtrière|lianes meurtrières]] || 7
-|-
-| 68–74 || 1d6+2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] || 7
-|-
-| 75–81 || 1d3+1 [silverblood werewolves](https://aonprd.com/MonsterDisplay.aspx?ItemName=Silverblood%20Lycanthrope%20(Human%20Form)) || 8
-|-
-| 82–89 || 1 [[Pathfinder-RPG.Sylvanien|sylvanien]] || 8
-|-
-| 90–96 || Meute de guerre (1 [[Pathfinder-RPG.Percécuteur hobgobelin|percécuteur hobgobelin]], 1d6+5 [[Pathfinder-RPG.Worg|worgs]]) || 9
-|-
-| 97–100 || 1 [[Pathfinder-RPG.PNJ Ami des fées|ami des fées]] || 12
-|}
+
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%"><caption>Rencontres aléatoires dans le Val de Sombrelune<sup>(7)</sup></caption><tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr><tr Class="premier"><td>1–10</td><td>2 [[Pathfinder-RPG.Moufette géante|moufettes géantes]]</td><td>5</td></tr><tr><td>11–21</td><td>Éclaireurs hobgobelins (2  [[Pathfinder-RPG.Hobgobelin|hobgobelins]], 1  [[Pathfinder-RPG.Lieutenant hobgobelin|lieutenant hobgobelin]]</td><td>5</td></tr><tr><td>22–28</td><td>2 [[Pathfinder-RPG.Grizzly|grizzlys]]</td><td>6</td></tr><tr><td>29–35</td><td>2 [[Pathfinder-RPG.Satyre|satyres]]</td><td>6</td></tr><tr><td>36–45</td><td>1d4+2 [[Pathfinder-RPG.Loup-garou|loups-garous]]</td><td>6</td></tr><tr><td>46–60</td><td>3d4 [[Pathfinder-RPG.Loup|loups]]</td><td>6</td></tr><tr><td>61–67</td><td>1d4+2 [[Pathfinder-RPG.Liane meurtrière|lianes meurtrières]]</td><td>7</td></tr><tr><td>68–74</td><td>1d6+2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]]</td><td>7</td></tr><tr><td>75–81</td><td>1d3+1 [silverblood werewolves](https://aonprd.com/MonsterDisplay.aspx?ItemName=Silverblood%20Lycanthrope%20(Human%20Form))</td><td>8</td></tr><tr><td>82–89</td><td>1 [[Pathfinder-RPG.Sylvanien|sylvanien]]</td><td>8</td></tr><tr><td>90–96</td><td>Meute de guerre (1 [[Pathfinder-RPG.Percécuteur hobgobelin|percécuteur hobgobelin]], 1d6+5 [[Pathfinder-RPG.Worg|worgs]])</td><td>9</td></tr><tr><td>97–100</td><td>1 [[Pathfinder-RPG.PNJ Ami des fées|ami des fées]]</td><td>12</td></tr></table>
+
 </div></div>Le Val de Sombrelune est une région frontalière du nord-ouest d'[[Andoran]] qui s'étend de la [[forêt dArthfell|forêt d'Arthfell]] à sa frontière sud jusqu'à la [[forêt de Sombrelune]] et à la [[Faille de Droskar]] au nord.<sup>(1)</sup>
 
 #### Géographie

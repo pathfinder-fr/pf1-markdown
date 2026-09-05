@@ -46,31 +46,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[flèches (arme)|flèches]] de [[tonnerre (propriété)|tonnerre +1]]* (4), *[[potions magiques|potion]] d’[[invisibilité]]*, *[[parchemins magiques|parchemin]] d’[[immobilisation de personne]]*, *[[baguettes magiques|baguette]] de [[blessure légère]]* (50 charges) ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles +1]]*, [[arc court composite (arme)|arc court composite de maître]] avec [[Flèches (arme)|10 flèches]], *[[bandeau de belle allure|bandeau de belle allure +2]]*, [[trousse de déguisement (objet)|trousse de déguisement]], 10 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de goule
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chauve-souris aile de suie]] || 1/2
-|-
-| [[Molosse goule]] || 1
-|-
-| [[Goule]] || 1
-|-
-| [[Goule sournoise]] || 3
-|-
-| [[Goule traqueuse]] || 6
-|-
-| [[Grand-veneur goule]] || 7
-|-
-| [[Assassin masqué]] || 8
-|-
-| [[Commandant goule]] || 8
-|-
-| [[Antique fossoyeur]] || 10
-|-
-| [[Monarque goule]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de goule</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris aile de suie]]</td><td>1/2</td></tr><tr><td>[[Molosse goule]]</td><td>1</td></tr><tr><td>[[Goule]]</td><td>1</td></tr><tr><td>[[Goule sournoise]]</td><td>3</td></tr><tr><td>[[Goule traqueuse]]</td><td>6</td></tr><tr><td>[[Grand-veneur goule]]</td><td>7</td></tr><tr><td>[[Assassin masqué]]</td><td>8</td></tr><tr><td>[[Commandant goule]]</td><td>8</td></tr><tr><td>[[Antique fossoyeur]]</td><td>10</td></tr><tr><td>[[Monarque goule]]</td><td>12</td></tr></table>
+
 </div> Quelques goules vivent dans une ville ou un village. Elles se déguisent et usent de magie pour dissimuler leur nature. L’assassin masqué se tapit dans les ombres pour frapper les vivants.
 
 L’assassin masqué recourt à la tromperie pour se rapprocher de ses proies humaines et se mêler à elles sans éveiller leurs soupçons… jusqu’à ce qu’il soit trop tard pour lui échapper. Il profite de sa magie, en particulier du sort apparence charnue pour se façonner une façade trompeuse, et sait comment se déguiser en usant de moyens ordinaires pour cacher son macabre aspect le temps de se mettre en sécurité si sa magie venait à lui faire défaut.

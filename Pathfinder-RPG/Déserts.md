@@ -19,20 +19,9 @@ La table ci-dessous indique les éléments que l’on trouve dans chacune des tr
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Catégories de désert || Toundra || Rocailleux || Sable
-|- CLASS="premier"
-| Broussailles légères || 15% || 5% || 5%
-|- CLASS="alt"
-| Couche de glace || 25% || — || —
-|-
-| Décombres || 5% || 30% || 10%
-|- CLASS="alt"
-| Dunes de sable || — || 30% || 5%
-|-
-| Gouffre || — || — || 50%
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de désert</td><td>Toundra</td><td>Rocailleux</td><td>Sable</td></tr><tr CLASS="premier"><td>Broussailles légères</td><td>15%</td><td>5%</td><td>5%</td></tr><tr CLASS="alt"><td>Couche de glace</td><td>25%</td><td>—</td><td>—</td></tr><tr><td>Décombres</td><td>5%</td><td>30%</td><td>10%</td></tr><tr CLASS="alt"><td>Dunes de sable</td><td>—</td><td>30%</td><td>5%</td></tr><tr><td>Gouffre</td><td>—</td><td>—</td><td>50%</td></tr></table>
+
 </center></div></div>
 **Broussailles légères.** Elles sont constituées d’arbustes rabougris et de cactus, mais elles fonctionnent sur le même principe que dans les autres milieux naturels.
 

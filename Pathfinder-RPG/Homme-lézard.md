@@ -122,23 +122,9 @@ Les règles suivantes présentent un archétype, une malédiction d’oracle, de
 #### Dons
 Voici quelques dons améliorant les capacités naturelles des hommes-lézards, bien que l’[[Adaptation aquatique]] soit aussi accessible aux individus mutés ou uniques de n’importe quelle race, à condition de remplir les conditions requises.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Adaptation aquatique]]</td><td><sup>CM</sup></td><td>Pouvoir [[retenir son souffle (capacité)|retenir son souffle]]</td><td>Respire aussi bien l'eau que l'air</td></tr><tr CLASS="premier"><td>[[Dangereuse queue]]*</td><td><sup>CM</sup></td><td>[[BBA]] +5, [[homme-lézard]]</td><td>Gain d'une attaque de queue</td></tr><tr CLASS="premier"><td>[[Nage rapide]]</td><td><sup>CM</sup></td><td>[[Homme-lézard]], vitesse de nage</td><td>+4,5 m à la vitesse de nage</td></tr></table>
 
-|- CLASS="premier"
-| [[Adaptation aquatique]] || <sup>CM</sup> || Pouvoir [[retenir son souffle (capacité)|retenir son souffle]] || Respire aussi bien l'eau que l'air
-
-|- CLASS="premier"
-| [[Dangereuse queue]]* || <sup>CM</sup> || [[BBA]] +5, [[homme-lézard]] || Gain d'une attaque de queue
-
-|- CLASS="premier"
-| [[Nage rapide]] || <sup>CM</sup> || [[Homme-lézard]], vitesse de nage || +4,5 m à la vitesse de nage
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

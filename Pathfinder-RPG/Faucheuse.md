@@ -49,15 +49,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de faucheuse
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Faucheuse mineure]] || 16
-|-
-| [[Faucheuse]] || 22
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de faucheuse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Faucheuse mineure]]</td><td>16</td></tr><tr><td>[[Faucheuse]]</td><td>22</td></tr></table>
+
 </div>*L’une des mains réduites à l’état d’os de cette créature squelettique vêtue d’une robe empoigne une énorme faux à la lame incurvée.*
 
 Aussi silencieuses qu’une tombe et aussi inéluctables que le temps, les faucheuses sont plus proches des forces de la nature que véritablement indépendantes et sont, en réalité, des incarnations d’une mort violente et indéfectible.

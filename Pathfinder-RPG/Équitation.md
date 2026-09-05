@@ -21,39 +21,9 @@ Categories:
 Les actions d’équitation classiques n’exigent pas de test de compétence. Le personnage peut ainsi seller sa monture, monter en selle, avancer au pas, trotter, galoper et descendre de sa monture sans le moindre problème. Les tâches suivantes requièrent un test de compétence.
 
 <center>
-{| CLASS="tablo"
-|+ Test d'équitation
-|- CLASS="titre"
-| Tâche
-| DD du test d’Équitation
-|- CLASS="premier"
-| Guider sa monture avec les genoux
-| 5
-|- CLASS="alt"
-| Rester en selle
-| 5
-|-
-| Combattre sur un destrier (monture entraînée pour le combat)
-| 10
-|- CLASS="alt"
-| Utiliser sa monture pour s’abriter
-| 15
-|-
-| Amortir sa chute
-| 15
-|- CLASS="alt"
-| Sauter un obstacle
-| 15
-|-
-| Éperonner sa monture
-| 15
-|- CLASS="alt"
-| Contrôler sa monture au combat
-| 20
-|-
-| Monter en selle ou descendre de selle rapidement
-| 20
-|}
+
+<table CLASS="tablo"><caption>Test d'équitation</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test d’Équitation</td></tr><tr CLASS="premier"><td>Guider sa monture avec les genoux</td><td>5</td></tr><tr CLASS="alt"><td>Rester en selle</td><td>5</td></tr><tr><td>Combattre sur un destrier (monture entraînée pour le combat)</td><td>10</td></tr><tr CLASS="alt"><td>Utiliser sa monture pour s’abriter</td><td>15</td></tr><tr><td>Amortir sa chute</td><td>15</td></tr><tr CLASS="alt"><td>Sauter un obstacle</td><td>15</td></tr><tr><td>Éperonner sa monture</td><td>15</td></tr><tr CLASS="alt"><td>Contrôler sa monture au combat</td><td>20</td></tr><tr><td>Monter en selle ou descendre de selle rapidement</td><td>20</td></tr></table>
+
 </center>
 
 **Guider sa monture avec les genoux.** Le personnage sait guider sa monture à l’aide de ses seuls genoux, ce qui lui laisse les mains libres en cas de combat. Le test d’Équitation s’effectue au début de chaque tour de jeu. En cas d’échec, l’aventurier ne peut se servir que d’une main au cours du [[round]], l’autre étant nécessaire pour contrôler sa monture. Utiliser cette option ne nécessite pas d’action.

@@ -27,70 +27,13 @@ Les modificateurs raciaux (les ajustements des valeurs des caractéristiques dé
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center><table><tr style="vertical-align: top"><td>
-{| CLASS="tablo"
-|+ Coût des caractéristiques
-|- CLASS="titre"
-| Valeur
-| Points
-| &emsp;
-| CLASS="gauche" | Valeur
-| Points
-|- CLASS="premier"
-| 7
-| –4
-| &emsp;
-| 13
-| 3
-|- CLASS="alt"
-| 8
-| –2
-| &emsp;
-| 14
-| 5
-|-
-| 9
-| –1
-| &emsp;
-| 15
-| 7
-|- CLASS="alt"
-| 10
-| 0
-| &emsp;
-| 16
-| 10
-|-
-| 11
-| 1
-| &emsp;
-| 17
-| 13
-|- CLASS="alt"
-| 12
-| 2
-| &emsp;
-| 18
-| 17
-|}
+
+<table CLASS="tablo"><caption>Coût des caractéristiques</caption><tr CLASS="titre"><td>Valeur</td><td>Points</td><td>&emsp;</td><td CLASS="gauche">Valeur</td><td>Points</td></tr><tr CLASS="premier"><td>7</td><td>–4</td><td>&emsp;</td><td>13</td><td>3</td></tr><tr CLASS="alt"><td>8</td><td>–2</td><td>&emsp;</td><td>14</td><td>5</td></tr><tr><td>9</td><td>–1</td><td>&emsp;</td><td>15</td><td>7</td></tr><tr CLASS="alt"><td>10</td><td>0</td><td>&emsp;</td><td>16</td><td>10</td></tr><tr><td>11</td><td>1</td><td>&emsp;</td><td>17</td><td>13</td></tr><tr CLASS="alt"><td>12</td><td>2</td><td>&emsp;</td><td>18</td><td>17</td></tr></table>
+
 </td><td WIDTH="20px"></td><td>
-{| CLASS="tablo"
-|+ Nombre de points pour acheter des caractéristiques
-|- CLASS="titre"
-| Type de campagne
-| Points
-|- CLASS="premier"
-| Réaliste
-| 10
-|- CLASS="alt"
-| Standard
-| 15
-|-
-| Fantastique
-| 20
-|- CLASS="alt"
-| Épique
-| 25
-|}
+
+<table CLASS="tablo"><caption>Nombre de points pour acheter des caractéristiques</caption><tr CLASS="titre"><td>Type de campagne</td><td>Points</td></tr><tr CLASS="premier"><td>Réaliste</td><td>10</td></tr><tr CLASS="alt"><td>Standard</td><td>15</td></tr><tr><td>Fantastique</td><td>20</td></tr><tr CLASS="alt"><td>Épique</td><td>25</td></tr></table>
+
 </tr></table></center></div></div>
 **Achat.** Chaque personnage reçoit un certain nombre de points qu’il peut dépenser pour accroître ses caractéristiques de base. Avec cette méthode, toutes les valeurs des caractéristiques commencent à 10 et le personnage peut les augmenter en investissant des points. Il peut également gagner des points supplémentaires en abaissant une ou plusieurs de ses valeurs de caractéristiques (points qu’il pourra ensuite dépenser pour augmenter d’autres caractéristiques). Aucune valeur ne peut être réduite en dessous de 7 ni accrue au-delà de 18 avec cette méthode. Consultez la tableau ci-contre pour voir le coût en points de chacune des valeurs. Une fois que tous les points ont été dépensés, appliquez les éventuels modificateurs raciaux du personnage.
 
@@ -109,84 +52,9 @@ En résumé, ignorez les colonnes des sorts sur la table 1-3 : Modificateurs de 
 Le tableau vous indique également les sorts en bonus, un élément important pour les personnages qui peuvent lancer des sorts.
 
 {s:Reference|TABLEAUCARACTERISTIQUES}
-{| CLASS="tablo centre autoalt"
-|+ Modificateurs de caractéristique et sorts en bonus
-|- CLASS="titre"
-| COLSPAN="2" CLASS="avecsoustitre" | Caractéristiques
-| COLSPAN="10" CLASS="avecsoustitre" | Sorts en bonus par jour (et par niveau de sorts)
-|- CLASS="soustitre"
-| Valeur || Modificateur
-| 0 || 1er || 2e || 3e || 4e || 5e || 6e || 7e || 8e || 9e
-|- CLASS="premier"
-| 1 || –5
-| COLSPAN="10" | impossible de lancer des sorts liés à cette caractéristique
-|-
-| 2–3 || –4
-| COLSPAN="10" | impossible de lancer des sorts liés à cette caractéristique
-|-
-| 4–5 || –3
-| COLSPAN="10" | impossible de lancer des sorts liés à cette caractéristique
-|-
-| 6–7 || –2
-| COLSPAN="10" | impossible de lancer des sorts liés à cette caractéristique
-|-
-| 8–9 || –1
-| COLSPAN="10" | impossible de lancer des sorts liés à cette caractéristique
-|-
-| 10–11 || 0
-| — || — || — || — || — || — || — || — || — || —
-|-
-| 12–13 || +1
-| — || 1 || — || — || — || — || — || — || — || —
-|-
-| 14–15 || +2
-| — || 1 || 1 || — || — || — || — || — || — || —
-|-
-| 16–17 || +3
-| — || 1 || 1 || 1 || — || — || — || — || — || —
-|-
-| 18–19 || +4
-| — || 1 || 1 || 1 || 1 || — || — || — || — || —
-|-
-| 20–21 || +5
-| — || 2 || 1 || 1 || 1 || 1 || — || — || — || —
-|-
-| 22–23 || +6
-| — || 2 || 2 || 1 || 1 || 1 || 1 || — || — || —
-|-
-| 24–25 || +7
-| — || 2 || 2 || 2 || 1 || 1 || 1 || 1 || — || —
-|-
-| 26–27 || +8
-| — || 2 || 2 || 2 || 2 || 1 || 1 || 1 || 1 || —
-|-
-| 28–29 || +9
-| — || 3 || 2 || 2 || 2 || 2 || 1 || 1 || 1 || 1
-|-
-| 30–31 || +10
-| — || 3 || 3 || 2 || 2 || 2 || 2 || 1 || 1 || 1
-|-
-| 32–33 || +11
-| — || 3 || 3 || 3 || 2 || 2 || 2 || 2 || 1 || 1
-|-
-| 34–35 || +12
-| — || 3 || 3 || 3 || 3 || 2 || 2 || 2 || 2 || 1
-|-
-| 36–37 || +13
-| — || 4 || 3 || 3 || 3 || 3 || 2 || 2 || 2 || 2
-|-
-| 38–39 || +14
-| — || 4 || 4 || 3 || 3 || 3 || 3 || 2 || 2 || 2
-|-
-| 40–41 || +15
-| — || 4 || 4 || 4 || 3 || 3 || 3 || 3 || 2 || 2
-|-
-| 42–43 || +16
-| — || 4 || 4 || 4 || 4 || 3 || 3 || 3 || 3 || 2
-|-
-| 44–45 || +17
-| — || 5 || 4 || 4 || 4 || 4 || 3 || 3 || 3 || 3
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Modificateurs de caractéristique et sorts en bonus</caption><tr CLASS="titre"><td COLSPAN="2" CLASS="avecsoustitre">Caractéristiques</td><td COLSPAN="10" CLASS="avecsoustitre">Sorts en bonus par jour (et par niveau de sorts)</td></tr><tr CLASS="soustitre"><td>Valeur</td><td>Modificateur</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1</td><td>–5</td><td COLSPAN="10">impossible de lancer des sorts liés à cette caractéristique</td></tr><tr><td>2–3</td><td>–4</td><td COLSPAN="10">impossible de lancer des sorts liés à cette caractéristique</td></tr><tr><td>4–5</td><td>–3</td><td COLSPAN="10">impossible de lancer des sorts liés à cette caractéristique</td></tr><tr><td>6–7</td><td>–2</td><td COLSPAN="10">impossible de lancer des sorts liés à cette caractéristique</td></tr><tr><td>8–9</td><td>–1</td><td COLSPAN="10">impossible de lancer des sorts liés à cette caractéristique</td></tr><tr><td>10–11</td><td>0</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12–13</td><td>+1</td><td>—</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>14–15</td><td>+2</td><td>—</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>16–17</td><td>+3</td><td>—</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>18–19</td><td>+4</td><td>—</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>20–21</td><td>+5</td><td>—</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>22–23</td><td>+6</td><td>—</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>24–25</td><td>+7</td><td>—</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>26–27</td><td>+8</td><td>—</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>28–29</td><td>+9</td><td>—</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>30–31</td><td>+10</td><td>—</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>32–33</td><td>+11</td><td>—</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td><td>1</td></tr><tr><td>34–35</td><td>+12</td><td>—</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td><td>1</td></tr><tr><td>36–37</td><td>+13</td><td>—</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>38–39</td><td>+14</td><td>—</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>2</td></tr><tr><td>40–41</td><td>+15</td><td>—</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td></tr><tr><td>42–43</td><td>+16</td><td>—</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td></tr><tr><td>44–45</td><td>+17</td><td>—</td><td>5</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td></tr></table>
+
 
 {s:Reference|CARACTERISTIQUESETLANCEURSDESORTS}
 #### Caractéristiques et lanceurs de sorts

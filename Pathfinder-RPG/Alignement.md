@@ -43,16 +43,9 @@ Les gens Neutres vis à vis de la Loi et du Chaos sont naturellement respectueux
 De temps à autre, les règles emploient le terme d’ « étapes » quand elles traitent des alignements. Dans ce cas, « étape » renvoie au nombre de différences entre deux alignements, comme montré dans le diagramme ci-dessous. Les « étapes » diagonales comptent pour deux. Par exemple, un personnage [[Alignement#LN|Loyal Neutre]] est à une étape d’un personnage [[Alignement#LB|Loyal Bon]], et à trois étapes d’un personnage [[Alignement#CM|Chaotique Mauvais]]. L’alignement d’un [[prêtre]] doit se situer au maximum à une étape de celui de sa divinité.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-|   || Loi || Neutre || Chaos
-|- CLASS="premier"
-| **Bien** || [[LB|Loyal bon]] || [[NB|Neutre bon]] || [[CB|Chaotique bon]]
-|-
-| **Neutre** || [[LN|Loyal neutre]] || [[N|Neutre]] || [[CN|Chaotique neutre]]
-|-
-| **Mal** || [[LM|Loyal mauvais]] || [[NM|Neutre mauvais]] || [[CM|Chaotique mauvais]]
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>|| Loi</td><td>Neutre</td><td>Chaos</td></tr><tr CLASS="premier"><td>**Bien**</td><td>[[LB|Loyal bon]]</td><td>[[NB|Neutre bon]]</td><td>[[CB|Chaotique bon]]</td></tr><tr><td>**Neutre**</td><td>[[LN|Loyal neutre]]</td><td>[[N|Neutre]]</td><td>[[CN|Chaotique neutre]]</td></tr><tr><td>**Mal**</td><td>[[LM|Loyal mauvais]]</td><td>[[NM|Neutre mauvais]]</td><td>[[CM|Chaotique mauvais]]</td></tr></table>
+
 </center>
 
 ### Les neuf alignements

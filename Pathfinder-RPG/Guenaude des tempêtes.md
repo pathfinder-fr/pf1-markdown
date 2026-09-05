@@ -46,25 +46,9 @@ Categories:
 {s:BDTexte|**Vents cinglants (Sur).** Par une [[action simple]], une guenaude des tempêtes peut utiliser une bourrasque afin de faire un [[croc-en-jambe]] à ses ennemis. Ce pouvoir ne peut affecter qu’une seule cible se trouvant dans un rayon de 9 mètres et la guenaude des tempêtes doit utiliser son [[BMO]] normal. Dans ce cas, la bourrasque ne provoque pas ses effets habituels. Le croc-en-jambe ne provoque pas d’[[AO|attaque d’opportunité]], l’incantation de ce pouvoir magique en déclenche comme à l’accoutumée.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de guenaude
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Guenaude annis]] || 6
-|-
-| [[Guenaude arctique]] || 7
-|-
-| [[Guenaude de sang]] || 8
-|-
-| [[Guenaude des tempêtes]] || 7
-|-
-| [[Guenaude marine]] || 4
-|-
-| [[Guenaude noire]] || 9
-|-
-| [[Guenaude verte]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de guenaude</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Guenaude annis]]</td><td>6</td></tr><tr><td>[[Guenaude arctique]]</td><td>7</td></tr><tr><td>[[Guenaude de sang]]</td><td>8</td></tr><tr><td>[[Guenaude des tempêtes]]</td><td>7</td></tr><tr><td>[[Guenaude marine]]</td><td>4</td></tr><tr><td>[[Guenaude noire]]</td><td>9</td></tr><tr><td>[[Guenaude verte]]</td><td>5</td></tr></table>
+
 </div>*Des étincelles d’électricité crépitent au bout des cheveux, griffes et dents de cette guenaude. Ses cheveux, battus par les vents, s’élèvent au-dessus de sa tête comme un cumulonimbus.*
 
 Quand les nuages virent au gris et que le vent se met à hurler, les voyageurs aguerris prient pour qu’il ne s’agisse que d’un orage normal et pas d’une guenaude des tempêtes. Une guenaude des tempêtes ressemble à une vieille femme dont les cheveux forment une nuée d’orage. Sa bouche ouverte révèle de fines dents pointues, au bout desquelles dansent de petits arcs électriques. Des serres noires émergent du bout de leurs doigts et elles aussi crépitent et libèrent des étincelles. Une guenaude des tempêtes pèse environ 35 kilos et fait 1,20 mètre, mais si elle se tenait droite, elle pourrait atteindre 1,50 mètre.

@@ -5,52 +5,10 @@ LastModified: 2020-11-10 13:39
 ---
 
 <center>
-{| CLASS="tablo"
-|+ Résumé des compétences
-|- CLASS="titre"
-| Compétence || [[Agent|AGT]] || [[Émissaire|ÉMI]] || [[Mécano|MÉC]] || [[Mystique|MYS]] || [[Solarien|SOL]] || [[Soldat|SDT]] || [[Technomancien|TEC]] || Utilisable   
-sans formation || Caractéristique
-|- CLASS="premier"
-| [[Acrobaties]] || C || C || — || — || C || C || — || Oui || Dex*
-|- CLASS="alt"
-| [[Athlétisme]] || C || C || C || — || C || C || — || Oui || For*
-|-
-| [[Bluff]] || C || C || — || C || — || — || — || Oui || Cha
-|- CLASS="alt"
-| [[Culture]] || C || C || — || C || — || — || — || Non || Int
-|-
-| [[Déguisement]] || C || C || — || C || — || — || — || Oui || Cha
-|- CLASS="alt"
-| [[Diplomatie]] || — || C || — || C || C || — || — || Oui || Cha
-|-
-| [[Discrétion]] || C || C || — || — || C || — || — || Oui || Dex*
-|- CLASS="alt"
-| [[Escamotage]] || C || C || — || — || — || — || C || Non || Dex*
-|-
-| [[Informatique]] || C || C || C || — || — || — || C || Non || Int
-|- CLASS="alt"
-| [[Ingénierie]] || C || C || C || — || — || C || C || Non || Int
-|-
-| [[Intimidation]] || C || C || — || C || C || C || — || Oui || Cha
-|- CLASS="alt"
-| [[Médecine]] || C || C || C || C || — || C || — || Non || Int
-|-
-| [[Mysticisme]] || — || — || — || C || C || — || C || Non || Sag
-|- CLASS="alt"
-| [[Perception]] || C || C || C || C || C || — || — || Oui || Sag
-|-
-| [[Pilotage]] || C || C || C || — || — || C || C || Oui || Dex
-|- CLASS="alt"
-| [[Profession]] || C || C || C || C || C || C || C || Non || Cha, Int ou Sag
-|-
-| [[Psychologie]] || C || C || — || C || C || — || — || Oui || Sag
-|- CLASS="alt"
-| [[Sciences de la vie]] || — || — || — || C || — || — || C || Non || Int
-|-
-| [[Sciences physiques]] || — || — || C || — || C || — || C || Non || Int
-|- CLASS="alt"
-| [[Survie]] || C || — || — || C || — || C || — || Oui || Sag
-|}
+
+<table CLASS="tablo"><caption>Résumé des compétences</caption><tr CLASS="titre"><td>Compétence</td><td>[[Agent|AGT]]</td><td>[[Émissaire|ÉMI]]</td><td>[[Mécano|MÉC]]</td><td>[[Mystique|MYS]]</td><td>[[Solarien|SOL]]</td><td>[[Soldat|SDT]]</td><td>[[Technomancien|TEC]]</td><td>Utilisable   
+sans formation</td><td>Caractéristique</td></tr><tr CLASS="premier"><td>[[Acrobaties]]</td><td>C</td><td>C</td><td>—</td><td>—</td><td>C</td><td>C</td><td>—</td><td>Oui</td><td>Dex*</td></tr><tr CLASS="alt"><td>[[Athlétisme]]</td><td>C</td><td>C</td><td>C</td><td>—</td><td>C</td><td>C</td><td>—</td><td>Oui</td><td>For*</td></tr><tr><td>[[Bluff]]</td><td>C</td><td>C</td><td>—</td><td>C</td><td>—</td><td>—</td><td>—</td><td>Oui</td><td>Cha</td></tr><tr CLASS="alt"><td>[[Culture]]</td><td>C</td><td>C</td><td>—</td><td>C</td><td>—</td><td>—</td><td>—</td><td>Non</td><td>Int</td></tr><tr><td>[[Déguisement]]</td><td>C</td><td>C</td><td>—</td><td>C</td><td>—</td><td>—</td><td>—</td><td>Oui</td><td>Cha</td></tr><tr CLASS="alt"><td>[[Diplomatie]]</td><td>—</td><td>C</td><td>—</td><td>C</td><td>C</td><td>—</td><td>—</td><td>Oui</td><td>Cha</td></tr><tr><td>[[Discrétion]]</td><td>C</td><td>C</td><td>—</td><td>—</td><td>C</td><td>—</td><td>—</td><td>Oui</td><td>Dex*</td></tr><tr CLASS="alt"><td>[[Escamotage]]</td><td>C</td><td>C</td><td>—</td><td>—</td><td>—</td><td>—</td><td>C</td><td>Non</td><td>Dex*</td></tr><tr><td>[[Informatique]]</td><td>C</td><td>C</td><td>C</td><td>—</td><td>—</td><td>—</td><td>C</td><td>Non</td><td>Int</td></tr><tr CLASS="alt"><td>[[Ingénierie]]</td><td>C</td><td>C</td><td>C</td><td>—</td><td>—</td><td>C</td><td>C</td><td>Non</td><td>Int</td></tr><tr><td>[[Intimidation]]</td><td>C</td><td>C</td><td>—</td><td>C</td><td>C</td><td>C</td><td>—</td><td>Oui</td><td>Cha</td></tr><tr CLASS="alt"><td>[[Médecine]]</td><td>C</td><td>C</td><td>C</td><td>C</td><td>—</td><td>C</td><td>—</td><td>Non</td><td>Int</td></tr><tr><td>[[Mysticisme]]</td><td>—</td><td>—</td><td>—</td><td>C</td><td>C</td><td>—</td><td>C</td><td>Non</td><td>Sag</td></tr><tr CLASS="alt"><td>[[Perception]]</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>—</td><td>—</td><td>Oui</td><td>Sag</td></tr><tr><td>[[Pilotage]]</td><td>C</td><td>C</td><td>C</td><td>—</td><td>—</td><td>C</td><td>C</td><td>Oui</td><td>Dex</td></tr><tr CLASS="alt"><td>[[Profession]]</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>C</td><td>Non</td><td>Cha, Int ou Sag</td></tr><tr><td>[[Psychologie]]</td><td>C</td><td>C</td><td>—</td><td>C</td><td>C</td><td>—</td><td>—</td><td>Oui</td><td>Sag</td></tr><tr CLASS="alt"><td>[[Sciences de la vie]]</td><td>—</td><td>—</td><td>—</td><td>C</td><td>—</td><td>—</td><td>C</td><td>Non</td><td>Int</td></tr><tr><td>[[Sciences physiques]]</td><td>—</td><td>—</td><td>C</td><td>—</td><td>C</td><td>—</td><td>C</td><td>Non</td><td>Int</td></tr><tr CLASS="alt"><td>[[Survie]]</td><td>C</td><td>—</td><td>—</td><td>C</td><td>—</td><td>C</td><td>—</td><td>Oui</td><td>Sag</td></tr></table>
+
 
 ''C = compétence de classe  
 (*) le malus d’armure s’applique''

@@ -50,17 +50,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de momie
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Momie]] || 5
-|-
-| [[Momie des marais]] || 4
-|-
-| [[Seigneur momie humain]] || 10
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de momie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Momie]]</td><td>5</td></tr><tr><td>[[Momie des marais]]</td><td>4</td></tr><tr><td>[[Seigneur momie humain]]</td><td>10</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Seigneur momie, archétype|Seigneur momie]].***</li></ul>*Cette silhouette émaciée, d’apparence autrefois noble, est emmaillotée dans des bandelettes de lin sales de la tête aux pieds. Ses yeux brûlent d’un éclat impie.*
 
 De nombreuses cultures pratiquent l’art sacré de la momification, mais les sinistres techniques magiques permettant d’insuffler de la vitalité morte-vivante dans les cadavres sont bien moins répandues. Dans certaines civilisations anciennes, ces techniques blasphématoires avaient été raffinées au cours de siècles de cérémonies et grâce à d’innombrables morts, afin de pouvoir créer des momies dotées d’une terrible puissance. En de rares occasions, quand le décédé avait un rang important et était d’une malveillance exemplaire, il pouvait être l’objet de tels rituels et se relever d’entre les morts sous la forme d’un terrible seigneur momie. De la même manière, il est arrivé qu’un dirigeant réputé pour sa méchanceté ou mort dans un moment de grande rage soit spontanément revenu d’entre les morts sous la forme d’un despote vengeur. Mais peu importe les circonstances exactes de sa résurrection, un seigneur momie conserve les capacités qu’il avait dans sa vie. C’est une créature rongée par le désir de retrouver le pouvoir qu’il avait de son vivant et de dominer les morts et les vivants.

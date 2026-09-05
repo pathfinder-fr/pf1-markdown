@@ -19,55 +19,7 @@ Si vous êtes dans les tenants de la seconde explication, rien ne vous empêche 
 
 
 <center>
-{| CLASS="tablo"
-|+ Les familiers et les capacités spéciales
-|- CLASS="titre"
-| Familier
-| CLASS="gauche" | Capacité spéciale
-|- CLASS="premier"
-| Caméléon
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux tests de déguisement.
-|- CLASS="alt"
-| Canard, oiseaux marins
-| CLASS="gauche" | Le maître obtient un bonus de +2 aux jets de natation et de +2 aux jets de vol.
-|-
-| Chien (TP)
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux tests de psychologie.
-|- CLASS="alt"
-| Grenouille
-| CLASS="gauche" | Le maître obtient un bonus de +2 aux tests de natation et de +2 aux tests d'acrobaties.
-|-
-| Lapin
-| CLASS="gauche" | Le maître obtient un bonus de +1 aux tests de perception et de +2 aux tests d'acrobatie.
-|-  CLASS="alt"
-| Mangouste, suricate
-| CLASS="gauche" | Le maître obtient un bonus de +1 aux tests d’initiative et de +2 aux jets de vigueur contre les poisons.
-|-
-| Merle, pinson
-| CLASS="gauche" | Le maître obtient un bonus de +3 sur ses tests de représentation(chant)
-|- CLASS="alt"
-| Oie
-| CLASS="gauche" | Le maître obtient un bonus de +3 sur ses tests d'intimidation.
-|-
-| Orvet
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux tests d'évasion.
-|- CLASS="alt"
-| Panda roux, raton laveur
-| CLASS="gauche" | Le maître obtient un bonus de +1 aux jets de vigueur et de réflexe.
-|-
-| Paon, faisan
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux jets de diplomatie.
-|- CLASS="alt" |-
-| Pécari, cochon TP
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux jets de survie.
-|-
-| Pie
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux tests d'escamotage.
-|- CLASS="alt"
-| Souris, hamster
-| CLASS="gauche" | Le maître obtient un bonus de +3 aux jets de discrétion.
-|  |
-|-
-|  |
-|}
+
+<table CLASS="tablo"><caption>Les familiers et les capacités spéciales</caption><tr CLASS="titre"><td>Familier</td><td CLASS="gauche">Capacité spéciale</td></tr><tr CLASS="premier"><td>Caméléon</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de déguisement.</td></tr><tr CLASS="alt"><td>Canard, oiseaux marins</td><td CLASS="gauche">Le maître obtient un bonus de +2 aux jets de natation et de +2 aux jets de vol.</td></tr><tr><td>Chien (TP)</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests de psychologie.</td></tr><tr CLASS="alt"><td>Grenouille</td><td CLASS="gauche">Le maître obtient un bonus de +2 aux tests de natation et de +2 aux tests d'acrobaties.</td></tr><tr><td>Lapin</td><td CLASS="gauche">Le maître obtient un bonus de +1 aux tests de perception et de +2 aux tests d'acrobatie.</td></tr><tr CLASS="alt"><td>Mangouste, suricate</td><td CLASS="gauche">Le maître obtient un bonus de +1 aux tests d’initiative et de +2 aux jets de vigueur contre les poisons.</td></tr><tr><td>Merle, pinson</td><td CLASS="gauche">Le maître obtient un bonus de +3 sur ses tests de représentation(chant)</td></tr><tr CLASS="alt"><td>Oie</td><td CLASS="gauche">Le maître obtient un bonus de +3 sur ses tests d'intimidation.</td></tr><tr><td>Orvet</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d'évasion.</td></tr><tr CLASS="alt"><td>Panda roux, raton laveur</td><td CLASS="gauche">Le maître obtient un bonus de +1 aux jets de vigueur et de réflexe.</td></tr><tr><td>Paon, faisan</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de diplomatie.</td></tr><tr CLASS="alt" |-><td>Pécari, cochon TP</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de survie.</td></tr><tr><td>Pie</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux tests d'escamotage.</td></tr><tr CLASS="alt"><td>Souris, hamster</td><td CLASS="gauche">Le maître obtient un bonus de +3 aux jets de discrétion.</td></tr></table>
+
 </center>

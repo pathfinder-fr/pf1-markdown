@@ -39,27 +39,5 @@ Le personnage peut manipuler les ombres et les ténèbres. Il reçoit également
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de l'Obscurité
-| Sous-domaine de la Nuit || Sous-domaine de la Perte || Sous-domaine de la Lune
-|- CLASS="premier"
-| 1er || *[[brume de dissimulation]]* || *[[sommeil]]* || *idem* || *[[lueur féerique]]*
-|-
-| 2e || *[[cécitésurdité|cécité/surdité]]* (cécité uniquement) || *idem* || *idem* || *idem*
-|-
-| 3e || *[[ténèbres profondes]]* || *idem* || *idem* || *idem*
-|-
-| 4e || *[[convocation dombres|convocation d’ombres]]* || *idem* || *idem* || *[[pleine lune]]*
-|-
-| 5e || *[[convocation de monstres V]] (1d3 ombres uniquement)* || *idem* || *[[énergie négative]]* || *idem*
-|-
-| 6e || *[[traversée des ombres]]* || *[[cauchemar]]* || *[[modification de mémoire]]* || *[[songe]]*
-|-
-| 7e || *[[mot de pouvoir aveuglant]]* || *idem* || *idem* || *idem*
-|-
-| 8e || *[[convocation dombres suprême|convocation d’ombres suprême]]* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[reflets dombre|reflets d’ombre]]* || *idem* || *[[sort absorption dénergie|absorption d'énergie]]* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de l'Obscurité</td><td>Sous-domaine de la Nuit</td><td>Sous-domaine de la Perte</td><td>Sous-domaine de la Lune</td></tr><tr CLASS="premier"><td>1er</td><td>*[[brume de dissimulation]]*</td><td>*[[sommeil]]*</td><td>*idem*</td><td>*[[lueur féerique]]*</td></tr><tr><td>2e</td><td>*[[cécitésurdité|cécité/surdité]]* (cécité uniquement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[ténèbres profondes]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[convocation dombres|convocation d’ombres]]*</td><td>*idem*</td><td>*idem*</td><td>*[[pleine lune]]*</td></tr><tr><td>5e</td><td>*[[convocation de monstres V]] (1d3 ombres uniquement)*</td><td>*idem*</td><td>*[[énergie négative]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[traversée des ombres]]*</td><td>*[[cauchemar]]*</td><td>*[[modification de mémoire]]*</td><td>*[[songe]]*</td></tr><tr><td>7e</td><td>*[[mot de pouvoir aveuglant]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[convocation dombres suprême|convocation d’ombres suprême]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[reflets dombre|reflets d’ombre]]*</td><td>*idem*</td><td>*[[sort absorption dénergie|absorption d'énergie]]*</td><td>*idem*</td></tr></table>

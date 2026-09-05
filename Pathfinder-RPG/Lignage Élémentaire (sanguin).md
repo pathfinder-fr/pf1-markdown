@@ -24,20 +24,9 @@ L’un des quatre éléments imprègne le corps du sanguin qui peut puiser dans 
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt" ID="tabligelem"
-|+ lignage élémentaire
-|- CLASS="titre"
-| Élément || Type d'énergie || Déplacement élémentaire
-|- CLASS="premier"
-| Air || Électricité || Vol 18 mètres (bonne)
-|-
-| Eau || Froid || Nage 18 mètres
-|-
-| Feu || Feu || +9 mètres à la vitesse
-|-
-| Terre || Acide || Creusement 9 mètres
-|-
-|}
+
+<table CLASS="tablo centre toutgauche autoalt" ID="tabligelem"><caption>lignage élémentaire</caption><tr CLASS="titre"><td>Élément</td><td>Type d'énergie</td><td>Déplacement élémentaire</td></tr><tr CLASS="premier"><td>Air</td><td>Électricité</td><td>Vol 18 mètres (bonne)</td></tr><tr><td>Eau</td><td>Froid</td><td>Nage 18 mètres</td></tr><tr><td>Feu</td><td>Feu</td><td>+9 mètres à la vitesse</td></tr><tr><td>Terre</td><td>Acide</td><td>Creusement 9 mètres</td></tr></table>
+
 </div></div>Au niveau 1, le sanguin choisit un élément : air, eau, feu ou terre. Il ne peut plus en changer par la suite. Une partie de ses pouvoirs infligent des dégâts et offrent des résistances basés sur son élément, comme indiqué plus loin.
 
 **Frappes élémentaires (Sur).** Au niveau 1, le sanguin peut imprégner ses attaques au corps à corps de son énergie élémentaire et ce, par une [[action rapide]] et trois fois par jour. Pendant 1 [[round]], l’attaque inflige alors 1d6 points de dégâts supplémentaires du type d’énergie choisi au départ. Au niveau 8, il peut utiliser ce pouvoir cinq fois par jour et au niveau 20, toutes ses attaques de corps à corps infligent ces dégâts supplémentaires, le sanguin n’a même plus besoin de dépenser une action rapide pour activer le pouvoir.

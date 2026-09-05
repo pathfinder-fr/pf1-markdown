@@ -17,37 +17,9 @@ Une induction n’est plus implantée une fois déclenchée. Elle ne peut donc p
 
 L’hypnotiseur connaît une induction au niveau 1. Il en apprend une nouvelle au niveau 2 puis tous les 2 niveaux par la suite (jusqu’à un maximum de 11 inductions au niveau 20). Chaque utilisation quotidienne des inductions d’hypnotiseur peut être utilisée pour implanter une des inductions que le personnage connaît. Sauf indication clairement spécifiée dans la description, un hypnotiseur ne peut pas choisir plusieurs fois une même induction.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="80%"
-|+ Inductions d’hypnotiseur
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="3" | Inductions
-|- CLASS="premier"
-| [[inductions#APPARENCEDOCILE|Apparence docile]] || [[inductions#ECHARDEDOMBRE|Écharde d'ombre]] || [[Inductions#MESSAGERINVOLONTAIRE|Messager involontaire]]
-|-
-| [[inductions#APPARENCETERRIFIANTE|Apparence terrifiante]] || [[inductions#EVITEMENTSTUPEFIANT|Évitement stupéfiant]] || [[inductions#MIROIRHYPNOTIQUE|Miroir hypnotique]]
-|-
-| [[inductions#ATTENUATIONDELADOULEUR|Atténuation de la douleur]] || [[inductions#FAIBLESSEDUPLIQUEE|Faiblesse dupliquée]] || [[inductions#PANTOMIMEHYPNOTIQUE|Pantomime hypnotique]]
-|-
-| [[inductions#CELERITEINDUITE|Célérité induite]] || [[inductions#FEINTESOURNOISE|Feinte sournoise]] || [[inductions#REACTIONCONNEXE|Réaction connexe]]
-|-
-| [[Inductions#CHAINEDYEUX|Chaîne d'yeux]] || [[inductions#FUMEEFANTOMATIQUE|Fumée fantomatique]] || [[inductions#SOUTIENPSYCHOSOMATIQUE|Soutien psychosomatique]]
-|-
-| [[inductions#DISPARITIONDEPROJECTILE|Disparition de projectile]] || [[inductions#LEVITATIONPROTECTRICE|Lévitation protectrice]] || [[inductions#TENAILLETROMPEUSE|Tenaille trompeuse]]
-|-
-| [[inductions#DONDEVOLONTE|Don de volonté]] || [[Inductions#LIENSGLISSANTS|Liens glissants]] || &emsp;
-|- CLASS="titre"
-| &emsp;
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="3" | Inductions de maître
-|- CLASS="premier"
-| [[inductions#ANTICIPATIONMAGIQUE|Anticipation magique]] || [[inductions#FUITEAVIAIRE|Fuite aviaire]] || [[inductions#RECOURSMENTAL|Recours mental]]
-|-
-| [[inductions#ATTENUATIONSUPREMEDELADOULEUR|Atténuation suprême de la douleur]] || [[Inductions#IGNORANCEDELIBEREE|Ignorance délibérée]] || [[inductions#SANCTIONMAUDITE|Sanction maudite]]
-|-
-| [[inductions#BLESSUREIMAGINAIRE|Blessure imaginaire]] || [[inductions#LIBERTEPSYCHIQUE|Liberté psychique]] || [[Inductions#VOILEDEDISSIMULATION|Voile de dissimulation]]
-|-
-| [[inductions#ECHANGEDEPOSITIONS|Échange de positions]] || [[inductions#MORTFACTICE|Mort factice]] || &emsp;
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="80%"><caption>Inductions d’hypnotiseur</caption><tr CLASS="titre"><td CLASS="centre" COLSPAN="3">Inductions</td></tr><tr CLASS="premier"><td>[[inductions#APPARENCEDOCILE|Apparence docile]]</td><td>[[inductions#ECHARDEDOMBRE|Écharde d'ombre]]</td><td>[[Inductions#MESSAGERINVOLONTAIRE|Messager involontaire]]</td></tr><tr><td>[[inductions#APPARENCETERRIFIANTE|Apparence terrifiante]]</td><td>[[inductions#EVITEMENTSTUPEFIANT|Évitement stupéfiant]]</td><td>[[inductions#MIROIRHYPNOTIQUE|Miroir hypnotique]]</td></tr><tr><td>[[inductions#ATTENUATIONDELADOULEUR|Atténuation de la douleur]]</td><td>[[inductions#FAIBLESSEDUPLIQUEE|Faiblesse dupliquée]]</td><td>[[inductions#PANTOMIMEHYPNOTIQUE|Pantomime hypnotique]]</td></tr><tr><td>[[inductions#CELERITEINDUITE|Célérité induite]]</td><td>[[inductions#FEINTESOURNOISE|Feinte sournoise]]</td><td>[[inductions#REACTIONCONNEXE|Réaction connexe]]</td></tr><tr><td>[[Inductions#CHAINEDYEUX|Chaîne d'yeux]]</td><td>[[inductions#FUMEEFANTOMATIQUE|Fumée fantomatique]]</td><td>[[inductions#SOUTIENPSYCHOSOMATIQUE|Soutien psychosomatique]]</td></tr><tr><td>[[inductions#DISPARITIONDEPROJECTILE|Disparition de projectile]]</td><td>[[inductions#LEVITATIONPROTECTRICE|Lévitation protectrice]]</td><td>[[inductions#TENAILLETROMPEUSE|Tenaille trompeuse]]</td></tr><tr><td>[[inductions#DONDEVOLONTE|Don de volonté]]</td><td>[[Inductions#LIENSGLISSANTS|Liens glissants]]</td><td>&emsp;</td></tr><tr CLASS="titre"><td>&emsp;</td></tr><tr CLASS="titre"><td CLASS="centre" COLSPAN="3">Inductions de maître</td></tr><tr CLASS="premier"><td>[[inductions#ANTICIPATIONMAGIQUE|Anticipation magique]]</td><td>[[inductions#FUITEAVIAIRE|Fuite aviaire]]</td><td>[[inductions#RECOURSMENTAL|Recours mental]]</td></tr><tr><td>[[inductions#ATTENUATIONSUPREMEDELADOULEUR|Atténuation suprême de la douleur]]</td><td>[[Inductions#IGNORANCEDELIBEREE|Ignorance délibérée]]</td><td>[[inductions#SANCTIONMAUDITE|Sanction maudite]]</td></tr><tr><td>[[inductions#BLESSUREIMAGINAIRE|Blessure imaginaire]]</td><td>[[inductions#LIBERTEPSYCHIQUE|Liberté psychique]]</td><td>[[Inductions#VOILEDEDISSIMULATION|Voile de dissimulation]]</td></tr><tr><td>[[inductions#ECHANGEDEPOSITIONS|Échange de positions]]</td><td>[[inductions#MORTFACTICE|Mort factice]]</td><td>&emsp;</td></tr></table>
+
 
 ### Description des inductions d'hypnotiseur
 <div class="article_2col">{s:AO}{s:Reference|APPARENCEDOCILE}

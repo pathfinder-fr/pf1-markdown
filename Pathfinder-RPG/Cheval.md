@@ -39,15 +39,9 @@ Categories:
 
 {s:ImageDroite|Bestiaire/Cheval.jpg|90%}
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cheval
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cheval]] || 1
-|-
-| [[Poney]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cheval</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cheval]]</td><td>1</td></tr><tr><td>[[Poney]]</td><td>1/2</td></tr></table>
+
 </div>*Ce fier cheval traverse la plaine herbeuse dans un galop gracieux alors que le vent agite la barde qui le protège.*
 
 Les chevaux mesurent entre 1,50 mètre et 1,80 mètre de

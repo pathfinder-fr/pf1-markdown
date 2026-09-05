@@ -5,17 +5,9 @@ LastModified: 2019-10-19 00:22
 ---
 
 <table width="100%">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="80%"
-|+ Objets alchimiques - Aventures occultes
-|- CLASS="titre"
-| Nom || Prix || Poids
-|- CLASS="premier"
-| [[Objets alchimiques - Aventures occultes#Papier magnétisé|Papier magnétisé]] || 11 po || 0,5 KG
-|-
-| [[Objets alchimiques - Aventures occultes#Remède miracle|Remède miracle]] || 20 || —
-|-
-| [[Objets alchimiques - Aventures occultes#Résidu ectoplasmique|Résidu ectoplasmique]] || 20 po || 1 KG
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="80%"><caption>Objets alchimiques - Aventures occultes</caption><tr CLASS="titre"><td>Nom</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Objets alchimiques - Aventures occultes#Papier magnétisé|Papier magnétisé]]</td><td>11 po</td><td>0,5 KG</td></tr><tr><td>[[Objets alchimiques - Aventures occultes#Remède miracle|Remède miracle]]</td><td>20</td><td>—</td></tr><tr><td>[[Objets alchimiques - Aventures occultes#Résidu ectoplasmique|Résidu ectoplasmique]]</td><td>20 po</td><td>1 KG</td></tr></table>
+
 
 
 

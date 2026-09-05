@@ -27,16 +27,9 @@ s’engager ou faire de sacrifices personnels pour aider autrui.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-|   || Loi || Neutre || Chaos
-|- CLASS="premier"
-| **Bien** || Loyal bon || Neutre bon || Chaotique bon
-|-
-| **Neutre** || Loyal neutre || Neutre || Chaotique neutre
-|-
-| **Mal** || Loyal mauvais || Neutre mauvais || Chaotique mauvais
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>|| Loi</td><td>Neutre</td><td>Chaos</td></tr><tr CLASS="premier"><td>**Bien**</td><td>Loyal bon</td><td>Neutre bon</td><td>Chaotique bon</td></tr><tr><td>**Neutre**</td><td>Loyal neutre</td><td>Neutre</td><td>Chaotique neutre</td></tr><tr><td>**Mal**</td><td>Loyal mauvais</td><td>Neutre mauvais</td><td>Chaotique mauvais</td></tr></table>
+
 </center>
 </div>
 </div>

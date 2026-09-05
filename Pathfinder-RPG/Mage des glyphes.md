@@ -12,53 +12,9 @@ Categories:
 
 {s:Reference|TABLEMAGEDESGLYPHES}
 <center>
-{| CLASS="tablo autoalt"
-|+ Le Mage des Glyphes
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Mage des glyphes#CONNAISSANCEDESGLYPHES|Seigneur des glyphes]]
-| CLASS="gauche" | [[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Le Mage des Glyphes</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Connaissances des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Mage des glyphes#CONNAISSANCEDESGLYPHES|Seigneur des glyphes]]</td><td CLASS="gauche">[[Mage des glyphes#SORTS|+1 niveau dans une classe de lanceur de sorts profanes]]</td></tr></table>
+
 </center>
 
 **Dés de Vie.** d6.

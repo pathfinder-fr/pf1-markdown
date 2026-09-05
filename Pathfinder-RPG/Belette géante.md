@@ -38,17 +38,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de belette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Belette]] || 1/2
-|-
-| [[Belette géante]] || 1
-|-
-| [[Belette sanguinaire]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de belette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Belette]]</td><td>1/2</td></tr><tr><td>[[Belette géante]]</td><td>1</td></tr><tr><td>[[Belette sanguinaire]]</td><td>3</td></tr></table>
+
 </div>*Les longs crocs, le corps svelte et musclé et le chuintement agressif de cette créature de la taille d’un loup mettent en exergue sa nature prédatrice.*
 
 À l’identique des [[Belette|belettes]] ordinaires, le corps des spécimens géants est svelte et tout en longueur. Leurs pattes sont courtes et la couleur de leur fourrure varie du brun roux au blanc immaculé.

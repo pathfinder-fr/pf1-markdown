@@ -117,20 +117,9 @@ Les sections suivantes présentent les principaux types de vampires et les arch�
 #### Dons
 Les vampires et leurs semblables peuvent utiliser les dons suivants pour accroître leurs chances de survie.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Compagnon vampirique]]</td><td><sup>CM</sup></td><td>[[Dhampir (race)|Dhampir]] ou [[vampire]], alignement non-Bon, 10 niveaux dans une classe qui confèfe un [[compagnon animal]] ou un [[familier]]</td><td>Gain d'un compagnon animal mort-vivant vampirique</td></tr><tr CLASS="premier"><td>[[Tolérance à laversion|Tolérance à l'aversion]]</td><td><sup>CM</sup></td><td>[[Vampire]]</td><td>+2 aux jets de sauvegarde pour résister aux aversions</td></tr></table>
 
-|- CLASS="premier"
-| [[Compagnon vampirique]] || <sup>CM</sup> || [[Dhampir (race)|Dhampir]] ou [[vampire]], alignement non-Bon, 10 niveaux dans une classe qui confèfe un [[compagnon animal]] ou un [[familier]] || Gain d'un compagnon animal mort-vivant vampirique
-
-|- CLASS="premier"
-| [[Tolérance à laversion|Tolérance à l'aversion]] || <sup>CM</sup> || [[Vampire]] || +2 aux jets de sauvegarde pour résister aux aversions
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Équipement

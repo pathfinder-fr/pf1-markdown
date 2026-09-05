@@ -34,35 +34,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de mégafaune
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Archelon]] || 5
-|-
-| [[Arsinoithérium]] || 7
-|-
-| [[Baluchithérium]] || 8
-|-
-| [[Basilosaure]] || 12
-|-
-| [[Chalicothérium]] || 6
-|-
-| [[Glyptodonte]] || 6
-|-
-| [[Kaprosuchus]] || 5
-|-
-| [[Mégalania]] || 7
-|-
-| [[Mégalocéros]] || 4
-|-
-| [[Mégathérium]] || 5
-|-
-| [[Moa]] || 2
-|-
-| [[Uintathérium]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de mégafaune</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Archelon]]</td><td>5</td></tr><tr><td>[[Arsinoithérium]]</td><td>7</td></tr><tr><td>[[Baluchithérium]]</td><td>8</td></tr><tr><td>[[Basilosaure]]</td><td>12</td></tr><tr><td>[[Chalicothérium]]</td><td>6</td></tr><tr><td>[[Glyptodonte]]</td><td>6</td></tr><tr><td>[[Kaprosuchus]]</td><td>5</td></tr><tr><td>[[Mégalania]]</td><td>7</td></tr><tr><td>[[Mégalocéros]]</td><td>4</td></tr><tr><td>[[Mégathérium]]</td><td>5</td></tr><tr><td>[[Moa]]</td><td>2</td></tr><tr><td>[[Uintathérium]]</td><td>7</td></tr></table>
+
 </div>*Cette grande créature a des airs de rhinocéros, mais est affublée de longs crocs comme ceux d’un tigre à dents de sabre et de petites crêtes ressemblant à des cornes.*
 
 Les uintathériums sont de grands herbivores qui vivent dans les marais et se nourrissent en arrachant des plantes aquatiques des eaux limoneuses à l’aide de leurs larges dents de devant. Ils utilisent aussi ces crocs pour se défendre quand ils se retrouvent face à des prédateurs et les mâles, qui ont des crocs plus gros, s’en servent lors de leur parade amoureuse. Les femelles n’hésitent pas non plus à utiliser leurs dents lors des combats, mais elles préfèrent intimider leurs ennemis pour qu’ils les laissent tranquilles.

@@ -23,16 +23,9 @@ Categories:
 Le personnage prononce un mot qui [[aveuglé|aveugle]] une créature de son choix, qu’elle entende le mot ou non. La durée du sort dépend du nombre de [[points de vie]] actuel de la créature affectée. Une créature dotée de plus de 200 [[points de vie]] n’est pas affectée.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Points de vie || Durée
-|- CLASS="premier"
-| Jusqu’à 50 || [[Permanente]]
-|- CLASS="alt"
-| 51–100 || 1d4+1 minutes
-|-
-| 101–200 || 1d4+1 [[round|rounds]]
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Points de vie</td><td>Durée</td></tr><tr CLASS="premier"><td>Jusqu’à 50</td><td>[[Permanente]]</td></tr><tr CLASS="alt"><td>51–100</td><td>1d4+1 minutes</td></tr><tr><td>101–200</td><td>1d4+1 [[round|rounds]]</td></tr></table>
+
 </center>
 
 {c:sort} {c:sort magicien 7} {c:manuel des joueurs} {c:règles officielles}

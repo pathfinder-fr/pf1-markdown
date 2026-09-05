@@ -38,15 +38,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'armure fantôme
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Armure fantôme gardienne]] || 2
-|-
-| [[Armure fantôme géante]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'armure fantôme</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Armure fantôme gardienne]]</td><td>2</td></tr><tr><td>[[Armure fantôme géante]]</td><td>4</td></tr></table>
+
 </div>*Cette armure bouge comme si elle était portée par un guerrier extrêmement compétent, mais il n’y a de toute évidence personne à l’intérieur.*
 
 Créées à partir des armures maculées de sang renfermant l’âme de chevaliers trahis ou de soldats tombés au combat, les armures fantômes, malgré leur délabrement, s’animent et bougent avec une précision et une détermination mortelles.

@@ -37,15 +37,9 @@ Categories:
 {s:ImageCentre|Bestiaire/Worg.jpg|95%}
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de worg
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Loup arctique]] || 5
-|-
-| [[Worg]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de worg</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Loup arctique]]</td><td>5</td></tr><tr><td>[[Worg]]</td><td>2</td></tr></table>
+
 </div>''On peut percevoir une intelligence maléfique dans les yeux rouge foncé de
 ce loup de grande taille.''
 

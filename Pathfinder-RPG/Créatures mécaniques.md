@@ -10,31 +10,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Variantes de créature mécanique
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cheval mécanique]] || 6
-|-
-| [[Dragon mécanique]] || 16
-|-
-| [[Escargot mécanique]] || 10
-|-
-| [[Espion mécanique]] || 1/2
-|-
-| [[Familier mécanique]] || 2
-|-
-| [[Goliath mécanique]] || 19
-|-
-| [[Léviathan mécanique]] || 12
-|-
-| [[Mage mécanique]] || 9
-|-
-| [[Serviteur mécanique]] || 2
-|-
-| [[Soldat mécanique]] || 6
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de créature mécanique</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cheval mécanique]]</td><td>6</td></tr><tr><td>[[Dragon mécanique]]</td><td>16</td></tr><tr><td>[[Escargot mécanique]]</td><td>10</td></tr><tr><td>[[Espion mécanique]]</td><td>1/2</td></tr><tr><td>[[Familier mécanique]]</td><td>2</td></tr><tr><td>[[Goliath mécanique]]</td><td>19</td></tr><tr><td>[[Léviathan mécanique]]</td><td>12</td></tr><tr><td>[[Mage mécanique]]</td><td>9</td></tr><tr><td>[[Serviteur mécanique]]</td><td>2</td></tr><tr><td>[[Soldat mécanique]]</td><td>6</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 3.</div>
 *Types/Sous-types associés : [[type Créature artificielle|Créature artificielle]] ([[sous-type créature mécanique|créature mécanique]])*
 

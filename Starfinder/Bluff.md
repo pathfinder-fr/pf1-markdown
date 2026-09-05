@@ -21,22 +21,9 @@ Vous pouvez utiliser le Bluff pour tromper quelqu’un ou mentir de manière con
 Le DD des tests de Bluff pour mentir sont modifiés en fonction de l’attitude initiale de la cible envers vous (voir [[Diplomatie]]) et d’autres circonstances déterminées par le MJ (comme la vraisemblance du mensonge).
 
 <center>
-{| CLASS="tablo"
-|+ Tests de bluff
-|- CLASS="titre"
-| Attitude initiale
-| Modificateur au DD
-|- CLASS="premier"
-| Hostile || +10
-|-
-| Inamical || +5
-|-
-| Indifférent || +0
-|-
-| Amical || -5
-|-
-| Serviable || -5
-|}
+
+<table CLASS="tablo"><caption>Tests de bluff</caption><tr CLASS="titre"><td>Attitude initiale</td><td>Modificateur au DD</td></tr><tr CLASS="premier"><td>Hostile</td><td>+10</td></tr><tr><td>Inamical</td><td>+5</td></tr><tr><td>Indifférent</td><td>+0</td></tr><tr><td>Amical</td><td>-5</td></tr><tr><td>Serviable</td><td>-5</td></tr></table>
+
 </center>
 
 

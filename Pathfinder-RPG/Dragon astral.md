@@ -31,52 +31,18 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon astral
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Jeune dragon astral]] || 9
-|-
-| [[Dragon astral adulte]] || 13
-|-
-| [[Dragon astral vénérable]] || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon astral</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon astral]]</td><td>9</td></tr><tr><td>[[Dragon astral adulte]]</td><td>13</td></tr><tr><td>[[Dragon astral vénérable]]</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>''Ce majestueux dragon semble scintiller sous l’effet d’une multitude de
 pensées astrales tourbillonnantes.''
 
 Réservés et hautains, ces dragons sillonnent le plan Astral pour en apprendre toujours plus sur les secrets ésotériques de cette dimension. Ils chassent pour se nourrir et utilisent la magie psychique pour affronter leurs semblables.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || [[Aura dintellect statique (capacité)|aura d'intellect statique]] || —
-|- CLASS="alt"
-| Très jeune || *[[détection de linvisibilité|détection de l'invisibilité]]* || —
-|-
-| Jeune || [[Magie psychique (capacité)|magie psychique]] || 1
-|- CLASS="alt"
-| Adolescent || [[Résilience psychique (capacité)|résilience psychique]] || 3
-|-
-| Jeune adulte || [[Magie psychique (capacité)|magie psychique]], [[RD]] 5/magie || 5
-|- CLASS="alt"
-| Adulte || changement de forme, [[présence terrifiante]] || 7
-|-
-| Âge mûr || [[Magie psychique (capacité)|magie psychique]], [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || ingérence psychique || 11
-|-
-| Très vieux || [[Magie psychique (capacité)|magie psychique]], [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || souffle déstabilisant || 15
-|-
-| Dracosire || [[Magie psychique (capacité)|magie psychique]], [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || voyage à la vitesse de la pensée || 19
-|}</center>
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>[[Aura dintellect statique (capacité)|aura d'intellect statique]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[détection de linvisibilité|détection de l'invisibilité]]*</td><td>—</td></tr><tr><td>Jeune</td><td>[[Magie psychique (capacité)|magie psychique]]</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>[[Résilience psychique (capacité)|résilience psychique]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 5/magie</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>changement de forme, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>ingérence psychique</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>souffle déstabilisant</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>voyage à la vitesse de la pensée</td><td>19</td></tr></table></center>
+
 </div>
 
 </td></tr></table>

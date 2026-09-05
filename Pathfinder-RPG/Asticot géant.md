@@ -37,15 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de parasite
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Asticot géant]] || 3
-|-
-| [[Nuée dasticots|Nuée d'asticots]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de parasite</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Asticot géant]]</td><td>3</td></tr><tr><td>[[Nuée dasticots|Nuée d'asticots]]</td><td>7</td></tr></table>
+
 </div>*Cet asticot blafard qui se tortille fait la même taille qu’un gros chien. Sa gueule circulaire frémit, haletante, au bout de son corps qui pulse.*
 
 Les asticots sont des parasites abjects et écœurants qui se nourrissent de la chair et se servent des cadavres comme nids où se développer. Si l’asticot peut se nourrir de la chair morte, il recherche surtout la chair des vivants. Heureusement, les nuées d’asticots se rencontrent rarement puisqu’il leur faut infester des carcasses de créature de taille TG, ou plus grandes, pendant de nombreuses semaines avant de développer le nombre d’asticots nécessaire pour constituer une nuée. Dans certains cas, l’asticot continue de se nourrir et de se développer, atteignant alors une taille énorme et devenant un asticot géant.

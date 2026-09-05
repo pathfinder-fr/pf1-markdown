@@ -39,36 +39,9 @@ hyènes), bande (10-100 gnolls (30% flinds et 50% de jeunes non combattants), 1 
 {s:BDTexte|**Armes familières.** Les flinds sont toujours formés au maniement du [[bâton de flind (arme)|bâton de flind]].}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Gnoll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gnoll]] || 1
-|-
-| [[Flind]] || 3
-|-
-| [[Cogneur gnoll]] || 3
-|-
-| [[Enragé-né gnoll]] || 3
-|-
-| [[Sergent gnoll]] || 4
-|-
-| [[OEil de Lamashtu]] || 5
-|-
-| [[Lieutenant gnoll]] || 6
-|-
-| [[Chef de meute gnoll]] || 9
-|-
-| [[Gardien gnoll]] || 10
-|-
-| [[Saccageur gnoll]] || 11
-|-
-| [[Élue de Lamashtu]] || 12
-|-
-| [[Buda gnoll]] || 13
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+
 </div>*Ce puissant humanoïde aux allures de hyène est plus grand que les gnolls ordinaires et possède un regard aussi rusé que cruel.*
 
 Les flinds sont un peu plus imposants, plus intelligents et plus robustes que les gnolls, mais c’est une idée fausse (bien que répandue) que de croire qu’ils forment une race distincte. Il se peut que ce soit un jour le cas à force de les croiser entre eux mais, pour l’instant, ils sont le produit d’un programme de reproduction soigneusement contrôlé par les femelles dominantes de chaque meute de gnolls.

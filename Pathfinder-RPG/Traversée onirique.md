@@ -19,20 +19,9 @@ Categories:
 ---
 Le personnage et les autres cibles du sort sont physiquement attirés hors du plan Matériel et entraînés dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]], dans un voyage au cœur des songes de la créature que le personnage a désignée. Dans la [[plans ésotériques#DIMENSIONDUREVE|Dimension du Rêve]], ils se déplacent sur une mer mouvante, faite des pensées, des désirs et des émotions des rêveurs, afin de gagner leur paysage onirique de destination. Pour cela, il leur faut 1 heure. Le personnage peut dissiper le sort à n’importe quel moment avant la fin de cette durée, afin de ramener tout le monde au point de départ, sur le plan Matériel. Du fait de sa nature, le lien entre les rêves et la réalité est ténu et les chances d’arriver précisément où le personnage le souhaite dépendent de sa familiarité avec le rêveur qu’il essaie d’atteindre. Lancez un d100 dans la table suivante pour déterminer la précision du lieu d’arrivée à la fin de la traversée onirique.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Familiarité || À destination || Presque à destination || Ailleurs || Accident
-|- CLASS="premier"
-| Très familier  || 1-97 || 98-99 || 100 || —
-|-
-| Familier  || 1-94 || 95-97 || 98-99 || 100
-|-
-| Connue || 1-88 || 89-94 || 95-98 || 99-100
-|-
-| Vaguement connue  || 1-76 || 77-88 || 89-96 || 97-100
-|-
-| Fausse identité  || — || — || 81-92 || 93-100
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Familiarité</td><td>À destination</td><td>Presque à destination</td><td>Ailleurs</td><td>Accident</td></tr><tr CLASS="premier"><td>Très familier</td><td>1-97</td><td>98-99</td><td>100</td><td>—</td></tr><tr><td>Familier</td><td>1-94</td><td>95-97</td><td>98-99</td><td>100</td></tr><tr><td>Connue</td><td>1-88</td><td>89-94</td><td>95-98</td><td>99-100</td></tr><tr><td>Vaguement connue</td><td>1-76</td><td>77-88</td><td>89-96</td><td>97-100</td></tr><tr><td>Fausse identité</td><td>—</td><td>—</td><td>81-92</td><td>93-100</td></tr></table>
+
 
 **Familiarité.**
 *Très familier.* Indique que le personnage a eu des contacts au cours des dernières 24 heures avec la créature dont il tente de localiser le paysage onirique via *[[songe]]*, *[[conseil onirique]]*, *[[examen des rêves]]* ou une magie similaire.
@@ -55,22 +44,9 @@ Le personnage et ses compagnons ont une possibilité de sortir du rêve près de
 
 Le personnage peut utiliser traversée onirique pour se rendre dans le rêve d’une créature d’un autre plan, mais pour cela il doit serpenter entre les rêves des extérieurs. Il faut 1d4+1 heures de voyage ininterrompu pour atteindre le rêve recherché et chaque voyageur doit réussir un jet de [[Volonté]] par heure ainsi passée. Le [[DD]] est de 10 la première heure et augmente de 5 par heure suivante. Si une créature rate son jet, elle est [[États préjudiciables#Secoué|secouée]] pour le reste du sort puis pour un nombre d’heures égal au temps passé à se rendre à destination via traversée onirique. Quand une créature rate son jet de sauvegarde, il se produit l’un des effets suivants (que le MJ détermine au hasard). Ces effets sont considérés comme du registre des émotions, en plus des autres registres auxquels ils appartiennent éventuellement.
 
-{| CLASS="tablo centre autoalt" WIDTH="80%"
-|- CLASS="titre"
-| d6 || Résultat
-|- CLASS="premier"
-| 1 || La créature contracte la [[maladies|fièvre gloussante]] ou la [[maladies|bouille-crâne]] (autant de chances pour l’une ou l’autre).
-|-
-| 2 || La créature est maudite, comme avec *[[sort malédiction|malédiction]]*. Si c’est un lanceur de sorts, il est à la place victime d’une [[description des plaies magiques|plaie mineure]].
-|-
-| 3 || La créature est victime d’un *[[assassin imaginaire]]*, comme si elle avait raté le premier jet de sauvegarde pour percer l’illusion à jour. Le [[DD]] du jet de [[Vigueur]] est égal au [[DD]] du jet de [[Volonté]] que la créature a raté.
-|-
-| 4 || La créature est possédée par un extérieur, comme via un effet de *[[possession spirituelle (sort)|possession spirituelle]]* (50 % de chances qu’il s’agisse d’une créature du plan de destination, sinon, c’est un extérieur hostile aléatoire).
-|-
-| 5 || La créature est victime de *[[débilité]]*.
-|-
-| 6 || La créature est affectée par une *[[aliénation mentale]]*.
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="80%"><tr CLASS="titre"><td>d6</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>La créature contracte la [[maladies|fièvre gloussante]] ou la [[maladies|bouille-crâne]] (autant de chances pour l’une ou l’autre).</td></tr><tr><td>2</td><td>La créature est maudite, comme avec *[[sort malédiction|malédiction]]*. Si c’est un lanceur de sorts, il est à la place victime d’une [[description des plaies magiques|plaie mineure]].</td></tr><tr><td>3</td><td>La créature est victime d’un *[[assassin imaginaire]]*, comme si elle avait raté le premier jet de sauvegarde pour percer l’illusion à jour. Le [[DD]] du jet de [[Vigueur]] est égal au [[DD]] du jet de [[Volonté]] que la créature a raté.</td></tr><tr><td>4</td><td>La créature est possédée par un extérieur, comme via un effet de *[[possession spirituelle (sort)|possession spirituelle]]* (50 % de chances qu’il s’agisse d’une créature du plan de destination, sinon, c’est un extérieur hostile aléatoire).</td></tr><tr><td>5</td><td>La créature est victime de *[[débilité]]*.</td></tr><tr><td>6</td><td>La créature est affectée par une *[[aliénation mentale]]*.</td></tr></table>
+
 
 Si la destination se trouve sur un autre plan, la précision du trajet onirique diminue. Si le personnage et ses compagnons ressortent du rêve d’une créature sur un plan différent de leur plan de départ, ils arrivent en un point aléatoire du plan de destination.
 

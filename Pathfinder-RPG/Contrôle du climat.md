@@ -24,26 +24,9 @@ Categories:
 Ce sort permet de modifier radicalement le climat dans la zone choisie. L’incantation demande dix minutes, après quoi il faut attendre dix minutes supplémentaires pour que les effets se manifestent. On détermine les conditions climatiques en vigueur. Le personnage peut les modifier en fonction de la saison et de la région dans laquelle il se trouve. Il peut également lancer le sort pour faire que le climat prenne un état calme et normal pour la saison.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Saison
-| CLASS="gauche" | Climat possible
-|- CLASS="premier"
-| Printemps
-| CLASS="gauche" | Tornade, orage, tempête de neige ou temps chaud
-|- CLASS="alt"
-| Été
-| CLASS="gauche" | Pluie torrentielle, vague de chaleur ou grêle
-|-
-| Automne
-| CLASS="gauche" | Temps chaud ou froid, brouillard ou neige fondue
-|- CLASS="alt"
-| Hiver
-| CLASS="gauche" | Froid glacial, blizzard ou fonte des neiges
-|-
-| Fin de l’hiver
-| CLASS="gauche" | Ouragan ou printemps précoce (zones côtières)
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Saison</td><td CLASS="gauche">Climat possible</td></tr><tr CLASS="premier"><td>Printemps</td><td CLASS="gauche">Tornade, orage, tempête de neige ou temps chaud</td></tr><tr CLASS="alt"><td>Été</td><td CLASS="gauche">Pluie torrentielle, vague de chaleur ou grêle</td></tr><tr><td>Automne</td><td CLASS="gauche">Temps chaud ou froid, brouillard ou neige fondue</td></tr><tr CLASS="alt"><td>Hiver</td><td CLASS="gauche">Froid glacial, blizzard ou fonte des neiges</td></tr><tr><td>Fin de l’hiver</td><td CLASS="gauche">Ouragan ou printemps précoce (zones côtières)</td></tr></table>
+
 </center>
 
 Le personnage à le pouvoir de contrôler les tendances générales définissant le climat désiré, comme par exemple la force et la direction du vent. En revanche, il ne lui appartient pas de décider les points plus précis (tels que les endroits où la foudre frappe, le tracé suivi par une tornade, etc.). Dès que l’effet du sort est décidé, le climat local se modifie graduellement jusqu’à obtenir le résultat souhaité au bout de dix minutes. Dès cet instant, le climat se maintient jusqu’à ce que le sort s’achève, à moins que le personnage décide de le changer de nouveau, ce qui lui demande une [[action simple]] (auquel cas le nouveau climat se manifeste dix minutes plus tard). Plusieurs manifestations contradictoires ne peuvent se déclencher en même temps.

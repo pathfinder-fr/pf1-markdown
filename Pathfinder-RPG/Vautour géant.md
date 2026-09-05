@@ -35,15 +35,9 @@ LastModified: 2022-02-05 12:22
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de vautour
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Vautour]] || 1/2
-|-
-| [[Vautour géant]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de vautour</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Vautour]]</td><td>1/2</td></tr><tr><td>[[Vautour géant]]</td><td>4</td></tr></table>
+
 </div>*Le vilain bec crochu et l’immense tête nue de cet immense charognard aux grandes ailes attirent l’attention.*
 
 Plus grands que les condors, les vautours géants ne vivent que dans les régions où l’on trouve abondance de charognes de grande taille comme, par exemple, dans les étendues sauvages primitives peuplées par la mégafaune. Ils hantent également les régions déchirées par la guerre, se régalant des morts sans se soucier de leurs allégeances ou de leur race. Les vautours géants attendent rarement que les créatures blessées aient fini d’agoniser pour se nourrir et sont bien plus courageux que la plupart des animaux sauvages. Par exemple, le vautour géant ne se pose aucune question avant de plonger sur une colonne de soldats en armure pour s’emparer de quelques retardataires blessés en bout de ligne.

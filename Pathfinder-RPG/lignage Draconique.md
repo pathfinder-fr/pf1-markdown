@@ -20,32 +20,10 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|+ Dragons et énergies associées
-|- CLASS="titre"
-| Espèce   
-de dragon || Type d'énergie || Forme du souffle
-|- CLASS="premier"
-| Airain || feu || ligne de 18 m (12 {s:c})
-|- CLASS="alt"
-| Argent || froid || cône de 9 m (6 {s:c})
-|-
-| Blanc || froid || cône de 9 m (6 {s:c})
-|- CLASS="alt"
-| Bleu || électricité || ligne de 18 m (12 {s:c})
-|-
-| Bronze || électricité || ligne de 18 m (12 {s:c})
-|- CLASS="alt"
-| Cuivre || acide || ligne de 18 m (12 {s:c})
-|-
-| Noir || acide || ligne de 18 m (12 {s:c})
-|- CLASS="alt"
-| Or || feu || cône de 9 m (6 {s:c})
-|-
-| Rouge || feu || cône de 9 m (6 {s:c})
-|- CLASS="alt"
-| Vert || acide || cône de 9 m (6 {s:c})
-|}
+
+<table CLASS="tablo"><caption>Dragons et énergies associées</caption><tr CLASS="titre"><td>Espèce   
+de dragon</td><td>Type d'énergie</td><td>Forme du souffle</td></tr><tr CLASS="premier"><td>Airain</td><td>feu</td><td>ligne de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td>Argent</td><td>froid</td><td>cône de 9 m (6 {s:c})</td></tr><tr><td>Blanc</td><td>froid</td><td>cône de 9 m (6 {s:c})</td></tr><tr CLASS="alt"><td>Bleu</td><td>électricité</td><td>ligne de 18 m (12 {s:c})</td></tr><tr><td>Bronze</td><td>électricité</td><td>ligne de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td>Cuivre</td><td>acide</td><td>ligne de 18 m (12 {s:c})</td></tr><tr><td>Noir</td><td>acide</td><td>ligne de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td>Or</td><td>feu</td><td>cône de 9 m (6 {s:c})</td></tr><tr><td>Rouge</td><td>feu</td><td>cône de 9 m (6 {s:c})</td></tr><tr CLASS="alt"><td>Vert</td><td>acide</td><td>cône de 9 m (6 {s:c})</td></tr></table>
+
 </center></div></div>
 *Le pouvoir des dragons qui coule dans les veines de l’ensorceleur se manifeste de diverses manières.*
 

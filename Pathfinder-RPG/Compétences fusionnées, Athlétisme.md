@@ -19,19 +19,12 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Circonstances d’escalade || Modificateur au DD  
-du test d’Athlétisme
-|- CLASS="premier"
-| Cheminée dans laquelle on peut  
-s’appuyer contre deux parois opposées || -10
-|-
-| Coin où on peut s’appuyer contre  
-deux murs perpendiculaires || -5
-|-
-| Surface glissante || +5
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances d’escalade</td><td>Modificateur au DD  
+du test d’Athlétisme</td></tr><tr CLASS="premier"><td>Cheminée dans laquelle on peut  
+s’appuyer contre deux parois opposées</td><td>-10</td></tr><tr><td>Coin où on peut s’appuyer contre  
+deux murs perpendiculaires</td><td>-5</td></tr><tr><td>Surface glissante</td><td>+5</td></tr></table>
+
 </center></div></div>Le personnage peut utiliser l’Athlétisme pour progresser vers le haut, le bas ou les côtés le long d’une pente fortement inclinée ou d’une paroi (voire d’un plafond muni de prises). Il peut se déplacer au quart de sa vitesse mais peut décider d’évoluer à la moitié de sa vitesse de déplacement en acceptant un malus de -5. S’il rate son test de 1 à 4 points, il ne parvient pas à progresser. S’il rate son test de 5 points ou plus, il chute. Il est impossible d’escalader une surface parfaitement lisse et verticale (ou en dévers).
 
 Le personnage doit avoir les deux mains libres lors d’une escalade, mais il peut se tenir à un mur d’une main le temps de lancer un sort ou d’effectuer une autre action réalisable d’une seule main. Il est impossible d’utiliser un bouclier en pleine escalade et le personnage perd son bonus de [[Dextérité]] à la [[CA]]. S’il subit des dégâts alors qu’il escalade une paroi, il doit réussir un test d’Athlétisme contre le [[DD]] de la paroi pour éviter de chuter.
@@ -39,32 +32,9 @@ Le personnage doit avoir les deux mains libres lors d’une escalade, mais il pe
 **Modificateurs d’escalade.** Les circonstances indiquées dans la table ci-dessous modifient le [[DD]] des tests d’Athlétisme. Ils se cumulent entre eux.
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Surface ou activité || DD du test d’Athlétisme
-|- CLASS="premier"
-| Pente trop inclinée pour permettre d’avancer en marchant || 0
-|-
-| Corde à nœuds accrochée près d’un mur contre lequel on peut s’appuyer || 0
-|-
-| Corde à nœuds ou corde affectée par le sort corde enchantée || 5
-|-
-| Corde accrochée près d’un mur contre lequel on peut s’appuyer || 5
-|-
-| Surface garnie de corniches où on peut se tenir ou s’appuyer || 10
-|-
-| Grimper sur un rebord auquel on s’agrippe par les mains || 15
-|-
-| Surface comprenant suffisamment de prises || 15
-|-
-| Corde lisse || 15
-|-
-| Surface inégale comprenant quelques prises (mur de donjon) || 20
-|-
-| Surface rugueuse (paroi rocheuse naturelle ou mur de briques) || 25
-|-
-| Dévers ou plafond impérativement garni de prises pour les mains || 30
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Surface ou activité</td><td>DD du test d’Athlétisme</td></tr><tr CLASS="premier"><td>Pente trop inclinée pour permettre d’avancer en marchant</td><td>0</td></tr><tr><td>Corde à nœuds accrochée près d’un mur contre lequel on peut s’appuyer</td><td>0</td></tr><tr><td>Corde à nœuds ou corde affectée par le sort corde enchantée</td><td>5</td></tr><tr><td>Corde accrochée près d’un mur contre lequel on peut s’appuyer</td><td>5</td></tr><tr><td>Surface garnie de corniches où on peut se tenir ou s’appuyer</td><td>10</td></tr><tr><td>Grimper sur un rebord auquel on s’agrippe par les mains</td><td>15</td></tr><tr><td>Surface comprenant suffisamment de prises</td><td>15</td></tr><tr><td>Corde lisse</td><td>15</td></tr><tr><td>Surface inégale comprenant quelques prises (mur de donjon)</td><td>20</td></tr><tr><td>Surface rugueuse (paroi rocheuse naturelle ou mur de briques)</td><td>25</td></tr><tr><td>Dévers ou plafond impérativement garni de prises pour les mains</td><td>30</td></tr></table>
+
 </center>
 
 **Action.** Aucune. Chaque action de mouvement réalisée par le personnage nécessite un test d’Athlétisme distinct.
@@ -80,20 +50,11 @@ Le personnage doit avoir les deux mains libres lors d’une escalade, mais il pe
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Courant || DD du test  
-d’Athlétisme
-|- CLASS="premier"
-| Eaux calmes || 10
-|-
-| Eaux agitées || 15
-|-
-| Eaux très agitées (tempête) || 20*
-|- CLASS="note"
-| | COLSPAN="2" | *(*) Il est impossible de faire 10 sur un test  
-d’Athlétisme pour nager dans des eaux très agitées.*
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Courant</td><td>DD du test  
+d’Athlétisme</td></tr><tr CLASS="premier"><td>Eaux calmes</td><td>10</td></tr><tr><td>Eaux agitées</td><td>15</td></tr><tr><td>Eaux très agitées (tempête)</td><td>20*</td></tr><tr CLASS="note"><td | COLSPAN="2">*(*) Il est impossible de faire 10 sur un test  
+d’Athlétisme pour nager dans des eaux très agitées.*</td></tr></table>
+
 </center></div></div>La réussite d’un test d’Athlétisme permet à un personnage dans l’eau de nager sur une distance égale à la moitié de sa vitesse de déplacement par une [[action complexe]] ou à son quart par une [[action de mouvement]]. En cas d’échec de 4 points ou moins, il barbote sans parvenir à avancer. En cas d’échec de 5 points ou plus, il coule. Le personnage doit effectuer un test d’Athlétisme pour nager chaque [[round]].
 
 **Action.** Une [[action de mouvement]] pour nager au quart de la vitesse de déplacement ou une [[action complexe]] pour nager à la moitié de la vitesse de déplacement.
@@ -109,38 +70,18 @@ d’Athlétisme pour nager dans des eaux très agitées.*
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Saut en longueur || DD du test  
-d’Athlétisme
-|- CLASS="premier"
-| 1,50 m || 5
-|-
-| 3 m || 10
-|-
-| 4,50 m || 15
-|-
-| Plus de 4,50 m || +5 par 1,50 m
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Saut en longueur</td><td>DD du test  
+d’Athlétisme</td></tr><tr CLASS="premier"><td>1,50 m</td><td>5</td></tr><tr><td>3 m</td><td>10</td></tr><tr><td>4,50 m</td><td>15</td></tr><tr><td>Plus de 4,50 m</td><td>+5 par 1,50 m</td></tr></table>
+
 </center></div></div>
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Saut en hauteur || DD du test  
-d’Athlétisme
-|- CLASS="premier"
-| 30 cm || 4
-|-
-| 60 cm || 8
-|-
-| 90 cm || 12
-|-
-| 120 cm || 16
-|-
-| Plus de 120 cm || +4 par 30 cm
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Saut en hauteur</td><td>DD du test  
+d’Athlétisme</td></tr><tr CLASS="premier"><td>30 cm</td><td>4</td></tr><tr><td>60 cm</td><td>8</td></tr><tr><td>90 cm</td><td>12</td></tr><tr><td>120 cm</td><td>16</td></tr><tr><td>Plus de 120 cm</td><td>+4 par 30 cm</td></tr></table>
+
 </center></div></div>Le personnage peut utilise la compétence d’Athlétisme pour sauter. Pour calculer le [[DD]], on divise la distance à traverser par 30 centimètres dans le cas d’un saut en longueur ou la hauteur à atteindre par 7,50 cm dans le cas d’un saut en hauteur.
 
 Le [[DD]] est doublé si le personnage ne dispose pas d’au moins 3 mètres d’élan. Si le personnage rate son test d’Athlétisme de 4 points ou moins lorsqu’il traverse un gouffre en sautant en longueur, il peut effectuer un jet de [[Réflexes]] DD 20 pour se rattraper au bord de l’autre côté. Si le test échoue de 5 points ou plus, le personnage chute (ou tombe [[à terre]] s’il tentait un saut en hauteur). Le DD pour sauter applique les mêmes modificateurs que ceux des tests d’[[Compétences fusionnées, Acrobaties|Acrobaties]] qui se rapportent à la surface à partir de laquelle le personnage effectue le saut. Par exemple, le DD d’un personnage qui commence son saut sur une surface sableuse augmente de 2.

@@ -133,48 +133,5 @@ Voilà pour les niveau de sorts les plus bas. Pour les plus haut on peut citer d
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du druide caster
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || druide || 0 || 1 || [Ecole renforcée (Invocation)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89cole%20renforc%C3%A9e.ashx)&nbsp;
-|-
-| 02 || druide || 1 || 2 || &nbsp;
-|-
-| 03 || druide || 2 || 3 || [Amélioration des créatures convoquées](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Am%C3%A9lioration%20des%20cr%C3%A9atures%20convoqu%C3%A9es.ashx)&nbsp;
-|-
-| 04 || druide || 3 || 4 || Sagesse +1 &nbsp;
-|-
-| 05 || druide || 3 || 5 || [Incantation animale](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20animale.ashx)&nbsp;
-|-
-| 06 || druide || 4 || 6 || &nbsp;
-|-
-| 07 || druide || 5 || 7 || [Science de l'initiative](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Science%20de%20linitiative.ashx)&nbsp;
-|-
-| 08 || druide || 6 || 8 || Sagesse +1&nbsp;
-|-
-| 09 || druide || 6 || 9 || Emplacement libre&nbsp;
-|-
-| 10 || druide || 7 || 10 || &nbsp;
-|-
-| 11 || druide || 8 || 11 || [Incantation rapide](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20rapide.ashx)&nbsp;
-|-
-| 12 || druide || 9 || 12 || Sagesse +1&nbsp;
-|-
-| 13 || druide || 9 || 13 || Emplacement libre&nbsp;
-|-
-| 14 || druide || 10 || 14 || &nbsp;
-|-
-| 15 || druide || 11 || 15 || Emplacement libre&nbsp;
-|-
-| 16 || druide || 12 || 16 || Sagesse +1&nbsp;
-|-
-| 17 || druide || 12 || 17 || Emplacement libre&nbsp;
-|-
-| 18 || druide || 13 || 18 || &nbsp;
-|-
-| 19 || druide || 14 || 19 || Emplacement libre&nbsp;
-|-
-| 20 || druide || 15 || 20 || Sagesse +1&nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du druide caster</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>druide</td><td>0</td><td>1</td><td>[Ecole renforcée (Invocation)](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.%C3%89cole%20renforc%C3%A9e.ashx)&nbsp;</td></tr><tr><td>02</td><td>druide</td><td>1</td><td>2</td><td>&nbsp;</td></tr><tr><td>03</td><td>druide</td><td>2</td><td>3</td><td>[Amélioration des créatures convoquées](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Am%C3%A9lioration%20des%20cr%C3%A9atures%20convoqu%C3%A9es.ashx)&nbsp;</td></tr><tr><td>04</td><td>druide</td><td>3</td><td>4</td><td>Sagesse +1 &nbsp;</td></tr><tr><td>05</td><td>druide</td><td>3</td><td>5</td><td>[Incantation animale](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20animale.ashx)&nbsp;</td></tr><tr><td>06</td><td>druide</td><td>4</td><td>6</td><td>&nbsp;</td></tr><tr><td>07</td><td>druide</td><td>5</td><td>7</td><td>[Science de l'initiative](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Science%20de%20linitiative.ashx)&nbsp;</td></tr><tr><td>08</td><td>druide</td><td>6</td><td>8</td><td>Sagesse +1&nbsp;</td></tr><tr><td>09</td><td>druide</td><td>6</td><td>9</td><td>Emplacement libre&nbsp;</td></tr><tr><td>10</td><td>druide</td><td>7</td><td>10</td><td>&nbsp;</td></tr><tr><td>11</td><td>druide</td><td>8</td><td>11</td><td>[Incantation rapide](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Incantation%20rapide.ashx)&nbsp;</td></tr><tr><td>12</td><td>druide</td><td>9</td><td>12</td><td>Sagesse +1&nbsp;</td></tr><tr><td>13</td><td>druide</td><td>9</td><td>13</td><td>Emplacement libre&nbsp;</td></tr><tr><td>14</td><td>druide</td><td>10</td><td>14</td><td>&nbsp;</td></tr><tr><td>15</td><td>druide</td><td>11</td><td>15</td><td>Emplacement libre&nbsp;</td></tr><tr><td>16</td><td>druide</td><td>12</td><td>16</td><td>Sagesse +1&nbsp;</td></tr><tr><td>17</td><td>druide</td><td>12</td><td>17</td><td>Emplacement libre&nbsp;</td></tr><tr><td>18</td><td>druide</td><td>13</td><td>18</td><td>&nbsp;</td></tr><tr><td>19</td><td>druide</td><td>14</td><td>19</td><td>Emplacement libre&nbsp;</td></tr><tr><td>20</td><td>druide</td><td>15</td><td>20</td><td>Sagesse +1&nbsp;</td></tr></table>

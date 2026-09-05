@@ -16,113 +16,27 @@ Voir la [[Archétypes|section dédiée]]
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px"><center>
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo"
-|+ Table 2–1: Evolution des monstres
-|- CLASS="titre avecsoustitre"
-| ROWSPAN="2" | FP qui  
-croît
-| ROWSPAN="2" | FP qui  
-décroît
-| COLSPAN="4" | Modification
-|- CLASS="soustitre"
-| des pv || de la CA || de bonus  
-d'attaque || des dégâts
-|- CLASS="premier"
-| 1 || Moins de 1 || 5 || 1 || 1 || 2–3
-|- CLASS="alt"
-| 2 || 1 || 5 || 2 || 2 || 2–3
-|-
-| 3 || 2 || 10 || 1 || 1–2 || 2–3
-|- CLASS="alt"
-| 4 || 3 || 10 || 2 || 2 || 2–3
-|-
-| 5 || 4 || 15 || 1 || 1–2 || 3–4
-|- CLASS="alt"
-| 6 || 5 || 15 || 1 || 1–2 || 3–5
-|-
-| 7 || 6 || 15 || 1 || 1–2 || 4–5
-|- CLASS="alt"
-| 8 || 7 || 15 || 1 || 1–2 || 4–5
-|-
-| 9 || 8 || 15 || 2 || 1–2 || 4–5
-|- CLASS="alt"
-| 10 || 9 || 15 || 1 || 1 || 3–5
-|-
-| 11 || 10 || 15 || 1 || 1 || 4–5
-|- CLASS="alt"
-| 12 || 11 || 15 || 2 || 1–2 || 4–5
-|-
-| 13 || 12 || 20 || 1 || 1 || 4–5
-|- CLASS="alt"
-| 14 || 13 || 20 || 1 || 1 || 3–5
-|-
-| 15 || 14 || 20 || 1 || 1 || 4–5
-|- CLASS="alt"
-| 16 || 15 || 20 || 1 || 1–2 || 8–10
-|-
-| 17 || 16 || 30 || 1 || 1 || 7–10
-|- CLASS="alt"
-| 18 || 17 || 30 || 1 || 1 || 8–10
-|-
-| 19 || 18 || 30 || 1 || 1 || 7–10
-|- CLASS="alt"
-| 20 || 19 || 40 || 2 || 1 || 8–10
-|-
-| 21+ || 20+ || 40 || 2 || 1 || 8–10
-|}</div>
+
+<table CLASS="tablo"><caption>Table 2–1: Evolution des monstres</caption><tr CLASS="titre avecsoustitre"><td ROWSPAN="2">FP qui  
+croît</td><td ROWSPAN="2">FP qui  
+décroît</td><td COLSPAN="4">Modification</td></tr><tr CLASS="soustitre"><td>des pv</td><td>de la CA</td><td>de bonus  
+d'attaque</td><td>des dégâts</td></tr><tr CLASS="premier"><td>1</td><td>Moins de 1</td><td>5</td><td>1</td><td>1</td><td>2–3</td></tr><tr CLASS="alt"><td>2</td><td>1</td><td>5</td><td>2</td><td>2</td><td>2–3</td></tr><tr><td>3</td><td>2</td><td>10</td><td>1</td><td>1–2</td><td>2–3</td></tr><tr CLASS="alt"><td>4</td><td>3</td><td>10</td><td>2</td><td>2</td><td>2–3</td></tr><tr><td>5</td><td>4</td><td>15</td><td>1</td><td>1–2</td><td>3–4</td></tr><tr CLASS="alt"><td>6</td><td>5</td><td>15</td><td>1</td><td>1–2</td><td>3–5</td></tr><tr><td>7</td><td>6</td><td>15</td><td>1</td><td>1–2</td><td>4–5</td></tr><tr CLASS="alt"><td>8</td><td>7</td><td>15</td><td>1</td><td>1–2</td><td>4–5</td></tr><tr><td>9</td><td>8</td><td>15</td><td>2</td><td>1–2</td><td>4–5</td></tr><tr CLASS="alt"><td>10</td><td>9</td><td>15</td><td>1</td><td>1</td><td>3–5</td></tr><tr><td>11</td><td>10</td><td>15</td><td>1</td><td>1</td><td>4–5</td></tr><tr CLASS="alt"><td>12</td><td>11</td><td>15</td><td>2</td><td>1–2</td><td>4–5</td></tr><tr><td>13</td><td>12</td><td>20</td><td>1</td><td>1</td><td>4–5</td></tr><tr CLASS="alt"><td>14</td><td>13</td><td>20</td><td>1</td><td>1</td><td>3–5</td></tr><tr><td>15</td><td>14</td><td>20</td><td>1</td><td>1</td><td>4–5</td></tr><tr CLASS="alt"><td>16</td><td>15</td><td>20</td><td>1</td><td>1–2</td><td>8–10</td></tr><tr><td>17</td><td>16</td><td>30</td><td>1</td><td>1</td><td>7–10</td></tr><tr CLASS="alt"><td>18</td><td>17</td><td>30</td><td>1</td><td>1</td><td>8–10</td></tr><tr><td>19</td><td>18</td><td>30</td><td>1</td><td>1</td><td>7–10</td></tr><tr CLASS="alt"><td>20</td><td>19</td><td>40</td><td>2</td><td>1</td><td>8–10</td></tr><tr><td>21+</td><td>20+</td><td>40</td><td>2</td><td>1</td><td>8–10</td></tr></table></div>
+
 
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo"
-|+ Table 2–2 : Changement de taille
-|- CLASS="titre"
-| De* || Vers || For || Dex || Con || Armure  
-naturelle
-|- CLASS="premier"
-| I || Min || inchangée || –2 || inchangée || inchangée
-|- CLASS="alt"
-| Min || TP || +2 || –2 || inchangée || inchangée
-|-
-| TP || P || +4 || –2 || inchangée || inchangée
-|- CLASS="alt"
-| P || M || +4 || –2 || +2 || inchangée
-|-
-| M || G || +8 || –2 || +4 || +2
-|- CLASS="alt"
-| G || TG || +8 || –2 || +4 || +3
-|-
-| TG || Gig || +8 || inchangée || +4 || +4
-|- CLASS="alt"
-| Gig || Col || +8 || inchangée || +4 || +5
-|}
+
+<table CLASS="tablo"><caption>Table 2–2 : Changement de taille</caption><tr CLASS="titre"><td>De*</td><td>Vers</td><td>For</td><td>Dex</td><td>Con</td><td>Armure  
+naturelle</td></tr><tr CLASS="premier"><td>I</td><td>Min</td><td>inchangée</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr><tr CLASS="alt"><td>Min</td><td>TP</td><td>+2</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr><tr><td>TP</td><td>P</td><td>+4</td><td>–2</td><td>inchangée</td><td>inchangée</td></tr><tr CLASS="alt"><td>P</td><td>M</td><td>+4</td><td>–2</td><td>+2</td><td>inchangée</td></tr><tr><td>M</td><td>G</td><td>+8</td><td>–2</td><td>+4</td><td>+2</td></tr><tr CLASS="alt"><td>G</td><td>TG</td><td>+8</td><td>–2</td><td>+4</td><td>+3</td></tr><tr><td>TG</td><td>Gig</td><td>+8</td><td>inchangée</td><td>+4</td><td>+4</td></tr><tr CLASS="alt"><td>Gig</td><td>Col</td><td>+8</td><td>inchangée</td><td>+4</td><td>+5</td></tr></table>
+
 
 *(*) Les modifications se cumulent si la créature  
 gagne ou perd plus d’une catégorie de taille.*
 </div>
 
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo"
-|+ Table 2–3 : Bonus et malus de taille
-|- CLASS="titre"
-| Taille || CA/Attaque || BMO/DMD || Discrétion || Vol
-|- CLASS="premier"
-| Infime || +8 || –8 || +16 || +8
-|- CLASS="alt"
-| Minuscule || +4 || –4 || +12 || +6
-|-
-| Très Petit || +2 || –2 || +8 || +4
-|- CLASS="alt"
-| Petit || +1 || –1 || +4 || +2
-|-
-| Moyen || +0 || +0 || +0 || +0
-|- CLASS="alt"
-| Grand || –1 || +1 || –4 || –2
-|-
-| Très Grand || –2 || +2 || –8 || –4
-|- CLASS="alt"
-| Gigantesque || –4 || +4 || –12 || –6
-|-
-| Colossal || –8 || +8 || –16 || –8
-|}</div></div>
+
+<table CLASS="tablo"><caption>Table 2–3 : Bonus et malus de taille</caption><tr CLASS="titre"><td>Taille</td><td>CA/Attaque</td><td>BMO/DMD</td><td>Discrétion</td><td>Vol</td></tr><tr CLASS="premier"><td>Infime</td><td>+8</td><td>–8</td><td>+16</td><td>+8</td></tr><tr CLASS="alt"><td>Minuscule</td><td>+4</td><td>–4</td><td>+12</td><td>+6</td></tr><tr><td>Très Petit</td><td>+2</td><td>–2</td><td>+8</td><td>+4</td></tr><tr CLASS="alt"><td>Petit</td><td>+1</td><td>–1</td><td>+4</td><td>+2</td></tr><tr><td>Moyen</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td></tr><tr CLASS="alt"><td>Grand</td><td>–1</td><td>+1</td><td>–4</td><td>–2</td></tr><tr><td>Très Grand</td><td>–2</td><td>+2</td><td>–8</td><td>–4</td></tr><tr CLASS="alt"><td>Gigantesque</td><td>–4</td><td>+4</td><td>–12</td><td>–6</td></tr><tr><td>Colossal</td><td>–8</td><td>+8</td><td>–16</td><td>–8</td></tr></table></div></div>
+
 Le procédé pour ajouter des DV raciaux à un monstre est similaire à celui qui permet d’en construire un à partir de rien. Lorsque des DV supplémentaires sont ajoutés, l’augmentation de puissance se reflète sur d’autres aspects : bonus d’attaques, jets de sauvegarde, points de vie et compétences s’améliorent et de nouveaux dons sont acquis. Les capacités (magiques ou non) peuvent également se développer.
 
 **Enlever des dés de vie.** Les règles pour ajouter des DV à une créature peuvent également servir à en enlever afin de créer une version plus faible ou en bas âge. Le procédé est identique mais chacune des étapes est inversée : on diminue le nombre de DV de la créature, son nombre de points de vie et les valeurs qui en découlent. Sur la Table 2-1, référez-vous à la colonne « FP qui décroît » lorsque vous additionnez les réductions moyennes. En règle générale, si une créature perd 50% de ses DV, sa catégorie de taille devrait sans doute diminuer.
@@ -178,26 +92,16 @@ Un monstre doté de niveaux de classe possède toujours un trésor équivalent �
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo"
-|+ Table 2–4: Monstres et niveaux de classe
-|- CLASS="titre"
-| Rôle du  
-monstre || Barbare,  
+
+<table CLASS="tablo"><caption>Table 2–4: Monstres et niveaux de classe</caption><tr CLASS="titre"><td>Rôle du  
+monstre</td><td>Barbare,  
 guerrier,  
-rôdeur || Druide, prêtre,  
+rôdeur</td><td>Druide, prêtre,  
 ensorceleur,  
-magicien || Barde,  
-roublard || Moine,  
-paladin
-|- CLASS="premier"
-| Combat || clef || — || — || —
-|- CLASS="alt"
-| Sorts || — || clef* || — || —
-|-
-| Compétences || clef || — || clef || —
-|- CLASS="alt"
-| Spécial || — || — || — || —
-|}
+magicien</td><td>Barde,  
+roublard</td><td>Moine,  
+paladin</td></tr><tr CLASS="premier"><td>Combat</td><td>clef</td><td>—</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Sorts</td><td>—</td><td>clef*</td><td>—</td><td>—</td></tr><tr><td>Compétences</td><td>clef</td><td>—</td><td>clef</td><td>—</td></tr><tr CLASS="alt"><td>Spécial</td><td>—</td><td>—</td><td>—</td><td>—</td></tr></table>
+
 
 *(*) C’est une classe-clef seulement si les niveaux de lanceur  
 de sorts s’ajoutent à ceux que la créature possède déjà.*</div></div>

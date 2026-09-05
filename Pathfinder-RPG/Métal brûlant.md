@@ -25,20 +25,9 @@ Une créature dont l’équipement est suffisamment chauffé commence à subir d
 Au cours du premier [[round]], le métal affecté devient chaud et désagréable au toucher, mais pas au point de perdre des points de vie (c’est également le cas lors du dernier [[round]], alors qu’il retrouve rapidement sa température normale). Pendant les deuxième et avant-dernier [[round|rounds]], la chaleur est suffisamment intense pour infliger des dégâts, lesquels deviennent plus importants au cours des troisième, quatrième et cinquième [[round|rounds]].
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Round || Métal || Dégâts de feu
-|- CLASS="premier"
-| 1 || Chaud || Aucun
-|- CLASS="alt"
-| 2 || Très chaud || 1d4 points
-|-
-| 3–5 || Brûlant || 2d4 points
-|- CLASS="alt"
-| 6 || Très chaud || 1d4 points
-|-
-| 7 || Chaud || Aucun
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Round</td><td>Métal</td><td>Dégâts de feu</td></tr><tr CLASS="premier"><td>1</td><td>Chaud</td><td>Aucun</td></tr><tr CLASS="alt"><td>2</td><td>Très chaud</td><td>1d4 points</td></tr><tr><td>3–5</td><td>Brûlant</td><td>2d4 points</td></tr><tr CLASS="alt"><td>6</td><td>Très chaud</td><td>1d4 points</td></tr><tr><td>7</td><td>Chaud</td><td>Aucun</td></tr></table>
+
 </center>
 
 Tout froid suffisamment intense pour blesser la créature annule tout ou partie des dégâts provoqués par *métal brûlant*, à raison de 1 point pour 1 point. Lancé sous l’eau, *métal brûlant* n’inflige aucun dégât, mais l’eau se met à bouillir.

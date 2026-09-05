@@ -12,41 +12,9 @@ Categories:
 (((Description)))
 Cet objet a l’air d’un énorme tonneau en fer hermétiquement scellé, mais un petit loquet extrêmement difficile à trouver (test de [[Perception]] de [[DD]] 20) ouvre un panneau (en réalité, une écoutille) à l’une de ses extrémités. Quiconque se glisse à l’intérieur en rampant se retrouve face à dix leviers dénués de la moindre inscription :
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Levier (1d10)
-| CLASS="gauche" | Fonction
-|- CLASS="premier"
-| 1
-| CLASS="gauche" | Déploie/rétracte les pattes et la queue
-|-
-| 2
-| CLASS="gauche" | Ouvre/ferme le hublot frontal
-|-
-| 3
-| CLASS="gauche" | Ouvre/ferme les hublots latéraux
-|-
-| 4
-| CLASS="gauche" | Déploie/rétracte les pinces et les antennes
-|-
-| 5
-| CLASS="gauche" | Referme brusquement les pinces
-|-
-| 6
-| CLASS="gauche" | Avant/arrière
-|-
-| 7
-| CLASS="gauche" | Virage à droite/à gauche
-|-
-| 8
-| CLASS="gauche" | Ouvre/ferme les yeux (éclairant à l’aide du sort *[[flamme éternelle]]*)
-|-
-| 9
-| CLASS="gauche" | Fait monter/descendre le submersible sous l’eau
-|-
-| 10
-| CLASS="gauche" | Ouvre/ferme l’écoutille
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Levier (1d10)</td><td CLASS="gauche">Fonction</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">Déploie/rétracte les pattes et la queue</td></tr><tr><td>2</td><td CLASS="gauche">Ouvre/ferme le hublot frontal</td></tr><tr><td>3</td><td CLASS="gauche">Ouvre/ferme les hublots latéraux</td></tr><tr><td>4</td><td CLASS="gauche">Déploie/rétracte les pinces et les antennes</td></tr><tr><td>5</td><td CLASS="gauche">Referme brusquement les pinces</td></tr><tr><td>6</td><td CLASS="gauche">Avant/arrière</td></tr><tr><td>7</td><td CLASS="gauche">Virage à droite/à gauche</td></tr><tr><td>8</td><td CLASS="gauche">Ouvre/ferme les yeux (éclairant à l’aide du sort *[[flamme éternelle]]*)</td></tr><tr><td>9</td><td CLASS="gauche">Fait monter/descendre le submersible sous l’eau</td></tr><tr><td>10</td><td CLASS="gauche">Ouvre/ferme l’écoutille</td></tr></table>
+
 
 Le submersible a le profil suivant : **pv** 200 ; **solidité** 15 ; **VD** 6 m, nage 6 m ; **CA** 20 (-1 taille, +11 naturelle) ; **Att** 2 pinces (+12 corps à corps, 2d8) ; **BMO** +14 ; **DMD** 24
 

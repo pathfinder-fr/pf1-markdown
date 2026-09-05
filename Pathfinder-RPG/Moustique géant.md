@@ -38,15 +38,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de moustique
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Moustique géant]] || 6
-|-
-| [[Nuée de moustiques]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de moustique</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Moustique géant]]</td><td>6</td></tr><tr><td>[[Nuée de moustiques]]</td><td>3</td></tr></table>
+
 </div>*Un ventre rouge et boursouflé pendouille sous ce gigantesque moustique qui bat frénétiquement des ailes.*
 
 Les moustiques géants sont des répliques

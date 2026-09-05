@@ -9,19 +9,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux grands anciens
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Bokrug]] || 27
-|-
-| [[Cthulhu]] || 30
-|-
-| [[Hastur]] || 29
-|-
-| [[Mhar]] || 26
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux grands anciens</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bokrug]]</td><td>27</td></tr><tr><td>[[Cthulhu]]</td><td>30</td></tr><tr><td>[[Hastur]]</td><td>29</td></tr><tr><td>[[Mhar]]</td><td>26</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 4, p.123.</div>
 *Types/Sous-types associés :  - ([[sous-type Grand ancien|Grand ancien]])*
 

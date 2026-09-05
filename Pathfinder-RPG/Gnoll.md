@@ -39,36 +39,9 @@ Categories:
 {s:ImageCentre|Bestiaire/Gnoll_king.jpg|90%}
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Gnoll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gnoll]] || 1
-|-
-| [[Flind]] || 3
-|-
-| [[Cogneur gnoll]] || 3
-|-
-| [[Enragé-né gnoll]] || 3
-|-
-| [[Sergent gnoll]] || 4
-|-
-| [[OEil de Lamashtu]] || 5
-|-
-| [[Lieutenant gnoll]] || 6
-|-
-| [[Chef de meute gnoll]] || 9
-|-
-| [[Gardien gnoll]] || 10
-|-
-| [[Saccageur gnoll]] || 11
-|-
-| [[Élue de Lamashtu]] || 12
-|-
-| [[Buda gnoll]] || 13
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+
 </div>*Cet humanoïde primitif recouvert de fourrure possède une tête de hyène, se tient légèrement voûté et dépasse de peu la taille d’un humain.*
 
 Les gnolls sont une race d’humanoïdes sauvages qui ressemblent aux hyènes, et pas seulement d’un point de vue physique. Ils démontrent une affinité marquée pour ces animaux charognards, jusqu’au point de les garder à leurs côtés comme animaux domestiques et d’adopter plusieurs de leurs comportements.
@@ -109,28 +82,9 @@ Les gnolls utilisent des méthodes, des outils et une magie basés sur leur ment
 #### Dons
 Voici quelques dons accessibles aux gnolls, certains améliorant leurs tactiques de meute.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Mâchoires claquantes]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1, [[gnoll]]</td><td>Utilise la morsure comme une attaque naturelle</td></tr><tr CLASS="premier"><td>[[Partenaire de désarmement]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1</td><td>Tente une manoeuvre de désarmement lorsqu'un allié en rate une</td></tr><tr><td>&emsp;[[Science du partenaire de désarmement]]</td><td><sup>CM</sup></td><td>[[Partenaire de désarmement]], [[BBA]] +5</td><td>Fait des attaques d'opportunité et des manoeuvres de désarmement lorsqu'un allié rate une tentative de désarmement</td></tr><tr CLASS="premier"><td>[[Repositionnement coordonné]]*</td><td><sup>CM</sup></td><td>[[Savancer|S'avancer]]</td><td>Pas de placement gratuit quand les alliés en font</td></tr><tr CLASS="premier"><td>[[Tenaille mordeuse]]*</td><td><sup>CM</sup></td><td>[[BBA]] +9, attaque de morsure</td><td>Attaque de morsure rapide en prenant un adversaire en tenaille</td></tr></table>
 
-|- CLASS="premier"
-| [[Mâchoires claquantes]]* || <sup>CM</sup> || [[BBA]] +1, [[gnoll]] || Utilise la morsure comme une attaque naturelle
-
-|- CLASS="premier"
-| [[Partenaire de désarmement]]* || <sup>CM</sup> || [[BBA]] +1 || Tente une manoeuvre de désarmement lorsqu'un allié en rate une
-|-
-| &emsp;[[Science du partenaire de désarmement]] || <sup>CM</sup> || [[Partenaire de désarmement]], [[BBA]] +5 || Fait des attaques d'opportunité et des manoeuvres de désarmement lorsqu'un allié rate une tentative de désarmement
-
-|- CLASS="premier"
-| [[Repositionnement coordonné]]* || <sup>CM</sup> || [[Savancer|S'avancer]] || Pas de placement gratuit quand les alliés en font
-
-|- CLASS="premier"
-| [[Tenaille mordeuse]]* || <sup>CM</sup> || [[BBA]] +9, attaque de morsure || Attaque de morsure rapide en prenant un adversaire en tenaille
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

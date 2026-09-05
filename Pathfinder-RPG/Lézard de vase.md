@@ -37,15 +37,9 @@ LastModified: 2023-02-20 15:49
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de lézard de vase
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Lézard de vase]] || 1/4
-|-
-| [[Lézard de vase géant]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de lézard de vase</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Lézard de vase]]</td><td>1/4</td></tr><tr><td>[[Lézard de vase géant]]</td><td>2</td></tr></table>
+
 </div>*Les pattes antérieures de ce lézard bipède ressemblent à des mains. Sa peau est mouchetée de gris et de marron et une crête court du haut de son crâne au bout de sa queue.*
 
 Les lézards de vase ont une longue queue qui leur permet de nager rapidement dans l’eau et de conserver leur équilibre quand ils se tiennent debout. Ils s’associent parfois avec les hommes-lézards pour créer des colonies, mais leurs communautés y vivent généralement séparées. Cela ne les empêche néanmoins pas de travailler et chasser ensemble pour le bénéfice de leurs deux peuples. En majorité, les lézards de vase mesurent environ 1 mètre et pèsent 35 kilos.

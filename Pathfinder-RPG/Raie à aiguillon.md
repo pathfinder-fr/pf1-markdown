@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de raie
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Raie à aiguillon]] || 1/2
-|-
-| [[Raie manta]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de raie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Raie à aiguillon]]</td><td>1/2</td></tr><tr><td>[[Raie manta]]</td><td>1</td></tr></table>
+
 </div>''Une longue queue garnie d’un dard barbelé traîne derrière le corps plat et
 triangulaire de ce poisson.''
 

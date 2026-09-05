@@ -10,33 +10,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 240px;">
-{| CLASS="tablo centre autoalt"
-|+ Variantes de dragons sidéraux
-|- CLASS="titre"
-| Dragons sidéraux || FP*
-|- CLASS="premier"
-| [[Dragon du néant]] || 9, 13, 18
-|-
-| [[Dragon du vortex]] || 10, 14, 19
-|-
-| [[Dragon lunaire]] || 9, 13, 18
-|-
-| [[Dragon solaire]] || 9, 13, 18
-|-
-| [[Dragon temporel]] || 11, 15, 20
-|- CLASS="titre"
-| &emsp; || </sup>
-|- CLASS="titre"
-| COLSPAN="2" | Autres catégories de dragon
-|- CLASS="premier"
-| COLSPAN="2" | [[Dragon ésotérique|Dragons ésotériques]]
-|-
-| COLSPAN="2" | [[Dragon impérial|Dragons impériaux]]
-|-
-| COLSPAN="2" | [[Dragon|Dragons véritables]]
-|- CLASS="note"
-| COLSPAN="2" | *(*) Les FP cités sont ceux des versions jeunes, adultes, et vénérables des dragons concernés.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Variantes de dragons sidéraux</caption><tr CLASS="titre"><td>Dragons sidéraux</td><td>FP*</td></tr><tr CLASS="premier"><td>[[Dragon du néant]]</td><td>9, 13, 18</td></tr><tr><td>[[Dragon du vortex]]</td><td>10, 14, 19</td></tr><tr><td>[[Dragon lunaire]]</td><td>9, 13, 18</td></tr><tr><td>[[Dragon solaire]]</td><td>9, 13, 18</td></tr><tr><td>[[Dragon temporel]]</td><td>11, 15, 20</td></tr><tr CLASS="titre"><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td COLSPAN="2">Autres catégories de dragon</td></tr><tr CLASS="premier"><td COLSPAN="2">[[Dragon ésotérique|Dragons ésotériques]]</td></tr><tr><td COLSPAN="2">[[Dragon impérial|Dragons impériaux]]</td></tr><tr><td COLSPAN="2">[[Dragon|Dragons véritables]]</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Les FP cités sont ceux des versions jeunes, adultes, et vénérables des dragons concernés.*</td></tr></table>
+
 </div></div><div style="float:right"><nav class="wiki-toc"></nav></div><div class="description">**Source :** Bestiaire 4, p.68</div>
 *Types/Sous-types associés : [[type Dragon|Dragon]].*
 
@@ -47,113 +23,9 @@ Les dragons sidéraux habitent dans les vastes étendues de l’espace. On les t
 ### Catégories d'âge
 En vieillissant, un dragon passe par douze catégories d’âge. Son profil de base change comme indiqué dans la table Catégories d’âge des dragons.
 
-{| CLASS="tablo centre autoalt"
-|+ Catégories d’âge des dragons
-|- CLASS="titre"
-| Catégorie d’âge
-| Âge en années
-| FP
-| Taille
-| DV
-| Armure naturelle
-| Souffle
-|- CLASS="premier"
-| 1 Dragonnet
-| 0–5
-| Base
-| Base
-| Base
-| Base
-| Base
-|-
-| 2 Très jeune
-| 6–15
-| Base +2
-| Base +1
-| Base +2
-| Base +3
-| Base ×2
-|-
-| 3 Jeune
-| 16–25
-| Base +4
-| Base +2
-| Base +4
-| Base +6
-| Base ×3
-|-
-| 4 Adolescent
-| 26–50
-| Base +5
-| Base +2
-| Base +6
-| Base +9
-| Base ×4
-|-
-| 5 Jeune adulte
-| 51–100
-| Base +7
-| Base +3
-| Base +8
-| Base +12
-| Base ×5
-|-
-| 6 Adulte
-| 101–200
-| Base +8
-| Base +3
-| Base +10
-| Base +15
-| Base ×6
-|-
-| 7 Âge mûr
-| 201–400
-| Base +9
-| Base +3
-| Base +12
-| Base +18
-| Base ×7
-|-
-| 8 Vieux
-| 401–600
-| Base +11
-| Base +4
-| Base +14
-| Base +21
-| Base ×8
-|-
-| 9 Très vieux
-| 601–800
-| Base +12
-| Base +4
-| Base +16
-| Base +24
-| Base ×9
-|-
-| 10 Vénérable
-| 801–1 000
-| Base +13
-| Base +4
-| Base +18
-| Base +27
-| Base ×10
-|-
-| 11 Dracosire
-| 1 001–1 200
-| Base +14
-| Base +4
-| Base +20
-| Base +30
-| Base ×11
-|-
-| 12 Grand dracosire
-| 1 201+
-| Base +16
-| Base +5
-| Base +22
-| Base +33
-| Base ×12
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Catégories d’âge des dragons</caption><tr CLASS="titre"><td>Catégorie d’âge</td><td>Âge en années</td><td>FP</td><td>Taille</td><td>DV</td><td>Armure naturelle</td><td>Souffle</td></tr><tr CLASS="premier"><td>1 Dragonnet</td><td>0–5</td><td>Base</td><td>Base</td><td>Base</td><td>Base</td><td>Base</td></tr><tr><td>2 Très jeune</td><td>6–15</td><td>Base +2</td><td>Base +1</td><td>Base +2</td><td>Base +3</td><td>Base ×2</td></tr><tr><td>3 Jeune</td><td>16–25</td><td>Base +4</td><td>Base +2</td><td>Base +4</td><td>Base +6</td><td>Base ×3</td></tr><tr><td>4 Adolescent</td><td>26–50</td><td>Base +5</td><td>Base +2</td><td>Base +6</td><td>Base +9</td><td>Base ×4</td></tr><tr><td>5 Jeune adulte</td><td>51–100</td><td>Base +7</td><td>Base +3</td><td>Base +8</td><td>Base +12</td><td>Base ×5</td></tr><tr><td>6 Adulte</td><td>101–200</td><td>Base +8</td><td>Base +3</td><td>Base +10</td><td>Base +15</td><td>Base ×6</td></tr><tr><td>7 Âge mûr</td><td>201–400</td><td>Base +9</td><td>Base +3</td><td>Base +12</td><td>Base +18</td><td>Base ×7</td></tr><tr><td>8 Vieux</td><td>401–600</td><td>Base +11</td><td>Base +4</td><td>Base +14</td><td>Base +21</td><td>Base ×8</td></tr><tr><td>9 Très vieux</td><td>601–800</td><td>Base +12</td><td>Base +4</td><td>Base +16</td><td>Base +24</td><td>Base ×9</td></tr><tr><td>10 Vénérable</td><td>801–1 000</td><td>Base +13</td><td>Base +4</td><td>Base +18</td><td>Base +27</td><td>Base ×10</td></tr><tr><td>11 Dracosire</td><td>1 001–1 200</td><td>Base +14</td><td>Base +4</td><td>Base +20</td><td>Base +30</td><td>Base ×11</td></tr><tr><td>12 Grand dracosire</td><td>1 201+</td><td>Base +16</td><td>Base +5</td><td>Base +22</td><td>Base +33</td><td>Base ×12</td></tr></table>
+
 
 **Catégorie d'âge.** C'est le nom de la catégorie d'âge.
 
@@ -169,208 +41,16 @@ En vieillissant, un dragon passe par douze catégories d’âge. Son profil de b
 
 **Souffle.** Tous les dragons possèdent un [[souffle]] (voir Combat) qui inflige une certaine quantité de dégâts de base. Le facteur indiqué augmente le nombre de dés de dégâts infligés par le souffle du dragon. Par exemple, si le souffle inflige des dégâts de base de 2d6 points d’acide, un dragon d’âge mûr occasionnerait 14d6 points de dégâts d’acide (grâce au facteur ×7).
 
-{| CLASS="tablo centre autoalt"
-|+ Caractéristiques des dragons
-|- CLASS="titre"
-| Catégorie d’âge
-| Force
-| Dextérité
-| Constitution
-| Intelligence
-| Sagesse
-| Charisme
-|- CLASS="premier"
-| 1 Dragonnet
-| Base
-| Base
-| Base
-| Base
-| Base
-| Base
-|-
-| 2 Très jeune
-| Base +4
-| Base –2
-| Base +2
-| Base +2
-| Base +2
-| Base +2
-|-
-| 3 Jeune
-| Base +8
-| Base –2
-| Base +4
-| Base +2
-| Base +2
-| Base +2
-|-
-| 4 Adolescent
-| Base +10
-| Base –2
-| Base +6
-| Base +4
-| Base +4
-| Base +4
-|-
-| 5 Jeune adulte
-| Base +12
-| Base –4
-| Base +6
-| Base +4
-| Base +4
-| Base +4
-|-
-| 6 Adulte
-| Base +14
-| Base –4
-| Base +8
-| Base +6
-| Base +6
-| Base +6
-|-
-| 7 Âge mûr
-| Base +16
-| Base –4
-| Base +8
-| Base +6
-| Base +6
-| Base +6
-|-
-| 8 Vieux
-| Base +18
-| Base –6
-| Base +10
-| Base +8
-| Base +8
-| Base +8
-|-
-| 9 Très vieux
-| Base +20
-| Base –6
-| Base +10
-| Base +8
-| Base +8
-| Base +8
-|-
-| 10 Vénérable
-| Base +22
-| Base –6
-| Base +12
-| Base +10
-| Base +10
-| Base +10
-|-
-| 11 Dracosire
-| Base +24
-| Base –8
-| Base +12
-| Base +10
-| Base +10
-| Base +10
-|-
-| 12 Grand dracosire
-| Base +26
-| Base –8
-| Base +14
-| Base +12
-| Base +12
-| Base +12
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Caractéristiques des dragons</caption><tr CLASS="titre"><td>Catégorie d’âge</td><td>Force</td><td>Dextérité</td><td>Constitution</td><td>Intelligence</td><td>Sagesse</td><td>Charisme</td></tr><tr CLASS="premier"><td>1 Dragonnet</td><td>Base</td><td>Base</td><td>Base</td><td>Base</td><td>Base</td><td>Base</td></tr><tr><td>2 Très jeune</td><td>Base +4</td><td>Base –2</td><td>Base +2</td><td>Base +2</td><td>Base +2</td><td>Base +2</td></tr><tr><td>3 Jeune</td><td>Base +8</td><td>Base –2</td><td>Base +4</td><td>Base +2</td><td>Base +2</td><td>Base +2</td></tr><tr><td>4 Adolescent</td><td>Base +10</td><td>Base –2</td><td>Base +6</td><td>Base +4</td><td>Base +4</td><td>Base +4</td></tr><tr><td>5 Jeune adulte</td><td>Base +12</td><td>Base –4</td><td>Base +6</td><td>Base +4</td><td>Base +4</td><td>Base +4</td></tr><tr><td>6 Adulte</td><td>Base +14</td><td>Base –4</td><td>Base +8</td><td>Base +6</td><td>Base +6</td><td>Base +6</td></tr><tr><td>7 Âge mûr</td><td>Base +16</td><td>Base –4</td><td>Base +8</td><td>Base +6</td><td>Base +6</td><td>Base +6</td></tr><tr><td>8 Vieux</td><td>Base +18</td><td>Base –6</td><td>Base +10</td><td>Base +8</td><td>Base +8</td><td>Base +8</td></tr><tr><td>9 Très vieux</td><td>Base +20</td><td>Base –6</td><td>Base +10</td><td>Base +8</td><td>Base +8</td><td>Base +8</td></tr><tr><td>10 Vénérable</td><td>Base +22</td><td>Base –6</td><td>Base +12</td><td>Base +10</td><td>Base +10</td><td>Base +10</td></tr><tr><td>11 Dracosire</td><td>Base +24</td><td>Base –8</td><td>Base +12</td><td>Base +10</td><td>Base +10</td><td>Base +10</td></tr><tr><td>12 Grand dracosire</td><td>Base +26</td><td>Base –8</td><td>Base +14</td><td>Base +12</td><td>Base +12</td><td>Base +12</td></tr></table>
+
 
 ### Combat
 La table Attaques et vitesses des dragons sidéraux indique les attaques dont dispose le dragon et les dégâts qu’elles infligent (un trait signifie qu’un dragon de cette taille ne peut pas utiliser l’attaque en question). Les dragons acquièrent les autres capacités décrites ci-dessous lorsqu’ils atteignent une catégorie d’âge spécifique.
 
-{| CLASS="tablo centre autoalt"
-|+ Attaques et vitesses des dragons sidéraux
-|- CLASS="titre"
-| Taille
-| Vitesse de vol (manœuvrabilité)
-| 1 morsure
-| 2 griffes
-| 2 ailes
-| 1 coup de queue
-| 1 écrasement
-| 1 balayage de la queue
-| Souffle Ligne
-| Souffle Cône
-|- CLASS="premier"
-| Très Petit
-| 30 m (20 {s:c}) (moyenne)
-| 1d4
-| 1d3
-| —
-| —
-| —
-| —
-| 9 m (6&nbsp;{s:c})
-| 4,50 m (3&nbsp;{s:c})
-|-
-| Petit
-| 45 m (30 {s:c}) (moyenne)
-| 1d6
-| 1d4
-| —
-| —
-| —
-| —
-| 12 m (8&nbsp;{s:c})
-| 6 m (4&nbsp;{s:c})
-|-
-| Moyen
-| 45 m (30 {s:c}) (moyenne)
-| 1d8
-| 1d6
-| 1d4
-| —
-| —
-| —
-| 18 m (12&nbsp;{s:c})
-| 9 m (6&nbsp;{s:c})
-|-
-| Grand
-| 60 m (40 {s:c}) (médiocre)
-| 2d6
-| 1d8
-| 1d6
-| 1d8
-| —
-| —
-| 24 m (16&nbsp;{s:c})
-| 12 m (8&nbsp;{s:c})
-|-
-| Très Grand
-| 60 m (40 {s:c}) (médiocre)
-| 2d8
-| 2d6
-| 1d8
-| 2d6
-| 2d8
-| —
-| 30 m (20&nbsp;{s:c})
-| 15 m (10&nbsp;{s:c})
-|-
-| Gigantesque
-| 75 m (60 {s:c}) (déplorable)
-| 4d6
-| 2d8
-| 2d6
-| 2d8
-| 4d6
-| 2d6
-| 36 m (24 {s:c})
-| 18 m (12 {s:c})
-|-
-| Colossal
-| 75 m (60 {s:c}) (déplorable)
-| 4d8
-| 4d6
-| 2d8
-| 4d6
-| 4d8
-| 2d8
-| 42 m (28 {s:c})
-| 21 m (14 {s:c})
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Attaques et vitesses des dragons sidéraux</caption><tr CLASS="titre"><td>Taille</td><td>Vitesse de vol (manœuvrabilité)</td><td>1 morsure</td><td>2 griffes</td><td>2 ailes</td><td>1 coup de queue</td><td>1 écrasement</td><td>1 balayage de la queue</td><td>Souffle Ligne</td><td>Souffle Cône</td></tr><tr CLASS="premier"><td>Très Petit</td><td>30 m (20 {s:c}) (moyenne)</td><td>1d4</td><td>1d3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>9 m (6&nbsp;{s:c})</td><td>4,50 m (3&nbsp;{s:c})</td></tr><tr><td>Petit</td><td>45 m (30 {s:c}) (moyenne)</td><td>1d6</td><td>1d4</td><td>—</td><td>—</td><td>—</td><td>—</td><td>12 m (8&nbsp;{s:c})</td><td>6 m (4&nbsp;{s:c})</td></tr><tr><td>Moyen</td><td>45 m (30 {s:c}) (moyenne)</td><td>1d8</td><td>1d6</td><td>1d4</td><td>—</td><td>—</td><td>—</td><td>18 m (12&nbsp;{s:c})</td><td>9 m (6&nbsp;{s:c})</td></tr><tr><td>Grand</td><td>60 m (40 {s:c}) (médiocre)</td><td>2d6</td><td>1d8</td><td>1d6</td><td>1d8</td><td>—</td><td>—</td><td>24 m (16&nbsp;{s:c})</td><td>12 m (8&nbsp;{s:c})</td></tr><tr><td>Très Grand</td><td>60 m (40 {s:c}) (médiocre)</td><td>2d8</td><td>2d6</td><td>1d8</td><td>2d6</td><td>2d8</td><td>—</td><td>30 m (20&nbsp;{s:c})</td><td>15 m (10&nbsp;{s:c})</td></tr><tr><td>Gigantesque</td><td>75 m (60 {s:c}) (déplorable)</td><td>4d6</td><td>2d8</td><td>2d6</td><td>2d8</td><td>4d6</td><td>2d6</td><td>36 m (24 {s:c})</td><td>18 m (12 {s:c})</td></tr><tr><td>Colossal</td><td>75 m (60 {s:c}) (déplorable)</td><td>4d8</td><td>4d6</td><td>2d8</td><td>4d6</td><td>4d8</td><td>2d8</td><td>42 m (28 {s:c})</td><td>21 m (14 {s:c})</td></tr></table>
+
 
 **Vitesse de vol.** La vitesse de vol du dragon augmente en fonction de sa taille, comme indiqué sur la table.
 

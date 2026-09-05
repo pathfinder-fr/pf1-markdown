@@ -9,53 +9,9 @@ LastModified: 2021-05-27 00:42
 Grâce à un petit nombre d'élus, le pouvoir sacré du divin brille. Appelés paladins de prestige, ces nobles âmes consacrent leurs épées et leurs vies à la lutte contre le mal. Les paladins de prestige cherchent non seulement à répandre la justice divine, mais à incarner les enseignements des divinités vertueuses qu'ils servent. Dans la poursuite de leurs nobles objectifs, ils adhèrent à des lois de moralité et de discipline à toute épreuve. En récompense de leur justice, ces saints champions ont la bénédiction de les aider dans leurs quêtes : des pouvoirs pour pourfendre le mal, guérir les innocents et inspirer les fidèles. Bien que leurs convictions puissent les conduire à entrer en conflit avec les âmes mêmes qu'ils sauveraient, les paladins affrontent des défis sans fin de foi et de tentations sombres, risquant leur vie de bien faire et se battant pour assurer un avenir meilleur.''
 
 <center>
-{| CLASS="tablo"
-|+ Paladin de Prestige
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +1
-| CLASS="gauche" | [[rm paladin de prestige#AURASAINTE|Aura sainte]], [[rm paladin de prestige#DÉTECTIONDUMAL|Détection du mal]], [[rm paladin de prestige#MAINDIVINE|Main divine]], [[rm paladin de prestige#PACTESACRÉ|Pacte sacrée]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[rm paladin de prestige#IMPOSITIONDESMAINS|Imposition des mains]], [[rm paladin de prestige#GRACEDIVINE|Grâce divine]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|-
-| 3 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]], [[rm paladin de prestige#SANTÉDIVINE|Santé divine]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +2
-| CLASS="gauche" | [[rm paladin de prestige#CANALISATIONDÉNERGIE|Canalisation d'énergie]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|-
-| 5 || +5 || +2 || +3 || +3
-| CLASS="gauche" | —
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +3
-| CLASS="gauche" | [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|-
-| 7 || +7 || +2 || +4 || +4
-| CLASS="gauche" | —
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +4
-| CLASS="gauche" | [[rm paladin de prestige#RÉSISTANCEDIVINE|Résistance divine]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|-
-| 9 || +9 || +3 || +5 || +5
-| CLASS="gauche" | [[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|-
-| 10 || +10 || +3 || +5 || +5
-| CLASS="gauche" | [[rm paladin de prestige#CHAMPIONDIVIN|Champion divin]]
-| CLASS="gauche" | [[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]
-|}
+
+<table CLASS="tablo"><caption>Paladin de Prestige</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[rm paladin de prestige#AURASAINTE|Aura sainte]], [[rm paladin de prestige#DÉTECTIONDUMAL|Détection du mal]], [[rm paladin de prestige#MAINDIVINE|Main divine]], [[rm paladin de prestige#PACTESACRÉ|Pacte sacrée]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[rm paladin de prestige#IMPOSITIONDESMAINS|Imposition des mains]], [[rm paladin de prestige#GRACEDIVINE|Grâce divine]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]], [[rm paladin de prestige#SANTÉDIVINE|Santé divine]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[rm paladin de prestige#CANALISATIONDÉNERGIE|Canalisation d'énergie]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">—</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">—</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[rm paladin de prestige#RÉSISTANCEDIVINE|Résistance divine]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[rm paladin de prestige#DONSUPPLÉMENTAIRE|Don supplémentaire]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[rm paladin de prestige#CHAMPIONDIVIN|Champion divin]]</td><td CLASS="gauche">[[rm paladin de prestige#SORTS|+1 niveau dans la classe existante]]</td></tr></table>
+
 </center>
 
 **Rôle.** Les paladins de prestige sont pour leurs alliés comme des phares au milieu du chaos de la bataille. Ils sont redoutables quand ils combattent le mal, mais ils peuvent également fortifier les combattants du bien et les aider dans leurs croisades. Leurs capacités magiques et martiales en font également de bons protecteurs et des alliés capables de redonner à ceux qui ont été vaincus la force de continuer à se battre.

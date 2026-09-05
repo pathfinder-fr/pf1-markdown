@@ -38,17 +38,9 @@ Categories:
 {s:BDTexte|**Double morsure (Ex).** Si une murène géante commence son tour en ayant déjà [[agrippé]] un adversaire, elle lui inflige automatiquement des dégâts de morsure (2d6+9). Les murènes géantes possèdent, à l'intérieur de leur gorge, une seconde paire de mâchoires qui les aident à avaler leur nourriture et qui leur permet de faire une attaque de morsure ([[Attaque naturelle|attaque secondaire]] +11, 1d6+3) contre les ennemis qu'elles ont déjà agrippés.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'anguille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Anguille des sables]] || 5
-|-
-| [[Anguille électrique]] || 2
-|-
-| [[Murène géante]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'anguille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Anguille des sables]]</td><td>5</td></tr><tr><td>[[Anguille électrique]]</td><td>2</td></tr><tr><td>[[Murène géante]]</td><td>5</td></tr></table>
+
 </div>*Cette anguille de 5 m glisse dans l’eau avec une grâce surnaturelle. Sa gueule renferme une seconde paire de mâchoires.*
 
 La murène est un prédateur féroce capable de retenir une dans ses

@@ -33,51 +33,17 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon occulte
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Jeune dragon occulte]] || 6
-|-
-| [[Dragon occulte adulte]] || 10
-|-
-| [[Dragon occulte vénérable]] || 15
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon occulte</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon occulte]]</td><td>6</td></tr><tr><td>[[Dragon occulte adulte]]</td><td>10</td></tr><tr><td>[[Dragon occulte vénérable]]</td><td>15</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Ce dragon aux écailles de la couleur du parchemin qui bruissent comme des feuilles mortes semble étrangement attentif, comme s’il était toujours sur ses gardes.*
 
 Les dragons occultes s’infiltrent sous forme humanoïde dans de grands centres urbains pour découvrir des secrets ésotériques et des artefacts psychiquement chargés, afin de les ajouter à leurs trésors.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || estimation à vue || —
-|- CLASS="alt"
-| Très jeune || aura de protection || —
-|-
-| Jeune || [[Magie psychique (capacité)|magie psychique]] || 1
-|- CLASS="alt"
-| Adolescent || changement de forme || 3
-|-
-| Jeune adulte || [[Magie psychique (capacité)|magie psychique]], [[RD]] 5/magie || 5
-|- CLASS="alt"
-| Adulte || [[Présence terrifiante (capacité)|présence terrifiante]] || 7
-|-
-| Âge mûr || [[Magie psychique (capacité)|magie psychique]], [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || vision des auras || 11
-|-
-| Très vieux || [[Magie psychique (capacité)|magie psychique]], [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || maîtrise des objets magiques || 15
-|-
-| Dracosire || [[Magie psychique (capacité)|magie psychique]], [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || essence indétectable || 19
-|}</center>
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>estimation à vue</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>aura de protection</td><td>—</td></tr><tr><td>Jeune</td><td>[[Magie psychique (capacité)|magie psychique]]</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>changement de forme</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 5/magie</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>[[Présence terrifiante (capacité)|présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>vision des auras</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>maîtrise des objets magiques</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>essence indétectable</td><td>19</td></tr></table></center>
+
 </div>
 
 </td></tr></table>

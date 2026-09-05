@@ -27,50 +27,16 @@ LastModified: 2021-07-14 09:58
 {s:BDTexte|**Souffle suffocant (Sur)**. Au lieu de souffler du froid, un dragon du néant très jeune ou plus âgé peut souffler un effet de suffocation affectant un cône. Les créatures qui ont besoin de respirer, se trouvent dans la zone d’effet et ratent leur jet de Vigueur suffoquent (Manuel des Joueurs Pathfinder JdR p.450) pendant un nombre de rounds égal à la catégorie d’âge du dragon. Le DD du jet de sauvegarde est basé sur la Constitution.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon du néant
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon du néant]] || &nbsp; || 9
-|-
-| [[Dragon du néant adulte]] || &nbsp; || 13
-|-
-| [[Dragon du néant vénérable]] || &nbsp; || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon du néant</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon du néant]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon du néant adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon du néant vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Les cornes et les écailles d’ébène de ce dragon sont mouchetées d’une substance luisant d’une étrange lumière verte. Un ciel nocturne semble se ref léter dans les plis de ses ailes.*
 
 Les dragons du néant ont été corrompus par les terrifiantes entités vivant dans les profondeurs de l’espace. Certains continuent à lutter contre une inéluctable vague d’annihilation mais la majorité ont embrassé le néant et n’existent plus que pour se nourrir et détruire.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet  || Agile, immunités contre le froid, la confusion et les effets d’aliénation mentale || -
-|- CLASS="alt"
-| Très jeune || Souffle suffocant ||   -
-|-
-| Jeune  || Oblitération, rayon affaiblissant || 1
-|- CLASS="alt"
-| Adolescent || Présence étrangère, flou || 3
-|-
-| Jeune adulte || RD 5/magie, résistance à la magie || 5
-|- CLASS="alt"
-| Adulte || Rayon affaiblissant, regard du néant || 7
-|-
-| Âge mûr || RD 10/magie || 9
-|- CLASS="alt"
-| Vieux || Porte dimensionnelle || 11
-|-
-| Très vieux || RD 15/magie || 13
-|- CLASS="alt"
-| Vénérable || Cauchemar (1/jour) || 15
-|-
-| Dracosire || RD 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || Portail (1/jour), aliénation mentale || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Agile, immunités contre le froid, la confusion et les effets d’aliénation mentale</td><td>-</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Souffle suffocant</td><td>-</td></tr><tr><td>Jeune</td><td>Oblitération, rayon affaiblissant</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>Présence étrangère, flou</td><td>3</td></tr><tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>Rayon affaiblissant, regard du néant</td><td>7</td></tr><tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>Porte dimensionnelle</td><td>11</td></tr><tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>Cauchemar (1/jour)</td><td>15</td></tr><tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Portail (1/jour), aliénation mentale</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

@@ -28,15 +28,5 @@ les [[Ifrit (race)|ifrits]], les [[Ondin (race)|ondins]], les [[Oréade (race)|o
 
 Le personnage obtient la maîtrise de l'élément qui correspond à l'essence élémentaire dans son sang (le feu pour les [[Ifrit (race)|ifrits]], l'eau pour les [[Ondin (race)|ondins]], la terre pour les [[Oréade (race)|oréades]] et l'air pour les [[Sylphe (race)|sylphes]]). Si le personnage est un [[Suli (race)|suli]], il peut choisir n'importe laquelle des quatre options lorsqu'il lance ce sort, mais sa durée est réduite à 1 round par niveau. Cette maîtrise offre au personnage un bonus d'intuition à la [[VD|vitesse]] ou un nouveau mode de déplacement, selon l'élément maîtrisé, et offre des avantages supplémentaires. Le [[registre]] de ce sort correspond à l'élément choisi.
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Élément (race) || Déplacement || Avantage
-|- CLASS="premier"
-| Air (suli, sylphe) || vitesse de vol de 9 m (moyenne) || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire sont en vol
-|-
-| Eau (ondin, suli) || +9 m à la vitesse de nage || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire touchent de l'eau
-|-
-| Feu (ifrit, suli) || +6 m à toutes les vitesses || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque l'adversaire du personnage est [[Dangers naturels#PRENDREFEU|en feu]]
-|-
-| Terre (oréade, suli) || vitesse de creusement de 4.5 m || Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire touchent le sol
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Élément (race)</td><td>Déplacement</td><td>Avantage</td></tr><tr CLASS="premier"><td>Air (suli, sylphe)</td><td>vitesse de vol de 9 m (moyenne)</td><td>Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire sont en vol</td></tr><tr><td>Eau (ondin, suli)</td><td>+9 m à la vitesse de nage</td><td>Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire touchent de l'eau</td></tr><tr><td>Feu (ifrit, suli)</td><td>+6 m à toutes les vitesses</td><td>Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque l'adversaire du personnage est [[Dangers naturels#PRENDREFEU|en feu]]</td></tr><tr><td>Terre (oréade, suli)</td><td>vitesse de creusement de 4.5 m</td><td>Bonus de circonstances de +1 aux [[jet dattaque|jets d'attaque]] lorsque le personnage et son adversaire touchent le sol</td></tr></table>

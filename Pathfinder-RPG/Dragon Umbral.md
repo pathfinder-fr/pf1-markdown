@@ -34,17 +34,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon umbral
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon umbral]] || &nbsp; || 10
-|-
-| [[Dragon umbral adulte]] || &nbsp; || 14
-|-
-| [[Dragon umbral vénérable]] || &nbsp; || 19
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon umbral</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon umbral]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon umbral adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon umbral vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Ce sombre dragon élancé se déplace avec l’étonnante grâce d’un serpent. Ses yeux brillent comme des charbons ardents.*
 
 Les dragons umbrals sont des créatures cruelles et sadiques.
@@ -57,35 +49,9 @@ de consommer de la
 chair vivante.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS<sup>*</sup>
-|- CLASS="premier"
-| Dragonnet || fils de l’ombre, immunité contre le froid || —
-|- CLASS="alt"
-| Très jeune || *[[ténèbres]]* || —
-|-
-| Jeune || attaques spectrales || 1
-|- CLASS="alt"
-| Adolescent || *[[baiser du vampire]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]] || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || souffle de l’ombre, *[[traversée des ombres]]* || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || *[[projection dimage|projection d'image]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || création d’ombres, *[[doigt de mort]]* || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || absorption d’énergie, *[[reflets dombre|reflets d’ombre]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr><tr CLASS="premier"><td>Dragonnet</td><td>fils de l’ombre, immunité contre le froid</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[ténèbres]]*</td><td>—</td></tr><tr><td>Jeune</td><td>attaques spectrales</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[baiser du vampire]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>souffle de l’ombre, *[[traversée des ombres]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[projection dimage|projection d'image]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>création d’ombres, *[[doigt de mort]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>absorption d’énergie, *[[reflets dombre|reflets d’ombre]]*</td><td>19</td></tr></table>
+
 </center>
 
 <sup>*</sup>(*) Un dragon umbral peut lancer des sorts de prêtre comme s’il s’agissait de sorts profanes.

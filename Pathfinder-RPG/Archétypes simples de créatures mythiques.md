@@ -27,19 +27,10 @@ Les créatures ayant l’archétype divin peuvent invoquer le pouvoir des dieux,
 #### Invincible (RMy 1 ou 2, FP +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Défenses de l’archétype invincible
-|- CLASS="titre"
-| DV || Résistances aux énergies  
-destructives || RD
-|- CLASS="premier"
-| 1-4 || 5 || -
-|-
-| 5-10 || 10 || 5/épique
-|-
-| 11+ || 15 || 10/épique
-|-
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Défenses de l’archétype invincible</caption><tr CLASS="titre"><td>DV</td><td>Résistances aux énergies  
+destructives</td><td>RD</td></tr><tr CLASS="premier"><td>1-4</td><td>5</td><td>-</td></tr><tr><td>5-10</td><td>10</td><td>5/épique</td></tr><tr><td>11+</td><td>15</td><td>10/épique</td></tr></table>
+
 </div></div>Les créatures ayant l’archétype invincible sont extrêmement difficiles à blesser. Elles peuvent supporter des châtiments exceptionnels et poursuivre le combat. Si la créature a 11 dés de vie ou plus, cet archétype simple lui accorde un [[rang mythique]] de 2 au lieu de 1. Les règles abrégées des créatures invincibles sont les mêmes que celles de reconstruction.
 
 **Règles de reconstruction.** ; **CA** augmentation du bonus d’armure naturelle de 2 (ou de 4 si la créature a 11 [[DV|dés de vie]] ou plus) ; **pv** [[points de vie mythiques supplémentaires]] ; **Capacités défensives** elle gagne une [[RD]] et une [[Résistance (capacité)|résistance]] à tous les types d’énergie comme indiqué dans la table ci-contre, ainsi que [[Blocage des attaques (capacité)|blocage des attaques]] et [[Second jet de sauvegarde (capacité)|second jet de sauvegarde]].
@@ -48,19 +39,10 @@ destructives || RD
 #### Sauvage (RMy 1 ou 2, FP +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Défenses de l’archétype sauvage
-|- CLASS="titre"
-| DV || Résistances aux énergies  
-destructives || RD
-|- CLASS="premier"
-| 1-4 || 5 || -
-|-
-| 5-10 || 10 || 5/épique
-|-
-| 11+ || 15 || 10/épique
-|-
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Défenses de l’archétype sauvage</caption><tr CLASS="titre"><td>DV</td><td>Résistances aux énergies  
+destructives</td><td>RD</td></tr><tr CLASS="premier"><td>1-4</td><td>5</td><td>-</td></tr><tr><td>5-10</td><td>10</td><td>5/épique</td></tr><tr><td>11+</td><td>15</td><td>10/épique</td></tr></table>
+
 </div></div>Les créatures ayant l’archétype sauvage sont indomptées, ce sont des versions primitives de leurs cousines [[non-mythiques]]. Elles ont des griffes plus acérées, des crocs plus longs et une peau plus épaisse. Si la créature a 11 dés de vie ou plus, cet archétype simple lui accorde un [[rang mythique]] de 2 au lieu de 1. Les règles abrégées des créatures sauvages sont les mêmes que celles de reconstruction.
 
 **Règles de reconstruction.** ; **CA** augmentation du bonus d’armure naturelle de 2 ; **pv** [[points de vie mythiques supplémentaires]] ; **Capacités défensives** elle gagne une [[RD]] et une [[Résistance (capacité)|résistance]] à tous les types d’énergie comme indiqué dans la table ci-contre ; **Attaques spéciales** toutes les attaques gagnent [[saignement]] 1 (qui se cumule avec lui-même) et [[Sauvagerie féroce (capacité)|sauvagerie féroce]] (attaque à outrance).

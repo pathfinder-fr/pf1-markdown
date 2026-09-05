@@ -30,27 +30,5 @@ Le personnage est un explorateur qui trouve son plaisir dans le simple fait de v
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine du Voyage
-| Sous-domaine du Commerce || Sous-domaine de l'Exploration
-|- CLASS="premier"
-| 1er || *[[grand pas]]* || *[[disque flottant]]* || *[[repli expéditif]]*
-|-
-| 2e || *[[localisation dobjet|localisation d’objet]]* || *idem* || *idem*
-|-
-| 3e || *[[sort Vol|vol]]* || *idem* || *idem*
-|-
-| 4e || *[[porte dimensionnelle]]* || *idem* || *[[localisation de créature]]*
-|-
-| 5e || *[[téléportation]]* || *[[vol supérieur]]* || *idem*
-|-
-| 6e || *[[orientation]]* || *idem* || *idem*
-|-
-| 7e || *[[téléportation suprême]]* || *idem* || *idem*
-|-
-| 8e || *[[porte de phase]]* || *idem* || *idem*
-|-
-| 9e || *[[projection astrale]]* || *[[portail]]* || *[[vague mondiale]]*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Voyage</td><td>Sous-domaine du Commerce</td><td>Sous-domaine de l'Exploration</td></tr><tr CLASS="premier"><td>1er</td><td>*[[grand pas]]*</td><td>*[[disque flottant]]*</td><td>*[[repli expéditif]]*</td></tr><tr><td>2e</td><td>*[[localisation dobjet|localisation d’objet]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[sort Vol|vol]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[porte dimensionnelle]]*</td><td>*idem*</td><td>*[[localisation de créature]]*</td></tr><tr><td>5e</td><td>*[[téléportation]]*</td><td>*[[vol supérieur]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[orientation]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[téléportation suprême]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[porte de phase]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[projection astrale]]*</td><td>*[[portail]]*</td><td>*[[vague mondiale]]*</td></tr></table>

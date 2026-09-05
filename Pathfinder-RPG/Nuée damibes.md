@@ -38,15 +38,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'amibe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Amibe géante]] || 1
-|-
-| [[Nuée damibes|Nuée d'amibes]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'amibe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Amibe géante]]</td><td>1</td></tr><tr><td>[[Nuée damibes|Nuée d'amibes]]</td><td>1</td></tr></table>
+
 </div>*Des milliers de petites gouttes gélatineuses s’animent et se rassemblent en un monticule huileux d’où émane une horrible odeur de vinaigre rance.*
 
 Une nuée d’amibes est un groupe mobile constitué d’amibes de la taille d’une pièce de monnaie. Les [[Amibe géante|amibes géantes]] se

@@ -42,17 +42,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de profond
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hybride profond]] || 1/2
-|-
-| [[Profond]] || 1
-|-
-| [[Seigneur profond]] || 14
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de profond</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hybride profond]]</td><td>1/2</td></tr><tr><td>[[Profond]]</td><td>1</td></tr><tr><td>[[Seigneur profond]]</td><td>14</td></tr></table>
+
 </div>*Le cuir gris-vert de cette créature pataude luit d’humidité et de la salive dégouline de sa gueule à l’aspect de poisson.*
 
 Les profonds vivent tout aussi bien dans les fosses océaniques les plus profondes que dans les hauts-fonds proches des littoraux isolés, même s’ils favorisent l’association de ces deux types d’environnements. Leurs plus grandes cités se trouvent non loin des côtes, mais sont construites dans de vastes canyons immergés inhabituellement proches du littoral. Cette proximité permet aux profonds de poursuivre leurs objectifs de prédilection : se mêler aux humanoïdes de la surface pour les corrompre. À la différence des [[Skum|skums]], une race aquatique similaire qui se reproduit avec les habitants de la surface, les profonds ne se reproduisent pas pour satisfaire un besoin biologique, mais pour répandre leur religion blasphématoire au-dessus des vagues océaniques. La progéniture hybride des profonds et des humains forme une race indépendante (voir page 210). Ces rejetons restent le plus souvent ensemble et occupent des postes à responsabilités au sein de leurs petits villages.

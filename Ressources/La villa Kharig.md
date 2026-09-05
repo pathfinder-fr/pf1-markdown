@@ -330,48 +330,9 @@ Pour y accéder, les aventuriers peuvent passer par plusieurs pistes (cf image).
 </center>
 
 <center>
-{| CLASS="tablo"
-|+ Testes à faire
-|- CLASS="titre"
-| Etape
-| Description
-|- CLASS="premier"
-| **1**
-| Passage entre deux rochers étroits (Evasion DD 10)
-|- CLASS="alt"
-| **2**
-| Le Guet : 6 plots émergent d'une zone poussiéreuse. Il est possible de sauter de l'un à l'autre (Acrobatie DD 15). Si le teste échoue, le personnage peut tenter un teste d'escalade DD 10 pour se rattraper ou chuter dans la poussière, qui sera considérée comme de la fumée. Il faudra alors 1d6 round pour trouver une paroi et un teste d'escalade DD 15 pour en sortir.
-|-
-| **3**
-|  Les restes d'un filet permet une ascension chaloupée . (Escalade DD 10)
-|- CLASS="alt"
-| **4**
-| Toute progression semble bloquée à moins de sauter par dessus des restes d'objets tranchants et perforants un peu plus bas. Le saut doit faire 45cm... mais à taille réduite, c'est comme sauter un fossé de 4,5m (Acrobatie DD 15). Une chute fait prendre 1d6+3 dégâts perforants.
-|-
-| **5**
-|  La terre est très meuble à cet endroit. Un teste de Survie (DD 10) permet de passer en toute sécurité. En cas d'échec, le personnage doit faire un jet de Réflexe (DD 15) ou se retrouvé enlisé comme dans des sables mouvants.
-|- CLASS="alt"
-| **6**
-|  Escalader un énorme rocher (au moins 30 cm! ) semble être le meilleur moyen de progresser. (Escalade DD 15)
-|-
-| **7**
-|  Des pièces plates et métalliques sont en équilibre précaire sur le chemin, et pourtant, ça semble être un passage qui se tente. (Acrobatie DD 15). En cas d'échec, les pièces se cassent la figure et infligent 2d6 points de dommages à l'acrobate raté.
-|- CLASS="alt"
-| **8**
-|   Entre deux morceaux de roche stables il y a un fossé dont on ne perçoit pas le fond. Un jet d'Acrobatie (DD 17) permet d'éviter une chute causant 3d6 points de dommages (90 cm, équivalent de 9m taille normale) plus 1d4 d'acide.
-|-
-| **9**
-|   Dépassant du mur de terre, un rouage ressemblant à celui d'une horloge permettrait de poursuivre le chemin en s'y agrippant et le faisant tourner. (Escalade DD 17)
-|- CLASS="alt"
-| **10**
-|  Un petit tube métallique semble sortir un peu plus loin, vous rapprochant du coffre. (Evasion DD 20) . Un échec laisse le personnage coincé dans le tube.
-|-
-| **11**
-|   Des morceaux de roche instables sont les derniers obstacles avant d'atteindre le coffret. Le passage est dangereux (Acrobatie DD 20). Tout échec de plus de 5 points fait glisser la roche qui dévalera sur les numéros inférieurs (au MJ de savoir quelle bifurcation il prendra). Si des personnages sont sur les zones traversées, ils devront faire un jet de réflexe DD 15 ou chuter et retomber en bas. 1d6 point de dommage par étape. Un jet d'escalade DD 15 +nombre de tentative permet de se rattraper et de poursuivre à l'étape où le jet a été réussi.
-|- CLASS="alt"
-| **12**
-|  Une fine baguette de 5mm (équivalent 5cm) au dessus du vide permet d'arriver au coffre. Il est possible de marcher dessus ou s'y suspendre. (Acrobatie ou Escalade DD 15)
-|}
+
+<table CLASS="tablo"><caption>Testes à faire</caption><tr CLASS="titre"><td>Etape</td><td>Description</td></tr><tr CLASS="premier"><td>**1**</td><td>Passage entre deux rochers étroits (Evasion DD 10)</td></tr><tr CLASS="alt"><td>**2**</td><td>Le Guet : 6 plots émergent d'une zone poussiéreuse. Il est possible de sauter de l'un à l'autre (Acrobatie DD 15). Si le teste échoue, le personnage peut tenter un teste d'escalade DD 10 pour se rattraper ou chuter dans la poussière, qui sera considérée comme de la fumée. Il faudra alors 1d6 round pour trouver une paroi et un teste d'escalade DD 15 pour en sortir.</td></tr><tr><td>**3**</td><td>Les restes d'un filet permet une ascension chaloupée . (Escalade DD 10)</td></tr><tr CLASS="alt"><td>**4**</td><td>Toute progression semble bloquée à moins de sauter par dessus des restes d'objets tranchants et perforants un peu plus bas. Le saut doit faire 45cm... mais à taille réduite, c'est comme sauter un fossé de 4,5m (Acrobatie DD 15). Une chute fait prendre 1d6+3 dégâts perforants.</td></tr><tr><td>**5**</td><td>La terre est très meuble à cet endroit. Un teste de Survie (DD 10) permet de passer en toute sécurité. En cas d'échec, le personnage doit faire un jet de Réflexe (DD 15) ou se retrouvé enlisé comme dans des sables mouvants.</td></tr><tr CLASS="alt"><td>**6**</td><td>Escalader un énorme rocher (au moins 30 cm! ) semble être le meilleur moyen de progresser. (Escalade DD 15)</td></tr><tr><td>**7**</td><td>Des pièces plates et métalliques sont en équilibre précaire sur le chemin, et pourtant, ça semble être un passage qui se tente. (Acrobatie DD 15). En cas d'échec, les pièces se cassent la figure et infligent 2d6 points de dommages à l'acrobate raté.</td></tr><tr CLASS="alt"><td>**8**</td><td>Entre deux morceaux de roche stables il y a un fossé dont on ne perçoit pas le fond. Un jet d'Acrobatie (DD 17) permet d'éviter une chute causant 3d6 points de dommages (90 cm, équivalent de 9m taille normale) plus 1d4 d'acide.</td></tr><tr><td>**9**</td><td>Dépassant du mur de terre, un rouage ressemblant à celui d'une horloge permettrait de poursuivre le chemin en s'y agrippant et le faisant tourner. (Escalade DD 17)</td></tr><tr CLASS="alt"><td>**10**</td><td>Un petit tube métallique semble sortir un peu plus loin, vous rapprochant du coffre. (Evasion DD 20) . Un échec laisse le personnage coincé dans le tube.</td></tr><tr><td>**11**</td><td>Des morceaux de roche instables sont les derniers obstacles avant d'atteindre le coffret. Le passage est dangereux (Acrobatie DD 20). Tout échec de plus de 5 points fait glisser la roche qui dévalera sur les numéros inférieurs (au MJ de savoir quelle bifurcation il prendra). Si des personnages sont sur les zones traversées, ils devront faire un jet de réflexe DD 15 ou chuter et retomber en bas. 1d6 point de dommage par étape. Un jet d'escalade DD 15 +nombre de tentative permet de se rattraper et de poursuivre à l'étape où le jet a été réussi.</td></tr><tr CLASS="alt"><td>**12**</td><td>Une fine baguette de 5mm (équivalent 5cm) au dessus du vide permet d'arriver au coffre. Il est possible de marcher dessus ou s'y suspendre. (Acrobatie ou Escalade DD 15)</td></tr></table>
+
 </center>
 
 Une fois arrivés en haut, il est possible d'ouvrir le coffret (de 10x20cm), de prendre la poudre et redescendre ou pousser le coffret pour qu'il fasse un chemin à emprunter.{br}

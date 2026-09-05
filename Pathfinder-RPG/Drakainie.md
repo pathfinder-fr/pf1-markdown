@@ -70,43 +70,7 @@ même race qu’elles mais dotée d’une des mutations suivantes.
 </table>
 
 <center>
-{| CLASS="tablo" "gauche"
-|+ Variantes de rejetons
-|- CLASS="titre" WIDTH=100%
-| class="gauche" | d%
-| Mutation
-|- CLASS="premier"
-| class="gauche" | 01-10
-| **Mutation fatale.** La créature est morte-née et horriblement défigurée.
-|- CLASS="alt"
-| class="gauche" | 11-20
-| **Couverte d’yeux (Ext).** Toute la tête de la créature est recouverte d’yeux. Elle gagne vision à 360°.
-|-
-| class="gauche" | 21-30
-| **Écailles de caméléon (Ext).** La créature est couverte d’écailles qui changent de couleur pour se fondre dans son  environnement. Elle gagne un bonus racial de +8 aux tests de Discrétion et gagne discrétion totale
-|- CLASS="alt"
-| class="gauche" | 31-40
-| **Glandes empoisonnées (Ext).** La créature possède une paire de glandes empoisonnées de chaque côté de la bouche. Elle est immunisée contre le poison et peut cracher une dose de poison trois fois par jour, sur une distance de 6 mètres, par une attaque de contact à distance. Poison : contact — blessure ; JS Vig DD 10 + 1/2 DV de la créature + son modificateur de Constitution ; fréquence 1 round pendant 6 rounds ; effet affaiblissement temporaire 1d3 Con ; guérison 1 JS.
-|-
-| class="gauche" | 41-50
-| **Velcro (Ext).** Les membres de la créature sont recouverts de petits poils recourbés qui leur donne un aspect duveteux. La créature gagne le pouvoir étreinte sur ses attaques naturelles primaires (le cas échéant) ou sur ses attaques à mains nues. Elle dispose également d’un bonus racial de +8 aux tests d’Escalade.
-|- CLASS="alt"
-| class="gauche" | 51-60
-| **Queue à tête de serpent (Ext).** La créature est dotée d’une queue qui se termine par une tête de serpent. Cette tête lui apporte un bonus de circonstances de +4 aux tests de Perception et une attaque primaire de morsure (1d3+ modificateur de Force de la créature si elle est de taille M). De plus, la créature gagne Science du croc-en-jambe comme don supplémentaire.
-|-
-| class="gauche" | 61-70
-| **Compagnon vestigial (Ext).** La créature a une tête d’animal (généralement une chèvre, un poulet ou un chien) qui lui pousse dans le dos ou sur le torse et lui confère le pouvoir odorat. Si la créature de base possède déjà ce pouvoir, cette tête lui permet de déterminer la direction de l’odeur repérée par une action libre.
-|- CLASS="alt"
-| class="gauche" | 71-80
-| **Têtes multiples (Ext).** La créature possède 2d4 têtes, ce qui lui donne un bonus racial de +4 aux jets de sauvegarde contre les illusions et les enchantements et un bonus racial de +8 aux tests de Perception. La créature parle des langues supplémentaires, à raison d’une par tête. Chaque tête s’exprime avec une voix différente.
-|-
-| class="gauche" | 81-90
-| **Tentacules (Ext).** Les jambes de la créature sont remplacées par des tentacules. Elle est insensible au croc-en-jambe et gagne un bonus racial de +8 aux manoeuvres offensives de lutte.
-|- CLASS="alt"
-| class="gauche" | 91-99
-| **Peau impénétrable (Ext).** La peau du rejeton de la drakainie est épaisse et écailleuse. Il gagne une RD/— égale à la moitié de ses DV (10 au maximum).
-|-
-| class="gauche" | 100
-| **Rejeton favori (Sur).** La drakainie favorise les rejetons qui, d’après elle, possèdent des mutations réussies. Ces puissants rejetons bénéficient d’un bonus de chance de +4 aux jets de sauvegarde, d’un bonus de +4 à l’armure naturelle, d’un bonus inné de +4 dans deux valeurs de caractéristique et de 1 rang mythique.
-|}
+
+<table CLASS="tablo" "gauche"><caption>Variantes de rejetons</caption><tr CLASS="titre" WIDTH=100%><td class="gauche">d%</td><td>Mutation</td></tr><tr CLASS="premier"><td class="gauche">01-10</td><td>**Mutation fatale.** La créature est morte-née et horriblement défigurée.</td></tr><tr CLASS="alt"><td class="gauche">11-20</td><td>**Couverte d’yeux (Ext).** Toute la tête de la créature est recouverte d’yeux. Elle gagne vision à 360°.</td></tr><tr><td class="gauche">21-30</td><td>**Écailles de caméléon (Ext).** La créature est couverte d’écailles qui changent de couleur pour se fondre dans son  environnement. Elle gagne un bonus racial de +8 aux tests de Discrétion et gagne discrétion totale</td></tr><tr CLASS="alt"><td class="gauche">31-40</td><td>**Glandes empoisonnées (Ext).** La créature possède une paire de glandes empoisonnées de chaque côté de la bouche. Elle est immunisée contre le poison et peut cracher une dose de poison trois fois par jour, sur une distance de 6 mètres, par une attaque de contact à distance. Poison : contact — blessure ; JS Vig DD 10 + 1/2 DV de la créature + son modificateur de Constitution ; fréquence 1 round pendant 6 rounds ; effet affaiblissement temporaire 1d3 Con ; guérison 1 JS.</td></tr><tr><td class="gauche">41-50</td><td>**Velcro (Ext).** Les membres de la créature sont recouverts de petits poils recourbés qui leur donne un aspect duveteux. La créature gagne le pouvoir étreinte sur ses attaques naturelles primaires (le cas échéant) ou sur ses attaques à mains nues. Elle dispose également d’un bonus racial de +8 aux tests d’Escalade.</td></tr><tr CLASS="alt"><td class="gauche">51-60</td><td>**Queue à tête de serpent (Ext).** La créature est dotée d’une queue qui se termine par une tête de serpent. Cette tête lui apporte un bonus de circonstances de +4 aux tests de Perception et une attaque primaire de morsure (1d3+ modificateur de Force de la créature si elle est de taille M). De plus, la créature gagne Science du croc-en-jambe comme don supplémentaire.</td></tr><tr><td class="gauche">61-70</td><td>**Compagnon vestigial (Ext).** La créature a une tête d’animal (généralement une chèvre, un poulet ou un chien) qui lui pousse dans le dos ou sur le torse et lui confère le pouvoir odorat. Si la créature de base possède déjà ce pouvoir, cette tête lui permet de déterminer la direction de l’odeur repérée par une action libre.</td></tr><tr CLASS="alt"><td class="gauche">71-80</td><td>**Têtes multiples (Ext).** La créature possède 2d4 têtes, ce qui lui donne un bonus racial de +4 aux jets de sauvegarde contre les illusions et les enchantements et un bonus racial de +8 aux tests de Perception. La créature parle des langues supplémentaires, à raison d’une par tête. Chaque tête s’exprime avec une voix différente.</td></tr><tr><td class="gauche">81-90</td><td>**Tentacules (Ext).** Les jambes de la créature sont remplacées par des tentacules. Elle est insensible au croc-en-jambe et gagne un bonus racial de +8 aux manoeuvres offensives de lutte.</td></tr><tr CLASS="alt"><td class="gauche">91-99</td><td>**Peau impénétrable (Ext).** La peau du rejeton de la drakainie est épaisse et écailleuse. Il gagne une RD/— égale à la moitié de ses DV (10 au maximum).</td></tr><tr><td class="gauche">100</td><td>**Rejeton favori (Sur).** La drakainie favorise les rejetons qui, d’après elle, possèdent des mutations réussies. Ces puissants rejetons bénéficient d’un bonus de chance de +4 aux jets de sauvegarde, d’un bonus de +4 à l’armure naturelle, d’un bonus inné de +4 dans deux valeurs de caractéristique et de 1 rang mythique.</td></tr></table>
+
 </center>

@@ -11,28 +11,9 @@ Cette page parle principalement de la surface de Golarion, mais il ne s'agit pas
 ### Les continents du monde de Golarion
 
 <div style="float: right; padding: 0 0 10px 10px;"><table><tr><td class="presentation">
-{| CLASS="tablo"
-|+ Les continents de Golarion
-|- CLASS="titre"
-| Continent
-| Habitants/adjectif
-|- CLASS="premier"
-| [[Arcadie]] || arcadiens
-|-
-| [[Avistan]] || avistanais
-|-
-| [[Azlante|Azlant]] || azlants
-|-
-| [[Casmaron]] || casmaronais
-|-
-| [[Couronne du monde]] || —
-|-
-| [[Garund]] || garundais
-|-
-| [[Sarusan]] || (inconnu)
-|-
-| [[Tian Xia]] || tianais
-|}
+
+<table CLASS="tablo"><caption>Les continents de Golarion</caption><tr CLASS="titre"><td>Continent</td><td>Habitants/adjectif</td></tr><tr CLASS="premier"><td>[[Arcadie]]</td><td>arcadiens</td></tr><tr><td>[[Avistan]]</td><td>avistanais</td></tr><tr><td>[[Azlante|Azlant]]</td><td>azlants</td></tr><tr><td>[[Casmaron]]</td><td>casmaronais</td></tr><tr><td>[[Couronne du monde]]</td><td>—</td></tr><tr><td>[[Garund]]</td><td>garundais</td></tr><tr><td>[[Sarusan]]</td><td>(inconnu)</td></tr><tr><td>[[Tian Xia]]</td><td>tianais</td></tr></table>
+
 
 <center>Voir aussi : [[Nations]] de Golarion</center></td></tr></table></div> Le monde de Golarion se compose des continents suivants, dont les deux premiers sont les plus connus — certains diraient les plus civilisés, mais c'est une idée qu'il reste encore à prouver.
 

@@ -31,28 +31,7 @@ peuvent peser jusqu’à quatre fois plus.
 </div>
 
 <center>
-{| CLASS="tablo" WIDTH="60%"
-|+ Variantes de Raie des profondeurs
-|- CLASS="titre"
-| class="gauche" | Espèce
-| FP
-| taille
-| DV
-|- CLASS="premier"
-| class="gauche" | [[Capuche du bourreau]]
-| 2
-| TP
-| 2d8
-|- CLASS="alt"
-| class="gauche" | [[Traqueur-du-dessus]]
-| 7
-| TG
-| 10d8
-|-
-| class="gauche" | [[Piégeuse]]
-| 8
-| TG
-| 13d8
-|-
-|}
+
+<table CLASS="tablo" WIDTH="60%"><caption>Variantes de Raie des profondeurs</caption><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">[[Capuche du bourreau]]</td><td>2</td><td>TP</td><td>2d8</td></tr><tr CLASS="alt"><td class="gauche">[[Traqueur-du-dessus]]</td><td>7</td><td>TG</td><td>10d8</td></tr><tr><td class="gauche">[[Piégeuse]]</td><td>8</td><td>TG</td><td>13d8</td></tr></table>
+
 </center>

@@ -35,17 +35,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de zombi
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Seigneur zombi]] || 3
-|-
-| [[Zombi humain]] || 1/2
-|-
-| [[Zombi juju humain]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de zombi</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Seigneur zombi]]</td><td>3</td></tr><tr><td>[[Zombi humain]]</td><td>1/2</td></tr><tr><td>[[Zombi juju humain]]</td><td>2</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Zombi, archétype|Zombi]].***</li></ul>''Ce cadavre avance d’un pas chancelant, les bras tendus en avant, ne portant
 que quelques haillons sales sur sa chair en décomposition.''
 

@@ -155,48 +155,5 @@ Double illusoire, Forme de géant I, Forme draconique I, Guérison suprême, Mix
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du Savant
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Dons, capacités de classe
-|- CLASS="premier"
-| 1 || Alchimiste 1 || +0 || 1 || Alchimie, Bombes (1d6), Lancer improvisé, Cognatogène, Préparation de potions, Don : Expérience variées. &nbsp;
-|-
-| 2 || Alchimiste 2 || +1 || 2 || Résistance au poison +2, Souvenir parfait, Découverte : Bombes de précision. &nbsp;
-|-
-| 3 || Alchimiste 3 || +2 || 3 || Alchimie rapide, Bombes (2d6), Don : Tir à bout portant. &nbsp;
-|-
-| 4 || Alchimiste 4 || +3 || 4 || Découverte : Infusion. &nbsp;
-|-
-| 5 || Alchimiste 5 || +3 || 5 || Bombes (3d6), Résistance au poison +4, Don : Tir de précision. &nbsp;
-|-
-| 6 || Alchimiste 6 || +4 || 6 || Poison rapide, Découverte : Bombe de dissipation. &nbsp;
-|-
-| 7 || Alchimiste 7 || +5 || 7 || Bombes (4d6), Don : Tir rapide. &nbsp;
-|-
-| 8 || Alchimiste 8 || +6 || 8 || Résistance au poison +6, Découverte : Bombes rapides. &nbsp;
-|-
-| 9 || Alchimiste 9 || +6 || 9 || Bombes (5d6), Don : Découverte supplémentaire (Bombe de givre) &nbsp;
-|-
-| 10 || Alchimiste 10 || +7 || 10 || Immunité au poison, Découverte : Bombe de confusion. &nbsp;
-|-
-| 11 || Alchimiste 11 || +8 || 11 || Bombes (6d6), Don : Combat à deux armes. &nbsp;
-|-
-| 12 || Alchimiste 12 || +9 || 12 || Découverte : Cognatogène supérieur. &nbsp;
-|-
-| 13 || Alchimiste 13 || +9 || 13 || Bombes (7d6), Don : Découverte supplémentaire (Bombe de démence) &nbsp;
-|-
-| 14 || Alchimiste 14 || +10 || 14 || Cognatogène persistant, Découverte : Bombe fumigène. &nbsp;
-|-
-| 15 || Alchimiste 15 || +11 || 15 || Bombes (8d6), Don : Découverte supplémentaire (Potion prolongée) &nbsp;
-|-
-| 16 || Alchimiste 16 || +12 || 16 || Découverte : Grand cognatogène. &nbsp;
-|-
-| 17 || Alchimiste 17 || +12 || 17 || Bombes (9d6), Don : Science du combat à deux armes. &nbsp;
-|-
-| 18 || Alchimiste 18 || +13 || 18 || Alchimie instantanée, Découverte : Potion éternelle. &nbsp;
-|-
-| 19 || Alchimiste 19 || +14 || 19 || Bombes (10d6), Don : Combat à deux armes supérieur. &nbsp;
-|-
-| 20 || Alchimiste 20 || +15 || 20 || Découvertes : Potion améliorée et Bombe collante. Grande découverte : Pierre philosophale. &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du Savant</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>1</td><td>Alchimiste 1</td><td>+0</td><td>1</td><td>Alchimie, Bombes (1d6), Lancer improvisé, Cognatogène, Préparation de potions, Don : Expérience variées. &nbsp;</td></tr><tr><td>2</td><td>Alchimiste 2</td><td>+1</td><td>2</td><td>Résistance au poison +2, Souvenir parfait, Découverte : Bombes de précision. &nbsp;</td></tr><tr><td>3</td><td>Alchimiste 3</td><td>+2</td><td>3</td><td>Alchimie rapide, Bombes (2d6), Don : Tir à bout portant. &nbsp;</td></tr><tr><td>4</td><td>Alchimiste 4</td><td>+3</td><td>4</td><td>Découverte : Infusion. &nbsp;</td></tr><tr><td>5</td><td>Alchimiste 5</td><td>+3</td><td>5</td><td>Bombes (3d6), Résistance au poison +4, Don : Tir de précision. &nbsp;</td></tr><tr><td>6</td><td>Alchimiste 6</td><td>+4</td><td>6</td><td>Poison rapide, Découverte : Bombe de dissipation. &nbsp;</td></tr><tr><td>7</td><td>Alchimiste 7</td><td>+5</td><td>7</td><td>Bombes (4d6), Don : Tir rapide. &nbsp;</td></tr><tr><td>8</td><td>Alchimiste 8</td><td>+6</td><td>8</td><td>Résistance au poison +6, Découverte : Bombes rapides. &nbsp;</td></tr><tr><td>9</td><td>Alchimiste 9</td><td>+6</td><td>9</td><td>Bombes (5d6), Don : Découverte supplémentaire (Bombe de givre) &nbsp;</td></tr><tr><td>10</td><td>Alchimiste 10</td><td>+7</td><td>10</td><td>Immunité au poison, Découverte : Bombe de confusion. &nbsp;</td></tr><tr><td>11</td><td>Alchimiste 11</td><td>+8</td><td>11</td><td>Bombes (6d6), Don : Combat à deux armes. &nbsp;</td></tr><tr><td>12</td><td>Alchimiste 12</td><td>+9</td><td>12</td><td>Découverte : Cognatogène supérieur. &nbsp;</td></tr><tr><td>13</td><td>Alchimiste 13</td><td>+9</td><td>13</td><td>Bombes (7d6), Don : Découverte supplémentaire (Bombe de démence) &nbsp;</td></tr><tr><td>14</td><td>Alchimiste 14</td><td>+10</td><td>14</td><td>Cognatogène persistant, Découverte : Bombe fumigène. &nbsp;</td></tr><tr><td>15</td><td>Alchimiste 15</td><td>+11</td><td>15</td><td>Bombes (8d6), Don : Découverte supplémentaire (Potion prolongée) &nbsp;</td></tr><tr><td>16</td><td>Alchimiste 16</td><td>+12</td><td>16</td><td>Découverte : Grand cognatogène. &nbsp;</td></tr><tr><td>17</td><td>Alchimiste 17</td><td>+12</td><td>17</td><td>Bombes (9d6), Don : Science du combat à deux armes. &nbsp;</td></tr><tr><td>18</td><td>Alchimiste 18</td><td>+13</td><td>18</td><td>Alchimie instantanée, Découverte : Potion éternelle. &nbsp;</td></tr><tr><td>19</td><td>Alchimiste 19</td><td>+14</td><td>19</td><td>Bombes (10d6), Don : Combat à deux armes supérieur. &nbsp;</td></tr><tr><td>20</td><td>Alchimiste 20</td><td>+15</td><td>20</td><td>Découvertes : Potion améliorée et Bombe collante. Grande découverte : Pierre philosophale. &nbsp;</td></tr></table>

@@ -39,36 +39,15 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de méduse
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Méduse à tête de mort]] || 1
-|-
-| [[Méduse géante]] || 7
-|-
-| [[Méduse saphir]] || 11
-|-
-| [[Nuée de méduses]] || 6
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de méduse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Méduse à tête de mort]]</td><td>1</td></tr><tr><td>[[Méduse géante]]</td><td>7</td></tr><tr><td>[[Méduse saphir]]</td><td>11</td></tr><tr><td>[[Nuée de méduses]]</td><td>6</td></tr></table>
+
 </div>*Le chapeau de cette énorme méduse ambrée est aussi grand qu’un carrosse. En-dessous se tortillent de nombreux et dangereux tentacules.*
 
 Contrairement à ses cousins de taille normale, la méduse géante est un prédateur qui recherche activement des proies. Ces créatures capables de se faufiler à travers d’étroites fissures vont parfois se tapir dans les cales des navires échoués au fond des mers. Il existe d’autres espèces de méduses géantes et celles-ci sont présentées sur le tableau ci-dessous. Ces variantes possèdent souvent des types de poisons différents ou d’autres capacités, comme la construction ou le fait d’être transparent.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Espèce || FP || Taille || DV
-|- CLASS="premier"
-| Méduse à tête de mort || 1 || P || 2
-|- CLASS="alt"
-| Méduse écarlate || 4 || M || 5
-|- CLASS="alt"
-| Méduse de saphir || 11 || TG || 12
-|- CLASS="alt"
-| Méduse vampirique || 14 || Gig || 16
-|- CLASS="alt"
-| Méduse gobe-baleine || 17 || Col || 20
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td>Méduse à tête de mort</td><td>1</td><td>P</td><td>2</td></tr><tr CLASS="alt"><td>Méduse écarlate</td><td>4</td><td>M</td><td>5</td></tr><tr CLASS="alt"><td>Méduse de saphir</td><td>11</td><td>TG</td><td>12</td></tr><tr CLASS="alt"><td>Méduse vampirique</td><td>14</td><td>Gig</td><td>16</td></tr><tr CLASS="alt"><td>Méduse gobe-baleine</td><td>17</td><td>Col</td><td>20</td></tr></table></center>
+
 </div></td></tr></table>

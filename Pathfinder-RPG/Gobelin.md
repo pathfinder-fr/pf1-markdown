@@ -41,34 +41,9 @@ Categories:
 {s:ImageCentre|Bestiaire/Gobelin.jpg|60%}
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Gobelin
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gobelin]] || 1/3
-|-
-| [[Gobelin vicieux]] || 1
-|-
-| [[Pionnier gobelin]] || 1
-|-
-| [[Commando gobelin]] || 2
-|-
-| [[Gobelin mutant]] || 3
-|-
-| [[Pilote de vautour gobelin]] || 3
-|-
-| [[Gobelin incendiaire]] || 4
-|-
-| [[Cavalier aguerri]] || 5
-|-
-| [[Parle-crapaud gobelin]] || 5
-|-
-| [[Seigneur collant gobelin]] || 6
-|-
-| [[Chef gobelin]] || 9
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Gobelin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gobelin]]</td><td>1/3</td></tr><tr><td>[[Gobelin vicieux]]</td><td>1</td></tr><tr><td>[[Pionnier gobelin]]</td><td>1</td></tr><tr><td>[[Commando gobelin]]</td><td>2</td></tr><tr><td>[[Gobelin mutant]]</td><td>3</td></tr><tr><td>[[Pilote de vautour gobelin]]</td><td>3</td></tr><tr><td>[[Gobelin incendiaire]]</td><td>4</td></tr><tr><td>[[Cavalier aguerri]]</td><td>5</td></tr><tr><td>[[Parle-crapaud gobelin]]</td><td>5</td></tr><tr><td>[[Seigneur collant gobelin]]</td><td>6</td></tr><tr><td>[[Chef gobelin]]</td><td>9</td></tr></table>
+
 </div>*La large tête disgracieuse de cet humanoïde d’à peine un mètre semble totalement disproportionnée par rapport à son corps maigrelet.*
 
 Les gobelins vivent généralement dans des grottes perdues

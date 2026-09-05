@@ -39,15 +39,9 @@ Categories:
 {s:BDTexte|**Propulsion (Ext)** Un calmar géant peut utiliser une [[action complexe]] pour se propulser en ligne droite. Ce mouvement ne provoque pas d'[[attaque dopportunité|attaque d'opportunité]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de calmar
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Calmar]] || 1
-|-
-| [[Calmar géant]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de calmar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Calmar]]</td><td>1</td></tr><tr><td>[[Calmar géant]]</td><td>9</td></tr></table>
+
 </div>*Les tentacules de ce calmar gigantesque aux yeux aussi grands que des boucliers s’agitent avec une vitesse impressionnante.*
 
 Le [[calmar]] géant est une créature de légendes capable

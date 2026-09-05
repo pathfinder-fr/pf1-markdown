@@ -49,27 +49,5 @@ Le personnage peut manipuler l’eau, la brume et la glace et conjurer des créa
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de l'Eau
-| Sous-domaine des Épaves || Sous-domaine du Flux || Sous-domaine de la Glace || Sous-domaine des Océans || Sous-domaine des Rivières
-|- CLASS="premier"
-| 1er || *[[brume de dissimulation]]* || *idem* || *idem* || *idem* || *idem* || *[[poussée hydraulique]]*
-|-
-| 2e || *[[nappe de brouillard]]* || *[[réparation intégrale]]* || *[[grâce féline]]* || *idem* || *[[vague]]* || *idem*
-|-
-| 3e || *[[respiration aquatique]]* || *idem* || *idem* || *idem* || *[[marche sur londe|marche sur l'onde]]* || *idem*
-|-
-| 4e || *[[contrôle de leau|contrôle de l’eau]]* || *idem* || *[[liberté de mouvement]]* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[tempête de grêle]]* || *[[création majeure]]* || *idem* || *idem* || *idem* || *[[corps élémentaire II]]* (créature de l’Eau uniquement)
-|-
-| 6e || *[[cône de froid]]* || *[[animation dobjets|animation d'objets]]* || *[[forme liquide]]* || *idem* || *idem* || *[[forme liquide]]*
-|-
-| 7e || *[[corps élémentaire IV]]* (créature de l’Eau uniquement) || *idem* || *idem* || *[[sphère glaciale]]* || *idem* || *idem*
-|-
-| 8e || *[[flétrissure]]* || *idem* || *[[esprit impénétrable]]* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de l’Eau uniquement) || *idem* || *idem* || *[[rayon polaire]]* || *[[tsunami]]* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de l'Eau</td><td>Sous-domaine des Épaves</td><td>Sous-domaine du Flux</td><td>Sous-domaine de la Glace</td><td>Sous-domaine des Océans</td><td>Sous-domaine des Rivières</td></tr><tr CLASS="premier"><td>1er</td><td>*[[brume de dissimulation]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[poussée hydraulique]]*</td></tr><tr><td>2e</td><td>*[[nappe de brouillard]]*</td><td>*[[réparation intégrale]]*</td><td>*[[grâce féline]]*</td><td>*idem*</td><td>*[[vague]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[respiration aquatique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[marche sur londe|marche sur l'onde]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[contrôle de leau|contrôle de l’eau]]*</td><td>*idem*</td><td>*[[liberté de mouvement]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[tempête de grêle]]*</td><td>*[[création majeure]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[corps élémentaire II]]* (créature de l’Eau uniquement)</td></tr><tr><td>6e</td><td>*[[cône de froid]]*</td><td>*[[animation dobjets|animation d'objets]]*</td><td>*[[forme liquide]]*</td><td>*idem*</td><td>*idem*</td><td>*[[forme liquide]]*</td></tr><tr><td>7e</td><td>*[[corps élémentaire IV]]* (créature de l’Eau uniquement)</td><td>*idem*</td><td>*idem*</td><td>*[[sphère glaciale]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[flétrissure]]*</td><td>*idem*</td><td>*[[esprit impénétrable]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de l’Eau uniquement)</td><td>*idem*</td><td>*idem*</td><td>*[[rayon polaire]]*</td><td>*[[tsunami]]*</td><td>*idem*</td></tr></table>

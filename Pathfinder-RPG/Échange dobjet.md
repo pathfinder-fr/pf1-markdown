@@ -20,19 +20,5 @@ Categories:
 
 L'objet ciblé et l'objet utilisé comme focalisateur pour ce sort échangent immédiatement de place. L'objet ciblé apparaît dans la main du personnage (ou tombe au sol dans sa case s'il est incapable de le tenir). Plus la connexion entre les deux objets est puissante, plus il est difficile de résister au sort, comme indiqué dans le tableau ci-dessous. Les modificateurs se cumulent.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Similarité || Mod. au DD
-|- CLASS="premier"
-| Les deux objets sont du même types (comme “clés”, “épées”, “parchemins”, etc) || +1
-|-
-| Les objets sont faits du même matériau || +1
-|-
-| Les deux objets ont le même poids (à trente grammes près) || +1
-|-
-| Les deux objets font partie d'un même ensemble ou ont été formés dans le même moule || +2
-|-
-| L'objet ciblé a une plus grande valeur en po que l'objet utilisé comme focalisateur || -2
-|-
-| L'objet ciblé est lié à son propriétaire, comme un [[Magicien#PACTEMAGIQUE|objet fétiche]] || -2
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Similarité</td><td>Mod. au DD</td></tr><tr CLASS="premier"><td>Les deux objets sont du même types (comme “clés”, “épées”, “parchemins”, etc)</td><td>+1</td></tr><tr><td>Les objets sont faits du même matériau</td><td>+1</td></tr><tr><td>Les deux objets ont le même poids (à trente grammes près)</td><td>+1</td></tr><tr><td>Les deux objets font partie d'un même ensemble ou ont été formés dans le même moule</td><td>+2</td></tr><tr><td>L'objet ciblé a une plus grande valeur en po que l'objet utilisé comme focalisateur</td><td>-2</td></tr><tr><td>L'objet ciblé est lié à son propriétaire, comme un [[Magicien#PACTEMAGIQUE|objet fétiche]]</td><td>-2</td></tr></table>

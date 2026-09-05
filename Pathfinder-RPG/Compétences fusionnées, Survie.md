@@ -33,19 +33,10 @@ Cette fonction de la compétence de Survie fonctionne comme la compétence de ba
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Type de sol || DD du test  
-de Survie
-|- CLASS="premier"
-| Très mou || 5
-|-
-| Mou || 10
-|-
-| Ferme || 15
-|-
-| Dur || 20
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Type de sol</td><td>DD du test  
+de Survie</td></tr><tr CLASS="premier"><td>Très mou</td><td>5</td></tr><tr><td>Mou</td><td>10</td></tr><tr><td>Ferme</td><td>15</td></tr><tr><td>Dur</td><td>20</td></tr></table>
+
 </center></div></div>Le personnage doit réussir un test de Survie pour repérer des traces ou les suivre sur une distance de 1,5 kilomètre. Il faut réussir un nouveau test chaque fois que la piste devient difficile à suivre. Lorsqu’il suit une piste, le personnage se déplace à la moitié de sa vitesse de déplacement normale. Il peut choisir de se déplacer à sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20. Le [[DD]] du test dépend du type de sol et des conditions en vigueur.
 - *Sol très mou.* Toute surface (neige fraîche, épaisse couche de poussière, boue visqueuse) sur laquelle les pas laissent des empreintes profondes et faciles à repérer.
 - *Sol mou.* Toute surface suffisamment molle pour céder à une pression mais plus ferme que de la boue visqueuse ou de la neige fraîche. Une créature y laisse des empreintes nombreuses mais peu profondes.
@@ -55,48 +46,9 @@ de Survie
 Divers modificateurs liés aux conditions indiquées dans la table ci-dessous s’appliquent au test de Survie. Plusieurs conditions peuvent affecter un même test mais, en ce qui concerne le modificateur de taille des créatures, seul celui correspondant à la créature la plus grande du groupe traqué s’applique. De la même façon, seul le malus de mauvaise visibilité le plus important s’applique.
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Conditions en vigueur || Mod au DD du test de Survie
-|- CLASS="premier"
-| Par tranche de trois créatures au sein du groupe pisté || -1
-|-
-| **Taille des créatures pistées :** || &emsp;
-|-
-| &emsp;Infime (I) || +8
-|-
-| &emsp;Minuscule (Min) || +4
-|-
-| &emsp;Très petite (TP) || +2
-|-
-| &emsp;Petite (P) || +1
-|-
-| &emsp;Moyenne (M) || 0
-|-
-| &emsp;Grande (G) || -1
-|-
-| &emsp;Très grande (TG) || -2
-|-
-| &emsp;Gigantesque (Gig) || -4
-|-
-| &emsp;Colossale (C) || -8
-|-
-| Par tranche de 24 heures écoulées depuis que la piste a été laissée || +1
-|-
-| Par heure de pluie depuis que la piste a été laissée || +1
-|-
-| Chute de neige depuis que la piste a été laissée || +10
-|-
-| **Mauvaise visibilité :** || &emsp;
-|-
-| &emsp;Brouillard ou précipitation || +3
-|-
-| &emsp;Clair de lune || +3
-|-
-| &emsp;Ciel nocturne couvert ou nuit sans lune || +6
-|-
-| Le groupe pisté masque sa piste et réduit de moitié sa vitesse de déplacement || +5
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Conditions en vigueur</td><td>Mod au DD du test de Survie</td></tr><tr CLASS="premier"><td>Par tranche de trois créatures au sein du groupe pisté</td><td>-1</td></tr><tr><td>**Taille des créatures pistées :**</td><td>&emsp;</td></tr><tr><td>&emsp;Infime (I)</td><td>+8</td></tr><tr><td>&emsp;Minuscule (Min)</td><td>+4</td></tr><tr><td>&emsp;Très petite (TP)</td><td>+2</td></tr><tr><td>&emsp;Petite (P)</td><td>+1</td></tr><tr><td>&emsp;Moyenne (M)</td><td>0</td></tr><tr><td>&emsp;Grande (G)</td><td>-1</td></tr><tr><td>&emsp;Très grande (TG)</td><td>-2</td></tr><tr><td>&emsp;Gigantesque (Gig)</td><td>-4</td></tr><tr><td>&emsp;Colossale (C)</td><td>-8</td></tr><tr><td>Par tranche de 24 heures écoulées depuis que la piste a été laissée</td><td>+1</td></tr><tr><td>Par heure de pluie depuis que la piste a été laissée</td><td>+1</td></tr><tr><td>Chute de neige depuis que la piste a été laissée</td><td>+10</td></tr><tr><td>**Mauvaise visibilité :**</td><td>&emsp;</td></tr><tr><td>&emsp;Brouillard ou précipitation</td><td>+3</td></tr><tr><td>&emsp;Clair de lune</td><td>+3</td></tr><tr><td>&emsp;Ciel nocturne couvert ou nuit sans lune</td><td>+6</td></tr><tr><td>Le groupe pisté masque sa piste et réduit de moitié sa vitesse de déplacement</td><td>+5</td></tr></table>
+
 </center>
 
 **Action.** Une [[action complexe]] ou plus.
@@ -112,23 +64,12 @@ Divers modificateurs liés aux conditions indiquées dans la table ci-dessous s�
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test  
-de Survie
-|- CLASS="premier"
-| Se débrouiller en pleine nature || 10
-|-
-| Résister aux rigueurs du climat || 15
-|-
-| Éviter les dangers naturels tels  
-que des sables mouvants || 15
-|-
-| Éviter de se perdre || 15
-|-
-| Prédire les conditions climatiques  
-des 24 prochaines heures || 15
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test  
+de Survie</td></tr><tr CLASS="premier"><td>Se débrouiller en pleine nature</td><td>10</td></tr><tr><td>Résister aux rigueurs du climat</td><td>15</td></tr><tr><td>Éviter les dangers naturels tels  
+que des sables mouvants</td><td>15</td></tr><tr><td>Éviter de se perdre</td><td>15</td></tr><tr><td>Prédire les conditions climatiques  
+des 24 prochaines heures</td><td>15</td></tr></table>
+
 </center></div></div>En pleine nature, le personnage est capable d’assurer sa propre sécurité et sa subsistance ainsi que celles de ses compagnons. Utilisez les DD de la table suivante pour certaines tâches.
 
 Quand le personnage se retrouve en pleine nature, il peut avancer à la moitié de sa vitesse de déplacement normale en chassant et en cueillant pour se nourrir et peut ainsi subsister sans réserve d’eau ni de nourriture. Il peut trouver suffisamment de nourriture et d’eau pour sustenter une personne de plus par tranche de 2 points de différence entre le résultat du test et le [[DD]] de 10.

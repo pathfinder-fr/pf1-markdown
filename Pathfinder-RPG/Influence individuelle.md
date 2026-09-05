@@ -15,32 +15,11 @@ Le DD approprié pour un test d'influence dépend de plusieurs facteurs. La tabl
 
 Si un événement majeur a lieu pendant la rencontre sociale, voyez si les DD d'influence des PNJ doivent changer en réponse à cet événement. Par exemple, si quelqu'un s'introduit dans une chambre forte scellée contenant des trésors inestimables pendant la rencontre sociale, les PNJ respectueux de la loi qui soupçonnent les PJs d'avoir commis ce crime deviennent plus difficiles à influencer.
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| NMG || DD de  
-base || NMG || DD de  
-base
-|- CLASS="premier"
-| 1 || 11 || 11 || 26
-|-
-| 2 || 13 || 12 || 27
-|-
-| 3 || 14 || 13 || 28
-|-
-| 4 || 15 || 14 || 30
-|-
-| 5 || 16 || 15 || 31
-|-
-| 6 || 18 || 16 || 33
-|-
-| 7 || 19 || 17 || 34
-|-
-| 8 || 20 || 18 || 36
-|-
-| 9 || 22 || 19 || 38
-|-
-| 10 || 24 || 20 || 40
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>NMG</td><td>DD de  
+base</td><td>NMG</td><td>DD de  
+base</td></tr><tr CLASS="premier"><td>1</td><td>11</td><td>11</td><td>26</td></tr><tr><td>2</td><td>13</td><td>12</td><td>27</td></tr><tr><td>3</td><td>14</td><td>13</td><td>28</td></tr><tr><td>4</td><td>15</td><td>14</td><td>30</td></tr><tr><td>5</td><td>16</td><td>15</td><td>31</td></tr><tr><td>6</td><td>18</td><td>16</td><td>33</td></tr><tr><td>7</td><td>19</td><td>17</td><td>34</td></tr><tr><td>8</td><td>20</td><td>18</td><td>36</td></tr><tr><td>9</td><td>22</td><td>19</td><td>38</td></tr><tr><td>10</td><td>24</td><td>20</td><td>40</td></tr></table>
+
 </div>Dans ce système, une rencontre sociale est divisée en une ou plusieurs phases. La durée d'une phase est flexible, et dure généralement de 15 minutes à 1 heure - suffisamment pour que chaque PJ puisse effectuer plusieurs minutes d'actions par phase qui ne sont pas liées aux tests d'influence (comme enquêter sur une scène de meurtre ou vaincre subrepticement un assassin) sans perdre ses chances de participer à la rencontre sociale. Le MJ devrait déterminer à l'avance le nombre de phases que durera une rencontre sociale, ce qui déterminera le nombre de chances qu'auront les PJs d'influer sur leurs cibles ou d'en apprendre plus sur elles - généralement de deux à six. Le MJ devrait également déterminer si les actions des PJ peuvent leur faire gagner des phases supplémentaires. Par exemple, le fait de séduire une baronne ou d'éviter sa voiture peut permettre aux PJ de gagner une phase supplémentaire pour s'attirer ses faveurs.
 
 Au début d'une phase, chaque PJ choisit un PNJ. Au cours de chaque phase, un PJ peut soit essayer d'influencer directement le PNJ par le biais d'un test d'influence, soit tenter d'en apprendre davantage sur ce PNJ par le biais d'un test de découverte - un test pour en savoir plus sur un PNJ qui peut aider à réussir de futurs tests d'influence au cours de la même rencontre sociale. Les types de tests requis pour un test d'influence ou un test de découverte, appelés compétences d'influence, sont propres à chaque individu. Les PJs peuvent apprendre les compétences d'influence d'un PNJ en réussissant des tests de découverte (voir [[Influence individuelle#DECOUVERTE|Les tests de découverte]]) ; sinon, ils doivent les deviner.

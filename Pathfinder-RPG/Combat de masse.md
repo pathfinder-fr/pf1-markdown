@@ -45,29 +45,9 @@ Chaque armée est décrite selon un format standard. Dans les pages suivantes, n
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Les tailles des armées
-|- CLASS="titre"
-| Taille de l’armée || Nbre d’unités || FPA
-|- CLASS="premier"
-| Infime || 1 || FP d’une créature individuelle –8
-|-
-| Minuscule || 10 || FP d’une créature individuelle –6
-|-
-| Très petite || 25 || FP d’une créature individuelle –4
-|-
-| Petite || 50 || FP d’une créature individuelle –2
-|-
-| Moyenne || 100 || FP d’une créature individuelle
-|-
-| Grande || 200 || FP d’une créature individuelle +2
-|-
-| Très grande || 500 || FP d’une créature individuelle +4
-|-
-| Gigantesque || 1 000 || FP d’une créature individuelle +6
-|-
-| Colossale || 2 000 || FP d’une créature individuelle +8
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Les tailles des armées</caption><tr CLASS="titre"><td>Taille de l’armée</td><td>Nbre d’unités</td><td>FPA</td></tr><tr CLASS="premier"><td>Infime</td><td>1</td><td>FP d’une créature individuelle –8</td></tr><tr><td>Minuscule</td><td>10</td><td>FP d’une créature individuelle –6</td></tr><tr><td>Très petite</td><td>25</td><td>FP d’une créature individuelle –4</td></tr><tr><td>Petite</td><td>50</td><td>FP d’une créature individuelle –2</td></tr><tr><td>Moyenne</td><td>100</td><td>FP d’une créature individuelle</td></tr><tr><td>Grande</td><td>200</td><td>FP d’une créature individuelle +2</td></tr><tr><td>Très grande</td><td>500</td><td>FP d’une créature individuelle +4</td></tr><tr><td>Gigantesque</td><td>1 000</td><td>FP d’une créature individuelle +6</td></tr><tr><td>Colossale</td><td>2 000</td><td>FP d’une créature individuelle +8</td></tr></table>
+
 </div></div>{s:Reference|TAILLE}**Taille.** La taille de l’armée détermine le nombre d’unités individuelles qu’elle comprend mais aussi son [[Combat de masse#FPA|FPA]].
 
 {s:Reference|TYPE}**Type.** Voici la composition des unités individuelles de l’armée, comme « orques (homme d’armes 1) » ou « trolls. » Ces règles partent du principe que les unités sont homogènes : si une armée de 100 orques hommes d’armes 1 (c’est-à-dire des hommes d’armes de niveau 1) compte quelques hommes d’armes demi-orques et quelques barbares orques, cela ne suffira pas à modifier les statistiques de toute l’armée. Si une armée comporte beaucoup d’unités différant de l’unité principale (c’est-à-dire assez pour modifier les statistiques de l’armée), il vaut mieux scinder le groupe et le traiter comme deux armées avec des profils différents.

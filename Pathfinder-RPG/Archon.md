@@ -10,29 +10,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux archons
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Archon annonciateur]] || 2
-|-
-| [[Archon bouclier]] || 10
-|-
-| [[Archon canin]] || 4
-|-
-| [[Archon des portails]] || 17
-|-
-| [[Archon étoile]] || 19
-|-
-| [[Archon excendré]] || 12
-|-
-| [[Archon légionnaire]] || 7
-|-
-| [[Archon lumineux]] || 2
-|-
-| [[Archon messager]] || 14
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux archons</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Archon annonciateur]]</td><td>2</td></tr><tr><td>[[Archon bouclier]]</td><td>10</td></tr><tr><td>[[Archon canin]]</td><td>4</td></tr><tr><td>[[Archon des portails]]</td><td>17</td></tr><tr><td>[[Archon étoile]]</td><td>19</td></tr><tr><td>[[Archon excendré]]</td><td>12</td></tr><tr><td>[[Archon légionnaire]]</td><td>7</td></tr><tr><td>[[Archon lumineux]]</td><td>2</td></tr><tr><td>[[Archon messager]]</td><td>14</td></tr></table>
+
 </div></div><div class="description">*Source : Bestiaire* p.21</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type archon|archon]], [[sous-type Bien|Bien]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]])*
 

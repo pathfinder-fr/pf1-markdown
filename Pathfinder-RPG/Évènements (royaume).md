@@ -9,35 +9,9 @@ Categories:
 
 {s:MenuGC}{s:GC}<nav class="wiki-toc"></nav>{s:ClearRight}<div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Type d’évènement et niveau de danger
-|- CLASS="titre"
-| d100 || Évènement
-|- CLASS="premier"
-| 01-02 || [[Évènements (royaume)#BENEDICTIONNATURELLE|Bénédiction naturelle]] et relancez le dé<sup>1</sup>
-|-
-| 03-04 || [[Évènements (royaume)#BEAUTEMPS|Beau temps]] et relancez le dé<sup>1</sup>
-|-
-| 05-25 || [[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de royaume bénéfique]]
-|-
-| 26-50 || [[Évènements (royaume)#EVENEMENTNEFASTE|Événement de royaume néfaste]]
-|-
-| 51-75 || [[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de communauté bénéfique]]
-|-
-| 76-96 || [[Évènements (royaume)#EVENEMENTNEFASTE|Événement de communauté néfaste]]
-|-
-| 97 || [[Évènements (royaume)#BANDITISME|Banditisme]] et relancez le dé<sup>2</sup>
-|-
-| 98 || [[Évènements (royaume)#SQUATTERS|Squatters]] et relancez le dé<sup>2</sup>
-|-
-| 99 || [[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]] et relancez le dé<sup>2</sup>
-|-
-| 100 || [[Évènements (royaume)#VANDALISME|Vandalisme]] et relancez le dé<sup>2</sup>
-|- CLASS="note"
-| COLSPAN="2" | *(1) Si le second jet indique encore le même événement, ignorez le double et ne relancez pas le dé.*
-|- CLASS="note"
-| COLSPAN="2" | *(2) Si le second jet indique le même événement, la deuxième fois, il se déroule ailleurs dans le royaume.*
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Type d’évènement et niveau de danger</caption><tr CLASS="titre"><td>d100</td><td>Évènement</td></tr><tr CLASS="premier"><td>01-02</td><td>[[Évènements (royaume)#BENEDICTIONNATURELLE|Bénédiction naturelle]] et relancez le dé<sup>1</sup></td></tr><tr><td>03-04</td><td>[[Évènements (royaume)#BEAUTEMPS|Beau temps]] et relancez le dé<sup>1</sup></td></tr><tr><td>05-25</td><td>[[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de royaume bénéfique]]</td></tr><tr><td>26-50</td><td>[[Évènements (royaume)#EVENEMENTNEFASTE|Événement de royaume néfaste]]</td></tr><tr><td>51-75</td><td>[[Évènements (royaume)#EVENEMENTBENEFIQUE|Événement de communauté bénéfique]]</td></tr><tr><td>76-96</td><td>[[Évènements (royaume)#EVENEMENTNEFASTE|Événement de communauté néfaste]]</td></tr><tr><td>97</td><td>[[Évènements (royaume)#BANDITISME|Banditisme]] et relancez le dé<sup>2</sup></td></tr><tr><td>98</td><td>[[Évènements (royaume)#SQUATTERS|Squatters]] et relancez le dé<sup>2</sup></td></tr><tr><td>99</td><td>[[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]] et relancez le dé<sup>2</sup></td></tr><tr><td>100</td><td>[[Évènements (royaume)#VANDALISME|Vandalisme]] et relancez le dé<sup>2</sup></td></tr><tr CLASS="note"><td COLSPAN="2">*(1) Si le second jet indique encore le même événement, ignorez le double et ne relancez pas le dé.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(2) Si le second jet indique le même événement, la deuxième fois, il se déroule ailleurs dans le royaume.*</td></tr></table>
+
 </div></div>Voici des évènements inhabituels susceptibles de se dérouler lors de la [[Tour de royaume#PHASEDEVENEMENT|phase d’événement]] du royaume. La plupart se produisent immédiatement et sont instantanés ou se terminent à la fin de la phase.
 
 Certains événements influent sur tout le royaume alors que d’autres se concentrent sur une communauté ou un hexagone. Consultez la table "Type d’événement et niveau de danger" ci-contre pour déterminer le type d’événement qui se produit et savoir s’il est bénéfique ou néfaste. Ensuite, lancez le dé dans la table qui convient : événement bénéfique ou néfaste, dans la communauté ou dans le royaume. Si l’événement est invalide (un [[Évènements (royaume)#PELERINAGE|pèlerinage]] dans un royaume où il n’y a ni [[Communautés et quartiers#CATHEDRALE|cathédrale]], ni [[Communautés et quartiers#SANCTUAIRE|sanctuaire]] ni [[Communautés et quartiers#TEMPLE|temple]] par exemple), relancez le dé.
@@ -53,59 +27,13 @@ Certains événements influent sur tout le royaume alors que d’autres se conce
 #### Évènements bénéfiques
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Évènements de royaume bénéfiques
-|- CLASS="titre"
-| d100 || Évènement
-|- CLASS="premier"
-| 01-07 || [[Évènements (royaume)#DECOUVERTEARCHEOLOGIQUE|Découverte archéologique]]
-|-
-| 08-12 || [[Évènements (royaume)#OFFREDIPLOMATIQUE|Offre diplomatique]]
-|-
-| 13-20 || [[Évènements (royaume)#DECOUVERTE|Découverte]]
-|-
-| 21-31 || [[Évènements (royaume)#BOOMECONOMIQUE|Boom économique]]
-|-
-| 32-39 || [[Évènements (royaume)#FESTIVITES|Festivités]]
-|-
-| 40-53 || [[Évènements (royaume)#SURPLUSDENOURRITURE|Surplus de nourriture]]
-|-
-| 54-66 || [[Évènements (royaume)#BEAUTEMPS|Beau temps]]
-|-
-| 67-75 || [[Évènements (royaume)#RUEEVERSLATERRE|Ruée vers la terre]]
-|-
-| 76-85 || [[Évènements (royaume)#BENEDICTIONNATURELLE|Bénédiction naturelle]]
-|-
-| 86-90 || [[Évènements (royaume)#NOUVEAUXSUJETS|Nouveaux sujets]]
-|-
-| 91-100 || [[Évènements (royaume)#CALMEPOLITIQUE|Calme politique]]
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de royaume bénéfiques</caption><tr CLASS="titre"><td>d100</td><td>Évènement</td></tr><tr CLASS="premier"><td>01-07</td><td>[[Évènements (royaume)#DECOUVERTEARCHEOLOGIQUE|Découverte archéologique]]</td></tr><tr><td>08-12</td><td>[[Évènements (royaume)#OFFREDIPLOMATIQUE|Offre diplomatique]]</td></tr><tr><td>13-20</td><td>[[Évènements (royaume)#DECOUVERTE|Découverte]]</td></tr><tr><td>21-31</td><td>[[Évènements (royaume)#BOOMECONOMIQUE|Boom économique]]</td></tr><tr><td>32-39</td><td>[[Évènements (royaume)#FESTIVITES|Festivités]]</td></tr><tr><td>40-53</td><td>[[Évènements (royaume)#SURPLUSDENOURRITURE|Surplus de nourriture]]</td></tr><tr><td>54-66</td><td>[[Évènements (royaume)#BEAUTEMPS|Beau temps]]</td></tr><tr><td>67-75</td><td>[[Évènements (royaume)#RUEEVERSLATERRE|Ruée vers la terre]]</td></tr><tr><td>76-85</td><td>[[Évènements (royaume)#BENEDICTIONNATURELLE|Bénédiction naturelle]]</td></tr><tr><td>86-90</td><td>[[Évènements (royaume)#NOUVEAUXSUJETS|Nouveaux sujets]]</td></tr><tr><td>91-100</td><td>[[Évènements (royaume)#CALMEPOLITIQUE|Calme politique]]</td></tr></table>
+
 </div><div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Évènements de communauté bénéfiques
-|- CLASS="titre"
-| d100 || Évènement
-|- CLASS="premier"
-| 01-14 || [[Évènements (royaume)#BOOMCOMMERCIAL|Boom commercial]]
-|-
-| 15-26 || [[Évènements (royaume)#DECOUVERTE|Découverte]]
-|-
-| 27-40 || [[Évènements (royaume)#TRIOMPHEDELAJUSTICE|Triomphe de la justice]]
-|-
-| 41-46 || [[Évènements (royaume)#NOBLESSEOBLIGE|Noblesse oblige]]
-|-
-| 47-58 || [[Évènements (royaume)#SUCCESECLATANT|Succès éclatant]]
-|-
-| 59-66 || [[Évènements (royaume)#PELERINAGE|Pèlerinage]]
-|-
-| 67-72 || [[Évènements (royaume)#TRESORREMARQUABLE|Trésor remarquable]]
-|-
-| 73-81 || [[Évènements (royaume)#TROUVAILLEINATTENDUE|Trouvaille inattendue]]
-|-
-| 82-93 || [[Évènements (royaume)#VISITEDUNECELEBRITE|Visite d’une célébrité]]
-|-
-| 94-100 || [[Évènements (royaume)#RICHEIMMIGRANT|Riche immigrant]]
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de communauté bénéfiques</caption><tr CLASS="titre"><td>d100</td><td>Évènement</td></tr><tr CLASS="premier"><td>01-14</td><td>[[Évènements (royaume)#BOOMCOMMERCIAL|Boom commercial]]</td></tr><tr><td>15-26</td><td>[[Évènements (royaume)#DECOUVERTE|Découverte]]</td></tr><tr><td>27-40</td><td>[[Évènements (royaume)#TRIOMPHEDELAJUSTICE|Triomphe de la justice]]</td></tr><tr><td>41-46</td><td>[[Évènements (royaume)#NOBLESSEOBLIGE|Noblesse oblige]]</td></tr><tr><td>47-58</td><td>[[Évènements (royaume)#SUCCESECLATANT|Succès éclatant]]</td></tr><tr><td>59-66</td><td>[[Évènements (royaume)#PELERINAGE|Pèlerinage]]</td></tr><tr><td>67-72</td><td>[[Évènements (royaume)#TRESORREMARQUABLE|Trésor remarquable]]</td></tr><tr><td>73-81</td><td>[[Évènements (royaume)#TROUVAILLEINATTENDUE|Trouvaille inattendue]]</td></tr><tr><td>82-93</td><td>[[Évènements (royaume)#VISITEDUNECELEBRITE|Visite d’une célébrité]]</td></tr><tr><td>94-100</td><td>[[Évènements (royaume)#RICHEIMMIGRANT|Riche immigrant]]</td></tr></table>
+
 </div></div>
 - {s:Reference|BEAUTEMPS}**Beau temps.** Le beau temps augmente la productivité et met les gens de bonne humeur. L’[[Royaumes et guerre#ECONOMIE|Économie]], la [[Royaumes et guerre#LOYAUTE|Loyauté]] et la [[Communautés et quartiers#BATIMENTS|Productivité]] augmentent de 2 jusqu’à la prochaine phase d’événement.
 
@@ -151,65 +79,13 @@ Certains événements influent sur tout le royaume alors que d’autres se conce
 #### Évènements néfastes
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Évènements de royaume néfastes
-|- CLASS="titre"
-| d100 || Évènement
-|- CLASS="premier"
-| 01-05 || [[Évènements (royaume)#TENTATIVEDASSASSINAT|Tentative d’assassinat]]
-|-
-| 06-18 || [[Évènements (royaume)#BANDITISME|Banditisme]]
-|-
-| 19-28 || [[Évènements (royaume)#VENDETTA|Vendetta]]
-|-
-| 29-41 || [[Évènements (royaume)#PENURIEDENOURRITURE|Pénurie de nourriture]]
-|-
-| 42-51 || [[Évènements (royaume)#DEMANDEDAMELIORATION|Demande d’amélioration]]
-|-
-| 52-59 || [[Évènements (royaume)#INQUISITION|Inquisition]]
-|-
-| 60-64 || [[Évènements (royaume)#DESASTREAGRANDEECHELLE|Désastre à grande échelle]]
-|-
-| 65-76 || [[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]]
-|-
-| 77-84 || [[Évènements (royaume)#EPIDEMIE|Épidémie]]
-|-
-| 85-92 || [[Évènements (royaume)#SCANDALEPUBLIC|Scandale public]]
-|-
-| 93-100 || [[Évènements (royaume)#CONTREBANDIERS|Contrebandiers]]
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de royaume néfastes</caption><tr CLASS="titre"><td>d100</td><td>Évènement</td></tr><tr CLASS="premier"><td>01-05</td><td>[[Évènements (royaume)#TENTATIVEDASSASSINAT|Tentative d’assassinat]]</td></tr><tr><td>06-18</td><td>[[Évènements (royaume)#BANDITISME|Banditisme]]</td></tr><tr><td>19-28</td><td>[[Évènements (royaume)#VENDETTA|Vendetta]]</td></tr><tr><td>29-41</td><td>[[Évènements (royaume)#PENURIEDENOURRITURE|Pénurie de nourriture]]</td></tr><tr><td>42-51</td><td>[[Évènements (royaume)#DEMANDEDAMELIORATION|Demande d’amélioration]]</td></tr><tr><td>52-59</td><td>[[Évènements (royaume)#INQUISITION|Inquisition]]</td></tr><tr><td>60-64</td><td>[[Évènements (royaume)#DESASTREAGRANDEECHELLE|Désastre à grande échelle]]</td></tr><tr><td>65-76</td><td>[[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]]</td></tr><tr><td>77-84</td><td>[[Évènements (royaume)#EPIDEMIE|Épidémie]]</td></tr><tr><td>85-92</td><td>[[Évènements (royaume)#SCANDALEPUBLIC|Scandale public]]</td></tr><tr><td>93-100</td><td>[[Évènements (royaume)#CONTREBANDIERS|Contrebandiers]]</td></tr></table>
+
 </div><div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Évènements de communauté néfastes
-|- CLASS="titre"
-| d100 || Évènement
-|- CLASS="premier"
-| 01-10 || [[Évènements (royaume)#DEMANDEDECONSTRUCTION|Demande de construction]]
-|-
-| 11-17 || [[Évènements (royaume)#RECOLTEPERDUE|Récolte perdue]]
-|-
-| 18-25 || [[Évènements (royaume)#FANATIQUES|Fanatiques]]
-|-
-| 26-33 || [[Évènements (royaume)#VENDEURDEDROGUE|Vendeur de drogue]]
-|-
-| 34-41 || [[Évènements (royaume)#VENDETTA|Vendetta]]
-|-
-| 42-49 || [[Évènements (royaume)#INQUISITION|Inquisition]]
-|-
-| 50-54 || [[Évènements (royaume)#DESASTRELOCALISE|Désastre localisé]]
-|-
-| 55-61 || [[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]]
-|-
-| 62-66 || [[Évènements (royaume)#EPIDEMIE|Épidémie]]
-|-
-| 67-74 || [[Évènements (royaume)#CRIMESENSATIONNEL|Crime sensationnel]]
-|-
-| 75-80 || [[Évènements (royaume)#ESCLAVAGISTES|Esclavagistes]]
-|-
-| 81-90 || [[Évènements (royaume)#SQUATTERS|Squatters]]
-|-
-| 91-100 || [[Évènements (royaume)#VANDALISME|Vandalisme]]
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Évènements de communauté néfastes</caption><tr CLASS="titre"><td>d100</td><td>Évènement</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Évènements (royaume)#DEMANDEDECONSTRUCTION|Demande de construction]]</td></tr><tr><td>11-17</td><td>[[Évènements (royaume)#RECOLTEPERDUE|Récolte perdue]]</td></tr><tr><td>18-25</td><td>[[Évènements (royaume)#FANATIQUES|Fanatiques]]</td></tr><tr><td>26-33</td><td>[[Évènements (royaume)#VENDEURDEDROGUE|Vendeur de drogue]]</td></tr><tr><td>34-41</td><td>[[Évènements (royaume)#VENDETTA|Vendetta]]</td></tr><tr><td>42-49</td><td>[[Évènements (royaume)#INQUISITION|Inquisition]]</td></tr><tr><td>50-54</td><td>[[Évènements (royaume)#DESASTRELOCALISE|Désastre localisé]]</td></tr><tr><td>55-61</td><td>[[Évènements (royaume)#ATTAQUEDEMONSTRES|Attaque de monstres]]</td></tr><tr><td>62-66</td><td>[[Évènements (royaume)#EPIDEMIE|Épidémie]]</td></tr><tr><td>67-74</td><td>[[Évènements (royaume)#CRIMESENSATIONNEL|Crime sensationnel]]</td></tr><tr><td>75-80</td><td>[[Évènements (royaume)#ESCLAVAGISTES|Esclavagistes]]</td></tr><tr><td>81-90</td><td>[[Évènements (royaume)#SQUATTERS|Squatters]]</td></tr><tr><td>91-100</td><td>[[Évènements (royaume)#VANDALISME|Vandalisme]]</td></tr></table>
+
 </div></div>
 - {s:Reference|ATTAQUEDEMONSTRES}**Attaque de monstres (communauté, continu).** Un monstre (ou un groupe de monstres) attaque votre royaume ! Au [[MJ]] de choisir un hexagone qui vous appartient et d’y placer les monstres. Le [[FP]] de la rencontre doit être égal à votre niveau de groupe + 1d4 – 1. Vous pouvez vous charger vous-même du monstre (et gagner des [[PX]] et un trésor adapté) ou faire un test de [[Royaumes et guerre#STABILITE|Stabilité]]. En cas de réussite, le monstre est éliminé et n’affecte pas les statistiques de votre royaume ni les vôtres. Si le monstre reste invaincu, l’[[Royaumes et guerre#INSATISFACTION|Insatisfaction]] augmente de 4. Si l’Insatisfaction du royaume est de 5 ou plus, l’hexagone échappe à votre contrôle (en plus des hexagones que vous risquez de perdre lors de la phase d’entretien à cause de votre forte valeur d’Insatisfaction).
 

@@ -24,16 +24,9 @@ Le sort *[[détection de la magie]]* permet d’identifier l’[[Présentation d
 Pour les objets que vous concevez et qui requièrent plusieurs sorts pour leur création, une *[[détection de la magie]]* se concentre sur le sort dont le niveau est le plus élevé. Si aucun sort n’est exigé dans les conditions de création, la règle suivante est en vigueur.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Nature de l’objet || École
-|- CLASS="premier"
-| Arme ou objet d’attaque || [[Présentation des sorts#EVOCATION|Évocation]]
-|- CLASS="alt"
-| Armure ou objet de protection || [[Présentation des sorts#ABJURATION|Abjuration]]
-|-
-| Objet conférant un bonus à une caractéristique, à un test de compétence, etc. || [[Présentation des sorts#TRANSMUTATION|Transmutation]]
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Nature de l’objet</td><td>École</td></tr><tr CLASS="premier"><td>Arme ou objet d’attaque</td><td>[[Présentation des sorts#EVOCATION|Évocation]]</td></tr><tr CLASS="alt"><td>Armure ou objet de protection</td><td>[[Présentation des sorts#ABJURATION|Abjuration]]</td></tr><tr><td>Objet conférant un bonus à une caractéristique, à un test de compétence, etc.</td><td>[[Présentation des sorts#TRANSMUTATION|Transmutation]]</td></tr></table>
+
 </center>
 
 {s:Reference|UTILISER}
@@ -100,53 +93,9 @@ La plupart des objets magiques doivent être portés pour qu’une personne bén
 Une silhouette humanoïde peut être équipée magiquement avec un objet de chacun des groupes suivants, lesquels sont liés à la partie du corps sur laquelle l’objet est portée.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Emplacement
-| CLASS="gauche" | Description
-|- CLASS="premier"
-| Armure
-| CLASS="gauche" | une armure.
-|- CLASS="alt"
-| Sur la tête
-| CLASS="gauche" | une couronne, un casque, un couvre-chef, un masque ou un diadème.
-|-
-| Sur le front
-| CLASS="gauche" | un bandeau ou un phylactère.
-|- CLASS="alt"
-| Devant les yeux
-| CLASS="gauche" | des lentilles, un monocle ou une paire de lunettes.
-|-
-| Autour du cou
-| CLASS="gauche" | une amulette, une broche, un charme, un collier, un médaillon ou un scarabée.
-|- CLASS="alt"
-| Sur les épaules
-| CLASS="gauche" | une cape, une écharpe ou un manteau.
-|-
-| Sur le torse
-| CLASS="gauche" | une chasuble, une chemise, un gilet ou une veste.
-|- CLASS="alt"
-| Sur le corps
-| CLASS="gauche" | un manteau ou une robe.
-|-
-| Autour de la taille
-| CLASS="gauche" | une ceinture ou un ceinturon.
-|- CLASS="alt"
-| Sur les bras ou les poignets
-| CLASS="gauche" | une paire de bracelets.
-|-
-| Aux mains
-| CLASS="gauche" | une paire de gants ou de gantelets.
-|- CLASS="alt"
-| Bouclier
-| CLASS="gauche" | un bouclier.
-|-
-| Aux pieds
-| CLASS="gauche" | une paire de bottes ou de chaussures.
-|- CLASS="alt"
-| Aux doigts
-| CLASS="gauche" | deux anneaux (un sur chaque main ou les deux sur la même main).
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Emplacement</td><td CLASS="gauche">Description</td></tr><tr CLASS="premier"><td>Armure</td><td CLASS="gauche">une armure.</td></tr><tr CLASS="alt"><td>Sur la tête</td><td CLASS="gauche">une couronne, un casque, un couvre-chef, un masque ou un diadème.</td></tr><tr><td>Sur le front</td><td CLASS="gauche">un bandeau ou un phylactère.</td></tr><tr CLASS="alt"><td>Devant les yeux</td><td CLASS="gauche">des lentilles, un monocle ou une paire de lunettes.</td></tr><tr><td>Autour du cou</td><td CLASS="gauche">une amulette, une broche, un charme, un collier, un médaillon ou un scarabée.</td></tr><tr CLASS="alt"><td>Sur les épaules</td><td CLASS="gauche">une cape, une écharpe ou un manteau.</td></tr><tr><td>Sur le torse</td><td CLASS="gauche">une chasuble, une chemise, un gilet ou une veste.</td></tr><tr CLASS="alt"><td>Sur le corps</td><td CLASS="gauche">un manteau ou une robe.</td></tr><tr><td>Autour de la taille</td><td CLASS="gauche">une ceinture ou un ceinturon.</td></tr><tr CLASS="alt"><td>Sur les bras ou les poignets</td><td CLASS="gauche">une paire de bracelets.</td></tr><tr><td>Aux mains</td><td CLASS="gauche">une paire de gants ou de gantelets.</td></tr><tr CLASS="alt"><td>Bouclier</td><td CLASS="gauche">un bouclier.</td></tr><tr><td>Aux pieds</td><td CLASS="gauche">une paire de bottes ou de chaussures.</td></tr><tr CLASS="alt"><td>Aux doigts</td><td CLASS="gauche">deux anneaux (un sur chaque main ou les deux sur la même main).</td></tr></table>
+
 </center>
 
 Un personnage peut bien évidemment posséder plusieurs objets d’un même type, mais, dans ce cas-ci, le dernier objet ajouté ne fonctionne pas, le ou les autres continuant à agir normalement.
@@ -184,29 +133,9 @@ Ce qui suit aidera le [[MJ]] à déterminer quels sont les objets que l’on peu
 
 {s:Reference|TABLEOBJETSMAGIQUESDISPONIBLES}
 <center>
-{| CLASS="tablo"
-|+ Objets magiques disponibles
-|- CLASS="titre"
-| Taille || Valeur de base || Mineur || Moyen || Majeur
-|- CLASS="premier"
-| Lieu-dit || 50 po || 1d4 objets || — || —
-|- CLASS="alt"
-| Hameau || 200 po || 1d6 objets || — || —
-|-
-| Village || 500 po || 2d4 objets || 1d4 objets || —
-|- CLASS="alt"
-| Petite bourgade || 1 000 po || 3d4 objets || 1d6 objets || —
-|-
-| Grosse bourgade || 2 000 po || 3d4 objets || 2d4 objets || 1d4 objets
-|- CLASS="alt"
-| Petite ville || 4 000 po || 4d4 objets || 3d4 objets || 1d6 objets
-|-
-| Grande ville || 8 000 po || 4d4 objets || 3d4 objets || 2d4 objets
-|- CLASS="alt"
-| Métropole || 16 000 po || * || 4d4 objets || 3d4 objets
-|-
-| CLASS="note" COLSPAN="5" | *(*) Dans une capitale, pratiquement l’intégralité des objets magiques mineurs sont disponibles.*
-|}
+
+<table CLASS="tablo"><caption>Objets magiques disponibles</caption><tr CLASS="titre"><td>Taille</td><td>Valeur de base</td><td>Mineur</td><td>Moyen</td><td>Majeur</td></tr><tr CLASS="premier"><td>Lieu-dit</td><td>50 po</td><td>1d4 objets</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>Hameau</td><td>200 po</td><td>1d6 objets</td><td>—</td><td>—</td></tr><tr><td>Village</td><td>500 po</td><td>2d4 objets</td><td>1d4 objets</td><td>—</td></tr><tr CLASS="alt"><td>Petite bourgade</td><td>1 000 po</td><td>3d4 objets</td><td>1d6 objets</td><td>—</td></tr><tr><td>Grosse bourgade</td><td>2 000 po</td><td>3d4 objets</td><td>2d4 objets</td><td>1d4 objets</td></tr><tr CLASS="alt"><td>Petite ville</td><td>4 000 po</td><td>4d4 objets</td><td>3d4 objets</td><td>1d6 objets</td></tr><tr><td>Grande ville</td><td>8 000 po</td><td>4d4 objets</td><td>3d4 objets</td><td>2d4 objets</td></tr><tr CLASS="alt"><td>Métropole</td><td>16 000 po</td><td>*</td><td>4d4 objets</td><td>3d4 objets</td></tr><tr><td CLASS="note" COLSPAN="5">*(*) Dans une capitale, pratiquement l’intégralité des objets magiques mineurs sont disponibles.*</td></tr></table>
+
 </center>
 
 Leur nombre et leur type dépendent en grande partie de la taille de l’endroit où on les trouve, comme indiqué dans la Table "[[Règles relatives aux objets magiques#TABLEOBJETSMAGIQUESDISPONIBLES|Objets magiques disponibles]]", à la colonne « Valeur de base ». Il y a 75 % de chances pour qu’un objet d’un prix équivalent ou inférieur y soit facilement disponible à la vente. De plus, un certain nombre, déterminé au hasard, d’objets magiques répartis dans chaque catégorie (mineur, moyen et majeur), est également disponible. Reportez-vous à la Table "[[Détermination aléatoire dobjets magiques]]" pour en avoir les quantités et la nature ([[potions magiques|potion]], [[parchemins magiques|parchemin]], [[anneaux magiques|anneau]], [[armes magiques|armes]], etc.) exactes, puis aux tables spécifiques pour déterminer précisément quel est l’objet. Relancez les dés à chaque fois que vous tombez sur un objet magique dont la valeur est inférieure à la <u>valeur de base</u> de la communauté.

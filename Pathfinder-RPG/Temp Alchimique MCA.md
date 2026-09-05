@@ -9,21 +9,9 @@ LastModified: 2020-06-09 18:27
 Les remèdes alchimiques sont des substances que l’on utilise pour surmonter un état négatif ou pour se protéger contre un type spécifique d’attaque. Le personnage utilise la plupart de ces remèdes en les buvant ou en les appliquant sur sa peau ou ses vêtements, même si certains remèdes emploient d’autres méthodes d’administration. Un personnage possédant la compétence Artisanat (alchimie) peut créer toutes ces substances : le DD de fabrication de chacun de ces objets est présenté dans la table 5-2 : les remèdes alchimiques
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Remèdes alchimiques
-|- CLASS="titre"
-| Objet || Coût || Poids || DD d’Artisanat
-|- CLASS="premier"
-| [[Temp Alchimique MCA#antipoison|Baume antipoison]] || 15 po || — || 15
-|- CLASS="alt"
-| [[Temp Alchimique MCA#coagulant|Baume coagulant]] || 30 po || — || 20
-|-
-| [[Temp Alchimique MCA#forcené|Secours du forcené]] || 25 po || — || 25
-|- CLASS="alt"
-| [[Temp Alchimique MCA#antiémétique|Tabac antiémétique]] || 50 po || — || 25
-|-
-| [[Temp Alchimique MCA#Tonique|Tonique]] || 20 po || 0,5 kg || 20
-|}
+
+<table CLASS="tablo col1centre"><caption>Remèdes alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’Artisanat</td></tr><tr CLASS="premier"><td>[[Temp Alchimique MCA#antipoison|Baume antipoison]]</td><td>15 po</td><td>—</td><td>15</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#coagulant|Baume coagulant]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Temp Alchimique MCA#forcené|Secours du forcené]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#antiémétique|Tabac antiémétique]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Tonique|Tonique]]</td><td>20 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </center>
 
 {s:mca}{s:Reference|antipoison}
@@ -53,45 +41,9 @@ Ce liquide génère une agréable sensation de chaleur quand on le consomme. Pen
 Les outils alchimiques font partie des équipements d’aventure qui peuvent s’avérer très utiles dans de nombreuses situations, y compris lors d’un combat, de l’exploration d’un donjon ou de la fabrication d’autres objets alchimiques. Un personnage possédant la compétence Artisanat (alchimie) peut fabriquer tous ces outils. Le DD de fabrication de chacun est indiqué dans la table ci-dessous.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Les outils alchimiques
-|- CLASS="titre"
-| Objet || Coût || Poids || DD d’artisanat
-|- CLASS="premier"
-| [[Temp Alchimique MCA#ARMESAINTE|Baume d’arme sainte]] || 30 po || 0,25 kg || 20
-|- CLASS="alt"
-| [[Temp Alchimique MCA#vomitive|Capsule vomitive]] || 12 po || — || 15
-|-
-| [[Temp Alchimique MCA#Corde|Corde de vigne-sang]] || 200 po || 2,5 kg || 30
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Encre|Encre de feu, fiole]] || 40 po || — || 25
-|-
-| [[Temp Alchimique MCA#Galets|Galets du petit Poucet]] || 50 po || 0,5 kg || 25
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Huile|Huile des maîtres]] || 50 po || 0,25 kg || 25
-|-
-| [[Temp Alchimique MCA#Masque-odeur|Masque-odeur, animal]] || 25 po || — || 20
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Masque-odeur|Masque-odeur, créature magique]] || 100 po || — || 30
-|-
-| [[Temp Alchimique MCA#Masque-odeur|Masque-odeur, humanoïde]] || 50 po || — || 25
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Papier|Papier réactif]] || 1 po || — || 15
-|-
-| [[Temp Alchimique MCA#Pastel|Pastel de guède (1 bâtonnet)]] || 60 po || — || 30
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Pastille|Pastille du rossignol]] || 50 po || — || 25
-|-
-| [[Temp Alchimique MCA#Poudre|Poudre de pistage]] || 30 po || — || 25
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Solution|Solution adhésive]] || 25 po || 0,5 || kg 20
-|-
-| [[Temp Alchimique MCA#Tabac|Tabac du traqueur]] || 200 po || — || 30
-|- CLASS="alt"
-| [[Temp Alchimique MCA#Tonique caverneux|Tonique caverneux]] || 50 po || — || 25
-|-
-| [[Temp Alchimique MCA#Pastel|Trousse à pastels de guède]] || 300 po || 0,5 kg || 30
-|}
+
+<table CLASS="tablo col1centre"><caption>Les outils alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’artisanat</td></tr><tr CLASS="premier"><td>[[Temp Alchimique MCA#ARMESAINTE|Baume d’arme sainte]]</td><td>30 po</td><td>0,25 kg</td><td>20</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#vomitive|Capsule vomitive]]</td><td>12 po</td><td>—</td><td>15</td></tr><tr><td>[[Temp Alchimique MCA#Corde|Corde de vigne-sang]]</td><td>200 po</td><td>2,5 kg</td><td>30</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Encre|Encre de feu, fiole]]</td><td>40 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Galets|Galets du petit Poucet]]</td><td>50 po</td><td>0,5 kg</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Huile|Huile des maîtres]]</td><td>50 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, animal]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, créature magique]]</td><td>100 po</td><td>—</td><td>30</td></tr><tr><td>[[Temp Alchimique MCA#Masque-odeur|Masque-odeur, humanoïde]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Papier|Papier réactif]]</td><td>1 po</td><td>—</td><td>15</td></tr><tr><td>[[Temp Alchimique MCA#Pastel|Pastel de guède (1 bâtonnet)]]</td><td>60 po</td><td>—</td><td>30</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Pastille|Pastille du rossignol]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Poudre|Poudre de pistage]]</td><td>30 po</td><td>—</td><td>25</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Solution|Solution adhésive]]</td><td>25 po</td><td>0,5</td><td>kg 20</td></tr><tr><td>[[Temp Alchimique MCA#Tabac|Tabac du traqueur]]</td><td>200 po</td><td>—</td><td>30</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#Tonique caverneux|Tonique caverneux]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#Pastel|Trousse à pastels de guède]]</td><td>300 po</td><td>0,5 kg</td><td>30</td></tr></table>
+
 </center>
 
 {s:mca}{s:Reference|ARMESAINTE}
@@ -242,17 +194,9 @@ objets : le DD de fabrication pour chacun d’eux est indiqué dans
 la table ci-dessous.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Les armes alchimiques
-|- CLASS="titre"
-| Objet || Coût || Poids || DD d’Artisanat
-|- CLASS="premier"
-| [[Temp Alchimique MCA#POUDREDIAMANT|Fioles de poudre de diamant]] || 25 po || — || 25
-|-
-| [[Temp Alchimique MCA#POINGDEVERRE|Fioles pour poings de verre (4)]] || 5 po || — || 15
-|- CLASS="alt"
-| [[Temp Alchimique MCA#POINGDEVERRE|Poings de verre]] || 25 po || 0,25 kg || 20
-|}
+
+<table CLASS="tablo col1centre"><caption>Les armes alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Coût</td><td>Poids</td><td>DD d’Artisanat</td></tr><tr CLASS="premier"><td>[[Temp Alchimique MCA#POUDREDIAMANT|Fioles de poudre de diamant]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Temp Alchimique MCA#POINGDEVERRE|Fioles pour poings de verre (4)]]</td><td>5 po</td><td>—</td><td>15</td></tr><tr CLASS="alt"><td>[[Temp Alchimique MCA#POINGDEVERRE|Poings de verre]]</td><td>25 po</td><td>0,25 kg</td><td>20</td></tr></table>
+
 </center>
 
 

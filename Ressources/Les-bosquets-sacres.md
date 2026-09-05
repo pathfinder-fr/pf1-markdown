@@ -21,32 +21,9 @@ Un bosquet à peine éveillé a une "valeur" de 100 PO multiplié par le résult
 ### Pouvoirs d'un bosquet sacré
 Les pouvoirs d'un bosquet sacré sont basés sur les pouvoirs qu'un sort de Druide ou de rôdeur pourrait donner à un objet magique. Chaque pouvoir aura (au choix) un "effet constant" ou trois utilisations par jour.{br}
 Le tableau qui suit donne le prix de chaque pouvoir en fonction de l'option "3x/jour" ou "effet constant", la durée du sort intervient dans le prix; les sorts dont la durée est la plus courte sont les plus couteux pour créer un "effet constant". Ce tableau peut également servir pour toute fabrication d'objet magique "constant".{br}{br}
-{| CLASS="tablo"
-|+ Pouvoirs de Druide / Rôdeur
-|- CLASS="titre"
-| Niveau || 1x jour || 3x jour || 1 round/niv || 1 min/niv || 10 min/niv || 1 heure/niv || >24h
-|- CLASS="premier"
-|-
-| 0 || 200 PO || 600 PO || 4.000 PO || 2.000 PO || 1.500 PO || 1.000 PO || 500 PO
-|-
-| 1 || 400 PO || 1.200 PO || 8.000 PO || 4.000 PO || 3.000 PO || 2.000 PO || 1.000 PO
-|-
-| 2 || 2.400 PO || 7.200 PO || 48.000 PO || 24.000 PO || 18.000 PO || 12.000 PO || 6.000 PO
-|-
-| 3 || 6.000 PO || 18.000 PO || 120.000 PO || 60.000 PO || 45.000 PO || 30.000 PO || 15.000 PO
-|-
-| 4 || 11.200 PO || 33.600 PO || 224.000 PO || 112.000 PO || 84.000 PO || 56.000 PO || 28.000 PO
-|-
-| 5 || 18.000 PO || 54.000 PO || 360.000 PO || 180.000 PO || 135.000 PO || 90.000 PO || 45.000 PO
-|-
-| 6 || 26.400 PO || 79.200 PO || 528.000 PO || 264.000 PO || 198.000 PO || 132.000 PO || 66.000 PO
-|-
-| 7 || 36.400 PO || 109.200 PO || 728.000 PO || 364.000 PO || 273.000 PO || 182.000 PO || 91.000 PO
-|-
-| 8 || 48.000 PO || 144.000 PO || 960.000 PO || 480.000 PO || 360.000 PO || 240.000 PO || 120.000 PO
-|-
-| 9 || 61.200 PO || 183.600 PO || 1.224.000 PO || 612.000 PO || 459.000 PO || 306.000 PO || 153.000 PO
-|}
+
+<table CLASS="tablo"><caption>Pouvoirs de Druide / Rôdeur</caption><tr CLASS="titre"><td>Niveau</td><td>1x jour</td><td>3x jour</td><td>1 round/niv</td><td>1 min/niv</td><td>10 min/niv</td><td>1 heure/niv</td><td>>24h</td></tr><tr CLASS="premier"></tr><tr><td>0</td><td>200 PO</td><td>600 PO</td><td>4.000 PO</td><td>2.000 PO</td><td>1.500 PO</td><td>1.000 PO</td><td>500 PO</td></tr><tr><td>1</td><td>400 PO</td><td>1.200 PO</td><td>8.000 PO</td><td>4.000 PO</td><td>3.000 PO</td><td>2.000 PO</td><td>1.000 PO</td></tr><tr><td>2</td><td>2.400 PO</td><td>7.200 PO</td><td>48.000 PO</td><td>24.000 PO</td><td>18.000 PO</td><td>12.000 PO</td><td>6.000 PO</td></tr><tr><td>3</td><td>6.000 PO</td><td>18.000 PO</td><td>120.000 PO</td><td>60.000 PO</td><td>45.000 PO</td><td>30.000 PO</td><td>15.000 PO</td></tr><tr><td>4</td><td>11.200 PO</td><td>33.600 PO</td><td>224.000 PO</td><td>112.000 PO</td><td>84.000 PO</td><td>56.000 PO</td><td>28.000 PO</td></tr><tr><td>5</td><td>18.000 PO</td><td>54.000 PO</td><td>360.000 PO</td><td>180.000 PO</td><td>135.000 PO</td><td>90.000 PO</td><td>45.000 PO</td></tr><tr><td>6</td><td>26.400 PO</td><td>79.200 PO</td><td>528.000 PO</td><td>264.000 PO</td><td>198.000 PO</td><td>132.000 PO</td><td>66.000 PO</td></tr><tr><td>7</td><td>36.400 PO</td><td>109.200 PO</td><td>728.000 PO</td><td>364.000 PO</td><td>273.000 PO</td><td>182.000 PO</td><td>91.000 PO</td></tr><tr><td>8</td><td>48.000 PO</td><td>144.000 PO</td><td>960.000 PO</td><td>480.000 PO</td><td>360.000 PO</td><td>240.000 PO</td><td>120.000 PO</td></tr><tr><td>9</td><td>61.200 PO</td><td>183.600 PO</td><td>1.224.000 PO</td><td>612.000 PO</td><td>459.000 PO</td><td>306.000 PO</td><td>153.000 PO</td></tr></table>
+
 
 ### Exemples de Pouvoir
 Selon le type d'environnement, les pouvoirs d'un bosquet sacré peuvent être très différents... en règle générale, un druide donnera à son bosquet des pouvoirs qui permettent de le transformer en havre de paix pour les créatures menacées (animaux ou humains), en particulier dans un environnement extrême.{br}
@@ -55,95 +32,95 @@ Pour les effets constants qui s'appliquent à "tous les occupants du bosquets", 
 Les pouvoirs décrits ici correspondent aux sorts de druide du même nom de niveau 1 à 3.
 
 #### Aquatique
-- [++Pathfinder-RPG.Création deau|Création d'eau] - 3x jour - 600 PO
+- [[Pathfinder-RPG.Création deau|Création d'eau]] - 3x jour - 600 PO
 Uniquement dans un environnement ou l'eau n'est pas potable, eau salée ou marais inondé.
-- [++Pathfinder-RPG.Purification de nourriture et deau|Purification de nourriture et d'eau] - 3x jour - 600 PO
-- [++Pathfinder-RPG.Modification des vents|Modification des vents] - effet constant - 2.000 PO
-- [++Pathfinder-RPG.Respiration aquatique|Respiration aquatique] - effet constant - 30.000 PO
+- [[Pathfinder-RPG.Purification de nourriture et deau|Purification de nourriture et d'eau]] - 3x jour - 600 PO
+- [[Pathfinder-RPG.Modification des vents|Modification des vents]] - effet constant - 2.000 PO
+- [[Pathfinder-RPG.Respiration aquatique|Respiration aquatique]] - effet constant - 30.000 PO
 Le gardien bénéficie de cet effet tant qu'il est dans les limites du bosquet
-- [++Pathfinder-RPG.Sentier de nénuphars|Sentier de nénuphars]
+- [[Pathfinder-RPG.Sentier de nénuphars|Sentier de nénuphars]]
 effet constant - 45.000 PO - Chaque fois que le gardien traverse une étendue d'eau douce
 3x jour - 18.000 PO - Le gardien ou le bosquet peuvent initier ce pouvoir pour aider des créatures en difficulté.
-- [++Pathfinder-RPG.Torrent hydraulique|Torrent hydraulique] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Torrent hydraulique|Torrent hydraulique]] 3x jour - 18.000 PO
 
 #### Désert
-- [++Pathfinder-RPG.Création deau|Création d'eau] - 3x jour - 600 PO
-- [++Pathfinder-RPG.Manteau dombre|Manteau d'ombre] - effet constant - 2.000 PO
+- [[Pathfinder-RPG.Création deau|Création d'eau]] - 3x jour - 600 PO
+- [[Pathfinder-RPG.Manteau dombre|Manteau d'ombre]] - effet constant - 2.000 PO
 Ce pouvoir affecte tous les occupants humains ou animaux présents dans le bosquet.
-- [++Pathfinder-RPG.Modification des vents|Modification des vents] - effet constant - 2.000 PO
-- [++Pathfinder-RPG.Sables changeants|Sables changeants] - 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Modification des vents|Modification des vents]] - effet constant - 2.000 PO
+- [[Pathfinder-RPG.Sables changeants|Sables changeants]] - 3x jour - 18.000 PO
 
 #### Forêt
-- [++Pathfinder-RPG.Baie nourricière|Baie nourricière] - 3x jour - 1200 PO
-- [++Pathfinder-RPG.Enchevêtrement|Enchevêtrement] - à volonté - 4.000 PO
+- [[Pathfinder-RPG.Baie nourricière|Baie nourricière]] - 3x jour - 1200 PO
+- [[Pathfinder-RPG.Enchevêtrement|Enchevêtrement]] - à volonté - 4.000 PO
 Les plantes sont considérées comme une nuée végétale ayant une CA de 10 plus le niveau du gardien, 4 pts de vie par niveau du gardien et une RD 10 contre les armes contondantes et perforantes. Une plante "tuée" se régénère en 24h.
 Il est possible de prendre cet effet plusieurs fois pour avoir de nombreux gardiens végétaux.
-- [++Pathfinder-RPG.Communication avec les plantes|Communication avec les plantes] - 3x jour - 7.200 PO
+- [[Pathfinder-RPG.Communication avec les plantes|Communication avec les plantes]] - 3x jour - 7.200 PO
 Le gardien du bosquet ou son représentant peut utiliser ce pouvoir 3x par jour.
-- [++Pathfinder-RPG.Croissance végétale|Croissance végétale] - 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Croissance végétale|Croissance végétale]] - 3x jour - 18.000 PO
 Ce pouvoir augmente la production de fruits (non-magiques) de 30%
-- [++Pathfinder-RPG.Invasion dorties|Invasion d'orties] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Invasion dorties|Invasion d'orties]] 3x jour - 18.000 PO
 Le gardien, son représentant ou le bosquet lui-même peuvent utiliser ce pouvoir contre les profanateurs
 
 #### Froid
-- [++Pathfinder-RPG.Endurance aux énergies destructives|Endurance aux énergies destructives] - effet constant - 15.000 PO
+- [[Pathfinder-RPG.Endurance aux énergies destructives|Endurance aux énergies destructives]] - effet constant - 15.000 PO
 Cet effet protège en permanence tous les occupants du bosquet. Le gardien, son représentant peut exclure certaines créatures de cette protection. Le bosquet lui-même le fera automatiquement pour tout profanateur.
-- [++Pathfinder-RPG.Modification des vents|Modification des vents] - effet constant - 2.000 PO
-- [++Pathfinder-RPG.Morsure du froid|Morsure du froid] - 1x jour - 400 PO
+- [[Pathfinder-RPG.Modification des vents|Modification des vents]] - effet constant - 2.000 PO
+- [[Pathfinder-RPG.Morsure du froid|Morsure du froid]] - 1x jour - 400 PO
 Cet effet peut être ajouté aux attaques d'un autre gardien du bosquet, les dégâts et effets supplémentaires peuvent être ajoutés à une attaque par niveau du gardien.
-- [++Pathfinder-RPG.résistance aux énergies destructives|Résistance aux énergies destructives] - effet constant - 28.000 PO
-- [++Pathfinder-RPG.Protection contre les énergies destructives|Protection contre les énergies destructives] - effet constant - 45.000 PO
-- [++Pathfinder-RPG.Tempête de neige|Tempête de neige] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.résistance aux énergies destructives|Résistance aux énergies destructives]] - effet constant - 28.000 PO
+- [[Pathfinder-RPG.Protection contre les énergies destructives|Protection contre les énergies destructives]] - effet constant - 45.000 PO
+- [[Pathfinder-RPG.Tempête de neige|Tempête de neige]] 3x jour - 18.000 PO
 
 #### Jungle
-- [++Pathfinder-RPG.Baie nourricière|Baie nourricière] - 3x jour - 1200 PO
-- [++Pathfinder-RPG.Nuée grouillante|Nuée grouillante] - 3x jour - 1.200 PO
+- [[Pathfinder-RPG.Baie nourricière|Baie nourricière]] - 3x jour - 1200 PO
+- [[Pathfinder-RPG.Nuée grouillante|Nuée grouillante]] - 3x jour - 1.200 PO
 Seul le gardien ou une personne autorisée peut utiliser ce pouvoir.
-- [++Pathfinder-RPG.Communication avec les plantes|Communication avec les plantes] - 3x jour - 7.200 PO
+- [[Pathfinder-RPG.Communication avec les plantes|Communication avec les plantes]] - 3x jour - 7.200 PO
 Le gardien du bosquet ou son représentant peut utiliser ce pouvoir 3x par jour.
-- [++Pathfinder-RPG.Croissance végétale|Croissance végétale] - 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Croissance végétale|Croissance végétale]] - 3x jour - 18.000 PO
 Ce pouvoir augmente la production de fruits (non-magiques) de 30%
-- [++Pathfinder-RPG.Singes fous|Singes fous] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Singes fous|Singes fous]] 3x jour - 18.000 PO
 
 #### Marais
-- [++Pathfinder-RPG.Création deau|Création d'eau] - 3x/ jour - 600 PO
-- [++Pathfinder-RPG.Purification de nourriture et deau|Purification de nourriture et d'eau] - 3x jour - 600 PO
-- [++Pathfinder-RPG.Brume de dissimulation|Brume de dissimulation] - à volonté - 4.000 PO
-- [++Pathfinder-RPG.Nappe de brouillard|Nappe de brouillard] - à volonté - 18.000 PO
-- [++Pathfinder-RPG.Nuée grouillante|Nuée grouillante] - 3x jour - 1.200 PO
+- [[Pathfinder-RPG.Création deau|Création d'eau]] - 3x/ jour - 600 PO
+- [[Pathfinder-RPG.Purification de nourriture et deau|Purification de nourriture et d'eau]] - 3x jour - 600 PO
+- [[Pathfinder-RPG.Brume de dissimulation|Brume de dissimulation]] - à volonté - 4.000 PO
+- [[Pathfinder-RPG.Nappe de brouillard|Nappe de brouillard]] - à volonté - 18.000 PO
+- [[Pathfinder-RPG.Nuée grouillante|Nuée grouillante]] - 3x jour - 1.200 PO
 Seul le gardien ou une personne autorisée peut utiliser ce pouvoir.
-- [++Pathfinder-RPG.Infestation fongique|Infestation fongique] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Infestation fongique|Infestation fongique]] 3x jour - 18.000 PO
 Le gardien, son représentant ou le bosquet lui-même peuvent utiliser ce pouvoir contre les profanateurs
-- [++Pathfinder-RPG.Pluie de grenouilles|Pluie de grenouilles] 3x jour - 18.000 PO
-- [++Pathfinder-RPG.Sentier de nénuphars|Sentier de nénuphars] (voir même pouvoir, environnement aquatique)
+- [[Pathfinder-RPG.Pluie de grenouilles|Pluie de grenouilles]] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Sentier de nénuphars|Sentier de nénuphars]] (voir même pouvoir, environnement aquatique)
 
 #### Montagnes
-- [++Pathfinder-RPG.Façonnage de la pierre|Façonnage de la pierre] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Façonnage de la pierre|Façonnage de la pierre]] 3x jour - 18.000 PO
 Le Gardien peut modifier une fois par jour l'environnement naturel de son bosquet, ce qui permet de masquer ou découvrir l'entrée d'une grotte, créer des barrières ou simplement désorienter les intrus.
-- [++Pathfinder-RPG.Tempête de neige|Tempête de neige] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Tempête de neige|Tempête de neige]] 3x jour - 18.000 PO
 
 #### Plaines
-- [++Pathfinder-RPG.Croissance végétale|Croissance végétale] - 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Croissance végétale|Croissance végétale]] - 3x jour - 18.000 PO
 Ce pouvoir augmente la production de fruits (non-magiques) de 30%
 
 #### Plans
 Selon la nature du plan...
 
 #### Souterrains
-- [++Pathfinder-RPG.Nuée grouillante|Nuée grouillante] - 3x jour - 1.200 PO
+- [[Pathfinder-RPG.Nuée grouillante|Nuée grouillante]] - 3x jour - 1.200 PO
 Seul le gardien ou une personne autorisée peut utiliser ce pouvoir.
-- [++Pathfinder-RPG.Façonnage de la pierre|Façonnage de la pierre] 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Façonnage de la pierre|Façonnage de la pierre]] 3x jour - 18.000 PO
 
 #### Urbain
-- [++Pathfinder-RPG.Nuée grouillante|Nuée grouillante] - 3x jour - 1.200 PO
+- [[Pathfinder-RPG.Nuée grouillante|Nuée grouillante]] - 3x jour - 1.200 PO
 Seul le gardien ou une personne autorisée peut utiliser ce pouvoir.
 
 #### Tous les environnements
-- [++Pathfinder-RPG.Communication avec les animaux|Communication avec les animaux] - effet constant - 20.000 PO
+- [[Pathfinder-RPG.Communication avec les animaux|Communication avec les animaux]] - effet constant - 20.000 PO
 Tous les animaux présents dans le bosquet parlent le langage secret des druides. Cette capacité ne modifie pas leur intelligence, ils sont incapables d'enseigner cette langue.
-- [++Pathfinder-RPG.Feu de camp abrité|Feu de camp abrité] - 3x par jour - 7.200 PO
+- [[Pathfinder-RPG.Feu de camp abrité|Feu de camp abrité]] - 3x par jour - 7.200 PO
 Des signes de pistes visibles, facilement déchiffrable par n'importe quel druide, rôdeur ou adorateur de la nature permettent de trouver une pierre gravée d'une rune qui déclenche le "feu de camp". Ce pouvoir se retrouve généralement dans les environnements froids et hostiles.
-- [++Pathfinder-RPG.Cacher le camp|Cacher le camp] - effet constant - 12.000 PO
+- [[Pathfinder-RPG.Cacher le camp|Cacher le camp]] - effet constant - 12.000 PO
 Le gardien ou son représentant peut à tout moment appliquer cet effet à l'ensemble du bosquet.
-- [++Pathfinder-RPG.Exilé par la nature|Exilé par la nature] - 3x jour - 18.000 PO
+- [[Pathfinder-RPG.Exilé par la nature|Exilé par la nature]] - 3x jour - 18.000 PO
 Le gardien, son représentant ou le bosquet lui-même peuvent maudire jusqu'à trois créatures par jour (le bosquet ne le fera que contre les profanateurs avérés). La malédiction est permanente jusqu'à ce que le gardien la retire.

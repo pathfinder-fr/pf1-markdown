@@ -7,52 +7,10 @@ LastModified: 2025-05-15 17:53
 {s:Menuclassessupplémentaires}{s:cs}{s:UI}Les talents marqués d'un astérisque (*) sont réservés aux justiciers harceleurs.
 Les talents marqués de deux astérisques (**) sont réservés aux justiciers vengeurs.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="84%"
-|+ Talents de justicier
-|- CLASS="titre"
-| Niveau  
-minimal
-| COLSPAN="3" | Talents
-|- CLASS="premier"
-| **1** || [[talents de justicier#ARMEBOOMERANG|Arme boomerang]] || [[talents de justicier #EVASIF|Evasif]]* || [[talents de justicier #MANOEUVREFAVORITE|Manœuvre favorite]]
-|-
-| &emsp; || [[talents de justicier#ARMEFETICHE|Arme fétiche]]** || [[talents de justicier#EXECUTIONSILENCIEUSE|Exécution silencieuse]] || [[talents de justicier #PEAUDARMURE|Peau d’armure]]
-|-
-| &emsp; || [[talents de justicier #ARMEINOPINEE|Arme inopinée]] || [[talents de justicier #EXPOSITIONDESFAIBLESSES|Exposition des faiblesses]] || [[talents de justicier#PEURLANCINANTE|Peur lancinante]]*
-|-
-| &emsp; || [[talents de justicier#AVANCEEASSUREE|Avance assurée]] || [[talents de justicier #FEINTERUSEE|Feinte rusée]] || [[talents de justicier#POINGDUVENGEUR|Poing du vengeur]]**
-|-
-| &emsp; || [[talents de justicier#BOUCLIERDEFUREUR|Bouclier de fureur]] || [[talents de justicier#FRAPPEINATTENDUE|Frappe inattendue]] || [[talents de justicier #RAPPROCHEMENTSTRATEGIQUE|Rapprochement stratégique]]
-|-
-| &emsp; || [[talents de justicier#BOUCLIERDELAMES|Bouclier de lames]] || [[talents de justicier#FRAPPERLINVISIBLE|Frapper l’invisible]] || [[talents de justicier#RIENNEMARRETE|Rien ne m’arrête]]**
-|-
-| &emsp; || [[talents de justicier#BOUCLIERVIVANT|Bouclier vivant]] || [[talents de justicier#FRAPPEOPPORTUNISTE|Frappe opportuniste]] || [[talents de justicier#SENSDUHARCELEUR|Sens du harceleur]]*
-|-
-| &emsp; || [[talents de justicier#CHUTEPARFAITE|Chute parfaite]] || [[talents de justicier#GRACEMORTELLE|Grâce mortelle]] || [[talents de justicier #TALENTAUCOMBAT|Talent au combat]]**
-|-
-| &emsp; || [[talents de justicier#COLLISIONDENNEMIS|Collision d’ennemis]]* || [[talents de justicier#INFILTREDESTOITS|Infiltré des toits]] || [[talents de justicier#TALENTDEROUBLARD|Talent de roublard]]*
-|-
-| &emsp; || [[talents de justicier#COUPENTRAITRE|Coup en traître]]** || [[talents de justicier #JUSTICIERINSPIRE|Justicier inspiré]] || [[talents de justicier#TROMPELAMORT|Trompe-la-mort]]**
-|-
-| &emsp; || [[talents de justicier #ENTRAINEMENTINTENSIF|Entraînement intensif]]** || [[talents de justicier#LAISSERUNEOUVERTURE|Laisser une ouverture]]* || [[talents de justicier#UNAUTREJOUR|Un autre jour]]
-|-
-| &emsp; || [[talents de justicier#ENTRAINERDANSLESOMBRES|Entraîner dans les ombres]] || [[talents de justicier #MAITREDELACHASSE|Maître de la chasse]] || [[talents de justicier#VISIONDESOMBRES|Vision des ombres]]
-|-
-|- CLASS="premier"
-| **4** || [[talents de justicier#COUPALAGORGE|Coup à la gorge]]* || [[talents de justicier#JENFAITMONAFFAIRE|J’en fais mon affaire]]* || &emsp;
-|-
-|- CLASS="premier"
-| **6** || [[talents de justicier #ANGLEMORT|Angle mort]]* || [[talents de justicier#CHATIMENTDECISIF|Châtiment décisif]] || [[talents de justicier#SNIPER|Sniper]]*
-|-
-|- CLASS="premier"
-| **8** || [[talents de justicier#CACHEENPLEINELUMIERE|Caché en pleine lumière]]* || [[talents de justicier#VULNERABILITEPARFAITE|Vulnérabilité parfaite]] || &emsp;
-|-
-|- CLASS="premier"
-| **10** || [[talents de justicier#EMBUSCADEPUISSANTE|Embuscade puissante]]* || &emsp; || &emsp;
-|-
-|- CLASS="premier"
-| **12** || [[talents de justicier#CHARGEACHARNEE|Charge acharnée]]** || &emsp; || &emsp;
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="84%"><caption>Talents de justicier</caption><tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="3">Talents</td></tr><tr CLASS="premier"><td>**1**</td><td>[[talents de justicier#ARMEBOOMERANG|Arme boomerang]]</td><td>[[talents de justicier #EVASIF|Evasif]]*</td><td>[[talents de justicier #MANOEUVREFAVORITE|Manœuvre favorite]]</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#ARMEFETICHE|Arme fétiche]]**</td><td>[[talents de justicier#EXECUTIONSILENCIEUSE|Exécution silencieuse]]</td><td>[[talents de justicier #PEAUDARMURE|Peau d’armure]]</td></tr><tr><td>&emsp;</td><td>[[talents de justicier #ARMEINOPINEE|Arme inopinée]]</td><td>[[talents de justicier #EXPOSITIONDESFAIBLESSES|Exposition des faiblesses]]</td><td>[[talents de justicier#PEURLANCINANTE|Peur lancinante]]*</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#AVANCEEASSUREE|Avance assurée]]</td><td>[[talents de justicier #FEINTERUSEE|Feinte rusée]]</td><td>[[talents de justicier#POINGDUVENGEUR|Poing du vengeur]]**</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#BOUCLIERDEFUREUR|Bouclier de fureur]]</td><td>[[talents de justicier#FRAPPEINATTENDUE|Frappe inattendue]]</td><td>[[talents de justicier #RAPPROCHEMENTSTRATEGIQUE|Rapprochement stratégique]]</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#BOUCLIERDELAMES|Bouclier de lames]]</td><td>[[talents de justicier#FRAPPERLINVISIBLE|Frapper l’invisible]]</td><td>[[talents de justicier#RIENNEMARRETE|Rien ne m’arrête]]**</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#BOUCLIERVIVANT|Bouclier vivant]]</td><td>[[talents de justicier#FRAPPEOPPORTUNISTE|Frappe opportuniste]]</td><td>[[talents de justicier#SENSDUHARCELEUR|Sens du harceleur]]*</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#CHUTEPARFAITE|Chute parfaite]]</td><td>[[talents de justicier#GRACEMORTELLE|Grâce mortelle]]</td><td>[[talents de justicier #TALENTAUCOMBAT|Talent au combat]]**</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#COLLISIONDENNEMIS|Collision d’ennemis]]*</td><td>[[talents de justicier#INFILTREDESTOITS|Infiltré des toits]]</td><td>[[talents de justicier#TALENTDEROUBLARD|Talent de roublard]]*</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#COUPENTRAITRE|Coup en traître]]**</td><td>[[talents de justicier #JUSTICIERINSPIRE|Justicier inspiré]]</td><td>[[talents de justicier#TROMPELAMORT|Trompe-la-mort]]**</td></tr><tr><td>&emsp;</td><td>[[talents de justicier #ENTRAINEMENTINTENSIF|Entraînement intensif]]**</td><td>[[talents de justicier#LAISSERUNEOUVERTURE|Laisser une ouverture]]*</td><td>[[talents de justicier#UNAUTREJOUR|Un autre jour]]</td></tr><tr><td>&emsp;</td><td>[[talents de justicier#ENTRAINERDANSLESOMBRES|Entraîner dans les ombres]]</td><td>[[talents de justicier #MAITREDELACHASSE|Maître de la chasse]]</td><td>[[talents de justicier#VISIONDESOMBRES|Vision des ombres]]</td></tr><tr CLASS="premier"><td>**4**</td><td>[[talents de justicier#COUPALAGORGE|Coup à la gorge]]*</td><td>[[talents de justicier#JENFAITMONAFFAIRE|J’en fais mon affaire]]*</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**6**</td><td>[[talents de justicier #ANGLEMORT|Angle mort]]*</td><td>[[talents de justicier#CHATIMENTDECISIF|Châtiment décisif]]</td><td>[[talents de justicier#SNIPER|Sniper]]*</td></tr><tr CLASS="premier"><td>**8**</td><td>[[talents de justicier#CACHEENPLEINELUMIERE|Caché en pleine lumière]]*</td><td>[[talents de justicier#VULNERABILITEPARFAITE|Vulnérabilité parfaite]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**10**</td><td>[[talents de justicier#EMBUSCADEPUISSANTE|Embuscade puissante]]*</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**12**</td><td>[[talents de justicier#CHARGEACHARNEE|Charge acharnée]]**</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+
 
 ### Talents de justicier
 <table width="100%"><tr><td width="49%">

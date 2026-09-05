@@ -37,19 +37,9 @@ Categories:
 {s:BDTexte|**Langue (Ext).** La langue d’une grenouille goliath est une attaque primaire dont l’allonge est égale à trois fois celle de sa morsure. Son attaque de langue n’inflige aucun point de dégâts, mais elle peut l’utiliser pour étreindre une créature. La grenouille n’est pas affublée de l’état préjudiciable agrippé lorsqu’elle étreint une créature avec sa langue.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de grenouille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grenouille géante]] || 1
-|-
-| [[Grenouille goliath]] || 3
-|-
-| [[Grenouille venimeuse]] || 1/2
-|-
-| [[Père grenouille]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de grenouille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grenouille géante]]</td><td>1</td></tr><tr><td>[[Grenouille goliath]]</td><td>3</td></tr><tr><td>[[Grenouille venimeuse]]</td><td>1/2</td></tr><tr><td>[[Père grenouille]]</td><td>5</td></tr></table>
+
 </div>*Cet amphibien imposant et bigarré est recouvert de vase luisante et sa langue dégouline de salive.*
 
 Ces grenouilles imposantes hantent les marécages et les rivières peu profondes aux eaux chaudes où elles peuvent se cacher dans les broussailles épaisses. Ce sont des prédateurs agressifs et dangereux qui se gavent de créatures plus petites qu’elles ou qui se rassemblent pour abattre des proies plus grandes. Elles grimpent souvent sur les branches basses de vieux arbres couverts de mousse et attrapent les proies qui passent au niveau du sol humide avant même que celles-ci ne suspectent leur présence.

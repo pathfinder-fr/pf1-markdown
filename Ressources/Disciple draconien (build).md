@@ -166,48 +166,5 @@ Cumuler les buffs est très fort... sur le papier. En pratique, on n’aura que 
 
 #### 5. Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du disciple draconien
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Dons, capacités de classe
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Barbare.ashx|Barbare]] 1 || +1 || - || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]], [[Pathfinder-RPG.Rage supplémentaire.ashx|rage supplémentaire]]
-|-
-| 02 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 1 || +1 || 1 (2) || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 2 || +2 || 2 (3) || [[Pathfinder-RPG.Port de larmure magique.ashx|Port de l’amure magique]]
-|-
-| 04 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 3 || +2 || 3 (4) || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 4 || +3 || 4 (5) || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
-|-
-| 06 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 1 || +3 || 4 (6) || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 2 || +4 || 5 (7) || [[Pathfinder-RPG.Rage supplémentaire.ashx|Rage supplémentaire]], don de lignage : [[Pathfinder-RPG.Combat en aveugle.ashx|combat en aveugle]]
-|-
-| 08 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 3 || +5 || 6 (8) || &nbsp;
-|-
-| 09 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 4 || +6 || 7 (9) || Don au choix
-|-
-| 10 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 5 || +6 || 7 (9) || Don de lignage : [[Pathfinder-RPG.Robustesse.ashx|robustesse]]
-|-
-| 11 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 6 || +7 || 8 (10) || [[Pathfinder-RPG.Connaissances magiques étendues.ashx|Connaissances magiques étendues]] (2 sorts de niv 3)
-|-
-| 12 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 7 || +8 || 9 (11) || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 8 || +9 || 10 (12) || Don au choix, don de lignage : [[Pathfinder-RPG.Incantation rapide.ashx|incantation rapide]]
-|-
-| 14 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 5 || +9 || 11 (13) || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 6 || +10 || 12 (14) || Don au choix
-|-
-| 16 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 7 || +10 || 13 (15) || Don de lignage : [[Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]]
-|-
-| 17 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 8 || +11 || 14 (16) || Don au choix
-|-
-| 18 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 9 || +11 || 15 (17) || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 10 || +12 || 16 (18) || Don au choix
-|-
-| 20 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 11 || +12 || 17 (19) || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du disciple draconien</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Barbare.ashx|Barbare]] 1</td><td>+1</td><td>-</td><td>[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]], [[Pathfinder-RPG.Rage supplémentaire.ashx|rage supplémentaire]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 1</td><td>+1</td><td>1 (2)</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 2</td><td>+2</td><td>2 (3)</td><td>[[Pathfinder-RPG.Port de larmure magique.ashx|Port de l’amure magique]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 3</td><td>+2</td><td>3 (4)</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 4</td><td>+3</td><td>4 (5)</td><td>[[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 1</td><td>+3</td><td>4 (6)</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 2</td><td>+4</td><td>5 (7)</td><td>[[Pathfinder-RPG.Rage supplémentaire.ashx|Rage supplémentaire]], don de lignage : [[Pathfinder-RPG.Combat en aveugle.ashx|combat en aveugle]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 3</td><td>+5</td><td>6 (8)</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 4</td><td>+6</td><td>7 (9)</td><td>Don au choix</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 5</td><td>+6</td><td>7 (9)</td><td>Don de lignage : [[Pathfinder-RPG.Robustesse.ashx|robustesse]]</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 6</td><td>+7</td><td>8 (10)</td><td>[[Pathfinder-RPG.Connaissances magiques étendues.ashx|Connaissances magiques étendues]] (2 sorts de niv 3)</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 7</td><td>+8</td><td>9 (11)</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Disciple draconien.ashx|Disciple draconien]] 8</td><td>+9</td><td>10 (12)</td><td>Don au choix, don de lignage : [[Pathfinder-RPG.Incantation rapide.ashx|incantation rapide]]</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 5</td><td>+9</td><td>11 (13)</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 6</td><td>+10</td><td>12 (14)</td><td>Don au choix</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 7</td><td>+10</td><td>13 (15)</td><td>Don de lignage : [[Pathfinder-RPG.Science de linitiative.ashx|science de l'initiative]]</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 8</td><td>+11</td><td>14 (16)</td><td>Don au choix</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 9</td><td>+11</td><td>15 (17)</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 10</td><td>+12</td><td>16 (18)</td><td>Don au choix</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 11</td><td>+12</td><td>17 (19)</td><td>&nbsp;</td></tr></table>

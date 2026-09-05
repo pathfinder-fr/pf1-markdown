@@ -36,19 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'ours
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grizzly]] || 4
-|-
-| [[Ours sanguinaire]] || 7
-|-
-| [[Ours polaire]] || 5
-|-
-| [[Ours polaire sanguinaire]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'ours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grizzly]]</td><td>4</td></tr><tr><td>[[Ours sanguinaire]]</td><td>7</td></tr><tr><td>[[Ours polaire]]</td><td>5</td></tr><tr><td>[[Ours polaire sanguinaire]]</td><td>8</td></tr></table>
+
 </div>''De la bave coule de la gueule béante de cet ours qui rugit. Quelques
 excroissances osseuses dépassent de sa fourrure hirsute.''
 

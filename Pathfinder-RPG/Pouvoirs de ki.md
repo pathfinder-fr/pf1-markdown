@@ -9,41 +9,10 @@ LastModified: 2022-11-29 19:15
 
 Au niveau 4 et tous les 2 niveaux par la suite, le moine peut choisir un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]]. Ces pouvoirs lui permettent d’accomplir des exploits incroyables, des prouesses mystiques et des acrobaties époustouflantes en dépensant les points de sa [[Moine unchained#RESERVEDEKI|réserve de ki]]. Une fois un [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] choisi, ce choix est définitif. Le moine doit avoir atteint un niveau minimum avant d’avoir accès à certains pouvoirs de ki. Sauf indication contraire, un moine ne peut pas choisir un même [[Moine unchained#POUVOIRSDEKI|pouvoir de ki]] à plusieurs reprises.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="60%"
-|+ Pouvoirs de ki du moine unchained
-|- CLASS="titre"
-| Niveau  
-minimal
-| COLSPAN="3" | Pouvoirs de ki
-|- CLASS="premier"
-| **1** || [[Pouvoirs de ki#CHUTERALENTIE|Chute ralentie]] || [[Pouvoirs de ki#PLENITUDEPHYSIQUE|Plénitude physique]] || [[Pouvoirs de ki#SAUTSPUISSANTS|Sauts puissants]]
-|-
-| &emsp; || [[Pouvoirs de ki#DESERTIONDELAME|Désertation de l'âme]] || [[Pouvoirs de ki#PORTEEKI|Portée ki]] || [[Pouvoirs de ki#SOUDAINECELERITE|Soudaine célérité]]
-|-
-| &emsp; || [[Pouvoirs de ki#EQUILIBREDELAPLUME|Equilibre de la plume]] || [[Pouvoirs de ki#POUVOIRQINGGONG|Pouvoir Qinggong]] || &emsp;
-|-
-| &emsp; || [[Pouvoirs de ki#METABOLISMEKI|Metabolisme ki]] || &emsp; || &emsp;
-|- CLASS="premier"
-| **6** || [[Pouvoirs de ki#COURSESURLONDE|Course sur l'onde]] || [[Pouvoirs de ki#ESPRITDEDIAMANT|Esprit de diamant]] || [[Pouvoirs de ki#MONTUREKI|Monture ki]]
-|-
-| &emsp; || [[Pouvoirs de ki#DEFENSEKI|Défense ki]] || [[Pouvoirs de ki#FURIEELEMENTAIRE|Furie élémentaire]] || &emsp;
-|- CLASS="premier"
-| **7** || [[Pouvoirs de ki#DEFENSEFURIEUSE|Défense furieuse]] || [[Pouvoirs de ki#ECOLEDELAUTODIDACTE|Ecole de l'autodidacte]] || &emsp;
-|- CLASS="premier"
-| **8** || [[Pouvoirs de ki#CORPSDEDIAMANT|Corps de diamant]] || [[Pouvoirs de ki#PASLEGERS|Pas légers]] || [[Pouvoirs de ki#SAUTDUVENT|Saut du vent]]
-|-
-| &emsp; || [[Pouvoirs de ki#PASCHASSE|Pas chassé]] || [[Pouvoirs de ki#SAGEINTUITION|Sage intuition]] || &emsp;
-|- CLASS="premier"
-| **10** || [[Pouvoirs de ki#BLOCAGEDUKI|Blocage du ki]] || [[Pouvoirs de ki#OURAGANKI|Ouragan ki]] || [[Pouvoirs de ki#VISIONSKI|Visions ki]]
-|- CLASS="premier"
-| **12** || [[Pouvoirs de ki#AMEDEDIAMANT|Âme de diamant]] || [[Pouvoirs de ki#RESILIENCEDEDIAMANT|Résilience de diamant]] || [[Pouvoirs de ki#SOUFFLEDUCOBRA|Souffle du cobra]]
-|-
-| &emsp; || [[Pouvoirs de ki#CONTACTVIOLENT|Contact violent]] || &emsp; || &emsp;
-|- CLASS="premier"
-| **16** || [[Pouvoirs de ki#PAUMEVIBRATOIRE|Paume vibratoire]] || [[Pouvoirs de ki#SALVEKI|Salve ki]] || &emsp;
-|- CLASS="premier"
-| **18** || [[Pouvoirs de ki#RAFALEELEMENTAIRE|Rafale élémentaire]] || &emsp; || &emsp;
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="60%"><caption>Pouvoirs de ki du moine unchained</caption><tr CLASS="titre"><td>Niveau  
+minimal</td><td COLSPAN="3">Pouvoirs de ki</td></tr><tr CLASS="premier"><td>**1**</td><td>[[Pouvoirs de ki#CHUTERALENTIE|Chute ralentie]]</td><td>[[Pouvoirs de ki#PLENITUDEPHYSIQUE|Plénitude physique]]</td><td>[[Pouvoirs de ki#SAUTSPUISSANTS|Sauts puissants]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de ki#DESERTIONDELAME|Désertation de l'âme]]</td><td>[[Pouvoirs de ki#PORTEEKI|Portée ki]]</td><td>[[Pouvoirs de ki#SOUDAINECELERITE|Soudaine célérité]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de ki#EQUILIBREDELAPLUME|Equilibre de la plume]]</td><td>[[Pouvoirs de ki#POUVOIRQINGGONG|Pouvoir Qinggong]]</td><td>&emsp;</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de ki#METABOLISMEKI|Metabolisme ki]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**6**</td><td>[[Pouvoirs de ki#COURSESURLONDE|Course sur l'onde]]</td><td>[[Pouvoirs de ki#ESPRITDEDIAMANT|Esprit de diamant]]</td><td>[[Pouvoirs de ki#MONTUREKI|Monture ki]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de ki#DEFENSEKI|Défense ki]]</td><td>[[Pouvoirs de ki#FURIEELEMENTAIRE|Furie élémentaire]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**7**</td><td>[[Pouvoirs de ki#DEFENSEFURIEUSE|Défense furieuse]]</td><td>[[Pouvoirs de ki#ECOLEDELAUTODIDACTE|Ecole de l'autodidacte]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**8**</td><td>[[Pouvoirs de ki#CORPSDEDIAMANT|Corps de diamant]]</td><td>[[Pouvoirs de ki#PASLEGERS|Pas légers]]</td><td>[[Pouvoirs de ki#SAUTDUVENT|Saut du vent]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de ki#PASCHASSE|Pas chassé]]</td><td>[[Pouvoirs de ki#SAGEINTUITION|Sage intuition]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**10**</td><td>[[Pouvoirs de ki#BLOCAGEDUKI|Blocage du ki]]</td><td>[[Pouvoirs de ki#OURAGANKI|Ouragan ki]]</td><td>[[Pouvoirs de ki#VISIONSKI|Visions ki]]</td></tr><tr CLASS="premier"><td>**12**</td><td>[[Pouvoirs de ki#AMEDEDIAMANT|Âme de diamant]]</td><td>[[Pouvoirs de ki#RESILIENCEDEDIAMANT|Résilience de diamant]]</td><td>[[Pouvoirs de ki#SOUFFLEDUCOBRA|Souffle du cobra]]</td></tr><tr><td>&emsp;</td><td>[[Pouvoirs de ki#CONTACTVIOLENT|Contact violent]]</td><td>&emsp;</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**16**</td><td>[[Pouvoirs de ki#PAUMEVIBRATOIRE|Paume vibratoire]]</td><td>[[Pouvoirs de ki#SALVEKI|Salve ki]]</td><td>&emsp;</td></tr><tr CLASS="premier"><td>**18**</td><td>[[Pouvoirs de ki#RAFALEELEMENTAIRE|Rafale élémentaire]]</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+
 
 ### Description des pouvoirs de ki
 <div class="article_2col">

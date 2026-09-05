@@ -35,15 +35,9 @@ LastModified: 2020-09-21 18:12
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de sauterelle
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Nuée de sauterelles]] || 2
-|-
-| [[Sauterelle géante]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de sauterelle</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de sauterelles]]</td><td>2</td></tr><tr><td>[[Sauterelle géante]]</td><td>3</td></tr></table>
+
 </div>*Des milliers et des milliers de sauterelles voraces sautent et bourdonnent en une sombre nuée.*
 
 Dans les zones densément peuplées, ces insectes relativement inoffensifs et proches du criquet changent de couleur, se reproduisent de manière incontrôlable, dévorent avec voracité toute la végétation disponible et causent de lourds dégâts aux fermes et communautés alentours.

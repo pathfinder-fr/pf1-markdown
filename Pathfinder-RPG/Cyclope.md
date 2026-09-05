@@ -40,17 +40,9 @@ Categories:
 {s:BDTexte|**Vision instantanée (Sur)** Une fois par jours, par une [[action immédiate]], un cyclope peut jeter un rapide coup d'œil dans les spectre normalement invisible des différents futurs possibles. Cette vision lui permet de choisir le résultat exact d'un lancer de dé avant que celui-ci ne soit effectué. Cette capacité ne peut affecter que les actions entreprises par le cyclope lui-même et ne peut pas être utilisée sur les jets de autres créatures.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cyclope
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cyclope]] || 5
-|-
-| [[Cyclope kabandha]] || 9
-|-
-| [[Grand cyclope]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cyclope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cyclope]]</td><td>5</td></tr><tr><td>[[Cyclope kabandha]]</td><td>9</td></tr><tr><td>[[Grand cyclope]]</td><td>12</td></tr></table>
+
 </div>*Sous l’unique œil qui orne le front de ce géant de près de trois mètres, on peut voir une large bouche aussi vaste qu’une caverne.*
 
 Les cyclopes sont des êtres d’un naturel grave et solennel qui

@@ -32,27 +32,5 @@ Le personnage peut manipuler les éclairs, la brume et le vent et faire appel au
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de l'Air
-| Sous-domaine des Nuages || Sous-domaine du Vent
-|- CLASS="premier"
-| 1er || *[[brume de dissimulation]]* || *idem* || *[[vent de murmures]]*
-|-
-| 2e || *[[mur de vent]]* || *idem* || *idem*
-|-
-| 3e || *[[état gazeux]]* || *idem* || *idem*
-|-
-| 4e || *[[marche dans les airs]]* || *[[brouillard dense]]* || *idem*
-|-
-| 5e || *[[contrôle des vents]]* || *idem* || *idem*
-|-
-| 6e || *[[éclair multiple]]* || *idem* || *[[vent divin]]*
-|-
-| 7e || *[[corps élémentaire IV]]* (créature d’Air seulement) || *idem* || *idem*
-|-
-| 8e || *[[cyclone]]* || *idem* || *idem*
-|-
-| 9e || *[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de l’Air seulement) || *[[tempête vengeresse]]* || *[[vents de la vengeance]]*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de l'Air</td><td>Sous-domaine des Nuages</td><td>Sous-domaine du Vent</td></tr><tr CLASS="premier"><td>1er</td><td>*[[brume de dissimulation]]*</td><td>*idem*</td><td>*[[vent de murmures]]*</td></tr><tr><td>2e</td><td>*[[mur de vent]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[état gazeux]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[marche dans les airs]]*</td><td>*[[brouillard dense]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[contrôle des vents]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[éclair multiple]]*</td><td>*idem*</td><td>*[[vent divin]]*</td></tr><tr><td>7e</td><td>*[[corps élémentaire IV]]* (créature d’Air seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[cyclone]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort de l’Air seulement)</td><td>*[[tempête vengeresse]]*</td><td>*[[vents de la vengeance]]*</td></tr></table>

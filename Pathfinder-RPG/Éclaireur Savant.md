@@ -20,59 +20,9 @@ Bien entendu, la plupart de tels associés sont prompts à demander pardon lorsq
 
 {s:Reference|EXPLORATEURSAVANT}
 <center>
-{| CLASS="tablo autoalt"
-|+ L’Explorateur savant
-|- CLASS="titre"
 
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Éclaireur savant#ADEPTEDELACTIVATION|Adepte de l’activation]], [[Éclaireur savant#MAITREERUDIT|maître érudit]]
-| CLASS="gauche" | —
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Éclaireur savant#DECOUVERTEDEGLYPHES|Découverte de glyphes]], [[Éclaireur savant#MAGIEESOTERIQUE|magie ésotérique]]
-| CLASS="gauche" | +1 niveau de classe existante
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[Éclaireur savant#MAITREDESPARCHEMINS|Maître des parchemins]]
-| CLASS="gauche" | +1 niveau de classe existante
-|-
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Éclaireur savant#IDENTIFICATIONRAPIDE|Identification rapide]]
-| CLASS="gauche" | +1 niveau de classe existante
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Éclaireur savant#MAITREDESSCEAUX|Maître des sceaux]]
-| CLASS="gauche" | +1 niveau de classe existante
-|-
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Éclaireur savant#ANALYSEDENCHANTEMENT|Analyse d’enchantement]], [[Éclaireur savant#MAITREDUSILENCE|maître du silence]]
-| CLASS="gauche" | +1 niveau de classe existante
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Éclaireur savant#MAITREDELADISSIPATION|Maître de la dissipation]]
-| CLASS="gauche" | +1 niveau de classe existante
+<table CLASS="tablo autoalt"><caption>L’Explorateur savant</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Éclaireur savant#ADEPTEDELACTIVATION|Adepte de l’activation]], [[Éclaireur savant#MAITREERUDIT|maître érudit]]</td><td CLASS="gauche">—</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Éclaireur savant#DECOUVERTEDEGLYPHES|Découverte de glyphes]], [[Éclaireur savant#MAGIEESOTERIQUE|magie ésotérique]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Éclaireur savant#MAITREDESPARCHEMINS|Maître des parchemins]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Éclaireur savant#IDENTIFICATIONRAPIDE|Identification rapide]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Éclaireur savant#MAITREDESSCEAUX|Maître des sceaux]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Éclaireur savant#ANALYSEDENCHANTEMENT|Analyse d’enchantement]], [[Éclaireur savant#MAITREDUSILENCE|maître du silence]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Éclaireur savant#MAITREDELADISSIPATION|Maître de la dissipation]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Éclaireur savant#MAITREDESSYMBOLES|Maître des symboles]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Éclaireur savant#MAITREDELINCANTATION|Maître de l'incantation]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Éclaireur savant#MAITREDESOBJETS|Maître des objets]]</td><td CLASS="gauche">+1 niveau de classe existante</td></tr></table>
 
-|-
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Éclaireur savant#MAITREDESSYMBOLES|Maître des symboles]]
-| CLASS="gauche" | +1 niveau de classe existante
-
-|-
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Éclaireur savant#MAITREDELINCANTATION|Maître de l'incantation]]
-| CLASS="gauche" | +1 niveau de classe existante
-
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Éclaireur savant#MAITREDESOBJETS|Maître des objets]]
-| CLASS="gauche" | +1 niveau de classe existante
-
-
-|}
 </center>
 
 **Dés de vie.** d6

@@ -11,42 +11,9 @@ Categories:
 La voie du duelliste est une progression naturelle pour les [[roublard|roublards]] et les [[barde|bardes]], qui ne se fient pas seulement à une armure pour se protéger, mais c'est une classe aussi répandue parmi les [[guerrier|guerriers]] et les [[rôdeur|rôdeurs]]. On trouve souvent les duellistes là où il existe des règles et une étiquette élaborées du combat.''
 
 <center>
-{| CLASS="tablo"
-|+ Le duelliste
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +1 || +0 || +0
-| CLASS="gauche" | [[duelliste#DEFENSEASTUCIEUSE|Défense astucieuse]], [[duelliste#ATTAQUEPRECISE|attaque précise]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[duelliste#REACTIONACCRUE|Réaction accrue]] +2, [[duelliste#PARADE|parade]]
-|-
-| 3 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [[duelliste#GRANDESOUPLESSE|Grande souplesse]]
-|- CLASS="alt"
-| 4 || +4 || +2 || +1 || +1
-| CLASS="gauche" | [[duelliste#ATTAQUEREFLEXE|Attaque réflexe]], [[duelliste#STYLE|style]]
-|-
-| 5 || +5 || +3 || +2 || +2
-| CLASS="gauche" | [[duelliste#RIPOSTE|Riposte]]
-|- CLASS="alt"
-| 6 || +6 || +3 || +2 || +2
-| CLASS="gauche" | [[duelliste#CHARGEACROBATIQUE|Charge acrobatique]]
-|-
-| 7 || +7 || +4 || +2 || +2
-| CLASS="gauche" | [[duelliste#PARADEELABOREE|Parade élaborée]]
-|- CLASS="alt"
-| 8 || +8 || +4 || +3 || +3
-| CLASS="gauche" | [[duelliste#REACTIONACCRUE|Réaction accrue]] +4
-|-
-| 9 || +9 || +5 || +3 || +3
-| CLASS="gauche" | [[duelliste#PARADEDEPROJECTILES|Parade de projectiles]], [[duelliste#PASDERETRAITE|pas de retraite]]
-|- CLASS="alt"
-| 10 || +10 || +5 || +3 || +3
-| CLASS="gauche" | [[duelliste#MUTILATION|Mutilation]]
-|}
+
+<table CLASS="tablo"><caption>Le duelliste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[duelliste#DEFENSEASTUCIEUSE|Défense astucieuse]], [[duelliste#ATTAQUEPRECISE|attaque précise]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[duelliste#REACTIONACCRUE|Réaction accrue]] +2, [[duelliste#PARADE|parade]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[duelliste#GRANDESOUPLESSE|Grande souplesse]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[duelliste#ATTAQUEREFLEXE|Attaque réflexe]], [[duelliste#STYLE|style]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#RIPOSTE|Riposte]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#CHARGEACROBATIQUE|Charge acrobatique]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[duelliste#PARADEELABOREE|Parade élaborée]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[duelliste#REACTIONACCRUE|Réaction accrue]] +4</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[duelliste#PARADEDEPROJECTILES|Parade de projectiles]], [[duelliste#PASDERETRAITE|pas de retraite]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[duelliste#MUTILATION|Mutilation]]</td></tr></table>
+
 </center>
 
 **Rôle.** Les talents du duelliste complètent idéalement ceux du [[roublard]] ou du [[barde]] qui souhaite améliorer ses capacités de combattant, mais qui, parce qu'il ne porte pas d'[[armure lourde]], hésite à engager la lutte. Les duellistes sont en première ligne, aux côtés des [[guerrier|guerriers]], des [[barbare|barbares]] et autres amateurs de corps à corps. Ils évitent avec aisance les lames de leurs adversaires et trouvent la faille dans leur défense avec tout autant d'expertise.

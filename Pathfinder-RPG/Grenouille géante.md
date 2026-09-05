@@ -40,19 +40,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de grenouille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grenouille géante]] || 1
-|-
-| [[Grenouille goliath]] || 3
-|-
-| [[Grenouille venimeuse]] || 1/2
-|-
-| [[Père grenouille]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de grenouille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grenouille géante]]</td><td>1</td></tr><tr><td>[[Grenouille goliath]]</td><td>3</td></tr><tr><td>[[Grenouille venimeuse]]</td><td>1/2</td></tr><tr><td>[[Père grenouille]]</td><td>5</td></tr></table>
+
 </div>*Cette créature a la peau vert foncé, humide et tachetée comme les grenouilles normales, mais elle est monstrueusement grande.*
 
 Les grenouilles géantes possèdent des dents aussi tranchantes

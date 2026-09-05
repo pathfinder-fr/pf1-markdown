@@ -5,57 +5,9 @@ LastModified: 2020-06-09 18:39
 ---
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Anneaux
-|- CLASS="titre"
-| Anneau mineur de faible puissance || Prix
-|- CLASS="premier"
-| [[Temp objetsmagiques anneaux MCA#Magie sang persistante|Anneau de magie du sang persistante]] || 2 000 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Ahn léchi|Anneau d’harmonisation naturelle (léchi)]] || 2 800 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Magie sang puissante|Anneau de puissante magie du sang]] || 3 000 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Eloquence|Anneau d’éloquence]] || 3 500 po
-|- CLASS="titre"
-| Anneau mineur de grande puissance || Prix
-|- CLASS="alt premier"
-| [[Temp objetsmagiques anneaux MCA#Magie sang ancestrale|Anneau de magie du sang ancestrale]] || 4 000 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Magie sang vengeresse|Anneau de magie du sang vengeresse]] || 5 400 po
-|- CLASS="titre alt"
-| Anneau intermédiaire de faible puissance || Prix
-|- CLASS="premier"
-| [[Temp objetsmagiques anneaux MCA#Aai archon|Anneau d’affinité invocatoire (archon)]] || 7 000 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Aai ange|Anneau d’affinité invocatoire (ange)]] || 7 200 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Aai protéen|Anneau d’affinité invocatoire (protéen)]] || 7 200 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Aai kyton|Anneau d’affinité invocatoire (kyton)]] || 7 300 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Aai asura|Anneau d’affinité invocatoire (asura)]] || 7 600 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Aai psychopompe|Anneau d’affinité invocatoire (psychopompe)]] || 7 600 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Aai agathion|Anneau d’affinité invocatoire (agathion)]] || 7 700 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Ahn kami|Anneau d’harmonisation naturelle (kami)]] || 7 800 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Aai aéon|Anneau d’affinité invocatoire (aéon)]] || 7 800 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Aai inévitable|Anneau d’affinité invocatoire (inévitable)]] || 8 100 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Aai qlippoth|Anneau d’affinité invocatoire (qlippoth)]] || 8 600 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Aai div|Anneau d’affinité invocatoire (div)]] || 9 100 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Aai daémon|Anneau d’affinité invocatoire (daémon)]] || 10 600 po
-|- CLASS="alt"
-| [[Temp objetsmagiques anneaux MCA#Ahn drake|Anneau d’harmonisation naturelle (drake)]] || 12 880 po
-|-
-| [[Temp objetsmagiques anneaux MCA#Résilience|Anneau de résilience]] || 15 000 po
-|}
+
+<table CLASS="tablo col1centre"><caption>Anneaux</caption><tr CLASS="titre"><td>Anneau mineur de faible puissance</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques anneaux MCA#Magie sang persistante|Anneau de magie du sang persistante]]</td><td>2 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Ahn léchi|Anneau d’harmonisation naturelle (léchi)]]</td><td>2 800 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Magie sang puissante|Anneau de puissante magie du sang]]</td><td>3 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Eloquence|Anneau d’éloquence]]</td><td>3 500 po</td></tr><tr CLASS="titre"><td>Anneau mineur de grande puissance</td><td>Prix</td></tr><tr CLASS="alt premier"><td>[[Temp objetsmagiques anneaux MCA#Magie sang ancestrale|Anneau de magie du sang ancestrale]]</td><td>4 000 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Magie sang vengeresse|Anneau de magie du sang vengeresse]]</td><td>5 400 po</td></tr><tr CLASS="titre alt"><td>Anneau intermédiaire de faible puissance</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques anneaux MCA#Aai archon|Anneau d’affinité invocatoire (archon)]]</td><td>7 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Aai ange|Anneau d’affinité invocatoire (ange)]]</td><td>7 200 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Aai protéen|Anneau d’affinité invocatoire (protéen)]]</td><td>7 200 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Aai kyton|Anneau d’affinité invocatoire (kyton)]]</td><td>7 300 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Aai asura|Anneau d’affinité invocatoire (asura)]]</td><td>7 600 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Aai psychopompe|Anneau d’affinité invocatoire (psychopompe)]]</td><td>7 600 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Aai agathion|Anneau d’affinité invocatoire (agathion)]]</td><td>7 700 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Ahn kami|Anneau d’harmonisation naturelle (kami)]]</td><td>7 800 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Aai aéon|Anneau d’affinité invocatoire (aéon)]]</td><td>7 800 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Aai inévitable|Anneau d’affinité invocatoire (inévitable)]]</td><td>8 100 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Aai qlippoth|Anneau d’affinité invocatoire (qlippoth)]]</td><td>8 600 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Aai div|Anneau d’affinité invocatoire (div)]]</td><td>9 100 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Aai daémon|Anneau d’affinité invocatoire (daémon)]]</td><td>10 600 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques anneaux MCA#Ahn drake|Anneau d’harmonisation naturelle (drake)]]</td><td>12 880 po</td></tr><tr><td>[[Temp objetsmagiques anneaux MCA#Résilience|Anneau de résilience]]</td><td>15 000 po</td></tr></table>
+
 </center>
 
 

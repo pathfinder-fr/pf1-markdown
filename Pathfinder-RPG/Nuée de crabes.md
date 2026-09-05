@@ -36,21 +36,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crabe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Crabe royal]] || 1/4
-|-
-| [[Crabe géant]] || 2
-|-
-| [[Crabe mangeur de requins]] || 7
-|-
-| [[Crabe naufrageur]] || 13
-|-
-| [[Nuée de crabes]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crabe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crabe royal]]</td><td>1/4</td></tr><tr><td>[[Crabe géant]]</td><td>2</td></tr><tr><td>[[Crabe mangeur de requins]]</td><td>7</td></tr><tr><td>[[Crabe naufrageur]]</td><td>13</td></tr><tr><td>[[Nuée de crabes]]</td><td>4</td></tr></table>
+
 </div>*Une masse de carapaces qui cliquettent et de pinces qui claquent sort de l’eau, portée par des milliers de pattes qui s’agitent dans le sable.*
 
 Les nuées de crabes se composent de plus d’un millier de crabes

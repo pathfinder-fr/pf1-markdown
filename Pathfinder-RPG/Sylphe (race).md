@@ -97,31 +97,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux sylphes, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Contemplateur des nuages]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]]</td><td>Voit à travers les brumes, les brouillards et les nuages</td></tr><tr CLASS="premier"><td>[[Flot des éléments]]</td><td><sup>*ISR*</sup></td><td>Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don</td></tr><tr CLASS="premier"><td>[[Frappe élémentaire]]</td><td><sup>*ISR*</sup></td><td>[[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]]</td><td>Inflige +1 dégât de l'énergie liée à la race du personnage</td></tr><tr CLASS="premier"><td>[[Pas aérien]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]]</td><td>+2 aux jets de sauvegarde contre les effets d'air et l'électricité, ignore 9 m de hauteur lors d'une chute</td></tr><tr><td>&emsp;[[Ailes de vent]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]], [[Pas aérien]], niveau 9</td><td>Bonus aux jets de sauvegarde contre les effets d'air et d'électricité, gain d'une vitesse de vol surnaturelle</td></tr><tr CLASS="premier"><td>[[Souffle intérieur]]</td><td><sup>MR</sup></td><td>[[sylphe (race)|Sylphe]], niveau 11</td><td>Le personnage n'a plus besoin de respirer</td></tr></table>
 
-|- CLASS="premier"
-| [[Contemplateur des nuages]] || <sup>MR</sup> || [[sylphe (race)|Sylphe]] || Voit à travers les brumes, les brouillards et les nuages
-
-|- CLASS="premier"
-| [[Flot des éléments]] || <sup>*ISR*</sup> || Capacité à lancer des sorts ; [[Ifrit (race)|ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Modifie tous ou une partie des dégâts d'un sort pour correspondre à la race d'un allié adjacent avec ce don
-
-|- CLASS="premier"
-| [[Frappe élémentaire]] || <sup>*ISR*</sup> || [[Ifrit (race)|Ifrit]], [[Ondin (race)|ondin]], [[Oréade (race)|oréade]] ou [[Sylphe (race)|sylphe]] || Inflige +1 dégât de l'énergie liée à la race du personnage
-
-|- CLASS="premier"
-| [[Pas aérien]] || <sup>MR</sup> || [[sylphe (race)|Sylphe]] || +2 aux jets de sauvegarde contre les effets d'air et l'électricité, ignore 9 m de hauteur lors d'une chute
-|-
-| &emsp;[[Ailes de vent]] || <sup>MR</sup> || [[sylphe (race)|Sylphe]], [[Pas aérien]], niveau 9 || Bonus aux jets de sauvegarde contre les effets d'air et d'électricité, gain d'une vitesse de vol surnaturelle
-
-|- CLASS="premier"
-| [[Souffle intérieur]] || <sup>MR</sup> || [[sylphe (race)|Sylphe]], niveau 11 || Le personnage n'a plus besoin de respirer
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

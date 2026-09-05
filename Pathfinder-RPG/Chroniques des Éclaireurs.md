@@ -14,23 +14,9 @@ Quand un personnage lit un volume des *Chroniques des Explorateurs*, il gagne un
 ### Les volumes les plus célèbres
 <div style="float:right; background-color: #fff; padding: 0 0 6px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Chroniques des Explorateurs
-|- CLASS="titre"
-| Objet || Prix
-|- CLASS="premier"
-| [[Chroniques des Éclaireurs#Volume 1|Volume 1]] || 200 po
-|-
-| [[Chroniques des Éclaireurs#Volume 2|Volume 2]] || 100 po
-|-
-| [[Chroniques des Éclaireurs#Volume 11|Volume 11]] || 100 po
-|-
-| [[Chroniques des Éclaireurs#Volume 14|Volume 14]] || 150 po
-|-
-| [[Chroniques des Éclaireurs#Volume 27|Volume 27]] || 150 po
-|-
-| [[Chroniques des Éclaireurs#Volume 44|Volume 44]] || 200 po
-|}</div></div>Les volumes des *Chroniques des Explorateurs* qui suivent ne représentent qu’une petite partie de tous ceux que les Explorateurs peuvent rencontrer lors de leurs aventures. Chacun contient des histoires spécifiques qui donnent des bonus uniques. Ils sont parfois une véritable bénédiction pour les aventuriers qui se retrouvent dans des situations similaires à celle de leurs héros. Un [[MJ]] peut créer ses propres volumes en se basant sur les suivants, selon le format que voici.
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Chroniques des Explorateurs</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Chroniques des Éclaireurs#Volume 1|Volume 1]]</td><td>200 po</td></tr><tr><td>[[Chroniques des Éclaireurs#Volume 2|Volume 2]]</td><td>100 po</td></tr><tr><td>[[Chroniques des Éclaireurs#Volume 11|Volume 11]]</td><td>100 po</td></tr><tr><td>[[Chroniques des Éclaireurs#Volume 14|Volume 14]]</td><td>150 po</td></tr><tr><td>[[Chroniques des Éclaireurs#Volume 27|Volume 27]]</td><td>150 po</td></tr><tr><td>[[Chroniques des Éclaireurs#Volume 44|Volume 44]]</td><td>200 po</td></tr></table></div></div>Les volumes des *Chroniques des Explorateurs* qui suivent ne représentent qu’une petite partie de tous ceux que les Explorateurs peuvent rencontrer lors de leurs aventures. Chacun contient des histoires spécifiques qui donnent des bonus uniques. Ils sont parfois une véritable bénédiction pour les aventuriers qui se retrouvent dans des situations similaires à celle de leurs héros. Un [[MJ]] peut créer ses propres volumes en se basant sur les suivants, selon le format que voici.
+
 
 **Numéro du volume.** Un même volume des *Chroniques des Explorateurs* contenant souvent plusieurs récits, les livres sont donc désignés par un numéro et non par un titre. Comme ils suivent un rythme de publication sporadique, leur couverture ou leur tranche ne présente pas de date.
 

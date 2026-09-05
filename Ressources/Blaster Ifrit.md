@@ -82,48 +82,5 @@ Je vous conseillerais les points de vie, vu que vous pouvez être fréquemment a
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du druide caster
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Réflexes || Vigueur || Volonté || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || Immolateur-1 || 0 || 1 || 0 || 2 || 2 || /;
-|-
-| 02 || Immolateur-2 || 1 || 2 || 0 || 3 || 3 || /;
-|-
-| 03 || Immolateur-3 || 2 || 3 || 1 || 3 || 3 || /;
-|-
-| 04 || Immolateur-4 || 3 || 4 || 1 || 4 || 4 || /;
-|-
-| 05 || Immolateur-5 || 3 || 5 || 1 || 4 || 4 || /;
-|-
-| 06 || Immolateur-6 || 4 || 6 || 2 || 5 || 5 || /;
-|-
-| 07 || Immolateur-7 || 5 || 7 || 2 || 5 || 5 || /;
-|-
-| 08 || Immolateur-8 || 6 || 8 || 2 || 6 || 6 || /;
-|-
-| 09 || Immolateur-9 || 6 || 9 || 3 || 6 || 6 || /;
-|-
-| 10 || Immolateur-10 || 7 || 10 || 3 || 7 || 7 || /;
-|-
-| 11 || Immolateur-11 || 8 || 11 || 3 || 7 || 7 || /;
-|-
-| 12 || Immolateur-12 || 9 || 12 || 4 || 8 || 8 || /;
-|-
-| 13 || Immolateur-13 || 9 || 13 || 4 || 8 || 8 || /;
-|-
-| 14 || Immolateur-14 || 10 || 14 || 4 || 9 || 9 || /;
-|-
-| 15 || Immolateur-15 || 11 || 15 || 5 || 9 || 9 || /;
-|-
-| 16 || Immolateur-16 || 12 || 16 || 5 || 10 || 10 || /;
-|-
-| 17 || Immolateur-17 || 12 || 17 || 5 || 10 || 10 || /;
-|-
-| 18 || Immolateur-18 || 13 || 18 || 6 || 11 || 11 || /;
-|-
-| 19 || Immolateur-19 || 14 || 19 || 6 || 11 || 11 || /;
-|-
-| 20 || Immolateur-20 || 15 || 20 || 6 || 12 || 12 || /;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du druide caster</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>Immolateur-1</td><td>0</td><td>1</td><td>0</td><td>2</td><td>2</td><td>/;</td></tr><tr><td>02</td><td>Immolateur-2</td><td>1</td><td>2</td><td>0</td><td>3</td><td>3</td><td>/;</td></tr><tr><td>03</td><td>Immolateur-3</td><td>2</td><td>3</td><td>1</td><td>3</td><td>3</td><td>/;</td></tr><tr><td>04</td><td>Immolateur-4</td><td>3</td><td>4</td><td>1</td><td>4</td><td>4</td><td>/;</td></tr><tr><td>05</td><td>Immolateur-5</td><td>3</td><td>5</td><td>1</td><td>4</td><td>4</td><td>/;</td></tr><tr><td>06</td><td>Immolateur-6</td><td>4</td><td>6</td><td>2</td><td>5</td><td>5</td><td>/;</td></tr><tr><td>07</td><td>Immolateur-7</td><td>5</td><td>7</td><td>2</td><td>5</td><td>5</td><td>/;</td></tr><tr><td>08</td><td>Immolateur-8</td><td>6</td><td>8</td><td>2</td><td>6</td><td>6</td><td>/;</td></tr><tr><td>09</td><td>Immolateur-9</td><td>6</td><td>9</td><td>3</td><td>6</td><td>6</td><td>/;</td></tr><tr><td>10</td><td>Immolateur-10</td><td>7</td><td>10</td><td>3</td><td>7</td><td>7</td><td>/;</td></tr><tr><td>11</td><td>Immolateur-11</td><td>8</td><td>11</td><td>3</td><td>7</td><td>7</td><td>/;</td></tr><tr><td>12</td><td>Immolateur-12</td><td>9</td><td>12</td><td>4</td><td>8</td><td>8</td><td>/;</td></tr><tr><td>13</td><td>Immolateur-13</td><td>9</td><td>13</td><td>4</td><td>8</td><td>8</td><td>/;</td></tr><tr><td>14</td><td>Immolateur-14</td><td>10</td><td>14</td><td>4</td><td>9</td><td>9</td><td>/;</td></tr><tr><td>15</td><td>Immolateur-15</td><td>11</td><td>15</td><td>5</td><td>9</td><td>9</td><td>/;</td></tr><tr><td>16</td><td>Immolateur-16</td><td>12</td><td>16</td><td>5</td><td>10</td><td>10</td><td>/;</td></tr><tr><td>17</td><td>Immolateur-17</td><td>12</td><td>17</td><td>5</td><td>10</td><td>10</td><td>/;</td></tr><tr><td>18</td><td>Immolateur-18</td><td>13</td><td>18</td><td>6</td><td>11</td><td>11</td><td>/;</td></tr><tr><td>19</td><td>Immolateur-19</td><td>14</td><td>19</td><td>6</td><td>11</td><td>11</td><td>/;</td></tr><tr><td>20</td><td>Immolateur-20</td><td>15</td><td>20</td><td>6</td><td>12</td><td>12</td><td>/;</td></tr></table>

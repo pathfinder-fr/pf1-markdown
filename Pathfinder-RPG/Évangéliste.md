@@ -12,42 +12,9 @@ Categories:
 Un évangéliste pourrait être né dans la richesse ou la pauvreté, au nord ou au sud, et aurait pu être élevé dans sa foi ou y adhérer plus tard dans sa vie. Il pourrait suivre un unique chemin strict ou tâter plusieurs professions. Il peut être de n'importe quelle race et suivre n'importe quelle divinité. De tous les suivants prééminents des divinités, l'évangéliste est le plus difficile à prédire et manifeste un incroyable éventail de capacités.''
 
 <center>
-{| CLASS="tablo"
-|+ L'évangéliste
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +0
-| CLASS="gauche" | [[Évangéliste#COMPETENT|Compétent]], [[Évangéliste#OBEDIENCE|obédience]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Évangéliste#CLASSEALIGNEE|Classe alignée]], [[Évangéliste#GRACEPROTECTRICE|grâce protectrice]] +1
-|-
-| 3 || +2 || +2 || +1 || +1
-| CLASS="gauche" | [[Évangéliste#FAVEURDIVINE|Faveur divine]] 1
-|- CLASS="alt"
-| 4 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [[Évangéliste#DONDESLANGUES|Don des langues]]
-|-
-| 5 || +3 || +3 || +2 || +2
-| CLASS="gauche" | [[Évangéliste#MULTITUDEDETALENTS|Multitude de talents]]
-|- CLASS="alt"
-| 6 || +4 || +3 || +2 || +2
-| CLASS="gauche" | [[Évangéliste#FAVEURDIVINE|Faveur divine]] 2
-|-
-| 7 || +5 || +4 || +2 || +2
-| CLASS="gauche" | [[Évangéliste#GRACEPROTECTRICE|Grâce protectrice]] +2
-|- CLASS="alt"
-| 8 || +6 || +4 || +3 || +3
-| CLASS="gauche" |  [[Évangéliste#DONDESLANGUES|Don des langues]]
-|-
-| 9 || +6 || +5 || +3 || +3
-| CLASS="gauche" | [[Évangéliste#FAVEURDIVINE|Faveur divine]] 3
-|- CLASS="alt"
-| 10 || +7 || +5 || +3 || +3
-| CLASS="gauche" | [[Évangéliste#FORMESPIRITUELLE|Forme spirituelle]]
-|}
+
+<table CLASS="tablo"><caption>L'évangéliste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Évangéliste#COMPETENT|Compétent]], [[Évangéliste#OBEDIENCE|obédience]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Évangéliste#CLASSEALIGNEE|Classe alignée]], [[Évangéliste#GRACEPROTECTRICE|grâce protectrice]] +1</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 1</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Évangéliste#DONDESLANGUES|Don des langues]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Évangéliste#MULTITUDEDETALENTS|Multitude de talents]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 2</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Évangéliste#GRACEPROTECTRICE|Grâce protectrice]] +2</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Évangéliste#DONDESLANGUES|Don des langues]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Évangéliste#FAVEURDIVINE|Faveur divine]] 3</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Évangéliste#FORMESPIRITUELLE|Forme spirituelle]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d8.

@@ -45,72 +45,21 @@ Categories:
 {s:BDtexte|**Aliénation mentale (Ext).** L’esprit du distordu est complètement désaxé, un chaos brut de folie. Il utilise son modificateur de [[Charisme]] plutôt que son modificateur de [[Sagesse]] pour les jets de [[Volonté]] et il est immunisé contre les [[registre|effets mentaux]]. Toute tentative de contact télépathique avec un distordu (y compris grâce à des sorts comme *[[détection de pensées]]*) génère un effet boomerang affligeant la source d’un [[affaiblissement temporaire (capacité)|affaiblissement temporaire]] de 1d4 points de Charisme. Elle doit réussir un jet de Volonté [[DD]] 17 pour annuler cet effet. Le DD du jet de sauvegarde est basé sur le Charisme.}
 {s:BDtexte|**Champ de distorsion (Sur).** Le distordu émet un champ d’énergie mentale et physique entropique sur un rayon de 9 mètres qui distord et pervertit l’esprit et le corps de toutes les autres créatures vivantes. Les créatures qui commencent leur tour dans la zone de ce champ de distorsion doivent réussir un jet de [[Volonté]] [[DD]] 17. En cas d’échec, la créature est [[confus|confuse]] pendant 1 [[round]] et souffre d’une mutation indiquée dans la table ci-dessous. Ces mutations se manifestent rapidement et douloureusement, rendant la victime [[fiévreux|fiévreuse]] pendant 1 round et l’affligeant pendant 1 round d’une mutation aléatoire tirée de la table ci-dessous. Quand la créature réussit son [[jds|jet de sauvegarde]] contre le champ de distorsion, elle est immunisée contre les effets du champ de distorsion de ce distordu pendant 24 heures. Il s’agit d’un effet de métamorphose. Le DD du jet de sauvegarde est basé sur le [[Charisme]].}
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d8 || Résultat
-|- CLASS="premier"
-| 1 || *Pied-bot.* L’un des pieds de la créature est vilainement déformé. Réduisez sa vitesse de déplacement de 3 mètres.
-|-
-| 2 || *Cataracte.* Les yeux de la créature se voilent d’une cataracte. Elle est [[aveuglé|aveuglée]].
-|-
-| 3 || *Cornes démoniaque.* Plusieurs cornes en os poussent sur le crâne de la créature. Elle doit réussir un jet de [[Réflexes]] [[DD]] 14, sinon, si elle porte un bandeau ou un couvre-chef, il acquiert la condition [[brisé|brisée]]
-|-
-| 4 || *Masse invertébrée.* La créature tombe à terre et voit sa vitesse de déplacement réduite à 0 mètre. Elle doit réussir un jet de [[Vigueur]] [[DD]] 17 pour ne pas être [[étourdi|étourdie]] pendant 1 [[round]].
-|-
-| 5 || *Mains tordues.* Les mains de la créature se tordent et se déforment. Elle lâche tout ce qu’elle tient en main, perd les anneaux qu’elle porte et ne peut plus se servir de ses mains pour attaquer ou lancer des sorts pendant 1 [[round]].
-|-
-| 6 || *Visage déformé.* Le visage de la créature se déforme en un horrible rictus. Elle ne peut plus parler ni lancer de sorts à [[composantes|composante verbale]].
-|-
-| 7 || *Sous-alimenté.* La créature devient d’une maigreur squelettique. Tous les objets qu’elle porte (à l’exception des chaussures, des bandeaux et des objets à emplacement tête) tombent de son corps et elle doit réussir un jet de [[Vigueur]] [[DD]] 17 pour ne pas se retrouver [[enchevêtré|enchevêtrée]] dans son équipement. Quand elle retrouve sa forme normale 1 [[round]] après, les objets tombés restent au sol sur la case de la créature.
-|-
-| 8 || *Obésité.* La créature devient monstrueusement obèse. Sa vitesse de déplacement terrestre est réduite à 1,50 mètre. De plus, si elle rate un jet de [[Réflexes]] [[DD]] 17, tous les objets dont elle est équipée aux emplacements armure, ceinture, corps, torse, cou, épaules et poignets sont [[brisé|brisés]].
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d8</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>*Pied-bot.* L’un des pieds de la créature est vilainement déformé. Réduisez sa vitesse de déplacement de 3 mètres.</td></tr><tr><td>2</td><td>*Cataracte.* Les yeux de la créature se voilent d’une cataracte. Elle est [[aveuglé|aveuglée]].</td></tr><tr><td>3</td><td>*Cornes démoniaque.* Plusieurs cornes en os poussent sur le crâne de la créature. Elle doit réussir un jet de [[Réflexes]] [[DD]] 14, sinon, si elle porte un bandeau ou un couvre-chef, il acquiert la condition [[brisé|brisée]]</td></tr><tr><td>4</td><td>*Masse invertébrée.* La créature tombe à terre et voit sa vitesse de déplacement réduite à 0 mètre. Elle doit réussir un jet de [[Vigueur]] [[DD]] 17 pour ne pas être [[étourdi|étourdie]] pendant 1 [[round]].</td></tr><tr><td>5</td><td>*Mains tordues.* Les mains de la créature se tordent et se déforment. Elle lâche tout ce qu’elle tient en main, perd les anneaux qu’elle porte et ne peut plus se servir de ses mains pour attaquer ou lancer des sorts pendant 1 [[round]].</td></tr><tr><td>6</td><td>*Visage déformé.* Le visage de la créature se déforme en un horrible rictus. Elle ne peut plus parler ni lancer de sorts à [[composantes|composante verbale]].</td></tr><tr><td>7</td><td>*Sous-alimenté.* La créature devient d’une maigreur squelettique. Tous les objets qu’elle porte (à l’exception des chaussures, des bandeaux et des objets à emplacement tête) tombent de son corps et elle doit réussir un jet de [[Vigueur]] [[DD]] 17 pour ne pas se retrouver [[enchevêtré|enchevêtrée]] dans son équipement. Quand elle retrouve sa forme normale 1 [[round]] après, les objets tombés restent au sol sur la case de la créature.</td></tr><tr><td>8</td><td>*Obésité.* La créature devient monstrueusement obèse. Sa vitesse de déplacement terrestre est réduite à 1,50 mètre. De plus, si elle rate un jet de [[Réflexes]] [[DD]] 17, tous les objets dont elle est équipée aux emplacements armure, ceinture, corps, torse, cou, épaules et poignets sont [[brisé|brisés]].</td></tr></table>
+
 
 {s:BDtexte|**Convocation instable (Mag).** Le distordu peut déchirer les frontières entre les mondes pour invoquer des créatures qui viennent l’aider à combattre mais il n’a que très peu de contrôle sur le genre de monstres ou de démons répondant à ses appels. Quand un distordu utilise son pouvoir de convocation instable, il y a 50% de chances qu’une créature (ou qu’un groupe de créatures) arrive à son secours. Les créatures ainsi convoquées sont immunisées contre le champ de distorsion de ce distordu. Pour déterminer la nature de la créature invoquée, lancez un dé et reportez-vous à la table ci-dessous. Il s’agit d’un effet de sort de niveau 5.}
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| d8 || Résultat
-|- CLASS="premier"
-| 1 || 1d4+1 méphites (déterminez le type au hasard)
-|-
-| 2 || 1d4+1 élémentaires de taille M (déterminez le type au hasard)
-|-
-| 3 || 1d3 [[Salamandre|salamandres]]
-|-
-| 4 || 1d3 élémentaires de taille G (déterminez le type au hasard)
-|-
-| 5 || 1d3 [[Babau|babaus]]
-|-
-| 6 || 1 [[Démon des ombres]]
-|-
-| 7 || 1 [[Succube]]
-|-
-| 8 || 1 distordu
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>d8</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>1d4+1 méphites (déterminez le type au hasard)</td></tr><tr><td>2</td><td>1d4+1 élémentaires de taille M (déterminez le type au hasard)</td></tr><tr><td>3</td><td>1d3 [[Salamandre|salamandres]]</td></tr><tr><td>4</td><td>1d3 élémentaires de taille G (déterminez le type au hasard)</td></tr><tr><td>5</td><td>1d3 [[Babau|babaus]]</td></tr><tr><td>6</td><td>1 [[Démon des ombres]]</td></tr><tr><td>7</td><td>1 [[Succube]]</td></tr><tr><td>8</td><td>1 distordu</td></tr></table>
+
 
 {s:BDtexte|**Distorsion de la chair (Sur).** Le corps du distordu est sans cesse en train de changer et de se modifier sous l’impulsion des énergies abyssales brutes qui le traversent, le refaçonnent et le reconstruisent de façon mineure mais hideuse. Quand un distordu engage le combat, ces énergies grandissantes apportent des altérations mineures à ses statistiques. Au début du tour du distordu, lancez un dé et reportez-vous à la table suivante pour connaître les effets supplémentaires que la distorsion de la chair a sur lui ce round-là. Sauf précision contraire, toutes les mutations qui suivent durent 1 round.}
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| d8 || Résultat
-|- CLASS="premier"
-| 1 || *Infusion de Chaos.* Le corps du distordu est parcouru d’ondulations et de changements alors que lui poussent des doigts, des vrilles, des yeux aveugles, des bouches édentées, des tumeurs et d’autres organes inutiles qui sont ensuite absorbés. Le distordu gagne une [[RD]] 10/Loi.
-|-
-| 2 || *Musculature améliorée.* Le distordu devient plus musculeux. Il gagne un bonus d’altération de +2 aux [[jet dattaque|jets d’attaque]] au corps à corps, aux [[Valeurs de combat#DEGATS|jets de dégâts]] d’arme au corps à corps, aux tests de [[BMO]], aux tests basés sur la [[Force]] et au [[DMD]].
-|-
-| 3 || *Fin et rapide.* Le distordu devient mince et agile, ses jambes s’allongeant et ses membres développant des articulations supplémentaires. Il gagne un bonus d’esquive de +2 à la [[CA]], un bonus d’altération de +2 aux jets de [[Réflexes]] et sa vitesse de base est augmentée de 3 mètres.
-|-
-| 4 || *Écailles prismatiques.* Des écailles multicolores apparaissent sur la chair du distordu. Il gagne [[Résistance (capacité)|résistance]] à l’acide 10, au froid 10 et au feu 10.
-|-
-| 5 || *Serres acérées.* Le distordu développe des griffes supplémentaires, plus tranchantes. Ses attaques de griffe gagnent le pouvoir [[Saignement (capacité)|saignement]] (1d6).
-|-
-| 6 || *Yeux multiples.* Le distordu développe des yeux supplémentaires et d’autres organes sensoriels. Il gagne un bonus de +8 aux tests de [[Perception]] ainsi que [[Vision à 360° (capacité)|vision à 360°]].
-|-
-| 7 || *Métabolisme accéléré.* Le distordu perd ses griffes et ses dents mais en développe aussitôt de nouvelles, ses blessures guérissent et ses couleurs sont plus vives. Il gagne un bonus d’altération de +2 aux jets de [[Vigueur]] et guérit aussitôt de 3d8+10 points de dégâts (s’il n’est pas blessé à ce moment-là, il gagne alors 3d8+10 [[points de vie temporaires]] qui durent 1 heure ou jusqu’à ce qu’il les perde).
-|-
-| 8 || *Plaques d’armure.* Le distordu gagne une peau épaisse et de sombres plaques d’armure écailleuses qui lui accordent une [[RD]] 5/— tandis que son bonus d’[[CA|armure naturelle]] augmente de +4.
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>d8</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>*Infusion de Chaos.* Le corps du distordu est parcouru d’ondulations et de changements alors que lui poussent des doigts, des vrilles, des yeux aveugles, des bouches édentées, des tumeurs et d’autres organes inutiles qui sont ensuite absorbés. Le distordu gagne une [[RD]] 10/Loi.</td></tr><tr><td>2</td><td>*Musculature améliorée.* Le distordu devient plus musculeux. Il gagne un bonus d’altération de +2 aux [[jet dattaque|jets d’attaque]] au corps à corps, aux [[Valeurs de combat#DEGATS|jets de dégâts]] d’arme au corps à corps, aux tests de [[BMO]], aux tests basés sur la [[Force]] et au [[DMD]].</td></tr><tr><td>3</td><td>*Fin et rapide.* Le distordu devient mince et agile, ses jambes s’allongeant et ses membres développant des articulations supplémentaires. Il gagne un bonus d’esquive de +2 à la [[CA]], un bonus d’altération de +2 aux jets de [[Réflexes]] et sa vitesse de base est augmentée de 3 mètres.</td></tr><tr><td>4</td><td>*Écailles prismatiques.* Des écailles multicolores apparaissent sur la chair du distordu. Il gagne [[Résistance (capacité)|résistance]] à l’acide 10, au froid 10 et au feu 10.</td></tr><tr><td>5</td><td>*Serres acérées.* Le distordu développe des griffes supplémentaires, plus tranchantes. Ses attaques de griffe gagnent le pouvoir [[Saignement (capacité)|saignement]] (1d6).</td></tr><tr><td>6</td><td>*Yeux multiples.* Le distordu développe des yeux supplémentaires et d’autres organes sensoriels. Il gagne un bonus de +8 aux tests de [[Perception]] ainsi que [[Vision à 360° (capacité)|vision à 360°]].</td></tr><tr><td>7</td><td>*Métabolisme accéléré.* Le distordu perd ses griffes et ses dents mais en développe aussitôt de nouvelles, ses blessures guérissent et ses couleurs sont plus vives. Il gagne un bonus d’altération de +2 aux jets de [[Vigueur]] et guérit aussitôt de 3d8+10 points de dégâts (s’il n’est pas blessé à ce moment-là, il gagne alors 3d8+10 [[points de vie temporaires]] qui durent 1 heure ou jusqu’à ce qu’il les perde).</td></tr><tr><td>8</td><td>*Plaques d’armure.* Le distordu gagne une peau épaisse et de sombres plaques d’armure écailleuses qui lui accordent une [[RD]] 5/— tandis que son bonus d’[[CA|armure naturelle]] augmente de +4.</td></tr></table>
+
 </div>
 </td>
 <td>

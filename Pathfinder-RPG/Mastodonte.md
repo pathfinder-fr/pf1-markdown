@@ -37,15 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'éléphant
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Éléphant]] || 7
-|-
-| [[Mastodonte]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'éléphant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Éléphant]]</td><td>7</td></tr><tr><td>[[Mastodonte]]</td><td>9</td></tr></table>
+
 </div>*Cette créature, plus grande qu’un éléphant normal, possède deux énormes défenses et son corps est recouvert de longs poils bruns.*
 
 Les grands mastodontes sont les cousins primitifs des éléphants. Les

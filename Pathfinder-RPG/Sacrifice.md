@@ -32,21 +32,5 @@ La table ci-dessous propose quelques offrandes communes, ainsi que le bonus qu'e
 
 Le personnage ne peut pas faire de sacrifices plus importants que ceux indiqués dans la table pour obtenir des bonus ou des valeurs en or plus importants. Par exemple, un personnage ne pourrait pas s'imposer deux niveaux négatifs permanents pour obtenir un bonus de +16, ni obtenir un avantage plus important en exécutant 20 DV de créatures lors de l'invocation d'une créature possédant 10 DV.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Type || Sacrifice || Bonus obtenu || Valeur en po
-|- CLASS="premier"
-| Trésors || 100 po/[[DV]] de la cible || +1 || Égale
-|-
-| Vies<sup>1</sup> || une créature vivante avec un nombre de [[DV]] égal à ceux de la cible || +2 || 200 po/DV
-|-
-| Corps/esprit<sup>1</sup> || [[Affaiblissement temporaire (capacité)|Diminution permanente]] de 1 point de caractéristique || +4 || 500 po/point
-|-
-| Mœurs<sup>2</sup> || L'[[alignement]] change d'un cran vers celui de la cible || +6 || 1000 po/cran
-|-
-| Âme<sup>1</sup> || Un [[niveau négatif]] permanent || +8 || 2500 po
-|- CLASS="note"
-| COLSPAN="4" | *(1) Lorsqu'il est utilisé pour sacrifier une vie, un corps, un esprit ou une âme autres que ceux du lanceur de sorts, il s'agit d'un acte maléfique.*
-|- CLASS="note"
-| COLSPAN="4" | *(2) Un personnage ne peut sacrifier que sa propre morale, et ne peut le faire qu'une fois par vie.*''
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Type</td><td>Sacrifice</td><td>Bonus obtenu</td><td>Valeur en po</td></tr><tr CLASS="premier"><td>Trésors</td><td>100 po/[[DV]] de la cible</td><td>+1</td><td>Égale</td></tr><tr><td>Vies<sup>1</sup></td><td>une créature vivante avec un nombre de [[DV]] égal à ceux de la cible</td><td>+2</td><td>200 po/DV</td></tr><tr><td>Corps/esprit<sup>1</sup></td><td>[[Affaiblissement temporaire (capacité)|Diminution permanente]] de 1 point de caractéristique</td><td>+4</td><td>500 po/point</td></tr><tr><td>Mœurs<sup>2</sup></td><td>L'[[alignement]] change d'un cran vers celui de la cible</td><td>+6</td><td>1000 po/cran</td></tr><tr><td>Âme<sup>1</sup></td><td>Un [[niveau négatif]] permanent</td><td>+8</td><td>2500 po</td></tr><tr CLASS="note"><td COLSPAN="4">*(1) Lorsqu'il est utilisé pour sacrifier une vie, un corps, un esprit ou une âme autres que ceux du lanceur de sorts, il s'agit d'un acte maléfique.*</td></tr><tr CLASS="note"><td COLSPAN="4">*(2) Un personnage ne peut sacrifier que sa propre morale, et ne peut le faire qu'une fois par vie.*''</td></tr></table>

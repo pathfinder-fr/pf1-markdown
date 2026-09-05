@@ -37,19 +37,9 @@ Categories:
 {s:BDTexte|**Langue (Ext).** La langue d’un père grenouille est une attaque primaire dont l’allonge est égale à trois fois celle de sa morsure. Son attaque de langue n’inflige aucun point de dégâts, mais il peut l’utiliser pour étreindre une créature. La grenouille n’est pas affublée de l’état préjudiciable [[agrippé]] lorsqu’elle étreint une créature avec sa langue.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de grenouille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grenouille géante]] || 1
-|-
-| [[Grenouille goliath]] || 3
-|-
-| [[Grenouille venimeuse]] || 1/2
-|-
-| [[Père grenouille]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de grenouille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grenouille géante]]</td><td>1</td></tr><tr><td>[[Grenouille goliath]]</td><td>3</td></tr><tr><td>[[Grenouille venimeuse]]</td><td>1/2</td></tr><tr><td>[[Père grenouille]]</td><td>5</td></tr></table>
+
 </div>*Cet amphibien éléphantesque possède une langue grotesquement longue et des yeux de fouine.*
 
 Les pères grenouilles engloutissent des nids entiers de vermines monstrueuses et tout le bétail qui s’aventure trop près de leur marais. ils engloutissent aussi volontiers toute proie qui croise leur chemin. Leur longue langue collante leur permet de capturer et de maîtriser leur proie pour l’analyser afin de déterminer si elle est consommable. Une proie sur laquelle un père grenouille a jeté son dévolu a peu de chances de s’en sortir, car les muscles puissants de sa gorge lui permettent d’engloutir rapidement toutes les créatures, même les plus grandes.

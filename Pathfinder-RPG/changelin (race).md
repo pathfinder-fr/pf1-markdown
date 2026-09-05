@@ -70,17 +70,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux changelins, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Don de la mère]]</td><td><sup>MR</sup></td><td>[[Changelin (race)|Changelin]]</td><td>Améliore l'héritage que sa mère guenaude a légué au personnage</td></tr></table>
 
-|- CLASS="premier"
-| [[Don de la mère]] || <sup>MR</sup> || [[Changelin (race)|Changelin]] || Améliore l'héritage que sa mère guenaude a légué au personnage
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

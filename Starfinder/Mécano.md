@@ -13,156 +13,9 @@ Si un appareil ou un ordinateur a besoin d’être réparé, piraté ou détruit
   
 
 <center>
-{| CLASS="tablo autoalt"
-|+ Le Mécano
-|- CLASS="titre"
-| Niveau
-| BBA
-| Vigueur
-| Réflexes
-| Volonté
-| CLASS="gauche" | Aptitudes de classe
-|- CLASS="premier"
-| 1
-| +0
-| +2
-| +2
-| +0
-| CLASS="gauche" | [[Mécano#INTELLIGENCEARTIFICIELLE|Intelligence artificielle]], [[Mécano#INTRUSION|Intrusion]] +1, [[Mécano#INTERFACEPERSONNALISÉE|Interface personnalisée]]
-|- CLASS="alt"
-| 2
-| +1
-| +3
-| +3
-| +0
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 3
-| +2
-| +3
-| +3
-| +1
-| CLASS="gauche" | [[Mécano#SURCHARGE|Surcharge]], [[Mécano#SPECIALISATIONMARTIALE|Spécialisation martiale]]
-|- CLASS="alt"
-| 4
-| +3
-| +4
-| +4
-| +1
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 5
-| +3
-| +4
-| +4
-| +1
-| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +2, [[Mécano#PIRATAGEÀDISTANCE|Piratage à distance]]
-|- CLASS="alt"
-| 6
-| +4
-| +5
-| +5
-| +2
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 7
-| +5
-| +5
-| +5
-| +2
-| CLASS="gauche" | [[Mécano#INTERFACESPÉCIALISÉE|Interface spécialisée]], [[Mécano#PRODIGE|Prodige]] 1/jour
-|- CLASS="alt"
-| 8
-| +6
-| +6
-| +6
-| +2
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 9
-| +6
-| +6
-| +6
-| +3
-| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +3, [[Mécano#FORÇAGE|Forçage]]
-|- CLASS="alt"
-| 10
-| +7
-| +7
-| +7
-| +3
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 11
-| +8
-| +7
-| +7
-| +3
-| CLASS="gauche" | [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +1, [[Mécano#PRODIGE|Prodige]] 2/jour
-|- CLASS="alt"
-| 12
-| +9
-| +8
-| +8
-| +4
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 13
-| +9
-| +8
-| +8
-| +4
-| CLASS="gauche" | [[Mécano#INTERFACEÉVOLUÉE|Interface évoluée]], [[Mécano#INTRUSION|Intrusion]] +4
-|- CLASS="alt"
-| 14
-| +10
-| +9
-| +9
-| +4
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 15
-| +11
-| +9
-| +9
-| +5
-| CLASS="gauche" | [[Mécano#PRODIGE|Prodige]] 3/jour
-|- CLASS="alt"
-| 16
-| +12
-| +10
-| +10
-| +5
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 17
-| +12
-| +10
-| +10
-| +5
-| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +5, [[Mécano#RÉSEAUDECONTRÔLE|Réseau de contrôle]], [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +2
-|- CLASS="alt"
-| 18
-| +13
-| +11
-| +11
-| +6
-| CLASS="gauche" | [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]
-|-
-| 19
-| +14
-| +11
-| +11
-| +6
-| CLASS="gauche" | [[Mécano#FANTÔMEDANSLAMACHINE|Fantôme dans la machine]], [[Mécano#PRODIGE|Prodige]] 4/jour, [[Mécano#INTERFACESUPÉRIEURE|Interface supérieure]]
-|- CLASS="alt"
-| 20
-| +15
-| +12
-| +12
-| +6
-| CLASS="gauche" | [[Mécano#INTRUSION|Intrusion]] +6, [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]], [[Mécano#MAÎTRETECHNITIEN|Maître technicien]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Le Mécano</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Vigueur</td><td>Réflexes</td><td>Volonté</td><td CLASS="gauche">Aptitudes de classe</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Mécano#INTELLIGENCEARTIFICIELLE|Intelligence artificielle]], [[Mécano#INTRUSION|Intrusion]] +1, [[Mécano#INTERFACEPERSONNALISÉE|Interface personnalisée]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>3</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Mécano#SURCHARGE|Surcharge]], [[Mécano#SPECIALISATIONMARTIALE|Spécialisation martiale]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>5</td><td>+3</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +2, [[Mécano#PIRATAGEÀDISTANCE|Piratage à distance]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>7</td><td>+5</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Mécano#INTERFACESPÉCIALISÉE|Interface spécialisée]], [[Mécano#PRODIGE|Prodige]] 1/jour</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>9</td><td>+6</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +3, [[Mécano#FORÇAGE|Forçage]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>11</td><td>+8</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +1, [[Mécano#PRODIGE|Prodige]] 2/jour</td></tr><tr CLASS="alt"><td>12</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>13</td><td>+9</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Mécano#INTERFACEÉVOLUÉE|Interface évoluée]], [[Mécano#INTRUSION|Intrusion]] +4</td></tr><tr CLASS="alt"><td>14</td><td>+10</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>15</td><td>+11</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Mécano#PRODIGE|Prodige]] 3/jour</td></tr><tr CLASS="alt"><td>16</td><td>+12</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>17</td><td>+12</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +5, [[Mécano#RÉSEAUDECONTRÔLE|Réseau de contrôle]], [[Mécano#ASSAUTCOORDONÉ|Assaut coordonné]] +2</td></tr><tr CLASS="alt"><td>18</td><td>+13</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]]</td></tr><tr><td>19</td><td>+14</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Mécano#FANTÔMEDANSLAMACHINE|Fantôme dans la machine]], [[Mécano#PRODIGE|Prodige]] 4/jour, [[Mécano#INTERFACESUPÉRIEURE|Interface supérieure]]</td></tr><tr CLASS="alt"><td>20</td><td>+15</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Mécano#INTRUSION|Intrusion]] +6, [[Mécano#ASTUCEDEMÉCANO|Astuce de mécano]], [[Mécano#MAÎTRETECHNITIEN|Maître technicien]]</td></tr></table>
+
 </center>
 
 
@@ -257,26 +110,9 @@ Vous pouvez également utiliser votre interface personnalisée pour communiquer 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| **NIVEAUX ASSIGNÉS**
-| **BONUS DE BASE À L’ATTAQUE**
-|- CLASS="premier"
-| 1–4
-| +1
-|- CLASS="alt"
-| 5-8
-| +2
-|-
-| 9–12
-| +3
-|- CLASS="alt"
-| 13–16
-| +4
-|-
-| 17–20
-| +5
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>**NIVEAUX ASSIGNÉS**</td><td>**BONUS DE BASE À L’ATTAQUE**</td></tr><tr CLASS="premier"><td>1–4</td><td>+1</td></tr><tr CLASS="alt"><td>5-8</td><td>+2</td></tr><tr><td>9–12</td><td>+3</td></tr><tr CLASS="alt"><td>13–16</td><td>+4</td></tr><tr><td>17–20</td><td>+5</td></tr></table>
+
 </center>
 </div></div>
 Vous êtes capable d’utiliser plusieurs IA, une dans un [[Les drones|drone]] et une dans un [[Les Exocortex|exocortex]]. Vous devez répartir vos niveaux de mécano entre ces différentes IA et chacune d’elles gagne des capacités en fonction du niveau assigné. À chaque fois que vous gagnez un niveau de mécano, vous pouvez modifier la répartition des niveaux entre les IA en utilisant votre interface personnalisée et en y travaillant sans interruption pendant 24 heures. Bien que les IA puissent agir de manière autonome, dans la limite de leurs possibilités, vous pouvez les contrôler normalement (bien que vous ne puissiez contrôler directement

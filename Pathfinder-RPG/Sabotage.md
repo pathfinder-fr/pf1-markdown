@@ -23,54 +23,17 @@ Le [[DD]] du test dépend de la complexité du mécanisme. En cas de succès, le
 Il est également possible de saboter des objets simples comme une selle ou la roue d’un chariot, de telle façon qu’ils fonctionnent normalement pendant un certain temps, puis se cassent, se détachent ou tombent en panne un peu plus tard (généralement après 1d4 rounds ou minutes d’utilisation).
 
 <center>
-{| CLASS="tablo"
-|+ Tests de Sabotage
-|- CLASS="titre"
-| Objet/mécanisme
-| Temps nécessaire
-| CLASS="gauche" | DD du test - Exemple de Sabotage*
-|- CLASS="premier"
-| simple
-| 1 round
-| CLASS="gauche" | 10 — coincer une serrure
-|- CLASS="alt"
-| complexe
-| 1d4 rounds
-| CLASS="gauche" | 15 — saboter une roue de chariot
-|-
-| très complexe
-| 2d4 rounds
-| CLASS="gauche" | 20 — désarmer ou réarmer un piège
-|- CLASS="alt"
-| extrêmement complexe
-| 2d4 rounds
-| CLASS="gauche" | 25 — désarmer un piège complexe, saboter un mécanisme à engrenages complexes
-|-
-| COLSPAN="4" CLASS="note" | *(*) Le DD augmente de +5 si le personnage tente de saboter l’objet sans que cela soit immédiatement visible.*
-|}
+
+<table CLASS="tablo"><caption>Tests de Sabotage</caption><tr CLASS="titre"><td>Objet/mécanisme</td><td>Temps nécessaire</td><td CLASS="gauche">DD du test - Exemple de Sabotage*</td></tr><tr CLASS="premier"><td>simple</td><td>1 round</td><td CLASS="gauche">10 — coincer une serrure</td></tr><tr CLASS="alt"><td>complexe</td><td>1d4 rounds</td><td CLASS="gauche">15 — saboter une roue de chariot</td></tr><tr><td>très complexe</td><td>2d4 rounds</td><td CLASS="gauche">20 — désarmer ou réarmer un piège</td></tr><tr CLASS="alt"><td>extrêmement complexe</td><td>2d4 rounds</td><td CLASS="gauche">25 — désarmer un piège complexe, saboter un mécanisme à engrenages complexes</td></tr><tr><td COLSPAN="4" CLASS="note">*(*) Le DD augmente de +5 si le personnage tente de saboter l’objet sans que cela soit immédiatement visible.*</td></tr></table>
+
 </center>
 
 **Crocheter une serrure.** Le DD pour crocheter une serrure dépend de la qualité de celle-ci. Si le personnage ne possède pas d’outils de cambrioleur, les DD suivants augmentent de +10.
 
 <center>
-{| CLASS="tablo"
-|+ Tests de Crochetage
-|- CLASS="titre"
-| **Serrure**
-| **DD du test de Sabotage**
-|- CLASS="premier"
-| simple
-| 20
-|- CLASS="alt"
-| moyenne
-| 25
-|-
-| bonne
-| 30
-|- CLASS="alt"
-| excellente
-| 40
-|}
+
+<table CLASS="tablo"><caption>Tests de Crochetage</caption><tr CLASS="titre"><td>**Serrure**</td><td>**DD du test de Sabotage**</td></tr><tr CLASS="premier"><td>simple</td><td>20</td></tr><tr CLASS="alt"><td>moyenne</td><td>25</td></tr><tr><td>bonne</td><td>30</td></tr><tr CLASS="alt"><td>excellente</td><td>40</td></tr></table>
+
 </center>
 
 ### Action

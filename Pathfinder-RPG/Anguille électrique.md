@@ -36,17 +36,9 @@ Categories:
 {s:BDTexte|**Électricité (Ext)** Une anguille électrique peut produire une puissante décharge électrique qu'elle inflige via sa queue en effectuant une attaque de contact. En cas de [[coup critique]], la victime doit réussir un  jet de [[Vigueur]] de [[DD]] 15 pour ne pas être [[étourdi|étourdie]] pendant 1d4 rounds. Le [[DD]] dépend de la [[Constitution]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'anguille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Anguille des sables]] || 5
-|-
-| [[Anguille électrique]] || 2
-|-
-| [[Murène géante]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'anguille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Anguille des sables]]</td><td>5</td></tr><tr><td>[[Anguille électrique]]</td><td>2</td></tr><tr><td>[[Murène géante]]</td><td>5</td></tr></table>
+
 </div>*Ce poisson serpentin de 1,80 mètre de long se déplace lentement. Son corps émet de temps en temps d’étranges crépitements.*
 
 L’anguille électrique est un poisson étrange qui respire de l’air

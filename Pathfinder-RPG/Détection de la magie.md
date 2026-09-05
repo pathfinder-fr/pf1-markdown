@@ -43,32 +43,15 @@ Les auras magiques particulièrement puissantes ou encore les [[émanation|éman
 
 **Intensité de l’aura.** La force d’une aura dépend du [[niveau du sort]] qui en est à l’origine ou du [[NLS|niveau de lanceur de sorts]] de la créature qui a créé l’objet magique d’où elle émane. Dans le cas d’auras qui correspondent à plusieurs catégories, le sort indique toujours la plus puissante.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| ROWSPAN="2" | Sort ou objet
-| COLSPAN="4" CLASS="avecsoustitre" | Intensité de l'aura
-|- CLASS="soustitre"
-| Faible || Modérée || Puissante || Surpuissante
-|- CLASS="premier"
-| Sort actif ([[niveau de sort]]) || 3 ou moins || 4–6 || 7–9 || 10 ou + (puissance divine)
-|-
-| Objet magique ([[NLS]]) || 5 ou moins || 6–11 || 12–20 || 21 ou + (artefact)
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td ROWSPAN="2">Sort ou objet</td><td COLSPAN="4" CLASS="avecsoustitre">Intensité de l'aura</td></tr><tr CLASS="soustitre"><td>Faible</td><td>Modérée</td><td>Puissante</td><td>Surpuissante</td></tr><tr CLASS="premier"><td>Sort actif ([[niveau de sort]])</td><td>3 ou moins</td><td>4–6</td><td>7–9</td><td>10 ou + (puissance divine)</td></tr><tr><td>Objet magique ([[NLS]])</td><td>5 ou moins</td><td>6–11</td><td>12–20</td><td>21 ou + (artefact)</td></tr></table>
+
 
 **Aura persistante.** Une aura magique ne disparaît pas immédiatement lorsque sa source est dissipée (s’il s’agit d’un sort) ou détruite (s’il s’agit d’un objet magique) mais persiste pendant un certain temps. Une *détection de la magie* dirigée vers la zone en question révélera une aura de puissance ténue (moins puissante encore qu’une aura faible). La période de temps pendant laquelle l’aura persiste dépend de l’intensité d’origine de l’aura.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Intensité de l’aura || Durée
-|- CLASS="premier"
-| Faible || 1d6 [[round|rounds]]
-|-
-| Modérée || 1d6 minutes
-|-
-| Puissante || 1d6x10 minutes
-|-
-| Surpuissante || 1d6 jours
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Intensité de l’aura</td><td>Durée</td></tr><tr CLASS="premier"><td>Faible</td><td>1d6 [[round|rounds]]</td></tr><tr><td>Modérée</td><td>1d6 minutes</td></tr><tr><td>Puissante</td><td>1d6x10 minutes</td></tr><tr><td>Surpuissante</td><td>1d6 jours</td></tr></table>
+
 
 Les [[sous-type élémentaire|élémentaires]] et les [[type extérieur|Extérieurs]] ne sont pas magiques de manière inhérente mais, s’ils ont été convoqués par magie, *détection de la magie* repère l’aura du sort qui les a invoqués. Le personnage peut pivoter sur lui-même et examiner une nouvelle zone chaque [[round]]. Le sort fonctionne à travers les barrières si celles-ci ne sont pas trop épaisses : il est bloqué par 30 cm de pierre, 2,5 cm de métal, une mince feuille de plomb ou 90 cm de bois ou de terre.
 

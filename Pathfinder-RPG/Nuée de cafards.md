@@ -38,15 +38,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cafard
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cafard géant]] || 1/2
-|-
-| [[Nuée de cafards]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cafard</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cafard géant]]</td><td>1/2</td></tr><tr><td>[[Nuée de cafards]]</td><td>2</td></tr></table>
+
 </div>*Comme une marée noire et pestilentielle, une masse affamée de milliers de minuscules cafards claquetant recouvre tout ce qui se trouve sur son passage.*
 
 Les cafards, qui sont de simples charognards carnivores, deviennent des vermines très dangereuses une fois rassemblés en nuées. En grands nombres, ils se transforment alors en chasseurs agressifs qui se mettent en quête d’un

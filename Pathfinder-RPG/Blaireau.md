@@ -35,15 +35,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de blaireau
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Blaireau]] || 1/2
-|-
-| [[Blaireau sanguinaire]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de blaireau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Blaireau]]</td><td>1/2</td></tr><tr><td>[[Blaireau sanguinaire]]</td><td>2</td></tr></table>
+
 </div>*Ce blaireau trapu s’avance en se dandinant. Il balade sa truffe au-dessus du sol et ne cesse de renifler.*
 
 Les blaireaux sont des animaux fouisseurs qu’on trouve en grand nombre dans la plupart des forêts tempérées. La majorité des espèces de blaireaux sont carnivores, mais certaines se nourrissent d’un mélange de viande, d’insectes et de végétaux. Malgré leurs courtes pattes et leur large stature, qui leur donnent un aspect lourdaud, ces créatures féroces et tenaces possèdent une force et une rapidité surprenantes. Le blaireau commun a une fourrure brun foncé et grise parsemée de marques blanches qui prennent la forme de bandes ou d’un masque autour des yeux. Ces marques distinctes varient d’une espèce à une autre. Les blaireaux, qui sont d’ordinaire amicaux, deviennent des combattants féroces face à une menace ou une provocation. Une fois qu’un ennemi a attisé leur rage, ils combattent généralement jusqu’à la mort. Au combat, ils utilisent leurs dents très fines et très acérées et leurs longues griffes incurvées, qui leur servent également pour creuser.

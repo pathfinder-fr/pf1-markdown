@@ -13,42 +13,9 @@ Categories:
 Grâce à leur vaste éventail de compétences, les bardes et les roublards sont particulièrement bien adaptés au rôle d’espion. Les roublards se font facilement passer pour des membres de n’importe quelle profession qui ne demande pas de lancer des sorts (même si leurs aptitudes sont diminuées quand ils doivent jouer le rôle d’un guerrier en armure) tandis que les bardes peuvent incarner de nombreux lanceurs de sorts de manière assez convaincante pour tromper un observateur ordinaire. La polyvalence et l’adaptabilité sont les maîtres mots de l’espionnage et les maîtres espions les plus talentueux laissent leurs pions terminer leurs complots pour eux en attirant subtilement leurs cibles dans leurs machinations.''
 
 <center>
-{| CLASS="tablo"
-|+ Le maître espion
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +1
-| CLASS="gauche" | [[maître espion#ARTDELATROMPERIE|Art de la tromperie]], [[maître espion#MAITREDESDEGUISEMENTS|maître des déguisements]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +1d6
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[maître espion#MENSONGEDESINVOLTE|Mensonge désinvolte]], [[maître espion#MASQUERSONALIGNEMENT|masquer son alignement]]
-|-
-| 3 || +2 || +2 || +1 || +2
-| CLASS="gauche" | [[maître espion#AURANONMAGIQUE|Aura non magique]] 2/jour, [[maître espion#CONNAISSANCESSUPERFICIELLES|connaissances superficielles]]
-|- CLASS="alt"
-| 4 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [[maître espion#PENSEESDISSIMULEES|Pensées dissimulées]], [[maître espion#CHANGEMENTRAPIDE|changement rapide]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +2d6
-|-
-| 5 || +3 || +3 || +2 || +3
-| CLASS="gauche" | [[maître espion#ECHAPPERALADETECTION|Échapper à la détection]], [[maître espion#ESPRITFUYANT|esprit fuyant]]
-|- CLASS="alt"
-| 6 || +4 || +3 || +2 || +3
-| CLASS="gauche" | [[maître espion#CHANGERSONALIGNEMENT|Changer son alignement]]
-|-
-| 7 || +5 || +4 || +2 || +4
-| CLASS="gauche" | [[maître espion#ATTAQUESOURNOISE|Attaque sournoise]] +3d6
-|- CLASS="alt"
-| 8 || +6 || +4 || +3 || +4
-| CLASS="gauche" | [[maître espion#ATTAQUEMORTELLE|Attaque mortelle]], [[maître espion#TROMPERLAMAGIE|tromper la magie]]
-|-
-| 9 || +6 || +5 || +3 || +5
-| CLASS="gauche" | [[maître espion#ESPRITSECRET|Esprit secret]]
-|- CLASS="alt"
-| 10 || +7 || +5 || +3 || +5
-| CLASS="gauche" | [[maître espion#VOLDIDENTITE|Vol d’identité]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +4d6
-|}
+
+<table CLASS="tablo"><caption>Le maître espion</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[maître espion#ARTDELATROMPERIE|Art de la tromperie]], [[maître espion#MAITREDESDEGUISEMENTS|maître des déguisements]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +1d6</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître espion#MENSONGEDESINVOLTE|Mensonge désinvolte]], [[maître espion#MASQUERSONALIGNEMENT|masquer son alignement]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[maître espion#AURANONMAGIQUE|Aura non magique]] 2/jour, [[maître espion#CONNAISSANCESSUPERFICIELLES|connaissances superficielles]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[maître espion#PENSEESDISSIMULEES|Pensées dissimulées]], [[maître espion#CHANGEMENTRAPIDE|changement rapide]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +2d6</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[maître espion#ECHAPPERALADETECTION|Échapper à la détection]], [[maître espion#ESPRITFUYANT|esprit fuyant]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[maître espion#CHANGERSONALIGNEMENT|Changer son alignement]]</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+4</td><td CLASS="gauche">[[maître espion#ATTAQUESOURNOISE|Attaque sournoise]] +3d6</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+4</td><td CLASS="gauche">[[maître espion#ATTAQUEMORTELLE|Attaque mortelle]], [[maître espion#TROMPERLAMAGIE|tromper la magie]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[maître espion#ESPRITSECRET|Esprit secret]]</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[maître espion#VOLDIDENTITE|Vol d’identité]], [[maître espion#ATTAQUESOURNOISE|attaque sournoise]] +4d6</td></tr></table>
+
 </center>
 
 **Rôle.** Les maîtres espions travaillent rarement en équipe à moins d’être sous couverture. Ironiquement, les compétences spéciales si utiles dans leur domaine en font des chefs exceptionnels mais leur inclinaison naturelle les pousse à rester dans l’ombre. Notez que, même si un espion se cache au sein d’un groupe d’aventuriers, il n’a pas forcément l’intention de le trahir ; des héros armés offrent une excellente couverture à un maître espion en route pour sa véritable mission, que le groupe soit au courant de ses intentions ou non.

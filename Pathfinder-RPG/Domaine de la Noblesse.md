@@ -35,27 +35,5 @@ Le personnage est un grand chef qui inspire tous ceux qui suivent les enseigneme
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Noblesse
-| Sous-domaine de l'Aristocratie || Sous-domaine du Commandement || Sous-domaine du Martyre
-|- CLASS="premier"
-| 1er || *[[faveur divine]]* || *idem* || *[[bénédiction]]* || *idem*
-|-
-| 2e || *[[discours captivant]]* || *idem* || *idem* || *[[protection dautrui|protection d'autrui]]*
-|-
-| 3e || *[[panoplie magique]]* || *[[entrer dans une image]]* || *[[prière]]* || *idem*
-|-
-| 4e || *[[détection du mensonge]]* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[injonction suprême]]* || *idem* || *idem* || *idem*
-|-
-| 6e || *[[quête]]* || *idem* || *[[inspiration brillante]]* || *[[serment de sacrifice]]*
-|-
-| 7e || *[[champ de force]]* || *idem* || *idem* || *idem*
-|-
-| 8e || *[[exigence]]* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[tempête vengeresse]]* || *[[présence écrasante]]* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Noblesse</td><td>Sous-domaine de l'Aristocratie</td><td>Sous-domaine du Commandement</td><td>Sous-domaine du Martyre</td></tr><tr CLASS="premier"><td>1er</td><td>*[[faveur divine]]*</td><td>*idem*</td><td>*[[bénédiction]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[discours captivant]]*</td><td>*idem*</td><td>*idem*</td><td>*[[protection dautrui|protection d'autrui]]*</td></tr><tr><td>3e</td><td>*[[panoplie magique]]*</td><td>*[[entrer dans une image]]*</td><td>*[[prière]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[détection du mensonge]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[injonction suprême]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[quête]]*</td><td>*idem*</td><td>*[[inspiration brillante]]*</td><td>*[[serment de sacrifice]]*</td></tr><tr><td>7e</td><td>*[[champ de force]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[exigence]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[tempête vengeresse]]*</td><td>*[[présence écrasante]]*</td><td>*idem*</td><td>*idem*</td></tr></table>

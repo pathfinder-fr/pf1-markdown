@@ -49,22 +49,9 @@ Les créations de tatouages psioniques et de cristaux condensateurs utilisent le
 
 <table><tr style="vertical-align: bottom"><td width="65%">
 <center>
-{| CLASS="tablo"
-|+ Création d'objets psioniques
-|- CLASS="titre"
-| Objets psioniques || [[Pathfinder-RPG.Dons#DONCREATION|Dons de création d'objets]]
-|- CLASS="premier"
-| Armes et armures psioniques || [[Pathfinder-RPG.Création darmes et armures magiques|Création d’armes et armures magiques]]
-|- CLASS="alt"
-| Couronnes psioniques || [[Pathfinder-RPG.Création de bâtons magiques|Création de bâtons magiques]]
-|-
-| Dorjés || [[Pathfinder-RPG.Création de baguettes magiques|Création de baguettes magiques]]
-|- CLASS="alt"
-| Gravure de pierres psioniques || [[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins magiques]]
-|-
-| Objets universels || [[Pathfinder-RPG.Création dobjets merveilleux|Création d’objets magiques merveilleux]]
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo"><caption>Création d'objets psioniques</caption><tr CLASS="titre"><td>Objets psioniques</td><td>[[Pathfinder-RPG.Dons#DONCREATION|Dons de création d'objets]]</td></tr><tr CLASS="premier"><td>Armes et armures psioniques</td><td>[[Pathfinder-RPG.Création darmes et armures magiques|Création d’armes et armures magiques]]</td></tr><tr CLASS="alt"><td>Couronnes psioniques</td><td>[[Pathfinder-RPG.Création de bâtons magiques|Création de bâtons magiques]]</td></tr><tr><td>Dorjés</td><td>[[Pathfinder-RPG.Création de baguettes magiques|Création de baguettes magiques]]</td></tr><tr CLASS="alt"><td>Gravure de pierres psioniques</td><td>[[Pathfinder-RPG.Écriture de parchemins|Écriture de parchemins magiques]]</td></tr><tr><td>Objets universels</td><td>[[Pathfinder-RPG.Création dobjets merveilleux|Création d’objets magiques merveilleux]]</td></tr><tr CLASS="alt"></tr></table>
+
 </tr></table>
 
 Quel que soit le type d’objet créé, tous les dons de création utilisent les mêmes règles de base.

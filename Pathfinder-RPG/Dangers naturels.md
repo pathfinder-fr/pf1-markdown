@@ -61,25 +61,9 @@ Un personnage plongeant volontairement ne subit pas le moindre dégât du moment
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|+ Dégâts occasionnés par les chutes d’objets
-|- CLASS="titre"
-| Taille de l’objet || Dégâts
-|- CLASS="premier"
-| Très petit et moins || 1d6
-|- CLASS="alt"
-| Petit || 2d6
-|-
-| Moyen || 3d6
-|- CLASS="alt"
-| Grand || 4d6
-|-
-| Très grand || 6d6
-|- CLASS="alt"
-| Gigantesque || 8d6
-|-
-| Colossal || 10d6
-|}
+
+<table CLASS="tablo"><caption>Dégâts occasionnés par les chutes d’objets</caption><tr CLASS="titre"><td>Taille de l’objet</td><td>Dégâts</td></tr><tr CLASS="premier"><td>Très petit et moins</td><td>1d6</td></tr><tr CLASS="alt"><td>Petit</td><td>2d6</td></tr><tr><td>Moyen</td><td>3d6</td></tr><tr CLASS="alt"><td>Grand</td><td>4d6</td></tr><tr><td>Très grand</td><td>6d6</td></tr><tr CLASS="alt"><td>Gigantesque</td><td>8d6</td></tr><tr><td>Colossal</td><td>10d6</td></tr></table>
+
 </center>
 </div></div>
 De la même façon que les personnages se blessent s’ils tombent de plus de trois mètres, ils doivent faire attention aux chutes d’objets.

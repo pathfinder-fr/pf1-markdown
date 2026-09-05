@@ -19,24 +19,9 @@ Categories:
 - **Dés de vie.** Le tsukumogami conserve les éventuels points de vie supplémentaires issus de la catégorie de taille de la créature de base. Comme c’est un [[type Extérieur|extérieur]], il gagne des points de vie supplémentaires si sa valeur de [[Constitution]] est particulièrement élevée.
 - **Pouvoirs magiques.** Les tsukumogamis obtiennent des pouvoirs magiques en fonction leur taille et utilisables à volonté. Leur [[NLS|niveau de lanceur de sorts]] est égal à leur nombre de [[DV|dés de vie]].
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Taille || Pouvoirs
-|- CLASS="premier"
-| TP+ || *[[Déguisement décrépi]]* (sur lui uniquement), *[[quintessence]]* (sur lui uniquement), *[[réparation]]*, *[[son imaginaire]]*
-|-
-| P+ || *[[Invisibilité]]* (sur lui uniquement), *[[ventriloquie]]*
-|-
-| M+ || *[[Image silencieuse]]*, *[[lévitation]]*
-|-
-| G+ || *[[Réparation intégrale]]*, *[[sort Vol|vol]]*
-|-
-| TG+ || *[[Dissimulation dobjet|Dissimulation d’objet]]* (sur lui uniquement), *[[Réduction dobjet|réduction d’objet]]* (sur lui uniquement, sans limite de volume)
-|-
-| Gig+ || *[[Animation dobjets|Animation d’objets]]* (chaque nouvelle incantation mettant fin à la précédente)
-|-
-| C || *[[Attirance]]* (sur lui uniquement)
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille</td><td>Pouvoirs</td></tr><tr CLASS="premier"><td>TP+</td><td>*[[Déguisement décrépi]]* (sur lui uniquement), *[[quintessence]]* (sur lui uniquement), *[[réparation]]*, *[[son imaginaire]]*</td></tr><tr><td>P+</td><td>*[[Invisibilité]]* (sur lui uniquement), *[[ventriloquie]]*</td></tr><tr><td>M+</td><td>*[[Image silencieuse]]*, *[[lévitation]]*</td></tr><tr><td>G+</td><td>*[[Réparation intégrale]]*, *[[sort Vol|vol]]*</td></tr><tr><td>TG+</td><td>*[[Dissimulation dobjet|Dissimulation d’objet]]* (sur lui uniquement), *[[Réduction dobjet|réduction d’objet]]* (sur lui uniquement, sans limite de volume)</td></tr><tr><td>Gig+</td><td>*[[Animation dobjets|Animation d’objets]]* (chaque nouvelle incantation mettant fin à la précédente)</td></tr><tr><td>C</td><td>*[[Attirance]]* (sur lui uniquement)</td></tr></table>
+
 - **Particularités et propriétés défensives.** Comme le tsukumogami possède des membres (comme une langue, des bras ou des jambes), il obtient le pouvoir attaque supplémentaire des [[Objet animé|objets animés]] sans avoir à dépenser de point de construction et tous les dés de dégâts de ses attaques augmentent d’une catégorie. Le tsukumogami dispose d’une option supplémentaire lui permettant de gagner 10 points de vie supplémentaires en échange d’un point de construction. Il possède la particularité [[Immobilité (capacité)|immobilité]]. Comme c’est un kami, il est immunisé contre les effets de [[pétrifié|pétrification]] et de [[branche métamorphose|métamorphose]], gagne une [[Résistance (capacité)|résistance]] de 10 contre l’acide, l’électricité et le feu, la [[Télépathie (capacité)|télépathie]] à 30 mètres, [[Guérison accélérée (capacité)|guérison accélérée]] 5, [[sous-type Kami|fusion avec le pupille]] et [[sous-type Kami|pupille]]. Le tsukumogami perd le type [[type Créature artificielle|créature artificielle]] mais conserve sa [[Solidité (capacité)|solidité]], sa [[Vision nocturne (capacité)|vision nocturne]] et les [[Immunité (capacité)|immunités]] liées au type créature artificielle. Les sorts affectant les objets ou les créatures artificielles fonctionnent sur les tsukumogamis. Le tsukumogami est toujours fusionné à son pupille et, contrairement à la plupart des [[sous-type Kami|kamis]], il s’amalgame avec lui, de telle manière qu’il peut se déplacer et communiquer pendant cette fusion.
 - **Valeurs de caractéristique.** Le tsukumogami a une [[Intelligence]] de 15, une [[Sagesse]] de 17 et un [[Charisme]] de 14. S’il est de taille M, il reçoit un bonus de +4 à la [[Force]] et la [[Dextérité]] et sa valeur de [[Constitution]] est de 19. Ces valeurs sont à moduler en fonction de sa catégorie de taille.
 - **Compétences.** Le tsukumogami dispose d’un nombre de points de compétence par [[DV]] racial égal à 6 + son modificateur d’[[Intelligence]]. Il a les mêmes compétences de classe raciales que les [[type Extérieur|extérieurs]] plus [[Connaissances]] (histoire), [[Déguisement]], [[Escamotage]] et [[Représentation]] (une au choix).

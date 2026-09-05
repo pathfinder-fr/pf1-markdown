@@ -19,20 +19,9 @@ Les éléments suivants ne peuvent pas apparaître dans une même case.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Catégories de plaines || Ferme || Pré || Champ de bataille
-|- CLASS="premier"
-| Broussailles légères || 40 % || 20 % || -
-|- CLASS="alt"
-| Broussailles épaisses || - || 10 % || -
-|-
-| Décombres || - || - || 5 %
-|- CLASS="alt"
-| Tranchées || 5 % || - || 5 %
-|-
-| Bermes || - || - || 5 %
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de plaines</td><td>Ferme</td><td>Pré</td><td>Champ de bataille</td></tr><tr CLASS="premier"><td>Broussailles légères</td><td>40 %</td><td>20 %</td><td>-</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>-</td><td>10 %</td><td>-</td></tr><tr><td>Décombres</td><td>-</td><td>-</td><td>5 %</td></tr><tr CLASS="alt"><td>Tranchées</td><td>5 %</td><td>-</td><td>5 %</td></tr><tr><td>Bermes</td><td>-</td><td>-</td><td>5 %</td></tr></table>
+
 </center>
 </div></div>
 **Broussailles.** Que ce soit des cultures ou une simple végétation, les hautes herbes des plaines fonctionnent de la même manière que les broussailles légères des forêts. Les buissons les plus touffus forment des broussailles épaisses dans les prés.

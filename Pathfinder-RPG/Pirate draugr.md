@@ -42,17 +42,9 @@ Categories:
 </td>
 <td>
 <div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de pirate mort-vivant
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Capitaine draugr]] || 4
-|-
-| [[Capitaine fantôme]] || 7
-|-
-| [[Pirate draugr]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de pirate mort-vivant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Capitaine draugr]]</td><td>4</td></tr><tr><td>[[Capitaine fantôme]]</td><td>7</td></tr><tr><td>[[Pirate draugr]]</td><td>3</td></tr></table>
+
 </div>
 Les brutes effrayantes que l’on appelle des draugrs hantent les eaux de la mer Intérieure et ceux qui forment les équipages des « navires fantômes » des Îles pirates sont réputés pour leur ruse et leur absence totale de pitié.
 </div>

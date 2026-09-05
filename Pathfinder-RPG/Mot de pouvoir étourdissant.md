@@ -22,16 +22,9 @@ Categories:
 Le personnage prononce un mot qui [[étourdi|étourdit]] instantanément une créature de son choix, qu’elle entende le mot ou non. La durée du sort dépend du nombre de [[points de vie]] actuel de la créature affectée. Une créature dotée de plus de 150 [[points de vie]] n’est pas affectée.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Points de vie || Durée
-|- CLASS="premier"
-| Jusqu’à 50 || 4d4 [[round|rounds]]
-|- CLASS="alt"
-| 51–100 || 2d4 [[round|rounds]]
-|-
-| 101–150 || 1d4 [[round|rounds]]
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Points de vie</td><td>Durée</td></tr><tr CLASS="premier"><td>Jusqu’à 50</td><td>4d4 [[round|rounds]]</td></tr><tr CLASS="alt"><td>51–100</td><td>2d4 [[round|rounds]]</td></tr><tr><td>101–150</td><td>1d4 [[round|rounds]]</td></tr></table>
+
 </center>
 
 {c:sort} {c:sort magicien 8} {c:manuel des joueurs} {c:règles officielles}

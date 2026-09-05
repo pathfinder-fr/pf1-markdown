@@ -42,17 +42,9 @@ Categories:
 La putréfaction de la momie est à la fois une [[malédiction]] et une [[maladie]]. Elle ne peut être guérie qu'en levant la malédiction avant de soigner la maladie par magie. Lever uniquement la malédiction ne suffit pas et ne permet pas à la victime de guérir naturellement la maladie. Chaque fois qu'un individu lance un sort de conjuration (*[[guérison]]*) sur la victime, il doit réussir un test de [[NLS]] contre un [[DD]] de 20 pour que le sort ait un effet (sans cela, le sort est gaspillé). Si une victime meurt de la putréfaction de la momie, elle se transforme en poussière et ne peut pas être ramenée à la vie sans un sort de *[[résurrection]]* ou plus puissant. Le DD du [[jet de sauvegarde]] dépend du [[Charisme]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de momie
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Momie]] || 5
-|-
-| [[Momie des marais]] || 4
-|-
-| [[Seigneur momie humain]] || 10
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de momie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Momie]]</td><td>5</td></tr><tr><td>[[Momie des marais]]</td><td>4</td></tr><tr><td>[[Seigneur momie humain]]</td><td>10</td></tr></table>
+
 </div>*Cet humanoïde enrubanné de vieilles bandelettes de lin en décomposition de la tête aux pieds s’avance en traînant les pieds.*
 
 Les momies ont été créées pour garder les tombes des défunts

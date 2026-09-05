@@ -25,23 +25,9 @@ Categories:
 Le contrat comprend toujours une clause stipulant que l’âme du signataire est condamnée aux Enfers à sa mort, la damnation étant mise au crédit du diable signataire qui devient propriétaire de l’âme. Quand la créature meurt, son âme est automatiquement emprisonnée dans une gemme qui apparaît aux Enfers, parmi les biens du diable. Si le diable est mort quand la créature trépasse, l’âme est détruite et il est impossible de la ramener à la vie, à moins d’un *[[miracle]]* ou d’un *[[souhait]]*. Si la créature n’arrive pas à s’acquitter de sa tâche dans le temps imparti, son âme est damnée mais le diable n’est pas obligé de lui donner les pouvoirs promis. La plupart des contrats précisent aussi que le diable, ses agents et ses alliés ne tenteront pas de tuer la créature. Cela ne la protège pas contre les autres diables mais lui offre une certaine protection contre une traîtrise de la part du signataire infernal. Il est tout aussi dangereux que difficile de briser un contrat passé avec un diable. De plus, tant que le contrat est valide, si le signataire se fait tuer, personne ne peut le ramener à la vie à moins d’utiliser un souhait ou un miracle. Si une créature diabolique est ramenée à la vie, le diable propriétaire de son contrat apprend immédiatement le nom et la situation géographique (comme avec *[[localisation suprême]]*) de l’auteur de cette résurrection.
 - **Attaques spéciales**. La créature gagne le pouvoir universel de monstre de [[convocation (capacité)|convocation]], ce qui lui permet d’invoquer un diable une fois par jour, avec 100% de chances de réussite. Le diable reste à ses côtés pendant 1 heure. C’est le [[NLS|niveau de lanceur de sorts]] ou le nombre de DV de la créature qui détermine le type de diable qu’elle peut invoquer et le niveau de sort effectif du pouvoir, selon la table suivante.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Niveau de lanceur de sorts || Diable || Niveau du sort
-|- CLASS="premier"
-| 3 || [[Lémure]] || 2
-|-
-| 9 || [[Diable barbu]] || 5
-|-
-| 11 || [[Érinye]] || 6
-|-
-| 13 || [[Diable osseux]] || 7
-|-
-| 15 || [[Diable barbelé]] || 8
-|-
-| 17 || [[Diable des glaces]] || 9
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Niveau de lanceur de sorts</td><td>Diable</td><td>Niveau du sort</td></tr><tr CLASS="premier"><td>3</td><td>[[Lémure]]</td><td>2</td></tr><tr><td>9</td><td>[[Diable barbu]]</td><td>5</td></tr><tr><td>11</td><td>[[Érinye]]</td><td>6</td></tr><tr><td>13</td><td>[[Diable osseux]]</td><td>7</td></tr><tr><td>15</td><td>[[Diable barbelé]]</td><td>8</td></tr><tr><td>17</td><td>[[Diable des glaces]]</td><td>9</td></tr></table>
+
 
 
 **Pouvoirs magiques**. La créature obtient les pouvoirs suivants en fonction du type de diable auquel elle est liée. Pour ces pouvoirs, la créature utilise ses dés de vie ou son niveau de lanceur de sorts (le plus élevé des deux) comme niveau de lanceur de sort. Le DD des éventuels jets de sauvegarde est basé sur l’Intelligence, la Sagesse ou le Charisme de la créature (la plus élevée des trois).
@@ -66,31 +52,9 @@ Le contrat comprend toujours une clause stipulant que l’âme du signataire est
 - **Caractéristiques.** Ajustez les caractéristiques de la créature en fonction du type de diable auquel elle est liée.
 
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Diable || For || Dex || Con || Int || Sag || Cha
-|-
-| Accusateur || — || +2 || +2 || — || +2 || —
-|-
-| Barbelé, barbu, de l’ost || +2 || +2 || +2 || — || — || —
-|-
-| Trompeur || — || — || — || +2 || +2 || +2
-|-
-| Osseux, des glaces || — || — || +2 || +2 || +2 || —
-|-
-| Des contrats, vestale || — || — || — || +2 || +2 || +2
-|-
-| De la noyade, cornu || +2 || +2 || — || — || — || +2
-|-
-| Érinyes || — || +2 || +2 || — || — || +2
-|-
-| Immolateur || +2 || — || +2 || — || — || +2
-|-
-| Diablotin || — || +2 || — || +2 || — || +2
-|-
-| Némésis, diantrefosse || +2 || dans || trois || valeurs || de || caractéristique différentes
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Diable</td><td>For</td><td>Dex</td><td>Con</td><td>Int</td><td>Sag</td><td>Cha</td></tr><tr><td>Accusateur</td><td>—</td><td>+2</td><td>+2</td><td>—</td><td>+2</td><td>—</td></tr><tr><td>Barbelé, barbu, de l’ost</td><td>+2</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Trompeur</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>Osseux, des glaces</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td><td>—</td></tr><tr><td>Des contrats, vestale</td><td>—</td><td>—</td><td>—</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>De la noyade, cornu</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>—</td><td>+2</td></tr><tr><td>Érinyes</td><td>—</td><td>+2</td><td>+2</td><td>—</td><td>—</td><td>+2</td></tr><tr><td>Immolateur</td><td>+2</td><td>—</td><td>+2</td><td>—</td><td>—</td><td>+2</td></tr><tr><td>Diablotin</td><td>—</td><td>+2</td><td>—</td><td>+2</td><td>—</td><td>+2</td></tr><tr><td>Némésis, diantrefosse</td><td>+2</td><td>dans</td><td>trois</td><td>valeurs</td><td>de</td><td>caractéristique différentes</td></tr></table>
+
 </div>
 </td><td><div>
 Une créature diabolique a conclu un pacte avec un diable. Elle lui a promis son âme et un service en échange d’une puissance infernale. La nature de ce service dépend du type de diable concerné et de ses motivations mais il sert toujours les intérêts des Enfers.

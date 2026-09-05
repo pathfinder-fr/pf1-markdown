@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de tigre
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Tigre]] || 4
-|-
-| [[Tigre sanguinaire]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de tigre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Tigre]]</td><td>4</td></tr><tr><td>[[Tigre sanguinaire]]</td><td>8</td></tr></table>
+
 </div>''L’immense tigre grogne une mise en garde et se prépare à bondir. Deux
 crocs en forme de sabres garnissent ses puissantes mâchoires.''
 

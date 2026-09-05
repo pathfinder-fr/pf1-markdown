@@ -31,142 +31,12 @@ Si un personnage perd son familier, que celui-ci meurt ou est renvoyé, il peut 
 
 Un jeteur de sorts avec le don [[Familier supérieur]] peut avoir accès à d'autres familiers.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Les familiers et les capacités spéciales
-|- CLASS="titre"
-| Familier  || Capacité spéciale
-|- CLASS="premier"
-| [[Araignée écarlate]]<sup>*UM* *B4*</sup> || Le maître gagne un bonus de +3 aux tests d’[[Escalade]].
-|-
-| [[Archéoptéryx]]<sup>*B4*</sup> || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
-|-
-| [[Belette]] || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
-|-
-| [[Caïman nain]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
-|-
-| [[Chat]] || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
-|-
-| [[Chat Mau]]<sup>*W12*</sup> || Le maître obtient un bonus de +4 aux tests d' [[Initiative]].
-|-
-| [[Chauve-souris]] || Le maître obtient un bonus de +3 aux tests de [[Vol]].
-|-
-| [[Chèvre]]<sup>*UM* *B3*</sup> || Le maître obtient un bonus de +3 aux tests de [[Survie]].
-|-
-| [[Chouette]]  || Le maître obtient un bonus de +3 aux tests de [[Perception]]   
-opposés ou dépendant de la vue dans l’obscurité ou les zones d’ombres.
-|-
-| [[Cochon]]<sup>*UM* *B3*</sup>  || Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].
-|-
-| [[Compsognathus]]<sup>*B2*</sup> || Le maître obtient un bonus de +4 aux jets d’[[Initiative]].
-|-
-| [[Corbeau]]<sup>*</sup> || Le maître obtient un bonus de +3 aux tests d’[[Estimation]].
-|-
-| [[Dauphin]]<sup>*UM*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
-|-
-| [[Dauphin popoto|Dauphin, popoto]]<sup>*FF*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
-|-
-| [[Dodo]]<sup>*B4*</sup> || Le maître obtient un bonus de +4 aux jets d’[[Initiative]].
-|-
-| [[Crapaud]]  || Le maître obtient +3 [[pv|points de vie]].
-|-
-| [[Écureuil volant]]<sup>*B3*</sup> || Le maître gagne un bonus de +3 aux tests de [[Vol]].
-|-
-| [[Ermine]]<sup>*B3*</sup> || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
-|-
-| [[Fennec]]<sup>*W12*</sup> || Le maître obtient le don [[Habitant du désert]].
-|-
-| [[Faucon]]  || Le maître obtient un bonus de +3 aux tests de [[Perception]]   
-opposés ou dépendant de la vue sous une lumière vive.
-|-
-| [[Crapaud venimeux|Grenouille venimeuse]]  || Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].
-|-
-| [[Grive]]<sup>*</sup> <sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].
-|-
-| [[Hérisson]]<sup>*UM*</sup> || Le maître obtient un bonus de +2 aux tests de [[Volonté]].
-|-
-| [[Grand-duc|Hibou]]<sup>*B3*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
-|-
-| [[Isopode géant]]<sup>*UW*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| [[Kakapo]]<sup>*FF*</sup> || Le maître obtient +3 aux tests de [[Escalade]].
-|-
-| [[Koala]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d’[[Escalade]].
-|-
-| [[Lagopède]]<sup>*RWPG*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
-|-
-| [[Lemming]]<sup>*RWPG*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
-|-
-| [[Limace léopard]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d’[[Escalade]].
-|-
-| [[Loutre]]<sup>*FF*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
-|-
-| [[Manchot]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [[Natation]].
-|-
-| [[Rat-âne|Mara]]<sup>*UM*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
-|-
-| [[Macareux]]<sup>*UM*</sup> || Le maître gagne un bonus de +3 aux tests de [[Natation]].
-|-
-| [[Mille-pattes domestique]]<sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [[Discrétion]].
-|-
-| [[Ornithorynque]]<sup>*B4*</sup> || Le maître obtient +3 aux tests de [[Natation]].
-|-
-| [[Paon]]<sup>*FF*</sup> || Le maître obtient +3 aux tests de [[Escalade]].
-|-
-| [[Paresseux]]<sup>*B4*</sup> || Le maître obtient +3 aux tests de [[Intimidation]].
-|-
-| [[Petit panda]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests d'[[Acrobaties]].
-|-
-| [[Pétrifougère]]<sup>*FF*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| [[Phoque]]<sup>*B5*</sup> || Le maître obtient un bonus de +3 aux tests de [[Natation]].
-|-
-| [[Pieuvre à anneaux bleus]]<sup>*UM*</sup> || Le maître obtient +3 aux tests de [[Natation]].
-|-
-| [[Porc-épic]]<sup>*B3*</sup> ||  Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| [[Poulet]]<sup>*B5*</sup> || Le maître obtient +3 [[pv|points de vie]].
-|-
-| [[Puce géante]]<sup>*B4*</sup> ||  Le maître gagne un bonus de +3 aux jets de sauvegarde contre la maladie.
-|-
-| [[Rat]]  || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
-|-
-| [[Raton laveur]]<sup>*UM*</sup> || Le maître obtient un bonus de +3 aux tests de [[Escamotage]].
-|-
-| [[Renard]]<sup>*UM* *B3*</sup> || Le maître obtient un bonus de +2 aux jets de [[Réflexes]].
-|-
-| [[Rhamphorhynchus]]<sup>*PAP*</sup> || Le maître obtient un bonus de +2 aux jets d’[[Initiative]].
-|-
-| [[Roussette]]<sup>*B5*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
-|-
-| [[Scorpion vert]]<sup>*UM* *B4*</sup> || Le maître obtient un bonus de +4 aux jets d’[[Initiative]].
-|-
-| [[Singe]]  || Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].
-|-
-| [[Tatou]]<sup>*AA*</sup> || Le maître obtient un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| [[Tetraodon|Tétraodon]]<sup>*FF*</sup> || Le maître obtient un bonus de +2 aux jets de [[Vigueur]].
-|-
-| [[Taupe]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests de [[Perception]]   
-basés sur le touché, l'odorat, et le goût.
-|-
-| [[Trilobite]]<sup>*B5*</sup> || Le maître obtient un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| [[Tuatara|Sphénodon]]<sup>*B4*</sup> || Le maître obtient un bonus de +3 aux tests de [[Survie]].
-|-
-| [[Tortue happante]]<sup>*B2*</sup> || Le maître gagne un bonus de +2 aux jets de [[Vigueur]].
-|-
-| [[Tortue|Tortue de mer]]<sup>*UM*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| [[Crabe royal|Tourteau]]<sup>*UM*</sup> || Le maître gagne un bonus de +2 aux tests de [[BMO]] pour démarrer et maintenir une [[lutte]].
-|-
-| [[Vipère]] || Le maître obtient un bonus de +3 aux tests de [[Bluff]].
-|-
-| [[Wallaby]]<sup>*FF*</sup> || Le maître obtient un bonus de +3 aux tests d'[[Acrobaties]].
-|-
-| [[Wyrd Ioun]]<sup>*FF*</sup> || Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].
-|-
-| COLSPAN="3" CLASS="note" | *(*) Un familier corbeau ou grive peut parler une langue (choisie par son maître). C’est un pouvoir surnaturel.*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Les familiers et les capacités spéciales</caption><tr CLASS="titre"><td>Familier</td><td>Capacité spéciale</td></tr><tr CLASS="premier"><td>[[Araignée écarlate]]<sup>*UM* *B4*</sup></td><td>Le maître gagne un bonus de +3 aux tests d’[[Escalade]].</td></tr><tr><td>[[Archéoptéryx]]<sup>*B4*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td></tr><tr><td>[[Belette]]</td><td>Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td></tr><tr><td>[[Caïman nain]]<sup>*B5*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr><tr><td>[[Chat]]</td><td>Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr><tr><td>[[Chat Mau]]<sup>*W12*</sup></td><td>Le maître obtient un bonus de +4 aux tests d' [[Initiative]].</td></tr><tr><td>[[Chauve-souris]]</td><td>Le maître obtient un bonus de +3 aux tests de [[Vol]].</td></tr><tr><td>[[Chèvre]]<sup>*UM* *B3*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Survie]].</td></tr><tr><td>[[Chouette]]</td><td>Le maître obtient un bonus de +3 aux tests de [[Perception]]   
+opposés ou dépendant de la vue dans l’obscurité ou les zones d’ombres.</td></tr><tr><td>[[Cochon]]<sup>*UM* *B3*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].</td></tr><tr><td>[[Compsognathus]]<sup>*B2*</sup></td><td>Le maître obtient un bonus de +4 aux jets d’[[Initiative]].</td></tr><tr><td>[[Corbeau]]<sup>*</sup></td><td>Le maître obtient un bonus de +3 aux tests d’[[Estimation]].</td></tr><tr><td>[[Dauphin]]<sup>*UM*</sup></td><td>Le maître gagne un bonus de +3 aux tests de [[Natation]].</td></tr><tr><td>[[Dauphin popoto|Dauphin, popoto]]<sup>*FF*</sup></td><td>Le maître gagne un bonus de +3 aux tests de [[Natation]].</td></tr><tr><td>[[Dodo]]<sup>*B4*</sup></td><td>Le maître obtient un bonus de +4 aux jets d’[[Initiative]].</td></tr><tr><td>[[Crapaud]]</td><td>Le maître obtient +3 [[pv|points de vie]].</td></tr><tr><td>[[Écureuil volant]]<sup>*B3*</sup></td><td>Le maître gagne un bonus de +3 aux tests de [[Vol]].</td></tr><tr><td>[[Ermine]]<sup>*B3*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td></tr><tr><td>[[Fennec]]<sup>*W12*</sup></td><td>Le maître obtient le don [[Habitant du désert]].</td></tr><tr><td>[[Faucon]]</td><td>Le maître obtient un bonus de +3 aux tests de [[Perception]]   
+opposés ou dépendant de la vue sous une lumière vive.</td></tr><tr><td>[[Crapaud venimeux|Grenouille venimeuse]]</td><td>Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].</td></tr><tr><td>[[Grive]]<sup>*</sup> <sup>*UM*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Diplomatie]].</td></tr><tr><td>[[Hérisson]]<sup>*UM*</sup></td><td>Le maître obtient un bonus de +2 aux tests de [[Volonté]].</td></tr><tr><td>[[Grand-duc|Hibou]]<sup>*B3*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr><tr><td>[[Isopode géant]]<sup>*UW*</sup></td><td>Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td>[[Kakapo]]<sup>*FF*</sup></td><td>Le maître obtient +3 aux tests de [[Escalade]].</td></tr><tr><td>[[Koala]]<sup>*FF*</sup></td><td>Le maître obtient un bonus de +3 aux tests d’[[Escalade]].</td></tr><tr><td>[[Lagopède]]<sup>*RWPG*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr><tr><td>[[Lemming]]<sup>*RWPG*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Limace léopard]]<sup>*FF*</sup></td><td>Le maître obtient un bonus de +3 aux tests d’[[Escalade]].</td></tr><tr><td>[[Loutre]]<sup>*FF*</sup></td><td>Le maître gagne un bonus de +3 aux tests de [[Natation]].</td></tr><tr><td>[[Manchot]]<sup>*B5*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Natation]].</td></tr><tr><td>[[Rat-âne|Mara]]<sup>*UM*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Macareux]]<sup>*UM*</sup></td><td>Le maître gagne un bonus de +3 aux tests de [[Natation]].</td></tr><tr><td>[[Mille-pattes domestique]]<sup>*UM*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Discrétion]].</td></tr><tr><td>[[Ornithorynque]]<sup>*B4*</sup></td><td>Le maître obtient +3 aux tests de [[Natation]].</td></tr><tr><td>[[Paon]]<sup>*FF*</sup></td><td>Le maître obtient +3 aux tests de [[Escalade]].</td></tr><tr><td>[[Paresseux]]<sup>*B4*</sup></td><td>Le maître obtient +3 aux tests de [[Intimidation]].</td></tr><tr><td>[[Petit panda]]<sup>*B5*</sup></td><td>Le maître obtient un bonus de +3 aux tests d'[[Acrobaties]].</td></tr><tr><td>[[Pétrifougère]]<sup>*FF*</sup></td><td>Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td>[[Phoque]]<sup>*B5*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Natation]].</td></tr><tr><td>[[Pieuvre à anneaux bleus]]<sup>*UM*</sup></td><td>Le maître obtient +3 aux tests de [[Natation]].</td></tr><tr><td>[[Porc-épic]]<sup>*B3*</sup></td><td>Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td>[[Poulet]]<sup>*B5*</sup></td><td>Le maître obtient +3 [[pv|points de vie]].</td></tr><tr><td>[[Puce géante]]<sup>*B4*</sup></td><td>Le maître gagne un bonus de +3 aux jets de sauvegarde contre la maladie.</td></tr><tr><td>[[Rat]]</td><td>Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Raton laveur]]<sup>*UM*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Escamotage]].</td></tr><tr><td>[[Renard]]<sup>*UM* *B3*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Réflexes]].</td></tr><tr><td>[[Rhamphorhynchus]]<sup>*PAP*</sup></td><td>Le maître obtient un bonus de +2 aux jets d’[[Initiative]].</td></tr><tr><td>[[Roussette]]<sup>*B5*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Scorpion vert]]<sup>*UM* *B4*</sup></td><td>Le maître obtient un bonus de +4 aux jets d’[[Initiative]].</td></tr><tr><td>[[Singe]]</td><td>Le maître obtient un bonus de +3 aux tests d’[[Acrobaties]].</td></tr><tr><td>[[Tatou]]<sup>*AA*</sup></td><td>Le maître obtient un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td>[[Tetraodon|Tétraodon]]<sup>*FF*</sup></td><td>Le maître obtient un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Taupe]]<sup>*FF*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Perception]]   
+basés sur le touché, l'odorat, et le goût.</td></tr><tr><td>[[Trilobite]]<sup>*B5*</sup></td><td>Le maître obtient un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td>[[Tuatara|Sphénodon]]<sup>*B4*</sup></td><td>Le maître obtient un bonus de +3 aux tests de [[Survie]].</td></tr><tr><td>[[Tortue happante]]<sup>*B2*</sup></td><td>Le maître gagne un bonus de +2 aux jets de [[Vigueur]].</td></tr><tr><td>[[Tortue|Tortue de mer]]<sup>*UM*</sup></td><td>Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td>[[Crabe royal|Tourteau]]<sup>*UM*</sup></td><td>Le maître gagne un bonus de +2 aux tests de [[BMO]] pour démarrer et maintenir une [[lutte]].</td></tr><tr><td>[[Vipère]]</td><td>Le maître obtient un bonus de +3 aux tests de [[Bluff]].</td></tr><tr><td>[[Wallaby]]<sup>*FF*</sup></td><td>Le maître obtient un bonus de +3 aux tests d'[[Acrobaties]].</td></tr><tr><td>[[Wyrd Ioun]]<sup>*FF*</sup></td><td>Le maître gagne un bonus d’armure naturelle de +1 à la [[CA]].</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) Un familier corbeau ou grive peut parler une langue (choisie par son maître). C’est un pouvoir surnaturel.*</td></tr></table>
+
 
 ### Profil des familiers
 Pour déterminer le profil du familier, partez de celui d’une créature de la même espèce (comme présenté dans le *[[Liste alphabétique des monstres|Bestiaire]]*) puis apportez-y les modifications suivantes.
@@ -186,66 +56,11 @@ Pour déterminer le profil du familier, partez de celui d’une créature de la 
 Tous les familiers possèdent des pouvoirs spéciaux ou accordent des capacités spéciales à leur maître en fonction du niveau total de celui-ci dans les différentes classes qui donnent droit à un familier. Tous ces pouvoirs sont cumulatifs.
 
 <center>
-{| CLASS="tablo"
-|+ Capacités des familiers
-|- CLASS="titre"
-| Niveau de classe  
-du maître
-| [[Familiers#AJUSTEMENTDARMURENATURELLE|Ajustement  
-d’armure naturelle]]
-| [[Familiers#INTELLIGENCE|Int]]
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1-2
-| +1
-| 6
-| CLASS="gauche" | [[Familiers#ESQUIVESURNATURELLE|Esquive surnaturelle]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]], [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]]
-|- CLASS="alt"
-| 3-4
-| +2
-| 7
-| CLASS="gauche" | [[Familiers#CONDUIT|Conduit]]
-|-
-| 5-6
-| +3
-| 8
-| CLASS="gauche" | [[Familiers#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]
-|- CLASS="alt"
-| 7-8
-| +4
-| 9
-| CLASS="gauche" | [[Familiers#COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE|Communication avec les animaux de la même espèce]]
-|-
-| 9-10
-| +5
-| 10
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 11-12
-| +6
-| 11
-| CLASS="gauche" | [[Familiers#RESISTANCEALAMAGIE|Résistance à la magie]]
-|-
-| 13-14
-| +7
-| 12
-| CLASS="gauche" | [[Familiers#SCRUTATIONSURLEFAMILIER|Scrutation sur le familier]]
-|- CLASS="alt"
-| 15-16
-| +8
-| 13
-| CLASS="gauche" | -
-|-
-| 17-18
-| +9
-| 14
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 19-20
-| +10
-| 15
-| CLASS="gauche" | -
-|}
+
+<table CLASS="tablo"><caption>Capacités des familiers</caption><tr CLASS="titre"><td>Niveau de classe  
+du maître</td><td>[[Familiers#AJUSTEMENTDARMURENATURELLE|Ajustement  
+d’armure naturelle]]</td><td>[[Familiers#INTELLIGENCE|Int]]</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1-2</td><td>+1</td><td>6</td><td CLASS="gauche">[[Familiers#ESQUIVESURNATURELLE|Esquive surnaturelle]], [[Familiers#TRANSFERTDESORTS|transfert de sorts]], [[Familiers#LIENEMPATHIQUE|lien empathique]], [[Familiers#VIGILANCE|vigilance]]</td></tr><tr CLASS="alt"><td>3-4</td><td>+2</td><td>7</td><td CLASS="gauche">[[Familiers#CONDUIT|Conduit]]</td></tr><tr><td>5-6</td><td>+3</td><td>8</td><td CLASS="gauche">[[Familiers#COMMUNICATIONAVECLEMAITRE|Communication avec le maître]]</td></tr><tr CLASS="alt"><td>7-8</td><td>+4</td><td>9</td><td CLASS="gauche">[[Familiers#COMMUNICATIONAVECLESANIMAUXDELAMEMEESPECE|Communication avec les animaux de la même espèce]]</td></tr><tr><td>9-10</td><td>+5</td><td>10</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>11-12</td><td>+6</td><td>11</td><td CLASS="gauche">[[Familiers#RESISTANCEALAMAGIE|Résistance à la magie]]</td></tr><tr><td>13-14</td><td>+7</td><td>12</td><td CLASS="gauche">[[Familiers#SCRUTATIONSURLEFAMILIER|Scrutation sur le familier]]</td></tr><tr CLASS="alt"><td>15-16</td><td>+8</td><td>13</td><td CLASS="gauche">-</td></tr><tr><td>17-18</td><td>+9</td><td>14</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>19-20</td><td>+10</td><td>15</td><td CLASS="gauche">-</td></tr></table>
+
 </center>
 
 {s:Reference|AJUSTEMENTDARMURENATURELLE}**Ajustement d’armure naturelle.** L’ajustement indiqué vient s’ajouter au bonus d’armure naturelle que le familier possède déjà.

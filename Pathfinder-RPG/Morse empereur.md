@@ -37,15 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de morse
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Morse]] || 3
-|-
-| [[Morse empereur]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de morse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Morse]]</td><td>3</td></tr><tr><td>[[Morse empereur]]</td><td>8</td></tr></table>
+
 </div>''Plusieurs plis de peau protègent cet imposant mammifère marin, telle
 une armure de graisse. Des défenses de la taille d’un humain ornent sa
 gueule cernée de moustaches.''

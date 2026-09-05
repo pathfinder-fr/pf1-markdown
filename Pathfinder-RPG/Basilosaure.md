@@ -40,35 +40,9 @@ CA 20, 16 pv)}
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de mégafaune
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Archelon]] || 5
-|-
-| [[Arsinoithérium]] || 7
-|-
-| [[Baluchithérium]] || 8
-|-
-| [[Basilosaure]] || 12
-|-
-| [[Chalicothérium]] || 6
-|-
-| [[Glyptodonte]] || 6
-|-
-| [[Kaprosuchus]] || 5
-|-
-| [[Mégalania]] || 7
-|-
-| [[Mégalocéros]] || 4
-|-
-| [[Mégathérium]] || 5
-|-
-| [[Moa]] || 2
-|-
-| [[Uintathérium]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de mégafaune</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Archelon]]</td><td>5</td></tr><tr><td>[[Arsinoithérium]]</td><td>7</td></tr><tr><td>[[Baluchithérium]]</td><td>8</td></tr><tr><td>[[Basilosaure]]</td><td>12</td></tr><tr><td>[[Chalicothérium]]</td><td>6</td></tr><tr><td>[[Glyptodonte]]</td><td>6</td></tr><tr><td>[[Kaprosuchus]]</td><td>5</td></tr><tr><td>[[Mégalania]]</td><td>7</td></tr><tr><td>[[Mégalocéros]]</td><td>4</td></tr><tr><td>[[Mégathérium]]</td><td>5</td></tr><tr><td>[[Moa]]</td><td>2</td></tr><tr><td>[[Uintathérium]]</td><td>7</td></tr></table>
+
 </div>*Cette immense baleine primitive a une peau lisse, qui rappelle davantage le serpent que le mammifère, et ses mâchoires sont pourvues de dents pointues.*
 
 Malgré leur nom qui évoque les sauriens, les basilosaures sont en réalité des mammifères marins qui, avec leur 18 mètres de long, sont d’impressionnantes bêtes des mers. Ils ressemblent à de grandes [[baleine|baleines]] effilées mais avec de larges mâchoires pourvues de dents pointues ressemblant à celles d’un alligator. Les observateurs non-avertis confondent souvent le basilosaure avec le serpent de mer ou l’orme aquatique mais, à vrai dire, quand un navire sans méfiant essuie une attaque de basilosaure, ces distinctions sont purement académiques.

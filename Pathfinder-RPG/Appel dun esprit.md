@@ -21,34 +21,14 @@ Categories:
 
 Le personnage tente de pousser l’esprit d’un individu donné à se manifester depuis la tombe. Il faut prononcer son nom pour lui demander de se montrer. Un esprit non consentant peut refuser l’invocation à condition de réussir un jet de Volonté. Si l’esprit choisi refuse d’apparaître, un autre doué d’intentions malveillantes prend presque toujours sa place, bien décidé à duper le personnage. La difficulté du jet de sauvegarde dépend de la quantité de connaissances que le personnage possède au sujet de l’esprit et des éventuels liens physiques qu’il possède avec elle.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Connaissances  || Mod au jet de volonté
-|- CLASS="premier"
-| Nom uniquement† || +15
-|-
-| De seconde main (a entendu parler de la cible) || +10
-|-
-| De première main (a rencontré la cible de son vivant) ||  +5
-|-
-| Familières (connaissait bien la cible) || +0
-|- CLASS="note" COLSPAN="2"
-| †Le personnage doit au moins connaître un nom que la cible utilisait de son vivant
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Connaissances</td><td>Mod au jet de volonté</td></tr><tr CLASS="premier"><td>Nom uniquement†</td><td>+15</td></tr><tr><td>De seconde main (a entendu parler de la cible)</td><td>+10</td></tr><tr><td>De première main (a rencontré la cible de son vivant)</td><td>+5</td></tr><tr><td>Familières (connaissait bien la cible)</td><td>+0</td></tr><tr CLASS="note" COLSPAN="2"><td>†Le personnage doit au moins connaître un nom que la cible utilisait de son vivant</td></tr></table>
 
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Lien || Mod au jet de volonté
-|- CLASS="premier"
-| Ressemblance ou portrait || -2
-|-
-| Possession ou habit || -4
-|-
-| Morceau de corps, mèche de cheveux, rognure d’ongle etc. || -10
-|-
-| Alignement différent || +4
-|}
+
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Lien</td><td>Mod au jet de volonté</td></tr><tr CLASS="premier"><td>Ressemblance ou portrait</td><td>-2</td></tr><tr><td>Possession ou habit</td><td>-4</td></tr><tr><td>Morceau de corps, mèche de cheveux, rognure d’ongle etc.</td><td>-10</td></tr><tr><td>Alignement différent</td><td>+4</td></tr></table>
+
 
 Quand le personnage réussit à appeler un esprit, ce dernier se manifeste sous une forme vaporeuse à la silhouette ressemblant vaguement à celle que le défunt arborait de son vivant. L’esprit a les caractéristiques physiques d’un serviteur invisible et peut effectuer des manipulations physiques mineures. Il parle dans un murmure fantomatique dans une langue qu’il connaissait de son vivant.
 

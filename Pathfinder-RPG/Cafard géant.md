@@ -37,15 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cafard
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cafard géant]] || 1/2
-|-
-| [[Nuée de cafards]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cafard</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cafard géant]]</td><td>1/2</td></tr><tr><td>[[Nuée de cafards]]</td><td>2</td></tr></table>
+
 </div>''Ce cafard de la taille d’un chien s’avance rapidement en faisant claquer
 impatiemment ses mandibules recouvertes de déchets.''
 
@@ -71,18 +65,7 @@ supplémentaires, comme des
 dards empoisonnés.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Espèce || FP || Taille || DV
-|- CLASS="premier"
-| Cafard sifflant géant || 1 || M || 2
-|- CLASS="alt"
-| Cafard venimeux || 3 || G || 3
-|- CLASS="alt"
-| Cafard cracheur || 6 || TG || 6
-|- CLASS="alt"
-| Cafard à dos de scie || 9 || Gig || 8
-|- CLASS="alt"
-| Cafard-dragon || 12 || C || 10
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td>Cafard sifflant géant</td><td>1</td><td>M</td><td>2</td></tr><tr CLASS="alt"><td>Cafard venimeux</td><td>3</td><td>G</td><td>3</td></tr><tr CLASS="alt"><td>Cafard cracheur</td><td>6</td><td>TG</td><td>6</td></tr><tr CLASS="alt"><td>Cafard à dos de scie</td><td>9</td><td>Gig</td><td>8</td></tr><tr CLASS="alt"><td>Cafard-dragon</td><td>12</td><td>C</td><td>10</td></tr></table></center>
+
 </div></td></tr></table>

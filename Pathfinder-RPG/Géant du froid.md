@@ -43,55 +43,9 @@ Categories:
 {s:ImageCentre|Bestiaire/Geant du Froid_img.jpg|95%}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de géant
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Géant de cendre]] || 11
-|-
-| [[Géant de la jungle]] || 10
-|-
-| [[Géant de la lune]] || 15
-|-
-| [[Géant de la taïga]] || 12
-|-
-| [[Géant de lombre|Géant de l'ombre]] || 13
-|-
-| [[Géant de pierre]] || 8
-|-
-| [[Géant des bois]] || 6
-|-
-| [[Géant des collines]] || 7
-|-
-| [[Géant des falaises]] || 9
-|-
-| [[Géant des grottes]] || 6
-|-
-| [[Géant des marais]] || 8
-|-
-| [[Géant des nuages]] || 11
-|-
-| [[Géant des océans]] || 14
-|-
-| [[Géant des rivières]] || 6
-|-
-| [[Géant des runes]] || 17
-|-
-| [[Géant des scories]] || 7
-|-
-| [[Géant des tempêtes]] || 13
-|-
-| [[Géant des éclipses]] || 19
-|-
-| [[Géant du désert]] || 9
-|-
-| [[Géant du feu]] || 10
-|-
-| [[Géant du froid]] || 9
-|-
-| [[Géant du soleil]] || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de géant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Géant de cendre]]</td><td>11</td></tr><tr><td>[[Géant de la jungle]]</td><td>10</td></tr><tr><td>[[Géant de la lune]]</td><td>15</td></tr><tr><td>[[Géant de la taïga]]</td><td>12</td></tr><tr><td>[[Géant de lombre|Géant de l'ombre]]</td><td>13</td></tr><tr><td>[[Géant de pierre]]</td><td>8</td></tr><tr><td>[[Géant des bois]]</td><td>6</td></tr><tr><td>[[Géant des collines]]</td><td>7</td></tr><tr><td>[[Géant des falaises]]</td><td>9</td></tr><tr><td>[[Géant des grottes]]</td><td>6</td></tr><tr><td>[[Géant des marais]]</td><td>8</td></tr><tr><td>[[Géant des nuages]]</td><td>11</td></tr><tr><td>[[Géant des océans]]</td><td>14</td></tr><tr><td>[[Géant des rivières]]</td><td>6</td></tr><tr><td>[[Géant des runes]]</td><td>17</td></tr><tr><td>[[Géant des scories]]</td><td>7</td></tr><tr><td>[[Géant des tempêtes]]</td><td>13</td></tr><tr><td>[[Géant des éclipses]]</td><td>19</td></tr><tr><td>[[Géant du désert]]</td><td>9</td></tr><tr><td>[[Géant du feu]]</td><td>10</td></tr><tr><td>[[Géant du froid]]</td><td>9</td></tr><tr><td>[[Géant du soleil]]</td><td>16</td></tr></table>
+
 </div>*Ce géant ressemble à un humain robuste et musclé. Ses cheveux bleu clair sont tressés. Sa peau est blanche comme la glace.*
 
 La pilosité des géants du froid peut être bleu clair ou jaune
@@ -192,33 +146,9 @@ Nombre des pouvoirs des géants du froid découlent des adaptations développée
 #### Dons
 Voici quelques dons accessibles aux géants du froid.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Balayage circulaire]]*</td><td><sup>CM</sup></td><td>[[For]] 15, [[Enchaînement]], [[Science du croc-en-jambe]], [[Arme de prédilection]] (grande hache), [[BBA]] +11</td><td>Utilise Enchaînement pour tenter un croc-en-jambe contre tous les adversaires à portée</td></tr><tr CLASS="premier"><td>[[Charge fabuleuse]]*</td><td><sup>CM</sup></td><td>[[For]] 25, [[Coup fabuleux]], [[Science de la bousculade]], [[Attaque en puissance]]</td><td>Utilise Coup fabuleux après une attaque de charge réussie</td></tr><tr CLASS="premier"><td>[[Inimitié ancestrale]]*</td><td><sup>CM</sup></td><td>[[Sous-type géant]]</td><td>+2 aux jets d'attaque contre les gnomes et les nains</td></tr><tr CLASS="premier"><td>[[Né du froid]]</td><td><sup>CM</sup></td><td>[[Géant du froid]]</td><td>Les attaques naturelles du personnage infligent des dégâts de froid</td></tr><tr><td>&emsp;[[Regard glacé]]</td><td><sup>CM</sup></td><td>[[Né du froid]], [[géant du froid]]</td><td>Le regard du personnage peut infliger des dégâts de froid</td></tr><tr><td>&emsp;[[Rocher glacé]]</td><td><sup>CM</sup></td><td>[[Né du froid]], [[géant du froid]]</td><td>Un objet jeté avec lancer de rocher inflige des dégâts supplémentaires de froid</td></tr><tr CLASS="premier"><td>[[Stable sur la glace]]</td><td><sup>CM</sup></td><td>[[Géant du froid]]</td><td>Pas de malus de déplacement sur la glace et les surfaces enneigées</td></tr></table>
 
-|- CLASS="premier"
-| [[Balayage circulaire]]* || <sup>CM</sup> || [[For]] 15, [[Enchaînement]], [[Science du croc-en-jambe]], [[Arme de prédilection]] (grande hache), [[BBA]] +11 || Utilise Enchaînement pour tenter un croc-en-jambe contre tous les adversaires à portée
-
-|- CLASS="premier"
-| [[Charge fabuleuse]]* || <sup>CM</sup> || [[For]] 25, [[Coup fabuleux]], [[Science de la bousculade]], [[Attaque en puissance]] || Utilise Coup fabuleux après une attaque de charge réussie
-
-|- CLASS="premier"
-| [[Inimitié ancestrale]]* || <sup>CM</sup> || [[Sous-type géant]] || +2 aux jets d'attaque contre les gnomes et les nains
-
-|- CLASS="premier"
-| [[Né du froid]] || <sup>CM</sup> || [[Géant du froid]] || Les attaques naturelles du personnage infligent des dégâts de froid
-|-
-| &emsp;[[Regard glacé]] || <sup>CM</sup> || [[Né du froid]], [[géant du froid]] || Le regard du personnage peut infliger des dégâts de froid
-|-
-| &emsp;[[Rocher glacé]] || <sup>CM</sup> || [[Né du froid]], [[géant du froid]] || Un objet jeté avec lancer de rocher inflige des dégâts supplémentaires de froid
-
-|- CLASS="premier"
-| [[Stable sur la glace]] || <sup>CM</sup> || [[Géant du froid]] || Pas de malus de déplacement sur la glace et les surfaces enneigées
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques

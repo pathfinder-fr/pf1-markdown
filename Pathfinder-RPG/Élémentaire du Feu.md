@@ -192,22 +192,9 @@ marquées en les dessinant à l’aide de fragments de flammes plus
 sombres ou d’amas de fumée, de cendre et de braises.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Élémentaire || Taille || Poids
-|- CLASS="premier"
-| Petit || 1,20 m || ½ kg
-|- CLASS="alt"
-| Moyen || 2,40 m || 1 kg
-|-
-| Grand || 4,20 m || 2 kg
-|- CLASS="alt"
-| Très Grand || 9,60 m || 4 kg
-|-
-| Noble || 10,80 m || 5 kg
-|-
-| Seigneur || 12 m || 6 kg
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Élémentaire</td><td>Taille</td><td>Poids</td></tr><tr CLASS="premier"><td>Petit</td><td>1,20 m</td><td>½ kg</td></tr><tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>1 kg</td></tr><tr><td>Grand</td><td>4,20 m</td><td>2 kg</td></tr><tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>4 kg</td></tr><tr><td>Noble</td><td>10,80 m</td><td>5 kg</td></tr><tr><td>Seigneur</td><td>12 m</td><td>6 kg</td></tr></table></center>
+
 </div>
 
 

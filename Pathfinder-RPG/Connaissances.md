@@ -32,81 +32,9 @@ Le personnage parvient à répondre à une question ayant trait à sa spécialit
 Le personnage peut également utiliser cette compétence pour reconnaître un monstre et identifier ses particularités ou ses points faibles. En général, le [[DD]] du test vaut 10 + le [[FP]] du monstre. Dans le cas de monstres communs (comme des gobelins), le [[DD]] de ce test vaut 5 + le [[FP]] du monstre. Pour des monstres spécialement rares (comme la tarrasque), le [[DD]] de ce test vaut 15 + le [[FP]] du monstre ou plus encore. Un test réussi permet au personnage de se souvenir d’une information utile se rapportant au monstre. Il se rappelle d’une information utile en plus par tranche de 5 points entre son résultat et le [[DD]] du test. Certaines compétences de Connaissances peuvent également être utilisées pour des tâches spécifiques, comme indiqué dans la table ci-après.
 
 <center>
-{| CLASS="tablo"
-|+ DD des tests de Connaissances
-|- CLASS="titre"
-| Tâche || Domaine d’étude || DD
-|- CLASS="premier"
-| Identifier les auras magiques avec un sort de *[[détection de la magie]]* || mystères || 15 + [[niveau de sort|niveau du sort]]
-|- CLASS="alt"
-| Identifier un effet de sort déjà actif || mystères || 20 + [[niveau de sort|niveau du sort]]
-|-
-| Reconnaître des matériaux créés par magie || mystères || 20 + [[niveau de sort|niveau du sort]]
-|- CLASS="alt"
-| Identifier un sort ayant pris le personnage pour cible || mystères || 25 + [[niveau de sort|niveau du sort]]
-|-
-| Identifier un sort lancé en utilisant une composante matérielle || mystères || 20
-|- CLASS="alt"
-| Identifier un danger souterrain || exploration souterraine || 15 + [[FP]] du danger
-|-
-| Identifier un minerai, une roche ou un métal || exploration souterraine || 10
-|- CLASS="alt"
-| Déterminer l’inclinaison d’une pente || exploration souterraine || 15
-|-
-| Déterminer la profondeur à laquelle le personnage se trouve (sous terre) || exploration souterraine || 20
-|- CLASS="alt"
-| Reconnaître une construction dangereuse || ingénierie || 10
-|-
-| Déterminer le style ou l’âge d’un édifice || ingénierie || 15
-|- CLASS="alt"
-| Déterminer les points faibles d’un édifice || ingénierie || 20
-|-
-| Reconnaître l’ethnie ou l’accent d’une créature || géographie || 10
-|- CLASS="alt"
-| Connaître les caractéristiques géographiques d’une région || géographie || 15
-|-
-| Connaître l’emplacement du lieu d’habitation ou du site important le plus proche d’un endroit donné || géographie || 20
-|- CLASS="alt"
-| Connaître un événement récent ou un événement historique important || histoire || 10
-|-
-| Déterminer la date approximative où un événement spécifique a eu lieu || histoire || 15
-|- CLASS="alt"
-| Connaître un événement historique ancien ou mal connu || histoire || 20
-|-
-| Connaître les lois, les dirigeants et les endroits populaires de la région || folklore local || 10
-|- CLASS="alt"
-| Connaître une rumeur assez répandue ou une tradition locale || folklore local || 15
-|-
-| Connaître une organisation secrète, ses dirigeants et savoir comment les rencontrer || folklore local || 20
-|- CLASS="alt"
-| Identifier un danger naturel || nature || 15 + [[FP]] du danger
-|-
-| Identifier une plante ou un animal commun || nature || 10
-|- CLASS="alt"
-| Identifier un phénomène climatique anormal || nature || 15
-|-
-| Reconnaître la main de l’homme dans un élément qui semble naturel || nature || 20
-|- CLASS="alt"
-| Connaître les dirigeants actuels et leurs blasons || noblesse || 10
-|-
-| Connaître les règles de l’étiquette || noblesse || 15
-|- CLASS="alt"
-| Connaître les prétendants au trône || noblesse || 20
-|-
-| Connaître le nom des [[plans]] || plans || 10
-|- CLASS="alt"
-| Reconnaître le [[plans|plan]] sur lequel le personnage se trouve || plans || 15
-|-
-| Identifier l’origine d’une créature provenant d’un autre [[plans|plan]] || plans || 20
-|- CLASS="alt"
-| Reconnaître le symbole d’une divinité courante ou identifier un membre de son clergé || religion || 10
-|-
-| Connaître les grandes lignes de la mythologie et de la doctrine d’une foi || religion || 15
-|- CLASS="alt"
-| Reconnaître le symbole d’une divinité peu connue ou identifier un membre de son clergé || religion || 20
-|-
-| Connaître les capacités et les points faibles d’un monstre || variable || 10 + [[FP]] du monstre
-|}
+
+<table CLASS="tablo"><caption>DD des tests de Connaissances</caption><tr CLASS="titre"><td>Tâche</td><td>Domaine d’étude</td><td>DD</td></tr><tr CLASS="premier"><td>Identifier les auras magiques avec un sort de *[[détection de la magie]]*</td><td>mystères</td><td>15 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Identifier un effet de sort déjà actif</td><td>mystères</td><td>20 + [[niveau de sort|niveau du sort]]</td></tr><tr><td>Reconnaître des matériaux créés par magie</td><td>mystères</td><td>20 + [[niveau de sort|niveau du sort]]</td></tr><tr CLASS="alt"><td>Identifier un sort ayant pris le personnage pour cible</td><td>mystères</td><td>25 + [[niveau de sort|niveau du sort]]</td></tr><tr><td>Identifier un sort lancé en utilisant une composante matérielle</td><td>mystères</td><td>20</td></tr><tr CLASS="alt"><td>Identifier un danger souterrain</td><td>exploration souterraine</td><td>15 + [[FP]] du danger</td></tr><tr><td>Identifier un minerai, une roche ou un métal</td><td>exploration souterraine</td><td>10</td></tr><tr CLASS="alt"><td>Déterminer l’inclinaison d’une pente</td><td>exploration souterraine</td><td>15</td></tr><tr><td>Déterminer la profondeur à laquelle le personnage se trouve (sous terre)</td><td>exploration souterraine</td><td>20</td></tr><tr CLASS="alt"><td>Reconnaître une construction dangereuse</td><td>ingénierie</td><td>10</td></tr><tr><td>Déterminer le style ou l’âge d’un édifice</td><td>ingénierie</td><td>15</td></tr><tr CLASS="alt"><td>Déterminer les points faibles d’un édifice</td><td>ingénierie</td><td>20</td></tr><tr><td>Reconnaître l’ethnie ou l’accent d’une créature</td><td>géographie</td><td>10</td></tr><tr CLASS="alt"><td>Connaître les caractéristiques géographiques d’une région</td><td>géographie</td><td>15</td></tr><tr><td>Connaître l’emplacement du lieu d’habitation ou du site important le plus proche d’un endroit donné</td><td>géographie</td><td>20</td></tr><tr CLASS="alt"><td>Connaître un événement récent ou un événement historique important</td><td>histoire</td><td>10</td></tr><tr><td>Déterminer la date approximative où un événement spécifique a eu lieu</td><td>histoire</td><td>15</td></tr><tr CLASS="alt"><td>Connaître un événement historique ancien ou mal connu</td><td>histoire</td><td>20</td></tr><tr><td>Connaître les lois, les dirigeants et les endroits populaires de la région</td><td>folklore local</td><td>10</td></tr><tr CLASS="alt"><td>Connaître une rumeur assez répandue ou une tradition locale</td><td>folklore local</td><td>15</td></tr><tr><td>Connaître une organisation secrète, ses dirigeants et savoir comment les rencontrer</td><td>folklore local</td><td>20</td></tr><tr CLASS="alt"><td>Identifier un danger naturel</td><td>nature</td><td>15 + [[FP]] du danger</td></tr><tr><td>Identifier une plante ou un animal commun</td><td>nature</td><td>10</td></tr><tr CLASS="alt"><td>Identifier un phénomène climatique anormal</td><td>nature</td><td>15</td></tr><tr><td>Reconnaître la main de l’homme dans un élément qui semble naturel</td><td>nature</td><td>20</td></tr><tr CLASS="alt"><td>Connaître les dirigeants actuels et leurs blasons</td><td>noblesse</td><td>10</td></tr><tr><td>Connaître les règles de l’étiquette</td><td>noblesse</td><td>15</td></tr><tr CLASS="alt"><td>Connaître les prétendants au trône</td><td>noblesse</td><td>20</td></tr><tr><td>Connaître le nom des [[plans]]</td><td>plans</td><td>10</td></tr><tr CLASS="alt"><td>Reconnaître le [[plans|plan]] sur lequel le personnage se trouve</td><td>plans</td><td>15</td></tr><tr><td>Identifier l’origine d’une créature provenant d’un autre [[plans|plan]]</td><td>plans</td><td>20</td></tr><tr CLASS="alt"><td>Reconnaître le symbole d’une divinité courante ou identifier un membre de son clergé</td><td>religion</td><td>10</td></tr><tr><td>Connaître les grandes lignes de la mythologie et de la doctrine d’une foi</td><td>religion</td><td>15</td></tr><tr CLASS="alt"><td>Reconnaître le symbole d’une divinité peu connue ou identifier un membre de son clergé</td><td>religion</td><td>20</td></tr><tr><td>Connaître les capacités et les points faibles d’un monstre</td><td>variable</td><td>10 + [[FP]] du monstre</td></tr></table>
+
 </center>
 
 

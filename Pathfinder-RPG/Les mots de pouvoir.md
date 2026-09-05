@@ -63,64 +63,9 @@ Certaines classe interagissent avec ces règles d’une manière un peu différe
 ### Arranger les mots de pouvoir
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
-{| CLASS="tablo centre autoalt"
-|+ Tableau Combinaisons des mots effet
-|- CLASS="titre"
-| Niveau du mot
-| Un mot effet
-| Deux mots effet
-| Trois mots effet
-|- CLASS="premier"
-| 0
-| 0
-| -
-| -
-|-
-| 1er
-| 1
-| -
-| -
-|-
-| 2ème
-| 2
-| 0/0
-| -
-|-
-| 3ème
-| 3
-| 1/1 ou 2/0
-| 0/0/0
-|-
-| 4ème
-| 4
-| 2/2 ou 3/1
-| 1/1/1 ou 2/0/0
-|-
-| 5ème
-| 5
-| 3/3 ou 4/2
-| 2/2/2 ou 3/1/1
-|-
-| 6ème
-| 6
-| 4/4 ou 5/3
-| 3/3/3 ou 4/2/2
-|-
-| 7ème
-| 7
-| 5/5 ou 6/4
-| 4/4/4 ou 5/3/3
-|-
-| 8ème
-| 8
-| 6/6 ou 7/5
-| 5/5/5 ou 6/4/4
-|-
-| 9ème
-| 9
-| 7/7 ou 8/5
-| 6/6/6 ou 7/5/5
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Tableau Combinaisons des mots effet</caption><tr CLASS="titre"><td>Niveau du mot</td><td>Un mot effet</td><td>Deux mots effet</td><td>Trois mots effet</td></tr><tr CLASS="premier"><td>0</td><td>0</td><td>-</td><td>-</td></tr><tr><td>1er</td><td>1</td><td>-</td><td>-</td></tr><tr><td>2ème</td><td>2</td><td>0/0</td><td>-</td></tr><tr><td>3ème</td><td>3</td><td>1/1 ou 2/0</td><td>0/0/0</td></tr><tr><td>4ème</td><td>4</td><td>2/2 ou 3/1</td><td>1/1/1 ou 2/0/0</td></tr><tr><td>5ème</td><td>5</td><td>3/3 ou 4/2</td><td>2/2/2 ou 3/1/1</td></tr><tr><td>6ème</td><td>6</td><td>4/4 ou 5/3</td><td>3/3/3 ou 4/2/2</td></tr><tr><td>7ème</td><td>7</td><td>5/5 ou 6/4</td><td>4/4/4 ou 5/3/3</td></tr><tr><td>8ème</td><td>8</td><td>6/6 ou 7/5</td><td>5/5/5 ou 6/4/4</td></tr><tr><td>9ème</td><td>9</td><td>7/7 ou 8/5</td><td>6/6/6 ou 7/5/5</td></tr></table>
+
 </div></div>Comme n’importe quel autre membre de sa classe, un lanceur de mots bénéficie toujours de ses emplacements de sorts mais il les utilise différemment. Chacun d’entre eux contient un sort de mots ou lui permet d’en constituer un en arrangeant un certain nombre de mots de pouvoir entre eux. Ces mots de pouvoir ont chacun un niveau associé et, dans certains cas, des restrictions sur la manière de les arranger entre eux. Leur niveau est également le niveau minimum de l’emplacement de sort qui doit être utilisé pour transformer ces mots en sorts.
 
 Si le personnage appartient à une classe qui prépare ses sorts, il doit arranger ses mots de pouvoir en sorts lorsqu’il prépare ses sorts, décider à l’avance de la combinaison exacte qui occupe chacun de ses emplacements de sort et les sorts de mots qui en découlent. S’il appartient à une classe qui peut lancer spontanément ses sorts, comme l’[[ensorceleur]], il peut les arranger au moment où il les utilise.
@@ -196,21 +141,7 @@ Afin d’expliquer ces règles, la section suivante comporte un certain nombre d
 Les [[dons de métamagie]], comme [[Extension deffet|Extension d’effet]] et [[Incantation rapide]], fonctionnent de la même manière sur les sorts de mots que sur les sorts ordinaires. L’augmentation du niveau de sort signifie que le sort utilisé nécessite un emplacement de sort supérieur mais garde l’arrangement de mots du sort affecté. Par exemple, un sort de mots de niveau 3 modifié par le don [[Extension deffet|Extension d’effet]] utilise un emplacement de sort de niveau 5 mais ne peut pas contenir de mots dont le niveau est supérieur à 3. De plus, les lanceurs de mots peuvent choisir les dons suivants afin d’améliorer leurs capacités.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Dons de lanceur de mots
-|- CLASS="titre"
-| WIDTH="22%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="45%" | Avantages
 
-|- CLASS="premier donprincipal"
-| [[Lanceur de sorts expérimental]] || <sup>AM</sup> || Capacité à lancer des sorts || Accès à des sorts de mots mineurs
+<table CLASS="tablo toutgauche"><caption>Dons de lanceur de mots</caption><tr CLASS="titre"><td WIDTH="22%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Lanceur de sorts expérimental]]</td><td><sup>AM</sup></td><td>Capacité à lancer des sorts</td><td>Accès à des sorts de mots mineurs</td></tr><tr CLASS="premier alt donprincipal"><td>[[Maîtrise du méta mot]]</td><td><sup>AM</sup></td><td>Capacité à lancer des sorts de mot</td><td>Trois utilisations de méta mots supplémentaires/jour</td></tr><tr CLASS="premier donprincipal"><td>[[Mot supplémentaire]]</td><td><sup>AM</sup></td><td>Capacité à lancer des sorts de mot, [[NLS]] 1, voir Spécial</td><td>Accès à un mot effet supplémentaire</td></tr></table>
 
-|- CLASS="premier alt donprincipal"
-| [[Maîtrise du méta mot]] || <sup>AM</sup> || Capacité à lancer des sorts de mot || Trois utilisations de méta mots supplémentaires/jour
-
-|- CLASS="premier donprincipal"
-| [[Mot supplémentaire]] || <sup>AM</sup> || Capacité à lancer des sorts de mot, [[NLS]] 1, voir Spécial || Accès à un mot effet supplémentaire
-|}
 </center>

@@ -23,21 +23,7 @@ Les sorts et effets magiques qui prennent le personnage pour cible (et seulement
 Il arrive qu’un sort ne soit que partiellement renvoyé si l’[[abjuration]] n’a plus assez de [[niveau de sort|niveaux de sort]] pour le contrer totalement. Dans ce cas, une simple règle de trois permet de savoir quelle part du sort est renvoyée et quelle part affecte normalement le personnage. Si le sort concerné inflige des dégâts, le personnage et celui qui le prend pour cible sont tous deux blessés, en fonction du résultat donné par la règle de trois. Sinon, chacun d’eux risque d’être affecté (là encore, selon le résultat indiqué). Si le personnage et le lanceur de sorts adverse sont tous deux protégés par un *renvoi des sorts*, un champ de résonance se crée et produit des effets imprévisibles. Jetez 1d100 et consultez la table suivante :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| 1d100
-| CLASS="gauche" | Effet
-|- CLASS="premier"
-| 01–70
-| CLASS="gauche" | Le sort est annulé sans aucun effet.
-|- CLASS="alt"
-| 71–80
-| CLASS="gauche" | Le sort affecte normalement les deux protagonistes.
-|-
-| 81–97
-| CLASS="gauche" | Les deux *renvois des sorts* cessent de fonctionner pendant 1d4 minutes.
-|- CLASS="alt"
-| 98–00
-| CLASS="gauche" | La trame de la réalité se déchire et les deux adversaires sont projetés dans un autre plan d’existence.
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>1d100</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>01–70</td><td CLASS="gauche">Le sort est annulé sans aucun effet.</td></tr><tr CLASS="alt"><td>71–80</td><td CLASS="gauche">Le sort affecte normalement les deux protagonistes.</td></tr><tr><td>81–97</td><td CLASS="gauche">Les deux *renvois des sorts* cessent de fonctionner pendant 1d4 minutes.</td></tr><tr CLASS="alt"><td>98–00</td><td CLASS="gauche">La trame de la réalité se déchire et les deux adversaires sont projetés dans un autre plan d’existence.</td></tr></table>
+
 </center>

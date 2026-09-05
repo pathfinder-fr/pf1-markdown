@@ -11,54 +11,9 @@ Categories:
 
 Dans les siècles suivants, la plupart des seigneurs de l'arche ont suivi des méthodes moins radicales pour accomplir la volonté du Roi-Mage. Les seigneurs de l'arche ont inventé et raffiné les mises en œuvre pratiques des [[créatures artificielles]] magiques, de l'[[invocation]], et de l'éducation, en fondant la légendaire école de l'archimage, qui est la plus grande école de magie au monde. Dans la capitale de la Grande magiocratie, l'ancien exil des seigneurs de l'arche a depuis longtemps été oublié. Le but des seigneurs de l'arche est aussi subtil que simple – ils veulent devenir, eux et leur magie (et dans un sens plus large, toute les formes de magie) un pilier indispensable et irremplaçable pour les communautés et sociétés du monde entier. De cette manière, ils ont acquis des positions d'influence et de dirigeants qui leur avaient échappées lorsqu'ils essayèrent de prendre directement le pouvoir, et leur voix est désormais forte et persuasive dans toutes les cours du continent.''
 
-{| CLASS="tablo centre autoalt"
-|+ Le seigneur de l'arche
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
 
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Seigneur de larche du Nex#PEDAGOGUEMYSTIQUE|Pédagogue mystique]], [[Seigneur de larche du Nex#TROISIEMEOEIL|troisième œil]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Seigneur de larche du Nex#TOUCHERDELARTISAN|Toucher de l'artisan]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 3 || +1 || +1 || +2 || +2
-| CLASS="gauche" |  [[Seigneur de larche du Nex#SCHOLIASTE|Scholiaste]] 1
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Seigneur de larche du Nex#ARCHITECTEMAGIQUE|Architecte magique]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Seigneur de larche du Nex#SCIENCEDUTROISIEMEOEIL|Science du troisième œil]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Seigneur de larche du Nex#SCHOLIASTE|Scholiaste]] 2
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Seigneur de larche du Nex#EXTENSIONEXTRADIMENSIONNELLE|Extension extra-dimensionnelle]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Seigneur de larche du Nex#APPELALAIDE|Appel à l'aide]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[Seigneur de larche du Nex#SCHOLIASTE|Scholiaste]] 3
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Seigneur de larche du Nex#TROISIEMEOEILSUPERIEUR|Troisième œil supérieur]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|}
+<table CLASS="tablo centre autoalt"><caption>Le seigneur de l'arche</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Seigneur de larche du Nex#PEDAGOGUEMYSTIQUE|Pédagogue mystique]], [[Seigneur de larche du Nex#TROISIEMEOEIL|troisième œil]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur de larche du Nex#TOUCHERDELARTISAN|Toucher de l'artisan]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur de larche du Nex#SCHOLIASTE|Scholiaste]] 1</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Seigneur de larche du Nex#ARCHITECTEMAGIQUE|Architecte magique]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Seigneur de larche du Nex#SCIENCEDUTROISIEMEOEIL|Science du troisième œil]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Seigneur de larche du Nex#SCHOLIASTE|Scholiaste]] 2</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Seigneur de larche du Nex#EXTENSIONEXTRADIMENSIONNELLE|Extension extra-dimensionnelle]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Seigneur de larche du Nex#APPELALAIDE|Appel à l'aide]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Seigneur de larche du Nex#SCHOLIASTE|Scholiaste]] 3</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Seigneur de larche du Nex#TROISIEMEOEILSUPERIEUR|Troisième œil supérieur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr></table>
+
 
 **Dé de vie.** d6.
 

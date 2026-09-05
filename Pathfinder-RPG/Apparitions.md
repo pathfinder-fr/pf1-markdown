@@ -49,54 +49,9 @@ Les apparitions se présentent selon le profil suivant :
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|+ Modificateurs de FP des apparitions
-|- CLASS="titre"
-| Type || Modificateur au FP
-|- CLASS="premier"
-| Persistante || +2
-|-
-|- CLASS="titre"
-| DD de répérage
-|- CLASS="premier"
-| 15 ou moins || ‑1
-|- CLASS="alt"
-| 16-20 || —
-|-
-| 21-25 || +1
-|- CLASS="alt"
-| 26-29 || +2
-|-
-| 30 ou plus || +3
-|-
-|- CLASS="titre"
-| Délai de réinitialisation
-|- CLASS="premier"
-| 1 minute || +2
-|- CLASS="alt"
-| 1 heure || +1
-|-
-| 1 jour || +0
-|- CLASS="alt"
-| 1 semaine || ‑1
-|-
-|- CLASS="titre"
-| Exemple de faiblesses
-|- CLASS="premier"
-| Lent (se manifeste avec une initiative de 0) || ‑2
-|- CLASS="alt"
-| Sensible à un type de dégâts supplémentaire || ‑1 par type
-|-
-| Leurré par *[[invisibilité pour les morts-vivants]]* || ‑2
-|- CLASS="alt"
-| Leurré par *[[invisibilité]]* || ‑1
-|-
-| Leurré par la [[Discrétion]]* || ‑3
-|- CLASS="alt"
-| Se déclenche par contact || ‑2
-|-
-| CLASS="note" COLSPAN="2" | * L’apparition fait un test de niveau de lanceur de sorts au lieu d’un{br} test de [[Perception]] quand elle tente de repérer quelqu’un qui use{br} de [[Discrétion]].
-|}
+
+<table CLASS="tablo"><caption>Modificateurs de FP des apparitions</caption><tr CLASS="titre"><td>Type</td><td>Modificateur au FP</td></tr><tr CLASS="premier"><td>Persistante</td><td>+2</td></tr><tr CLASS="titre"><td>DD de répérage</td></tr><tr CLASS="premier"><td>15 ou moins</td><td>‑1</td></tr><tr CLASS="alt"><td>16-20</td><td>—</td></tr><tr><td>21-25</td><td>+1</td></tr><tr CLASS="alt"><td>26-29</td><td>+2</td></tr><tr><td>30 ou plus</td><td>+3</td></tr><tr CLASS="titre"><td>Délai de réinitialisation</td></tr><tr CLASS="premier"><td>1 minute</td><td>+2</td></tr><tr CLASS="alt"><td>1 heure</td><td>+1</td></tr><tr><td>1 jour</td><td>+0</td></tr><tr CLASS="alt"><td>1 semaine</td><td>‑1</td></tr><tr CLASS="titre"><td>Exemple de faiblesses</td></tr><tr CLASS="premier"><td>Lent (se manifeste avec une initiative de 0)</td><td>‑2</td></tr><tr CLASS="alt"><td>Sensible à un type de dégâts supplémentaire</td><td>‑1 par type</td></tr><tr><td>Leurré par *[[invisibilité pour les morts-vivants]]*</td><td>‑2</td></tr><tr CLASS="alt"><td>Leurré par *[[invisibilité]]*</td><td>‑1</td></tr><tr><td>Leurré par la [[Discrétion]]*</td><td>‑3</td></tr><tr CLASS="alt"><td>Se déclenche par contact</td><td>‑2</td></tr><tr><td CLASS="note" COLSPAN="2">* L’apparition fait un test de niveau de lanceur de sorts au lieu d’un{br} test de [[Perception]] quand elle tente de repérer quelqu’un qui use{br} de [[Discrétion]].</td></tr></table>
+
 </center></div></div>
 
 Voici les étapes à suivre pour créer une apparition comme celle donnée dans l’exemple ci‑contre.

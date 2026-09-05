@@ -40,31 +40,9 @@ Categories:
 {s:BDTexte|**Maladie (Sur).** Fièvre des goules : voir *Bestiaire Pathfinder* p. [[Goule|173]])}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de goule
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chauve-souris aile de suie]] || 1/2
-|-
-| [[Molosse goule]] || 1
-|-
-| [[Goule]] || 1
-|-
-| [[Goule sournoise]] || 3
-|-
-| [[Goule traqueuse]] || 6
-|-
-| [[Grand-veneur goule]] || 7
-|-
-| [[Assassin masqué]] || 8
-|-
-| [[Commandant goule]] || 8
-|-
-| [[Antique fossoyeur]] || 10
-|-
-| [[Monarque goule]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de goule</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris aile de suie]]</td><td>1/2</td></tr><tr><td>[[Molosse goule]]</td><td>1</td></tr><tr><td>[[Goule]]</td><td>1</td></tr><tr><td>[[Goule sournoise]]</td><td>3</td></tr><tr><td>[[Goule traqueuse]]</td><td>6</td></tr><tr><td>[[Grand-veneur goule]]</td><td>7</td></tr><tr><td>[[Assassin masqué]]</td><td>8</td></tr><tr><td>[[Commandant goule]]</td><td>8</td></tr><tr><td>[[Antique fossoyeur]]</td><td>10</td></tr><tr><td>[[Monarque goule]]</td><td>12</td></tr></table>
+
 </div> Cette créature aux allures de chauve-souris a des pointes acérées au bout des ailes et une longue langue cinglante.
 
 Les mages goules adoptent ces cousins de petite taille des [[Skaveling|skavelings]] comme familiers. Un lanceur de sorts Mauvais peut choisir une chauve-souris aile de suie comme familier à partir du niveau 5 s’il possède le don [[Familier supérieur]]. Ce familier lui donne un bonus de +1 à la [[Résistance à la canalisation (capacité)|résistance à la canalisation]] (s’il possède une telle résistance).

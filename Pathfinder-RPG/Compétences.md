@@ -12,132 +12,9 @@ Categories:
 ### Acquérir des compétences
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Points de compétence
-|- CLASS="titre"
-| Classe
-| Points de compétence par niveau
-|- CLASS="premier"
-| [[Alchimiste]]<sup>APG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Arcaniste]]<sup>ACG</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Barbare]]
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Barde]]
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Bretteur]]<sup>ACG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Chaman]]<sup>ACG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Chasseur]]<sup>ACG</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Chasseur de vampire]]<sup>WoVH</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Chevalier]]<sup>APG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Cinétiste]]<sup>AO</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Conjurateur]]<sup>APG</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Druide]]
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Enquêteur]]<sup>ACG</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Ensorceleur]]
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Guerrier]]
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Hypnotiseur]]<sup>AO</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Inquisiteur]]<sup>APG</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Justicier]]<sup>UI</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Lutteur]]<sup>ACG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Magicien]]
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Magus]]<sup>AM</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Médium]]<sup>AO</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Métamorphe]]<sup>UW</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Moine]]
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Ninja]]<sup>UC</sup>
-| 8 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Occultiste]]<sup>AO</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Oracle]]<sup>APG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Paladin]]/[[Antipaladin]]<sup>APG</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Pistolier]]<sup>UC</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Prêtre]]
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Prêtre combattant]]<sup>ACG</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Psychiste]]<sup>AO</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Rôdeur]]
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Roublard]]
-| 8 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Samouraï]]<sup>UC</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Sanguin]]<sup>ACG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Scalde]]<sup>ACG</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Sorcière]]<sup>APG</sup>
-| 2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Spirite]]<sup>AO</sup>
-| 4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|-
-| [[Tueur]]<sup>ACG</sup>
-| 6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Points de compétence</caption><tr CLASS="titre"><td>Classe</td><td>Points de compétence par niveau</td></tr><tr CLASS="premier"><td>[[Alchimiste]]<sup>APG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Arcaniste]]<sup>ACG</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Barbare]]</td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Barde]]</td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Bretteur]]<sup>ACG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Chaman]]<sup>ACG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Chasseur]]<sup>ACG</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Chasseur de vampire]]<sup>WoVH</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Chevalier]]<sup>APG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Cinétiste]]<sup>AO</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Conjurateur]]<sup>APG</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Druide]]</td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Enquêteur]]<sup>ACG</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Ensorceleur]]</td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Guerrier]]</td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Hypnotiseur]]<sup>AO</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Inquisiteur]]<sup>APG</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Justicier]]<sup>UI</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Lutteur]]<sup>ACG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Magicien]]</td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Magus]]<sup>AM</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Médium]]<sup>AO</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Métamorphe]]<sup>UW</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Moine]]</td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Ninja]]<sup>UC</sup></td><td>8 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Occultiste]]<sup>AO</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Oracle]]<sup>APG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Paladin]]/[[Antipaladin]]<sup>APG</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Pistolier]]<sup>UC</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Prêtre]]</td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Prêtre combattant]]<sup>ACG</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Psychiste]]<sup>AO</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Rôdeur]]</td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Roublard]]</td><td>8 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Samouraï]]<sup>UC</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Sanguin]]<sup>ACG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Scalde]]<sup>ACG</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Sorcière]]<sup>APG</sup></td><td>2 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Spirite]]<sup>AO</sup></td><td>4 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr><tr><td>[[Tueur]]<sup>ACG</sup></td><td>6 + [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]</td></tr></table>
+
 </div></div>
 Chaque fois qu’il gagne un [[niveau]], le personnage reçoit un nombre de points de compétence qui dépend de sa [[classes|classe]] et de son [[Caractéristiques#TABLEAUCARACTERISTIQUES|modificateur]] d'[[Intelligence]]. Chaque point investi dans une compétence représente une certaine formation, un entraînement dans l’utilisation de cette compétence. Le nombre de points investis dans une compétence (le **rang** ou **degré de maîtrise** de cette compétence) ne peut jamais dépasser le nombre total de [[dés de vie]] du personnage.
 
@@ -153,23 +30,9 @@ Chaque point de compétence investi dans une compétence donne un bonus de +1 au
 
 Si le résultat du [[test]] de compétence est égal ou supérieur au [[degré de difficulté]] (ou [[DD]]) de la tâche que vous tentez d’accomplir, c’est une réussite. S’il est inférieur au [[DD]], c’est un échec. Certaines tâches peuvent se solder par différents niveaux de réussite ou d’échec selon la différence entre le résultat de votre test et le [[DD]]. Parfois, le résultat du [[test]] n’est pas comparé à un [[DD]] fixé mais au résultat d’un autre [[test]] de compétence. Ces « [[test|tests]] de compétence opposés » se soldent par une réussite si le résultat de votre [[test]] dépasse celui de la cible.
 
-{| CLASS="tablo centre autoalt"
-|+ Bonus des tests de compétence
-|- CLASS="titre"
-| Compétence
-| CLASS="gauche" | Le résultat du test de compétence* vaut…
-|- CLASS="premier"
-| sans formation
-| CLASS="gauche" | 1d20 + modificateur de caractéristique + modificateur racial
-|-
-| avec formation, hors classe
-| CLASS="gauche" | 1d20 + rang + modificateur de caractéristique + modificateur racial
-|-
-| avec formation, de classe
-| CLASS="gauche" | 1d20 + rang + modificateur de caractéristique + modificateur racial + 3
-|-
-| COLSPAN="3" CLASS="note" | *(*) La pénalité d'armure s'applique à tous les tests de compétence associés à la Force ou à la Dextérité.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Bonus des tests de compétence</caption><tr CLASS="titre"><td>Compétence</td><td CLASS="gauche">Le résultat du test de compétence* vaut…</td></tr><tr CLASS="premier"><td>sans formation</td><td CLASS="gauche">1d20 + modificateur de caractéristique + modificateur racial</td></tr><tr><td>avec formation, hors classe</td><td CLASS="gauche">1d20 + rang + modificateur de caractéristique + modificateur racial</td></tr><tr><td>avec formation, de classe</td><td CLASS="gauche">1d20 + rang + modificateur de caractéristique + modificateur racial + 3</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) La pénalité d'armure s'applique à tous les tests de compétence associés à la Force ou à la Dextérité.*</td></tr></table>
+
 
 {s:Reference|FAIRE10}
 #### Faire 10 ou faire 20

@@ -39,21 +39,9 @@ LastModified: 2022-09-16 10:18
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de créature distordue
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Drider]] || 7
-|-
-| [[Ghonhatine]] || 10
-|-
-| [[Grothlut]] || 3
-|-
-| [[Halsora]] || 7
-|-
-| [[Irnakurse]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de créature distordue</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Drider]]</td><td>7</td></tr><tr><td>[[Ghonhatine]]</td><td>10</td></tr><tr><td>[[Grothlut]]</td><td>3</td></tr><tr><td>[[Halsora]]</td><td>7</td></tr><tr><td>[[Irnakurse]]</td><td>9</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Créature distordue, archétype|Créature distordue]].***</li></ul>*Cette créature pâle et luisante, ressemblant à une limace, affiche un regard vide tandis que, la bave aux lèvres, elle laisse s’échapper une plainte monotone.*
 
 

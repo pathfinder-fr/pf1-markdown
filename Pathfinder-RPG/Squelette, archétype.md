@@ -15,53 +15,9 @@ Categories:
 - **FP.** Selon le nombre de [[DV]] voir la table suivante.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ Table du FP du squelette
-|- CLASS="titre"
-| class="gauche" | DV
-| FP
-| PX
-|- CLASS="premier"
-| class="gauche" | 1/2
-| 1/6
-| 65
-|- CLASS="alt"
-| class="gauche" | 1
-| 1/3
-| 135
-|-
-| class="gauche" | 2-3
-| 1
-| 400
-|- CLASS="alt"
-| class="gauche" | 4-5
-| 2
-| 600
-|-
-| class="gauche" | 6-7
-| 3
-| 800
-|- CLASS="alt"
-| class="gauche" | 8-9
-| 4
-| 1200
-|-
-| class="gauche" | 10-11
-| 5
-| 1600
-|- CLASS="alt"
-| class="gauche" | 12-14
-| 6
-| 2400
-|-
-| class="gauche" | 15-17
-| 7
-| 3200
-|- CLASS="alt"
-| class="gauche" | 18-20
-| 8
-| 4800
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>Table du FP du squelette</caption><tr CLASS="titre"><td class="gauche">DV</td><td>FP</td><td>PX</td></tr><tr CLASS="premier"><td class="gauche">1/2</td><td>1/6</td><td>65</td></tr><tr CLASS="alt"><td class="gauche">1</td><td>1/3</td><td>135</td></tr><tr><td class="gauche">2-3</td><td>1</td><td>400</td></tr><tr CLASS="alt"><td class="gauche">4-5</td><td>2</td><td>600</td></tr><tr><td class="gauche">6-7</td><td>3</td><td>800</td></tr><tr CLASS="alt"><td class="gauche">8-9</td><td>4</td><td>1200</td></tr><tr><td class="gauche">10-11</td><td>5</td><td>1600</td></tr><tr CLASS="alt"><td class="gauche">12-14</td><td>6</td><td>2400</td></tr><tr><td class="gauche">15-17</td><td>7</td><td>3200</td></tr><tr CLASS="alt"><td class="gauche">18-20</td><td>8</td><td>4800</td></tr></table>
+
 </center>
 
 - **Alignement.** Toujours Neutre Mauvais.
@@ -69,30 +25,9 @@ Categories:
 - **CA.** Le bonus d'armure naturelle change comme indiqué dans le tableau suivant.
 
 <center>
-{| CLASS="tablo"
-|+ Tableau de bonus d'armure du squelette
-|- CLASS="titre"
-| class="gauche" | taille du squelette
-| Bonus d'armure naturelle
-|- CLASS="premier"
-| class="gauche" | Très Petit ou plus petit
-| +0
-|- CLASS="alt"
-| class="gauche" | Petit
-| +1
-|-
-| class="gauche" | Moyen ou Grand
-| +2
-|- CLASS="alt"
-| class="gauche" | Très Grand
-| +3
-|-
-| class="gauche" | Gigantesque
-| +6
-|- CLASS="alt"
-| class="gauche" | Colossal
-| +10
-|}
+
+<table CLASS="tablo"><caption>Tableau de bonus d'armure du squelette</caption><tr CLASS="titre"><td class="gauche">taille du squelette</td><td>Bonus d'armure naturelle</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>+0</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td>+1</td></tr><tr><td class="gauche">Moyen ou Grand</td><td>+2</td></tr><tr CLASS="alt"><td class="gauche">Très Grand</td><td>+3</td></tr><tr><td class="gauche">Gigantesque</td><td>+6</td></tr><tr CLASS="alt"><td class="gauche">Colossal</td><td>+10</td></tr></table>
+
 </center>
 
 - **DV.** Le squelette perd tous les [[DV]] correspondant à des niveaux de classes et ses DV raciaux deviennent des d8. Si la créature de base ne possède aucun DV racial, le squelette, lui, en a 1. Si la créature de base a plus de 20 DV, elle ne peut pas être transformée en squelette par un sort d<nowiki>'</nowiki>*[[animation des morts]]*. Le squelette utilise son modificateur de [[Charisme]] (au lieu de celui de [[Constitution]]) pour déterminer ses points de vie supplémentaires.

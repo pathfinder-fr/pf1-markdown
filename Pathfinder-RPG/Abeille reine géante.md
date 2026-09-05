@@ -39,15 +39,9 @@ Categories:
 {s:BDTexte|**Vulnérable à la fumée (Ext).** La fumée créée par des feux ou des effets qui en produisent beaucoup (comme un sort de *[[pyrotechnie]]*) rend [[fiévreux|fiévreuses]] les abeilles géantes qui ratent un [[jet de sauvegarde|jet de Vigueur]] de [[DD]] 14. Cet état préjudiciable s’applique tant que l’abeille reste dans la fumée et persiste 1d4 [[round|rounds]] supplémentaires après qu’elle en soit sortie.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'abeille
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Abeille géante]] || 1
-|-
-| [[Abeille reine géante]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'abeille</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Abeille géante]]</td><td>1</td></tr><tr><td>[[Abeille reine géante]]</td><td>5</td></tr></table>
+
 </div>*Cette [[abeille géante]] de la taille d’un cheval est anormalement grosse. Son corps est couvert de zébrures brun clair.*
 
 Les reines géantes semblent enflées et robustes à côté des autres spécimens de leur espèce. Ce sont d’immenses femelles fertiles que leur taille supérieure et leurs zébrures plus claires permettent d’identifier facilement. Elles peuvent atteindre une longueur de 3,60 mètres et un poids de 70 kg.

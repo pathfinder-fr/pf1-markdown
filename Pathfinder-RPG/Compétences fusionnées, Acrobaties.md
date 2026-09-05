@@ -17,28 +17,9 @@ Categories:
 **Modificateurs d’Acrobaties.** Les circonstances indiquées dans la table ci-dessous appliquent des modificateurs aux [[DD]] des tests d’Acrobaties. Les modificateurs issus de différentes catégories (surface glissante, en pente, etc.) se cumulent entre eux mais, au sein d’une même catégorie, seul le modificateur le plus important s’applique.
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Circonstances du test d’Acrobaties || Modificateur au DD
-|- CLASS="premier"
-| Surface légèrement encombrée (sable, graviers) || +2
-|-
-| Surface très encombrée (sol d’une caverne, gravats) || +5
-|-
-| Surface légèrement glissante (sol humide) || +2
-|-
-| Surface très glissante (glace) || +5
-|-
-| Surface légèrement en pente (moins de 45°) || +2
-|-
-| Surface en pente forte (plus de 45°) || +5
-|-
-| Surface légèrement instable (bateau sur des eaux agitées) || +2
-|-
-| Surface modérément instable (navire pris dans une tempête) || +5
-|-
-| Surface extrêmement instable (tremblement de terre) || +10
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances du test d’Acrobaties</td><td>Modificateur au DD</td></tr><tr CLASS="premier"><td>Surface légèrement encombrée (sable, graviers)</td><td>+2</td></tr><tr><td>Surface très encombrée (sol d’une caverne, gravats)</td><td>+5</td></tr><tr><td>Surface légèrement glissante (sol humide)</td><td>+2</td></tr><tr><td>Surface très glissante (glace)</td><td>+5</td></tr><tr><td>Surface légèrement en pente (moins de 45°)</td><td>+2</td></tr><tr><td>Surface en pente forte (plus de 45°)</td><td>+5</td></tr><tr><td>Surface légèrement instable (bateau sur des eaux agitées)</td><td>+2</td></tr><tr><td>Surface modérément instable (navire pris dans une tempête)</td><td>+5</td></tr><tr><td>Surface extrêmement instable (tremblement de terre)</td><td>+10</td></tr></table>
+
 </center>
 
 **Spécial.** Un personnage qui possède 3 rangs ou plus en Acrobaties bénéficie d’un bonus d’esquive de +3 à la [[CA]] lorsqu’il [[combat sur la défensive]] (au lieu du bonus normal de +2) et d’un bonus d’esquive de +6 à la CA lorsqu’il se met en [[défense totale]] (au lieu du bonus normal de +4).
@@ -60,22 +41,11 @@ Cette fonction de la compétence Acrobaties s’utilise comme la compétence de 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Largeur de la  
-surface || DD du test  
-d’Acrobaties
-|- CLASS="premier"
-| Plus de 90 cm || 0
-|-
-| Entre 30 et 90 cm || 5
-|-
-| Entre 15 et 30 cm || 10
-|-
-| Entre 5 et 15 cm || 15
-|-
-| Moins de 5 cm || 20
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Largeur de la  
+surface</td><td>DD du test  
+d’Acrobaties</td></tr><tr CLASS="premier"><td>Plus de 90 cm</td><td>0</td></tr><tr><td>Entre 30 et 90 cm</td><td>5</td></tr><tr><td>Entre 15 et 30 cm</td><td>10</td></tr><tr><td>Entre 5 et 15 cm</td><td>15</td></tr><tr><td>Moins de 5 cm</td><td>20</td></tr></table>
+
 </center></div></div>Le personnage peut effectuer un test d’Acrobaties pour garder l’équilibre lorsqu’il se déplace sur une surface étroite ou sur un sol irrégulier. S’il rate son test, il chute et tombe [[à terre]]. Le personnage se déplace à mi-vitesse lorsqu’il tente de garder l’équilibre, mais il peut se déplacer à sa vitesse normale s’il augmente le [[DD]] de 5. Il est considéré comme [[pris au dépourvu]] quand il tente de garder l’équilibre. Un seul test de la sorte suffit chaque [[round]] mais, si le personnage subit des dégâts, il doit effectuer un autre test contre le même DD. Il n’a pas besoin d’effectuer un test si le DD est inférieur à 10 mais les modificateurs peuvent faire passer un petit DD au-delà de 9.
 
 **Action.** Aucune.
@@ -91,19 +61,14 @@ Cette fonction de la compétence Acrobaties s’utilise comme la compétence de 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Déplacement prévu || DD du test  
-d’Acrobaties
-|- CLASS="premier"
-| Traverser une [[espace contrôlé|zone contrôlée]]  
-par un ennemi || [[DMD]] de  
-l’ennemi
-|-
-| Traverser l’[[espace contrôlé|espace occupé]]  
-par un ennemi || [[DMD]] de  
-l’ennemi + 5
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Déplacement prévu</td><td>DD du test  
+d’Acrobaties</td></tr><tr CLASS="premier"><td>Traverser une [[espace contrôlé|zone contrôlée]]  
+par un ennemi</td><td>[[DMD]] de  
+l’ennemi</td></tr><tr><td>Traverser l’[[espace contrôlé|espace occupé]]  
+par un ennemi</td><td>[[DMD]] de  
+l’ennemi + 5</td></tr></table>
+
 </center></div></div>Le personnage peut effectuer un test d’Acrobaties pour traverser l’[[espace contrôlé]] par des ennemis sans provoquer d’[[AO|attaque d’opportunité]]. S’il rate ce test, il arrête son déplacement et provoque une attaque d’opportunité de la part de l’adversaire qui contrôle l’espace. Le personnage se déplace à mi-vitesse lorsqu’il effectue des acrobaties en combat mais il peut se déplacer à sa vitesse normale s’il augmente le [[DD]] de 10. S’il tente de se faufiler à côté de plusieurs ennemis lors du même [[round]], il doit effectuer un test d’Acrobaties contre chacun d’eux. Le DD augmente de 2 par adversaire au-delà du premier.
 
 **Action.** Aucune.
@@ -125,26 +90,13 @@ La réussite d’un test d’Acrobaties [[DD]] 30 permet au personnage de se fau
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Entraves || DD du test  
-d’Acrobaties
-|- CLASS="premier"
-| [[Corde (objet)|Corde]], personnage  
-ligoté || 20 + [[BMO]] de celui qui  
-a ligoté le personnage
-|-
-| [[Filet (arme)|Filet]], *[[corde animée]]* || 20
-|-
-| *[[Collet]]* || 23
-|-
-| [[Menottes (objet)|Menottes]] || 30
-|-
-| [[Menottes (objet)|Menottes de qualité  
-supérieure]] || 35
-|-
-| Situation de [[lutte]] || DMD de l’adversaire
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Entraves</td><td>DD du test  
+d’Acrobaties</td></tr><tr CLASS="premier"><td>[[Corde (objet)|Corde]], personnage  
+ligoté</td><td>20 + [[BMO]] de celui qui  
+a ligoté le personnage</td></tr><tr><td>[[Filet (arme)|Filet]], *[[corde animée]]*</td><td>20</td></tr><tr><td>*[[Collet]]*</td><td>23</td></tr><tr><td>[[Menottes (objet)|Menottes]]</td><td>30</td></tr><tr><td>[[Menottes (objet)|Menottes de qualité  
+supérieure]]</td><td>35</td></tr><tr><td>Situation de [[lutte]]</td><td>DMD de l’adversaire</td></tr></table>
+
 </center></div></div>Il faut réussir un test d’Acrobaties pour se libérer de ses liens et se soustraire à une [[agrippé|étreinte]] ou un [[enchevêtré|enchevêtrement]]. Le personnage peut effectuer un test d’Acrobaties à la place d’un [[BMO|test de manœuvre offensive]] pour se libérer d’une étreinte ou d’une immobilisation en situation de [[lutte]].
 
 **Action.** Il faut une minute pour se libérer d’entraves, une [[action complexe]] pour échapper à un filet ou aux sorts indiqués et une [[action simple]] pour échapper à une étreinte ou une immobilisation en situation de lutte.

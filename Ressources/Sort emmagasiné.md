@@ -21,26 +21,9 @@ Un sort emmagasiné nécessite au minimum un emplacement de sort supérieur de d
 **Normal.** Seuls quelques rares sorts peuvent êtres lancés par une [[Pathfinder-RPG.action rapide|action rapide]], ainsi que les sorts lancé avec le don [[Pathfinder-RPG.incantation rapide|incantation rapide]].
 
 <center>
-{| CLASS="tablo"
-|+    Retard maximal d'un sort emmagasiné      
-|- CLASS="titre"
-| Niveau de   
+
+<table CLASS="tablo"><caption>Retard maximal d'un sort emmagasiné      </caption><tr CLASS="titre"><td>Niveau de   
 l'emplacement   
-utilisé || Retard   
+utilisé</td><td>Retard   
 maximal   
-du sort
-|- CLASS="premier"
-| Niveau +2  || 3 rounds
-|- CLASS="alt"
-| Niveau +3  || 5 rounds
-|-
-| Niveau +4  || 7 rounds
-|- CLASS="alt"
-| Niveau +5  || 9 rounds
-|-
-| Niveau +6  || 11 rounds
-|- CLASS="alt"
-| Niveau +7  || 13 rounds
-|-
-| Niveau +8  || 15 rounds
-|}
+du sort</td></tr><tr CLASS="premier"><td>Niveau +2</td><td>3 rounds</td></tr><tr CLASS="alt"><td>Niveau +3</td><td>5 rounds</td></tr><tr><td>Niveau +4</td><td>7 rounds</td></tr><tr CLASS="alt"><td>Niveau +5</td><td>9 rounds</td></tr><tr><td>Niveau +6</td><td>11 rounds</td></tr><tr CLASS="alt"><td>Niveau +7</td><td>13 rounds</td></tr><tr><td>Niveau +8</td><td>15 rounds</td></tr></table>

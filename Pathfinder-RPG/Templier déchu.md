@@ -8,42 +8,9 @@ LastModified: 2025-07-29 23:54
 Voici ce que dit le Serment des croisés, le serment sacré que toutes les nouvelles recrues du combat contre la Faille démoniaque doivent prêter et que les croisés répètent tous les ans, le 6 Arodus. Mais dans bien des cas, ce ne sont que des mensonges car nombre de ceux qui brandissent leur épée au nom de la croisade de l'Héritière ne servent en fait que leurs propres ambitions.
 Après avoir servi un temps dans les croisades, certaines personnes deviennent si douées pour suivre la loi à la lettre sans négliger leurs propres intérêts qu’elles deviennent des templiers déchus. Sous couvert de sainteté elles nagent entre deux eaux, entre héroïsme et banditisme. L’Église de l'Héritière lutte constamment pour que ses croisés restent des gens honnêtes, mais face à la puissance destructrice d’une armée de démons, elle est parfois obligée de choisir le moindre des deux maux.
 
-{| CLASS="tablo centre autoalt"
-|+ Le Templier parjure
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [[Templier déchu#ALLEGEANCEMOUVANTE|Allégeance mouvante]], [[Templier déchu#CROISE|Croisé]] +1
-|-
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Templier déchu#COMBATDELOYAL|Combat déloyal]]
-|-
-| 3 || +3 || +1 || +2 || +1
-| CLASS="gauche" | [[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +1d6
-|-
-| 4 || +4 || +1 || +2 || +1
-| CLASS="gauche" | [[Templier déchu#CROISE|Croisé]] +2
-|-
-| 5 || +5 || +2 || +3 || +2
-| CLASS="gauche" | [[Templier déchu#VIVREPOURSEBATTREPLUSTARD|Vivre pour se battre plus tard]];[[Templier déchu#VOIEDELALUMIRE|Voie des ténèbres/voie de la lumière]]
-|-
-| 6 || +6 || +2 || +3 || +2
-| CLASS="gauche" | [[Templier déchu#IMPOTOYABLE|Impitoyable]]
-|-
-| 7 || +7 || +2 || +4 || +2
-| CLASS="gauche" | [[Templier déchu#CROISE|Croisé]] +3
-|-
-| 8 || +8 || +3 || +4 || +3
-| CLASS="gauche" | [[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +2d6
-|-
-| 9 || +9 || +3 || +5 || +3
-| CLASS="gauche" | [[Templier déchu#TRAITDADIEU|Trait d’adieu]]
-|-
-| 10 || +10 || +3 || +5 || +3
-| CLASS="gauche" | [[Templier déchu#CROISE|Croisé]] +4, [[Templier déchu#REDEMPTION|Damnation/rédemption]]
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Le Templier parjure</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Templier déchu#ALLEGEANCEMOUVANTE|Allégeance mouvante]], [[Templier déchu#CROISE|Croisé]] +1</td></tr><tr><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Templier déchu#COMBATDELOYAL|Combat déloyal]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +1d6</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +2</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Templier déchu#VIVREPOURSEBATTREPLUSTARD|Vivre pour se battre plus tard]];[[Templier déchu#VOIEDELALUMIRE|Voie des ténèbres/voie de la lumière]]</td></tr><tr><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Templier déchu#IMPOTOYABLE|Impitoyable]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +3</td></tr><tr><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Templier déchu#ATTAQUESOURNOISE|Attaque sournoise]] +2d6</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Templier déchu#TRAITDADIEU|Trait d’adieu]]</td></tr><tr><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Templier déchu#CROISE|Croisé]] +4, [[Templier déchu#REDEMPTION|Damnation/rédemption]]</td></tr></table>
+
 **Dés de vie.** d10
 
 ### Conditions
@@ -79,22 +46,9 @@ Le templier parjure possède un don particulier pour se ranger du côté des vai
 {s:Reference|COMBATDELOYAL}
 #### Combat déloyal (Ext)
 Le templier parjure mélange le noble style de combat des terrains de joute et de la chevalerie avec le genre déloyal et opportuniste des bagarres de taverne. Il ne recule devant aucune ruse. Il ne souffre jamais d’un malus au jet d’attaque quand il utilise une arme improvisée et bénéficie d’un bonus de +2 quand il fait un test de manoeuvre offensive. De plus, quand il réussit un coup critique, il peut choisir d’infliger des dégâts normaux. Dans ce cas, il lance un d6 et remplace les dégâts supplémentaires dus au critique par le résultat indiqué dans la table suivante.
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| d6 || Résultat
-|-
-| 1 || cible chancelante pendant 1 round
-|-
-| 2 || cible nauséeuse pendant 1 round
-|-
-| 3 || cible sourde pendant 1 round
-|-
-| 4 || cible aveuglée pendant 1 round
-|-
-| 5 || cible fiévreuse pendant 1 minute
-|-
-| 6 || cible fatiguée
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>d6</td><td>Résultat</td></tr><tr><td>1</td><td>cible chancelante pendant 1 round</td></tr><tr><td>2</td><td>cible nauséeuse pendant 1 round</td></tr><tr><td>3</td><td>cible sourde pendant 1 round</td></tr><tr><td>4</td><td>cible aveuglée pendant 1 round</td></tr><tr><td>5</td><td>cible fiévreuse pendant 1 minute</td></tr><tr><td>6</td><td>cible fatiguée</td></tr></table>
+
 Le templier double la durée de l’effet si les dégâts du critique sont multipliés par 3 et la triple s’ils sont multipliés par 4.
 
 {s:Reference|ATTAQUESOURNOISE}

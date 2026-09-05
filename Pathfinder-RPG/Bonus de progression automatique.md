@@ -13,56 +13,13 @@ Tous les personnages gagnent les pouvoirs indiqués dans la table ci-dessous qua
 Si vous souhaitez retirez tous les objets magiques du jeu (ou les rendre tellement rares qu’il n’y a pratiquement aucune chance de les découvrir), envisagez d’accorder des bonus aux personnages, piochés dans la table suivante, comme si leur niveau était supérieur de 2. La table va jusqu’au niveau 22 pour les jeux sans objets magiques.
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|- CLASS="titre"
-| Niveau || Bonus obtenus
-|- CLASS="premier"
-| 1 || —
-|-
-| 2 || —
-|-
-| 3 || [[Bonus de progression automatique#RESISTANCE|Résistance]] +1
-|-
-| 4 || [[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1
-|-
-| 5 || [[Bonus de progression automatique#PARADE|Parade]] +1
-|-
-| 6 || [[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +2
-|-
-| 7 || [[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +2
-|-
-| 8 || [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +1, [[Bonus de progression automatique#HARMONISATIONDARME|harmonisation d’arme]] +1/+1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1/+1, [[Bonus de progression automatique#RESISTANCE|résistance]] +2
-|-
-| 9 || [[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +2, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +2
-|-
-| 10 || [[Bonus de progression automatique#PARADE|Parade]] +2, [[Bonus de progression automatique#RESISTANCE|résistance]] +3
-|-
-| 11 || [[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +4
-|-
-| 12 || [[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +4
-|-
-| 13 || [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +2, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +4/+2, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +4/+2, [[Bonus de progression automatique#RESISTANCE|résistance]] +4
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><tr CLASS="titre"><td>Niveau</td><td>Bonus obtenus</td></tr><tr CLASS="premier"><td>1</td><td>—</td></tr><tr><td>2</td><td>—</td></tr><tr><td>3</td><td>[[Bonus de progression automatique#RESISTANCE|Résistance]] +1</td></tr><tr><td>4</td><td>[[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1</td></tr><tr><td>5</td><td>[[Bonus de progression automatique#PARADE|Parade]] +1</td></tr><tr><td>6</td><td>[[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +2</td></tr><tr><td>7</td><td>[[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +2</td></tr><tr><td>8</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +1, [[Bonus de progression automatique#HARMONISATIONDARME|harmonisation d’arme]] +1/+1, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +1/+1, [[Bonus de progression automatique#RESISTANCE|résistance]] +2</td></tr><tr><td>9</td><td>[[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +2, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +2</td></tr><tr><td>10</td><td>[[Bonus de progression automatique#PARADE|Parade]] +2, [[Bonus de progression automatique#RESISTANCE|résistance]] +3</td></tr><tr><td>11</td><td>[[Bonus de progression automatique#PROUESSEMENTALE|Prouesse mentale]] +4</td></tr><tr><td>12</td><td>[[Bonus de progression automatique#PROUESSEPHYSIQUE|Prouesse physique]] +4</td></tr><tr><td>13</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +2, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +4/+2, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +4/+2, [[Bonus de progression automatique#RESISTANCE|résistance]] +4</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-| 14 || [[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +2/+2 ou +3, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +2/+2 ou +3, [[Bonus de progression automatique#RESISTANCE|résistance]] +5
-|-
-| 15 || [[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +3/+3 ou +4, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +3/+3 ou +4, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +6/+2 ou +4/+4
-|-
-| 16 || [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +3, [[Bonus de progression automatique#PARADE|parade]] +3, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +6/+2 ou +4/+4
-|-
-| 17 || [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +4, harmonisation d’arme +4/+3 ou +5, harmonisation d’armure +4/+3 ou +5, [[Bonus de progression automatique#PARADE|parade]] +4, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +6/+2/+2, ou +4/+4/+2, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +6/+2/+2 ou +4/+4/+2
-|-
-| 18 || [[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +5, [[Bonus de progression automatique#PARADE|parade]] +5, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +6/+4/+2 ou +4/+4/+4, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +6/+4/+2 ou +4/+4/+4
-|-
-| 19 || 3 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]]
-|-
-| 20 || 5 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]] (pour un total de 8)
-|-
-| 21 || 7 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]] (pour un total de 15)
-|-
-| 22 || 8 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]] (pour un total de 23)
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><tr><td>14</td><td>[[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +2/+2 ou +3, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +2/+2 ou +3, [[Bonus de progression automatique#RESISTANCE|résistance]] +5</td></tr><tr><td>15</td><td>[[Bonus de progression automatique#HARMONISATIONDARME|Harmonisation d’arme]] +3/+3 ou +4, [[Bonus de progression automatique#HARMONISATIONDARMURE|harmonisation d’armure]] +3/+3 ou +4, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +6/+2 ou +4/+4</td></tr><tr><td>16</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +3, [[Bonus de progression automatique#PARADE|parade]] +3, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +6/+2 ou +4/+4</td></tr><tr><td>17</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +4, harmonisation d’arme +4/+3 ou +5, harmonisation d’armure +4/+3 ou +5, [[Bonus de progression automatique#PARADE|parade]] +4, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +6/+2/+2, ou +4/+4/+2, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +6/+2/+2 ou +4/+4/+2</td></tr><tr><td>18</td><td>[[Bonus de progression automatique#ENDURCISSEMENT|Endurcissement]] +5, [[Bonus de progression automatique#PARADE|parade]] +5, [[Bonus de progression automatique#PROUESSEMENTALE|prouesse mentale]] +6/+4/+2 ou +4/+4/+4, [[Bonus de progression automatique#PROUESSEPHYSIQUE|prouesse physique]] +6/+4/+2 ou +4/+4/+4</td></tr><tr><td>19</td><td>3 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]]</td></tr><tr><td>20</td><td>5 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]] (pour un total de 8)</td></tr><tr><td>21</td><td>7 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]] (pour un total de 15)</td></tr><tr><td>22</td><td>8 [[Bonus de progression automatique#DONSLEGENDAIRES|dons légendaires]] (pour un total de 23)</td></tr></table>
+
 </td></tr></table>
 
 ### Les bonus
@@ -120,23 +77,12 @@ Au niveau 3, le personnage gagne un bonus de résistance de +1 aux [[jds|jets de
 ### Armes et armures magiques
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Modificateur  
-du prix de base || Prix de  
-l’arme || Prix de l’armure/  
-du bouclier
-|- CLASS="premier"
-| +1 || 2 000 po || 1 000 po
-|-
-| +2 || 8 000 po || 4 000 po
-|-
-| +3 || 18 000 po || 9 000 po
-|-
-| +4 || 32 000 po || 16 000 po
-|-
-| +5 || 50 000 po || 25 000 po
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Modificateur  
+du prix de base</td><td>Prix de  
+l’arme</td><td>Prix de l’armure/  
+du bouclier</td></tr><tr CLASS="premier"><td>+1</td><td>2 000 po</td><td>1 000 po</td></tr><tr><td>+2</td><td>8 000 po</td><td>4 000 po</td></tr><tr><td>+3</td><td>18 000 po</td><td>9 000 po</td></tr><tr><td>+4</td><td>32 000 po</td><td>16 000 po</td></tr><tr><td>+5</td><td>50 000 po</td><td>25 000 po</td></tr></table>
+
 </div></div>Avec ce système, les armes, armures et boucliers magiques ne possèdent jamais de bonus d’altération qui leur sont propres : seule une harmonisation permet de leur conférer ce type de bonus. Toutes les propriétés spéciales d’arme, d’armure ou de bouclier ajoutées à des objets harmonisés comptent dans le calcul du bonus d’altération que l’harmonisation accorde au personnage. Pour déterminer le bonus d’altération d’un objet magique harmonisé, soustrayez le prix de la propriété spéciale au bonus d’altération accordé par l’harmonisation (ceci ne s’applique qu’aux propriétés spéciales dont le prix équivaut à un bonus d’altération, pas à celles dont le prix est fixé en pièces d’or). Par exemple, si un personnage qui bénéficie d’un bonus d’altération de +3 grâce à son harmonisation d’arme manie un [[cimeterre (arme)|cimeterre]] [[acérée (propriété)|acéré]], il soustrait 1 point à son bonus d’altération (l’équivalent du prix de la propriété spéciale acérée) pour aboutir à un cimeterre acéré +2. Si un personnage ne dispose pas d’un bonus d’altération suffisamment élevé pour s’offrir une propriété spéciale (comme un personnage de niveau 4 avec une [[épée longue (arme)|épée longue]] [[vorpale (propriété)|vorpale]]), il peut toujours utiliser le pouvoir de l’arme mais celle-ci ne bénéficie d’aucun bonus d’altération.
 
 Avec ce système, l’ajout de propriétés spéciales équivalentes à des bonus sur les objets coûte nettement moins cher puisque le personnage ne paye que la propriété spéciale et pas le bonus d’altération de base (voir la table ci-dessous). Pour déterminer le prix d’une arme ou d’une armure spécifique, ôtez le bonus d’altération fixe et réduisez le prix de l’objet du montant indiqué dans la table ci-dessous. Par exemple, une [[épée ardente]] coûte normalement 20 715 po mais, avec ce système, elle perd son bonus d’altération de +1 et son prix est réduit à 18 715 po. Il est possible d’harmoniser des armes et armures spécifiques, qui confèrent alors au personnage les bonus d’altération normaux accordés par l’harmonisation d’arme ou d’armure.

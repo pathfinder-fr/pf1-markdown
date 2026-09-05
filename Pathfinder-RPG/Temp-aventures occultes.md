@@ -263,78 +263,24 @@ La suite me sert juste a avoir des tableaux avec seulement les objets sans empla
 
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
-{| CLASS="tablo centre autoalt"
-|+ Objets merveilleux de faible puissance
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Pièce factice]]* || 375 po
-|-
-| — || *[[Figurine de cire]]* || 500 po
-|-
-| — || *[[Encens de revitalisation des esprits]]* || 800 po
-|-
-| — || *[[Encens de réalité corporelle]]* || 1 400 po
-|-
-| — || *[[Pot de divination animale]]* || 1 400 po
-|- CLASS="alt"
-| — || *[[Poudre fantôme]]* || 1 400 po
-|-
-| — || *[[Cierge de protection contre les esprits]]* || 1 500 po
-|-
-| — || *[[Attrape-rêves]]* || 2 800 po
-|-
-| — || *[[Encens de réceptivité mentale]]* || 2 800 po
-|-
-| — || *[[Trèfle à quatre feuilles]]* || 3 750 po
-|-
-| — || *[[Poudre thaumaturgique]]* || 4 000 po
-|-
-| — || *[[Fer à cheval porte-bonheur]]* || 6 800 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Pièce factice]]*</td><td>375 po</td></tr><tr><td>—</td><td>*[[Figurine de cire]]*</td><td>500 po</td></tr><tr><td>—</td><td>*[[Encens de revitalisation des esprits]]*</td><td>800 po</td></tr><tr><td>—</td><td>*[[Encens de réalité corporelle]]*</td><td>1 400 po</td></tr><tr><td>—</td><td>*[[Pot de divination animale]]*</td><td>1 400 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Poudre fantôme]]*</td><td>1 400 po</td></tr><tr><td>—</td><td>*[[Cierge de protection contre les esprits]]*</td><td>1 500 po</td></tr><tr><td>—</td><td>*[[Attrape-rêves]]*</td><td>2 800 po</td></tr><tr><td>—</td><td>*[[Encens de réceptivité mentale]]*</td><td>2 800 po</td></tr><tr><td>—</td><td>*[[Trèfle à quatre feuilles]]*</td><td>3 750 po</td></tr><tr><td>—</td><td>*[[Poudre thaumaturgique]]*</td><td>4 000 po</td></tr><tr><td>—</td><td>*[[Fer à cheval porte-bonheur]]*</td><td>6 800 po</td></tr></table>
+
 </center>
 </td></tr></table>
 
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
-{| CLASS="tablo centre autoalt"
-|+ Objets merveilleux de puissance intermédiaire
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Ardoise spirituelle]]* || 12 000 po
-|-
-| — || *[[Pierres de lithomancie]]* || 12 000 po
-|-
-| — || *[[Manuel dorigamis animaux|Manuel d'origamis animaux]]* || 13 500 po
-|-
-| — || *[[Fer à cheval porte-bonheur]] (collectif)* || 15 000 po
-|-
-| — || *[[Poupée ganji]]* || 16 000 po
-|-
-| — || *[[Miroir aux esprits]]* || 18 900 po
-|-
-| — || *[[Ouija magique]]* || 20 000 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Ardoise spirituelle]]*</td><td>12 000 po</td></tr><tr><td>—</td><td>*[[Pierres de lithomancie]]*</td><td>12 000 po</td></tr><tr><td>—</td><td>*[[Manuel dorigamis animaux|Manuel d'origamis animaux]]*</td><td>13 500 po</td></tr><tr><td>—</td><td>*[[Fer à cheval porte-bonheur]] (collectif)*</td><td>15 000 po</td></tr><tr><td>—</td><td>*[[Poupée ganji]]*</td><td>16 000 po</td></tr><tr><td>—</td><td>*[[Miroir aux esprits]]*</td><td>18 900 po</td></tr><tr><td>—</td><td>*[[Ouija magique]]*</td><td>20 000 po</td></tr></table>
+
 </center>
 </td></tr></table>
 
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
-{| CLASS="tablo centre autoalt"
-|+ Objets merveilleux de grande puissance
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Miroir de capture des âmes]]* || 33 000 po
-|-
-| — || *[[Poupée ganji]] (supérieure)* || 36 000 po
-|-
-| — || *[[Accumulateur dorgone|Accumulateur d'orgone]]* || 48 000 po
-|-
-| — || *[[Chaloupe volante]]* || 80 000 po
-|-
-| — || *[[Skiff volant]]* || 180 000 po
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Miroir de capture des âmes]]*</td><td>33 000 po</td></tr><tr><td>—</td><td>*[[Poupée ganji]] (supérieure)*</td><td>36 000 po</td></tr><tr><td>—</td><td>*[[Accumulateur dorgone|Accumulateur d'orgone]]*</td><td>48 000 po</td></tr><tr><td>—</td><td>*[[Chaloupe volante]]*</td><td>80 000 po</td></tr><tr><td>—</td><td>*[[Skiff volant]]*</td><td>180 000 po</td></tr></table>
+
 </center>
 </td></tr></table>

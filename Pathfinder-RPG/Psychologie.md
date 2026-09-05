@@ -19,21 +19,9 @@ Categories:
 Un test de Psychologie réussi permet de ne pas se faire bluffer (voir la compétence de [[Bluff]]). Il est également possible d’utiliser cette compétence pour sentir quand quelque chose de louche se prépare ou pour déterminer si quelqu’un est digne de confiance.
 
 <center>
-{| CLASS="tablo"
-|+ DD des tests de Psychologie
-|- CLASS="titre"
-| Tâche
-| DD du test de Psychologie
-|- CLASS="premier"
-| Pressentiment
-| 20
-|- CLASS="alt"
-| Perception d’enchantement
-| 25 ou 15
-|-
-| Intercepter un message secret
-| Variable
-|}
+
+<table CLASS="tablo"><caption>DD des tests de Psychologie</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test de Psychologie</td></tr><tr CLASS="premier"><td>Pressentiment</td><td>20</td></tr><tr CLASS="alt"><td>Perception d’enchantement</td><td>25 ou 15</td></tr><tr><td>Intercepter un message secret</td><td>Variable</td></tr></table>
+
 </center>
 
 **Pressentiment.** En analysant une situation, le personnage est capable de sentir que quelque chose cloche. Il peut par exemple éprouver une sensation de malaise lorsqu’il discute avec un imposteur, ou bien au contraire sentir que quelqu’un est digne de confiance.

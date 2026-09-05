@@ -39,19 +39,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de lézard
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Caméléon géant]] || 3
-|-
-| [[Gecko géant]] || 1
-|-
-| [[Lézard à collerette géant]] || 5
-|-
-| [[Varan]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de lézard</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Caméléon géant]]</td><td>3</td></tr><tr><td>[[Gecko géant]]</td><td>1</td></tr><tr><td>[[Lézard à collerette géant]]</td><td>5</td></tr><tr><td>[[Varan]]</td><td>2</td></tr></table>
+
 </div>*Ce lézard aux yeux clairs est plus grand qu’un cheval. Il siffle de colère et une collerette de couleur vive se dresse autour de son cou.*
 
 Lorsqu’un lézard à collerette géant charge, il

@@ -40,15 +40,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'indigeste
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Indigeste]] || 1/4
-|-
-| [[Nuée dindigestes|Nuée d'indigestes]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'indigeste</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Indigeste]]</td><td>1/4</td></tr><tr><td>[[Nuée dindigestes|Nuée d'indigestes]]</td><td>5</td></tr></table>
+
 </div>*Cette gelée visqueuse jaune et brune se compose de plusieurs globules accolés en une ignoble et répugnante masse commune.*
 
 Un indigeste isolé est plus une gêne qu’une véritable menace, en revanche, quand ces créatures se rassemblent en nuée, elles représentent un danger même pour des aventuriers chevronnés. Une nuée regroupe des centaines d’indigestes individuels qui, poussés par une faim insatiable, se jettent sur toutes les créatures vivantes qu’ils croisent pour les dévorer, submergeant leur malheureuse victime et la couvrant de mucus acide. Ils la digèrent vivante, avant même que ses cris cessent de résonner.

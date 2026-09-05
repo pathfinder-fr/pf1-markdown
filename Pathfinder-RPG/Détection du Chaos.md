@@ -30,24 +30,9 @@ Deuxième [[round]] : nombre d’auras chaotiques (émanant de créatures, de so
 Si le jeteur de sorts est d’[[alignement]] Loyal, si l’aura détectée est surpuissante (voir ci-dessous) et correspond à une créature possédant un nombre de [[dés de vie]] supérieur ou égal au double du [[niveau]] du personnage, il est [[étourdi]] pendant 1 [[round]] et le sort prend fin immédiatement.
 
 <center>
-{| CLASS="tablo"
-|+ Détection de la Loi/du Bien/du Chaos/du Mal
-|- CLASS="titre"
-| ROWSPAN="2" | Créature/objet
-| CLASS="avecsoustitre" COLSPAN="5" | Intensité de l'aura
-|- CLASS="soustitre"
-| Aucune || Faible || Modérée || Forte || Surpuissante
-|- CLASS="premier"
-| Créature alignée (sauf [[type mort-vivant|mort-vivant]]/[[type extérieur|Extérieur]], selon les [[DV]]) || 4 ou moins || 5–10 || 11–25 || 26–50 || 51 ou plus
-|- CLASS="alt"
-| [[type mort-vivant|Mort-vivant]] aligné (selon les [[DV]]) || — || 2 ou moins || 3–8 || 9–20 || 21 ou plus
-|-
-| [[type extérieur|Extérieur]] aligné (selon les [[DV]]) || – || 1 ou moins || 2–4 || 5–10 || 11 ou plus
-|- CLASS="alt"
-| [[Prêtre]] ou [[paladin]] d'un dieu aligné* (selon le [[niveau|niveau de classe]]) || — || 1 || 2–4 || 5–10 || 11 ou plus
-|-
-| Objet magique ou sort aligné (selon le [[NLS]]) || 5 ou moins || 6–10 || 11–15 || 16–20 || 21 ou plus
-|}
+
+<table CLASS="tablo"><caption>Détection de la Loi/du Bien/du Chaos/du Mal</caption><tr CLASS="titre"><td ROWSPAN="2">Créature/objet</td><td CLASS="avecsoustitre" COLSPAN="5">Intensité de l'aura</td></tr><tr CLASS="soustitre"><td>Aucune</td><td>Faible</td><td>Modérée</td><td>Forte</td><td>Surpuissante</td></tr><tr CLASS="premier"><td>Créature alignée (sauf [[type mort-vivant|mort-vivant]]/[[type extérieur|Extérieur]], selon les [[DV]])</td><td>4 ou moins</td><td>5–10</td><td>11–25</td><td>26–50</td><td>51 ou plus</td></tr><tr CLASS="alt"><td>[[type mort-vivant|Mort-vivant]] aligné (selon les [[DV]])</td><td>—</td><td>2 ou moins</td><td>3–8</td><td>9–20</td><td>21 ou plus</td></tr><tr><td>[[type extérieur|Extérieur]] aligné (selon les [[DV]])</td><td>–</td><td>1 ou moins</td><td>2–4</td><td>5–10</td><td>11 ou plus</td></tr><tr CLASS="alt"><td>[[Prêtre]] ou [[paladin]] d'un dieu aligné* (selon le [[niveau|niveau de classe]])</td><td>—</td><td>1</td><td>2–4</td><td>5–10</td><td>11 ou plus</td></tr><tr><td>Objet magique ou sort aligné (selon le [[NLS]])</td><td>5 ou moins</td><td>6–10</td><td>11–15</td><td>16–20</td><td>21 ou plus</td></tr></table>
+
 
 *(*) Certains personnages qui ne sont pas des [[prêtre|prêtres]] possèdent une aura de puissance équivalente (voir les descriptions de classe).*
 </center>
@@ -59,18 +44,9 @@ Troisième [[round]] : intensité et emplacement de chacune des auras. Si une au
 **Aura persistante.** Une aura chaotique ne disparaît pas immédiatement lorsque sa source est dissipée (dans le cas d’un sort) ou détruite (dans le cas d’une créature ou d’un objet magique). Si le lanceur de sorts oriente *détection du Chaos* vers une telle zone, le sort indique une aura ténue (moins puissante qu’une aura faible). Le temps pendant lequel l’aura ténue persiste dépend de son intensité originale.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Intensité de l’aura || Durée de l’aura persistante
-|- CLASS="premier"
-| Faible || 1d6 [[round|rounds]]
-|- CLASS="alt"
-| Modérée || 1d6 minutes
-|-
-| Puissante || 1d6x10 minutes
-|- CLASS="alt"
-| Surpuissante || 1d6 jours
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Intensité de l’aura</td><td>Durée de l’aura persistante</td></tr><tr CLASS="premier"><td>Faible</td><td>1d6 [[round|rounds]]</td></tr><tr CLASS="alt"><td>Modérée</td><td>1d6 minutes</td></tr><tr><td>Puissante</td><td>1d6x10 minutes</td></tr><tr CLASS="alt"><td>Surpuissante</td><td>1d6 jours</td></tr></table>
+
 </center>
 
 N’oubliez pas qu’animaux, pièges, substances toxiques et autres menaces potentielles similaires ne sont pas intrinsèquement chaotiques ; le sort ne les détecte donc pas. En revanche, il repère les créatures animées d’intentions foncièrement chaotiques.

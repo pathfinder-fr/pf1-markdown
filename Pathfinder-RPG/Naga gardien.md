@@ -48,23 +48,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de naga
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Naga aquatique]] || 7
-|-
-| [[Naga corrupteur]] || 9
-|-
-| [[Naga gardien]] || 10
-|-
-| [[Naga lunaire]] || 6
-|-
-| [[Naga royal]] || 11
-|-
-| [[Naga ténébreux]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de naga</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Naga aquatique]]</td><td>7</td></tr><tr><td>[[Naga corrupteur]]</td><td>9</td></tr><tr><td>[[Naga gardien]]</td><td>10</td></tr><tr><td>[[Naga lunaire]]</td><td>6</td></tr><tr><td>[[Naga royal]]</td><td>11</td></tr><tr><td>[[Naga ténébreux]]</td><td>8</td></tr></table>
+
 </div>*Un visage humanoïde et pensif entouré d’un capuchon ressemblant à celui des cobras orne le corps de ce long serpent de couleur vive.*
 
 Malgré leur apparence féroce, leurs écailles radieuses, leur

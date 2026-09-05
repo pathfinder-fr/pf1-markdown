@@ -8,17 +8,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les cavaliers de Baba Yaga
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cavalier blanc|Le Cavalier blanc]] || 11
-|-
-| [[Cavalier noir|Le Cavalier noir]] || 13
-|-
-| [[Cavalier rouge|Le Cavalier rouge]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Les cavaliers de Baba Yaga</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cavalier blanc|Le Cavalier blanc]]</td><td>11</td></tr><tr><td>[[Cavalier noir|Le Cavalier noir]]</td><td>13</td></tr><tr><td>[[Cavalier rouge|Le Cavalier rouge]]</td><td>12</td></tr></table>
+
 </div></div><div class="description">**Source :** [[Courts suppléments univers (Contenu)|Irrisen, pays de l'hiver éternel p.52]].</div>
 *Types/Sous-types associés : [[type Fée|Fée]]*
 

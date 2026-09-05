@@ -10,22 +10,8 @@ Categories:
 
 La créature peut dépenser une utilisation de [[pouvoir mythique]] par une [[action libre]] quand elle utilise son [[Souffle (capacité)|souffle]], afin que la zone touchée irradie des dégâts d’énergie (du même type que le souffle) pendant 1 [[round]] par [[Monstres mythiques#RANGMYTHIQUE|rang mythique]]. Toute créature se trouvant dans la zone du souffle, y pénétrant ou la traversant pendant ce laps de temps reçoit des dégâts dépendant de la taille de la créature qui a soufflé. Ce pouvoir n’a aucun effet sur un souffle qui n’inflige pas de dégâts d’énergie.
 
-{| CLASS="tablo centre autoalt"
-|+ Dégâts de souffle prolongé
-|- CLASS="titre"
-| Taille de la créature
-| Points de dégâts d’énergie
-|- CLASS="premier"
-| M ou plus petite || 2d4
-|-
-| G || 2d6
-|-
-| TG || 2d8
-|-
-| Gig || 4d6
-|-
-| C || 4d8
-|-
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Dégâts de souffle prolongé</caption><tr CLASS="titre"><td>Taille de la créature</td><td>Points de dégâts d’énergie</td></tr><tr CLASS="premier"><td>M ou plus petite</td><td>2d4</td></tr><tr><td>G</td><td>2d6</td></tr><tr><td>TG</td><td>2d8</td></tr><tr><td>Gig</td><td>4d6</td></tr><tr><td>C</td><td>4d8</td></tr></table>
+
 
 *Format :* souffle prolongé (2d6 feu, 5 rounds) ; *Emplacement :* Attaques spéciales.

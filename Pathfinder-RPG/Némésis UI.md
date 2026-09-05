@@ -18,18 +18,11 @@ Pour refléter l'intensité de sa rivalité avec les PJs, chaque némésis poss�
 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Valeur de  
-némésis || Niveau de  
-némésis
-|- CLASS="premier"
-| 4 ou moins || Balbutiant
-|-
-| 5-8 || Engagé
-|-
-| 9 ou plus || Intense
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Valeur de  
+némésis</td><td>Niveau de  
+némésis</td></tr><tr CLASS="premier"><td>4 ou moins</td><td>Balbutiant</td></tr><tr><td>5-8</td><td>Engagé</td></tr><tr><td>9 ou plus</td><td>Intense</td></tr></table>
+
 </div></div>Au fur et à mesure qu'une rivalité mûrit, le niveau de némésis de l'ennemi des PJs augmente. L'opposition de la némésis aux PJs progresse à travers trois niveaux, comme décrit ci-dessous.
 
 **Balbutiant.** Les PJs ont attiré l'attention de la némésis, qui les considère comme une menace mineure mais qui doit néanmoins être résolue. La némésis commence à collecter des informations sur les PJs et à utiliser des stratagèmes, mais elle n'est pas encore profondément investi dans la rivalité.

@@ -37,17 +37,9 @@ LastModified: 2023-11-21 15:26
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de momie
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Momie]] || 5
-|-
-| [[Momie des marais]] || 4
-|-
-| [[Seigneur momie humain]] || 10
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de momie</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Momie]]</td><td>5</td></tr><tr><td>[[Momie des marais]]</td><td>4</td></tr><tr><td>[[Seigneur momie humain]]</td><td>10</td></tr></table>
+
 </div>*Vêtu de lambeaux de ses vêtements d’origine, ce cadavre tanné et ratatiné a deux orbites vides en guise d’yeux.*
 
 Étouffées dans la non-vie sous la crasse et la boue de la fange, les momies des marais hantent les profondeurs purulentes des marécages isolés et désolés.

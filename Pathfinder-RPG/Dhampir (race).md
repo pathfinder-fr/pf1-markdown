@@ -71,30 +71,9 @@ Vous pouvez choisir les traits raciaux suivants au lieu des traits raciaux dhamp
 {s:cs}<div class="description">**Source :** Blood of the Night (BotN).  </div>
 Ici sont présentées des dhampirs alternatifs descendus de races spécifiques de vampires. Un joueur peut choisir l'un des héritages suivants pour son dhampir à la place des traits raciaux traditionnels des dhampirs (qui sont supposés être nés d'héritages moins purs ou mixtes). Chaque héritage présente de nouvelles caractéristiques qui remplacent les traits raciaux standards des dhampirs (les faiblesses alternatives remplacent le trait racial « sensible à la lumière » d'un dhampir), ainsi qu'une paire de traits raciaux personnalisés. Chaque héritage comprend également des personnalités et des apparences typiques, ainsi que les lieux d'origine probables de ces races uniques de dhampirs.
 
-{| CLASS="tablo centre"
-|- CLASS="titre"
-| Héritage || Caractéristiques alternatives || Compétences alternatives || Pouvoir magique alternatif
-| CLASS="gauche" | Faiblesse alternative
-|- CLASS="premier"
-| Né de [[jiang-shi]] (ru-shi) || +2 [[Force]], +2 [[Intelligence]], -2 [[Dextérité]] || [[Acrobaties]], [[Connaissances]] (ingénierie) || *[[effacement]]* || Malus de -1 aux [[jds|jets de sauvegarde]] contre les sorts et effets de son.
-|-
-| COLSPAN="5" | Les ru-shi sont des dhampirs qui descendent des jiang-shi du Tian Xia. Ils ne s'intéressent généralement pas au contact physique et leurs mouvements sont raides et maladroits.
-|- CLASS="premier alt"
-| Né de [[Vampire|moroï]] (svetocher) || +2 [[Force]], +2 [[Charisme]], -2 [[Constitution]] || [[Connaissances]] (noblesse), [[Diplomatie]] || *[[brume de dissimulation]]*
-| CLASS="gauche" | Malus de -1 aux [[jds|jets de sauvegarde]] contre les effets qui infligent des dégâts d'énergie positive.
-|- CLASS="alt"
-| COLSPAN="5" | Ces dhampirs sont empreints d'une grâce, d'une beauté et d'un charme surnaturels, et sont souvent plus à l'aise parmi l'aristocratie d'une région.
-|- CLASS="premier"
-| Né de [[Vampire nosferatu|nosfératu]] (scion ancestral) || +2 [[Force]], +2 [[Sagesse]], -2 [[Constitution]] || [[Escalade]], [[Survie]] || *[[anathème]]*
-| CLASS="gauche" | Malus de -1 aux [[jds|jets de sauvegarde]] contre les effets qui affaiblissent, diminuent ou réduisent des valeurs de caractéristique physique.
-|-
-| COLSPAN="5" | La majorité des dhampirs ancestraux nourrissent une haine profonde pour l'humanité - haine que la plupart des humains leur renvoit volontier.
-|- CLASS="premier alt"
-| Né de [[vêtala]] (ajibachana) || +2 [[Dextérité]], +2 [[Intelligence]], -2 [[Sagesse]] || [[Évasion]], [[Utilisation dobjets magiques|Utilisation d'objets magiques]] || *[[compréhension des langages]]*
-| CLASS="gauche" | Malus de -1 au [[niveau de lanceur de sorts]] dans les zones de *[[consécration]]*, de *[[sanctification]]* ou de toute autre sort similaire qui béni une zone.
-|- CLASS="alt"
-| COLSPAN="5" | Ces dhampirs sont plus souvent le résultat d'expérimentations magiques plutôt que d'accouplements.
-|}
+
+<table CLASS="tablo centre"><tr CLASS="titre"><td>Héritage</td><td>Caractéristiques alternatives</td><td>Compétences alternatives</td><td>Pouvoir magique alternatif</td><td CLASS="gauche">Faiblesse alternative</td></tr><tr CLASS="premier"><td>Né de [[jiang-shi]] (ru-shi)</td><td>+2 [[Force]], +2 [[Intelligence]], -2 [[Dextérité]]</td><td>[[Acrobaties]], [[Connaissances]] (ingénierie)</td><td>*[[effacement]]*</td><td>Malus de -1 aux [[jds|jets de sauvegarde]] contre les sorts et effets de son.</td></tr><tr><td COLSPAN="5">Les ru-shi sont des dhampirs qui descendent des jiang-shi du Tian Xia. Ils ne s'intéressent généralement pas au contact physique et leurs mouvements sont raides et maladroits.</td></tr><tr CLASS="premier alt"><td>Né de [[Vampire|moroï]] (svetocher)</td><td>+2 [[Force]], +2 [[Charisme]], -2 [[Constitution]]</td><td>[[Connaissances]] (noblesse), [[Diplomatie]]</td><td>*[[brume de dissimulation]]*</td><td CLASS="gauche">Malus de -1 aux [[jds|jets de sauvegarde]] contre les effets qui infligent des dégâts d'énergie positive.</td></tr><tr CLASS="alt"><td COLSPAN="5">Ces dhampirs sont empreints d'une grâce, d'une beauté et d'un charme surnaturels, et sont souvent plus à l'aise parmi l'aristocratie d'une région.</td></tr><tr CLASS="premier"><td>Né de [[Vampire nosferatu|nosfératu]] (scion ancestral)</td><td>+2 [[Force]], +2 [[Sagesse]], -2 [[Constitution]]</td><td>[[Escalade]], [[Survie]]</td><td>*[[anathème]]*</td><td CLASS="gauche">Malus de -1 aux [[jds|jets de sauvegarde]] contre les effets qui affaiblissent, diminuent ou réduisent des valeurs de caractéristique physique.</td></tr><tr><td COLSPAN="5">La majorité des dhampirs ancestraux nourrissent une haine profonde pour l'humanité - haine que la plupart des humains leur renvoit volontier.</td></tr><tr CLASS="premier alt"><td>Né de [[vêtala]] (ajibachana)</td><td>+2 [[Dextérité]], +2 [[Intelligence]], -2 [[Sagesse]]</td><td>[[Évasion]], [[Utilisation dobjets magiques|Utilisation d'objets magiques]]</td><td>*[[compréhension des langages]]*</td><td CLASS="gauche">Malus de -1 au [[niveau de lanceur de sorts]] dans les zones de *[[consécration]]*, de *[[sanctification]]* ou de toute autre sort similaire qui béni une zone.</td></tr><tr CLASS="alt"><td COLSPAN="5">Ces dhampirs sont plus souvent le résultat d'expérimentations magiques plutôt que d'accouplements.</td></tr></table>
+
 
 ### Bonus alternatifs de classe de prédilection
 {s:MCA}Chacune de ces récompenses remplace celle que les joueurs obtenaient normalement en gagnant un niveau dans une [[Progression des personnages#CLASSEDEPREDILECTION|classe de prédilection]], à savoir 1 point de vie supplémentaire ou 1 rang de compétence supplémentaire. Contrairement à ces récompenses d’ordre générique, les récompenses alternatives se focalisent sur les spécificités de la classe et sur les tendances générales d’une race.
@@ -127,26 +106,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 {s:MR}Voici les options accessibles aux dhampirs, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Buveur de sang]]</td><td><sup>MR</sup></td><td>[[Dhampir]]</td><td>Le sang d'un sous type d'humanoïdes donne des pv temporaires</td></tr><tr><td>&emsp;[[Festin sanglant]]</td><td><sup>MR</sup></td><td>[[Buveur de sang]], [[BBA]]+6, [[Dhampir]]</td><td>Le sang d'un sous type d'humanoïdes donne de la Force</td></tr><tr><td>&emsp;[[Goûts variés]]</td><td><sup>MR</sup></td><td>[[Buveur de sang]], [[Dhampir]]</td><td>Le sang d'un type ou d'un sous type d'humanoïde plus vaste permet au dhampis de se revigorer</td></tr><tr><td>&emsp;[[Récupération de sang]]</td><td><sup>MR</sup></td><td>[[Buveur de sang]], [[Dhampir]]</td><td>Le sang d'un type d'humanoïde récemment mort permet au dhampir de se revigorer</td></tr><tr CLASS="premier"><td>[[Charmeur-né]]</td><td><sup>MR</sup></td><td>[[Charisme|Cha]] 17, [[dhampir]]</td><td>Le dhampir sait comment profiter au mieux de ses amis</td></tr></table>
 
-|- CLASS="premier"
-| [[Buveur de sang]] || <sup>MR</sup> || [[Dhampir]] || Le sang d'un sous type d'humanoïdes donne des pv temporaires
-|-
-| &emsp;[[Festin sanglant]] || <sup>MR</sup> || [[Buveur de sang]], [[BBA]]+6, [[Dhampir]] || Le sang d'un sous type d'humanoïdes donne de la Force
-|-
-| &emsp;[[Goûts variés]] || <sup>MR</sup> || [[Buveur de sang]], [[Dhampir]] || Le sang d'un type ou d'un sous type d'humanoïde plus vaste permet au dhampis de se revigorer
-|-
-| &emsp;[[Récupération de sang]] || <sup>MR</sup> || [[Buveur de sang]], [[Dhampir]] || Le sang d'un type d'humanoïde récemment mort permet au dhampir de se revigorer
-
-|- CLASS="premier"
-| [[Charmeur-né]] || <sup>MR</sup> || [[Charisme|Cha]] 17, [[dhampir]] || Le dhampir sait comment profiter au mieux de ses amis
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes

@@ -91,94 +91,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux orques, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Action féroce]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]],  trait racial férocité</td><td>Empêche d'être chancelant avec des points de vie négatifs aux prix de les perdre plus vite</td></tr><tr CLASS="premier"><td>[[Agitation du sang]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]], aptitude de classe Canalisation d’énergie</td><td>Confère un bonus aux jets de dégâts et de confirmation critique des orques au lieu de les affecter normalement avec une canalisation d'énergie</td></tr><tr CLASS="premier"><td>[[Bénédiction du Destructeur]]*</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGEDEBERSERKER|rage de berserker]], fidèle du Destructeur</td><td>Récupère des rounds de rage et des points de vie en réussissant des manœuvres de destruction</td></tr><tr CLASS="premier"><td>[[Bénédiction du Dieu du feu]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], fidèle du dieu du feu</td><td>Récupère des points de vie en infligeant des dégâts de feu à un adversaire</td></tr><tr CLASS="premier"><td>[[Canalisation de ladepte|Canalisation de l'adepte]]</td><td><sup>MR</sup></td><td>Capacité à lancer des sorts divins, aptitude de classe de [[Adepte#FAMILIER|convocation de familier]], [[NLS|niveau de lanceur de sorts]] de 4, [[Cha]] 13</td><td>Obtient la capacité de classe de canalisation d’énergie</td></tr><tr CLASS="premier"><td>[[Chevaucheur de cornes]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1</td><td>Bonus de défense grâce aux défenses/cornes de la monture</td></tr><tr><td>&emsp;[[Charge du chevaucheur de cornes]]*</td><td><sup>CM</sup></td><td>[[Chevaucheur de cornes]], [[BBA]] +1</td><td>Utilise l'élan de la monture pendant les attaques</td></tr><tr CLASS="premier"><td>[[Coup de brute]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]], 1 rang en [[Intimidation]]</td><td>Intimide les créaures en attaquant</td></tr><tr><td>&emsp;[[École de la furie orque]]*</td><td><sup>*WMH*</sup></td><td>[[Coup de brute]], [[Force intimidante]], 3 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]]</td><td>Utilise Coup de brute sur la première attaque à chaque round</td></tr><tr><td>&emsp;&emsp;[[Dévastation orque]]*</td><td><sup>*WMH*</sup></td><td>[[Coup de brute]], [[Force intimidante]], [[École de la furie orque]], 5 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]]</td><td>Bonus à l'attaque et aux dégâts contre les adversaires secoués</td></tr><tr><td>&emsp;&emsp;&emsp;[[Grognement orque]]*</td><td><sup>*WMH*</sup></td><td>[[Coup de brute]], [[Force intimidante]], [[École de la furie orque]], [[Dévastation orque]], 7 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]]</td><td>+4 aux jets de sauvegarde contre les effets créés par des adversaires secoués</td></tr><tr CLASS="premier"><td>[[Démolisseur de pièges]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]],  [[attaque en puissance]], 1 rang en [[Sabotage]]</td><td>Détruit les pièges au lieu de les désarmer</td></tr><tr CLASS="premier"><td>[[Enragé inflexible]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]], aptitude de classe rage</td><td>Résiste à la peur pendant une rage</td></tr><tr CLASS="premier"><td>[[Expertise martiale orque]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]], BBA +1</td><td>Gain de capacités uniques avec les armes orques</td></tr><tr CLASS="premier"><td>[[Feinte inversée]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]], BBA +1</td><td>Laisse un adversaire toucher le personnage pour qu'il lui rende le coup</td></tr><tr CLASS="premier"><td>[[Fiélon sanguinaire]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]]</td><td>Récupère des rounds de rage en confirmant ou en subissant un coup critique</td></tr><tr CLASS="premier"><td>[[Frisson de la mort]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]]</td><td>Récupère des rounds de rage en tuant ou en réduisant un adversaire à moins de 0 points de vie</td></tr><tr CLASS="premier"><td>[[Guerrier rancunier]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]]</td><td>+1 à l'attaque et aux dégâts contre les créatures qui ont attaquées le personnage</td></tr><tr CLASS="premier"><td>[[Haine réciproque]]*</td><td><sup>CM</sup></td><td>—</td><td>Bonus à l'attaque et aux dégâts contre les créatures qui haïssent le personnage</td></tr><tr CLASS="premier"><td>[[Horde féroce]]</td><td><sup>*ISR*</sup></td><td>[[Orque (race)|Orque]], trait racial férocité</td><td>Bonus de moral de +2 aux jets d'attaque lorsque le personnage et un allié avec ce don sont à la moitié de leurs pvs ou moins</td></tr><tr CLASS="premier"><td>[[Légion balafrée]]<sup>E</sup></td><td><sup>CM</sup></td><td>—</td><td>+2 aux tests d'Intimidation et aux jets de Volonté près d'un allié avec ce don; bonus conservés pendant 1 round après une charge</td></tr><tr CLASS="premier"><td>[[Lutteur brutal]]*<sup>E</sup></td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]]</td><td>Aide un allier à agripper une créature</td></tr><tr CLASS="premier"><td>[[Naissance solitaire]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]]</td><td>Gagne des points de vie temporaires en tuant ou en rendant inconsciente une créature</td></tr><tr CLASS="premier"><td>[[Rage amplifiée]]<sup>E</sup></td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]]</td><td>La rage du personnage est plus puissante lorsqu’un allié proche est en rage</td></tr><tr CLASS="premier"><td>[[Rage du chef de guerre]]</td><td><sup>MR</sup></td><td>[[Cha]] 13, [[orque (race)|orque]] ou [[demi-orque]], non-Loyal</td><td>Les alliés du personnage continuent de profiter des rages mineures obtenues par la proximité avec le personnage à 9 m de distance</td></tr><tr CLASS="premier"><td>[[Rage empathique]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], non-Loyal</td><td>Le personnage peut entrer dans une rage mineure lorsqu’il est près d’alliés enragés</td></tr><tr CLASS="premier"><td>[[Ténacité féroce]]*</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], trait racial de [[orque (race)#Traits_raciaux_standards_6|férocité]], aptitude de classe de [[barbare#RAGE|rage de berserker]]</td><td>Dépense des rounds de rage pour réduire des dégâts mortels</td></tr><tr CLASS="premier"><td>[[Vengeance sanguinaire]]</td><td><sup>MR</sup></td><td>[[orque (race)|Orque]] ou [[demi-orque]], non-Loyal</td><td>Le personnage peut entrer dans une rage mineure lorsqu’un allié est tué ou gravement blessé</td></tr></table>
 
-|- CLASS="premier"
-| [[Action féroce]] || <sup>MR</sup> || [[orque (race)|Orque]],  trait racial férocité || Empêche d'être chancelant avec des points de vie négatifs aux prix de les perdre plus vite
-
-|- CLASS="premier"
-| [[Agitation du sang]] || <sup>MR</sup> || [[orque (race)|Orque]], aptitude de classe Canalisation d’énergie || Confère un bonus aux jets de dégâts et de confirmation critique des orques au lieu de les affecter normalement avec une canalisation d'énergie
-
-|- CLASS="premier"
-| [[Bénédiction du Destructeur]]* || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGEDEBERSERKER|rage de berserker]], fidèle du Destructeur || Récupère des rounds de rage et des points de vie en réussissant des manœuvres de destruction
-
-|- CLASS="premier"
-| [[Bénédiction du Dieu du feu]] || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], fidèle du dieu du feu || Récupère des points de vie en infligeant des dégâts de feu à un adversaire
-
-|- CLASS="premier"
-| [[Canalisation de ladepte|Canalisation de l'adepte]] || <sup>MR</sup> || Capacité à lancer des sorts divins, aptitude de classe de [[Adepte#FAMILIER|convocation de familier]], [[NLS|niveau de lanceur de sorts]] de 4, [[Cha]] 13 || Obtient la capacité de classe de canalisation d’énergie
-
-|- CLASS="premier"
-| [[Chevaucheur de cornes]]* || <sup>CM</sup> || [[BBA]] +1 || Bonus de défense grâce aux défenses/cornes de la monture
-|-
-| &emsp;[[Charge du chevaucheur de cornes]]* || <sup>CM</sup> || [[Chevaucheur de cornes]], [[BBA]] +1 || Utilise l'élan de la monture pendant les attaques
-
-|- CLASS="premier"
-| [[Coup de brute]] || <sup>MR</sup> || [[orque (race)|Orque]], 1 rang en [[Intimidation]] || Intimide les créaures en attaquant
-|-
-| &emsp;[[École de la furie orque]]* || <sup>*WMH*</sup> || [[Coup de brute]], [[Force intimidante]], 3 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]] || Utilise Coup de brute sur la première attaque à chaque round
-|-
-| &emsp;&emsp;[[Dévastation orque]]* || <sup>*WMH*</sup> || [[Coup de brute]], [[Force intimidante]], [[École de la furie orque]], 5 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]] || Bonus à l'attaque et aux dégâts contre les adversaires secoués
-|-
-| &emsp;&emsp;&emsp;[[Grognement orque]]* || <sup>*WMH*</sup> || [[Coup de brute]], [[Force intimidante]], [[École de la furie orque]], [[Dévastation orque]], 7 rangs en [[Intimidation]], trait racial [[Orque (race)#Traits_raciaux_standards_7|apprentissage martial]] || +4 aux jets de sauvegarde contre les effets créés par des adversaires secoués
-
-|- CLASS="premier"
-| [[Démolisseur de pièges]] || <sup>MR</sup> || [[orque (race)|Orque]],  [[attaque en puissance]], 1 rang en [[Sabotage]] || Détruit les pièges au lieu de les désarmer
-
-|- CLASS="premier"
-| [[Enragé inflexible]] || <sup>MR</sup> || [[orque (race)|Orque]], aptitude de classe rage || Résiste à la peur pendant une rage
-
-|- CLASS="premier"
-| [[Expertise martiale orque]] || <sup>MR</sup> || [[orque (race)|Orque]], BBA +1 || Gain de capacités uniques avec les armes orques
-
-|- CLASS="premier"
-| [[Feinte inversée]] || <sup>MR</sup> || [[orque (race)|Orque]], BBA +1 || Laisse un adversaire toucher le personnage pour qu'il lui rende le coup
-
-|- CLASS="premier"
-| [[Fiélon sanguinaire]] || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]] || Récupère des rounds de rage en confirmant ou en subissant un coup critique
-
-|- CLASS="premier"
-| [[Frisson de la mort]] || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]] || Récupère des rounds de rage en tuant ou en réduisant un adversaire à moins de 0 points de vie
-
-|- CLASS="premier"
-| [[Guerrier rancunier]] || <sup>MR</sup> || [[orque (race)|Orque]] || +1 à l'attaque et aux dégâts contre les créatures qui ont attaquées le personnage
-
-|- CLASS="premier"
-| [[Haine réciproque]]* || <sup>CM</sup> || — || Bonus à l'attaque et aux dégâts contre les créatures qui haïssent le personnage
-
-|- CLASS="premier"
-| [[Horde féroce]] || <sup>*ISR*</sup> || [[Orque (race)|Orque]], trait racial férocité || Bonus de moral de +2 aux jets d'attaque lorsque le personnage et un allié avec ce don sont à la moitié de leurs pvs ou moins
-
-|- CLASS="premier"
-| [[Légion balafrée]]<sup>E</sup> || <sup>CM</sup> || — || +2 aux tests d'Intimidation et aux jets de Volonté près d'un allié avec ce don; bonus conservés pendant 1 round après une charge
-
-|- CLASS="premier"
-| [[Lutteur brutal]]*<sup>E</sup> || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]] || Aide un allier à agripper une créature
-
-|- CLASS="premier"
-| [[Naissance solitaire]] || <sup>MR</sup> || [[orque (race)|Orque]] || Gagne des points de vie temporaires en tuant ou en rendant inconsciente une créature
-
-|- CLASS="premier"
-| [[Rage amplifiée]]<sup>E</sup> || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], aptitude de classe de [[barbare#RAGE|rage de berserker]] || La rage du personnage est plus puissante lorsqu’un allié proche est en rage
-
-|- CLASS="premier"
-| [[Rage du chef de guerre]] || <sup>MR</sup> || [[Cha]] 13, [[orque (race)|orque]] ou [[demi-orque]], non-Loyal || Les alliés du personnage continuent de profiter des rages mineures obtenues par la proximité avec le personnage à 9 m de distance
-
-|- CLASS="premier"
-| [[Rage empathique]] || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], non-Loyal || Le personnage peut entrer dans une rage mineure lorsqu’il est près d’alliés enragés
-
-|- CLASS="premier"
-| [[Ténacité féroce]]* || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], trait racial de [[orque (race)#Traits_raciaux_standards_6|férocité]], aptitude de classe de [[barbare#RAGE|rage de berserker]] || Dépense des rounds de rage pour réduire des dégâts mortels
-
-|- CLASS="premier"
-| [[Vengeance sanguinaire]] || <sup>MR</sup> || [[orque (race)|Orque]] ou [[demi-orque]], non-Loyal || Le personnage peut entrer dans une rage mineure lorsqu’un allié est tué ou gravement blessé
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

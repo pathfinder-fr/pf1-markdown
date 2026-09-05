@@ -27,50 +27,9 @@ Le [[DD]] du test dépend des conditions dans lesquelles l’escalade s’effect
 Il est nécessaire d’avoir les deux mains libres lors d’une escalade, mais on peut se tenir à un mur d’une main le temps de lancer un sort ou d’effectuer une autre action réalisable d’une seule main. Il est impossible d’esquiver les coups tout en grimpant, ce qui signifie que le personnage perd son bonus de [[Dextérité]] à la [[CA]] (s’il en a un). Il est également impossible d’utiliser un bouclier en grimpant. Chaque fois qu’un personnage subit des dégâts alors qu’il escalade une paroi, il doit réussir un test d’Escalade contre le DD de la paroi pour éviter de tomber. En cas d’échec, les dégâts sont proportionnels à la hauteur de [[Dangers naturels#CHUTES|chute]].
 
 <center>
-{| CLASS="tablo" WIDTH="95%"
-|+ Tests d'escalade
-|- CLASS="titre"
-| DD du test d’Escalade
-| CLASS="gauche" | Exemple de surface ou d’activité
-|- CLASS="premier"
-| 0
-| CLASS="gauche" | une pente trop inclinée pour permettre d’avancer en marchant ou une corde à nœuds accrochée près d’un mur contre lequel on peut s’appuyer
-|- CLASS="alt"
-| 5
-| CLASS="gauche" | une corde accrochée près d’un mur contre lequel on peut s’appuyer, une corde à nœuds ou encore une corde créée par le sort corde enchantée
-|-
-| 10
-| CLASS="gauche" | une surface garnie de corniches où on peut se tenir ou s’accrocher, comme un mur en ruine ou un gréement de navire
-|- CLASS="alt"
-| 15
-| CLASS="gauche" | toute surface comprenant suffisamment de prises (naturelles ou artificielles), comme un rocher escarpé, un arbre ou une corde sans nœuds ou encore tenter de grimper sur un rebord auquel on s’agrippe par les mains
-|-
-| 20
-| CLASS="gauche" | une surface inégale comprenant quelques petites prises pour les mains et les pieds, comme un mur de donjon typique
-|- CLASS="alt"
-| 25
-| CLASS="gauche" | une surface rugueuse, comme une paroi rocheuse naturelle ou un mur de briques
-|-
-| 30
-| CLASS="gauche" | un dévers ou un plafond garnis de prises pour les mains mais pas pour les pieds
-|- CLASS="alt"
-| —
-| CLASS="gauche" | Une surface absolument plate, lisse et verticale ne peut pas être escaladée.
-|- CLASS="titre"
-| Modificateur*
-| CLASS="gauche" | Exemple de surface ou d’activité
-|- CLASS="premier"
-| -10
-| CLASS="gauche" | une cheminée (naturelle ou artificielle) ou n’importe quel autre goulet dans lequel on peut s’appuyer contre deux parois opposées en s’arc-boutant
-|- CLASS="alt"
-| -5
-| CLASS="gauche" | un coin où il est possible de s’appuyer contre deux murs perpendiculaires
-|-
-| +5
-| CLASS="gauche" | surface glissante
-|-
-| COLSPAN="2" CLASS="note" | *(*) Ces modificateurs se cumulent entre eux. Combinez tous ceux qui s’appliquent.*
-|}
+
+<table CLASS="tablo" WIDTH="95%"><caption>Tests d'escalade</caption><tr CLASS="titre"><td>DD du test d’Escalade</td><td CLASS="gauche">Exemple de surface ou d’activité</td></tr><tr CLASS="premier"><td>0</td><td CLASS="gauche">une pente trop inclinée pour permettre d’avancer en marchant ou une corde à nœuds accrochée près d’un mur contre lequel on peut s’appuyer</td></tr><tr CLASS="alt"><td>5</td><td CLASS="gauche">une corde accrochée près d’un mur contre lequel on peut s’appuyer, une corde à nœuds ou encore une corde créée par le sort corde enchantée</td></tr><tr><td>10</td><td CLASS="gauche">une surface garnie de corniches où on peut se tenir ou s’accrocher, comme un mur en ruine ou un gréement de navire</td></tr><tr CLASS="alt"><td>15</td><td CLASS="gauche">toute surface comprenant suffisamment de prises (naturelles ou artificielles), comme un rocher escarpé, un arbre ou une corde sans nœuds ou encore tenter de grimper sur un rebord auquel on s’agrippe par les mains</td></tr><tr><td>20</td><td CLASS="gauche">une surface inégale comprenant quelques petites prises pour les mains et les pieds, comme un mur de donjon typique</td></tr><tr CLASS="alt"><td>25</td><td CLASS="gauche">une surface rugueuse, comme une paroi rocheuse naturelle ou un mur de briques</td></tr><tr><td>30</td><td CLASS="gauche">un dévers ou un plafond garnis de prises pour les mains mais pas pour les pieds</td></tr><tr CLASS="alt"><td>—</td><td CLASS="gauche">Une surface absolument plate, lisse et verticale ne peut pas être escaladée.</td></tr><tr CLASS="titre"><td>Modificateur*</td><td CLASS="gauche">Exemple de surface ou d’activité</td></tr><tr CLASS="premier"><td>-10</td><td CLASS="gauche">une cheminée (naturelle ou artificielle) ou n’importe quel autre goulet dans lequel on peut s’appuyer contre deux parois opposées en s’arc-boutant</td></tr><tr CLASS="alt"><td>-5</td><td CLASS="gauche">un coin où il est possible de s’appuyer contre deux murs perpendiculaires</td></tr><tr><td>+5</td><td CLASS="gauche">surface glissante</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Ces modificateurs se cumulent entre eux. Combinez tous ceux qui s’appliquent.*</td></tr></table>
+
 </center>
 
 **Escalade accélérée.** Le personnage peut grimper plus vite que d’habitude. Il peut avancer à la moitié de sa [[vitesse de déplacement]] (au lieu du quart) en acceptant un malus de -5 au test.

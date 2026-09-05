@@ -35,15 +35,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de squelette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Champion squelette]] || 2
-|-
-| [[Squelette humain]] || 1/3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de squelette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Champion squelette]]</td><td>2</td></tr><tr><td>[[Squelette humain]]</td><td>1/3</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Squelette, archétype|Squelette]].***</li></ul>''Le tas d’os s’agite soudainement, se lève et prend une apparence humaine.
 Il tend ses longs doigts osseux pour griffer les vivants.''
 

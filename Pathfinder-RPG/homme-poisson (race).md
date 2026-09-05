@@ -65,17 +65,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux hommes-poissons, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Chasseur des mers]]</td><td><sup>MR</sup></td><td>[[Expertise du combat]], [[homme-poisson (race)|homme-poisson]]</td><td>Les coups de l'homme poisson déséquilibrent une cible qui nage</td></tr></table>
 
-|- CLASS="premier"
-| [[Chasseur des mers]] || <sup>MR</sup> || [[Expertise du combat]], [[homme-poisson (race)|homme-poisson]] || Les coups de l'homme poisson déséquilibrent une cible qui nage
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

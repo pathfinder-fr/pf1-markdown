@@ -61,64 +61,20 @@ En cas d’incident, le sort écrit sur le parchemin produit un effet inverse ou
 - Le sort fonctionne à retardement. Il prend effet dans les 1d12 heures suivant la lecture du parchemin. Si l’utilisateur devait être le sujet du sort, celui-ci fonctionne normalement. Dans le cas contraire, le sort part dans la direction du sujet ou de la cible et se déclenche au maximum de sa portée, dans le cas où le sujet s’est déplacé depuis la lecture du parchemin.
 
 <table width="100%"><tr><td width="49%">
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|DETERMINATION}Parchemins
-|- CLASS="titre"
-| Faible || Intermédiaire || Puissante || Niveau   
-du sort || Niveau   
-du lanceur
-|- CLASS="premier"
-| 01–05 || — || — || 0 || 1
-|-
-| 06–50 || — || — || 1er || 1
-|-
-| 51–95 || 01–05 || — || 2e || 3
-|-
-| 96–100 || 06–65 || — || 3e || 5
-|-
-| — || 66–95 || 01–05 || 4e || 7
-|-
-| — || 96–100 || 06–50 || 5e || 9
-|-
-| — || — || 51–70 || 6e || 11
-|-
-| — || — || 71–85 || 7e || 13
-|-
-| — || — || 86–95 || 8e || 15
-|-
-| — || — || 96–100 || 9e || 17
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|DETERMINATION}Parchemins</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Niveau   
+du sort</td><td>Niveau   
+du lanceur</td></tr><tr CLASS="premier"><td>01–05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr><td>06–50</td><td>—</td><td>—</td><td>1er</td><td>1</td></tr><tr><td>51–95</td><td>01–05</td><td>—</td><td>2e</td><td>3</td></tr><tr><td>96–100</td><td>06–65</td><td>—</td><td>3e</td><td>5</td></tr><tr><td>—</td><td>66–95</td><td>01–05</td><td>4e</td><td>7</td></tr><tr><td>—</td><td>96–100</td><td>06–50</td><td>5e</td><td>9</td></tr><tr><td>—</td><td>—</td><td>51–70</td><td>6e</td><td>11</td></tr><tr><td>—</td><td>—</td><td>71–85</td><td>7e</td><td>13</td></tr><tr><td>—</td><td>—</td><td>86–95</td><td>8e</td><td>15</td></tr><tr><td>—</td><td>—</td><td>96–100</td><td>9e</td><td>17</td></tr></table>
+
 </td><td width="2%">
 </td><td width="49%">
-{| CLASS="tablo centre autoalt"
-|+ Prix des parchemins
-|- CLASS="titre"
-| Niveau   
-du sort || Prêtre,   
+
+<table CLASS="tablo centre autoalt"><caption>Prix des parchemins</caption><tr CLASS="titre"><td>Niveau   
+du sort</td><td>Prêtre,   
 druide,   
-magicien || Ensorceleur || Barde || Paladin,   
-rôdeur
-|- CLASS="premier"
-| 0 || 12,5 po || 12,5 po || 12,5 po || —
-|-
-| 1er || 25 po || 25 po || 25 po || 25 po
-|-
-| 2e || 150 po || 200 po || 200 po || 200 po
-|-
-| 3e || 375 po || 450 po || 525 po || 525 po
-|-
-| 4e || 700 po || 800 po || 1 000 po || 1 000 po
-|-
-| 5e || 1 125 po || 1 250 po || 1 625 po || —
-|-
-| 6e || 1 650 po || 1 800 po || 2 400 po || —
-|-
-| 7e || 2 275 po || 2 450 po || — || —
-|-
-| 8e || 3 000 po || 3 200 po || — || —
-|-
-| 9e || 3 825 po || 4 050 po || — || —
-|}
+magicien</td><td>Ensorceleur</td><td>Barde</td><td>Paladin,   
+rôdeur</td></tr><tr CLASS="premier"><td>0</td><td>12,5 po</td><td>12,5 po</td><td>12,5 po</td><td>—</td></tr><tr><td>1er</td><td>25 po</td><td>25 po</td><td>25 po</td><td>25 po</td></tr><tr><td>2e</td><td>150 po</td><td>200 po</td><td>200 po</td><td>200 po</td></tr><tr><td>3e</td><td>375 po</td><td>450 po</td><td>525 po</td><td>525 po</td></tr><tr><td>4e</td><td>700 po</td><td>800 po</td><td>1 000 po</td><td>1 000 po</td></tr><tr><td>5e</td><td>1 125 po</td><td>1 250 po</td><td>1 625 po</td><td>—</td></tr><tr><td>6e</td><td>1 650 po</td><td>1 800 po</td><td>2 400 po</td><td>—</td></tr><tr><td>7e</td><td>2 275 po</td><td>2 450 po</td><td>—</td><td>—</td></tr><tr><td>8e</td><td>3 000 po</td><td>3 200 po</td><td>—</td><td>—</td></tr><tr><td>9e</td><td>3 825 po</td><td>4 050 po</td><td>—</td><td>—</td></tr></table>
+
 </td></tr></table>
 
 {s:AO}{s:Reference|PARCHEMINSPSYCHIQUES}
@@ -127,17 +83,9 @@ On différencie les parchemins en fonction du type de magie utilisée pour les c
 En règle générale, il y a 70 % de chances qu’un parchemin soit profane et 30 % de chances qu’il soit divin. Le MJ doit plutôt utiliser la table ci-dessous s’il détermine aléatoirement les trésors pour une aventure dans laquelle la [[la magie psychique|magie psychique]] est présente.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Détermination aléatoire des parchemins magiques
-|- CLASS="titre"
-| D100 || Type de parchemin
-|- CLASS="premier"
-| 1-59 || Parchemin [[magie profane|profane]]
-|- CLASS="alt"
-| 60-84 || Parchemin [[magie divine|divin]]
-|-
-| 85-100 || Parchemin [[la magie psychique|psychique]]
-|}
+
+<table CLASS="tablo col1centre"><caption>Détermination aléatoire des parchemins magiques</caption><tr CLASS="titre"><td>D100</td><td>Type de parchemin</td></tr><tr CLASS="premier"><td>1-59</td><td>Parchemin [[magie profane|profane]]</td></tr><tr CLASS="alt"><td>60-84</td><td>Parchemin [[magie divine|divin]]</td></tr><tr><td>85-100</td><td>Parchemin [[la magie psychique|psychique]]</td></tr></table>
+
 </center>
 
 {s:MMI}{s:Reference|PARCHEMINSAEFFEUILLER}

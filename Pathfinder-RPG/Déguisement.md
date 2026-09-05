@@ -24,54 +24,17 @@ Le personnage n’effectue qu’un seul test de Déguisement, même s’il se re
 L’efficacité du déguisement dépend en grande partie des modifications que le personnage apporte à son apparence normale. Il peut se déguiser en une créature qui a au plus une catégorie de taille de plus ou de moins que sa taille normale. Si le personnage se retrouve en situation de combat alors qu’il est déguisé, il continue d’utiliser sa taille et son allonge normales.
 
 <center>
-{| CLASS="tablo" WIDTH="80%"
-|+ Tests de déguisement
-|- CLASS="titre"
-| Déguisement
-| Modificateur au test de Déguisement
-|- CLASS="premier"
-| Petits détails seulement
-| +5
-|- CLASS="alt"
-| Sexe différent<sup>[[Déguisement#NOTE1|1]]</sup>
-| -2
-|-
-| Race différente<sup>[[Déguisement#NOTE1|1]]</sup>
-| -2
-|- CLASS="alt"
-| Catégorie d’âge différente<sup>[[Déguisement#NOTE1|1]]</sup>
-| -2<sup>[[Déguisement#NOTE2|2]]</sup>
-|-
-| Catégorie de taille différente<sup>1</sup>
-| -10
-|-
-| COLSPAN="2" CLASS="note" | {s:Reference|NOTE1}*(1) Ces modificateurs se cumulent entre eux. Utilisez tous ceux qui s’appliquent.*
-|-
-| COLSPAN="2" CLASS="note" | {s:Reference|NOTE2}*(2) Par catégorie de différence entre la catégorie d’âge du personnage et celle correspondant au déguisement. Les catégories sont les suivantes : jeune (avant l’âge adulte), adulte, âge moyen, grand âge, vénérable.*
-|}
+
+<table CLASS="tablo" WIDTH="80%"><caption>Tests de déguisement</caption><tr CLASS="titre"><td>Déguisement</td><td>Modificateur au test de Déguisement</td></tr><tr CLASS="premier"><td>Petits détails seulement</td><td>+5</td></tr><tr CLASS="alt"><td>Sexe différent<sup>[[Déguisement#NOTE1|1]]</sup></td><td>-2</td></tr><tr><td>Race différente<sup>[[Déguisement#NOTE1|1]]</sup></td><td>-2</td></tr><tr CLASS="alt"><td>Catégorie d’âge différente<sup>[[Déguisement#NOTE1|1]]</sup></td><td>-2<sup>[[Déguisement#NOTE2|2]]</sup></td></tr><tr><td>Catégorie de taille différente<sup>1</sup></td><td>-10</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE1}*(1) Ces modificateurs se cumulent entre eux. Utilisez tous ceux qui s’appliquent.*</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE2}*(2) Par catégorie de différence entre la catégorie d’âge du personnage et celle correspondant au déguisement. Les catégories sont les suivantes : jeune (avant l’âge adulte), adulte, âge moyen, grand âge, vénérable.*</td></tr></table>
+
 </center>
 
 Si l’aventurier tente de se faire passer pour un individu spécifique, ceux qui connaissent ce dernier bénéficient d’un bonus supplémentaire à leur test de [[Perception]], comme indiqué dans la table suivante. De plus, on considère qu’ils se montrent automatiquement soupçonneux à l’égard du personnage, ce qui justifie systématiquement un test opposé.
 
 <center>
-{| CLASS="tablo"
-|+ degré de familiarité
-|- CLASS="titre"
-| Bonus au test de Degré de familiarité
-| Perception de l’observateur
-|- CLASS="premier"
-| connaissance, connu de vue
-| +4
-|- CLASS="alt"
-| ami ou associé
-| +6
-|-
-| ami proche
-| +8
-|- CLASS="alt"
-| intime
-| +10
-|}
+
+<table CLASS="tablo"><caption>degré de familiarité</caption><tr CLASS="titre"><td>Bonus au test de Degré de familiarité</td><td>Perception de l’observateur</td></tr><tr CLASS="premier"><td>connaissance, connu de vue</td><td>+4</td></tr><tr CLASS="alt"><td>ami ou associé</td><td>+6</td></tr><tr><td>ami proche</td><td>+8</td></tr><tr CLASS="alt"><td>intime</td><td>+10</td></tr></table>
+
 </center>
 
 Les observateurs reçoivent un test de [[Perception]] pour percer le déguisement du personnage dès qu’ils le rencontrent, puis chaque heure par la suite. Si le personnage croise un grand nombre d’individus différents sans s’attarder auprès d’eux, un test de [[Perception]] global par heure (ou par jour) est amplement suffisant, en utilisant la moyenne des modificateurs de [[Perception]] des individus du groupe.

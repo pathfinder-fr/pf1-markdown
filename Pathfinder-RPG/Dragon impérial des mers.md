@@ -31,51 +31,17 @@ Categories:
 {s:BDTexte|**Souffle torrentiel (Sur).** Au lieu de créer un [[cône]] de vapeur bouillante, un très jeune dragon des mers, ou un dragon plus âgé, peut souffler un jet d’eau à haute pression sur une [[ligne]] faisant deux fois la longueur du [[cône]] de souffle du dragon des mers.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon des mers
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon des mers]] || &nbsp; || 8
-|-
-| [[Dragon des mers adulte]] || &nbsp; || 12
-|-
-| [[Dragon des mers vénérable]] || &nbsp; || 17
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon des mers</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des mers]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon des mers adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon des mers vénérable]]</td><td>&nbsp;</td><td>17</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>''Le long corps de ce dragon serpentin ploie et ondule, et ses écailles ont la
 même couleur que les vagues de l’océan.''
 
 Investis de la puissance des vagues et des tempêtes, les dragons des mers, ou jiaolongs tels qu’on les nomme sur de nombreux territoires, sont les protecteurs des océans et des créatures qui y vivent. De nature impétueuse, les dragons des mers voyagent beaucoup et s’approprient parfois des milliers de kilomètres d’océans et de littoraux.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || [[Immunité (capacité)|immunité]] à l’électricité, *[[respiration aquatique]]* || —
-|- CLASS="alt"
-| Très jeune || Souffle torrentiel || —
-|-
-| Jeune || Changement de forme, *[[création deau|création d’eau]]* || 1
-|- CLASS="alt"
-| Adolescent || Nageur débridé, *[[poussée hydraulique]]*, [[Présence terrifiante (capacité)|présence terrifiante]] || 3
-|-
-| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]] || 5
-|- CLASS="alt"
-| Adulte || *[[Appel de la foudre]]* || 7
-|-
-| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || *[[Contrôle de leau|Contrôle de l’eau]]*, écumeur des mers || 11
-|-
-| Très vieux || [[Réduction de dégâts (capacité)|RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[Marche sur londe|Marche sur l’onde]]* || 15
-|-
-| Dracosire || [[Réduction de dégâts (capacité)|RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || Raz-de-marée, *[[vortex]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>[[Immunité (capacité)|immunité]] à l’électricité, *[[respiration aquatique]]*</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Souffle torrentiel</td><td>—</td></tr><tr><td>Jeune</td><td>Changement de forme, *[[création deau|création d’eau]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>Nageur débridé, *[[poussée hydraulique]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[Appel de la foudre]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[Contrôle de leau|Contrôle de l’eau]]*, écumeur des mers</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Marche sur londe|Marche sur l’onde]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Raz-de-marée, *[[vortex]]*</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

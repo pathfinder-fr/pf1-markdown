@@ -44,34 +44,9 @@ Categories:
 </div>
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Troll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Troll des égouts]] || 2
-|-
-| [[Troll]] || 5
-|-
-| [[Acolyte troll]] || 6
-|-
-| [[Gardien troll]] || 6
-|-
-| [[Brute troll]] || 7
-|-
-| [[Étripeur troll]] || 8
-|-
-| [[Troll furieux]] || 8
-|-
-| [[Berserker troll]] || 9
-|-
-| [[Éventreur troll]] || 10
-|-
-| [[Matrone âgée troll]] || 10
-|-
-| [[Monarque troll]] || 15
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Troll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr><tr><td>[[Troll]]</td><td>5</td></tr><tr><td>[[Acolyte troll]]</td><td>6</td></tr><tr><td>[[Gardien troll]]</td><td>6</td></tr><tr><td>[[Brute troll]]</td><td>7</td></tr><tr><td>[[Étripeur troll]]</td><td>8</td></tr><tr><td>[[Troll furieux]]</td><td>8</td></tr><tr><td>[[Berserker troll]]</td><td>9</td></tr><tr><td>[[Éventreur troll]]</td><td>10</td></tr><tr><td>[[Matrone âgée troll]]</td><td>10</td></tr><tr><td>[[Monarque troll]]</td><td>15</td></tr></table>
+
 </div>Dans les petits groupes de trolls, il y en a toujours un qui est désigné pour assurer la sécurité des membres de la tribu et de leur territoire. Ces trolls possèdent parfois des pouvoirs magiques ou tout simplement une bonne connaissance de la nature.
 
 Le troll acolyte a mis sa dévotion pour son seigneur démon à l’épreuve en brûlant sa chair à l’acide et au feu afin de guérir

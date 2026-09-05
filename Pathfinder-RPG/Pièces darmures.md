@@ -104,30 +104,9 @@ dans cet ensemble, ainsi que les avantages qui résultent de
 l’assemblage de ces pièces.
 
 <center>
-{| CLASS="tablo autoalt"
-|+ {s:Reference|TABPIECESPLAQUES}Pièces des armures de plaques
-|- CLASS="titre"
-| ROWSPAN="2" | Type d’armure
-| ROWSPAN="2" | [[Caractéristiques des armures#PRIX|Prix]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]
-| ROWSPAN="2" | [[Caractéristiques des armures#BONUSDEXMAX|Bonus de Dex max]]
-| ROWSPAN="2" | [[Caractéristiques des armures#MALUSARMURE|Malus d’armure aux tests]]
-| ROWSPAN="2" | [[Caractéristiques des armures#RISQUEECHECPROFANE|Risque d’échec des sorts profanes]]
-| COLSPAN="2" CLASS="avecsoustitre" | [[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]
-| ROWSPAN="2" | [[Caractéristiques des armures#POIDS|Poids]]
-|- CLASS="soustitre"
-| 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6m&nbsp;(4&nbsp;{s:c})
-|- CLASS="premier"
-| Armure de plaques || 600&nbsp;po || +8 || +0 || -7 || 40% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 25 kg
-|-
-| (bras d’armure en plaques) || 375&nbsp;po || +1 || +0 || -7 || 35% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 5 kg
-|-
-| (jambières de mailles) || 25&nbsp;po || +0 || +2 || -2 || 15% || 9&nbsp;m&nbsp;(6&nbsp;{s:c}) || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 5 kg
-|-
-| (pectoral de plaques) || 200&nbsp;po || +6 || +3 || -4 || 35% || 6&nbsp;m&nbsp;(4&nbsp;{s:c}) || 4,50&nbsp;m&nbsp;(3&nbsp;{s:c}) || 15 kg
-|-
-| (port de l’ensemble) || – || +1 || – || – || +5% || – || – || –
-|}
+
+<table CLASS="tablo autoalt"><caption>{s:Reference|TABPIECESPLAQUES}Pièces des armures de plaques</caption><tr CLASS="titre"><td ROWSPAN="2">Type d’armure</td><td ROWSPAN="2">[[Caractéristiques des armures#PRIX|Prix]]</td><td ROWSPAN="2">[[Caractéristiques des armures#BONUSARMUREBOUCLIER|Bonus d’armure]]</td><td ROWSPAN="2">[[Caractéristiques des armures#BONUSDEXMAX|Bonus de Dex max]]</td><td ROWSPAN="2">[[Caractéristiques des armures#MALUSARMURE|Malus d’armure aux tests]]</td><td ROWSPAN="2">[[Caractéristiques des armures#RISQUEECHECPROFANE|Risque d’échec des sorts profanes]]</td><td COLSPAN="2" CLASS="avecsoustitre">[[Caractéristiques des armures#VITESSEDEPLACEMENT|Vitesse]]</td><td ROWSPAN="2">[[Caractéristiques des armures#POIDS|Poids]]</td></tr><tr CLASS="soustitre"><td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td><td>6m&nbsp;(4&nbsp;{s:c})</td></tr><tr CLASS="premier"><td>Armure de plaques</td><td>600&nbsp;po</td><td>+8</td><td>+0</td><td>-7</td><td>40%</td><td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td><td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td><td>25 kg</td></tr><tr><td>(bras d’armure en plaques)</td><td>375&nbsp;po</td><td>+1</td><td>+0</td><td>-7</td><td>35%</td><td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td><td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td><td>5 kg</td></tr><tr><td>(jambières de mailles)</td><td>25&nbsp;po</td><td>+0</td><td>+2</td><td>-2</td><td>15%</td><td>9&nbsp;m&nbsp;(6&nbsp;{s:c})</td><td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td><td>5 kg</td></tr><tr><td>(pectoral de plaques)</td><td>200&nbsp;po</td><td>+6</td><td>+3</td><td>-4</td><td>35%</td><td>6&nbsp;m&nbsp;(4&nbsp;{s:c})</td><td>4,50&nbsp;m&nbsp;(3&nbsp;{s:c})</td><td>15 kg</td></tr><tr><td>(port de l’ensemble)</td><td>–</td><td>+1</td><td>–</td><td>–</td><td>+5%</td><td>–</td><td>–</td><td>–</td></tr></table>
+
 </center>
 
 ### Port des pièces d'armure
@@ -220,41 +199,13 @@ d’armure de mailles, et [[Réduction de dégâts (capacité)|réduction des d�
 pectoral d’armure de plaques comme une cuirasse).
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Pièces d'armure en adamantium
-|- CLASS="titre"
-| Type d’objet en adamantium || Modificateur au prix de vente
-|-
-| Bras d’armure intermédiaire || +2 500 po
-|- CLASS="alt"
-| Jambes d’armure intermédiaire || +2 500 po
-|-
-| Pectoral d’armure intermédiaire || +5 000 po
-|- CLASS="alt"
-| Bras d’armure lourde || +2 500 po
-|-
-| Jambes d’armure lourde || +2 500 po
-|- CLASS="alt"
-| Pectoral d’armure lourde || +10 000 po
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Pièces d'armure en adamantium</caption><tr CLASS="titre"><td>Type d’objet en adamantium</td><td>Modificateur au prix de vente</td></tr><tr><td>Bras d’armure intermédiaire</td><td>+2 500 po</td></tr><tr CLASS="alt"><td>Jambes d’armure intermédiaire</td><td>+2 500 po</td></tr><tr><td>Pectoral d’armure intermédiaire</td><td>+5 000 po</td></tr><tr CLASS="alt"><td>Bras d’armure lourde</td><td>+2 500 po</td></tr><tr><td>Jambes d’armure lourde</td><td>+2 500 po</td></tr><tr CLASS="alt"><td>Pectoral d’armure lourde</td><td>+10 000 po</td></tr></table>
+
 {br}{br}
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Pièces d'armure en mithral
-|- CLASS="titre"
-| Type d’objet en mithral || Modificateur au prix de vente
-|-
-| Bras d’armure intermédiaire || +1 500 po
-|- CLASS="alt"
-| Jambes d’armure intermédiaire || +1 500 po
-|-
-| Pectoral d’armure intermédiaire || +1 000 po
-|- CLASS="alt"
-| Bras d’armure lourde || +2 500 po
-|-
-| Jambes d’armure lourde || +2 500 po
-|- CLASS="alt"
-| Pectoral d’armure lourde || +4 000 po
-|}</div>{s:Reference|Adamantium}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Pièces d'armure en mithral</caption><tr CLASS="titre"><td>Type d’objet en mithral</td><td>Modificateur au prix de vente</td></tr><tr><td>Bras d’armure intermédiaire</td><td>+1 500 po</td></tr><tr CLASS="alt"><td>Jambes d’armure intermédiaire</td><td>+1 500 po</td></tr><tr><td>Pectoral d’armure intermédiaire</td><td>+1 000 po</td></tr><tr CLASS="alt"><td>Bras d’armure lourde</td><td>+2 500 po</td></tr><tr><td>Jambes d’armure lourde</td><td>+2 500 po</td></tr><tr CLASS="alt"><td>Pectoral d’armure lourde</td><td>+4 000 po</td></tr></table></div>{s:Reference|Adamantium}
+
 #### Adamantium
 Les armures faites en adamantium accordent à leur porteur
 une [[Réduction de dégâts (capacité)|réduction des dégâts]] de 1/– si elles sont dans la catégorie
@@ -304,33 +255,9 @@ dont disposait le dragon dont la peau a été utilisée. Les pièces d'armure en
 ### Enfiler et ôter ses pièces d'armure
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 400px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ {s:Reference|TABSEQUIPER}S'équiper d'une pièce d'armure
-|- CLASS="titre"
-| Type de pièce || Enfiler || À la hâte || Ôter
-|-
-| Bras d’armure légère || 2 rounds || 1 round || 2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|- CLASS="alt"
-| Jambes d’armure légère || 3 rounds || 2 rounds || 2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|-
-| Pectoral d’armure lourde || 5 rounds || 2 rounds || 5 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|- CLASS="alt"
-| Bras d’armure intermédiaire || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup> || 2 rounds || 2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|-
-| Jambes d’armure intermédiaire || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup> || 3 rounds || 2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|- CLASS="alt"
-| Pectoral d’armure intermédiaire || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup> || 5 rounds || 3 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|-
-| Bras d’armure lourde || 1 minute<sup>[[Pièces darmures#TABSEQUIPER2|2]]</sup> || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup> || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|- CLASS="alt"
-| Jambes d’armure lourde || 1 minute<sup>[[Pièces darmures#TABSEQUIPER2|2]]</sup> || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup> || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|-
-| Pectoral d’armure lourde || 2 minutes<sup>[[Pièces darmures#TABSEQUIPER2|2]]</sup> || 1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup> || 2 minutes<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup>
-|- CLASS="note"
-| COLSPAN="4" | {s:Reference|TABSEQUIPER1}*(1). Si le personnage est aidé, ce laps de temps est divisé par 2. Une seule créature peut aider une ou deux créatures adjacentes, à condition de ne faire rien d’autre. Deux personnages ne peuvent pas s’aider l’un l’autre pour enfiler ou ôter leurs pièces d’armure simultanément.*
-|- CLASS="note"
-| COLSPAN="4" | {s:Reference|TABSEQUIPER2}*(2). Une aide est nécessaire pour enfiler correctement cette pièce d’armure. Sans aide, elle ne peut être enfilée qu’hâtivement (avec les conséquences indiquées ci-dessus).*
-|}</div></div>Le temps requis pour enfiler une pièce d’armure dépend
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TABSEQUIPER}S'équiper d'une pièce d'armure</caption><tr CLASS="titre"><td>Type de pièce</td><td>Enfiler</td><td>À la hâte</td><td>Ôter</td></tr><tr><td>Bras d’armure légère</td><td>2 rounds</td><td>1 round</td><td>2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr CLASS="alt"><td>Jambes d’armure légère</td><td>3 rounds</td><td>2 rounds</td><td>2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr><td>Pectoral d’armure lourde</td><td>5 rounds</td><td>2 rounds</td><td>5 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr CLASS="alt"><td>Bras d’armure intermédiaire</td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td><td>2 rounds</td><td>2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr><td>Jambes d’armure intermédiaire</td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td><td>3 rounds</td><td>2 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr CLASS="alt"><td>Pectoral d’armure intermédiaire</td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td><td>5 rounds</td><td>3 rounds<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr><td>Bras d’armure lourde</td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER2|2]]</sup></td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr CLASS="alt"><td>Jambes d’armure lourde</td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER2|2]]</sup></td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr><td>Pectoral d’armure lourde</td><td>2 minutes<sup>[[Pièces darmures#TABSEQUIPER2|2]]</sup></td><td>1 minute<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td><td>2 minutes<sup>[[Pièces darmures#TABSEQUIPER1|1]]</sup></td></tr><tr CLASS="note"><td COLSPAN="4">{s:Reference|TABSEQUIPER1}*(1). Si le personnage est aidé, ce laps de temps est divisé par 2. Une seule créature peut aider une ou deux créatures adjacentes, à condition de ne faire rien d’autre. Deux personnages ne peuvent pas s’aider l’un l’autre pour enfiler ou ôter leurs pièces d’armure simultanément.*</td></tr><tr CLASS="note"><td COLSPAN="4">{s:Reference|TABSEQUIPER2}*(2). Une aide est nécessaire pour enfiler correctement cette pièce d’armure. Sans aide, elle ne peut être enfilée qu’hâtivement (avec les conséquences indiquées ci-dessus).*</td></tr></table></div></div>Le temps requis pour enfiler une pièce d’armure dépend
+
 de son type et de la zone qu’elle protège, comme indiqué
 dans la table "[[Pièces darmures#TABSEQUIPER|S'équiper d'une pièce d'armure]]".
 

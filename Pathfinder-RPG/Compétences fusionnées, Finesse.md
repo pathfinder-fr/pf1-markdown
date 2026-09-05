@@ -19,18 +19,11 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Circonstances || DD du test  
-de Finesse
-|- CLASS="premier"
-| Dague || +2
-|-
-| Objet particulièrement petit (pièce  
-de monnaie, anneau, shuriken) || +4
-|-
-| Habits épais ou amples || +2
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Circonstances</td><td>DD du test  
+de Finesse</td></tr><tr CLASS="premier"><td>Dague</td><td>+2</td></tr><tr><td>Objet particulièrement petit (pièce  
+de monnaie, anneau, shuriken)</td><td>+4</td></tr><tr><td>Habits épais ou amples</td><td>+2</td></tr></table>
+
 </center></div></div>Cacher un petit objet sur sa personne (tel qu’une arme légère ou une arme à distance facile à cacher, comme une [[fléchette (arme)|fléchette]], une [[fronde (arme)|fronde]] ou une [[arbalète de poing (arme)|arbalète de poing]]) nécessite un test de Finesse opposé aux tests de [[Compétences fusionnées, Perception|Perception]] des individus qui observent ou fouillent le personnage. Celui-ci bénéficie d’un bonus de +2 sur ce test s’il tente de cacher une dague. Quelqu’un qui fouille le personnage bénéficie d’un bonus de +4 à ce test de Perception. Le type d’objet que le personnage tente de cacher et la nature de ses habits peuvent modifier la difficulté de son test. Ces modificateurs se cumulent entre eux.
 
 **Action.** [[Action simple]] ou [[action de mouvement]] avec un malus de -20.
@@ -44,20 +37,9 @@ de monnaie, anneau, shuriken) || +4
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Qualité de la serrure || DD du test de Finesse
-|- CLASS="premier"
-| Simple || 20
-|-
-| Moyenne || 25
-|-
-| Bonne || 30
-|-
-| Excellente || 40
-|-
-| Pas d’[[Outils de cambrioleur (objet)|outils de cambrioleur]] || +10
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Qualité de la serrure</td><td>DD du test de Finesse</td></tr><tr CLASS="premier"><td>Simple</td><td>20</td></tr><tr><td>Moyenne</td><td>25</td></tr><tr><td>Bonne</td><td>30</td></tr><tr><td>Excellente</td><td>40</td></tr><tr><td>Pas d’[[Outils de cambrioleur (objet)|outils de cambrioleur]]</td><td>+10</td></tr></table>
+
 </center></div></div>Le [[DD]] pour crocheter une serrure dépend de la qualité de celle-ci.
 
 **Action.** [[Action complexe]].
@@ -77,25 +59,16 @@ Il faut réussir un test de Finesse [[DD]] 20 pour dérober quelque chose à que
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Objet || Temps  
-nécessaire || DD du test  
-de Finesse || Exemple
-|- CLASS="premier"
-| Simple || 1 round || 10 || Coincer une serrure
-|-
-| Complexe || 1d4 rounds || 15 || Saboter une roue  
-de chariot
-|-
-| Très complexe || 2d4 rounds || 20 || Désarmer ou réarmer  
-un piège
-|-
-| Extrêmement || 2d4 rounds || 25 || Désarmer un piège  
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Objet</td><td>Temps  
+nécessaire</td><td>DD du test  
+de Finesse</td><td>Exemple</td></tr><tr CLASS="premier"><td>Simple</td><td>1 round</td><td>10</td><td>Coincer une serrure</td></tr><tr><td>Complexe</td><td>1d4 rounds</td><td>15</td><td>Saboter une roue  
+de chariot</td></tr><tr><td>Très complexe</td><td>2d4 rounds</td><td>20</td><td>Désarmer ou réarmer  
+un piège</td></tr><tr><td>Extrêmement</td><td>2d4 rounds</td><td>25</td><td>Désarmer un piège  
 complexe, saboter un  
 mécanisme à engrenages  
-complexes
-|}
+complexes</td></tr></table>
+
 </center></div></div>C’est le [[MJ]] qui effectue en secret ce type de test de Finesse pour que le personnage ne sache pas s’il a réussi ou non. S’il réussit, le personnage désamorce le piège ou sabote l’objet. En cas d’échec de 1 à 4 points, la tentative échoue mais le personnage peut réessayer. Si le test est raté d’au moins 5 points, dans le cas d’un piège, il se déclenche et, dans le cadre d’une tentative de sabotage, le personnage est persuadé d’avoir mis l’objet hors service alors que celui-ci continue de fonctionner normalement.
 Le personnage peut tenter de saboter un objet sans que cela soit visible mais, dans ce cas, le [[DD]] augmente de +5. Il est possible de saboter des objets simples (comme une selle ou la roue d’un chariot) de telle façon qu’ils fonctionnent normalement pendant un certain temps, puis se cassent un peu plus tard (généralement après 1d4 [[round|rounds]] ou minutes d’utilisation).
 

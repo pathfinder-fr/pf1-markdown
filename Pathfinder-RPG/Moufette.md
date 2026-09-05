@@ -36,15 +36,9 @@ LastModified: 2020-09-21 16:36
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de moufette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Moufette]] || 1/4
-|-
-| [[Moufette géante]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de moufette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Moufette]]</td><td>1/4</td></tr><tr><td>[[Moufette géante]]</td><td>3</td></tr></table>
+
 </div>*Semblable à un petit blaireau, cette créature a une fourrure noire rayée de blanc de son museau à sa queue touffue relevée en signe d’avertissement.*
 
 Ces petits mammifères sont bien connus des humanoïdes et des créatures de la forêt, à cause de leur fourrure distinctive rayée de noir et de blanc et de leur odeur. Les créatures comme les grands félins ou les loups qui, normalement, se feraient un bon repas de ces petites créatures, laissent les moufettes en paix, sachant que le mélange de noir et de blanc colorant le dos de la moufette est synonyme d’une puanteur épouvantable.

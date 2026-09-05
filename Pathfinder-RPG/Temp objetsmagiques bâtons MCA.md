@@ -5,19 +5,9 @@ LastModified: 2020-06-09 18:45
 ---
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Les bâtons
-|- CLASS="titre"
-| Bâtons intermédiaires de faible puissance || Prix
-|- CLASS="premier"
-| [[Temp objetsmagiques bâtons MCA#Etincelles|Bâton d’étincelles]] || 12 650 po
-|- CLASS="alt"
-| [[Temp objetsmagiques bâtons MCA#Braises|Bâton de braises]] || 13 100 po
-|-
-| [[Temp objetsmagiques bâtons MCA#Monstre|Bâton de monstruosification]] || 12 000 po
-|- CLASS="alt"
-| [[Temp objetsmagiques bâtons MCA#Fossoyeur|Bêche du fossoyeur]] || 12 150 po
-|}
+
+<table CLASS="tablo col1centre"><caption>Les bâtons</caption><tr CLASS="titre"><td>Bâtons intermédiaires de faible puissance</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Temp objetsmagiques bâtons MCA#Etincelles|Bâton d’étincelles]]</td><td>12 650 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques bâtons MCA#Braises|Bâton de braises]]</td><td>13 100 po</td></tr><tr><td>[[Temp objetsmagiques bâtons MCA#Monstre|Bâton de monstruosification]]</td><td>12 000 po</td></tr><tr CLASS="alt"><td>[[Temp objetsmagiques bâtons MCA#Fossoyeur|Bêche du fossoyeur]]</td><td>12 150 po</td></tr></table>
+
 </center>
 
 

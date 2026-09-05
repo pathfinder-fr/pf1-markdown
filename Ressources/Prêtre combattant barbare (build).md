@@ -182,48 +182,5 @@ Il visera à obtenir les objets magiques suivants :</br>
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution de l'Enragé Divin
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Dons, capacités de classe
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Barbare|Barbare]] 1 || +1 || - || [[Pathfinder-RPG.Rage supplémentaire|Rage supplémentaire]]
-|-
-| 02 || [[Pathfinder-RPG.Barbare|Barbare]] 2 || +2 || - || [[Pathfinder-RPG.pouvoirs de rage|Pouvoir de rage]] : [[Pathfinder-RPG.pouvoirs de rage#SANGABYSSALMINEUR|sang abyssal mineur]]
-|-
-| 03 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 1 || +2 || 1 || [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] : griffes ; [[Pathfinder-RPG.Pouvoir de rage supplémentaire|Pouvoir de rage supplémentaire]] : [[Pathfinder-RPG.pouvoirs de rage#TOTEMFIELONMINEUR|totem fiélon mineur]]
-|-
-| 04 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 2 || +3 || 2 || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 3 || +4 || 5 || [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Attaque en puissance|attaque en puissance]] ; [[Pathfinder-RPG.Traits supplémentaires|traits supplémentaires]] : [[Pathfinder-RPG.Traits de magie|don pour la magie]] et [[Pathfinder-RPG.Traits de foi|favori de la chance]]
-|-
-| 06 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 4 || +5 || 6 || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 5 || +5 || 7 || [[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +1 ; [[Pathfinder-RPG.Sang angélique|Sang angélique]]
-|-
-| 08 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 6 || +6 || 8 || [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Polyvalence martiale|Polyvalence martiale]] : [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] : [[Pathfinder-RPG.Groupe darmes#Armesnaturelles|armes naturelles]]
-|-
-| 09 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 7 || +7 || 9 || [[Pathfinder-RPG.Chair angélique|Chair angélique]] : acier
-|-
-| 10 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 8 || +8 || 10 || &nbsp;
-|-
-| 11 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 9 || +8 || 11 || [[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +2 ; [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Fente|fente]] ; [[Pathfinder-RPG.Ailes dange|Ailes d'ange]]
-|-
-| 12 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 10 || +9 || 12 || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 11 || +10 || 13 || [[Pathfinder-RPG.Ailes métalliques|Ailes métalliques]]
-|-
-| 14 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 12 || +11 || 14 || [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : Don au choix
-|-
-| 15 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 13 || +11 || 15 || [[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +3 ; [[Pathfinder-RPG.Attaques multiples|Attaques multiples]]
-|-
-| 16 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 14 || +12 || 16 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 15 || +13 || 17 || [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : Don au choix ; Don au choix
-|-
-| 18 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 16 || +14 || 18 || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 17 || +14 || 19 || [[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +4 ; Don au choix
-|-
-| 20 || [[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 18 || +15 || 20 || [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : Don au choix
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution de l'Enragé Divin</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Barbare|Barbare]] 1</td><td>+1</td><td>-</td><td>[[Pathfinder-RPG.Rage supplémentaire|Rage supplémentaire]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Barbare|Barbare]] 2</td><td>+2</td><td>-</td><td>[[Pathfinder-RPG.pouvoirs de rage|Pouvoir de rage]] : [[Pathfinder-RPG.pouvoirs de rage#SANGABYSSALMINEUR|sang abyssal mineur]]</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 1</td><td>+2</td><td>1</td><td>[[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] : griffes ; [[Pathfinder-RPG.Pouvoir de rage supplémentaire|Pouvoir de rage supplémentaire]] : [[Pathfinder-RPG.pouvoirs de rage#TOTEMFIELONMINEUR|totem fiélon mineur]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 2</td><td>+3</td><td>2</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 3</td><td>+4</td><td>5</td><td>[[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Attaque en puissance|attaque en puissance]] ; [[Pathfinder-RPG.Traits supplémentaires|traits supplémentaires]] : [[Pathfinder-RPG.Traits de magie|don pour la magie]] et [[Pathfinder-RPG.Traits de foi|favori de la chance]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 4</td><td>+5</td><td>6</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 5</td><td>+5</td><td>7</td><td>[[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +1 ; [[Pathfinder-RPG.Sang angélique|Sang angélique]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 6</td><td>+6</td><td>8</td><td>[[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Polyvalence martiale|Polyvalence martiale]] : [[Pathfinder-RPG.Arme de prédilection|Arme de prédilection]] : [[Pathfinder-RPG.Groupe darmes#Armesnaturelles|armes naturelles]]</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 7</td><td>+7</td><td>9</td><td>[[Pathfinder-RPG.Chair angélique|Chair angélique]] : acier</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 8</td><td>+8</td><td>10</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 9</td><td>+8</td><td>11</td><td>[[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +2 ; [[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : [[Pathfinder-RPG.Fente|fente]] ; [[Pathfinder-RPG.Ailes dange|Ailes d'ange]]</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 10</td><td>+9</td><td>12</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 11</td><td>+10</td><td>13</td><td>[[Pathfinder-RPG.Ailes métalliques|Ailes métalliques]]</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 12</td><td>+11</td><td>14</td><td>[[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : Don au choix</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 13</td><td>+11</td><td>15</td><td>[[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +3 ; [[Pathfinder-RPG.Attaques multiples|Attaques multiples]]</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 14</td><td>+12</td><td>16</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 15</td><td>+13</td><td>17</td><td>[[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : Don au choix ; Don au choix</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 16</td><td>+14</td><td>18</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 17</td><td>+14</td><td>19</td><td>[[Pathfinder-RPG.Chapelain de larsenal militaire (prêtre combattant)#Entraînement_aux_armes_Ext_2|Entraînement aux armes]] +4 ; Don au choix</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Prêtre combattant|Prêtre combattant]] 18</td><td>+15</td><td>20</td><td>[[Pathfinder-RPG.Prêtre combattant#DONSUPPLEMENTAIRE|Don supplémentaire]] : Don au choix</td></tr></table>

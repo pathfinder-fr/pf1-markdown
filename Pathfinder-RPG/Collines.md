@@ -15,18 +15,9 @@ Les collines existent dans la plupart des types de terrains, mais il leur arrive
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Catégories de colline || Coteaux || Colline accidentée
-|- CLASS="premier"
-| Pente douce || 75% || 40%
-|- CLASS="alt"
-| Pente raide || 20% || 50%
-|-
-| Broussailles légères || 5% || 10%
-|- CLASS="alt"
-| Broussailles épaisses || 15% || 15%
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de colline</td><td>Coteaux</td><td>Colline accidentée</td></tr><tr CLASS="premier"><td>Pente douce</td><td>75%</td><td>40%</td></tr><tr CLASS="alt"><td>Pente raide</td><td>20%</td><td>50%</td></tr><tr><td>Broussailles légères</td><td>5%</td><td>10%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>15%</td><td>15%</td></tr></table>
+
 </center>
 </div/></div>
 **Pente douce.** Cette pente n’est pas assez raide pour affecter les déplacements, mais les personnages situés en amont bénéficient d’un bonus de +1 aux jets d’attaque au corps à corps.

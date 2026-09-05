@@ -22,18 +22,9 @@ Categories:
 Les créatures d’[[alignement]] autre que Loyal entendant le *décret* sont affectées par les effets néfastes suivants :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Dés de vie || Effet
-|- CLASS="premier"
-| Égaux au [[NLS|niveau de lanceur de sorts]] || Assourdissement
-|- CLASS="alt"
-| Jusqu’au [[NLS|niveau de lanceur de sorts]] -1 || Assourdissement, ralentissement
-|-
-| Jusqu’au [[NLS|niveau de lanceur de sorts]] -5 || Assourdissement, paralysie, ralentissement
-|- CLASS="alt"
-| Jusqu’au [[NLS|niveau de lanceur de sorts]] -10 || Assourdissement, mort, paralysie, ralentissement
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Dés de vie</td><td>Effet</td></tr><tr CLASS="premier"><td>Égaux au [[NLS|niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -1</td><td>Assourdissement, ralentissement</td></tr><tr><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -5</td><td>Assourdissement, paralysie, ralentissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[NLS|niveau de lanceur de sorts]] -10</td><td>Assourdissement, mort, paralysie, ralentissement</td></tr></table>
+
 </center>
 
 Tous ces effets sont cumulatifs et simultanés. Si la victime réussit son [[jet de sauvegarde]], elle réduit ou [[Présentation des sorts#JETSDESAUVEGARDE|annule]] ces effets. Les créatures touchées par plusieurs effets ne font qu’un seul [[jet de sauvegarde]] qui s’applique à tous les effets.

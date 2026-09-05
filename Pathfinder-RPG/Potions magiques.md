@@ -30,39 +30,19 @@ Un personnage peut faire boire une potion à une créature [[inconscient|inconsc
 {s:Reference|DETERMINATION}
 <center>
 <div><table width="100%"><tr><td width="50%" align="center">
-{| CLASS="tablo col1centre"
-|+ Potions
-|- CLASS="titre"
-| Faible || Intermédiaire || Puissante || Niveau  
- du sort || Niveau du  
- lanceur de sorts
-|- CLASS="premier"
-| 01–20 || — || — || 0 || 1
-|- CLASS="alt"
-| 21–60 || 01–20 || — || 1er || 1
-|-
-| 61–100 || 21–60 || 01–20 || 2e || 3
-|- CLASS="alt"
-| — || 61–100 || 21–100 || 3e || 5
-|}
+
+<table CLASS="tablo col1centre"><caption>Potions</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Niveau  
+ du sort</td><td>Niveau du  
+ lanceur de sorts</td></tr><tr CLASS="premier"><td>01–20</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr CLASS="alt"><td>21–60</td><td>01–20</td><td>—</td><td>1er</td><td>1</td></tr><tr><td>61–100</td><td>21–60</td><td>01–20</td><td>2e</td><td>3</td></tr><tr CLASS="alt"><td>—</td><td>61–100</td><td>21–100</td><td>3e</td><td>5</td></tr></table>
+
 </td><td width="50%" align="center">
-{| CLASS="tablo"
-|+ Coût des potions
-|- CLASS="titre"
-| Niveau  
-du sort || Druides,  
+
+<table CLASS="tablo"><caption>Coût des potions</caption><tr CLASS="titre"><td>Niveau  
+du sort</td><td>Druides,  
 magiciens,  
-prêtres || Ensorceleur || Barde || Paladin,  
-rôdeur
-|- CLASS="premier"
-| 0 || 25 po || 25 po || 25 po || —
-|- CLASS="alt"
-| 1er || 50 po || 50 po || 50 po || 50 po
-|-
-| 2e || 300 po || 400 po || 400 po || 400 po
-|- CLASS="alt"
-| 3e || 750 po || 900 po || 1050 po || 1050 po
-|}
+prêtres</td><td>Ensorceleur</td><td>Barde</td><td>Paladin,  
+rôdeur</td></tr><tr CLASS="premier"><td>0</td><td>25 po</td><td>25 po</td><td>25 po</td><td>—</td></tr><tr CLASS="alt"><td>1er</td><td>50 po</td><td>50 po</td><td>50 po</td><td>50 po</td></tr><tr><td>2e</td><td>300 po</td><td>400 po</td><td>400 po</td><td>400 po</td></tr><tr CLASS="alt"><td>3e</td><td>750 po</td><td>900 po</td><td>1050 po</td><td>1050 po</td></tr></table>
+
 </td></tr></table>
 </div>
 </center>

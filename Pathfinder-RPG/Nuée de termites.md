@@ -39,15 +39,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de termite
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Nuée de termites]] || 6
-|-
-| [[Termite géant]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de termite</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de termites]]</td><td>6</td></tr><tr><td>[[Termite géant]]</td><td>3</td></tr></table>
+
 </div>*Le sol grouille de termites qui mordent et piquent tout ce qui se trouve sur leur passage.*
 
 Les nuées de termites sont un véritable fléau pour les architectes et les ingénieurs des climats chauds. Ces insectes vivent dans des termitières et des nids d’où ils sortent pour dévorer les plantes, les bûches pourries mais aussi les structures de bois, toujours depuis l’intérieur. Ils peuvent rapidement provoquer l’effondrement des charpentes les plus solides. Il est presque impossible d’éradiquer ces insectes qui réagissent violemment quand quelqu’un menace leur termitière.

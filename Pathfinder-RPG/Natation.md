@@ -23,24 +23,10 @@ Un personnage doit effectuer un test de Natation une fois par round tant qu'il e
 Une fois qu’un personnage se trouve sous l’eau, soit parce qu’il a coulé, soit parce qu’il s’y trouve intentionnellement, il doit retenir sa respiration. Un personnage qui n’effectue que des [[action de mouvement|actions de mouvement]] ou des [[action libre|actions libres]] peut retenir sa respiration pendant un nombre de rounds égal au double de sa valeur de [[Constitution]]. Si le personnage entreprend une [[action simple]] ou [[action complexe|complexe]] (comme une attaque), le temps pendant lequel il peut encore retenir sa respiration est réduit d’un round (dans les faits, un personnage qui combat peut retenir sa respiration deux fois moins longtemps). Une fois arrivé au terme de cette période, le personnage doit réaliser un test de [[Constitution]] de DD 10 pour savoir s’il parvient à continuer de retenir sa respiration. Chaque round, un autre test de [[Constitution]], dont le DD augmente de +1, est nécessaire. Dès qu’il rate un test de [[Constitution]], le personnage commence à se [[Dangers naturels#NOYADE|noyer]]. Le DD du test de Natation dépend du courant, comme indiqué dans la table suivante.
 
 <center>
-{| CLASS="tablo"
-|+ tests de natation
-|- CLASS="titre"
-| Courant
-| DD du test de Natation
-|- CLASS="premier"
-| Eaux calmes
-| 10
-|- CLASS="alt"
-| Eaux agitées
-| 15
-|-
-| Eaux très agitées (par tempête par exemple)
-| 20*
-|-
-| COLSPAN="2" CLASS="note" | *(*) Il est impossible de faire 10 sur un test de Natation dans des eaux très   
-agitées, même en l’absence de distractions et de menaces.*
-|}
+
+<table CLASS="tablo"><caption>tests de natation</caption><tr CLASS="titre"><td>Courant</td><td>DD du test de Natation</td></tr><tr CLASS="premier"><td>Eaux calmes</td><td>10</td></tr><tr CLASS="alt"><td>Eaux agitées</td><td>15</td></tr><tr><td>Eaux très agitées (par tempête par exemple)</td><td>20*</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Il est impossible de faire 10 sur un test de Natation dans des eaux très   
+agitées, même en l’absence de distractions et de menaces.*</td></tr></table>
+
 </center>
 
 À la fin de chaque heure passée à nager, le personnage doit réussir un test de Natation contre un [[DD]] de 20 pour éviter de subir 1d6 points de [[dégâts non létaux]] causés par la [[fatigué|fatigue]].

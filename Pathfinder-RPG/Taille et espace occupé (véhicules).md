@@ -16,19 +16,9 @@ La taille et l’espace occupé des véhicules sont différents de ceux des cré
 {s:Reference|TAILLECONVERTION}**Conversion de taille.** Il est souvent important de connaître la catégorie de taille d’un véhicule.
 
 <div align="center">
-{| class="tablo toutgauche autoalt" id="convertionTaille"
-|+ Taille des véhicules en cases
-|-
-| Cases || Taille du véhicule
-|-
-| 2-6 || Véhicule de taille G
-|-
-| 7-12 || Véhicule de taille TG
-|-
-| 13-20 || Véhicule de taille Gig
-|-
-| 21+ || Véhicule de taille C
-|}
+
+<table class="tablo toutgauche autoalt" id="convertionTaille"><caption>Taille des véhicules en cases</caption><tr><td>Cases</td><td>Taille du véhicule</td></tr><tr><td>2-6</td><td>Véhicule de taille G</td></tr><tr><td>7-12</td><td>Véhicule de taille TG</td></tr><tr><td>13-20</td><td>Véhicule de taille Gig</td></tr><tr><td>21+</td><td>Véhicule de taille C</td></tr></table>
+
 </div>
 
 {s:Reference|TAILLEESPACE}**Espace de conduite.** Une case au moins égale à 1m50 de côté pour chaque véhicule doit être attribuée à l’espace de conduite. Cette zone comprend souvent plusieurs cases. Une créature intelligente doit se trouver à l’intérieur d’au moins l’une d’entre elles. Elle doit aussi être capable de manipuler son système de conduite afin de le diriger. Les tailles et les localisations des espaces de conduite typiques sont détaillées dans les descriptions individuelles des véhicules.

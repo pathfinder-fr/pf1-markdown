@@ -40,16 +40,8 @@ LastModified: 2020-09-21 17:48
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de zombi
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Seigneur zombi]] || 3
-|-
-| [[Zombi humain]] || 1/2
-|-
-| [[Zombi juju humain]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de zombi</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Seigneur zombi]]</td><td>3</td></tr><tr><td>[[Zombi humain]]</td><td>1/2</td></tr><tr><td>[[Zombi juju humain]]</td><td>2</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Seigneur zombi, archétype|Seigneur zombi]].***</li></ul>Les seigneurs zombis sont les équivalents charnus des champions squelettes. Ils sont intelligents, rusés et jaloux des créatures aux corps sains. Malgré leurs chairs en putréfaction, ils ne sont pas aussi lents que des zombis ordinaires et peuvent aisément poursuivre toute proie en fuite. Les seigneurs zombis sont plus puissants que les zombis ordinaires et conservent leurs niveaux de classe.
 </div></td></tr></table>

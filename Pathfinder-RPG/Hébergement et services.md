@@ -9,64 +9,10 @@ Categories:
 {s:MenuEquipement}Les prix sont indiqués pour l’hébergement et les services dans une bourgade ou une ville moyenne.
 
 <div class="article_2col">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|+ Hébergement et services
-|- CLASS="titre"
-| Objet || Prix
-|- CLASS="premier"
-| [[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (bonne)]] || 2 po
-|-
-| [[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (modeste)]] || 2 pa
-|-
-| [[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (moyenne)]] || 5 pa
-|-
-| [[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, de luxe)]] || 32 po+
-|-
-| [[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, moyenne)]] || 16 po
-|-
-| [[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, petite)]] || 4 po
-|-
-| [[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (compétent)]] || 3 po
-|-
-| [[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (expérimenté)]] || 10 po
-|-
-| [[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (novice)]] || 5 pa
-|-
-| [[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (chaud)]] || 6 pc
-|-
-| [[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (froid)]] || 2 pc
-|-
-| [[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (public)]] || 2 pa–1 po
-|-
-| [[Hébergement et services#Compagnecompagnon|↓]] [[Compagnecompagnon (objet)|Compagne/compagnon]] || 5 pc–10 po
-|-
-| [[Hébergement et services#Domestique|↓]] [[Domestique (objet)|Domestique]] || 1 po
-|-
-| [[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (qualifié)]] || 3 pa/jour
-|-
-| [[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (sans formation)]] || 1 pa/jour
-|-
-| [[Hébergement et services#Infirmière|↓]] [[Infirmière (objet)|Infirmière]] || 7 pa
-|-
-| [[Hébergement et services#Lancement de sort|↓]] [[Lancement de sort (objet)|Lancement de sort]] || Niveau du lanceur de sorts  
-× niveau de sort × 10 po
-|-
-| [[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (classique)]] || 1 pa
-|-
-| [[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (magique)]] || 1 po
-|-
-| [[Hébergement et services#Médecin|↓]] [[Médecin (objet)|Médecin]] || 1 po
-|-
-| [[Hébergement et services#Messager|↓]] [[Messager (objet)|Messager]] || 2 pc/1,5 km
-|-
-| [[Hébergement et services#Péage|↓]] [[Péage (objet)|Péage (route ou pont)]] || 1 pc
-|-
-| [[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (carte)]] || 10 po
-|-
-| [[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (texte)]] || 1 po
-|-
-| [[Hébergement et services#Valet|↓]] [[Valet (objet)|Valet]] || 5 pa
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Hébergement et services</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td></tr><tr CLASS="premier"><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (bonne)]]</td><td>2 po</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (modeste)]]</td><td>2 pa</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (moyenne)]]</td><td>5 pa</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, de luxe)]]</td><td>32 po+</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, moyenne)]]</td><td>16 po</td></tr><tr><td>[[Hébergement et services#Auberge|↓]] [[Auberge (objet)|Auberge (suite, petite)]]</td><td>4 po</td></tr><tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (compétent)]]</td><td>3 po</td></tr><tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (expérimenté)]]</td><td>10 po</td></tr><tr><td>[[Hébergement et services#Avocat|↓]] [[Avocat (objet)|Avocat (novice)]]</td><td>5 pa</td></tr><tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (chaud)]]</td><td>6 pc</td></tr><tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (froid)]]</td><td>2 pc</td></tr><tr><td>[[Hébergement et services#Bain|↓]] [[Bain (objet)|Bain (public)]]</td><td>2 pa–1 po</td></tr><tr><td>[[Hébergement et services#Compagnecompagnon|↓]] [[Compagnecompagnon (objet)|Compagne/compagnon]]</td><td>5 pc–10 po</td></tr><tr><td>[[Hébergement et services#Domestique|↓]] [[Domestique (objet)|Domestique]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (qualifié)]]</td><td>3 pa/jour</td></tr><tr><td>[[Hébergement et services#Employé|↓]] [[Employé (objet)|Employé (sans formation)]]</td><td>1 pa/jour</td></tr><tr><td>[[Hébergement et services#Infirmière|↓]] [[Infirmière (objet)|Infirmière]]</td><td>7 pa</td></tr><tr><td>[[Hébergement et services#Lancement de sort|↓]] [[Lancement de sort (objet)|Lancement de sort]]</td><td>Niveau du lanceur de sorts  
+× niveau de sort × 10 po</td></tr><tr><td>[[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (classique)]]</td><td>1 pa</td></tr><tr><td>[[Hébergement et services#Lessive|↓]] [[Lessive (objet)|Lessive (magique)]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Médecin|↓]] [[Médecin (objet)|Médecin]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Messager|↓]] [[Messager (objet)|Messager]]</td><td>2 pc/1,5 km</td></tr><tr><td>[[Hébergement et services#Péage|↓]] [[Péage (objet)|Péage (route ou pont)]]</td><td>1 pc</td></tr><tr><td>[[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (carte)]]</td><td>10 po</td></tr><tr><td>[[Hébergement et services#Scribe|↓]] [[Scribe (objet)|Scribe (texte)]]</td><td>1 po</td></tr><tr><td>[[Hébergement et services#Valet|↓]] [[Valet (objet)|Valet]]</td><td>5 pa</td></tr></table>
+
 </div>
 
 ### Description des moyens d'hébergement et des services

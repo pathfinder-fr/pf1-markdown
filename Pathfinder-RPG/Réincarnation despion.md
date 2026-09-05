@@ -45,40 +45,9 @@ Pour un [[type humanoïde|humanoïde]], la nouvelle incarnation est déterminée
 
 Ce sort ne permet de pas de ramener à la vie une créature transformée en [[type mort-vivant|mort-vivant]] ou tuée par un sort de [[registre|mort]], pas plus que les [[type Créature artificielle|créatures artificielles]] , les [[sous-type élémentaire|élémentaires]], les [[type extérieur|Extérieurs]] et les [[type mort-vivant|morts-vivants]]. Ce sort peut ramener à la vie une créature morte de vieillesse.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| 1d100 || Incarnation || For || Dex || Con
-|- CLASS="premier"
-| 01 || [[Gobelours]] || +4 || +2 || +2
-|-
-| 02–13 || [[Nain]] || +0 || +0 || +2
-|-
-| 14–25 || [[Elfe]] || +0 || +2 || -2
-|-
-| 26 || [[Gnoll]] || +4 || +0 || +2
-|-
-| 27–38 || [[Gnome]] || -2 || +0 || +2
-|-
-| 39–42 || [[Gobelin]] || -2 || +2 || +0
-|-
-| 43–52 || [[Demi-elfe]] || +0 || +2 || +0
-|-
-| 53–62 || [[Demi-orque]] || +2 || +0 || +0
-|-
-| 63–74 || [[Halfelin]] || -2 || +2 || +0
-|-
-| 75–89 || [[Humain]] || +0 || +0 || +2
-|-
-| 90–93 || [[Kobold]] || -4 || +2 || -2
-|-
-| 94 || [[Homme-lézard]] || +2 || +0 || +2
-|-
-| 95–98 || [[Orque]] || +4 || +0 || +2
-|-
-| 99 || [[Troglodyte]] || +0 || -2 || +4
-|-
-| 100 || Autre (au choix du [[MJ]]) || ? || ? || ?
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>1d100</td><td>Incarnation</td><td>For</td><td>Dex</td><td>Con</td></tr><tr CLASS="premier"><td>01</td><td>[[Gobelours]]</td><td>+4</td><td>+2</td><td>+2</td></tr><tr><td>02–13</td><td>[[Nain]]</td><td>+0</td><td>+0</td><td>+2</td></tr><tr><td>14–25</td><td>[[Elfe]]</td><td>+0</td><td>+2</td><td>-2</td></tr><tr><td>26</td><td>[[Gnoll]]</td><td>+4</td><td>+0</td><td>+2</td></tr><tr><td>27–38</td><td>[[Gnome]]</td><td>-2</td><td>+0</td><td>+2</td></tr><tr><td>39–42</td><td>[[Gobelin]]</td><td>-2</td><td>+2</td><td>+0</td></tr><tr><td>43–52</td><td>[[Demi-elfe]]</td><td>+0</td><td>+2</td><td>+0</td></tr><tr><td>53–62</td><td>[[Demi-orque]]</td><td>+2</td><td>+0</td><td>+0</td></tr><tr><td>63–74</td><td>[[Halfelin]]</td><td>-2</td><td>+2</td><td>+0</td></tr><tr><td>75–89</td><td>[[Humain]]</td><td>+0</td><td>+0</td><td>+2</td></tr><tr><td>90–93</td><td>[[Kobold]]</td><td>-4</td><td>+2</td><td>-2</td></tr><tr><td>94</td><td>[[Homme-lézard]]</td><td>+2</td><td>+0</td><td>+2</td></tr><tr><td>95–98</td><td>[[Orque]]</td><td>+4</td><td>+0</td><td>+2</td></tr><tr><td>99</td><td>[[Troglodyte]]</td><td>+0</td><td>-2</td><td>+4</td></tr><tr><td>100</td><td>Autre (au choix du [[MJ]])</td><td>?</td><td>?</td><td>?</td></tr></table>
+
 
 La créature réincarnée acquiert tous les pouvoirs de sa nouvelle forme, dont ses modes et [[vitesse de déplacement|vitesses de déplacement]], son armure naturelle, ses [[attaque naturelle|attaques naturelles]], ses [[pouvoirs extraordinaires]], etc., mais elle ne parle pas automatiquement la langue de sa nouvelle forme.
 

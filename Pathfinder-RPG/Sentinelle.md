@@ -121,28 +121,9 @@ Au niveau 8, le dévouement de la sentinelle envers sa foi et les exploits qu'el
 #### Guerrier inarrêtable (Sur)
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Alignement de la divinité choisie || Réduction de dégâts
-|- CLASS="premier"
-| LB || 10/Mal
-|-
-| NB || 5/Mal et argent
-|-
-| CB || 5/Mal et fer froid
-|-
-| LN || 10/Chaos
-|-
-| N || 3/-
-|-
-| CN || 10/Loi
-|-
-| LM  || 10/Bien
-|-
-| NM || 5/Bien et argent
-|-
-| CM || 5/Bien et fer froid
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Alignement de la divinité choisie</td><td>Réduction de dégâts</td></tr><tr CLASS="premier"><td>LB</td><td>10/Mal</td></tr><tr><td>NB</td><td>5/Mal et argent</td></tr><tr><td>CB</td><td>5/Mal et fer froid</td></tr><tr><td>LN</td><td>10/Chaos</td></tr><tr><td>N</td><td>3/-</td></tr><tr><td>CN</td><td>10/Loi</td></tr><tr><td>LM</td><td>10/Bien</td></tr><tr><td>NM</td><td>5/Bien et argent</td></tr><tr><td>CM</td><td>5/Bien et fer froid</td></tr></table>
+
 </div></div>Au niveau 10, la sentinelle devient un parangon tenace capable de grandes prouesses au combat. Elle obtient une [[RD|réduction de dégâts]] qui dépend de l'[[alignement]] de sa divinité, comme indiqué dans le tableau ci-contre.
 
 De plus, la sentinelle ne tombe plus [[inconscient|inconsciente]] quand ses points de vie sont réduits à un total négatif, mais elle ne peut entreprendre qu'une [[action simple]] ou une [[action de mouvement]] tant qu'elle est possède un total négatif de points de vie et continue de perdre des points de vie normalement si elle n'est pas stabilisée. Effectuer une action simple après s'être stabilisé ouvre à nouveau les blessures de la sentinelle, et elle recommence à perdre des points de vie normalement.

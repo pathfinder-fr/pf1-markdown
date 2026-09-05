@@ -54,16 +54,9 @@ Certains pièges magiques possèdent un déclencheur de proximité particulier q
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Sort || Portée de la vision || Bonus de Détection
-|- CLASS="premier"
-| *[[clairaudienceclairvoyance|Clairvoyance]]* || Un lieu prédéfini || +15
-|-
-| *[[Œil du mage]]* || Ligne de mire (portée illimitée) || +20
-|-
-| *[[Vision lucide]]* || Ligne de mire (jusqu’à 36 m) || +30
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Sort</td><td>Portée de la vision</td><td>Bonus de Détection</td></tr><tr CLASS="premier"><td>*[[clairaudienceclairvoyance|Clairvoyance]]*</td><td>Un lieu prédéfini</td><td>+15</td></tr><tr><td>*[[Œil du mage]]*</td><td>Ligne de mire (portée illimitée)</td><td>+20</td></tr><tr><td>*[[Vision lucide]]*</td><td>Ligne de mire (jusqu’à 36 m)</td><td>+30</td></tr></table>
+
 </div></div>**Visuel.** Ce déclencheur, destiné aux pièges magiques, fonctionne sur le même principe qu’un œil : il active le piège quand il repère quelque chose. Pour bénéficier d’un déclencheur visuel, le piège doit recevoir un sort de *[[clairaudienceclairvoyance|clairvoyance]]*, *[[œil du mage]]* ou *[[vision lucide]]* lors de sa création. La portée et le bonus aux tests de [[Perception]] dépendent du sort choisi, comme indiqué dans la table suivante.
 
 Si vous souhaitez que le piège fonctionne dans l’obscurité, vous devez impérativement lancer *[[vision lucide]]* ou *[[vision dans le noir]]* (ce sort limite la vision du piège à 18 m dans les ténèbres). L’invisibilité, les déguisements et les illusions capables de tromper le sort utilisé trompent aussi le déclencheur visuel.

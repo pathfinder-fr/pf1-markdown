@@ -35,28 +35,6 @@ Le personnage peut créer des flammes et contrôler les créatures du Feu. Et sa
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine du Feu
-| Sous-domaine des Cendres || Sous-domaine de la Fumée || Sous-domaine des Incendies
-|- CLASS="premier"
-| 1er || *[[mains brûlantes]]* || *idem* || *idem* || *idem*
-|-
-| 2e || *[[flammes]]* || *idem* || *[[pyrotechnie]]* || *[[sphère de feu]]*
-|-
-| 3e || *[[boule de feu]]* || *idem* || *[[nuage nauséabond]]* || *idem*
-|-
-| 4e || *[[mur de feu]]* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[bouclier de feu]]* || *idem* || *idem* || *[[colonne de feu]]*
-|-
-| 6e || *[[germes de feu]]* || *idem* || *idem* || *idem*
-|-
-| 7e || *[[corps élémentaire IV]]*  
-(créature de Feu seulement) || *[[désintégration]]* || *idem* || *[[boule de feu à retardement]]*
-|-
-| 8e || *[[nuage incendiaire]]* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort du Feu seulement) || *[[corps enflammé]]* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Feu</td><td>Sous-domaine des Cendres</td><td>Sous-domaine de la Fumée</td><td>Sous-domaine des Incendies</td></tr><tr CLASS="premier"><td>1er</td><td>*[[mains brûlantes]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[flammes]]*</td><td>*idem*</td><td>*[[pyrotechnie]]*</td><td>*[[sphère de feu]]*</td></tr><tr><td>3e</td><td>*[[boule de feu]]*</td><td>*idem*</td><td>*[[nuage nauséabond]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[mur de feu]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[bouclier de feu]]*</td><td>*idem*</td><td>*idem*</td><td>*[[colonne de feu]]*</td></tr><tr><td>6e</td><td>*[[germes de feu]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[corps élémentaire IV]]*  
+(créature de Feu seulement)</td><td>*[[désintégration]]*</td><td>*idem*</td><td>*[[boule de feu à retardement]]*</td></tr><tr><td>8e</td><td>*[[nuage incendiaire]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[nuée délémentaires|nuée d’élémentaires]]* (lancé comme un sort du Feu seulement)</td><td>*[[corps enflammé]]*</td><td>*idem*</td><td>*idem*</td></tr></table>

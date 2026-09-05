@@ -41,15 +41,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de guêpe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Guêpe géante]] || 3
-|-
-| [[Nuée de guêpes]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de guêpe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Guêpe géante]]</td><td>3</td></tr><tr><td>[[Nuée de guêpes]]</td><td>3</td></tr></table>
+
 </div>*Un bourdonnement sourd et inquiétant annonce l’arrivée d’un essaim de plusieurs milliers de guêpes en colère.*
 
 Une nuée de guêpes est un essaim composé de milliers de guêpes

@@ -13,38 +13,12 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|+ Les murs
-|- CLASS="titre"
-| Type de mur<sup>&ensp;</sup> || Épaisseur<sup>&ensp;</sup> || DD pour  
-défoncer<sup>&ensp;</sup> || Solidité<sup>&ensp;</sup> || Points   
-de vie<sup>[[Donjons#NOTE1|1]]</sup> || DD   
-d'[[Escalade]]<sup>&ensp;</sup>
-|- CLASS="alt"
-| Maçonnerie || 30 cm || 35 || 8 || 90 || 15
-|-
-| Maçonnerie de qualité supérieure || 30 cm || 35 || 8 || 90 || 20
-|- CLASS="alt"
-| Maçonnerie renforcée || 30 cm || 45 || 8 || 180 || 15
-|-
-| Pierre taillée || 90 cm || 50 || 8 || 540 || 22
-|- CLASS="alt"
-| Pierre brute || 1,50 m || 65 || 8 || 900 || 20
-|-
-| Fer || 7,5 cm || 30 || 10 || 90 || 25
-|- CLASS="alt"
-| Papier || Négligeable || 1 || — || 1 || 30
-|-
-| Bois || 15 cm || 20 || 5 || 60 || 21
-|- CLASS="alt"
-| Renforcé par magie<sup>[[Donjons#NOTE2|2]]</sup> || — || +20<sup>&ensp;</sup> || ×2<sup>&ensp;</sup> || ×2<sup>[[Donjons#NOTE3|3]]</sup> || —
-|-
-| COLSPAN="6" CLASS="note" | {s:Reference|NOTE1}*(1) Pour une section de 3 m de côté.*
-|-
-| COLSPAN="6" CLASS="note" | {s:Reference|NOTE2}*(2) Ces modificateurs peuvent s’appliquer à n’importe quel autre type de mur.*
-|-
-| COLSPAN="6" CLASS="note" | {s:Reference|NOTE3}*(3) Ou 50 points de vie supplémentaires (on prend systématiquement le meilleur résultat).*
-|}
+
+<table CLASS="tablo"><caption>Les murs</caption><tr CLASS="titre"><td>Type de mur<sup>&ensp;</sup></td><td>Épaisseur<sup>&ensp;</sup></td><td>DD pour  
+défoncer<sup>&ensp;</sup></td><td>Solidité<sup>&ensp;</sup></td><td>Points   
+de vie<sup>[[Donjons#NOTE1|1]]</sup></td><td>DD   
+d'[[Escalade]]<sup>&ensp;</sup></td></tr><tr CLASS="alt"><td>Maçonnerie</td><td>30 cm</td><td>35</td><td>8</td><td>90</td><td>15</td></tr><tr><td>Maçonnerie de qualité supérieure</td><td>30 cm</td><td>35</td><td>8</td><td>90</td><td>20</td></tr><tr CLASS="alt"><td>Maçonnerie renforcée</td><td>30 cm</td><td>45</td><td>8</td><td>180</td><td>15</td></tr><tr><td>Pierre taillée</td><td>90 cm</td><td>50</td><td>8</td><td>540</td><td>22</td></tr><tr CLASS="alt"><td>Pierre brute</td><td>1,50 m</td><td>65</td><td>8</td><td>900</td><td>20</td></tr><tr><td>Fer</td><td>7,5 cm</td><td>30</td><td>10</td><td>90</td><td>25</td></tr><tr CLASS="alt"><td>Papier</td><td>Négligeable</td><td>1</td><td>—</td><td>1</td><td>30</td></tr><tr><td>Bois</td><td>15 cm</td><td>20</td><td>5</td><td>60</td><td>21</td></tr><tr CLASS="alt"><td>Renforcé par magie<sup>[[Donjons#NOTE2|2]]</sup></td><td>—</td><td>+20<sup>&ensp;</sup></td><td>×2<sup>&ensp;</sup></td><td>×2<sup>[[Donjons#NOTE3|3]]</sup></td><td>—</td></tr><tr><td COLSPAN="6" CLASS="note">{s:Reference|NOTE1}*(1) Pour une section de 3 m de côté.*</td></tr><tr><td COLSPAN="6" CLASS="note">{s:Reference|NOTE2}*(2) Ces modificateurs peuvent s’appliquer à n’importe quel autre type de mur.*</td></tr><tr><td COLSPAN="6" CLASS="note">{s:Reference|NOTE3}*(3) Ou 50 points de vie supplémentaires (on prend systématiquement le meilleur résultat).*</td></tr></table>
+
 </center></div></div>
 Les pièces et les couloirs sont séparés par des murs faits de blocs de pierre disposés les uns sur les autres, parfois fixés à l’aide de mortier. Mais certaines parois peuvent également être taillées dans la pierre, ce qui leur donne un aspect brut. Les murs des donjons sont épais et difficiles à défoncer mais il est très facile de les escalader.
 

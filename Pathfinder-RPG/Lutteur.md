@@ -13,178 +13,10 @@ Categories:
 <li ID="lutteur" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypelutteur}</li>
 </div>{s:mca}*Le lutteur est un adversaire mortel, même quand il se bat à mains nues. Il renonce à la lourde armure du guerrier et au mysticisme du moine afin de se consacrer au perfectionnement de diverses écoles de combat à mains nues particulièrement violentes. Polyvalent, agile et capable de s’adapter à la majorité des attaques ennemies, le corps du lutteur est une arme très puissante.*
 
-{| CLASS="tablo centre autoalt"
-|+ Le lutteur
-|- CLASS="titre"
-| Niveau
-| BBA
-| Réflexes
-| Vigueur
-| Volonté
-| CLASS="gauche" | Spécial
-| Dégâts à  
-mains nues
-|- CLASS="premier"
-| 1
-| +1
-| +2
-| +2
-| +0
-| CLASS="gauche" | [[lutteur#COMBATAMAINSNUES|Combat à mains nues]], [[lutteur#ENTRAINEMENTMARTIAL|entraînement martial]], [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]], [[lutteur#RUSEDULUTTEUR|ruse du lutteur]]
-| 1d6
-|-
-| 2
-| +2
-| +3
-| +3
-| +0
-| CLASS="gauche" | [[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (combat à deux armes), [[lutteur#DONDECOMBATSUPPLEMENTAIRE|don de combat supplémentaire]]
-| 1d6
-|-
-| 3
-| +3
-| +3
-| +3
-| +1
-| CLASS="gauche" | [[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 1
-| 1d6
-|-
-| 4
-| +4
-| +4
-| +4
-| +1
-| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +1, [[lutteur#KO|KO]] 1/jour
-| 1d8
-|-
-| 5
-| +5
-| +4
-| +4
-| +1
-| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (magique), [[lutteur#MAITRISEDESARMESDEPROXIMITE|maîtrise des armes de proximité]]
-| 1d8
-|-
-| 6
-| +6/+1
-| +5
-| +5
-| +2
-| CLASS="gauche" | [[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action rapide)
-| 1d8
-|-
-| 7
-| +7/+2
-| +5
-| +5
-| +2
-| CLASS="gauche" | [[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 2
-| 1d8
-|-
-| 8
-| +8/+3
-| +6
-| +6
-| +2
-| CLASS="gauche" | [[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (science du combat à deux armes), [[lutteur#DONDECOMBATSUPPLEMENTAIRE|don de combat supplémentaire]]
-| 1d10
-|-
-| 9
-| +9/+4
-| +6
-| +6
-| +3
-| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +2, [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (fer froid et argent)
-| 1d10
-|-
-| 10
-| +10/+5
-| +7
-| +7
-| +3
-| CLASS="gauche" | [[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action libre), [[lutteur#KO|KO]] 2/jour
-| 1d10
-|-
-| 11
-| +11/+6/+1
-| +7
-| +7
-| +3
-| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#ENTRAINEMENTAUXMANOEUVRES|entraînement aux manœuvres]] 3
-| 1d10
-|-
-| 12
-| +12/+7/+2
-| +8
-| +8
-| +4
-| CLASS="gauche" | [[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action immédiate), [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (alignement)
-| 2d6
-|-
-| 13
-| +13/+8/+3
-| +8
-| +8
-| +4
-| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +3
-| 2d6
-|-
-| 14
-| +14/+9/+4
-| +9
-| +9
-| +4
-| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]]
-| 2d6
-|-
-| 15
-| +15/+10/+5
-| +9
-| +9
-| +5
-| CLASS="gauche" | [[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (Combat à deux armes supérieur), [[lutteur#ENTRAINEMENTAUXMANOEUVRES|entraînement aux manœuvres]] 4
-| 2d6
-|-
-| 16
-| +16/+11/+6/+1
-| +10
-| +10
-| +5
-| CLASS="gauche" | [[lutteur#COUPFABULEUX|Coup fabuleux]], [[lutteur#KO|KO]] 3/jour
-| 2d8
-|-
-| 17
-| +17/+12/+7/+2
-| +10
-| +10
-| +5
-| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (adamantium)
-| 2d8
-|-
-| 18
-| +18/+13/+8/+3
-| +11
-| +11
-| +6
-| CLASS="gauche" | [[lutteur#BONUSALACA|Bonus à la CA]] +4
-| 2d8
-|-
-| 19
-| +19/+14/+9/+4
-| +11
-| +11
-| +6
-| CLASS="gauche" | [[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 5
-| 2d8
-|-
-| 20
-| +20/+15/+10/+5
-| +12
-| +12
-| +6
-| CLASS="gauche" | [[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]] (autant que possible), [[lutteur#SCIENCEDUCOUPFABULEUX|science du coup fabuleux]]
-| 2d10
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Le lutteur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td>Dégâts à  
+mains nues</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[lutteur#COMBATAMAINSNUES|Combat à mains nues]], [[lutteur#ENTRAINEMENTMARTIAL|entraînement martial]], [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]], [[lutteur#RUSEDULUTTEUR|ruse du lutteur]]</td><td>1d6</td></tr><tr><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (combat à deux armes), [[lutteur#DONDECOMBATSUPPLEMENTAIRE|don de combat supplémentaire]]</td><td>1d6</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 1</td><td>1d6</td></tr><tr><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[lutteur#BONUSALACA|Bonus à la CA]] +1, [[lutteur#KO|KO]] 1/jour</td><td>1d8</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (magique), [[lutteur#MAITRISEDESARMESDEPROXIMITE|maîtrise des armes de proximité]]</td><td>1d8</td></tr><tr><td>6</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action rapide)</td><td>1d8</td></tr><tr><td>7</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 2</td><td>1d8</td></tr><tr><td>8</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (science du combat à deux armes), [[lutteur#DONDECOMBATSUPPLEMENTAIRE|don de combat supplémentaire]]</td><td>1d10</td></tr><tr><td>9</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[lutteur#BONUSALACA|Bonus à la CA]] +2, [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (fer froid et argent)</td><td>1d10</td></tr><tr><td>10</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action libre), [[lutteur#KO|KO]] 2/jour</td><td>1d10</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#ENTRAINEMENTAUXMANOEUVRES|entraînement aux manœuvres]] 3</td><td>1d10</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[lutteur#FLEXIBILITEMARTIALE|Flexibilité martiale]] (action immédiate), [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (alignement)</td><td>2d6</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[lutteur#BONUSALACA|Bonus à la CA]] +3</td><td>2d6</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]]</td><td>2d6</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[lutteur#DELUGEDECOUPSDULUTTEUR|Déluge de coup du lutteur]] (Combat à deux armes supérieur), [[lutteur#ENTRAINEMENTAUXMANOEUVRES|entraînement aux manœuvres]] 4</td><td>2d6</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[lutteur#COUPFABULEUX|Coup fabuleux]], [[lutteur#KO|KO]] 3/jour</td><td>2d8</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FRAPPEDULUTTEUR|frappe du lutteur]] (adamantium)</td><td>2d8</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[lutteur#BONUSALACA|Bonus à la CA]] +4</td><td>2d8</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[lutteur#ENTRAINEMENTAUXMANOEUVRES|Entraînement aux manœuvres]] 5</td><td>2d8</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[lutteur#DONDECOMBATSUPPLEMENTAIRE|Don de combat supplémentaire]], [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]] (autant que possible), [[lutteur#SCIENCEDUCOUPFABULEUX|science du coup fabuleux]]</td><td>2d10</td></tr></table>
+
 
 **Rôle.** Le lutteur est très mobile et particulièrement doué pour prendre ses ennemis en tenaille ou se débarrasser d’adversaires en armure légère. Il s’adapte très vite aux situations changeantes sur un champ de bataille.
 
@@ -233,29 +65,12 @@ action rapide. Chaque don choisi est décompté du nombre d’utilisations quoti
 #### Combat à mains nues
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo autoalt" ID="tabcommainnnue"
-|+ Dégâts à mains nues des lutteurs  
-de taille P ou G
-|- CLASS="titre"
-| Niveau
-| Dégâts  
-(taille P)
-| Dégâts  
-(taille G)
-|- CLASS="premier"
-| 1 à 3 || 1d4 || 1d8
-|-
-| 4 à 7 || 1d6 || 2d6
-|-
-| 8 à 11 || 1d8 || 2d8
-|-
-| 12 à 15 || 1d10 || 3d6
-|-
-| 16 à 19 || 2d6 || 3d8
-|-
-| 20 || 2d8 || 4d8
-|-
-|}
+
+<table CLASS="tablo autoalt" ID="tabcommainnnue"><caption>Dégâts à mains nues des lutteurs  
+de taille P ou G</caption><tr CLASS="titre"><td>Niveau</td><td>Dégâts  
+(taille P)</td><td>Dégâts  
+(taille G)</td></tr><tr CLASS="premier"><td>1 à 3</td><td>1d4</td><td>1d8</td></tr><tr><td>4 à 7</td><td>1d6</td><td>2d6</td></tr><tr><td>8 à 11</td><td>1d8</td><td>2d8</td></tr><tr><td>12 à 15</td><td>1d10</td><td>3d6</td></tr><tr><td>16 à 19</td><td>2d6</td><td>3d8</td></tr><tr><td>20</td><td>2d8</td><td>4d8</td></tr></table>
+
 </div></div>
 Au niveau 1, le lutteur gagne [[Science du combat à mains nues]] comme don supplémentaire. Il peut attaquer avec les poings, les coudes, les genoux et les pieds, ce qui veut dire qu’il peut attaquer à mains nues même s’il a les mains prises. Il applique la totalité de son bonus de [[Force]] (et non la moitié) aux jets de dégâts à mains nues. En général, les attaques à mains nues du lutteur infligent des dégâts létaux mais, s’il le désire, il peut infliger des dégâts non-létaux sans pour autant subir de malus au [[jet dattaque|jet d’attaque]]. De même, il peut choisir d’infliger des dégâts létaux ou non lors d’une lutte.
 

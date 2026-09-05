@@ -25,42 +25,9 @@ Categories:
 - **Compétences.** Si le demi-céleste a des [[DV]] raciaux, il possède un nombre de rangs de [[compétences]] par [[DV]] racial égal à 6 + son modificateur d'[[Intelligence]]. Les compétences de classes raciales restent inchangées, de même que les rangs de compétence provenant des niveaux de classe.
 </div>
 
-{| CLASS="tablo"
-|+ Table des pouvoirs magiques du demi-céleste
-|- CLASS="titre"
-| class="gauche" | DV
-| class="gauche" | Pouvoir magique
-|- CLASS="premier"
-| class="gauche" | 1-2
-| class="gauche" | *[[bénédiction]]*, *[[protection contre le mal]]* (3/jour)
-|- CLASS="alt"
-| class="gauche" | 3-4
-| class="gauche" | *[[aide]]*, *[[détection du Mal]]*
-|-
-| class="gauche" | 5-6
-| class="gauche" | *[[soins importants]]*, *[[neutralisation du poison]]*
-|- CLASS="alt"
-| class="gauche" | 7-8
-| class="gauche" | *[[châtiment sacré]]*, *[[guérison des maladies]]*
-|-
-| class="gauche" | 9-10
-| class="gauche" | *[[rejet du Mal]]*
-|- CLASS="alt"
-| class="gauche" | 11-12
-| class="gauche" | *[[parole sacrée]]*
-|-
-| class="gauche" | 13-14
-| class="gauche" | *[[aura sacrée]]* (3/jour), *[[sanctification]]*
-|- CLASS="alt"
-| class="gauche" | 15-16
-| class="gauche" | *[[charme-monstre de groupe]]*
-|-
-| class="gauche" | 17-18
-| class="gauche" | *[[convocation de monstres IX]]* (uniquement des célestes)
-|- CLASS="alt"
-| class="gauche" | 19-20
-| class="gauche" | *[[résurrection]]*
-|}
+
+<table CLASS="tablo"><caption>Table des pouvoirs magiques du demi-céleste</caption><tr CLASS="titre"><td class="gauche">DV</td><td class="gauche">Pouvoir magique</td></tr><tr CLASS="premier"><td class="gauche">1-2</td><td class="gauche">*[[bénédiction]]*, *[[protection contre le mal]]* (3/jour)</td></tr><tr CLASS="alt"><td class="gauche">3-4</td><td class="gauche">*[[aide]]*, *[[détection du Mal]]*</td></tr><tr><td class="gauche">5-6</td><td class="gauche">*[[soins importants]]*, *[[neutralisation du poison]]*</td></tr><tr CLASS="alt"><td class="gauche">7-8</td><td class="gauche">*[[châtiment sacré]]*, *[[guérison des maladies]]*</td></tr><tr><td class="gauche">9-10</td><td class="gauche">*[[rejet du Mal]]*</td></tr><tr CLASS="alt"><td class="gauche">11-12</td><td class="gauche">*[[parole sacrée]]*</td></tr><tr><td class="gauche">13-14</td><td class="gauche">*[[aura sacrée]]* (3/jour), *[[sanctification]]*</td></tr><tr CLASS="alt"><td class="gauche">15-16</td><td class="gauche">*[[charme-monstre de groupe]]*</td></tr><tr><td class="gauche">17-18</td><td class="gauche">*[[convocation de monstres IX]]* (uniquement des célestes)</td></tr><tr CLASS="alt"><td class="gauche">19-20</td><td class="gauche">*[[résurrection]]*</td></tr></table>
+
 
 </td><td><div>Voir un exemple : la [[licorne demi-céleste]].
 

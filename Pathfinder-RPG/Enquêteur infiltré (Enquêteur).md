@@ -21,21 +21,10 @@ Au niveau 2, un enquêteur infiltré apprend à imiter les voix et les sons qu�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-|+ Voix imitée || Modificateur au test
-|-
-| Voix différente de celle du personnage,  
- sans être celle d’un individu spécifique || +5
-|-
-| Voix d’une créature de sexe différent || -2
-|-
-| Voix d’une créature de race différente || -2
-|-
-| Voix d’une créature d’une catégorie d’âge différente || -2
-|-
-| Voix d’une créature d’une catégorie de taille différente || -5
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>+ Voix imitée</td><td>Modificateur au test</td></tr><tr><td>Voix différente de celle du personnage,  
+ sans être celle d’un individu spécifique</td><td>+5</td></tr><tr><td>Voix d’une créature de sexe différent</td><td>-2</td></tr><tr><td>Voix d’une créature de race différente</td><td>-2</td></tr><tr><td>Voix d’une créature d’une catégorie d’âge différente</td><td>-2</td></tr><tr><td>Voix d’une créature d’une catégorie de taille différente</td><td>-5</td></tr></table>
+
 </center></div></div>
 
 De plus, la créature qui effectue le test de Perception bénéficie d’un bonus basé sur sa familiarité avec les voix  spécifiques, comme si elle était confrontée à un [[déguisement]] normal. Cette aptitude est un effet dépendant du langage, ce qui signifie que l’aptitude échoue si une créature ne peut pas entendre ou comprendre ce que dit l’enquêteur infiltré. Les objets magiques, les dons et les traits qui affectent les déguisements normaux n’affectent pas ce test de Déguisement.

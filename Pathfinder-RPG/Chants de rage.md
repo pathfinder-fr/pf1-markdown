@@ -6,22 +6,10 @@ LastModified: 2024-10-02 17:47
 
 {s:Menuclasseshybrides}<div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Chants de rage et  
-niveau de scalde minimal
-|- CLASS="titre"
-| Chant de rage || Niveau minimum
-|- CLASS="premier"
-| [[Chants de rage#RAGEINSPIREE|Rage inspirée]] || 1
-|-
-| [[Chants de rage#CHANTDEMARCHE|Chant de marche]] || 3
-|-
-| [[Chants de rage#CHANTDEFORCE|Chant de force]] || 6
-|-
-| [[Chants de rage#CHANTFUNESTE|Chant funeste]] || 10
-|-
-| [[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]] || 14
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Chants de rage et  
+niveau de scalde minimal</caption><tr CLASS="titre"><td>Chant de rage</td><td>Niveau minimum</td></tr><tr CLASS="premier"><td>[[Chants de rage#RAGEINSPIREE|Rage inspirée]]</td><td>1</td></tr><tr><td>[[Chants de rage#CHANTDEMARCHE|Chant de marche]]</td><td>3</td></tr><tr><td>[[Chants de rage#CHANTDEFORCE|Chant de force]]</td><td>6</td></tr><tr><td>[[Chants de rage#CHANTFUNESTE|Chant funeste]]</td><td>10</td></tr><tr><td>[[Chants de rage#CHANTDESDEFUNTS|Chant des défunts]]</td><td>14</td></tr></table>
+
 </div></div>{s:FAQ|***[[FAQ- Manuel des joueurs - Classes avancées#5|→]] Gestion de la colère : Si je suis en rage, en rage unchained, en rage sanguine ou sous toute autre forme de rage similaire, puis-je cumuler autant d'avantages que possible ?***
 
 Non. Lorsqu'un personnage active ou est affecté par une nouvelle forme de rage (comme la <u>[[Barbare#RAGE|rage]]</u> du barbare, le <u>[[Scalde#CHANTDERAGE|chant de rage]]</u> du scalde, la <u>[[Sanguin#RAGESANGUINE|rage sanguine]]</u> du sanguin, et le sort <u>*[[rage]]*</u>), il peut choisir entre conserver sa rage actuelle ou accepter la nouvelle rage à la place, de la même façon qu'une créature affectée par plusieurs effets de [[branche métamorphose|métamorphose]]. Si le personnage est soumis aux pulsions d'une rage qu'il est incapable d'arrêter automatiquement par lui-même, comme la rage incontrôlée d'un [[Sauvage enragé (barbare)|sauvage enragé]], il ne peut pas choisir d'y mettre fin pour la remplacer par le nouvel effet de rage. La seule exception à cette règle est la capacité [[Scalde#MAITRESCALDE|maître scalde]] du scalde, qui permet explicitement au chant de rage du scalde de se cumuler à d'autres effets de rage.}Le scalde est formé à jouer de la musique, déclamer ou donner une représentation similaire pour inspirer ses alliés et les pousser à accomplir des exploits en matière de force et de férocité. Chaque jour, à partir du niveau 1, le scalde peut utiliser ce pouvoir un nombre de rounds égal à 3 + son modificateur de [[Charisme]]. Ensuite, à chaque fois qu’il gagne un niveau, il peut utiliser le chant de rage 2 rounds de plus par jour.

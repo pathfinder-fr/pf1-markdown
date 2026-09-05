@@ -19,30 +19,9 @@ Categories:
 Le [[DD]] et les effets du test de Premiers secours dépendent de la tâche que le personnage tente d’accomplir.
 
 <center>
-{| CLASS="tablo"
-|+ Premiers Secours
-|- CLASS="titre"
-| Tâche
-| DD du test de Premiers secours
-|- CLASS="premier"
-| Premiers secours
-| 15
-|- CLASS="alt"
-| Soins suivis
-| 15
-|-
-| Soigner une blessure de [[Chausse-trappes (objet)|chausse-trappes]] de *[[croissance dépines|croissance d'épines]]* ou de *[[pierres acérées]]*
-|  15
-|- CLASS="alt"
-| Soigner des blessures mortelles
-| 20
-|-
-| Soigner un empoisonnement
-| DD du [[jet de sauvegarde]] contre le [[poison]]
-|- CLASS="alt"
-| Soigner une [[maladie]]
-| DD du [[jet de sauvegarde]] contre la [[maladie]]
-|}
+
+<table CLASS="tablo"><caption>Premiers Secours</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test de Premiers secours</td></tr><tr CLASS="premier"><td>Premiers secours</td><td>15</td></tr><tr CLASS="alt"><td>Soins suivis</td><td>15</td></tr><tr><td>Soigner une blessure de [[Chausse-trappes (objet)|chausse-trappes]] de *[[croissance dépines|croissance d'épines]]* ou de *[[pierres acérées]]*</td><td>15</td></tr><tr CLASS="alt"><td>Soigner des blessures mortelles</td><td>20</td></tr><tr><td>Soigner un empoisonnement</td><td>DD du [[jet de sauvegarde]] contre le [[poison]]</td></tr><tr CLASS="alt"><td>Soigner une [[maladie]]</td><td>DD du [[jet de sauvegarde]] contre la [[maladie]]</td></tr></table>
+
 </center>
 
 **Premiers secours.** Ce terme, qui donne son nom à la compétence, signifie généralement que le personnage intervient rapidement afin de sauver un compagnon mourant. Lorsque quelqu’un est tombé en dessous de 0 point de vie et perd 1 point de vie (par round, par heure ou par jour), le personnage peut stabiliser l’état de celui-ci. Une fois stabilisé, le blessé ne récupère aucun [[point de vie]] mais il cesse au moins d’en perdre. Cette utilisation de la compétence Premiers secours permet également de mettre fin aux pertes de points de vie causées par un [[saignement]] .

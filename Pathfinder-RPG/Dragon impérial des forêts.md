@@ -32,51 +32,17 @@ Categories:
 {s:BDTexte|**Souffle élémentaire (Sur).** Une fois par jour, lorsqu’un vénérable dragon des forêts, ou un dragon plus âgé, utilise son souffle, il peut convoquer un [[Élémentaire de la Terre|élémentaire noble de la Terre]] dans son [[cône]]. Ces effets ont le même niveau de lanceur de sorts que le dragon.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de  impérial des forêts
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon des forêts]] || &nbsp; || 10
-|-
-| [[Dragon des forêts adulte]] || &nbsp; || 14
-|-
-| [[Dragon des forêts vénérable]] || &nbsp; || 19
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de  impérial des forêts</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des forêts]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon des forêts adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon des forêts vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>*Cette énorme créature serpentine et dépourvue d’ailes a des écailles couleur de jade et des bois de cerf. Lorsqu’elle s’avance, on croirait entendre le bruit de pierres que l’on broie.*
 
 Les dragons des forêts, ou dilong, sont des créatures capricieuses et malveillantes vivant dans les bois épais et accidentés. Le dragon des forêts peut voler mais il préfère évoluer sur la terre ferme, ne volant que pour poursuivre les objets de sa fureur.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || Déplacement facilité, [[Immunité (capacité)|immunité]] au poison || —
-|- CLASS="alt"
-| Très jeune || Imitation des sons, perception des vibrations || —
-|-
-| Jeune || *[[Passage sans trace]]* || 1
-|- CLASS="alt"
-| Adolescent || *[[Enchevêtrement]]*, [[Présence terrifiante (capacité)|présence terrifiante]] || 3
-|-
-| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 2/adamantium, résistance à la magie || 5
-|- CLASS="alt"
-| Adulte || Changement de forme, *[[flétrissement végétal]]* || 7
-|-
-| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 5/adamantium || 9
-|- CLASS="alt"
-| Vieux || Écrasement destructeur, *[[voyage par les arbres]]* || 11
-|-
-| Très vieux || [[Réduction de dégâts (capacité)|RD]] 10/adamantium || 13
-|- CLASS="alt"
-| Vénérable || *[[Animation des plantes]]*, souffle élémentaire || 15
-|-
-| Dracosire || [[Réduction de dégâts (capacité)|RD]] 15/adamantium || 17
-|- CLASS="alt"
-| Grand dracosire || Mort de pierre, *[[tremblement de terre]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Déplacement facilité, [[Immunité (capacité)|immunité]] au poison</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Imitation des sons, perception des vibrations</td><td>—</td></tr><tr><td>Jeune</td><td>*[[Passage sans trace]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Enchevêtrement]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 2/adamantium, résistance à la magie</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>Changement de forme, *[[flétrissement végétal]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 5/adamantium</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>Écrasement destructeur, *[[voyage par les arbres]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 10/adamantium</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Animation des plantes]]*, souffle élémentaire</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 15/adamantium</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Mort de pierre, *[[tremblement de terre]]*</td><td>19</td></tr></table>
+
 </center>
 </div>
 

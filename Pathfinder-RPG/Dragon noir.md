@@ -34,21 +34,9 @@ Categories:
 {s:BDTexte|**[[Respiration aquatique]] (Ext).** Les dragons noirs peuvent respirer sous l'eau sans limite de temps. Ils peuvent utiliser librement leur souffle, leurs sorts et leurs autres capacités même lorsqu'ils sont immergés.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon noir
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon noir]] || &nbsp; || 7
-|-
-| [[Dragon noir adulte]] || &nbsp; || 11
-|-
-| [[Dragon noir vénérable]] || &nbsp; || 16
-|-
-| **Membres mythiques** || **FP** || **RMY**
-|- CLASS="premier"
-| [[Dragon noir mythique|Dragon noir d'âge mûr mythique]] || 15 || 6
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon noir</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon noir]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Dragon noir adulte]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon noir vénérable]]</td><td>&nbsp;</td><td>16</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon noir mythique|Dragon noir d'âge mûr mythique]]</td><td>15</td><td>6</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Les gouttes d’acide verdâtre qui s’écoulent des crocs de ce dragon cornu aux écailles noires sifflent dans l’air.*
 
 Les dragons noirs utilisent la cruauté et l’intimidation pour régner en
@@ -66,35 +54,9 @@ objets en pierre ou en
 métal.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité (acide), [[respiration aquatique]] || —
-|- CLASS="alt"
-| Très jeune || Déplacement facilité (marais) || —
-|-
-| Jeune || communication avec les reptiles || —
-|- CLASS="alt"
-| Adolescent || *[[ténèbres]]* || —
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || —
-|- CLASS="alt"
-| Adulte || corruption de l'eau, [[présence terrifiante]] || 1
-|-
-| Âge mûr || [[RD]] 10/magie || 3
-|- CLASS="alt"
-| Vieux || *[[croissance végétale]]*, morsure acide || 5
-|-
-| Très vieux || [[RD]] 15/magie || 7
-|- CLASS="alt"
-| Vénérable || flaque d'acide, *[[fléau dinsectes|fléau d'insectes]]* || 9
-|-
-| Dracosire || [[RD]] 20/magie || 11
-|- CLASS="alt"
-| Grand dracosire || charme-reptiles || 13
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité (acide), [[respiration aquatique]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Déplacement facilité (marais)</td><td>—</td></tr><tr><td>Jeune</td><td>communication avec les reptiles</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[ténèbres]]*</td><td>—</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>—</td></tr><tr CLASS="alt"><td>Adulte</td><td>corruption de l'eau, [[présence terrifiante]]</td><td>1</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>3</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[croissance végétale]]*, morsure acide</td><td>5</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vénérable</td><td>flaque d'acide, *[[fléau dinsectes|fléau d'insectes]]*</td><td>9</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>11</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>charme-reptiles</td><td>13</td></tr></table>
+
 </center>
 </div>
 

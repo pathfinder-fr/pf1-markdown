@@ -39,17 +39,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de belette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Belette]] || 1/2
-|-
-| [[Belette géante]] || 1
-|-
-| [[Belette sanguinaire]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de belette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Belette]]</td><td>1/2</td></tr><tr><td>[[Belette géante]]</td><td>1</td></tr><tr><td>[[Belette sanguinaire]]</td><td>3</td></tr></table>
+
 </div>*Ce prédateur de la taille d’un ours est tout en longueur et court sur pattes. Sa fourrure soyeuse et son air rusé contrastent avec ses crocs luisants.*
 
   

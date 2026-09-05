@@ -97,21 +97,9 @@ Il contient un [pendentif](https://img0.etsystatic.com/101/0/8286617/il_570xN.84
 
 En réalité la moisissure noire qui est présente afflige les PJ qui ne prendraient pas garde de la manière suivante :
 
-{| CLASS="tablo centre toutgauche cadre" size=80%
-|+ 1d6
-|- CLASS="cadre"
-| 1 || **Euphorie** : Le personnage est joyeux, serein et en grande confiance. (+1 charisme, -2 sagesse)
-|-
-| 2 || **Tristesse **: Le personnage est accablé, rien ne va aller correctement. (-1 charisme, -2sagesse)
-|-
-| 3 || **Peur **: Le personnage est angoissé, il a peur de quelque chose qui va arriver, il en est sûr ! (-5 effets de peur, -2 sagesse)
-|-
-| 4 || **Agressivité **: Le personnage s'emporte, il est désinhibé, violent. (+1 initiative et Force, -2 sagesse)
-|-
-| 5 || **Hallucinations **: Le personnage voit des choses étranges, ses compagnons avec des têtes d'animaux, des couleurs phantasmagoriques, des sphères lumineuses obsédantes (-5 contre les illusions, -2 sagesse)
-|-
-| 6 || **Sommeil **: Le personnage a une furieuse envie de dormir (état fatigue, -2 sagesse)
-|}
+
+<table CLASS="tablo centre toutgauche cadre" size=80%><caption>1d6</caption><tr CLASS="cadre"><td>1</td><td>**Euphorie** : Le personnage est joyeux, serein et en grande confiance. (+1 charisme, -2 sagesse)</td></tr><tr><td>2</td><td>**Tristesse **: Le personnage est accablé, rien ne va aller correctement. (-1 charisme, -2sagesse)</td></tr><tr><td>3</td><td>**Peur **: Le personnage est angoissé, il a peur de quelque chose qui va arriver, il en est sûr ! (-5 effets de peur, -2 sagesse)</td></tr><tr><td>4</td><td>**Agressivité **: Le personnage s'emporte, il est désinhibé, violent. (+1 initiative et Force, -2 sagesse)</td></tr><tr><td>5</td><td>**Hallucinations **: Le personnage voit des choses étranges, ses compagnons avec des têtes d'animaux, des couleurs phantasmagoriques, des sphères lumineuses obsédantes (-5 contre les illusions, -2 sagesse)</td></tr><tr><td>6</td><td>**Sommeil **: Le personnage a une furieuse envie de dormir (état fatigue, -2 sagesse)</td></tr></table>
+
 
 
 Les effets néfastes durent 10 fois le temps d'exposition (10 round pour 1 round d'exposition, 10 minutes pour une minute d'exposition) pour peu qu'on rate un jet de **Vigueur DD 17**.

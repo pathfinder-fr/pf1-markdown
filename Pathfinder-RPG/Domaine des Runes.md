@@ -30,27 +30,5 @@ Le personnage élabore de puissants effets magiques à partir de runes ésotéri
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine des Runes
-| Sous-domaine des Glyphes || Sous-domaine du Langage
-|- CLASS="premier"
-| 1er || *[[effacement]]* || *[[verrou du mage]]* || *[[compréhension des langages]]*
-|-
-| 2e || *[[page secrète]]* || *idem* || *[[partage de la langue]]*
-|-
-| 3e || *[[glyphe de garde]]* || *idem* || *[[Don des langues]]*
-|-
-| 4e || *[[runes explosives]]* || *[[ancre dimensionnelle]]* || *idem*
-|-
-| 5e || *[[contrat]]* || *idem* || *[[lien télépathique]]*
-|-
-| 6e || *[[glyphe de garde suprême]]* || *[[défense magique]]* || *idem*
-|-
-| 7e || *[[invocation instantanée]]* || *idem* || *idem*
-|-
-| 8e || *[[symbole de mort]]* || *idem* || *idem*
-|-
-| 9e || *[[cercle de téléportation]]* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine des Runes</td><td>Sous-domaine des Glyphes</td><td>Sous-domaine du Langage</td></tr><tr CLASS="premier"><td>1er</td><td>*[[effacement]]*</td><td>*[[verrou du mage]]*</td><td>*[[compréhension des langages]]*</td></tr><tr><td>2e</td><td>*[[page secrète]]*</td><td>*idem*</td><td>*[[partage de la langue]]*</td></tr><tr><td>3e</td><td>*[[glyphe de garde]]*</td><td>*idem*</td><td>*[[Don des langues]]*</td></tr><tr><td>4e</td><td>*[[runes explosives]]*</td><td>*[[ancre dimensionnelle]]*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[contrat]]*</td><td>*idem*</td><td>*[[lien télépathique]]*</td></tr><tr><td>6e</td><td>*[[glyphe de garde suprême]]*</td><td>*[[défense magique]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[invocation instantanée]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[symbole de mort]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[cercle de téléportation]]*</td><td>*idem*</td><td>*idem*</td></tr></table>

@@ -30,17 +30,9 @@ Les créatures ayant l’archétype créature boréale vivent à la limite entre
 #### Créature aérienne (+0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures aériennes
-|- CLASS="titre"
-| DV || Résistance à l’électricité || RD || Dégâts d’électricité
-|- CLASS="premier"
-| 1–4 || 10 || – || 1 point
-|-
-| 5–10 || 15 || 3/_ || 1d6
-|-
-| 11+ || 20 || 5/_ || 2d6
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures aériennes</caption><tr CLASS="titre"><td>DV</td><td>Résistance à l’électricité</td><td>RD</td><td>Dégâts d’électricité</td></tr><tr CLASS="premier"><td>1–4</td><td>10</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>15</td><td>3/_</td><td>1d6</td></tr><tr><td>11+</td><td>20</td><td>5/_</td><td>2d6</td></tr></table>
+
 </div></div>
 Les créatures ayant l’archétype créature aérienne vivent sur le plan de l’Air et possèdent des adaptations uniques pour pouvoir survivre sur ce plan. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature aérienne augmente de +1 si la créature de base a 5 D.V. ou plus.
 
@@ -50,17 +42,9 @@ Les créatures ayant l’archétype créature aérienne vivent sur le plan de l�
 #### Créature aqueuse (+0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures aqueuses
-|- CLASS="titre"
-| DV || Résistance au froid || RD || Dégâts de froid
-|- CLASS="premier"
-| 1–4 || 10 || – || 1 point
-|-
-| 5–10 || 15 || 3/_ || 1d6
-|-
-| 11+ || 20 || 5/_ || 2d6
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures aqueuses</caption><tr CLASS="titre"><td>DV</td><td>Résistance au froid</td><td>RD</td><td>Dégâts de froid</td></tr><tr CLASS="premier"><td>1–4</td><td>10</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>15</td><td>3/_</td><td>1d6</td></tr><tr><td>11+</td><td>20</td><td>5/_</td><td>2d6</td></tr></table>
+
 </div></div>
 Les créatures ayant l’archétype créature aqueuse vivent sur le plan de l’Eau et se déplacent avec une grâce unique
 dans ce milieu sous-marin. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature aqueuse augmente de +1 si la créature de base a 5 D.V. ou plus.
@@ -71,17 +55,9 @@ dans ce milieu sous-marin. Cet archétype simple ne peut être appliqué qu'à u
 #### Créature chtonienne (+0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures chtoniennes
-|- CLASS="titre"
-| DV || Résistance à l’acide || RD || Dégâts d’acide
-|- CLASS="premier"
-| 1–4 || 10 || – || 1 point
-|-
-| 5–10 || 15 || 3/_ || 1d6
-|-
-| 11+ || 20 || 5/_ || 2d6
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures chtoniennes</caption><tr CLASS="titre"><td>DV</td><td>Résistance à l’acide</td><td>RD</td><td>Dégâts d’acide</td></tr><tr CLASS="premier"><td>1–4</td><td>10</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>15</td><td>3/_</td><td>1d6</td></tr><tr><td>11+</td><td>20</td><td>5/_</td><td>2d6</td></tr></table>
+
 </div></div>
 Les créatures ayant l’archétype créature chtonienne vivent sur le plan de la Terre et produisent de l'acide qu'ils utilisent pour creuser rapidement leur maison dans les rochers denses. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature chtonienne augmente de +1 si la créature de base a 5 D.V. ou plus.
 
@@ -91,17 +67,9 @@ Les créatures ayant l’archétype créature chtonienne vivent sur le plan de l
 #### Créature ardente (+0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures ardentes
-|- CLASS="titre"
-| DV || RD || Dégâts de feu
-|- CLASS="premier"
-| 1–4 || – || 1 point
-|-
-| 5–10 || 3/_ || 2d6
-|-
-| 11+ || 5/_ || 3d6
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures ardentes</caption><tr CLASS="titre"><td>DV</td><td>RD</td><td>Dégâts de feu</td></tr><tr CLASS="premier"><td>1–4</td><td>–</td><td>1 point</td></tr><tr><td>5–10</td><td>3/_</td><td>2d6</td></tr><tr><td>11+</td><td>5/_</td><td>3d6</td></tr></table>
+
 </div></div>
 Les créatures ayant l’archétype créature ardente vivent sur le plan du Feu et et agissent comme les conduits des énergies brûlantes de leur Plan d'origine. Cet archétype simple ne peut être appliqué qu'à une créature non-[[type extérieur|extérieur]] avec aucun des sous-types suivants : air, froid, terre, feu ou eau. Le FP de la créature ardente augmente de +1 si la créature de base a 5 D.V. ou plus.
 
@@ -111,17 +79,9 @@ Les créatures ayant l’archétype créature ardente vivent sur le plan du Feu 
 #### Créature primordiale (+0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures primordiales
-|- CLASS="titre"
-| DV || RD || Pouvoirs magiques
-|- CLASS="premier"
-| 1–4 || – || *[[lumières dansantes]]*
-|-
-| 5–10 || 5/fer froid || *[[Lueur féerique]]*
-|-
-| 11+ || 10/fer froid || *[[Confusion mineure]]*
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures primordiales</caption><tr CLASS="titre"><td>DV</td><td>RD</td><td>Pouvoirs magiques</td></tr><tr CLASS="premier"><td>1–4</td><td>–</td><td>*[[lumières dansantes]]*</td></tr><tr><td>5–10</td><td>5/fer froid</td><td>*[[Lueur féerique]]*</td></tr><tr><td>11+</td><td>10/fer froid</td><td>*[[Confusion mineure]]*</td></tr></table>
+
 </div></div>
 Les créatures ayant l’archétype créature primordiales vivent dans le premier monde des fées et sont des précurseurs magiques ou des échos des créatures (animales le plus souvent) du plan matériel. Elles traversent parfois le plan matériel aux côtés de fées ou d'autres voyageurs planaires. Le FP de la créature primordiale augmente de +1 si la créature de base a 5 D.V. ou plus.
 
@@ -131,34 +91,14 @@ Les créatures ayant l’archétype créature primordiales vivent dans le premie
 ### Nouveaux dons de Convocation
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Convocation polyvalente de Monstres
-|- CLASS="titre"
-| Description
-|- CLASS="premier"
-| *Le personnage a appris à convoquer un ensemble plus diversifié de monstres en provenance des plans intérieurs.*
-|- CLASS="alt"
-| **Conditions. ** 1 rang en [[Connaissances]] (mystères) et en [[Connaissances]] (plans)
-|- CLASS="alt"
-| **Avantage. ** Choisissez deux archétypes simples de créature parmi : aérienne, aqueuse, ardente, boréale, chtonienne, de l'ombre ou primordiale. Quand le personnage lance un sort de convocation de monstre (ou un effet imitant ce sort) pour convoquer une ou plusieurs créatures qui seraient normalement disponibles avec l'archétype simple céleste, fiélon, inflexible ou entropique, il peut à la place choisir d'appliquer l'un des deux archétypes simples choisis pour chaque créature.
-|- CLASS="alt"
-| **Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il donne accès à deux archétypes simples supplémentaires.
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo toutgauche"><caption>Convocation polyvalente de Monstres</caption><tr CLASS="titre"><td>Description</td></tr><tr CLASS="premier"><td>*Le personnage a appris à convoquer un ensemble plus diversifié de monstres en provenance des plans intérieurs.*</td></tr><tr CLASS="alt"><td>**Conditions. ** 1 rang en [[Connaissances]] (mystères) et en [[Connaissances]] (plans)</td></tr><tr CLASS="alt"><td>**Avantage. ** Choisissez deux archétypes simples de créature parmi : aérienne, aqueuse, ardente, boréale, chtonienne, de l'ombre ou primordiale. Quand le personnage lance un sort de convocation de monstre (ou un effet imitant ce sort) pour convoquer une ou plusieurs créatures qui seraient normalement disponibles avec l'archétype simple céleste, fiélon, inflexible ou entropique, il peut à la place choisir d'appliquer l'un des deux archétypes simples choisis pour chaque créature.</td></tr><tr CLASS="alt"><td>**Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il donne accès à deux archétypes simples supplémentaires.</td></tr><tr CLASS="alt"></tr></table>
+
 </center>
 
-{| CLASS="tablo toutgauche"
-|+ Convocation polyvalente d'alliés naturels
-|- CLASS="titre"
-| Description
-|- CLASS="premier"
-| *Le personnage a appris à convoquer un ensemble plus diversifié de créatures naturelles en provenance des plans intérieurs.*
-|- CLASS="alt"
-| **Conditions. ** 1 rang en [[Connaissances]] (nature) et en [[Connaissances]] (plans), [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation).
-|- CLASS="alt"
-| **Avantage. ** Quand le personnage lance un sort de convocation d'allies naturels (ou un effet imitant ce sort) pour convoquer une ou plusieurs créatures de type [[type humanoïde|humanoïde]], [[type animal|animal]] ou [[type Vermine|vermine]], il peut à la place des bénéfices apportés par le don [[Amélioration des créatures convoquées]] appliquer l'un des archétypes simples suivants : aérienne, aqueuse, ardente, boréale, chtonienne, de l'ombre ou primordiale. Si plusieurs créatures sont convoquées de cette manière, elles héritent toutes du même archétype simple.
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo toutgauche"><caption>Convocation polyvalente d'alliés naturels</caption><tr CLASS="titre"><td>Description</td></tr><tr CLASS="premier"><td>*Le personnage a appris à convoquer un ensemble plus diversifié de créatures naturelles en provenance des plans intérieurs.*</td></tr><tr CLASS="alt"><td>**Conditions. ** 1 rang en [[Connaissances]] (nature) et en [[Connaissances]] (plans), [[Amélioration des créatures convoquées]], [[École renforcée]] (invocation).</td></tr><tr CLASS="alt"><td>**Avantage. ** Quand le personnage lance un sort de convocation d'allies naturels (ou un effet imitant ce sort) pour convoquer une ou plusieurs créatures de type [[type humanoïde|humanoïde]], [[type animal|animal]] ou [[type Vermine|vermine]], il peut à la place des bénéfices apportés par le don [[Amélioration des créatures convoquées]] appliquer l'un des archétypes simples suivants : aérienne, aqueuse, ardente, boréale, chtonienne, de l'ombre ou primordiale. Si plusieurs créatures sont convoquées de cette manière, elles héritent toutes du même archétype simple.</td></tr><tr CLASS="alt"></tr></table>
+
 </center>
 
 

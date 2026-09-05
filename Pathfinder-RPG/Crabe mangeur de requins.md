@@ -38,21 +38,9 @@ Categories:
 {s:BDTexte|**Pince fulgurante (Ext).** Ayant évolué pour saisir les proies rapides, le crabe mangeur de requins est exceptionnellement agile de ses pinces. Lorsqu’il fait une attaque à outrance, si le crabe rate ses deux attaques de pince, il peut faire une attaque de pince supplémentaire avec un malus de -2 contre n’importe quelle créature à sa portée.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crabe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Crabe royal]] || 1/4
-|-
-| [[Crabe géant]] || 2
-|-
-| [[Crabe mangeur de requins]] || 7
-|-
-| [[Crabe naufrageur]] || 13
-|-
-| [[Nuée de crabes]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crabe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crabe royal]]</td><td>1/4</td></tr><tr><td>[[Crabe géant]]</td><td>2</td></tr><tr><td>[[Crabe mangeur de requins]]</td><td>7</td></tr><tr><td>[[Crabe naufrageur]]</td><td>13</td></tr><tr><td>[[Nuée de crabes]]</td><td>4</td></tr></table>
+
 </div>*Ce crabe épineux aux longues pattes domine son environnement. Il agite ses pinces rapides et puissantes dans toutes les directions, impatient de trouver une proie.*
 
 Extrêmement rapide et agile pour une créature de grande taille, le crabe mangeur de requins s’attaque aux prédateurs

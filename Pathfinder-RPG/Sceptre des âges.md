@@ -26,28 +26,5 @@ Le temps sur lequel s’ouvre le passage est déterminé par la réussite du tes
 Obéissant à des lois qui échappent à cette réalité, le *sceptre des âges* ne peut être détruit : il peut uniquement être transporté dans un temps hors d’atteinte des utilisateurs modernes. Certains disent que ceci est déjà arrivé des dizaines de fois mais que le sceptre a toujours été redécouvert des siècles plus tard, mis à jour dans des ruines anciennes ou par des bouleversements géologiques.
 </div>
 
-{| CLASS="tablo autoalt centre toutgauche" WIDTH="94%"
-|+ Résultats aléatoires du voyage temporel
-|- CLASS="titre"
-| DD au jet || Temps au-delà du portail*
-|- CLASS="premier"
-| DD ou + || Temps voulu
-|-
-| DD -1 à -5 || Temps voulu modifié de 1d10 années (1-10)
-|-
-| DD -6 à -10 || Temps voulu modifié de 1d100 années (1-100)
-|-
-| DD -11 à -15 || Temps voulu modifié de 1d100×100 années (100-10 000)
-|-
-| DD -16 à -20 || Temps voulu modifié de 1d100×1 000 années (1 000-100 000)
-|-
-| DD -21 à -25 || Temps voulu modifié de 1d100×10 000 années (10 000-1 000 000)
-|-
-| DD -26 à -30 || Temps voulu modifié de 1d100×100 000 années (100 000-10 000 000)
-|-
-| DD -31 à -35 || Temps voulu modifié de 1d100×1 000 000 années (1 000 000-100 000 000)
-|-
-| DD -36 à -40 || **Distorsion temporelle.** Faites un jet pour chaque créature qui traverse le portail.
-|- CLASS="note"
-| COLSPAN="5" | *(*) Le MJ détermine aléatoirement s’il ajoute ou soustrait le résultat au temps voulu.*
-|}
+
+<table CLASS="tablo autoalt centre toutgauche" WIDTH="94%"><caption>Résultats aléatoires du voyage temporel</caption><tr CLASS="titre"><td>DD au jet</td><td>Temps au-delà du portail*</td></tr><tr CLASS="premier"><td>DD ou +</td><td>Temps voulu</td></tr><tr><td>DD -1 à -5</td><td>Temps voulu modifié de 1d10 années (1-10)</td></tr><tr><td>DD -6 à -10</td><td>Temps voulu modifié de 1d100 années (1-100)</td></tr><tr><td>DD -11 à -15</td><td>Temps voulu modifié de 1d100×100 années (100-10 000)</td></tr><tr><td>DD -16 à -20</td><td>Temps voulu modifié de 1d100×1 000 années (1 000-100 000)</td></tr><tr><td>DD -21 à -25</td><td>Temps voulu modifié de 1d100×10 000 années (10 000-1 000 000)</td></tr><tr><td>DD -26 à -30</td><td>Temps voulu modifié de 1d100×100 000 années (100 000-10 000 000)</td></tr><tr><td>DD -31 à -35</td><td>Temps voulu modifié de 1d100×1 000 000 années (1 000 000-100 000 000)</td></tr><tr><td>DD -36 à -40</td><td>**Distorsion temporelle.** Faites un jet pour chaque créature qui traverse le portail.</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le MJ détermine aléatoirement s’il ajoute ou soustrait le résultat au temps voulu.*</td></tr></table>

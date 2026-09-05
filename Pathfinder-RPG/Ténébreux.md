@@ -6,19 +6,9 @@ LastModified: 2021-04-17 19:47
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux ténébreux
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Ailé ténébreux]] || 14
-|-
-| [[Marcheur ténébreux]] || 16
-|-
-| [[Rampant ténébreux]] || 18
-|-
-| [[Vague ténébreuse]] || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux ténébreux</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Ailé ténébreux]]</td><td>14</td></tr><tr><td>[[Marcheur ténébreux]]</td><td>16</td></tr><tr><td>[[Rampant ténébreux]]</td><td>18</td></tr><tr><td>[[Vague ténébreuse]]</td><td>20</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 2, p.261.</div>
 *Types/Sous-types associés : [[type Mort-vivant|Mort-vivant]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type ténébreux|ténébreux]]).*
 

@@ -67,75 +67,14 @@ Le contenu de cet ouvrage marqué d'une plume a été traduit par la communauté
 [[Maîtrise de lévocation darme|Maîtrise de l'évocation d'arme]] (Weapon Evoker Mastery)
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ dons généraux du Magic Tactics Toolbox (MTT)
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="42%" | Avantages
 
-|- CLASS="premier"
-| [[Amplification brûlante]] || MTT || — || Les cibles de vos sorts de feu peuvent prendre feu
-
-|- CLASS="premier"
-| [[Amplification foudroyante]] || MTT || — || Les cibles de vos sorts d'électricité peuvent être fatiguées
-
-|- CLASS="premier"
-| [[Amplification refroidissante]] || MTT || — || Les cibles de vos sorts de froid peuvent être ralenties
-
-|- CLASS="premier"
-| [[Assaut Mystique]] || MTT || [[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]] || Vous confirmez les coups critiques plus facilement lorsque la magie vous rend invisible
-
-|- CLASS="premier"
-| [[Canalisation variable]] || MTT || capacité *domaine*, capacité *canalisation d’énergie*, doit suivre les préceptes et recevoir ses sorts d’une divinité || Vous pouvez appliquer une variante de canalisation
-|-
-| &emsp; [[Variante supplémentaire]] || MTT || [[Canalisation variable]] ou *variante de canalisation* || Vous pouvez appliquer une autre variante de canalisation
-
-|- CLASS="premier"
-| [[Dissipation des obstacles]] || MTT || — || Vous pouvez dissiper les murs et les fosses que vous créez
-
-|- CLASS="premier"
-| [[Écailles et peau]] || MTT || [[Constitution|Con]] 13 || Vos transformations vous accordent une armure naturelle
-
-|- CLASS="premier"
-| [[Frappe alchimique]]* || MTT || [[Lancer improvisé]], [[BBA]]+6 || Le DD de votre arme alchimique augmente de +2 à +6
-
-|- CLASS="premier"
-| [[Métacinétique étendue]] || MTT || capacité *explosion cinétique*, capacité *métakinésie* || Vous appliquez les effets d'un don de métamagie à vos explosions cinétiques
-
-|- CLASS="premier"
-| [[Regard déconcertant]]* || MTT || [[hypnotiseur]] 5, capacité *regard douloureux* || Les sens des cibles de votre regard déconcertants sont affaiblis
-
-|- CLASS="premier"
-| [[Regard douloureux multiple]] || MTT || [[hypnotiseur]] 3, capacité *regard douloureux* || De 1 à 3 utilisations de regard douloureux supplémentaires par round
-
-|- CLASS="premier"
-| [[Ritualiste accompli]] || MTT || [[Connaissances]] (histoire, mystères, plans et religion) 1 rang || Vous excellez à participer aux rituels occultes
-
-|- CLASS="premier"
-| [[Tir assuré]] || MTT || [[Tir de précision]], [[Tir de loin]] || La magie vous aide à atteindre une cible éloignée
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>dons généraux du Magic Tactics Toolbox (MTT)</caption><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr CLASS="premier"><td>[[Amplification brûlante]]</td><td>MTT</td><td>—</td><td>Les cibles de vos sorts de feu peuvent prendre feu</td></tr><tr CLASS="premier"><td>[[Amplification foudroyante]]</td><td>MTT</td><td>—</td><td>Les cibles de vos sorts d'électricité peuvent être fatiguées</td></tr><tr CLASS="premier"><td>[[Amplification refroidissante]]</td><td>MTT</td><td>—</td><td>Les cibles de vos sorts de froid peuvent être ralenties</td></tr><tr CLASS="premier"><td>[[Assaut Mystique]]</td><td>MTT</td><td>[[Combat en aveugle]], [[Science de linitiative|Science de l’initiative]]</td><td>Vous confirmez les coups critiques plus facilement lorsque la magie vous rend invisible</td></tr><tr CLASS="premier"><td>[[Canalisation variable]]</td><td>MTT</td><td>capacité *domaine*, capacité *canalisation d’énergie*, doit suivre les préceptes et recevoir ses sorts d’une divinité</td><td>Vous pouvez appliquer une variante de canalisation</td></tr><tr><td>&emsp; [[Variante supplémentaire]]</td><td>MTT</td><td>[[Canalisation variable]] ou *variante de canalisation*</td><td>Vous pouvez appliquer une autre variante de canalisation</td></tr><tr CLASS="premier"><td>[[Dissipation des obstacles]]</td><td>MTT</td><td>—</td><td>Vous pouvez dissiper les murs et les fosses que vous créez</td></tr><tr CLASS="premier"><td>[[Écailles et peau]]</td><td>MTT</td><td>[[Constitution|Con]] 13</td><td>Vos transformations vous accordent une armure naturelle</td></tr><tr CLASS="premier"><td>[[Frappe alchimique]]*</td><td>MTT</td><td>[[Lancer improvisé]], [[BBA]]+6</td><td>Le DD de votre arme alchimique augmente de +2 à +6</td></tr><tr CLASS="premier"><td>[[Métacinétique étendue]]</td><td>MTT</td><td>capacité *explosion cinétique*, capacité *métakinésie*</td><td>Vous appliquez les effets d'un don de métamagie à vos explosions cinétiques</td></tr><tr CLASS="premier"><td>[[Regard déconcertant]]*</td><td>MTT</td><td>[[hypnotiseur]] 5, capacité *regard douloureux*</td><td>Les sens des cibles de votre regard déconcertants sont affaiblis</td></tr><tr CLASS="premier"><td>[[Regard douloureux multiple]]</td><td>MTT</td><td>[[hypnotiseur]] 3, capacité *regard douloureux*</td><td>De 1 à 3 utilisations de regard douloureux supplémentaires par round</td></tr><tr CLASS="premier"><td>[[Ritualiste accompli]]</td><td>MTT</td><td>[[Connaissances]] (histoire, mystères, plans et religion) 1 rang</td><td>Vous excellez à participer aux rituels occultes</td></tr><tr CLASS="premier"><td>[[Tir assuré]]</td><td>MTT</td><td>[[Tir de précision]], [[Tir de loin]]</td><td>La magie vous aide à atteindre une cible éloignée</td></tr></table>
 
 
-{| CLASS="tablo autoalt toutgauche"
-|+ dons de Métamagie du Magic Tactics Toolbox (MTT)
-|- CLASS="titre"
-| WIDTH="18%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="43%" | Avantages
-| WIDTH="11%" | Mod. Niveau
 
-|- CLASS="premier"
-| [[Sort encourageant]] || MTT || [[Charisme|Cha]] 13, [[Diplomatie]] 6 rangs || Le bonus de moral de vos sorts augmente de 1 || +1
 
-|- CLASS="premier"
-| [[Sort brusque]] || MTT || [[Dextérité|Dex]] 13 || La [[VD|Vitesse]] conférée par vos sorts de déplacement augmente de +3 m || +0
+<table CLASS="tablo autoalt toutgauche"><caption>dons de Métamagie du Magic Tactics Toolbox (MTT)</caption><tr CLASS="titre"><td WIDTH="18%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="43%">Avantages</td><td WIDTH="11%">Mod. Niveau</td></tr><tr CLASS="premier"><td>[[Sort encourageant]]</td><td>MTT</td><td>[[Charisme|Cha]] 13, [[Diplomatie]] 6 rangs</td><td>Le bonus de moral de vos sorts augmente de 1</td><td>+1</td></tr><tr CLASS="premier"><td>[[Sort brusque]]</td><td>MTT</td><td>[[Dextérité|Dex]] 13</td><td>La [[VD|Vitesse]] conférée par vos sorts de déplacement augmente de +3 m</td><td>+0</td></tr><tr CLASS="premier"><td>[[Sort vaste]]</td><td>MTT</td><td>[[NLS|Niveau de lanceur]] 3</td><td>La distance de 9 m qui peut séparer les cibles de vos sorts passe à 18 m</td><td>+1</td></tr></table>
 
-|- CLASS="premier"
-| [[Sort vaste]] || MTT || [[NLS|Niveau de lanceur]] 3 || La distance de 9 m qui peut séparer les cibles de vos sorts passe à 18 m || +1
-|}
 </center>
 
 Voir aussi :
@@ -165,36 +104,9 @@ Voir aussi :
 
 {s:filtrable}
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable"
-|+ Tableau récapitulatif des sceptres magiques du Magic Tactics Toolbox (MTT)
-|- CLASS="titre"
-| WIDTH="24%" | Sceptre
-| WIDTH= "3%" | Source
-| WIDTH="62%" | Capacités
-| WIDTH="11%" | Prix de vente
 
-|- CLASS="premier"
-| [[Sceptre de clairvoyance|Clairvoyance]] || <sup>MTT</sup> || Permet de voir à travers les effets du brouillard, de la brume obscurcissante et même des nuages incendiaires. || 12 000 po
+<table CLASS="tablo autoalt toutgauche filtrable"><caption>Tableau récapitulatif des sceptres magiques du Magic Tactics Toolbox (MTT)</caption><tr CLASS="titre"><td WIDTH="24%">Sceptre</td><td WIDTH= "3%">Source</td><td WIDTH="62%">Capacités</td><td WIDTH="11%">Prix de vente</td></tr><tr CLASS="premier"><td>[[Sceptre de clairvoyance|Clairvoyance]]</td><td><sup>MTT</sup></td><td>Permet de voir à travers les effets du brouillard, de la brume obscurcissante et même des nuages incendiaires.</td><td>12 000 po</td></tr><tr CLASS="premier"><td>[[Sceptre de menace subtile|Menace subtile]]</td><td><sup>MTT</sup></td><td>Permet de faire un test d'[[Intimidation]] à la place d'un test de [[Diplomatie]] lorsqu'il tente de recueillir des informations.</td><td>12 305 po</td></tr><tr CLASS="premier"><td>[[Sceptre denchevêtrement ectoplasmique|Enchevêtrement ectoplasmique]]</td><td><sup>MTT</sup></td><td>Trois fois par jour par une [[action simple]], permet de faire sortir des mains du sol dans un rayon de 18m (12 c).</td><td>18 000 po</td></tr><tr CLASS="premier"><td>[[Sceptre de malédictions mineures|Malédictions mineures]]</td><td><sup>MTT</sup></td><td>Trois fois par jour, après avoir touché une créature, délivre une malédiction par une [[action libre]].</td><td>20 000 po</td></tr><tr CLASS="premier"><td>[[Sceptre de fosses périlleuses|Fosses périlleuses]]</td><td><sup>MTT</sup></td><td>Permet de stocker un sort de niveau 3 ou moins dans le sceptre. Lors d'un sort de fosse, permet de délivrer le sort stocké dans la fosse.</td><td>25 000 po</td></tr><tr CLASS="premier"><td>[[Sceptre de soins entravés|Soins entravés]]</td><td><sup>MTT</sup></td><td>Irradie une aura modérée d'énergie négative qui affecte la guérison magique dans un rayon de 18 m (12 c) autour du porteur.</td><td>30 000 po</td></tr><tr CLASS="premier"><td>[[Sceptre de force gravitationnelle|Force gravitationnelle]]</td><td><sup>MTT</sup></td><td>Permet de créer un champ de gravité intensifiée dans un rayon de 18 m (12 c).</td><td>60 000 po</td></tr></table>
 
-|- CLASS="premier"
-| [[Sceptre de menace subtile|Menace subtile]] || <sup>MTT</sup> || Permet de faire un test d'[[Intimidation]] à la place d'un test de [[Diplomatie]] lorsqu'il tente de recueillir des informations. || 12 305 po
-
-|- CLASS="premier"
-| [[Sceptre denchevêtrement ectoplasmique|Enchevêtrement ectoplasmique]] || <sup>MTT</sup> || Trois fois par jour par une [[action simple]], permet de faire sortir des mains du sol dans un rayon de 18m (12 c). || 18 000 po
-
-|- CLASS="premier"
-| [[Sceptre de malédictions mineures|Malédictions mineures]] || <sup>MTT</sup> || Trois fois par jour, après avoir touché une créature, délivre une malédiction par une [[action libre]]. || 20 000 po
-
-|- CLASS="premier"
-| [[Sceptre de fosses périlleuses|Fosses périlleuses]] || <sup>MTT</sup> || Permet de stocker un sort de niveau 3 ou moins dans le sceptre. Lors d'un sort de fosse, permet de délivrer le sort stocké dans la fosse. || 25 000 po
-
-|- CLASS="premier"
-| [[Sceptre de soins entravés|Soins entravés]] || <sup>MTT</sup> || Irradie une aura modérée d'énergie négative qui affecte la guérison magique dans un rayon de 18 m (12 c) autour du porteur. || 30 000 po
-
-|- CLASS="premier"
-| [[Sceptre de force gravitationnelle|Force gravitationnelle]] || <sup>MTT</sup> || Permet de créer un champ de gravité intensifiée dans un rayon de 18 m (12 c). || 60 000 po
-
-|}
 </center>
 
 

@@ -74,37 +74,9 @@ L’assassin pourpre est formé au maniement de toutes les armes courantes et de
 #### Sorts
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centreautoalt"
-|+ {s:Reference|TABLESORTSCONNUSMANTE}Sorts connus par l'assassin pourpre
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| COLSPAN="4" CLASS="avecsoustitre" | Sorts connus
-|- CLASS="soustitre"
-| 1er
-| 2e
-| 3e
-| 4e
-|- CLASS="premier"
-| 1 || 2 || – || – || –
-|-
-| 2 || 3 || – || – || –
-|-
-| 3 || 4 || – || – || –
-|-
-| 4 || 4 || 2 || – || –
-|-
-| 5 || 4 || 3 || – || –
-|-
-| 6 || 4 || 4 || – || –
-|-
-| 7 || 5 || 4 || 2 || –
-|-
-| 8 || 5 || 4 || 3 || –
-|-
-| 9 || 5 || 4 || 4 || –
-|-
-| 10 || 5 || 5 || 4 || 2
-|}
+
+<table CLASS="tablo centreautoalt"><caption>{s:Reference|TABLESORTSCONNUSMANTE}Sorts connus par l'assassin pourpre</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>2</td><td>–</td><td>–</td><td>–</td></tr><tr><td>2</td><td>3</td><td>–</td><td>–</td><td>–</td></tr><tr><td>3</td><td>4</td><td>–</td><td>–</td><td>–</td></tr><tr><td>4</td><td>4</td><td>2</td><td>–</td><td>–</td></tr><tr><td>5</td><td>4</td><td>3</td><td>–</td><td>–</td></tr><tr><td>6</td><td>4</td><td>4</td><td>–</td><td>–</td></tr><tr><td>7</td><td>5</td><td>4</td><td>2</td><td>–</td></tr><tr><td>8</td><td>5</td><td>4</td><td>3</td><td>–</td></tr><tr><td>9</td><td>5</td><td>4</td><td>4</td><td>–</td></tr><tr><td>10</td><td>5</td><td>5</td><td>4</td><td>2</td></tr></table>
+
 </div></div>L'assassin lance des sorts profanes issus de la liste de magicien/ensorceleur, mais elle est limitée aux sorts d’illusion et de transmutation. Il peut lancer tout sort connu sans avoir besoin de le préparer à l’avance.
 
 Pour lancer un sort, l’assassin pourpre doit avoir une valeur de Charisme de 10 + niveau du sort, au minimum. Le nombre de sorts supplémentaires de l'assassin est basé sur son [[Charisme]] et les [[jds|jets de sauvegarde]] contre ses sorts ont un [[DD]] de 10 + niveau du sort + modificateur de Charisme (s’il y a lieu).

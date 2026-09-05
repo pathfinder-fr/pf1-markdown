@@ -35,27 +35,5 @@ Le personnage peut réparer les objets endommagés, animer les objets ou même c
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de l'Artisanat
-| Sous-domaine de la Construction || Sous-domaine du Labeur || Sous-domaine des Pièges
-|- CLASS="premier"
-| 1er || *[[corde animée]]* || *idem* || *[[injonction]]* || *idem*
-|-
-| 2e || *[[façonnage du bois]]* || *idem* || *idem* || *[[collet]]*
-|-
-| 3e || *[[façonnage de la pierre]]* || *idem* || *idem* || *[[amélioration de piège]]*
-|-
-| 4e || *[[création mineure]]* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[fabrication]]* || *idem* || *[[vagues de fatigue]]* || *idem*
-|-
-| 6e || *[[création majeure]]* || *idem* || *idem* || *idem*
-|-
-| 7e || *[[mur de fer]]* || *[[souhait limité]]* || *[[vagues dépuisement|vagues d'épuisement]]* || *[[piège de téléportation]]*
-|-
-| 8e || *[[statue]]* || *[[métamorphose universelle]]* || *idem* || *idem*
-|-
-| 9e || *[[sphère prismatique]]* || *idem* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de l'Artisanat</td><td>Sous-domaine de la Construction</td><td>Sous-domaine du Labeur</td><td>Sous-domaine des Pièges</td></tr><tr CLASS="premier"><td>1er</td><td>*[[corde animée]]*</td><td>*idem*</td><td>*[[injonction]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[façonnage du bois]]*</td><td>*idem*</td><td>*idem*</td><td>*[[collet]]*</td></tr><tr><td>3e</td><td>*[[façonnage de la pierre]]*</td><td>*idem*</td><td>*idem*</td><td>*[[amélioration de piège]]*</td></tr><tr><td>4e</td><td>*[[création mineure]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[fabrication]]*</td><td>*idem*</td><td>*[[vagues de fatigue]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[création majeure]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[mur de fer]]*</td><td>*[[souhait limité]]*</td><td>*[[vagues dépuisement|vagues d'épuisement]]*</td><td>*[[piège de téléportation]]*</td></tr><tr><td>8e</td><td>*[[statue]]*</td><td>*[[métamorphose universelle]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[sphère prismatique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>

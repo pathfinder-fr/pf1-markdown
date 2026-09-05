@@ -20,254 +20,56 @@ LastModified: 2011-09-10 18:44
 
 <table width="100%"><tr style="vertical-align: top"><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 1
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Aigle|Aigle]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Chien|Chien]] || —
-|-
-| [[Pathfinder-RPG.Crapaud venimeux|Crapaud venimeux]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Dauphin|Dauphin]] || —
-|-
-| [[Pathfinder-RPG.Mille-pattes géant|Mille-pattes géant]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Mite|Mite]] (gremin) || —
-|-
-| [[Pathfinder-RPG.Punaise de feu|Punaise de feu]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Poney|Poney]] (cheval) || —
-|-
-| [[Pathfinder-RPG.Rat sanguinaire|Rat sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Strige|Strige]] || —
-|-
-| [[Pathfinder-RPG.Vipère|Vipère]] (serpent) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 1</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Aigle|Aigle]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Chien|Chien]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Crapaud venimeux|Crapaud venimeux]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Dauphin|Dauphin]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Mille-pattes géant|Mille-pattes géant]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Mite|Mite]] (gremin)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Punaise de feu|Punaise de feu]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Poney|Poney]] (cheval)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Rat sanguinaire|Rat sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Strige|Strige]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Vipère|Vipère]] (serpent)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 2
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Araignée géante|Araignée géante]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Calmar|Calmar]] || —
-|-
-| [[Pathfinder-RPG.Cheval|Cheval]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Chien gobelin|Chien gobelin]] || —
-|-
-| [[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille P) || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Fourmi géante|Fourmi géante]], ouvrière || —
-|-
-| [[Pathfinder-RPG.Grenouille géante|Grenouille géante]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Hyène|Hyène]] || —
-|-
-| [[Pathfinder-RPG.Loup|Loup]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Pieuvre|Pieuvre]] || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 2</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Araignée géante|Araignée géante]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Calmar|Calmar]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Cheval|Cheval]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Chien gobelin|Chien gobelin]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille P)</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Fourmi géante|Fourmi géante]], ouvrière</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Grenouille géante|Grenouille géante]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Hyène|Hyène]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Loup|Loup]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pieuvre|Pieuvre]]</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 3
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Anguille électrique|Anguille électrique]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Auroch|Auroch]] || —
-|-
-| [[Pathfinder-RPG.Chauve-souris sanguinaire|Chauve-souris sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Crabe géant|Crabe géant]] || —
-|-
-| [[Pathfinder-RPG.Crocodile|Crocodile]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Fourmi géante|Fourmi géante]], soldat || —
-|-
-| [[Pathfinder-RPG.Glouton|Glouton]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Gorille|Gorille]] || —
-|-
-| [[Pathfinder-RPG.Guépard|Guépard]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Léopard|Léopard]] (félin) || —
-|-
-| [[Pathfinder-RPG.Varan|Varan]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Requin|Requin]] || —
-|-
-| [[Pathfinder-RPG.Sanglier|Sanglier]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Serpent constricteur|Serpent constricteur]] || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 3</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Anguille électrique|Anguille électrique]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Auroch|Auroch]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Chauve-souris sanguinaire|Chauve-souris sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Crabe géant|Crabe géant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Crocodile|Crocodile]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Fourmi géante|Fourmi géante]], soldat</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Glouton|Glouton]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Gorille|Gorille]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Guépard|Guépard]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Léopard|Léopard]] (félin)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Varan|Varan]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Requin|Requin]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Sanglier|Sanglier]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Serpent constricteur|Serpent constricteur]]</td><td>—</td></tr></table>
+
 </center>
 </td></tr><tr><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 4
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Bison|Bison]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Charançon géant|Charançon géant]] || —
-|-
-| [[Pathfinder-RPG.Déinonychus|Déinonychus]] (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille M) || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|-
-| [[Pathfinder-RPG.Fourmi géante|Fourmi géante]] (mâle) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Gorille sanguinaire|Gorille sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Griffon|Griffon]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Grizzly|Grizzly]] || —
-|-
-| [[Pathfinder-RPG.Guêpe géante|Guêpe géante]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Lion|Lion]] || —
-|-
-| [[Pathfinder-RPG.Loup sanguinaire|Loup sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Méphite|Méphite]] (tous) || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|-
-| [[Pathfinder-RPG.Ours-hibou|Ours-hibou]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Ptéranodon|Ptéranodon]] (dinosaure) || —
-|-
-| [[Pathfinder-RPG.Rhinocéros|Rhinocéros]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Sanglier sanguinaire|Sanglier sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Satyre|Satyre]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Scorpion géant|Scorpion géant]] || —
-|-
-| [[Pathfinder-RPG.Tigre|Tigre]] || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 4</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Bison|Bison]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Charançon géant|Charançon géant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Déinonychus|Déinonychus]] (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille M)</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr><td>[[Pathfinder-RPG.Fourmi géante|Fourmi géante]] (mâle)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Gorille sanguinaire|Gorille sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Griffon|Griffon]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Grizzly|Grizzly]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Guêpe géante|Guêpe géante]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Lion|Lion]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Loup sanguinaire|Loup sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Méphite|Méphite]] (tous)</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr><td>[[Pathfinder-RPG.Ours-hibou|Ours-hibou]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Ptéranodon|Ptéranodon]] (dinosaure)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Rhinocéros|Rhinocéros]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Sanglier sanguinaire|Sanglier sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Satyre|Satyre]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Scorpion géant|Scorpion géant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Tigre|Tigre]]</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 5
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Ankylosaure|Ankylosaure]] (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Cyclope|Cyclope]] || —
-|-
-| [[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille G) || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Ettin|Ettin]] || —
-|-
-| [[Pathfinder-RPG.Girallon|Girallon]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Lion sanguinaire|Lion sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Manticore|Manticore]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Murène géante|Murène géante]] || —
-|-
-| [[Pathfinder-RPG.Orque épaulard|Orque épaulard]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Rhinocéros laineux|Rhinocéros laineux]] || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 5</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Ankylosaure|Ankylosaure]] (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Cyclope|Cyclope]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille G)</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Ettin|Ettin]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Girallon|Girallon]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Lion sanguinaire|Lion sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Manticore|Manticore]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Murène géante|Murène géante]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Orque épaulard|Orque épaulard]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Rhinocéros laineux|Rhinocéros laineux]]</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 6
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Bulette|Bulette]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élasmosaure|Élasmosaure]] (dinosaure) || —
-|-
-| [[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille TG) || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Éléphant|Éléphant]] || —
-|-
-| [[Pathfinder-RPG.Géant des collines|Géant des collines]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Géant des pierres|Géant des pierres]] || [[Pathfinder-RPG.sous-type Terre|Terre]]
-|-
-| [[Pathfinder-RPG.Ours sanguinaire|Ours sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Pieuvre géante|Pieuvre géante]] || —
-|-
-| [[Pathfinder-RPG.Stégosaure|Stégosaure]] (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tigre sanguinaire|Tigre sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Tricératops|Tricératops]] (dinosaure) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 6</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Bulette|Bulette]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élasmosaure|Élasmosaure]] (dinosaure)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille TG)</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Éléphant|Éléphant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Géant des collines|Géant des collines]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Géant des pierres|Géant des pierres]]</td><td>[[Pathfinder-RPG.sous-type Terre|Terre]]</td></tr><tr><td>[[Pathfinder-RPG.Ours sanguinaire|Ours sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pieuvre géante|Pieuvre géante]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Stégosaure|Stégosaure]] (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tigre sanguinaire|Tigre sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Tricératops|Tricératops]] (dinosaure)</td><td>—</td></tr></table>
+
 </center>
 </td></tr><tr><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 7
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Brachiosaure|Brachiosaure]] (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Calmar géant|Calmar géant]] || —
-|-
-| [[Pathfinder-RPG.Crocodile sanguinaire|Crocodile sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élémentaire|Élémentaire noble]] || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|-
-| [[Pathfinder-RPG.Géant du feu|Géant du feu]] || [[Pathfinder-RPG.sous-type Feu|Feu]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Géant du froid|Géant du froid]] || [[Pathfinder-RPG.sous-type Froid|Froid]]
-|-
-| [[Pathfinder-RPG.Mastodonte|Mastodonte]] (éléphant) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Requin sanguinaire|Requin sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Roc|Roc]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tyrannosaure|Tyrannosaure]] (dinosaure) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 7</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Brachiosaure|Brachiosaure]] (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Calmar géant|Calmar géant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Crocodile sanguinaire|Crocodile sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élémentaire|Élémentaire noble]]</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr><td>[[Pathfinder-RPG.Géant du feu|Géant du feu]]</td><td>[[Pathfinder-RPG.sous-type Feu|Feu]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Géant du froid|Géant du froid]]</td><td>[[Pathfinder-RPG.sous-type Froid|Froid]]</td></tr><tr><td>[[Pathfinder-RPG.Mastodonte|Mastodonte]] (éléphant)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Requin sanguinaire|Requin sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Roc|Roc]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tyrannosaure|Tyrannosaure]] (dinosaure)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 8
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Géant des nuages|Géant des nuages]] || [[Pathfinder-RPG.sous-type Air|Air]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élémentaire|Seigneur élémentaire]] || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|-
-| [[Pathfinder-RPG.Ver pourpre|Ver pourpre]] || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 8</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Géant des nuages|Géant des nuages]]</td><td>[[Pathfinder-RPG.sous-type Air|Air]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élémentaire|Seigneur élémentaire]]</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr><td>[[Pathfinder-RPG.Ver pourpre|Ver pourpre]]</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 9
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Géant des tempêtes|Géant des tempêtes]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Pixie|Pixie]] (avec *[[Pathfinder-RPG.danse irrésistible|danse irrésistible]]* et flèche endormante) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 9</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Géant des tempêtes|Géant des tempêtes]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pixie|Pixie]] (avec *[[Pathfinder-RPG.danse irrésistible|danse irrésistible]]* et flèche endormante)</td><td>—</td></tr></table>
+
 </center>
 </td></tr></table>

@@ -13,66 +13,22 @@ Les lanceurs de sorts qui embrassent leur héritage draconien et apprennent à c
 
 {s:Reference|TABLEDISCIPLEDRACONIEN}
 <center>
-{| CLASS="tablo"
-|+ Le disciple draconien
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +1 || +1
-| CLASS="gauche" | [[disciple draconien#SANGDESDRAGONS|Sang des dragons]],  
- [[disciple draconien#AUGMENTATIONDARMURENATURELLE|augmentation d’armure naturelle]] (+1)
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Force]] +2),  
- [[disciple draconien#DONDELIGNAGE|don de lignage]], [[disciple draconien#MORSUREDUDRAGON|morsure du dragon]]
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|-
-| 3 || +2 || +1 || +2 || +2
-| CLASS="gauche" | [[disciple draconien#SOUFFLE|Souffle]]
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|- CLASS="alt"
-| 4 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Force]] +2),  
- [[disciple draconien#AUGMENTATIONDARMURENATURELLE|augmentation d’armure naturelle]] (+1)
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|-
-| 5 || +3 || +2 || +3 || +3
-| CLASS="gauche" | [[disciple draconien#PERCEPTIONAVEUGLE|Perception aveugle]] (9m), [[disciple draconien#DONDELIGNAGE|don de lignage]]
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 6 || +4 || +2 || +3 || +3
-| CLASS="gauche" | [[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Constitution]] +2)
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|-
-| 7 || +5 || +2 || +4 || +4
-| CLASS="gauche" | [[disciple draconien#FORMEDRACONIENNE|Forme draconienne]] (1/jour),  
- [[disciple draconien#AUGMENTATIONDARMURENATURELLE|augmentation d’armure naturelle]] (+1)
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|- CLASS="alt"
-| 8 || +6 || +3 || +4 || +4
-| CLASS="gauche" | [[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Intelligence]] +2),  
- [[disciple draconien#DONDELIGNAGE|don de lignage]]
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|-
-| 9 || +6 || +3 || +5 || +5
-| CLASS="gauche" | [[disciple draconien#AILES|Ailes]]
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 10 || +7 || +3 || +5 || +5
-| CLASS="gauche" | [[disciple draconien#PERCEPTIONAVEUGLE|Perception aveugle]] (18m),  
- [[disciple draconien#FORMEDRACONIENNE|Forme draconienne]] (2/jour)
-| CLASS="gauche" | [[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
-de sorts profanes existante]]
-|}
+
+<table CLASS="tablo"><caption>Le disciple draconien</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[disciple draconien#SANGDESDRAGONS|Sang des dragons]],  
+ [[disciple draconien#AUGMENTATIONDARMURENATURELLE|augmentation d’armure naturelle]] (+1)</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Force]] +2),  
+ [[disciple draconien#DONDELIGNAGE|don de lignage]], [[disciple draconien#MORSUREDUDRAGON|morsure du dragon]]</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[disciple draconien#SOUFFLE|Souffle]]</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Force]] +2),  
+ [[disciple draconien#AUGMENTATIONDARMURENATURELLE|augmentation d’armure naturelle]] (+1)</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[disciple draconien#PERCEPTIONAVEUGLE|Perception aveugle]] (9m), [[disciple draconien#DONDELIGNAGE|don de lignage]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Constitution]] +2)</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[disciple draconien#FORMEDRACONIENNE|Forme draconienne]] (1/jour),  
+ [[disciple draconien#AUGMENTATIONDARMURENATURELLE|augmentation d’armure naturelle]] (+1)</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[disciple draconien#AUGMENTATIONDECARACTERISTIQUE|Augmentation de caractéristique]] ([[Intelligence]] +2),  
+ [[disciple draconien#DONDELIGNAGE|don de lignage]]</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[disciple draconien#AILES|Ailes]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[disciple draconien#PERCEPTIONAVEUGLE|Perception aveugle]] (18m),  
+ [[disciple draconien#FORMEDRACONIENNE|Forme draconienne]] (2/jour)</td><td CLASS="gauche">[[disciple draconien#SORTS|+1 niveau dans la classe de lanceur   
+de sorts profanes existante]]</td></tr></table>
+
 </center>
 
 **Rôle.** Disposant des aptitudes d'une classe de lanceur de sorts profanes, les disciples draconiens endossent le rôle habituel d'un pratiquant de magie, entravant le mouvement de l'ennemi et lançant sur lui des sortilèges dévastateurs. Les pouvoirs de leur héritage font de ces [[magicien|magiciens]] polyvalents de plus formidables adversaires encore, alors qu'ils volent au-dessus de la mêlée et incinèrent les combattants de leur souffle enflammé.

@@ -21,19 +21,7 @@ Cette aptitude remplace les [[lutteur#DONDECOMBATSUPPLEMENTAIRE|dons supplément
 #### Mouvements de moine (Ext)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Mouvements de moine
-|- CLASS="titre"
-| Aptitude de moine || Niveau atteint
-|- CLASS="premier"
-| [[moine#ESQUIVETOTALE|Esquive totale]] || 4
-|-
-| [[moine#DEPLACEMENTACCELERE|Déplacement accéléré]] || 4
-|-
-| [[moine#CHUTERALENTIE|Chute ralentie]] || 4
-|-
-| [[moine#SAUTSPUISSANTS|Sauts puissants]] || 5
-|-
-| [[moine#ESQUIVESURNATURELLE|Esquive surnaturelle]] || 9
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Mouvements de moine</caption><tr CLASS="titre"><td>Aptitude de moine</td><td>Niveau atteint</td></tr><tr CLASS="premier"><td>[[moine#ESQUIVETOTALE|Esquive totale]]</td><td>4</td></tr><tr><td>[[moine#DEPLACEMENTACCELERE|Déplacement accéléré]]</td><td>4</td></tr><tr><td>[[moine#CHUTERALENTIE|Chute ralentie]]</td><td>4</td></tr><tr><td>[[moine#SAUTSPUISSANTS|Sauts puissants]]</td><td>5</td></tr><tr><td>[[moine#ESQUIVESURNATURELLE|Esquive surnaturelle]]</td><td>9</td></tr></table>
+
 </div></div>Au niveau 4, un renégat de la voie sinueuse peut utiliser sa [[lutteur#FLEXIBILITEMARTIALE|flexibilité martiale]] pour bénéficier des avantages de certaines aptitudes de [[moine]], ainsi que de certains [[dons#COMBAT|dons de combat]]. Chaque aptitude compte comme un don de combat dans ce cadre et on considère que le renégat est un moine d’un niveau égal à son niveau de lutteur lorsqu’il s’agit de déterminer ses effets. Le renégat peut disposer de ces aptitudes aux niveaux indiqués dans la table des mouvements de moine ci-contre. Il n’obtient aucune [[réserve de ki]] et ne peut pas utiliser les pouvoirs qui nécessitent une dépense de ki. Le renégat de la voie sinueuse doit porter une armure légère ou aucune armure pour pouvoir bénéficier de cette aptitude. Cette aptitude remplace le [[lutteur#BONUSALACA|bonus à la CA]].

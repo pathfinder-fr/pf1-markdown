@@ -137,18 +137,9 @@ mais pas de réactions.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| D100 || Comportement
-|- CLASS="premier"
-| **1-25** || Vous agissez normalement.
-|- CLASS="alt"
-| **26-50** || Vous ne faites rien, à part bredouiller des incohérences
-|-
-| **51-75** || Vous vous infligez 1d8 + modificateur de For dégâts </br>avec un objet que vous avez en main.
-|- CLASS="alt"
-| **76-100** || Vous attaquez la créature la plus proche.
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>D100</td><td>Comportement</td></tr><tr CLASS="premier"><td>**1-25**</td><td>Vous agissez normalement.</td></tr><tr CLASS="alt"><td>**26-50**</td><td>Vous ne faites rien, à part bredouiller des incohérences</td></tr><tr><td>**51-75**</td><td>Vous vous infligez 1d8 + modificateur de For dégâts </br>avec un objet que vous avez en main.</td></tr><tr CLASS="alt"><td>**76-100**</td><td>Vous attaquez la créature la plus proche.</td></tr></table>
+
 </center>
 </div>
 </div>

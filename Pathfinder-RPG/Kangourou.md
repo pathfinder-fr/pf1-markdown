@@ -31,15 +31,9 @@ LastModified: 2021-02-23 16:37
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de marsupial
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Kangourou]] || 1/2
-|-
-| [[Thylacine]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de marsupial</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Kangourou]]</td><td>1/2</td></tr><tr><td>[[Thylacine]]</td><td>1/2</td></tr></table>
+
 </div>*Aussi grand qu’un humain adulte, cette créature à tête de souris se dresse sur ses puissantes pattes arrière et traîne derrière elle une queue épaisse.*
 
 Ces animaux à l’apparence curieuse ont de longues oreilles pointues et un museau allongé. Leurs pattes puissantes leur permettent de faire des bonds étonnants. Comme tous les marsupiaux, les kangourous donnent naissance à des petits (les « joeys ») relativement sous-développés et sans défense qui doivent rester dans la poche protectrice située sur le ventre de leur mère pendant plusieurs mois avant de pouvoir en sortir en toute sécurité. {br}

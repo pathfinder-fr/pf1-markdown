@@ -31,26 +31,10 @@ Les créatures qui possèdent cet archétype sont plus féroces et plus puissant
 #### Créature céleste (FP +0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures célestes
-|- CLASS="titre"
-| class="gauche" | DV
-| Résistance à l’acide,  
-à l’électricité et au froid
-| RD
-|- CLASS="premier"
-| 1–4
-| 5
-| —
-|- CLASS="alt"
-| 5–10
-| 10
-| 5/Mal
-|-
-| 11+
-| 15
-| 10/Mal
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures célestes</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à l’acide,  
+à l’électricité et au froid</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Mal</td></tr><tr><td>11+</td><td>15</td><td>10/Mal</td></tr></table>
+
 </div></div>
 Les créatures célestes vivent dans les plans supérieurs mais peuvent être invoquées via des sorts tels qu’invocation de monstres et allié d’outreplan. Le [[FP]] d’une créature céleste augmente de +1 seulement si la créature de base possède au moins 5 [[DV]].
 
@@ -62,18 +46,10 @@ Les règles rapides et les règles de reconstruction coïncident pour cet arché
 #### Créature de l’ombre (FP +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures de l'ombre
-|- CLASS="titre"
-| DV || Résistance au froid  
-et à l’électricité || RD
-|- CLASS="premier"
-| 1–4 || 5 || –
-|-
-| 5–10 || 10 || 5/magique
-|-
-| 11+ || 15 || 10/magique
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures de l'ombre</caption><tr CLASS="titre"><td>DV</td><td>Résistance au froid  
+et à l’électricité</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>–</td></tr><tr><td>5–10</td><td>10</td><td>5/magique</td></tr><tr><td>11+</td><td>15</td><td>10/magique</td></tr></table>
+
 </div></div>
 Les créatures ayant l’archétype créature de l’ombre vivent sur le plan de l’Ombre et s’aventurent rarement sur les plans plus lumineux. Elles peuvent être convoquées par des [[héraut des ombres (conjurateur)|hérauts des ombres]]. Le FP de la créature de l’ombre augmente de +1. Les règles rapides de reconstruction de la créature de l’ombre sont les mêmes. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
 
@@ -83,26 +59,10 @@ Les créatures ayant l’archétype créature de l’ombre vivent sur le plan de
 #### Créature entropique (FP +0 ou +1) *B2*
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures entropiques
-|- CLASS="titre"
-| class="gauche" | DV
-| Résistance à  
-l'acide et au feu
-| RD
-|- CLASS="premier"
-| 1–4
-| 5
-| —
-|- CLASS="alt"
-| 5–10
-| 10
-| 5/Loi
-|-
-| 11+
-| 15
-| 10/Loi
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures entropiques</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à  
+l'acide et au feu</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Loi</td></tr><tr><td>11+</td><td>15</td><td>10/Loi</td></tr></table>
+
 </div></div>
 Les créatures entropiques vivent dans les plans du Chaos, mais peuvent être invoquées via des sorts tels que *[[convocation de monstres I]]* et *[[allié doutreplan|allié d’outreplan]]*. Le FP d’une créature entropique augmente de +1 seulement si la créature de base possède 5 DV ou plus. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
 
@@ -112,26 +72,10 @@ Les créatures entropiques vivent dans les plans du Chaos, mais peuvent être in
 #### Créature fiélon (FP +0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures fiélons
-|- CLASS="titre"
-| class="gauche" | DV
-| Résistance au  
-feu et au froid
-| RD
-|- CLASS="premier"
-| 1–4
-| 5
-| —
-|- CLASS="alt"
-| 5–10
-| 10
-| 5/Bien
-|-
-| 11+
-| 15
-| 10/Bien
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures fiélons</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance au  
+feu et au froid</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Bien</td></tr><tr><td>11+</td><td>15</td><td>10/Bien</td></tr></table>
+
 </div></div>
 Les créatures qui possèdent cet archétype vivent dans les plans inférieurs comme les Abysses et l’Enfer mais elles peuvent être invoquées via des sorts tels qu’invocation de monstres et allié d’outreplan. Le [[FP]] d’une créature fiélone augmente de +1 seulement si la créature de base possède au moins 5 DV. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
 
@@ -156,26 +100,10 @@ Les créatures qui possèdent cet archétype sont plus grandes et plus fortes qu
 #### Créature inflexible (FP +0 ou +1)
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px; width:33%">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo" width="100%"
-|+ Protections des créatures inflexibles
-|- CLASS="titre"
-| class="gauche" | DV
-| Résistance à  
-l'acide, au feu et au froid
-| RD
-|- CLASS="premier"
-| 1–4
-| 5
-| —
-|- CLASS="alt"
-| 5–10
-| 10
-| 5/Chaos
-|-
-| 11+
-| 15
-| 10/Chaos
-|}
+
+<table CLASS="tablo" width="100%"><caption>Protections des créatures inflexibles</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Résistance à  
+l'acide, au feu et au froid</td><td>RD</td></tr><tr CLASS="premier"><td>1–4</td><td>5</td><td>—</td></tr><tr CLASS="alt"><td>5–10</td><td>10</td><td>5/Chaos</td></tr><tr><td>11+</td><td>15</td><td>10/Chaos</td></tr></table>
+
 </div></div>
 Les créatures inflexibles vivent dans les plans de la Loi mais peuvent être invoquées via des sorts tels que *[[convocation de monstres I]]* et *[[allié doutreplan|allié d’outreplan]]*. Le FP d’une créature inflexible augmente de +1 seulement si la créature de base possède 5 DV ou plus. Les règles rapides et les règles de reconstruction coïncident pour cet archétype.
 
@@ -195,30 +123,9 @@ Les créatures qui possèdent cet archétype sont des spécimens immatures. Vous
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Emplacement de sorts des druides, magiciens et prêtres
-|- CLASS="titre"
-| DV
-| 0 || 1er || 2e || 3e || 4e || 5e || 6e || 7e || 8e || 9e
-|- CLASS="premier"
-| 1-3 || 2 || 1 || - || - || - || - || - || - || - || -
-|-
-| 4-6 || 2 || 2 || 1 || - || - || - || - || - || - || -
-|-
-| 7-9 || ‡ || 2 || 2 || 1 || - || - || - || - || - || -
-|-
-| 10-12 || ‡ || ‡ || 2 || 2 || 1 || - || - || - || - || -
-|-
-| 13-15 || ‡ || ‡ || ‡ || 2 || 2 || 1 || - || - || - || -
-|-
-| 16-18 || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1 || - || - || -
-|-
-| 19-21 || ‡ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1 || - || -
-|-
-| 22-24 || ‡ || ‡ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1 || -
-|-
-| 25+ || ‡ || ‡ || ‡ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Emplacement de sorts des druides, magiciens et prêtres</caption><tr CLASS="titre"><td>DV</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1-3</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4-6</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7-9</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>10-12</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13-15</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>16-18</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>19-21</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>22-24</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>25+</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td></tr></table>
+
 </center></div></div>Un archétype de classe simple fonctionne comme les autres archétypes simples. Il permet au MJ de personnaliser une créature en lui donnant des pouvoirs et un habillage de classe sans avoir à réellement ajouter de niveaux de classe. Tous les archétypes de classe simples proposent deux catégories de modifications. Les « règles rapides » présentent une méthode condensée altérant les pouvoirs et statistiques de la créature sans remodeler tout son profil. Les « règles de reconstruction » dressent la liste de toutes les modifications à apporter au profil de base si le MJ a le temps de le remanier en profondeur, entre deux sessions de jeu par exemple, quand il prépare sa prochaine séance. Ces deux méthodes donnent des créatures aux capacités similaires, à défaut d’être identiques. Ces archétypes donnent leurs propres pouvoirs de classe indiqués par un obèle (†) qui fonctionnent légèrement différemment du pouvoir de classe original, comme précisé dans la description de l’archétype.
 
 **Incantation.** Plusieurs archétypes permettent de lancer des sorts comme un membre de la classe à laquelle se réfère l’archétype. Ils accordent des sorts pour les trois plus hauts niveaux de sorts auxquels la créature a accès seulement. Si elle a lancé tous ses sorts de haut niveau, vous pouvez conserver l’intérêt du combat en lui ajoutant des sorts de moindre niveau (indiqués par un obèle double (‡) mais pas plus de deux par niveau de sort.
@@ -236,24 +143,9 @@ La créature barbare peut devenir enragée, ce qui lui confère de nombreux bonu
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Sorts de barde connus
-|- CLASS="titre"
-| DV
-| 0 || 1er || 2e || 3e || 4e || 5e || 6e
-|- CLASS="premier"
-| 1-4 || 2 || 1 || - || - || - || - || -
-|-
-| 5-8 || 2 || 2 || 1 || - || - || - || -
-|-
-| 9-12 || ‡ || 2 || 2 || 1 || - || - || -
-|-
-| 13-16 || ‡ || ‡ || 2 || 2 || 1 || - || -
-|-
-| 17-20 || ‡ || ‡ || ‡ || 2 || 2 || 1 || -
-|-
-| 20+ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Sorts de barde connus</caption><tr CLASS="titre"><td>DV</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td></tr><tr CLASS="premier"><td>1-4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5-8</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>9-12</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>13-16</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>17-20</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>20+</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td></tr></table>
+
 </center></div></div>La créature barde sait comment inspirer ses camarades pour les pousser à accomplir de grandes choses, c’est donc entourée d’alliés qu’elle est la plus efficace. Elle possède aussi des capacités incantatoires limitées. Le [[FP]] de la créature barde augmente de 2 si elle a 10 [[DV]] ou plus.
 
 **Règles rapides.** +2 sur tous les jets basés sur le [[Cha]] ; chaque jour, peut utiliser [[représentation bardique]]† un nombre de [[round|rounds]] égal à 4 + [[DV]] + modificateur de [[Cha]] (en utilisant ses [[DV]] comme niveau de [[barde]] pour déterminer les bonus et le type de représentation) ; peut lancer quelques [[Liste des sorts de bardes|sorts de barde]] (voir la table Sorts de barde connus ci-contre) en utilisant ses [[DV]] comme [[NLS]] sachant qu’elle dispose de deux emplacements de sorts de chaque niveau pour chaque niveau de sort connu.
@@ -275,30 +167,9 @@ Une créature druide est attirée par la puissance brute de la nature. Elle peut
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Sorts d'ensorceleur connus
-|- CLASS="titre"
-| DV
-| 0 || 1er || 2e || 3e || 4e || 5e || 6e || 7e || 8e || 9e
-|- CLASS="premier"
-| 1-4 || 2 || 1 || - || - || - || - || - || - || - || -
-|-
-| 5-7 || 2 || 2 || 1 || - || - || - || - || - || - || -
-|-
-| 8-10 || ‡ || 2 || 2 || 1 || - || - || - || - || - || -
-|-
-| 11-13 || ‡ || ‡ || 2 || 2 || 1 || - || - || - || - || -
-|-
-| 14-16 || ‡ || ‡ || ‡ || 2 || 2 || 1 || - || - || - || -
-|-
-| 17-19 || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1 || - || - || -
-|-
-| 20-22 || ‡ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1 || - || -
-|-
-| 23-25 || ‡ || ‡ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1 || -
-|-
-| 26+ || ‡ || ‡ || ‡ || ‡ || ‡ || ‡ || ‡ || 2 || 2 || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Sorts d'ensorceleur connus</caption><tr CLASS="titre"><td>DV</td><td>0</td><td>1er</td><td>2e</td><td>3e</td><td>4e</td><td>5e</td><td>6e</td><td>7e</td><td>8e</td><td>9e</td></tr><tr CLASS="premier"><td>1-4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5-7</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>8-10</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>11-13</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>14-16</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>17-19</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>20-22</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>23-25</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>26+</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>‡</td><td>2</td><td>2</td><td>1</td></tr></table>
+
 </center></div></div>Les créatures ensorceleurs disposent d’un éventail de puissants sorts et pouvoirs pour pulvériser leurs ennemis. Choisissez un lignage d’ensorceleur au moment d’ajouter cet archétype. Le [[FP]] de la créature augmente de 2 si elle possède entre 8 et 13 [[DV]] et de 3 si elle possède 14 [[DV]] ou plus.
 
 **Règles rapides.** +2 à tous les tests basés sur le [[Cha]] ; gagne [[Ensorceleur#LIGNAGE|arcane de lignage]]† et [[Ensorceleur#LIGNAGE|pouvoirs de lignage]]† pour le [[Ensorceleur#LIGNAGE|lignage]] choisi (en utilisant [[DV]] –2 comme niveau d’[[ensorceleur]] pour déterminer les effets et [[DD]] (1 au minimum) ; peut lancer quelques [[Liste des sorts densorceleursmagiciens|sorts d’ensorceleur]] (voir la table Sorts d’ensorceleur connus ci-contre) en utilisant ses [[DV]] comme [[NLS]] sachant qu’il obtient deux emplacements de sorts par niveau de sort connu.

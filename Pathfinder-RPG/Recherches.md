@@ -46,31 +46,9 @@ Bien que quelques exemples de bibliothèques soient présentés à la fin de cet
 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|COMPLEXITEPARFP}Complexité d'une bibliothèque par FP
-|- CLASS="titre"
-| FP || DD de base || FP || DD de base
-|- CLASS="premier"
-| 1 || 11 || 11 || 26
-|-
-| 2 || 13 || 12 || 27
-|-
-| 3 || 14 || 13 || 28
-|-
-| 4 || 15 || 14 || 30
-|-
-| 5 || 16 || 15 || 31
-|-
-| 6 || 18 || 16 || 33
-|-
-| 7 || 19 || 17 || 34
-|-
-| 8 || 20 || 18 || 36
-|-
-| 9 || 22 || 19 || 38
-|-
-| 10 || 24 || 20 || 40
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|COMPLEXITEPARFP}Complexité d'une bibliothèque par FP</caption><tr CLASS="titre"><td>FP</td><td>DD de base</td><td>FP</td><td>DD de base</td></tr><tr CLASS="premier"><td>1</td><td>11</td><td>11</td><td>26</td></tr><tr><td>2</td><td>13</td><td>12</td><td>27</td></tr><tr><td>3</td><td>14</td><td>13</td><td>28</td></tr><tr><td>4</td><td>15</td><td>14</td><td>30</td></tr><tr><td>5</td><td>16</td><td>15</td><td>31</td></tr><tr><td>6</td><td>18</td><td>16</td><td>33</td></tr><tr><td>7</td><td>19</td><td>17</td><td>34</td></tr><tr><td>8</td><td>20</td><td>18</td><td>36</td></tr><tr><td>9</td><td>22</td><td>19</td><td>38</td></tr><tr><td>10</td><td>24</td><td>20</td><td>40</td></tr></table>
+
 </div></div>**Étape 4 : Déterminez le FP.** Établissez le FP de la bibliothèque en fonction des besoins d'une aventure ou d'une campagne spécifique, en le basant généralement sur le niveau moyen du groupe (NMG) des personnages-joueurs. Plus le FP est élevé, plus il est difficile pour les personnages de mener à bien leurs recherches. Consultez le tableau "[[Rencontres#TABLENIVEAURENCONTRE|Niveau de la rencontre]]" du *Manuel des joueurs* pour déterminer le FP approprié pour votre groupe, en utilisant les mêmes directives de difficulté que pour les rencontres (facile, moyen, ardu, difficile, héroïque). Par exemple, pour un groupe de quatre PJs de niveau 6, une bibliothèque de FP 6 est de difficulté moyenne, de FP 5 est facile, de FP 7 est ardu, de FP 8 est difficile et de FP 9 est un défi héroïque. Gardez à l'esprit que le fait d'augmenter le FP d'une bibliothèque n'empêche pas une recherche réussie de se produire sans contrainte temporelle (voir l'étape 7) ou sans pénalités d'échec (voir [[Recherches#ELEMENTSSUPPLEMENTAIRES|Éléments supplémentaires]]). Si vous opposez une bibliothèque de FP extrêmement élevé à un groupe de bas niveau ne disposant d'aucun de ces éléments, déterminez l'XP qu'il recevra en conséquence (peu ou pas d'expérience), plutôt que comme pour un monstre de ce FP.
 
 **Étape 5 : Déterminer la Complexité.** La Complexité d'une bibliothèque devrait être assez difficile puisque les règles de recherche supposent que le meilleur chercheur est le chercheur principal, autorisent deux tests d'[[aider qqn|aider quelqu'un]], ajoutent souvent un bonus supplémentaire sur le test de Recherche, et offrent un bonus cumulatif sur les futurs tests de Recherche.

@@ -21,31 +21,11 @@ Categories:
 ### Test de compétence
 **Éviter les chutes.** Le personnage peut utiliser la compétence d’Acrobaties pour éviter de tomber lorsqu’il se déplace sur une surface étroite ou sur un sol irrégulier. Un test réussi lui permet de se déplacer à mi-vitesse ; un seul test suffit pour chaque [[round]]. Reportez-vous à la table suivante pour déterminer le [[DD]] de base, qui sera ensuite modifié par les modificateurs aux [[test|tests]] d’Acrobaties. Lorsque le personnage utilise la compétences d’Acrobaties de cette manière, il est considéré comme [[pris au dépourvu]] et il perd son bonus de Dextérité à la [[CA]] (s’il en a un). S’il subit des dégâts alors qu’il utilise cette compétence, il doit immédiatement réaliser un nouveau [[test]] de compétence contre le [[DD]] initial pour éviter de chuter ou de tomber à terre.
 
-{| CLASS="tablo centre autoalt"
-|+ DD aux test d'acrobatie en fonction de la largeur de la surface
-|- CLASS="titre"
-| Largeur de la surface
-| DD de base du test d’Acrobaties
-|- CLASS="premier"
-| plus de 90 cm
-| 0*
-|-
-| de 30 cm à 90 cm
-| 5*
-|-
-| de 15 cm à 30 cm
-| 10
-|-
-| de 5 cm à 15 cm
-| 15
-|-
-| moins de 5 cm
-| 20
-|-
-| COLSPAN="2" CLASS="note" | *(*) Aucun test d’Acrobaties n’est nécessaire pour se déplacer   
+
+<table CLASS="tablo centre autoalt"><caption>DD aux test d'acrobatie en fonction de la largeur de la surface</caption><tr CLASS="titre"><td>Largeur de la surface</td><td>DD de base du test d’Acrobaties</td></tr><tr CLASS="premier"><td>plus de 90 cm</td><td>0*</td></tr><tr><td>de 30 cm à 90 cm</td><td>5*</td></tr><tr><td>de 15 cm à 30 cm</td><td>10</td></tr><tr><td>de 5 cm à 15 cm</td><td>15</td></tr><tr><td>moins de 5 cm</td><td>20</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Aucun test d’Acrobaties n’est nécessaire pour se déplacer   
 sur ces surfaces, à moins que les modificateurs des   
-surfaces accroissent le [[DD]] au-delà de 9.*
-|}
+surfaces accroissent le [[DD]] au-delà de 9.*</td></tr></table>
+
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#1|→]] Acrobaties : Comment Acrobaties fonctionne lorsqu’on l’utilise pour éviter des attaques d’opportunité ? Quand lancer le test ? Combien de tests faire ?***
 
@@ -61,22 +41,11 @@ Le personnage perd son [[action de mouvement]] et provoque une [[AO|attaque d'op
 
 Mise à jour : Page 88 — Dans la compétence Acrobaties, à la fin du troisième paragraphe, ajouter la phrase suivante : « Si le personnage tente de se déplacer à travers l'espace occupé par un ennemi et échoue à son test d'Acrobaties, son action de mouvement est perdue et il provoque une attaque d'opportunité. »}**Éviter une attaque d'opportunité.** Le personnage peut également utiliser la compétence d’Acrobaties pour traverser l’[[espace contrôlé]] par un ennemi sans provoquer d’[[attaque dopportunité|attaque d'opportunité]] de la part de celui-ci. Ce mouvement s’accomplit normalement à mi-vitesse, mais le personnage peut choisir de se déplacer à sa vitesse entière en augmentant le [[DD]] du test de 10. Les personnages dont la vitesse est réduite parce qu’ils portent une [[encombrement|charge]] ou une [[armure intermédiaire]] ou [[armure lourde|lourde]] ne peuvent pas utiliser la compétence d’Acrobaties de cette manière. Cette restriction ne s’applique que si la vitesse du personnage est effectivement réduite : si une capacité lui permet de conserver sa vitesse entière, le personnage peut alors utiliser la compétence d’Acrobaties pour se faufiler à côté d’ennemis sans provoquer d’[[attaque dopportunité|attaque d’opportunité]]. Un personnage [[à terre]] peut également utiliser la compétence d’Acrobaties de cette manière mais il lui faut alors une [[action complexe]] pour se déplacer de 1,50 m (1 case) et le [[DD]] est augmenté de 5. Si le personnage tente de se déplacer à travers l'espace occupé par un ennemi et échoue à son test d'Acrobaties, son action de mouvement est perdue et il provoque une attaque d'opportunité.
 
-{| CLASS="tablo centre autoalt"
-|+ tests d'acrobaties en espace contrôlé
-|- CLASS="titre"
-| Situation
-| DD de base du test d’Acrobaties*
-|- CLASS="premier"
-| traverser une zone contrôlée par un ennemi
-| [[DMD|degré de manœuvres défensives]] de l’ennemi
-|-
-| traverser l’espace occupé par un ennemi
-| [[DMD|degré de manœuvres défensives]] de l’ennemi + 5
-|-
-| COLSPAN="2" CLASS="note" | *(*) Ce [[DD]] permet d’éviter une [[attaque dopportunité|attaque d’opportunité]] causée par le mouvement. Pour chaque ennemi   
+
+<table CLASS="tablo centre autoalt"><caption>tests d'acrobaties en espace contrôlé</caption><tr CLASS="titre"><td>Situation</td><td>DD de base du test d’Acrobaties*</td></tr><tr CLASS="premier"><td>traverser une zone contrôlée par un ennemi</td><td>[[DMD|degré de manœuvres défensives]] de l’ennemi</td></tr><tr><td>traverser l’espace occupé par un ennemi</td><td>[[DMD|degré de manœuvres défensives]] de l’ennemi + 5</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Ce [[DD]] permet d’éviter une [[attaque dopportunité|attaque d’opportunité]] causée par le mouvement. Pour chaque ennemi   
 supplémentaire (au-delà du premier) dont on tente d’éviter une [[attaque dopportunité|attaque d’opportunité]] au cours du   
-[[round]], le [[DD]] augmente de 2.*
-|}
+[[round]], le [[DD]] augmente de 2.*</td></tr></table>
+
 
 {s:FAQ|***[[FAQ- Manuel des joueurs (Dons et compétences)#29|→]] Sauter : Si je veux sauter au dessus d’un trou de 3m, le DD est-il de 10, comme le tableau l’indique, ou est-il plus élevé, puisque je dois me déplacer d’un total de 4,5m pour atteindre une case hors du trou ?***
 
@@ -85,37 +54,13 @@ Le DD est toujours de 10 pour <u>[[Acrobaties#SAUTER|sauter]]</u> au dessus d’
 Lorsque le personnage se laisse tomber d’une certaine hauteur (ou en cas d’une chute résultant d’un saut raté), un test d’Acrobaties de [[DD]] 15 lui permet d’ignorer les trois premiers mètres de la hauteur de chute, mais il se retrouve quand même à terre si la chute lui inflige des dégâts. Les règles relatives à la chute se trouvent [[Dangers naturels#CHUTES|ici]].
 
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
-{| CLASS="tablo centre autoalt"
-|+ tests de saut en longueur
-|- CLASS="titre"
-| Saut en longueur || DD du test d’Acrobaties
-|- CLASS="premier"
-| 1,50 m (1 case) || 5
-|-
-| 3,00 m (2 cases) || 10
-|-
-| 4,50 m (3 cases) || 15
-|-
-| 6,00 m (4 cases) || 20
-|-
-| plus de 6 m || +5 par 1,50 m (1 case)
-|}
+
+<table CLASS="tablo centre autoalt"><caption>tests de saut en longueur</caption><tr CLASS="titre"><td>Saut en longueur</td><td>DD du test d’Acrobaties</td></tr><tr CLASS="premier"><td>1,50 m (1 case)</td><td>5</td></tr><tr><td>3,00 m (2 cases)</td><td>10</td></tr><tr><td>4,50 m (3 cases)</td><td>15</td></tr><tr><td>6,00 m (4 cases)</td><td>20</td></tr><tr><td>plus de 6 m</td><td>+5 par 1,50 m (1 case)</td></tr></table>
+
 </td><td width="2%"></td><td width="49%">
-{| CLASS="tablo centre autoalt"
-|+ Tests de saut en hauteur
-|- CLASS="titre"
-| Saut en hauteur || DD du test d’Acrobaties
-|- CLASS="premier"
-| 30 cm || 4
-|-
-| 60 cm || 8
-|-
-| 90 cm || 12
-|-
-| 120 cm || 16
-|-
-| plus de 120 cm || +4 par 30 cm
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Tests de saut en hauteur</caption><tr CLASS="titre"><td>Saut en hauteur</td><td>DD du test d’Acrobaties</td></tr><tr CLASS="premier"><td>30 cm</td><td>4</td></tr><tr><td>60 cm</td><td>8</td></tr><tr><td>90 cm</td><td>12</td></tr><tr><td>120 cm</td><td>16</td></tr><tr><td>plus de 120 cm</td><td>+4 par 30 cm</td></tr></table>
+
 </td></tr></table>
 
 ### Modificateurs
@@ -123,44 +68,9 @@ Lorsque le personnage se laisse tomber d’une certaine hauteur (ou en cas d’u
 De nombreuses circonstances peuvent modifier les chances de réussite d’un test d’Acrobaties. Les modificateurs suivants s’appliquent aux [[DD]] de tous les tests d’Acrobaties. Ils se cumulent entre eux mais, pour chaque type de circonstances, seul le modificateur le plus important s’applique.
 
 <center>
-{| CLASS="tablo"
-|+ Modificateurs de circonstances du test d'Acrobaties
-|- CLASS="titre"
-| Circonstances du test d’Acrobaties
-| Modificateur au DD
-|- CLASS="premier"
-| surface légèrement encombrée (décombres épars, sable)
-|  +2
-|- CLASS="alt"
-| surface très encombrée (sol d’une caverne, décombres nombreux)
-| +5
-|-
-| surface légèrement glissante (sol humide)
-| +2
-|- CLASS="alt"
-| surface très glissante (verglas, glace)
-| +5
-|-
-| surface légèrement en pente (moins de 45°)
-| +2
-|- CLASS="alt"
-| surface en pente forte (plus de 45°)
-| +5
-|-
-| surface légèrement instable (bateau sur des eaux agitées)
-| +2
-|- CLASS="alt"
-| surface très instable (navire pris dans une tempête)
-| +5
-|-
-| surface extrêmement instable (tremblement de terre)
-| +10
-|- CLASS="alt"
-| mouvement à pleine vitesse sur des surfaces étroites ou difficiles
-| +5*
-|-
-| COLSPAN="2" CLASS="note" | *(*) Ce modificateur ne s’applique pas dans le cas de sauts.*
-|}
+
+<table CLASS="tablo"><caption>Modificateurs de circonstances du test d'Acrobaties</caption><tr CLASS="titre"><td>Circonstances du test d’Acrobaties</td><td>Modificateur au DD</td></tr><tr CLASS="premier"><td>surface légèrement encombrée (décombres épars, sable)</td><td>+2</td></tr><tr CLASS="alt"><td>surface très encombrée (sol d’une caverne, décombres nombreux)</td><td>+5</td></tr><tr><td>surface légèrement glissante (sol humide)</td><td>+2</td></tr><tr CLASS="alt"><td>surface très glissante (verglas, glace)</td><td>+5</td></tr><tr><td>surface légèrement en pente (moins de 45°)</td><td>+2</td></tr><tr CLASS="alt"><td>surface en pente forte (plus de 45°)</td><td>+5</td></tr><tr><td>surface légèrement instable (bateau sur des eaux agitées)</td><td>+2</td></tr><tr CLASS="alt"><td>surface très instable (navire pris dans une tempête)</td><td>+5</td></tr><tr><td>surface extrêmement instable (tremblement de terre)</td><td>+10</td></tr><tr CLASS="alt"><td>mouvement à pleine vitesse sur des surfaces étroites ou difficiles</td><td>+5*</td></tr><tr><td COLSPAN="2" CLASS="note">*(*) Ce modificateur ne s’applique pas dans le cas de sauts.*</td></tr></table>
+
 </center>
 
 ### Action

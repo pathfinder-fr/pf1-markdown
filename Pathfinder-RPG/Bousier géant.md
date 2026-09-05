@@ -37,15 +37,9 @@ Categories:
 {s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure — blessure ; *[[jet de sauvegarde]]* [[Vigueur|Vig]] [[DD]] 17 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* affaiblissement temporaire de 1d3 [[Dextérité|Dex]] et de 1d3 [[Constitution|Con]] ; *guérison* 2 jets de sauvegarde consécutifs.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de bousier
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Bousier géant]] || 6
-|-
-| [[Nuée de bousiers]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de bousier</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bousier géant]]</td><td>6</td></tr><tr><td>[[Nuée de bousiers]]</td><td>3</td></tr></table>
+
 </div>*Ce scarabée brillant est aussi gros qu’une vache. Sa solide carapace d’un noir bleuté est pleine de poussière et de crottin.*
 
 Les bousiers sont de petits insectes dotés de six pattes. Sur leurs pattes avant se trouvent des mandibules effilées dont ils se servent pour creuser. Il s’agit d’insectes principalement coprophages qui se nourrissent de crottin. Un bousier peut passer des jours à pousser une unique boule de crottin dans le désert, jusqu’à ce qu’il trouve l’endroit idéal pour l’enterrer et y déposer ses œufs. Du fait de leur comportement consistant à creuser le sol pour y déposer la vie, les bousiers sont associés avec les rites d’inhumation. On raconte que leur connexion avec les morts donne aux bousiers des pouvoirs plus importants que ceux des scarabées normaux, mais il n’existe encore aucune preuve qui vienne étayer cette hypothèse.

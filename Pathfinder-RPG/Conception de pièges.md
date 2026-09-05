@@ -17,140 +17,20 @@ C’est un procédé assez simple. Il faut tout d’abord décider du type de pi
 **Pièges mécaniques.** Choisissez les éléments que vous souhaitez associer au piège et ajoutez les modifications adéquates au facteur de puissance (voir la table ci-dessous) pour obtenir le [[Rencontres#FP|FP]] final du piège afin d’en déduire le [[DD]] du test d’[[Artisanat]] (fabrication des pièges) que le personnage doit effectuer (voir Tableau "DD du test d’Artisanat des pièges" plus bas).
 
 <table width="100%"><tr style="vertical-align: top"><td>
-{| CLASS="tablo centre" WIDTH="96%"
-|+ {s:Reference|MODIFFPMECA}Modificateurs au FP des pièges mécaniques
-|- CLASS="titre"
-| Élément || Modificateur au FP
-|- CLASS="premier"
-| COLSPAN="2" | **DD du test de [[Perception]]**
-|-
-|  15 ou moins || -1
-|- CLASS="alt"
-| 16-20 || -
-|-
-| 21-25 || +1
-|- CLASS="alt"
-| 26–29 || +2
-|-
-| 30 ou plus || +3
-|- CLASS="premier"
-| COLSPAN="2" | **DD du test de [[Sabotage]]**
-|-
-| 15 ou moins || –1
-|- CLASS="alt"
-| 16-20 || -
-|-
-| 21-25 || +1
-|- CLASS="alt"
-| 26–29 || +2
-|-
-| 30 ou plus || +3
-|- CLASS="premier"
-| COLSPAN="2" | **DD du jet de Réflexes (fosses et autres pièges autorisant un [[jet de sauvegarde|JdS]])**
-|-
-|  15 ou moins || –1
-|- CLASS="alt"
-| 16-20 || -
-|-
-| 21-25 || +1
-|- CLASS="alt"
-| 26–29 || +2
-|-
-| 30 ou plus || +3
-|- CLASS="premier"
-| COLSPAN="2" | **Bonus à l’attaque (corps à corps ou à distance)**
-|-
-| +0 ou moins || –2
-|- CLASS="alt"
-| +1 à +5 || –1
-|-
-| +6 à +10 || -
-|- CLASS="alt"
-| +11 à +15 || +1
-|-
-| +16 à +20 || +2
-|- CLASS="alt"
-| Attaque de contact || +1
-|- CLASS="premier"
-| COLSPAN="2" | **Dégâts/effet**
-|-
-| Dégâts moyens || +1/10 points
-|- CLASS="premier"
-| COLSPAN="2" | **Éléments divers**
-|-
-| Cibles multiples || +1 (pas de dommage)
-|- CLASS="alt"
-| Liquide || +5
-|-
-| Ne rate jamais || +2
-|- CLASS="alt"
-| Objet spécial || niveau du sort imité
-|-
-| Proximité ou visuel || +1
-|- CLASS="alt"
-| Remise en place automatique || +1
-|}
+
+<table CLASS="tablo centre" WIDTH="96%"><caption>{s:Reference|MODIFFPMECA}Modificateurs au FP des pièges mécaniques</caption><tr CLASS="titre"><td>Élément</td><td>Modificateur au FP</td></tr><tr CLASS="premier"><td COLSPAN="2">**DD du test de [[Perception]]**</td></tr><tr><td>15 ou moins</td><td>-1</td></tr><tr CLASS="alt"><td>16-20</td><td>-</td></tr><tr><td>21-25</td><td>+1</td></tr><tr CLASS="alt"><td>26–29</td><td>+2</td></tr><tr><td>30 ou plus</td><td>+3</td></tr><tr CLASS="premier"><td COLSPAN="2">**DD du test de [[Sabotage]]**</td></tr><tr><td>15 ou moins</td><td>–1</td></tr><tr CLASS="alt"><td>16-20</td><td>-</td></tr><tr><td>21-25</td><td>+1</td></tr><tr CLASS="alt"><td>26–29</td><td>+2</td></tr><tr><td>30 ou plus</td><td>+3</td></tr><tr CLASS="premier"><td COLSPAN="2">**DD du jet de Réflexes (fosses et autres pièges autorisant un [[jet de sauvegarde|JdS]])**</td></tr><tr><td>15 ou moins</td><td>–1</td></tr><tr CLASS="alt"><td>16-20</td><td>-</td></tr><tr><td>21-25</td><td>+1</td></tr><tr CLASS="alt"><td>26–29</td><td>+2</td></tr><tr><td>30 ou plus</td><td>+3</td></tr><tr CLASS="premier"><td COLSPAN="2">**Bonus à l’attaque (corps à corps ou à distance)**</td></tr><tr><td>+0 ou moins</td><td>–2</td></tr><tr CLASS="alt"><td>+1 à +5</td><td>–1</td></tr><tr><td>+6 à +10</td><td>-</td></tr><tr CLASS="alt"><td>+11 à +15</td><td>+1</td></tr><tr><td>+16 à +20</td><td>+2</td></tr><tr CLASS="alt"><td>Attaque de contact</td><td>+1</td></tr><tr CLASS="premier"><td COLSPAN="2">**Dégâts/effet**</td></tr><tr><td>Dégâts moyens</td><td>+1/10 points</td></tr><tr CLASS="premier"><td COLSPAN="2">**Éléments divers**</td></tr><tr><td>Cibles multiples</td><td>+1 (pas de dommage)</td></tr><tr CLASS="alt"><td>Liquide</td><td>+5</td></tr><tr><td>Ne rate jamais</td><td>+2</td></tr><tr CLASS="alt"><td>Objet spécial</td><td>niveau du sort imité</td></tr><tr><td>Proximité ou visuel</td><td>+1</td></tr><tr CLASS="alt"><td>Remise en place automatique</td><td>+1</td></tr></table>
+
 </td><td>
-{| CLASS="tablo centre" WIDTH="96%"
-|+ Modificateur de FP selon le poison employé
-|- CLASS="titre"
-| Poison || FP du poison
-|- CLASS="alt"
-| Ajonc à feuilles bleues || +1
-|-
-| Bile de dragon || +6
-|- CLASS="alt"
-| Brume de folie || +4
-|-
-| Cendres d’ungol || +3
-|- CLASS="alt"
-| Essence d’ombre || +3
-|-
-| Extrait de lotus noir || +8
-|- CLASS="alt"
-| Extrait de sanvert || +1
-|-
-| Mortelame || +5
-|- CLASS="alt"
-| Nitharite || +4
-|-
-| Pâte de malyss || +3
-|- CLASS="alt"
-| Poudre d’assonne || +3
-|-
-| Terrinave || +5
-|- CLASS="alt"
-| Vapeurs d’othur brûlé || +6
-|-
-| Venin d’araignée de taille M || +2
-|- CLASS="alt"
-| Venin de guêpe géante || +3
-|-
-| Venin de mille-pattes de taille P || +1
-|- CLASS="alt"
-| Venin de scorpion de taille G || +3
-|-
-| Venin de ver pourpre || +4
-|- CLASS="alt"
-| Venin de vipère à tête noire || +1
-|-
-| Venin de wiverne || +5
-|- CLASS="note"
-| COLPAN="2" | *Voir la section sur les [[poisons]]*
-|}
+
+<table CLASS="tablo centre" WIDTH="96%"><caption>Modificateur de FP selon le poison employé</caption><tr CLASS="titre"><td>Poison</td><td>FP du poison</td></tr><tr CLASS="alt"><td>Ajonc à feuilles bleues</td><td>+1</td></tr><tr><td>Bile de dragon</td><td>+6</td></tr><tr CLASS="alt"><td>Brume de folie</td><td>+4</td></tr><tr><td>Cendres d’ungol</td><td>+3</td></tr><tr CLASS="alt"><td>Essence d’ombre</td><td>+3</td></tr><tr><td>Extrait de lotus noir</td><td>+8</td></tr><tr CLASS="alt"><td>Extrait de sanvert</td><td>+1</td></tr><tr><td>Mortelame</td><td>+5</td></tr><tr CLASS="alt"><td>Nitharite</td><td>+4</td></tr><tr><td>Pâte de malyss</td><td>+3</td></tr><tr CLASS="alt"><td>Poudre d’assonne</td><td>+3</td></tr><tr><td>Terrinave</td><td>+5</td></tr><tr CLASS="alt"><td>Vapeurs d’othur brûlé</td><td>+6</td></tr><tr><td>Venin d’araignée de taille M</td><td>+2</td></tr><tr CLASS="alt"><td>Venin de guêpe géante</td><td>+3</td></tr><tr><td>Venin de mille-pattes de taille P</td><td>+1</td></tr><tr CLASS="alt"><td>Venin de scorpion de taille G</td><td>+3</td></tr><tr><td>Venin de ver pourpre</td><td>+4</td></tr><tr CLASS="alt"><td>Venin de vipère à tête noire</td><td>+1</td></tr><tr><td>Venin de wiverne</td><td>+5</td></tr><tr CLASS="note"><td COLPAN="2">*Voir la section sur les [[poisons]]*</td></tr></table>
+
 </td></tr></table>
 
 **Pièges magiques.** Là encore, choisissez les éléments qui vous conviennent et déterminez le [[Rencontres#FP|FP]] du piège en fonction (voir la table ci-dessous). Si un PJ souhaite concevoir et construire un piège magique, il doit disposer du don [[Création dobjets merveilleux|Création d’objets merveilleux]]. De plus, il doit être capable de lancer le ou les sorts nécessaire à la conception du piège, sans quoi il devra louer les services d’un [[PNJ]] qui s’en chargera pour lui.
 
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|MODIFFPMAGIQUES}Modificateurs au FP des pièges magiques
-|- CLASS="titre"
-| Élément || Modificateur au FP
-|- CLASS="premier"
-| Sort du plus haut niveau || + niveau du sort
-|-
-| Sort provoquant des dégâts || +1/10 points de dégâts moyens
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|MODIFFPMAGIQUES}Modificateurs au FP des pièges magiques</caption><tr CLASS="titre"><td>Élément</td><td>Modificateur au FP</td></tr><tr CLASS="premier"><td>Sort du plus haut niveau</td><td>+ niveau du sort</td></tr><tr><td>Sort provoquant des dégâts</td><td>+1/10 points de dégâts moyens</td></tr></table>
+
 
 ### Facteur de puissance d’un piège
 Pour calculer le facteur de puissance d’un piège, ajoutez tous les modificateurs de [[Rencontres#FP|FP]] (voir les deux tables de la section précédente) au [[Rencontres#FP|FP]] de base du piège.
@@ -181,25 +61,9 @@ Les prix donnés dans la table ci-dessous partent du principe que la personne qu
 
 Le temps de création d’un piège à objet magique est égal à 1 jour par tranche de 500 po de son coût.
 
-{| CLASS="tablo centre"
-|+ Modificateurs au coût des pièges magiques
-|- CLASS="titre"
-| Élément || Modificateur au coût
-|- CLASS="premier"
-| &emsp;Sort *[[alarme]]* en guise de déclencheur || —
-|-
-| COLSPAN="2" | **Piège à usage unique**
-|-
-| &emsp;Chaque sort utilisé dans le piège || +50 po × niveau de lanceur de sorts × niveau du sort
-|- CLASS="alt"
-| &emsp;Composantes matérielles ||  +coût des composantes matérielles
-|- CLASS="premier"
-| COLSPAN="2" | **Piège à remise en place automatique**
-|-
-| &emsp;Chaque sort utilisé dans le piège || +500 po × niveau de lanceur de sorts × niveau du sort
-|- CLASS="alt"
-| &emsp;Composantes matérielles || +coût des composantes matérielles
-|}
+
+<table CLASS="tablo centre"><caption>Modificateurs au coût des pièges magiques</caption><tr CLASS="titre"><td>Élément</td><td>Modificateur au coût</td></tr><tr CLASS="premier"><td>&emsp;Sort *[[alarme]]* en guise de déclencheur</td><td>—</td></tr><tr><td COLSPAN="2">**Piège à usage unique**</td></tr><tr><td>&emsp;Chaque sort utilisé dans le piège</td><td>+50 po × niveau de lanceur de sorts × niveau du sort</td></tr><tr CLASS="alt"><td>&emsp;Composantes matérielles</td><td>+coût des composantes matérielles</td></tr><tr CLASS="premier"><td COLSPAN="2">**Piège à remise en place automatique**</td></tr><tr><td>&emsp;Chaque sort utilisé dans le piège</td><td>+500 po × niveau de lanceur de sorts × niveau du sort</td></tr><tr CLASS="alt"><td>&emsp;Composantes matérielles</td><td>+coût des composantes matérielles</td></tr></table>
+
 
 ### Coût d’un piège à sort
 Un piège à sort ne coûte rien à moins qu’il ne faille louer les services d’un PNJ lanceur de sorts.
@@ -209,24 +73,7 @@ Une fois que vous avez calculé le [[Rencontres#FP|facteur de puissance]] du pi�
 
 **Effectuer les tests.** Pour déterminer l’avancement journalier de la construction d’un piège, le personnage effectue un test d’[[Artisanat]] (fabrication de pièges). Pour de plus amples informations sur ce type de test, reportez-vous à la description de la compétence [[Artisanat]].
 
-{| CLASS="tablo centre"
-|+ DD du test d’Artisanat des pièges
-|- CLASS="titre"
-| FP du piège || DD de base du   
-test d’Artisanat (fabrication de pièges)
-|- CLASS="premier"
-| 1–5 || 20
-|- CLASS="alt"
-| 6–10 || 25
-|-
-| 11–15 || 30
-|- CLASS="alt"
-| 16+ || 35
-|- CLASS="titre"
-| Éléments supplémentaires || Modificateur au test  
-d'Artisanat (fabrication de pièges)
-|- CLASS="premier"
-| Déclencheur de proximité || +5
-|- CLASS="alt"
-| Remise en place automatique || +5
-|}
+
+<table CLASS="tablo centre"><caption>DD du test d’Artisanat des pièges</caption><tr CLASS="titre"><td>FP du piège</td><td>DD de base du   
+test d’Artisanat (fabrication de pièges)</td></tr><tr CLASS="premier"><td>1–5</td><td>20</td></tr><tr CLASS="alt"><td>6–10</td><td>25</td></tr><tr><td>11–15</td><td>30</td></tr><tr CLASS="alt"><td>16+</td><td>35</td></tr><tr CLASS="titre"><td>Éléments supplémentaires</td><td>Modificateur au test  
+d'Artisanat (fabrication de pièges)</td></tr><tr CLASS="premier"><td>Déclencheur de proximité</td><td>+5</td></tr><tr CLASS="alt"><td>Remise en place automatique</td><td>+5</td></tr></table>

@@ -23,37 +23,10 @@ Le personnage réalise un test d’Utilisation d’objets magiques chaque fois q
 Le personnage doit choisir sciemment le facteur qu’il souhaite simuler. Il doit donc savoir ce qu’il veut simuler avant d’effecteur le test d’Utilisation d’objets magiques. Les DD des différentes tâches relatives à cette compétence sont repris dans la table ci-dessous.
 
 <center>
-{| CLASS="tablo"
-|+ tests d'Utilisation d'Objets Magiques
-|- CLASS="titre"
-| Tâche
-| DD du test d’Utilisation   
-d’objets magiques
-|- CLASS="premier"
-| Activer un objet par chance
-| 25
-|- CLASS="alt"
-| Déchiffrer un sort écrit
-| 25 + niveau du sort
-|-
-| Simuler une aptitude de classe
-| 20
-|- CLASS="alt"
-| Simuler une valeur de [[caractéristiques|caractéristique]]
-| voir la description
-|-
-| Simuler une [[race]]
-| 25
-|- CLASS="alt"
-| Simuler un [[alignement]]
-| 30
-|-
-| Utiliser un parchemin
-| 20 + [[NLS]]
-|- CLASS="alt"
-| Utiliser une baguette
-| 20
-|}
+
+<table CLASS="tablo"><caption>tests d'Utilisation d'Objets Magiques</caption><tr CLASS="titre"><td>Tâche</td><td>DD du test d’Utilisation   
+d’objets magiques</td></tr><tr CLASS="premier"><td>Activer un objet par chance</td><td>25</td></tr><tr CLASS="alt"><td>Déchiffrer un sort écrit</td><td>25 + niveau du sort</td></tr><tr><td>Simuler une aptitude de classe</td><td>20</td></tr><tr CLASS="alt"><td>Simuler une valeur de [[caractéristiques|caractéristique]]</td><td>voir la description</td></tr><tr><td>Simuler une [[race]]</td><td>25</td></tr><tr CLASS="alt"><td>Simuler un [[alignement]]</td><td>30</td></tr><tr><td>Utiliser un parchemin</td><td>20 + [[NLS]]</td></tr><tr CLASS="alt"><td>Utiliser une baguette</td><td>20</td></tr></table>
+
 </center>
 
 **Activer un objet par chance.** Certains objets magiques sont activés par une pensée, un mot de commande ou un geste spécifique. Le personnage peut s’en servir comme s’il respectait la procédure à suivre, bien qu’il l’ignore. Pour obtenir un résultat, il doit simuler cette procédure : prononcer quelques mots et agiter l’objet, par exemple. Le personnage bénéficie d’un bonus de +2 au test de compétence s’il est déjà parvenu à activer l’objet par le passé. Si le test d’Utilisation d’objets magiques échoue de 9 points ou moins, rien ne se passe. S’il échoue d’au moins 10 points, un incident se produit. Dans ce cas, l’énergie magique est bien libérée, mais elle n’a pas l’effet que le personnage souhaitait. Les possibilités par défaut sont que le sort affecte une cible autre que celle choisie par le personnage ou que ce dernier reçoit une décharge d’énergie incontrôlée lui infligeant 2d6 points de dégâts. Cet incident vient en plus de celui que encouru en utilisant un parchemin pour lancer un sort qu’on ne serait normalement pas capable de lancer soi-même.

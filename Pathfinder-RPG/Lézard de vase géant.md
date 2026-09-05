@@ -39,15 +39,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de lézard de vase
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Lézard de vase]] || 1/4
-|-
-| [[Lézard de vase géant]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de lézard de vase</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Lézard de vase]]</td><td>1/4</td></tr><tr><td>[[Lézard de vase géant]]</td><td>2</td></tr></table>
+
 </div>*Cet imposant lézard a une peau pâle et mouchetée. Les épines qui entourent son visage forment une collerette hérissée de pointes.*
 
 Les lézards de vase géants sont des cousins quadrupèdes des lézards de vase communs. Ils socialisent parfois avec leurs congénères plus petits, formant des sociétés simples basées sur la loi du plus fort. Il leur arrive parfois de servir d’alliés et de montures aux hommes lézards. Les lézards de vase géants mesurent jusqu’à 3 mètres de long pour un poids d’environ 450 kilos.

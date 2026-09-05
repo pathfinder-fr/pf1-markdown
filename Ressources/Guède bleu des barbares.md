@@ -14,21 +14,9 @@ Ces gros pots d’argiles contiennent une pâte grasse fabriquée par les barbar
 Un pot contient trois doses. Le nombre de dose dont on peut se recouvrir le corps dépend des vêtements et de l’armure portée.
 
 
-{| CLASS="tablo"
-|- CLASS="titre"
-|  Type d'armure
-|  Type de vêtement
-|  Nombre de doses maximales
 
-|- CLASS="premier"
-| Aucune || Torse nu || 3 doses
-|- CLASS="alt"
-| Légère || Vêtements légers || 2 doses
-|-
-| Intermédiaire || Vêtements d'hiver || 1 dose
-|- CLASS="alt"
-| Lourde || - || Aucune
-|}
+<table CLASS="tablo"><tr CLASS="titre"><td>Type d'armure</td><td>Type de vêtement</td><td>Nombre de doses maximales</td></tr><tr CLASS="premier"><td>Aucune</td><td>Torse nu</td><td>3 doses</td></tr><tr CLASS="alt"><td>Légère</td><td>Vêtements légers</td><td>2 doses</td></tr><tr><td>Intermédiaire</td><td>Vêtements d'hiver</td><td>1 dose</td></tr><tr CLASS="alt"><td>Lourde</td><td>-</td><td>Aucune</td></tr></table>
+
 
 Chaque dose appliquée confère à l’utilisateur un nombre de point de vie temporaire égal à son bonus de base aux jets de vigueur. Il faut multiplier ce nombre par le nombre de doses appliquées. De plus, tant que l’effet dure, le personnage est protégé du froid comme à l’aide d’un sort d’endurance aux énergies destructives.
 

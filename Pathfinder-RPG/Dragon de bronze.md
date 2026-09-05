@@ -33,17 +33,9 @@ Categories:
 {s:BDTexte|**Vortex (Ext).** Une fois par jour, un dragon de bronze vénérable ou plus âgé peut créer un vortex per une [[action simple]], exactement comme un seigneur [[élémentaire de leau|élémentaire de l'eau]]. Il peut maintenir ce vortex pendant 1 round par catégorie d'âge.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de bronze
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon de bronze]] || &nbsp; || 9
-|-
-| [[Dragon de bronze adulte]] || &nbsp; || 13
-|-
-| [[Dragon de bronze vénérable]] || &nbsp; || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de bronze</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de bronze]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon de bronze adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon de bronze vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Ce dragon élancé est recouvert d’écailles métalliques ternes dont la couleur varie du bronze brillant au bleu marbré.*
 
 Les dragons de bronze s’allient parfois aux voyageurs
@@ -52,36 +44,10 @@ promettent une récompense
 adéquate.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité (électricité), [[respiration aquatique]],   
-souffle de répulsion || —
-|- CLASS="alt"
-| Très jeune || *[[communication avec les animaux]]* || —
-|-
-| Jeune || [[changement de forme (Capacité)|changement de forme]] || 1
-|- CLASS="alt"
-| Adolescent || *[[création de nourriture et deau|création de nourriture et d'eau]]*,   
-maîtrise des vagues || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || *[[nappe de brouillard]]*, [[présence terrifiante]] || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || aura électrique, *[[détection de pensées]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[contrôle de leau|contrôle de l'eau]]*, vortex || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || *[[contrôle du climat]]*, raz-de-marée || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité (électricité), [[respiration aquatique]],   
+souffle de répulsion</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[communication avec les animaux]]*</td><td>—</td></tr><tr><td>Jeune</td><td>[[changement de forme (Capacité)|changement de forme]]</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[création de nourriture et deau|création de nourriture et d'eau]]*,   
+maîtrise des vagues</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[nappe de brouillard]]*, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura électrique, *[[détection de pensées]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[contrôle de leau|contrôle de l'eau]]*, vortex</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>*[[contrôle du climat]]*, raz-de-marée</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

@@ -14,32 +14,9 @@ Que vous soyez un soldat aguerri capable de geler le sang de ses ennemis d’un 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Classe
-| Points de compétence par niveau
-|- CLASS="premier"
-| Agent <sup>AGT</sup>
-| 8 + modificateur d'Intelligence
-|- CLASS="alt"
-| Émissaire <sup>ÉMI</sup>
-| 8 + modificateur d'Intelligence
-|-
-| Mécano <sup>MÉC</sup>
-| 4 + modificateur d'Intelligence
-|- CLASS="alt"
-| Mystique <sup>MYS</sup>
-| 6 + modificateur d'Intelligence
-|-
-| Solarien <sup>SOL</sup>
-| 4 + modificateur d'Intelligence
-|- CLASS="alt"
-| Soldat <sup>SDT</sup>
-| 4 + modificateur d'Intelligence
-|-
-| Technomancien <sup>TEC</sup>
-| 4 + modificateur d'Intelligence
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Classe</td><td>Points de compétence par niveau</td></tr><tr CLASS="premier"><td>Agent <sup>AGT</sup></td><td>8 + modificateur d'Intelligence</td></tr><tr CLASS="alt"><td>Émissaire <sup>ÉMI</sup></td><td>8 + modificateur d'Intelligence</td></tr><tr><td>Mécano <sup>MÉC</sup></td><td>4 + modificateur d'Intelligence</td></tr><tr CLASS="alt"><td>Mystique <sup>MYS</sup></td><td>6 + modificateur d'Intelligence</td></tr><tr><td>Solarien <sup>SOL</sup></td><td>4 + modificateur d'Intelligence</td></tr><tr CLASS="alt"><td>Soldat <sup>SDT</sup></td><td>4 + modificateur d'Intelligence</td></tr><tr><td>Technomancien <sup>TEC</sup></td><td>4 + modificateur d'Intelligence</td></tr></table>
+
 </center>
 </div></div>À chaque niveau, y compris le premier, vous obtenez un certain nombre de rangs de compétence. Le nombre que vous obtenez est déterminé par la classe choisie pour ce niveau, modifié par votre modificateur d’Intelligence (vous obtenez toutefois toujours un minimum de 1 rang de compétence par niveau). Par exemple, si vous créez un technomancien de niveau 1 avec une valeur d’Intelligence de 18, vous obtenez 8 rangs de compétence par niveau : 4 rangs conférés par la classe de technomancien et 4 rangs de plus grâce à votre modificateur d’Intelligence de +4.
 
@@ -64,22 +41,9 @@ Il peut arriver que vous fassiez un test de compétence dont le but n’est pas 
 Il est parfois impossible d’effectuer un test de compétence. Parfois, la situation vous empêche de faire un test de compétence et parfois la compétence en question nécessite une formation spéciale afin de pouvoir tenter le test. On utilise le terme de formation nécessaire pour désigner les compétences nécessitant une formation spéciale et ce terme est indiqué dans l’en-tête des compétences concernées. Sauf indication contraire dans la description de la compétence, vous ne pouvez pas effectuer un test de compétence sans formation pour accomplir une tâche en utilisant une compétence nécessitant une formation ; vous devez avoir investi 1 rang au moins dans cette compétence pour pouvoir effectuer un test.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Type de test de compétence
-| CLASS="gauche" | Résultat du test de compétence*
-|- CLASS="premier"
-| Compétence de classe avec formation
-| CLASS="gauche" | 1d20 + rangs de compétence + 3 + modificateur de caractéristique + autres modificateurs*
-|- CLASS="alt"
-| Compétence avec formation
-| CLASS="gauche" | 1d20 + rangs de compétence + modificateur de caractéristique + autre modificateurs*
-|-
-| Compétence sans formation
-| CLASS="gauche" | 1d20 + modificateur de caractéristique + autres modificateurs*
-|-
-| COLSPAN="3" CLASS="note" | *(*) Les malus d’armure aux tests s’appliquent à la plupart des tests de compétence basés sur la Force et la Dextérité.*
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Type de test de compétence</td><td CLASS="gauche">Résultat du test de compétence*</td></tr><tr CLASS="premier"><td>Compétence de classe avec formation</td><td CLASS="gauche">1d20 + rangs de compétence + 3 + modificateur de caractéristique + autres modificateurs*</td></tr><tr CLASS="alt"><td>Compétence avec formation</td><td CLASS="gauche">1d20 + rangs de compétence + modificateur de caractéristique + autre modificateurs*</td></tr><tr><td>Compétence sans formation</td><td CLASS="gauche">1d20 + modificateur de caractéristique + autres modificateurs*</td></tr><tr><td COLSPAN="3" CLASS="note">*(*) Les malus d’armure aux tests s’appliquent à la plupart des tests de compétence basés sur la Force et la Dextérité.*</td></tr></table>
+
 </center>
 
 #### Faire 10
@@ -102,54 +66,9 @@ Le MJ peut vous conférer la possibilité d’aider quelqu’un à réussir un t
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Type de créature
-| CLASS="gauche" | Compétence
-|- CLASS="premier"
-| Aberration
-| CLASS="gauche" | Sciences de la vie
-|- CLASS="alt"
-| Animal
-| CLASS="gauche" | Sciences de la vie
-|-
-| Créature artificielle (magique)
-| CLASS="gauche" | Mysticisme
-|- CLASS="alt"
-| Créature artificielle (technologique)
-| CLASS="gauche" | Ingénierie
-|-
-| Créature magique
-| CLASS="gauche" | Mysticisme
-|- CLASS="alt"
-| Dragon
-| CLASS="gauche" | Mysticisme
-|-
-| Extérieur
-| CLASS="gauche" | Mysticisme
-|- CLASS="alt"
-| Fée
-| CLASS="gauche" | Mysticisme
-|-
-| Humanoïde
-| CLASS="gauche" | Sciences de la vie
-|- CLASS="alt"
-| Humanoïde monstrueux
-| CLASS="gauche" | Sciences de la vie
-|-
-| Mort-vivant
-| CLASS="gauche" | Mysticisme
-|- CLASS="alt"
-| Plante
-| CLASS="gauche" | Sciences de la vie
-|-
-| Vase
-| CLASS="gauche" | Sciences de la vie
-|- CLASS="alt"
-| Vermine
-| CLASS="gauche" | Sciences de la vie
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Type de créature</td><td CLASS="gauche">Compétence</td></tr><tr CLASS="premier"><td>Aberration</td><td CLASS="gauche">Sciences de la vie</td></tr><tr CLASS="alt"><td>Animal</td><td CLASS="gauche">Sciences de la vie</td></tr><tr><td>Créature artificielle (magique)</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Créature artificielle (technologique)</td><td CLASS="gauche">Ingénierie</td></tr><tr><td>Créature magique</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Dragon</td><td CLASS="gauche">Mysticisme</td></tr><tr><td>Extérieur</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Fée</td><td CLASS="gauche">Mysticisme</td></tr><tr><td>Humanoïde</td><td CLASS="gauche">Sciences de la vie</td></tr><tr CLASS="alt"><td>Humanoïde monstrueux</td><td CLASS="gauche">Sciences de la vie</td></tr><tr><td>Mort-vivant</td><td CLASS="gauche">Mysticisme</td></tr><tr CLASS="alt"><td>Plante</td><td CLASS="gauche">Sciences de la vie</td></tr><tr><td>Vase</td><td CLASS="gauche">Sciences de la vie</td></tr><tr CLASS="alt"><td>Vermine</td><td CLASS="gauche">Sciences de la vie</td></tr></table>
+
 </center>
 </div>
 </div>
@@ -158,21 +77,9 @@ Vous pouvez utiliser certaines compétences pour identifier des créatures. La c
 Le DD des tests de compétence pour identifier une créature dépend de la rareté de la créature.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Rareté de la créature
-| CLASS="gauche" | DD
-|- CLASS="premier"
-| Très courante (gobelin de l'espace)
-| CLASS="gauche" | 5 + 1,5 x le FP de la créature
-|- CLASS="alt"
-| Moyenne (la plupart des monstres)
-| CLASS="gauche" | 10 + 1,5 x le FP de la créature
-|-
-| Rare (rejeton de nova)
-| CLASS="gauche" | 15 + 1,5 x le FP de la créature
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Rareté de la créature</td><td CLASS="gauche">DD</td></tr><tr CLASS="premier"><td>Très courante (gobelin de l'espace)</td><td CLASS="gauche">5 + 1,5 x le FP de la créature</td></tr><tr CLASS="alt"><td>Moyenne (la plupart des monstres)</td><td CLASS="gauche">10 + 1,5 x le FP de la créature</td></tr><tr><td>Rare (rejeton de nova)</td><td CLASS="gauche">15 + 1,5 x le FP de la créature</td></tr></table>
+
 </center>
 
 La liste des types de créatures ci-contre indique quelle compétence utiliser pour identifier chacun d’eux.
@@ -183,20 +90,9 @@ La liste des types de créatures ci-contre indique quelle compétence utiliser p
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Difficulté de la question
-| CLASS="gauche" | DD de base
-|- CLASS="premier"
-| Questions vraiment faciles
-| CLASS="gauche" | 5
-|- CLASS="alt"
-| Questions moyennement compliquées
-| CLASS="gauche" | 15
-|-
-| Questions très compliquées
-| CLASS="gauche" | 20 à 30
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Difficulté de la question</td><td CLASS="gauche">DD de base</td></tr><tr CLASS="premier"><td>Questions vraiment faciles</td><td CLASS="gauche">5</td></tr><tr CLASS="alt"><td>Questions moyennement compliquées</td><td CLASS="gauche">15</td></tr><tr><td>Questions très compliquées</td><td CLASS="gauche">20 à 30</td></tr></table>
+
 </center>
 </div>
 </div>
@@ -207,26 +103,9 @@ Les DD des tests de compétence pour se rappeler quelque chose sont déterminés
 Les sujets spécifiques et les compétences que vous utilisez pour vous rappeler quelque chose à leur propos sont indiqués dans la petite table ci-dessous.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Compétence
-| CLASS="gauche" | Se rappeler quelque chose sur les sujets suivants
-|- CLASS="premier"
-| Culture
-| CLASS="gauche" | Coutumes, lois, gouvernement, dirigeants, célébrités, légendes, religion, histoire et sujets apparentés d’une culture
-|- CLASS="alt"
-| Mysticisme
-| CLASS="gauche" | Théories alchimiques, symboles arcaniques, divinités, traditions magiques, les plans, traditions et symboles religieux, et sujets apparentés
-|-
-| Profession
-| CLASS="gauche" | Une profession spécifique et sujets apparentés
-|- CLASS="alt"
-| Sciences de la vie
-| CLASS="gauche" | Bio ingénierie, biologie, botanique, écologie, génétique, xénobiologie, zoologie et autres domaines des sciences biologiques
-|-
-| Sciences physique
-| CLASS="gauche" | Astronomie, chimie, climatologie, géographie, géologie, hyperespace, météorologie, océanographie, physique et autres domaines des sciences naturelles
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Compétence</td><td CLASS="gauche">Se rappeler quelque chose sur les sujets suivants</td></tr><tr CLASS="premier"><td>Culture</td><td CLASS="gauche">Coutumes, lois, gouvernement, dirigeants, célébrités, légendes, religion, histoire et sujets apparentés d’une culture</td></tr><tr CLASS="alt"><td>Mysticisme</td><td CLASS="gauche">Théories alchimiques, symboles arcaniques, divinités, traditions magiques, les plans, traditions et symboles religieux, et sujets apparentés</td></tr><tr><td>Profession</td><td CLASS="gauche">Une profession spécifique et sujets apparentés</td></tr><tr CLASS="alt"><td>Sciences de la vie</td><td CLASS="gauche">Bio ingénierie, biologie, botanique, écologie, génétique, xénobiologie, zoologie et autres domaines des sciences biologiques</td></tr><tr><td>Sciences physique</td><td CLASS="gauche">Astronomie, chimie, climatologie, géographie, géologie, hyperespace, météorologie, océanographie, physique et autres domaines des sciences naturelles</td></tr></table>
+
 </center>
 
 {s:Reference|COMPETENCESETCOMBATDEVAISSEAUXSPATIAUX}

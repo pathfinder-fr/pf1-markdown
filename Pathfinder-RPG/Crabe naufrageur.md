@@ -35,21 +35,9 @@ LastModified: 2023-10-22 19:23
 {s:BDTexte|**Pinces puissantes (Ext).** Les attaques de pince du crabe naufrageur infligent un nombre de dégâts égal à 1,5 fois son modificateur de Force. En outre, le crabe naufrageur ignore jusqu’à 5 points de [[solidité]] lorsqu’il inflige des dégâts à des objets.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crabe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Crabe royal]] || 1/4
-|-
-| [[Crabe géant]] || 2
-|-
-| [[Crabe mangeur de requins]] || 7
-|-
-| [[Crabe naufrageur]] || 13
-|-
-| [[Nuée de crabes]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crabe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crabe royal]]</td><td>1/4</td></tr><tr><td>[[Crabe géant]]</td><td>2</td></tr><tr><td>[[Crabe mangeur de requins]]</td><td>7</td></tr><tr><td>[[Crabe naufrageur]]</td><td>13</td></tr><tr><td>[[Nuée de crabes]]</td><td>4</td></tr></table>
+
 </div>*La silhouette de cet énorme crabe est dominée par des pinces, de la taille d’une chaloupe. Des bernacles et des herbes marines pendent à son épaisse coquille.*
 
 Fléau de tous les navires sillonnant les mers, le crabe naufrageur peut ruiner la carrière d’un capitaine de navire marchand en l’espace de quelques minutes, détruisant son bâtiment, déversant sa cargaison au fond des mers et picorant ses membres d’équipage au milieu des débris.Les crabes naufrageurs passent la plus grande partie de leur vie dans les eaux peu profondes, se rapprochant du rivage ou de la surface pour chasser et se

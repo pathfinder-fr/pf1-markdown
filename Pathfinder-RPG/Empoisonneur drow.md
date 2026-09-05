@@ -48,30 +48,8 @@ Extraits d’alchimiste préparés (NLS 12)
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de drow
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Capitaine de la maison drow]] || 6
-|-
-| [[Champion démoniaque drow]] || 9
-|-
-| [[Drow]] || 1/3
-|-
-| [[Drow noble]] || 3
-|-
-| [[Éclaireur drow]] || 1
-|-
-| [[Empoisonneur drow]] || 11
-|-
-| [[Garde de la maison drow]] || 2
-|-
-| [[Maître éclaireur drow]] || 7
-|-
-| [[Matrone drow]] || 15
-|-
-| [[Prêtresse drow]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de drow</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Capitaine de la maison drow]]</td><td>6</td></tr><tr><td>[[Champion démoniaque drow]]</td><td>9</td></tr><tr><td>[[Drow]]</td><td>1/3</td></tr><tr><td>[[Drow noble]]</td><td>3</td></tr><tr><td>[[Éclaireur drow]]</td><td>1</td></tr><tr><td>[[Empoisonneur drow]]</td><td>11</td></tr><tr><td>[[Garde de la maison drow]]</td><td>2</td></tr><tr><td>[[Maître éclaireur drow]]</td><td>7</td></tr><tr><td>[[Matrone drow]]</td><td>15</td></tr><tr><td>[[Prêtresse drow]]</td><td>5</td></tr></table>
+
 </div>Ce drow utilise des venins mortels et de redoutables produits alchimiques.
 </div></td></tr></table>

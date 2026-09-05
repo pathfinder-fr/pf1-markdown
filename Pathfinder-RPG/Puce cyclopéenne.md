@@ -38,15 +38,9 @@ LastModified: 2020-09-21 17:41
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de puce
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Puce cyclopéenne]] || 2
-|-
-| [[Puce géante]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de puce</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Puce cyclopéenne]]</td><td>2</td></tr><tr><td>[[Puce géante]]</td><td>1/2</td></tr></table>
+
 </div>*Cette puce cyclopéenne est aussi grande qu’un cheval. Ses pattes pendouillent maladroitement sous son énorme corps gonflé et entièrement protégé de plaques dépareillées.*
 
 Les puces cyclopéennes sont de féroces prédateurs. Elles ont besoin de grandes quantités de sang pour survivre mais, une fois repues, elles peuvent survivre pendant des mois avant de devoir se nourrir à nouveau. Pour cette raison, elles cherchent de grandes proies, telles que les vaches et les chevaux, et harcèlent les communautés agraires élevant ces troupeaux. La morsure de la puce cyclopéenne est extrêmement douloureuse et laisse une cicatrice saillante dessinant un anneau.

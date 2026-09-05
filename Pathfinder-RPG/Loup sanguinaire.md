@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de loup
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Loup]] || 1
-|-
-| [[Loup sanguinaire]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de loup</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Loup]]</td><td>1</td></tr><tr><td>[[Loup sanguinaire]]</td><td>3</td></tr></table>
+
 </div>*Cet immense loup noir est aussi grand qu’un cheval et ses crocs, aussi longs et tranchants que des couteaux.*
 
 Ces énormes créatures incarnent

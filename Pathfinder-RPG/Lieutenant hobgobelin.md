@@ -37,32 +37,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[potions magiques|huiles]] d'[[arme magique]]* (4), *[[potions magiques|potion]] de [[soins modérés]]*, [[Feu grégeois (objet)|feux grégeois]] (2) ; **Équipement divers** *[[armure de peau (armure)|armure de peau +1]]*, [[arc long (arme)|arc long]] avec [[Flèches (arme)|20 flèches]], [[serpe (arme)|serpes de maître]] (2), *[[cape de résistance|cape de résistance +1]]*, 57 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Hobgobelin
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hobgobelin]] || 1/2
-|-
-| [[Yzobu]] || 1
-|-
-| [[Sergent hobgobelin]] || 2
-|-
-| [[Zélote des batailles hobgobelin]] || 2
-|-
-| [[Lieutenant hobgobelin]] || 4
-|-
-| [[Précurseur hobgobelin]] || 6
-|-
-| [[Bombardier hobgobelin]] || 7
-|-
-| [[Prêtre guerrier hobgobelin]] || 8
-|-
-| [[Parangon hobgobelin]] || 10
-|-
-| [[Commandant hobgobelin]] || 12
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Hobgobelin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr><tr><td>[[Yzobu]]</td><td>1</td></tr><tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr><tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr><tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr><tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr><tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr><tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr><tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr><tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr></table>
+
 </div>Les soldats vétérans prennent la tête des troupes hobgobelines. Certains inspirent leurs hommes, les autres les aiguillonnent à coups de fouet.
 
 En plus de diriger des escadrons, les lieutenants hobgobelins forment une force d’élite chargée des missions demandant de la discrétion, comme le repérage et le sabotage.

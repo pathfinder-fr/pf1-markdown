@@ -22,16 +22,9 @@ Categories:
 Chaque [[round]], le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des [[DV]] de la cible, cette attaque peut avoir jusqu’à trois effets.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| DV || Effets
-|- CLASS="premier"
-| 10 ou plus || Fièvre
-|- CLASS="alt"
-| 5–9 || Terreur, fièvre
-|-
-| 4 ou moins || Sommeil, terreur, fièvre
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>DV</td><td>Effets</td></tr><tr CLASS="premier"><td>10 ou plus</td><td>Fièvre</td></tr><tr CLASS="alt"><td>5–9</td><td>Terreur, fièvre</td></tr><tr><td>4 ou moins</td><td>Sommeil, terreur, fièvre</td></tr></table>
+
 </center>
 
 Ces effets sont cumulatifs.

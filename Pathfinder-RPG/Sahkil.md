@@ -11,29 +11,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux Sahkils
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Esipil]] || 2
-|-
-| [[Ichkoh]] || 7
-|-
-| [[Kimenhul]] || 20
-|-
-| [[Nucol]] || 4
-|-
-| [[Pakalchi]] || 9
-|-
-| [[Qolok]] || 16
-|-
-| [[Wihsaak]] || 6
-|-
-| [[Ximtal]] || 17
-|-
-| [[Zohanil]] || 10
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux Sahkils</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Esipil]]</td><td>2</td></tr><tr><td>[[Ichkoh]]</td><td>7</td></tr><tr><td>[[Kimenhul]]</td><td>20</td></tr><tr><td>[[Nucol]]</td><td>4</td></tr><tr><td>[[Pakalchi]]</td><td>9</td></tr><tr><td>[[Qolok]]</td><td>16</td></tr><tr><td>[[Wihsaak]]</td><td>6</td></tr><tr><td>[[Ximtal]]</td><td>17</td></tr><tr><td>[[Zohanil]]</td><td>10</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 2 p.10.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]], [[sous-type sahkil|sahkil]])*
 

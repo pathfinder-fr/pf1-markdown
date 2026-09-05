@@ -13,40 +13,7 @@ LastModified: 2013-10-12 08:05
 **Spécial.** Ce don peut être sélectionné à plusieurs reprises mais s’applique chaque fois à un pouvoir magique différent.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ Pouvoirs magiques à effets renforcés
-|- CLASS="titre"
-| Niveau du sort
-| NLS minimal pour utilisation renforcé
-|- CLASS="premier"
-| 0
-| 4
-|- CLASS="alt"
-| 1
-| 6
-|-
-| 2
-| 8
-|- CLASS="alt"
-| 3
-| 10
-|-
-| 4
-| 12
-|- CLASS="alt"
-| 5
-| 14
-|-
-| 6
-| 16
-|- CLASS="alt"
-| 7
-| 18
-|-
-| 8
-| 20
-|- CLASS="alt"
-| 9
-| —
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>Pouvoirs magiques à effets renforcés</caption><tr CLASS="titre"><td>Niveau du sort</td><td>NLS minimal pour utilisation renforcé</td></tr><tr CLASS="premier"><td>0</td><td>4</td></tr><tr CLASS="alt"><td>1</td><td>6</td></tr><tr><td>2</td><td>8</td></tr><tr CLASS="alt"><td>3</td><td>10</td></tr><tr><td>4</td><td>12</td></tr><tr CLASS="alt"><td>5</td><td>14</td></tr><tr><td>6</td><td>16</td></tr><tr CLASS="alt"><td>7</td><td>18</td></tr><tr><td>8</td><td>20</td></tr><tr CLASS="alt"><td>9</td><td>—</td></tr></table>
+
 </center>

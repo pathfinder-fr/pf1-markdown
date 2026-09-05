@@ -41,35 +41,9 @@ Categories:
 {s:BDTexte|**Retenir son souffle (Ext)** Un bourbiérin peut retenir sa respiration pendant un nombre de rounds égal à quatre fois sa valeur de [[Constitution]] avant de risquer de se noyer ou de suffoquer.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de bourbiérins
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Bourbiérin]] || 2
-|-
-| [[Bourbiérin balafré]] || 6
-|-
-| [[Bourbiérin sauvage]] || 4
-|-
-| [[Brute bourbiérine]] || 3
-|-
-| [[Champion bourbiérin]] || 7
-|-
-| [[Chasseur bourbiérin]] || 5
-|-
-| [[Grandcoasseur bourbiérin]] || 3
-|-
-| [[Guerrier abyssal bourbiérin]] || 8
-|-
-| [[Oracle du marais bourbiérin]] || 4
-|-
-| [[Prêtre-roi bourbiérin]] || 11
-|-
-| [[Prophète bourbiérin]] || 5
-|-
-| [[Traqueur bourbiérin]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de bourbiérins</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bourbiérin]]</td><td>2</td></tr><tr><td>[[Bourbiérin balafré]]</td><td>6</td></tr><tr><td>[[Bourbiérin sauvage]]</td><td>4</td></tr><tr><td>[[Brute bourbiérine]]</td><td>3</td></tr><tr><td>[[Champion bourbiérin]]</td><td>7</td></tr><tr><td>[[Chasseur bourbiérin]]</td><td>5</td></tr><tr><td>[[Grandcoasseur bourbiérin]]</td><td>3</td></tr><tr><td>[[Guerrier abyssal bourbiérin]]</td><td>8</td></tr><tr><td>[[Oracle du marais bourbiérin]]</td><td>4</td></tr><tr><td>[[Prêtre-roi bourbiérin]]</td><td>11</td></tr><tr><td>[[Prophète bourbiérin]]</td><td>5</td></tr><tr><td>[[Traqueur bourbiérin]]</td><td>9</td></tr></table>
+
 </div>*Deux yeux globuleux dominent la tête de crapaud de cette créature à la peau verte recouverte de verrues et de protubérances.*
 
 Les bourbiérins ressemblent à des hommes-crapauds ou à des hommes-grenouilles dotés de mains et de pieds palmés, de grands yeux et de bouches démesurément larges. Ces créatures s’installent près des grandes rivières ou dans les profondeurs des marais. Elles construisent de petits villages composés de monticules de boue sur les rives des fleuves.
@@ -142,29 +116,9 @@ Les règles suivantes présentent des dons, des sorts et des objets magiques sp�
 #### Dons
 Voici quelques dons très appréciés des bourbiérins.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Coassement étourdissant]]</td><td><sup>CM</sup></td><td>[[Coassement supersonique]], [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Étourdit les créatures avec le coassement</td></tr><tr CLASS="premier"><td>[[Coassement supersonique]]</td><td><sup>CM</sup></td><td>[[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Inflige des dégâts de son avec le coassement</td></tr><tr CLASS="premier"><td>[[Coassement supplémentaire]]</td><td><sup>CM</sup></td><td>[[Bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Gain d'une utilisation par heure supplémentaire du coassement terrifiant</td></tr><tr CLASS="premier"><td>[[Langue puissante]]</td><td><sup>CM</sup></td><td>[[For]] 17, [[Bourbiérin|langue gluante]]</td><td>Gain du pouvoir attirer avec la langue</td></tr><tr CLASS="premier"><td>[[Sac vocal]]</td><td><sup>CM</sup></td><td>[[Bourbiérin]], [[Bourbiérin|coassement terrifiant]]</td><td>Augmente la portée du coassement terrifiant</td></tr></table>
 
-|- CLASS="premier"
-| [[Coassement étourdissant]] || <sup>CM</sup> || [[Coassement supersonique]], [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Étourdit les créatures avec le coassement
-
-|- CLASS="premier"
-| [[Coassement supersonique]] || <sup>CM</sup> || [[Sac vocal]], [[bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Inflige des dégâts de son avec le coassement
-
-|- CLASS="premier"
-| [[Coassement supplémentaire]] || <sup>CM</sup> || [[Bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Gain d'une utilisation par heure supplémentaire du coassement terrifiant
-
-|- CLASS="premier"
-| [[Langue puissante]] || <sup>CM</sup> || [[For]] 17, [[Bourbiérin|langue gluante]] || Gain du pouvoir attirer avec la langue
-
-|- CLASS="premier"
-| [[Sac vocal]] || <sup>CM</sup> || [[Bourbiérin]], [[Bourbiérin|coassement terrifiant]] || Augmente la portée du coassement terrifiant
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques

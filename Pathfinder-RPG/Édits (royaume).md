@@ -15,21 +15,9 @@ Lors de la phase d’édits du tour de royaume, vous pouvez définir librement l
 ### Les édits de jours fériés
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre autoalt"
-|+ Les édits de jours feries
-|- CLASS="titre"
-| Par an || Loyauté || Consommation
-|- CLASS="premier"
-| Aucun || -1 || +0
-|-
-| 1 || +1 || +1
-|-
-| 6 || +2 || +2
-|-
-| 12 || +3 || +4
-|-
-| 24 || +4 || +8
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les édits de jours feries</caption><tr CLASS="titre"><td>Par an</td><td>Loyauté</td><td>Consommation</td></tr><tr CLASS="premier"><td>Aucun</td><td>-1</td><td>+0</td></tr><tr><td>1</td><td>+1</td><td>+1</td></tr><tr><td>6</td><td>+2</td><td>+2</td></tr><tr><td>12</td><td>+3</td><td>+4</td></tr><tr><td>24</td><td>+4</td><td>+8</td></tr></table>
+
 </div></div>Les jours fériés sont des fêtes générales ou des observances que l’on respecte dans tout le royaume. La dépense en [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] comprend le manque de revenus dus aux citoyens qui ne travaillent pas lors des jours fériés, la préparation et la logistique que cela entraîne sur l’année et le coût de la fête en elle-même (ces dépenses annuelles sont réparties sur l’année et comprises dans le modificateur de [[Royaumes et guerre#CONSOMMATION|Consommation]] que vous payez chaque tour).
 
 Le nombre de jours fériés annuels correspond au nombre que vous avez promis et que les gens s’attendent à apprécier au cours des mois à venir. Les valeurs de [[Royaumes et guerre#LOYAUTE|Loyauté]] et de Consommation du royaume changent dès que vous modifiez le nombre de jours fériés annuels. Les chiffres donnés partent du principe que vous tenez vos promesses. Si vous annoncez 12 jours fériés dans l’année mais que vous ne les payez pas et qu’ils n’ont pas lieu, le [[MJ]] devrait augmenter de suite l’[[Royaumes et guerre#INSATISFACTION|Insatisfaction]] pour traduire la déception et la colère du peuple.
@@ -39,67 +27,24 @@ Le nombre de jours fériés annuels correspond au nombre que vous avez promis et
 ### Les édits d’amélioration
 Ces améliorations sont des modifications physiques que vous pouvez apporter à votre royaume : fonder une nouvelle [[Communautés et quartiers|communauté]], ajouter des [[Communautés et quartiers#BATIMENTS|bâtiments]] dans une communauté, construire une [[Améliorations de terrain#Route_9|route]], installer des équipements pour faciliter l’extraction de ressources naturelles (une [[Améliorations de terrain#Mine_6|mine]] par exemple) ou encore ajouter un nouvel hexagone à votre royaume. Le nombre limite d’améliorations mensuelles est fonction de la taille de votre royaume, comme indiqué dans la table "Les édits d’amélioration", ci-contre. Vous pouvez effectuer toutes les améliorations données dans la ligne correspondant à votre royaume. Par exemple, si vous avez un royaume d’une taille de 5, à chaque tour, vous pouvez créer une nouvelle communauté, un nouveau bâtiment, deux améliorations de terrain et revendiquer un hexagone de plus.
 
-{| CLASS="tablo centre autoalt"
-|+ Les édits d’amelioration
-|- CLASS="titre"
-| Taille du royaume || Nouvelles communautés<sup>1</sup> || Nouveaux bâtiments<sup>2</sup> || Améliorations de terrain || Nouveaux hexagones
-|- CLASS="premier"
-| 01-10 || 1 || 1 || 2 || 1
-|-
-| 11-25 || 1 || 2 || 3 || 2
-|-
-| 26-50 || 1 || 5 || 5 || 3
-|-
-| 51-100 || 2 || 10 || 7 || 4
-|-
-| 101-200 || 3 || 20 || 9 || 8
-|-
-| 201+ || 4 || illimités || 12 || 12
-|- CLASS="note"
-| COLSPAN="5" | *(1) Au lieu de créer une nouvelle communauté, votre royaume peut créer une nouvelle unité militaire (voir Le combat de masse, à partir de la page 249). Il peut aussi agrandir ou équiper une unité existante ou encore rendre toute sa puissance à une unité diminuée.*
-|- CLASS="note"
-| COLSPAN="5" | ''(2) La destruction ou l’amélioration de bâtiment (comme un sanctuaire amélioré en temple) est à décompter de cette limite. La maison, le manoir,
-la villa de noble ou l’appartement que vous construisez en premier lors du tour ne compte pas dans cette limite.''
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les édits d’amelioration</caption><tr CLASS="titre"><td>Taille du royaume</td><td>Nouvelles communautés<sup>1</sup></td><td>Nouveaux bâtiments<sup>2</sup></td><td>Améliorations de terrain</td><td>Nouveaux hexagones</td></tr><tr CLASS="premier"><td>01-10</td><td>1</td><td>1</td><td>2</td><td>1</td></tr><tr><td>11-25</td><td>1</td><td>2</td><td>3</td><td>2</td></tr><tr><td>26-50</td><td>1</td><td>5</td><td>5</td><td>3</td></tr><tr><td>51-100</td><td>2</td><td>10</td><td>7</td><td>4</td></tr><tr><td>101-200</td><td>3</td><td>20</td><td>9</td><td>8</td></tr><tr><td>201+</td><td>4</td><td>illimités</td><td>12</td><td>12</td></tr><tr CLASS="note"><td COLSPAN="5">*(1) Au lieu de créer une nouvelle communauté, votre royaume peut créer une nouvelle unité militaire (voir Le combat de masse, à partir de la page 249). Il peut aussi agrandir ou équiper une unité existante ou encore rendre toute sa puissance à une unité diminuée.*</td></tr><tr CLASS="note"><td COLSPAN="5">''(2) La destruction ou l’amélioration de bâtiment (comme un sanctuaire amélioré en temple) est à décompter de cette limite. La maison, le manoir,</td></tr></table>
+
 
 {s:Reference|PUBLICITAIRES}
 ### Les édits publicitaires
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre autoalt"
-|+ Les édits publicitaires
-|- CLASS="titre"
-| Nv de publicité || Stabilité || Consommation
-|- CLASS="premier"
-| Aucun || -1 || +0
-|-
-| Discret || +1 || +1
-|-
-| Normal || +2 || +2
-|-
-| Agressif || +3 || +4
-|-
-| Expansionniste || +4 || +8
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les édits publicitaires</caption><tr CLASS="titre"><td>Nv de publicité</td><td>Stabilité</td><td>Consommation</td></tr><tr CLASS="premier"><td>Aucun</td><td>-1</td><td>+0</td></tr><tr><td>Discret</td><td>+1</td><td>+1</td></tr><tr><td>Normal</td><td>+2</td><td>+2</td></tr><tr><td>Agressif</td><td>+3</td><td>+4</td></tr><tr><td>Expansionniste</td><td>+4</td><td>+8</td></tr></table>
+
 </div></div>Les édits publicitaires regroupent les actions et les évènements que le royaume utilise pour attirer de nouveaux citoyens et améliorer le bien-être des siens. Ce peut être une campagne de recrutement, des publicités pour des biens et des services ou de la propagande pour améliorer la perception que les gens ont de votre royaume, en son sein comme à l’étranger. Les édits publicitaires augmentent la [[Royaumes et guerre#CONSOMMATION|Consommation]] mais aussi la [[Royaumes et guerre#STABILITE|Stabilité]].
 
 {s:ClearRight}{s:Reference|TAXATIONS}
 ### Les édits de taxations
 <div style="float:right; background-color: #fff; padding: 0 0 10px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre autoalt"
-|+ Les édits de taxation
-|- CLASS="titre"
-| Niveau de taxe || Économie || Loyauté
-|- CLASS="premier"
-| Aucun || +0 || +1
-|-
-| Léger || +1 || -1
-|-
-| Normal || +2 || -2
-|-
-| Lourd || +3 || -4
-|-
-| Écrasant || +4 || -8
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les édits de taxation</caption><tr CLASS="titre"><td>Niveau de taxe</td><td>Économie</td><td>Loyauté</td></tr><tr CLASS="premier"><td>Aucun</td><td>+0</td><td>+1</td></tr><tr><td>Léger</td><td>+1</td><td>-1</td></tr><tr><td>Normal</td><td>+2</td><td>-2</td></tr><tr><td>Lourd</td><td>+3</td><td>-4</td></tr><tr><td>Écrasant</td><td>+4</td><td>-8</td></tr></table>
+
 </div></div>Le niveau de taxation indique les fonds que vous récupérez grâce aux taxes lors de la [[Tour de royaume#PHASEDEREVENUS|phase de revenus]]. Plus les taxes sont importantes plus l’[[Royaumes et guerre#ECONOMIE|Économie]] de votre royaume est florissante (ce qui vous aide à réussir vos tests d’Économie pour générer des revenus) mais moins vos citoyens sont heureux (ce qui diminue leur [[Royaumes et guerre#LOYAUTE|Loyauté]]).

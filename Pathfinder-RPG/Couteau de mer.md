@@ -17,12 +17,9 @@ Enfiler ou retirer un couteau de mer nécessite une [[action complexe]].
 
 **Note.** Le porteur ne peut pas se servir de la jambe à laquelle est attaché le couteau de mer pour marcher ou pour courir.
 
-{| CLASS="tablo centre"
-|- CLASS="titre"
-| [[Caractéristiques des armes#ARMEDEGUERRE|Arme de guerre]] || Prix || Dégâts (P) || Dégâts (M) || [[Tableau récapitulatif des armes#CRITIQUE|Critique]] || [[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]] || Poids <sup>([[Tableau récapitulatif des armes#NOTE1|1]])</sup> || [[Tableau récapitulatif des armes#TYPE|Type]] <sup>([[Tableau récapitulatif des armes#NOTE2|2]])</sup> || Spécial
-|- class="premier"
-| Couteau de mer || 8 po || 1d3 || 1d4 || 19-20/×2 || — || 0,5 kg || T || —
-|}
+
+<table CLASS="tablo centre"><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMEDEGUERRE|Arme de guerre]]</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td><td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td><td>Poids <sup>([[Tableau récapitulatif des armes#NOTE1|1]])</sup></td><td>[[Tableau récapitulatif des armes#TYPE|Type]] <sup>([[Tableau récapitulatif des armes#NOTE2|2]])</sup></td><td>Spécial</td></tr><tr class="premier"><td>Couteau de mer</td><td>8 po</td><td>1d3</td><td>1d4</td><td>19-20/×2</td><td>—</td><td>0,5 kg</td><td>T</td><td>—</td></tr></table>
+
 
 {s:VoirAussiAvant}
 - [[aquatique (race)|Race aquatiques]]

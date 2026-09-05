@@ -23,20 +23,9 @@ Une créature dont l’équipement est suffisamment refroidi commence à subir d
 Au cours du premier [[round]], le métal affecté devient froid et désagréable au toucher, mais ne perd aucun point de vie (c’est également le cas lors du dernier [[round]], quand il retrouve rapidement sa température initiale). Lors des deuxième et avant-dernier [[round|rounds]], le froid est suffisamment intense pour infliger des dégâts, lesquels deviennent plus importants au cours des troisième, quatrième et cinquième [[round|rounds]], comme indiqués ci-dessous.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Round || Métal || Dégâts de froid
-|- CLASS="premier"
-| 1 || Froid || Aucun
-|- CLASS="alt"
-| 2 || Très froid || 1d4 points
-|-
-| 3–5 || Gelé || 2d4 points
-|- CLASS="alt"
-| 6 || Très froid || 1d4 points
-|-
-| 7 || Froid || Aucun
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Round</td><td>Métal</td><td>Dégâts de froid</td></tr><tr CLASS="premier"><td>1</td><td>Froid</td><td>Aucun</td></tr><tr CLASS="alt"><td>2</td><td>Très froid</td><td>1d4 points</td></tr><tr><td>3–5</td><td>Gelé</td><td>2d4 points</td></tr><tr CLASS="alt"><td>6</td><td>Très froid</td><td>1d4 points</td></tr><tr><td>7</td><td>Froid</td><td>Aucun</td></tr></table>
+
 </center>
 
 Toute chaleur suffisamment intense pour blesser la créature annule tout ou partie des dégâts provoqués par métal gelé, à raison de 1 point pour 1 point. Lancé sous l’eau, *métal gelé* n’inflige pas le moindre dégât, mais de la glace se forme instantanément autour de la victime, ce qui a tendance à la ramener vers la surface.

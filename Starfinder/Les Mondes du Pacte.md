@@ -335,82 +335,16 @@ ainsi en l’honneur de divinités aussi bien actuelles qu’anciennes.
 <div class="wiki-row">
 <div class="wiki-col wiki-col-6">
 <center>
-{| CLASS="tablo"
-|+ Les jours de la semaine
-|- CLASS="titre"
-| Jours standards du pacte
-| CLASS="gauche" | Correspondance terrestre
-|- CLASS="premier"
-| Jourun
-| CLASS="gauche" | Lundi
-|- CLASS="alt"
-| Jourdeux
-| CLASS="gauche" | Mardi
-|-
-| Jourtrois
-| CLASS="gauche" | Mercredi
-|- CLASS="alt"
-| Jourquatre
-| CLASS="gauche" | Jeudi
-|-
-| Jourcinq
-| CLASS="gauche" | Vendredi
-|- CLASS="alt"
-| Joursix
-| CLASS="gauche" | Samedi
-|-
-| Joursept
-| CLASS="gauche" | Dimanche
-|- CLASS="alt"
-|-
-|}
+
+<table CLASS="tablo"><caption>Les jours de la semaine</caption><tr CLASS="titre"><td>Jours standards du pacte</td><td CLASS="gauche">Correspondance terrestre</td></tr><tr CLASS="premier"><td>Jourun</td><td CLASS="gauche">Lundi</td></tr><tr CLASS="alt"><td>Jourdeux</td><td CLASS="gauche">Mardi</td></tr><tr><td>Jourtrois</td><td CLASS="gauche">Mercredi</td></tr><tr CLASS="alt"><td>Jourquatre</td><td CLASS="gauche">Jeudi</td></tr><tr><td>Jourcinq</td><td CLASS="gauche">Vendredi</td></tr><tr CLASS="alt"><td>Joursix</td><td CLASS="gauche">Samedi</td></tr><tr><td>Joursept</td><td CLASS="gauche">Dimanche</td></tr><tr CLASS="alt"></tr></table>
+
 </center>
 </div>
 <div class="wiki-col wiki-col-6">
 <center>
-{| CLASS="tablo"
-|+ Les mois
-|- CLASS="titre"
-| Mois standards du pacte
-| CLASS="gauche" | Correspondance terrestre
-|- CLASS="premier"
-| Abadius
-| CLASS="gauche" | Janvier
-|- CLASS="alt"
-| Calistril
-| CLASS="gauche" | Février
-|-
-| Pharaste
-| CLASS="gauche" | Mars
-|- CLASS="alt"
-| Gozran
-| CLASS="gauche" | Avril
-|-
-| Desnus
-| CLASS="gauche" | Mais
-|- CLASS="alt"
-| Sarénith
-| CLASS="gauche" | Juin
-|-
-| Érastus
-| CLASS="gauche" | Juillet
-|- CLASS="alt"
-| Arodus
-| CLASS="gauche" | Août
-|-
-| Rova
-| CLASS="gauche" | Septembre
-|- CLASS="alt"
-| Lamashan
-| CLASS="gauche" | Octobre
-|-
-| Neth
-| CLASS="gauche" | Novembre
-|- CLASS="alt"
-| Kuthona
-| CLASS="gauche" | Décembre
-|-
-|}
+
+<table CLASS="tablo"><caption>Les mois</caption><tr CLASS="titre"><td>Mois standards du pacte</td><td CLASS="gauche">Correspondance terrestre</td></tr><tr CLASS="premier"><td>Abadius</td><td CLASS="gauche">Janvier</td></tr><tr CLASS="alt"><td>Calistril</td><td CLASS="gauche">Février</td></tr><tr><td>Pharaste</td><td CLASS="gauche">Mars</td></tr><tr CLASS="alt"><td>Gozran</td><td CLASS="gauche">Avril</td></tr><tr><td>Desnus</td><td CLASS="gauche">Mais</td></tr><tr CLASS="alt"><td>Sarénith</td><td CLASS="gauche">Juin</td></tr><tr><td>Érastus</td><td CLASS="gauche">Juillet</td></tr><tr CLASS="alt"><td>Arodus</td><td CLASS="gauche">Août</td></tr><tr><td>Rova</td><td CLASS="gauche">Septembre</td></tr><tr CLASS="alt"><td>Lamashan</td><td CLASS="gauche">Octobre</td></tr><tr><td>Neth</td><td CLASS="gauche">Novembre</td></tr><tr CLASS="alt"><td>Kuthona</td><td CLASS="gauche">Décembre</td></tr></table>
+
 </center>
 </div>
 </div>

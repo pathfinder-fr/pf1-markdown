@@ -31,50 +31,16 @@ Categories:
 {s:BDTexte|**Vision malgré la fumée (Ext).** Un très jeune dragon chtonien, ou un dragon plus âgé, voit parfaitement dans une atmosphère enfumée (comme, par exemple, celle que crée le sort pyrotechnie).}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de magma
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon chtonien]] || &nbsp; || 7
-|-
-| [[Dragon chtonien adulte]] || &nbsp; || 11
-|-
-| [[Dragon chtonien vénérable]] || &nbsp; || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de magma</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon chtonien]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Dragon chtonien adulte]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon chtonien vénérable]]</td><td>&nbsp;</td><td>16</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>*Ce dragon serpentin, dont la peau a la couleur des roches volcaniques des profondeurs, possède d’énormes griffes. Il est pourvu d’écailles et de cornes anguleuses semblables à de la pierre.*
 
 Les dragons chtoniens, également appelés les fucanlongs, sont des créatures cupides et calculatrices qui creusent de grands tunnels labyrinthiques sous la terre et défendent leurs trésors cachés. Ils préfèrent la terre aux airs, canalisant les feux du noyau de la terre au sein de leur corps onduleux semblable à de la pierre et dans les flammes de leur souffle suffisamment chaud pour transformer le granite en scories.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || Griffes d’adamantium, [[Immunité (capacité)|immunité]] contre le feu || —
-|- CLASS="alt"
-| Très jeune || Vision malgré la fumée || —
-|-
-| Jeune || *[[Changement de forme]]*, *[[ramollissement de la terre et de la pierre]]* || —
-|- CLASS="alt"
-| Adolescent || *[[Façonnage de la pierre]]*, [[Présence terrifiante (capacité)|présence terrifiante]] || 1
-|-
-| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 5/magie ; [[Résistance à la magie (capacité)|résistance à la magie]] || 3
-|- CLASS="alt"
-| Adulte || Fouisseur chtonien, *[[pierres acérées]]* || 5
-|-
-| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 10/magie || 7
-|- CLASS="alt"
-| Vieux || *[[Mur de pierre]]* || 9
-|-
-| Très vieux || [[Réduction de dégâts (capacité)|RD]] 15/magie || 11
-|- CLASS="alt"
-| Vénérable || *[[Éloignement du métal et de la pierre]]* || 13
-|-
-| Dracosire || [[Réduction de dégâts (capacité)|RD]] 20/magie || 15
-|- CLASS="alt"
-| Grand dracosire || Éruption de lave, *[[heurt de pierres]]* || 17
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Griffes d’adamantium, [[Immunité (capacité)|immunité]] contre le feu</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Vision malgré la fumée</td><td>—</td></tr><tr><td>Jeune</td><td>*[[Changement de forme]]*, *[[ramollissement de la terre et de la pierre]]*</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Façonnage de la pierre]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie ; [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>Fouisseur chtonien, *[[pierres acérées]]*</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[Mur de pierre]]*</td><td>9</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Éloignement du métal et de la pierre]]*</td><td>13</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Éruption de lave, *[[heurt de pierres]]*</td><td>17</td></tr></table>
+
 </center>
 </div></td></tr></table>

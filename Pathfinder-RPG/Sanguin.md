@@ -15,102 +15,9 @@ Categories:
 <li ID="sanguin" CLASS="listecachée" STYLE="display:none">{s:Menuarchétypesanguin}</li>
 </div>{s:mca}*Nombre de féroces combattants puisent dans des réserves de rage enfouies en eux mais un pouvoir inné bouillonne au coeur des sanguins. Une puissance occulte similaire à celle des ensorceleurs coule dans leurs veines. Les ensorceleurs utilisent ce pouvoir pour lancer leurs sorts tandis que les sanguins en profitent pour entrer dans un état second où leur lignage se révèle, où les échos de leurs ancêtres déploient un pouvoir dévastateur. Les sanguins parviennent alors à lancer certains sorts profanes de manière instinctive. La magie des sanguins est aussi rapide, violente et irrésistible que leurs prouesses physiques.*
 
-{| CLASS="tablo centre"
-|+ {s:Reference|TABLESANGUIN}Le sanguin
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| ROWSPAN="2" | BBA
-| ROWSPAN="2" | Réflexes
-| ROWSPAN="2" | Vigueur
-| ROWSPAN="2" | Volonté
-| ROWSPAN="2" CLASS="gauche" | Spécial
-| COLSPAN="4" CLASS="avecsoustitre" | Sorts par jour
-|- CLASS="soustitre"
-| 1er
-| 2e
-| 3e
-| 4e
-|- CLASS="premier"
-| 1 || +1 || +0 || +2 || +0
-| CLASS="gauche" | [[Sanguin#DEPLACEMENTACCELERE|Déplacement accéléré]], [[Sanguin#LIGNAGE|lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]], [[Sanguin#RAGESANGUINE|rage sanguine]]
-| - || - || - || -
-|- CLASS="alt"
-| 2 || +2 || +0 || +3 || +0
-| CLASS="gauche" | [[Sanguin#ESQUIVEINSTINCTIVE|Esquive instinctive]]
-| - || - || - || -
-|-
-| 3 || +3 || +1 || +3 || +1
-| CLASS="gauche" | [[Sanguin#SANCTUAIRESANGUIN|Sanctuaire sanguin]]
-| - || - || - || -
-|- CLASS="alt"
-| 4 || +4 || +1 || +4 || +1
-| CLASS="gauche" | [[Sanguin#DISPENSE|Dispense de composantes matérielles]], [[Sanguin#INCANTATIONSANGUINE|incantation sanguine]], [[Sanguin#LIGNAGE|pouvoir de lignage]]
-| 1 || - || - || -
-|-
-| 5 || +5 || +1 || +4 || +1
-| CLASS="gauche" | [[Sanguin#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]]
-| 1 || - || - || -
-|- CLASS="alt"
-| 6 || +6/+1 || +2 || +5 || +2
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Don de lignage]]
-| 1 || - || - || -
-|-
-| 7 || +7/+2 || +2 || +5 || +2
-| CLASS="gauche" | [[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 1/-, [[Sanguin#LIGNAGE|sort de lignage]]
-| 1 || 1 || - || -
-|- CLASS="alt"
-| 8 || +8/+3 || +2 || +6 || +2
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Pouvoir de lignage]]
-| 1 || 1 || - || -
-|-
-| 9 || +9/+4 || +3 || +6 || +3
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Don de lignage]]
-| 2 || 1 || - || -
-|- CLASS="alt"
-| 10 || +10/+5 || +3 || +7 || +3
-| CLASS="gauche" | [[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 2/-, [[Sanguin#LIGNAGE|sort de lignage]]
-| 2 || 1 || 1 || -
-|-
-| 11 || +11/+6/+1 || +3 || +7 || +3
-| CLASS="gauche" | [[Sanguin#RAGEDEGRANDSANGUIN|Rage de grand sanguin]]
-| 2 || 1 || 1 || -
-|- CLASS="alt"
-| 12 || +12/+7/+2 || +4 || +8 || +4
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Don de lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]]
-| 2 || 2 || 1 || -
-|-
-| 13 || +13/+8/+3 || +4 || +8 || +4
-| CLASS="gauche" | [[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 3/-, [[Sanguin#LIGNAGE|sort de lignage]]
-| 3 || 2 || 1 || 1
-|- CLASS="alt"
-| 14 || +14/+9/+4 || +4 || +9 || +4
-| CLASS="gauche" | [[Sanguin#VOLONTEINDOMPTABLE|Volonté indomptable]]
-| 3 || 2 || 1 || 1
-|-
-| 15 || +15/+10/+5 || +5 || +9 || +5
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Don de lignage]]
-| 3 || 2 || 2 || 1
-|- CLASS="alt"
-| 16 || +16/+11/+6/+1 || +5 || +10 || +5
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#REDUCTIONDEGATS|réduction de dégâts]] 4/-, [[Sanguin#LIGNAGE|sort de lignage]]
-| 3 || 3 || 2 || 1
-|-
-| 17 || +17/+12/+7/+2 || +5 || +10 || +5
-| CLASS="gauche" | [[Sanguin#RAGESANGUINESANSFATIGUE|Rage sanguine sans fatigue]]
-| 4 || 3 || 2 || 1
-|- CLASS="alt"
-| 18 || +18/+13/+8/+3 || +6 || +11 || +6
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Don de lignage]]
-| 4 || 3 || 2 || 2
-|-
-| 19 || +19/+14/+9/+4 || +6 || +11 || +6
-| CLASS="gauche" | [[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 5/-
-| 4 || 3 || 3 || 2
-|- CLASS="alt"
-| 20 || +20/+15/+10/+5 || +6 || +12 || +6
-| CLASS="gauche" | [[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#RAGEDEMAITRESANGUIN|rage de maître sanguin]]
-| 4 || 4 || 3 || 2
-|}
+
+<table CLASS="tablo centre"><caption>{s:Reference|TABLESANGUIN}Le sanguin</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts par jour</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Sanguin#DEPLACEMENTACCELERE|Déplacement accéléré]], [[Sanguin#LIGNAGE|lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]], [[Sanguin#RAGESANGUINE|rage sanguine]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Sanguin#ESQUIVEINSTINCTIVE|Esquive instinctive]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Sanguin#SANCTUAIRESANGUIN|Sanctuaire sanguin]]</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Sanguin#DISPENSE|Dispense de composantes matérielles]], [[Sanguin#INCANTATIONSANGUINE|incantation sanguine]], [[Sanguin#LIGNAGE|pouvoir de lignage]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Sanguin#ESQUIVEINSTINCTIVESUPERIEURE|Esquive instinctive supérieure]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 1/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]]</td><td>1</td><td>1</td><td>-</td><td>-</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 2/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Sanguin#RAGEDEGRANDSANGUIN|Rage de grand sanguin]]</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]], [[Sanguin#LIGNAGE|pouvoir de lignage]]</td><td>2</td><td>2</td><td>1</td><td>-</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 3/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr CLASS="alt"><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Sanguin#VOLONTEINDOMPTABLE|Volonté indomptable]]</td><td>3</td><td>2</td><td>1</td><td>1</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#REDUCTIONDEGATS|réduction de dégâts]] 4/-, [[Sanguin#LIGNAGE|sort de lignage]]</td><td>3</td><td>3</td><td>2</td><td>1</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Sanguin#RAGESANGUINESANSFATIGUE|Rage sanguine sans fatigue]]</td><td>4</td><td>3</td><td>2</td><td>1</td></tr><tr CLASS="alt"><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Don de lignage]]</td><td>4</td><td>3</td><td>2</td><td>2</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Sanguin#REDUCTIONDEGATS|Réduction de dégâts]] 5/-</td><td>4</td><td>3</td><td>3</td><td>2</td></tr><tr CLASS="alt"><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Sanguin#LIGNAGE|Pouvoir de lignage]], [[Sanguin#RAGEDEMAITRESANGUIN|rage de maître sanguin]]</td><td>4</td><td>4</td><td>3</td><td>2</td></tr></table>
+
 
 **Rôle.** Maîtres des champs de bataille, les sanguins sèment le carnage dans les rangs ennemis grâce aux exploits nés de leur lignage et de leur force physique. Leur place est sur la ligne de front, face aux ennemis, où ils renforcent leurs immenses talents martiaux avec un brin de magie profane.
 
@@ -194,54 +101,9 @@ Au niveau 4, le sanguin gagne [[Dispense de composantes matérielles]] comme don
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Sorts de sanguin connus
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| COLSPAN="4" CLASS="avecsoustitre" | Sorts connus
-|- CLASS="soustitre"
-| 1er || 2e || 3e || 4e
-|- CLASS="premier"
-| 1 || - || - || - || -
-|-
-| 2 || - || - || - || -
-|-
-| 3 || - || - || - || -
-|-
-| 4 || 2 || - || - || -
-|-
-| 5 || 3 || - || - || -
-|-
-| 6 || 4 || - || - || -
-|-
-| 7 || 4 || 2 || - || -
-|-
-| 8 || 4 || 3 || - || -
-|-
-| 9 || 5 || 4 || - || -
-|-
-| 10 || 5 || 4 || 2 || -
-|-
-| 11 || 5 || 4 || 3 || -
-|-
-| 12 || 6 || 5 || 4 || -
-|-
-| 13 || 6 || 5 || 5 || 2
-|-
-| 14 || 6 || 5 || 5 || 3
-|-
-| 15 || 6 || 6 || 5 || 4
-|-
-| 16 || 6 || 6 || 6 || 4
-|-
-| 17 || 6 || 6 || 6 || 4
-|-
-| 18 || 6 || 6 || 6 || 5
-|-
-| 19 || 6 || 6 || 6 || 5
-|-
-| 20 || 6 || 6 || 6 || 5
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Sorts de sanguin connus</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>5</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>6</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr><td>7</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>8</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>9</td><td>5</td><td>4</td><td>-</td><td>-</td></tr><tr><td>10</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr><td>11</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>12</td><td>6</td><td>5</td><td>4</td><td>-</td></tr><tr><td>13</td><td>6</td><td>5</td><td>5</td><td>2</td></tr><tr><td>14</td><td>6</td><td>5</td><td>5</td><td>3</td></tr><tr><td>15</td><td>6</td><td>6</td><td>5</td><td>4</td></tr><tr><td>16</td><td>6</td><td>6</td><td>6</td><td>4</td></tr><tr><td>17</td><td>6</td><td>6</td><td>6</td><td>4</td></tr><tr><td>18</td><td>6</td><td>6</td><td>6</td><td>5</td></tr><tr><td>19</td><td>6</td><td>6</td><td>6</td><td>5</td></tr><tr><td>20</td><td>6</td><td>6</td><td>6</td><td>5</td></tr></table>
+
 </div></div>{s:reference|SORTS}
 #### Sorts
 À partir du niveau 4, le sanguin peut lancer un petit nombre de sorts profanes issus de la [[liste des sorts de sanguin]]. Pour apprendre ou lancer un sort, le sanguin doit avoir une valeur de [[Charisme]] égale ou supérieure à 10 + niveau du sort. Il lance les sorts qu’il connaît sans préparation préalable.

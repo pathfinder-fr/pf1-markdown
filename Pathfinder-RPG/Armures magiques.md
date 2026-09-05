@@ -13,46 +13,11 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo centre"
-|+ {s:Reference|PRIXBONUSDALTERATION} Prix des bonus d'altération des armures et des boucliers
-|- CLASS="titre"
-| Bonus d'altération
-| Prix de vente
-|- CLASS="premier"
-| +1
-| 1 000 po
-|- CLASS="alt"
-| +2
-| 4 000 po
-|-
-| +3
-| 9 000 po
-|- CLASS="alt"
-| +4
-| 16 000 po
-|-
-| +5
-| 25 000 po
-|- CLASS="alt"
-| +6<sup>[[armures magiques#NOTE1|1]]</sup>
-| 36 000 po
-|-
-| +7<sup>[[armures magiques#NOTE1|1]]</sup>
-| 49 000 po
-|- CLASS="alt"
-| +8<sup>[[armures magiques#NOTE1|1]]</sup>
-| 64 000 po
-|-
-| +9<sup>[[armures magiques#NOTE1|1]]</sup>
-| 81 000 po
-|- CLASS="alt"
-| +10<sup>[[armures magiques#NOTE1|1]]</sup>
-| 100 000 po
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE1}*(1) Le bonus numérique effectif de l’armure ou du bouclier ne peut   
+
+<table CLASS="tablo centre"><caption>{s:Reference|PRIXBONUSDALTERATION} Prix des bonus d'altération des armures et des boucliers</caption><tr CLASS="titre"><td>Bonus d'altération</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>+1</td><td>1 000 po</td></tr><tr CLASS="alt"><td>+2</td><td>4 000 po</td></tr><tr><td>+3</td><td>9 000 po</td></tr><tr CLASS="alt"><td>+4</td><td>16 000 po</td></tr><tr><td>+5</td><td>25 000 po</td></tr><tr CLASS="alt"><td>+6<sup>[[armures magiques#NOTE1|1]]</sup></td><td>36 000 po</td></tr><tr><td>+7<sup>[[armures magiques#NOTE1|1]]</sup></td><td>49 000 po</td></tr><tr CLASS="alt"><td>+8<sup>[[armures magiques#NOTE1|1]]</sup></td><td>64 000 po</td></tr><tr><td>+9<sup>[[armures magiques#NOTE1|1]]</sup></td><td>81 000 po</td></tr><tr CLASS="alt"><td>+10<sup>[[armures magiques#NOTE1|1]]</sup></td><td>100 000 po</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE1}*(1) Le bonus numérique effectif de l’armure ou du bouclier ne peut   
  être supérieur à +5. Utilisez ces lignes pour déterminer le prix des  
- armures et des boucliers possédant des propriétés spéciales.*
-|}
+ armures et des boucliers possédant des propriétés spéciales.*</td></tr></table>
+
 </center></div></div>
 Une armure peut, en plus de son bonus d’altération, posséder certaines propriétés. Celles-ci sont considérées comme un bonus supplémentaire pour ce qui est du prix de l’armure, même si elles n’ont aucune influence sur la [[CA]]. Une armure ne peut jamais avoir un bonus total (bonus d’altération plus bonus lié à ses propriétés, y compris celles qui proviennent des aptitudes du personnage et des sorts) supérieur à +10. Toute armure possédant une propriété spéciale doit avoir au moins un bonus d’altération de +1.
 
@@ -77,405 +42,45 @@ Une armure ou un bouclier ayant une propriété spéciale doit posséder un bonu
 
 #### Propriétés ajoutant un prix spécifique
 <center>
-{| CLASS="tablo autoalt toutgauche" WIDTH="100%"
-|+ Propriétés ajoutant un prix spécifique
-|- CLASS="titre"
-| WIDTH="12%" | Propriété
-| WIDTH="3%" | Source
-| WIDTH="11%" | Restrictions
-| WIDTH="61%" | Capacités
-| WIDTH="13%" | Modificateur au prix de base
 
-|- CLASS="premier"
-| *[[rembourrée (propriété)|Rembourrée]]* || <sup>*AMH*</sup> || Armures en tissu et matelassées || Réduit les dégâts de chute. || +1 000 po
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>Propriétés ajoutant un prix spécifique</caption><tr CLASS="titre"><td WIDTH="12%">Propriété</td><td WIDTH="3%">Source</td><td WIDTH="11%">Restrictions</td><td WIDTH="61%">Capacités</td><td WIDTH="13%">Modificateur au prix de base</td></tr><tr CLASS="premier"><td>*[[rembourrée (propriété)|Rembourrée]]*</td><td><sup>*AMH*</sup></td><td>Armures en tissu et matelassées</td><td>Réduit les dégâts de chute.</td><td>+1 000 po</td></tr><tr CLASS="premier"><td>*[[résistance au poison (propriété)|Résistance au poison]]*</td><td><sup>A&E</sup></td><td>—</td><td>Confère un bonus de résistance de +3 aux [[jds|jets de sauvegarde]] contre les poisons.</td><td>+2 250 po</td></tr><tr CLASS="premier"><td>*[[mimétisme (propriété armure)|Mimétisme]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Permet de donner l’apparence de vêtements à l’armure (dissimulant son aura) à volonté.</td><td>+2 700 po</td></tr><tr CLASS="premier"><td>*[[focalisation mentale (propriété)|Focalisation mentale]]*</td><td><sup>*AMH*</sup></td><td>Armures intermédiaires</td><td>Confère un bonus d'altération de +2 aux tests de [[Lancer des sorts#TESTCONCENTRATION|concentration]]. Une fois par jour, peut offrir 1 point de [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]].</td><td>+3 000 po</td></tr><tr CLASS="premier"><td>*[[graisseuse (propriété)|Graisseuse]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +5 aux tests d’[[Évasion]].</td><td>+3 750 po</td></tr><tr CLASS="premier"><td>*[[joute (propriété)|Joute]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +5 aux tests d’[[Équitation]].</td><td>+3 750 po</td></tr><tr CLASS="premier"><td>*[[ombre (propriété)|Ombre]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]].</td><td>+3 750 po</td></tr><tr CLASS="premier"><td>*[[expéditive (propriété)|Expéditive]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Trois fois par jour, peut conférer un bonus d’altération de +3m aux vitesses de déplacement pendant 1 [[round]].</td><td>+4 000 po</td></tr><tr CLASS="premier"><td>*[[impondérable (propriété)|Impondérable]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Augmente le [[poids transportable]] de chaque catégorie de charge de 50 %.</td><td>+4 000 po</td></tr><tr CLASS="premier"><td>*[[amorphe (propriété)|Amorphe]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Confère un bonus de compétence de +5 aux tests d’[[Évasion]] et au [[DMD]] contre les manœuvres de [[lutte]]. Une fois par jour, peut transformer son porteur et lui-même en vase pendant 1 minute maximum. Sous forme de vase, diminue la vitesse de déplacement du porteur de 3m, l’empêche d’effectuer des actions autres que [[action de mouvement|de mouvement]], mais lui permet de se faufiler dans tous les espaces restreints.</td><td>+4 500 po</td></tr><tr CLASS="premier"><td>*[[reposante (propriété)|Reposante]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Une fois par jour, permet de profiter des effets d’un repos de 8 heures en seulement 2 heures. L’armure peut-être portée pendant un repos sans rendre le porteur [[fatigué]].</td><td>+4 500 po</td></tr><tr CLASS="premier"><td>*[[confortable (propriété)|Confortable]]*</td><td><sup>RSE</sup></td><td>Armures</td><td>L'armure est considérée comme [[armure légère|légère]] lorsque le porteur dort avec. Pas de malus pour résister aux [[Dangers naturels#CHALEUR|chaleurs extrêmes]]. Confère les avantages d'une [[Vêtements#Tenue adaptée au froid|tenue polaire]] dans le froid. Réduit le [[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] de 1.</td><td>+5 000 po</td></tr><tr CLASS="premier"><td>*[[corsaires (propriété)|Corsaires]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]]. À chaque fois que le porteur récupère de l’[[audace]] ou du [[panache]], le bonus conféré est doublé jusqu’au début de son prochain tour.</td><td>+5 000 po</td></tr><tr CLASS="premier"><td>*[[discrétion (propriété)|Discrétion]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Le malus d’armure aux tests ne s’applique pas aux tests de [[Discrétion]]. Une fois par jour, peut conférer un bonus aux égal au bonus d’altération de l’armure aux tests de [[Discrétion]] du porteurpendant 1 minute.</td><td>+5 000 po</td></tr><tr CLASS="premier"><td>*[[rafale de nuages (propriété)|Rafale de nuages]]*</td><td><sup>MR</sup></td><td>Armures</td><td>Peut stocker les points de dégâts d'électricité subit par le porteur qui peuvent être relâchés jusqu'au prochain tour de ce dernier afin d'infliger 1d6 points de dégâts d'électricité (comme avec *[[décharge électrique]]*) par tranche de 10 points stockés.</td><td>+5 000 po</td></tr><tr CLASS="premier"><td>*[[ralliement (propriété)|Ralliement]]*</td><td><sup>A&E</sup></td><td>—</td><td>Confère un bonus de moral de +4 aux [[jds|jets de sauvegardes]] contre la terreur de tous les alliés à 9m ou moins du porteur (s’il possède déjà une capacité similaire, le bonus passe à +6).</td><td>+5 000 po</td></tr><tr CLASS="premier"><td>*[[souffle draconique (propriété)|Souffle draconique]]*</td><td><sup>A&E</sup></td><td>Boucliers</td><td>Peut stocker les points de dégâts d’un type d’énergie choisi à la fabrication subit par le porteur, chaque tranche de 5 points de dégâts d’énergie stockés représentant 1 charge. Les charges peuvent être dépensées pour générer un cône de 4,50m infligeant 1d4 points de dégâts du type d’énergie stockée par charge dépensée (5 maximum).</td><td>+5 000 po</td></tr><tr CLASS="premier"><td>*[[lien spirituel (propriété)|Lien spirituel]]*</td><td><sup>*AMH*</sup></td><td>Armures intermédiaires</td><td>Bonus de +1 aux [[jds|jets de sauvegarde]] contre les sorts et effets psychiques de créatures intangibles et augmente de 1 le [[Médium#BONUSSPIRITUEL|bonus spirituel]].</td><td>+6 000 po</td></tr><tr CLASS="premier"><td>*[[serrurier (propriété)|Serrurier]]*</td><td><sup>*AMH*</sup></td><td>Armures légères</td><td>L'armure peut fonctionner comme des [[Outils de cambrioleur (objet)|outils de cambrioleur de maître]] discrets et permet au porteur de distribuer son bonus d'altération à ses tests de [[Sabotage]].</td><td>+6 500 po</td></tr><tr CLASS="premier"><td>*[[adhésive (propriété)|Adhésive]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Peut conférer une vitesse d’escalade de 6m, à volonté. Jusqu’à 10 [[round|rounds]] par jour, peut conférer un bonus d’altération de +2 aux tests de [[désarmement]], de [[lutte]], de [[repositionnement]], de [[subtilisation]] et de [[croc-en-jambe]] effectués avec une arme naturelle ou à mains nues.</td><td>+7 000 po</td></tr><tr CLASS="premier"><td>*[[rancune (propriété)|Rancune]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Lorsqu’une attaque au corps à corps portée dans l’allonge au corps à corps du porteur devrait le faire tomber à moins de 0 points de vie, il peut dépenser 1 point de [[panache]] pour effectuer une attaque au corps à corps contre la créature qui a portée cette attaque.</td><td>+7 000 po</td></tr><tr CLASS="premier"><td>*[[niche (propriété)|Niche]]*</td><td><sup>A&E</sup></td><td>—</td><td>Peut stocker magiquement un animal ou une créature magique lié(e) au porteur pendant 24 heures maximum ([[druide#PACTEAVECLANATURE|compagnon animal]], [[magicien#PACTEMAGIQUE|familier]], [[chevalier#MONTURE|monture]], etc...). La taille maximale de l’animal stockable dépend de l’objet affecté par cette propriété. L’animal stocké peut être relâché, auquel cas il agit immédiatement.</td><td>+7 500 po</td></tr><tr CLASS="premier"><td>*[[sans trace (propriété)|Sans trace]]*</td><td><sup>MCA</sup></td><td>Armures en cuir, armures en peau</td><td>Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Les tests de [[Survie]] visant à pister le porteur subissent un malus de -5.</td><td>+7 500 po</td></tr><tr CLASS="premier"><td>*[[éclatante (propriété)|Éclatante]]*</td><td><sup>A&E</sup></td><td>—</td><td>Peut émettre la même lumière qu’une [[Torche (objet)|torche]], à volonté. Une fois par jour, peut émettre une lumière de la même intensité que la lumière du jour pendant 1 heure maximum.</td><td>+7 500 po</td></tr><tr CLASS="premier"><td>*[[glissement de phase (propriété)|Glissement de phase]]*</td><td><sup>*AMH*</sup></td><td>Armures légères</td><td>Permet a son porteur de traverser les obstacles matériels une fois par jour.</td><td>+9 100 po</td></tr><tr CLASS="premier"><td>*[[fouisseuse (propriété)|Fouisseuse]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère une vitesse de creusement de 3m dans n’importe quel type de sol. Confère un bonus de +4 aux [[jds|jets de sauvegarde]] contre les glissements de terrain, les avalanches, les effondrements de tunnels ou tout effet similaire.</td><td>+10 000 po</td></tr><tr CLASS="premier"><td>*[[putride (propriété)|Putride]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Peut rendre toute les créatures vivantes à 9m ou moins du porteur [[fiévreux|fiévreuses]] pendant 5 [[round|rounds]], à volonté (l’effet ne s’estompe complètement qu’après une durée dépendant de la zone quand ce pouvoir est désactivé).</td><td>+10 000 po</td></tr><tr CLASS="premier"><td>*[[graisseuse supérieure (propriété)|Graisseuse supérieure]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +10 aux tests d’[[Évasion]].</td><td>+15 000 po</td></tr><tr CLASS="premier"><td>*[[harmonique (propriété)|Harmonique]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +5 aux tests de [[Représentation]], mais inflige un malus de -5 aux tests de [[Discrétion]] ainsi qu’une vulnérabilité aux dégâts de son. Prolonge les effets des [[barde#REPRESENTATIONBARDIQUE|représentations bardiques]] du porteur pendant 1 [[round]] après qu’il les arrête (non cumulable avec [[Représentation obsédante]]).</td><td>+15 000 po</td></tr><tr CLASS="premier"><td>*[[mange-venin (propriété)|Mange-venin]]*</td><td><sup>*AMH*</sup></td><td>Armures fabriquées en cuir</td><td>Permet à son porteur de stocker les poisons de créatures venimeuses pour empoisonner ses propres armes.</td><td>+15 000 po</td></tr><tr CLASS="premier"><td>*[[ombre supérieure (propriété)|Ombre supérieure]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +10 aux tests de [[Discrétion]].</td><td>+15 000 po</td></tr><tr CLASS="premier"><td>*[[vol radieux (propriété)|Vol radieux]]*</td><td><sup>*AMH*</sup></td><td>Armures lourdes</td><td>Permet de voler à l'aide d'ailes éclairant comme une torche pendant un maximum de 10 minutes par jour.</td><td>+15 000 po</td></tr><tr CLASS="premier"><td>*[[martyr (propriété)|Martyr]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Une fois par jour, lorsque le porteur est victime d’un coup critique, il peut rendre 1d8+9 points de vie à 9 alliés maximum dans un rayon de 9m autour de lui (comme avec *[[soins légers de groupe]]*).</td><td>+18 000 po</td></tr><tr CLASS="premier"><td>*[[résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]*</td><td><sup>A&E</sup></td><td>—</td><td>L’objet absorbe les 10 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[[résistance aux énergies destructives]]*).</td><td>+18 000 po</td></tr><tr CLASS="premier"><td>*[[impie (propriété armure)|Impie]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* (énergie négative uniquement) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Bon.</td><td>+27 000 po</td></tr><tr CLASS="premier"><td>*[[libertaire (propriété)|Libertaire]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* ([[RD]] 5/Loi au lieu de Mal ou Bien) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Loyal.</td><td>+27 000 po</td></tr><tr CLASS="premier"><td>*[[vertueuse (propriété)|Vertueuse]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* (énergie positive uniquement) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Mauvais.</td><td>+27 000 po</td></tr><tr CLASS="premier"><td>*[[vigilante (propriété)|Vigilante]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* ([[RD]] 5/Chaos au lieu de Mal ou Bien) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Chaotique.</td><td>+27 000 po</td></tr><tr CLASS="premier"><td>*[[détermination (propriété)|Détermination]]*</td><td><sup>A&E</sup></td><td>—</td><td>Une fois par jour, lorsque le porteur devrait tomber à 0 points de vie ou moins, confère les effets du sort *[[souffle de vie]]*.</td><td>+30 000 po</td></tr><tr CLASS="premier"><td>*[[graisseuse suprême (propriété)|Graisseuse suprême]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +15 aux tests d’[[Évasion]].</td><td>+33 750 po</td></tr><tr CLASS="premier"><td>*[[Ombre suprême (propriété)|Ombre suprême]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère un bonus de compétence de +15 aux tests de [[Discrétion]].</td><td>+33 750 po</td></tr><tr CLASS="premier"><td>*[[résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]*</td><td><sup>A&E</sup></td><td>—</td><td>L’objet absorbe les 20 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[[résistance aux énergies destructives]]*).</td><td>+42 000 po</td></tr><tr CLASS="premier"><td>*[[contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]*</td><td><sup>A&E</sup></td><td>—</td><td>Permet de contrôler jusqu’à 26 [[DV]] de morts-vivants par jour (comme avec *[[contrôle des morts-vivants]]*), il en perd le contrôle à l’aube suivant l’utilisation de ce pouvoir.</td><td>+49 000 po</td></tr><tr CLASS="premier"><td>*[[éthérée (propriété)|Éthérée]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Peut conférer les effets du sort *[[forme éthérée]]* sans limite de durée, mais ne pouvant être réactivé qu’après les 24 heures suivants la désactivation.</td><td>+49 000 po</td></tr><tr CLASS="premier"><td>*[[résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]*</td><td><sup>A&E</sup></td><td>—</td><td>L’objet absorbe les 30 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[[résistance aux énergies destructives]]*).</td><td>+66 000 po</td></tr></table>
 
-|- CLASS="premier"
-| *[[résistance au poison (propriété)|Résistance au poison]]* || <sup>A&E</sup> || — || Confère un bonus de résistance de +3 aux [[jds|jets de sauvegarde]] contre les poisons. || +2 250 po
-
-|- CLASS="premier"
-| *[[mimétisme (propriété armure)|Mimétisme]]* || <sup>A&E</sup> || Armures || Permet de donner l’apparence de vêtements à l’armure (dissimulant son aura) à volonté. || +2 700 po
-
-|- CLASS="premier"
-| *[[focalisation mentale (propriété)|Focalisation mentale]]* || <sup>*AMH*</sup> || Armures intermédiaires || Confère un bonus d'altération de +2 aux tests de [[Lancer des sorts#TESTCONCENTRATION|concentration]]. Une fois par jour, peut offrir 1 point de [[Occultiste#FOCALISATIONMENTALE|focalisation mentale]]. || +3 000 po
-
-|- CLASS="premier"
-| *[[graisseuse (propriété)|Graisseuse]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +5 aux tests d’[[Évasion]]. || +3 750 po
-
-|- CLASS="premier"
-| *[[joute (propriété)|Joute]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +5 aux tests d’[[Équitation]]. || +3 750 po
-
-|- CLASS="premier"
-| *[[ombre (propriété)|Ombre]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. || +3 750 po
-
-|- CLASS="premier"
-| *[[expéditive (propriété)|Expéditive]]* || <sup>A&E</sup> || Armures || Trois fois par jour, peut conférer un bonus d’altération de +3m aux vitesses de déplacement pendant 1 [[round]]. || +4 000 po
-
-|- CLASS="premier"
-| *[[impondérable (propriété)|Impondérable]]* || <sup>MCA</sup> || Armures || Augmente le [[poids transportable]] de chaque catégorie de charge de 50 %. || +4 000 po
-
-|- CLASS="premier"
-| *[[amorphe (propriété)|Amorphe]]* || <sup>MCA</sup> || Armures || Confère un bonus de compétence de +5 aux tests d’[[Évasion]] et au [[DMD]] contre les manœuvres de [[lutte]]. Une fois par jour, peut transformer son porteur et lui-même en vase pendant 1 minute maximum. Sous forme de vase, diminue la vitesse de déplacement du porteur de 3m, l’empêche d’effectuer des actions autres que [[action de mouvement|de mouvement]], mais lui permet de se faufiler dans tous les espaces restreints. || +4 500 po
-
-|- CLASS="premier"
-| *[[reposante (propriété)|Reposante]]* || <sup>MCA</sup> || Armures || Une fois par jour, permet de profiter des effets d’un repos de 8 heures en seulement 2 heures. L’armure peut-être portée pendant un repos sans rendre le porteur [[fatigué]]. || +4 500 po
-
-|- CLASS="premier"
-| *[[confortable (propriété)|Confortable]]* || <sup>RSE</sup> || Armures || L'armure est considérée comme [[armure légère|légère]] lorsque le porteur dort avec. Pas de malus pour résister aux [[Dangers naturels#CHALEUR|chaleurs extrêmes]]. Confère les avantages d'une [[Vêtements#Tenue adaptée au froid|tenue polaire]] dans le froid. Réduit le [[Caractéristiques des armures#MALUSARMURE|malus d’armure aux tests]] de 1. || +5 000 po
-
-|- CLASS="premier"
-| *[[corsaires (propriété)|Corsaires]]* || <sup>MCA</sup> || Armures || Confère un bonus de compétence de +5 aux tests d’[[Acrobaties]]. À chaque fois que le porteur récupère de l’[[audace]] ou du [[panache]], le bonus conféré est doublé jusqu’au début de son prochain tour. || +5 000 po
-
-|- CLASS="premier"
-| *[[discrétion (propriété)|Discrétion]]* || <sup>A&E</sup> || Armures || Le malus d’armure aux tests ne s’applique pas aux tests de [[Discrétion]]. Une fois par jour, peut conférer un bonus aux égal au bonus d’altération de l’armure aux tests de [[Discrétion]] du porteurpendant 1 minute. || +5 000 po
-
-|- CLASS="premier"
-| *[[rafale de nuages (propriété)|Rafale de nuages]]* || <sup>MR</sup> || Armures || Peut stocker les points de dégâts d'électricité subit par le porteur qui peuvent être relâchés jusqu'au prochain tour de ce dernier afin d'infliger 1d6 points de dégâts d'électricité (comme avec *[[décharge électrique]]*) par tranche de 10 points stockés. || +5 000 po
-
-|- CLASS="premier"
-| *[[ralliement (propriété)|Ralliement]]* || <sup>A&E</sup> || — || Confère un bonus de moral de +4 aux [[jds|jets de sauvegardes]] contre la terreur de tous les alliés à 9m ou moins du porteur (s’il possède déjà une capacité similaire, le bonus passe à +6). || +5 000 po
-
-|- CLASS="premier"
-| *[[souffle draconique (propriété)|Souffle draconique]]* || <sup>A&E</sup> || Boucliers || Peut stocker les points de dégâts d’un type d’énergie choisi à la fabrication subit par le porteur, chaque tranche de 5 points de dégâts d’énergie stockés représentant 1 charge. Les charges peuvent être dépensées pour générer un cône de 4,50m infligeant 1d4 points de dégâts du type d’énergie stockée par charge dépensée (5 maximum). || +5 000 po
-
-|- CLASS="premier"
-| *[[lien spirituel (propriété)|Lien spirituel]]* || <sup>*AMH*</sup> || Armures intermédiaires || Bonus de +1 aux [[jds|jets de sauvegarde]] contre les sorts et effets psychiques de créatures intangibles et augmente de 1 le [[Médium#BONUSSPIRITUEL|bonus spirituel]]. || +6 000 po
-
-|- CLASS="premier"
-| *[[serrurier (propriété)|Serrurier]]* || <sup>*AMH*</sup> || Armures légères || L'armure peut fonctionner comme des [[Outils de cambrioleur (objet)|outils de cambrioleur de maître]] discrets et permet au porteur de distribuer son bonus d'altération à ses tests de [[Sabotage]]. || +6 500 po
-
-|- CLASS="premier"
-| *[[adhésive (propriété)|Adhésive]]* || <sup>A&E</sup> || Armures || Peut conférer une vitesse d’escalade de 6m, à volonté. Jusqu’à 10 [[round|rounds]] par jour, peut conférer un bonus d’altération de +2 aux tests de [[désarmement]], de [[lutte]], de [[repositionnement]], de [[subtilisation]] et de [[croc-en-jambe]] effectués avec une arme naturelle ou à mains nues. || +7 000 po
-
-|- CLASS="premier"
-| *[[rancune (propriété)|Rancune]]* || <sup>MCA</sup> || Armures || Lorsqu’une attaque au corps à corps portée dans l’allonge au corps à corps du porteur devrait le faire tomber à moins de 0 points de vie, il peut dépenser 1 point de [[panache]] pour effectuer une attaque au corps à corps contre la créature qui a portée cette attaque. || +7 000 po
-
-|- CLASS="premier"
-| *[[niche (propriété)|Niche]]* || <sup>A&E</sup> || — || Peut stocker magiquement un animal ou une créature magique lié(e) au porteur pendant 24 heures maximum ([[druide#PACTEAVECLANATURE|compagnon animal]], [[magicien#PACTEMAGIQUE|familier]], [[chevalier#MONTURE|monture]], etc...). La taille maximale de l’animal stockable dépend de l’objet affecté par cette propriété. L’animal stocké peut être relâché, auquel cas il agit immédiatement. || +7 500 po
-
-|- CLASS="premier"
-| *[[sans trace (propriété)|Sans trace]]* || <sup>MCA</sup> || Armures en cuir, armures en peau || Confère un bonus de compétence de +5 aux tests de [[Discrétion]]. Les tests de [[Survie]] visant à pister le porteur subissent un malus de -5. || +7 500 po
-
-|- CLASS="premier"
-| *[[éclatante (propriété)|Éclatante]]* || <sup>A&E</sup> || — || Peut émettre la même lumière qu’une [[Torche (objet)|torche]], à volonté. Une fois par jour, peut émettre une lumière de la même intensité que la lumière du jour pendant 1 heure maximum. || +7 500 po
-
-|- CLASS="premier"
-| *[[glissement de phase (propriété)|Glissement de phase]]* || <sup>*AMH*</sup> || Armures légères || Permet a son porteur de traverser les obstacles matériels une fois par jour. || +9 100 po
-
-|- CLASS="premier"
-| *[[fouisseuse (propriété)|Fouisseuse]]* || <sup>A&E</sup> || Armures || Confère une vitesse de creusement de 3m dans n’importe quel type de sol. Confère un bonus de +4 aux [[jds|jets de sauvegarde]] contre les glissements de terrain, les avalanches, les effondrements de tunnels ou tout effet similaire. || +10 000 po
-
-|- CLASS="premier"
-| *[[putride (propriété)|Putride]]* || <sup>A&E</sup> || Armures || Peut rendre toute les créatures vivantes à 9m ou moins du porteur [[fiévreux|fiévreuses]] pendant 5 [[round|rounds]], à volonté (l’effet ne s’estompe complètement qu’après une durée dépendant de la zone quand ce pouvoir est désactivé). || +10 000 po
-
-|- CLASS="premier"
-| *[[graisseuse supérieure (propriété)|Graisseuse supérieure]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +10 aux tests d’[[Évasion]]. || +15 000 po
-
-|- CLASS="premier"
-| *[[harmonique (propriété)|Harmonique]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +5 aux tests de [[Représentation]], mais inflige un malus de -5 aux tests de [[Discrétion]] ainsi qu’une vulnérabilité aux dégâts de son. Prolonge les effets des [[barde#REPRESENTATIONBARDIQUE|représentations bardiques]] du porteur pendant 1 [[round]] après qu’il les arrête (non cumulable avec [[Représentation obsédante]]). || +15 000 po
-
-|- CLASS="premier"
-| *[[mange-venin (propriété)|Mange-venin]]* || <sup>*AMH*</sup> || Armures fabriquées en cuir || Permet à son porteur de stocker les poisons de créatures venimeuses pour empoisonner ses propres armes. || +15 000 po
-
-|- CLASS="premier"
-| *[[ombre supérieure (propriété)|Ombre supérieure]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +10 aux tests de [[Discrétion]]. || +15 000 po
-
-|- CLASS="premier"
-| *[[vol radieux (propriété)|Vol radieux]]* || <sup>*AMH*</sup> || Armures lourdes || Permet de voler à l'aide d'ailes éclairant comme une torche pendant un maximum de 10 minutes par jour. || +15 000 po
-
-|- CLASS="premier"
-| *[[martyr (propriété)|Martyr]]* || <sup>A&E</sup> || Armures || Une fois par jour, lorsque le porteur est victime d’un coup critique, il peut rendre 1d8+9 points de vie à 9 alliés maximum dans un rayon de 9m autour de lui (comme avec *[[soins légers de groupe]]*). || +18 000 po
-
-|- CLASS="premier"
-| *[[résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]* || <sup>A&E</sup> || — || L’objet absorbe les 10 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[[résistance aux énergies destructives]]*). || +18 000 po
-
-|- CLASS="premier"
-| *[[impie (propriété armure)|Impie]]* || <sup>A&E</sup> || Armures || Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* (énergie négative uniquement) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Bon.  || +27 000 po
-
-|- CLASS="premier"
-| *[[libertaire (propriété)|Libertaire]]* || <sup>A&E</sup> || Armures || Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* ([[RD]] 5/Loi au lieu de Mal ou Bien) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Loyal.  || +27 000 po
-
-|- CLASS="premier"
-| *[[vertueuse (propriété)|Vertueuse]]* || <sup>A&E</sup> || Armures || Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* (énergie positive uniquement) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Mauvais.  || +27 000 po
-
-|- CLASS="premier"
-| *[[vigilante (propriété)|Vigilante]]* || <sup>A&E</sup> || Armures || Une fois par jour, peut conférer les effets du sort *[[force du colosse]]* ([[RD]] 5/Chaos au lieu de Mal ou Bien) pendant 10 [[round|rounds]]. Inflige un [[niveau négatif]] aux porteurs d’alignement Chaotique.  || +27 000 po
-
-|- CLASS="premier"
-| *[[détermination (propriété)|Détermination]]* || <sup>A&E</sup> || — || Une fois par jour, lorsque le porteur devrait tomber à 0 points de vie ou moins, confère les effets du sort *[[souffle de vie]]*.  || +30 000 po
-
-|- CLASS="premier"
-| *[[graisseuse suprême (propriété)|Graisseuse suprême]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +15 aux tests d’[[Évasion]]. || +33 750 po
-
-|- CLASS="premier"
-| *[[Ombre suprême (propriété)|Ombre suprême]]* || <sup>A&E</sup> || Armures || Confère un bonus de compétence de +15 aux tests de [[Discrétion]]. || +33 750 po
-
-|- CLASS="premier"
-| *[[résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]* || <sup>A&E</sup> || — || L’objet absorbe les 20 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[[résistance aux énergies destructives]]*). || +42 000 po
-
-|- CLASS="premier"
-| *[[contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]* || <sup>A&E</sup> || — || Permet de contrôler jusqu’à 26 [[DV]] de morts-vivants par jour (comme avec *[[contrôle des morts-vivants]]*), il en perd le contrôle à l’aube suivant l’utilisation de ce pouvoir. || +49 000 po
-
-|- CLASS="premier"
-| *[[éthérée (propriété)|Éthérée]]* || <sup>A&E</sup> || Armures || Peut conférer les effets du sort *[[forme éthérée]]* sans limite de durée, mais ne pouvant être réactivé qu’après les 24 heures suivants la désactivation. || +49 000 po
-
-|- CLASS="premier"
-| *[[résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]* || <sup>A&E</sup> || — || L’objet absorbe les 30 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[[résistance aux énergies destructives]]*). || +66 000 po
-|}
 </center>
 
 
 #### Propriétés ajoutant un bonus de +1
 <center>
-{| CLASS="tablo autoalt toutgauche" WIDTH="100%"
-|+ Propriétés ajoutant un bonus de +1
-|- CLASS="titre"
-| WIDTH="12%" | Propriété
-| WIDTH="3%" | Source
-| WIDTH="11%" | Restrictions
-| WIDTH="61%" | Capacités
-| WIDTH="13%" | Modificateur au prix de base
 
-|- CLASS="premier"
-| *[[amertume (propriété)|Amertume]]* || <sup>A&E</sup> || Armures || Peut faire lâcher prise aux créatures qui [[agrippé|agrippent]] le porteur avec une attaque de morsure, de bouche ou de gueule. Peut rendre [[nauséeux|nauséeuses]] les créatures qui [[engloutissement (capacité)|engloutissent]] le porteur. || bonus de +1
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>Propriétés ajoutant un bonus de +1</caption><tr CLASS="titre"><td WIDTH="12%">Propriété</td><td WIDTH="3%">Source</td><td WIDTH="11%">Restrictions</td><td WIDTH="61%">Capacités</td><td WIDTH="13%">Modificateur au prix de base</td></tr><tr CLASS="premier"><td>*[[amertume (propriété)|Amertume]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Peut faire lâcher prise aux créatures qui [[agrippé|agrippent]] le porteur avec une attaque de morsure, de bouche ou de gueule. Peut rendre [[nauséeux|nauséeuses]] les créatures qui [[engloutissement (capacité)|engloutissent]] le porteur.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[apaisante (propriété)|Apaisante]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Jusqu’à 10 [[round|rounds]] par jour, peut apaiser les émotions des créatures hostiles dans un rayon de 1,5m autour du porteur (comme avec *[[apaisement des émotions]]*) et qui peut mettre fin à la [[barbare#RAGE|rage]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[assidu (propriété)|Assidu]]*</td><td><sup>*AMH*</sup></td><td>Boucliers</td><td>Protège le porteur des [[regard (capacité)|attaques de regard]] quand il [[combat sur la défensive]] ou utilise l'action [[défense totale]], et peut renvoyer ces attaques à leur source.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[attaque (propriété)|Attaque]]*</td><td><sup>A&E</sup></td><td>Écus, rondaches</td><td>Inflige des dégâts comme s’il était de deux catégories de taille de plus. Possède un [[armures magiques#BONUSDALTERATION|bonus d’altération]] de +1 lorsqu’on attaque avec.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[aveuglante (propriété)|Aveuglante]]*</td><td><sup>A&E</sup></td><td>Boucliers</td><td>Deux fois par jour, peut [[aveuglé|aveugler]] toutes les créatures dans un rayon de 6m du porteur pendant 1d4 [[round|round(s)]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[barbelée (propriété)|Barbelée]]*</td><td><sup>A&E</sup></td><td>—</td><td>Inflige un nombre de points de dégâts égal au bonus d’altération de l’objet aux créatures qui tente de [[lutte|lutter]] contre le porteur ou de l’[[lutte|immobiliser]]. L’objet est considéré comme possédant des pointes d’armure.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[bélier (propriété)|Bélier]]*</td><td><sup>A&E</sup></td><td>Boucliers</td><td>Lors d’une charge avec l’objet, le porteur ajoute son bonus d’altération aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]]. Permet d’effectuer une manœuvre de [[bousculade]] avec un bonus égal au bonus d’altération du bouclier + 2 par une [[action rapide]] au touché.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[blasonné (propriété)|Blasonné]]*</td><td><sup>*AMH*</sup></td><td>Écus et pavois</td><td>Compte comme une [[chevalier#BANNIERE|bannière de chevalier]] et comme un [[Symbole sacré (objet)|symbole sacré]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[championne (propriété)|Championne]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère à un porteur Bon avec la capacité [[chevalier#DEFI|défi]] ou [[paladin#CHATIMENTDUMAL|châtiment du Mal]] un bonus de sainteté de +2 à la [[CA]] contre les attaques de l’adversaire désigné par ces capacités.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[croisades (propriété)|Croisades]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Un porteur [[paladin]] ou [[prêtre combattant]] Bon peut dépenser une utilisation d’[[paladin#IMPOSITIONDESMAINS|imposition des mains]] ou de [[prêtre combattant#FERVEUR|ferveur]] par une [[action rapide]] pour obtenir un bonus de sainteté de +2  à la [[CA]] pendant 1 minute (le bonus passe à +3 contre les dragons Mauvais, les extérieurs Mauvais et les morts-vivants).</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[déchire-sort (propriété)|Déchire-sort]]*</td><td><sup>*AMH*</sup></td><td>Boucliers de *résistance à la magie*</td><td>Stocke l'énergie des sorts absorbés grâce à la propriété *[[résistance à la magie 13 (propriété)|résistance à la magie]]* pour offrir un bonus aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] d'un coup de bouclier.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[défense légère (propriété)|Défense (légère)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Le porteur a 25 % de chances d’ignorer les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[environnementale (propriété)|Environnementale]]*</td><td><sup>*AMH*</sup></td><td>Armures intermédiaires</td><td>Confère un bonus d'altération de +3 mètres à sa vitesse sur un terrain spécifique et réduit le [[malus darmure|malus d'armure]] aux tests d'[[Acrobaties]], de [[Discrétion]] et d'[[Escalade]] effectués sur ce terrain.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[équilibrée (propriété)|Équilibrée]]*</td><td><sup>A&E</sup></td><td>Armures légères et intermédiaires</td><td>Confère un bonus de +4 au [[DMD]] contre les manœuvres de [[renversement]] et de [[croc-en-jambe]], ainsi qu’aux tests d’[[Acrobaties]] pour éviter de tomber. [[Actions libres#PLONGERAUSOL|Plonger au sol]] coûte une [[action de mouvement]] au porteur.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[équilibrée AMH (propriété)|Équilibrée (AMH)]]*</td><td><sup>*AMH*</sup></td><td>Armures intermédiaires</td><td>Permet au porteur de distribuer le bonus d'altération de l'armure entre sa CA et un [[jds|jet de sauvegarde]] choisit à la création.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[fourberie (propriété)|Fourberie]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère à un porteur Mauvais avec la capacité [[chevalier#DEFI|défi]] ou [[antipaladin#CHATIMENTDUBIEN|châtiment du Bien]] un bonus de malfaisance de +2 à la [[CA]] contre les attaques de l’adversaire désigné par ces capacités.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[garrot (propriété)|Garrot]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Tous les dégâts de saignement subit par le porteur sont réduit d’un montant égal au bonus d’altération de l’objet. Confère un bonus égal au bonus d’altération de l’objet aux tests de [[Constitution]] du porteur pour se stabiliser.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[immortalité (propriété)|Immortalité]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>L’objet absorbe les 10 premiers points de dégâts d’énergie positive ou négative de toute attaque subie par le porteur (sauf les soins). Le porteur a 25 % de chances d’ignorer les attaques infligeant des [[niveau négatif|niveaux négatifs]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[interception de projectile (propriété)|Interception de projectile]]*</td><td><sup>A&E</sup></td><td>Boucliers</td><td>Confère un bonus de parade de +1 à la [[CA]] contre les armes à distance. Toute arme de jet ou projectile qui vise une cible située à 1,5m ou moins du porteur le visent à la place. Les attaques à distance ne subissent jamais de chance d’échec lorsqu’elles visent le porteur. Les effets de cette propriété peuvent être désactivés à volonté.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[miroir (propriété)|Miroir]]*</td><td><sup>A&E</sup></td><td>Boucliers et armures métalliques</td><td>Le bonus d’altération de l’objet s’ajoute à la [[CA]] au contact du porteur contre les rayons. Lorsqu’il détourne le regard d’une [[regard (capacité)|attaque de regard]], le porteur lance 2 dés d’évitement et conserve le meilleur résultat. Permet d’infliger des dégâts de précisions aux créatures qui bénéficient d’un camouflage contre le porteur dus au détournement de regard.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[opposition (propriété)|Opposition]]*</td><td><sup>A&E</sup></td><td>—</td><td>L’objet confère une [[RD]] 2/- et voit son bonus d’altération à la [[CA]] augmenter de 2 contre un type de créature choisi à la fabrication.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[placement (propriété armure)|Placement]]*</td><td><sup>*AMH*</sup></td><td>Armures lourdes</td><td>Permet de se déplacer de 3 mètres après avoir réduit un adversaire à 0 [[point de vie|pv]] ou moins avec une attaque de corps à corps.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[pliant (propriété)|Pliant]]*</td><td><sup>*AMH*</sup></td><td>Boucliers</td><td>Le bouclier peut se changer en [[Targe (armure)|targe]], en [[Écu (armure)|écu]] et en [[Pavois (armure)|pavois]] sur commande.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[prévention (propriété)|Prévention]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Une fois par jour, le porteur peut, par une [[action immédiate]], mettre fin à tout les [[chevalier#DEFI|défis]], [[inquisiteur#JUGEMENT|jugements]] et [[paladin#CHATIMENTDUMAL|châtiments]] qui l’affectent. Un porteur avec l’une de ces capacités peut activer ce pouvoir par une [[action rapide]] autant de fois qu’il le souhaite en en dépensant une utilisation.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[protection (propriété)|Protection]]*</td><td><sup>MR</sup></td><td>Boucliers</td><td>Le porteur peut distribuer le bonus d’altération du bouclier entre sa [[CA]] et celle d'un allié adjacent à chaque tour.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[protection contre les pièges (propriété)|Protection contre les pièges]]*</td><td><sup>RSE</sup></td><td>Armures</td><td>Confère un bonus de chance égal au bonus d'altération aux [[jds|jets de sauvegarde]] contre les [[pièges]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[renforcement (propriété)|Renforcement]]*</td><td><sup>A&E</sup></td><td>Armures intermédiaires et lourdes, rondaches, écus, pavois</td><td>À chaque fois que le porteur inflige des dégâts à une créature grâce à une attaque à distance ou au corps à corps, confère un bonus de compétence de +2 aux [[jds|jets de sauvegarde]] contre ses capacités jusqu’au début du prochain [[round]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[résonance (propriété)|Résonance]]*</td><td><sup>CMy</sup></td><td>Armures</td><td>Trois fois par jour, quand le porteur dépense une utilisation de [[pouvoir mythique]], le bonus d’altération de l’armure augmente de 2 et les [[RD]] du porteur augmentent de 5, pendant un nombre de [[round|rounds]] égal au [[grade]] du porteur.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[retentissant (propriété)|Retentissant]]*</td><td><sup>A&E</sup></td><td>—</td><td>Lorsque le porteur est touché par une attaque, peut [[assourdi|assourdir]] les créatures autour de lui (comme avec une [[Armes alchimiques#Pierre tonnerre|pierre tonnerre]]), ou si l’attaque est un coup critique, manifester les effets du sort *[[cacophonie]]* (le rayon de ces effets est au choix du porteur mais doit comprendre l’attaquant).</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[sauvegarde (propriété)|Sauvegarde]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Confère une [[RD]]/5 au porteur tant qu’il est [[inconscient]], [[nauséeux]], [[étourdi]] (et qu’il de peut pas effectuer d’[[action simple]] dans ces états) ou [[immobilisé]] (et qu’il ne peut pas attaquer dans cet état).</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[solide (propriété armure)|Solide]]*</td><td><sup>A&E</sup></td><td>—</td><td>Ajoute le double du bonus d’altération de l’objet à sa solidité et à ses points de résistance. Confère un bonus du même montant au [[DD]] pour briser l’objet et aux [[jds|jets de sauvegarde]] contre les attaques portées à l’objet.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[soutien (propriété armure)|Soutien]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Ajoute le bonus d’altération de l’armure au bonus conféré par l’action [[actions spéciales#AIDERQQN|aider quelqu’un]] lorsqu’elle est utilisée pour améliorer la [[CA]].</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[stockage de sort (propriété armure)|Stockage de sort]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>L’armure peut stocker un sort du 3e niveau ou moins que le porteur peut livrer dès qu’il est touché par une attaque au corps à corps ou au contact.</td><td>bonus de +1</td></tr><tr CLASS="premier"><td>*[[tenace (propriété)|Tenace]]*</td><td><sup>*AMH*</sup></td><td>Armures intermédiaires</td><td>Confère un bonus d'altération de +2 aux tests de [[Connaissances]] liés a un type de créature choisi à la création et a 50 % de chances d’annuler les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises de ce type de créature.</td><td>bonus de +1</td></tr></table>
 
-|- CLASS="premier"
-| *[[apaisante (propriété)|Apaisante]]* || <sup>MCA</sup> || Armures || Jusqu’à 10 [[round|rounds]] par jour, peut apaiser les émotions des créatures hostiles dans un rayon de 1,5m autour du porteur (comme avec *[[apaisement des émotions]]*) et qui peut mettre fin à la [[barbare#RAGE|rage]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[assidu (propriété)|Assidu]]* || <sup>*AMH*</sup> || Boucliers || Protège le porteur des [[regard (capacité)|attaques de regard]] quand il [[combat sur la défensive]] ou utilise l'action [[défense totale]], et peut renvoyer ces attaques à leur source. || bonus de +1
-
-|- CLASS="premier"
-| *[[attaque (propriété)|Attaque]]* || <sup>A&E</sup> || Écus, rondaches || Inflige des dégâts comme s’il était de deux catégories de taille de plus. Possède un [[armures magiques#BONUSDALTERATION|bonus d’altération]] de +1 lorsqu’on attaque avec. || bonus de +1
-
-|- CLASS="premier"
-| *[[aveuglante (propriété)|Aveuglante]]* || <sup>A&E</sup> || Boucliers || Deux fois par jour, peut [[aveuglé|aveugler]] toutes les créatures dans un rayon de 6m du porteur pendant 1d4 [[round|round(s)]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[barbelée (propriété)|Barbelée]]* || <sup>A&E</sup> || — || Inflige un nombre de points de dégâts égal au bonus d’altération de l’objet aux créatures qui tente de [[lutte|lutter]] contre le porteur ou de l’[[lutte|immobiliser]]. L’objet est considéré comme possédant des pointes d’armure. || bonus de +1
-
-|- CLASS="premier"
-| *[[bélier (propriété)|Bélier]]* || <sup>A&E</sup> || Boucliers || Lors d’une charge avec l’objet, le porteur ajoute son bonus d’altération aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]]. Permet d’effectuer une manœuvre de [[bousculade]] avec un bonus égal au bonus d’altération du bouclier + 2 par une [[action rapide]] au touché. || bonus de +1
-
-|- CLASS="premier"
-| *[[blasonné (propriété)|Blasonné]]* || <sup>*AMH*</sup> || Écus et pavois || Compte comme une [[chevalier#BANNIERE|bannière de chevalier]] et comme un [[Symbole sacré (objet)|symbole sacré]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[championne (propriété)|Championne]]* || <sup>A&E</sup> || Armures || Confère à un porteur Bon avec la capacité [[chevalier#DEFI|défi]] ou [[paladin#CHATIMENTDUMAL|châtiment du Mal]] un bonus de sainteté de +2 à la [[CA]] contre les attaques de l’adversaire désigné par ces capacités. || bonus de +1
-
-|- CLASS="premier"
-| *[[croisades (propriété)|Croisades]]* || <sup>MCA</sup> || Armures || Un porteur [[paladin]] ou [[prêtre combattant]] Bon peut dépenser une utilisation d’[[paladin#IMPOSITIONDESMAINS|imposition des mains]] ou de [[prêtre combattant#FERVEUR|ferveur]] par une [[action rapide]] pour obtenir un bonus de sainteté de +2  à la [[CA]] pendant 1 minute (le bonus passe à +3 contre les dragons Mauvais, les extérieurs Mauvais et les morts-vivants). || bonus de +1
-
-|- CLASS="premier"
-| *[[déchire-sort (propriété)|Déchire-sort]]* || <sup>*AMH*</sup> || Boucliers de *résistance à la magie* || Stocke l'énergie des sorts absorbés grâce à la propriété *[[résistance à la magie 13 (propriété)|résistance à la magie]]* pour offrir un bonus aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] d'un coup de bouclier. || bonus de +1
-
-|- CLASS="premier"
-| *[[défense légère (propriété)|Défense (légère)]]* || <sup>A&E</sup> || — || Le porteur a 25 % de chances d’ignorer les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises. || bonus de +1
-
-|- CLASS="premier"
-| *[[environnementale (propriété)|Environnementale]]* || <sup>*AMH*</sup> || Armures intermédiaires || Confère un bonus d'altération de +3 mètres à sa vitesse sur un terrain spécifique et réduit le [[malus darmure|malus d'armure]] aux tests d'[[Acrobaties]], de [[Discrétion]] et d'[[Escalade]] effectués sur ce terrain. || bonus de +1
-
-|- CLASS="premier"
-| *[[équilibrée (propriété)|Équilibrée]]* || <sup>A&E</sup> || Armures légères et intermédiaires || Confère un bonus de +4 au [[DMD]] contre les manœuvres de [[renversement]] et de [[croc-en-jambe]], ainsi qu’aux tests d’[[Acrobaties]] pour éviter de tomber. [[Actions libres#PLONGERAUSOL|Plonger au sol]] coûte une [[action de mouvement]] au porteur. || bonus de +1
-
-|- CLASS="premier"
-| *[[équilibrée AMH (propriété)|Équilibrée (AMH)]]* || <sup>*AMH*</sup> || Armures intermédiaires || Permet au porteur de distribuer le bonus d'altération de l'armure entre sa CA et un [[jds|jet de sauvegarde]] choisit à la création. || bonus de +1
-
-|- CLASS="premier"
-| *[[fourberie (propriété)|Fourberie]]* || <sup>A&E</sup> || Armures || Confère à un porteur Mauvais avec la capacité [[chevalier#DEFI|défi]] ou [[antipaladin#CHATIMENTDUBIEN|châtiment du Bien]] un bonus de malfaisance de +2 à la [[CA]] contre les attaques de l’adversaire désigné par ces capacités. || bonus de +1
-
-|- CLASS="premier"
-| *[[garrot (propriété)|Garrot]]* || <sup>A&E</sup> || Armures || Tous les dégâts de saignement subit par le porteur sont réduit d’un montant égal au bonus d’altération de l’objet. Confère un bonus égal au bonus d’altération de l’objet aux tests de [[Constitution]] du porteur pour se stabiliser. || bonus de +1
-
-|- CLASS="premier"
-| *[[immortalité (propriété)|Immortalité]]* || <sup>A&E</sup> || Armures || L’objet absorbe les 10 premiers points de dégâts d’énergie positive ou négative de toute attaque subie par le porteur (sauf les soins). Le porteur a 25 % de chances d’ignorer les attaques infligeant des [[niveau négatif|niveaux négatifs]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[interception de projectile (propriété)|Interception de projectile]]* || <sup>A&E</sup> || Boucliers || Confère un bonus de parade de +1 à la [[CA]] contre les armes à distance. Toute arme de jet ou projectile qui vise une cible située à 1,5m ou moins du porteur le visent à la place. Les attaques à distance ne subissent jamais de chance d’échec lorsqu’elles visent le porteur. Les effets de cette propriété peuvent être désactivés à volonté. || bonus de +1
-
-|- CLASS="premier"
-| *[[miroir (propriété)|Miroir]]* || <sup>A&E</sup> || Boucliers et armures métalliques || Le bonus d’altération de l’objet s’ajoute à la [[CA]] au contact du porteur contre les rayons. Lorsqu’il détourne le regard d’une [[regard (capacité)|attaque de regard]], le porteur lance 2 dés d’évitement et conserve le meilleur résultat. Permet d’infliger des dégâts de précisions aux créatures qui bénéficient d’un camouflage contre le porteur dus au détournement de regard. || bonus de +1
-
-|- CLASS="premier"
-| *[[opposition (propriété)|Opposition]]* || <sup>A&E</sup> || — || L’objet confère une [[RD]] 2/- et voit son bonus d’altération à la [[CA]] augmenter de 2 contre un type de créature choisi à la fabrication. || bonus de +1
-
-|- CLASS="premier"
-| *[[placement (propriété armure)|Placement]]* || <sup>*AMH*</sup> || Armures lourdes || Permet de se déplacer de 3 mètres après avoir réduit un adversaire à 0 [[point de vie|pv]] ou moins avec une attaque de corps à corps. || bonus de +1
-
-|- CLASS="premier"
-| *[[pliant (propriété)|Pliant]]* || <sup>*AMH*</sup> || Boucliers || Le bouclier peut se changer en [[Targe (armure)|targe]], en [[Écu (armure)|écu]] et en [[Pavois (armure)|pavois]] sur commande. || bonus de +1
-
-|- CLASS="premier"
-| *[[prévention (propriété)|Prévention]]* || <sup>A&E</sup> || Armures || Une fois par jour, le porteur peut, par une [[action immédiate]], mettre fin à tout les [[chevalier#DEFI|défis]], [[inquisiteur#JUGEMENT|jugements]] et [[paladin#CHATIMENTDUMAL|châtiments]] qui l’affectent. Un porteur avec l’une de ces capacités peut activer ce pouvoir par une [[action rapide]] autant de fois qu’il le souhaite en en dépensant une utilisation. || bonus de +1
-
-|- CLASS="premier"
-| *[[protection (propriété)|Protection]]* || <sup>MR</sup> || Boucliers || Le porteur peut distribuer le bonus d’altération du bouclier entre sa [[CA]] et celle d'un allié adjacent à chaque tour. || bonus de +1
-
-|- CLASS="premier"
-| *[[protection contre les pièges (propriété)|Protection contre les pièges]]* || <sup>RSE</sup> || Armures || Confère un bonus de chance égal au bonus d'altération aux [[jds|jets de sauvegarde]] contre les [[pièges]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[renforcement (propriété)|Renforcement]]* || <sup>A&E</sup> || Armures intermédiaires et lourdes, rondaches, écus, pavois || À chaque fois que le porteur inflige des dégâts à une créature grâce à une attaque à distance ou au corps à corps, confère un bonus de compétence de +2 aux [[jds|jets de sauvegarde]] contre ses capacités jusqu’au début du prochain [[round]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[résonance (propriété)|Résonance]]* || <sup>CMy</sup> || Armures || Trois fois par jour, quand le porteur dépense une utilisation de [[pouvoir mythique]], le bonus d’altération de l’armure augmente de 2 et les [[RD]] du porteur augmentent de 5, pendant un nombre de [[round|rounds]] égal au [[grade]] du porteur. || bonus de +1
-
-|- CLASS="premier"
-| *[[retentissant (propriété)|Retentissant]]* || <sup>A&E</sup> || — || Lorsque le porteur est touché par une attaque, peut [[assourdi|assourdir]] les créatures autour de lui (comme avec une [[Armes alchimiques#Pierre tonnerre|pierre tonnerre]]), ou si l’attaque est un coup critique, manifester les effets du sort *[[cacophonie]]* (le rayon de ces effets est au choix du porteur mais doit comprendre l’attaquant). || bonus de +1
-
-|- CLASS="premier"
-| *[[sauvegarde (propriété)|Sauvegarde]]* || <sup>MCA</sup> || Armures || Confère une [[RD]]/5 au porteur tant qu’il est [[inconscient]], [[nauséeux]], [[étourdi]] (et qu’il de peut pas effectuer d’[[action simple]] dans ces états) ou [[immobilisé]] (et qu’il ne peut pas attaquer dans cet état). || bonus de +1
-
-|- CLASS="premier"
-| *[[solide (propriété armure)|Solide]]* || <sup>A&E</sup> || — || Ajoute le double du bonus d’altération de l’objet à sa solidité et à ses points de résistance. Confère un bonus du même montant au [[DD]] pour briser l’objet et aux [[jds|jets de sauvegarde]] contre les attaques portées à l’objet. || bonus de +1
-
-|- CLASS="premier"
-| *[[soutien (propriété armure)|Soutien]]* || <sup>A&E</sup> || Armures || Ajoute le bonus d’altération de l’armure au bonus conféré par l’action [[actions spéciales#AIDERQQN|aider quelqu’un]] lorsqu’elle est utilisée pour améliorer la [[CA]]. || bonus de +1
-
-|- CLASS="premier"
-| *[[stockage de sort (propriété armure)|Stockage de sort]]* || <sup>A&E</sup> || Armures || L’armure peut stocker un sort du 3e niveau ou moins que le porteur peut livrer dès qu’il est touché par une attaque au corps à corps ou au contact. || bonus de +1
-
-|- CLASS="premier"
-| *[[tenace (propriété)|Tenace]]* || <sup>*AMH*</sup> || Armures intermédiaires || Confère un bonus d'altération de +2 aux tests de [[Connaissances]] liés a un type de créature choisi à la création et a 50 % de chances d’annuler les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises de ce type de créature. || bonus de +1
-|}
 </center>
 
 
 #### Propriétés ajoutant un bonus de +2
 <center>
-{| CLASS="tablo autoalt toutgauche" WIDTH="100%"
-|+ Propriétés ajoutant un bonus de +2
-|- CLASS="titre"
-| WIDTH="12%" | Propriété
-| WIDTH="3%" | Source
-| WIDTH="11%" | Restrictions
-| WIDTH="61%" | Capacités
-| WIDTH="13%" | Modificateur au prix de base
 
-|- CLASS="premier"
-| *[[animée (propriété)|Animée]]* || <sup>A&E</sup> || Boucliers (sauf pavois) || Par une action simple, le porteur peut lâcher le bouclier pour qu’il s’anime et le protège comme s’il le tenait pendant 4 [[round|rounds]] avant de tomber à terre. Animé, il peut activer seul toute propriété spéciale ne nécessitant pas d’action. L’activateur peut le reprendre en main par une [[action libre]] (il doit alors attendre 4 rounds pour l’activer de nouveau) . || bonus de +2
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>Propriétés ajoutant un bonus de +2</caption><tr CLASS="titre"><td WIDTH="12%">Propriété</td><td WIDTH="3%">Source</td><td WIDTH="11%">Restrictions</td><td WIDTH="61%">Capacités</td><td WIDTH="13%">Modificateur au prix de base</td></tr><tr CLASS="premier"><td>*[[animée (propriété)|Animée]]*</td><td><sup>A&E</sup></td><td>Boucliers (sauf pavois)</td><td>Par une action simple, le porteur peut lâcher le bouclier pour qu’il s’anime et le protège comme s’il le tenait pendant 4 [[round|rounds]] avant de tomber à terre. Animé, il peut activer seul toute propriété spéciale ne nécessitant pas d’action. L’activateur peut le reprendre en main par une [[action libre]] (il doit alors attendre 4 rounds pour l’activer de nouveau) .</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[anti-projectiles (propriété)|Anti-projectiles]]*</td><td><sup>A&E</sup></td><td>Boucliers</td><td>Une fois par [[round]], peut détourner une attaque à distance sans dépenser d’action (comme avec [[Parade de projectiles]]).</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[esquive des sorts (propriété)|Esquive des sorts]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Confère un bonus d’esquive de +4 à la [[CA]] contre les [[jet dattaque|jets d’attaque]] des sorts, des pouvoirs magiques et des attaques de créatures invoquées.</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[fumante (propriété)|Fumante]]*</td><td><sup>CM</sup></td><td>Armures intermédiaires et lourdes</td><td>Trois fois par jour, peut émettre une vapeur qui inflige des dégâts aux créatures en lutte et autour du porteur pendant 5 [[round|rounds]].</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[fusion (propriété)|Fusion]]*</td><td><sup>A&E</sup></td><td>Écus, rondaches</td><td>Peut fusionner avec une arme légère ou à une main tenue en main. Fusionné, le porteur choisi à chaque [[round]] s’il veut attaquer (ce qui lui fait perdre le bonus à la [[CA]] du bouclier) ou se défendre.</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[imaginaire (propriété)|Imaginaire]]*</td><td><sup>*AMH*</sup></td><td>Armures légères</td><td>Trois fois par jour, peut laisser un double illusoire menaçant dans une case précédemment occupée par le porteur.</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[maîtrise (propriété)|Maîtrise]]*</td><td><sup>*AMH*</sup></td><td>Boucliers</td><td>Applique le bonus d'[[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] le plus élevé ainsi que la [[guerrier#MAITRISEDESARMES|maîtrise des armes]] du porteur aux coups de bouclier.</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[protection supérieure (propriété)|Protection supérieure]]*</td><td><sup>MR</sup></td><td>Boucliers</td><td>Le porteur peut distribuer le bonus d’altération du bouclier entre sa [[CA]] et celle des alliés adjacents à chaque tour (ils reçoivent tous le même bonus).</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[ravageuse (propriété)|Ravageuse]]*</td><td><sup>*AMH*</sup></td><td>Armures lourdes</td><td>Le porteur ignore les terrains difficiles quand il [[charge]] ou [[bousculade|bouscule]]. Une fois par jour, permet de transformer la trajectoire d'une charge ou d'une bousculade en terrain difficile.</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[résistance à la magie 13 (propriété)|Résistance à la magie (13)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Confère une [[RM]] de 13.</td><td>bonus de +2</td></tr><tr CLASS="premier"><td>*[[vibrante (propriété)|Vibrante]]*</td><td><sup>MCA</sup></td><td>—</td><td>Trois fois par jour, lorsque le porteur est touché par une attaque au corps à corps effectuée avec une arme, peut [[hébété|hébéter]] l’attaquant pendant 1 [[round]].</td><td>bonus de +2</td></tr></table>
 
-|- CLASS="premier"
-| *[[anti-projectiles (propriété)|Anti-projectiles]]* || <sup>A&E</sup> || Boucliers || Une fois par [[round]], peut détourner une attaque à distance sans dépenser d’action (comme avec [[Parade de projectiles]]). || bonus de +2
-
-|- CLASS="premier"
-| *[[esquive des sorts (propriété)|Esquive des sorts]]* || <sup>MCA</sup> || Armures || Confère un bonus d’esquive de +4 à la [[CA]] contre les [[jet dattaque|jets d’attaque]] des sorts, des pouvoirs magiques et des attaques de créatures invoquées. || bonus de +2
-
-|- CLASS="premier"
-| *[[fumante (propriété)|Fumante]]* || <sup>CM</sup> || Armures intermédiaires et lourdes || Trois fois par jour, peut émettre une vapeur qui inflige des dégâts aux créatures en lutte et autour du porteur pendant 5 [[round|rounds]]. || bonus de +2
-
-|- CLASS="premier"
-| *[[fusion (propriété)|Fusion]]* || <sup>A&E</sup> || Écus, rondaches || Peut fusionner avec une arme légère ou à une main tenue en main. Fusionné, le porteur choisi à chaque [[round]] s’il veut attaquer (ce qui lui fait perdre le bonus à la [[CA]] du bouclier) ou se défendre. || bonus de +2
-
-|- CLASS="premier"
-| *[[imaginaire (propriété)|Imaginaire]]* || <sup>*AMH*</sup> || Armures légères || Trois fois par jour, peut laisser un double illusoire menaçant dans une case précédemment occupée par le porteur. || bonus de +2
-
-|- CLASS="premier"
-| *[[maîtrise (propriété)|Maîtrise]]* || <sup>*AMH*</sup> || Boucliers || Applique le bonus d'[[guerrier#ENTRAINEMENTAUXARMES|entraînement aux armes]] le plus élevé ainsi que la [[guerrier#MAITRISEDESARMES|maîtrise des armes]] du porteur aux coups de bouclier. || bonus de +2
-
-|- CLASS="premier"
-| *[[protection supérieure (propriété)|Protection supérieure]]* || <sup>MR</sup> || Boucliers || Le porteur peut distribuer le bonus d’altération du bouclier entre sa [[CA]] et celle des alliés adjacents à chaque tour (ils reçoivent tous le même bonus). || bonus de +2
-
-|- CLASS="premier"
-| *[[ravageuse (propriété)|Ravageuse]]* || <sup>*AMH*</sup> || Armures lourdes ||  Le porteur ignore les terrains difficiles quand il [[charge]] ou [[bousculade|bouscule]]. Une fois par jour, permet de transformer la trajectoire d'une charge ou d'une bousculade en terrain difficile. || bonus de +2
-
-|- CLASS="premier"
-| *[[résistance à la magie 13 (propriété)|Résistance à la magie (13)]]* || <sup>A&E</sup> || — || Confère une [[RM]] de 13. || bonus de +2
-
-|- CLASS="premier"
-| *[[vibrante (propriété)|Vibrante]]* || <sup>MCA</sup> || — || Trois fois par jour, lorsque le porteur est touché par une attaque au corps à corps effectuée avec une arme, peut [[hébété|hébéter]] l’attaquant pendant 1 [[round]]. || bonus de +2
-|}
 </center>
 
 #### Propriétés ajoutant un bonus de +3
 <center>
-{| CLASS="tablo autoalt toutgauche" WIDTH="100%"
-|+ Propriétés ajoutant un bonus de +3
-|- CLASS="titre"
-| WIDTH="12%" | Propriété
-| WIDTH="3%" | Source
-| WIDTH="11%" | Restrictions
-| WIDTH="61%" | Capacités
-| WIDTH="13%" | Modificateur au prix de base
 
-|- CLASS="premier"
-| *[[collecte-flèche (propriété)|Collecte-flèche]]* || <sup>*AMH*</sup> || Armures intermédiaires || Les attaques de projectile à distance ont 20 % de chances de rater le porteur et et celles qui le ratent à cause de cet effet peuvent être collectées et renvoyées plus tard par le porteur. || bonus de +3
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>Propriétés ajoutant un bonus de +3</caption><tr CLASS="titre"><td WIDTH="12%">Propriété</td><td WIDTH="3%">Source</td><td WIDTH="11%">Restrictions</td><td WIDTH="61%">Capacités</td><td WIDTH="13%">Modificateur au prix de base</td></tr><tr CLASS="premier"><td>*[[collecte-flèche (propriété)|Collecte-flèche]]*</td><td><sup>*AMH*</sup></td><td>Armures intermédiaires</td><td>Les attaques de projectile à distance ont 20 % de chances de rater le porteur et et celles qui le ratent à cause de cet effet peuvent être collectées et renvoyées plus tard par le porteur.</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[défense intermédiaire (propriété)|Défense (intermédiaire)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Le porteur a 50 % de chances d’ignorer les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises.</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[déviation (propriété)|Déviation]]*</td><td><sup>CMy</sup></td><td>Boucliers en acier</td><td>Trois fois par jour, peut conférer un bonus de parade à la [[CA]] égal au bonus d’altération du bouclier au porteur et à ses alliés dans un rayon de 3m, pendant 1 minute (le porteur peut dépenser une utilisation de [[pouvoir mythique]] pour augmenter le bonus de parade d’un montant égal à la moitié de son [[grade]]).</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[forme animale (propriété)|Forme animale]]*</td><td><sup>A&E</sup></td><td>—</td><td>Le porteur conserve son bonus d’armure (et son bonus d’altération à l’armure) lorsqu’il utilise la capacité [[druide#FORMEANIMALE|forme animale]].</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[invulnérabilité (propriété)|Invulnérabilité]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Confère une [[RD]] 5/magie.</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[perception (propriété)|Perception]]*</td><td><sup>MCA</sup></td><td>Armures</td><td>Tant que le porteur est [[aveuglé]], dans des ténèbres complètes (sauf s’il possède la [[vision dans le noir]] ou la [[vision dans les ténèbres]]) ou dans des ténèbres magiques (sauf s’il possède la [[vision dans les ténèbres]]), confère la [[vision aveugle (capacité)|vision aveugle]] (1,5m) et la [[perception aveugle (capacité)|perception aveugle]] (18m).</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[pugilat (propriété)|Pugilat]]*</td><td><sup>A&E</sup></td><td>Armures légères</td><td>Confère un bonus de +2 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] à mains nues et aux tests de [[lutte]]. Les attaques à mains nues du porteur sont considérés comme des armes magiques.</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[résistance à la magie 15 (propriété)|Résistance à la magie (15)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Confère une [[RM]] de 15.</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[spectrale (propriété armure)|Spectrale]]*</td><td><sup>A&E</sup></td><td>—</td><td>L’armure est considérée comme tangible et intangible à tout moment.</td><td>bonus de +3</td></tr><tr CLASS="premier"><td>*[[titanesque (propriété)|Titanesque]]*</td><td><sup>A&E</sup></td><td>Armures</td><td>Le porteur est considéré comme étant d’une catégorie de taille de plus à tout moment. Une fois par jour, peut augmenter la taille du porteur d’une catégorie pendant 1 minute (comme avec *[[agrandissement]]*). Une fois par minute, peut ajouter le bonus d’altération de l’armure à un test de [[Force]], de [[BMO]] ou au [[DMD]] du porteur. Augmente le malus d’armure aux tests de l’armure du même montant.</td><td>bonus de +3</td></tr></table>
 
-|- CLASS="premier"
-| *[[défense intermédiaire (propriété)|Défense (intermédiaire)]]* || <sup>A&E</sup> || — || Le porteur a 50 % de chances d’ignorer les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises. || bonus de +3
-
-|- CLASS="premier"
-| *[[déviation (propriété)|Déviation]]* || <sup>CMy</sup> || Boucliers en acier || Trois fois par jour, peut conférer un bonus de parade à la [[CA]] égal au bonus d’altération du bouclier au porteur et à ses alliés dans un rayon de 3m, pendant 1 minute (le porteur peut dépenser une utilisation de [[pouvoir mythique]] pour augmenter le bonus de parade d’un montant égal à la moitié de son [[grade]]). || bonus de +3
-
-|- CLASS="premier"
-| *[[forme animale (propriété)|Forme animale]]* || <sup>A&E</sup> || — || Le porteur conserve son bonus d’armure (et son bonus d’altération à l’armure) lorsqu’il utilise la capacité [[druide#FORMEANIMALE|forme animale]]. || bonus de +3
-
-|- CLASS="premier"
-| *[[invulnérabilité (propriété)|Invulnérabilité]]* || <sup>A&E</sup> || Armures || Confère une [[RD]] 5/magie. || bonus de +3
-
-|- CLASS="premier"
-| *[[perception (propriété)|Perception]]* || <sup>MCA</sup> || Armures || Tant que le porteur est [[aveuglé]], dans des ténèbres complètes (sauf s’il possède la [[vision dans le noir]] ou la [[vision dans les ténèbres]]) ou dans des ténèbres magiques (sauf s’il possède la [[vision dans les ténèbres]]), confère la [[vision aveugle (capacité)|vision aveugle]] (1,5m) et la [[perception aveugle (capacité)|perception aveugle]] (18m). || bonus de +3
-
-|- CLASS="premier"
-| *[[pugilat (propriété)|Pugilat]]* || <sup>A&E</sup> || Armures légères || Confère un bonus de +2 aux [[jet dattaque|jets d’attaque]] et [[valeurs de combat#DEGATS|de dégâts]] à mains nues et aux tests de [[lutte]]. Les attaques à mains nues du porteur sont considérés comme des armes magiques. || bonus de +3
-
-|- CLASS="premier"
-| *[[résistance à la magie 15 (propriété)|Résistance à la magie (15)]]* || <sup>A&E</sup> || — || Confère une [[RM]] de 15. || bonus de +3
-
-|- CLASS="premier"
-| *[[spectrale (propriété armure)|Spectrale]]* || <sup>A&E</sup> || — || L’armure est considérée comme tangible et intangible à tout moment. || bonus de +3
-
-|- CLASS="premier"
-| *[[titanesque (propriété)|Titanesque]]* || <sup>A&E</sup> || Armures || Le porteur est considéré comme étant d’une catégorie de taille de plus à tout moment. Une fois par jour, peut augmenter la taille du porteur d’une catégorie pendant 1 minute (comme avec *[[agrandissement]]*). Une fois par minute, peut ajouter le bonus d’altération de l’armure à un test de [[Force]], de [[BMO]] ou au [[DMD]] du porteur. Augmente le malus d’armure aux tests de l’armure du même montant. || bonus de +3
-|}
 </center>
 
 
 #### Propriétés ajoutant un bonus de +4
 <center>
-{| CLASS="tablo autoalt toutgauche" WIDTH="100%"
-|+ Propriétés ajoutant un bonus de +4
-|- CLASS="titre"
-| WIDTH="12%" | Propriété
-| WIDTH="3%" | Source
-| WIDTH="11%" | Restrictions
-| WIDTH="61%" | Capacités
-| WIDTH="13%" | Modificateur au prix de base
 
-|- CLASS="premier"
-| *[[négation (propriété)|Négation]]* || <sup>CMy</sup> || Armures lourdes || Une fois par jour, peut annuler les dégâts supplémentaires d’un [[coup critique]] ou d’une [[attaque sournoise]] subie par le porteur (le porteur peut dépenser deux utilisations de [[pouvoir mythique]] pour utiliser ce pouvoir plus d’une fois par jour). || bonus de +4
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>Propriétés ajoutant un bonus de +4</caption><tr CLASS="titre"><td WIDTH="12%">Propriété</td><td WIDTH="3%">Source</td><td WIDTH="11%">Restrictions</td><td WIDTH="61%">Capacités</td><td WIDTH="13%">Modificateur au prix de base</td></tr><tr CLASS="premier"><td>*[[négation (propriété)|Négation]]*</td><td><sup>CMy</sup></td><td>Armures lourdes</td><td>Une fois par jour, peut annuler les dégâts supplémentaires d’un [[coup critique]] ou d’une [[attaque sournoise]] subie par le porteur (le porteur peut dépenser deux utilisations de [[pouvoir mythique]] pour utiliser ce pouvoir plus d’une fois par jour).</td><td>bonus de +4</td></tr><tr CLASS="premier"><td>*[[rempart (propriété)|Rempart]]*</td><td><sup>*AMH*</sup></td><td>Écus et pavois</td><td>Chaque fois que le porteur échoue un jet de [[Volonté]] contre un effet mental, le bouclier neutralise cet effet pendant un nombre de rounds égal à son bonus d'altération.</td><td>bonus de +4</td></tr><tr CLASS="premier"><td>*[[résistance à la magie 17 (propriété)|Résistance à la magie (17)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Confère une [[RM]] de 17.</td><td>bonus de +4</td></tr></table>
 
-|- CLASS="premier"
-| *[[rempart (propriété)|Rempart]]* || <sup>*AMH*</sup> || Écus et pavois || Chaque fois que le porteur échoue un jet de [[Volonté]] contre un effet mental, le bouclier neutralise cet effet pendant un nombre de rounds égal à son bonus d'altération. || bonus de +4
-
-|- CLASS="premier"
-| *[[résistance à la magie 17 (propriété)|Résistance à la magie (17)]]* || <sup>A&E</sup> || — || Confère une [[RM]] de 17. || bonus de +4
-|}
 </center>
 
 #### Propriétés ajoutant un bonus de +5
 <center>
-{| CLASS="tablo autoalt toutgauche" WIDTH="100%"
-|+ Propriétés ajoutant un bonus de +5
-|- CLASS="titre"
-| WIDTH="12%" | Propriété
-| WIDTH="3%" | Source
-| WIDTH="11%" | Restrictions
-| WIDTH="61%" | Capacités
-| WIDTH="13%" | Modificateur au prix de base
 
-|- CLASS="premier"
-| *[[aile deffroi (propriété)|Aile d'effroi]]* || <sup>*AMH*</sup> || Harnois et armures de Légionnaire infernal || L'armure peut se transformer en ailes de dragon, réduisant son bonus d'armure de moitié mais permettant au porteur de voler et de porter deux attaques naturelles secondaires d'aile. || bonus de +5
+<table CLASS="tablo autoalt toutgauche" WIDTH="100%"><caption>Propriétés ajoutant un bonus de +5</caption><tr CLASS="titre"><td WIDTH="12%">Propriété</td><td WIDTH="3%">Source</td><td WIDTH="11%">Restrictions</td><td WIDTH="61%">Capacités</td><td WIDTH="13%">Modificateur au prix de base</td></tr><tr CLASS="premier"><td>*[[aile deffroi (propriété)|Aile d'effroi]]*</td><td><sup>*AMH*</sup></td><td>Harnois et armures de Légionnaire infernal</td><td>L'armure peut se transformer en ailes de dragon, réduisant son bonus d'armure de moitié mais permettant au porteur de voler et de porter deux attaques naturelles secondaires d'aile.</td><td>bonus de +5</td></tr><tr CLASS="premier"><td>*[[défense lourde (propriété)|Défense (lourde)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Le porteur a 75 % de chances d’ignorer les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises.</td><td>bonus de +5</td></tr><tr CLASS="premier"><td>*[[inflexible (propriété)|Inflexible]]*</td><td><sup>*AMH*</sup></td><td>Armures lourdes</td><td>Annule les prochains dégâts qui devraient réduire les points de vie du porteur à 0 ou moins, ce qui détruit l'armure et inflige des dégâts perforants aux créatures dans un rayon de 3 m.</td><td>bonus de +5</td></tr><tr CLASS="premier"><td>*[[réfléchissante (propriété)|Réfléchissante]]*</td><td><sup>A&E</sup></td><td>Boucliers</td><td>Une fois par jour, peut renvoyer un sort qui le cible au lanceur (comme avec *[[renvoi des sorts]]*).</td><td>bonus de +5</td></tr><tr CLASS="premier"><td>*[[résistance à la magie 19 (propriété)|Résistance à la magie (19)]]*</td><td><sup>A&E</sup></td><td>—</td><td>Confère une [[RM]] de 19.</td><td>bonus de +5</td></tr></table>
 
-|- CLASS="premier"
-| *[[défense lourde (propriété)|Défense (lourde)]]* || <sup>A&E</sup> || — || Le porteur a 75 % de chances d’ignorer les dégâts supplémentaires infligés par les coups critiques et les attaques sournoises. || bonus de +5
-
-|- CLASS="premier"
-| *[[inflexible (propriété)|Inflexible]]* || <sup>*AMH*</sup> || Armures lourdes || Annule les prochains dégâts qui devraient réduire les points de vie du porteur à 0 ou moins, ce qui détruit l'armure et inflige des dégâts perforants aux créatures dans un rayon de 3 m. || bonus de +5
-
-|- CLASS="premier"
-| *[[réfléchissante (propriété)|Réfléchissante]]* || <sup>A&E</sup> || Boucliers || Une fois par jour, peut renvoyer un sort qui le cible au lanceur (comme avec *[[renvoi des sorts]]*). || bonus de +5
-
-|- CLASS="premier"
-| *[[résistance à la magie 19 (propriété)|Résistance à la magie (19)]]* || <sup>A&E</sup> || — || Confère une [[RM]] de 19. || bonus de +5
-|}
 </center>

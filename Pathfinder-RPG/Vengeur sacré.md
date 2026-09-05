@@ -14,53 +14,9 @@ Categories:
 Les vengeurs sacrés sont souvent des prêtres ou des guerriers/prêtres mais bien des paladins (ou même des paladins/prêtres) choisissent également cette voie. Dans tous les cas, elle leur offre la possibilité d’affiner leurs dons de combattants et de le mêler à la puissance de leur ministère.''
 
 <center>
-{| CLASS="tablo"
-|+ Le vengeur sacré
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +1
-| CLASS="gauche" | [[vengeur sacré#CANALISATIONDENERGIE|Canalisation d’énergie]], [[vengeur sacré#BOUCLIERDUVENGEUR|bouclier du vengeur]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[vengeur sacré#STIGMATE|Stigmate]]
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|-
-| 3 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (extension d’effet)
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +2
-| CLASS="gauche" | [[vengeur sacré#COLEREDIVINE|Colère divine]]
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|-
-| 5 || +5 || +2 || +3 || +3
-| CLASS="gauche" | [[vengeur sacré#SANGENFLAMME|Sang enflammé]], [[vengeur sacré#CHATIMENTALIGNE|Châtiment aligné]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +3
-| CLASS="gauche" | [[vengeur sacré#CANALISATIONPOLYVALENTE|Canalisation polyvalente]]
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|-
-| 7 || +7 || +2 || +4 || +4
-| CLASS="gauche" | [[vengeur sacré#JUGEMENTDIVIN|Jugement divin]]
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +4
-| CLASS="gauche" | [[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (quintessence)
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|-
-| 9 || +9 || +3 || +5 || +5
-| CLASS="gauche" | [[vengeur sacré#PLUIEDESANG|Pluie de sang]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 10 || +10 || +3 || +5 || +5
-| CLASS="gauche" | [[vengeur sacré#VENGEANCEDIVINE|Vengeance divine]]
-| CLASS="gauche" | +1 niveau dans une classe de lanceur de sorts divins
-|}
+
+<table CLASS="tablo"><caption>Le vengeur sacré</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[vengeur sacré#CANALISATIONDENERGIE|Canalisation d’énergie]], [[vengeur sacré#BOUCLIERDUVENGEUR|bouclier du vengeur]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[vengeur sacré#STIGMATE|Stigmate]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (extension d’effet)</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[vengeur sacré#COLEREDIVINE|Colère divine]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[vengeur sacré#SANGENFLAMME|Sang enflammé]], [[vengeur sacré#CHATIMENTALIGNE|Châtiment aligné]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[vengeur sacré#CANALISATIONPOLYVALENTE|Canalisation polyvalente]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[vengeur sacré#JUGEMENTDIVIN|Jugement divin]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[vengeur sacré#GUERISONMIRACULEUSE|Guérison miraculeuse]] (quintessence)</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[vengeur sacré#PLUIEDESANG|Pluie de sang]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[vengeur sacré#VENGEANCEDIVINE|Vengeance divine]]</td><td CLASS="gauche">+1 niveau dans une classe de lanceur de sorts divins</td></tr></table>
+
 </center>
 
 **Rôle.** Le vengeur sacré a des pouvoirs de lanceur de sorts substantiels mais pas aussi concentrés que ceux d’un [[prêtre]] ou d’un [[paladin]]. Il possède des talents de combattant importants et ses pouvoirs de guérison sont prodigieux. Toute personne dont les croyances correspondent à celle du vengeur trouvera en lui un excellent allié.

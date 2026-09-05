@@ -25,50 +25,14 @@ Voir aussi : [[Aides de jeu AP13|La Colère des Justes]], [[Golarion.Plaie du mo
 
 </div>
 </td><td><div class="BD">
-{| CLASS="tablo"
-|+ Climat dans la plaie du monde
-|- CLASS="titre"
-| _d100_ || Résultat
-|- CLASS="premier"
-| 01-30 || Climat normal
-|-
-| 31-50 || Précipitation normales
-|-
-| 51-56 || Tempête de vent
-|-
-| 57-60 || Orage (acide, froid, électricité, feu ou son]
-|-
-| 61-70 || Vague de Chaleur (Froid en Bourbegelée)
-|-
-| 71-80 || Tempête de cendre (Blizzard en Bourbegelée)
-|-
-| 81-90 || Grêle composée de dents, d'insectes gémissants, d'éclat de cristal déchiquetés, de pointes de flèches, de globes oculaires gelés, ou autres éléments effrayants)
-|-
-| 91-94 || Tempête de vent ou orage avec des tornades
-|-
-| 95 || Tempête de vent ou orage avec des tornades provoquant l'ouverture de 1d3 failles abyssales
-|-
-| 96-98 || Ouragan avec [[Pathfinder-RPG.Tempête vengeresse|tempêtes vengeresses]] localisées
-|-
-| 99-00 || Tempête abyssale
-|}
+
+<table CLASS="tablo"><caption>Climat dans la plaie du monde</caption><tr CLASS="titre"><td>_d100_</td><td>Résultat</td></tr><tr CLASS="premier"><td>01-30</td><td>Climat normal</td></tr><tr><td>31-50</td><td>Précipitation normales</td></tr><tr><td>51-56</td><td>Tempête de vent</td></tr><tr><td>57-60</td><td>Orage (acide, froid, électricité, feu ou son]</td></tr><tr><td>61-70</td><td>Vague de Chaleur (Froid en Bourbegelée)</td></tr><tr><td>71-80</td><td>Tempête de cendre (Blizzard en Bourbegelée)</td></tr><tr><td>81-90</td><td>Grêle composée de dents, d'insectes gémissants, d'éclat de cristal déchiquetés, de pointes de flèches, de globes oculaires gelés, ou autres éléments effrayants)</td></tr><tr><td>91-94</td><td>Tempête de vent ou orage avec des tornades</td></tr><tr><td>95</td><td>Tempête de vent ou orage avec des tornades provoquant l'ouverture de 1d3 failles abyssales</td></tr><tr><td>96-98</td><td>Ouragan avec [[Pathfinder-RPG.Tempête vengeresse|tempêtes vengeresses]] localisées</td></tr><tr><td>99-00</td><td>Tempête abyssale</td></tr></table>
+
 </div>
 
 <div class="BD">
-{| CLASS="tablo"
-|+ Afflictions dans la plaie du monde
-|- CLASS="titre"
-| d100 || Nourriture || Eau
-|- CLASS="premier"
-| 01-40 || [[Pathfinder-RPG.Maladies#DEMONITE|Démonite]] || [[Pathfinder-RPG.Maladies#DEMONITE|Démonite]]
-|-
-| 41-60 || [[Pathfinder-RPG.santé mentale#PSYCHOSE|Psychose]] || Vers intestinaux
-|-
-| 61-90 || [[Pathfinder-RPG.Plaies|Plaies (Mineure)]] || [[Pathfinder-RPG.Maladies#MALAVEUGLANT|Mal aveuglant]]
-|-
-| 91-95 || [[Pathfinder-RPG.Plaies|Plaies (Majeure)]] || [[Pathfinder-RPG.Maladies#PESTEINFERNALE|Peste démoniaque]]
-|-
-| 96-100 || affliction de l'eau || affliction de la nourriture
-|}
+
+<table CLASS="tablo"><caption>Afflictions dans la plaie du monde</caption><tr CLASS="titre"><td>d100</td><td>Nourriture</td><td>Eau</td></tr><tr CLASS="premier"><td>01-40</td><td>[[Pathfinder-RPG.Maladies#DEMONITE|Démonite]]</td><td>[[Pathfinder-RPG.Maladies#DEMONITE|Démonite]]</td></tr><tr><td>41-60</td><td>[[Pathfinder-RPG.santé mentale#PSYCHOSE|Psychose]]</td><td>Vers intestinaux</td></tr><tr><td>61-90</td><td>[[Pathfinder-RPG.Plaies|Plaies (Mineure)]]</td><td>[[Pathfinder-RPG.Maladies#MALAVEUGLANT|Mal aveuglant]]</td></tr><tr><td>91-95</td><td>[[Pathfinder-RPG.Plaies|Plaies (Majeure)]]</td><td>[[Pathfinder-RPG.Maladies#PESTEINFERNALE|Peste démoniaque]]</td></tr><tr><td>96-100</td><td>affliction de l'eau</td><td>affliction de la nourriture</td></tr></table>
+
 </div>
 </td></tr></table>

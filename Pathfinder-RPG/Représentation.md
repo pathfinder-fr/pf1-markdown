@@ -31,29 +31,11 @@ Chacune des neuf formes de Représentation inclut une grande variété de métho
 Le talent du personnage lui permet de divertir son public et d’en vivre.
 
 <center>
-{| CLASS="tablo" WIDTH="90%"
-|+ Tests de représentation
-|- CLASS="titre"
-| Résultat du   
+
+<table CLASS="tablo" WIDTH="90%"><caption>Tests de représentation</caption><tr CLASS="titre"><td>Résultat du   
 test de   
-Représentation
-| CLASS="gauche" | Qualité de la prestation
-|- CLASS="premier"
-| 10
-| CLASS="gauche" | **Quelconque.** Le personnage ferait tout aussi bien de mendier. Il gagne 1d10 pc par jour.
-|- CLASS="alt"
-| 15
-| CLASS="gauche" | **Agréable.** Dans une ville prospère, le personnage gagne 1d10 pa par jour.
-|-
-| 20
-| CLASS="gauche" | **Superbe.** Dans une ville prospère, le personnage gagne 3d10 pa par jour. Au bout d’un certain temps, on l’invitera peut-être à se joindre à une troupe professionnelle et il pourrait acquérir une réputation au niveau local.
-|- CLASS="alt"
-| 25
-| CLASS="gauche" | **Mémorable.** Dans une ville prospère, le personnage gagne 1d6 po par jour. Au bout d’un certain temps, il se fera peut- être remarquer par des mécènes nobles et il pourrait acquérir une réputation au niveau national.
-|-
-| 30
-| CLASS="gauche" | **Sublime.** Dans une ville prospère, le personnage gagne 3d6 po par jour. Au bout d’un certain temps, il se fera peut-être remarquer par des mécènes étrangers, voire par des créatures provenant d’autres plans.
-|}
+Représentation</td><td CLASS="gauche">Qualité de la prestation</td></tr><tr CLASS="premier"><td>10</td><td CLASS="gauche">**Quelconque.** Le personnage ferait tout aussi bien de mendier. Il gagne 1d10 pc par jour.</td></tr><tr CLASS="alt"><td>15</td><td CLASS="gauche">**Agréable.** Dans une ville prospère, le personnage gagne 1d10 pa par jour.</td></tr><tr><td>20</td><td CLASS="gauche">**Superbe.** Dans une ville prospère, le personnage gagne 3d10 pa par jour. Au bout d’un certain temps, on l’invitera peut-être à se joindre à une troupe professionnelle et il pourrait acquérir une réputation au niveau local.</td></tr><tr CLASS="alt"><td>25</td><td CLASS="gauche">**Mémorable.** Dans une ville prospère, le personnage gagne 1d6 po par jour. Au bout d’un certain temps, il se fera peut- être remarquer par des mécènes nobles et il pourrait acquérir une réputation au niveau national.</td></tr><tr><td>30</td><td CLASS="gauche">**Sublime.** Dans une ville prospère, le personnage gagne 3d6 po par jour. Au bout d’un certain temps, il se fera peut-être remarquer par des mécènes étrangers, voire par des créatures provenant d’autres plans.</td></tr></table>
+
 </center>
 
 Un [[Trousses doutils et de compétences#Instrument de musique|instrument de musique de maître]] confère un bonus de circonstances de +2 aux tests de Représentation chaque fois que le personnage l’utilise.

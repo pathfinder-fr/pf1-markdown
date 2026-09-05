@@ -13,39 +13,11 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|+ Les portes
-|- CLASS="titre"
-| ROWSPAN="2" | Type de porte
-| ROWSPAN="2" | Épaisseur
-| ROWSPAN="2" | [[Solidité]]
-| ROWSPAN="2" | Points   
-de vie
-| COLSPAN="2" CLASS="avecsoustitre" | DD pour enfoncer
-|- CLASS="soustitre"
-| coincée || verrouillée
-|- CLASS="premier"
-| Bois, normale || 2,5 cm || 5 || 10 || 13 || 15
-|- CLASS="alt"
-| Bois, solide || 4 cm || 5 || 15 || 16 || 18
-|-
-| Bois, épaisse || 5 cm || 5 || 20 || 23 || 25
-|- CLASS="alt"
-| Pierre || 10 cm || 8 || 60 || 28 || 28
-|-
-| Fer || 5 cm || 10 || 60 || 28 || 28
-|- CLASS="alt"
-| Herse, bois || 7,5 cm || 5 || 30 || 25* || 25*
-|-
-| Herse, fer || 5 cm || 10 || 60 || 25* || 25*
-|- CLASS="alt"
-| Serrure || — || 15 || 30 || &nbsp; || &nbsp;
-|-
-| Gond || — || 10 || 30 || &nbsp; || &nbsp;
-|-
-| COLSPAN="6" CLASS="note" | *(*) [[DD]] pour soulever. Utilisez le DD du type de porte correspondant  
- au matériau de construction de la herse pour l’enfoncer.*
-|}
+
+<table CLASS="tablo"><caption>Les portes</caption><tr CLASS="titre"><td ROWSPAN="2">Type de porte</td><td ROWSPAN="2">Épaisseur</td><td ROWSPAN="2">[[Solidité]]</td><td ROWSPAN="2">Points   
+de vie</td><td COLSPAN="2" CLASS="avecsoustitre">DD pour enfoncer</td></tr><tr CLASS="soustitre"><td>coincée</td><td>verrouillée</td></tr><tr CLASS="premier"><td>Bois, normale</td><td>2,5 cm</td><td>5</td><td>10</td><td>13</td><td>15</td></tr><tr CLASS="alt"><td>Bois, solide</td><td>4 cm</td><td>5</td><td>15</td><td>16</td><td>18</td></tr><tr><td>Bois, épaisse</td><td>5 cm</td><td>5</td><td>20</td><td>23</td><td>25</td></tr><tr CLASS="alt"><td>Pierre</td><td>10 cm</td><td>8</td><td>60</td><td>28</td><td>28</td></tr><tr><td>Fer</td><td>5 cm</td><td>10</td><td>60</td><td>28</td><td>28</td></tr><tr CLASS="alt"><td>Herse, bois</td><td>7,5 cm</td><td>5</td><td>30</td><td>25*</td><td>25*</td></tr><tr><td>Herse, fer</td><td>5 cm</td><td>10</td><td>60</td><td>25*</td><td>25*</td></tr><tr CLASS="alt"><td>Serrure</td><td>—</td><td>15</td><td>30</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Gond</td><td>—</td><td>10</td><td>30</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td COLSPAN="6" CLASS="note">*(*) [[DD]] pour soulever. Utilisez le DD du type de porte correspondant  
+ au matériau de construction de la herse pour l’enfoncer.*</td></tr></table>
+
 </center></div></div>
 Dans un donjon, les portes sont bien plus que de simples entrées ou sorties. Bien souvent, elles deviennent des rencontres à part entière. Il existe trois types de portes : en bois, en pierre ou en fer.
 

@@ -45,55 +45,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de géant
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Géant de cendre]] || 11
-|-
-| [[Géant de la jungle]] || 10
-|-
-| [[Géant de la lune]] || 15
-|-
-| [[Géant de la taïga]] || 12
-|-
-| [[Géant de lombre|Géant de l'ombre]] || 13
-|-
-| [[Géant de pierre]] || 8
-|-
-| [[Géant des bois]] || 6
-|-
-| [[Géant des collines]] || 7
-|-
-| [[Géant des falaises]] || 9
-|-
-| [[Géant des grottes]] || 6
-|-
-| [[Géant des marais]] || 8
-|-
-| [[Géant des nuages]] || 11
-|-
-| [[Géant des océans]] || 14
-|-
-| [[Géant des rivières]] || 6
-|-
-| [[Géant des runes]] || 17
-|-
-| [[Géant des scories]] || 7
-|-
-| [[Géant des tempêtes]] || 13
-|-
-| [[Géant des éclipses]] || 19
-|-
-| [[Géant du désert]] || 9
-|-
-| [[Géant du feu]] || 10
-|-
-| [[Géant du froid]] || 9
-|-
-| [[Géant du soleil]] || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de géant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Géant de cendre]]</td><td>11</td></tr><tr><td>[[Géant de la jungle]]</td><td>10</td></tr><tr><td>[[Géant de la lune]]</td><td>15</td></tr><tr><td>[[Géant de la taïga]]</td><td>12</td></tr><tr><td>[[Géant de lombre|Géant de l'ombre]]</td><td>13</td></tr><tr><td>[[Géant de pierre]]</td><td>8</td></tr><tr><td>[[Géant des bois]]</td><td>6</td></tr><tr><td>[[Géant des collines]]</td><td>7</td></tr><tr><td>[[Géant des falaises]]</td><td>9</td></tr><tr><td>[[Géant des grottes]]</td><td>6</td></tr><tr><td>[[Géant des marais]]</td><td>8</td></tr><tr><td>[[Géant des nuages]]</td><td>11</td></tr><tr><td>[[Géant des océans]]</td><td>14</td></tr><tr><td>[[Géant des rivières]]</td><td>6</td></tr><tr><td>[[Géant des runes]]</td><td>17</td></tr><tr><td>[[Géant des scories]]</td><td>7</td></tr><tr><td>[[Géant des tempêtes]]</td><td>13</td></tr><tr><td>[[Géant des éclipses]]</td><td>19</td></tr><tr><td>[[Géant du désert]]</td><td>9</td></tr><tr><td>[[Géant du feu]]</td><td>10</td></tr><tr><td>[[Géant du froid]]</td><td>9</td></tr><tr><td>[[Géant du soleil]]</td><td>16</td></tr></table>
+
 </div>*D’amples vêtements dissimulent les traits gravés par le sable de ce géant dégingandé. Il tient, dans chacune de ses mains, un cimeterre presque aussi grand qu’un humain.*
 
 Les géants du désert sillonnent les déserts de sable majestueux et désolés, ne vivant que rarement dans des camps permanents. Ils voyagent d’une oasis à l’autre, dormant à la belle étoile ou dans des yourtes facilement démontables, levant le camp selon leurs envies ou quand les sources de nourriture se font plus rares.

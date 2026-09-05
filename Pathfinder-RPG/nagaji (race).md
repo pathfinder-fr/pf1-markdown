@@ -63,20 +63,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux nagajis, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Arrachage sauvage]]</td><td><sup>*ISR*</sup></td><td>Attaque de [[Attaques naturelles (capacité)|morsure]], sous-type [[sous-type reptilien|reptilien]]</td><td>Effectue un arrachage sauvage après un test de lutte réussit pour mettre la cible à terre</td></tr><tr CLASS="premier"><td>[[Crachat venimeux (nagaji)]]*</td><td><sup>MR</sup></td><td>[[Nagaji (race)|Nagaji]]</td><td>Le nagaji peut cracher son venin sur une courte distance</td></tr></table>
 
-|- CLASS="premier"
-| [[Arrachage sauvage]] || <sup>*ISR*</sup> || Attaque de [[Attaques naturelles (capacité)|morsure]], sous-type [[sous-type reptilien|reptilien]] || Effectue un arrachage sauvage après un test de lutte réussit pour mettre la cible à terre
-
-|- CLASS="premier"
-| [[Crachat venimeux (nagaji)]]* || <sup>MR</sup> || [[Nagaji (race)|Nagaji]] || Le nagaji peut cracher son venin sur une courte distance
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

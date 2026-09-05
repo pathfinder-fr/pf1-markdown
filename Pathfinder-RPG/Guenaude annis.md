@@ -41,25 +41,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de guenaude
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Guenaude annis]] || 6
-|-
-| [[Guenaude arctique]] || 7
-|-
-| [[Guenaude de sang]] || 8
-|-
-| [[Guenaude des tempêtes]] || 7
-|-
-| [[Guenaude marine]] || 4
-|-
-| [[Guenaude noire]] || 9
-|-
-| [[Guenaude verte]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de guenaude</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Guenaude annis]]</td><td>6</td></tr><tr><td>[[Guenaude arctique]]</td><td>7</td></tr><tr><td>[[Guenaude de sang]]</td><td>8</td></tr><tr><td>[[Guenaude des tempêtes]]</td><td>7</td></tr><tr><td>[[Guenaude marine]]</td><td>4</td></tr><tr><td>[[Guenaude noire]]</td><td>9</td></tr><tr><td>[[Guenaude verte]]</td><td>5</td></tr></table>
+
 </div>*La peau de cette vieille sorcière répugnante et bossue a la couleur d’un hématome. Malgré son dos voûté, elle est bien plus grande qu’un humain. *
 
 Aussi appelées guenaudes sombres ou guenaudes de fer, les guenaudes annis sont les plus imposantes et les plus intimidantes (physiquement) de leur immonde sororité. Connues pour avoir une peau couverte de verrues et aussi dure que le fer, dont la couleur varie du bleu foncé au noir, et pour leurs griffes ressemblant à des lames rouillées, les guenaudes annis ont abandonné le caractère fourbe et trompeur de leurs semblables pour se délecter d’infamies plus viscérales comme la torture et le massacre. La guenaude annis mesure en moyenne un peu plus de 2,40 m et pèse environ 150 kilos.

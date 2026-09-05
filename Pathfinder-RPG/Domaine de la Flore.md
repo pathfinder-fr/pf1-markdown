@@ -30,27 +30,5 @@ Le personnage se sent bien au sein des végétaux. Il peut développer des épin
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Flore
-| Sous-domaine de la Croissance || Sous-domaine de la Pourriture
-|- CLASS="premier"
-| 1er || *[[enchevêtrement]]* || *[[agrandissement]]* || *idem*
-|-
-| 2e || *[[peau décorce|peau d’écorce]]* || *idem* || *idem*
-|-
-| 3e || *[[croissance végétale]]* || *idem* || *[[contagion]]*
-|-
-| 4e || *[[empire végétal]]* || *idem* || *[[empoisonnement]]*
-|-
-| 5e || *[[mur dépines|mur d’épines]]* || *[[force du colosse]]* || *idem*
-|-
-| 6e || *[[éloignement du bois]]* || *idem* || *[[mise à mal]]*
-|-
-| 7e || *[[animation des plantes]] || *idem* || *idem''
-|-
-| 8e || *[[contrôle des plantes]]* || *idem* || *idem*
-|-
-| 9e || *[[grand tertre]] || *idem* || *idem''
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Flore</td><td>Sous-domaine de la Croissance</td><td>Sous-domaine de la Pourriture</td></tr><tr CLASS="premier"><td>1er</td><td>*[[enchevêtrement]]*</td><td>*[[agrandissement]]*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[peau décorce|peau d’écorce]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[croissance végétale]]*</td><td>*idem*</td><td>*[[contagion]]*</td></tr><tr><td>4e</td><td>*[[empire végétal]]*</td><td>*idem*</td><td>*[[empoisonnement]]*</td></tr><tr><td>5e</td><td>*[[mur dépines|mur d’épines]]*</td><td>*[[force du colosse]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[éloignement du bois]]*</td><td>*idem*</td><td>*[[mise à mal]]*</td></tr><tr><td>7e</td><td>''[[animation des plantes]]</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[contrôle des plantes]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>''[[grand tertre]]</td><td>*idem*</td><td>*idem*</td></tr></table>

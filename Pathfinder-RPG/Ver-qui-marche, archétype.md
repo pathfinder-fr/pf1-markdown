@@ -36,27 +36,9 @@ Categories:
 - **Dons.** Un ver-qui-marche gagne le don [[Dur à cuire]] comme don supplémentaire.
 
 <center>
-{| CLASS="tablo" WIDTH="100%"
-|+ Dégâts de l'enveloppement
-|- CLASS="titre"
-| class="gauche" | DV
-| Dégâts de l'enveloppement
-|- CLASS="premier"
-| class="gauche" | 1-5
-| 1d6 + 1,5 fois le bonus de [[Force]]
-|- CLASS="alt"
-| class="gauche" | 6-10
-| 2d6 + 1,5 fois le bonus de [[Force]]
-|-
-| class="gauche" | 11-15
-| 3d6 + 1,5 fois le bonus de [[Force]]
-|- CLASS="alt"
-| class="gauche" | 16-20
-| 4d6 + 1,5 fois le bonus de [[Force]]
-|-
-| class="gauche" | 21 ou plus
-| 5d6 + 1,5 fois le bonus de [[Force]]
-|}
+
+<table CLASS="tablo" WIDTH="100%"><caption>Dégâts de l'enveloppement</caption><tr CLASS="titre"><td class="gauche">DV</td><td>Dégâts de l'enveloppement</td></tr><tr CLASS="premier"><td class="gauche">1-5</td><td>1d6 + 1,5 fois le bonus de [[Force]]</td></tr><tr CLASS="alt"><td class="gauche">6-10</td><td>2d6 + 1,5 fois le bonus de [[Force]]</td></tr><tr><td class="gauche">11-15</td><td>3d6 + 1,5 fois le bonus de [[Force]]</td></tr><tr CLASS="alt"><td class="gauche">16-20</td><td>4d6 + 1,5 fois le bonus de [[Force]]</td></tr><tr><td class="gauche">21 ou plus</td><td>5d6 + 1,5 fois le bonus de [[Force]]</td></tr></table>
+
 </center>
 </div></td>
 <td><div>Voir un exemple : le [[ver-qui-marche|ver-qui-marche humain]].

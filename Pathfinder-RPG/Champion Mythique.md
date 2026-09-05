@@ -19,32 +19,9 @@ plus utiles et plus attractives pour ceux qui maîtrisent le combat au corps à 
 ### Caractéristiques du champion
 <div style="float:right; background-color: #fff; padding: 0 0 8px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|TABLECHAMPION}Le champion
-|- CLASS="titre"
-| Grade || Caractéristiques de la voie
-|- CLASS="premier"
-| 1 || [[Champion mythique#FRAPPEDUCHAMPION|Frappe du champion]], [[Champion Mythique#APTITUDEDEVOIE|aptitude de voie]]
-|-
-| 2 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 3 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 4 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 5 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 6 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 7 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 8 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 9 || [[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]
-|-
-| 10 || [[Champion Mythique#CHAMPIONEGENDAIRE|Champion légendaire]], [[Champion Mythique#APTITUDEDEVOIE|aptitude de voie]]
-|-
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLECHAMPION}Le champion</caption><tr CLASS="titre"><td>Grade</td><td>Caractéristiques de la voie</td></tr><tr CLASS="premier"><td>1</td><td>[[Champion mythique#FRAPPEDUCHAMPION|Frappe du champion]], [[Champion Mythique#APTITUDEDEVOIE|aptitude de voie]]</td></tr><tr><td>2</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>3</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>4</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>5</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>6</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>7</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>8</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>9</td><td>[[Champion Mythique#APTITUDEDEVOIE|Aptitude de voie]]</td></tr><tr><td>10</td><td>[[Champion Mythique#CHAMPIONEGENDAIRE|Champion légendaire]], [[Champion Mythique#APTITUDEDEVOIE|aptitude de voie]]</td></tr></table>
+
 </div></div>Au fur et à mesure que le champion monte en [[grade|grades]], il obtient les aptitudes suivantes :
 
 {s:Reference|FRAPPEDUCHAMPION}

@@ -13,59 +13,19 @@ Categories:
 Les théurges mystiques sont issus des rangs des lanceurs de sorts multiclassés qui utilisent déjà les magies profane et divine, et les pouvoirs qu'ils en retirent augmentent leur maîtrise sur les deux.''
 
 <center>
-{| CLASS="tablo"
-|+ Le théurge mystique
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (1<sup>er</sup>)
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1 || &nbsp;
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (2<sup>e</sup>)
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2 || &nbsp;
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (3<sup>e</sup>)
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +3 || &nbsp;
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (4<sup>e</sup>)
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|- CLASS="alt"
-| 8 || +4 || +3 || +3 || +4 || &nbsp;
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|-
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | [[théurge mystique#SORTSCOMBINES|Sorts combinés]] (5<sup>e</sup>)
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|- CLASS="alt"
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[théurge mystique#SYNTHESEDESORTILEGES|Synthèse de sortilèges]]
-| CLASS="gauche" | [[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
-profanes et divins existantes]]
-|}
+
+<table CLASS="tablo"><caption>Le théurge mystique</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (1<sup>er</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (2<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (3<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (4<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td>&nbsp;</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[théurge mystique#SORTSCOMBINES|Sorts combinés]] (5<sup>e</sup>)</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[théurge mystique#SYNTHESEDESORTILEGES|Synthèse de sortilèges]]</td><td CLASS="gauche">[[théurge mystique#SORTS|+1 niveau dans les classes de lanceur de sorts   
+profanes et divins existantes]]</td></tr></table>
+
 </center>
 
 **Rôle.** Le théurge mystique est une puissante force de frappe pour n'importe quel groupe d'aventuriers. Il emploie sa magie pour l'attaque, la défense et les soins. Il voyage de par le monde à la recherche de reliques et d'artefacts, de savoir magique ou de révélations divines, et n'a aucun scrupule à s'allier à des aventuriers tant que les buts de ces derniers n'entrent pas directement en conflit avec les siens.

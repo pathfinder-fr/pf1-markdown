@@ -106,51 +106,9 @@ les bonus de ses tests de compétence si un ou plusieurs de ses modificateurs
 de caractéristique ont été augmentés lors de la première étape.
 
 
-{| CLASS="tablo centre"
-|+ LA PROGRESSION DES PERSONNAGES
-|- CLASS="titre"
-| Niveau de </br>personnage || Total des points </br>d’expérience || Augmentation de </br>caractéristique || Spécial
-|- CLASS="premier"
-| 1 || — || — || 1er don, avantage du thème
-|- CLASS="alt"
-| 2 || 1300 || — || —
-|-
-| 3 || 3300 || — || 2ème don
-|- CLASS="alt"
-| 4 || 6000 || — || —
-|-
-| 5 || 10000 || 1ère || 3ème don
-|- CLASS="alt"
-| 6 || 15000 || — || Avantage du thème
-|-
-| 7 || 23000 || — || 4ème don
-|- CLASS="alt"
-| 8 || 34000 || — || —
-|-
-| 9 || 50000 || — || 5ème don
-|- CLASS="alt"
-| 10 || 71000 || 2ème || —
-|-
-| 11 || 105000 || — || 6ème don
-|- CLASS="alt"
-| 12 || 145000 || — || Avantage du thème
-|-
-| 13 || 210000 || — || 7ème don
-|- CLASS="alt"
-| 14 || 295000 || — || —
-|-
-| 15 || 425000 || 3ème || 8ème don
-|- CLASS="alt"
-| 16 || 600000 || — || —
-|-
-| 17 || 850000 || — || 9ème don
-|- CLASS="alt"
-| 18 || 1200000 || — || Avantage du thème
-|-
-| 19 || 1700000 || — || 10ème don
-|- CLASS="alt"
-| 20 || 2400000 || 4ème || —
-|}
+
+<table CLASS="tablo centre"><caption>LA PROGRESSION DES PERSONNAGES</caption><tr CLASS="titre"><td>Niveau de </br>personnage</td><td>Total des points </br>d’expérience</td><td>Augmentation de </br>caractéristique</td><td>Spécial</td></tr><tr CLASS="premier"><td>1</td><td>—</td><td>—</td><td>1er don, avantage du thème</td></tr><tr CLASS="alt"><td>2</td><td>1300</td><td>—</td><td>—</td></tr><tr><td>3</td><td>3300</td><td>—</td><td>2ème don</td></tr><tr CLASS="alt"><td>4</td><td>6000</td><td>—</td><td>—</td></tr><tr><td>5</td><td>10000</td><td>1ère</td><td>3ème don</td></tr><tr CLASS="alt"><td>6</td><td>15000</td><td>—</td><td>Avantage du thème</td></tr><tr><td>7</td><td>23000</td><td>—</td><td>4ème don</td></tr><tr CLASS="alt"><td>8</td><td>34000</td><td>—</td><td>—</td></tr><tr><td>9</td><td>50000</td><td>—</td><td>5ème don</td></tr><tr CLASS="alt"><td>10</td><td>71000</td><td>2ème</td><td>—</td></tr><tr><td>11</td><td>105000</td><td>—</td><td>6ème don</td></tr><tr CLASS="alt"><td>12</td><td>145000</td><td>—</td><td>Avantage du thème</td></tr><tr><td>13</td><td>210000</td><td>—</td><td>7ème don</td></tr><tr CLASS="alt"><td>14</td><td>295000</td><td>—</td><td>—</td></tr><tr><td>15</td><td>425000</td><td>3ème</td><td>8ème don</td></tr><tr CLASS="alt"><td>16</td><td>600000</td><td>—</td><td>—</td></tr><tr><td>17</td><td>850000</td><td>—</td><td>9ème don</td></tr><tr CLASS="alt"><td>18</td><td>1200000</td><td>—</td><td>Avantage du thème</td></tr><tr><td>19</td><td>1700000</td><td>—</td><td>10ème don</td></tr><tr CLASS="alt"><td>20</td><td>2400000</td><td>4ème</td><td>—</td></tr></table>
+
 
 
 

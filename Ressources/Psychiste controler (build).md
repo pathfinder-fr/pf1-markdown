@@ -175,48 +175,5 @@ Une mention aux sorts create mindscape qui mérite a eux seul des guides entier 
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du druide caster
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || Psychiste || 0 || 1 || Talent (connaissance mystère) &nbsp;
-|-
-| 02 || Psychiste || 1 || 2 || &nbsp;
-|-
-| 03 || Psychiste || 2 || 3 || Eldritch Heritage (Lignage profane)&nbsp;
-|-
-| 04 || Psychiste  || 3 || 4 || Intelligence +1 &nbsp;
-|-
-| 05 || Psychiste  || 3 || 5 || Science de l'initiative&nbsp;
-|-
-| 06 || Psychiste || 4 || 6 || &nbsp;
-|-
-| 07 || Psychiste || 5 || 7 || Familier supérieur&nbsp;
-|-
-| 08 || Psychiste || 6 || 8 || Intelligence +1&nbsp;
-|-
-| 09 || Psychiste || 6 || 9 || Sort transperçant&nbsp;
-|-
-| 10 || Psychiste || 7 || 10 || &nbsp;
-|-
-| 11 || Psychiste || 8 || 11 || Incantation rapide&nbsp;
-|-
-| 12 || Psychiste || 9 || 12 || Intelligence +1&nbsp;
-|-
-| 13 || Psychiste || 9 || 13 || Sort persistant&nbsp;
-|-
-| 14 || Psychiste || 10 || 14 || &nbsp;
-|-
-| 15 || Psychiste || 11 || 15 || Perfection magique&nbsp;
-|-
-| 16 || Psychiste || 12 || 16 || Intelligence +1&nbsp;
-|-
-| 17 || Psychiste || 12 || 17 || Emplacement libre&nbsp;
-|-
-| 18 || Psychiste  || 13 || 18 || &nbsp;
-|-
-| 19 || Psychiste || 14 || 19 || Emplacement libre&nbsp;
-|-
-| 20 || Psychiste || 15 || 20 || Intelligence +1&nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du druide caster</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>Psychiste</td><td>0</td><td>1</td><td>Talent (connaissance mystère) &nbsp;</td></tr><tr><td>02</td><td>Psychiste</td><td>1</td><td>2</td><td>&nbsp;</td></tr><tr><td>03</td><td>Psychiste</td><td>2</td><td>3</td><td>Eldritch Heritage (Lignage profane)&nbsp;</td></tr><tr><td>04</td><td>Psychiste</td><td>3</td><td>4</td><td>Intelligence +1 &nbsp;</td></tr><tr><td>05</td><td>Psychiste</td><td>3</td><td>5</td><td>Science de l'initiative&nbsp;</td></tr><tr><td>06</td><td>Psychiste</td><td>4</td><td>6</td><td>&nbsp;</td></tr><tr><td>07</td><td>Psychiste</td><td>5</td><td>7</td><td>Familier supérieur&nbsp;</td></tr><tr><td>08</td><td>Psychiste</td><td>6</td><td>8</td><td>Intelligence +1&nbsp;</td></tr><tr><td>09</td><td>Psychiste</td><td>6</td><td>9</td><td>Sort transperçant&nbsp;</td></tr><tr><td>10</td><td>Psychiste</td><td>7</td><td>10</td><td>&nbsp;</td></tr><tr><td>11</td><td>Psychiste</td><td>8</td><td>11</td><td>Incantation rapide&nbsp;</td></tr><tr><td>12</td><td>Psychiste</td><td>9</td><td>12</td><td>Intelligence +1&nbsp;</td></tr><tr><td>13</td><td>Psychiste</td><td>9</td><td>13</td><td>Sort persistant&nbsp;</td></tr><tr><td>14</td><td>Psychiste</td><td>10</td><td>14</td><td>&nbsp;</td></tr><tr><td>15</td><td>Psychiste</td><td>11</td><td>15</td><td>Perfection magique&nbsp;</td></tr><tr><td>16</td><td>Psychiste</td><td>12</td><td>16</td><td>Intelligence +1&nbsp;</td></tr><tr><td>17</td><td>Psychiste</td><td>12</td><td>17</td><td>Emplacement libre&nbsp;</td></tr><tr><td>18</td><td>Psychiste</td><td>13</td><td>18</td><td>&nbsp;</td></tr><tr><td>19</td><td>Psychiste</td><td>14</td><td>19</td><td>Emplacement libre&nbsp;</td></tr><tr><td>20</td><td>Psychiste</td><td>15</td><td>20</td><td>Intelligence +1&nbsp;</td></tr></table>

@@ -31,51 +31,17 @@ Categories:
 {s:BDTexte|**Violente riposte (Ext).** Lorsqu’un jeune dragon souverain, ou un dragon plus âgé, reçoit les dégâts d’un [[Actions simples#COUPCRITIQUE|coup critique]] d’une [[Valeurs de combat#BONUSDATTAQUE|attaque de corps à corps]], il peut, par une [[action immédiate]], donner un coup de griffe ou de queue à la créature lui ayant infligé le coup critique.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de magma
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon souverain]] || &nbsp; || 11
-|-
-| [[Dragon souverain adulte]] || &nbsp; || 15
-|-
-| [[Dragon souverain vénérable]] || &nbsp; || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de magma</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon souverain]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon souverain adulte]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Dragon souverain vénérable]]</td><td>&nbsp;</td><td>20</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>''Ce magnifique dragon est couvert de superbes écailles d’or et ses cornes
 lui dessinent une couronne.''
 
 Gardiens de l’équilibre, les dragons souverains, ou longwangs ainsi qu’on les connaît, furent placés aux cieux par les dieux eux mêmes pour assurer l’harmonie universelle.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || Dissonance dogmatique || —
-|- CLASS="alt"
-| Très jeune || *[[détection du Mal|détection du Bien/Mal]]* || —
-|-
-| Jeune || Changement de forme, violente riposte || 1
-|- CLASS="alt"
-| Adolescent || *[[Apaisement des émotions]]*, [[Présence terrifiante (capacité)|présence terrifiante]] || 3
-|-
-| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]] || 5
-|- CLASS="alt"
-| Adulte || *[[Don des langues]]* || 7
-|-
-| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || Armure dorée, *[[résonance]]* || 11
-|-
-| Très vieux || [[Réduction de dégâts (capacité)|RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[Rayons prismatiques]]* || 15
-|-
-| Dracosire || [[Réduction de dégâts (capacité)|RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || Maître du contresort, *[[moment de prescience]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Dissonance dogmatique</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[détection du Mal|détection du Bien/Mal]]*</td><td>—</td></tr><tr><td>Jeune</td><td>Changement de forme, violente riposte</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Apaisement des émotions]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[Don des langues]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>Armure dorée, *[[résonance]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Rayons prismatiques]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Maître du contresort, *[[moment de prescience]]*</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

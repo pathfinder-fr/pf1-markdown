@@ -43,17 +43,9 @@ son nombre de points de vie atteint 0 ou moins et qu’il est toujours conscient
 cyclope recharge ce pouvoir, ce qui lui permet de l’utiliser une seconde fois le même jour.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cyclope
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cyclope]] || 5
-|-
-| [[Cyclope kabandha]] || 9
-|-
-| [[Grand cyclope]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cyclope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cyclope]]</td><td>5</td></tr><tr><td>[[Cyclope kabandha]]</td><td>9</td></tr><tr><td>[[Grand cyclope]]</td><td>12</td></tr></table>
+
 </div>*Cet humanoïde difforme mais incroyablement musclé n’a qu’un seul oeil énorme et injecté de sang placé au milieu de son front surmonté d’une courte corne irrégulière.*
 
 Géant dégénéré de la famille des cyclopes, le légendaire

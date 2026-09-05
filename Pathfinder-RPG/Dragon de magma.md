@@ -31,17 +31,9 @@ Categories:
 {s:ImageCentre|Bestiaire/Dragon de magma.jpg|90%}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de magma
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon de magma]] || &nbsp; || 8
-|-
-| [[Dragon de magma adulte]] || &nbsp; || 12
-|-
-| [[Dragon de magma vénérable]] || &nbsp; || 17
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de magma</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de magma]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon de magma adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon de magma vénérable]]</td><td>&nbsp;</td><td>17</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Des filets de lave et des veines incandescentes semblent serpenter entre les écailles noires de ce dragon ainsi que sur les membranes de ses ailes.*
 
 Les dragons de magma sont des créatures colériques et sujettes
@@ -55,35 +47,9 @@ justifier chacune de leurs réactions… mais ils ne
 prennent pas souvent la peine de le faire.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité contre le feu, [[vulnérabilités (capacité)|vulnérabilité]] au froid || —
-|- CLASS="alt"
-| Très jeune || *[[mains brûlantes]]* || —
-|-
-| Jeune || chaleur extrême || 1
-|- CLASS="alt"
-| Adolescent || *[[rayon ardent]]* || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || [[dragon#PRESENCETERRIFIANTE|présence terrifiante]], *[[mur de feu]]* || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || *[[bouclier de feu]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[boule de feu à retardement]]*, souffle de magma || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || chape de magma, *[[mur de lave]]*<sup>*</sup> || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité contre le feu, [[vulnérabilités (capacité)|vulnérabilité]] au froid</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[mains brûlantes]]*</td><td>—</td></tr><tr><td>Jeune</td><td>chaleur extrême</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[rayon ardent]]*</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>[[dragon#PRESENCETERRIFIANTE|présence terrifiante]], *[[mur de feu]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[bouclier de feu]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[boule de feu à retardement]]*, souffle de magma</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>chape de magma, *[[mur de lave]]*<sup>*</sup></td><td>19</td></tr></table>
+
 </center>
 </div>
 </td></tr></table>

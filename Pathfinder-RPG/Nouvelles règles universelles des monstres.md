@@ -74,23 +74,9 @@ Si le monstre possède un autre pouvoir (comme constriction) qui blesse la cible
 **Sang draconique (Sur).** Le sang et les autres fluides du dragon mythique sont investis d’acide, de froid, d’électricité ou de feu, selon le type d’énergie de son souffle. Chaque fois que le dragon est blessé par une arme perforante ou tranchante, la créature qui l’attaque reçoit les dégâts d’énergie correspondants, indiqués dans la table 6-6 : Dégâts du sang draconique (ou le double des dégâts si l’attaque est un coup critique). Le fait d’utiliser une arme avec une allonge protège l’attaquant contre ces blessures.
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Dégâts du sang draconique
-|- CLASS="titre"
-| Taille du dragon
-| Points de dégâts d’énergie
-|- CLASS="premier"
-| M ou plus petite || 1d4
-|-
-| G || 1d6
-|-
-| TG || 1d8
-|-
-| Gig || 2d6
-|-
-| C || 2d8
-|-
-|}
+
+<table CLASS="tablo autoalt toutgauche"><caption>Dégâts du sang draconique</caption><tr CLASS="titre"><td>Taille du dragon</td><td>Points de dégâts d’énergie</td></tr><tr CLASS="premier"><td>M ou plus petite</td><td>1d4</td></tr><tr><td>G</td><td>1d6</td></tr><tr><td>TG</td><td>1d8</td></tr><tr><td>Gig</td><td>2d6</td></tr><tr><td>C</td><td>2d8</td></tr></table>
+
 </center>
 
 Si le dragon a le pouvoir engloutissement, il ajoute ces dégâts à ceux de son pouvoir d’engloutissement.
@@ -118,23 +104,9 @@ Si le dragon a le pouvoir engloutissement, il ajoute ces dégâts à ceux de son
 *Format : souffle prolongé (2d6 feu, 5 rounds) ; position : Attaques spéciales.*
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Dégâts de souffle prolongé
-|- CLASS="titre"
-| Taille de la créature
-| Points de dégâts d’énergie
-|- CLASS="premier"
-| M ou plus petite || 2d4
-|-
-| G || 2d6
-|-
-| TG || 2d8
-|-
-| Gig || 4d6
-|-
-| C || 4d8
-|-
-|}
+
+<table CLASS="tablo autoalt toutgauche"><caption>Dégâts de souffle prolongé</caption><tr CLASS="titre"><td>Taille de la créature</td><td>Points de dégâts d’énergie</td></tr><tr CLASS="premier"><td>M ou plus petite</td><td>2d4</td></tr><tr><td>G</td><td>2d6</td></tr><tr><td>TG</td><td>2d8</td></tr><tr><td>Gig</td><td>4d6</td></tr><tr><td>C</td><td>4d8</td></tr></table>
+
 </center>
 
 {s:Reference|SUBTILISATION}

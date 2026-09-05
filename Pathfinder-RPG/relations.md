@@ -18,18 +18,9 @@ Les relations avec les PNJ peuvent être amicales ou opposées : c’est au per
 ### Les niveaux de relation
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Valeur de relation || Niveau de relation
-|- CLASS="premier"
-| 5 ou moins || Association
-|-
-| 6-11 || Amitié/Compétition
-|-
-| 12-30 || Camaraderie/Rivalité
-|-
-| 31 ou plus || Dévotion/Inimitié
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Valeur de relation</td><td>Niveau de relation</td></tr><tr CLASS="premier"><td>5 ou moins</td><td>Association</td></tr><tr><td>6-11</td><td>Amitié/Compétition</td></tr><tr><td>12-30</td><td>Camaraderie/Rivalité</td></tr><tr><td>31 ou plus</td><td>Dévotion/Inimitié</td></tr></table>
+
 </div></div>Le niveau de relation que le personnage entretient avec un PNJ est basé sur sa valeur de relation, qui peut augmenter en jeu (cf. Le développement des relations). Le personnage bénéficie de nouveaux avantages quand sa relation avec un PNJ évolue et passe à un autre niveau.
 - **Association.** Le personnage et le [[PNJ]] se connaissent, mais pas suffisamment bien pour entretenir un lien significatif. Amitié/Compétition. Le personnage et le PNJ sont de bons amis ou des concurrents avérés. Quand le personnage atteint pour la première fois ce niveau de relation avec un PNJ, son groupe gagne 200 PX. Quand le personnage bénéficie de cet avantage pour la première fois dans une campagne, son groupe gagne 200 PX de plus. La plupart des relations issues de l’historique commencent à ce niveau et ne rapportent pas de PX au personnage puisqu’elles sont antérieures au début du jeu. 
 

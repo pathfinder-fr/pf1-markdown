@@ -13,53 +13,9 @@ Les personnages qui ont une carrière de [[rôdeur]] et de [[magicien]] excellen
 
 {s:Reference|TABLEARCHERMAGE}
 <center>
-{| CLASS="tablo"
-|+ L'archer-mage
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +1 || +1 || +0
-| CLASS="gauche" | [[archer-mage#FLECHEMAGIQUE|Flèche magique]] (magie)
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[archer-mage#FLECHEENCHANTEE|Flèche enchantée]]
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|-
-| 3 || +3 || +2 || +2 || +1
-| CLASS="gauche" | [[archer-mage#FLECHEMAGIQUE|Flèche magique]] (élémentaire)
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 4 || +4 || +2 || +2 || +1
-| CLASS="gauche" | [[archer-mage#FLECHEATETECHERCHEUSE|Flèche à tête chercheuse]]
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|-
-| 5 || +5 || +3 || +3 || +2
-| CLASS="gauche" | [[archer-mage#FLECHEMAGIQUE|Flèche magique]] (portée longue)
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 6 || +6 || +3 || +3 || +2
-| CLASS="gauche" | [[archer-mage#FLECHEDEPHASE|Flèche de phase]]
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|-
-| 7 || +7 || +4 || +4 || +2
-| CLASS="gauche" | [[archer-mage#FLECHEMAGIQUE|Flèche magique]] (rayonnement élémentaire)
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|- CLASS="alt"
-| 8 || +8 || +4 || +4 || +3
-| CLASS="gauche" | [[archer-mage#PLUIEDEFLECHES|Pluie de flèches]]
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|-
-| 9 || +9 || +5 || +5 || +3
-| CLASS="gauche" | [[archer-mage#FLECHEMAGIQUE|Flèche magique]] (alignement)
-| CLASS="gauche" | —
-|-
-| 10 || +10 || +5 || +5 || +3
-| CLASS="gauche" | [[archer-mage#FLECHEDEMORT|Flèche de mort]]
-| CLASS="gauche" | [[archer-mage#SORTS|+1 niveau dans la classe existante]]
-|}
+
+<table CLASS="tablo"><caption>L'archer-mage</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td><td CLASS="gauche">[[archer-mage#FLECHEMAGIQUE|Flèche magique]] (magie)</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[archer-mage#FLECHEENCHANTEE|Flèche enchantée]]</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[archer-mage#FLECHEMAGIQUE|Flèche magique]] (élémentaire)</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[archer-mage#FLECHEATETECHERCHEUSE|Flèche à tête chercheuse]]</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[archer-mage#FLECHEMAGIQUE|Flèche magique]] (portée longue)</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[archer-mage#FLECHEDEPHASE|Flèche de phase]]</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">[[archer-mage#FLECHEMAGIQUE|Flèche magique]] (rayonnement élémentaire)</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[archer-mage#PLUIEDEFLECHES|Pluie de flèches]]</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[archer-mage#FLECHEMAGIQUE|Flèche magique]] (alignement)</td><td CLASS="gauche">—</td></tr><tr><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[archer-mage#FLECHEDEMORT|Flèche de mort]]</td><td CLASS="gauche">[[archer-mage#SORTS|+1 niveau dans la classe existante]]</td></tr></table>
+
 </center>
 
 **Rôle.** Les archers-mages donnent la mort de loin, fauchant l'ennemi tandis que leurs alliés se ruent au corps à corps. La pluie de flèches qu'ils font s'abattre sur les rangs de leurs adversaires fait d'eux l'incarnation de l'art du combat à distance.

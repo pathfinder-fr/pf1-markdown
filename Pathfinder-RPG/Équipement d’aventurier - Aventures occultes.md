@@ -5,77 +5,13 @@ LastModified: 2019-10-06 15:48
 ---
 
 <table width="100%"><tr><td>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="80%"
-|+ Équipement d’aventurier - Aventures occultes
-|- CLASS="titre"
-| Nom || Prix || Poids
-|- CLASS="premier"
-| [[Équipement d’aventurier - Aventures occultes#Camisole de Force|Camisole de Force]] || variable || 0,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Médaillon d’Hypnotiseur|Médaillon d’Hypnotiseur]] || variable || 0,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Carillon|Carillon]] || 1 po || 0,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Cloche de Cérémonie|Cloche de Cérémonie]] || 2 po || 0,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Jeton de Représentation|Jeton de Représentation]] || 2 po || —
-|-
-| [[Équipement d’aventurier - Aventures occultes#Petit Encensoir|Petit Encensoir]] || 5 po || 0,25 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Encens|Encens]] || 7 po || —
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse de Cinétiste|Trousse de Cinétiste]] || 8 po || 11 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Baguette de Sourcier|Baguette de Sourcier]] || 10 po || 0,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Gants de Psychométricien|Gants de Psychométricien]] || 10 po || 2,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Instruments d’Occultiste|Instruments d’Occultiste]] || 10 po || 0,25 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Lunettes de Lecture des Auras|Lunettes de Lecture des Auras]] || 15 po || 0,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Ouija|Ouija]] || 15 po || 1 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Planchette d’Écriture Automatique|Planchette d’Écriture Automatique]] || 25 po || —
-|-
-| [[Équipement d’aventurier - Aventures occultes#Suerie Portable|Suerie Portable]] || 25 po || 12,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trompette Pour Esprits|Trompette Pour Esprits]] || 25 po || 0,5 KG
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="80%"><caption>Équipement d’aventurier - Aventures occultes</caption><tr CLASS="titre"><td>Nom</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Équipement d’aventurier - Aventures occultes#Camisole de Force|Camisole de Force]]</td><td>variable</td><td>0,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Médaillon d’Hypnotiseur|Médaillon d’Hypnotiseur]]</td><td>variable</td><td>0,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Carillon|Carillon]]</td><td>1 po</td><td>0,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Cloche de Cérémonie|Cloche de Cérémonie]]</td><td>2 po</td><td>0,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Jeton de Représentation|Jeton de Représentation]]</td><td>2 po</td><td>—</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Petit Encensoir|Petit Encensoir]]</td><td>5 po</td><td>0,25 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Encens|Encens]]</td><td>7 po</td><td>—</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse de Cinétiste|Trousse de Cinétiste]]</td><td>8 po</td><td>11 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Baguette de Sourcier|Baguette de Sourcier]]</td><td>10 po</td><td>0,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Gants de Psychométricien|Gants de Psychométricien]]</td><td>10 po</td><td>2,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Instruments d’Occultiste|Instruments d’Occultiste]]</td><td>10 po</td><td>0,25 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Lunettes de Lecture des Auras|Lunettes de Lecture des Auras]]</td><td>15 po</td><td>0,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Ouija|Ouija]]</td><td>15 po</td><td>1 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Planchette d’Écriture Automatique|Planchette d’Écriture Automatique]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Suerie Portable|Suerie Portable]]</td><td>25 po</td><td>12,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trompette Pour Esprits|Trompette Pour Esprits]]</td><td>25 po</td><td>0,5 KG</td></tr></table>
+
 </td><td>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="80%"
-|+ Équipement d’aventurier - Aventures occultes
-|- CLASS="titre"
-| Nom || Prix || Poids
-|- CLASS="premier"
-| [[Équipement d’aventurier - Aventures occultes#Cristal Prismatique|Cristal Prismatique]] || 30 po || 0,25 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Manuel des Arts Divinatoires|Manuel des Arts Divinatoires]] || 30 po || 1,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse d’Hypnotiseur|Trousse d’Hypnotiseur]] || 35 po || 13,25 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse de Psychiste|Trousse de Psychiste]] || 35 po || 13,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse de Médium|Trousse de Médium]] || 40 po || 7 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse d’Occultiste|Trousse d’Occultiste]] || 45 po || 16,25 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse de Médium Frauduleux|Trousse de Médium Frauduleux]] || 50 po || 5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse de Phrénologue|Trousse de Phrénologue]] || 50 po || 2,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Trousse de Spirite|Trousse de Spirite]] || 50 po || 17 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Cagoule de Contention|Cagoule de Contention]] || 75 po || 1,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Ouvrage de Référence Sur l’Occulte|Ouvrage de Référence Sur l’Occulte]] || 80 po || 1 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#Pantin de Ventriloque|Pantin de Ventriloque]] || 100 po || 3,5 KG
-|-
-| [[Équipement d’aventurier - Aventures occultes#﻿affiche Peinte|﻿affiche Peinte]] || 15 po || —
-|-
-| [[Équipement d’aventurier - Aventures occultes#Solarium Portable|Solarium Portable]] || 800 po || 17,5 KG
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="80%"><caption>Équipement d’aventurier - Aventures occultes</caption><tr CLASS="titre"><td>Nom</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Équipement d’aventurier - Aventures occultes#Cristal Prismatique|Cristal Prismatique]]</td><td>30 po</td><td>0,25 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Manuel des Arts Divinatoires|Manuel des Arts Divinatoires]]</td><td>30 po</td><td>1,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse d’Hypnotiseur|Trousse d’Hypnotiseur]]</td><td>35 po</td><td>13,25 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse de Psychiste|Trousse de Psychiste]]</td><td>35 po</td><td>13,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse de Médium|Trousse de Médium]]</td><td>40 po</td><td>7 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse d’Occultiste|Trousse d’Occultiste]]</td><td>45 po</td><td>16,25 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse de Médium Frauduleux|Trousse de Médium Frauduleux]]</td><td>50 po</td><td>5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse de Phrénologue|Trousse de Phrénologue]]</td><td>50 po</td><td>2,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Trousse de Spirite|Trousse de Spirite]]</td><td>50 po</td><td>17 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Cagoule de Contention|Cagoule de Contention]]</td><td>75 po</td><td>1,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Ouvrage de Référence Sur l’Occulte|Ouvrage de Référence Sur l’Occulte]]</td><td>80 po</td><td>1 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Pantin de Ventriloque|Pantin de Ventriloque]]</td><td>100 po</td><td>3,5 KG</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#﻿affiche Peinte|﻿affiche Peinte]]</td><td>15 po</td><td>—</td></tr><tr><td>[[Équipement d’aventurier - Aventures occultes#Solarium Portable|Solarium Portable]]</td><td>800 po</td><td>17,5 KG</td></tr></table>
+
 </td></tr></table>
 
 ### Équipement d’aventurier - Aventures occultes

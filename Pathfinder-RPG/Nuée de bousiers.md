@@ -37,15 +37,9 @@ Categories:
 {s:BDTexte|**Maladie (Ext).** *Fièvre des marais* : Morsure — blessure ; *[[jet de sauvegarde]]* [[Vigueur|Vig]] [[DD]] 13 ; *incubation* 1d3 jours ; *fréquence* 1 jour ; *effet* affaiblissement temporaire de 1d3 [[Dextérité|Dex]] et de 1d3 [[Constitution|Con]] ; *guérison* 2 jets de sauvegarde consécutifs.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de bousier
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Bousier géant]] || 6
-|-
-| [[Nuée de bousiers]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de bousier</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Bousier géant]]</td><td>6</td></tr><tr><td>[[Nuée de bousiers]]</td><td>3</td></tr></table>
+
 </div>*De cette masse d’insectes iridescents d’un noir bleuté se dégage une puanteur nauséabonde. Elle est accompagnée d’un nuage de poussière sale.*
 
 Les bousiers se regroupent souvent en nuées et terrorisent les régions désertiques isolées. Ces vermines sont une menace pour les tombeaux antiques, car elles se frayent un chemin à coups de mandibules à travers les corps enterrés.

@@ -60,21 +60,9 @@ Le temps peut s’écouler à un rythme différent d’un plan à l’autre mais
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|+ Exemple pour un plan erratique
-|- CLASS="titre"
-| {br}d% || Passage du temps sur{br}le plan Matériel || Passage du temps sur{br} un plan erratique
-|- CLASS="premier"
-| 01-10 || 1 jour || 1 round
-|- CLASS="alt"
-| 11-40 || 1 jour || 1 heure
-|-
-| 41-60 || 1 jour || 1 jour
-|- CLASS="alt"
-| 61-90 || 1 heure || 1 jour
-|-
-| 91-100 || 1 round || 1 jour
-|}
+
+<table CLASS="tablo"><caption>Exemple pour un plan erratique</caption><tr CLASS="titre"><td>{br}d%</td><td>Passage du temps sur{br}le plan Matériel</td><td>Passage du temps sur{br} un plan erratique</td></tr><tr CLASS="premier"><td>01-10</td><td>1 jour</td><td>1 round</td></tr><tr CLASS="alt"><td>11-40</td><td>1 jour</td><td>1 heure</td></tr><tr><td>41-60</td><td>1 jour</td><td>1 jour</td></tr><tr CLASS="alt"><td>61-90</td><td>1 heure</td><td>1 jour</td></tr><tr><td>91-100</td><td>1 round</td><td>1 jour</td></tr></table>
+
 </center></div></div>
 - **Le passage du temps normal.** Correspond au passage du temps dans le plan Matériel. Une heure sur un plan où le temps s’écoule normalement équivaut à une heure dans le plan Matériel. Sauf indication contraire dans la description du plan, partez du principe que le temps s’y écoule normalement.
 - **Le passage du temps erratique.** Dans certains plans, le temps s’écoule lentement puis accélère, les individus peuvent donc perdre ou gagner du temps alors qu’ils se déplacent entre ce type de plans et les autres. Pour les habitants de ce plan, le temps s’écoule naturellement et personne ne remarque le changement.
@@ -125,49 +113,7 @@ Un plan fortement Neutre s’oppose à tout autre principe éthique ou moral : l
 - **La magie sauvage.** Sur ces plans, les sorts et pouvoirs magiques fonctionnent de manière radicalement différente et parfois dangereuse. Tout sort ou pouvoir magique utilisé a une chance de mal tourner. Le lanceur de sorts doit réussir un test DD 15 + niveau du sort ou du pouvoir s’il veut que la magie fonctionne normalement. En cas d’échec, il se produit une chose étrange : lancez d% et consultez la table ci-après : Les effets magiques sauvages.
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Les effets de la magie sauvage
-|- CLASS="titre"
-| d%
-| Effet
-|- CLASS="premier"
-| 01-19 &nbsp;
-| Le sort rebondit sur son lanceur et lui inflige des effets normaux. Si le sort ne peut pas affecter le lanceur, il échoue simplement.
-|- CLASS="alt"
-| 20-23 &nbsp;
-| Une fosse circulaire s’ouvre sous les pieds du lanceur de sorts. Elle mesure 3 mètres de profondeur par niveau du lanceur de sorts.
-|-
-| 24-27 &nbsp;
-| Le sort échoue mais la ou les cible(s) sont bombardées par une pluie de petits objets (n’importe quoi, des fleurs aux fruits pourris) qui disparaissent après les avoir touchés. Cette averse dure 1 round pendant lequel la cible est aveuglée et doit faire un test de Concentration DD 15 + niveau du sort si elle veut lancer un sort.
-|- CLASS="alt"
-| 28-31 &nbsp;
-| Le sort affecte une cible ou une zone aléatoire. Choisissez au hasard une cible différente située à portée du sort ou centrez‑le sur une zone aléatoire à portée. Pour générer une direction aléatoire, lancez 1d8 et décomptez les directions de la rose des vents dans le sens des aiguilles d’une montre en commençant par le sud. Pour définir une distance aléatoire, lancez 3d6. Multipliez le résultat par 1,50 mètre pour les sorts à courte portée, par 6 mètres pour les sorts à moyenne portée et par 25 mètres pour les sorts à longue portée.
-|-
-| 32-35 &nbsp;
-| Le sort fonctionne normalement mais ne consomme pas de composante matérielle. Le sort n’est pas considéré comme utilisé (le lanceur peut de nouveau se servir de l’emplacement du sort ou du sort préparé). De même, un objet ne perd pas de charge et ses effets ne sont pas décomptés du nombre limite d’utilisations de l’objet ou des pouvoirs magiques.
-|- CLASS="alt"
-| 36-39 &nbsp;
-| Le sort ne fonctionne pas mais toute créature située dans un rayon de 9 mètres (amie comme ennemie) bénéficie des effets d’un sort de guérison suprême.
-|-
-| 40-43 &nbsp;
-| Le sort ne fonctionne pas mais un effet de ténèbres profondes et de silence couvre une zone de 9 mètres autour du lanceur de sorts pendant 2d4 rounds.
-|- CLASS="alt"
-| 44-47 &nbsp;
-| Le sort ne fonctionne pas mais un effet d’inversion de la gravité couvre une zone de 9 mètres autour du lanceur de sorts pendant 1 round.
-|-
-| 48-51 &nbsp;
-| Le sort fonctionne mais des couleurs scintillantes tournoient autour du lanceur de sorts pendant 1d4 rounds. Considérez cela comme un sort de poussière scintillante avec un jet de sauvegarde DD 10 + niveau du sort qui a provoqué ce résultat.
-|- CLASS="alt"
-| 52-59 &nbsp;
-| Il ne se passe rien. Le sort ne fonctionne pas. Toute composante matérielle est utilisée. Le sort ou l’emplacement de sort est utilisé, l’objet perd ses charges et les effets sont décomptés du nombre limite d’utilisations de l’objet ou du pouvoir magique.
-|-
-| 60-71 &nbsp;
-| Il ne se passe rien. Le sort ne fonctionne pas mais aucune composante matérielle n’est utilisée. Le sort n’est pas considéré comme lancé (le lanceur peut de nouveau se servir de l’emplacement du sort ou du sort préparé). De même, un objet ne perd pas de charge et ses effets ne sont pas décomptés du nombre limite d’utilisations de l’objet ou des pouvoirs magiques.
-|- CLASS="alt"
-| 72-98 &nbsp;
-| Le sort fonctionne normalement.
-|-
-| 99-100 &nbsp;
-| Le sort voit sa puissance augmenter. Les jets de sauvegarde contre le sort subissent un malus de –2. Le sort inflige l’effet maximum possible, comme s’il bénéficiait du don Quintessence des sorts. Si le sort dispose déjà de ce don, il n’y a pas d’effet supplémentaire.
-|}
+
+<table CLASS="tablo autoalt toutgauche"><caption>Les effets de la magie sauvage</caption><tr CLASS="titre"><td>d%</td><td>Effet</td></tr><tr CLASS="premier"><td>01-19 &nbsp;</td><td>Le sort rebondit sur son lanceur et lui inflige des effets normaux. Si le sort ne peut pas affecter le lanceur, il échoue simplement.</td></tr><tr CLASS="alt"><td>20-23 &nbsp;</td><td>Une fosse circulaire s’ouvre sous les pieds du lanceur de sorts. Elle mesure 3 mètres de profondeur par niveau du lanceur de sorts.</td></tr><tr><td>24-27 &nbsp;</td><td>Le sort échoue mais la ou les cible(s) sont bombardées par une pluie de petits objets (n’importe quoi, des fleurs aux fruits pourris) qui disparaissent après les avoir touchés. Cette averse dure 1 round pendant lequel la cible est aveuglée et doit faire un test de Concentration DD 15 + niveau du sort si elle veut lancer un sort.</td></tr><tr CLASS="alt"><td>28-31 &nbsp;</td><td>Le sort affecte une cible ou une zone aléatoire. Choisissez au hasard une cible différente située à portée du sort ou centrez‑le sur une zone aléatoire à portée. Pour générer une direction aléatoire, lancez 1d8 et décomptez les directions de la rose des vents dans le sens des aiguilles d’une montre en commençant par le sud. Pour définir une distance aléatoire, lancez 3d6. Multipliez le résultat par 1,50 mètre pour les sorts à courte portée, par 6 mètres pour les sorts à moyenne portée et par 25 mètres pour les sorts à longue portée.</td></tr><tr><td>32-35 &nbsp;</td><td>Le sort fonctionne normalement mais ne consomme pas de composante matérielle. Le sort n’est pas considéré comme utilisé (le lanceur peut de nouveau se servir de l’emplacement du sort ou du sort préparé). De même, un objet ne perd pas de charge et ses effets ne sont pas décomptés du nombre limite d’utilisations de l’objet ou des pouvoirs magiques.</td></tr><tr CLASS="alt"><td>36-39 &nbsp;</td><td>Le sort ne fonctionne pas mais toute créature située dans un rayon de 9 mètres (amie comme ennemie) bénéficie des effets d’un sort de guérison suprême.</td></tr><tr><td>40-43 &nbsp;</td><td>Le sort ne fonctionne pas mais un effet de ténèbres profondes et de silence couvre une zone de 9 mètres autour du lanceur de sorts pendant 2d4 rounds.</td></tr><tr CLASS="alt"><td>44-47 &nbsp;</td><td>Le sort ne fonctionne pas mais un effet d’inversion de la gravité couvre une zone de 9 mètres autour du lanceur de sorts pendant 1 round.</td></tr><tr><td>48-51 &nbsp;</td><td>Le sort fonctionne mais des couleurs scintillantes tournoient autour du lanceur de sorts pendant 1d4 rounds. Considérez cela comme un sort de poussière scintillante avec un jet de sauvegarde DD 10 + niveau du sort qui a provoqué ce résultat.</td></tr><tr CLASS="alt"><td>52-59 &nbsp;</td><td>Il ne se passe rien. Le sort ne fonctionne pas. Toute composante matérielle est utilisée. Le sort ou l’emplacement de sort est utilisé, l’objet perd ses charges et les effets sont décomptés du nombre limite d’utilisations de l’objet ou du pouvoir magique.</td></tr><tr><td>60-71 &nbsp;</td><td>Il ne se passe rien. Le sort ne fonctionne pas mais aucune composante matérielle n’est utilisée. Le sort n’est pas considéré comme lancé (le lanceur peut de nouveau se servir de l’emplacement du sort ou du sort préparé). De même, un objet ne perd pas de charge et ses effets ne sont pas décomptés du nombre limite d’utilisations de l’objet ou des pouvoirs magiques.</td></tr><tr CLASS="alt"><td>72-98 &nbsp;</td><td>Le sort fonctionne normalement.</td></tr><tr><td>99-100 &nbsp;</td><td>Le sort voit sa puissance augmenter. Les jets de sauvegarde contre le sort subissent un malus de –2. Le sort inflige l’effet maximum possible, comme s’il bénéficiait du don Quintessence des sorts. Si le sort dispose déjà de ce don, il n’y a pas d’effet supplémentaire.</td></tr></table>
+
 </center>

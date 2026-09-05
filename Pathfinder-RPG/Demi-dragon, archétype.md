@@ -22,30 +22,9 @@ Categories:
 {s:BDTexte|**Compétences.** Si le demi-dragon a des [[DV]] raciaux, il possède un nombre de rangs de [[compétences]] par [[DV]] racial égal à 6 + son modificateur d'[[Intelligence]]. Les compétences de classes raciales restent inchangées, de même que les rangs de compétence provenant des niveaux de classe.}
 </div>
 
-{| CLASS="tablo"
-|+ Tableau des types de souffles
-|- CLASS="titre"
-| class="gauche" | Type de dragon
-| class="gauche" | Type de souffle
-|- CLASS="premier"
-| class="gauche" | airain
-| class="gauche" | [[ligne]] de feu de 18 m (12 {s:c})
-|- CLASS="alt"
-| class="gauche" | argent ou blanc
-| class="gauche" | [[cône]] de froid de 9 m (6 {s:c})
-|-
-| class="gauche" | bleu ou bronze
-| class="gauche" | [[ligne]] d'électricité de 18 m (12 {s:c})
-|- CLASS="alt"
-| class="gauche" | cuivre ou noir
-| class="gauche" | [[ligne]] d'acide de 18 m (12 {s:c})
-|-
-| class="gauche" | or ou rouge
-| class="gauche" | [[cône]] de feu de 9 m (6 {s:c})
-|- CLASS="alt"
-| class="gauche" | vert
-| class="gauche" | [[cône]] d'acide de 9 m (6 {s:c})
-|}
+
+<table CLASS="tablo"><caption>Tableau des types de souffles</caption><tr CLASS="titre"><td class="gauche">Type de dragon</td><td class="gauche">Type de souffle</td></tr><tr CLASS="premier"><td class="gauche">airain</td><td class="gauche">[[ligne]] de feu de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td class="gauche">argent ou blanc</td><td class="gauche">[[cône]] de froid de 9 m (6 {s:c})</td></tr><tr><td class="gauche">bleu ou bronze</td><td class="gauche">[[ligne]] d'électricité de 18 m (12 {s:c})</td></tr><tr CLASS="alt"><td class="gauche">cuivre ou noir</td><td class="gauche">[[ligne]] d'acide de 18 m (12 {s:c})</td></tr><tr><td class="gauche">or ou rouge</td><td class="gauche">[[cône]] de feu de 9 m (6 {s:c})</td></tr><tr CLASS="alt"><td class="gauche">vert</td><td class="gauche">[[cône]] d'acide de 9 m (6 {s:c})</td></tr></table>
+
 
 </td><td><div>Voir un exemple : la [[dracolisque]].
 

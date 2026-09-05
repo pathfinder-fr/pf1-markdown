@@ -118,54 +118,12 @@ Lorsque vous organisez un défi libre où l'esprit et le charme sont plus effica
 #### Tests libres
 Bien que les joueurs utilisent généralement les DD standards pour les différents tests de compétence figurant dans les règles de Pathfinde-JdR, vous souhaiterez parfois qu'ils effectuent des tests de compétence à des fins non définies dans les règles, mais qui s'inscrivent dans le cadre des épreuves de défi auxquelles ils participent. Dans ce cas, la table “DD des tests libres par niveau” propose des points de référence pour ces tests libres.
 
-{| CLASS="tablo centre autoalt"
-|+ DD des tests libres par niveau
-|- CLASS="titre"
-| Niv. || DD  
-facile || DD  
-intermédiaire || DD  
-difficile
-|- CLASS="premier"
-| 1 || 12 || 17 || 22
-|-
-| 2 || 14 || 19 || 23
-|-
-| 3 || 15 || 21 || 26
-|-
-| 4 || 16 || 22 || 28
-|-
-| 5 || 17 || 23 || 29
-|-
-| 6 || 18 || 24 || 30
-|-
-| 7 || 19 || 25 || 31
-|-
-| 8 || 20 || 26 || 33
-|-
-| 9 || 21 || 27 || 34
-|-
-| 10 || 22 || 28 || 39
-|-
-| 11 || 23 || 29 || 41
-|-
-| 12 || 24 || 30 || 43
-|-
-| 13 || 25 || 31 || 44
-|-
-| 14 || 26 || 32 || 45
-|-
-| 15 || 27 || 33 || 47
-|-
-| 16 || 28 || 34 || 48
-|-
-| 17 || 29 || 35 || 50
-|-
-| 18 || 30 || 36 || 51
-|-
-| 19 || 31 || 37 || 52
-|-
-| 20 || 32 || 38 || 54
-|}
+
+<table CLASS="tablo centre autoalt"><caption>DD des tests libres par niveau</caption><tr CLASS="titre"><td>Niv.</td><td>DD  
+facile</td><td>DD  
+intermédiaire</td><td>DD  
+difficile</td></tr><tr CLASS="premier"><td>1</td><td>12</td><td>17</td><td>22</td></tr><tr><td>2</td><td>14</td><td>19</td><td>23</td></tr><tr><td>3</td><td>15</td><td>21</td><td>26</td></tr><tr><td>4</td><td>16</td><td>22</td><td>28</td></tr><tr><td>5</td><td>17</td><td>23</td><td>29</td></tr><tr><td>6</td><td>18</td><td>24</td><td>30</td></tr><tr><td>7</td><td>19</td><td>25</td><td>31</td></tr><tr><td>8</td><td>20</td><td>26</td><td>33</td></tr><tr><td>9</td><td>21</td><td>27</td><td>34</td></tr><tr><td>10</td><td>22</td><td>28</td><td>39</td></tr><tr><td>11</td><td>23</td><td>29</td><td>41</td></tr><tr><td>12</td><td>24</td><td>30</td><td>43</td></tr><tr><td>13</td><td>25</td><td>31</td><td>44</td></tr><tr><td>14</td><td>26</td><td>32</td><td>45</td></tr><tr><td>15</td><td>27</td><td>33</td><td>47</td></tr><tr><td>16</td><td>28</td><td>34</td><td>48</td></tr><tr><td>17</td><td>29</td><td>35</td><td>50</td></tr><tr><td>18</td><td>30</td><td>36</td><td>51</td></tr><tr><td>19</td><td>31</td><td>37</td><td>52</td></tr><tr><td>20</td><td>32</td><td>38</td><td>54</td></tr></table>
+
 
 Les valeurs basses de la table ci-dessus sont conçues comme des DD cibles pour des tests relativement faciles à effectuer pour les PJs aux niveaux indiqués. Elles sont aussi typiquement appropriées lorsque plusieurs membres du groupe doivent tous réussir le test pour qu'il y ait réussite, ou lorsqu'un personnage qui n'est pas un expert en quelque chose est obligé de jouer un rôle particulier. Le DD offre généralement 50 % de chances de réussite pour un personnage formé à la compétence mais mal adapté à la tâche et ne possédant aucun autre avantage (comme des outils, des sorts ou une autre magie), ou vice versa (un personnage à peine formé mais disposant de nombreux autres avantages). Les valeurs moyennes représentent des défis qu'un aventurier seul et relativement compétent devrait être capable de surmonter sans aide, mais non sans risque. Les valeurs difficiles sont appropriées pour les maîtres dans les compétences concernées, pour ceux qui possèdent de nombreux avantages avec certaines compétences, ou pour les tests où un grand nombre de personnages sont tous capables d'aider un personnage moins compétent.
 
@@ -194,27 +152,12 @@ Voici quelques suggestions sur la manière de récompenser les PJs en fonction d
 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|+ Valeur du butin par rencontre à faible FP
-|- CLASS="titre"
-| ROWSPAN="2" | FP
-| CLASS="avecsoustitre" COLSPAN="3" | Butin par rencontre (po)
-|- CLASS="soustitre"
-| Progression  
-lente || Progression  
-moyenne || Progression  
-rapide
-|- CLASS="premier"
-| 1/8 || 21 || 33 || 50
-|-
-| 1/6 || 28 || 42 || 65
-|-
-| 1/4 || 43 || 65 || 100
-|-
-| 1/3 || 57 || 88 || 135
-|-
-| 1/2 || 85 || 130 || 200
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Valeur du butin par rencontre à faible FP</caption><tr CLASS="titre"><td ROWSPAN="2">FP</td><td CLASS="avecsoustitre" COLSPAN="3">Butin par rencontre (po)</td></tr><tr CLASS="soustitre"><td>Progression  
+lente</td><td>Progression  
+moyenne</td><td>Progression  
+rapide</td></tr><tr CLASS="premier"><td>1/8</td><td>21</td><td>33</td><td>50</td></tr><tr><td>1/6</td><td>28</td><td>42</td><td>65</td></tr><tr><td>1/4</td><td>43</td><td>65</td><td>100</td></tr><tr><td>1/3</td><td>57</td><td>88</td><td>135</td></tr><tr><td>1/2</td><td>85</td><td>130</td><td>200</td></tr></table>
+
 </div></div>**Évènements de découverte.** La plupart du temps, les événements de découverte n'accordent que rarement des points d'expérience ou des trésors aux PJs. Le plus souvent, ils permettent aux PJs d'obtenir des informations sur les défis qu'ils vont devoir relever. Occasionnellement, cependant, un événement de découverte peut comporter un défi, et dans ce cas vous pouvez donner un FP à l'événement. Si vos défis sociaux sont épisodiques, le FP de l'événement doit être inférieur de 2 à 4 au niveau moyen du groupe (NMG) des PJs, en fonction de l'importance des défis sociaux dans votre campagne. Si le NMG est faible, modifiez le FP pour lui donner une valeur fractionnelle appropriée. Traitez les trésors de la même manière. La table “[[Rencontres#TABLEVALEURBUTINPARRENCONTRE|Valeur du butin]]” présente des valeurs basées sur le NMG plutôt que sur le FP ; par conséquent, si vous souhaitez attribuer un trésor pour un événement de découverte à faible FP, utilisez les valeurs appropriées de la table “Valeur du butin par rencontre à faible FP”.
 
 **Évènements de défi.** Les événements de défi devraient presque toujours accorder des points d'expérience et des trésors. Ceci est particulièrement vrai si vous menez une campagne de conflit social avec un rythme sériel. Si un conflit social est l'axe principal de la campagne, la plupart des évènements de défi devraient avoir un FP proche du NMG des PJs. Comme pour les rencontres de combat, les évènements particulièrement éprouvants (notamment ceux qui consomment les ressources des PJs ou qui offrent la possibilité d'un changement significatif des enjeux) peuvent avoir un FP supérieur au NMG, mais jamais plus de 3. Les événements de défi doivent utiliser les valeurs normales d'expérience et de trésor lorsque les PJs sont impliqués dans une rencontre de combat.

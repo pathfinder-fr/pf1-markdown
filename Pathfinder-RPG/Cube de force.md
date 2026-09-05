@@ -14,51 +14,18 @@ Cet objet de la taille d’un dé à jouer (environ deux centimètres d’arête
 
 Quand le *[[mur de force]]* est activé, toute attaque infligeant plus de 30 points de dégâts oblige le cube à dépenser 1 charge additionnelle pour chaque tranche de 10 points de dégâts supplémentaires.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Face   
-du cube || Charges   
-par minute || Vitesse   
-max.
-| CLASS="gauche" | Effet
-|- CLASS="premier"
-| 1 || 1 || 9 m
-| CLASS="gauche" | Protège du gaz, des vents, etc.
-|-
-| 2 || 2 || 6 m
-| CLASS="gauche" | Protège de la matière non-vivante
-|-
-| 3 || 3 || 4,50 m
-| CLASS="gauche" | Protège de la matière vivante
-|-
-| 4 || 4 || 3 m
-| CLASS="gauche" | Protège de la magie
-|-
-| 5 || 6 || 3 m
-| CLASS="gauche" | Protège de tout
-|-
-| 6 || 0 || Normale
-| CLASS="gauche" | Désactive le cube
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Face   
+du cube</td><td>Charges   
+par minute</td><td>Vitesse   
+max.</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>1</td><td>1</td><td>9 m</td><td CLASS="gauche">Protège du gaz, des vents, etc.</td></tr><tr><td>2</td><td>2</td><td>6 m</td><td CLASS="gauche">Protège de la matière non-vivante</td></tr><tr><td>3</td><td>3</td><td>4,50 m</td><td CLASS="gauche">Protège de la matière vivante</td></tr><tr><td>4</td><td>4</td><td>3 m</td><td CLASS="gauche">Protège de la magie</td></tr><tr><td>5</td><td>6</td><td>3 m</td><td CLASS="gauche">Protège de tout</td></tr><tr><td>6</td><td>0</td><td>Normale</td><td CLASS="gauche">Désactive le cube</td></tr></table>
+
 
 Les sorts qui affectent l’intégrité physique du cube coûte également des charges à celui-ci.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Sort ou effet || Charges supplémentaires
-|- CLASS="premier"
-| *[[Cor de dévastation]]* || 6
-|-
-| *[[Désintégration]]* || 6
-|-
-| *[[Mur de feu]]* || 2
-|-
-| *[[Passe-muraille]]* || 3
-|-
-| *[[Porte de phase]]* || 5
-|-
-| *[[Rayons prismatiques]]* || 7
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Sort ou effet</td><td>Charges supplémentaires</td></tr><tr CLASS="premier"><td>*[[Cor de dévastation]]*</td><td>6</td></tr><tr><td>*[[Désintégration]]*</td><td>6</td></tr><tr><td>*[[Mur de feu]]*</td><td>2</td></tr><tr><td>*[[Passe-muraille]]*</td><td>3</td></tr><tr><td>*[[Porte de phase]]*</td><td>5</td></tr><tr><td>*[[Rayons prismatiques]]*</td><td>7</td></tr></table>
+
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[mur de force]]* ; **Coût** 31 000 po
 </div>

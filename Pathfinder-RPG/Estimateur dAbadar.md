@@ -11,37 +11,9 @@ Categories:
 
 *Les estimateurs légaux remplissent un rôle particulier au Bazar du Bizarre. En plus d’user de leurs pouvoirs de négociateurs, ils recherchent les richesses perdues, non réclamées ou injustement saisies au sein des nombreux tombeaux et ruines du désert du pays. Les estimateurs légaux développent des pouvoirs uniques qui leur permettent d’entrer dans des lieux dangereux où se cachent, dans l’ombre, des trésors perdus ou des biens dissimulés pour les rendre à leurs propriétaires légitimes. Un estimateur ressent énormément de satisfaction en découvrant, cachées dans des forteresses anonymes, des richesses perdues depuis longtemps, propriétés d’individus du passé désormais oubliés. Un estimateur peut revendiquer ces trésors et s’en servir pour promouvoir la puissance de son église.*
 
-{| CLASS="tablo centre autoalt"
-|+ L'estimateur légal
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +2
-| CLASS="gauche" | [[Estimateur dAbadar#PASSERUNEPROTECTIONMAGIQUE|Passer une protection magique]]
-| CLASS="gauche" | —
-|-
-| 2 || +1 || +0 || +0 || +3
-| CLASS="gauche" | [[Estimateur dAbadar#EVALUATION|Évaluation]]
-| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 3 || +1 || +1 || +1 || +3
-| CLASS="gauche" | [[Estimateur dAbadar#SACDECONTENANCE|Sac de contenance (2e modèle)]], [[Estimateur dAbadar#ACCESAUCOFFRE|Accès au Coffre (objet non-magique)]]
-| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 4 || +2 || +1 || +1 || +4
-| CLASS="gauche" | [[Estimateur dAbadar#NEGOCIATEURELOQUENT|Négociateur éloquent]]
-| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 5 || +2 || +1 || +1 || +4
-| CLASS="gauche" | [[Estimateur dAbadar#ACCESAUCOFFRE|Accès au Coffre (objet magique)]]
-| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|-
-| 6 || +3 || +2 || +2 || +5
-| CLASS="gauche" | [[Estimateur dAbadar#PASSAGEPARLECOFFRE|Passage par le Coffre]], [[Estimateur dAbadar#SACDECONTENANCE|sac de contenance (2e modèle)]]
-| CLASS="gauche" | [[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]
-|}
+
+<table CLASS="tablo centre autoalt"><caption>L'estimateur légal</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td CLASS="gauche">[[Estimateur dAbadar#PASSERUNEPROTECTIONMAGIQUE|Passer une protection magique]]</td><td CLASS="gauche">—</td></tr><tr><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td CLASS="gauche">[[Estimateur dAbadar#EVALUATION|Évaluation]]</td><td CLASS="gauche">[[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td CLASS="gauche">[[Estimateur dAbadar#SACDECONTENANCE|Sac de contenance (2e modèle)]], [[Estimateur dAbadar#ACCESAUCOFFRE|Accès au Coffre (objet non-magique)]]</td><td CLASS="gauche">[[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Estimateur dAbadar#NEGOCIATEURELOQUENT|Négociateur éloquent]]</td><td CLASS="gauche">[[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>5</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td CLASS="gauche">[[Estimateur dAbadar#ACCESAUCOFFRE|Accès au Coffre (objet magique)]]</td><td CLASS="gauche">[[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr><tr><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td CLASS="gauche">[[Estimateur dAbadar#PASSAGEPARLECOFFRE|Passage par le Coffre]], [[Estimateur dAbadar#SACDECONTENANCE|sac de contenance (2e modèle)]]</td><td CLASS="gauche">[[Estimateur dAbadar#SORTS|+1 niveau dans une classe de lanceur de sorts divins existante]]</td></tr></table>
+
 
 **Dé de vie** d6.
 

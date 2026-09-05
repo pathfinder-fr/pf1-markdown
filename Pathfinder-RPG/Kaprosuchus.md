@@ -37,35 +37,9 @@ Categories:
 {s:BDTexte|**Museau bélier (Ext).** Quand un kaprosuchus charge, il peut rentrer violemment en collision dans un adversaire avec le bout calcifié de son museau. Cette attaque a le même bonus d’attaque que la morsure du kaprosuchus et elle inflige un nombre de dégâts contondants égal aux dégâts infligés par sa morsure. Si l’attaque réussit, le kaprosuchus peut, par une [[action libre]], tenter une manœuvre offensive de [[croc-en-jambe]] contre sa cible.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de mégafaune
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Archelon]] || 5
-|-
-| [[Arsinoithérium]] || 7
-|-
-| [[Baluchithérium]] || 8
-|-
-| [[Basilosaure]] || 12
-|-
-| [[Chalicothérium]] || 6
-|-
-| [[Glyptodonte]] || 6
-|-
-| [[Kaprosuchus]] || 5
-|-
-| [[Mégalania]] || 7
-|-
-| [[Mégalocéros]] || 4
-|-
-| [[Mégathérium]] || 5
-|-
-| [[Moa]] || 2
-|-
-| [[Uintathérium]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de mégafaune</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Archelon]]</td><td>5</td></tr><tr><td>[[Arsinoithérium]]</td><td>7</td></tr><tr><td>[[Baluchithérium]]</td><td>8</td></tr><tr><td>[[Basilosaure]]</td><td>12</td></tr><tr><td>[[Chalicothérium]]</td><td>6</td></tr><tr><td>[[Glyptodonte]]</td><td>6</td></tr><tr><td>[[Kaprosuchus]]</td><td>5</td></tr><tr><td>[[Mégalania]]</td><td>7</td></tr><tr><td>[[Mégalocéros]]</td><td>4</td></tr><tr><td>[[Mégathérium]]</td><td>5</td></tr><tr><td>[[Moa]]</td><td>2</td></tr><tr><td>[[Uintathérium]]</td><td>7</td></tr></table>
+
 </div>*Ce crocodilien, énorme et trapu, a ses yeux placés sur le front, des dents saillantes et un long museau.*
 
 Malgré sa ressemblance avec d’autres types de crocodiliens, le kaprosuchus est un prédateur terrestre et non aquatique. Trapues et puissantes, ces créatures chassent en forêt. Les adultes peuvent atteindre une longueur de 6 mètres et peser jusqu’à 1 250 kilos.

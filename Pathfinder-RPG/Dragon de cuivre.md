@@ -33,17 +33,9 @@ Categories:
 {s:BDTexte|**Souffle de ralentissement (Sur).** Au lieu de produire une [[ligne]] d'acide avec son souffle, un dragon de cuivre peut choisir de créer un [[cône]] de gaz ralentissant. Ceux qui se trouvent dans le [[cône]] doivent réussir un jet de [[Vigueur]] pour éviter d'être ralentis (comme par le sort *[[lenteur]]*) pendant 1d6 rounds plus 1 round par catégorie d'âge du dragon.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de cuivre
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon de cuivre]] || &nbsp; || 8
-|-
-| [[Dragon de cuivre adulte]] || &nbsp; || 12
-|-
-| [[Dragon de cuivre vénérable]] || &nbsp; || 17
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de cuivre</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de cuivre]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Dragon de cuivre adulte]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Dragon de cuivre vénérable]]</td><td>&nbsp;</td><td>17</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Ce dragon est couvert d’écailles brillantes de couleurs vives, depuis sa tête couronnée de cornes jusqu’à sa queue crénelée.*
 
 Au combat, ces dragons capricieux passent la
@@ -52,36 +44,10 @@ tenter d’agacer et d’énerver
 leurs ennemis.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || escalade de la pierre, immunité (acide),   
-souffle de lenteur || —
-|- CLASS="alt"
-| Très jeune || *[[graisse]]* || —
-|-
-| Jeune || esquive instinctive || 1
-|- CLASS="alt"
-| Adolescent || *[[fou rire]]*, maîtrise des pièges || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || *[[façonnage de la pierre]]*, [[présence terrifiante]] || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || aura de lenteur, *[[transmutation de la pierre en boue]]*,  
- *[[transmutation de la boue en pierre]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[mur de pierre]]*, rire de groupe || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || blague mortelle, *[[glissement de terrain]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>escalade de la pierre, immunité (acide),   
+souffle de lenteur</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[graisse]]*</td><td>—</td></tr><tr><td>Jeune</td><td>esquive instinctive</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[fou rire]]*, maîtrise des pièges</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[façonnage de la pierre]]*, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura de lenteur, *[[transmutation de la pierre en boue]]*,  
+ *[[transmutation de la boue en pierre]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[mur de pierre]]*, rire de groupe</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>blague mortelle, *[[glissement de terrain]]*</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

@@ -17,18 +17,9 @@ Les montagnes présentent un élément important, la paroi rocheuse, qui appara�
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Catégories de montagne || Prairie alpine || Accidentée || Haute
-|- CLASS="premier"
-| Pente douce || 50% || 25% || 15%
-|- CLASS="alt"
-| Pente raide || 40% || 55% || 55%
-|-
-| À-pic || 10% || 15% || 20%
-|- CLASS="alt"
-| Gouffre || — || 5% || 10%
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de montagne</td><td>Prairie alpine</td><td>Accidentée</td><td>Haute</td></tr><tr CLASS="premier"><td>Pente douce</td><td>50%</td><td>25%</td><td>15%</td></tr><tr CLASS="alt"><td>Pente raide</td><td>40%</td><td>55%</td><td>55%</td></tr><tr><td>À-pic</td><td>10%</td><td>15%</td><td>20%</td></tr><tr CLASS="alt"><td>Gouffre</td><td>—</td><td>5%</td><td>10%</td></tr></table>
+
 </center>
 </div></div>
 **Pentes douces et raides.** Elles fonctionnent de la même manière que celles décrites dans la section réservée aux [[collines]].

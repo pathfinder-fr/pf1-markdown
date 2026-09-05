@@ -40,25 +40,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de scorpion
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Scorpion dard-vert]] || 1/4
-|-
-| [[Scorpion des cavernes]] || 1
-|-
-| [[Scorpion empereur géant]] || 11
-|-
-| [[Scorpion fantomatique]] || 1/2
-|-
-| [[Scorpion géant]] || 3
-|-
-| [[Scorpion noir]] || 15
-|-
-| [[Scorpion piégeur]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de scorpion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Scorpion dard-vert]]</td><td>1/4</td></tr><tr><td>[[Scorpion des cavernes]]</td><td>1</td></tr><tr><td>[[Scorpion empereur géant]]</td><td>11</td></tr><tr><td>[[Scorpion fantomatique]]</td><td>1/2</td></tr><tr><td>[[Scorpion géant]]</td><td>3</td></tr><tr><td>[[Scorpion noir]]</td><td>15</td></tr><tr><td>[[Scorpion piégeur]]</td><td>8</td></tr></table>
+
 </div>*Les pinces de ce scorpion semblent trop petites pour blesser des créatures plus grandes qu’un insecte, mais son dard semble tout de même dangereux.*
 
 Les redoutables scorpions dard-vert vivent habituellement dans les forêts, mais peuvent survivre pratiquement partout ailleurs. Ils ont des pinces trop petites pour représenter un danger pour des créatures autres que les insectes, mais leur dard empoisonné rend fiévreux, même les êtres de grande taille.

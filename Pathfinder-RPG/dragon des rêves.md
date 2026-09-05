@@ -33,51 +33,17 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon des rêves
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Jeune dragon des rêves]] || 10
-|-
-| [[Dragon des rêves adulte]] || 14
-|-
-| [[Dragon des rêves vénérable]] || 19
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon des rêves</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon des rêves]]</td><td>10</td></tr><tr><td>[[Dragon des rêves adulte]]</td><td>14</td></tr><tr><td>[[Dragon des rêves vénérable]]</td><td>19</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon ésotérique|dragons ésotériques]].***</li></ul>*Cette créature gracieuse, presque chimérique, laisse derrière elle une traînée nuageuse aux formes hypnotiques.*
 
 Ces maîtres autoproclamés de la dimension du Rêve chassent dans l’étendue en perpétuel changement de ce plan étrange.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || souffle soporifique 1/jour || —
-|- CLASS="alt"
-| Très jeune || vision onirique || —
-|-
-| Jeune || [[Magie psychique (capacité)|magie psychique]] || 1
-|- CLASS="alt"
-| Adolescent || forteresse onirique || 3
-|-
-| Jeune adulte || [[Magie psychique (capacité)|magie psychique]], [[RD]] 5/magie || 5
-|- CLASS="alt"
-| Adulte || changement de forme, [[Présence terrifiante (capacité)|présence terrifiante]] || 7
-|-
-| Âge mûr || [[Magie psychique (capacité)|magie psychique]], [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || rejoindre un paysage onirique || 11
-|-
-| Très vieux || [[Magie psychique (capacité)|magie psychique]], [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || souffle soporifique 3/jour || 15
-|-
-| Dracosire || [[Magie psychique (capacité)|magie psychique]], [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || exode onirique || 19
-|}</center>
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>souffle soporifique 1/jour</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>vision onirique</td><td>—</td></tr><tr><td>Jeune</td><td>[[Magie psychique (capacité)|magie psychique]]</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>forteresse onirique</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 5/magie</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>changement de forme, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>rejoindre un paysage onirique</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>souffle soporifique 3/jour</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Magie psychique (capacité)|magie psychique]], [[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>exode onirique</td><td>19</td></tr></table></center>
+
 </div>
 
 </td></tr></table>

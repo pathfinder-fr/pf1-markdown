@@ -24,61 +24,17 @@ Après avoir déterminé le [[Types de créatures|type]] et le [[FP]] de la cré
 
 <center>
 {s:Reference|TAB11}
-{| CLASS="tablo" STYLE="width:80%"
-|+ Valeurs-cibles des monstres selon leur FP
-|- CLASS="titre"
-| FP || pv || CA || Attaque  
-forte || Attaque  
-faible || Dégâts  
-élevés || Dégâts  
-faibles || DD  
-principal || DD  
-secondaire || JdS  
-fort || JdS  
-faible
-|- CLASS="premier"
-| 1/2 || 10 || 11 || 1 || 0 || 4 || 3 || 11 || 8 || 3 || 0
-|- CLASS="alt"
-| 1 || 15 || 12 || 2 || 1 || 7 || 5 || 12 || 9 || 4 || 1
-|-
-| 2 || 20 || 14 || 4 || 3 || 10 || 7 || 13 || 9 || 5 || 1
-|- CLASS="alt"
-| 3 || 30 || 15 || 6 || 4 || 13 || 9 || 14 || 10 || 6 || 2
-|-
-| 4 || 40 || 17 || 8 || 6 || 16 || 12 || 15 || 10 || 7 || 3
-|- CLASS="alt"
-| 5 || 55 || 18 || 10 || 7 || 20 || 15 || 15 || 11 || 8 || 4
-|-
-| 6 || 70 || 19 || 12 || 8 || 25 || 18 || 16 || 11 || 9 || 5
-|- CLASS="alt"
-| 7 || 85 || 20 || 13 || 10 || 30 || 22 || 17 || 12 || 10 || 6
-|-
-| 8 || 100 || 21 || 15 || 11 || 35 || 26 || 18 || 12 || 11 || 7
-|- CLASS="alt"
-| 9 || 115 || 23 || 17 || 12 || 40 || 30 || 18 || 13 || 12 || 8
-|-
-| 10 || 130 || 24 || 18 || 13 || 45 || 33 || 19 || 13 || 13 || 9
-|- CLASS="alt"
-| 11 || 145 || 25 || 19 || 14 || 50 || 37 || 20 || 14 || 14 || 10
-|-
-| 12 || 160 || 27 || 21 || 15 || 55 || 41 || 21 || 15 || 15 || 11
-|- CLASS="alt"
-| 13 || 180 || 28 || 22 || 16 || 60 || 45 || 21 || 15 || 16 || 12
-|-
-| 14 || 200 || 29 || 23 || 17 || 65 || 48 || 22 || 16 || 17 || 12
-|- CLASS="alt"
-| 15 || 220 || 30 || 24 || 18 || 70 || 52 || 23 || 16 || 18 || 13
-|-
-| 16 || 240 || 31 || 26 || 19 || 80 || 60 || 24 || 17 || 19 || 14
-|- CLASS="alt"
-| 17 || 270 || 32 || 27 || 20 || 90 || 67 || 24 || 18 || 20 || 15
-|-
-| 18 || 300 || 33 || 28 || 21 || 100 || 75 || 25 || 18 || 20 || 16
-|- CLASS="alt"
-| 19 || 330 || 34 || 29 || 22 || 110 || 82 || 26 || 19 || 21 || 16
-|-
-| 20 || 370 || 36 || 30 || 23 || 120 || 90 || 27 || 20 || 22 || 17
-|}
+
+<table CLASS="tablo" STYLE="width:80%"><caption>Valeurs-cibles des monstres selon leur FP</caption><tr CLASS="titre"><td>FP</td><td>pv</td><td>CA</td><td>Attaque  
+forte</td><td>Attaque  
+faible</td><td>Dégâts  
+élevés</td><td>Dégâts  
+faibles</td><td>DD  
+principal</td><td>DD  
+secondaire</td><td>JdS  
+fort</td><td>JdS  
+faible</td></tr><tr CLASS="premier"><td>1/2</td><td>10</td><td>11</td><td>1</td><td>0</td><td>4</td><td>3</td><td>11</td><td>8</td><td>3</td><td>0</td></tr><tr CLASS="alt"><td>1</td><td>15</td><td>12</td><td>2</td><td>1</td><td>7</td><td>5</td><td>12</td><td>9</td><td>4</td><td>1</td></tr><tr><td>2</td><td>20</td><td>14</td><td>4</td><td>3</td><td>10</td><td>7</td><td>13</td><td>9</td><td>5</td><td>1</td></tr><tr CLASS="alt"><td>3</td><td>30</td><td>15</td><td>6</td><td>4</td><td>13</td><td>9</td><td>14</td><td>10</td><td>6</td><td>2</td></tr><tr><td>4</td><td>40</td><td>17</td><td>8</td><td>6</td><td>16</td><td>12</td><td>15</td><td>10</td><td>7</td><td>3</td></tr><tr CLASS="alt"><td>5</td><td>55</td><td>18</td><td>10</td><td>7</td><td>20</td><td>15</td><td>15</td><td>11</td><td>8</td><td>4</td></tr><tr><td>6</td><td>70</td><td>19</td><td>12</td><td>8</td><td>25</td><td>18</td><td>16</td><td>11</td><td>9</td><td>5</td></tr><tr CLASS="alt"><td>7</td><td>85</td><td>20</td><td>13</td><td>10</td><td>30</td><td>22</td><td>17</td><td>12</td><td>10</td><td>6</td></tr><tr><td>8</td><td>100</td><td>21</td><td>15</td><td>11</td><td>35</td><td>26</td><td>18</td><td>12</td><td>11</td><td>7</td></tr><tr CLASS="alt"><td>9</td><td>115</td><td>23</td><td>17</td><td>12</td><td>40</td><td>30</td><td>18</td><td>13</td><td>12</td><td>8</td></tr><tr><td>10</td><td>130</td><td>24</td><td>18</td><td>13</td><td>45</td><td>33</td><td>19</td><td>13</td><td>13</td><td>9</td></tr><tr CLASS="alt"><td>11</td><td>145</td><td>25</td><td>19</td><td>14</td><td>50</td><td>37</td><td>20</td><td>14</td><td>14</td><td>10</td></tr><tr><td>12</td><td>160</td><td>27</td><td>21</td><td>15</td><td>55</td><td>41</td><td>21</td><td>15</td><td>15</td><td>11</td></tr><tr CLASS="alt"><td>13</td><td>180</td><td>28</td><td>22</td><td>16</td><td>60</td><td>45</td><td>21</td><td>15</td><td>16</td><td>12</td></tr><tr><td>14</td><td>200</td><td>29</td><td>23</td><td>17</td><td>65</td><td>48</td><td>22</td><td>16</td><td>17</td><td>12</td></tr><tr CLASS="alt"><td>15</td><td>220</td><td>30</td><td>24</td><td>18</td><td>70</td><td>52</td><td>23</td><td>16</td><td>18</td><td>13</td></tr><tr><td>16</td><td>240</td><td>31</td><td>26</td><td>19</td><td>80</td><td>60</td><td>24</td><td>17</td><td>19</td><td>14</td></tr><tr CLASS="alt"><td>17</td><td>270</td><td>32</td><td>27</td><td>20</td><td>90</td><td>67</td><td>24</td><td>18</td><td>20</td><td>15</td></tr><tr><td>18</td><td>300</td><td>33</td><td>28</td><td>21</td><td>100</td><td>75</td><td>25</td><td>18</td><td>20</td><td>16</td></tr><tr CLASS="alt"><td>19</td><td>330</td><td>34</td><td>29</td><td>22</td><td>110</td><td>82</td><td>26</td><td>19</td><td>21</td><td>16</td></tr><tr><td>20</td><td>370</td><td>36</td><td>30</td><td>23</td><td>120</td><td>90</td><td>27</td><td>20</td><td>22</td><td>17</td></tr></table>
+
 </center>
 
 **FP.** C’est le FP approximatif du monstre. Ce nombre peut évoluer au fil du processus de création.
@@ -94,23 +50,9 @@ faible
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 {s:Reference|TAB15}
-{| CLASS="tablo" STYLE="width:93%"
-|+ Résultats moyens des dés
-|- CLASS="titre"
-| Dé || Résultat moyen*
-|- CLASS="premier"
-| d4 || 2,5
-|- CLASS="alt"
-| d6 || 3,5
-|-
-| d8 || 4,5
-|- CLASS="alt"
-| d10 || 5,5
-|-
-| d12 || 6,5
-|- CLASS="alt"
-| d20 || 10,5
-|}
+
+<table CLASS="tablo" STYLE="width:93%"><caption>Résultats moyens des dés</caption><tr CLASS="titre"><td>Dé</td><td>Résultat moyen*</td></tr><tr CLASS="premier"><td>d4</td><td>2,5</td></tr><tr CLASS="alt"><td>d6</td><td>3,5</td></tr><tr><td>d8</td><td>4,5</td></tr><tr CLASS="alt"><td>d10</td><td>5,5</td></tr><tr><td>d12</td><td>6,5</td></tr><tr CLASS="alt"><td>d20</td><td>10,5</td></tr></table>
+
 
 ''(*) Arrondissez toujours vers le bas après la  
 multiplication. Par exemple, la moyenne de 1d4  
@@ -131,40 +73,9 @@ L’étape suivante dans la création d’un monstre consiste à déterminer app
 
 <center>
 {s:Reference|TAB12}
-{| CLASS="tablo" STYLE="width:80%"
-|+ Nombre de dés de vie des créatures
-|- CLASS="titre"
-| ROWSPAN="2" | Type de créature
-| COLSPAN="21" CLASS="avecsoustitre" | Facteur de puissance
-|- CLASS="titre"
-| 1/2 || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9 || 10 || 11 || 12 || 13 || 14 || 15 || 16 || 17 || 18 || 19 || 20
-|- CLASS="premier"
-| [[type Aberration|Aberration]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 34
-|- CLASS="alt"
-| [[type Animal|Animal]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 34
-|-
-| [[type Créature artificielle|Créature artificielle]] || 1 || 2 || 3 || 4 || 5 || 6 || 8 || 9 || 10 || 12 || 13 || 14 || 16 || 18 || 19 || 20 || 21 || 23 || 25 || 28 || 31
-|- CLASS="alt"
-| [[type Créature magique|Créature magique]] || 1 || 2 || 3 || 4 || 5 || 6 || 8 || 9 || 10 || 12 || 13 || 14 || 16 || 18 || 19 || 20 || 21 || 23 || 25 || 28 || 31
-|-
-| [[type Dragon|Dragon]] || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9 || 11 || 12 || 13 || 14 || 16 || 17 || 18 || 19 || 21 || 23 || 25 || 29
-|- CLASS="alt"
-| [[type Extérieur|Extérieur]] || 1 || 2 || 3 || 4 || 5 || 6 || 8 || 9 || 10 || 12 || 13 || 14 || 16 || 18 || 19 || 20 || 21 || 23 || 25 || 28 || 31
-|-
-| [[type Fée|Fée]] || 2 || 3 || 4 || 5 || 6 || 8 || 10 || 12 || 13 || 15 || 17 || 18 || 20 || 22 || 23 || 25 || 26 || 28 || 31 || 33 || 37
-|- CLASS="alt"
-| [[type Humanoïde|Humanoïde]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 34
-|-
-| [[type Humanoïde monstrueux|Humanoïde monstrueux]] || 1 || 2 || 3 || 4 || 5 || 6 || 8 || 9 || 10 || 12 || 13 || 14 || 16 || 18 || 19 || 20 || 21 || 23 || 25 || 28 || 31
-|- CLASS="alt"
-| [[type Mort-vivant|Mort-vivant]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 34
-|-
-| [[type Plante|Plante]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 34
-|- CLASS="alt"
-| [[type Vase|Vase]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 34
-|-
-| [[type Vermine|Vermine]] || 1 || 2 || 3 || 4 || 5 || 7 || 9 || 10 || 12 || 14 || 15 || 16 || 17 || 19 || 20 || 22 || 24 || 26 || 28 || 30 || 32
-|}
+
+<table CLASS="tablo" STYLE="width:80%"><caption>Nombre de dés de vie des créatures</caption><tr CLASS="titre"><td ROWSPAN="2">Type de créature</td><td COLSPAN="21" CLASS="avecsoustitre">Facteur de puissance</td></tr><tr CLASS="titre"><td>1/2</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr><tr CLASS="premier"><td>[[type Aberration|Aberration]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>34</td></tr><tr CLASS="alt"><td>[[type Animal|Animal]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>34</td></tr><tr><td>[[type Créature artificielle|Créature artificielle]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>8</td><td>9</td><td>10</td><td>12</td><td>13</td><td>14</td><td>16</td><td>18</td><td>19</td><td>20</td><td>21</td><td>23</td><td>25</td><td>28</td><td>31</td></tr><tr CLASS="alt"><td>[[type Créature magique|Créature magique]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>8</td><td>9</td><td>10</td><td>12</td><td>13</td><td>14</td><td>16</td><td>18</td><td>19</td><td>20</td><td>21</td><td>23</td><td>25</td><td>28</td><td>31</td></tr><tr><td>[[type Dragon|Dragon]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>11</td><td>12</td><td>13</td><td>14</td><td>16</td><td>17</td><td>18</td><td>19</td><td>21</td><td>23</td><td>25</td><td>29</td></tr><tr CLASS="alt"><td>[[type Extérieur|Extérieur]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>8</td><td>9</td><td>10</td><td>12</td><td>13</td><td>14</td><td>16</td><td>18</td><td>19</td><td>20</td><td>21</td><td>23</td><td>25</td><td>28</td><td>31</td></tr><tr><td>[[type Fée|Fée]]</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>8</td><td>10</td><td>12</td><td>13</td><td>15</td><td>17</td><td>18</td><td>20</td><td>22</td><td>23</td><td>25</td><td>26</td><td>28</td><td>31</td><td>33</td><td>37</td></tr><tr CLASS="alt"><td>[[type Humanoïde|Humanoïde]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>34</td></tr><tr><td>[[type Humanoïde monstrueux|Humanoïde monstrueux]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>8</td><td>9</td><td>10</td><td>12</td><td>13</td><td>14</td><td>16</td><td>18</td><td>19</td><td>20</td><td>21</td><td>23</td><td>25</td><td>28</td><td>31</td></tr><tr CLASS="alt"><td>[[type Mort-vivant|Mort-vivant]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>34</td></tr><tr><td>[[type Plante|Plante]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>34</td></tr><tr CLASS="alt"><td>[[type Vase|Vase]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>34</td></tr><tr><td>[[type Vermine|Vermine]]</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>7</td><td>9</td><td>10</td><td>12</td><td>14</td><td>15</td><td>16</td><td>17</td><td>19</td><td>20</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>32</td></tr></table>
+
 </center>
 
 Le nombre total de DV d’une créature dépend de plusieurs facteurs, mais les deux plus importants sont son FP et son type. La table ci-dessus indique, pour chaque type de créature, le nombre moyen de [[DV]] pour un [[FP]] donné. La plupart des monstres du bestiaire utilisent des valeurs proches de celles indiquées sur ce tableau mais ce n’est pas le cas de tous. C’est parce que le nombre de points de vie de certains monstres a été ajusté (vers le haut ou vers le bas) pour compenser une [[CA]] ou des protections exceptionnelles.
@@ -175,36 +86,11 @@ Le nombre total de DV d’une créature dépend de plusieurs facteurs, mais les 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 {s:Reference|TAB13}
-{| CLASS="tablo"
-|+ Taille
-|- CLASS="titre avecsoustitre"
-| ROWSPAN="2" | Taille
-| ROWSPAN="2" | FP  
-minimal
-| ROWSPAN="2" | FP  
-maximal
-| COLSPAN="3" | Valeurs de base
-|- CLASS="soustitre"
-| For || Dex || Con
-|- CLASS="premier"
-| Infime || — || 2 || 1 || 18 || 8
-|- CLASS="alt"
-| Minuscule || — || 4 || 1 || 16 || 8
-|-
-| Très Petit || — || 6 || 2 || 14 || 8
-|- CLASS="alt"
-| Petit || — || — || 6 || 12 || 8
-|-
-| Moyen || — || — || 10 || 10 || 10
-|- CLASS="alt"
-| Grand || 2 || — || 18 || 8 || 14
-|-
-| Très Grand || 4 || — || 26 || 6 || 18
-|- CLASS="alt"
-| Gigantesque || 6 || — || 34 || 6 || 22
-|-
-| Colossal || 8 || — || 42 || 6 || 26
-|}</div></div>
+
+<table CLASS="tablo"><caption>Taille</caption><tr CLASS="titre avecsoustitre"><td ROWSPAN="2">Taille</td><td ROWSPAN="2">FP  
+minimal</td><td ROWSPAN="2">FP  
+maximal</td><td COLSPAN="3">Valeurs de base</td></tr><tr CLASS="soustitre"><td>For</td><td>Dex</td><td>Con</td></tr><tr CLASS="premier"><td>Infime</td><td>—</td><td>2</td><td>1</td><td>18</td><td>8</td></tr><tr CLASS="alt"><td>Minuscule</td><td>—</td><td>4</td><td>1</td><td>16</td><td>8</td></tr><tr><td>Très Petit</td><td>—</td><td>6</td><td>2</td><td>14</td><td>8</td></tr><tr CLASS="alt"><td>Petit</td><td>—</td><td>—</td><td>6</td><td>12</td><td>8</td></tr><tr><td>Moyen</td><td>—</td><td>—</td><td>10</td><td>10</td><td>10</td></tr><tr CLASS="alt"><td>Grand</td><td>2</td><td>—</td><td>18</td><td>8</td><td>14</td></tr><tr><td>Très Grand</td><td>4</td><td>—</td><td>26</td><td>6</td><td>18</td></tr><tr CLASS="alt"><td>Gigantesque</td><td>6</td><td>—</td><td>34</td><td>6</td><td>22</td></tr><tr><td>Colossal</td><td>8</td><td>—</td><td>42</td><td>6</td><td>26</td></tr></table></div></div>
+
 Maintenant que les valeurs moyennes de la créature sont connues, il est temps de choisir sa taille. Pour la plupart des créatures, celle-ci varie entre P et TG, mais on rencontre parfois d’autres tailles. La taille d’une créature permet d’estimer les valeurs de ses caractéristiques physiques et les dégâts infligés par ses attaques naturelles (comme indiqué dans la description des attaques naturelles dans les règles universelles pour les monstres. Vous devriez choisir une taille qui correspond au rôle que la créature est censée jouer ainsi qu’à son FP. Si vous optez pour une taille inhabituelle pour le nombre de DV ou le FP du monstre, vous devrez justifier votre choix dans sa description et y expliquer pourquoi vous vous êtes écarté des normes. La plupart des monstres de taille inhabituelle sont de nature (fortement) magique. Consultez la table ci-contre pour plus de précisions sur les tailles des créatures et les valeurs moyennes associées.
 
 **FP minimal/maximal.** Ces valeurs indiquent l’intervalle dans lequel devrait se situer le FP d’une créature de la taille indiquée.
@@ -224,37 +110,9 @@ Utilisez la table ci-dessous pour déterminer le nombre de points de compétence
 
 <center>
 {s:Reference|TAB14}
-{| CLASS="tablo" STYLE="width:90%"
-|+ Valeurs des creatures selon leur type
-|- CLASS="titre"
-| Type || DV || Bonus de base à l’attaque (BBA) || Jets de sauvegarde forts || Rangs de compétence*
-|- CLASS="premier"
-| [[type Aberration|Aberration]] || d8 || DV × 3/4 (BBA moyen) || Vol || 4 + mod d’Int par DV
-|- CLASS="alt"
-| [[type Animal|Animal]] || d8 || DV × 3/4 (BBA moyen) || Ref, Vig || 2 + mod d’Int par DV
-|-
-| [[type Créature artificielle|Créature artificielle]] || d10 || DV (BBA fort) || — || 2 + mod d’Int par DV
-|- CLASS="alt"
-| [[type Créature magique|Créature magique]] || d10 || DV (BBA fort) || Ref, Vig || 2 + mod d’Int par DV
-|-
-| [[type Dragon|Dragon]] || d12 || DV (BBA fort) || Ref, Vig, Vol || 6 + mod d’Int par DV
-|- CLASS="alt"
-| [[type Extérieur|Extérieur]] || d10 || DV (BBA fort) || deux catégories (variable) || 6 + mod d’Int par DV
-|-
-| [[type Fée|Fée]] || d6 || DV × 1/2 (BBA faible) || Ref, Vol || 6 + mod d’Int par DV
-|- CLASS="alt"
-| [[type Humanoïde|Humanoïde]] || d8 || DV × 3/4 (BBA moyen) || une catégorie (variable) || 2 + mod d’Int par DV
-|-
-| [[type Humanoïde monstrueux|Humanoïde monstrueux]] || d10 || DV (BBA fort) || Ref, Vol || 4 + mod d’Int par DV
-|- CLASS="alt"
-| [[type Mort-vivant|Mort-vivant]] || d8 || DV × 3/4 (BBA moyen) || Vol || 4 + mod d’Int par DV
-|-
-| [[type Plante|Plante]] || d8 || DV × 3/4 (BBA moyen) || Vig || 2 + mod d’Int par DV
-|- CLASS="alt"
-| [[type Vase|Vase]] || d8 || DV × 3/4 (BBA moyen) || — || 2 + mod d’Int par DV
-|-
-| [[type Vermine|Vermine]] || d8 || DV × 3/4 (BBA moyen) || Vig || 2 + mod d’Int par DV
-|}
+
+<table CLASS="tablo" STYLE="width:90%"><caption>Valeurs des creatures selon leur type</caption><tr CLASS="titre"><td>Type</td><td>DV</td><td>Bonus de base à l’attaque (BBA)</td><td>Jets de sauvegarde forts</td><td>Rangs de compétence*</td></tr><tr CLASS="premier"><td>[[type Aberration|Aberration]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>Vol</td><td>4 + mod d’Int par DV</td></tr><tr CLASS="alt"><td>[[type Animal|Animal]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>Ref, Vig</td><td>2 + mod d’Int par DV</td></tr><tr><td>[[type Créature artificielle|Créature artificielle]]</td><td>d10</td><td>DV (BBA fort)</td><td>—</td><td>2 + mod d’Int par DV</td></tr><tr CLASS="alt"><td>[[type Créature magique|Créature magique]]</td><td>d10</td><td>DV (BBA fort)</td><td>Ref, Vig</td><td>2 + mod d’Int par DV</td></tr><tr><td>[[type Dragon|Dragon]]</td><td>d12</td><td>DV (BBA fort)</td><td>Ref, Vig, Vol</td><td>6 + mod d’Int par DV</td></tr><tr CLASS="alt"><td>[[type Extérieur|Extérieur]]</td><td>d10</td><td>DV (BBA fort)</td><td>deux catégories (variable)</td><td>6 + mod d’Int par DV</td></tr><tr><td>[[type Fée|Fée]]</td><td>d6</td><td>DV × 1/2 (BBA faible)</td><td>Ref, Vol</td><td>6 + mod d’Int par DV</td></tr><tr CLASS="alt"><td>[[type Humanoïde|Humanoïde]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>une catégorie (variable)</td><td>2 + mod d’Int par DV</td></tr><tr><td>[[type Humanoïde monstrueux|Humanoïde monstrueux]]</td><td>d10</td><td>DV (BBA fort)</td><td>Ref, Vol</td><td>4 + mod d’Int par DV</td></tr><tr CLASS="alt"><td>[[type Mort-vivant|Mort-vivant]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>Vol</td><td>4 + mod d’Int par DV</td></tr><tr><td>[[type Plante|Plante]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>Vig</td><td>2 + mod d’Int par DV</td></tr><tr CLASS="alt"><td>[[type Vase|Vase]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>—</td><td>2 + mod d’Int par DV</td></tr><tr><td>[[type Vermine|Vermine]]</td><td>d8</td><td>DV × 3/4 (BBA moyen)</td><td>Vig</td><td>2 + mod d’Int par DV</td></tr></table>
+
 ** Les créatures qui ont une Intelligence supérieur ou égale à 1 reçoivent au minimum 1 point de compétence par dé de vie. Celles dont la valeur d’Intelligence est « — » ne gagnent aucun point de compétence et aucun don.*
 </center>
 
@@ -266,76 +124,14 @@ Une fois les points de compétence distribués, il est temps de choisir les dons
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 {s:Reference|TAB16}
-{| CLASS="tablo"
-|+ Évolution des valeurs
-|- CLASS="titre"
-| DV || BBA  
-fort || BBA  
-moyen || BBA  
-faible || JdS  
-fort || JdS  
-faible || Dons
-|- CLASS="premier"
-| 1 || +1 || +0 || +0 || +2 || +0 || 1
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +3 || +0 || 1
-|-
-| 3 || +3 || +2 || +1 || +3 || +1 || 2
-|- CLASS="alt"
-| 4 || +4 || +3 || +2 || +4 || +1 || 2
-|-
-| 5 || +5 || +3 || +2 || +4 || +1 || 3
-|- CLASS="alt"
-| 6 || +6 || +4 || +3 || +5 || +2 || 3
-|-
-| 7 || +7 || +5 || +3 || +5 || +2 || 4
-|- CLASS="alt"
-| 8 || +8 || +6 || +4 || +6 || +2 || 4
-|-
-| 9 || +9 || +6 || +4 || +6 || +3 || 5
-|- CLASS="alt"
-| 10 || +10 || +7 || +5 || +7 || +3 || 5
-|-
-| 11 || +11 || +8 || +5 || +7 || +3 || 6
-|- CLASS="alt"
-| 12 || +12 || +9 || +6 || +8 || +4 || 6
-|-
-| 13 || +13 || +9 || +6 || +8 || +4 || 7
-|- CLASS="alt"
-| 14 || +14 || +10 || +7 || +9 || +4 || 7
-|-
-| 15 || +15 || +11 || +7 || +9 || +5 || 8
-|- CLASS="alt"
-| 16 || +16 || +12 || +8 || +10 || +5 || 8
-|-
-| 17 || +17 || +12 || +8 || +10 || +5 || 9
-|- CLASS="alt"
-| 18 || +18 || +13 || +9 || +11 || +6 || 9
-|-
-| 19 || +19 || +14 || +9 || +11 || +6 || 10
-|- CLASS="alt"
-| 20 || +20 || +15 || +10 || +12 || +6 || 10
-|-
-| 21 || +21 || +15 || +10 || +12 || +7 || 11
-|- CLASS="alt"
-| 22 || +22 || +16 || +11 || +13 || +7 || 11
-|-
-| 23 || +23 || +17 || +11 || +13 || +7 || 12
-|- CLASS="alt"
-| 24 || +24 || +18 || +12 || +14 || +8 || 12
-|-
-| 25 || +25 || +18 || +12 || +14 || +8 || 13
-|- CLASS="alt"
-| 26 || +26 || +19 || +13 || +15 || +8 || 13
-|-
-| 27 || +27 || +20 || +13 || +15 || +9 || 14
-|- CLASS="alt"
-| 28 || +28 || +21 || +14 || +16 || +9 || 14
-|-
-| 29 || +29 || +21 || +14 || +16 || +9 || 15
-|- CLASS="alt"
-| 30 || +30 || +22 || +15 || +17 || +10 || 15
-|}</div></div>
+
+<table CLASS="tablo"><caption>Évolution des valeurs</caption><tr CLASS="titre"><td>DV</td><td>BBA  
+fort</td><td>BBA  
+moyen</td><td>BBA  
+faible</td><td>JdS  
+fort</td><td>JdS  
+faible</td><td>Dons</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+0</td><td>+2</td><td>+0</td><td>1</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td>+0</td><td>1</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+1</td><td>+3</td><td>+1</td><td>2</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+3</td><td>+2</td><td>+4</td><td>+1</td><td>2</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+2</td><td>+4</td><td>+1</td><td>3</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+4</td><td>+3</td><td>+5</td><td>+2</td><td>3</td></tr><tr><td>7</td><td>+7</td><td>+5</td><td>+3</td><td>+5</td><td>+2</td><td>4</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+6</td><td>+4</td><td>+6</td><td>+2</td><td>4</td></tr><tr><td>9</td><td>+9</td><td>+6</td><td>+4</td><td>+6</td><td>+3</td><td>5</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+7</td><td>+5</td><td>+7</td><td>+3</td><td>5</td></tr><tr><td>11</td><td>+11</td><td>+8</td><td>+5</td><td>+7</td><td>+3</td><td>6</td></tr><tr CLASS="alt"><td>12</td><td>+12</td><td>+9</td><td>+6</td><td>+8</td><td>+4</td><td>6</td></tr><tr><td>13</td><td>+13</td><td>+9</td><td>+6</td><td>+8</td><td>+4</td><td>7</td></tr><tr CLASS="alt"><td>14</td><td>+14</td><td>+10</td><td>+7</td><td>+9</td><td>+4</td><td>7</td></tr><tr><td>15</td><td>+15</td><td>+11</td><td>+7</td><td>+9</td><td>+5</td><td>8</td></tr><tr CLASS="alt"><td>16</td><td>+16</td><td>+12</td><td>+8</td><td>+10</td><td>+5</td><td>8</td></tr><tr><td>17</td><td>+17</td><td>+12</td><td>+8</td><td>+10</td><td>+5</td><td>9</td></tr><tr CLASS="alt"><td>18</td><td>+18</td><td>+13</td><td>+9</td><td>+11</td><td>+6</td><td>9</td></tr><tr><td>19</td><td>+19</td><td>+14</td><td>+9</td><td>+11</td><td>+6</td><td>10</td></tr><tr CLASS="alt"><td>20</td><td>+20</td><td>+15</td><td>+10</td><td>+12</td><td>+6</td><td>10</td></tr><tr><td>21</td><td>+21</td><td>+15</td><td>+10</td><td>+12</td><td>+7</td><td>11</td></tr><tr CLASS="alt"><td>22</td><td>+22</td><td>+16</td><td>+11</td><td>+13</td><td>+7</td><td>11</td></tr><tr><td>23</td><td>+23</td><td>+17</td><td>+11</td><td>+13</td><td>+7</td><td>12</td></tr><tr CLASS="alt"><td>24</td><td>+24</td><td>+18</td><td>+12</td><td>+14</td><td>+8</td><td>12</td></tr><tr><td>25</td><td>+25</td><td>+18</td><td>+12</td><td>+14</td><td>+8</td><td>13</td></tr><tr CLASS="alt"><td>26</td><td>+26</td><td>+19</td><td>+13</td><td>+15</td><td>+8</td><td>13</td></tr><tr><td>27</td><td>+27</td><td>+20</td><td>+13</td><td>+15</td><td>+9</td><td>14</td></tr><tr CLASS="alt"><td>28</td><td>+28</td><td>+21</td><td>+14</td><td>+16</td><td>+9</td><td>14</td></tr><tr><td>29</td><td>+29</td><td>+21</td><td>+14</td><td>+16</td><td>+9</td><td>15</td></tr><tr CLASS="alt"><td>30</td><td>+30</td><td>+22</td><td>+15</td><td>+17</td><td>+10</td><td>15</td></tr></table></div></div>
+
 En utilisant la [[#TAB11|table des valeurs cibles]], la [[#TAB14|table des valeurs des créatures selon leur type]] et la [[#TAB16|table d'évolution des valeurs]], vous pouvez maintenant déterminer plusieurs des autres valeurs apparaissant dans le profil de la créature.
 
 Pour la [[CA|classe d’armure]], commencez par ajouter les bonus d’armure, de bouclier et d’armure naturelle au modificateur de [[Dextérité]]. Si la créature ne porte pas d’armure, donnez-lui une peau épaisse pour approcher de la CA cible. Souvenez-vous que les créatures dotées d’un grand nombre de [[pv|points de vie]] peuvent avoir une CA plus faible alors que celles qui ont moins de points de vie que la moyenne peuvent bénéficier d’une CA plus élevée. Si la CA de la créature s’écarte de la moyenne de plus de 5 points, le FP pourrait ne plus être correct.
@@ -362,71 +158,9 @@ La quantité de trésor associée à une créature devra correspondre à son FP.
 
 <center>
 {s:Reference|TAB17}
-{| CLASS="tablo"
-|+ Expérience et or selon le FP
-|- CLASS="titre"
-| FP || Expérience || lent || moyen || rapide
-|- CLASS="premier"
-| 1/8 || 50 || 20 po || 35 po || 50 po
-|- CLASS="alt"
-| 1/6 || 65 || 30 po || 45 po || 65 po
-|-
-| 1/4 || 100 || 40 po || 65 po || 100 po
-|- CLASS="alt"
-| 1/3 || 135 || 55 po || 85 po || 135 po
-|-
-| 1/2 || 200 || 85 po || 130 po || 200 po
-|- CLASS="alt"
-| 1 || 400 || 170 po || 260 po || 400 po
-|-
-| 2 || 600 || 350 po || 550 po || 800 po
-|- CLASS="alt"
-| 3 || 800 || 550 po || 800 po || 1 200 po
-|-
-| 4 || 1 200 || 750 po || 1 150 po || 1 700 po
-|- CLASS="alt"
-| 5 || 1 600 || 1 000 po || 1 550 po || 2 300 po
-|-
-| 6 || 2 400 || 1 350 po || 2 000 po || 3 000 po
-|- CLASS="alt"
-| 7 || 3 200 || 1 750 po || 2 600 po || 3 900 po
-|-
-| 8 || 4 800 || 2 200 po || 3 350 po || 5 000 po
-|- CLASS="alt"
-| 9 || 6 400 || 2 850 po || 4 250 po || 6 400 po
-|-
-| 10 || 9 600 || 3 650 po || 5 450 po || 8 200 po
-|- CLASS="alt"
-| 11 || 12 800 || 4 650 po || 7 000 po || 10 500 po
-|-
-| 12 || 19 200 || 6 000 po || 9 000 po || 13 500 po
-|- CLASS="alt"
-| 13 || 25 600 || 7 750 po || 11 600 po || 17 500 po
-|-
-| 14 || 38 400 || 10 000 po || 15 000 po || 22 000 po
-|- CLASS="alt"
-| 15 || 51 200 || 13 000 po || 19 500 po || 29 000 po
-|-
-| 16 || 76 800 || 16 500 po || 25 000 po || 38 000 po
-|- CLASS="alt"
-| 17 || 102 400 || 22 000 po || 32 000 po || 48 000 po
-|-
-| 18 || 153 600 || 28 000 po || 41 000 po || 62 000 po
-|- CLASS="alt"
-| 19 || 204 800 || 35 000 po || 53 000 po || 79 000 po
-|-
-| 20 || 307 200 || 44 000 po || 67 000 po || 100 000 po
-|- CLASS="alt"
-| 21 || 409 600 || 56 000 po || 84 000 po || 126 000 po
-|-
-| 22 || 615 000 || 70 000 po || 105 000 po || 158 000 po
-|- CLASS="alt"
-| 23 || 820 000 || 88 000 po || 132 000 po || 198 000 po
-|-
-| 24 || 1 230 000 || 110 000 po || 165 000 po || 248 000 po
-|- CLASS="alt"
-| 25 || 1 640 000 || 138 000 po || 208 000 po || 312 000 po
-|}
+
+<table CLASS="tablo"><caption>Expérience et or selon le FP</caption><tr CLASS="titre"><td>FP</td><td>Expérience</td><td>lent</td><td>moyen</td><td>rapide</td></tr><tr CLASS="premier"><td>1/8</td><td>50</td><td>20 po</td><td>35 po</td><td>50 po</td></tr><tr CLASS="alt"><td>1/6</td><td>65</td><td>30 po</td><td>45 po</td><td>65 po</td></tr><tr><td>1/4</td><td>100</td><td>40 po</td><td>65 po</td><td>100 po</td></tr><tr CLASS="alt"><td>1/3</td><td>135</td><td>55 po</td><td>85 po</td><td>135 po</td></tr><tr><td>1/2</td><td>200</td><td>85 po</td><td>130 po</td><td>200 po</td></tr><tr CLASS="alt"><td>1</td><td>400</td><td>170 po</td><td>260 po</td><td>400 po</td></tr><tr><td>2</td><td>600</td><td>350 po</td><td>550 po</td><td>800 po</td></tr><tr CLASS="alt"><td>3</td><td>800</td><td>550 po</td><td>800 po</td><td>1 200 po</td></tr><tr><td>4</td><td>1 200</td><td>750 po</td><td>1 150 po</td><td>1 700 po</td></tr><tr CLASS="alt"><td>5</td><td>1 600</td><td>1 000 po</td><td>1 550 po</td><td>2 300 po</td></tr><tr><td>6</td><td>2 400</td><td>1 350 po</td><td>2 000 po</td><td>3 000 po</td></tr><tr CLASS="alt"><td>7</td><td>3 200</td><td>1 750 po</td><td>2 600 po</td><td>3 900 po</td></tr><tr><td>8</td><td>4 800</td><td>2 200 po</td><td>3 350 po</td><td>5 000 po</td></tr><tr CLASS="alt"><td>9</td><td>6 400</td><td>2 850 po</td><td>4 250 po</td><td>6 400 po</td></tr><tr><td>10</td><td>9 600</td><td>3 650 po</td><td>5 450 po</td><td>8 200 po</td></tr><tr CLASS="alt"><td>11</td><td>12 800</td><td>4 650 po</td><td>7 000 po</td><td>10 500 po</td></tr><tr><td>12</td><td>19 200</td><td>6 000 po</td><td>9 000 po</td><td>13 500 po</td></tr><tr CLASS="alt"><td>13</td><td>25 600</td><td>7 750 po</td><td>11 600 po</td><td>17 500 po</td></tr><tr><td>14</td><td>38 400</td><td>10 000 po</td><td>15 000 po</td><td>22 000 po</td></tr><tr CLASS="alt"><td>15</td><td>51 200</td><td>13 000 po</td><td>19 500 po</td><td>29 000 po</td></tr><tr><td>16</td><td>76 800</td><td>16 500 po</td><td>25 000 po</td><td>38 000 po</td></tr><tr CLASS="alt"><td>17</td><td>102 400</td><td>22 000 po</td><td>32 000 po</td><td>48 000 po</td></tr><tr><td>18</td><td>153 600</td><td>28 000 po</td><td>41 000 po</td><td>62 000 po</td></tr><tr CLASS="alt"><td>19</td><td>204 800</td><td>35 000 po</td><td>53 000 po</td><td>79 000 po</td></tr><tr><td>20</td><td>307 200</td><td>44 000 po</td><td>67 000 po</td><td>100 000 po</td></tr><tr CLASS="alt"><td>21</td><td>409 600</td><td>56 000 po</td><td>84 000 po</td><td>126 000 po</td></tr><tr><td>22</td><td>615 000</td><td>70 000 po</td><td>105 000 po</td><td>158 000 po</td></tr><tr CLASS="alt"><td>23</td><td>820 000</td><td>88 000 po</td><td>132 000 po</td><td>198 000 po</td></tr><tr><td>24</td><td>1 230 000</td><td>110 000 po</td><td>165 000 po</td><td>248 000 po</td></tr><tr CLASS="alt"><td>25</td><td>1 640 000</td><td>138 000 po</td><td>208 000 po</td><td>312 000 po</td></tr></table>
+
 </center>
 
 

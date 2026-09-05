@@ -40,27 +40,5 @@ La victime doit réussir un nouveau jet de sauvegarde à chaque round pour mettr
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine du Néant
-| Sous-domaine de l'Isolation || Sous-domaine des Étoiles || Sous-domaine de la Sombre Tapisserie
-|- CLASS="premier"
-| 1er || *[[feuille morte]]* || *idem* || *idem* || *idem*
-|-
-| 2e || *[[lévitation]]* || *idem* || *[[lueurs hypnotiques]]* || *[[convocation de monstres II]]*
-|-
-| 3e || *[[vol]]* || *idem* || *idem* ||  *idem*
-|-
-| 4e || *[[contrat]]* || *[[désespoir foudroyant]]* || *idem* || *idem*
-|-
-| 5e || *[[vol supérieur]]* || *idem* || *idem* || *[[convocation de monstres V]]*
-|-
-| 6e || *[[contrat intermédiaire]]* || *[[mur de force]]* || *idem* || *idem*
-|-
-| 7e || *[[inversion de la gravité]]* || *idem* || *[[rayon de soleil]]* || *[[aliénation mentale]]*
-|-
-| 8e || *[[contrat suprême]]* || *[[mur prismatique]]* || *idem* || *idem*
-|-
-| 9e || *[[téléportation interplanétaire]]* || *idem* || *[[nuée de météores]]* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Néant</td><td>Sous-domaine de l'Isolation</td><td>Sous-domaine des Étoiles</td><td>Sous-domaine de la Sombre Tapisserie</td></tr><tr CLASS="premier"><td>1er</td><td>*[[feuille morte]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[lévitation]]*</td><td>*idem*</td><td>*[[lueurs hypnotiques]]*</td><td>*[[convocation de monstres II]]*</td></tr><tr><td>3e</td><td>*[[vol]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[contrat]]*</td><td>*[[désespoir foudroyant]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[vol supérieur]]*</td><td>*idem*</td><td>*idem*</td><td>*[[convocation de monstres V]]*</td></tr><tr><td>6e</td><td>*[[contrat intermédiaire]]*</td><td>*[[mur de force]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[inversion de la gravité]]*</td><td>*idem*</td><td>*[[rayon de soleil]]*</td><td>*[[aliénation mentale]]*</td></tr><tr><td>8e</td><td>*[[contrat suprême]]*</td><td>*[[mur prismatique]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[téléportation interplanétaire]]*</td><td>*idem*</td><td>*[[nuée de météores]]*</td><td>*idem*</td></tr></table>

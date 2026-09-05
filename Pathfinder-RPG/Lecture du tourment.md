@@ -25,48 +25,14 @@ Si le personnage a accès à un jeu du tourment, il tire neuf cartes au moment d
 Les malus persistent aussi longtemps que dure le tourment mais les bonus sont « à usage unique, » le personnage peut les utiliser quand il le désire pour modifier un test associé à la carte. Le personnage peut dépenser un bonus pour modifier un test approprié une fois le dé lancé, mais obligatoirement avant de connaître le résultat. Comme tous les bonus du tourment sont des bonus de chance, ils ne se cumulent pas entre eux. En revanche, les malus s’additionnent. Une fois que le personnage a utilisé tous les bonus accordés par la *lecture du tourment*, ou une fois que la durée du sort a expiré, le sort se termine et les malus disparaissent. Une créature ne peut bénéficier que d’une *lecture du tourment* à la fois. S’il en reçoit une autre alors que la première fait encore effet, la nouvelle lecture échoue automatiquement.
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Familles associées aux tests
-|- CLASS="titre"
-| Famille || Test associé
-|- CLASS="premier"
-| Marteau (For) || [[jet dattaque|Jets d’attaque]] (à distance et en mêlée)
-|-
-| Clef (Dex) || Jets de [[Réflexes]]
-|-
-| Bouclier (Con) || Jets de [[Vigueur]]
-|-
-| Livre (Int) || [[Compétences#TESTSDECOMPETENCES|Tests de compétence]]
-|-
-| Étoile (Sag) || Jets de [[Volonté]]
-|-
-| Couronne (Cha) || N’importe quel jet de d20
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Familles associées aux tests</caption><tr CLASS="titre"><td>Famille</td><td>Test associé</td></tr><tr CLASS="premier"><td>Marteau (For)</td><td>[[jet dattaque|Jets d’attaque]] (à distance et en mêlée)</td></tr><tr><td>Clef (Dex)</td><td>Jets de [[Réflexes]]</td></tr><tr><td>Bouclier (Con)</td><td>Jets de [[Vigueur]]</td></tr><tr><td>Livre (Int)</td><td>[[Compétences#TESTSDECOMPETENCES|Tests de compétence]]</td></tr><tr><td>Étoile (Sag)</td><td>Jets de [[Volonté]]</td></tr><tr><td>Couronne (Cha)</td><td>N’importe quel jet de d20</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Alignements opposés
-|- CLASS="titre"
-| Alignement || Désaccord
-|- CLASS="premier"
-| LB || CM
-|-
-| NB || NM
-|-
-| CB || LM
-|-
-| LN || CN
-|-
-| N || LB, LM, CB ou CM  
-(en choisir un quand le sort est lancé)
-|-
-| CN || LN
-|-
-| LM || CB
-|-
-| NM || NB
-|-
-| CM || LB
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Alignements opposés</caption><tr CLASS="titre"><td>Alignement</td><td>Désaccord</td></tr><tr CLASS="premier"><td>LB</td><td>CM</td></tr><tr><td>NB</td><td>NM</td></tr><tr><td>CB</td><td>LM</td></tr><tr><td>LN</td><td>CN</td></tr><tr><td>N</td><td>LB, LM, CB ou CM  
+(en choisir un quand le sort est lancé)</td></tr><tr><td>CN</td><td>LN</td></tr><tr><td>LM</td><td>CB</td></tr><tr><td>NM</td><td>NB</td></tr><tr><td>CM</td><td>LB</td></tr></table>
+
 </td></tr></table>
 
 ### Mythique

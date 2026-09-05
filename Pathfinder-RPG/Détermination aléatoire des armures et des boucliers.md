@@ -11,628 +11,95 @@ Categories:
 {s:MenuOpposition}{s:AE}
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Armure ou bouclier aléatoire
-|- CLASS="titre"
-| D100 || Type d'armure ou de bouclier
-|- CLASS="premier"
-| 01-04 || [[crevice (armure)|crevice]]
-|-
-| 05-11 || [[cuirasse (armure)|cuirasse]]
-|-
-| 12-14 || [[targe (armure)|targe]]
-|-
-| 15-21 || [[chemise de mailles (armure)|chemise de mailles]]
-|-
-| 22-27 || [[cotte de mailles (armure)|cotte de mailles]]
-|-
-| 28-34 || [[harnois (armure)|harnois]]
-|-
-| 35-39 || [[armure de plaques (armure)|armure de plaques]]
-|-
-| 40-45 || [[écu (armure)|écu en acier]]
-|-
-| 46-51 || [[écu (armure)|écu en bois]]
-|-
-| 52-55 || [[armure de peau (armure)|armure de peau]]
-|-
-| 56-61 || [[armure de cuir (armure)|armure de cuir]]
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Armure ou bouclier aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Type d'armure ou de bouclier</td></tr><tr CLASS="premier"><td>01-04</td><td>[[crevice (armure)|crevice]]</td></tr><tr><td>05-11</td><td>[[cuirasse (armure)|cuirasse]]</td></tr><tr><td>12-14</td><td>[[targe (armure)|targe]]</td></tr><tr><td>15-21</td><td>[[chemise de mailles (armure)|chemise de mailles]]</td></tr><tr><td>22-27</td><td>[[cotte de mailles (armure)|cotte de mailles]]</td></tr><tr><td>28-34</td><td>[[harnois (armure)|harnois]]</td></tr><tr><td>35-39</td><td>[[armure de plaques (armure)|armure de plaques]]</td></tr><tr><td>40-45</td><td>[[écu (armure)|écu en acier]]</td></tr><tr><td>46-51</td><td>[[écu (armure)|écu en bois]]</td></tr><tr><td>52-55</td><td>[[armure de peau (armure)|armure de peau]]</td></tr><tr><td>56-61</td><td>[[armure de cuir (armure)|armure de cuir]]</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-| 62-65 || [[rondache (armure)|rondache en acier]]
-|-
-| 66-69 || [[rondache (armure)|rondache en bois]]
-|-
-| 70-72 || [[armure matelassée (armure)|armure matelassée]]
-|-
-| 73-77 || [[armure décailles (armure)|armure d'écailles]]
-|-
-| 78-81 || [[clibanion (armure)|clibanion]]
-|-
-| 82-87 || [[armure de cuir cloutée (armure)|armure de cuir cloutée]]
-|-
-| 88-90 || [[pavois (armure)|pavois]]
-|-
-| 91-93 || autre [[armure légère]]*
-|-
-| 94-95 || autre [[armure intermédiaire]]*
-|-
-| 96-98 || autre [[armure lourde]]*
-|-
-| 99-100 || autre [[bouclier]]*
-|- CLASS="note"
-| | COLSPAN="2" | *(*) Consultez le [[tableau récapitulatif des armures]] pour un vaste choix d'armures et de boucliers.*
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>62-65</td><td>[[rondache (armure)|rondache en acier]]</td></tr><tr><td>66-69</td><td>[[rondache (armure)|rondache en bois]]</td></tr><tr><td>70-72</td><td>[[armure matelassée (armure)|armure matelassée]]</td></tr><tr><td>73-77</td><td>[[armure décailles (armure)|armure d'écailles]]</td></tr><tr><td>78-81</td><td>[[clibanion (armure)|clibanion]]</td></tr><tr><td>82-87</td><td>[[armure de cuir cloutée (armure)|armure de cuir cloutée]]</td></tr><tr><td>88-90</td><td>[[pavois (armure)|pavois]]</td></tr><tr><td>91-93</td><td>autre [[armure légère]]*</td></tr><tr><td>94-95</td><td>autre [[armure intermédiaire]]*</td></tr><tr><td>96-98</td><td>autre [[armure lourde]]*</td></tr><tr><td>99-100</td><td>autre [[bouclier]]*</td></tr><tr CLASS="note"><td | COLSPAN="2">*(*) Consultez le [[tableau récapitulatif des armures]] pour un vaste choix d'armures et de boucliers.*</td></tr></table>
+
 </td></tr></table>
 
 ## Détermination aléatoire des armures et boucliers magiques
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Armure ou bouclier magique aléatoire
-|- CLASS="titre"
-| D100 || Armure ou bouclier faible inférieur
-|- CLASS="premier"
-| 01-80 || Armure ou bouclier +1
-|-
-| 81-100 || Armure ou bouclier spécifique faible inférieure
-|- CLASS="titre"
-| </sup> || &emsp;
-|- CLASS="titre"
-| D100 || Armure ou bouclier faible supérieur
-|- CLASS="premier"
-| 01-26 || Armure ou bouclier +1
-|-
-| 27-53 || Armure ou bouclier +2
-|-
-| 54-80 || Armure ou bouclier +1 avec une propriété spéciale +1
-|-
-| 81-100 || Armure ou bouclier spécifique faible supérieure
-|- CLASS="titre"
-| </sup> || &emsp;
-|- CLASS="titre"
-| D100 || Armure ou bouclier intermédiaire inférieur
-|- CLASS="premier"
-| 01-10 || Armure ou bouclier +1
-|-
-| 11-20 || Armure ou bouclier +2
-|-
-| 21-32 || Armure ou bouclier +3
-|-
-| 33-44 || Armure ou bouclier +1 avec une propriété spéciale +1
-|-
-| 45-56 || Armure ou bouclier +1 avec deux propriétés spéciales +1
-|-
-| 57-68 || Armure ou bouclier +1 avec une propriété spéciale +2
-|-
-| 69-80 || Armure ou bouclier +2 avec une propriété spéciale +1
-|-
-| 81-100 || Armure ou bouclier spécifique intermédiaire inférieure
-|- CLASS="titre"
-| </sup> || &emsp;
-|- CLASS="titre"
-| D100 || Armure ou bouclier intermédiaire supérieur
-|- CLASS="premier"
-| 01-10 || Armure ou bouclier +2
-|-
-| 11-22 || Armure ou bouclier +3
-|-
-| 23-32 || Armure ou bouclier +1 avec une propriété spéciale +1
-|-
-| 33-44 || Armure ou bouclier +1 avec une propriété spéciale +2
-|-
-| 45-56 || Armure ou bouclier +2 avec une propriété spéciale +1
-|-
-| 57-68 || Armure ou bouclier +2 avec une propriété spéciale +2
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Armure ou bouclier magique aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Armure ou bouclier faible inférieur</td></tr><tr CLASS="premier"><td>01-80</td><td>Armure ou bouclier +1</td></tr><tr><td>81-100</td><td>Armure ou bouclier spécifique faible inférieure</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td></tr><tr CLASS="titre"><td>D100</td><td>Armure ou bouclier faible supérieur</td></tr><tr CLASS="premier"><td>01-26</td><td>Armure ou bouclier +1</td></tr><tr><td>27-53</td><td>Armure ou bouclier +2</td></tr><tr><td>54-80</td><td>Armure ou bouclier +1 avec une propriété spéciale +1</td></tr><tr><td>81-100</td><td>Armure ou bouclier spécifique faible supérieure</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td></tr><tr CLASS="titre"><td>D100</td><td>Armure ou bouclier intermédiaire inférieur</td></tr><tr CLASS="premier"><td>01-10</td><td>Armure ou bouclier +1</td></tr><tr><td>11-20</td><td>Armure ou bouclier +2</td></tr><tr><td>21-32</td><td>Armure ou bouclier +3</td></tr><tr><td>33-44</td><td>Armure ou bouclier +1 avec une propriété spéciale +1</td></tr><tr><td>45-56</td><td>Armure ou bouclier +1 avec deux propriétés spéciales +1</td></tr><tr><td>57-68</td><td>Armure ou bouclier +1 avec une propriété spéciale +2</td></tr><tr><td>69-80</td><td>Armure ou bouclier +2 avec une propriété spéciale +1</td></tr><tr><td>81-100</td><td>Armure ou bouclier spécifique intermédiaire inférieure</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td></tr><tr CLASS="titre"><td>D100</td><td>Armure ou bouclier intermédiaire supérieur</td></tr><tr CLASS="premier"><td>01-10</td><td>Armure ou bouclier +2</td></tr><tr><td>11-22</td><td>Armure ou bouclier +3</td></tr><tr><td>23-32</td><td>Armure ou bouclier +1 avec une propriété spéciale +1</td></tr><tr><td>33-44</td><td>Armure ou bouclier +1 avec une propriété spéciale +2</td></tr><tr><td>45-56</td><td>Armure ou bouclier +2 avec une propriété spéciale +1</td></tr><tr><td>57-68</td><td>Armure ou bouclier +2 avec une propriété spéciale +2</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-| 69-80 || Armure ou bouclier +3 avec une propriété spéciale +1
-|-
-| 81-100 || Armure ou bouclier spécifique intermédiaire supérieure
-|- CLASS="titre"
-| </sup> || &emsp;
-|- CLASS="titre"
-| D100 || Armure ou bouclier puissant inférieur
-|- CLASS="premier"
-| 01-10 || Armure ou bouclier +3
-|-
-| 11-22 || Armure ou bouclier +4
-|-
-| 23-32 || Armure ou bouclier +1 avec une propriété spéciale +2
-|-
-| 33-44 || Armure ou bouclier +1 avec une propriété spéciale +3
-|-
-| 45-56 || Armure ou bouclier +2 avec une propriété spéciale +2
-|-
-| 57-68 || Armure ou bouclier +3 avec une propriété spéciale +1
-|-
-| 69-80 || Armure ou bouclier +4 avec une propriété spéciale +1
-|-
-| 81-100 || Armure ou bouclier spécifique puissante inférieure
-|- CLASS="titre"
-| </sup> || &emsp;
-|- CLASS="titre"
-| D100 || Armure ou bouclier puissant supérieur
-|- CLASS="premier"
-| 01-10 || Armure ou bouclier +4
-|-
-| 11-20 || Armure ou bouclier +5
-|-
-| 21-30 || Armure ou bouclier +4 avec une propriété spéciale +1
-|-
-| 31-38 || Armure ou bouclier +4 avec une propriété spéciale +2
-|-
-| 39-46 || Armure ou bouclier +4 avec une propriété spéciale +3
-|-
-| 47-51 || Armure ou bouclier +4 avec une propriété spéciale +4
-|-
-| 52-59 || Armure ou bouclier +5 avec une propriété spéciale +1
-|-
-| 60-67 || Armure ou bouclier +5 avec une propriété spéciale +2
-|-
-| 68-71 || Armure ou bouclier +5 avec une propriété spéciale +3
-|-
-| 72-74 || Armure ou bouclier +5 avec deux propriétés spéciales +2
-|-
-| 75-77 || Armure ou bouclier +5 avec une propriété spéciale +4
-|-
-| 78-80 || Armure ou bouclier +5 avec une propriété spéciale +5
-|-
-| 81-100 || Armure ou bouclier spécifique puissant supérieur
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>69-80</td><td>Armure ou bouclier +3 avec une propriété spéciale +1</td></tr><tr><td>81-100</td><td>Armure ou bouclier spécifique intermédiaire supérieure</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td></tr><tr CLASS="titre"><td>D100</td><td>Armure ou bouclier puissant inférieur</td></tr><tr CLASS="premier"><td>01-10</td><td>Armure ou bouclier +3</td></tr><tr><td>11-22</td><td>Armure ou bouclier +4</td></tr><tr><td>23-32</td><td>Armure ou bouclier +1 avec une propriété spéciale +2</td></tr><tr><td>33-44</td><td>Armure ou bouclier +1 avec une propriété spéciale +3</td></tr><tr><td>45-56</td><td>Armure ou bouclier +2 avec une propriété spéciale +2</td></tr><tr><td>57-68</td><td>Armure ou bouclier +3 avec une propriété spéciale +1</td></tr><tr><td>69-80</td><td>Armure ou bouclier +4 avec une propriété spéciale +1</td></tr><tr><td>81-100</td><td>Armure ou bouclier spécifique puissante inférieure</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td></tr><tr CLASS="titre"><td>D100</td><td>Armure ou bouclier puissant supérieur</td></tr><tr CLASS="premier"><td>01-10</td><td>Armure ou bouclier +4</td></tr><tr><td>11-20</td><td>Armure ou bouclier +5</td></tr><tr><td>21-30</td><td>Armure ou bouclier +4 avec une propriété spéciale +1</td></tr><tr><td>31-38</td><td>Armure ou bouclier +4 avec une propriété spéciale +2</td></tr><tr><td>39-46</td><td>Armure ou bouclier +4 avec une propriété spéciale +3</td></tr><tr><td>47-51</td><td>Armure ou bouclier +4 avec une propriété spéciale +4</td></tr><tr><td>52-59</td><td>Armure ou bouclier +5 avec une propriété spéciale +1</td></tr><tr><td>60-67</td><td>Armure ou bouclier +5 avec une propriété spéciale +2</td></tr><tr><td>68-71</td><td>Armure ou bouclier +5 avec une propriété spéciale +3</td></tr><tr><td>72-74</td><td>Armure ou bouclier +5 avec deux propriétés spéciales +2</td></tr><tr><td>75-77</td><td>Armure ou bouclier +5 avec une propriété spéciale +4</td></tr><tr><td>78-80</td><td>Armure ou bouclier +5 avec une propriété spéciale +5</td></tr><tr><td>81-100</td><td>Armure ou bouclier spécifique puissant supérieur</td></tr></table>
+
 </td></tr></table>
 
 ## Détermination des propriétés spéciales des armures et boucliers magiques
 ### Propriétés spéciales des armures
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Propriété spéciale d'armure aléatoire
-|- CLASS="titre"
-| D100 || Propriété spéciale d'armure +1 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-06 || *[[Soutien (propriété armure)|Soutien]]* || +2 000 po
-|-
-| 07-12 || *[[Résistance au poison (propriété)|Résistance au poison]]* || +2 250 po
-|-
-| 13-18 || *[[Équilibrée (propriété)|Équilibrée]]* || bonus de +1
-|-
-| 19-24 || *[[Amertume (propriété)|Amertume]]* || bonus de +1
-|-
-| 25-30 || *[[Renforcement (propriété)|Renforcement]]* || bonus de +1
-|-
-| 31-36 || *[[Pugilat (propriété)|Pugilat]]* || bonus de +1
-|-
-| 37-42 || *[[Championne (propriété)|Championne]]* || bonus de +1
-|-
-| 43-48 || *[[Fourberie (propriété)|Fourberie]]* || bonus de +1
-|-
-| 49-54 || *[[Immortalité (propriété)|Immortalité]]* || bonus de +1
-|-
-| 55-60 || *[[Opposition (propriété)|Opposition]]* || bonus de +1
-|-
-| 61-66 || *[[Défense légère (propriété)|Défense (légère)]]* || bonus de +1
-|-
-| 67-71 || *[[Barbelée (propriété)|Barbelée]]* || bonus de +1
-|-
-| 72-76 || *[[Solide (propriété armure)|Solide]]* || bonus de +1
-|-
-| 77-82 || *[[Miroir (propriété)|Miroir]]* || bonus de +1
-|-
-| 83-88 || *[[Stockage de sort (propriété armure)|Stockage de sort]]* || bonus de +1
-|-
-| 89-94 || *[[Garrot (propriété)|Garrot]]* || bonus de +1
-|-
-| 95-100 || *[[Prévention (propriété)|Prévention]]* || bonus de +1
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Propriété spéciale d'armure +2 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-12 || *[[Mimétisme (propriété armure)|Mimétisme]]* || +2 700 po
-|-
-| 13-24 || *[[Joute (propriété)|Joute]]* || +3 750 po
-|-
-| 25-38 || *[[Ombre (propriété)|Ombre]]* || +3 750 po
-|-
-| 39-52 || *[[Graisseuse (propriété)|Graisseuse]]* || +3 750 po
-|-
-| 53-64 || *[[Expéditive (propriété)|Expéditive]]* || +4 000 po
-|-
-| 65-76 || *[[Discrétion (propriété)|Discrétion]]* || +5 000 po
-|-
-| 77-88 || *[[Ralliement (propriété)|Ralliement]]* || +5 000 po
-|-
-| 89-100 || *[[Résistance à la magie 13 (propriété)|Résistance à la magie (13)]]* || bonus de +2
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Propriété spéciale d'armure +3 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-08 || *[[Adhésive (propriété)|Adhésive]]* || +7 000 po
-|-
-| 09-17 || *[[Niche (propriété)|Niche]]* || +7 500 po
-|-
-| 18-26 || *[[Éclatante (propriété)|Éclatante]]* || +7 500 po
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Propriété spéciale d'armure aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Propriété spéciale d'armure +1</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-06</td><td>*[[Soutien (propriété armure)|Soutien]]*</td><td>+2 000 po</td></tr><tr><td>07-12</td><td>*[[Résistance au poison (propriété)|Résistance au poison]]*</td><td>+2 250 po</td></tr><tr><td>13-18</td><td>*[[Équilibrée (propriété)|Équilibrée]]*</td><td>bonus de +1</td></tr><tr><td>19-24</td><td>*[[Amertume (propriété)|Amertume]]*</td><td>bonus de +1</td></tr><tr><td>25-30</td><td>*[[Renforcement (propriété)|Renforcement]]*</td><td>bonus de +1</td></tr><tr><td>31-36</td><td>*[[Pugilat (propriété)|Pugilat]]*</td><td>bonus de +1</td></tr><tr><td>37-42</td><td>*[[Championne (propriété)|Championne]]*</td><td>bonus de +1</td></tr><tr><td>43-48</td><td>*[[Fourberie (propriété)|Fourberie]]*</td><td>bonus de +1</td></tr><tr><td>49-54</td><td>*[[Immortalité (propriété)|Immortalité]]*</td><td>bonus de +1</td></tr><tr><td>55-60</td><td>*[[Opposition (propriété)|Opposition]]*</td><td>bonus de +1</td></tr><tr><td>61-66</td><td>*[[Défense légère (propriété)|Défense (légère)]]*</td><td>bonus de +1</td></tr><tr><td>67-71</td><td>*[[Barbelée (propriété)|Barbelée]]*</td><td>bonus de +1</td></tr><tr><td>72-76</td><td>*[[Solide (propriété armure)|Solide]]*</td><td>bonus de +1</td></tr><tr><td>77-82</td><td>*[[Miroir (propriété)|Miroir]]*</td><td>bonus de +1</td></tr><tr><td>83-88</td><td>*[[Stockage de sort (propriété armure)|Stockage de sort]]*</td><td>bonus de +1</td></tr><tr><td>89-94</td><td>*[[Garrot (propriété)|Garrot]]*</td><td>bonus de +1</td></tr><tr><td>95-100</td><td>*[[Prévention (propriété)|Prévention]]*</td><td>bonus de +1</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Propriété spéciale d'armure +2</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-12</td><td>*[[Mimétisme (propriété armure)|Mimétisme]]*</td><td>+2 700 po</td></tr><tr><td>13-24</td><td>*[[Joute (propriété)|Joute]]*</td><td>+3 750 po</td></tr><tr><td>25-38</td><td>*[[Ombre (propriété)|Ombre]]*</td><td>+3 750 po</td></tr><tr><td>39-52</td><td>*[[Graisseuse (propriété)|Graisseuse]]*</td><td>+3 750 po</td></tr><tr><td>53-64</td><td>*[[Expéditive (propriété)|Expéditive]]*</td><td>+4 000 po</td></tr><tr><td>65-76</td><td>*[[Discrétion (propriété)|Discrétion]]*</td><td>+5 000 po</td></tr><tr><td>77-88</td><td>*[[Ralliement (propriété)|Ralliement]]*</td><td>+5 000 po</td></tr><tr><td>89-100</td><td>*[[Résistance à la magie 13 (propriété)|Résistance à la magie (13)]]*</td><td>bonus de +2</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Propriété spéciale d'armure +3</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-08</td><td>*[[Adhésive (propriété)|Adhésive]]*</td><td>+7 000 po</td></tr><tr><td>09-17</td><td>*[[Niche (propriété)|Niche]]*</td><td>+7 500 po</td></tr><tr><td>18-26</td><td>*[[Éclatante (propriété)|Éclatante]]*</td><td>+7 500 po</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|-
-| 27-36 || *[[Fouisseuse (propriété)|Fouisseuse]]* || +10 000 po
-|-
-| 37-45 || *[[Putride (propriété)|Putride]]* || +10 000 po
-|-
-| 46-55 || *[[Défense intermédiaire (propriété)|Défense (intermédiaire)]]* || bonus de +3
-|-
-| 56-65 || *[[Spectrale (propriété armure)|Spectrale]]* || bonus de +3
-|-
-| 66-74 || *[[Invulnérabilité (propriété)|Invulnérabilité]]* || bonus de +3
-|-
-| 75-84 || *[[Résistance à la magie 15 (propriété)|Résistance à la magie (15)]]* || bonus de +3
-|-
-| 85-92 || *[[Titanesque (propriété)|Titanesque]]* || bonus de +3
-|-
-| 93-100 || *[[Forme animale (propriété)|Forme animale]]* || bonus de +3
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-|   
-D100 ||   
-Propriété spéciale d'armure +4 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-16 || *[[Harmonique (propriété)|Harmonique]]* || +15 000 po
-|-
-| 17-33 || *[[Ombre supérieure (propriété)|Ombre supérieure]]* || +15 000 po
-|-
-| 34-50 || *[[Graisseuse supérieure (propriété)|Graisseuse supérieure]]* || +15 000 po
-|-
-| 51-67 || *[[Résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]* || +18 000 po
-|-
-| 68-83 || *[[Martyr (propriété)|Martyr]]* || +18 000 po
-|-
-| 84-100 || *[[Résistance à la magie 17 (propriété)|Résistance à la magie (17)]]* || bonus de +4
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-|   
-D100 ||   
-Propriété spéciale d'armure +5 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-08 || *[[Vertueuse (propriété)|Vertueuse]]* || +27 000 po
-|-
-| 09-15 || *[[Libertaire (propriété)|Libertaire]]* || +27 000 po
-|-
-| 16-23 || *[[Impie (propriété armure)|Impie]]* || +27 000 po
-|-
-| 24-30 || *[[Vigilante (propriété)|Vigilante]]* || +27 000 po
-|-
-| 31-37 || *[[Détermination (propriété)|Détermination]]* || +30 000 po
-|-
-| 38-45 || *[[Ombre suprême (propriété)|Ombre suprême]]* || +33 750 po
-|-
-| 46-53 || *[[Graisseuse suprême (propriété)|Graisseuse suprême]]* || +33 750 po
-|-
-| 54-61 || *[[Résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]* || +42 000 po
-|-
-| 62-69 || *[[Éthérée (propriété)|Éthérée]]* || +49 000 po
-|-
-| 70-76 || *[[Contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]* || +49 000 po
-|-
-| 77-84 || *[[Résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]* || +66 000 po
-|-
-| 85-92 || *[[Défense lourde (propriété)|Défense (lourde)]]* || bonus de +5
-|-
-| 93-100 || *[[Résistance à la magie 19 (propriété)|Résistance à la magie (19)]]* || bonus de +5
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>27-36</td><td>*[[Fouisseuse (propriété)|Fouisseuse]]*</td><td>+10 000 po</td></tr><tr><td>37-45</td><td>*[[Putride (propriété)|Putride]]*</td><td>+10 000 po</td></tr><tr><td>46-55</td><td>*[[Défense intermédiaire (propriété)|Défense (intermédiaire)]]*</td><td>bonus de +3</td></tr><tr><td>56-65</td><td>*[[Spectrale (propriété armure)|Spectrale]]*</td><td>bonus de +3</td></tr><tr><td>66-74</td><td>*[[Invulnérabilité (propriété)|Invulnérabilité]]*</td><td>bonus de +3</td></tr><tr><td>75-84</td><td>*[[Résistance à la magie 15 (propriété)|Résistance à la magie (15)]]*</td><td>bonus de +3</td></tr><tr><td>85-92</td><td>*[[Titanesque (propriété)|Titanesque]]*</td><td>bonus de +3</td></tr><tr><td>93-100</td><td>*[[Forme animale (propriété)|Forme animale]]*</td><td>bonus de +3</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>  
+D100</td><td>  
+Propriété spéciale d'armure +4</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-16</td><td>*[[Harmonique (propriété)|Harmonique]]*</td><td>+15 000 po</td></tr><tr><td>17-33</td><td>*[[Ombre supérieure (propriété)|Ombre supérieure]]*</td><td>+15 000 po</td></tr><tr><td>34-50</td><td>*[[Graisseuse supérieure (propriété)|Graisseuse supérieure]]*</td><td>+15 000 po</td></tr><tr><td>51-67</td><td>*[[Résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]*</td><td>+18 000 po</td></tr><tr><td>68-83</td><td>*[[Martyr (propriété)|Martyr]]*</td><td>+18 000 po</td></tr><tr><td>84-100</td><td>*[[Résistance à la magie 17 (propriété)|Résistance à la magie (17)]]*</td><td>bonus de +4</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>  
+D100</td><td>  
+Propriété spéciale d'armure +5</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-08</td><td>*[[Vertueuse (propriété)|Vertueuse]]*</td><td>+27 000 po</td></tr><tr><td>09-15</td><td>*[[Libertaire (propriété)|Libertaire]]*</td><td>+27 000 po</td></tr><tr><td>16-23</td><td>*[[Impie (propriété armure)|Impie]]*</td><td>+27 000 po</td></tr><tr><td>24-30</td><td>*[[Vigilante (propriété)|Vigilante]]*</td><td>+27 000 po</td></tr><tr><td>31-37</td><td>*[[Détermination (propriété)|Détermination]]*</td><td>+30 000 po</td></tr><tr><td>38-45</td><td>*[[Ombre suprême (propriété)|Ombre suprême]]*</td><td>+33 750 po</td></tr><tr><td>46-53</td><td>*[[Graisseuse suprême (propriété)|Graisseuse suprême]]*</td><td>+33 750 po</td></tr><tr><td>54-61</td><td>*[[Résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]*</td><td>+42 000 po</td></tr><tr><td>62-69</td><td>*[[Éthérée (propriété)|Éthérée]]*</td><td>+49 000 po</td></tr><tr><td>70-76</td><td>*[[Contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]*</td><td>+49 000 po</td></tr><tr><td>77-84</td><td>*[[Résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]*</td><td>+66 000 po</td></tr><tr><td>85-92</td><td>*[[Défense lourde (propriété)|Défense (lourde)]]*</td><td>bonus de +5</td></tr><tr><td>93-100</td><td>*[[Résistance à la magie 19 (propriété)|Résistance à la magie (19)]]*</td><td>bonus de +5</td></tr></table>
+
 </td></tr></table>
 
 ### Propriétés spéciales des boucliers
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Propriété spéciale de bouclier aléatoire
-|- CLASS="titre"
-| D100 || Propriété spéciale de bouclier +1 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-10 || *[[Résistance au poison (propriété)|Résistance au poison]]* || +2 250 po
-|-
-| 11-19 || *[[Interception de projectile (propriété)|Interception de projectile]]* || bonus de +1
-|-
-| 20-28 || *[[Attaque (propriété)|Attaque]]* || bonus de +1
-|-
-| 29-37 || *[[Aveuglante (propriété)|Aveuglante]]* || bonus de +1
-|-
-| 38-46 || *[[Retentissant (propriété)|Retentissant]]* || bonus de +1
-|-
-| 47-55 || *[[Opposition (propriété)|Opposition]]* || bonus de +1
-|-
-| 56-64 || *[[Défense légère (propriété)|Défense (légère)]]* || bonus de +1
-|-
-| 65-73 || *[[Barbelée (propriété)|Barbelée]]* || bonus de +1
-|-
-| 74-82 || *[[Solide (propriété armure)|Solide]]* || bonus de +1
-|-
-| 83-91 || *[[Miroir (propriété)|Miroir]]* || bonus de +1
-|-
-| 92-100 || *[[Bélier (propriété)|Bélier]]* || bonus de +1
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Propriété spéciale de bouclier +2 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-15 || *[[Ralliement (propriété)|Ralliement]]* || +5 700 po
-|-
-| 16-30 || *[[Souffle draconique (propriété)|Souffle draconique]]* || +5 000 po
-|-
-| 31-50 || *[[Animée (propriété)|Animée]]* || bonus de +2
-|-
-| 51-67 || *[[Anti-projectiles (propriété)|Anti-projectiles]]* || bonus de +2
-|-
-| 68-82 || *[[Fusion (propriété)|Fusion]]* || bonus de +2
-|-
-| 83-100 || *[[Résistance à la magie 13 (propriété)|Résistance à la magie (13)]]* || bonus de +2
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Propriété spéciale de bouclier aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Propriété spéciale de bouclier +1</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-10</td><td>*[[Résistance au poison (propriété)|Résistance au poison]]*</td><td>+2 250 po</td></tr><tr><td>11-19</td><td>*[[Interception de projectile (propriété)|Interception de projectile]]*</td><td>bonus de +1</td></tr><tr><td>20-28</td><td>*[[Attaque (propriété)|Attaque]]*</td><td>bonus de +1</td></tr><tr><td>29-37</td><td>*[[Aveuglante (propriété)|Aveuglante]]*</td><td>bonus de +1</td></tr><tr><td>38-46</td><td>*[[Retentissant (propriété)|Retentissant]]*</td><td>bonus de +1</td></tr><tr><td>47-55</td><td>*[[Opposition (propriété)|Opposition]]*</td><td>bonus de +1</td></tr><tr><td>56-64</td><td>*[[Défense légère (propriété)|Défense (légère)]]*</td><td>bonus de +1</td></tr><tr><td>65-73</td><td>*[[Barbelée (propriété)|Barbelée]]*</td><td>bonus de +1</td></tr><tr><td>74-82</td><td>*[[Solide (propriété armure)|Solide]]*</td><td>bonus de +1</td></tr><tr><td>83-91</td><td>*[[Miroir (propriété)|Miroir]]*</td><td>bonus de +1</td></tr><tr><td>92-100</td><td>*[[Bélier (propriété)|Bélier]]*</td><td>bonus de +1</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Propriété spéciale de bouclier +2</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-15</td><td>*[[Ralliement (propriété)|Ralliement]]*</td><td>+5 700 po</td></tr><tr><td>16-30</td><td>*[[Souffle draconique (propriété)|Souffle draconique]]*</td><td>+5 000 po</td></tr><tr><td>31-50</td><td>*[[Animée (propriété)|Animée]]*</td><td>bonus de +2</td></tr><tr><td>51-67</td><td>*[[Anti-projectiles (propriété)|Anti-projectiles]]*</td><td>bonus de +2</td></tr><tr><td>68-82</td><td>*[[Fusion (propriété)|Fusion]]*</td><td>bonus de +2</td></tr><tr><td>83-100</td><td>*[[Résistance à la magie 13 (propriété)|Résistance à la magie (13)]]*</td><td>bonus de +2</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|- CLASS="titre"
-|   
-D100 ||   
-Propriété spéciale de bouclier +3 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-15 || *[[Niche (propriété)|Niche]]* || +7 500 po
-|-
-| 16-32 || *[[Éclatante (propriété)|Éclatante]]* || +7 500 po
-|-
-| 33-49 || *[[Défense intermédiaire (propriété)|Défense (intermédiaire)]]* || bonus de +3
-|-
-| 50-66 || *[[Spectrale (propriété armure)|Spectrale]]* || bonus de +3
-|-
-| 67-83 || *[[Résistance à la magie 15 (propriété)|Résistance à la magie (15)]]* || bonus de +3
-|-
-| 84-100 || *[[Forme animale (propriété)|Forme animale]]* || bonus de +3
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-|   
-D100 ||   
-Propriété spéciale de bouclier +4 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-50 || *[[Résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]* || +18 000 po
-|-
-| 51-100 || *[[Résistance à la magie 17 (propriété)|Résistance à la magie (17)]]* || bonus de +4
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-|   
-D100 ||   
-Propriété spéciale de bouclier +5 || Mod. au prix  
-de base
-|- CLASS="premier"
-| 01-11 || *[[Détermination (propriété)|Détermination]]* || +30 000 po
-|-
-| 12-27 || *[[Résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]* || +42 000 po
-|-
-| 28-38 || *[[Contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]* || +49 000 po
-|-
-| 39-55 || *[[Résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]* || +66 000 po
-|-
-| 56-70 || *[[Défense lourde (propriété)|Défense (lourde)]]* || bonus de +5
-|-
-| 71-85 || *[[Réfléchissante (propriété)|Réfléchissante]]* || bonus de +5
-|-
-| 86-100 || *[[Résistance à la magie 19 (propriété)|Résistance à la magie (19)]]* || bonus de +5
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><tr CLASS="titre"><td>  
+D100</td><td>  
+Propriété spéciale de bouclier +3</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-15</td><td>*[[Niche (propriété)|Niche]]*</td><td>+7 500 po</td></tr><tr><td>16-32</td><td>*[[Éclatante (propriété)|Éclatante]]*</td><td>+7 500 po</td></tr><tr><td>33-49</td><td>*[[Défense intermédiaire (propriété)|Défense (intermédiaire)]]*</td><td>bonus de +3</td></tr><tr><td>50-66</td><td>*[[Spectrale (propriété armure)|Spectrale]]*</td><td>bonus de +3</td></tr><tr><td>67-83</td><td>*[[Résistance à la magie 15 (propriété)|Résistance à la magie (15)]]*</td><td>bonus de +3</td></tr><tr><td>84-100</td><td>*[[Forme animale (propriété)|Forme animale]]*</td><td>bonus de +3</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>  
+D100</td><td>  
+Propriété spéciale de bouclier +4</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-50</td><td>*[[Résistance aux énergies destructives (propriété)|Résistance aux énergies destructives]]*</td><td>+18 000 po</td></tr><tr><td>51-100</td><td>*[[Résistance à la magie 17 (propriété)|Résistance à la magie (17)]]*</td><td>bonus de +4</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>  
+D100</td><td>  
+Propriété spéciale de bouclier +5</td><td>Mod. au prix  
+de base</td></tr><tr CLASS="premier"><td>01-11</td><td>*[[Détermination (propriété)|Détermination]]*</td><td>+30 000 po</td></tr><tr><td>12-27</td><td>*[[Résistance supérieure aux énergies destructives (propriété)|Résistance supérieure aux énergies destructives]]*</td><td>+42 000 po</td></tr><tr><td>28-38</td><td>*[[Contrôle des morts-vivants (propriété)|Contrôle des morts-vivants]]*</td><td>+49 000 po</td></tr><tr><td>39-55</td><td>*[[Résistance suprême aux énergies destructives (propriété)|Résistance suprême aux énergies destructives]]*</td><td>+66 000 po</td></tr><tr><td>56-70</td><td>*[[Défense lourde (propriété)|Défense (lourde)]]*</td><td>bonus de +5</td></tr><tr><td>71-85</td><td>*[[Réfléchissante (propriété)|Réfléchissante]]*</td><td>bonus de +5</td></tr><tr><td>86-100</td><td>*[[Résistance à la magie 19 (propriété)|Résistance à la magie (19)]]*</td><td>bonus de +5</td></tr></table>
+
 </td></tr></table>
 
 ## Détermination des armures et boucliers magiques spécifiques
 ### Armures magiques spécifiques
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Armure magique spécifique aléatoire
-|- CLASS="titre"
-| D100 || Armure magique spécifique faible inférieure || Prix(po)
-|- CLASS="premier"
-| 01-50 || [[Chemise de mailles en mithral]] || 1 100
-|-
-| 51-100 || Armure de maître ou armure non-magique  
-fabriqué dans un matériau spécial || variable
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Armure magique spécifique faible supérieure || Prix(po)
-|- CLASS="premier"
-| 01-33 || [[Maillebrume]] || 2 250
-|-
-| 34-66 || [[Armure en peau dotyugh|Armure en peau d’otyugh]] || 2 565
-|-
-| 67-100 || [[Harnois en peau de dragon]] || 3 300
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Armure magique spécifique intermédiaire inférieure || Prix(po)
-|- CLASS="premier"
-| 01-33 || [[Cotte de mailles elfique]] || 5 150
-|-
-| 34-66 || [[Armure en peau de rhinocéros]] || 5 165
-|-
-| 67-100 || [[Armure en peau de morlock]] || 8 910
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Armure magique spécifique intermédiaire supérieure || Prix(po)
-|- CLASS="premier"
-| 01-15 || [[Cuirasse en adamantium]] || 10 200
-|-
-| 16-25 || [[Habits du devin]] || 10 300
-|-
-| 26-38 || [[Armure équestre]] || 10 650
-|-
-| 39-50 || [[Armure en peau danguille enchantée|Armure en peau d’anguille enchantée]] || 11 160
-|-
-| 51-62 || [[Armure de contorsionniste]] || 12 160
-|-
-| 63-72 || [[Habits noirs du meurtrier]] || 12 405
-|-
-| 73-86 || [[Armure pliante]] || 12 650
-|-
-| 87-100 || [[Cuirasse de volatilisation]] || 15 200
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Armure magique spécifique puissante inférieure || Prix(po)
-|- CLASS="premier"
-| 01-13 || [[Armure dinsultes|Armure d’insultes]] || 16 175
-|}
-</td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-| 14-29 || [[Harnois nain]] || 16 500
-|-
-| 30-45 || [[Crevice de la seconde chance]] || 18 900
-|-
-| 46-58 || [[Armure en peau de chat]] || 18 910
-|-
-| 59-71 || [[Armure céleste]] || 22 400
-|-
-| 72-84 || [[Cuirasse du boucanier]] || 23 850
-|-
-| 85-100 || [[Harnois des profondeurs]] || 24 650
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Armure magique spécifique puissante supérieure || Prix(po)
-|- CLASS="premier"
-| 01-10 || [[Cuirasse de commandement]] || 25 400
-|-
-| 11-14 || [[Crevice impie]] || 25 400
-|-
-| 15-24 || [[Harnois en mithral de vitesse]] || 26 500
-|-
-| 25-28 || [[Gardien des forêts]] || 29 350
-|-
-| 29-32 || [[Cuirasse-scarabée]] || 32 350
-|-
-| 33-38 || [[Armure en peau de géant]]  
-(ogre) || 39 165
-|-
-| 39-42 || [[Armure en peau dhamatula|Armure en peau d’hamatula]] || 44 215
-|-
-| 43-48 || [[Armure en peau de géant]]  
-(géant des collines) || 46 665
-|-
-| 49-52 || [[Armure démoniaque]] || 52 260
-|-
-| 53-58 || [[Armure en peau de géant]]  
-(géant de pierre, de feu ou de froid) || 54 165
 
-|-
-| 59-64 || [[Armure en peau de géant]]  
-(troll) || 59 165
-|-
-| 65-70 || [[Cotte de mailles de malveillance]] || 61 300
-|-
-| 71-76 || [[Armure en peau de géant]]  
-(géant des nuages) || 69 165
-|-
-| 77-82 || [[Armure en peau de géant]]  
-(géant des tempêtes) || 76 665
-|-
-| 83-88 || [[Astre du jour]] || 81 250
-|-
-| 89-96 || [[Armure dinvincibilité|Armure d’invincibilité]] || 137 650
-|-
-| 97-100 || [[Harnois prismatique]] || 160 650
-|}
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Armure magique spécifique aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Armure magique spécifique faible inférieure</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-50</td><td>[[Chemise de mailles en mithral]]</td><td>1 100</td></tr><tr><td>51-100</td><td>Armure de maître ou armure non-magique  
+fabriqué dans un matériau spécial</td><td>variable</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Armure magique spécifique faible supérieure</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-33</td><td>[[Maillebrume]]</td><td>2 250</td></tr><tr><td>34-66</td><td>[[Armure en peau dotyugh|Armure en peau d’otyugh]]</td><td>2 565</td></tr><tr><td>67-100</td><td>[[Harnois en peau de dragon]]</td><td>3 300</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Armure magique spécifique intermédiaire inférieure</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-33</td><td>[[Cotte de mailles elfique]]</td><td>5 150</td></tr><tr><td>34-66</td><td>[[Armure en peau de rhinocéros]]</td><td>5 165</td></tr><tr><td>67-100</td><td>[[Armure en peau de morlock]]</td><td>8 910</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Armure magique spécifique intermédiaire supérieure</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-15</td><td>[[Cuirasse en adamantium]]</td><td>10 200</td></tr><tr><td>16-25</td><td>[[Habits du devin]]</td><td>10 300</td></tr><tr><td>26-38</td><td>[[Armure équestre]]</td><td>10 650</td></tr><tr><td>39-50</td><td>[[Armure en peau danguille enchantée|Armure en peau d’anguille enchantée]]</td><td>11 160</td></tr><tr><td>51-62</td><td>[[Armure de contorsionniste]]</td><td>12 160</td></tr><tr><td>63-72</td><td>[[Habits noirs du meurtrier]]</td><td>12 405</td></tr><tr><td>73-86</td><td>[[Armure pliante]]</td><td>12 650</td></tr><tr><td>87-100</td><td>[[Cuirasse de volatilisation]]</td><td>15 200</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Armure magique spécifique puissante inférieure</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-13</td><td>[[Armure dinsultes|Armure d’insultes]]</td><td>16 175</td></tr></table>
+
+</td><td width="50%">
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>14-29</td><td>[[Harnois nain]]</td><td>16 500</td></tr><tr><td>30-45</td><td>[[Crevice de la seconde chance]]</td><td>18 900</td></tr><tr><td>46-58</td><td>[[Armure en peau de chat]]</td><td>18 910</td></tr><tr><td>59-71</td><td>[[Armure céleste]]</td><td>22 400</td></tr><tr><td>72-84</td><td>[[Cuirasse du boucanier]]</td><td>23 850</td></tr><tr><td>85-100</td><td>[[Harnois des profondeurs]]</td><td>24 650</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Armure magique spécifique puissante supérieure</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-10</td><td>[[Cuirasse de commandement]]</td><td>25 400</td></tr><tr><td>11-14</td><td>[[Crevice impie]]</td><td>25 400</td></tr><tr><td>15-24</td><td>[[Harnois en mithral de vitesse]]</td><td>26 500</td></tr><tr><td>25-28</td><td>[[Gardien des forêts]]</td><td>29 350</td></tr><tr><td>29-32</td><td>[[Cuirasse-scarabée]]</td><td>32 350</td></tr><tr><td>33-38</td><td>[[Armure en peau de géant]]  
+(ogre)</td><td>39 165</td></tr><tr><td>39-42</td><td>[[Armure en peau dhamatula|Armure en peau d’hamatula]]</td><td>44 215</td></tr><tr><td>43-48</td><td>[[Armure en peau de géant]]  
+(géant des collines)</td><td>46 665</td></tr><tr><td>49-52</td><td>[[Armure démoniaque]]</td><td>52 260</td></tr><tr><td>53-58</td><td>[[Armure en peau de géant]]  
+(géant de pierre, de feu ou de froid)</td><td>54 165</td></tr><tr><td>59-64</td><td>[[Armure en peau de géant]]  
+(troll)</td><td>59 165</td></tr><tr><td>65-70</td><td>[[Cotte de mailles de malveillance]]</td><td>61 300</td></tr><tr><td>71-76</td><td>[[Armure en peau de géant]]  
+(géant des nuages)</td><td>69 165</td></tr><tr><td>77-82</td><td>[[Armure en peau de géant]]  
+(géant des tempêtes)</td><td>76 665</td></tr><tr><td>83-88</td><td>[[Astre du jour]]</td><td>81 250</td></tr><tr><td>89-96</td><td>[[Armure dinvincibilité|Armure d’invincibilité]]</td><td>137 650</td></tr><tr><td>97-100</td><td>[[Harnois prismatique]]</td><td>160 650</td></tr></table>
+
 </td></tr></table>
 
 ### Boucliers magiques spécifiques
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Bouclier magique spécifique aléatoire
-|- CLASS="titre"
-| D100 || Bouclier magique spécifique faible inférieur || Prix(po)
-|- CLASS="premier"
-| 01-20 || [[Écu en acier vivant]] || 120
-|-
-| 21-45 || [[Rondache en ébénite]] || 203
-|-
-| 46-70 || [[Écu en ébénite]] || 257
-|-
-| 71-100 || [[Écu en mithral]] || 1 020
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Bouclier magique spécifique faible supérieur || Prix(po)
-|- CLASS="premier"
-| 01-30 || [[Bouclier en peau de zombi]] || 2 159
-|-
-| 31-75 || [[Bouclier des arcanes]] || 3 153
-|-
-| 76-100 || [[Targe du cambrioleur]] || 4 655
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Bouclier magique spécifique intermédiaire inférieur || Prix(po)
-|- CLASS="premier"
-| 01-35 || [[Bouclier de la manticore]] || 5 580
-|-
-| 36-50 || [[Bouclier du pourfendeur de dragons]] || 7 170
-|-
-| 51-65 || [[Pavois pliant]] || 8 170
-|-
-| 66-100 || [[Bouclier du lion]] || 9 170
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Bouclier magique spécifique intermédiaire supérieur || Prix(po)
-|- CLASS="premier"
-| 01-20 || [[Bouclier des arcanes suprême]] || 10 153
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Bouclier magique spécifique aléatoire</caption><tr CLASS="titre"><td>D100</td><td>Bouclier magique spécifique faible inférieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-20</td><td>[[Écu en acier vivant]]</td><td>120</td></tr><tr><td>21-45</td><td>[[Rondache en ébénite]]</td><td>203</td></tr><tr><td>46-70</td><td>[[Écu en ébénite]]</td><td>257</td></tr><tr><td>71-100</td><td>[[Écu en mithral]]</td><td>1 020</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bouclier magique spécifique faible supérieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-30</td><td>[[Bouclier en peau de zombi]]</td><td>2 159</td></tr><tr><td>31-75</td><td>[[Bouclier des arcanes]]</td><td>3 153</td></tr><tr><td>76-100</td><td>[[Targe du cambrioleur]]</td><td>4 655</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bouclier magique spécifique intermédiaire inférieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-35</td><td>[[Bouclier de la manticore]]</td><td>5 580</td></tr><tr><td>36-50</td><td>[[Bouclier du pourfendeur de dragons]]</td><td>7 170</td></tr><tr><td>51-65</td><td>[[Pavois pliant]]</td><td>8 170</td></tr><tr><td>66-100</td><td>[[Bouclier du lion]]</td><td>9 170</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bouclier magique spécifique intermédiaire supérieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-20</td><td>[[Bouclier des arcanes suprême]]</td><td>10 153</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-| 21-40 || [[Bouclier céleste]] || 13 170
-|-
-| 41-60 || [[Bouclier maelström]] || 14 170
-|-
-| 61-80 || [[Bouclier volcanique]] || 14 170
-|-
-| 81-100 || [[Bouclier des tempêtes]] || 15 170
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Bouclier magique spécifique puissant inférieur || Prix(po)
-|- CLASS="premier"
-| 01-20 || [[Bouclier crénelé]] || 16 180
-|-
-| 21-40 || [[Bouclier ailé]] || 17 257
-|-
-| 41-60 || [[Bouclier des éboulis]] || 19 170
-|-
-| 61-80 || [[Bouclier forteresse]] || 19 180
-|-
-| 81-100 || [[Bouclier du pourfendeur de dracosires]] || 20 170
-|- CLASS="titre"
-| </sup> || &emsp; || </sup>
-|- CLASS="titre"
-| D100 || Bouclier magique spécifique puissant supérieur || Prix(po)
-|- CLASS="premier"
-| 01-20 || [[Pavois desquive magique|Pavois d’esquive magique]] || 25 180
-|-
-| 21-35 || [[Targe de blocage éclair]] || 36 155
-|-
-| 36-50 || [[Bouclier agressif]] || 36 170
-|-
-| 51-65 || [[Pavois de force]] || 46 030
-|-
-| 66-85 || [[Bouclier phagocyte]] || 50 170
-|-
-| 86-100 || [[Bouclier de lÉlysée|Bouclier de l’Élysée]] || 52 620
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><tr><td>21-40</td><td>[[Bouclier céleste]]</td><td>13 170</td></tr><tr><td>41-60</td><td>[[Bouclier maelström]]</td><td>14 170</td></tr><tr><td>61-80</td><td>[[Bouclier volcanique]]</td><td>14 170</td></tr><tr><td>81-100</td><td>[[Bouclier des tempêtes]]</td><td>15 170</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bouclier magique spécifique puissant inférieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-20</td><td>[[Bouclier crénelé]]</td><td>16 180</td></tr><tr><td>21-40</td><td>[[Bouclier ailé]]</td><td>17 257</td></tr><tr><td>41-60</td><td>[[Bouclier des éboulis]]</td><td>19 170</td></tr><tr><td>61-80</td><td>[[Bouclier forteresse]]</td><td>19 180</td></tr><tr><td>81-100</td><td>[[Bouclier du pourfendeur de dracosires]]</td><td>20 170</td></tr><tr CLASS="titre"><td></sup></td><td>&emsp;</td><td></sup></td></tr><tr CLASS="titre"><td>D100</td><td>Bouclier magique spécifique puissant supérieur</td><td>Prix(po)</td></tr><tr CLASS="premier"><td>01-20</td><td>[[Pavois desquive magique|Pavois d’esquive magique]]</td><td>25 180</td></tr><tr><td>21-35</td><td>[[Targe de blocage éclair]]</td><td>36 155</td></tr><tr><td>36-50</td><td>[[Bouclier agressif]]</td><td>36 170</td></tr><tr><td>51-65</td><td>[[Pavois de force]]</td><td>46 030</td></tr><tr><td>66-85</td><td>[[Bouclier phagocyte]]</td><td>50 170</td></tr><tr><td>86-100</td><td>[[Bouclier de lÉlysée|Bouclier de l’Élysée]]</td><td>52 620</td></tr></table>
+
 </td></tr></table>

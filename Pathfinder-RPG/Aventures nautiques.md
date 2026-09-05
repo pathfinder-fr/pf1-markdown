@@ -49,24 +49,5 @@ bateau, ajoutez le modificateur de [[Profession]] (marin) du capitaine à la val
 **Équipage.** Le premier nombre indique le nombre minimum de membres d’équipage requis pour que le bateau fonctionne normalement, sans compter ceux qu’il faut pour manier les armes du navire. La seconde valeur indique le maximum de membres d’équipage et de passagers et soldats supplémentaires transportables. Un navire qui ne dispose pas d’un équipage minimum se déplace, change de vitesse ou de direction et éperonne un adversaire uniquement si le capitaine réussit un test de [[Profession]] (marin) [[DD]] 20. Les membres d’équipage en surplus par rapport au minimum n’ont aucune influence sur le mouvement mais ils peuvent remplacer des marins tombés au combat ou manier
 des armes.
 
-{| CLASS="tablo centre autoalt"
-|+ Les profils des bateaux
-|- CLASS="titre"
-| Type de bateau || CA || PV || Jet de sauvegarde || Vitesse max || Armes || Éperon || Cases || Équipage
-|- CLASS="premier"
-| Radeau || 9 || 10 || +0 || 4.5 m (3 {s:c}) || 0 || 1D6 || 1 || 1/4
-|-
-| Barque || 9 || 20 || +2 || 9 m (6 {s:c}) || 1 || 2D6 || 1 || 1/3
-|-
-| Péniche || 8 || 60 || +4 || 9 m* (6 {s:c}) || 1 || 2D6+6 || 2 || 4/15+100
-|-
-| Drakkar || 6 || 75 || +2 || 18 m* (12 {s:c}) || 1 || 4D6+18 || 3 || 50-75+100
-|-
-| Voilier || 2 || 125 || +6 || 18 m* (12 {s:c}) || 2 || 3D6+12 || 4 || 60/80+160
-|-
-| Navire de guerre || 2 || 175 || +7 || 18 m* (12 {s:c}) || 3 || 3D6+12 || 4 || 60/80+160
-|-
-| Galère || 2 || 200 || +8 || 21 m* (14 {s:c}) || 2 || 6d6+24 || 4 || 200/250+200
-|- CLASS="note"
-| COLSPAN="9" | *(*) voiles uniquement.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les profils des bateaux</caption><tr CLASS="titre"><td>Type de bateau</td><td>CA</td><td>PV</td><td>Jet de sauvegarde</td><td>Vitesse max</td><td>Armes</td><td>Éperon</td><td>Cases</td><td>Équipage</td></tr><tr CLASS="premier"><td>Radeau</td><td>9</td><td>10</td><td>+0</td><td>4.5 m (3 {s:c})</td><td>0</td><td>1D6</td><td>1</td><td>1/4</td></tr><tr><td>Barque</td><td>9</td><td>20</td><td>+2</td><td>9 m (6 {s:c})</td><td>1</td><td>2D6</td><td>1</td><td>1/3</td></tr><tr><td>Péniche</td><td>8</td><td>60</td><td>+4</td><td>9 m* (6 {s:c})</td><td>1</td><td>2D6+6</td><td>2</td><td>4/15+100</td></tr><tr><td>Drakkar</td><td>6</td><td>75</td><td>+2</td><td>18 m* (12 {s:c})</td><td>1</td><td>4D6+18</td><td>3</td><td>50-75+100</td></tr><tr><td>Voilier</td><td>2</td><td>125</td><td>+6</td><td>18 m* (12 {s:c})</td><td>2</td><td>3D6+12</td><td>4</td><td>60/80+160</td></tr><tr><td>Navire de guerre</td><td>2</td><td>175</td><td>+7</td><td>18 m* (12 {s:c})</td><td>3</td><td>3D6+12</td><td>4</td><td>60/80+160</td></tr><tr><td>Galère</td><td>2</td><td>200</td><td>+8</td><td>21 m* (14 {s:c})</td><td>2</td><td>6d6+24</td><td>4</td><td>200/250+200</td></tr><tr CLASS="note"><td COLSPAN="9">*(*) voiles uniquement.*</td></tr></table>

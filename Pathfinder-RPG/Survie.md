@@ -19,24 +19,9 @@ Categories:
 En pleine nature, le personnage est capable d’assurer sa propre sécurité et sa subsistance ainsi que celles de ses compagnons. La table suivante indique le DD de différentes tâches associées à la compétence de Survie.
 
 <center>
-{| CLASS="tablo" WIDTH="90%"
-|+ tests de survie
-|- CLASS="titre"
-| DD du test de Survie
-| Tâche
-|- CLASS="premier"
-| 10
-| CLASS="gauche" | Le personnage sait se débrouiller en pleine nature sauvage. Il avance à la moitié de sa vitesse de déplacement normale en chassant et en cueillant pour se nourrir (il peut subsister sans réserve d’eau ou de nourriture). En cas de réussite, il trouve suffisamment à boire et à manger pour sustenter une personne de plus par tranche de 2 points de différence entre le résultat du test et le DD (10).
-|- CLASS="alt"
-| 15
-| CLASS="gauche" | Le personnage acquiert un bonus aux jets de Vigueur contre les rigueurs du climat. Celui-ci s’élève à +2 s’il se déplace à demi-vitesse et à +4 s’il reste stationnaire. En cas de réussite, il peut procurer le même bonus à une personne de plus par point de différence entre le résultat du test et le DD (15).
-|-
-| 15
-| CLASS="gauche" | Le personnage ne se perd pas et remarque les dangers naturels (des sables mouvants par exemple).
-|- CLASS="alt"
-| 15
-| CLASS="gauche" | Le personnage peut prédire les conditions climatiques pour les vingt-quatre heures à venir. En cas de réussite, le personnage peut faire des prédictions pour une journée de plus par tranche de 5 points entre le résultat du test et le DD (15).
-|}
+
+<table CLASS="tablo" WIDTH="90%"><caption>tests de survie</caption><tr CLASS="titre"><td>DD du test de Survie</td><td>Tâche</td></tr><tr CLASS="premier"><td>10</td><td CLASS="gauche">Le personnage sait se débrouiller en pleine nature sauvage. Il avance à la moitié de sa vitesse de déplacement normale en chassant et en cueillant pour se nourrir (il peut subsister sans réserve d’eau ou de nourriture). En cas de réussite, il trouve suffisamment à boire et à manger pour sustenter une personne de plus par tranche de 2 points de différence entre le résultat du test et le DD (10).</td></tr><tr CLASS="alt"><td>15</td><td CLASS="gauche">Le personnage acquiert un bonus aux jets de Vigueur contre les rigueurs du climat. Celui-ci s’élève à +2 s’il se déplace à demi-vitesse et à +4 s’il reste stationnaire. En cas de réussite, il peut procurer le même bonus à une personne de plus par point de différence entre le résultat du test et le DD (15).</td></tr><tr><td>15</td><td CLASS="gauche">Le personnage ne se perd pas et remarque les dangers naturels (des sables mouvants par exemple).</td></tr><tr CLASS="alt"><td>15</td><td CLASS="gauche">Le personnage peut prédire les conditions climatiques pour les vingt-quatre heures à venir. En cas de réussite, le personnage peut faire des prédictions pour une journée de plus par tranche de 5 points entre le résultat du test et le DD (15).</td></tr></table>
+
 </center>
 
 {s:REFERENCE|SUIVREDESTRACES}
@@ -45,24 +30,9 @@ En pleine nature, le personnage est capable d’assurer sa propre sécurité et 
 Lorsque le personnage suit une piste, il se déplace à la moitié de sa vitesse de déplacement normale (il peut choisir de se déplacer à sa vitesse normale en acceptant un malus de -5 ou au double de sa vitesse normale avec un malus de -20). Le DD du test dépend du type de sol et des conditions en vigueur, comme indiqué dans la table suivante.
 
 <center>
-{| CLASS="tablo"
-|+ Pistage
-|- CLASS="titre"
-| Type de Sol
-| DD du test de Survie
-|- CLASS="premier"
-| très mou
-| 5
-|- CLASS="alt"
-| mou
-| 10
-|-
-| ferme
-| 15
-|- CLASS="alt"
-| dur
-| 20
-|}
+
+<table CLASS="tablo"><caption>Pistage</caption><tr CLASS="titre"><td>Type de Sol</td><td>DD du test de Survie</td></tr><tr CLASS="premier"><td>très mou</td><td>5</td></tr><tr CLASS="alt"><td>mou</td><td>10</td></tr><tr><td>ferme</td><td>15</td></tr><tr CLASS="alt"><td>dur</td><td>20</td></tr></table>
+
 </center>
 
 **Sol très mou.** Toute surface dans laquelle les empreintes sont profondes et particulièrement visibles (neige, boue, épaisse couche de poussière, etc.).
@@ -76,73 +46,10 @@ Lorsque le personnage suit une piste, il se déplace à la moitié de sa vitesse
 Divers modificateurs s’appliquent au test de Survie, comme indiqué dans la table ci-dessous.
 
 <center>
-{| CLASS="tablo"
-|+ Modificateurs des tests de Pistage
-|- CLASS="titre"
-| Conditions en vigueur
-| Modificateur au  
- DD du test de Survie
-|- CLASS="premier"
-| Par trois créatures faisant partie du groupe pisté
-| -1
-|- CLASS="alt"
-| COLSPAN="2" | **Taille des créatures traquées**<sup>[[Survie#NOTE1|1]]</sup>
-|-
-| &emsp;Infime (I)
-| +8
-|- CLASS="alt"
-| &emsp;Minuscule (Min)
-| +4
-|-
-| &emsp;Très petite (TP)
-| +2
-|- CLASS="alt"
-| &emsp;Petite (P)
-| +1
-|-
-| &emsp;Moyenne (M)
-| +0
-|- CLASS="alt"
-| &emsp;Grande (G)
-| -1
-|-
-| &emsp;Très grande (TG)
-| -2
-|- CLASS="alt"
-| &emsp;Gigantesque (Gig)
-| -4
-|-
-| &emsp;Colossale (C)
-| -8
-|- CLASS="alt"
-| Par tranche de vingt-quatre heures écoulées depuis que la piste a été laissée
-| +1
-|-
-| Par heure de pluie depuis que la piste a été laissée
-| +1
-|- CLASS="alt"
-| Chute de neige depuis que la piste a été laissée
-| +10
-|-
-| COLSPAN="2" | **Mauvaise visibilité**<sup>[[Survie#NOTE2|2]]</sup>
-|  |
-|- CLASS="alt"
-| &emsp;Ciel nocturne couvert ou nuit sans lune
-| +6
-|-
-| &emsp;Clair de lune
-| +3
-|- CLASS="alt"
-| &emsp;Brouillard ou précipitations (pluie, neige, etc.)
-| +5
-|-
-| La cible masque sa piste (ce qui réduit sa vitesse de déplacement de moitié)
-| +5
-|-
-| COLSPAN="2" CLASS="note" | {s:Reference|NOTE1}*(1) Si le groupe est composé de créatures de tailles diverses, on prend seulement en compte la taille la plus importante.*
-|-
-| COLSPAN="2" CLASS="note" | {s:Reference|NOTE2}*(2) Ces facteurs ne s’additionnent pas ; seul le plus important est pris en compte.*
-|}
+
+<table CLASS="tablo"><caption>Modificateurs des tests de Pistage</caption><tr CLASS="titre"><td>Conditions en vigueur</td><td>Modificateur au  
+ DD du test de Survie</td></tr><tr CLASS="premier"><td>Par trois créatures faisant partie du groupe pisté</td><td>-1</td></tr><tr CLASS="alt"><td COLSPAN="2">**Taille des créatures traquées**<sup>[[Survie#NOTE1|1]]</sup></td></tr><tr><td>&emsp;Infime (I)</td><td>+8</td></tr><tr CLASS="alt"><td>&emsp;Minuscule (Min)</td><td>+4</td></tr><tr><td>&emsp;Très petite (TP)</td><td>+2</td></tr><tr CLASS="alt"><td>&emsp;Petite (P)</td><td>+1</td></tr><tr><td>&emsp;Moyenne (M)</td><td>+0</td></tr><tr CLASS="alt"><td>&emsp;Grande (G)</td><td>-1</td></tr><tr><td>&emsp;Très grande (TG)</td><td>-2</td></tr><tr CLASS="alt"><td>&emsp;Gigantesque (Gig)</td><td>-4</td></tr><tr><td>&emsp;Colossale (C)</td><td>-8</td></tr><tr CLASS="alt"><td>Par tranche de vingt-quatre heures écoulées depuis que la piste a été laissée</td><td>+1</td></tr><tr><td>Par heure de pluie depuis que la piste a été laissée</td><td>+1</td></tr><tr CLASS="alt"><td>Chute de neige depuis que la piste a été laissée</td><td>+10</td></tr><tr><td COLSPAN="2">**Mauvaise visibilité**<sup>[[Survie#NOTE2|2]]</sup></td></tr><tr CLASS="alt"><td>&emsp;Ciel nocturne couvert ou nuit sans lune</td><td>+6</td></tr><tr><td>&emsp;Clair de lune</td><td>+3</td></tr><tr CLASS="alt"><td>&emsp;Brouillard ou précipitations (pluie, neige, etc.)</td><td>+5</td></tr><tr><td>La cible masque sa piste (ce qui réduit sa vitesse de déplacement de moitié)</td><td>+5</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE1}*(1) Si le groupe est composé de créatures de tailles diverses, on prend seulement en compte la taille la plus importante.*</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE2}*(2) Ces facteurs ne s’additionnent pas ; seul le plus important est pris en compte.*</td></tr></table>
+
 </center>
 
 ### Action

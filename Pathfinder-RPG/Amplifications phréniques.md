@@ -10,33 +10,9 @@ Categories:
 
 Le sort en cours d’incantation est appelé sort lié. Le psychiste peut activer une seule amplification à chaque incantation et cette activation est incluse dans l’action effectuée pour lancer le sort. Il peut utiliser n’importe quelle amplification de son répertoire avec n’importe quel sort psychique. Certaines amplifications restreignent toutefois leur application à certains types de sorts. Un psychiste apprend une amplification phrénique au niveau 1 qu’il choisit dans la liste des améliorations phréniques. Au niveau 3 et tous les 4 niveaux par la suite, le psychiste apprend une nouvelle amplification phrénique. Il n’est pas possible de choisir plusieurs fois une même amplification phrénique. Le choix d’une amplification phrénique est définitif et il est impossible d’en changer. Le psychiste doit dépenser un ou plusieurs points de sa [[Psychiste#RESERVEPHRENIQUE|réserve phrénique]] pour activer ses amplifications.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="94%"
-|+ Amplifications phréniques de psychistes
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="3" | Amplifications
-|- CLASS="premier"
-| [[Amplifications phréniques#ARMUREINVOQUÉE|Armure invoquée]] || [[Amplifications phréniques#FRAPPEPHRÉNIQUE|Frappe phrénique]]  || [[Amplifications phréniques#RESTAURATIONTÉLEMPHATIQUE|Restauration télemphatique]]
-|-
-| [[Amplifications phréniques#CONTREMESURECOMPLEXE|Contre-mesure complexe]] || [[Amplifications phréniques#INCANTATIONIMPLACABLE|Incantation implacable]] || [[Amplifications phréniques#SOINSBIOCINÉTIQUES|Soins biocinétiques]]
-|-
-| [[Amplifications phréniques#DÉFENSEPERSISTANTE|Défense persistante]] || [[Amplifications phréniques#PRÉDICTIONDÉFENSIVE|Prédiction défensive]] || [[Amplifications phréniques#SONDEMENTALE|Sonde mentale]]
-|-
-| [[Amplifications phréniques#ESPRITDOMINANT|Esprit dominant]] || [[Amplifications phréniques#PROTECTIONMENTALE|Protection mentale]] || [[Amplifications phréniques#SOUFFLEDEDRAGON|Souffle de dragon]]
-|-
-| [[Amplifications phréniques#FOCALISATIONINTENSIFIÉE|Focalisation intensifiée]] || [[Amplifications phréniques#PSYCHO-RÉACTION|Psycho-réaction]] || [[Amplifications phréniques#TRANSFÉRERLAPEUR|Transférer la peur]]
-|-
-| [[Amplifications phréniques#FORCEINTENSIFIÉE|Force intensifiée]] || [[Amplifications phréniques#RENFORCEMENTDESINCANTATIONSRÉDUITES|Renforcement des incantations réduites]] || [[Amplifications phréniques#VOLONTÉDESMORTS|Volonté des morts]]
-|- CLASS="titre"
-| &emsp;
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="3" | Amplifications majeures
-|- CLASS="premier"
-| [[Amplifications phréniques#BOUCLIERDERENVOIDESSORTS|Bouclier de renvoi des sorts]] || [[Amplifications phréniques#CIBLAGETÉLÉPATHIQUE|Ciblage télépathique]] || [[Amplifications phréniques#IMITATIONDEMÉTAMAGIE|Imitation de métamagie]]
-|-
-| [[Amplifications phréniques#CHAMPDEPARADE|Champ de parade]] || [[Amplifications phréniques#DISTORSIONDESDISTANCES|Distorsion des distances]] || [[Amplifications phréniques#PULSATIONDISSIPATRICE|Pulsation dissipatrice]]
-|-
-| [[Amplifications phréniques#CHOCSYNAPTIQUE|Choc synaptique]] || [[Amplifications phréniques#DOUBLEAMPLIFICATION|Double amplification]] || [[Amplifications phréniques#SORTSUBORDONNÉ|Sort subordonné]]
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="94%"><caption>Amplifications phréniques de psychistes</caption><tr CLASS="titre"><td CLASS="centre" COLSPAN="3">Amplifications</td></tr><tr CLASS="premier"><td>[[Amplifications phréniques#ARMUREINVOQUÉE|Armure invoquée]]</td><td>[[Amplifications phréniques#FRAPPEPHRÉNIQUE|Frappe phrénique]]</td><td>[[Amplifications phréniques#RESTAURATIONTÉLEMPHATIQUE|Restauration télemphatique]]</td></tr><tr><td>[[Amplifications phréniques#CONTREMESURECOMPLEXE|Contre-mesure complexe]]</td><td>[[Amplifications phréniques#INCANTATIONIMPLACABLE|Incantation implacable]]</td><td>[[Amplifications phréniques#SOINSBIOCINÉTIQUES|Soins biocinétiques]]</td></tr><tr><td>[[Amplifications phréniques#DÉFENSEPERSISTANTE|Défense persistante]]</td><td>[[Amplifications phréniques#PRÉDICTIONDÉFENSIVE|Prédiction défensive]]</td><td>[[Amplifications phréniques#SONDEMENTALE|Sonde mentale]]</td></tr><tr><td>[[Amplifications phréniques#ESPRITDOMINANT|Esprit dominant]]</td><td>[[Amplifications phréniques#PROTECTIONMENTALE|Protection mentale]]</td><td>[[Amplifications phréniques#SOUFFLEDEDRAGON|Souffle de dragon]]</td></tr><tr><td>[[Amplifications phréniques#FOCALISATIONINTENSIFIÉE|Focalisation intensifiée]]</td><td>[[Amplifications phréniques#PSYCHO-RÉACTION|Psycho-réaction]]</td><td>[[Amplifications phréniques#TRANSFÉRERLAPEUR|Transférer la peur]]</td></tr><tr><td>[[Amplifications phréniques#FORCEINTENSIFIÉE|Force intensifiée]]</td><td>[[Amplifications phréniques#RENFORCEMENTDESINCANTATIONSRÉDUITES|Renforcement des incantations réduites]]</td><td>[[Amplifications phréniques#VOLONTÉDESMORTS|Volonté des morts]]</td></tr><tr CLASS="titre"><td>&emsp;</td></tr><tr CLASS="titre"><td CLASS="centre" COLSPAN="3">Amplifications majeures</td></tr><tr CLASS="premier"><td>[[Amplifications phréniques#BOUCLIERDERENVOIDESSORTS|Bouclier de renvoi des sorts]]</td><td>[[Amplifications phréniques#CIBLAGETÉLÉPATHIQUE|Ciblage télépathique]]</td><td>[[Amplifications phréniques#IMITATIONDEMÉTAMAGIE|Imitation de métamagie]]</td></tr><tr><td>[[Amplifications phréniques#CHAMPDEPARADE|Champ de parade]]</td><td>[[Amplifications phréniques#DISTORSIONDESDISTANCES|Distorsion des distances]]</td><td>[[Amplifications phréniques#PULSATIONDISSIPATRICE|Pulsation dissipatrice]]</td></tr><tr><td>[[Amplifications phréniques#CHOCSYNAPTIQUE|Choc synaptique]]</td><td>[[Amplifications phréniques#DOUBLEAMPLIFICATION|Double amplification]]</td><td>[[Amplifications phréniques#SORTSUBORDONNÉ|Sort subordonné]]</td></tr></table>
+
 
 ### Description des amplifications phréniques
 <table width="100%"><tr><td width="49%">

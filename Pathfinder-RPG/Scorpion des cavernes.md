@@ -37,25 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de scorpion
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Scorpion dard-vert]] || 1/4
-|-
-| [[Scorpion des cavernes]] || 1
-|-
-| [[Scorpion empereur géant]] || 11
-|-
-| [[Scorpion fantomatique]] || 1/2
-|-
-| [[Scorpion géant]] || 3
-|-
-| [[Scorpion noir]] || 15
-|-
-| [[Scorpion piégeur]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de scorpion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Scorpion dard-vert]]</td><td>1/4</td></tr><tr><td>[[Scorpion des cavernes]]</td><td>1</td></tr><tr><td>[[Scorpion empereur géant]]</td><td>11</td></tr><tr><td>[[Scorpion fantomatique]]</td><td>1/2</td></tr><tr><td>[[Scorpion géant]]</td><td>3</td></tr><tr><td>[[Scorpion noir]]</td><td>15</td></tr><tr><td>[[Scorpion piégeur]]</td><td>8</td></tr></table>
+
 </div>*Ce scorpion massif de la taille d’un humain est recouvert d’une épaisse armure impénétrable qui ressemble à la pierre.*
 
 Le trapu scorpion des cavernes est plutôt bien adapté à son milieu de vie. Lorsqu’il est au repos, sa lourde carapace le fait ressembler à un tas de pierre. Sa nourriture préférée est la chair de nain. Lorsqu’un scorpion des cavernes découvre une mine naine en activité, il peut rapidement causer d’importants problèmes.

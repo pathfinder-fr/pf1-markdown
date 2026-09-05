@@ -12,42 +12,9 @@ Categories:
 La plupart des fidèles défenseurs sont d’anciens guerriers qui désirent souvent devenir de meilleurs gardes pour leurs amis et leurs alliés. Les nains conviennent tout particulièrement bien à ce rôle mais on trouve des défenseurs issus de chaque race. Parfois, des barbares choisissent cette voie, pour des questions d’honneur, afin de surmonter leurs faiblesses supposées. Ces personnages semblent souvent souffrir d’une double personnalité, à se jeter témérairement dans la mêlée avant de repousser calmement les assaillants l’instant d’après.''
 
 <center>
-{| CLASS="tablo"
-|+ Le fidèle défenseur
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté || [[Fidèle défenseur#BONUSALACA|Bonus à la CA]]
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +1 || +1
-| CLASS="gauche" | [[Fidèle défenseur#POSITIONDEFENSIVE|Position défensive]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]
-|-
-| 3 || +3 || +1 || +2 || +2 || +1
-| CLASS="gauche" | [[Fidèle défenseur#ESQUIVEINSTINCTIVE|Esquive instinctive]]
-|- CLASS="alt"
-| 4 || +4 || +1 || +2 || +2 || +2
-| CLASS="gauche" | [[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]
-|-
-| 5 || +5 || +2 || +3 || +3 || +2
-| CLASS="gauche" | [[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 1/–
-|- CLASS="alt"
-| 6 || +6 || +2 || +3 || +3 || +2
-| CLASS="gauche" | [[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]
-|-
-| 7 || +7 || +2 || +4 || +4 || +3
-| CLASS="gauche" | [[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 3/–, [[Fidèle défenseur#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]]
-|- CLASS="alt"
-| 8 || +8 || +3 || +4 || +4 || +3
-| CLASS="gauche" | [[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]
-|-
-| 9 || +9 || +3 || +5 || +5 || +3
-| CLASS="gauche" | [[Fidèle défenseur#DEFENSEMOBILE|Défense mobile]]
-|- CLASS="alt"
-| 10 || +10 || +3 || +5 || +5 || +4
-| CLASS="gauche" | [[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 5/–, [[Fidèle défenseur#POUVOIRDEFENSIF|pouvoir défensif]], [[Fidèle défenseur#DERNIERMOT|dernier mot]]
-|}
+
+<table CLASS="tablo"><caption>Le fidèle défenseur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td>[[Fidèle défenseur#BONUSALACA|Bonus à la CA]]</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Fidèle défenseur#POSITIONDEFENSIVE|Position défensive]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Fidèle défenseur#ESQUIVEINSTINCTIVE|Esquive instinctive]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+1</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>5</td><td>+5</td><td>+2</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 1/–</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+2</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 3/–, [[Fidèle défenseur#ESQUIVEINSTINCTIVESUPERIEURE|esquive instinctive supérieure]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+3</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Fidèle défenseur#POUVOIRDEFENSIF|Pouvoir défensif]]</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Fidèle défenseur#DEFENSEMOBILE|Défense mobile]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+3</td><td>+5</td><td>+5</td><td>+4</td><td CLASS="gauche">[[Fidèle défenseur#REDUCTIONDEDEGATS|Réduction de dégâts]] 5/–, [[Fidèle défenseur#POUVOIRDEFENSIF|pouvoir défensif]], [[Fidèle défenseur#DERNIERMOT|dernier mot]]</td></tr></table>
+
 </center>
 
 **Rôle.** Les fidèles défenseurs sont des maîtres du combat au corps à corps qui cherchent à prouver qu’une bonne défense est souvent la meilleure attaque. On les trouve habituellement en première ligne des combats où ils tiennent leur position pour couvrir leurs alliés, bondissant dans les brèches des formations adverses afin de les garder ouvertes pour les autres. Ils protègent leurs alliés plus faibles en servant de fortification mobile et de zone de stabilité dans le chaos des batailles.

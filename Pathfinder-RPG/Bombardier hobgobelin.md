@@ -44,32 +44,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Hobgobelin
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hobgobelin]] || 1/2
-|-
-| [[Yzobu]] || 1
-|-
-| [[Sergent hobgobelin]] || 2
-|-
-| [[Zélote des batailles hobgobelin]] || 2
-|-
-| [[Lieutenant hobgobelin]] || 4
-|-
-| [[Précurseur hobgobelin]] || 6
-|-
-| [[Bombardier hobgobelin]] || 7
-|-
-| [[Prêtre guerrier hobgobelin]] || 8
-|-
-| [[Parangon hobgobelin]] || 10
-|-
-| [[Commandant hobgobelin]] || 12
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Hobgobelin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hobgobelin]]</td><td>1/2</td></tr><tr><td>[[Yzobu]]</td><td>1</td></tr><tr><td>[[Sergent hobgobelin]]</td><td>2</td></tr><tr><td>[[Zélote des batailles hobgobelin]]</td><td>2</td></tr><tr><td>[[Lieutenant hobgobelin]]</td><td>4</td></tr><tr><td>[[Précurseur hobgobelin]]</td><td>6</td></tr><tr><td>[[Bombardier hobgobelin]]</td><td>7</td></tr><tr><td>[[Prêtre guerrier hobgobelin]]</td><td>8</td></tr><tr><td>[[Parangon hobgobelin]]</td><td>10</td></tr><tr><td>[[Commandant hobgobelin]]</td><td>12</td></tr></table>
+
 </div>Les hobgobelins qui possèdent une valeur d’intelligence élevée ou ressentent une attirance certaine pour la destruction, les flammes et les expériences deviennent souvent bombardiers militaires.
 
 Ces alchimistes mettent leur amour racial du feu à profit pour créer des méthodes de destruction plus efficaces que les torches et les feux de joie. Ils affinent donc leur talent pour la création de bombes, de mutagènes et d’extraits. Les bombardiers savent améliorer leur puissance physique mais nombre d’entre eux évitent de boire un mutagène avant de se battre car ils pensent que c’est une erreur que d’augmenter une de ses faiblesses, même pour gagner un avantage dans d’autres domaines. Ils sont pourtant prêts à avaler leurs mutagènes pour développer leur endurance ou améliorer leur précision, préférant amoindrir leur perception et leur influence plutôt que de compromettre leurs facultés mentales.

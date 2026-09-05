@@ -8,19 +8,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux robots
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Annihilateur]] || 16
-|-
-| [[Machiniste]] || 4
-|-
-| [[Myrmidon]] || 11
-|-
-| [[Terraformeur]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux robots</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Annihilateur]]</td><td>16</td></tr><tr><td>[[Machiniste]]</td><td>4</td></tr><tr><td>[[Myrmidon]]</td><td>11</td></tr><tr><td>[[Terraformeur]]</td><td>7</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 5 p.221.</div>
 *Types/Sous-types associés : [[type Créature artificielle|Créature artificielle]] ([[sous-type Robot|robot]]).*
 

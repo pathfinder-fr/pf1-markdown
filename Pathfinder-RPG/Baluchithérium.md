@@ -36,35 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de mégafaune
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Archelon]] || 5
-|-
-| [[Arsinoithérium]] || 7
-|-
-| [[Baluchithérium]] || 8
-|-
-| [[Basilosaure]] || 12
-|-
-| [[Chalicothérium]] || 6
-|-
-| [[Glyptodonte]] || 6
-|-
-| [[Kaprosuchus]] || 5
-|-
-| [[Mégalania]] || 7
-|-
-| [[Mégalocéros]] || 4
-|-
-| [[Mégathérium]] || 5
-|-
-| [[Moa]] || 2
-|-
-| [[Uintathérium]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de mégafaune</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Archelon]]</td><td>5</td></tr><tr><td>[[Arsinoithérium]]</td><td>7</td></tr><tr><td>[[Baluchithérium]]</td><td>8</td></tr><tr><td>[[Basilosaure]]</td><td>12</td></tr><tr><td>[[Chalicothérium]]</td><td>6</td></tr><tr><td>[[Glyptodonte]]</td><td>6</td></tr><tr><td>[[Kaprosuchus]]</td><td>5</td></tr><tr><td>[[Mégalania]]</td><td>7</td></tr><tr><td>[[Mégalocéros]]</td><td>4</td></tr><tr><td>[[Mégathérium]]</td><td>5</td></tr><tr><td>[[Moa]]</td><td>2</td></tr><tr><td>[[Uintathérium]]</td><td>7</td></tr></table>
+
 </div>*Cet imposant herbivore cuirassé ressemble à un [[rhinocéros]] sans corne, mais avec des pattes plus longues et un plus long cou.*
 
 L’immense baluchithérium mesure près de 5,50 mètres au garrot pour 9 mètres de long et pèse 20 tonnes. En dépit de sa taille, il mène une vie paisible, arrachant les feuilles du sommet des arbres à moins que, surpris, il ne soit contraint d’agir. Lorsqu’il s’affole, le baluchithérium piétine tous les obstacles qui se dressent sur son passage. S’il doit se battre, il écrase ses tortionnaires de ses pattes éléphantesques.

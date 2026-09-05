@@ -45,15 +45,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de faucheuse
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Faucheuse mineure]] || 16
-|-
-| [[Faucheuse]] || 22
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de faucheuse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Faucheuse mineure]]</td><td>16</td></tr><tr><td>[[Faucheuse]]</td><td>22</td></tr></table>
+
 </div>*L’une des mains réduites à l’état d’os de cette créature squelettique vêtue d’une robe empoigne une énorme faux à la lame incurvée.*
 
 Les petites morts sont les cousines inférieures des faucheuses. On murmure, dans d’obscures cabales et confréries occultes, que la première âme débarrassée de son enveloppe charnelle a affronté son jugement dernier avec dédain et mépris. La fureur de cette créature envers l’ordre métaphysique du multivers était telle qu’elle devint une sorte de divinité solitaire vouée à la fin de toutes choses vivantes. Les créatures particulièrement puissantes tuées par cette impitoyable divinité deviennent les servantes de leur exécutrice et répandent la mort où qu’elles aillent. Les moins redoutables de ces mortelles servantes sont appelées petites morts.

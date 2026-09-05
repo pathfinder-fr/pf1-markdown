@@ -19,35 +19,17 @@ Chaque type d’amulette des lignages accorde au personnage les pouvoirs d’un 
 - **Draconique.** (**Aura** [[Abjuration]] et [[Évocation]] modérées ; **NLS** 9 ; **Création** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[résistance aux énergies destructives]]*, *[[souffle de feu]]*) Cette amulette se décline sous différentes formes de minéraux en fonction de ses pouvoirs, comme indiqué dans la table ci-dessous, et représente une écaille de dragon. Le personnage gagne une résistance de 5 face au type d’énergie indiqué dans la table, ainsi qu’un bonus d’armure naturelle de +1 à la [[CA]]. Une fois par jour, par une [[action simple]], il peut générer un souffle, qui inflige 4d6 points de dégâts du type d’énergie et de la forme indiqués ([[Réflexes]] [[DD]] 13, 1/2 dégâts).
 
 
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|- CLASS="titre"
-| d100 || Matériau || Type d’énergie || Forme du souffle
-|- CLASS="premier"
-| 01-25 || Malachite || Acide || ligne de 18 mètres
-|-
-| 26-50 || Azurite || Électricité || ligne de 18 mètres
-|-
-| 51-75 || Agate rouge || Feu || cône de 9 mètres
-|-
-| 76-100 || Calcite || Froid || cône de 9 mètres
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>d100</td><td>Matériau</td><td>Type d’énergie</td><td>Forme du souffle</td></tr><tr CLASS="premier"><td>01-25</td><td>Malachite</td><td>Acide</td><td>ligne de 18 mètres</td></tr><tr><td>26-50</td><td>Azurite</td><td>Électricité</td><td>ligne de 18 mètres</td></tr><tr><td>51-75</td><td>Agate rouge</td><td>Feu</td><td>cône de 9 mètres</td></tr><tr><td>76-100</td><td>Calcite</td><td>Froid</td><td>cône de 9 mètres</td></tr></table>
+
 
 
 - **Élémentaire.** (**Aura** [[Évocation]] modérée ; **NLS** 9 ; **Création** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[aura élémentaire]]*, *[[résistance aux énergies destructives]]*) Cette amulette se décline sous différentes formes de minéraux en fonction de ses pouvoirs, comme indiqué dans la table ci-dessous. Le personnage gagne une résistance de 5 face au type d’énergie indiqué dans la table. Une fois par jour, par une [[action simple]], il peut déchaîner un souffle de puissance élémentaire. Il s’agit d’un rayonnement de 6 mètres de rayon, qui inflige 4d6 points de dégâts du type d’énergie indiqué ([[Réflexes]] [[DD]] 14 1/2 dégâts). Les créatures qui ratent leur [[jds|jet de sauvegarde]] deviennent vulnérables à ce type d’énergie jusqu’à la fin du prochain tour du personnage.
 
 
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|- CLASS="titre"
-| d100 || Matériau || Type d’énergie
-|- CLASS="premier"
-| 01-25 || Anhydrite || Électricité
-|-
-| 26-50 || Hématite || Acide
-|-
-| 51-75 || Béryl || Feu
-|-
-| 76-100 || Forstérite || Froid
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><tr CLASS="titre"><td>d100</td><td>Matériau</td><td>Type d’énergie</td></tr><tr CLASS="premier"><td>01-25</td><td>Anhydrite</td><td>Électricité</td></tr><tr><td>26-50</td><td>Hématite</td><td>Acide</td></tr><tr><td>51-75</td><td>Béryl</td><td>Feu</td></tr><tr><td>76-100</td><td>Forstérite</td><td>Froid</td></tr></table>
+
 
 
 - **Féerique.** (**Aura** [[Illusion]] modérée ; **NLS** 9 ; **Création** [[Création dobjets merveilleux|Création d’objets merveilleux]], *[[fou rire]]*, *[[invisibilité suprême]]*) Cette goutte d’ambre pend à une corde en soie. Le personnage peut devenir invisible pendant 9 [[round|rounds]] par jour (comme avec *[[invisibilité suprême]]*), qui ne doivent pas forcément être consécutifs. Trois fois par jour, il peut porter une attaque de contact au corps à corps pour faire exploser de rire une créature. Cette créature ne peut entreprendre que des [[action de mouvement|actions de mouvement]], mais elle peut se défendre normalement. Une fois que la créature a été affectée par ce fou-rire, elle y est immunisée pendant 24 heures. Il s’agit d’un effet mental.

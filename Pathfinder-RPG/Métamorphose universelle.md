@@ -17,44 +17,18 @@ Categories:
 Ce sort est semblable à *[[métamorphose suprême]]*, si ce n’est qu’il permet de transformer un objet ou une créature. Ce sort permet d’effectuer toutes sortes de transformations, le personnage ne se limite pas à transformer des êtres vivants en autres êtres vivants. La durée du sort dépend de l’importance du changement séparant la forme résultante de la forme d’origine. On peut la déterminer en se référant aux indications suivantes :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Forme obtenue (par rapport à celle d’origine) || Augmentation du   
-facteur de durée*
-|- CLASS="premier"
-| Même règne (animal, végétal, minéral) || +5
-|- CLASS="alt"
-| Même classe (mammifères, thallophytes, métaux, etc.) || +2
-|-
-| Même taille || +2
-|- CLASS="alt"
-| Rapport direct (brindille et arbre, fourrure et animal ; etc.) || +2
-|-
-| [[Intelligence]] égale ou inférieure || +2
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Forme obtenue (par rapport à celle d’origine)</td><td>Augmentation du   
+facteur de durée*</td></tr><tr CLASS="premier"><td>Même règne (animal, végétal, minéral)</td><td>+5</td></tr><tr CLASS="alt"><td>Même classe (mammifères, thallophytes, métaux, etc.)</td><td>+2</td></tr><tr><td>Même taille</td><td>+2</td></tr><tr CLASS="alt"><td>Rapport direct (brindille et arbre, fourrure et animal ; etc.)</td><td>+2</td></tr><tr><td>[[Intelligence]] égale ou inférieure</td><td>+2</td></tr></table>
+
 </center>
 
 *(*) Additionnez tous les facteurs applicables et référez-vous à la table suivante.*
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Facteur de durée || Exemple de transformation || Durée
-|- CLASS="premier"
-| 0 || De caillou en [[humain]] || 20 mn
-|- CLASS="alt"
-| 2 || De marionnette en [[humain]] || 1 heure
-|-
-| 4 || D’[[humain]] en marionnette || 3 heures
-|- CLASS="alt"
-| 5 || De [[lézard]] en [[manticore]] || 12 heures
-|-
-| 6 || De mouton en manteau de laine || 2 jours
-|- CLASS="alt"
-| 7 || De musaraigne en [[manticore]] || 1 semaine
-|-
-| 9+ || De [[manticore]] en musaraigne || Permanente
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Facteur de durée</td><td>Exemple de transformation</td><td>Durée</td></tr><tr CLASS="premier"><td>0</td><td>De caillou en [[humain]]</td><td>20 mn</td></tr><tr CLASS="alt"><td>2</td><td>De marionnette en [[humain]]</td><td>1 heure</td></tr><tr><td>4</td><td>D’[[humain]] en marionnette</td><td>3 heures</td></tr><tr CLASS="alt"><td>5</td><td>De [[lézard]] en [[manticore]]</td><td>12 heures</td></tr><tr><td>6</td><td>De mouton en manteau de laine</td><td>2 jours</td></tr><tr CLASS="alt"><td>7</td><td>De musaraigne en [[manticore]]</td><td>1 semaine</td></tr><tr><td>9+</td><td>De [[manticore]] en musaraigne</td><td>Permanente</td></tr></table>
+
 </center>
 
 Si la cible du sort n’a pas de valeur de caractéristique physique ([[Force]], [[Dextérité]] ou [[Constitution]]), le sort lui attribue une valeur de 10 pour chaque caractéristique manquante. Si la cible n’a pas de valeur de caractéristique mentale ([[Intelligence]], [[Sagesse]] ou [[Charisme]]) le sort lui attribue une valeur de 5. Le sujet peut être tué par les dégâts qu’il subit sous sa nouvelle forme. *Métamorphose universelle* ne permet pas de rendre magique un objet qui ne l’est pas. Les objets magiques ne sont pas affectés par ce sort.

@@ -80,21 +80,9 @@ toutes les vermines démoniaques ont accès à un nombre limité
 de pouvoirs magiques, en fonction de leurs dés de vie. Chaque
 pouvoir est utilisable une fois par jour. Le niveau de lanceur de
 sort est égal au FP de la créature.}
-{| CLASS="tablo"
-|- CLASS="titre"
-| FP || Pouvoir
-|- CLASS="premier"
-| 1–4 || [[ténèbres]]
-|-
-| 5-8 || [[vomir une nuée]]
-|-
-| 9-12 || [[fléau dinsectes|fléau d’insectes]]
-|-
-| 13-16 || [[téléportation suprême]] (soi-même plus 25 kg d’objets uniquement)
-|-
-| 17-20 || [[tremblement de terre]]
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>FP</td><td>Pouvoir</td></tr><tr CLASS="premier"><td>1–4</td><td>[[ténèbres]]</td></tr><tr><td>5-8</td><td>[[vomir une nuée]]</td></tr><tr><td>9-12</td><td>[[fléau dinsectes|fléau d’insectes]]</td></tr><tr><td>13-16</td><td>[[téléportation suprême]] (soi-même plus 25 kg d’objets uniquement)</td></tr><tr><td>17-20</td><td>[[tremblement de terre]]</td></tr></table>
+
 {s:BDTexte|**Caractéristiques**. +4 en For, +2 en Con. La valeur d’Intelligence
 de la vermine démoniaque passe à 10 et sa valeur de
 Charisme passe à 15 (à moins que la créature de base n’ait des

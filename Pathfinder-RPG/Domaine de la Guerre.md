@@ -30,27 +30,5 @@ Le personnage est un croisé au service de son dieu, toujours prêt à combattre
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Guerre
-| Sous-domaine du Sang || Sous-domaine de la Tactique
-|- CLASS="premier"
-| 1er || *[[arme magique]]* || *idem* || *idem*
-|-
-| 2e || *[[arme spirituelle]]* || *idem* || *[[aide]]*
-|-
-| 3e || *[[panoplie magique]]* || *[[baiser du vampire]]* || *idem*
-|-
-| 4e || *[[puissance divine]]* || *idem* || *idem*
-|-
-| 5e || *[[colonne de feu]]* || *[[mur dépines|mur d'épines]]* || *[[injonction suprême]]*
-|-
-| 6e || *[[barrière de lames]]* || *idem* || *idem*
-|-
-| 7e || *[[mot de pouvoir aveuglant]]* || *[[blessure grave de groupe]]* || *idem*
-|-
-| 8e || *[[mot de pouvoir étourdissant]]* || *idem* || *[[allié suprême doutreplan|allié suprême d'outreplan]]*
-|-
-| 9e || *[[mot de pouvoir mortel]]* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Guerre</td><td>Sous-domaine du Sang</td><td>Sous-domaine de la Tactique</td></tr><tr CLASS="premier"><td>1er</td><td>*[[arme magique]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[arme spirituelle]]*</td><td>*idem*</td><td>*[[aide]]*</td></tr><tr><td>3e</td><td>*[[panoplie magique]]*</td><td>*[[baiser du vampire]]*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[puissance divine]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[colonne de feu]]*</td><td>*[[mur dépines|mur d'épines]]*</td><td>*[[injonction suprême]]*</td></tr><tr><td>6e</td><td>*[[barrière de lames]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[mot de pouvoir aveuglant]]*</td><td>*[[blessure grave de groupe]]*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[mot de pouvoir étourdissant]]*</td><td>*idem*</td><td>*[[allié suprême doutreplan|allié suprême d'outreplan]]*</td></tr><tr><td>9e</td><td>*[[mot de pouvoir mortel]]*</td><td>*idem*</td><td>*idem*</td></tr></table>

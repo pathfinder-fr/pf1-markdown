@@ -6,13 +6,9 @@ LastModified: 2021-04-11 10:33
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux hérauts
-|- CLASS="titre"
-| Nom || Allégeance || FP
-|- CLASS="premier"
-| [[Main de l’Héritière]] || Iomédae || 15
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux hérauts</caption><tr CLASS="titre"><td>Nom</td><td>Allégeance</td><td>FP</td></tr><tr CLASS="premier"><td>[[Main de l’Héritière]]</td><td>Iomédae</td><td>15</td></tr></table>
+
 </div></div><div class="description">**Source :** LM.</div>
 
 À quelques

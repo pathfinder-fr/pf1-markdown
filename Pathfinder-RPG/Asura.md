@@ -8,25 +8,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux asuras
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Adhukaït]] || 7
-|-
-| [[Aghasura]] || 11
-|-
-| [[Asurendra]] || 20
-|-
-| [[Hishandura]] || 15
-|-
-| [[Japalisura]] || 12
-|-
-| [[Tripurasura]] || 2
-|-
-| [[Upasunda]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux asuras</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Adhukaït]]</td><td>7</td></tr><tr><td>[[Aghasura]]</td><td>11</td></tr><tr><td>[[Asurendra]]</td><td>20</td></tr><tr><td>[[Hishandura]]</td><td>15</td></tr><tr><td>[[Japalisura]]</td><td>12</td></tr><tr><td>[[Tripurasura]]</td><td>2</td></tr><tr><td>[[Upasunda]]</td><td>9</td></tr></table>
+
 </div></div><div class="description">*Source : Bestiaire 3*</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type asura|asura]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Loi|Loi]], [[sous-type Mal|Mal]])*
 
@@ -50,36 +34,7 @@ Pourtant, il arrive en de rares occasion qu’à force de contempler la nature d
 Les asuras peuvent devenir très puissants au fil de leurs cycles interminables de réincarnation. Les plus puissants d’entre eux sont les asuras ranas qui vivent dans les lieux saints ruinés, dans les domaines divins abandonnés et au fond de l’Enfer. Ces puissants fiélons ont une forme unique et peuvent ordonner tout ce qu’ils souhaitent aux membres inférieurs de leur race : ils sont révérés comme des bodhisattvas sages et impies. Ils vivent généralement dans des endroits leur permettant de dénier aux fidèles des dieux l’accès à leurs sites et objets sacrés. Voici plusieurs asuras ranas que mentionnent de tristes contes et légendes :
 
 <center>
-{| CLASS="tablo"
-|+ ASURAS RANAS CONNUS
-|- CLASS="titre"
-|  |
-|- CLASS="alt"
-| &emsp;Andak le Démembré
-|-
-| &emsp;Bohga le Trésorier
-|- CLASS="alt"
-| &emsp;Chugarra le Gourou des bouchers
-|-
-| &emsp;Chupurvagasti, Dame de la brume empoisonnée
-|- CLASS="alt"
-| &emsp;Gavidya l’Innombrable
-|-
-| &emsp;Hydim du Jeûne éternel
-|- CLASS="alt"
-| &emsp;Ioramvol à Bouche de rochers
-|-
-| &emsp;Maeha, Père des faux mondes
-|- CLASS="alt"
-| &emsp;Onamahli la Double pureté
-|-
-| &emsp;Rahu le Dévoreur de soleil
-|- CLASS="alt"
-| &emsp;Rytara, Serpent de l’œil oriental
-|-
-| &emsp;Taraksun, l’Éveilleur de fureur
-|- CLASS="alt"
-| &emsp;Zurapadyn, la Bête tapie dans la fumée
-|-
-|}
+
+<table CLASS="tablo"><caption>ASURAS RANAS CONNUS</caption><tr CLASS="titre"></tr><tr CLASS="alt"><td>&emsp;Andak le Démembré</td></tr><tr><td>&emsp;Bohga le Trésorier</td></tr><tr CLASS="alt"><td>&emsp;Chugarra le Gourou des bouchers</td></tr><tr><td>&emsp;Chupurvagasti, Dame de la brume empoisonnée</td></tr><tr CLASS="alt"><td>&emsp;Gavidya l’Innombrable</td></tr><tr><td>&emsp;Hydim du Jeûne éternel</td></tr><tr CLASS="alt"><td>&emsp;Ioramvol à Bouche de rochers</td></tr><tr><td>&emsp;Maeha, Père des faux mondes</td></tr><tr CLASS="alt"><td>&emsp;Onamahli la Double pureté</td></tr><tr><td>&emsp;Rahu le Dévoreur de soleil</td></tr><tr CLASS="alt"><td>&emsp;Rytara, Serpent de l’œil oriental</td></tr><tr><td>&emsp;Taraksun, l’Éveilleur de fureur</td></tr><tr CLASS="alt"><td>&emsp;Zurapadyn, la Bête tapie dans la fumée</td></tr></table>
+
 </center>

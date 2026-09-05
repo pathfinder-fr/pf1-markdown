@@ -23,27 +23,9 @@ Les nuées composées de créatures de taille Minuscule ou Infime sont affectés
 **Attaque de nuée.** Les créatures appartenant au sous-type « nuée » ne portent pas d’attaques au corps à corps standard. Au lieu de cela, elles infligent automatiquement des dégâts à toutes les créatures dont elles occupent l’espace au terme de leur déplacement (sans même avoir à réaliser de [[jet dattaque|jet d’attaque]]). Les chances d’échec découlant d’un camouflage ou d’un abri ne s’appliquent pas aux attaques de nuées. Les profils des nuées contiennent la mention « nuée » après l’en-tête correspondant aux attaques et n’indiquent pas de bonus d’attaque. La quantité de dégâts infligés par une nuée dépend de son nombre de DV (voir le tableau ci-dessous).
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ Nuée
-|- CLASS="titre"
-| class="gauche" | Nombre de DV de la nuée
-| Dégâts de base de la nuée
-|- CLASS="premier"
-| class="gauche" | 1-5
-| 1d6
-|- CLASS="alt"
-| class="gauche" | 6-10
-| 2d6
-|-
-| class="gauche" | 11-15
-| 3d6
-|- CLASS="alt"
-| class="gauche" | 16-20
-| 4d6
-|-
-| class="gauche" | 21 ou plus
-| 5d6
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>Nuée</caption><tr CLASS="titre"><td class="gauche">Nombre de DV de la nuée</td><td>Dégâts de base de la nuée</td></tr><tr CLASS="premier"><td class="gauche">1-5</td><td>1d6</td></tr><tr CLASS="alt"><td class="gauche">6-10</td><td>2d6</td></tr><tr><td class="gauche">11-15</td><td>3d6</td></tr><tr CLASS="alt"><td class="gauche">16-20</td><td>4d6</td></tr><tr><td class="gauche">21 ou plus</td><td>5d6</td></tr></table>
+
 </center>
 
 Les attaques de nuées ne sont pas magiques, à moins que le profil n’indique le contraire. Une [[RD|réduction de dégâts]] suffisante pour diminuer les dégâts jusqu’à 0, l’intangibilité ou d’autres capacités spéciales peuvent immuniser une créature aux attaques d’une nuée ou, au moins, l’aider à y résister. Certaines nuées possèdent

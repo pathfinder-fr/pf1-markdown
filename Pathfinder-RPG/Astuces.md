@@ -15,48 +15,9 @@ Categories:
 
 Les astuces marquées d’un astérisque (*) ajoutent un effet aux [[attaque sournoise|attaques sournoises]] du [[ninja]]. Le ninja ne peut appliquer que l'un de ces effets à chaque attaque, et son choix doit être fait avant le jet d'attaque.
 
-{| CLASS="tablo toutgauche centre autoalt" WIDTH="80%"
-|+ Astuces de ninja
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="3" | Astuces
-|- CLASS="premier"
-| [[Astuces#ARMESDISSIMULÉES|Armes dissimulées]] || [[Astuces#DÉLUGEDÉTOILES|Déluge d'étoiles]] || [[Astuces#MAÎTRISEDUNEÉCOLE|Maîtrise d'une école]]
-|-
-| [[Astuces#ASTUCEOUBLIÉE|Astuce oubliée]] || [[Astuces#DISCRETETRAPIDE|Discret et rapide]] || [[Astuces#MÉTABOLISMERALENTI|Métabolisme ralenti]]
-|-
-| [[Astuces#ATTAQUESANGLANTE|Attaque sanglante]]* || [[Astuces#DISPARU|Disparu]] || [[Astuces#PARADEDEPROJECTILES|Parade de projectiles]]*
-|-
-| [[Astuces#BLOCAGEDUKI|Blocage du ki]]* || [[Astuces#DISTANCEMORTELLE|Distance Mortelle]] || [[Astuces#POINTVITAL|Point vital]]*
-|-
-| [[Astuces#BOMBEASPHYXIANTE|Bombe asphyxiante]] || [[Astuces#ENTRAÎNEMENTAUCOMBATÀMAINSNUES|Entrainement au combat à mains nues]] || [[Astuces#RÉACTIONSLENTES|Réactions lentes]]*
-|-
-| [[Astuces#BOMBEEMPOISONNÉE|Bombe empoisonnée]] || [[Astuces#FEUILLEMORTE|Feuille morte]] || [[Astuces#SABOTAGEINDÉTECTABLE|Sabotage indétectable]]
-|-
-| [[Astuces#BOMBEFUMIGÈNE|Bombe fumigène]] || [[Astuces#FORMATIONMARTIALE|Formation martiale]] || [[Astuces#TALENTDEROUBLARD|Talent de roublard]]
-|-
-| [[Astuces#BOTTESECRÈTE|Botte secrète]] || [[Astuces#GRIMPERÀLAVERTICALE|Grimper à la verticale]] || [[Astuces#VENTRILOQUIE|Ventriloquie]]
-|-
-| [[Astuces#CAPTUREDEPROJECTILES|Capture de projectiles]] || [[Astuces#IMPRÉGNATIONDEKI|Imprégnation de ki]] || [[Astuces#VISIONDANSLENOIR|Vision dans le noir]]
-|-
-| [[Astuces#CLONEDOMBRE|Clone d'ombre]] || [[Astuces#MAÎTREACROBATE|Maître acrobate]] || &emsp;
-|-
-| [[Astuces#DÉGUISEMENTINSTANTANÉ|Déguisement instantané]] || [[Astuces#MAÎTREDESSAUTSENHAUTEUR|Maître des sauts en hauteur]] || &emsp;
-|-
-|- CLASS="titre"
-| &emsp;
-|- CLASS="titre"
-| CLASS="centre" COLSPAN="3" | Astuces de maître
-|- CLASS="premier"
-| [[Astuces#ASSASSINAT|Assassinat]] || [[Astuces#LAMEINVISIBLE|Lame invisible]] || [[Astuces#TALENTDEMAÎTREROUBLARD|Talent de maître roublard]]
-|-
-| [[Astuces#BOMBEAVEUGLANTE|Bombe aveuglante]] || [[Astuces#MAÎTREDUDÉGUISEMENT|Maître du déguisement]] || [[Astuces#SHURIKENMORTEL|Shuriken mortel]]
-|-
-| [[Astuces#DÉPLACEMENTLIBRE|Déplacement libre]] || [[Astuces#MAÎTRISEDUCOMBATÀMAINSNUES|Maîtrise du combat à mains nues]] || [[Astuces#VOIRLINVISIBLE|Voir l'invisible]]
-|-
-| [[Astuces#DON|Don]] || [[Astuces#PASFANTOMATIQUE|Pas fantomatique]] || &emsp;
-|-
-| [[Astuces#ESQUIVETOTALE|Esquive totale]] || [[Astuces#RÉPLIQUEDOMBRE|Réplique d'ombre]] || &emsp;
-|}
+
+<table CLASS="tablo toutgauche centre autoalt" WIDTH="80%"><caption>Astuces de ninja</caption><tr CLASS="titre"><td CLASS="centre" COLSPAN="3">Astuces</td></tr><tr CLASS="premier"><td>[[Astuces#ARMESDISSIMULÉES|Armes dissimulées]]</td><td>[[Astuces#DÉLUGEDÉTOILES|Déluge d'étoiles]]</td><td>[[Astuces#MAÎTRISEDUNEÉCOLE|Maîtrise d'une école]]</td></tr><tr><td>[[Astuces#ASTUCEOUBLIÉE|Astuce oubliée]]</td><td>[[Astuces#DISCRETETRAPIDE|Discret et rapide]]</td><td>[[Astuces#MÉTABOLISMERALENTI|Métabolisme ralenti]]</td></tr><tr><td>[[Astuces#ATTAQUESANGLANTE|Attaque sanglante]]*</td><td>[[Astuces#DISPARU|Disparu]]</td><td>[[Astuces#PARADEDEPROJECTILES|Parade de projectiles]]*</td></tr><tr><td>[[Astuces#BLOCAGEDUKI|Blocage du ki]]*</td><td>[[Astuces#DISTANCEMORTELLE|Distance Mortelle]]</td><td>[[Astuces#POINTVITAL|Point vital]]*</td></tr><tr><td>[[Astuces#BOMBEASPHYXIANTE|Bombe asphyxiante]]</td><td>[[Astuces#ENTRAÎNEMENTAUCOMBATÀMAINSNUES|Entrainement au combat à mains nues]]</td><td>[[Astuces#RÉACTIONSLENTES|Réactions lentes]]*</td></tr><tr><td>[[Astuces#BOMBEEMPOISONNÉE|Bombe empoisonnée]]</td><td>[[Astuces#FEUILLEMORTE|Feuille morte]]</td><td>[[Astuces#SABOTAGEINDÉTECTABLE|Sabotage indétectable]]</td></tr><tr><td>[[Astuces#BOMBEFUMIGÈNE|Bombe fumigène]]</td><td>[[Astuces#FORMATIONMARTIALE|Formation martiale]]</td><td>[[Astuces#TALENTDEROUBLARD|Talent de roublard]]</td></tr><tr><td>[[Astuces#BOTTESECRÈTE|Botte secrète]]</td><td>[[Astuces#GRIMPERÀLAVERTICALE|Grimper à la verticale]]</td><td>[[Astuces#VENTRILOQUIE|Ventriloquie]]</td></tr><tr><td>[[Astuces#CAPTUREDEPROJECTILES|Capture de projectiles]]</td><td>[[Astuces#IMPRÉGNATIONDEKI|Imprégnation de ki]]</td><td>[[Astuces#VISIONDANSLENOIR|Vision dans le noir]]</td></tr><tr><td>[[Astuces#CLONEDOMBRE|Clone d'ombre]]</td><td>[[Astuces#MAÎTREACROBATE|Maître acrobate]]</td><td>&emsp;</td></tr><tr><td>[[Astuces#DÉGUISEMENTINSTANTANÉ|Déguisement instantané]]</td><td>[[Astuces#MAÎTREDESSAUTSENHAUTEUR|Maître des sauts en hauteur]]</td><td>&emsp;</td></tr><tr CLASS="titre"><td>&emsp;</td></tr><tr CLASS="titre"><td CLASS="centre" COLSPAN="3">Astuces de maître</td></tr><tr CLASS="premier"><td>[[Astuces#ASSASSINAT|Assassinat]]</td><td>[[Astuces#LAMEINVISIBLE|Lame invisible]]</td><td>[[Astuces#TALENTDEMAÎTREROUBLARD|Talent de maître roublard]]</td></tr><tr><td>[[Astuces#BOMBEAVEUGLANTE|Bombe aveuglante]]</td><td>[[Astuces#MAÎTREDUDÉGUISEMENT|Maître du déguisement]]</td><td>[[Astuces#SHURIKENMORTEL|Shuriken mortel]]</td></tr><tr><td>[[Astuces#DÉPLACEMENTLIBRE|Déplacement libre]]</td><td>[[Astuces#MAÎTRISEDUCOMBATÀMAINSNUES|Maîtrise du combat à mains nues]]</td><td>[[Astuces#VOIRLINVISIBLE|Voir l'invisible]]</td></tr><tr><td>[[Astuces#DON|Don]]</td><td>[[Astuces#PASFANTOMATIQUE|Pas fantomatique]]</td><td>&emsp;</td></tr><tr><td>[[Astuces#ESQUIVETOTALE|Esquive totale]]</td><td>[[Astuces#RÉPLIQUEDOMBRE|Réplique d'ombre]]</td><td>&emsp;</td></tr></table>
+
 
 ### Description des astuces de ninja
 <table width="100%"><tr><td width="49%">

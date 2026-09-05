@@ -49,31 +49,9 @@ Categories:
 {s:BDTexte|**pv** 42 (*Bestiaire Pathfinder JdR* p. [[Sanglier sanguinaire|253]], [[Archétypes#CREATUREFIELON|295]])}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de goule
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chauve-souris aile de suie]] || 1/2
-|-
-| [[Molosse goule]] || 1
-|-
-| [[Goule]] || 1
-|-
-| [[Goule sournoise]] || 3
-|-
-| [[Goule traqueuse]] || 6
-|-
-| [[Grand-veneur goule]] || 7
-|-
-| [[Assassin masqué]] || 8
-|-
-| [[Commandant goule]] || 8
-|-
-| [[Antique fossoyeur]] || 10
-|-
-| [[Monarque goule]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de goule</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris aile de suie]]</td><td>1/2</td></tr><tr><td>[[Molosse goule]]</td><td>1</td></tr><tr><td>[[Goule]]</td><td>1</td></tr><tr><td>[[Goule sournoise]]</td><td>3</td></tr><tr><td>[[Goule traqueuse]]</td><td>6</td></tr><tr><td>[[Grand-veneur goule]]</td><td>7</td></tr><tr><td>[[Assassin masqué]]</td><td>8</td></tr><tr><td>[[Commandant goule]]</td><td>8</td></tr><tr><td>[[Antique fossoyeur]]</td><td>10</td></tr><tr><td>[[Monarque goule]]</td><td>12</td></tr></table>
+
 </div> Les commandants goules éprouvent une haine dévorante vis-à-vis des vivants. Ils peuvent diriger une meute de leurs semblables ou servir de gardien ou de lieutenant auprès d’un puissant monarque goule.
 
 Quand les goules se rassemblent en groupe organisé, c’est un commandant qui prend les rênes et endosse les responsabilités. Dans les villes et pays de goules « civilisées », les commandants forment l’élite des officiers. Ce sont eux qui dirigent les unités de goules ordinaires lors des manœuvres et excursions militaires. Ils reçoivent leurs ordres d’individus plus haut placés dans la hiérarchie mais ce sont à eux de les traduire en tactiques concrètes et ils apprécient beaucoup l’autonomie dont ils disposent sur le champ de bataille. Du moins, tant que ces tactiques sont couronnées de succès.

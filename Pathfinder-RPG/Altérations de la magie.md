@@ -13,36 +13,12 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Magie limitée
-|- CLASS="titre"
-| Niveau  
-de sort || NLS (9)* || NLS (6) || NLS (4) || Valeur de  
-caractéristique || DD
-|- CLASS="premier"
-| 0 || 1 || 1 || — || 10 || 10
-|-
-| 1 || 1 || 1 || 4 || 11 || 11
-|-
-| 2 || 3 || 4 || 7 || 12 || 13
-|-
-| 3 || 5 || 7 || 10 || 13 || 14
-|-
-| 4 || 7 || 10 || 13 || 14 || 16
-|-
-| 5 || 9 || 13 || — || 15 || 17
-|-
-| 6 || 11 || 16 || — || 16 || 19
-|-
-| 7 || 13 || — || — || 17 || 20
-|-
-| 8 || 15 || — || — || 18 || 22
-|-
-| 9 || 17 || — || — || 19 || 23
-|- CLASS="note"
-| COLSPAN="6" | *(*) Pour l’ensorceleur, augmentez de 1 le niveau de lanceur de sorts  
-minimum de tous les sorts de niveau 2 ou plus.*
-|}
+
+<table CLASS="tablo autoalt"><caption>Magie limitée</caption><tr CLASS="titre"><td>Niveau  
+de sort</td><td>NLS (9)*</td><td>NLS (6)</td><td>NLS (4)</td><td>Valeur de  
+caractéristique</td><td>DD</td></tr><tr CLASS="premier"><td>0</td><td>1</td><td>1</td><td>—</td><td>10</td><td>10</td></tr><tr><td>1</td><td>1</td><td>1</td><td>4</td><td>11</td><td>11</td></tr><tr><td>2</td><td>3</td><td>4</td><td>7</td><td>12</td><td>13</td></tr><tr><td>3</td><td>5</td><td>7</td><td>10</td><td>13</td><td>14</td></tr><tr><td>4</td><td>7</td><td>10</td><td>13</td><td>14</td><td>16</td></tr><tr><td>5</td><td>9</td><td>13</td><td>—</td><td>15</td><td>17</td></tr><tr><td>6</td><td>11</td><td>16</td><td>—</td><td>16</td><td>19</td></tr><tr><td>7</td><td>13</td><td>—</td><td>—</td><td>17</td><td>20</td></tr><tr><td>8</td><td>15</td><td>—</td><td>—</td><td>18</td><td>22</td></tr><tr><td>9</td><td>17</td><td>—</td><td>—</td><td>19</td><td>23</td></tr><tr CLASS="note"><td COLSPAN="6">*(*) Pour l’ensorceleur, augmentez de 1 le niveau de lanceur de sorts  
+minimum de tous les sorts de niveau 2 ou plus.*</td></tr></table>
+
 </center></div></div>Quand un personnage gagne des niveaux de lanceur de sorts selon les règles de magie normales, l’efficacité de ses sorts peut brusquement basculer, nécessitant une réévaluation constante de l’utilité de chacun d’eux. Les règles de la magie limitée ont pour objectif d’adapter plus étroitement la puissance des sorts à leur niveau et de réduire la montée en puissance des lanceurs de sorts.
 
 Avec les règles de la magie limitée, tous les sorts sont lancés au niveau minimum de lanceur de sorts et avec la valeur minimale de la caractéristique associée. Le niveau de lanceur de sorts minimum d’un sort est fixé à 2 × niveau du sort - 1 et ne change pas en fonction des niveaux de classe. Le niveau d’un sort peut varier en fonction de la classe, ainsi différentes classes peuvent imposer différents [[NLS|niveaux de lanceur de sorts]] minimum pour un même sort. La valeur minimale de la caractéristique associée aux sorts est fixée à 10 + niveau du sort, ce qui implique que le [[DD]] de sauvegarde pour chaque sort (10 + niveau du sort + modificateur de caractéristique du lanceur de sorts) est lui aussi constant. Pour plus de facilité, ces valeurs sont indiquées ci-contre dans la table "Magie limitée" ci-contre. La colonne NLS (9) indique le niveau de lanceur de sorts minimum pour les utilisateurs de magie capables de lancer des sorts de niveau 9, comme les prêtres, les druides et les magiciens. La colonne NLS (6) concerne les utilisateurs de magie capables de lancer des sorts de niveau 6, comme les bardes. La colonne NLS (4) concerne les utilisateurs de magie capables de lancer des sorts de niveau 4, comme les paladins et les rôdeurs. Si la progression d’incantation d’une classe diffère de ces niveaux de lanceur minimum, elle l’emporte toujours sur les indications de cette table.
@@ -74,21 +50,13 @@ Si l’effet du pic de magie sauvage obtenu d’après la table est impossible �
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ {s:Reference|EFFETSDEPICUNIVERSELS}Effets de pic universels
-|- CLASS="titre"
-| d100 || Effet de pic
-|- CLASS="premier"
-| 01-20 || Le lanceur de sorts subit 1d6 points  
-de dégâts auxquels il ne peut échapper.
-|-
-| 21-80 || Le lanceur de sorts est affecté par  
-une lueur féerique pendant 1 round.
-|-
-| 81-100 || Le lanceur de sorts gagne 1d6 points de vie  
+
+<table CLASS="tablo autoalt toutgauche"><caption>{s:Reference|EFFETSDEPICUNIVERSELS}Effets de pic universels</caption><tr CLASS="titre"><td>d100</td><td>Effet de pic</td></tr><tr CLASS="premier"><td>01-20</td><td>Le lanceur de sorts subit 1d6 points  
+de dégâts auxquels il ne peut échapper.</td></tr><tr><td>21-80</td><td>Le lanceur de sorts est affecté par  
+une lueur féerique pendant 1 round.</td></tr><tr><td>81-100</td><td>Le lanceur de sorts gagne 1d6 points de vie  
 temporaires qui durent 1 heure mais ne se  
-cumulent avec aucun autre point de vie temporaire.
-|}
+cumulent avec aucun autre point de vie temporaire.</td></tr></table>
+
 </center></div></div>Les règles concernant le moment où utiliser la magie sauvage sont délibérément floues pour laisser une marge de manœuvre au MJ, mais voici quelques idées d’utilisation, présentées de la plus simple à la plus complexe.
 - **Concentration ratée.** Quand un lanceur rate un [[test de concentration]] et perd son sort, une partie de l’énergie magique est libérée sous forme d’un pic de magie sauvage.
 
@@ -99,81 +67,13 @@ cumulent avec aucun autre point de vie temporaire.
 - **Incantation stimulée.** Un lanceur de sorts peut tenter d’utiliser l’un de ses [[Dons#DONMETAMAGIE|dons de métamagie]] sur un sort qu’il lance sans dépenser d’emplacement de sort de niveau supérieur, sans préparer le sort à un niveau supérieur (s’il s’agit d’un lanceur de sorts préparés) ou sans augmenter le temps d’incantation (s’il s’agit d’un lanceur de sorts spontanés). Le personnage doit alors effectuer un test de [[NLS|niveau de lanceur de sorts]] contre un [[DD]] égal à 10 + niveau du sort + 5 par niveau de sort supplémentaire que le don de métamagie engendre. S’il réussit, son sort profite des avantages du don de métamagie et le lanceur provoque un pic de magie sauvage. S’il échoue, il lance quand même un dé sur la Table 4-4 mais soustrait sa marge d’échec au résultat.
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
-|+ {s:Reference|PICDEMAGIESAUVAGE}Pic de magie sauvage
-|- CLASS="titre"
-| d100 || Effet de pic
-|- CLASS="premier"
-| 01-02 || Le lanceur de sorts subit 1d6 points de dégâts par niveau du sort lancé.
-|-
-| 03-04 || Le lanceur de sorts est affecté par un sort de *[[lenteur]]* pendant 5 [[round|rounds]].
-|-
-| 05 || Le sort prend effet en un point aléatoire de sa zone de portée.
-|-
-| 06 || Le lanceur de sorts est [[confus]] pendant 1 [[round]] (comme avec une *[[confusion]]*).
-|-
-| 07 || Le lanceur de sorts subit 1 point de saignement en [[Constitution]].
-|-
-| 08 || Le lanceur de sorts subit 1 point de saignement dans la caractéristique associée à son aptitude d’incantation (déterminez cette caractéristique aléatoirement si la créature n’est pas un lanceur de sorts).
-|-
-| 09-10 || Le lanceur de sorts est hébété pendant 1 round (comme avec un *[[hébétement de monstre]]*)
-|-
-| 11-12 || Le sort inflige 1,5 fois les dégâts normaux.
-|-
-| 13 || Le lanceur de sorts subit 1d4 points de dégâts de saignement.
-|-
-| 14 || Le lanceur de sorts s’endort pendant 1 minute (comme avec un sort de *[[sommeil]]*).
-|-
-| 15-16 || Pendant 1 minute, le lanceur de sorts ne peut plus incanter ni se concentrer sur des sorts.
-|-
-| 17 || Le lanceur de sorts est affecté par un *[[rapetissement]]* pendant 1 [[round]].
-|-
-| 18-19 || Le lanceur de sorts est [[fiévreux]] pendant 5 [[round|rounds]].
-|-
-| 20 || Une *[[zone de vérité]]* apparaît, centrée sur le lanceur de sorts.
-|-
-| 21-29 || Le lanceur de sorts est affecté comme s’il était la cible de son sort.
-|-
-| 30-32 || Toutes les cibles du sort sont affectées par une *[[restauration partielle]]*.
-|-
-| 33-38 || Toutes les cibles du sort sont soignées de 1d8+1 points de dégâts. Il s’agit d’un effet d’énergie positive.
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><caption>{s:Reference|PICDEMAGIESAUVAGE}Pic de magie sauvage</caption><tr CLASS="titre"><td>d100</td><td>Effet de pic</td></tr><tr CLASS="premier"><td>01-02</td><td>Le lanceur de sorts subit 1d6 points de dégâts par niveau du sort lancé.</td></tr><tr><td>03-04</td><td>Le lanceur de sorts est affecté par un sort de *[[lenteur]]* pendant 5 [[round|rounds]].</td></tr><tr><td>05</td><td>Le sort prend effet en un point aléatoire de sa zone de portée.</td></tr><tr><td>06</td><td>Le lanceur de sorts est [[confus]] pendant 1 [[round]] (comme avec une *[[confusion]]*).</td></tr><tr><td>07</td><td>Le lanceur de sorts subit 1 point de saignement en [[Constitution]].</td></tr><tr><td>08</td><td>Le lanceur de sorts subit 1 point de saignement dans la caractéristique associée à son aptitude d’incantation (déterminez cette caractéristique aléatoirement si la créature n’est pas un lanceur de sorts).</td></tr><tr><td>09-10</td><td>Le lanceur de sorts est hébété pendant 1 round (comme avec un *[[hébétement de monstre]]*)</td></tr><tr><td>11-12</td><td>Le sort inflige 1,5 fois les dégâts normaux.</td></tr><tr><td>13</td><td>Le lanceur de sorts subit 1d4 points de dégâts de saignement.</td></tr><tr><td>14</td><td>Le lanceur de sorts s’endort pendant 1 minute (comme avec un sort de *[[sommeil]]*).</td></tr><tr><td>15-16</td><td>Pendant 1 minute, le lanceur de sorts ne peut plus incanter ni se concentrer sur des sorts.</td></tr><tr><td>17</td><td>Le lanceur de sorts est affecté par un *[[rapetissement]]* pendant 1 [[round]].</td></tr><tr><td>18-19</td><td>Le lanceur de sorts est [[fiévreux]] pendant 5 [[round|rounds]].</td></tr><tr><td>20</td><td>Une *[[zone de vérité]]* apparaît, centrée sur le lanceur de sorts.</td></tr><tr><td>21-29</td><td>Le lanceur de sorts est affecté comme s’il était la cible de son sort.</td></tr><tr><td>30-32</td><td>Toutes les cibles du sort sont affectées par une *[[restauration partielle]]*.</td></tr><tr><td>33-38</td><td>Toutes les cibles du sort sont soignées de 1d8+1 points de dégâts. Il s’agit d’un effet d’énergie positive.</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
-| 39-43 || La zone d’effet ou les cibles du sort sont affectées par un sort de *[[silence]]* pendant 3 [[round|rounds]].
-|-
-| 44-50 || Toutes les cibles du sort sont [[invisible|invisibles]] pendant 1 [[round]] (comme avec une *[[invisibilité]]*).
-|-
-| 51-58 || La zone d’effet du sort est remplie d’une *[[lumière du jour]]*.
-|-
-| 59-64 || Un sort de *[[fracassement]]* affecte un zone de 1,5 mètre de rayon centrée sur chacune des cibles du sort (ou sur la zone d’effet du sort).
-|-
-| 65-71 || La zone d’effet du sort est recouverte de *[[graisse]]*.
-|-
-| 72-74 || Un arbre ou un animal aléatoire, ciblé par le sort ou se trouvant dans la zone d’effet du sort, est affecté par un sort d’*[[éveil]]*.
-|-
-| 75-78 || Un instrument apparaît sur une case adjacente à chaque cible (comme avec une *[[convocation dinstrument|convocation d’instrument]]*).
-|-
-| 79-80 || Toutes les portes dans un rayon de 30 mètres du lanceur de sorts sont affectées par un sort de *[[déblocage]]*.
-|-
-| 81-83 || Le lanceur de sorts se téléporte vers une case de son choix située à côté de la cible du sort ou dans la zone d’effet du sort.
-|-
-| 84-86 || Le prochain sort qui prend pour cible le lanceur de sorts est renvoyé, comme avec un *[[renvoi des sorts]]*.
-|-
-| 87-90 || Le lanceur de sorts gagne 2d6 points de vie temporaires qui durent 1 heure mais ne se cumulent avec aucun autre point de vie temporaire.
-|-
-| 91-92 || Une créature aléatoire issue de la liste du sort *[[convocation de monstres I]]* apparaît sur une case adjacente au lanceur de sorts. Elle est sous le contrôle du lanceur de sorts.
-|-
-| 93-95 || Le lanceur de sorts est affecté par un *[[don des langues]]* pendant 10 minutes.
-|-
-| 96-97 || Le lanceur de sorts est affecté par une *[[rapidité]]* pendant 5 [[round|rounds]].
-|-
-| 98 || Le sort bénéficie d’une [[Extension de durée]].
-|-
-| 99 || Le sort bénéficie d’une [[Quintessence des sorts]].
-|-
-| 100 || L’emplacement de sort utilisé pour lancer le sort n’est pas dépensé.
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><tr><td>39-43</td><td>La zone d’effet ou les cibles du sort sont affectées par un sort de *[[silence]]* pendant 3 [[round|rounds]].</td></tr><tr><td>44-50</td><td>Toutes les cibles du sort sont [[invisible|invisibles]] pendant 1 [[round]] (comme avec une *[[invisibilité]]*).</td></tr><tr><td>51-58</td><td>La zone d’effet du sort est remplie d’une *[[lumière du jour]]*.</td></tr><tr><td>59-64</td><td>Un sort de *[[fracassement]]* affecte un zone de 1,5 mètre de rayon centrée sur chacune des cibles du sort (ou sur la zone d’effet du sort).</td></tr><tr><td>65-71</td><td>La zone d’effet du sort est recouverte de *[[graisse]]*.</td></tr><tr><td>72-74</td><td>Un arbre ou un animal aléatoire, ciblé par le sort ou se trouvant dans la zone d’effet du sort, est affecté par un sort d’*[[éveil]]*.</td></tr><tr><td>75-78</td><td>Un instrument apparaît sur une case adjacente à chaque cible (comme avec une *[[convocation dinstrument|convocation d’instrument]]*).</td></tr><tr><td>79-80</td><td>Toutes les portes dans un rayon de 30 mètres du lanceur de sorts sont affectées par un sort de *[[déblocage]]*.</td></tr><tr><td>81-83</td><td>Le lanceur de sorts se téléporte vers une case de son choix située à côté de la cible du sort ou dans la zone d’effet du sort.</td></tr><tr><td>84-86</td><td>Le prochain sort qui prend pour cible le lanceur de sorts est renvoyé, comme avec un *[[renvoi des sorts]]*.</td></tr><tr><td>87-90</td><td>Le lanceur de sorts gagne 2d6 points de vie temporaires qui durent 1 heure mais ne se cumulent avec aucun autre point de vie temporaire.</td></tr><tr><td>91-92</td><td>Une créature aléatoire issue de la liste du sort *[[convocation de monstres I]]* apparaît sur une case adjacente au lanceur de sorts. Elle est sous le contrôle du lanceur de sorts.</td></tr><tr><td>93-95</td><td>Le lanceur de sorts est affecté par un *[[don des langues]]* pendant 10 minutes.</td></tr><tr><td>96-97</td><td>Le lanceur de sorts est affecté par une *[[rapidité]]* pendant 5 [[round|rounds]].</td></tr><tr><td>98</td><td>Le sort bénéficie d’une [[Extension de durée]].</td></tr><tr><td>99</td><td>Le sort bénéficie d’une [[Quintessence des sorts]].</td></tr><tr><td>100</td><td>L’emplacement de sort utilisé pour lancer le sort n’est pas dépensé.</td></tr></table>
+
 </td></tr></table>
 
 {s:Reference|LINCANTATIONACTIVE}
@@ -216,28 +116,5 @@ Les sorts sont soumis à un risque d’échec automatique, tout comme n’import
 
 **Avec les jets d’attaque magique.** Quand vous utilisez la variante du jet d’attaque magique, un échec critique peut survenir si vous faites un 1 naturel au jet d’attaque. Effectuez un second jet d’attaque : s’il est à nouveau raté, le sort est un échec critique.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Échecs critiques magiques
-|- CLASS="titre"
-| d10 || Résultat de l’échec critique
-|- CLASS="premier"
-| 1 || Un pic d’énergie magique incontrôlée inflige 1d6 points de dégâts par niveau de sort au lanceur de sorts.
-|-
-| 2 || Le sort frappe le lanceur de sorts ou l’un de ses alliés plutôt que la cible visée.
-|-
-| 3 || Le sort prend effet en un point aléatoire de sa zone de portée.
-|-
-| 4 || L’effet que le sort a sur la cible est contraire à l’effet normal.
-|-
-| 5 || Le lanceur de sorts souffre de quelque effet mineur bizarre en rapport avec le sort. La plupart de ces effets ne devraient pas durer plus longtemps que la durée originale du sort ou pas plus de 2d10 minutes pour les sorts spontanés.
-|-
-| 6 || Un ou plusieurs objets inoffensifs aléatoires apparaissent soudainement dans la zone d’effet du sort.
-|-
-| 7 || L’effet du sort est retardé, ne s’activant qu’à un moment donné au cours des 1d12 prochaines heures. Le sort est lancé dans la direction générale de la cible originale, jusqu’à sa portée maximale si la cible s’est déplacée.
-|-
-| 8 || Le lanceur de sorts ne peut pas incanter ni se concentrer sur des sorts pendant 1 [[round]].
-|-
-| 9 || Le lanceur de sorts est [[hébété]] pendant 1 [[round]].
-|-
-| 10 || Le lanceur de sorts subit un [[affaiblissement temporaire]] de 1 point de [[Constitution]].
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Échecs critiques magiques</caption><tr CLASS="titre"><td>d10</td><td>Résultat de l’échec critique</td></tr><tr CLASS="premier"><td>1</td><td>Un pic d’énergie magique incontrôlée inflige 1d6 points de dégâts par niveau de sort au lanceur de sorts.</td></tr><tr><td>2</td><td>Le sort frappe le lanceur de sorts ou l’un de ses alliés plutôt que la cible visée.</td></tr><tr><td>3</td><td>Le sort prend effet en un point aléatoire de sa zone de portée.</td></tr><tr><td>4</td><td>L’effet que le sort a sur la cible est contraire à l’effet normal.</td></tr><tr><td>5</td><td>Le lanceur de sorts souffre de quelque effet mineur bizarre en rapport avec le sort. La plupart de ces effets ne devraient pas durer plus longtemps que la durée originale du sort ou pas plus de 2d10 minutes pour les sorts spontanés.</td></tr><tr><td>6</td><td>Un ou plusieurs objets inoffensifs aléatoires apparaissent soudainement dans la zone d’effet du sort.</td></tr><tr><td>7</td><td>L’effet du sort est retardé, ne s’activant qu’à un moment donné au cours des 1d12 prochaines heures. Le sort est lancé dans la direction générale de la cible originale, jusqu’à sa portée maximale si la cible s’est déplacée.</td></tr><tr><td>8</td><td>Le lanceur de sorts ne peut pas incanter ni se concentrer sur des sorts pendant 1 [[round]].</td></tr><tr><td>9</td><td>Le lanceur de sorts est [[hébété]] pendant 1 [[round]].</td></tr><tr><td>10</td><td>Le lanceur de sorts subit un [[affaiblissement temporaire]] de 1 point de [[Constitution]].</td></tr></table>

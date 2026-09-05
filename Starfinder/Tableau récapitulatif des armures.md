@@ -9,12 +9,7 @@ Categories:
 ### Les armures
 
 <center>
-{| CLASS="tablo"
-|+ Tableau récapitulatif des armures courantes
-|- CLASS="titre"
-| [[Caractéristiques des armures#Armures|Armures]] || Niveau  || Prix || BONUS CAE || BONUS CAC || BONUS DEX MAX || MALUS AUX TESTS || Modificateur de Vitesse || Emplacement d'amélioration || Volume
-|- CLASS="premier"
-| COLSPAN="10" | **ARMURES LÉGÈRES**
-|-
-|}
+
+<table CLASS="tablo"><caption>Tableau récapitulatif des armures courantes</caption><tr CLASS="titre"><td>[[Caractéristiques des armures#Armures|Armures]]</td><td>Niveau</td><td>Prix</td><td>BONUS CAE</td><td>BONUS CAC</td><td>BONUS DEX MAX</td><td>MALUS AUX TESTS</td><td>Modificateur de Vitesse</td><td>Emplacement d'amélioration</td><td>Volume</td></tr><tr CLASS="premier"><td COLSPAN="10">**ARMURES LÉGÈRES**</td></tr></table>
+
 </center>

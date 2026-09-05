@@ -8,23 +8,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux manasaputras
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Manu]] || &nbsp; || 12
-|-
-| [[Manu maharishi]] || &nbsp; || 16
-|-
-| [[Manu rishi]] || &nbsp; || 14
-|-
-| [[Pitri crépusculaire|Pitri crépusculaire (Barhisad)]] || &nbsp; || 18
-|-
-| **Membres mythiques** || **FP** || **RMY**
-|- CLASS="premier"
-| [[Pitri solaire|Pitri solaire (Agnishvatta)]] || 22 || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux manasaputras</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Manu]]</td><td>&nbsp;</td><td>12</td></tr><tr><td>[[Manu maharishi]]</td><td>&nbsp;</td><td>16</td></tr><tr><td>[[Manu rishi]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Pitri crépusculaire|Pitri crépusculaire (Barhisad)]]</td><td>&nbsp;</td><td>18</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Pitri solaire|Pitri solaire (Agnishvatta)]]</td><td>22</td><td>8</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 5 p.221.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type extraplanaire|extraplanaire]], [[sous-type Bien|Bien]], [[sous-type Loi|Loi]], [[sous-type manasaputra|manasaputra]]).*
 

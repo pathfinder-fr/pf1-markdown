@@ -39,37 +39,9 @@ Categories:
 {s:BDTexte|**Régénération flamboyante (Sur).** Un kyrane ne subit pas de dégâts de la part des attaques de feu. Au lieu de cela, il guérit d’un montant de points de vie égal au montant des dégâts de l’attaque, sans dépasser 5 pv par round. Le kyrane ne peut pas utiliser son [[souffle (capacité)|souffle]] sur lui-même pour se soigner.}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Kobold
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Kobold]] || 1/4
-|-
-| [[Mage des écailles kobold]] || 1/2
-|-
-| [[monstre Sniper kobold|Sniper kobold]] || 1/2
-|-
-| [[Bombardier kobold]] || 1
-|-
-| [[Palefrenier des monstres kobold]] || 1
-|-
-| [[Escrimeur kobold]] || 3
-|-
-| [[Kyrane]] || 3
-|-
-| [[Maître trappeur kobold]] || 4
-|-
-| [[Mage rusé kobold]] || 5
-|-
-| [[Maître de guerre kobold]] || 6
-|-
-| [[Aboyeur kobold]] || 7
-|-
-| [[Parle-diable kobold]] || 7
-|-
-| [[Chef kobold]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Kobold</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Kobold]]</td><td>1/4</td></tr><tr><td>[[Mage des écailles kobold]]</td><td>1/2</td></tr><tr><td>[[monstre Sniper kobold|Sniper kobold]]</td><td>1/2</td></tr><tr><td>[[Bombardier kobold]]</td><td>1</td></tr><tr><td>[[Palefrenier des monstres kobold]]</td><td>1</td></tr><tr><td>[[Escrimeur kobold]]</td><td>3</td></tr><tr><td>[[Kyrane]]</td><td>3</td></tr><tr><td>[[Maître trappeur kobold]]</td><td>4</td></tr><tr><td>[[Mage rusé kobold]]</td><td>5</td></tr><tr><td>[[Maître de guerre kobold]]</td><td>6</td></tr><tr><td>[[Aboyeur kobold]]</td><td>7</td></tr><tr><td>[[Parle-diable kobold]]</td><td>7</td></tr><tr><td>[[Chef kobold]]</td><td>8</td></tr></table>
+
 </div>*De longues épines hérissent la tête et le cou de cet iguane aux écailles rouges et du feu goutte de sa gueule entrouverte.*
 
 Les kyranes sont des cousins des véritables dragons, mais ressemblent à de gros iguanes. Ils ne sont pas très intelligents et présentent une affinité avec le feu. Plutôt faibles pour des dragons, ces cracheurs de feu sont tout de même assez dangereux pour inspirer peur et respect aux kobolds qui les rencontrent, souvent alors qu’ils creusent de profonds tunnels.

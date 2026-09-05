@@ -36,17 +36,9 @@ Categories:
 {s:BDTexte|**Sprint (Ext).**Une fois par heure, un guépard peut se déplacer à 10 fois sa vitesse normale (150 m (100 {s:c})) lorsqu'il [[charge]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de félin
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Chat]] || 1/4
-|-
-| [[Guépard]] || 2
-|-
-| [[Léopard]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de félin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Chat]]</td><td>1/4</td></tr><tr><td>[[Guépard]]</td><td>2</td></tr><tr><td>[[Léopard]]</td><td>2</td></tr></table>
+
 </div>*Les longues et puissantes pattes de ce grand félin à la fourrure dorée tachetée de noir lui permettent de se déplacer à vive allure.*
 
 Les guépards sont des prédateurs rapides et mortels capables de se

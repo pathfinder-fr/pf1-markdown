@@ -37,15 +37,9 @@ LastModified: 2020-09-21 17:41
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de puce
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Puce cyclopéenne]] || 2
-|-
-| [[Puce géante]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de puce</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Puce cyclopéenne]]</td><td>2</td></tr><tr><td>[[Puce géante]]</td><td>1/2</td></tr></table>
+
 </div>*Une puce hideuse de la taille d’un chien bondit sur ses longues pattes dégingandées. Avide de sang, elle fait claquer ses mandibules crantées.*
 
 Exactement comme leurs cousines plus petites, les puces géantes sont des insectes hémophages qui vivent dans tous les environnements où elles peuvent se nourrir de sang. Ces créatures sont d’une agilité et d’une force étonnantes. Capables de sauter sur de grandes distances, elles passent d’un endroit à l’autre sans réfléchir, à la recherche d’une proie facile. La puce géante peut survivre plusieurs mois sans se nourrir mais, après ce genre de jeûne, elle se gave de sang.

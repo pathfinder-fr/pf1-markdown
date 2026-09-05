@@ -33,18 +33,11 @@ Le personnage a besoin des matériaux et des ingrédients correspondant à ceux 
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Message inconnu || DD du test  
-de Société
-|- CLASS="premier"
-| Message simple || 20
-|-
-| Texte standard || 25
-|-
-| Texte très ancien,  
-exotique ou complexe || 30
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Message inconnu</td><td>DD du test  
+de Société</td></tr><tr CLASS="premier"><td>Message simple</td><td>20</td></tr><tr><td>Texte standard</td><td>25</td></tr><tr><td>Texte très ancien,  
+exotique ou complexe</td><td>30</td></tr></table>
+
 </center></div></div>Le personnage peut décrypter les textes incomplets, mais aussi ceux rédigés dans une langue inconnue ou archaïque. En cas de réussite du test, le personnage comprend une page (ou son équivalent) du texte qu’il vient de lire. En cas d’échec, il doit effectuer un test de [[Sagesse]] [[DD]] 5 pour ne pas tirer de mauvaises conclusions sur la teneur du texte. Le [[MJ]] effectue les deux tests en secret pour que le joueur ne sache pas si les informations découvertes par son personnage sont fiables ou non.
 
 **Action.** Une minute par page.
@@ -60,24 +53,7 @@ La compétence de Société permet d’identifier des monstres de type humanoïd
 Le personnage peut utiliser la compétence Société pour se remémorer des informations à propos des habitants d’une région, des personnalités prépondérantes, de la royauté, des lignées nobles, des évènements historiques, des coutumes, des légendes et des lois. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus de détails. Utilisez les [[DD]] de la table suivante pour certaines tâches.
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test de Société
-|- CLASS="premier"
-| Connaitre les lois, les dirigeants et les sites populaires || 10
-|-
-| Connaitre un évènement récent ou historiquement important || 10
-|-
-| Déterminer la date approximative d’un évènement spécifique || 15
-|-
-| Connaitre une rumeur ou une tradition connue || 15
-|-
-| Connaitre l’étiquette appropriée || 15
-|-
-| Connaitre les organisations secrètes, les dirigeants et les sites || 20
-|-
-| Connaitre une lignée de succession || 20
-|-
-| Connaitre un évènement peu connu ou historiquement ancien || 20
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test de Société</td></tr><tr CLASS="premier"><td>Connaitre les lois, les dirigeants et les sites populaires</td><td>10</td></tr><tr><td>Connaitre un évènement récent ou historiquement important</td><td>10</td></tr><tr><td>Déterminer la date approximative d’un évènement spécifique</td><td>15</td></tr><tr><td>Connaitre une rumeur ou une tradition connue</td><td>15</td></tr><tr><td>Connaitre l’étiquette appropriée</td><td>15</td></tr><tr><td>Connaitre les organisations secrètes, les dirigeants et les sites</td><td>20</td></tr><tr><td>Connaitre une lignée de succession</td><td>20</td></tr><tr><td>Connaitre un évènement peu connu ou historiquement ancien</td><td>20</td></tr></table>
+
 </center>

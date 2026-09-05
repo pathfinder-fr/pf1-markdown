@@ -9,41 +9,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt" WIDTH="100%"
-|+ Rencontres aléatoires dans la forêt de Sombrelune<sup>(2)</sup>
-|- CLASS="titre"
-| WIDTH="22%" | d100
-| WIDTH="76%" | Résultat
-| WIDTH="2%" | FP
-|- Class="premier"
-| 1–10 || 1d3 [[Pathfinder-RPG.Tatzlwyrm|tatzlwyrms]] || 2
-|-
-| 11–25 || 2d3 [[Pathfinder-RPG.Grig|grigs]] || 3
-|-
-| 26–30 || 1 [[Pathfinder-RPG.Dryade|dryades]] || 3
-|-
-| 31–35 || 1d2 [[Pathfinder-RPG.Grick|gricks]] || 3
-|-
-| 36–40 || 1d4 [[Pathfinder-RPG.Aallip|aallips]] || 4
-|-
-| 41–50 || 2d6 [[Pathfinder-RPG.Kobold|kobolds]] || 4
-|-
-| 51–55 || 1d3 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]] || 4
-|-
-| 56–70 || 1d2 [[Pathfinder-RPG.Pixie|pixies]] (sans danse) || 4
-|-
-| 71–72 || 2d4 [[Pathfinder-RPG.Ombre|ombres]] || 5
-|-
-| 73–80 || 1d4 [[Pathfinder-RPG.Pixie|pixies]] (avec danse) || 6
-|-
-| 81 || 1 [[Pathfinder-RPG.Géant des collines|géant des collines]] || 7
-|-
-| 82–84 || 1 [[Pathfinder-RPG.Nymphe|nymphe]] || 7
-|-
-| 85–84 || 1 [[Pathfinder-RPG.Ombre supérieure|ombre supérieure]] || 8
-|-
-| 86–100 || Meute de loups (2d6 [[Pathfinder-RPG.Loup|loups]], 1d2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] et 1 [[Pathfinder-RPG.Loup arctique|loup arctique]]) || 8
-|}
+
+<table CLASS="tablo centre toutgauche autoalt" WIDTH="100%"><caption>Rencontres aléatoires dans la forêt de Sombrelune<sup>(2)</sup></caption><tr CLASS="titre"><td WIDTH="22%">d100</td><td WIDTH="76%">Résultat</td><td WIDTH="2%">FP</td></tr><tr Class="premier"><td>1–10</td><td>1d3 [[Pathfinder-RPG.Tatzlwyrm|tatzlwyrms]]</td><td>2</td></tr><tr><td>11–25</td><td>2d3 [[Pathfinder-RPG.Grig|grigs]]</td><td>3</td></tr><tr><td>26–30</td><td>1 [[Pathfinder-RPG.Dryade|dryades]]</td><td>3</td></tr><tr><td>31–35</td><td>1d2 [[Pathfinder-RPG.Grick|gricks]]</td><td>3</td></tr><tr><td>36–40</td><td>1d4 [[Pathfinder-RPG.Aallip|aallips]]</td><td>4</td></tr><tr><td>41–50</td><td>2d6 [[Pathfinder-RPG.Kobold|kobolds]]</td><td>4</td></tr><tr><td>51–55</td><td>1d3 [[Pathfinder-RPG.Ours-hibou|ours-hiboux]]</td><td>4</td></tr><tr><td>56–70</td><td>1d2 [[Pathfinder-RPG.Pixie|pixies]] (sans danse)</td><td>4</td></tr><tr><td>71–72</td><td>2d4 [[Pathfinder-RPG.Ombre|ombres]]</td><td>5</td></tr><tr><td>73–80</td><td>1d4 [[Pathfinder-RPG.Pixie|pixies]] (avec danse)</td><td>6</td></tr><tr><td>81</td><td>1 [[Pathfinder-RPG.Géant des collines|géant des collines]]</td><td>7</td></tr><tr><td>82–84</td><td>1 [[Pathfinder-RPG.Nymphe|nymphe]]</td><td>7</td></tr><tr><td>85–84</td><td>1 [[Pathfinder-RPG.Ombre supérieure|ombre supérieure]]</td><td>8</td></tr><tr><td>86–100</td><td>Meute de loups (2d6 [[Pathfinder-RPG.Loup|loups]], 1d2 [[Pathfinder-RPG.Loup sanguinaire|loups sanguinaires]] et 1 [[Pathfinder-RPG.Loup arctique|loup arctique]])</td><td>8</td></tr></table>
+
 </div></div>La forêt de Sombrelune est l'un des endroits les plus dangereux de tout l'[[Avistan]]. Forêt sauvage hantée par les fées à la lisière de la civilisation, elle représente une menace constante pour ceux qui vivent à proximité, mais sert également de tentation constante aux aventuriers désireux de se faire un nom.
 
 #### Géographie

@@ -231,23 +231,9 @@ d’autoriser ou non ces anti-héros dans les parties.
 Les dons qui suivent améliorent les capacités des personnages à accumuler ou à gagner des points héroïques.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Dons de points héroïques
-|- CLASS="titre"
-| WIDTH="22%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="45%" | Avantages
 
-|- CLASS="premier donprincipal"
-| [[Bonne étoile des héros]] || <sup>MJRA</sup> || — || Gagne un point héroïque et augmente le nombre de points maximum
+<table CLASS="tablo toutgauche"><caption>Dons de points héroïques</caption><tr CLASS="titre"><td WIDTH="22%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="45%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Bonne étoile des héros]]</td><td><sup>MJRA</sup></td><td>—</td><td>Gagne un point héroïque et augmente le nombre de points maximum</td></tr><tr CLASS="premier alt donprincipal"><td>[[Chance des héros]]</td><td><sup>MJRA</sup></td><td>[[Bonne étoile des héros]]</td><td>25% de chance de ne pas dépenser un point héroïque quand le personnage en utilise</td></tr><tr CLASS="premier donprincipal"><td>[[Étoffe des héros]]</td><td><sup>MJRA</sup></td><td>[[Bonne étoile des héros]]</td><td>Gain de 2 points héroïques en prenant un niveau</td></tr></table>
 
-|- CLASS="premier alt donprincipal"
-| [[Chance des héros]] || <sup>MJRA</sup> || [[Bonne étoile des héros]] || 25% de chance de ne pas dépenser un point héroïque quand le personnage en utilise
-
-|- CLASS="premier donprincipal"
-| [[Étoffe des héros]] || <sup>MJRA</sup> || [[Bonne étoile des héros]] || Gain de 2 points héroïques en prenant un niveau
-|}
 </center>
 
 ### Sorts liés aux points héroïques

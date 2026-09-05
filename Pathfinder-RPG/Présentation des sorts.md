@@ -130,24 +130,9 @@ Le personnage ne peut être affecté que par un sort de métamorphose à la fois
 Si le personnage lance un sort de métamorphose sur une créature d’une catégorie de taille inférieure à Petite ou supérieure à Moyenne, il doit ajuster ses valeurs de caractéristique en fonction de la table suivante avant d’appliquer les bonus liés au sort de métamorphose.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Taille originale de la créature || For || Dex || Con || Nouvelle taille
-|- CLASS="premier"
-| Infime || +6 || -6 || — || Petite
-|-
-| Minuscule || +6 || -4 || — || Petite
-|- CLASS="alt"
-| Très petite || +4 || -2 || — || Petite
-|-
-| Grande || -4 || +2 || -2 || Moyenne
-|- CLASS="alt"
-| Très grande || -8 || +4 || -4 || Moyenne
-|-
-| Gigantesque || -12 || +4 || -6 || Moyenne
-|- CLASS="alt"
-| Colossale || -16 || +4 || -8 || Moyenne
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Taille originale de la créature</td><td>For</td><td>Dex</td><td>Con</td><td>Nouvelle taille</td></tr><tr CLASS="premier"><td>Infime</td><td>+6</td><td>-6</td><td>—</td><td>Petite</td></tr><tr><td>Minuscule</td><td>+6</td><td>-4</td><td>—</td><td>Petite</td></tr><tr CLASS="alt"><td>Très petite</td><td>+4</td><td>-2</td><td>—</td><td>Petite</td></tr><tr><td>Grande</td><td>-4</td><td>+2</td><td>-2</td><td>Moyenne</td></tr><tr CLASS="alt"><td>Très grande</td><td>-8</td><td>+4</td><td>-4</td><td>Moyenne</td></tr><tr><td>Gigantesque</td><td>-12</td><td>+4</td><td>-6</td><td>Moyenne</td></tr><tr CLASS="alt"><td>Colossale</td><td>-16</td><td>+4</td><td>-8</td><td>Moyenne</td></tr></table>
+
 </center>
 
 {s:Reference|REGISTRE}
@@ -354,33 +339,9 @@ Les objets non-magiques qui ne sont ni portés ni tenus n’ont droit à aucun j
 
 {s:Reference|TABLEOBJETSAFFECTESPARLESATTAQUEMAGIQUE}
 <center>
-{| CLASS="tablo"
-|+ Objets affectés par les attaques magiques
-|- CLASS="titre"
-| Rang* || Objet
-|- CLASS="premier"
-| 1er || Bouclier
-|- CLASS="alt"
-| 2e || Armure
-|-
-| 3e || Casque magique, couvre-chef ou serre-tête
-|- CLASS="alt"
-| 4e || Objet tenu en main (arme, baguette, etc.)
-|-
-| 5e || Cape magique
-|- CLASS="alt"
-| 6e || Arme rangée au fourreau ou portée en bandoulière
-|-
-| 7e || Bracelets magiques
-|- CLASS="alt"
-| 8e || Vêtements magiques
-|-
-| 9e || Bijoux magiques (ce qui inclut les anneaux)
-|- CLASS="alt"
-| 10e || Tout le reste
-|-
-| CLASS="note" COLSPAN="2" | *(*) Indique l’ordre dans lequel les objets risquent d’être affectés.*
-|}
+
+<table CLASS="tablo"><caption>Objets affectés par les attaques magiques</caption><tr CLASS="titre"><td>Rang*</td><td>Objet</td></tr><tr CLASS="premier"><td>1er</td><td>Bouclier</td></tr><tr CLASS="alt"><td>2e</td><td>Armure</td></tr><tr><td>3e</td><td>Casque magique, couvre-chef ou serre-tête</td></tr><tr CLASS="alt"><td>4e</td><td>Objet tenu en main (arme, baguette, etc.)</td></tr><tr><td>5e</td><td>Cape magique</td></tr><tr CLASS="alt"><td>6e</td><td>Arme rangée au fourreau ou portée en bandoulière</td></tr><tr><td>7e</td><td>Bracelets magiques</td></tr><tr CLASS="alt"><td>8e</td><td>Vêtements magiques</td></tr><tr><td>9e</td><td>Bijoux magiques (ce qui inclut les anneaux)</td></tr><tr CLASS="alt"><td>10e</td><td>Tout le reste</td></tr><tr><td CLASS="note" COLSPAN="2">*(*) Indique l’ordre dans lequel les objets risquent d’être affectés.*</td></tr></table>
+
 </center>
 
 {s:reference|RM}

@@ -30,25 +30,5 @@ Cette règle revient en pratique à celle des arcanes exhumées, si ce n'est que
 
 
 <center>
-{| CLASS="tablo"
-|+ Les dons accordant des points de création
-|- CLASS="titre"
-| Don
-| CLASS="gauche" | Points gagnés
-|- CLASS="premier"
-| Écriture de parchemins || 500
-|- CLASS="alt"
-| Création de potions || 1 500
-|-
-| Création d'objets merveilleux || 1 500
-|- CLASS="alt"
-| Création de baguettes || 2 500
-|-
-| Création d'armes et d'armures magiques || 2 500
-|- CLASS="alt"
-| Création de sceptres || 4 500
-|-
-| Création de bâtons magiques || 6 000
-|- CLASS="alt"
-| Création d'anneaux magiques || 6 000
-|}
+
+<table CLASS="tablo"><caption>Les dons accordant des points de création</caption><tr CLASS="titre"><td>Don</td><td CLASS="gauche">Points gagnés</td></tr><tr CLASS="premier"><td>Écriture de parchemins</td><td>500</td></tr><tr CLASS="alt"><td>Création de potions</td><td>1 500</td></tr><tr><td>Création d'objets merveilleux</td><td>1 500</td></tr><tr CLASS="alt"><td>Création de baguettes</td><td>2 500</td></tr><tr><td>Création d'armes et d'armures magiques</td><td>2 500</td></tr><tr CLASS="alt"><td>Création de sceptres</td><td>4 500</td></tr><tr><td>Création de bâtons magiques</td><td>6 000</td></tr><tr CLASS="alt"><td>Création d'anneaux magiques</td><td>6 000</td></tr></table>

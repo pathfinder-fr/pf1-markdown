@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de gar
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gar]] || 1
-|-
-| [[Gar géant]] || 6
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de gar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gar]]</td><td>1</td></tr><tr><td>[[Gar géant]]</td><td>6</td></tr></table>
+
 </div>*Ce long poisson élancé possède un corps musclé et des mâchoires garnies de dents acérées.*
 
 Les gars (ou semionotiformes) sont des poissons prédateurs qui vivent dans les lacs et les rivières profonds. Ces créatures agiles et rapides considèrent toutes les choses qui ne les dépassent pas en taille comme de la nourriture. Un gar moyen mesure 2,10 mètres de long et pèse 100 kg. Une espèce, connue sous le nom d’alligator gar, peut atteindre une longueur de 3 mètres. Un alligator gar est un gar modifié par l’archétype simple « créature évoluée ».

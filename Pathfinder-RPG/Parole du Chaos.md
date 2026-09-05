@@ -21,19 +21,9 @@ Categories:
 Toutes les créatures non-Chaotiques situées dans la zone de la *parole du Chaos* et qui l’entendent sont victimes des effets suivants.
 
 <center>
-{| CLASS="tablo"
-|+
-|- CLASS="titre"
-| DV || Effet
-|- CLASS="premier"
-| Égaux au [[niveau de lanceur de sorts]] || Assourdissement
-|- CLASS="alt"
-| Jusqu’au [[niveau de lanceur de sorts]] -1 || Assourdissement, étourdissement
-|-
-| Jusqu’au [[niveau de lanceur de sorts]] -5  || Assourdissement, confusion, étourdissement
-|- CLASS="alt"
-| Jusqu’au [[niveau de lanceur de sorts]] -10 || Assourdissement, confusion, étourdissement, mort
-|}
+
+<table CLASS="tablo"><caption></caption><tr CLASS="titre"><td>DV</td><td>Effet</td></tr><tr CLASS="premier"><td>Égaux au [[niveau de lanceur de sorts]]</td><td>Assourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -1</td><td>Assourdissement, étourdissement</td></tr><tr><td>Jusqu’au [[niveau de lanceur de sorts]] -5</td><td>Assourdissement, confusion, étourdissement</td></tr><tr CLASS="alt"><td>Jusqu’au [[niveau de lanceur de sorts]] -10</td><td>Assourdissement, confusion, étourdissement, mort</td></tr></table>
+
 </center>
 
 Les effets sont cumulatifs et simultanés. Un jet de [[Volonté]] permet de réduire ou d’annuler les effets néfastes. Les créatures affectées par plusieurs effets font un unique [[jet de sauvegarde]] qu’elles appliquent à tous.

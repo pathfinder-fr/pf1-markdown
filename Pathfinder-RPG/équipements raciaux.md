@@ -19,15 +19,9 @@ Les [[demi-elfe|demi-elfes]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des demi-elfes
-|- CLASS="titre"
-| Équipement || Prix || Poids
-|-
-| Cartes du ciel || 200 po || 0,25 kg
-|-
-| Feuilles d’érable doré || 50 po || 0,25 kg
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des demi-elfes</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Cartes du ciel</td><td>200 po</td><td>0,25 kg</td></tr><tr><td>Feuilles d’érable doré</td><td>50 po</td><td>0,25 kg</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|CARTESDUCIEL}**Cartes du ciel.** Beaucoup de demi-elfes vivent dans de grandes villes ou des communautés où ils ont du mal à communier avec l’environnement. Certains partent faire de longues retraites dans la nature, mais d’autres passent leurs soirées sur de hauts toits isolés, à regarder les étoiles. Ces âmes solitaires utilisent des cartes pour suivre le mouvement des étoiles et des autres corps célestes. Une personne qui utilise une de ces cartes par nuit claire peut faire un test de [[Connaissances]] (géographie) [[DD]] 20 pour déterminer sa position approximative et le mois de l’année. De plus, ces cartes donnent un [[bonus]] de circonstances de +2 aux tests de [[Survie]] pour éviter de se perdre de nuit par temps clair.
@@ -43,15 +37,9 @@ Les [[demi-orque|demi-orques]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des demi-orques
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Kit de déguisement orque || 75 po || 0,5 kg || –
-|-
-| Purulence noire (fiole) || 30 po || – || 25
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des demi-orques</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Kit de déguisement orque</td><td>75 po</td><td>0,5 kg</td><td>–</td></tr><tr><td>Purulence noire (fiole)</td><td>30 po</td><td>–</td><td>25</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|KITDEDEGUISEMENTDEMIORQUE}**Kit de déguisement demi-orque.** Ce kit de déguisement a été conçu par des demi-orques pour les aider à se faire passer pour des [[humain|humains]]. Il comprend une crème pour masquer la teinte gris verdâtre de leur peau et d’autres objets pour dissimuler leurs caractéristiques orques ou attirer l’attention sur une autre partie de leur personne. Un demi-orque qui utilise ce kit gagne un [[bonus]] de +3 aux tests de [[Déguisement]] pour se faire passer pour un humain. Ce kit donne seulement un bonus de +1 si c’est un orque qui l’utilise. Ce kit est épuisé après 10 utilisations.
@@ -66,24 +54,10 @@ Les [[elfe|elfes]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement elfique
-|- CLASS="titre"
-| Équipement || Prix || Poids
-|-
-| Grimoire de poche (vierge) || 50 po || 0,5 kg
-|-
-| Labo d’artisanat portatif || 300 po || 20 kg
-|-
-| Manuel d’exercices arcaniques familial || 300 po || 1,5 kg
-|-
-| Sac anti-ours || 2 po || 1,5 kg<sup>1</sup>
-|-
-| Tente suspendue || 20 po || 7,5 kg<sup>1</sup>
-|- CLASS="note"
-| COLSPAN="3" | (1) Ces objets ont une contenance et pèsent 1/4 du poids indiqué  
-s’ils sont conçus pour des créatures de taille P.
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement elfique</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Grimoire de poche (vierge)</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>Labo d’artisanat portatif</td><td>300 po</td><td>20 kg</td></tr><tr><td>Manuel d’exercices arcaniques familial</td><td>300 po</td><td>1,5 kg</td></tr><tr><td>Sac anti-ours</td><td>2 po</td><td>1,5 kg<sup>1</sup></td></tr><tr><td>Tente suspendue</td><td>20 po</td><td>7,5 kg<sup>1</sup></td></tr><tr CLASS="note"><td COLSPAN="3">(1) Ces objets ont une contenance et pèsent 1/4 du poids indiqué  
+s’ils sont conçus pour des créatures de taille P.</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|GRIMOIREDEPOCHE}**Grimoire de poche.** Les magiciens elfiques ont parfois besoin de voyager avec des dizaines, voire des centaines de [[grimoire|grimoires]], ce qui les oblige souvent à chercher comment les alléger. Les grimoires de poche ne contiennent que 70 pages de sorts, mais ils pèsent bien moins lourd qu’un grimoire ordinaire.
@@ -104,25 +78,10 @@ Les [[gnome|gnomes]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des gnomes
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Bâton de lune || 10 po || 0,5 kg || 25
-|-
-| Carnet obsessionnel || 25 po || 0,5 kg || -
-|-
-| Encens antiodeur || 110 po || - || 20
-|-
-| Habits de dilettante || 20 po || 4 kg<sup>1</sup> || -
-|-
-| Sifflet du prévôt || 1 po || - || -
-|- CLASS="note"
-| COLSPAN="4" | (1) Cet objet pèse seulement 1/4 du poids indiqué s’il est fait  
-pour des créatures de taille P.
 
-|}
+<table CLASS="tablo autoalt"><caption>Équipement des gnomes</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Bâton de lune</td><td>10 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>Carnet obsessionnel</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Encens antiodeur</td><td>110 po</td><td>-</td><td>20</td></tr><tr><td>Habits de dilettante</td><td>20 po</td><td>4 kg<sup>1</sup></td><td>-</td></tr><tr><td>Sifflet du prévôt</td><td>1 po</td><td>-</td><td>-</td></tr><tr CLASS="note"><td COLSPAN="4">(1) Cet objet pèse seulement 1/4 du poids indiqué s’il est fait  
+pour des créatures de taille P.</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|HABITSDEDILETTANTE}**Habits de dilettante.** Les inventeurs et les voyageurs gnomes apprécient tout particulièrement ces vêtements qui se composent de robustes bottes, d’un pantalon ou d’une jupe de lin robuste, d’une chemise, de gants de cuir, d’un chapeau, d’une cape et de nombreuses ceintures, attaches et autres accessoires (comme des écharpes, une veste, des bouts de corde ou de ficelle et des cartouchières). Ces divers éléments ne sont jamais assortis et viennent tous d’un autre ensemble de vêtements dont ils ont été extraits pour leur qualité « supérieure. » Ils regorgent de poches et de planques. Ces habits donnent un [[bonus]] de circonstances de +2 à leur propriétaire quand il fait un test d’[[Escamotage]] pour cacher un petit objet sur sa personne.
@@ -146,19 +105,9 @@ Les [[halfelin|halfelins]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des halfelins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Bâtons du diable halfelins || 25 po || 0,5 kg || -
-|-
-| Cape parachute || 100 po || 2 kg || -
-|-
-| Confiture alchimique || 15 po || - || 20
-|-
-| Corde rugissante || 100 po || 0,5 kg || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des halfelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Bâtons du diable halfelins</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Cape parachute</td><td>100 po</td><td>2 kg</td><td>-</td></tr><tr><td>Confiture alchimique</td><td>15 po</td><td>-</td><td>20</td></tr><tr><td>Corde rugissante</td><td>100 po</td><td>0,5 kg</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|BATONDUDIABLEHALFELIN}**Bâtons du diable halfelins.** Ces quatre bâtons aux couleurs vives sont ornés de serpentins colorés qui créent de jolis motifs quand on jongle avec. Les halfelins sont particulièrement doués pour s’en servir et gagnent un [[bonus]] de circonstances de +2 aux tests de [[Représentation]] (comédie).
@@ -177,15 +126,9 @@ Les [[humain|humains]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des humains
-|- CLASS="titre"
-| Équipement || Prix || Poids
-|-
-| Fouet de dressage || 5 po || 1 kg
-|-
-| Harnachement de dressage || 10 po || 5 kg
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des humains</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Fouet de dressage</td><td>5 po</td><td>1 kg</td></tr><tr><td>Harnachement de dressage</td><td>10 po</td><td>5 kg</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|FOUETDEDRESSAGE}**Fouet de dressage.** Ce petit fouet a une lanière très courte (allonge de 3 mètres seulement <nowiki>[[</nowiki>2 {s:c}<nowiki>]]</nowiki>), sinon, il est identique aux [[Tableau récapitulatif des armes#ARMESEXOTIQUESUNEMAIN|fouets]] ordinaires. Son propriétaire gagne un [[bonus]] de circonstances de +2 aux tests de [[Dressage]] pour faire avancer un animal dressé et aux tests d’[[Intimidation]] pour démoraliser tous les animaux tant qu’ils sont à portée du fouet. Quand le personnage utilise le fouet pour intimider un animal dressé, il peut le [[fasciné|fasciner]] au lieu de le [[secoué|secouer]] (l’effet a la même durée). La fascination se termine si le personnage ou l’animal sort du champ de vision de l’autre.
@@ -197,25 +140,9 @@ Les [[humain|humains]] ont accès à l’équipement suivant.
 Les [[nain|nains]] ont accès à l’équipement suivant.
 
 <center>
-{| CLASS="tablo cadre"
-|+ Armes exotiques naines
-|- CLASS="titre"
-| [[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]] || Prix || Dégâts (P) || Dégâts (M) || [[Tableau récapitulatif des armes#CRITIQUE|Critique]] || [[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]] || Poids || [[Tableau récapitulatif des armes#TYPE|Type]] || Spécial
-|-
-| COLSPAN="9" | **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMELEGERE|LÉGÈRES]]**
-|- CLASS="alt"
-| Casque bélier nain || 20 po || 1d3 || 1d4 || x2 || - || 5 kg || C || voir texte
-|- CLASS="lignesup"
-| COLSPAN="9" | **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEAUNEMAIN|À UNE MAIN]]**
-|- CLASS="alt"
-| Hache d'armes naine double || 60 po || 1d8 || 1d10 || x3 || - || 6 kg || T || voir texte
-|- CLASS="lignesup"
-| COLSPAN="9" | **ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEADEUXMAINS|À DEUX MAINS]]**
-|- CLASS="alt"
-| Hache naine à long manche || 50 po || 1d10 || 1d12 || x3 || - || 7 kg || T || allonge
-|-
-| Marteau de guerre nain à long manche || 70 po || 1d10 || 2d6 || x3 || - || 10 kg || C || allonge
-|}
+
+<table CLASS="tablo cadre"><caption>Armes exotiques naines</caption><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]]</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td><td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td><td>Poids</td><td>[[Tableau récapitulatif des armes#TYPE|Type]]</td><td>Spécial</td></tr><tr><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMELEGERE|LÉGÈRES]]**</td></tr><tr CLASS="alt"><td>Casque bélier nain</td><td>20 po</td><td>1d3</td><td>1d4</td><td>x2</td><td>-</td><td>5 kg</td><td>C</td><td>voir texte</td></tr><tr CLASS="lignesup"><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEAUNEMAIN|À UNE MAIN]]**</td></tr><tr CLASS="alt"><td>Hache d'armes naine double</td><td>60 po</td><td>1d8</td><td>1d10</td><td>x3</td><td>-</td><td>6 kg</td><td>T</td><td>voir texte</td></tr><tr CLASS="lignesup"><td COLSPAN="9">**ARMES DE [[Caractéristiques des armes#ARMEDECORPSACORPS|CORPS À CORPS]] [[Caractéristiques des armes#ARMEADEUXMAINS|À DEUX MAINS]]**</td></tr><tr CLASS="alt"><td>Hache naine à long manche</td><td>50 po</td><td>1d10</td><td>1d12</td><td>x3</td><td>-</td><td>7 kg</td><td>T</td><td>allonge</td></tr><tr><td>Marteau de guerre nain à long manche</td><td>70 po</td><td>1d10</td><td>2d6</td><td>x3</td><td>-</td><td>10 kg</td><td>C</td><td>allonge</td></tr></table>
+
 </center>
 
 {s:REFERENCE|CASQUEBELIERNAIN}**Casque bélier nain.** On peut utiliser ce lourd casque renforcé pour faire des [[attaque au corps à corps|attaques de corps à corps]]. Il sert aussi à faire des manœuvres de [[bousculade]]. Son propriétaire bénéficie alors d’un [[bonus]] de circonstances de +2 au test, mais, une fois la manœuvre terminée, qu’elle soit couronnée de succès ou non, le personnage est [[chancelant]] jusqu’à la fin de son prochain [[tour]]. De plus, le casque donne un bonus de circonstances de +2 à la [[CA]] contre les confirmations de [[coup critique]]. Le casque bélier nain augmente les chances d’[[échec des sorts]] profanes de 20 %. Il se place sur la tête et il est fait de métal et non de pierre, ce qui veut dire qu’on peut en fabriquer à partir de [[Matériaux spéciaux|matériaux inhabituels]], comme pour les armes métalliques. On peut aussi l’enchanter comme une [[armes magiques|arme]] (et non comme une armure, malgré la protection qu’il offre).
@@ -236,21 +163,9 @@ Les [[aasimar (race)|aasimars]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des aasimars
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Ambroisie (fiole) || 100 po || 0,5 kg || 25
-|-
-| Encens (10 bâtonnets) || 10 po || 0,5 kg || -
-|-
-| Encensoir céleste || 50 po || 1,5 kg || -
-|-
-| Huile sainte || 25 po || 0,5 kg || 20
-|-
-| Lampe céleste || 300 po || 1 kg || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des aasimars</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Ambroisie (fiole)</td><td>100 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>Encens (10 bâtonnets)</td><td>10 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Encensoir céleste</td><td>50 po</td><td>1,5 kg</td><td>-</td></tr><tr><td>Huile sainte</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>Lampe céleste</td><td>300 po</td><td>1 kg</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|AMBROISIE}**Ambroisie.**  La consommation de cet élixir divin, infusion d’eau et d’herbes bénites, accorde un bonus sacré de +2 à tous les [[jet de sauvegarde|jets de sauvegarde]] contre l’énergie négative, l’absorption d’énergie et les effets de [[Créer un sort#MORT|mort]] pendant 1 heure, y compris aux jets de sauvegarde pour annuler les niveaux négatifs. L’ambroisie affecte les [[type mort-vivant|morts-vivants]] et les [[type extérieur|extérieurs]] Mauvais au même titre que l’[[Armes alchimiques#Eau bénite|eau bénite]].
@@ -271,17 +186,9 @@ Les [[dhampir (race)|dhampirs]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des dhampirs
-|- CLASS="titre"
-| Équipement || Prix || Poids
-|-
-| Carreaux transperce-coeur (5) || 100 po || 1,5 kg
-|-
-| Col de protection || 10 po || 0,125 kg
-|-
-| Kit du tueur de vampires || 500 po || 4 kg
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des dhampirs</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Carreaux transperce-coeur (5)</td><td>100 po</td><td>1,5 kg</td></tr><tr><td>Col de protection</td><td>10 po</td><td>0,125 kg</td></tr><tr><td>Kit du tueur de vampires</td><td>500 po</td><td>4 kg</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|CARREAUTRANSPERCECOEUR}**Carreau transperce-coeur.**  Spécialement taillés dans de
@@ -301,27 +208,11 @@ Les [[drow (race)|drows]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des drows
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Attire-araignée || 40 po || 0,25 kg || 20
-|-
-| Graisse tue-lumière || 25 po || – || 15
-|-
-| Monture chauve-souris sanguinaire || 300 po || – || –
-|-
-| Monture chauve-souris sanguinaire  
-(formée au combat) || 450 po || – || –
-|-
-| Monture gecko || 300 po || – || –
-|-
-| Monture gecko  
-(formée au combat) || 400 po || – || –
-|-
-| Poche-araignée || 30 po || 0,5 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des drows</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Attire-araignée</td><td>40 po</td><td>0,25 kg</td><td>20</td></tr><tr><td>Graisse tue-lumière</td><td>25 po</td><td>–</td><td>15</td></tr><tr><td>Monture chauve-souris sanguinaire</td><td>300 po</td><td>–</td><td>–</td></tr><tr><td>Monture chauve-souris sanguinaire  
+(formée au combat)</td><td>450 po</td><td>–</td><td>–</td></tr><tr><td>Monture gecko</td><td>300 po</td><td>–</td><td>–</td></tr><tr><td>Monture gecko  
+(formée au combat)</td><td>400 po</td><td>–</td><td>–</td></tr><tr><td>Poche-araignée</td><td>30 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:cm}{s:REFERENCE|ATTIREARAIGNEE}**Attire-araignée** Ce liquide alchimique visqueux et translucide émet une puissante odeur chimique dès qu’il est exposé à l’air libre. Il attire les vermines qui prennent toute créature affublée de cette odeur pour une proie. Les araignées, les insectes et autres vermines du même genre reçoivent un bonus de +5 aux tests de Perception et aux jets d’attaque contre les créatures marquées avec de l’attire-araignée. Si ces vermines bénéficient du pouvoir odorat, elles repèrent la créature marquée au quintuple de la distance habituelle, déterminent la direction dans laquelle elle se trouve avec une action rapide et localisent sa position exacte dans un rayon de 7,75 mètres. Les drows utilisent parfois l’attire-araignée comme poison de contact ou arme d’aspersion, ce qui leur permet de battre en retraite, de se regrouper ou de gagner une position plus avantageuse pendant que la vermine concentre ses attaques sur les cibles marquées. Pour se débarrasser de l’attire-araignée, il faut une action complexe et au moins 4,50 litres d’eau ou d’un liquide nettoyant. Sans cela, le produit fait effet pendant 1 heure. Pour fabriquer de l’attire-araignée, il faut réussir un test d’Artisanat (alchimie) DD 20.
@@ -343,17 +234,9 @@ Les [[fetchelin (race)|fetchelins]] ont accès à l'équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des fetchelins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Fiole de nectar d’ombre || 25 po || 0,5 kg || 20
-|-
-| Lanterne de lumière noire || 20 po || 1,5 kg || -
-|-
-| Lunettes de vision obscure || 200 po || - || 25
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des fetchelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Fiole de nectar d’ombre</td><td>25 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>Lanterne de lumière noire</td><td>20 po</td><td>1,5 kg</td><td>-</td></tr><tr><td>Lunettes de vision obscure</td><td>200 po</td><td>-</td><td>25</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|LANTERNEDELUMIERENOIRE}
@@ -374,23 +257,9 @@ Les [[gobelin (race)|gobelins]] ont accès à l'équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des gobelins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Apaise-tripes (fiole) || 50 po || - || 25
-|-
-| Harnais de vol || 10 po || 5 kg || -
-|-
-| Harnais de vol de maître || 80 po || 5 kg || -
-|-
-| Apaise-tripes (fiole) || 50 po || - || 25
-|-
-| Lance-bombe || 10 po || 0,25 kg || 25
-|-
-| Racine veloutée (fiole) || 10 po || - || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des gobelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Apaise-tripes (fiole)</td><td>50 po</td><td>-</td><td>25</td></tr><tr><td>Harnais de vol</td><td>10 po</td><td>5 kg</td><td>-</td></tr><tr><td>Harnais de vol de maître</td><td>80 po</td><td>5 kg</td><td>-</td></tr><tr><td>Apaise-tripes (fiole)</td><td>50 po</td><td>-</td><td>25</td></tr><tr><td>Lance-bombe</td><td>10 po</td><td>0,25 kg</td><td>25</td></tr><tr><td>Racine veloutée (fiole)</td><td>10 po</td><td>-</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|APAISETRIPES}**Apaise-tripes.** La consommation de cette fiole de liquide bleuâtre insipide accorde un bonus alchimique de +5 aux [[Valeurs de combat#JETDESAUVEGARDE#jets de sauvegarde]] pour éviter d’être [[États préjudiciables#Nauséeux|nauséeux]] ou [[États préjudiciables#fiévreux|fiévreux]] pendant 1 heure. Si le gobelin est déjà nauséeux, il peut boire de l’apaise-tripes par une [[Actions de mouvement|action de mouvement]]. Sa consommation lui donne droit à un second jet de sauvegarde (sans le bonus de +5). Les gobelins utilisent souvent l’apaise-tripes pour pouvoir avaler la viande ou d’autres formes de nourriture avariées ou dans un état de décomposition avancé.
@@ -404,15 +273,9 @@ Les [[gobelin (race)|gobelins]] ont accès à l'équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Armes des gobelins
-|- CLASS="titre"
-| Arme de corps à corps légère || Prix || Dégâts (P) || Dégâts (M) || Critique || Poids || Type || Spécial
-|-
-| Tranchechien || 8 po || 1d4 || 1d6 || 19-20/x2 || 1/2 kg || T || fragile
-|-
-| Coupecheval || 10 po || 1d8 || 1d10 || ×3 || 6 kg || P ou T || [[Tableau récapitulatif des armes#CROCENJAMBE|Croc-en-jambe]], [[Tableau récapitulatif des armes#RECEPTION|réception]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Armes des gobelins</caption><tr CLASS="titre"><td>Arme de corps à corps légère</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Tranchechien</td><td>8 po</td><td>1d4</td><td>1d6</td><td>19-20/x2</td><td>1/2 kg</td><td>T</td><td>fragile</td></tr><tr><td>Coupecheval</td><td>10 po</td><td>1d8</td><td>1d10</td><td>×3</td><td>6 kg</td><td>P ou T</td><td>[[Tableau récapitulatif des armes#CROCENJAMBE|Croc-en-jambe]], [[Tableau récapitulatif des armes#RECEPTION|réception]]</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|TRANCHECHIEN}**Tranchechien.** Cette arme sauvage construite à partir de morceaux de métaux aiguisés est surtout utilisée par les gobelins, qui la nomment ainsi tout simplement parce que c’est la tâche à laquelle ils l’emploient le plus souvent. Des trous forés dans la lame de cette arme la rendent plus facile à manier. Un utilisateur qui obtient un échec critique sur un jet d’attaque utilisant un tranche-chien voit son arme se briser. Ce n’est pas le cas des tranche-chiens de maître ou magiques (bien que ceux-ci soient très rares). La plupart des tranche-chiens sont de taille petite. Cette épée courte incurvée est l’arme préférée des gobelins, qui font preuve d’une ruse exceptionnelle en perçant de nombreux trous dans la lame pour l’alléger. Les tranchechiens de maître perdent leur propriété spéciale fragile.
@@ -427,25 +290,9 @@ Les [[hobgobelin (race)|hobgobelins]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des hobgobelins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Accélérateur instable || 50 po || 0,25 kg || DD 25
-|-
-| Breuvage de guerre hobgobelin || 10 po || 0,5 kg || DD 20<sup>1</sup>
-|-
-| Fers || 15 po || 1 kg || –
-|-
-| Fers de maître || 50 po || 1 kg || –
-|-
-| Infusion de puanteur || 40 po || 0,5 kg || DD 25
-|-
-| Menottes à pointes || +15 po || 0,5 kg || –
-|- CLASS="note"
-| COLSPAN="4" | (1) DD d’Artisanat 15 pour les hobgobelins.
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des hobgobelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Accélérateur instable</td><td>50 po</td><td>0,25 kg</td><td>DD 25</td></tr><tr><td>Breuvage de guerre hobgobelin</td><td>10 po</td><td>0,5 kg</td><td>DD 20<sup>1</sup></td></tr><tr><td>Fers</td><td>15 po</td><td>1 kg</td><td>–</td></tr><tr><td>Fers de maître</td><td>50 po</td><td>1 kg</td><td>–</td></tr><tr><td>Infusion de puanteur</td><td>40 po</td><td>0,5 kg</td><td>DD 25</td></tr><tr><td>Menottes à pointes</td><td>+15 po</td><td>0,5 kg</td><td>–</td></tr><tr CLASS="note"><td COLSPAN="4">(1) DD d’Artisanat 15 pour les hobgobelins.</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ACCELERATEURINSTABLE}**Accélérateur instable.** Mélange volatile d’agents réactifs inflammables, l’accélérateur instable peut être lancé au même titre que le feu de l’alchimiste. Entre les mains d’un alchimiste, une fiole d’accélérateur instable peut être utilisée pour créer une bombe, augmentant ses dégâts de feu de +1d6 points. Il n’a aucun effet sur les bombes n’infligeant pas de dégâts de feu. Si la bombe dure plus d’un instant, les dégâts supplémentaires ne s’appliquent qu’à ceux du premier round.
@@ -465,17 +312,9 @@ Les [[homme-félin (race)|hommes-félins]] ont accès à l’équipement suivant
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des hommes-félins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Bottes de velours || 25 po || 0,5 kg || -
-|-
-| Griffes métalliques || 305 po || 1 kg || -
-|-
-| Trousse de marquage olfactif || 10 po || 2,5 kg || 25
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des hommes-félins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Bottes de velours</td><td>25 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Griffes métalliques</td><td>305 po</td><td>1 kg</td><td>-</td></tr><tr><td>Trousse de marquage olfactif</td><td>10 po</td><td>2,5 kg</td><td>25</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|BOTTESDEVELOURS}**Bottes de velours.** Ces bottes douces et très fines sont faites en soie et en cuir spécialement traité. Elles sont spécifiquement conçues pour les pieds des hommes-félins et s’adaptent à leur morphologie afin d’étouffer les bruits de pas et de réduire les empreintes laissées derrière eux. Lorsqu’il porte ces bottes de velours, l’homme-félin bénéficie d’un bonus de circonstances de +1 à ses tests de [[Discrétion]]. En outre, le [[DD]] pour repérer ou suivre la piste d’un homme-félin portant ces bottes augmente de +2.
@@ -492,19 +331,9 @@ Les [[homme-rat (race)|hommes-rats]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des hommes-rats
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Encre nauséabonde || 5 po || 0,5 kg || 15
-|-
-| Encre nauséabonde magique || spécial || 0,5 kg || -
-|-
-| Poche de vérole || 50 po || 0,5 kg || 20
-|-
-| Tonique infectieux || 150 po || 0,5 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des hommes-rats</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Encre nauséabonde</td><td>5 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>Encre nauséabonde magique</td><td>spécial</td><td>0,5 kg</td><td>-</td></tr><tr><td>Poche de vérole</td><td>50 po</td><td>0,5 kg</td><td>20</td></tr><tr><td>Tonique infectieux</td><td>150 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ENCRENAUSEABONDE}**Encre nauséabonde.** L’encre nauséabonde est une encre spéciale et âcre à base de musc qui permet à l’utilisateur d’encoder les informations par l’odeur plutôt que visuellement. L’encre nauséabonde s’éclaircit en séchant, mais son odeur âcre extrêmement localisée peut être perçue par ceux qui ont le nez suffisamment sensible pour lire en utilisant leur odorat. Seules les créatures ayant le trait sens aiguisés ou la capacité odorat peuvent lire l’encre nauséabonde sans s’aider de magie. Lire ou écrire quelque chose à l’encre nauséabonde prend deux fois plus de temps que de lire ou d’écrire la même quantité d’informations à l’encre normale.
@@ -519,13 +348,9 @@ arme à dispersion. Traitez cette attaque comme une attaque de contact à distan
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Arme des hommes-rats
-|- CLASS="titre"
-| Arme de guerre || Coût || Dégâts (P) || Dégâts (M) || Critique || Portée || Poids || Type || Spécial
-|-
-| Lame caudale || 5 po || 1d2 || 1d3 || 20/×2 || – || 0,5 kg || T || –
-|}
+
+<table CLASS="tablo autoalt"><caption>Arme des hommes-rats</caption><tr CLASS="titre"><td>Arme de guerre</td><td>Coût</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Lame caudale</td><td>5 po</td><td>1d2</td><td>1d3</td><td>20/×2</td><td>–</td><td>0,5 kg</td><td>T</td><td>–</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|LAMECAUDALE}**Lame caudale.** Une lame caudale est un petit couteau aiguisé prévu pour être attaché au bout de la queue du porteur. Il faut une action complexe pour fixer ou enlever une lame caudale. Le porteur peut attacher la lame lâchement par une action de mouvement, mais l’utilisation d’une lame caudale grossièrement fixée impose un malus de -4 au porteur sur tous les jets d’attaque qu’il fait avec cette arme, tandis que les autres créatures bénéficient d’un bonus de +4 à leurs tests de manoeuvre offensive pour désarmer la lame caudale. Un homme-rat maniant une lame caudale peut effectuer une attaque de queue, ajoutant son modificateur de Force aux dégâts de la lame. On considère que les hommes-rats sont formés à de telles attaques et peuvent appliquer les dons ou les effets appropriés aux attaques naturelles à leurs attaques de queue avec une lame caudale. Si elles font partie d’une action complexe, les attaques effectuées avec une lame caudale sont considérées comme des attaques secondaires.
@@ -540,15 +365,9 @@ Les [[ifrit (race)|ifrits]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des ifrits
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Encre de feu || 1 po || - || 15
-|-
-| Sang d'ifrit || 50 po || 0,5 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des ifrits</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Encre de feu</td><td>1 po</td><td>-</td><td>15</td></tr><tr><td>Sang d'ifrit</td><td>50 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:Reference|ENCREDEFEU}**Encre de feu.** Cette encre jaune vif réagit à la chaleur du corps de la créature pour créer une lueur tremblotante semblable à une flamme. Il faut 10 minutes pour appliquer de l’encre de feu, et 1 dose recouvre à peu près une main. Une fois appliquée, l’encre luit comme une bougie pendant 24 heures. Quatre doses ou plus appliquées sur une même partie du corps font briller comme une torche pendant 24 heures. La réaction alchimique de l’encre à la peau et à la chaleur corporelle de la cible est douloureuse et irritante, rendant celle-ci fiévreuse tant que dure la lumière. Un test de Premiers soins DD 15 permet d’apaiser temporairement ces sensations, annulant l’état fiévreux pendant 1 heure. Les créatures immunisées ou résistantes au feu sont immunisées à cet effet de fièvre. Les ifrits sont connus pour adorer cette encre, et les cracheurs de feu ifrits ornent souvent leur peau de motifs enflammés avant leurs spectacles. Une version concentrée de cette encre coûte 10 fois plus cher et peut être
@@ -564,21 +383,9 @@ Les [[kobold (race)|kobolds]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Accessoires caudaux des kobolds
-|- CLASS="titre"
-| Arme        || Prix  || Dégâts (P) || Dégâts (M) ||  Critique || Poids  || Type || Spécial
-|-
-| Balai       || 7 po  ||    1d4     ||    1d6     ||    x2     || 1,5 kg ||  C   || croc-en-jambe
-|-
-| Lame        || 3 po  ||    1d6     ||    1d8     || 19-20/x2  || 1 kg   ||  T   || -
-|-
-| Long fouet  || 15 po ||    1d4     ||    1d6     ||    x2     || 0,5 kg ||  T   || allonge
-|-
-| Pieu        || 3 po  ||    1d6     ||    1d8     ||    x3     || 1 kg   ||  P   || -
-|-
-| Poids       || 1 po  ||    1d6     ||    1d6     ||    x2     || 2 kg   ||  C   || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Accessoires caudaux des kobolds</caption><tr CLASS="titre"><td>Arme</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Balai</td><td>7 po</td><td>1d4</td><td>1d6</td><td>x2</td><td>1,5 kg</td><td>C</td><td>croc-en-jambe</td></tr><tr><td>Lame</td><td>3 po</td><td>1d6</td><td>1d8</td><td>19-20/x2</td><td>1 kg</td><td>T</td><td>-</td></tr><tr><td>Long fouet</td><td>15 po</td><td>1d4</td><td>1d6</td><td>x2</td><td>0,5 kg</td><td>T</td><td>allonge</td></tr><tr><td>Pieu</td><td>3 po</td><td>1d6</td><td>1d8</td><td>x3</td><td>1 kg</td><td>P</td><td>-</td></tr><tr><td>Poids</td><td>1 po</td><td>1d6</td><td>1d6</td><td>x2</td><td>2 kg</td><td>C</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ACCESSOIRESCAUDAUX}**Accessoires caudaux des kobolds.** Un kobold ayant le don [[Queue de terreur]] peut fixer ces accessoires sur le bout de sa queue pour améliorer son attaque naturelle. Chaque accessoire caudal fournit juste assez de poids, d’équilibre et de puissance de frappe pour augmenter les dégâts de son coup de queue. Il faut une action complexe pour fixer un accessoire caudal de kobold, et celui-ci reçoit un bonus de +4 contre les tentatives de désarmement visant à détacher son accessoire caudal. Lorsqu’un kobold porte un accessoire caudal, l’attaque inflige les dégâts de l’accessoire caudal et certains bénéficient d’une caractéristique spéciale. Les accessoires caudaux sont des armes légères et peuvent être améliorés avec des dons augmentant les attaques d’arme (comme [[Arme de prédilection]] et [[Spécialisation martiale]]). Tous les accessoires caudaux de kobold forment un groupe d’armes pouvant être améliorées par la capacité formation martiale du guerrier. Ils peuvent être d’un matériau spécial et fabriqués comme des objets de maître ou magiques. Il y a cinq types d’accessoires caudaux de base. ***Balai. ***Correctement utilisée, cette pièce de métal très incurvée peut renverser les adversaires. Contrairement à la plupart des armes de croc-en-jambe, le kobold ne peut pas la lâcher s’il tombe lors de sa propre tentative de croc-en-jambe. ***Lame.*** Ce morceau de métal a une arête couverte de piquants. ***Long fouet.*** Cette fine corde est incrustée de tout petits bouts de verre et de pierre sur toute la longueur. ***Pieu.*** Ce pieu étroit se termine en une pointe acérée. ***Poids.*** Cette boule ramassée est faite dans une sorte de métal terne.
@@ -586,17 +393,9 @@ Les [[kobold (race)|kobolds]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des kobolds
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Charbon alchimique(cendres aveuglantes) || 100 po || - || 25
-|-
-| Charbon alchimique (fumée asphyxiante) || 50 po || - || 20
-|-
-| Sifflet des grottes || 20 po || - || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des kobolds</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Charbon alchimique(cendres aveuglantes)</td><td>100 po</td><td>-</td><td>25</td></tr><tr><td>Charbon alchimique (fumée asphyxiante)</td><td>50 po</td><td>-</td><td>20</td></tr><tr><td>Sifflet des grottes</td><td>20 po</td><td>-</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:Reference|CHARBONALCHIMIQUE}**Charbon alchimique.** Un kobold qui mâche et avale ce morceau de charbon alchimiquement traité (une action complexe) peut effectuer une attaque de souffle la minute qui suit. S’il n’effectue pas son attaque de souffle avant que cette minute ne s’achève, il est fiévreux pendant 1 heure. Les autres créatures humanoïdes qui mangent ce charbon alchimique sont fiévreuses pendant 1 heure (bien que certaines créatures puissent être en mesure de l’utiliser si le MJ donne son accord). Les créatures immunisées aux poisons sont immunisées à l’effet de fièvre. Le type de souffle dépend du
@@ -616,17 +415,9 @@ Les [[ondin (race)|ondins]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des ondins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Ceintures de chaîne || 15 po || 0,125 kg || -
-|-
-| Éponge à potion || 2 po || - || 15
-|-
-| Manche d’arme ondin || +300 po || - || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des ondins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Ceintures de chaîne</td><td>15 po</td><td>0,125 kg</td><td>-</td></tr><tr><td>Éponge à potion</td><td>2 po</td><td>-</td><td>15</td></tr><tr><td>Manche d’arme ondin</td><td>+300 po</td><td>-</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|CEINTURESDECHAINE}**Ceintures de chaîne.** Si les ondins ne s’habillent que légèrement, ils portent souvent des ceintures de 3 mètres de long se composant d’une fine chaîne nouée autour de la taille. Les ceintures sont pourvues de maillons à charnière auxquels le porteur peut attacher divers objets comme des outils, de petites armes et d’autres objets de valeur, y compris des maillons en argent et en platine, ou de petites plaques en or martelées incrustées de pierres précieuses. Portée correctement, la ceinture peut soutenir jusqu’à 15 kilos de petits objets. Un ondin en train de nager peut défaire la ceinture par une action rapide s’il doit l’enlever pour réduire le poids qu’il porte.
@@ -643,17 +434,9 @@ Les [[orque (race)|orques]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des orques
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Besace d’esprit guerrier || 50 po || - || 20
-|-
-| Étendard tribal || 50 po || 10 kg || -
-|-
-| Masque de guerre || 50 po || 1 kg || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des orques</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Besace d’esprit guerrier</td><td>50 po</td><td>-</td><td>20</td></tr><tr><td>Étendard tribal</td><td>50 po</td><td>10 kg</td><td>-</td></tr><tr><td>Masque de guerre</td><td>50 po</td><td>1 kg</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|BESACEDESPRITGUERRIER}**Besace d’esprit guerrier.** Ce tout petit ballot d’herbes et d’ossements sacrés est censé attirer l’attention bienveillante des esprits de la guerre. Lorsqu’un orque (ou une créature issue d’une culture guerrière appropriée) écrase la besace par une action simple, il gagne 1d4+1 points de vie temporaires. Ces points de vie temporaires disparaissent au bout de 10 minutes. Une créature ne peut profiter que d’une seule besace d’esprit à la fois. Une fois utilisée, la besace d’esprit guerrier est détruite.
@@ -670,19 +453,9 @@ Les [[oréade (race)|oréades]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des oréades
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Gemme de chair (décorative) || 1 po || - || -
-|-
-| Gemme de chair (pointes) || 50 po || 2,5 kg || -
-|-
-| Lichen de camouflage || 100 po || - || -
-|-
-| Onguent de rochéclats || 150 po || 0,5 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des oréades</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Gemme de chair (décorative)</td><td>1 po</td><td>-</td><td>-</td></tr><tr><td>Gemme de chair (pointes)</td><td>50 po</td><td>2,5 kg</td><td>-</td></tr><tr><td>Lichen de camouflage</td><td>100 po</td><td>-</td><td>-</td></tr><tr><td>Onguent de rochéclats</td><td>150 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|GEMMEDECHAIR}**Gemme de chair.** Une aventurière oréade découvrit ces petites gemmes vertes quand, après avoir été blessée en tombant sur des pierres déchiquetées alors qu’elle explorait une grotte, elle remarqua que de jolis morceaux de cristal verts poussaient sur sa peau. Les bijoutiers oréades ont découvert que ces cristaux, appelés gemmes de chair, semblaient se nourrir de l’énergie élémentaire qui imprègne la chair des oréades. Ils se développent et passent de l’état de tout petits éclats de pierre à celui de grosses gemmes ouvragées. Le fait d’implanter des gemmes de chair, opération tout à fait inoffensive, devint alors une méthode raciale unique, parmi les oréades, d’altérer son corps, comme les autres humanoïdes se font des tatouages et des piercings. Les gemmes de chair décoratives coûtent 1 po et sont simplement ornementales. Les gemmes de chair en pointe, quant à elles, se développent pour former des éclats cristallins
@@ -704,15 +477,9 @@ Les [[sylphe (race)|sylphes]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des sylphes
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Cape-aile || 1 200 po || 0,5 kg || -
-|-
-| Souffle élémentaire (fiole) || 80 po || 0,25 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des sylphes</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Cape-aile</td><td>1 200 po</td><td>0,5 kg</td><td>-</td></tr><tr><td>Souffle élémentaire (fiole)</td><td>80 po</td><td>0,25 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|CAPEAILE} **Cape-aile.** Cet étrange équipement ne fonctionne que pour les sylphes et créatures similaires, dont les vents peuvent porter le corps léger et aérien dans les airs. Ressemblant à une cape de voyageur en belle soie, la cape-aile est secrètement renforcée d’un ensemble d’entretoises en bois qui, maintenues en place, tendent le tissu de la cape pour former une aile rudimentaire. Le fait de disposer les entretoises pour former une aile ou d’inverser le changement coûte une action de mouvement. Lorsque la cape forme une aile, le porteur peut faire un test de Vol DD 15 pour tomber sans danger de n’importe quelle hauteur sans recevoir de dégâts de la chute, comme s’il utilisait feuille morte. Lorsqu’il tombe, le porteur peut faire un autre test de Vol DD 15 pour planer, avançant latéralement de 1,5 mètre par tranche de 6 mètres de hauteur de chute. Il faut deux mains pour préparer et utiliser la cape-aile et cela provoque une attaque d’opportunité. La cape-aile a une solidité de 0 et 5 points de vie. Si elle est cassée, le DD du test de Vol augmente de +10.
@@ -727,17 +494,9 @@ Les [[tengu (race)|tengus]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des tengus
-|- CLASS="titre"
-| Équipement || Prix
-|-
-| Cerf-volant de terreur || 20 po
-|-
-| Huile alaire || 1 po
-|-
-| Trousse de cerfs-volants de communication || 5 po
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des tengus</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td></tr><tr><td>Cerf-volant de terreur</td><td>20 po</td></tr><tr><td>Huile alaire</td><td>1 po</td></tr><tr><td>Trousse de cerfs-volants de communication</td><td>5 po</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|CERFVOLANTDETERREUR}**Cerf-volant de terreur.** Ce petit cerf-volant arbore généralement un visage féroce et des couleurs vives, et il est bordé de lames de bois en dents de scie. On renforce sa ficelle en la plongeant dans de la colle et en l’agrémentant parfois de verre pilé pour lui donner un peu de tranchant. Le cerf-volant a une solidité de 5 et 3 points de vie. Ceux qui participent à une bataille de cerfs-volants alternent les manœuvres offensives de destruction contre les cerfs-volants des autres ; chaque manœuvre offensive réussie permet au participant de lancer 1d6 points de dégâts contre le cerf-volant de l’adversaire. Lorsqu’un cerf-volant tombe à 0 point de vie, il est cassé ou sa ficelle se rompt, et le joueur perd la partie. Dans certaines compétitions, on attribue des points à la ficelle de l’adversaire lorsqu’on touche le sommet du cerf-volant, le vainqueur étant le premier à atteindre le total de points fixé. Ceux qui s’intéressent aux batailles de cerfs-volants peuvent prendre le cerf-volant de terreur comme arme pour des dons comme Arme de prédilection et Spécialisation martiale, et appliquer ces bonus à leurs jets de dégâts de cerf-volant et à leurs tests de manœuvre offensive de destruction lorsqu’ils utilisent des cerfs-volants de terreur.
@@ -756,13 +515,9 @@ Les [[tieffelin (race)|tieffelins]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des tieffelins
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD Artisanat
-|-
-| Onguent de sang fiélon || 7 po || 0,5 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des tieffelins</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD Artisanat</td></tr><tr><td>Onguent de sang fiélon</td><td>7 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ONGUENTDESANGFIELON} **Onguent de sang fiélon.** Quand cet onguent (préparé à partir d’agents réactifs alchimiques et de sang de fiélons) est appliqué sur un tieffelin ou un extérieur Mauvais blessé (qui n’est pas au maximum de ses points de vie), il transforme temporairement l’essence de la cible en quelque chose d’encore plus redoutable et démoniaque. Lorsqu’il est sous les effets de l’onguent de sang fiélon, le tieffelin ou l’extérieur Mauvais gagne un bonus de circonstances de +2 à ses tests d’[[Intimidation]] et un bonus de circonstances de +1 au DD de tous les sorts du registre terreur qu’il lance. L’application de cet onguent est un processus délicat, nécessitant une action complexe, et ne peut être réalisée correctement que sur une créature consentante ou sans défense. S’il est
@@ -776,13 +531,9 @@ Les [[aquatique (race)|aquatiques]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Arme des aquatiques
-|- CLASS="titre"
-|  Arme de guerre || Prix || Dégâts (P)  || Dégâts (M) || Critique || Poids || Type
-|-
-| Couteau de mer || 8 po || 1d3 || 1d4 || 19-20/x2 || 0,5 kg || T
-|}
+
+<table CLASS="tablo autoalt"><caption>Arme des aquatiques</caption><tr CLASS="titre"><td>Arme de guerre</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Poids</td><td>Type</td></tr><tr><td>Couteau de mer</td><td>8 po</td><td>1d3</td><td>1d4</td><td>19-20/x2</td><td>0,5 kg</td><td>T</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|COUTEAUDEMER} **Couteau de mer.** Le couteau de mer est une arme à manche long et à lame courte. Il est conçu pour être porté à la cheville ou au pied du porteur, la lame vers le bas, pour prolonger sa jambe. Enfiler ou retirer un couteau de mer nécessite une action complexe. Le porteur ne peut pas se servir de la jambe à laquelle est attaché le couteau de mer pour marcher ou pour courir. Le couteau de mer peut être utilisé comme une arme de corps à corps légère lorsque le porteur nage, vole ou est à terre. Cela lui permet d’utiliser une arme à deux mains, ou de manier une arme à une main et de porter un bouclier, tout en effectuant des attaques au couteau de mer de sa main non-directrice. Les attaques portées avec un couteau de mer reçoivent un malus de circonstances de -2 aux jets d’attaque, en plus de tous les autres malus
@@ -795,13 +546,9 @@ Les [[duergar (race)|duergars]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Poison duergar
-|- CLASS="titre"
-|  Nom || Type || DD Vig  || Incubation || Fréquence || Effet || Guérison || Prix
-|-
-| Brûle-sorts || Blessure || 14 || - || 1/rd pdt 4 rd || voir texte || 1 réussite || 200 po
-|}
+
+<table CLASS="tablo autoalt"><caption>Poison duergar</caption><tr CLASS="titre"><td>Nom</td><td>Type</td><td>DD Vig</td><td>Incubation</td><td>Fréquence</td><td>Effet</td><td>Guérison</td><td>Prix</td></tr><tr><td>Brûle-sorts</td><td>Blessure</td><td>14</td><td>-</td><td>1/rd pdt 4 rd</td><td>voir texte</td><td>1 réussite</td><td>200 po</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|BRULESORTS}
@@ -814,19 +561,9 @@ En cas de coup critique, le carreau bolas n’inflige pas de dégâts supplémen
 Si l’attaque se solde par un croc-en-jambe réussi et enchevêtre la cible, cette dernière ne peut plus quitter sa case tant qu’elle n’a pas rompu les cordes des bolas.
 
 <center>
-{| CLASS="tablo cadre"
-|+ Armes exotiques duergar
-|- CLASS="titre"
-| [[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]] || Prix || Dégâts (P) || Dégâts (M) || [[Tableau récapitulatif des armes#CRITIQUE|Critique]] || [[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]] || Poids || [[Tableau récapitulatif des armes#TYPE|Type]] || Spécial
-|-
-| COLSPAN="9" | **ARMES À [[Caractéristiques des armes#ARMEADISTANCE|DISTANCE]]**
-|- CLASS="alt"
-| Arbalète légère d'esclavagiste || 250 po || 1d3 || 1d4 || 19/20 (voir texte) || 12 m (8 {s:c}) || 3 kg || C || Non létaux, croc-en-jambe, voir texte
-|- CLASS="lignesup"
-| Arbalète lourde d'esclavagiste || 400 po || 1d6 || 1d8 || 19/20 (voir texte) || 24 m (16 {s:c}) || 6 kg || C || Non létaux, croc-en-jambe, voir texte
-|- CLASS="lignesup"
-| Carreau bolas || - || - || - || - || - || 2 kg || - || -
-|}
+
+<table CLASS="tablo cadre"><caption>Armes exotiques duergar</caption><tr CLASS="titre"><td>[[Caractéristiques des armes#ARMEEXOTIQUE|Armes exotiques]]</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>[[Tableau récapitulatif des armes#CRITIQUE|Critique]]</td><td>[[Tableau récapitulatif des armes#FACTEURDEPORTEE|Facteur de portée]]</td><td>Poids</td><td>[[Tableau récapitulatif des armes#TYPE|Type]]</td><td>Spécial</td></tr><tr><td COLSPAN="9">**ARMES À [[Caractéristiques des armes#ARMEADISTANCE|DISTANCE]]**</td></tr><tr CLASS="alt"><td>Arbalète légère d'esclavagiste</td><td>250 po</td><td>1d3</td><td>1d4</td><td>19/20 (voir texte)</td><td>12 m (8 {s:c})</td><td>3 kg</td><td>C</td><td>Non létaux, croc-en-jambe, voir texte</td></tr><tr CLASS="lignesup"><td>Arbalète lourde d'esclavagiste</td><td>400 po</td><td>1d6</td><td>1d8</td><td>19/20 (voir texte)</td><td>24 m (16 {s:c})</td><td>6 kg</td><td>C</td><td>Non létaux, croc-en-jambe, voir texte</td></tr><tr CLASS="lignesup"><td>Carreau bolas</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2 kg</td><td>-</td><td>-</td></tr></table>
+
 </center>
 
 {s:REFERENCE|GRIPPLI}
@@ -837,13 +574,9 @@ Les [[grippli (race)|gripplis]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Poison des gripplis
-|- CLASS="titre"
-|  Nom || Type || DD Vig  || Incubation || Fréquence || Effet || Guérison || Prix
-|-
-| Poison</br>d’araignée || Blessure || 14 || - || 1/rd</br>pdt 6 rd || 1d4 Dex et</br>confus pdt 1 rd || 2 réussites</br>consécutives || 800 po
-|}
+
+<table CLASS="tablo autoalt"><caption>Poison des gripplis</caption><tr CLASS="titre"><td>Nom</td><td>Type</td><td>DD Vig</td><td>Incubation</td><td>Fréquence</td><td>Effet</td><td>Guérison</td><td>Prix</td></tr><tr><td>Poison</br>d’araignée</td><td>Blessure</td><td>14</td><td>-</td><td>1/rd</br>pdt 6 rd</td><td>1d4 Dex et</br>confus pdt 1 rd</td><td>2 réussites</br>consécutives</td><td>800 po</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|VENINDARAIGNEENOIREDESMARAIS} **Venin d’araignée noire des marais.** Venin d’araignée noire des marais. Ce puissant venin d’araignée désoriente la victime qui perd tout contrôle musculaire jusqu’à ce qu’elle finisse par s’effondrer.
@@ -856,15 +589,9 @@ Les [[homme-poisson (race)|hommes-poissons]] ont accès à l’équipement suiva
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Armes des hommes-poissons
-|- CLASS="titre"
-| Armes à distance || Prix || Poids
-|-
-| Arbalète sous-marine légère || 70 po || 2 kg
-|-
-| Arbalète sous-marine lourde || 100 po || 4 kg
-|}
+
+<table CLASS="tablo autoalt"><caption>Armes des hommes-poissons</caption><tr CLASS="titre"><td>Armes à distance</td><td>Prix</td><td>Poids</td></tr><tr><td>Arbalète sous-marine légère</td><td>70 po</td><td>2 kg</td></tr><tr><td>Arbalète sous-marine lourde</td><td>100 po</td><td>4 kg</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ARBALETESOUSMARINE} **Arbalète sous-marine.** L’arbalète sous-marine fonctionne comme une arbalète normale à la surface et peut également être utilisée sous l’eau. Lorsque cela arrive, elle a un facteur de portée de 6 mètres. Quiconque est formé au maniement de l’arbalète normale peut utiliser une arbalète sous-marine.
@@ -877,13 +604,9 @@ Les [[samsaran (race)|samsarans]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des samsarans
-|- CLASS="titre"
-| Équipement || Prix || Poids
-|-
-| Roue karmique du samsaran || 25 po || 0,25 kg
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des samsarans</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td></tr><tr><td>Roue karmique du samsaran</td><td>25 po</td><td>0,25 kg</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ROUEKARMIQUEDUSAMSARAN} **Roue karmique du samsaran.** Cette petite bobine en bois tourne librement à l’intérieur d’un boîtier. Sur la face extérieure de la bobine sont inscrites des dizaines de prières samsarans, ainsi que des noms ou des symboles associés aux vies passées du samsaran. Les samsarans pensent que faire tourner la bobine pendant leurs méditations renforce les connexions spirituelles entre leurs anciennes vies. Si un samsaran médite avec sa roue pendant au moins 10 minutes en se concentrant sur une question de [[Connaissances]] (histoire) relative à sa propre histoire ou à celles de ses vies passées, il reçoit un bonus d’intuition de +1 à son test.
@@ -896,13 +619,9 @@ Les [[strix (race)|strix]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Arme des strix
-|- CLASS="titre"
-| Arme exotique || Prix || Dégâts (P) || Dégâts (M) || Critique || Portée || Poids || Type || Spécial
-|-
-| Filet de barbelés || 30 po || voir texte || voir texte || - || 3 m (2 {s:c}) || 5 kg || P || Croc-en-jambe, voir texte
-|}
+
+<table CLASS="tablo autoalt"><caption>Arme des strix</caption><tr CLASS="titre"><td>Arme exotique</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Filet de barbelés</td><td>30 po</td><td>voir texte</td><td>voir texte</td><td>-</td><td>3 m (2 {s:c})</td><td>5 kg</td><td>P</td><td>Croc-en-jambe, voir texte</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|FILETDEBARBELES} **Filet de barbelés.** Ce filet court, mais large est parcouru de boucles et de nœuds de barbelés. Il fonctionne comme un filet exotique normal, à la seule différence qu’il bénéficie de la caractéristique d’arme spéciale croc-en-jambe. Si un adversaire est enchevêtré dans le filet et s’accroche à la corde qui le traîne, le strix peut, lors de son tour, faire un test de manœuvre offensive de croc-en-jambe contre cet adversaire plutôt que de porter une attaque de corps à corps. Si le strix réussit, il peut faire un croc-en-jambe à son adversaire ou lui infliger 1 point de dégâts perforants. Le DD du test de Concentration pour incanter tandis qu’on est enchevêtré dans un filet de barbelés est de 17 + le niveau du sort. Le DD du test d’Évasion pour échapper à un filet de barbelés est de 22.
@@ -917,13 +636,9 @@ Les [[suli (race)|sulis]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des sulis
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'Artisanat
-|-
-| Flux élémentaire (flasque) || 20 po || 0,25 kg || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des sulis</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'Artisanat</td></tr><tr><td>Flux élémentaire (flasque)</td><td>20 po</td><td>0,25 kg</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|FLUXELEMENTAIRE} **Flux élémentaire.** Cette flasque de poudre alchimique réagit à la puissance élémentaire qui coule dans les veines du suli. Le fait d’y ajouter du sang suli à hauteur de 1 [[point de vie]] crée une [[Actions spéciales#ARMEIMPACT|arme à aspersion]] élémentaire. L’[[Actions spéciales#ARMEIMPACT|arme à aspersion]] fonctionne comme une [[Armes alchimiques#Acide|flasque d’acide]], à la seule différence que les dégâts infligés sont d’un type d’énergie aléatoire (acide, froid, électricité ou feu). Un test d’[[Artisanat]] (alchimie) DD 10 permet d’identifier le type d’énergie de la flasque activée. Le flux activé conserve sa puissance pendant 24 heures avant de se transformer en matériau inerte. Le DD du test d’[[Artisanat]] (alchimie) pour créer ce flux est de 20.
@@ -936,13 +651,9 @@ Les [[svirfneblin (race)|svirfneblins]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Arme des svirfneblins
-|- CLASS="titre"
-| Arme de guerre || Prix || Dégpats (P) || Dégpats (M) || Critique || Portée || Poids || Type || Spécial
-|-
-| Fléchette de choc || 100 po || 1d3 || 1d4 || x2 || 6m || 0,25kg || P || voir texte
-|}
+
+<table CLASS="tablo autoalt"><caption>Arme des svirfneblins</caption><tr CLASS="titre"><td>Arme de guerre</td><td>Prix</td><td>Dégpats (P)</td><td>Dégpats (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Fléchette de choc</td><td>100 po</td><td>1d3</td><td>1d4</td><td>x2</td><td>6m</td><td>0,25kg</td><td>P</td><td>voir texte</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|FLECHETTEDECHOC}**Fléchette de choc.** Cette fléchette en cristal créée alchimiquement génère une décharge électrique lorsqu’elle est lancée. Une créature frappée par cette fléchette reçoit les dégâts perforants normaux ainsi qu’1d6 points de dégâts d’électricité. Quiconque est formé au maniement des fléchettes peut utiliser une fléchette de choc. Une fois lancée, la fléchette est détruite.
@@ -954,13 +665,9 @@ Les [[vanara (race)|vanaras]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des vanaras
-|- CLASS="titre"
-| Type d’objet en bois fouettant || Prix
-|-
-| Arme en bois ou avec un manche en bois || +500 po
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des vanaras</caption><tr CLASS="titre"><td>Type d’objet en bois fouettant</td><td>Prix</td></tr><tr><td>Arme en bois ou avec un manche en bois</td><td>+500 po</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|BOISFOUETTANT}**Bois fouettant.** Les vanaras artisans du bois créent ce matériau extrêmement souple lors d’un processus très long. Le bois fouettant est en réalité un composé de plusieurs fibres de bois tissées et fusionnées pour former un ensemble solide, mais souple. Seules les armes en bois ou ayant un manche en bois (comme les haches et les lances) peuvent être faites en bois fouettant. Une créature maniant une arme en bois fouettant ajoute un bonus de +2 à son DMD quand il s’agit d’éviter les tentatives de destruction contre son arme. Le nombre de points de vie des armes en bois fouettant augmente de +5. Le bois fouettant perd ses qualités spéciales lorsqu’il est soumis aux effets d’un sort de bois de fer.
@@ -974,13 +681,9 @@ Les [[vishkanya (race)|vishkanyas]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des vishkanyas
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Tatouage empoisonné || 50 po || - || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des vishkanyas</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Tatouage empoisonné</td><td>50 po</td><td>-</td><td>20</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|TATOUAGEEMPOISONNE}**Tatouage empoisonné.** Cette pâte semblable à du henné crée un tatouage brun foncé sur la main ou le pied, qui s’estompe au cours des 2d6 jours suivants. Le tatouage accroît temporairement la force du poison naturel du vishkanya, augmentant le DD de sa prochaine arme empoisonnée de son sang ou de sa salive de +2 (une fois utilisé, le tatouage n’est plus qu’une simple décoration n’affectant plus le poison de la créature). Un tatouage typique dessine des spirales compliquées et des symboles spirituels sur la main ou le pied.
@@ -992,13 +695,9 @@ Les [[wayang (race)|wayangs]] ont accès à l’équipement suivant.
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Équipement des wayangs
-|- CLASS="titre"
-| Équipement || Prix || Poids || DD d'artisanat
-|-
-| Ensemble de pochoirs d’ombre || 30 po || 1 kg || -
-|}
+
+<table CLASS="tablo autoalt"><caption>Équipement des wayangs</caption><tr CLASS="titre"><td>Équipement</td><td>Prix</td><td>Poids</td><td>DD d'artisanat</td></tr><tr><td>Ensemble de pochoirs d’ombre</td><td>30 po</td><td>1 kg</td><td>-</td></tr></table>
+
 </center></div></div>
 
 {s:REFERENCE|ENSEMBLEDEPOCHOIRSDOMBRE}**Ensemble de pochoirs d’ombre.** Cet ensemble de 10 pochoirs en métal élaborés est utilisé dans le théâtre de marionnettes des ombres pour projeter des ombres de silhouettes et d’objets hautement stylisées.
@@ -1014,11 +713,7 @@ Cette arme à une main ressemble à un nunchaku en ce qu’elle se compose de de
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo autoalt"
-|+ Arme des gnolls
-|- CLASS="titre"
-| Arme exotique || Prix || Dégâts (P) || Dégâts (M) || Critique || Portée || Poids || Type || Spécial
-|-
-| Bâton de flind || 9 po || 1d6 || 1d8 || x2 || — || 3 kg || C et P || Croc-en-jambe, Désarmement
-|}
+
+<table CLASS="tablo autoalt"><caption>Arme des gnolls</caption><tr CLASS="titre"><td>Arme exotique</td><td>Prix</td><td>Dégâts (P)</td><td>Dégâts (M)</td><td>Critique</td><td>Portée</td><td>Poids</td><td>Type</td><td>Spécial</td></tr><tr><td>Bâton de flind</td><td>9 po</td><td>1d6</td><td>1d8</td><td>x2</td><td>—</td><td>3 kg</td><td>C et P</td><td>Croc-en-jambe, Désarmement</td></tr></table>
+
 </center></div></div>

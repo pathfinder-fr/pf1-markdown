@@ -33,25 +33,9 @@ Les effets critiques sont cumulatifs. Si une blessure est critique, on applique 
 Cette règle remplace celle sur la mort par dégâts excessif.
 Si un personnage possède un [don de critique](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.AllPages.aspx?Cat=Pathfinder-RPG.Don%20critiques), il doit choisir à chaque fois s'il préfère appliquer le don critique qu'il connait ou la règle des critique réalistes, à moins de disposer de la [maîtrise des critiques](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Ma%C3%AEtrise%20du%20critique.ashx)
 
-{| CLASS="tablo"
-|- CLASS="titre"
-|  Type de blessure
-|  Nombre de dégâts encaissés
-|  |
-|  Conséquences
-|- CLASS="premier"
-| Blessure superficielle || 1 à (9 + mod. de con.) || Dégâts < Seuil 1 || Aucune
-|- CLASS="alt"
-| Blessure légère || (10 + mod. de Con.) à 2x(10 + mod. de Con.) -1  || Seuil 1 <= Dégâts < Seuil 2 || Faible malus
-|-
-| Blessure profonde || 2x(10 + mod. de Con.) à 3x(10 + mod. de Con.) -1  || Seuil 2 <= Dégâts < Seuil 3 || Malus important
-|- CLASS="alt"
-| Blessure handicapante || 3x(10 + mod. de Con.) à 4x(10 + mod. de Con.) -1  || Seuil 3 <= Dégâts < Seuil 4 || handicap
-|-
-| Blessure critique || 4x(10 + mod. de Con.) à 5x(10 + mod. de Con.) -1  || Seuil 4 <= Dégâts < Seuil 5 || Coma
-|- CLASS="alt"
-| Blessure mortelle || 5x(10 + mod. de Con.) ou plus  || Seuil 5 <= Dégâts  || JS ou mort
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Type de blessure</td><td>Nombre de dégâts encaissés</td><td>Conséquences</td></tr><tr CLASS="premier"><td>Blessure superficielle</td><td>1 à (9 + mod. de con.)</td><td>Dégâts < Seuil 1</td><td>Aucune</td></tr><tr CLASS="alt"><td>Blessure légère</td><td>(10 + mod. de Con.) à 2x(10 + mod. de Con.) -1</td><td>Seuil 1 <= Dégâts < Seuil 2</td><td>Faible malus</td></tr><tr><td>Blessure profonde</td><td>2x(10 + mod. de Con.) à 3x(10 + mod. de Con.) -1</td><td>Seuil 2 <= Dégâts < Seuil 3</td><td>Malus important</td></tr><tr CLASS="alt"><td>Blessure handicapante</td><td>3x(10 + mod. de Con.) à 4x(10 + mod. de Con.) -1</td><td>Seuil 3 <= Dégâts < Seuil 4</td><td>handicap</td></tr><tr><td>Blessure critique</td><td>4x(10 + mod. de Con.) à 5x(10 + mod. de Con.) -1</td><td>Seuil 4 <= Dégâts < Seuil 5</td><td>Coma</td></tr><tr CLASS="alt"><td>Blessure mortelle</td><td>5x(10 + mod. de Con.) ou plus</td><td>Seuil 5 <= Dégâts</td><td>JS ou mort</td></tr></table>
+
 
 Les jets de sauvegarde contre les effets critiques obéissent tous à la même règle. Le DD est de 5 + le nombre de point de dégâts excédant le seuil qui donne lieu à l'effet.
 - Exemple. Un personnage a 14 en constitution (seuls = 12/24/36/48/60). Il reçoit une blessure de 60 points . Le coup atteint le cinquième seuil, ce qui signifie qu'il risque de mourir s'il échoue à son jet de vigueur (DD = 10 + 0). Par contre, il tombe dans le comma et le DD pour se réveiller est de 5 + 12 = 17. Si la blessure handicapante permet un jet de vigueur, celui-ci sera de 5 + 24 = 29.
@@ -80,30 +64,9 @@ Brûlure du premier degré. La douleur ressentie rend le personnage fiévreux du
 ##### Contondant
 Si une blessure légère est infligées par une attaque contondante, l'effet dépend de la localisation comme le montre le tableau suivant. L'effet ne dure qu'un seul round après quoi la blessure devient superficielle.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| 1D20 || Localisation  || Effet || 1D20 || Localisation || Effet
-|- CLASS="premier"
-| 1 || Jambe droite || Tombe au sol || 11 || Bras droit || Lâche ce qu'il tient en main
-|- CLASS="alt"
-| 2 || Jambe gauche || Tombe au sol || 12 || Côtes et flanc gauche || Hébété
-|-
-| 3 || Cuisse gauche || Tombe au sol || 13 || Côte et flanc droit || Hébété
-|- CLASS="alt"
-| 4 || Cuisse droite || Tombe au sol || 14 || Pectoral gauche || Hébété
-|-
-| 5 || Aine || Hébété || 15 || Pectoral droit || Hébété
-|-  CLASS="alt"
-| 6 || Abdomen || Hébété || 16 || Épaule gauche || Lâche ce qu'il tient en main
-|-
-| 7 || Abdomen || Hébété || 17 || Épaule droite || Lâche ce qu'il tient en main
-|-  CLASS="alt"
-| 8 || Avant-bras gauche || Lâche ce qu'il tient en main || 18 || Cou || Hébété
-|-
-| 9 || Avant bras droit || Lâche ce qu'il tient en main || 19 || Visage || Hébété ; Nez cassé.
-|-  CLASS="alt"
-| 10 || Bras gauche || Lâche ce qu'il tient en main || 20 || Crâne || Hébété
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>1D20</td><td>Localisation</td><td>Effet</td><td>1D20</td><td>Localisation</td><td>Effet</td></tr><tr CLASS="premier"><td>1</td><td>Jambe droite</td><td>Tombe au sol</td><td>11</td><td>Bras droit</td><td>Lâche ce qu'il tient en main</td></tr><tr CLASS="alt"><td>2</td><td>Jambe gauche</td><td>Tombe au sol</td><td>12</td><td>Côtes et flanc gauche</td><td>Hébété</td></tr><tr><td>3</td><td>Cuisse gauche</td><td>Tombe au sol</td><td>13</td><td>Côte et flanc droit</td><td>Hébété</td></tr><tr CLASS="alt"><td>4</td><td>Cuisse droite</td><td>Tombe au sol</td><td>14</td><td>Pectoral gauche</td><td>Hébété</td></tr><tr><td>5</td><td>Aine</td><td>Hébété</td><td>15</td><td>Pectoral droit</td><td>Hébété</td></tr><tr CLASS="alt"><td>6</td><td>Abdomen</td><td>Hébété</td><td>16</td><td>Épaule gauche</td><td>Lâche ce qu'il tient en main</td></tr><tr><td>7</td><td>Abdomen</td><td>Hébété</td><td>17</td><td>Épaule droite</td><td>Lâche ce qu'il tient en main</td></tr><tr CLASS="alt"><td>8</td><td>Avant-bras gauche</td><td>Lâche ce qu'il tient en main</td><td>18</td><td>Cou</td><td>Hébété</td></tr><tr><td>9</td><td>Avant bras droit</td><td>Lâche ce qu'il tient en main</td><td>19</td><td>Visage</td><td>Hébété ; Nez cassé.</td></tr><tr CLASS="alt"><td>10</td><td>Bras gauche</td><td>Lâche ce qu'il tient en main</td><td>20</td><td>Crâne</td><td>Hébété</td></tr></table>
+
 
 
 
@@ -134,206 +97,105 @@ L'effet d'une blessure handicapante infligé par une arme dépend fortement de s
 En plus de l'effet décrit, la victime subit également les effets d'une blessure profonde.
 
 
-{| CLASS="tablo"
-|- CLASS="titre"
-|  1D20 || Localisation || Contondant || Tranchant || Perforant
-|- CLASS="premier"
-| 1 || Jambe gauche
-| Fracture du péroné   
+
+<table CLASS="tablo"><tr CLASS="titre"><td>1D20</td><td>Localisation</td><td>Contondant</td><td>Tranchant</td><td>Perforant</td></tr><tr CLASS="premier"><td>1</td><td>Jambe gauche</td><td>Fracture du péroné   
  -1D6 Dex    
- Vitesse réduite à 3m/rnd
-| Jambe amputée sous le genoux   
+ Vitesse réduite à 3m/rnd</td><td>Jambe amputée sous le genoux   
  -1D6 Dex et -1D6 For   
-  vitesse réduite à 3m/rnd
-| Mollet perforé   
+  vitesse réduite à 3m/rnd</td><td>Mollet perforé   
    
- -1,5 m à la vitesse de déplacement.
-|- CLASS="alt"
-| 2 || Jambe droite
-| Fracture du péroné   
+ -1,5 m à la vitesse de déplacement.</td></tr><tr CLASS="alt"><td>2</td><td>Jambe droite</td><td>Fracture du péroné   
  -1D6 Dex    
- Vitesse réduite à 3m/rnd
-| Jambe amputée sous le genoux   
+ Vitesse réduite à 3m/rnd</td><td>Jambe amputée sous le genoux   
  -1D6 Dex et -1D6 For   
-  vitesse réduite à 3m/rnd
-| Mollet perforé   
+  vitesse réduite à 3m/rnd</td><td>Mollet perforé   
    
- -1,5 m à la vitesse de déplacement.
-|-
-| 3 || Cuisse gauche
-| Col du fémur Brisé   
+ -1,5 m à la vitesse de déplacement.</td></tr><tr><td>3</td><td>Cuisse gauche</td><td>Col du fémur Brisé   
  Ne peut plus se tenir debout   
- -1D6 Dex et -1D6 For
-| Jambe coupée à l'articulation   
+ -1D6 Dex et -1D6 For</td><td>Jambe coupée à l'articulation   
  Ne peut plus se tenir debout   
- -1D6 Dex et -1D6 For
-| Cuisse perforée   
+ -1D6 Dex et -1D6 For</td><td>Cuisse perforée   
    
- -1,5 m à la vitesse de déplacement.
-|- CLASS="alt"
-| 4 || Cuisse droite
-| Col du fémur Brisé   
+ -1,5 m à la vitesse de déplacement.</td></tr><tr CLASS="alt"><td>4</td><td>Cuisse droite</td><td>Col du fémur Brisé   
  Ne peut plus se tenir debout   
- -1D6 Dex et -1D6 For
-| Jambe coupée à l'articulation   
+ -1D6 Dex et -1D6 For</td><td>Jambe coupée à l'articulation   
  Ne peut plus se tenir debout   
- -1D6 Dex et -1D6 For
-| Cuisse perforée   
+ -1D6 Dex et -1D6 For</td><td>Cuisse perforée   
    
- -1,5 m à la vitesse de déplacement.
-|-
-| 5 || Aine
-| Hanche brisée   
+ -1,5 m à la vitesse de déplacement.</td></tr><tr><td>5</td><td>Aine</td><td>Hanche brisée   
  Ne peut plus se tenir debout   
- -1D6 Dex et -1D6 For
-| Éventration.    
+ -1D6 Dex et -1D6 For</td><td>Éventration.    
  Vessie coupée.    
- -1 Con/jour (Vig. annule).
-| Vessie et reins perforés.   
+ -1 Con/jour (Vig. annule).</td><td>Vessie et reins perforés.   
  -1D4 Con.   
--1Con/jour (Vig. annule)
-|- CLASS="alt"
-| 6 || Abdomen
-| Rate éclatée   
+-1Con/jour (Vig. annule)</td></tr><tr CLASS="alt"><td>6</td><td>Abdomen</td><td>Rate éclatée   
     
- -1D6 Con
-| Éventration : les intestins à l'air.    
+ -1D6 Con</td><td>Éventration : les intestins à l'air.    
  Réf. pour les attraper    
- Le personnage ne peut plus s'alimenter
-| Rate perforée   
+ Le personnage ne peut plus s'alimenter</td><td>Rate perforée   
     
- -1D6 Con
-|-
-| 7 || Abdomen
-| Foie éclatée   
+ -1D6 Con</td></tr><tr><td>7</td><td>Abdomen</td><td>Foie éclatée   
     
- -1D6 Con
-| Éventration : estomac coupé    
+ -1D6 Con</td><td>Éventration : estomac coupé    
  1 dégât d'acide durant 6 rounds    
- Le personnage ne peut plus s'alimenter
-| Foie perforée   
+ Le personnage ne peut plus s'alimenter</td><td>Foie perforée   
     
- -1D6 Con
-|- CLASS="alt"
-| 8 || Avant-bras gauche
-| Fracture de l'avant bras    
- Bras inutilisable
-| Main gauche sectionnée
-| Main gauche perforée   
- -1 à tous les jets joués avec cette main.
-|-
-| 9 || Avant bras droit
-| Fracture de l'avant bras    
- Bras inutilisable
-| Main droite sectionnée
-| Main droite perforée   
- -1 à tous les jets joués avec cette main.
-|- CLASS="alt"
-| 10 || Bras gauche
-| Fracture du bras    
- Bras inutilisable
-| Bras gauche sectionné
-| Bras gauche perforée   
- -1 à tous les jets joués avec ce bras.
-|-
-| 11 || Bras droit
-| Fracture du bras    
- Bras inutilisable
-| Bras droit sectionné
-| Bras droit perforée   
- -1 à tous les jets joués avec ce bras.
-|- CLASS="alt"
-| 12 || Côtes et flanc gauche
-| Côtes brisées   
+ -1D6 Con</td></tr><tr CLASS="alt"><td>8</td><td>Avant-bras gauche</td><td>Fracture de l'avant bras    
+ Bras inutilisable</td><td>Main gauche sectionnée</td><td>Main gauche perforée   
+ -1 à tous les jets joués avec cette main.</td></tr><tr><td>9</td><td>Avant bras droit</td><td>Fracture de l'avant bras    
+ Bras inutilisable</td><td>Main droite sectionnée</td><td>Main droite perforée   
+ -1 à tous les jets joués avec cette main.</td></tr><tr CLASS="alt"><td>10</td><td>Bras gauche</td><td>Fracture du bras    
+ Bras inutilisable</td><td>Bras gauche sectionné</td><td>Bras gauche perforée   
+ -1 à tous les jets joués avec ce bras.</td></tr><tr><td>11</td><td>Bras droit</td><td>Fracture du bras    
+ Bras inutilisable</td><td>Bras droit sectionné</td><td>Bras droit perforée   
+ -1 à tous les jets joués avec ce bras.</td></tr><tr CLASS="alt"><td>12</td><td>Côtes et flanc gauche</td><td>Côtes brisées   
 Poumon perforé   
--1D6 For
-| Coupure Intercostale.   
+-1D6 For</td><td>Coupure Intercostale.   
 Poumon coupé.   
--1D6 For
-| Poumon perforé.   
-Fatigué en permanence
-|-
-| 13 || Côte et flanc droit
-| Côtes brisées   
+-1D6 For</td><td>Poumon perforé.   
+Fatigué en permanence</td></tr><tr><td>13</td><td>Côte et flanc droit</td><td>Côtes brisées   
 Poumon perforé   
--1D6 For
-| Coupure Intercostale.   
+-1D6 For</td><td>Coupure Intercostale.   
 Poumon coupé.   
--1D6 For
-| Poumon perforé.   
-Fatigué en permanence
-|- CLASS="alt"
-| 14 || Pectoral gauche
-| Côtes brisées   
+-1D6 For</td><td>Poumon perforé.   
+Fatigué en permanence</td></tr><tr CLASS="alt"><td>14</td><td>Pectoral gauche</td><td>Côtes brisées   
 Poumon perforé   
--1D6 For
-| Coupure Intercostale   
+-1D6 For</td><td>Coupure Intercostale   
  Poumon coupé   
- -1D6 For
-| Cœur perforé.   
- Saignement de 1D6 Con. par rnd.
-|-
-| 15 || Pectoral droit
-| Côtes brisées   
+ -1D6 For</td><td>Cœur perforé.   
+ Saignement de 1D6 Con. par rnd.</td></tr><tr><td>15</td><td>Pectoral droit</td><td>Côtes brisées   
 Poumon perforé   
--1D6 For
-| Coupure Intercostale   
+-1D6 For</td><td>Coupure Intercostale   
  Poumon coupé   
- -1D6 For
-| Poumon perforé.   
-Fatigué en permanence
-|- CLASS="alt"
-| 16 || Épaule gauche
-| Épaule brisée   
+ -1D6 For</td><td>Poumon perforé.   
+Fatigué en permanence</td></tr><tr CLASS="alt"><td>16</td><td>Épaule gauche</td><td>Épaule brisée   
  Bras inutilisable   
- -2D6 For
-| Épaule brisée   
+ -2D6 For</td><td>Épaule brisée   
  Bras inutilisable   
- -2D6 For
-| Muscle percé   
- -2 aux jets avec ce bras
-|-
-| 17 || Épaule droite
-| Épaule brisée   
+ -2D6 For</td><td>Muscle percé   
+ -2 aux jets avec ce bras</td></tr><tr><td>17</td><td>Épaule droite</td><td>Épaule brisée   
  Bras inutilisable   
- -2D6 For
-| Épaule brisée   
+ -2D6 For</td><td>Épaule brisée   
  Bras inutilisable   
- -2D6 For
-| Muscle percé   
- -2 aux jets avec ce bras
-|- CLASS="alt"
-| 18 || Cou
-| Nuque brisée   
+ -2D6 For</td><td>Muscle percé   
+ -2 aux jets avec ce bras</td></tr><tr CLASS="alt"><td>18</td><td>Cou</td><td>Nuque brisée   
  Jet de vigueur ou   
- mort après un round
-| Décapitation   
- Mort sans JS après un round
-| Trachée perforée   
+ mort après un round</td><td>Décapitation   
+ Mort sans JS après un round</td><td>Trachée perforée   
  Fatigué en permanence    
- Perte de 1D6 Con. par heure
-|-
-| 19 || Visage
-| Visage explosé   
+ Perte de 1D6 Con. par heure</td></tr><tr><td>19</td><td>Visage</td><td>Visage explosé   
  50 % de chance que    
- chaque œil n'explose
-| Coupure faciale   
+ chaque œil n'explose</td><td>Coupure faciale   
  50 % de chance que    
- chaque œil n'explose
-| Un oeil perforé   
+ chaque œil n'explose</td><td>Un oeil perforé   
  Borgne : -5 en   
- perception (vue)
-|- CLASS="alt"
-| 20 || Crâne
-| Crâne brisé    
+ perception (vue)</td></tr><tr CLASS="alt"><td>20</td><td>Crâne</td><td>Crâne brisé    
  Tombe dans le coma   
  Valeur de Sagesse à 0    
-Mort en 1D6 heures
-| Scalpé
-| Tempe percée   
+Mort en 1D6 heures</td><td>Scalpé</td><td>Tempe percée   
  Sourd   
- -3D6 en Sag. et Int.
-|}
+ -3D6 en Sag. et Int.</td></tr></table>
+
 Un personnage ne bénéficiant pas de soins suivis tout en ayant une blessure handicapante perd automatiquement 1 point de constitution par jour.
 
 #### Fractures

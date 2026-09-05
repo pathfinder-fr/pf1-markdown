@@ -121,29 +121,9 @@ Les hommes-serpents ont développé de nombreux pouvoirs spéciaux et une magie 
 #### Dons
 Voici quelques dons auxquels les hommes-serpents ont accès.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Aspersion venimeuse]]*</td><td><sup>CM</sup></td><td>[[Homme-serpent]]</td><td>Crache d'une venin par une attaque à distance</td></tr><tr CLASS="premier"><td>[[Attaque de queue]]*</td><td><sup>CM</sup></td><td>[[BBA]] +1, [[homme-serpent]]</td><td>Gain d'une attaque de queue</td></tr><tr CLASS="premier"><td>[[Compression ophidienne]]</td><td><sup>CM</sup></td><td>[[Homme-serpent]]</td><td>Gain du pouvoir compression, permettant au personnage de se faufiler dans des endroits plus étroits</td></tr><tr CLASS="premier"><td>[[Distraction télépathique]]</td><td><sup>CM</sup></td><td>[[Cha]] 15, [[homme-serpent]]</td><td>Concentre la télépathie pour rendre une créature plus vulnérable aux effets mentaux</td></tr><tr CLASS="premier"><td>[[Magie innée]]</td><td><sup>CM</sup></td><td>Lanceur de sorts profanes, [[NLS]] 4, [[homme-serpent]]</td><td>Dépense des sorts profanes préparés pour réutiliser des pouvoirs magiques</td></tr></table>
 
-|- CLASS="premier"
-| [[Aspersion venimeuse]]* || <sup>CM</sup> || [[Homme-serpent]] || Crache d'une venin par une attaque à distance
-
-|- CLASS="premier"
-| [[Attaque de queue]]* || <sup>CM</sup> || [[BBA]] +1, [[homme-serpent]] || Gain d'une attaque de queue
-
-|- CLASS="premier"
-| [[Compression ophidienne]] || <sup>CM</sup> || [[Homme-serpent]] || Gain du pouvoir compression, permettant au personnage de se faufiler dans des endroits plus étroits
-
-|- CLASS="premier"
-| [[Distraction télépathique]] || <sup>CM</sup> || [[Cha]] 15, [[homme-serpent]] || Concentre la télépathie pour rendre une créature plus vulnérable aux effets mentaux
-
-|- CLASS="premier"
-| [[Magie innée]] || <sup>CM</sup> || Lanceur de sorts profanes, [[NLS]] 4, [[homme-serpent]] || Dépense des sorts profanes préparés pour réutiliser des pouvoirs magiques
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Objets magiques

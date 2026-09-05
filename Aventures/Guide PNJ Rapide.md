@@ -81,79 +81,21 @@ Concernant les sorts : inutile de faire une liste, on peut déterminer au vol s'
 - Les sorts de niveau immédiatement inférieur au plus haut niveau : pour un sort donné, il y a 4/6 chances quil soit mémorisé - dans la limite du nombre total de sorts disponibles
 - Les sorts de niveau inférieur : ils sont tous disponibles, soit parce qu'ils sont mémorisés, soit sous forme de parchemin.
 <center>
-{| CLASS="tablo"
-|+ Evolution en fonction du niveau
-|- CLASS="titre"
-| Niveau
-| Carac.  
-principale
-| Mod.  
+
+<table CLASS="tablo"><caption>Evolution en fonction du niveau</caption><tr CLASS="titre"><td>Niveau</td><td>Carac.  
+principale</td><td>Mod.  
 carac.  
-associé
-| JS  
-(faible)
-| JS  
-(fort)
-| Attaque  
-(faible)
-| Attaque  
-(moyen)
-| Attaque  
-(fort)
-| CA  
-(sans)
-| CA  
-(légère)
-| CA  
-(inter.)
-| CA  
-(lourde)
-| Bonus  
-bouclier
-| PV  
-(faibles)
-| PV  
-(moyens)
-| PV  
-(forts)
-|- CLASS="premier"
-| 1 || 16 || +3 || +0 || +2 || +0 || +0 || +1 || 10 || 13 || 16 || 19 || +2 || 7 || 9 || 11
-|- CLASS="alt"
-| 2 || 16 || +3 || +0 || +3 || +1 || +1 || +2 || 10 || 13 || 16 || 19 || +2 || 11 || 14 || 17
-|-
-| 3 || 16 || +3 || +1 || +3 || +1 || +2 || +3 || 10 || 13 || 16 || 19 || +3 || 16 || 20 || 24
-|- CLASS="alt"
-| 4 || 17 || +3 || +1 || +4 || +2 || +3 || +4 || 11 || 14 || 17 || 20 || +2 || 20 || 25 || 30
-|-
-| 5 || 17 || +3 || +1 || +4 || +3 || +4 || +6 || 11 || 14 || 17 || 20 || +2 || 25 || 31 || 37
-|- CLASS="alt"
-| 6 || 17 || +3 || +3 || +6 || +4 || +5 || +7/+2 || 11 || 14 || 17 || 20 || +3 || 29 || 36 || 43
-|-
-| 7 || 17 || +3 || +3 || +6 || +4 || +6 || +8/+3 || 11 || 14 || 17 || 20 || +3 || 34 || 42 || 50
-|- CLASS="alt"
-| 8 || 18 || +4 || +3 || +7 || +5 || +7/+2 || +9/+4 || 12 || 15 || 18 || 21 || +2 || 38 || 47 || 56
-|-
-| 9 || 18 || +4 || +4 || +7 || +5 || +7/+2 || +10/+5 || 12 || 15 || 18 || 21 || +3 || 43 || 53 || 63
-|- CLASS="alt"
-| 10 || 18 || +4 || +4 || +8 || +7 || +9/+4 || +12/+7 || 12 || 15 || 18 || 21 || +3 || 47 || 58 || 69
-|-
-| 11 || 18 || +4 || +4 || +8 || +7 || +10/+5 || +13/+8/+3 || 12 || 15 || 18 || 21 || +3 || 52 || 64 || 76
-|- CLASS="alt"
-| 12 || 21 || +5 || +6 || +10 || +8/+3 || +11/+6 || +14/+9/+4 || 13 || 16 || 19 || 22 || +3 || 56 || 69 || 82
-|-
-| 13 || 21 || +5 || +6 || +10 || +8/+3 || +11/+6 || +15/+10/+5 || 13 || 16 || 19 || 22 || +3 || 61 || 75 || 89
-|- CLASS="alt"
-| 14 || 21 || +5 || +6 || +11 || +9/+4 || +12/+7 || +16/+11/+6 || 13 || 16 || 19 || 22 || +3 || 65 || 80 || 95
-|-
-| 15 || 21 || +5 || +7 || +11 || +10/+5 || +14/+9/+4 || +18/+13/+8 || 13 || 16 || 19 || 22 || +4 || 70 || 86 || 102
-|- CLASS="alt"
-| 16 || 24 || +7 || +7 || +12 || +11/+6 || +15/+10/+5 || +19/+14/+9/+4 || 14 || 17 || 20 || 23 || +3 || 74 || 91 || 108
-|-
-| 17 || 24 || +7 || +7 || +12 || +11/+6 || +15/+10/+5 || +20/+15/+10/+5 || 14 || 17 || 20 || 23 || +3 || 79 || 97 || 115
-|- CLASS="alt"
-| 18 || 24 || +7 || +9 || +14 || +12/+7 || +16/+11/+6 || +21/+16/+11/+6 || 14 || 17 || 20 || 23 || +4 || 83 || 102 || 121
-|-
-| 19 || 24 || +7 || +9 || +14 || +12/+7 || +17/+12/+7 || +22/+17/+12/+7 || 14 || 17 || 20 || 23 || +4 || 88 || 108 || 128
-|- CLASS="alt"
-| 20 || 27 || +8 || +9 || +15 || +14/+9 || +19/+14/+9 || +24/+19/+14/+9 || 15 || 18 || 21 || 24 || +3 || 92 || 113 || 134
-|}
+associé</td><td>JS  
+(faible)</td><td>JS  
+(fort)</td><td>Attaque  
+(faible)</td><td>Attaque  
+(moyen)</td><td>Attaque  
+(fort)</td><td>CA  
+(sans)</td><td>CA  
+(légère)</td><td>CA  
+(inter.)</td><td>CA  
+(lourde)</td><td>Bonus  
+bouclier</td><td>PV  
+(faibles)</td><td>PV  
+(moyens)</td><td>PV  
+(forts)</td></tr><tr CLASS="premier"><td>1</td><td>16</td><td>+3</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td>+1</td><td>10</td><td>13</td><td>16</td><td>19</td><td>+2</td><td>7</td><td>9</td><td>11</td></tr><tr CLASS="alt"><td>2</td><td>16</td><td>+3</td><td>+0</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td>10</td><td>13</td><td>16</td><td>19</td><td>+2</td><td>11</td><td>14</td><td>17</td></tr><tr><td>3</td><td>16</td><td>+3</td><td>+1</td><td>+3</td><td>+1</td><td>+2</td><td>+3</td><td>10</td><td>13</td><td>16</td><td>19</td><td>+3</td><td>16</td><td>20</td><td>24</td></tr><tr CLASS="alt"><td>4</td><td>17</td><td>+3</td><td>+1</td><td>+4</td><td>+2</td><td>+3</td><td>+4</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+2</td><td>20</td><td>25</td><td>30</td></tr><tr><td>5</td><td>17</td><td>+3</td><td>+1</td><td>+4</td><td>+3</td><td>+4</td><td>+6</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+2</td><td>25</td><td>31</td><td>37</td></tr><tr CLASS="alt"><td>6</td><td>17</td><td>+3</td><td>+3</td><td>+6</td><td>+4</td><td>+5</td><td>+7/+2</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+3</td><td>29</td><td>36</td><td>43</td></tr><tr><td>7</td><td>17</td><td>+3</td><td>+3</td><td>+6</td><td>+4</td><td>+6</td><td>+8/+3</td><td>11</td><td>14</td><td>17</td><td>20</td><td>+3</td><td>34</td><td>42</td><td>50</td></tr><tr CLASS="alt"><td>8</td><td>18</td><td>+4</td><td>+3</td><td>+7</td><td>+5</td><td>+7/+2</td><td>+9/+4</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+2</td><td>38</td><td>47</td><td>56</td></tr><tr><td>9</td><td>18</td><td>+4</td><td>+4</td><td>+7</td><td>+5</td><td>+7/+2</td><td>+10/+5</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+3</td><td>43</td><td>53</td><td>63</td></tr><tr CLASS="alt"><td>10</td><td>18</td><td>+4</td><td>+4</td><td>+8</td><td>+7</td><td>+9/+4</td><td>+12/+7</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+3</td><td>47</td><td>58</td><td>69</td></tr><tr><td>11</td><td>18</td><td>+4</td><td>+4</td><td>+8</td><td>+7</td><td>+10/+5</td><td>+13/+8/+3</td><td>12</td><td>15</td><td>18</td><td>21</td><td>+3</td><td>52</td><td>64</td><td>76</td></tr><tr CLASS="alt"><td>12</td><td>21</td><td>+5</td><td>+6</td><td>+10</td><td>+8/+3</td><td>+11/+6</td><td>+14/+9/+4</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+3</td><td>56</td><td>69</td><td>82</td></tr><tr><td>13</td><td>21</td><td>+5</td><td>+6</td><td>+10</td><td>+8/+3</td><td>+11/+6</td><td>+15/+10/+5</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+3</td><td>61</td><td>75</td><td>89</td></tr><tr CLASS="alt"><td>14</td><td>21</td><td>+5</td><td>+6</td><td>+11</td><td>+9/+4</td><td>+12/+7</td><td>+16/+11/+6</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+3</td><td>65</td><td>80</td><td>95</td></tr><tr><td>15</td><td>21</td><td>+5</td><td>+7</td><td>+11</td><td>+10/+5</td><td>+14/+9/+4</td><td>+18/+13/+8</td><td>13</td><td>16</td><td>19</td><td>22</td><td>+4</td><td>70</td><td>86</td><td>102</td></tr><tr CLASS="alt"><td>16</td><td>24</td><td>+7</td><td>+7</td><td>+12</td><td>+11/+6</td><td>+15/+10/+5</td><td>+19/+14/+9/+4</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+3</td><td>74</td><td>91</td><td>108</td></tr><tr><td>17</td><td>24</td><td>+7</td><td>+7</td><td>+12</td><td>+11/+6</td><td>+15/+10/+5</td><td>+20/+15/+10/+5</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+3</td><td>79</td><td>97</td><td>115</td></tr><tr CLASS="alt"><td>18</td><td>24</td><td>+7</td><td>+9</td><td>+14</td><td>+12/+7</td><td>+16/+11/+6</td><td>+21/+16/+11/+6</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+4</td><td>83</td><td>102</td><td>121</td></tr><tr><td>19</td><td>24</td><td>+7</td><td>+9</td><td>+14</td><td>+12/+7</td><td>+17/+12/+7</td><td>+22/+17/+12/+7</td><td>14</td><td>17</td><td>20</td><td>23</td><td>+4</td><td>88</td><td>108</td><td>128</td></tr><tr CLASS="alt"><td>20</td><td>27</td><td>+8</td><td>+9</td><td>+15</td><td>+14/+9</td><td>+19/+14/+9</td><td>+24/+19/+14/+9</td><td>15</td><td>18</td><td>21</td><td>24</td><td>+3</td><td>92</td><td>113</td><td>134</td></tr></table>

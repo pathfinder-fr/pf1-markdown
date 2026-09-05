@@ -35,15 +35,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cheval
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cheval]] || 1
-|-
-| [[Poney]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cheval</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cheval]]</td><td>1</td></tr><tr><td>[[Poney]]</td><td>1/2</td></tr></table>
+
 </div>*Ce petit cheval trapu vous observe de ses grands yeux curieux, puis il tend son museau comme s’il s’attendait à recevoir une gâterie.*
 
 Les poneys sont des petits chevaux qui

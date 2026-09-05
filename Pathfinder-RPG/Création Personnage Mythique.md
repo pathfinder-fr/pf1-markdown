@@ -50,32 +50,9 @@ Chaque personnage mythique emprunte une [[voie]] mythique particulière. Chaque 
 ### Aptitudes mythiques de base
 Chaque PJ mythique gagne plusieurs aptitudes de base partagées par tous les personnages mythiques, en plus des aptitudes spécifiques à chacune des [[voies]] mythiques. Ces aptitudes sont obtenues en fonction du [[grade]] mythique atteint.
 
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="80%"
-|+ Aptitudes mythiques de base
-|- CLASS="titre"
-| Grade mythique || Valeur de  carac. || Don  mythique || Aptitudes mythiques  de base
-|- CLASS="premier"
-| 1er || — || 1er || [[Création Personnage Mythique#DifficileTuer|Difficile à tuer]], [[Création Personnage Mythique#PouvoirMythique|Pouvoir mythique]], [[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)
-|-
-| 2ème || 1er || — || [[Création Personnage Mythique#ExcellenteInitiative|Excellente initiative]]
-|-
-| 3ème || — || 2ème || [[Création Personnage Mythique#Retablissement|Rétablissement]]
-|-
-| 4ème || 2ème || — || [[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)
-|-
-| 5ème || — || 3ème || [[Création Personnage Mythique#JDSMythique|Jets de sauvegarde mythiques]]
-|-
-| 6ème || 3ème || — || [[Création Personnage Mythique#ForceVolonte|Force de volonté]]
-|-
-| 7ème || — || 4ème || [[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)
-|-
-| 8ème || 4ème || — || [[Création Personnage Mythique#Indomptable|Indomptable]]
-|-
-| 9ème || — || 5ème || [[Création Personnage Mythique#Immortel|Immortel]]
-|-
-| 10ème || 5ème || — || [[Création Personnage Mythique#HeroLegendaire|Héros légendaire]], [[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)
-|-
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="80%"><caption>Aptitudes mythiques de base</caption><tr CLASS="titre"><td>Grade mythique</td><td>Valeur de  carac.</td><td>Don  mythique</td><td>Aptitudes mythiques  de base</td></tr><tr CLASS="premier"><td>1er</td><td>—</td><td>1er</td><td>[[Création Personnage Mythique#DifficileTuer|Difficile à tuer]], [[Création Personnage Mythique#PouvoirMythique|Pouvoir mythique]], [[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)</td></tr><tr><td>2ème</td><td>1er</td><td>—</td><td>[[Création Personnage Mythique#ExcellenteInitiative|Excellente initiative]]</td></tr><tr><td>3ème</td><td>—</td><td>2ème</td><td>[[Création Personnage Mythique#Retablissement|Rétablissement]]</td></tr><tr><td>4ème</td><td>2ème</td><td>—</td><td>[[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)</td></tr><tr><td>5ème</td><td>—</td><td>3ème</td><td>[[Création Personnage Mythique#JDSMythique|Jets de sauvegarde mythiques]]</td></tr><tr><td>6ème</td><td>3ème</td><td>—</td><td>[[Création Personnage Mythique#ForceVolonte|Force de volonté]]</td></tr><tr><td>7ème</td><td>—</td><td>4ème</td><td>[[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)</td></tr><tr><td>8ème</td><td>4ème</td><td>—</td><td>[[Création Personnage Mythique#Indomptable|Indomptable]]</td></tr><tr><td>9ème</td><td>—</td><td>5ème</td><td>[[Création Personnage Mythique#Immortel|Immortel]]</td></tr><tr><td>10ème</td><td>5ème</td><td>—</td><td>[[Création Personnage Mythique#HeroLegendaire|Héros légendaire]], [[Création Personnage Mythique#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)</td></tr></table>
+
 
 {s:Reference|ValeurCaracMythique}
 #### Valeur de caractéristique
@@ -129,34 +106,9 @@ Au 10ème [[grade]], le personnage est un mortel au sommet de sa puissance. Il r
 ### Obtention des grades
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt centre toutgauche"
-|+ {s:Reference|EPREUVEMYTHIQUEPARGRADE}Épreuves mythiques par grade
-|- CLASS="titre"
-| WIDTH="50%" | Grade
-| WIDTH="50%" | Épreuves
-|- CLASS="premier"
-| 1* || —
-|-
-| 2 || 1
-|-
-| 3 || 2
-|-
-| 4 || 2
-|-
-| 5 || 3
-|-
-| 6 || 3
-|-
-| 7 || 4
-|-
-| 8 || 4
-|-
-| 9 || 5
-|-
-| 10 || 5
-|- CLASS="note"
-| COLSPAN="2" | Le premier grade s’obtient lors de l’ascension.
-|}
+
+<table CLASS="tablo autoalt centre toutgauche"><caption>{s:Reference|EPREUVEMYTHIQUEPARGRADE}Épreuves mythiques par grade</caption><tr CLASS="titre"><td WIDTH="50%">Grade</td><td WIDTH="50%">Épreuves</td></tr><tr CLASS="premier"><td>1*</td><td>—</td></tr><tr><td>2</td><td>1</td></tr><tr><td>3</td><td>2</td></tr><tr><td>4</td><td>2</td></tr><tr><td>5</td><td>3</td></tr><tr><td>6</td><td>3</td></tr><tr><td>7</td><td>4</td></tr><tr><td>8</td><td>4</td></tr><tr><td>9</td><td>5</td></tr><tr><td>10</td><td>5</td></tr><tr CLASS="note"><td COLSPAN="2">Le premier grade s’obtient lors de l’ascension.</td></tr></table>
+
 </div></div>On évalue le [[pouvoir mythique]] d’un personnage grâce à son [[grade]]. Ainsi, un personnage mythique de 1er [[grade]] est déjà plus puissant qu’un personnage [[non-mythique]] de niveau 1 et un personnage mythique de 10ème [[grade]] détient une puissance proche de celle d’un dieu. Les [[grades]] mythiques sont similaires aux niveaux dans les classes de base ou de prestige, en ce sens où les pouvoirs acquis lorsque les personnages montent en [[grade]] sont ajoutés à l’ensemble de ceux qu’ils possèdent déjà. Ceci dit, les [[grades]] ne s’obtiennent pas de la même façon que les niveaux. Un personnage obtient un nouveau [[grade]] mythique en accomplissant un certain nombre d’[[Épreuves mythiques|épreuves]] qu’il doit surmonter au cours du jeu. Une [[Épreuves mythiques|épreuve]] est une tâche difficile qui vient gonfler la légende et l’histoire des personnages. L’obtention d’un nouveau [[grade]] mythique se fait indépendamment de la progression en points d’expérience ; toutefois, les personnages continuent de gagner des points d’expérience en réussissant à survivre aux diverses rencontres en même temps qu’ils progressent en surmontant des épreuves.
 
 Les [[Épreuves mythiques|épreuves]] sont des moments marquants de l’histoire où votre personnage doit accomplir des hauts-faits qui dépassent en puissance ceux réalisés par des héros ordinaires. Ces instants constituent des instants critiques de sa légende. Le MJ décide en quoi consiste une [[Épreuves mythiques|épreuve]] et le personnage doit la surmonter comme il le fait lors d’aventures plus classiques. Il est même possible que le personnage ne sache pas qu’il est en train de passer une [[Épreuves mythiques|épreuve]] jusqu’à ce qu’il la termine et que le MJ vous indique de la noter sur votre feuille de personnage mythique. Cependant, vous aurez probablement la puce à l’oreille lorsque votre personnage se retrouvera face à un adversaire particulièrement coriace ou lorsqu’il tentera d’accomplir quelque chose que la plupart des gens estiment impossible.

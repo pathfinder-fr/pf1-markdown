@@ -38,15 +38,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'insecte tueur
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grand insecte tueur]] || 5
-|-
-| [[Insecte tueur géant]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'insecte tueur</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grand insecte tueur]]</td><td>5</td></tr><tr><td>[[Insecte tueur géant]]</td><td>3</td></tr></table>
+
 </div>*Cet énorme insecte est doté de longues mandibules, d’un lourd thorax bulbeux et d’yeux luisants qui lui donnent un air renfrogné.*
 
 Un insecte meurtrier s’enfouit partiellement dans le sable ou se cache dans les bosquets d’épineux près des oasis en attendant l’approche de la prochaine créature mangeable. Lorsqu’une proie approche, l’insecte surgit hors de sa cachette et transperce sa cible de son rostre allongé pour lui injecter une toxine virulente. Une fois sa proie complètement paralysée, l’insecte assassin s’en repaît en aspirant ses fluides. Même si ces multiples morsures ne tuent pas, elles infligent des enflures extrêmement douloureuses.

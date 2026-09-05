@@ -38,14 +38,5 @@ Les gobelins simiesques mènent un style de vie sauvage et beaucoup prennent des
 Voici les options accessibles aux s, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
-
-|- CLASS="premier"
-| [[Lancer boomerang]] || <sup>*ISR*</sup> || [[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]] || Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement
-|}
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Lancer boomerang]]</td><td><sup>*ISR*</sup></td><td>[[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]]</td><td>Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement</td></tr></table>

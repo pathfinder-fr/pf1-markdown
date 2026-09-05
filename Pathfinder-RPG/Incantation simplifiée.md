@@ -24,105 +24,13 @@ Par exemple, un nécromancien de niveau 13 avec une valeur d’[[Intelligence]] 
 **Dépense de plusieurs emplacements de sort.** Si le personnage possède une aptitude de classe qui requiert la dépense de plusieurs emplacements de sort, comme la révélation du guérisseur combattant d’un [[Mystère des Batailles|oracle des batailles]] ou une école opposée à celle d’un [[Magicien#ECOLEDEMAGIE|magicien spécialiste]], il doit dépenser le nombre d’emplacements de sort adéquat de sa réserve de sorts pour utiliser l’aptitude en question. Par exemple, si l’école opposée à celle du nécromancien de niveau 13 mentionné plus haut est l’invocation, il peut dépenser deux emplacements de sorts de sa réserve de sorts pour lancer *[[convocation de monstres II]]*.
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ {s:Reference|TABLE}Magus ou prêtre combattant
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| COLSPAN="7" CLASS="avecsoustitre" | Sorts par jour
-| ROWSPAN="2" | Réserve
-|- CLASS="soustitre"
-| 0 || 1 || 2 || 3 || 4 || 5 || 6
-|- CLASS="premier"
-| 1 || 3 || 1 || — || — || — || — || — || —
-|-
-| 2 || 4 || 2 || — || — || — || — || — || —
-|-
-| 3 || 4 || 3 || — || — || — || — || — || —
-|-
-| 4 || 4 || 3 || 1 || — || — || — || — || —
-|-
-| 5 || 4 || 4 || 2 || — || — || — || — || —
-|-
-| 6 || 5 || 4 || 3 || — || — || — || — || —
-|-
-| 7 || 5 || 4 || 3 || 1 || — || — || — || —
-|-
-| 8 || 5 || 4 || 4 || 2 || — || — || — || —
-|-
-| 9 || 5 || 5 || 4 || 3 || — || — || — || —
-|-
-| 10 || 5 || R || 4 || 3 || 1 || — || — || 1
-|-
-| 11 || 5 || R || 4 || 4 || 2 || — || — || 1
-|-
-| 12 || 5 || R || 5 || 4 || 3 || — || — || 1
-|-
-| 13 || 5 || R || R || 4 || 3 || 1 || — || 3
-|-
-| 14 || 5 || R || R || 4 || 4 || 2 || — || 3
-|-
-| 15 || 5 || R || R || 5 || 4 || 3 || — || 3
-|-
-| 16 || 5 || R || R || R || 4 || 3 || 1 || 4
-|-
-| 17 || 5 || R || R || R || 4 || 4 || 2 || 4
-|-
-| 18 || 5 || R || R || R || 5 || 4 || 3 || 4
-|-
-| 19 || 5 || R || R || R || 5 || 5 || 4 || 4
-|-
-| 20 || 5 || R || R || R || 5 || 5 || 5 || 4
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|TABLE}Magus ou prêtre combattant</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="7" CLASS="avecsoustitre">Sorts par jour</td><td ROWSPAN="2">Réserve</td></tr><tr CLASS="soustitre"><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr CLASS="premier"><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>4</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>4</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>5</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>5</td><td>4</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>5</td><td>4</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>5</td><td>5</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>5</td><td>R</td><td>4</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr><tr><td>11</td><td>5</td><td>R</td><td>4</td><td>4</td><td>2</td><td>—</td><td>—</td><td>1</td></tr><tr><td>12</td><td>5</td><td>R</td><td>5</td><td>4</td><td>3</td><td>—</td><td>—</td><td>1</td></tr><tr><td>13</td><td>5</td><td>R</td><td>R</td><td>4</td><td>3</td><td>1</td><td>—</td><td>3</td></tr><tr><td>14</td><td>5</td><td>R</td><td>R</td><td>4</td><td>4</td><td>2</td><td>—</td><td>3</td></tr><tr><td>15</td><td>5</td><td>R</td><td>R</td><td>5</td><td>4</td><td>3</td><td>—</td><td>3</td></tr><tr><td>16</td><td>5</td><td>R</td><td>R</td><td>R</td><td>4</td><td>3</td><td>1</td><td>4</td></tr><tr><td>17</td><td>5</td><td>R</td><td>R</td><td>R</td><td>4</td><td>4</td><td>2</td><td>4</td></tr><tr><td>18</td><td>5</td><td>R</td><td>R</td><td>R</td><td>5</td><td>4</td><td>3</td><td>4</td></tr><tr><td>19</td><td>5</td><td>R</td><td>R</td><td>R</td><td>5</td><td>5</td><td>4</td><td>4</td></tr><tr><td>20</td><td>5</td><td>R</td><td>R</td><td>R</td><td>5</td><td>5</td><td>5</td><td>4</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="94%"
-|+ Chamane, druide, magicien, prêtre ou sorcière
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| COLSPAN="10" CLASS="avecsoustitre" | Sorts par jour
-| ROWSPAN="2" | Réserve
-|- CLASS="soustitre"
-| 0 || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9
-|- CLASS="premier"
-| 1 || 3 || 1 || — || — || — || — || — || — || — || — || —
-|-
-| 2 || 4 || 2 || — || — || — || — || — || — || — || — || —
-|-
-| 3 || 4 || 2 || 1 || — || — || — || — || — || — || — || —
-|-
-| 4 || 4 || 3 || 2 || — || — || — || — || — || — || — || —
-|-
-| 5 || 4 || 3 || 2 || 1 || — || — || — || — || — || — || —
-|-
-| 6 || 4 || 3 || 3 || 2 || — || — || — || — || — || — || —
-|-
-| 7 || 4 || R || 3 || 2 || 1 || — || — || — || — || — || 1
-|-
-| 8 || 4 || R || 3 || 3 || 2 || — || — || — || — || — || 1
-|-
-| 9 || 4 || R || R || 3 || 2 || 1 || — || — || — || — || 2
-|-
-| 10 || 4 || R || R || 3 || 3 || 2 || — || — || — || — || 2
-|-
-| 11 || 4 || R || R || R || 3 || 2 || 1 || — || — || — || 2
-|-
-| 12 || 4 || R || R || R || 3 || 3 || 2 || — || — || — || 2
-|-
-| 13 || 4 || R || R || R || R || 3 || 2 || 1 || — || — || 3
-|-
-| 14 || 4 || R || R || R || R || 3 || 3 || 2 || — || — || 3
-|-
-| 15 || 4 || R || R || R || R || R || 3 || 2 || 1 || — || 4
-|-
-| 16 || 4 || R || R || R || R || R || 3 || 3 || 2 || — || 4
-|-
-| 17 || 4 || R || R || R || R || R || R || 3 || 2 || 1 || 5
-|-
-| 18 || 4 || R || R || R || R || R || R || 3 || 3 || 2 || 5
-|-
-| 19 || 4 || R || R || R || R || R || R || 4 || 3 || 3 || 5
-|-
-| 20 || 4 || R || R || R || R || R || R || 4 || 4 || 4 || 5
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="94%"><caption>Chamane, druide, magicien, prêtre ou sorcière</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="10" CLASS="avecsoustitre">Sorts par jour</td><td ROWSPAN="2">Réserve</td></tr><tr CLASS="soustitre"><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr CLASS="premier"><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>4</td><td>R</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr><tr><td>8</td><td>4</td><td>R</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr><tr><td>9</td><td>4</td><td>R</td><td>R</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr><tr><td>10</td><td>4</td><td>R</td><td>R</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr><tr><td>11</td><td>4</td><td>R</td><td>R</td><td>R</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>2</td></tr><tr><td>12</td><td>4</td><td>R</td><td>R</td><td>R</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>2</td></tr><tr><td>13</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>3</td></tr><tr><td>14</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>3</td></tr><tr><td>15</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>3</td><td>2</td><td>1</td><td>—</td><td>4</td></tr><tr><td>16</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>3</td><td>3</td><td>2</td><td>—</td><td>4</td></tr><tr><td>17</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>3</td><td>2</td><td>1</td><td>5</td></tr><tr><td>18</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>3</td><td>3</td><td>2</td><td>5</td></tr><tr><td>19</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>4</td><td>3</td><td>3</td><td>5</td></tr><tr><td>20</td><td>4</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td><td>4</td><td>4</td><td>4</td><td>5</td></tr></table>
+
 </td></tr></table>
 
 ### Les autres lanceurs de sorts

@@ -10,42 +10,9 @@ Categories:
 {s:MenuClassesDePrestige}{s:cs}{s:PP}*Les méconnus champions de la perfection dévouent leur vie au perfectionnement et au redressement de la société, leur but ultime étant de créer un monde sûr et ordonné dans lequel chaque personne peut trouver et perfectionner sa véritable raison d'être dans l'intérêt de tous. Selon leur philosophie, la transformation de la société ne peut arriver que par l'accumulation du perfectionnement de chaque individu dans ladite société. Même si les enseignements du dieu du savoir et de la perfection s'appliquent également aux individus bons, mauvais ou neutres, les champions de la perfection passent leur temps à incarner et promouvoir les vertus du travail acharné, de la discipline, de la dévotion aux causes de la justice, de la vérité et de la poursuite de la perfection. C'est uniquement de cette manière que les individus peuvent ressentir de la véritable joie et se libérer des cycles de réincarnation afin de servir le maître des maîtres dans l'après-vie.*
 
 <center>
-{| CLASS="tablo"
-|+ Le champion de la perfection
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Champion dIrori#DETECTIONDUCHAOS|Détection du Chaos]], [[Champion dIrori#ARTISTEMARTIAL|artiste martial]], [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Champion dIrori#RESERVEDEKI|Réserve de ki]], [[Champion dIrori#POURSUITEDUSAVOIR|poursuite du savoir]]
-|-
-| 3 || +3 || +2 || +2 || +2
-| CLASS="gauche" | [[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (une cible)
-|- CLASS="alt"
-| 4 || +4 || +2 || +2 || +2
-| CLASS="gauche" | [[Champion dIrori#DEFENSEVAILLANTE|Défense vaillante]]
-|-
-| 5 || +5 || +3 || +3 || +3
-| CLASS="gauche" | [[Champion dIrori#PROTEGERLESFAIBLES|Protéger les faibles]]
-|- CLASS="alt"
-| 6 || +6 || +3 || +3 || +3
-| CLASS="gauche" | [[Champion dIrori#MAITRISEDESCOMPETENCES|Maîtrise des compétences]], [[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (plusieurs cibles)
-|-
-| 7 || +7 || +4 || +4 || +4
-| CLASS="gauche" | [[Champion dIrori#OUVERTUREPARFAITE|Ouverture parfaite]]
-|- CLASS="alt"
-| 8 || +8 || +4 || +4 || +4
-| CLASS="gauche" | [[Champion dIrori#UNSEULDOIGT|Un seul doigt]]
-|-
-| 9 || +9 || +5 || +5 || +5
-| CLASS="gauche" | [[Champion dIrori#FRAPPEPARFAITE|Frappe parfaite]]
-|- CLASS="alt"
-| 10 || +10 || +5 || +5 || +5
-| CLASS="gauche" | [[Champion dIrori#CHATIMENTTOURBILLONNANT|Châtiment tourbillonnant]]
-|}
+
+<table CLASS="tablo"><caption>Le champion de la perfection</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Champion dIrori#DETECTIONDUCHAOS|Détection du Chaos]], [[Champion dIrori#ARTISTEMARTIAL|artiste martial]], [[Champion dIrori#CHATIMENTDUCHAOS|châtiment du Chaos]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Champion dIrori#RESERVEDEKI|Réserve de ki]], [[Champion dIrori#POURSUITEDUSAVOIR|poursuite du savoir]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (une cible)</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Champion dIrori#DEFENSEVAILLANTE|Défense vaillante]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Champion dIrori#PROTEGERLESFAIBLES|Protéger les faibles]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Champion dIrori#MAITRISEDESCOMPETENCES|Maîtrise des compétences]], [[Champion dIrori#CHATIMENTGENERALISE|Châtiment généralisé]] (plusieurs cibles)</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Champion dIrori#OUVERTUREPARFAITE|Ouverture parfaite]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Champion dIrori#UNSEULDOIGT|Un seul doigt]]</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Champion dIrori#FRAPPEPARFAITE|Frappe parfaite]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Champion dIrori#CHATIMENTTOURBILLONNANT|Châtiment tourbillonnant]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d8.

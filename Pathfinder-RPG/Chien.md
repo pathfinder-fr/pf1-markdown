@@ -33,15 +33,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de chien
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chien]] || 1/3
-|-
-| [[Chien de selle]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de chien</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chien]]</td><td>1/3</td></tr><tr><td>[[Chien de selle]]</td><td>1</td></tr></table>
+
 </div>*La faim transparaît dans les yeux brun foncé de ce petit chien à la fourrure éparse.*
 
 Le profil présenté ci-dessus convient pour tous les petits chiens

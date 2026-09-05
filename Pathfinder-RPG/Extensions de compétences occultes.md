@@ -13,29 +13,9 @@ Le personnage examine le crâne d’une créature intelligente pour en déduire 
 Le personnage peut tâter le crâne d’une créature du bout des doigts une fois par jour pour examiner sa forme. Pour cela, il lui faut une minute de concentration tandis qu’il manipule le crâne. Il peut utiliser cette technique sur un individu consentant, sans défense ou paralysé ou même sur des restes décomposés (tant que le crâne est intact ou qu’il peut le reconstituer). Cette compétence est sans effet sur les créatures dépourvues de crâne visible, comme les créatures artificielles, les élémentaires, les vases ou les plantes. Au bout d’une minute, le MJ effectue un test de Connaissances (mystères) en secret, en utilisant généralement les DV de la cible comme modificateur au DD. Lors du test, le personnage obtient toutes les informations associées au DD égalé ou dépassé. Par exemple, s’il obtient 22 au test alors qu’il examine une créature dotée de 2 DV, il apprend sa race, son âge, son sexe, son alignement, sa classe, mais pas son niveau ou ses DV.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DD aux tests de Connaissances (Mystères) assistés par la Phrénologie
-|- CLASS="titre"
-| Tâche
-| DD de base du test
-|- CLASS="premier"
-| Déterminer la race et l’âge
-| CLASS="gauche" | 10
-|- CLASS="alt"
-| Déterminer le sexe
-| CLASS="gauche" | 15
-|-
-| Déterminer l’alignement
-| CLASS="gauche" | 15 + DV de la cible†
-|- CLASS="alt"
-| Déterminer la classe
-| CLASS="gauche" | 20 + DV de la cible†
-|-
-| Déterminer le niveau ou les DV
-| CLASS="gauche" | 25 + DV de la cible†
-|-
-| COLSPAN="2" CLASS="note" | † Si la créature est morte, utilisez les DV qu’elle possédait de son vivant.
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Connaissances (Mystères) assistés par la Phrénologie</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Déterminer la race et l’âge</td><td CLASS="gauche">10</td></tr><tr CLASS="alt"><td>Déterminer le sexe</td><td CLASS="gauche">15</td></tr><tr><td>Déterminer l’alignement</td><td CLASS="gauche">15 + DV de la cible†</td></tr><tr CLASS="alt"><td>Déterminer la classe</td><td CLASS="gauche">20 + DV de la cible†</td></tr><tr><td>Déterminer le niveau ou les DV</td><td CLASS="gauche">25 + DV de la cible†</td></tr><tr><td COLSPAN="2" CLASS="note">† Si la créature est morte, utilisez les DV qu’elle possédait de son vivant.</td></tr></table>
+
 </center>
 #### Action
 Il faut une minute d’examen ininterrompu pour déchiffrer le crâne d’une créature.
@@ -74,22 +54,9 @@ sort [[augure]]. S’il a 10 rangs ou plus en Linguistique, il peut tenter un te
 informations qu’avec [[divination]]. Le personnage a 60 % + 5 % de chances par tranche de 1 point au-delà du DD d’obtenir des écrits cohérents ou significatifs (90 % au maximum). Le personnage doit choisir le DD de son test avant de le faire. Le MJ lance le d100 en secret, afin que le personnage ignore si ses messages sont pertinents ou non.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DD aux tests de Linguistique assistés par l'écriture automatique
-|- CLASS="titre"
-| Résultat des écrits
-| Rangs requis
-| DD de base du test
-|- CLASS="premier"
-| Comme augure
-| CLASS="gauche" | 1
-| 20
-|- CLASS="alt"
-| Comme divination
-| CLASS="gauche" | 10
-| 30
-|-
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Linguistique assistés par l'écriture automatique</caption><tr CLASS="titre"><td>Résultat des écrits</td><td>Rangs requis</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Comme augure</td><td CLASS="gauche">1</td><td>20</td></tr><tr CLASS="alt"><td>Comme divination</td><td CLASS="gauche">10</td><td>30</td></tr></table>
+
 </center>
 #### Action
 L’écriture automatique prend 1 heure.
@@ -112,26 +79,9 @@ Une fois par jour, le personnage peut examiner l’aura naturelle d’une créat
 *Lire l’aura de santé*. Le personnage estime la condition physique d’une créature en observant le flux de sa force vitale. Il découvre si elle est indemne ou blessée, si elle est victime d’un empoisonnement, d’une maladie ou de l’un des états préjudiciables suivants : chancelante, confuse, étourdie, hors d’état, inconsciente, mourante, nauséeuse, paniquée. Il découvre également le nombre total de points de ki, d’audace ou similaire à sa disposition.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DD aux tests de Perception assistés par la Lecture d'auras
-|- CLASS="titre"
-| Tâche
-| DD de base du test
-|- CLASS="premier"
-| Lire l’aura d’alignement
-| CLASS="gauche" | 15 + DV de la créature ou niveau de lanceur de sorts de l’objet
-|- CLASS="alt"
-| Lire l’aura d’émotion
-| CLASS="gauche" | 20 + DV de la créature ou niveau de lanceur de sorts de l’objet†
-|-
-| Lire l’aura de magie
-| CLASS="gauche" | 20 + DV de la créature ou niveau de lanceur de sorts de l’objet
-|- CLASS="alt"
-| Lire l’aura de santé
-| CLASS="gauche" | 15 + DV de la créature
-|-
-| COLSPAN="2" CLASS="note" | † Pour les objets intelligents seulement.
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Perception assistés par la Lecture d'auras</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Lire l’aura d’alignement</td><td CLASS="gauche">15 + DV de la créature ou niveau de lanceur de sorts de l’objet</td></tr><tr CLASS="alt"><td>Lire l’aura d’émotion</td><td CLASS="gauche">20 + DV de la créature ou niveau de lanceur de sorts de l’objet†</td></tr><tr><td>Lire l’aura de magie</td><td CLASS="gauche">20 + DV de la créature ou niveau de lanceur de sorts de l’objet</td></tr><tr CLASS="alt"><td>Lire l’aura de santé</td><td CLASS="gauche">15 + DV de la créature</td></tr><tr><td COLSPAN="2" CLASS="note">† Pour les objets intelligents seulement.</td></tr></table>
+
 </center>
 #### Action
 Il faut 10 minutes pour lire l’aura d’une cible.
@@ -151,22 +101,9 @@ Le personnage peut utiliser la guérison miraculeuse une fois par jour. Le DD et
 *Éliminer une affliction*. Le personnage peut tenter d’éliminer définitivement une affliction en menant une cérémonie de 8 heures au terme de laquelle il effectue un test de Premiers secours. Si le résultat du test est au moins égal au double du DD de l’affliction originelle, la victime a droit à un nouveau jet de sauvegarde contre ce DD originel pour se débarrasser définitivement de l’affliction.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DD aux tests de Premiers secours assistés par la guérison miraculeuse
-|- CLASS="titre"
-| Tâche
-| DD de base du test
-|- CLASS="premier"
-| Restaurer la vitalité
-| CLASS="gauche" | DD du jet de sauvegarde de l’effet.
-|- CLASS="alt"
-| Suspendre une affliction
-| CLASS="gauche" | DD du jet de sauvegarde de l’affliction.
-|-
-| Éliminer une affliction
-| CLASS="gauche" | Double du DD du jet de sauvegarde de l’affliction.
-|-
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Premiers secours assistés par la guérison miraculeuse</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Restaurer la vitalité</td><td CLASS="gauche">DD du jet de sauvegarde de l’effet.</td></tr><tr CLASS="alt"><td>Suspendre une affliction</td><td CLASS="gauche">DD du jet de sauvegarde de l’affliction.</td></tr><tr><td>Éliminer une affliction</td><td CLASS="gauche">Double du DD du jet de sauvegarde de l’affliction.</td></tr></table>
+
 </center>
 #### Action
 Pour restaurer la vitalité ou suspendre une affliction, il faut passer 1 heure dans un environnement calme. Il faut 8 heures d’activité intense pour éliminer définitivement une affliction.
@@ -180,24 +117,9 @@ Le personnage est doué pour la divination populaire. Parmi les méthodes les pl
 Une fois par jour, le personnage prédit l’avenir proche d’une créature. Il doit passer 10 minutes à interpréter les signes divinatoires à sa disposition, après quoi, le MJ effectue un test de Psychologie en secret contre un DD modifié par les DV de la cible (voir la table, plus bas). Le résultat du test donne un aperçu basique de la nature du sujet, dont son alignement, sa classe et ses niveaux ou ses DV. Il peut aussi révéler des indices sur son futur immédiat. Ce futur se détermine comme avec le sort augure. Il y a 60 % de chances + 5 % par point au-dessus du DD (90 % au maximum) d’interpréter les signes convenablement. Par exemple, si le personnage obtient 22 au test lorsqu’il lit la bonne aventure pour une créature avec 2 DV, il découvre son alignement et sa classe mais pas son niveau, ses DV ni son avenir.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DD aux tests de Psychologie assistés par la Prédiction
-|- CLASS="titre"
-| Tâche
-| DD de base du test
-|- CLASS="premier"
-| Détermine l’alignement
-| CLASS="gauche" | 15 + DV de la créature
-|- CLASS="alt"
-| Détermine la classe
-| CLASS="gauche" | 20 + DV de la créature
-|-
-| Déterminer le niveau ou les DV
-| CLASS="gauche" | 25 + DV de la cible
-|- CLASS="alt"
-| Détermine la bonne fortune comme un sort d’augure
-| CLASS="gauche" | 25 + DV de la créature
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Psychologie assistés par la Prédiction</caption><tr CLASS="titre"><td>Tâche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Détermine l’alignement</td><td CLASS="gauche">15 + DV de la créature</td></tr><tr CLASS="alt"><td>Détermine la classe</td><td CLASS="gauche">20 + DV de la créature</td></tr><tr><td>Déterminer le niveau ou les DV</td><td CLASS="gauche">25 + DV de la cible</td></tr><tr CLASS="alt"><td>Détermine la bonne fortune comme un sort d’augure</td><td CLASS="gauche">25 + DV de la créature</td></tr></table>
+
 </center>
 #### Action
 Il faut 10 minutes de contemplation ininterrompue pour lire la bonne fortune de la créature, qui doit être présente.
@@ -219,21 +141,9 @@ Une fois par jour, le personnage peut suivre les mouvements d’une baguette de 
 *Trouver des métaux et des gemmes*. Le personnage se concentre sur un minerai ou un métal spécifique. S’il réussit son test, la baguette de sourcier pointe vers le plus gros dépôt de cette ressource situé à portée.
 
 <center>
-{| CLASS="tablo" WIDTH="50%"
-|+ DD aux tests de Survie assistés par une Baguette de sourcier
-|- CLASS="titre"
-| Cible de la recherche
-| DD de base du test
-|- CLASS="premier"
-| Eau
-| CLASS="gauche" | 15
-|- CLASS="alt"
-| Tombe
-| CLASS="gauche" | 20
-|-
-| Métaux et gemmes
-| CLASS="gauche" | 25
-|}
+
+<table CLASS="tablo" WIDTH="50%"><caption>DD aux tests de Survie assistés par une Baguette de sourcier</caption><tr CLASS="titre"><td>Cible de la recherche</td><td>DD de base du test</td></tr><tr CLASS="premier"><td>Eau</td><td CLASS="gauche">15</td></tr><tr CLASS="alt"><td>Tombe</td><td CLASS="gauche">20</td></tr><tr><td>Métaux et gemmes</td><td CLASS="gauche">25</td></tr></table>
+
 </center>
 #### Action
 Il faut 10 minutes pour initier les recherches, le résultat du test persiste ensuite pendant 10 autres minutes.

@@ -37,15 +37,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de termite
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Nuée de termites]] || 6
-|-
-| [[Termite géant]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de termite</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de termites]]</td><td>6</td></tr><tr><td>[[Termite géant]]</td><td>3</td></tr></table>
+
 </div>*Cet insecte de la taille d’un poney a de longues mandibules noires et un abdomen blanc strié.*
 
 Les termites géants sont des insectes fouisseurs grégaires qui créent d’immenses termitières de terre, aussi grandes que des cathédrales, pour abriter leurs immenses colonies. Chaque colonie se divise en plusieurs groupes, chacun chargé d’une tâche particulière comme la chasse du gibier ou la récolte de terre et d’argile pour agrandir leur termitière. Ce sont des nuisibles destructeurs qui dévorent la matière végétale et détruisent les structures de bois, mais ils mangent aussi de la viande si une créature interfère avec leur cycle de démolition et de construction. Les termites utilisent également leur acide pour transformer les animaux en colle ensuite utilisée pour renforcer la termitière.

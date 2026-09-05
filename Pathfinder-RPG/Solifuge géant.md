@@ -35,51 +35,16 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de solifuge
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Solifuge albinos des cavernes]] || 4
-|-
-| [[Solifuge géant]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de solifuge</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Solifuge albinos des cavernes]]</td><td>4</td></tr><tr><td>[[Solifuge géant]]</td><td>1</td></tr></table>
+
 </div>*Cette créature brun clair ressemble à une araignée à dix pattes. Ses mâchoires hypertrophiées s’agitent lentement en-dessous de ses yeux perçants.*
 
 Les solifuges, qu’on appelle parfois « scorpions du vent », « araignées fuyant le soleil » ou « araignées-chameaux », ne sont pourtant ni des araignées ni des scorpions, mais bien une espèce d'arachnide à part. Ils possèdent, près de leur tête, de grands pédipalpes qu’ils utilisent pour saisir et retenir leur proie pendant qu’ils se nourrissent à l’aide de leurs deux mandibules verticales. Quand ils chassent en groupe, ils préfèrent s’attaquer à des proies que d’autres solifuges ont déjà agrippés. En règle générale, les diverses espèces de solifuges géants possèdent huit pattes, mais leurs deux appendices avant sont suffisamment grands pour qu’on puisse facilement les prendre pour une paire de pattes supplémentaire. Certaines espèces, comme le solifuge albinos des cavernes, possèdent moins de pattes mais toutes agressives.
 La table qui suit reprend les variantes les plus communes (après les deux qui sont présentées ici). Plusieurs de ces espèces possèdent des capacités uniques, comme le solifuge à bouche tranchante qui peut infliger de terribles blessures sanglantes à ses victimes :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| class="gauche" | Espèce
-| FP
-| Taille
-| DV
-|- CLASS="premier"
-| class="gauche" | Solifuge mangeur de chien
-| 1/2
-| TP
-| 1d8
-|- CLASS="alt"
-| class="gauche" | Solifuge "terreur jaune"
-| 8
-| G
-| 10d8
-|- CLASS
-| class="gauche" | Solifuge à bouche tranchante
-| 11
-| TG
-| 13d8
-|- CLASS="alt"
-| class="gauche" | Solifuge banshie
-| 15
-| Gig
-| 16d8
-|- CLASS
-| class="gauche" | Solifuge "tremble-dunes"
-| 18
-| Col
-| 20d8
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">Solifuge mangeur de chien</td><td>1/2</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td class="gauche">Solifuge "terreur jaune"</td><td>8</td><td>G</td><td>10d8</td></tr><tr CLASS><td class="gauche">Solifuge à bouche tranchante</td><td>11</td><td>TG</td><td>13d8</td></tr><tr CLASS="alt"><td class="gauche">Solifuge banshie</td><td>15</td><td>Gig</td><td>16d8</td></tr><tr CLASS><td class="gauche">Solifuge "tremble-dunes"</td><td>18</td><td>Col</td><td>20d8</td></tr></table></center>
+
 </div></td></tr></table>

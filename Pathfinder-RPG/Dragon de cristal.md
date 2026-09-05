@@ -31,17 +31,9 @@ Categories:
 {s:BDTexte|**Tranchant comme un rasoir (Ext).** Toutes les attaques naturelles d’un dragon de cristal infligent des dégâts de type tranchant.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de cristal
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon de cristal]] || &nbsp; || 6
-|-
-| [[Dragon de cristal adulte]] || &nbsp; || 10
-|-
-| [[Dragon de cristal vénérable]] || &nbsp; || 15
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de cristal</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de cristal]]</td><td>&nbsp;</td><td>6</td></tr><tr><td>[[Dragon de cristal adulte]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon de cristal vénérable]]</td><td>&nbsp;</td><td>15</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*Ce dragon de couleur brillante a des écailles, des dents et des griffes en cristal multicolore et ses ailes sont des pans de verre flexibles.*
 
 Les dragons de cristal sont généralement de nature
@@ -63,34 +55,8 @@ rangés : les dragons de cristal trouvent l’idée classique d’un butin
 draconique empilé sans ordre plutôt honteuse.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité contre le son, tranchant comme un rasoir || —
-|- CLASS="alt"
-| Très jeune || *[[couleurs dansantes]]* || —
-|-
-| Jeune || perception des vibrations || —
-|- CLASS="alt"
-| Adolescent || *[[poussière scintillante]]* || —
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || —
-|- CLASS="alt"
-| Adulte || *[[lueur darc-en-ciel|lueur d’arc-en-ciel]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]] || 1
-|-
-| Âge mûr || [[RD]] 10/magie || 3
-|- CLASS="alt"
-| Vieux || *[[transmutation de la pierre en chair]]* || 5
-|-
-| Très vieux || [[RD]] 15/magie || 7
-|- CLASS="alt"
-| Vénérable || *[[rayons prismatiques]]*, réflexion des rayons || 9
-|-
-| Dracosire || [[RD]] 20/magie || 11
-|- CLASS="alt"
-| Grand dracosire || aura scintillante, *[[emprisonnement]]* || 13
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité contre le son, tranchant comme un rasoir</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[couleurs dansantes]]*</td><td>—</td></tr><tr><td>Jeune</td><td>perception des vibrations</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[poussière scintillante]]*</td><td>—</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>—</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[lueur darc-en-ciel|lueur d’arc-en-ciel]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>1</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>3</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[transmutation de la pierre en chair]]*</td><td>5</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[rayons prismatiques]]*, réflexion des rayons</td><td>9</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>11</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>aura scintillante, *[[emprisonnement]]*</td><td>13</td></tr></table>
+
 </center>
 </div></td></tr></table>

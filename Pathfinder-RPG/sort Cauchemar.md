@@ -31,34 +31,16 @@ Le *cauchemar* empêche la cible d’atteindre la phase de sommeil réparateur e
 Le [[DD|degré de difficulté]] du [[jet de sauvegarde]] dépend de ce que le lanceur de sorts sait de sa victime et du lien physique dont il dispose (le cas échéant).
 
 <table width="100%"><tr><td width="49%">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Connaissances || Modificateur au  
-jet de Volonté
-|- CLASS="premier"
-| Aucune* || +10
-|-
-| Le personnage a entendu parler du sujet || +5
-|-
-| Le personnage a déjà rencontré le sujet || +0
-|-
-| Le personnage connaît bien le sujet || -5
-|- CLASS="note"
-| COLSPAN="2" | *(*) Il est essentiel de posséder un lien avec une créature que l’on ne connaît pas.*
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Connaissances</td><td>Modificateur au  
+jet de Volonté</td></tr><tr CLASS="premier"><td>Aucune*</td><td>+10</td></tr><tr><td>Le personnage a entendu parler du sujet</td><td>+5</td></tr><tr><td>Le personnage a déjà rencontré le sujet</td><td>+0</td></tr><tr><td>Le personnage connaît bien le sujet</td><td>-5</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Il est essentiel de posséder un lien avec une créature que l’on ne connaît pas.*</td></tr></table>
+
 </td><td width="2%">
 </td><td width="49%">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Lien || Modificateur au  
-jet de Volonté
-|- CLASS="premier"
-| Portrait || -2
-|-
-| Possession ou vêtement || -4
-|-
-| Dent, mèche de cheveux, rognures d’ongles, etc. || -10
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Lien</td><td>Modificateur au  
+jet de Volonté</td></tr><tr CLASS="premier"><td>Portrait</td><td>-2</td></tr><tr><td>Possession ou vêtement</td><td>-4</td></tr><tr><td>Dent, mèche de cheveux, rognures d’ongles, etc.</td><td>-10</td></tr></table>
+
 </td></tr></table>
 
 Si *[[rejet du Mal]]* est lancé sur la cible alors que le personnage lance *cauchemar*, celui-ci est automatiquement dissipé et le personnage est [[étourdi]] pendant dix minutes par [[NLS|niveau de lanceur de sorts]] de celui qui a incanté *[[rejet du Mal]]*.

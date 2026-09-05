@@ -12,147 +12,22 @@ Voir les [[Engins de siège|règles relatives aux engins de siège]], ainsi que 
 
 
 ### Les engins de siège à tir direct
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|+ Tableau récapitulatif des engins de siège de siège à tir direct
-|- CLASS="titre"
-| [[Engins de siège#ENGINSADISTANCE|Engins de siège à tir direct]] || Prix || Dégâts || [[Engins de siège#CRITIQUE|Critique]] || [[Engins de siège##PORTEE|Portée]] || [[Engins de siège#TYPE|Type]]<sup>[[Tableau récapitulatif des engins de siège#NOTE1|1]]</sup> || [[Engins de siège#EQUIPE|Équipe]] || [[Engins de siège#VISER|Viser]] || [[Engins de siège#CHARGEMENT|Chargement]] || [[Engins de siège#VITESSE|Vitesse]]
-|- CLASS="premier"
-| COLSPAN="10" | **ENGINS DE SIÈGE DE TAILLE G**
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Baliste|Baliste légère]] || 500 po || 3d8 || 19-20/×2 || 36 m || P || 1 || 0 || 2 || 3 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Canon|Canon]] || 6 000 po || 6d6 || ×4 || 30 m || C et P || 2 || 1 || 3 || 3 m
-|- CLASS="premier"
-| COLSPAN="10" | **ENGINS DE SIÈGE DE TAILLE TG**
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Baliste|Baliste lourde]] || 800 po || 4d8 || 19-20/×2 || 50 m || P || 3 || 3 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Canongueuledefiélon|Canon gueule de fiélon]] || 9 000 po || 8d6 || ×4 || 45 m || C et P || 3 || 1 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Drakedefeu|Drake de feu]] || 4 000 po || 6d6 || – || – || Feu || 3 || 2 || 5 || 3 m
-|- CLASS="premier"
-| COLSPAN="10" | **ENGINS DE SIÈGE DE TAILLE GIG**
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Baliste|Baliste briseuse de porte]] || 1 200 po || 6d8 || 19-20/×2 || 30 m || C || 5 || 3 || 5 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Dragondefeu|Dragon de feu]] || 6 000 po || 6d6 || – || – || Feu || 5 || 2 || 6 || 0 m
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>Tableau récapitulatif des engins de siège de siège à tir direct</caption><tr CLASS="titre"><td>[[Engins de siège#ENGINSADISTANCE|Engins de siège à tir direct]]</td><td>Prix</td><td>Dégâts</td><td>[[Engins de siège#CRITIQUE|Critique]]</td><td>[[Engins de siège##PORTEE|Portée]]</td><td>[[Engins de siège#TYPE|Type]]<sup>[[Tableau récapitulatif des engins de siège#NOTE1|1]]</sup></td><td>[[Engins de siège#EQUIPE|Équipe]]</td><td>[[Engins de siège#VISER|Viser]]</td><td>[[Engins de siège#CHARGEMENT|Chargement]]</td><td>[[Engins de siège#VITESSE|Vitesse]]</td></tr><tr CLASS="premier"><td COLSPAN="10">**ENGINS DE SIÈGE DE TAILLE G**</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Baliste|Baliste légère]]</td><td>500 po</td><td>3d8</td><td>19-20/×2</td><td>36 m</td><td>P</td><td>1</td><td>0</td><td>2</td><td>3 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Canon|Canon]]</td><td>6 000 po</td><td>6d6</td><td>×4</td><td>30 m</td><td>C et P</td><td>2</td><td>1</td><td>3</td><td>3 m</td></tr><tr CLASS="premier"><td COLSPAN="10">**ENGINS DE SIÈGE DE TAILLE TG**</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Baliste|Baliste lourde]]</td><td>800 po</td><td>4d8</td><td>19-20/×2</td><td>50 m</td><td>P</td><td>3</td><td>3</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Canongueuledefiélon|Canon gueule de fiélon]]</td><td>9 000 po</td><td>8d6</td><td>×4</td><td>45 m</td><td>C et P</td><td>3</td><td>1</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Drakedefeu|Drake de feu]]</td><td>4 000 po</td><td>6d6</td><td>–</td><td>–</td><td>Feu</td><td>3</td><td>2</td><td>5</td><td>3 m</td></tr><tr CLASS="premier"><td COLSPAN="10">**ENGINS DE SIÈGE DE TAILLE GIG**</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Baliste|Baliste briseuse de porte]]</td><td>1 200 po</td><td>6d8</td><td>19-20/×2</td><td>30 m</td><td>C</td><td>5</td><td>3</td><td>5</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Dragondefeu|Dragon de feu]]</td><td>6 000 po</td><td>6d6</td><td>–</td><td>–</td><td>Feu</td><td>5</td><td>2</td><td>6</td><td>0 m</td></tr></table>
+
 
 ### Les engins de siège à tir indirect
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|+ Tableau récapitulatif des engins de siège de siège à tir indirect
-|- CLASS="titre"
-| [[Engins de siège#ENGINSADISTANCE|Engins de siège à tir indirect]] || Prix || Dégâts || [[Engins de siège#CRITIQUE|Critique]] || [[Engins de siège#PORTEE|Portée]] || [[Engins de siège#TYPE|Type]]<sup>[[Tableau récapitulatif des engins de siège#NOTE1|1]]</sup> || [[Engins de siège#EQUIPE|Équipe]] || [[Engins de siège#VISER|Viser]] || [[Engins de siège#CHARGEMENT|Chargement]] || [[Engins de siège#VITESSE|Vitesse]]
-|- CLASS="premier"
-| COLSPAN="10" | **ENGINS DE SIÈGE DE TAILLE G**
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Bombarde|Bombarde légère]] || 6 000 po || 5d6 || ×4 || 30 m (15 m min) || C et P || 2 || 1 || 3 || 3 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Catapulte|Catapulte légère]] || 550 po || 4d6 || ×2 || 45 m (15 m min) || C || 2 || 2 || 3 || 3 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Trébuchet|Trébuchet léger]] || 800 po || 4d6 || ×2 || 60 m (30 m min) || C || 3 || 2 || 3 || 0 m
-|-
-|- CLASS="premier"
-| COLSPAN="10" | **ENGINS DE SIÈGE DE TAILLE TG**
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Bombarde|Bombarde standard]] || 8 000 po || 7d6 || ×4 || 45 m (30 m min) || C et P || 2 || 1 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Catapulte|Catapulte standard]] || 800 po || 6d6 || ×2 || 60 m (30 m min) || C || 3 || 2 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Onagre|Onagre, boulets]] || 6 000 po || 3d10 || ×4 || 30 m (15 m min) || feu || 3 || 2 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Onagre|Onagre, flèche]] || 1 000 po || 3d8 || ×3 || 30 m (15 m min) || P || 3 || 2 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Trébuchet|Trébuchet standard]] || 1 000 po || 6d6 || ×2 || 90 m (45 m min) || C || 4 || 2 || 3 || 0 m
-|- CLASS="premier"
-| COLSPAN="10" | **ENGINS DE SIÈGE DE TAILLE GIG**
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Bombarde|Bombarde lourde]] || 16 000 po || 9d6 || ×4 || 60 m (30 m min) || C et P || 4 || 3 || 5 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Catapulte|Catapulte lourde]] || 1 000 po || 8d6 || ×2 || 90 m (30 m min) || C || 4 || 3 || 3 || 0 m
-|-
-| &emsp;[[Descriptions individuelles des engins de siège#Trébuchet|Trébuchet lourd]] || 1 500 po || 8d6 || ×2 || 120 m (60 m min) || C || 4 || 3 || 3 || 0 m
-|-
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>Tableau récapitulatif des engins de siège de siège à tir indirect</caption><tr CLASS="titre"><td>[[Engins de siège#ENGINSADISTANCE|Engins de siège à tir indirect]]</td><td>Prix</td><td>Dégâts</td><td>[[Engins de siège#CRITIQUE|Critique]]</td><td>[[Engins de siège#PORTEE|Portée]]</td><td>[[Engins de siège#TYPE|Type]]<sup>[[Tableau récapitulatif des engins de siège#NOTE1|1]]</sup></td><td>[[Engins de siège#EQUIPE|Équipe]]</td><td>[[Engins de siège#VISER|Viser]]</td><td>[[Engins de siège#CHARGEMENT|Chargement]]</td><td>[[Engins de siège#VITESSE|Vitesse]]</td></tr><tr CLASS="premier"><td COLSPAN="10">**ENGINS DE SIÈGE DE TAILLE G**</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Bombarde|Bombarde légère]]</td><td>6 000 po</td><td>5d6</td><td>×4</td><td>30 m (15 m min)</td><td>C et P</td><td>2</td><td>1</td><td>3</td><td>3 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Catapulte|Catapulte légère]]</td><td>550 po</td><td>4d6</td><td>×2</td><td>45 m (15 m min)</td><td>C</td><td>2</td><td>2</td><td>3</td><td>3 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Trébuchet|Trébuchet léger]]</td><td>800 po</td><td>4d6</td><td>×2</td><td>60 m (30 m min)</td><td>C</td><td>3</td><td>2</td><td>3</td><td>0 m</td></tr><tr CLASS="premier"><td COLSPAN="10">**ENGINS DE SIÈGE DE TAILLE TG**</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Bombarde|Bombarde standard]]</td><td>8 000 po</td><td>7d6</td><td>×4</td><td>45 m (30 m min)</td><td>C et P</td><td>2</td><td>1</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Catapulte|Catapulte standard]]</td><td>800 po</td><td>6d6</td><td>×2</td><td>60 m (30 m min)</td><td>C</td><td>3</td><td>2</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Onagre|Onagre, boulets]]</td><td>6 000 po</td><td>3d10</td><td>×4</td><td>30 m (15 m min)</td><td>feu</td><td>3</td><td>2</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Onagre|Onagre, flèche]]</td><td>1 000 po</td><td>3d8</td><td>×3</td><td>30 m (15 m min)</td><td>P</td><td>3</td><td>2</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Trébuchet|Trébuchet standard]]</td><td>1 000 po</td><td>6d6</td><td>×2</td><td>90 m (45 m min)</td><td>C</td><td>4</td><td>2</td><td>3</td><td>0 m</td></tr><tr CLASS="premier"><td COLSPAN="10">**ENGINS DE SIÈGE DE TAILLE GIG**</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Bombarde|Bombarde lourde]]</td><td>16 000 po</td><td>9d6</td><td>×4</td><td>60 m (30 m min)</td><td>C et P</td><td>4</td><td>3</td><td>5</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Catapulte|Catapulte lourde]]</td><td>1 000 po</td><td>8d6</td><td>×2</td><td>90 m (30 m min)</td><td>C</td><td>4</td><td>3</td><td>3</td><td>0 m</td></tr><tr><td>&emsp;[[Descriptions individuelles des engins de siège#Trébuchet|Trébuchet lourd]]</td><td>1 500 po</td><td>8d6</td><td>×2</td><td>120 m (60 m min)</td><td>C</td><td>4</td><td>3</td><td>3</td><td>0 m</td></tr></table>
+
 
 ### Les engins de siège d'assaut
-{| CLASS="tablo centre autoalt" WIDTH="60%"
-|+ Tableau récapitulatif des engins de siège d’assaut
-|- CLASS="titre"
-| [[Engins de siège#REGLES|Engins de siège d’assaut]] || Prix || Dégâts || [[Engins de siège#CRITIQUE|Critique]] || [[Engins de siège#TYPE|Type]]<sup>[[Tableau récapitulatif des engins de siège#NOTE1|1]]</sup> || [[Engins de siège#EQUIPE|Équipe]] || [[Engins de siège#VITESSE|Vitesse]]
-|- CLASS="premier"
-| COLSPAN="7" | [[Descriptions individuelles des engins de siège#Bélier|Bélier]]
-|-
-| &emsp;G || 500 po || 2d6 || ×3 || C || 5 || 4,50 m
-|-
-| &emsp;TG || 1 000 po || 3d6 || ×3 || C || 10 || 4,50 m
-|-
-| &emsp;Gig || 2 000 po || 6d6 || ×3 || C || 20 || 4,50 m
-|-
-| &emsp;Col || 5 000 po || 10d6 || ×3 || C || 40 || 4,50 m
-|-
-| [[Descriptions individuelles des engins de siège#Corbeau|Corbeau]] || 100 po || – || – || – || 1 || 0 m
-|-
-| COLSPAN="7" | [[Descriptions individuelles des engins de siège#Échelle|Échelle]]
-|-
-| &emsp;G || 5 po || – || – || – || 2 || comme l’équipe
-|-
-| &emsp;TG || 10 po || – || – || – || 4 || comme l’équipe
-|-
-| &emsp;Gig || 50 po || – || – || – || 6 || comme l’équipe
-|-
-| &emsp;Col || 250 po || – || – || – || 8 || comme l’équipe
-|-
-| COLSPAN="7" | [[Descriptions individuelles des engins de siège#Galerie|Galerie]]
-|-
-| &emsp;G || 250 po || – || – || – || 3 || 4,50 m
-|-
-| &emsp;TG || 500 po || – || – || – || 6 || 4,50 m
-|-
-| &emsp;Gig || 1 000 po || – || – || – || 9 || 4,50 m
-|-
-| &emsp;Col || 2 000 po || – || – || – || 18 || 4,50 m
-|-
-| COLSPAN="7" | [[Descriptions individuelles des engins de siège#Pontdassaut|Pont d’assaut]]
-|-
-| &emsp;G || 1 po || – || – || – || – || –
-|-
-| &emsp;TG || 10 po || – || – || – || – || –
-|-
-| &emsp;Gig || 50 po || – || – || – || – || –
-|-
-| &emsp;Col || 250 po || – || – || – || – || –
-|-
-| COLSPAN="7" | [[Descriptions individuelles des engins de siège#Tourdesiège|Tour de siège]]
-|-
-| &emsp;G || 1 000 po || – || – || – || 6 || 4,50 m
-|-
-| &emsp;TG || 2 000 po || – || – || – || 12 || 4,50 m
-|-
-| &emsp;Gig || 5 000 po || – || – || – || 24 || 4,50 m
-|-
-| &emsp;Col || 10 000 po || – || – || – || 48 || 4,50 m
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="60%"><caption>Tableau récapitulatif des engins de siège d’assaut</caption><tr CLASS="titre"><td>[[Engins de siège#REGLES|Engins de siège d’assaut]]</td><td>Prix</td><td>Dégâts</td><td>[[Engins de siège#CRITIQUE|Critique]]</td><td>[[Engins de siège#TYPE|Type]]<sup>[[Tableau récapitulatif des engins de siège#NOTE1|1]]</sup></td><td>[[Engins de siège#EQUIPE|Équipe]]</td><td>[[Engins de siège#VITESSE|Vitesse]]</td></tr><tr CLASS="premier"><td COLSPAN="7">[[Descriptions individuelles des engins de siège#Bélier|Bélier]]</td></tr><tr><td>&emsp;G</td><td>500 po</td><td>2d6</td><td>×3</td><td>C</td><td>5</td><td>4,50 m</td></tr><tr><td>&emsp;TG</td><td>1 000 po</td><td>3d6</td><td>×3</td><td>C</td><td>10</td><td>4,50 m</td></tr><tr><td>&emsp;Gig</td><td>2 000 po</td><td>6d6</td><td>×3</td><td>C</td><td>20</td><td>4,50 m</td></tr><tr><td>&emsp;Col</td><td>5 000 po</td><td>10d6</td><td>×3</td><td>C</td><td>40</td><td>4,50 m</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Corbeau|Corbeau]]</td><td>100 po</td><td>–</td><td>–</td><td>–</td><td>1</td><td>0 m</td></tr><tr><td COLSPAN="7">[[Descriptions individuelles des engins de siège#Échelle|Échelle]]</td></tr><tr><td>&emsp;G</td><td>5 po</td><td>–</td><td>–</td><td>–</td><td>2</td><td>comme l’équipe</td></tr><tr><td>&emsp;TG</td><td>10 po</td><td>–</td><td>–</td><td>–</td><td>4</td><td>comme l’équipe</td></tr><tr><td>&emsp;Gig</td><td>50 po</td><td>–</td><td>–</td><td>–</td><td>6</td><td>comme l’équipe</td></tr><tr><td>&emsp;Col</td><td>250 po</td><td>–</td><td>–</td><td>–</td><td>8</td><td>comme l’équipe</td></tr><tr><td COLSPAN="7">[[Descriptions individuelles des engins de siège#Galerie|Galerie]]</td></tr><tr><td>&emsp;G</td><td>250 po</td><td>–</td><td>–</td><td>–</td><td>3</td><td>4,50 m</td></tr><tr><td>&emsp;TG</td><td>500 po</td><td>–</td><td>–</td><td>–</td><td>6</td><td>4,50 m</td></tr><tr><td>&emsp;Gig</td><td>1 000 po</td><td>–</td><td>–</td><td>–</td><td>9</td><td>4,50 m</td></tr><tr><td>&emsp;Col</td><td>2 000 po</td><td>–</td><td>–</td><td>–</td><td>18</td><td>4,50 m</td></tr><tr><td COLSPAN="7">[[Descriptions individuelles des engins de siège#Pontdassaut|Pont d’assaut]]</td></tr><tr><td>&emsp;G</td><td>1 po</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td>&emsp;TG</td><td>10 po</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td>&emsp;Gig</td><td>50 po</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td>&emsp;Col</td><td>250 po</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr><tr><td COLSPAN="7">[[Descriptions individuelles des engins de siège#Tourdesiège|Tour de siège]]</td></tr><tr><td>&emsp;G</td><td>1 000 po</td><td>–</td><td>–</td><td>–</td><td>6</td><td>4,50 m</td></tr><tr><td>&emsp;TG</td><td>2 000 po</td><td>–</td><td>–</td><td>–</td><td>12</td><td>4,50 m</td></tr><tr><td>&emsp;Gig</td><td>5 000 po</td><td>–</td><td>–</td><td>–</td><td>24</td><td>4,50 m</td></tr><tr><td>&emsp;Col</td><td>10 000 po</td><td>–</td><td>–</td><td>–</td><td>48</td><td>4,50 m</td></tr></table>
+
 
 {s:Reference|NOTE1}*(1) Une arme qui possède deux types séparés d’un « et » inflige les deux sortes de dégâts à la fois.*
 
 ### Les munitions d'engins de siège
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Les munitions spéciales pour engin de siège
-|- CLASS="titre"
-| Munition  || Prix || Poids
-|- CLASS="premier"
-| [[Descriptions individuelles des engins de siège#Ballotpestiféré|Ballot pestiféré]] || 80 po || 10 kg
-|-
-| [[Descriptions individuelles des engins de siège#Bombe|Bombe]] || 600 po || 15 kg
-|-
-| [[Descriptions individuelles des engins de siège#Feugrégeois|Feu grégeois]] || 200 po || 5 kg
-|-
-| [[Descriptions individuelles des engins de siège#Fumée|Fumée]] || 250 po || 10 kg
-|-
-| [[Descriptions individuelles des engins de siège#Glaceliquide|Glace liquide]] || 400 po || 10 kg
-|-
-| [[Descriptions individuelles des engins de siège#Tirdechaîne|Tir de chaîne]] || 50 po || 15 kg
-|-
-| [[Descriptions individuelles des engins de siège#Tirdeferaille|Tir de ferraille]] || 30 po || 12,5 kg
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Les munitions spéciales pour engin de siège</caption><tr CLASS="titre"><td>Munition</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Descriptions individuelles des engins de siège#Ballotpestiféré|Ballot pestiféré]]</td><td>80 po</td><td>10 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Bombe|Bombe]]</td><td>600 po</td><td>15 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Feugrégeois|Feu grégeois]]</td><td>200 po</td><td>5 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Fumée|Fumée]]</td><td>250 po</td><td>10 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Glaceliquide|Glace liquide]]</td><td>400 po</td><td>10 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Tirdechaîne|Tir de chaîne]]</td><td>50 po</td><td>15 kg</td></tr><tr><td>[[Descriptions individuelles des engins de siège#Tirdeferaille|Tir de ferraille]]</td><td>30 po</td><td>12,5 kg</td></tr></table>

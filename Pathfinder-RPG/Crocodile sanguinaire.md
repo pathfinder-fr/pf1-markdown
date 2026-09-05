@@ -40,15 +40,9 @@ Categories:
 {s:BDTexte|**Tournoiement mortel (Ext)** Lorsqu'un crocodile a [[agrippé]] un ennemi de taille inférieure ou égale à la sienne, il peut effectuer un "tournoiement mortel" en réussissant un test de [[lutte]]. Tout en restant attaché à sa victime, il recroqueville ses pattes puis tourne rapidement sur lui-même, agitant sa prise dans tous les sens. Le crocodile inflige des dégâts de morsure et met son adversaire [[à terre]]. En cas de réussite, il maintient sa prise.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crocodile
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Crocodile]] || 2
-|-
-| [[Crocodile sanguinaire]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crocodile</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Crocodile]]</td><td>2</td></tr><tr><td>[[Crocodile sanguinaire]]</td><td>9</td></tr></table>
+
 </div>*Ce mastodonte reptilien, un crocodile de taille monstrueuse, semble assez grand pour avaler un cheval d’une seule bouchée.*
 
 L’immense sarcosuchus ou crocodile sanguinaire est un prédateur

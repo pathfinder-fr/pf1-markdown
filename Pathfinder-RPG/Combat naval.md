@@ -54,27 +54,9 @@ Un bateau équipé d’un véritable éperon inflige 3d6 points de dégâts supp
 Le navire coule si ses points de vie tombent à 0 ou moins. Un navire qui fait naufrage ne peut pas se déplacer ni attaquer et disparaît sous les flots 10 [[round|rounds]] après le début du naufrage. Tout dégâts infligé à un navire qui coule réduit le temps qu’il met à s’enfoncer, à raison de 1 [[round]] par tranche de 25 points de dégâts. Les sorts comme *[[réparation intégrale]]* restaurent un navire en perdition s’ils remontent son total de points de vie au‑dessus de 0. Dans ce cas, le navire ne coule plus. En général, les réparations ordinaires sont trop lentes pour sauver un navire une fois qu’il a commencé à couler.
 
 <center>
-{| CLASS="tablo"
-|+ Les profils des bateaux
-|- CLASS="titre"
-| Type de bateau || CA || PV || Jet de sauvegarde || Vitesse max || Armes || Éperon || Cases || Équipage
-|- CLASS="premier"
-| Radeau || 9 || 10 || +0 || 4.5 m (3 {s:c}) || 0 || 1D6 || 1 || 1/4
-|- CLASS="alt"
-| Barque || 9 || 20 || +2 || 9 m (6 {s:c}) || 1 || 2D6 || 1 || 1/3
-|-
-| Péniche || 8 || 60 || +4 || 9 m* (6 {s:c}) || 1 || 2D6+6 || 2 || 4/15+100
-|- CLASS="alt"
-| Drakkar || 6 || 75 || +2 || 18 m* (12 {s:c}) || 1 || 4D6+18 || 3 || 50-75+100
-|-
-| Voilier || 2 || 125 || +6 || 18 m* (12 {s:c}) || 2 || 3D6+12 || 4 || 60/80+160
-|- CLASS="alt"
-| Navire de guerre || 2 || 175 || +7 || 18 m* (12 {s:c}) || 3 || 3D6+12 || 4 || 60/80+160
-|-
-| Galère || 2 || 200 || +8 || 21 m* (14 {s:c}) || 2 || 6d6+24 || 4 || 200/250+200
-|-
-| * voiles uniquement
-|}
+
+<table CLASS="tablo"><caption>Les profils des bateaux</caption><tr CLASS="titre"><td>Type de bateau</td><td>CA</td><td>PV</td><td>Jet de sauvegarde</td><td>Vitesse max</td><td>Armes</td><td>Éperon</td><td>Cases</td><td>Équipage</td></tr><tr CLASS="premier"><td>Radeau</td><td>9</td><td>10</td><td>+0</td><td>4.5 m (3 {s:c})</td><td>0</td><td>1D6</td><td>1</td><td>1/4</td></tr><tr CLASS="alt"><td>Barque</td><td>9</td><td>20</td><td>+2</td><td>9 m (6 {s:c})</td><td>1</td><td>2D6</td><td>1</td><td>1/3</td></tr><tr><td>Péniche</td><td>8</td><td>60</td><td>+4</td><td>9 m* (6 {s:c})</td><td>1</td><td>2D6+6</td><td>2</td><td>4/15+100</td></tr><tr CLASS="alt"><td>Drakkar</td><td>6</td><td>75</td><td>+2</td><td>18 m* (12 {s:c})</td><td>1</td><td>4D6+18</td><td>3</td><td>50-75+100</td></tr><tr><td>Voilier</td><td>2</td><td>125</td><td>+6</td><td>18 m* (12 {s:c})</td><td>2</td><td>3D6+12</td><td>4</td><td>60/80+160</td></tr><tr CLASS="alt"><td>Navire de guerre</td><td>2</td><td>175</td><td>+7</td><td>18 m* (12 {s:c})</td><td>3</td><td>3D6+12</td><td>4</td><td>60/80+160</td></tr><tr><td>Galère</td><td>2</td><td>200</td><td>+8</td><td>21 m* (14 {s:c})</td><td>2</td><td>6d6+24</td><td>4</td><td>200/250+200</td></tr><tr><td>* voiles uniquement</td></tr></table>
+
 </center>
 
 

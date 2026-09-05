@@ -87,19 +87,9 @@ Cette réponse est d’abord apparue dans le [Paizo blog du 25/9/2012](https://p
 Les diverses combinaisons possibles sont résumées ci-dessous :
 
 <center>
-{| CLASS="tablo"
-|+ Malus liés au combat à deux armes
-|- CLASS="titre"
-| Circonstances || Main directrice || Main non directrice
-|- CLASS="premier"
-| Malus normaux || -6 || -10
-|- CLASS="alt"
-| Arme légère dans la main non directrice || -4 || -8
-|-
-| Don de [[Combat à deux armes]] || -4 || -4
-|- CLASS="alt"
-| Arme légère dans la main non directrice et don de [[Combat à deux armes]] || -2 || -2
-|}
+
+<table CLASS="tablo"><caption>Malus liés au combat à deux armes</caption><tr CLASS="titre"><td>Circonstances</td><td>Main directrice</td><td>Main non directrice</td></tr><tr CLASS="premier"><td>Malus normaux</td><td>-6</td><td>-10</td></tr><tr CLASS="alt"><td>Arme légère dans la main non directrice</td><td>-4</td><td>-8</td></tr><tr><td>Don de [[Combat à deux armes]]</td><td>-4</td><td>-4</td></tr><tr CLASS="alt"><td>Arme légère dans la main non directrice et don de [[Combat à deux armes]]</td><td>-2</td><td>-2</td></tr></table>
+
 </center>
 
 **Arme double.** Le personnage peut utiliser une arme double pour porter une attaque supplémentaire avec la tête qu’il tient dans sa main non-directrice, comme s’il utilisait deux armes. Il subit les mêmes malus que s’il utilisait une arme secondaire légère dans sa main non-directrice.

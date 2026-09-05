@@ -40,19 +40,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de fourmi
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Fourmi chevalière]] || 4
-|-
-| [[Fourmi géante]] || 2
-|-
-| [[Fourmi mégapon]] || 6
-|-
-| [[Nuée de fourmis soldats]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de fourmi</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Fourmi chevalière]]</td><td>4</td></tr><tr><td>[[Fourmi géante]]</td><td>2</td></tr><tr><td>[[Fourmi mégapon]]</td><td>6</td></tr><tr><td>[[Nuée de fourmis soldats]]</td><td>5</td></tr></table>
+
 </div>*Un tapis de fourmis se tortille sur le sol, ravageant tout ce qui se trouve sur son passage.*
 
 Les nuées de fourmis soldats n’ont pas volé leur réputation : ces armées de fourmis guerrières constamment en mouvement dévorent tout ce qui se met en travers de leur route et sèment la destruction.

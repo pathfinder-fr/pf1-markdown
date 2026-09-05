@@ -39,24 +39,6 @@ Si un contact est réussi , lancez 1d100 et référez vous à la table pour dét
 - **Mensonge.** L’entité ment délibérément.
 - **Réponse aléatoire.** L’entité ne connaît pas la réponse, mais essaie de duper le personnage et en invente une.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Plan contacté || Éviter diminution   
-Int/Cha || Réponse exacte || Réponse inconnue || Mensonge || Réponse aléatoire
-|- CLASS="premier"
-| [[plans|Plan Élémentaire]] || [[DD]] 7/1 semaine || 01–34 || 35–62 || 63–83 || 84–00
-|-
-| [[plans|Plan positif]]/[[plans|négatif]] || [[DD]] 8/1 semaine || 01–39 || 40–65 || 66–86 || 87–00
-|-
-| [[plans|Plan Astral]] || [[DD]] 9/1 semaine || 01–44 || 45–67 || 68–88 || 89–00
-|-
-| [[plans|Plan extérieur]], demi-dieu || [[DD]] 10/2 semaines || 01–49 || 50–70 || 71–91 || 92–00
-|-
-| [[plans|Plan extérieur]], dieu mineur || [[DD]] 12/3 semaines || 01–60 || 61–75 || 76–95 || 96–00
-|-
-| [[plans|Plan extérieur]], dieu intermédiaire* || [[DD]] 14/4 semaines || 01–73 || 74–81 || 82–98 || 99–00
-|-
-| [[plans|Plan extérieur]], dieu supérieur || [[DD]] 16/5 semaines || 01–88 || 89–90 || 91–99 || 00
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE1}*(*) Quand le personnage contacte les [[plans|plans extérieurs]] du cadre de campagne officiel de Pathfinder, consultez la ligne des dieux intermédiaires.*
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Plan contacté</td><td>Éviter diminution   
+Int/Cha</td><td>Réponse exacte</td><td>Réponse inconnue</td><td>Mensonge</td><td>Réponse aléatoire</td></tr><tr CLASS="premier"><td>[[plans|Plan Élémentaire]]</td><td>[[DD]] 7/1 semaine</td><td>01–34</td><td>35–62</td><td>63–83</td><td>84–00</td></tr><tr><td>[[plans|Plan positif]]/[[plans|négatif]]</td><td>[[DD]] 8/1 semaine</td><td>01–39</td><td>40–65</td><td>66–86</td><td>87–00</td></tr><tr><td>[[plans|Plan Astral]]</td><td>[[DD]] 9/1 semaine</td><td>01–44</td><td>45–67</td><td>68–88</td><td>89–00</td></tr><tr><td>[[plans|Plan extérieur]], demi-dieu</td><td>[[DD]] 10/2 semaines</td><td>01–49</td><td>50–70</td><td>71–91</td><td>92–00</td></tr><tr><td>[[plans|Plan extérieur]], dieu mineur</td><td>[[DD]] 12/3 semaines</td><td>01–60</td><td>61–75</td><td>76–95</td><td>96–00</td></tr><tr><td>[[plans|Plan extérieur]], dieu intermédiaire*</td><td>[[DD]] 14/4 semaines</td><td>01–73</td><td>74–81</td><td>82–98</td><td>99–00</td></tr><tr><td>[[plans|Plan extérieur]], dieu supérieur</td><td>[[DD]] 16/5 semaines</td><td>01–88</td><td>89–90</td><td>91–99</td><td>00</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE1}*(*) Quand le personnage contacte les [[plans|plans extérieurs]] du cadre de campagne officiel de Pathfinder, consultez la ligne des dieux intermédiaires.*</td></tr></table>

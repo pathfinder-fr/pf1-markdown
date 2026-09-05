@@ -23,31 +23,9 @@ Categories:
 
 Le personnage souffle une bouffée d'énergie. Les créatures situées dans la zone d'effet reçoivent 1d6 points de dégâts d'énergie par [[NLS|niveau de lanceur de sorts]] (12d6 au maximum). Un jet de [[Réflexes]] réduit les dégâts de moitié. L'effet du sort et le type d'énergie dépendent du type d'écaille de dragon utilisé.
 
-{| CLASS="tablo centre"
-|- CLASS="titre"
-| Type de dragon || Effet
-|- CLASS="premier"
-| CLASS="gauche" | Dragon noir
-| CLASS="gauche" | ligne d'acide de 18 mètres (12 {s:c}).
-|- CLASS="alt"
-| CLASS="gauche" | Dragon bleu ou bronze
-| CLASS="gauche" | ligne d'électricité de 18 mètres (12 {s:c}).
-|-
-| CLASS="gauche" | Dragon vert
-| CLASS="gauche" | cône d'acide de 9 mètres (6 {s:c}).
-|- CLASS="alt"
-| CLASS="gauche" | Dragon rouge ou or
-| CLASS="gauche" | cône de feu de 9 mètres (6 {s:c}).
-|-
-| CLASS="gauche" | Dragon blanc ou argent
-| CLASS="gauche" | cône de froid de 9 mètres (6 {s:c}).
-|- CLASS="alt"
-| CLASS="gauche" | Dragon d'airain
-| CLASS="gauche" | ligne de feu de 18 mètres (12 {s:c}).
-|-
-| CLASS="gauche" | Dragon de cuivre
-| CLASS="gauche" | ligne d'acide de 18 mètres (12 {s:c}).
-|}
+
+<table CLASS="tablo centre"><tr CLASS="titre"><td>Type de dragon</td><td>Effet</td></tr><tr CLASS="premier"><td CLASS="gauche">Dragon noir</td><td CLASS="gauche">ligne d'acide de 18 mètres (12 {s:c}).</td></tr><tr CLASS="alt"><td CLASS="gauche">Dragon bleu ou bronze</td><td CLASS="gauche">ligne d'électricité de 18 mètres (12 {s:c}).</td></tr><tr><td CLASS="gauche">Dragon vert</td><td CLASS="gauche">cône d'acide de 9 mètres (6 {s:c}).</td></tr><tr CLASS="alt"><td CLASS="gauche">Dragon rouge ou or</td><td CLASS="gauche">cône de feu de 9 mètres (6 {s:c}).</td></tr><tr><td CLASS="gauche">Dragon blanc ou argent</td><td CLASS="gauche">cône de froid de 9 mètres (6 {s:c}).</td></tr><tr CLASS="alt"><td CLASS="gauche">Dragon d'airain</td><td CLASS="gauche">ligne de feu de 18 mètres (12 {s:c}).</td></tr><tr><td CLASS="gauche">Dragon de cuivre</td><td CLASS="gauche">ligne d'acide de 18 mètres (12 {s:c}).</td></tr></table>
+
 
 ### Mythique
 {s:CMy}

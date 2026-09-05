@@ -14,53 +14,9 @@ Categories:
 Les gardiens de la nature sont généralement des druides ou des rôdeurs/druides mais il arrive que des rôdeurs/prêtres du domaine de la Faune ou même des rôdeurs de haut niveau monoclassés ou multiclassés empruntent cette voie.''
 
 <center>
-{| CLASS="tablo"
-|+ Le gardien de la nature
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +1 || +1
-| CLASS="gauche" | [[Gardien de la nature#LIENAVECLECOMPAGNON|Lien avec le compagnon]], [[Gardien de la nature#EMPATHIENATURELLE|empathie naturelle]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Gardien de la nature#HARMONIEMYSTIQUE|Harmonie mystique]], [[Gardien de la nature#DEPLACEMENTAISE|déplacement aisé]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 3 || +2 || +1 || +2 || +2
-| CLASS="gauche" | [[Gardien de la nature#LANGAGEANIMAL|Langage animal]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|- CLASS="alt"
-| 4 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [[Gardien de la nature#GRIFFEDARGENT|Griffe d’argent]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 5 || +3 || +2 || +3 || +3
-| CLASS="gauche" | [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[Gardien de la nature#SURVIVANT|survivant]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +4 || +2 || +3 || +3
-| CLASS="gauche" | [[Gardien de la nature#FORGEBOIS|Forgebois]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 7 || +5 || +2 || +4 || +4
-| CLASS="gauche" | [[Gardien de la nature#INSEPARABLES|Inséparables]], [[Gardien de la nature#LANGAGEDESPLANTES|langage des plantes]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|- CLASS="alt"
-| 8 || +6 || +3 || +4 || +4
-| CLASS="gauche" | [[Gardien de la nature#PATTEDEFER|Patte de fer]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 9 || +6 || +3 || +5 || +5
-| CLASS="gauche" | [[Gardien de la nature#TERRESPROTEGEES|Terres protégées]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 10 || +7 || +3 || +5 || +5
-| CLASS="gauche" | [[Gardien de la nature#AMESOEUR|Âme sœur]], [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|}
+
+<table CLASS="tablo"><caption>Le gardien de la nature</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Gardien de la nature#LIENAVECLECOMPAGNON|Lien avec le compagnon]], [[Gardien de la nature#EMPATHIENATURELLE|empathie naturelle]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Gardien de la nature#HARMONIEMYSTIQUE|Harmonie mystique]], [[Gardien de la nature#DEPLACEMENTAISE|déplacement aisé]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Gardien de la nature#LANGAGEANIMAL|Langage animal]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Gardien de la nature#GRIFFEDARGENT|Griffe d’argent]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|Environnement de prédilection]], [[Gardien de la nature#SURVIVANT|survivant]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Gardien de la nature#FORGEBOIS|Forgebois]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Gardien de la nature#INSEPARABLES|Inséparables]], [[Gardien de la nature#LANGAGEDESPLANTES|langage des plantes]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Gardien de la nature#PATTEDEFER|Patte de fer]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Gardien de la nature#TERRESPROTEGEES|Terres protégées]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[Gardien de la nature#AMESOEUR|Âme sœur]], [[Gardien de la nature#ENVIRONNEMENTDEPREDILECTION|environnement de prédilection]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr></table>
+
 </center>
 
 **Rôle.** Le gardien de la nature est un maître des étendues sauvages et c’est dans les nombreux environnements qu’il a étudiés qu’il est au sommet de sa puissance. Il forme une dangereuse équipe avec son compagnon animal. Ce sont d’excellents éclaireurs et des combattants polyvalents,

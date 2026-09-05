@@ -23,20 +23,7 @@ La compétence de Religion permet d’identifier des monstres de type extérieur
 Le personnage peut utiliser la compétence Religion pour se remémorer des informations à propos des dieux, des traditions ecclésiastiques, des symboles sacrés, de l’histoire mythique, des plans et de la magie planaire. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus d’informations. Utilisez les [[DD]] de la table suivante pour certaines tâches.
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test de Religion
-|- CLASS="premier"
-| Connaître le nom des plans || 10
-|-
-| Reconnaître le symbole ou le clergé d’une divinité connue || 10
-|-
-| Connaître les doctrines et la mythologie connues || 15
-|-
-| Reconnaître le plan sur lequel le personnage se trouve || 15
-|-
-| Identifier l’origine planaire d’une créature || 20
-|-
-| Reconnaître le clergé ou le symbole d’une divinité peu connue || 20
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test de Religion</td></tr><tr CLASS="premier"><td>Connaître le nom des plans</td><td>10</td></tr><tr><td>Reconnaître le symbole ou le clergé d’une divinité connue</td><td>10</td></tr><tr><td>Connaître les doctrines et la mythologie connues</td><td>15</td></tr><tr><td>Reconnaître le plan sur lequel le personnage se trouve</td><td>15</td></tr><tr><td>Identifier l’origine planaire d’une créature</td><td>20</td></tr><tr><td>Reconnaître le clergé ou le symbole d’une divinité peu connue</td><td>20</td></tr></table>
+
 </center>

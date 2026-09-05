@@ -53,23 +53,9 @@ Une créature confuse a l’esprit totalement embrouillé et ne peut agir normal
 Jetez 1d100 et consultez la table suivante au début de chaque round pour déterminer les actions de la créature.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| d100
-| CLASS="gauche" | Comportement
-|- CLASS="premier"
-| 01–25
-| CLASS="gauche" | Agit normalement.
-|- CLASS="alt"
-| 26–50
-| CLASS="gauche" | Ne fait rien et babille de manière incohérente.
-|-
-| 51–75
-| CLASS="gauche" | S’inflige 1d8 points de dégâts + bonus de [[Force]] avec un objet en main.
-|- CLASS="alt"
-| 76–100
-| CLASS="gauche" | Attaque la créature la plus proche (dans ce cas, un familier fait partie du sujet).
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>d100</td><td CLASS="gauche">Comportement</td></tr><tr CLASS="premier"><td>01–25</td><td CLASS="gauche">Agit normalement.</td></tr><tr CLASS="alt"><td>26–50</td><td CLASS="gauche">Ne fait rien et babille de manière incohérente.</td></tr><tr><td>51–75</td><td CLASS="gauche">S’inflige 1d8 points de dégâts + bonus de [[Force]] avec un objet en main.</td></tr><tr CLASS="alt"><td>76–100</td><td CLASS="gauche">Attaque la créature la plus proche (dans ce cas, un familier fait partie du sujet).</td></tr></table>
+
 </center>
 
 Si un personnage confus est dans l’incapacité d’effectuer l’action tirée pour ce [[round]], il se contente de balbutier de façon incompréhensible. Si le personnage confus est attaqué, il riposte automatiquement en frappant son agresseur à son prochain tour de jeu (du moins s’il est encore confus), mais ce dernier ne tirera aucun avantage de l’état de sa victime. Un personnage confus ne porte pas d’[[attaque dopportunité|attaque d’opportunité]] quand il en a l’occasion, sauf si celle-ci est provoquée par une créature qu’il a décidé d’attaquer (par un jet de dé ou pour une riposte).

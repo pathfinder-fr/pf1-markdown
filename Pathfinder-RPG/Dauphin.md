@@ -36,15 +36,9 @@ Categories:
 {s:BDTexte|**Retenir son souffle (Ext)** Un dauphin peut retenir sa respiration pendant un nombre de minutes égal à 6 fois sa valeur de [[Constitution]] avant de risquer de se noyer.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dauphin
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Dauphin]] || 1/2
-|-
-| [[Orque épaulard]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dauphin</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Dauphin]]</td><td>1/2</td></tr><tr><td>[[Orque épaulard]]</td><td>5</td></tr></table>
+
 </div>*Ce mammifère aquatique aux formes aérodynamiques a des yeux brillants et une bouche souriante remplie de centaines de dents.*
 
 Les dauphins sont des prédateurs sociables qui se regroupent en

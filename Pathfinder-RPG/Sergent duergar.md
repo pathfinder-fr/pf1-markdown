@@ -38,38 +38,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins légers]]* (2), [[Feu grégeois (objet)|feux grégeois]] (2) ; **Équipement divers** [[crevice (armure)|crevice]], [[arbalète lourde (arme)|arbalète lourde]] avec [[Carreaux darbalète (arme)|10 carreaux]], [[Hache darmes naine (arme)|hache d’armes de nain de maître]], 9 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de duergar
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Duergar]] || 1/3
-|-
-| [[Esclavagiste duergar]] || 1/2
-|-
-| [[Tireur délite duergar|Tireur d'élite duergar]] || 1/2
-|-
-| [[Bombardier duergar]] || 1
-|-
-| [[Enclume duergar]] || 1
-|-
-| [[Sergent duergar]] || 1
-|-
-| [[Scarabée crache-noir]] || 3
-|-
-| [[Lieutenant duergar]] || 5
-|-
-| [[Capitaine duergar]] || 8
-|-
-| [[Maître de corvée duergar]] || 9
-|-
-| [[Marteau duergar]] || 11
-|-
-| [[Grand prêtre duergar]] || 12
-|-
-| [[Scarabée juggernaut]] || 14
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de duergar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Duergar]]</td><td>1/3</td></tr><tr><td>[[Esclavagiste duergar]]</td><td>1/2</td></tr><tr><td>[[Tireur délite duergar|Tireur d'élite duergar]]</td><td>1/2</td></tr><tr><td>[[Bombardier duergar]]</td><td>1</td></tr><tr><td>[[Enclume duergar]]</td><td>1</td></tr><tr><td>[[Sergent duergar]]</td><td>1</td></tr><tr><td>[[Scarabée crache-noir]]</td><td>3</td></tr><tr><td>[[Lieutenant duergar]]</td><td>5</td></tr><tr><td>[[Capitaine duergar]]</td><td>8</td></tr><tr><td>[[Maître de corvée duergar]]</td><td>9</td></tr><tr><td>[[Marteau duergar]]</td><td>11</td></tr><tr><td>[[Grand prêtre duergar]]</td><td>12</td></tr><tr><td>[[Scarabée juggernaut]]</td><td>14</td></tr></table>
+
 </div> Chez les duergars, les soldats vétérans prennent la tête
 d’un groupe de guerriers ou forment leur propre unité
 d’élite. Ils utilisent toujours agrandissement avant d’engager

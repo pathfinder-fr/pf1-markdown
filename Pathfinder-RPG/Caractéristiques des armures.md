@@ -90,31 +90,9 @@ Même si on peut utiliser certains types d’armures et de boucliers comme armes
 ### Armures pour créatures inhabituelles
 Le poids et le prix des armures destinées aux créatures particulièrement grandes, extrêmement petites ou non-humanoïdes diffèrent de ceux indiqués dans la Table "[[Tableau récapitulatif des armures]]". Reportez-vous au tableau ci-dessous et appliquez les multiplicateurs au prix et au poids de l’armure désirée.
 
-{| CLASS="tablo centre autoalt"
-|+ Armures des créatures inhabituelles
-|- CLASS="titre"
-| ROWSPAN="2" | Taille
-| COLSPAN="2" CLASS="avecsoustitre" | Humanoïde
-| COLSPAN="2" CLASS="avecsoustitre" | Non-humanoïde
-|- CLASS="soustitre"
-| Prix || Poids || Prix || Poids
-|- CLASS="premier"
-| Très petite (TP) ou moins* || ×1/2 || ×1/10 || ×1 || ×1/10
-|-
-| Petite (P) || ×1 || ×1/2 || ×2 || ×1/2
-|-
-| Moyenne (M) || ×1 || ×1 || ×2 || ×1
-|-
-| Grande (G) || ×2 || ×2 || ×4 || ×2
-|-
-| Très grande (TG) || ×4 || ×5 || ×8 || ×5
-|-
-| Gigantesque (Gig) || ×8 || ×8 || ×16 || ×8
-|-
-| Colossale (C) || ×16 || ×12 || ×32 || ×12
-|-
-| COLSPAN="5" CLASS="note" | *(*) Diviser le bonus d’armure par 2.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Armures des créatures inhabituelles</caption><tr CLASS="titre"><td ROWSPAN="2">Taille</td><td COLSPAN="2" CLASS="avecsoustitre">Humanoïde</td><td COLSPAN="2" CLASS="avecsoustitre">Non-humanoïde</td></tr><tr CLASS="soustitre"><td>Prix</td><td>Poids</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>Très petite (TP) ou moins*</td><td>×1/2</td><td>×1/10</td><td>×1</td><td>×1/10</td></tr><tr><td>Petite (P)</td><td>×1</td><td>×1/2</td><td>×2</td><td>×1/2</td></tr><tr><td>Moyenne (M)</td><td>×1</td><td>×1</td><td>×2</td><td>×1</td></tr><tr><td>Grande (G)</td><td>×2</td><td>×2</td><td>×4</td><td>×2</td></tr><tr><td>Très grande (TG)</td><td>×4</td><td>×5</td><td>×8</td><td>×5</td></tr><tr><td>Gigantesque (Gig)</td><td>×8</td><td>×8</td><td>×16</td><td>×8</td></tr><tr><td>Colossale (C)</td><td>×16</td><td>×12</td><td>×32</td><td>×12</td></tr><tr><td COLSPAN="5" CLASS="note">*(*) Diviser le bonus d’armure par 2.*</td></tr></table>
+
 </center>
 
 {s:Reference|ENFILEROTER}
@@ -127,20 +105,5 @@ Il est parfois compliqué d’enfiler ou de retirer une armure. Le temps nécess
 
 **Retirer.** Cette colonne indique le temps qu’il faut pour enlever une armure. Enlever un bouclier de son bras ne demande qu’une [[action de mouvement]].
 
-{| CLASS="tablo centre autoalt"
-|+ Enfiler ou ôter son armure
-|- CLASS="titre"
-| Armure || Enfiler || Enfiler à la hâte || Retirer
-|- CLASS="premier"
-| Bouclier (tous) || 1 action de mouvement || sans objet || 1 action de mouvement
-|-
-| [[armure matelassée (armure)|Armure matelassée]], [[armure de cuir (armure)|de cuir]], [[armure de cuir cloutée (armure)|de cuir cloutée]], [[armure de peau (armure)|de peau]] ou [[chemise de mailles (armure)|chemise de mailles]] || 1 minute || 5 rounds || 1 minute ([[Caractéristiques des armures#NOTE1|1]])
-|-
-| [[cuirasse (armure)|Cuirasse]], [[armure décailles (armure)|armure d’écailles]], [[cotte de mailles (armure)|cotte de mailles]], [[clibanion (armure)|clibanion]] ou [[crevice (armure)|crevice]] || 4 minutes ([[Caractéristiques des armures#NOTE1|1]]) || 1 minute || 1 minute ([[Caractéristiques des armures#NOTE1|1]])
-|-
-| [[armure de plaques (armure)|Armure de plaques]] ou [[harnois (armure)|harnois]] || 4 minutes ([[Caractéristiques des armures#NOTE2|2]]) || 4 minutes ([[Caractéristiques des armures#NOTE1|1]]) || 1d4+1 minutes ([[Caractéristiques des armures#NOTE1|1]])
-|-
-| CLASS="note" COLSPAN="4" | {s:Reference|NOTE1}*(1) Si le personnage reçoit de l’aide, divisez ce temps par deux. Un seul personnage ne faisant rien d’autre peut aider un ou deux personnages adjacents. Deux personnages ne peuvent pas s’aider mutuellement à enfiler une armure en même temps.*
-|-
-| CLASS="note" COLSPAN="4" | {s:Reference|NOTE2}*(2) Le porteur doit recevoir de l’aide pour enfiler cette armure. Sans aide, elle ne peut être enfilée qu’à la hâte.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Enfiler ou ôter son armure</caption><tr CLASS="titre"><td>Armure</td><td>Enfiler</td><td>Enfiler à la hâte</td><td>Retirer</td></tr><tr CLASS="premier"><td>Bouclier (tous)</td><td>1 action de mouvement</td><td>sans objet</td><td>1 action de mouvement</td></tr><tr><td>[[armure matelassée (armure)|Armure matelassée]], [[armure de cuir (armure)|de cuir]], [[armure de cuir cloutée (armure)|de cuir cloutée]], [[armure de peau (armure)|de peau]] ou [[chemise de mailles (armure)|chemise de mailles]]</td><td>1 minute</td><td>5 rounds</td><td>1 minute ([[Caractéristiques des armures#NOTE1|1]])</td></tr><tr><td>[[cuirasse (armure)|Cuirasse]], [[armure décailles (armure)|armure d’écailles]], [[cotte de mailles (armure)|cotte de mailles]], [[clibanion (armure)|clibanion]] ou [[crevice (armure)|crevice]]</td><td>4 minutes ([[Caractéristiques des armures#NOTE1|1]])</td><td>1 minute</td><td>1 minute ([[Caractéristiques des armures#NOTE1|1]])</td></tr><tr><td>[[armure de plaques (armure)|Armure de plaques]] ou [[harnois (armure)|harnois]]</td><td>4 minutes ([[Caractéristiques des armures#NOTE2|2]])</td><td>4 minutes ([[Caractéristiques des armures#NOTE1|1]])</td><td>1d4+1 minutes ([[Caractéristiques des armures#NOTE1|1]])</td></tr><tr><td CLASS="note" COLSPAN="4">{s:Reference|NOTE1}*(1) Si le personnage reçoit de l’aide, divisez ce temps par deux. Un seul personnage ne faisant rien d’autre peut aider un ou deux personnages adjacents. Deux personnages ne peuvent pas s’aider mutuellement à enfiler une armure en même temps.*</td></tr><tr><td CLASS="note" COLSPAN="4">{s:Reference|NOTE2}*(2) Le porteur doit recevoir de l’aide pour enfiler cette armure. Sans aide, elle ne peut être enfilée qu’à la hâte.*</td></tr></table>

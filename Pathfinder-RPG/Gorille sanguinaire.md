@@ -39,19 +39,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de singe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Singe]] || 1/4
-|-
-| [[Gorille]] || 2
-|-
-| [[Gorille sanguinaire]] || 3
-|-
-| [[Mégaprimate]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de singe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Singe]]</td><td>1/4</td></tr><tr><td>[[Gorille]]</td><td>2</td></tr><tr><td>[[Gorille sanguinaire]]</td><td>3</td></tr><tr><td>[[Mégaprimate]]</td><td>8</td></tr></table>
+
 </div>*Ce gorille sauvage à la gueule remplie de dents acérées a de longs bras musclés qui se terminent par des griffes incurvées.*
 
 Le gorille sanguinaire, que les

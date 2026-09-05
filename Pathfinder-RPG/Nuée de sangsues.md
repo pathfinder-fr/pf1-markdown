@@ -40,15 +40,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de sangsue
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Sangsue géante]] || 2
-|-
-| [[Nuée de sangsues]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de sangsue</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Sangsue géante]]</td><td>2</td></tr><tr><td>[[Nuée de sangsues]]</td><td>4</td></tr></table>
+
 </div>''Ces créatures noires de la taille de doigts humains se tortillent et agitent
 l’eau stagnante en enveloppant leur victime.''
 

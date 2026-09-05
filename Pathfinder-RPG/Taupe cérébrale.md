@@ -43,15 +43,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de taupe cérébrale
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Reine taupe cérébrale]] || 5
-|-
-| [[Taupe cérébrale]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de taupe cérébrale</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Reine taupe cérébrale]]</td><td>5</td></tr><tr><td>[[Taupe cérébrale]]</td><td>1</td></tr></table>
+
 </div>*Ce rongeur a une peau ridée et pelée bleu foncé. Ses crocs sont disposés tout autour de sa gueule circulaire.*
 
 À la différence des taupes ordinaires qui se nourrissent de vers de terre et autres nourritures ordinaires, les taupes cérébrales se repaissent de l’énergie psychique d’autres créatures qu’elles cherchent en faisant preuve d’une ferveur digne d’un drogué. Chaque fois qu’une taupe cérébrale rencontre une victime probable – un lanceur de sorts de préférence – elle s’y accroche avec sa gueule circulaire hérissée de crocs puis siphonne magiquement l’énergie mentale jusqu’à ce que sa proie s’échappe ou tombe dans le coma. Après avoir absorbé l’énergie d’un adversaire, une taupe cérébrale préfère prendre la fuite et non pas combattre, et utilise ses pouvoirs psychiques pour lancer repli expéditif afin d’améliorer ses chances de s’échapper.

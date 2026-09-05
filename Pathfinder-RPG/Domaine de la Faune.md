@@ -33,27 +33,5 @@ bonus racial sur ses tests de [[Perception]] égal à la moitié de son niveau d
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Faune
-| Sous-domaine de la Plume || Sous-domaine du Poil
-|- CLASS="premier"
-| 1er || *[[apaisement des animaux]]* || *idem* || *[[morsure magique]]*
-|-
-| 2e || *[[immobilisation danimal|immobilisation d’animal]]* || *[[feuille morte]]* || *idem*
-|-
-| 3e || *[[domination danimal|domination d’animal]]* || *[[sort Vol|vol]]* || *[[forme bestiale I]] (animaux seulement)*
-|-
-| 4e || *[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* (animaux seulement) || *idem* || *idem*
-|-
-| 5e || *[[forme bestiale III]]* (animaux seulement) || *idem* || *idem*
-|-
-| 6e || *[[coquille antivie]]* || *[[vol de groupe]]* || *idem*
-|-
-| 7e || *[[métamorphose animale]]* || *idem* || *idem*
-|-
-| 8e || *[[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]]* (animaux seulement) || *idem* || *idem*
-|-
-| 9e || *[[changement de forme]]* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Faune</td><td>Sous-domaine de la Plume</td><td>Sous-domaine du Poil</td></tr><tr CLASS="premier"><td>1er</td><td>*[[apaisement des animaux]]*</td><td>*idem*</td><td>*[[morsure magique]]*</td></tr><tr><td>2e</td><td>*[[immobilisation danimal|immobilisation d’animal]]*</td><td>*[[feuille morte]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[domination danimal|domination d’animal]]*</td><td>*[[sort Vol|vol]]*</td><td>*[[forme bestiale I]] (animaux seulement)*</td></tr><tr><td>4e</td><td>*[[convocation dalliés naturels IV|convocation d’alliés naturels IV]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[forme bestiale III]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[coquille antivie]]*</td><td>*[[vol de groupe]]*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[métamorphose animale]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[convocation dalliés naturels VIII|convocation d’alliés naturels VIII]]* (animaux seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[changement de forme]]*</td><td>*idem*</td><td>*idem*</td></tr></table>

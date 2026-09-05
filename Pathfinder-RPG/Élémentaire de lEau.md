@@ -183,22 +183,9 @@ fréquemment l’apparence de créatures aquatiques qui seraient
 constituées exclusivement d’eau, comme des requins ou des pieuvres.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Élémentaire || Taille || Poids || DD du vortex || Hauteur du vortex
-|- CLASS="premier"*
-| Petit || 1,20 m || 17 kg || 13 || 3-6 m
-|- CLASS="alt"
-| Moyen || 2,40 m || 140 kg || 15 || 3–9 m
-|-
-| Grand || 4,20 m || 1 125 kg || 19 || 3–12 m
-|- CLASS="alt"
-| Très Grand || 9,60 m || 9 000 kg || 22 || 3-15 m
-|-
-| Noble || 10,80 m || 10 500 kg || 25 || 3–18 m
-|-
-| Seigneur || 12 m || 12 000 kg || 28 || 3–18 m
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Élémentaire</td><td>Taille</td><td>Poids</td><td>DD du vortex</td><td>Hauteur du vortex</td></tr><tr CLASS="premier"*><td>Petit</td><td>1,20 m</td><td>17 kg</td><td>13</td><td>3-6 m</td></tr><tr CLASS="alt"><td>Moyen</td><td>2,40 m</td><td>140 kg</td><td>15</td><td>3–9 m</td></tr><tr><td>Grand</td><td>4,20 m</td><td>1 125 kg</td><td>19</td><td>3–12 m</td></tr><tr CLASS="alt"><td>Très Grand</td><td>9,60 m</td><td>9 000 kg</td><td>22</td><td>3-15 m</td></tr><tr><td>Noble</td><td>10,80 m</td><td>10 500 kg</td><td>25</td><td>3–18 m</td></tr><tr><td>Seigneur</td><td>12 m</td><td>12 000 kg</td><td>28</td><td>3–18 m</td></tr></table></center>
+
 
 </div>
 

@@ -141,247 +141,71 @@ Les extraplanaires et les créatures morts-vivantes ne sont normalement accessib
 #### Archétypes de personnages
 
 {br}<a id="archetypes_personnages"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ ARCHÉTYPES DE PERSONNAGES
-|- CLASS="titre"
-| NOM || CLASSE
-|- CLASS="premier"
-| [[Lame bestiale (magus)|Lame Bestiale]] || Magus
-|-
-| [[Elu (paladin)|Élu]] || Paladin
-|-
-| [[Duettiste (barde)|Duettiste]] || Barde
-|-
-| [[Gardien occulte (guerrier)|Gardien Occulte]] || Guerrier
-|-
-| [[Adepte du familier (magicien)|Adepte du Familier]] || Magicien
-|-
-| [[Homonculiste (alchimiste)|Homunculiste]] || Alchimiste
-|-
-| [[Gardien des Leshys (druide)|Gardien des Leshys]] || Druide
-|-
-| [[Mage de Pacte (magicien)|Mage de Pacte]] || Magicien
-|-
-| [[Lieur Esprits (magicien)|Lieur d’Esprits]] || Magicien
-|-
-| [[Synergiste (sorcier)|Synergiste]] || Sorcière
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>ARCHÉTYPES DE PERSONNAGES</caption><tr CLASS="titre"><td>NOM</td><td>CLASSE</td></tr><tr CLASS="premier"><td>[[Lame bestiale (magus)|Lame Bestiale]]</td><td>Magus</td></tr><tr><td>[[Elu (paladin)|Élu]]</td><td>Paladin</td></tr><tr><td>[[Duettiste (barde)|Duettiste]]</td><td>Barde</td></tr><tr><td>[[Gardien occulte (guerrier)|Gardien Occulte]]</td><td>Guerrier</td></tr><tr><td>[[Adepte du familier (magicien)|Adepte du Familier]]</td><td>Magicien</td></tr><tr><td>[[Homonculiste (alchimiste)|Homunculiste]]</td><td>Alchimiste</td></tr><tr><td>[[Gardien des Leshys (druide)|Gardien des Leshys]]</td><td>Druide</td></tr><tr><td>[[Mage de Pacte (magicien)|Mage de Pacte]]</td><td>Magicien</td></tr><tr><td>[[Lieur Esprits (magicien)|Lieur d’Esprits]]</td><td>Magicien</td></tr><tr><td>[[Synergiste (sorcier)|Synergiste]]</td><td>Sorcière</td></tr></table>
+
 
 #### Archétypes de familiers
 
 {br}<a id="archetypes_familiers"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ ARCHÉTYPES DE FAMILIERS
-|- CLASS="titre"
-| NOM || TYPE
-|- CLASS="premier"
-| [[Abjuration  (familier)|Abjuration]] || Familier d’École
-|-
-| [[Invocation (familier)|Invocation]] || Familier d’École
-|-
-| [[Leurre (familier)|Leurre]] || /
-|-
-| [[Divination (familier)|Divination]] || Familier d’École
-|-
-| [[Emissaire (familier)|Émissaire]] || /
-|-
-| [[Enchantement (familier)|Enchantement]] || Familier d’École
-|-
-| [[Evocation (familier)|Évocation]] || Familier d’École
-|-
-| [[Chimere (familier)|Chimère]] || /
-|-
-| [[Illusion (familier)|Illusion]] || Familier d’École
-|-
-| [[Mascotte (familier)|Mascotte]] || /
-|-
-| [[Cogneur (familier)|Cogneur]] || /
-|-
-| [[Necromancie (familier)|Nécromancie]] || Familier d’École
-|-
-| [[Protecteur (familier)|Protecteur]] || /
-|-
-| [[Sage (familier)|Sage]] || /
-|-
-| [[Transmutation (familier)|Transmutation]] || Familier d’École
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>ARCHÉTYPES DE FAMILIERS</caption><tr CLASS="titre"><td>NOM</td><td>TYPE</td></tr><tr CLASS="premier"><td>[[Abjuration  (familier)|Abjuration]]</td><td>Familier d’École</td></tr><tr><td>[[Invocation (familier)|Invocation]]</td><td>Familier d’École</td></tr><tr><td>[[Leurre (familier)|Leurre]]</td><td>/</td></tr><tr><td>[[Divination (familier)|Divination]]</td><td>Familier d’École</td></tr><tr><td>[[Emissaire (familier)|Émissaire]]</td><td>/</td></tr><tr><td>[[Enchantement (familier)|Enchantement]]</td><td>Familier d’École</td></tr><tr><td>[[Evocation (familier)|Évocation]]</td><td>Familier d’École</td></tr><tr><td>[[Chimere (familier)|Chimère]]</td><td>/</td></tr><tr><td>[[Illusion (familier)|Illusion]]</td><td>Familier d’École</td></tr><tr><td>[[Mascotte (familier)|Mascotte]]</td><td>/</td></tr><tr><td>[[Cogneur (familier)|Cogneur]]</td><td>/</td></tr><tr><td>[[Necromancie (familier)|Nécromancie]]</td><td>Familier d’École</td></tr><tr><td>[[Protecteur (familier)|Protecteur]]</td><td>/</td></tr><tr><td>[[Sage (familier)|Sage]]</td><td>/</td></tr><tr><td>[[Transmutation (familier)|Transmutation]]</td><td>Familier d’École</td></tr></table>
+
 
 #### Autres options de familiers
 
 {br}<a id="autres_options"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ AUTRES OPTIONS DE FAMILIER
-|- CLASS="titre"
-| NOM || CLASSE
-|- CLASS="premier"
-| [[Familier de lignage (familier)|Familiers de lignage]] || Sanguin/Ensorceleur
-|-
-| [[Familier protecteur (familier)|Familiers protecteurs]] || Sorcière
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>AUTRES OPTIONS DE FAMILIER</caption><tr CLASS="titre"><td>NOM</td><td>CLASSE</td></tr><tr CLASS="premier"><td>[[Familier de lignage (familier)|Familiers de lignage]]</td><td>Sanguin/Ensorceleur</td></tr><tr><td>[[Familier protecteur (familier)|Familiers protecteurs]]</td><td>Sorcière</td></tr></table>
+
 
 #### Nouveaux dons
 
 {br}<a id="dons"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ DONS
-|- CLASS="titre"
-| NOM || TYPE
-|- CLASS="premier"
-| [[Affinité avec le familier]] || Général
-|-
-| [[Affinité supérieure avec le familier]] || Général
-|-
-| [[Amour de mascotte]] || Familier
-|-
-| [[onseils du sage|Conseils du sage]] || Familier
-|-
-| [[Diversion du leurre]] || Familier
-|-
-| [[Encouragement de l’émissaire]] || Familier
-|-
-| [[Familier d’école]] || Général
-|-
-| [[Familier d’école supérieur]] || Général
-|-
-| [[Familier polyglotte]] || Familier
-|-
-| [[Familier vagabond]] || Général
-|-
-| [[Fluidité chimérique]] || Familier
-|-
-| [[Lien télépathique]] || Général
-|-
-| [[Retour du gardien]] || Familier
-|-
-| [[Sort de contact collectif]] || Équipe
-|-
-| [[Sort partagé collectif]] || Équipe
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>DONS</caption><tr CLASS="titre"><td>NOM</td><td>TYPE</td></tr><tr CLASS="premier"><td>[[Affinité avec le familier]]</td><td>Général</td></tr><tr><td>[[Affinité supérieure avec le familier]]</td><td>Général</td></tr><tr><td>[[Amour de mascotte]]</td><td>Familier</td></tr><tr><td>[[onseils du sage|Conseils du sage]]</td><td>Familier</td></tr><tr><td>[[Diversion du leurre]]</td><td>Familier</td></tr><tr><td>[[Encouragement de l’émissaire]]</td><td>Familier</td></tr><tr><td>[[Familier d’école]]</td><td>Général</td></tr><tr><td>[[Familier d’école supérieur]]</td><td>Général</td></tr><tr><td>[[Familier polyglotte]]</td><td>Familier</td></tr><tr><td>[[Familier vagabond]]</td><td>Général</td></tr><tr><td>[[Fluidité chimérique]]</td><td>Familier</td></tr><tr><td>[[Lien télépathique]]</td><td>Général</td></tr><tr><td>[[Retour du gardien]]</td><td>Familier</td></tr><tr><td>[[Sort de contact collectif]]</td><td>Équipe</td></tr><tr><td>[[Sort partagé collectif]]</td><td>Équipe</td></tr></table>
+
 
 #### Équipement et objets magiques
 
 {br}<a id="equipement"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ EQUIPEMENT ET OBJETS MAGIQUES
-|- CLASS="titre"
-| NOM || TYPE
-|- CLASS="premier"
-| [[Bardage plumefeuillu]] || Armure magique
-|-
-| [[Bocal]] || Divers
-|-
-| [[Bocal régénérant]] || Magique
-|-
-| [[Brume vaguesprit]] || Poison
-|-
-| [[Collier de sorts]] || Magique
-|-
-| [[Colorant pour cuir]] || Divers
-|-
-| [[Concentré vaguesprit]] || Poison
-|-
-| [[Gants de toucher de familier]] || Magique
-|-
-| [[Graisse mondaine]] || Magique
-|-
-| [[Herbe à chat]] || Médecine
-|-
-| [[Lien télépathique]] || Général
-|-
-| [[Retour du gardien]] || Familier
-|-
-| [[Sifflet bestial]] || Divers
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>EQUIPEMENT ET OBJETS MAGIQUES</caption><tr CLASS="titre"><td>NOM</td><td>TYPE</td></tr><tr CLASS="premier"><td>[[Bardage plumefeuillu]]</td><td>Armure magique</td></tr><tr><td>[[Bocal]]</td><td>Divers</td></tr><tr><td>[[Bocal régénérant]]</td><td>Magique</td></tr><tr><td>[[Brume vaguesprit]]</td><td>Poison</td></tr><tr><td>[[Collier de sorts]]</td><td>Magique</td></tr><tr><td>[[Colorant pour cuir]]</td><td>Divers</td></tr><tr><td>[[Concentré vaguesprit]]</td><td>Poison</td></tr><tr><td>[[Gants de toucher de familier]]</td><td>Magique</td></tr><tr><td>[[Graisse mondaine]]</td><td>Magique</td></tr><tr><td>[[Herbe à chat]]</td><td>Médecine</td></tr><tr><td>[[Lien télépathique]]</td><td>Général</td></tr><tr><td>[[Retour du gardien]]</td><td>Familier</td></tr><tr><td>[[Sifflet bestial]]</td><td>Divers</td></tr></table>
+
 
 #### Nouveaux sorts
 
 {br}<a id="sorts"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ SORTS
-|- CLASS="titre"
-| NOM || TYPE || NIVEAU
-|- CLASS="premier"
-| [[Conduit empathique]] || Nécromancie || 5
-|-
-| [[Duplication de familier]] || Conjuration || 4, 5
-|-
-| [[Fusion avec le familier]] || Transmutation || 2
-|-
-| [[Lien perturbé]] || Abjuration || 2, 3
-|-
-| [[Rappel de familier]] || Conjuration || 2
-|-
-| [[Rappel de familier supérieur]] || Conjuration || 5
-|-
-| [[Transfert d'âme]] || Nécromancie || 5
-|-
-| [[Transfert de familier]] || Evocation || 6
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>SORTS</caption><tr CLASS="titre"><td>NOM</td><td>TYPE</td><td>NIVEAU</td></tr><tr CLASS="premier"><td>[[Conduit empathique]]</td><td>Nécromancie</td><td>5</td></tr><tr><td>[[Duplication de familier]]</td><td>Conjuration</td><td>4, 5</td></tr><tr><td>[[Fusion avec le familier]]</td><td>Transmutation</td><td>2</td></tr><tr><td>[[Lien perturbé]]</td><td>Abjuration</td><td>2, 3</td></tr><tr><td>[[Rappel de familier]]</td><td>Conjuration</td><td>2</td></tr><tr><td>[[Rappel de familier supérieur]]</td><td>Conjuration</td><td>5</td></tr><tr><td>[[Transfert d'âme]]</td><td>Nécromancie</td><td>5</td></tr><tr><td>[[Transfert de familier]]</td><td>Evocation</td><td>6</td></tr></table>
+
 
 #### Nouveaux familiers de taille TP
 
 {br}<a id="familiers_tp"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ FAMILIERS TRES PETITS
-|- CLASS="titre"
-| NOM || BONUS
-|- CLASS="premier"
-| [[Poulet]] || Le maître obtient +3 [[points de vie]].
-|-
-| [[Kakapo]] || Le maître obtient +3 aux tests de [[Escalade]].
-|-
-| [[Taupe]] || Le maître obtient un bonus de +3 aux tests de [[Perception]]{br}basés sur le touché, l'odorat, et le goût.
-|-
-| [[Tetraodon|Tétraodon]] || Le maître obtient +2 aux jets de [[Vigueur]]
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>FAMILIERS TRES PETITS</caption><tr CLASS="titre"><td>NOM</td><td>BONUS</td></tr><tr CLASS="premier"><td>[[Poulet]]</td><td>Le maître obtient +3 [[points de vie]].</td></tr><tr><td>[[Kakapo]]</td><td>Le maître obtient +3 aux tests de [[Escalade]].</td></tr><tr><td>[[Taupe]]</td><td>Le maître obtient un bonus de +3 aux tests de [[Perception]]{br}basés sur le touché, l'odorat, et le goût.</td></tr><tr><td>[[Tetraodon|Tétraodon]]</td><td>Le maître obtient +2 aux jets de [[Vigueur]]</td></tr></table>
+
 
 #### Nouveaux familiers de taille P
 
 {br}<a id="familiers_p"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ FAMILIERS PETITS
-|- CLASS="titre"
-| NOM || BONUS
-|- CLASS="premier"
-| [[Dauphin popoto]] || Le maître obtient +3 aux tests de [[Natation]].
-|-
-| [[Koala]] || Le maître obtient +3 aux tests de [[Escalade]].
-|-
-| [[Paon]] || Le maître obtient +3 aux tests de [[Intimidation]].
-|-
-| [[Wallaby]] || Le maître obtient +3 aux tests de [[Acrobaties]].
-|-
-| [[Manchot]] || Le maître obtient +3 aux tests de [[Natation]].
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>FAMILIERS PETITS</caption><tr CLASS="titre"><td>NOM</td><td>BONUS</td></tr><tr CLASS="premier"><td>[[Dauphin popoto]]</td><td>Le maître obtient +3 aux tests de [[Natation]].</td></tr><tr><td>[[Koala]]</td><td>Le maître obtient +3 aux tests de [[Escalade]].</td></tr><tr><td>[[Paon]]</td><td>Le maître obtient +3 aux tests de [[Intimidation]].</td></tr><tr><td>[[Wallaby]]</td><td>Le maître obtient +3 aux tests de [[Acrobaties]].</td></tr><tr><td>[[Manchot]]</td><td>Le maître obtient +3 aux tests de [[Natation]].</td></tr></table>
+
 
 #### Nouveaux familiers supérieurs
 
 {br}<a id="familiers_superieurs"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ NOUVEAUX FAMILIERS SUPERIEURS
-|- CLASS="titre"
-| NOM || TYPE || NLS
-|- CLASS="premier"
-| [[Chat féérique]] || Créature magique || 7
-|-
-| [[Chiot de Cayden]] || Extraplanaire (natif) || 7
-|-
-| [[Pseudosphinx]] || Créature magique || 7
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>NOUVEAUX FAMILIERS SUPERIEURS</caption><tr CLASS="titre"><td>NOM</td><td>TYPE</td><td>NLS</td></tr><tr CLASS="premier"><td>[[Chat féérique]]</td><td>Créature magique</td><td>7</td></tr><tr><td>[[Chiot de Cayden]]</td><td>Extraplanaire (natif)</td><td>7</td></tr><tr><td>[[Pseudosphinx]]</td><td>Créature magique</td><td>7</td></tr></table>
+
 
 #### Nouveaux familiers inhabituels
 
 {br}<a id="familiers_inhabituels"></a>
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="60%"
-|+ NOUVEAUX FAMILIERS INHABITUELS
-|- CLASS="titre"
-| NOM || BONUS
-|- CLASS="premier"
-| [[Wyrd Ioun]] || Général
-|-
-| [[Limace léopard]] || Général
-|-
-| [[Pétrifougère]] || Familier
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="60%"><caption>NOUVEAUX FAMILIERS INHABITUELS</caption><tr CLASS="titre"><td>NOM</td><td>BONUS</td></tr><tr CLASS="premier"><td>[[Wyrd Ioun]]</td><td>Général</td></tr><tr><td>[[Limace léopard]]</td><td>Général</td></tr><tr><td>[[Pétrifougère]]</td><td>Familier</td></tr></table>
+
 
 ---

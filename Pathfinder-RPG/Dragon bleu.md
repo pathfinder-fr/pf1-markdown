@@ -33,21 +33,9 @@ Categories:
 {s:BDTexte|**Tempête de sable (Sur)** Par une [[action simple]], un grand dracosire bleu peut créer une tempête de sable centrée sur lui qui s'étend sur un rayon de 360 m (240 {s:c}). Les créatures autres que le dragon situées à l'intérieur de la tempête subissent 2d6 points de dégâts par round, en plus des pénalités normales associées à une tempête de sable (voir la section "[[Climat#Tempêtes_2|Les tempêtes]]" du *Manuel des Joueurs*). La tempête de sable peut durer 1 heure mais le dragon peut y mettre un terme par une [[action libre]].}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon bleu
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon bleu]] || &nbsp; || 9
-|-
-| [[Dragon bleu adulte]] || &nbsp; || 13
-|-
-| [[Dragon bleu vénérable]] || &nbsp; || 18
-|-
-| **Membres mythiques** || **FP** || **RMY**
-|- CLASS="premier"
-| [[Dragon bleu mythique|Dragon bleu d'âge mûr mythique]] || 17 || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon bleu</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon bleu]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon bleu adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon bleu vénérable]]</td><td>&nbsp;</td><td>18</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Dragon bleu mythique|Dragon bleu d'âge mûr mythique]]</td><td>17</td><td>7</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon chromatique|dragons chromatiques]].***</li></ul>*Ce grand dragon serpentin, dont les écailles ont la couleur du ciel du désert, se déplace avec une grâce inquiétante.*
 
 Les dragons bleus sont des experts en manigances et sont
@@ -58,34 +46,8 @@ Ils élisent généralement domicile à proximité de ceux
 qu’ils contrôlent et parfois même au sein d’une cité.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité (électricité), soif du désert || —
-|- CLASS="alt"
-| Très jeune || imitation de sons || —
-|-
-| Jeune || *[[son imaginaire]]* || —
-|- CLASS="alt"
-| Adolescent || *[[image imparfaite]]*, [[présence terrifiante]] || 1
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 3
-|- CLASS="alt"
-| Adulte || aura électrique, *[[ventriloquie]]* || 5
-|-
-| Âge mûr || [[RD]] 10/magie || 7
-|- CLASS="alt"
-| Vieux || mirage draconique, *[[terrain hallucinatoire]]* || 9
-|-
-| Très vieux || [[RD]] 15/magie || 11
-|- CLASS="alt"
-| Vénérable || souffle-tempête , *[[voile]]* || 13
-|-
-| Dracosire || [[RD]] 20/magie || 15
-|- CLASS="alt"
-| Grand dracosire || *[[mirage]]*, tempête de sable || 17
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité (électricité), soif du désert</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>imitation de sons</td><td>—</td></tr><tr><td>Jeune</td><td>*[[son imaginaire]]*</td><td>—</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[image imparfaite]]*, [[présence terrifiante]]</td><td>1</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>3</td></tr><tr CLASS="alt"><td>Adulte</td><td>aura électrique, *[[ventriloquie]]*</td><td>5</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>7</td></tr><tr CLASS="alt"><td>Vieux</td><td>mirage draconique, *[[terrain hallucinatoire]]*</td><td>9</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>11</td></tr><tr CLASS="alt"><td>Vénérable</td><td>souffle-tempête , *[[voile]]*</td><td>13</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>15</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>*[[mirage]]*, tempête de sable</td><td>17</td></tr></table>
+
 </center>
 </div></td></tr></table>

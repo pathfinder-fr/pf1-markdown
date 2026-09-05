@@ -36,15 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'hydromètre
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hydromètre géant]] || 1
-|-
-| [[Nymphe dhydromètre|Nymphe d'hydromètre]] || 1/4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'hydromètre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hydromètre géant]]</td><td>1</td></tr><tr><td>[[Nymphe dhydromètre|Nymphe d'hydromètre]]</td><td>1/4</td></tr></table>
+
 </div>*Ces petits insectes aquatiques juvéniles marchent facilement sur l’eau.*
 
 Plus mûr qu’une chenille mais pas encore adulte, la nymphe d’hydromètre est le petit du spécimen géant. Pendant quelques mois, elle mange et mue, augmentant en taille après chaque mue jusqu’à ce qu’elle soit de taille G et définitivement adulte. Ces créatures sont craintives et plus agitées que les adultes.

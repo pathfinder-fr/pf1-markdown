@@ -14,51 +14,9 @@ LastModified: 2021-01-19 15:11
 • Voir les [[PlaytestGG Pistoléro-dons|dons de classe de pistoléro]]
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Le pistoléro
-|- CLASS="titre"
-| Votre Niveau || Capacités de classe
-|-
-| 1 || Ascendance et historique, maîtrises initiales, don de pistoléro, voie de pistoléro, acte initial
-|-
-| 2 || Don de pistoléro, don de compétence
-|-
-| 3 || Don général, entêté, amélioration de compétence
-|-
-| 4 || Don de pistoléro, don de compétence
-|-
-| 5 || Primes de caractéristique, don ancestral, amélioration de compétence, maîtrise des armes du pistoléro
-|-
-| 6 || Don de pistoléro, don de compétence
-|-
-| 7 || Don général, sens alertes, amélioration de compétence, spécialisation martiale
-|-
-| 8 || Don de pistoléro, don de compétence
-|-
-| 9 || Don d’ascendance, acte avancé, expertise du pistoléro, amélioration de compétence
-|-
-| 10 || Primes de caractéristique, don de pistoléro, don de compétence
-|-
-| 11 || Don général, évasion, amélioration de compétence
-|-
-| 12 || Don de pistoléro, don de compétence
-|-
-| 13 || Don ancestral, légende des pistoléros, expertise avec les armures légères, amélioration de compétence
-|-
-| 14 || Don de pistoléro, don de compétence
-|-
-| 15 || Primes de caractéristique, acte supérieur, don général, spécialisation martiale supérieure, amélioration de compétence
-|-
-| 16 || Don de pistoléro, don de compétence
-|-
-| 17 || Don ancestral, juggernaut, avantage du tireur, amélioration de compétence
-|-
-| 18 || Don de pistoléro, don de compétence
-|-
-| 19 || Don général, sens extraordinaires, maîtrise des armures légères, amélioration de compétence
-|-
-| 20 || Primes de caractéristique, don de pistoléro, don de compétence
-|}
+
+<table CLASS="tablo autoalt toutgauche"><caption>Le pistoléro</caption><tr CLASS="titre"><td>Votre Niveau</td><td>Capacités de classe</td></tr><tr><td>1</td><td>Ascendance et historique, maîtrises initiales, don de pistoléro, voie de pistoléro, acte initial</td></tr><tr><td>2</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>3</td><td>Don général, entêté, amélioration de compétence</td></tr><tr><td>4</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>5</td><td>Primes de caractéristique, don ancestral, amélioration de compétence, maîtrise des armes du pistoléro</td></tr><tr><td>6</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>7</td><td>Don général, sens alertes, amélioration de compétence, spécialisation martiale</td></tr><tr><td>8</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>9</td><td>Don d’ascendance, acte avancé, expertise du pistoléro, amélioration de compétence</td></tr><tr><td>10</td><td>Primes de caractéristique, don de pistoléro, don de compétence</td></tr><tr><td>11</td><td>Don général, évasion, amélioration de compétence</td></tr><tr><td>12</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>13</td><td>Don ancestral, légende des pistoléros, expertise avec les armures légères, amélioration de compétence</td></tr><tr><td>14</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>15</td><td>Primes de caractéristique, acte supérieur, don général, spécialisation martiale supérieure, amélioration de compétence</td></tr><tr><td>16</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>17</td><td>Don ancestral, juggernaut, avantage du tireur, amélioration de compétence</td></tr><tr><td>18</td><td>Don de pistoléro, don de compétence</td></tr><tr><td>19</td><td>Don général, sens extraordinaires, maîtrise des armures légères, amélioration de compétence</td></tr><tr><td>20</td><td>Primes de caractéristique, don de pistoléro, don de compétence</td></tr></table>
+
 </center>
 
 
@@ -312,39 +270,11 @@ Les traits d'armes suivants viennent s'ajouter à ceux du Livre de base.
 #### Armes à feu
 
 <center>
-{| CLASS="tablo autoalt"
-|+ Armes à distance peu communes
-|- CLASS="titre"
-| Armes simples  
-peu communes || Prix || Dégâts || Portée || Recharg || Encomb || Mains || Groupe || Traits
-|-
-| Mousquet à silex || 7po || 1d6P || 8ca || 1 || 1 || 2 || Arme à feu || Fatale d10, polyvalent C
-|-
-| &nbsp; &nbsp; 10 munitions || 1pa || &nbsp; || &nbsp; || &nbsp; || L || &nbsp; || &nbsp; || &nbsp;
-|-
-| Pistolet à silex || 6po || 1d4P || 4ca || 1 || 1 || 1 || Arme à feu || Fatale d8, polyvalent C
-|-
-| &nbsp; &nbsp; 10 munitions || 1pa || &nbsp; || &nbsp; || &nbsp; || L || &nbsp; || &nbsp; || &nbsp;
-|-
-| Canon à main || 5po || 1d4 modulaire || 2ca || 1 || 1 || 1 || Arme à feu || Fatale d8, modulaire C, P ou T
-|-
-| &nbsp; &nbsp; 10 munitions || 1pa || &nbsp; || &nbsp; || &nbsp; || L || &nbsp; || &nbsp; || &nbsp;
-|- CLASS="titre"
-| Armes de guerre  
-peu communes || Prix || Dégâts || Portée || Recharg || Encomb || Mains || Groupe || Traits
-|-
-| Arquebuse (niveau 1) || 10po || 1d8P || 16ca || 1 || 2 || 2 || Arme à feu || Fatale d12, tir d'élite, précaire, polyvalent C
-|-
-| &nbsp; &nbsp; 10 munitions || 1pa || &nbsp; || &nbsp; || &nbsp; || L || &nbsp; || &nbsp; || &nbsp;
-|-
-| Tromblon || 8po || 1d8P || 3ca || 1 || 2 || 2 || Arme à feu || Dispersion, polyvalent C
-|-
-| &nbsp; &nbsp; 10 munitions || 1pa || &nbsp; || &nbsp; || &nbsp; || L || &nbsp; || &nbsp; || &nbsp;
-|-
-| Pistolet de duel (niveau 1) || 12po || 1d6 P || 6ca || 1 || L || 1 || Arme à feu || Facile à cacher, fatale d10, polyvalent C
-|-
-| &nbsp; &nbsp; 10 munitions || 1pa || &nbsp; || &nbsp; || &nbsp; || L || &nbsp; || &nbsp; || &nbsp;
-|}
+
+<table CLASS="tablo autoalt"><caption>Armes à distance peu communes</caption><tr CLASS="titre"><td>Armes simples  
+peu communes</td><td>Prix</td><td>Dégâts</td><td>Portée</td><td>Recharg</td><td>Encomb</td><td>Mains</td><td>Groupe</td><td>Traits</td></tr><tr><td>Mousquet à silex</td><td>7po</td><td>1d6P</td><td>8ca</td><td>1</td><td>1</td><td>2</td><td>Arme à feu</td><td>Fatale d10, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Pistolet à silex</td><td>6po</td><td>1d4P</td><td>4ca</td><td>1</td><td>1</td><td>1</td><td>Arme à feu</td><td>Fatale d8, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Canon à main</td><td>5po</td><td>1d4 modulaire</td><td>2ca</td><td>1</td><td>1</td><td>1</td><td>Arme à feu</td><td>Fatale d8, modulaire C, P ou T</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr CLASS="titre"><td>Armes de guerre  
+peu communes</td><td>Prix</td><td>Dégâts</td><td>Portée</td><td>Recharg</td><td>Encomb</td><td>Mains</td><td>Groupe</td><td>Traits</td></tr><tr><td>Arquebuse (niveau 1)</td><td>10po</td><td>1d8P</td><td>16ca</td><td>1</td><td>2</td><td>2</td><td>Arme à feu</td><td>Fatale d12, tir d'élite, précaire, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Tromblon</td><td>8po</td><td>1d8P</td><td>3ca</td><td>1</td><td>2</td><td>2</td><td>Arme à feu</td><td>Dispersion, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Pistolet de duel (niveau 1)</td><td>12po</td><td>1d6 P</td><td>6ca</td><td>1</td><td>L</td><td>1</td><td>Arme à feu</td><td>Facile à cacher, fatale d10, polyvalent C</td></tr><tr><td>&nbsp; &nbsp; 10 munitions</td><td>1pa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>L</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>
+
 </center>
 
 **Arquebuse.** Ce long fusil offre une portée plus grande que la moyenne pour les armes à feu, mais son long canon le rend particulièrement instable si un tripode ou un autre support n'est pas utilisé pour le stabiliser.

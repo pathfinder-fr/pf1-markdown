@@ -11,39 +11,9 @@ Le projet Nightfinder consiste à adapter les règles de Midnight au système Pa
 ## Les races
 L'adaptation des races de Midnight c'est fait en se basant sur le principe Pathfinder : +2 +2 -2, et en conservant les particularités raciales.
 
-{| CLASS="tablo"
-|+ Modificateurs raciaux
-|- CLASS="titre"
-| Race || Modificateur Midnight/Pathfinder || Modificateur d20
-|- CLASS="premier"
-| Elfe, Carinsil || +2 Dextérité, -2 Constitution, +2 Intelligence || +2 Dextérité, -2 Constitution
-|- CLASS="alt"
-| Elfe, Danisil || +2 Dextérité, -2 Constitution, +2 Sagesse || +2 Dextérité, -2 Constitution
-|-
-| Elfe, Erunsil || +2 Dextérité, -2 Constitution, +2 Sagesse || +2 Dextérité, -2 Constitution
-|- CLASS="alt"
-| Elfe, Marinsil || +2 Dextérité, -2 Constitution, +2 Charisme || +2 Dextérité, -2 Constitution
-|-
-| Gnome || -2 Force, +2 Intelligence, +2 Charisme || +4 Charisme, -2 Force
-|- CLASS="alt"
-| Halfelin|| -2 Force, +2 Dextérité, +2 Charisme || +2 Dextérité, -2 Force
-|-
-| Humain, Dorn || +2 Force, +2 Sagesse, -2 Intelligence || +2 Force, -2 Intelligence
-|- CLASS="alt"
-| Humain, Erenien || +2 n'importe où || +2 et -2 à répartir
-|-
-| Humain, Sarke || +2 Intelligence, -2 Sagesse, +2 Charisme || +2 Intelligence, -2 Sagesse, +2 Charisme
-|- CLASS="alt"
-| Nain (de clan ou kurgun)|| +2 Constitution, +2 Sagesse, -2 Charisme || +2 Constitution, -2 Charisme
-|-
-| Orques || +4 Force, -2 Intelligence, -2 Sagesse, -2 Charisme || +4 Force, -2 Intelligence, -2 Charisme
-|- CLASS="alt"
-| Sang mêlés, Dwarrows || -2 Force, +2 Constitution, +2 Charisme || +2 Charisme
-|-
-| Sang mêlés, Dworgs|| +2 Force, +2 Constitution, -2 Intelligence || +2 Force, +2 Constitution, -2 Intelligence, -2 Charisme
-|- CLASS="alt"
-| Sang mêlés, Elfelin|| +4 Dextérité, -2 Force, -2 Constitution || +4 Dextérité, -2 Force, -2 Constitution
-|}
+
+<table CLASS="tablo"><caption>Modificateurs raciaux</caption><tr CLASS="titre"><td>Race</td><td>Modificateur Midnight/Pathfinder</td><td>Modificateur d20</td></tr><tr CLASS="premier"><td>Elfe, Carinsil</td><td>+2 Dextérité, -2 Constitution, +2 Intelligence</td><td>+2 Dextérité, -2 Constitution</td></tr><tr CLASS="alt"><td>Elfe, Danisil</td><td>+2 Dextérité, -2 Constitution, +2 Sagesse</td><td>+2 Dextérité, -2 Constitution</td></tr><tr><td>Elfe, Erunsil</td><td>+2 Dextérité, -2 Constitution, +2 Sagesse</td><td>+2 Dextérité, -2 Constitution</td></tr><tr CLASS="alt"><td>Elfe, Marinsil</td><td>+2 Dextérité, -2 Constitution, +2 Charisme</td><td>+2 Dextérité, -2 Constitution</td></tr><tr><td>Gnome</td><td>-2 Force, +2 Intelligence, +2 Charisme</td><td>+4 Charisme, -2 Force</td></tr><tr CLASS="alt"><td>Halfelin|| -2 Force, +2 Dextérité, +2 Charisme</td><td>+2 Dextérité, -2 Force</td></tr><tr><td>Humain, Dorn</td><td>+2 Force, +2 Sagesse, -2 Intelligence</td><td>+2 Force, -2 Intelligence</td></tr><tr CLASS="alt"><td>Humain, Erenien</td><td>+2 n'importe où</td><td>+2 et -2 à répartir</td></tr><tr><td>Humain, Sarke</td><td>+2 Intelligence, -2 Sagesse, +2 Charisme</td><td>+2 Intelligence, -2 Sagesse, +2 Charisme</td></tr><tr CLASS="alt"><td>Nain (de clan ou kurgun)|| +2 Constitution, +2 Sagesse, -2 Charisme</td><td>+2 Constitution, -2 Charisme</td></tr><tr><td>Orques</td><td>+4 Force, -2 Intelligence, -2 Sagesse, -2 Charisme</td><td>+4 Force, -2 Intelligence, -2 Charisme</td></tr><tr CLASS="alt"><td>Sang mêlés, Dwarrows</td><td>-2 Force, +2 Constitution, +2 Charisme</td><td>+2 Charisme</td></tr><tr><td>Sang mêlés, Dworgs|| +2 Force, +2 Constitution, -2 Intelligence</td><td>+2 Force, +2 Constitution, -2 Intelligence, -2 Charisme</td></tr><tr CLASS="alt"><td>Sang mêlés, Elfelin|| +4 Dextérité, -2 Force, -2 Constitution</td><td>+4 Dextérité, -2 Force, -2 Constitution</td></tr></table>
+
 
 
 ## Les classes

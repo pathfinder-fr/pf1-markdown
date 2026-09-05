@@ -37,29 +37,9 @@ Categories:
 {s:BDTexte|**Armes naturelles (Ext).** Les attaques de sabot de la girafe constituent ses attaques primaires tandis que son attaque de coup est une attaque secondaire.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'animal de troupeau
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Antilope]] || 1/2
-|-
-| [[Auroch]] || 2
-|-
-| [[Bélier]] || 1
-|-
-| [[Bison]] || 4
-|-
-| [[Cerf]] || 1
-|-
-| [[Dromadaire]] || 1
-|-
-| [[Élan]] || 1
-|-
-| [[Élan des rivières]] || 2
-|-
-| [[Girafe]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'animal de troupeau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Antilope]]</td><td>1/2</td></tr><tr><td>[[Auroch]]</td><td>2</td></tr><tr><td>[[Bélier]]</td><td>1</td></tr><tr><td>[[Bison]]</td><td>4</td></tr><tr><td>[[Cerf]]</td><td>1</td></tr><tr><td>[[Dromadaire]]</td><td>1</td></tr><tr><td>[[Élan]]</td><td>1</td></tr><tr><td>[[Élan des rivières]]</td><td>2</td></tr><tr><td>[[Girafe]]</td><td>3</td></tr></table>
+
 </div>''Cet animal au pelage tacheté est affublé d’un cou excessivement long
 qui lui permet de dominer tous les autres animaux.''
 

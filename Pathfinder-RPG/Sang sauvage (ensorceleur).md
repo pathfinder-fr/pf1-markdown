@@ -58,48 +58,9 @@ Notez que le MJ a toute latitude pour autoriser cette combinaison. Seulement, le
 **Arcane de lignage.** Quand le personnage lance un sort de la sous-école de la [[transmutation|métamorphose]], il peut faire bénéficier une cible de son choix d’un effet aléatoire tiré de la table des Avantages de la métamorphose
 distordue. Ce bonus persiste tant que la métamorphose affecte la cible.
 
-{| CLASS="tablo"
-|+ Avantages de la métamorphose distordue
-|- CLASS="titre"
-| D12
-| Effet
-|- CLASS="premier"
-| 1
-| CLASS="gauche" | double articulation : +2 aux tests d’[[Évasion]]
-|-
-| 2
-| CLASS="gauche" | doigts palmés : +2 aux tests de [[Natation]]
-|-
-| 3
-| CLASS="gauche" | poigne de fer : +2 aux tests d’[[Escalade]] et au [[DMD]] contre les manœuvres de [[désarmement]].
-|-
-| 4
-| CLASS="gauche" | œil d’insecte : +2 aux tests de [[Perception]]
-|-
-| 5
-| CLASS="gauche" | camouflage : +2 aux tests de [[Discrétion]]
-|-
-| 6
-| CLASS="gauche" | peau dure : bonus de +1 à l’[[classe darmure|armure naturelle]]
-|-
-| 7
-| CLASS="gauche" | robuste : +1 aux jets de [[Vigueur]]
-|-
-| 8
-| CLASS="gauche" | vif : +1 aux jets de [[Réflexes]]
-|-
-| 9
-| CLASS="gauche" | astucieux : +1 aux jets de [[Volonté]]
-|-
-| 10
-| CLASS="gauche" | rapide : +1,50 mètre (1{s:c}) de déplacement
-|-
-| 11
-| CLASS="gauche" | vicieux : +1 aux jets d’[[attaque au corps à corps]]
-|-
-| 12
-| CLASS="gauche" | œil de faucon : +1 aux jets d’[[attaque à distance]]
-|}
+
+<table CLASS="tablo"><caption>Avantages de la métamorphose distordue</caption><tr CLASS="titre"><td>D12</td><td>Effet</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">double articulation : +2 aux tests d’[[Évasion]]</td></tr><tr><td>2</td><td CLASS="gauche">doigts palmés : +2 aux tests de [[Natation]]</td></tr><tr><td>3</td><td CLASS="gauche">poigne de fer : +2 aux tests d’[[Escalade]] et au [[DMD]] contre les manœuvres de [[désarmement]].</td></tr><tr><td>4</td><td CLASS="gauche">œil d’insecte : +2 aux tests de [[Perception]]</td></tr><tr><td>5</td><td CLASS="gauche">camouflage : +2 aux tests de [[Discrétion]]</td></tr><tr><td>6</td><td CLASS="gauche">peau dure : bonus de +1 à l’[[classe darmure|armure naturelle]]</td></tr><tr><td>7</td><td CLASS="gauche">robuste : +1 aux jets de [[Vigueur]]</td></tr><tr><td>8</td><td CLASS="gauche">vif : +1 aux jets de [[Réflexes]]</td></tr><tr><td>9</td><td CLASS="gauche">astucieux : +1 aux jets de [[Volonté]]</td></tr><tr><td>10</td><td CLASS="gauche">rapide : +1,50 mètre (1{s:c}) de déplacement</td></tr><tr><td>11</td><td CLASS="gauche">vicieux : +1 aux jets d’[[attaque au corps à corps]]</td></tr><tr><td>12</td><td CLASS="gauche">œil de faucon : +1 aux jets d’[[attaque à distance]]</td></tr></table>
+
 
 **Pouvoirs de lignage.** L’étrange sang du personnage fait ressortir ce qu’il y a de pire chez les autres.</br>
 *<u>Toucher de distorsion (Mag).</u>* À partir du niveau 1, le personnage crée un bref changement déroutant dans la forme physique d’une créature. Ce pouvoir affecte une créature située dans les 9 mètres (6{s:c}) qui est alors hébétée pendant 1 round ( jet de [[Vigueur]] pour [[Présentation des sorts#JETSDESAUVEGARDE|annuler]], [[DD]] 10 + 1/2 [[niveau]] d’[[ensorceleur]] + modificateur de [[Charisme]]). Chaque jour, le personnage peut utiliser ce pouvoir un nombre de fois égal à 3 + modificateur de [[Charisme]]. Ce pouvoir de lignage remplace [[lignage Aberrant|rayon acide]].

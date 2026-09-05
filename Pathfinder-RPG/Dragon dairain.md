@@ -33,17 +33,9 @@ Categories:
 {s:BDTexte|**Vent du désert (Sur).** Un dragon d'airain adolescent ou plus âgé peut faire appel au désert pour qu'il le serve. Cela fonctionne comme un sort de *[[bourrasque]]* mais toutes les créatures situées sur la trajectoire doivent réussir un jet de [[Vigueur]] pour éviter d'être [[aveuglé|aveuglées]] pendant 1d4 rounds par le vent. Le [[DD]] du [[jet de sauvegarde]] contre cet effet est le même que celui du souffle du dragon.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon d'airain
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon dairain|Jeune dragon d'airain]] || &nbsp; || 7
-|-
-| [[Dragon dairain adulte|Dragon d'airain adulte]] || &nbsp; || 11
-|-
-| [[Dragon dairain vénérable|Dragon d'airain vénérable]] || &nbsp; || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon d'airain</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon dairain|Jeune dragon d'airain]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Dragon dairain adulte|Dragon d'airain adulte]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon dairain vénérable|Dragon d'airain vénérable]]</td><td>&nbsp;</td><td>16</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Une crête composée de cornes dirigées vers l’arrière orne la tête de ce dragon au long cou et au corps serpentin couleur d’airain.*
 
 Les dragons d’airain adorent faire la conversation et préfèrent
@@ -53,35 +45,9 @@ les nouvelles récentes et les dernières
 rumeurs.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || souffle de sommeil, sous-type du [[sous-type Feu|Feu]] || —
-|- CLASS="alt"
-| Très jeune || *[[communication avec les animaux]]* || —
-|-
-| Jeune || déplacement du sable || 1
-|- CLASS="alt"
-| Adolescent || *[[endurance aux énergies destructives]]*,  
- vent du désert || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || [[présence terrifiante]], *[[suggestion]]* || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || aura de feu, *[[contrôle des vents]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[contrôle du climat]]*, tempête de sable || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || *[[cyclone]]*, invocation de [[djinn]] || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>souffle de sommeil, sous-type du [[sous-type Feu|Feu]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[communication avec les animaux]]*</td><td>—</td></tr><tr><td>Jeune</td><td>déplacement du sable</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[endurance aux énergies destructives]]*,  
+ vent du désert</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>[[présence terrifiante]], *[[suggestion]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura de feu, *[[contrôle des vents]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[contrôle du climat]]*, tempête de sable</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>*[[cyclone]]*, invocation de [[djinn]]</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

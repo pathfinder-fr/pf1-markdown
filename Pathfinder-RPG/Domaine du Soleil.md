@@ -35,27 +35,5 @@ Le personnage trouve la vérité dans la lumière pure et brillante du soleil et
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine du Soleil
-| Sous-domaine du Jour || Sous-domaine de la Lumière || Sous-domaine de la Révélation
-|- CLASS="premier"
-| 1er || *[[endurance aux énergies destructives]]* || *idem* || *[[lueur féerique]]* || *[[détection des passages secrets]]*
-|-
-| 2e || *[[métal brûlant]]* || *[[flamme éternelle]]* || *idem* || *[[détection de linvisibilité|détection de l'invisibilité]]*
-|-
-| 3e || *[[lumière brûlante]]* || *[[lumière du jour]]* || *[[lumière du jour]]* || *[[bannir les faux-semblants]]*
-|-
-| 4e || *[[bouclier de feu]]* || *idem* || *idem* || *idem*
-|-
-| 5e || *[[colonne de feu]]* || *idem* || *idem* || *[[vision lucide]]*
-|-
-| 6e || *[[germes de feu]]* || *idem* || *idem* || *idem*
-|-
-| 7e || *[[rayon de soleil]]* || *idem* || *idem* || *idem*
-|-
-| 8e || *[[explosion de lumière]]* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[sphère prismatique]]* || *idem* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Soleil</td><td>Sous-domaine du Jour</td><td>Sous-domaine de la Lumière</td><td>Sous-domaine de la Révélation</td></tr><tr CLASS="premier"><td>1er</td><td>*[[endurance aux énergies destructives]]*</td><td>*idem*</td><td>*[[lueur féerique]]*</td><td>*[[détection des passages secrets]]*</td></tr><tr><td>2e</td><td>*[[métal brûlant]]*</td><td>*[[flamme éternelle]]*</td><td>*idem*</td><td>*[[détection de linvisibilité|détection de l'invisibilité]]*</td></tr><tr><td>3e</td><td>*[[lumière brûlante]]*</td><td>*[[lumière du jour]]*</td><td>*[[lumière du jour]]*</td><td>*[[bannir les faux-semblants]]*</td></tr><tr><td>4e</td><td>*[[bouclier de feu]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[colonne de feu]]*</td><td>*idem*</td><td>*idem*</td><td>*[[vision lucide]]*</td></tr><tr><td>6e</td><td>*[[germes de feu]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[rayon de soleil]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[explosion de lumière]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[sphère prismatique]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>

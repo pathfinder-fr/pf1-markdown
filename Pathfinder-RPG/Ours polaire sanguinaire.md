@@ -34,19 +34,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'ours
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Grizzly]] || 4
-|-
-| [[Ours sanguinaire]] || 7
-|-
-| [[Ours polaire]] || 5
-|-
-| [[Ours polaire sanguinaire]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'ours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Grizzly]]</td><td>4</td></tr><tr><td>[[Ours sanguinaire]]</td><td>7</td></tr><tr><td>[[Ours polaire]]</td><td>5</td></tr><tr><td>[[Ours polaire sanguinaire]]</td><td>8</td></tr></table>
+
 </div>*De la fourrure blanche comme neige de cet animal massif dépassent plusieurs excroissances osseuses impressionnantes.*
 
 Les ours polaires sanguinaires sont plus grands et plus agressifs que les ours polaires et les ours des cavernes ordinaires, même s’ils sont de la même espèce. Ces animaux irascibles préfèrent éviter les régions colonisées, mais s’aventurent parfois dangereusement près des populations lorsqu’ils chassent, ce qui aboutit parfois à des massacres sanglants.

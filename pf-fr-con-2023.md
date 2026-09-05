@@ -45,37 +45,9 @@ La programmation ci-dessous peut encore évoluer d'ici novembre. Les mises à jo
 - Premier scénario de la Starfinder Society paru, ***"Claim to salvation"***, se déroule juste après l'incident des étoiles écorchées où la majorité des membres de la société des explorateur d'étoiles se sont retrouvés capturés dans une une sphère de Dyson englobant plusieurs systèmes stellaires. Les agents rescapés doivent aller de l'avant et relever la société. La Première Questeuse Luwazi Elsebo envoie une équipe d'éclaireurs expérimentés sur la fausse lune de **Salvation's End** espérant une découverte permettant de stabiliser la société affaiblie.
 - De plus, Nous proposerons le scénario "Menace sous Otari", de la boite d'initiation dans son intégralité
 
-{| CLASS="tablo centre"
-|+ Parties VTT
-|- CLASS="titre"
-| Jour || Slot || Table(s) || Scénario || Niveau
-|- CLASS="premier"
-| Ven 17/11 || 14h-19h || Table 1 || PFS2 Intro: Year of Unfettered Exploration || 1-4
-|-
-| Ven 17/11 || 20h-01h || Table 1 || PFS2 1-20: The Lost Legend || 3-6
-|-
-| Ven 17/11 || 20h-01h || Table 2 || PFS2 5-04: Equal Exchanges – Necessary Introductions || 1-4
-|-
-| Ven 17/11 || 20h-01h || Table 3 || Boite d'initiation partie 1, Niveau supérieur || 1-4
-|-
-| Sam 18/11 || 10h-01h || Table 1 || PFS 1-16 et PFS 1-17 The Perennial Crown || 3-6
-|-
-| Sam18/11 || 10h-12h || Table 2 || PFS2 Quest #1: The Sandstone secret || 1-4
-|-
-| Sam18/11 || 14h-19h || Table 2 || PFS2 5-02: The Blackwood Lost || 3-6
-|-
-| Sam18/11 || 20h-01h || Table 2 || PFS2 1-15: The Blooming Catastrophe || 1-4
-|-
-| Sam18/11 || 20h-01h || Table 3 || Boite d'initiation partie 2, Niveau inférieur || 1-4
-|-
-| Dim 19/11 || 10h-12h || Table 1 || SF Bounty 3: A Green Place || 1
-|-
-| Dim19/11 || 14h-19h || Toutes || Scénario Special interactif : PFS2 2-00: The King in Thorns || 1-8
-|-
-| Dim19/11 || 20h-01h || Table 1 || SFS 1-00: Claim to Salvation || Prétirés niv 5
-|-
-| Dim19/11 || 20h-01h || Table 2 || PFS2 5-03: Heidmarch Heist || 5-8
-|}
+
+<table CLASS="tablo centre"><caption>Parties VTT</caption><tr CLASS="titre"><td>Jour</td><td>Slot</td><td>Table(s)</td><td>Scénario</td><td>Niveau</td></tr><tr CLASS="premier"><td>Ven 17/11</td><td>14h-19h</td><td>Table 1</td><td>PFS2 Intro: Year of Unfettered Exploration</td><td>1-4</td></tr><tr><td>Ven 17/11</td><td>20h-01h</td><td>Table 1</td><td>PFS2 1-20: The Lost Legend</td><td>3-6</td></tr><tr><td>Ven 17/11</td><td>20h-01h</td><td>Table 2</td><td>PFS2 5-04: Equal Exchanges – Necessary Introductions</td><td>1-4</td></tr><tr><td>Ven 17/11</td><td>20h-01h</td><td>Table 3</td><td>Boite d'initiation partie 1, Niveau supérieur</td><td>1-4</td></tr><tr><td>Sam 18/11</td><td>10h-01h</td><td>Table 1</td><td>PFS 1-16 et PFS 1-17 The Perennial Crown</td><td>3-6</td></tr><tr><td>Sam18/11</td><td>10h-12h</td><td>Table 2</td><td>PFS2 Quest #1: The Sandstone secret</td><td>1-4</td></tr><tr><td>Sam18/11</td><td>14h-19h</td><td>Table 2</td><td>PFS2 5-02: The Blackwood Lost</td><td>3-6</td></tr><tr><td>Sam18/11</td><td>20h-01h</td><td>Table 2</td><td>PFS2 1-15: The Blooming Catastrophe</td><td>1-4</td></tr><tr><td>Sam18/11</td><td>20h-01h</td><td>Table 3</td><td>Boite d'initiation partie 2, Niveau inférieur</td><td>1-4</td></tr><tr><td>Dim 19/11</td><td>10h-12h</td><td>Table 1</td><td>SF Bounty 3: A Green Place</td><td>1</td></tr><tr><td>Dim19/11</td><td>14h-19h</td><td>Toutes</td><td>Scénario Special interactif : PFS2 2-00: The King in Thorns</td><td>1-8</td></tr><tr><td>Dim19/11</td><td>20h-01h</td><td>Table 1</td><td>SFS 1-00: Claim to Salvation</td><td>Prétirés niv 5</td></tr><tr><td>Dim19/11</td><td>20h-01h</td><td>Table 2</td><td>PFS2 5-03: Heidmarch Heist</td><td>5-8</td></tr></table>
+
 
 
 
@@ -83,21 +55,9 @@ La programmation ci-dessous peut encore évoluer d'ici novembre. Les mises à jo
 
 **Concernant les parties sur Discord,** profitez de la programmation suivante.
 
-{| CLASS="tablo centre"
-|+ Parties sur discord
-|- CLASS="titre"
-| Scénario || Durée
-|- CLASS="premier"
-| PF2e Quest 15 - In the footsteps of horror || Courte
-|-
-| PF2e Quest 04 - Port Peril Pub Crawl || Courte
-|-
-| SFRPG Drift Case File - A charmed life || Moyenne
-|-
-| PFS2 1-00 Origin of the open road || Moyenne
-|-
-| SFS 1-02 Fugitive on the Red Planet || Moyenne
-|}
+
+<table CLASS="tablo centre"><caption>Parties sur discord</caption><tr CLASS="titre"><td>Scénario</td><td>Durée</td></tr><tr CLASS="premier"><td>PF2e Quest 15 - In the footsteps of horror</td><td>Courte</td></tr><tr><td>PF2e Quest 04 - Port Peril Pub Crawl</td><td>Courte</td></tr><tr><td>SFRPG Drift Case File - A charmed life</td><td>Moyenne</td></tr><tr><td>PFS2 1-00 Origin of the open road</td><td>Moyenne</td></tr><tr><td>SFS 1-02 Fugitive on the Red Planet</td><td>Moyenne</td></tr></table>
+
 
 La durée des parties sur Discord dépend essentiellement des membres autour de la table, nous vous indiquons à titre informatif les durées observées.
 - Une partie courte correspond au scénarios de type Quests ou bounty et se déroule en moyenne sur 2 semaines

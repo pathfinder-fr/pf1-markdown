@@ -21,65 +21,18 @@ Le personnage peut modifier l’attitude des [[PNJ]] en réussissant un test de 
 Un personnage ne peut pas utiliser la compétence de Diplomatie contre une créature qui ne le comprend pas ou qui possède une [[Intelligence]] inférieure ou égale à 3. En règle générale, cette compétence n’a aucun effet en combat, ni contre des créatures qui ont l’intention de nuire au personnage ou à ses alliés dans les quelques secondes à venir. Les modifications d’attitude résultant d’un test de Diplomatie persistent en moyenne pendant 1d4 heures mais elles peuvent durer plus ou moins longtemps selon les situations (à l’appréciation du MJ).
 
 <center>
-{| CLASS="tablo"
-|+ Test de diplomatie
-|- CLASS="titre"
-| Attitude initiale
-| DD du test de Diplomatie
-|- CLASS="premier"
-| Hostile
-| 25 + modificateur de [[Charisme]] de la créature
-|- CLASS="alt"
-| Inamical
-| 20 + modificateur de [[Charisme]] de la créature
-|-
-| Indifférent
-| 15 + modificateur de [[Charisme]] de la créature
-|- CLASS="alt"
-| Amical
-| 10 + modificateur de [[Charisme]] de la créature
-|-
-| Serviable
-| 0 + modificateur de [[Charisme]] de la créature
-|}
+
+<table CLASS="tablo"><caption>Test de diplomatie</caption><tr CLASS="titre"><td>Attitude initiale</td><td>DD du test de Diplomatie</td></tr><tr CLASS="premier"><td>Hostile</td><td>25 + modificateur de [[Charisme]] de la créature</td></tr><tr CLASS="alt"><td>Inamical</td><td>20 + modificateur de [[Charisme]] de la créature</td></tr><tr><td>Indifférent</td><td>15 + modificateur de [[Charisme]] de la créature</td></tr><tr CLASS="alt"><td>Amical</td><td>10 + modificateur de [[Charisme]] de la créature</td></tr><tr><td>Serviable</td><td>0 + modificateur de [[Charisme]] de la créature</td></tr></table>
+
 </center>
 
 Le personnage peut tenter de demander un service à une créature dont l’attitude est indifférente, amicale ou serviable. Cela nécessite un nouveau test de Diplomatie dont on détermine le [[DD]] comme suit : on part du DD correspondant à l’attitude de la créature et on lui applique les modificateurs qui suivent. Une créature à l’attitude serviable acceptera généralement toutes les requêtes du personnage sans qu’un test soit nécessaire, à moins qu'on lui demande de faire quelque chose de contraire à sa nature ou de se mettre en grave danger. Certaines demandes qui vont à l’encontre des valeurs de la créature ou de sa nature échouent automatiquement (à l’appréciation du MJ).
 
 <center>
-{| CLASS="tablo"
-|+ Modificateurs pour obtenir un service
-|- CLASS="titre"
-| Requête || Modificateur au DD  
- du test de Diplomatie
-|- CLASS="premier"
-| Donner un conseil général ou indiquer le chemin
-| -5
-|- CLASS="alt"
-| Donner des conseils précis
-| +0
-|-
-| Aider (par un acte simple)
-| +0
-|- CLASS="alt"
-| Révéler un secret peu important
-| +5
-|-
-| Aider (par un acte long ou complexe)
-| +5
-|- CLASS="alt"
-| Aider (par un acte dangereux)
-| +10
-|-
-| Révéler un secret important
-| +10 ou plus
-|- CLASS="alt"
-| Aider (par un acte qui risque d’être puni)
-| +15 ou plus
-|-
-| Requêtes supplémentaires
-| +5 par requête
-|}
+
+<table CLASS="tablo"><caption>Modificateurs pour obtenir un service</caption><tr CLASS="titre"><td>Requête</td><td>Modificateur au DD  
+ du test de Diplomatie</td></tr><tr CLASS="premier"><td>Donner un conseil général ou indiquer le chemin</td><td>-5</td></tr><tr CLASS="alt"><td>Donner des conseils précis</td><td>+0</td></tr><tr><td>Aider (par un acte simple)</td><td>+0</td></tr><tr CLASS="alt"><td>Révéler un secret peu important</td><td>+5</td></tr><tr><td>Aider (par un acte long ou complexe)</td><td>+5</td></tr><tr CLASS="alt"><td>Aider (par un acte dangereux)</td><td>+10</td></tr><tr><td>Révéler un secret important</td><td>+10 ou plus</td></tr><tr CLASS="alt"><td>Aider (par un acte qui risque d’être puni)</td><td>+15 ou plus</td></tr><tr><td>Requêtes supplémentaires</td><td>+5 par requête</td></tr></table>
+
 </center>
 
 *Renseignements.* Le personnage peut également utiliser la compétence de Diplomatie pour recueillir des informations sur un sujet ou un individu spécifique. Pour ce faire, il doit visiter les tavernes locales, les marchés et les autres lieux de rencontre pendant 1d4 heures. Le [[DD]] de ce test dépend de l’accessibilité des informations recherchées. Pour les faits ou les rumeurs bien connus, le DD est généralement de 10. Lorsqu’il s’agit de secrets ou de choses peu connues, le DD peut grimper à 20 ou plus encore. Le [[MJ]] est également à même de décider que certains sujets sont tout simplement inconnus des gens du peuple.

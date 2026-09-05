@@ -75,17 +75,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Ces dons sont accessibles aux gripplis :
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | &nbsp;
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Langue agile]]</td><td><sup>MR</sup></td><td>[[Grippli (race)|Grippli]]</td><td>Le grippli obtient une langue agile d'une portée de 3 m qui lui permet de subtiliser ou désarmer ses adversaires ou de porter des attaques de contact au corps à corps</td></tr></table>
 
-|- CLASS="premier"
-| [[Langue agile]] || <sup>MR</sup> || [[Grippli (race)|Grippli]] || Le grippli obtient une langue agile d'une portée de 3 m qui lui permet de subtiliser ou désarmer ses adversaires ou de porter des attaques de contact au corps à corps
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

@@ -36,15 +36,9 @@ LastModified: 2020-09-20 00:19
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'hydromètre
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hydromètre géant]] || 1
-|-
-| [[Nymphe dhydromètre|Nymphe d'hydromètre]] || 1/4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'hydromètre</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hydromètre géant]]</td><td>1</td></tr><tr><td>[[Nymphe dhydromètre|Nymphe d'hydromètre]]</td><td>1/4</td></tr></table>
+
 </div>*Cet insecte est doté de longues pattes duveteuses qui lui permettent de marcher sur l’eau tout aussi facilement que sur la terre ferme.*
 
 Un hydromètre géant est un insecte aux longues pattes capable de marcher sur l’eau. Il se nourrit de poissons et d’oiseaux. Les hydromètres utilisent leur faible capacité de vol uniquement pour échapper aux prédateurs ou pour effectuer leurs migrations saisonnières vers de nouvelles zones de reproduction. Les humanoïdes qui vivent près des côtes les dressent parfois pour en faire des montures. Un hydromètre géant vit 1 à 2 ans.

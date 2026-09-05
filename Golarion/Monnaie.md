@@ -21,25 +21,9 @@ Si ça s’achète, c’est en vente à La Monnaie. L’argent fait autorité ic
 
 *Prix en pièces d'or ; Loyer par mois*
 
-{| CLASS="tablo"
-|+ Prix du logement
-|- CLASS="titre"
-| Type de logement || Achat || Location
-|- CLASS="premier"
-| Donjon || Ø || 5 000
-|-
-| Manoir || 100 000 || 1 000
-|-
-| Villa || 60 000 || 500
-|-
-| Maison || 40 000 || 200
-|-
-| Appartement || 7-25 000 || 100
-|-
-| Chambre || 2-8 000 || 20-50
-|-
-| Dortoir || 20-50 || 2-8
-|}
+
+<table CLASS="tablo"><caption>Prix du logement</caption><tr CLASS="titre"><td>Type de logement</td><td>Achat</td><td>Location</td></tr><tr CLASS="premier"><td>Donjon</td><td>Ø</td><td>5 000</td></tr><tr><td>Manoir</td><td>100 000</td><td>1 000</td></tr><tr><td>Villa</td><td>60 000</td><td>500</td></tr><tr><td>Maison</td><td>40 000</td><td>200</td></tr><tr><td>Appartement</td><td>7-25 000</td><td>100</td></tr><tr><td>Chambre</td><td>2-8 000</td><td>20-50</td></tr><tr><td>Dortoir</td><td>20-50</td><td>2-8</td></tr></table>
+
 
 (((
 Nourriture : 100% (x1){br}

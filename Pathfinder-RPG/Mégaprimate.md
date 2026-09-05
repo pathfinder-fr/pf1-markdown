@@ -39,19 +39,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de singe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Singe]] || 1/4
-|-
-| [[Gorille]] || 2
-|-
-| [[Gorille sanguinaire]] || 3
-|-
-| [[Mégaprimate]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de singe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Singe]]</td><td>1/4</td></tr><tr><td>[[Gorille]]</td><td>2</td></tr><tr><td>[[Gorille sanguinaire]]</td><td>3</td></tr><tr><td>[[Mégaprimate]]</td><td>8</td></tr></table>
+
 </div>*La majeure partie du corps de ce singe titanesque au cuir épais est recouvert d’une abondante fourrure grise et brune.*
 
 Les prédateurs dominants appelés mégaprimates règnent sans pratiquement aucune concurrence sur les bêtes préhistoriques des royaumes oubliés et perdus. Très territoriaux, ils tentent d’intimider toutes les autres grandes créatures menaçantes pour les pousser à fuir le domaine qu’ils se sont octroyé et les affrontent si elles refusent de partir. Dès qu’un mégaprimate a recours à la violence, il ne fait preuve d’aucune pitié et ses ennemis n’ont d’autre choix que de fuir ou mourir.

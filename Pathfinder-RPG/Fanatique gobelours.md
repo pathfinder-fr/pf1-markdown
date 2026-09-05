@@ -44,33 +44,9 @@ Categories:
 </div>
 
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de gobelours
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gobelours]] || 2
-|-
-| [[Grincedent gobelours]] || 4
-|-
-| [[Traqueur gobelours]] || 5
-|-
-| [[Fanatique gobelours]] || 7
-|-
-| [[Dévoreur gobelours]] || 8
-|-
-| [[Rôdeur gobelours]] || 8
-|-
-| [[Spectre terrifiant]] || 8
-|-
-| [[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]] || 10
-|-
-| [[Ombre discrète gobelours]] || 10
-|-
-| [[Mage du sang gobelours]] || 11
-|-
-| [[Tyran gobelours]] || 13
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de gobelours</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gobelours]]</td><td>2</td></tr><tr><td>[[Grincedent gobelours]]</td><td>4</td></tr><tr><td>[[Traqueur gobelours]]</td><td>5</td></tr><tr><td>[[Fanatique gobelours]]</td><td>7</td></tr><tr><td>[[Dévoreur gobelours]]</td><td>8</td></tr><tr><td>[[Rôdeur gobelours]]</td><td>8</td></tr><tr><td>[[Spectre terrifiant]]</td><td>8</td></tr><tr><td>[[Gobelours adepte de lembuscade|Gobelours adepte de l'embuscade]]</td><td>10</td></tr><tr><td>[[Ombre discrète gobelours]]</td><td>10</td></tr><tr><td>[[Mage du sang gobelours]]</td><td>11</td></tr><tr><td>[[Tyran gobelours]]</td><td>13</td></tr></table>
+
 </div> Les cultes gobelours sont souvent de petite taille et dotés d'une espérance de vie réduite, placés sous les ordres de fanatiques virulents se prétendant prophètes. Les fanatiques sont persuadés qu'ils ont reçu une bénédiction spéciale leur donnant pouvoir (et autorité) pour terroriser le monde. Ils utilisent leurs sorts et leurs malédictions comme preuves de ce statut spécial. La plupart des prophètes gobelours règnent sur un petit groupe de créatures inférieurs, en général des [[Gobelin|gobelins]] ou des [[Kobold|kobolds]] crédules, mais il arrive que leurs ouailles soient plus originales : des [[Gorille sanguinaire|gorilles sanguinaires]], des [[Ettercap|ettercaps]] ou des [[Hurleur|hurleurs]] par exemple.
 
 Les divers cultes gobelours sont divergents, parfois même contradictoires, et personne n'oserait qualifier leur religion d'organisée. La plupart se contentent d'adresser des remerciements occasionnels au premier seigneur démon dont ils croisent le nom. Un fanatique capable de prononcer un discours religieux relativement structuré et de lancer de puissants sorts convainc parfois d'autres gobelours d'embrasser sa religion. Ces fanatiques vénèrent des dieux des batailles, en particulier des seigneurs démons et, si leurs rituels varient grandement, ils comportent presque tous de violents sacrifices sanglants. Quelques fanatiques incroyablement prétentieux se considèrent comme de véritables prophètes ou même des dieux vivants.

@@ -13,53 +13,9 @@ Categories:
 Les maîtres chymistes développent deux personnalités qui se partagent un même corps. L’immense «  forme mutée  » issue des prouesses alchimiques et l’alchimiste originel qui l’a créée se considèrent tous deux comme la véritable forme de leur être et ils doivent apprendre à travailler de concert pour atteindre leurs objectifs communs. Bien souvent les maîtres chymistes finissent par se laisser supplanter par leur forme mutée et le corps comme l’esprit de l’alchimiste originel refait surface uniquement si les coutumes sociales l’exigent ou si la discrétion est de rigueur. Malheureusement, la forme mutée du maître chymiste est souvent violente et impitoyable (ce qui risque de créer des conflits entre les deux versions du même personnage).''
 
 <center>
-{| CLASS="tablo"
-|+ Le maître chymiste
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +1 || +1 || +0
-| CLASS="gauche" | [[maître chymiste#FORMEMUTEE|Forme mutée]], [[maître chymiste#LANCEURDEBOMBES|Lanceur de bombes]], [[maître chymiste#MUTATION|Mutation]] 2/jour
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|-
-| 3 || +3 || +2 || +2 || +1
-| CLASS="gauche" | [[maître chymiste#VIOLENCE|Violence]] +2
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|- CLASS="alt"
-| 4 || +4 || +2 || +2 || +1
-| CLASS="gauche" | [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
-| CLASS="gauche" | -
-|-
-| 5 || +5 || +3 || +3 || +2
-| CLASS="gauche" | [[maître chymiste#MUTATION|Mutation]] 3/jour
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|- CLASS="alt"
-| 6 || +6 || +3 || +3 || +2
-| CLASS="gauche" | [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|-
-| 7 || +7 || +4 || +4 || +2
-| CLASS="gauche" | [[maître chymiste#VIOLENCE|Violence]] +4
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|- CLASS="alt"
-| 8 || +8 || +4 || +4 || +3
-| CLASS="gauche" | [[maître chymiste#MUTATION|Mutation]] 4/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
-| CLASS="gauche" | -
-|-
-| 9 || +9 || +5 || +5 || +3
-| CLASS="gauche" | [[maître chymiste#VIOLENCE|Violence]] +6
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|- CLASS="alt"
-| 10 || +10 || +5 || +5 || +3
-| CLASS="gauche" | [[maître chymiste#MUTATION|Mutation]] 5/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]
-| CLASS="gauche" | [[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]
-|}
+
+<table CLASS="tablo"><caption>Le maître chymiste</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td><td CLASS="gauche">[[maître chymiste#FORMEMUTEE|Forme mutée]], [[maître chymiste#LANCEURDEBOMBES|Lanceur de bombes]], [[maître chymiste#MUTATION|Mutation]] 2/jour</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +2</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">-</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 3/jour</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +4</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 4/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">-</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[maître chymiste#VIOLENCE|Violence]] +6</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[maître chymiste#MUTATION|Mutation]] 5/jour, [[maître chymiste#MUTAGENEEVOLUE|Mutagène évolué]]</td><td CLASS="gauche">[[maître chymiste#EXTRAITS|+1 niveau d'alchimiste]]</td></tr></table>
+
 </center>
 
 **Rôle.** Une fois que les maîtres chymistes ont révélé leur véritable nature, ils sont rarement les bienvenus dans la société et se déplacent donc continuellement. Les aventures représentent l’une des rares formes d’activités pour lesquelles leur apparence monstrueuse s’avère utile, ce qui pousse bon nombre d’entre eux à constamment explorer de dangereuses régions en bordure de la civilisation. La résistance du maître chymiste et son aptitude à semer le chaos à distance à grands coups de bombes combinées à ses dons pour le carnage au corps à corps en font un excellent atout pour de nombreux groupes d’aventuriers, ce qui lui permet de trouver des compagnons qui acceptent au moins d’ignorer ses traits les plus répugnants.

@@ -35,17 +35,9 @@ Categories:
 {s:BDTexte|**Vrai courage (Ext).** La douleur et la mort ne suffisent pas à faire cesser le combat à un grand dracosire d'argent. Lorsqu'il est réduit à moins de 0 points de vie, il reste conscient, se [[stable|stabilise]] automatiquement et peut continuer d'agir (bien qu'il soit [[chancelant]]). S'il subit des dégâts suffisants pour causer sa mort ou s'il est la cible d'un sort qui cause sa mort, il reste en vie et peut agir normalement pendant 1 round de plus (il n'est pas [[chancelant]] au cours de se dernier round).}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon d'argent
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon dargent|Jeune dragon d'argent]] || &nbsp; || 10
-|-
-| [[Dragon dargent adulte|Dragon d'argent adulte]] || &nbsp; || 14
-|-
-| [[Dragon dargent vénérable|Dragon d'argent vénérable]] || &nbsp; || 19
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon d'argent</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon dargent|Jeune dragon d'argent]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon dargent adulte|Dragon d'argent adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon dargent vénérable|Dragon d'argent vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Les écailles de ce grand dragon élégant brillent comme de l’argent lustré et on dirait que sa queue est couverte de plumes.*
 
 Les dragons d’argent sont les plus
@@ -56,36 +48,10 @@ faibles, de vaincre le Mal et de se comporter
 de manière honorable.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS<sup>*</sup>
-|- CLASS="premier"
-| Dragonnet || changement de forme, immunité (acide),   
-souffle paralysant, sous-type [[sous-type froid|froid]] || —
-|- CLASS="alt"
-| Très jeune || *[[détection du Mal]]*, marche sur les nuages || —
-|-
-| Jeune || vol gracieux || 1
-|- CLASS="alt"
-| Adolescent || *[[feuille morte]]*, vision malgré le brouillard || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || *[[nappe de brouillard]]*, [[présence terrifiante]] || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || aura de froid, *[[contrôle des vents]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[contrôle du climat]]*, écailles réfléchissantes || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || *[[inversion de la gravité]]*, vrai courage || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr><tr CLASS="premier"><td>Dragonnet</td><td>changement de forme, immunité (acide),   
+souffle paralysant, sous-type [[sous-type froid|froid]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[détection du Mal]]*, marche sur les nuages</td><td>—</td></tr><tr><td>Jeune</td><td>vol gracieux</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[feuille morte]]*, vision malgré le brouillard</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[nappe de brouillard]]*, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura de froid, *[[contrôle des vents]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[contrôle du climat]]*, écailles réfléchissantes</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>*[[inversion de la gravité]]*, vrai courage</td><td>19</td></tr></table>
+
 </center>
 
 - Un dragon d'argent peut lancer des sorts divins comme s'il s'agissait de sorts profanes.

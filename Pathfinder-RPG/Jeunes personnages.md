@@ -12,36 +12,14 @@ Categories:
 ### La création des jeunes personnages
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 420px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Détermination aléatoire de l'âge de départ des jeunes
-|- CLASS="titre"
-| Race
-| Jeunesse<sup>1</sup>
-|  [[Expert]],  
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Détermination aléatoire de l'âge de départ des jeunes</caption><tr CLASS="titre"><td>Race</td><td>Jeunesse<sup>1</sup></td><td>[[Expert]],  
 [[Homme du peuple]],  
-[[Noble]]
-| [[Adepte]],  
-[[Homme darme|Homme d'arme]]
-| Âge  
-adulte<sup>2</sup>
-|- CLASS="premier"
-| Humain || 8 ans || +1d6 || +2d3 || 15 ans
-|-
-| Nain || 20 ans || +2d6 || +4d4 || 40 ans
-|-
-| Elfe || 55 ans || +4d6 || +6d6 || 110 ans
-|-
-| Gnome || 20 ans || +4d4 || +3d6 || 40 ans
-|-
-| Demi-elfe || 10 ans || +1d4 || +1d6 || 20 ans
-|-
-| Demi-orque || 7 ans || +1d6 || +2d3 || 14 ans
-|-
-| Halfelin || 10 ans || +1d6 || +2d4 || 20 ans
-|- Class="note"
-| COLSPAN=5 | **1** Pendant la jeunesse Dex +2 ; -2 en For, Con et Sag.  
- **2** À l’âge adulte, les ajustements aux valeurs de caractéristiques du jeune âge disparaissent.
-|}
+[[Noble]]</td><td>[[Adepte]],  
+[[Homme darme|Homme d'arme]]</td><td>Âge  
+adulte<sup>2</sup></td></tr><tr CLASS="premier"><td>Humain</td><td>8 ans</td><td>+1d6</td><td>+2d3</td><td>15 ans</td></tr><tr><td>Nain</td><td>20 ans</td><td>+2d6</td><td>+4d4</td><td>40 ans</td></tr><tr><td>Elfe</td><td>55 ans</td><td>+4d6</td><td>+6d6</td><td>110 ans</td></tr><tr><td>Gnome</td><td>20 ans</td><td>+4d4</td><td>+3d6</td><td>40 ans</td></tr><tr><td>Demi-elfe</td><td>10 ans</td><td>+1d4</td><td>+1d6</td><td>20 ans</td></tr><tr><td>Demi-orque</td><td>7 ans</td><td>+1d6</td><td>+2d3</td><td>14 ans</td></tr><tr><td>Halfelin</td><td>10 ans</td><td>+1d6</td><td>+2d4</td><td>20 ans</td></tr><tr Class="note"><td COLSPAN=5>**1** Pendant la jeunesse Dex +2 ; -2 en For, Con et Sag.  
+ **2** À l’âge adulte, les ajustements aux valeurs de caractéristiques du jeune âge disparaissent.</td></tr></table>
+
 </div></div>Les jeunes personnages sont principalement des personnages normaux d’une catégorie d’âge inférieure à ce qui est présenté dans les règles de base. Les personnages de cette tranche d’âge sont compétents et intelligents, curieux et talentueux, mais ne sont pas encore expérimentés. Ils sont à l’orée de grandes réalisations mais ont encore une longueur de retard. Cette jeunesse est représentée de trois manières : les ajustements portés aux valeurs de caractéristiques, les restrictions sur les classes accessibles et une acquisition plus lente des traits.
 
 **L’ajustement des valeurs de caractéristiques.** De la même manière qu’un personnage adulte ajuste ses valeurs de caractéristiques quand il atteint l’âge mûr, quand il devient vieux et quand il atteint un âge vénérable, les jeunes personnages appartiennent à une nouvelle catégorie d’âge correspondant à la pré-majorité et ont, de ce fait, des valeurs de caractéristiques altérées même si la vigueur de la jeunesse leur apporte quelques avantages. Les jeunes personnages ont un bonus de +2 en Dextérité et un malus de -2 en Force, en Constitution et en Sagesse. (L’inexpérience et la lourdeur potentielles d’un jeune personnage sont représentées dans le fait qu’il n’a que les rangs de compétences d’un personnage de niveau 1 plutôt que d’avoir un malus en Intelligence ou en Charisme.)

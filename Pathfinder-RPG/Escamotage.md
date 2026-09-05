@@ -31,18 +31,9 @@ Il faut réussir un test d’Escamotage contre un [[DD]] de 20 pour dérober que
 On peut aussi utiliser la compétence d’Escamotage pour distraire une audience (comme avec la compétence de [[Représentation]]). Dans ce cas, le personnage jongle, fait des tours de passe-passe et ainsi de suite.
 
 <center>
-{| CLASS="tablo"
-|+ Tests d'escamotage
-|- CLASS="titre"
-| DD du test d’Escamotage
-| CLASS="gauche" | Tâche
-|- CLASS="premier"
-| 10
-| CLASS="gauche" | Se saisir discrètement d’un objet de la taille d’une pièce de monnaie, faire disparaître une pièce
-|- CLASS="alt"
-| 20
-| CLASS="gauche" | Dérober un petit objet à une personne
-|}
+
+<table CLASS="tablo"><caption>Tests d'escamotage</caption><tr CLASS="titre"><td>DD du test d’Escamotage</td><td CLASS="gauche">Tâche</td></tr><tr CLASS="premier"><td>10</td><td CLASS="gauche">Se saisir discrètement d’un objet de la taille d’une pièce de monnaie, faire disparaître une pièce</td></tr><tr CLASS="alt"><td>20</td><td CLASS="gauche">Dérober un petit objet à une personne</td></tr></table>
+
 </center>
 
 ### Action

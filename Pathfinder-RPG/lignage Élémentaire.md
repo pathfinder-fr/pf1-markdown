@@ -32,19 +32,9 @@ Au niveau 1, le personnage choisit un élément parmi Air, Eau, Feu et Terre. Un
 
 **Mouvement élémentaire (Sur).** Au niveau 15, le personnage acquiert un mode de déplacement spécial ou un bonus à sa [[vitesse de déplacement]] de base. Ce pouvoir dépend de l’élément choisi, comme indiqué dans la table ci-dessous.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Table des éléments et des énergies associées
-|- CLASS="titre"
-| Élément || Type d'énergie |Mode de déplacement
-|- CLASS="premier"
-| Air || électricité || vol 18 m (12 cases) (manœuvrabilité moyenne)
-|-
-| Eau || froid || nage 18 m (12 cases)
-|-
-| Feu || feu || [[vitesse de déplacement]] augmentée de 9 m (6 cases)
-|-
-| Terre || acide || creusement 9 m (6 cases)
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Table des éléments et des énergies associées</caption><tr CLASS="titre"><td>Élément</td><td>Type d'énergie |Mode de déplacement</td></tr><tr CLASS="premier"><td>Air</td><td>électricité</td><td>vol 18 m (12 cases) (manœuvrabilité moyenne)</td></tr><tr><td>Eau</td><td>froid</td><td>nage 18 m (12 cases)</td></tr><tr><td>Feu</td><td>feu</td><td>[[vitesse de déplacement]] augmentée de 9 m (6 cases)</td></tr><tr><td>Terre</td><td>acide</td><td>creusement 9 m (6 cases)</td></tr></table>
+
 
 **Corps élémentaire (Sur).** Au niveau 20, le pouvoir des éléments se répand dans tout le corps du personnage. Celui-ci développe une immunité aux [[attaque sournoise|attaques sournoises]], aux [[coup critique|coups critiques]] et aux dégâts du type d’énergie associé à l’élément choisi.
 

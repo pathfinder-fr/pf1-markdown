@@ -46,23 +46,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de naga
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Naga aquatique]] || 7
-|-
-| [[Naga corrupteur]] || 9
-|-
-| [[Naga gardien]] || 10
-|-
-| [[Naga lunaire]] || 6
-|-
-| [[Naga royal]] || 11
-|-
-| [[Naga ténébreux]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de naga</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Naga aquatique]]</td><td>7</td></tr><tr><td>[[Naga corrupteur]]</td><td>9</td></tr><tr><td>[[Naga gardien]]</td><td>10</td></tr><tr><td>[[Naga lunaire]]</td><td>6</td></tr><tr><td>[[Naga royal]]</td><td>11</td></tr><tr><td>[[Naga ténébreux]]</td><td>8</td></tr></table>
+
 </div>*Le beau visage de cette femme est encadré d’une chevelure d’un blanc parfait et ses écailles noires brillent de manière hypnotique.*
 
 Les nagas lunaires sont de patients observateurs du ciel nocturne. Ils adorent la cosmologie et croient fortement en l’astrologie, étudiant une poignée de zodiaques complexes. Certains d’entre eux possèdent même des connaissances sur les choses indicibles qui vivent dans les sombres espaces qui s’étendent entre les étoiles. Un naga lunaire mesure plus de 3 mètres de long de son visage pâle au bout de sa queue et pèse près de 100 kilos.

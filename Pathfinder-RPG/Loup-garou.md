@@ -68,27 +68,9 @@ Categories:
 {s:BDTexte|**Trésor** équipement de PNJ (arbalète légère avec 20 carreaux, cotte de mailles, épée longue, autres trésors)}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de lycanthrope
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Chauve-souris garou]] || 3
-|-
-| [[Crocodile garou]] || 3
-|-
-| [[Loup-garou]] || 2
-|-
-| [[Ours-garou]] || 4
-|-
-| [[Rat-garou]] || 2
-|-
-| [[Requin garou]] || 3
-|-
-| [[Sanglier-garou]] || 2
-|-
-| [[Tigre-garou]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de lycanthrope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Chauve-souris garou]]</td><td>3</td></tr><tr><td>[[Crocodile garou]]</td><td>3</td></tr><tr><td>[[Loup-garou]]</td><td>2</td></tr><tr><td>[[Ours-garou]]</td><td>4</td></tr><tr><td>[[Rat-garou]]</td><td>2</td></tr><tr><td>[[Requin garou]]</td><td>3</td></tr><tr><td>[[Sanglier-garou]]</td><td>2</td></tr><tr><td>[[Tigre-garou]]</td><td>4</td></tr></table>
+
 </div>
 <ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir l'archétype [[Lycanthrope, archétype|Lycanthrope]].***</li></ul>*Cette créature musclée possède le corps d’un homme mais sa tête et sa fourrure font plutôt penser à un loup qui grogne.*
 

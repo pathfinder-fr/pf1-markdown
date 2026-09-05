@@ -23,21 +23,12 @@ Chaque défi que les [[PJ]] doivent affronter prend la forme d’un contretemps 
 #### Relever les défis
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Une tâche  
-tentée || Deux tâches tentées || Résultat du défi
-|- CLASS="premier"
-| — || Réussite aux deux || Réussite critique
-|-
-| Réussie || 1 réussie et 1 ratée  
-de moins de 5 || Réussite
-|-
-| Ratée || 1 réussie et 1 ratée  
-de plus de 5 || Échec
-|-
-| — || Échec aux deux || Échec critique
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Une tâche  
+tentée</td><td>Deux tâches tentées</td><td>Résultat du défi</td></tr><tr CLASS="premier"><td>—</td><td>Réussite aux deux</td><td>Réussite critique</td></tr><tr><td>Réussie</td><td>1 réussie et 1 ratée  
+de moins de 5</td><td>Réussite</td></tr><tr><td>Ratée</td><td>1 réussie et 1 ratée  
+de plus de 5</td><td>Échec</td></tr><tr><td>—</td><td>Échec aux deux</td><td>Échec critique</td></tr></table>
+
 </div></div>Chaque défi implique deux tâches. Un créateur peut tenter d’accomplir une seule tâche ou deux créateurs peuvent chacun choisir une tâche différente. Ce choix des tâches à accomplir doit être fait avant de procéder aux tests associés. Les créateurs ne peuvent pas faire 10 ou 20 (même avec [[Barde#SAVOIRBARDIQUE|savoir bardique]] ou maîtrise des compétences) ni bénéficier de l’action [[aider qqn|aider quelqu’un]] lors des tâches de création d’objets.
 
 Certaines tâches ne nécessitent aucun test mais imposent d’autres conditions de réussite. Si un créateur entreprend pareille tâche, celle-ci doit être réalisée avant que le créateur ne s’essaye à la tâche impliquant un test.
@@ -112,58 +103,9 @@ Le personnage apporte les touches finales à l’objet.
 ### Défis aléatoires
 Le [[MJ]] doit effectuer un jet et consulter la table ci-dessous pour déterminer les défis auxquels les [[PJ]] sont confrontés lors de la fabrication de l’objet. Sinon, il peut choisir un défi particulier en fonction des circonstances de la campagne.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d100 || Défi
-|- CLASS="premier"
-| 01-04 || [[Création dynamique dobjets magiques#Mutation aberrante|Mutation aberrante]]
-|-
-| 05-08 || [[Création dynamique dobjets magiques#Construction difficile|Construction difficile]]
-|-
-| 09-12 || [[Création dynamique dobjets magiques#Instructions contradictoires|Instructions contradictoires]]
-|-
-| 13-16 || [[Création dynamique dobjets magiques#Références croisées cryptiques|Références croisées cryptiques]]
-|-
-| 17-20 || [[Création dynamique dobjets magiques#Visiteur impromptu|Visiteur impromptu]]
-|-
-| 21-24 || [[Création dynamique dobjets magiques#Exigence émotionnelle|Exigence émotionnelle]]
-|-
-| 25-28 || [[Création dynamique dobjets magiques#Surcharge d'énergie|Surcharge d’énergie]]
-|-
-| 29-32 || [[Création dynamique dobjets magiques#Offre alléchante|Offre alléchante]]
-|-
-| 33-36 || [[Création dynamique dobjets magiques#Composantes fragiles|Composantes fragiles]]
-|-
-| 37-40 || [[Création dynamique dobjets magiques#Obstacle historique|Obstacle historique]]
-|-
-| 41-44 || [[Création dynamique dobjets magiques#Ingrédients illégaux|Ingrédients illégaux]]
-|-
-| 45-48 || [[Création dynamique dobjets magiques#Ingrédients infestés|Ingrédients infestés]]
-|-
-| 49-52 || [[Création dynamique dobjets magiques#Ingrédients quasi-conscients|Ingrédients quasi-conscients]]
-|-
-| 53-56 || [[Création dynamique dobjets magiques#Esprit intrusif|Esprit intrusif]]
-|-
-| 57-60 || [[Création dynamique dobjets magiques#Convergence de lignes telluriques|Convergence de lignes telluriques]]
-|-
-| 61-64 || [[Création dynamique dobjets magiques#Résonance magique|Résonance magique]]
-|-
-| 65-68 || [[Création dynamique dobjets magiques#Singularité planaire|Singularité planaire]]
-|-
-| 69-72 || [[Création dynamique dobjets magiques#Référence rare|Référence rare]]
-|-
-| 73-76 || [[Création dynamique dobjets magiques#Pénurie de réactif|Pénurie de réactif]]
-|-
-| 77-80 || [[Création dynamique dobjets magiques#Prérequis royal|Prérequis royal]]
-|-
-| 81-84 || [[Création dynamique dobjets magiques#Élucidation sesquipédalienne|Élucidation sesquipédalienne]]
-|-
-| 85-88 || [[Création dynamique dobjets magiques#Défaut structurel|Défaut structurel]]
-|-
-| 89-92 || [[Création dynamique dobjets magiques#Inspiration soudaine|Inspiration soudaine]]
-|-
-| 93-100 || [[Création dynamique dobjets magiques#DEFISDECLASSE|Défi de classe]]
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>Défi</td></tr><tr CLASS="premier"><td>01-04</td><td>[[Création dynamique dobjets magiques#Mutation aberrante|Mutation aberrante]]</td></tr><tr><td>05-08</td><td>[[Création dynamique dobjets magiques#Construction difficile|Construction difficile]]</td></tr><tr><td>09-12</td><td>[[Création dynamique dobjets magiques#Instructions contradictoires|Instructions contradictoires]]</td></tr><tr><td>13-16</td><td>[[Création dynamique dobjets magiques#Références croisées cryptiques|Références croisées cryptiques]]</td></tr><tr><td>17-20</td><td>[[Création dynamique dobjets magiques#Visiteur impromptu|Visiteur impromptu]]</td></tr><tr><td>21-24</td><td>[[Création dynamique dobjets magiques#Exigence émotionnelle|Exigence émotionnelle]]</td></tr><tr><td>25-28</td><td>[[Création dynamique dobjets magiques#Surcharge d'énergie|Surcharge d’énergie]]</td></tr><tr><td>29-32</td><td>[[Création dynamique dobjets magiques#Offre alléchante|Offre alléchante]]</td></tr><tr><td>33-36</td><td>[[Création dynamique dobjets magiques#Composantes fragiles|Composantes fragiles]]</td></tr><tr><td>37-40</td><td>[[Création dynamique dobjets magiques#Obstacle historique|Obstacle historique]]</td></tr><tr><td>41-44</td><td>[[Création dynamique dobjets magiques#Ingrédients illégaux|Ingrédients illégaux]]</td></tr><tr><td>45-48</td><td>[[Création dynamique dobjets magiques#Ingrédients infestés|Ingrédients infestés]]</td></tr><tr><td>49-52</td><td>[[Création dynamique dobjets magiques#Ingrédients quasi-conscients|Ingrédients quasi-conscients]]</td></tr><tr><td>53-56</td><td>[[Création dynamique dobjets magiques#Esprit intrusif|Esprit intrusif]]</td></tr><tr><td>57-60</td><td>[[Création dynamique dobjets magiques#Convergence de lignes telluriques|Convergence de lignes telluriques]]</td></tr><tr><td>61-64</td><td>[[Création dynamique dobjets magiques#Résonance magique|Résonance magique]]</td></tr><tr><td>65-68</td><td>[[Création dynamique dobjets magiques#Singularité planaire|Singularité planaire]]</td></tr><tr><td>69-72</td><td>[[Création dynamique dobjets magiques#Référence rare|Référence rare]]</td></tr><tr><td>73-76</td><td>[[Création dynamique dobjets magiques#Pénurie de réactif|Pénurie de réactif]]</td></tr><tr><td>77-80</td><td>[[Création dynamique dobjets magiques#Prérequis royal|Prérequis royal]]</td></tr><tr><td>81-84</td><td>[[Création dynamique dobjets magiques#Élucidation sesquipédalienne|Élucidation sesquipédalienne]]</td></tr><tr><td>85-88</td><td>[[Création dynamique dobjets magiques#Défaut structurel|Défaut structurel]]</td></tr><tr><td>89-92</td><td>[[Création dynamique dobjets magiques#Inspiration soudaine|Inspiration soudaine]]</td></tr><tr><td>93-100</td><td>[[Création dynamique dobjets magiques#DEFISDECLASSE|Défi de classe]]</td></tr></table>
+
 
 <table width="100%"><tr><td width="49%">
 <div class="BD">
@@ -516,28 +458,11 @@ Un invité inopportun fait irruption alors que le personnage essaye de travaille
 ### Défis de classe
 Pour générer un défi de classe, vous devez déterminer lequel des défis suivants s’applique à au moins l’un des créateurs travaillant sur l’objet et en choisir un au hasard parmi ces différentes options. Si aucun d’eux ne s’applique, choisissez un défi adapté parmi ceux de la partie précédente (comme [[Création dynamique dobjets magiques#Ingrédients illégaux|ingrédients illégaux]] pour un [[roublard]] ou [[Création dynamique dobjets magiques#Référence rare|référence rare]] pour un [[magicien]]).
 
-{| CLASS="tablo centre autoalt toutgauche"
-|- CLASS="titre"
-| Défi || Créateurs appropriés
-|- CLASS="premier"
-| [[Création dynamique dobjets magiques#Crise de foi|Crise de foi]] || Lanceur de sorts divins avec une divinité tutélaire
-|-
-| [[Création dynamique dobjets magiques#Instabilité intérieure|Instabilité intérieure]] || Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [[oracle]] ou un [[ensorceleur]]
-|-
-| [[Création dynamique dobjets magiques#Catastrophe naturelle|Catastrophe naturelle]] || Créateur entretenant un lien avec la nature, comme un [[druide]] ou un [[rôdeur]]
-|-
-| [[Création dynamique dobjets magiques#Merveille naturelle|Merveille naturelle]] || Créateur entretenant un lien avec la nature, comme un [[druide]] ou un [[rôdeur]]
-|-
-| [[Création dynamique dobjets magiques#Aide surnaturelle|Aide surnaturelle]] || Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
-ou une malédiction, comme un [[Lignage Infernal|ensorceleur infernal]], un [[oracle]] ou une [[sorcière]]
-|-
-| [[Création dynamique dobjets magiques#Interférence surnaturelle|Interférence surnaturelle]] || Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
-ou une malédiction, comme un [[Lignage Infernal|ensorceleur infernal]], un [[oracle]] ou une [[sorcière]]
-|-
-| [[Création dynamique dobjets magiques#Élan personnel|Élan personnel]] || Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [[oracle]] ou un [[ensorceleur]]
-|-
-| [[Création dynamique dobjets magiques#Signe des dieux|Signe des dieux]] || Lanceur de sorts divins avec une divinité tutélaire
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td>Défi</td><td>Créateurs appropriés</td></tr><tr CLASS="premier"><td>[[Création dynamique dobjets magiques#Crise de foi|Crise de foi]]</td><td>Lanceur de sorts divins avec une divinité tutélaire</td></tr><tr><td>[[Création dynamique dobjets magiques#Instabilité intérieure|Instabilité intérieure]]</td><td>Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [[oracle]] ou un [[ensorceleur]]</td></tr><tr><td>[[Création dynamique dobjets magiques#Catastrophe naturelle|Catastrophe naturelle]]</td><td>Créateur entretenant un lien avec la nature, comme un [[druide]] ou un [[rôdeur]]</td></tr><tr><td>[[Création dynamique dobjets magiques#Merveille naturelle|Merveille naturelle]]</td><td>Créateur entretenant un lien avec la nature, comme un [[druide]] ou un [[rôdeur]]</td></tr><tr><td>[[Création dynamique dobjets magiques#Aide surnaturelle|Aide surnaturelle]]</td><td>Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
+ou une malédiction, comme un [[Lignage Infernal|ensorceleur infernal]], un [[oracle]] ou une [[sorcière]]</td></tr><tr><td>[[Création dynamique dobjets magiques#Interférence surnaturelle|Interférence surnaturelle]]</td><td>Créateur entretenant un lien avec les extérieurs, les esprits, un protecteur  
+ou une malédiction, comme un [[Lignage Infernal|ensorceleur infernal]], un [[oracle]] ou une [[sorcière]]</td></tr><tr><td>[[Création dynamique dobjets magiques#Élan personnel|Élan personnel]]</td><td>Lanceur de sorts tirant ses pouvoirs de l’intérieur, comme un [[oracle]] ou un [[ensorceleur]]</td></tr><tr><td>[[Création dynamique dobjets magiques#Signe des dieux|Signe des dieux]]</td><td>Lanceur de sorts divins avec une divinité tutélaire</td></tr></table>
+
 
 <table width="100%"><tr><td width="49%">
 <div class="BD">
@@ -657,79 +582,14 @@ Lors du processus de création, le personnage reçoit des signes lui indiquant l
 ### Les extras
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d100 || Extra
-|- CLASS="premier"
-| 01-04 || Léger
-|-
-| 05-08 || Durable
-|-
-| 09-12 || Imperméable
-|-
-| 13-16 || Béni par une énergie
-|-
-| 17-20 || Sacré<sup>1</sup>
-|-
-| 21-24 || Fidèle<sup>1</sup>
-|-
-| 25-28 || Protecteur
-|-
-| 29-32 || Caresse tentaculaire<sup>2</sup>
-|-
-| 33-36 || Gravé
-|-
-| 37-40 || Avide
-|-
-| 41-44 || Lueur ennemie
-|-
-| 45-48 || Ennemi haï<sup>3</sup>
-|-
-| 49-52 || Talentueux
-|-
-| 53-56 || Exemplaire<sup>4</sup>
-|-
-| 57-60 || Modeste
-|-
-| 61-64 || Chanceux
-|-
-| 65-68 || Draconique
-|-
-| 69-72 || Lié mentalement<sup>5</sup>
-|-
-| 73-76 || Messager
-|-
-| 77-79 || Salutaire
-|-
-| 80-82 || Énergétique<sup>3</sup>
-|-
-| 83-85 || Lunaire
-|-
-| 86-88 || Solaire
-|-
-| 89-91 || Puissant
-|-
-| 92-94 || Scrutateur
-|-
-| 95-97 || Réadaptable
-|-
-| 98-100 || Individualiste<sup>3</sup>
-|- CLASS="note"
-| COLSPAN="2" | *(1) Le créateur doit avoir des niveaux  
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>Extra</td></tr><tr CLASS="premier"><td>01-04</td><td>Léger</td></tr><tr><td>05-08</td><td>Durable</td></tr><tr><td>09-12</td><td>Imperméable</td></tr><tr><td>13-16</td><td>Béni par une énergie</td></tr><tr><td>17-20</td><td>Sacré<sup>1</sup></td></tr><tr><td>21-24</td><td>Fidèle<sup>1</sup></td></tr><tr><td>25-28</td><td>Protecteur</td></tr><tr><td>29-32</td><td>Caresse tentaculaire<sup>2</sup></td></tr><tr><td>33-36</td><td>Gravé</td></tr><tr><td>37-40</td><td>Avide</td></tr><tr><td>41-44</td><td>Lueur ennemie</td></tr><tr><td>45-48</td><td>Ennemi haï<sup>3</sup></td></tr><tr><td>49-52</td><td>Talentueux</td></tr><tr><td>53-56</td><td>Exemplaire<sup>4</sup></td></tr><tr><td>57-60</td><td>Modeste</td></tr><tr><td>61-64</td><td>Chanceux</td></tr><tr><td>65-68</td><td>Draconique</td></tr><tr><td>69-72</td><td>Lié mentalement<sup>5</sup></td></tr><tr><td>73-76</td><td>Messager</td></tr><tr><td>77-79</td><td>Salutaire</td></tr><tr><td>80-82</td><td>Énergétique<sup>3</sup></td></tr><tr><td>83-85</td><td>Lunaire</td></tr><tr><td>86-88</td><td>Solaire</td></tr><tr><td>89-91</td><td>Puissant</td></tr><tr><td>92-94</td><td>Scrutateur</td></tr><tr><td>95-97</td><td>Réadaptable</td></tr><tr><td>98-100</td><td>Individualiste<sup>3</sup></td></tr><tr CLASS="note"><td COLSPAN="2">*(1) Le créateur doit avoir des niveaux  
 dans une classe de lanceur de sorts  
-divins ainsi qu’une divinité protectrice.*
-|- CLASS="note"
-| COLSPAN="2" | *(2) L’objet doit produire ses effets au  
-contact, comme un bâton ou une baguette.*
-|- CLASS="note"
-| COLSPAN="2" | *(3) L’objet doit être une arme.*
-|- CLASS="note"
-| COLSPAN="2" | *(4) L’objet doit être une arme, une armure  
-ou un objet que l’on active.*
-|- CLASS="note"
-| COLSPAN="2" | *(5) L’objet doit s’activer par un mot  
-de commande.*
-|}
+divins ainsi qu’une divinité protectrice.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(2) L’objet doit produire ses effets au  
+contact, comme un bâton ou une baguette.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(3) L’objet doit être une arme.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(4) L’objet doit être une arme, une armure  
+ou un objet que l’on active.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(5) L’objet doit s’activer par un mot  
+de commande.*</td></tr></table>
+
 </div></div>Les extras sont des ajustements bénéfiques apportés à un objet, résultant souvent d’une réussite critique lors d’un défi. Les plus grands extras correspondent souvent aux résultats les plus élevés sur la table ci-dessous. Refaites un jet pour les résultats similaires et pour les extras qui ne sont pas adaptés à l’objet. N’hésitez pas à inventer vos propres extras ou à appliquer un extra adapté sans pour autant faire de jet.
 - **Avide.** L’objet veut toujours être porté ou tenu par son porteur. Le porteur peut dégainer une arme avide ou récupérer un objet avide qu’il tient en main par une [[action rapide]], enfiler une armure avide en moitié moins de temps et s’équiper de n’importe quel autre objet avide par une [[action rapide]], bien qu’il lui faille deux fois plus de temps que la normale pour retirer une armure avide et 1 [[round]] complet pour retirer ou se débarrasser de tout autre objet avide. Le [[DD]] pour désarmer ou voler un objet avide est augmenté de 5.
 
@@ -789,68 +649,9 @@ de commande.*
 ### Les bizarreries
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d100 || Bizarrerie
-|- CLASS="premier"
-| 01 || Défaut
-|-
-| 02-04 || Infesté
-|-
-| 05-08 || Couleur inhabituelle
-|-
-| 09-12 || Changement de couleur
-|-
-| 13-16 || Couleur psychique
-|-
-| 17-20 || Aberrant
-|-
-| 21-24 || Bienséant*
-|-
-| 25-28 || Crasseux
-|-
-| 29-32 || Esquinté
-|-
-| 33-36 || Magnifique
-|-
-| 37-40 || Verdoyant
-|-
-| 41-44 || Bruyant
-|-
-| 45-48 || Assoiffé de sang
-|-
-| 49-52 || Lévitant
-|-
-| 53-56 || À mue
-|-
-| 57-60 || Soprano
-|-
-| 61-64 || Basse
-|-
-| 65-68 || Oreilles de géant
-|-
-| 69-72 || Long nez
-|-
-| 73-76 || Lié à un esprit
-|-
-| 77-80 || Harmonisation raciale
-|-
-| 81-84 || Loyal
-|-
-| 85-87 || Trempé
-|-
-| 88-90 || Visqueux
-|-
-| 91-93 || Imprévisible*
-|-
-| 94-96 || Convergent
-|-
-| 97-99 || Scintillant
-|-
-| 100 || Extra
-|- CLASS="note"
-| COLSPAN="2" | *(*) L’objet doit être un objet que l’on active.*
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>Bizarrerie</td></tr><tr CLASS="premier"><td>01</td><td>Défaut</td></tr><tr><td>02-04</td><td>Infesté</td></tr><tr><td>05-08</td><td>Couleur inhabituelle</td></tr><tr><td>09-12</td><td>Changement de couleur</td></tr><tr><td>13-16</td><td>Couleur psychique</td></tr><tr><td>17-20</td><td>Aberrant</td></tr><tr><td>21-24</td><td>Bienséant*</td></tr><tr><td>25-28</td><td>Crasseux</td></tr><tr><td>29-32</td><td>Esquinté</td></tr><tr><td>33-36</td><td>Magnifique</td></tr><tr><td>37-40</td><td>Verdoyant</td></tr><tr><td>41-44</td><td>Bruyant</td></tr><tr><td>45-48</td><td>Assoiffé de sang</td></tr><tr><td>49-52</td><td>Lévitant</td></tr><tr><td>53-56</td><td>À mue</td></tr><tr><td>57-60</td><td>Soprano</td></tr><tr><td>61-64</td><td>Basse</td></tr><tr><td>65-68</td><td>Oreilles de géant</td></tr><tr><td>69-72</td><td>Long nez</td></tr><tr><td>73-76</td><td>Lié à un esprit</td></tr><tr><td>77-80</td><td>Harmonisation raciale</td></tr><tr><td>81-84</td><td>Loyal</td></tr><tr><td>85-87</td><td>Trempé</td></tr><tr><td>88-90</td><td>Visqueux</td></tr><tr><td>91-93</td><td>Imprévisible*</td></tr><tr><td>94-96</td><td>Convergent</td></tr><tr><td>97-99</td><td>Scintillant</td></tr><tr><td>100</td><td>Extra</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) L’objet doit être un objet que l’on active.*</td></tr></table>
+
 </div></div>Les bizarreries sont des curiosités qui donnent un côté singulier à l’objet, en général sans point positif ni négatif ou avec un peu des deux. Les bizarreries les plus avantageuses ou à double-tranchant correspondent aux résultats les plus élevés sur la table ci-dessous. N’hésitez pas à imaginer vos propres bizarreries ou à appliquer une bizarrerie appropriée sans faire de jet.
 - **À mue.** Une peau d’écailles recouvre l’objet qui, à l’occasion, mue pour faire peau neuve.
 
@@ -912,73 +713,12 @@ de commande.*
 ### Les défauts
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d100 || Défaut
-|- CLASS="premier"
-| 01-04 || Lourd
-|-
-| 05-08 || Fragile
-|-
-| 09-12 || Vulnérable
-|-
-| 13-16 || Affaibli par une énergie
-|-
-| 17-20 || Caustique
-|-
-| 21-24 || Lumière féerique
-|-
-| 25-28 || Chantant
-|-
-| 29-32 || Vindicatif<sup>1</sup>
-|-
-| 33-36 || Anormal
-|-
-| 37-40 || Extrêmement infesté
-|-
-| 41-44 || Addictif
-|-
-| 45-48 || Glouton
-|-
-| 49-52 || Paresseux
-|-
-| 53-56 || Hallucinogène
-|-
-| 57-60 || Obéissant
-|-
-| 61-64 || Barbare
-|-
-| 65-68 || Allergique
-|-
-| 69-72 || Zélé<sup>2</sup>
-|-
-| 73-76 || Impuissant
-|-
-| 77-80 || Pacifiste<sup>1</sup>
-|-
-| 81-84 || Réactionnaire
-|-
-| 85-87 || Colérique
-|-
-| 88-90 || Orgueilleux
-|-
-| 91-93 || Fuyant<sup>3</sup>
-|-
-| 94-96 || Séduisant
-|-
-| 97-99 || Paranoïaque
-|-
-| 100+ || Maudit
-|- CLASS="note"
-| COLSPAN="2" | *(1) L’objet doit être une arme.*
-|- CLASS="note"
-| COLSPAN="2" | *(2) Le créateur doit avoir des niveaux  
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>Défaut</td></tr><tr CLASS="premier"><td>01-04</td><td>Lourd</td></tr><tr><td>05-08</td><td>Fragile</td></tr><tr><td>09-12</td><td>Vulnérable</td></tr><tr><td>13-16</td><td>Affaibli par une énergie</td></tr><tr><td>17-20</td><td>Caustique</td></tr><tr><td>21-24</td><td>Lumière féerique</td></tr><tr><td>25-28</td><td>Chantant</td></tr><tr><td>29-32</td><td>Vindicatif<sup>1</sup></td></tr><tr><td>33-36</td><td>Anormal</td></tr><tr><td>37-40</td><td>Extrêmement infesté</td></tr><tr><td>41-44</td><td>Addictif</td></tr><tr><td>45-48</td><td>Glouton</td></tr><tr><td>49-52</td><td>Paresseux</td></tr><tr><td>53-56</td><td>Hallucinogène</td></tr><tr><td>57-60</td><td>Obéissant</td></tr><tr><td>61-64</td><td>Barbare</td></tr><tr><td>65-68</td><td>Allergique</td></tr><tr><td>69-72</td><td>Zélé<sup>2</sup></td></tr><tr><td>73-76</td><td>Impuissant</td></tr><tr><td>77-80</td><td>Pacifiste<sup>1</sup></td></tr><tr><td>81-84</td><td>Réactionnaire</td></tr><tr><td>85-87</td><td>Colérique</td></tr><tr><td>88-90</td><td>Orgueilleux</td></tr><tr><td>91-93</td><td>Fuyant<sup>3</sup></td></tr><tr><td>94-96</td><td>Séduisant</td></tr><tr><td>97-99</td><td>Paranoïaque</td></tr><tr><td>100+</td><td>Maudit</td></tr><tr CLASS="note"><td COLSPAN="2">*(1) L’objet doit être une arme.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(2) Le créateur doit avoir des niveaux  
 dans une classe de lanceur de sorts  
-divins ainsi qu’une divinité protectrice.*
-|- CLASS="note"
-| COLSPAN="2" | *(3) L’objet doit être un objet que  
-l’on tient en main.*
-|}
+divins ainsi qu’une divinité protectrice.*</td></tr><tr CLASS="note"><td COLSPAN="2">*(3) L’objet doit être un objet que  
+l’on tient en main.*</td></tr></table>
+
 </div></div>Les défauts sont des ajustements de nature nuisible qui affublent un objet. La plupart sont assez similaires aux malédictions sans être aussi dévastateurs ou restrictifs pour le porteur. Quand un défi ajoute un défaut à un objet, lancez un dé et consultez la table ci-dessous. En général, les défauts les plus préjudiciables correspondent aux résultats les plus élevés. Refaites un jet pour les résultats similaires et les défauts qui ne sont pas appropriés à l’objet. N’hésitez pas à imaginer vos propres défauts et, tout simplement, à en choisir un qui convienne.
 
 **L’accumulation de défauts.** Plus l’objet a de défauts, plus il est susceptible d’être maudit. Pour chaque défaut au-delà du premier, ajoutez un modificateur cumulable de +5 au d100 jusqu’à ce que l’objet acquiert une [[Objets maudits|malédiction]] (après quoi le modificateur cumulatif de +5 ne s’applique plus). Quand vous décidez de créer un nouveau défaut ou d’ajouter un défaut approprié plutôt que de faire un jet, commencez quand même par faire un jet pour savoir si l’objet acquiert une malédiction à la place.

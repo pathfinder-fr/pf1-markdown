@@ -36,25 +36,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de serpent
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Vipère]] || 1/2
-|-
-| [[Anaconda géant]] || 10
-|-
-| [[Cobra impérial]] || 5
-|-
-| [[Nuée de serpents]] || 2
-|-
-| [[Nuée de serpents venimeux]] || 4
-|-
-| [[Serpent constricteur]] || 2
-|-
-| [[Serpent venimeux]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de serpent</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Vipère]]</td><td>1/2</td></tr><tr><td>[[Anaconda géant]]</td><td>10</td></tr><tr><td>[[Cobra impérial]]</td><td>5</td></tr><tr><td>[[Nuée de serpents]]</td><td>2</td></tr><tr><td>[[Nuée de serpents venimeux]]</td><td>4</td></tr><tr><td>[[Serpent constricteur]]</td><td>2</td></tr><tr><td>[[Serpent venimeux]]</td><td>1</td></tr></table>
+
 </div>*Cet énorme serpent musclé et écailleux ne cesse de tirer et de rentrer sa langue, qui fait bien la longueur d’un bras, tout en scrutant les environs à la recherche d’une proie.*
 
 Parmi les milliers de prédateurs rampant qui infestent les jungles, les forêts et les marais, rares sont ceux qui inspirent autant de terreur que les anacondas géants. Ces chasseurs puissants ne connaissent pas la peur et sont capables de capturer et de dévorer des éléphants, des dinosaures et des géants. Leurs écailles vert olive tachetées de noir leur permettent de se camoufler facilement dans les eaux boueuses des régions où ils habitent.

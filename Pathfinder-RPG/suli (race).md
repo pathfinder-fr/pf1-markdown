@@ -67,20 +67,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux sulis, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Assaut élémentaire différentiel]]</td><td><sup>MR</sup></td><td>[[suli (race)|Suli]]</td><td>L'assaut élémentaire du suli peut être fractionné en rounds</td></tr><tr CLASS="premier"><td>[[Assaut élémentaire supplémentaire]]</td><td><sup>MR</sup></td><td>[[suli (race)|Suli]]</td><td>Le suli peut utiliser davantage l'assaut élémentaire</td></tr></table>
 
-|- CLASS="premier"
-| [[Assaut élémentaire différentiel]] || <sup>MR</sup> || [[suli (race)|Suli]] || L'assaut élémentaire du suli peut être fractionné en rounds
-
-|- CLASS="premier"
-| [[Assaut élémentaire supplémentaire]] || <sup>MR</sup> || [[suli (race)|Suli]] || Le suli peut utiliser davantage l'assaut élémentaire
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

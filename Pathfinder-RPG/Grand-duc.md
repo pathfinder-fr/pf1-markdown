@@ -37,17 +37,9 @@ Categories:
 
 {s:ImageCentre|Bestiaire/Hibou_img.jpg|95%}
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de chouette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Chouette]] || 1/3
-|-
-| [[Chouette géante]] || 5
-|-
-| [[Grand-duc]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de chouette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Chouette]]</td><td>1/3</td></tr><tr><td>[[Chouette géante]]</td><td>5</td></tr><tr><td>[[Grand-duc]]</td><td>1/2</td></tr></table>
+
 </div>*Ce hibou aux plumes grises et blanches a des ailes duveteuses et une grosse tête qui le fait paraître plus grand que la plupart des hiboux.*
 
 Bien que les grands-ducs paraissent imposants, l’essentiel de leur corpulence est dû à leurs plumes ébouriffées et à leur grosse tête. Les grands-ducs peuvent atteindre 1,50 mètre d’envergure et peser jusqu’à 2 kilos.

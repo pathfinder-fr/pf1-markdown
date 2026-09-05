@@ -19,31 +19,13 @@ Il y a de nombreuses façons de se perdre en pleine nature. Suivre une route, un
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Terrain || DD du test de Survie
-|- CLASS="premier"
-| Désert ou plaine || 14
-|- CLASS="alt"
-| Environnement urbain, ruines, donjon || 8
-|-
-| Forêt || 16
-|- CLASS="alt"
-| Lande ou colline || 10
-|-
-| Montagne || 12
-|- CLASS="alt"
-| Pleine mer || 18
-|}
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Situation || Modificateur au test
-|- CLASS="premier"
-| Outils de navigation appropriés (carte, sextant) || +4
-|- CLASS="alt"
-| Mauvaise visibilité || -4
-|}
+<table CLASS="tablo"><tr CLASS="titre"><td>Terrain</td><td>DD du test de Survie</td></tr><tr CLASS="premier"><td>Désert ou plaine</td><td>14</td></tr><tr CLASS="alt"><td>Environnement urbain, ruines, donjon</td><td>8</td></tr><tr><td>Forêt</td><td>16</td></tr><tr CLASS="alt"><td>Lande ou colline</td><td>10</td></tr><tr><td>Montagne</td><td>12</td></tr><tr CLASS="alt"><td>Pleine mer</td><td>18</td></tr></table>
+
+
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Situation</td><td>Modificateur au test</td></tr><tr CLASS="premier"><td>Outils de navigation appropriés (carte, sextant)</td><td>+4</td></tr><tr CLASS="alt"><td>Mauvaise visibilité</td><td>-4</td></tr></table>
+
 </center></div></div>
 **Chances de se perdre.** Si les personnages risquent de s’égarer, le personnage de tête doit faire un test de [[Survie]]. En cas d’échec, le groupe est bel et bien perdu. Le [[DD]] de ce test dépend du terrain, des conditions de visibilité et de la présence éventuelle d’une carte. Reportez-vous à la table ci-dessous et utilisez le [[DD]] applicable le plus élevé.
 

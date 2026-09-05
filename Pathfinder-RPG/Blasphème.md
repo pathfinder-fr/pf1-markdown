@@ -21,23 +21,9 @@ Categories:
 Toute créature non-Mauvaise située dans la [[zone deffet|zone d’effet]] d’un *blasphème* est victime des effets suivants :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Nombre de DV
-| CLASS="gauche" | Effet
-|- CLASS="premier"
-| Égaux au niveau du lanceur de sorts
-| CLASS="gauche" | Hébétement
-|- CLASS="alt"
-| Jusqu’au niveau du lanceur de sorts -1
-| CLASS="gauche" | Affaiblissement, hébétement
-|-
-| Jusqu’au niveau du lanceur de sorts -5
-| CLASS="gauche" | Paralysie, affaiblissement, hébétement
-|- CLASS="alt"
-| Jusqu’au niveau du lanceur de sorts -10
-| CLASS="gauche" | Mort, paralysie, affaiblissement, hébétement
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Nombre de DV</td><td CLASS="gauche">Effet</td></tr><tr CLASS="premier"><td>Égaux au niveau du lanceur de sorts</td><td CLASS="gauche">Hébétement</td></tr><tr CLASS="alt"><td>Jusqu’au niveau du lanceur de sorts -1</td><td CLASS="gauche">Affaiblissement, hébétement</td></tr><tr><td>Jusqu’au niveau du lanceur de sorts -5</td><td CLASS="gauche">Paralysie, affaiblissement, hébétement</td></tr><tr CLASS="alt"><td>Jusqu’au niveau du lanceur de sorts -10</td><td CLASS="gauche">Mort, paralysie, affaiblissement, hébétement</td></tr></table>
+
 </center>
 
 Tous ces effets sont cumulatifs. Un jet de [[Volonté]] réussi permet de réduire ou d’annuler ces effets. Les créatures affectées par plusieurs effets font un unique [[jet de sauvegarde]] qui s’applique à tous.

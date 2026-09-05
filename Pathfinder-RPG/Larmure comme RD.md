@@ -35,40 +35,16 @@ Dans ce système, les armures conservent toutes leurs statistiques et qualités 
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 450px">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ {s:Reference|TABCOMPOSITION}Composition des armures et RD
-|- CLASS="titre"
-| Matériel || RD obtenue || Taille pour ignorer la RD
-|- CLASS="premier"
-| Armure non magique<sup>[[#NOTE1|1]]</sup> || RD/magique || G
-|-
-| Armure magique<sup>[[#NOTE1|1]]</sup> || RD/adamantium || TG
-|-
-| Armure adamantine<sup>[[#NOTE1|1]]</sup> || RD/— || Gig
-|- CLASS="note"
-| COLSPAN="3" | *{s:Reference|NOTE1}(1) Les armes de lumière outrepassent toutes les RD procurées par les armures. De surcroît, la RD des armures est divisée par deux quand la créature est agrippée ou enchevêtrée, et ne s’applique pas quand une créature est sans défense ou immobilisée.*
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TABCOMPOSITION}Composition des armures et RD</caption><tr CLASS="titre"><td>Matériel</td><td>RD obtenue</td><td>Taille pour ignorer la RD</td></tr><tr CLASS="premier"><td>Armure non magique<sup>[[#NOTE1|1]]</sup></td><td>RD/magique</td><td>G</td></tr><tr><td>Armure magique<sup>[[#NOTE1|1]]</sup></td><td>RD/adamantium</td><td>TG</td></tr><tr><td>Armure adamantine<sup>[[#NOTE1|1]]</sup></td><td>RD/—</td><td>Gig</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE1}(1) Les armes de lumière outrepassent toutes les RD procurées par les armures. De surcroît, la RD des armures est divisée par deux quand la créature est agrippée ou enchevêtrée, et ne s’applique pas quand une créature est sans défense ou immobilisée.*</td></tr></table>
+
 </div></div>**RD/Armure.** Ce type de [[Réduction de dégâts (capacité)|RD]] bloque les dommages de toutes les attaques qui seraient normalement affectées par la RD, en fonction de la composition de l’armure (voir la table "[[Larmure comme RD#TABCOMPOSITION|Composition des armures et RD]]" ci-contre). Contrairement à la plupart des autres formes de réduction des dégâts, la RD/armure peut se cumuler avec les autres types de RD. Par exemple, lors d’un combat avec un squelette qui bénéficie de RD 5/contondant et de RD 4/armure (+2 d’armure, +2 d’armure naturelle), la RD/armure du squelette réduit de 9 points les dégâts issus d’attaques non contondantes, et de 4 points les dégâts des armes contondantes. Les armes magiques et les attaques des créatures de taille G (et au-delà) passent outre la RD 4/armure, mais ne contournent pas la RD 5/contondant.
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 450px">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Conversion des armures naturelles en RD
-|- CLASS="titre"
-| Armure naturelle/RD || RD obtenue || Taille pour ignorer la RD
-|- CLASS="premier"
-| Armure naturelle || RD/magique || G
-|-
-| Avec RD/magique || RD/adamantium || TG
-|-
-| Avec RD/adamantium || RD/— || Gig
-|-
-| Avec RD/— || RD/—<sup>[[#NOTE2|1]]</sup> || C
-|-
-| Avec RD/épique || RD/épique<sup>[[#NOTE2|1]]</sup> || n/a
-|- CLASS="note"
-| COLSPAN="3" | *{s:Reference|NOTE2}(1) Une créature bénéficiant déjà d’une RD/– ou d’une RD/épique augmente sa RD d’un montant égal à son bonus d’armure naturelle.*
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Conversion des armures naturelles en RD</caption><tr CLASS="titre"><td>Armure naturelle/RD</td><td>RD obtenue</td><td>Taille pour ignorer la RD</td></tr><tr CLASS="premier"><td>Armure naturelle</td><td>RD/magique</td><td>G</td></tr><tr><td>Avec RD/magique</td><td>RD/adamantium</td><td>TG</td></tr><tr><td>Avec RD/adamantium</td><td>RD/—</td><td>Gig</td></tr><tr><td>Avec RD/—</td><td>RD/—<sup>[[#NOTE2|1]]</sup></td><td>C</td></tr><tr><td>Avec RD/épique</td><td>RD/épique<sup>[[#NOTE2|1]]</sup></td><td>n/a</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE2}(1) Une créature bénéficiant déjà d’une RD/– ou d’une RD/épique augmente sa RD d’un montant égal à son bonus d’armure naturelle.*</td></tr></table>
+
 </div></div>**Bonus d’armure naturelle et RD.** De la même manière que le [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]], le [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]] se convertit en [[Réduction de dégâts (capacité)|Réduction de Dégâts]]. Si une créature porte une armure et bénéficie d’un bonus d'armure naturelle, la créature additionne son [[Caractéristiques des armures#BONUSARMUREBOUCLIER|bonus d’armure]] et son bonus d'armure naturelle pour déterminer la valeur de la [[Réduction de dégâts (capacité)|RD]]/armure dont elle profite (voir la table "[[Larmure comme RD#TABCONVERSION|Conversion des armures naturelles en RD]]" ci-contre).
 
 Si, par exemple, une créature portant une *chemise de mailles* +2 a une [[Réduction de dégâts (capacité)|RD]] 6/armure et qu’elle reçoit un sort de *[[peau décorce|peau d’écorce]]* lancé par un [[Druide]] de niveau 6 (gagnant ainsi un [[Valeurs de combat#BONUSARMURENATURELLE|bonus d'armure naturelle]] de +3), sa réduction de dégâts passe à RD 9/armure pour la durée du sort. Les armes en adamantium et les attaques des créatures de taille TG et au-delà passent outre cette RD.
@@ -77,23 +53,9 @@ Une créature ayant à la fois un [[Valeurs de combat#BONUSARMURENATURELLE|bonus
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width; max-width: 450px">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Créatures inhabituelles et RD/armure
-|- CLASS="titre"
-| Type de la créature attaquant || Modificateur à la RD
-|- CLASS="premier"
-| Informe<sup>[[#NOTE3|1]]</sup> || ×1/2
-|-
-| [[Intangible (capacité)|Intangible]] || ×0 (×1 si la RD est dûe à un effet de force ou à une armure spectrale)
-|-
-| Nuée de créatures TP || ×1/2
-|-
-| Nuée de créatures Min || ×1/4
-|-
-| Nuée de créatures I || ×0
-|- CLASS="note"
-| COLSPAN="3" | *{s:Reference|NOTE3}(1) Élémentaux, vases, créatures de type vase et toutes celles qui possèdent la capacité défensive [[Amorphe (capacité)|amorphe]].*
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Créatures inhabituelles et RD/armure</caption><tr CLASS="titre"><td>Type de la créature attaquant</td><td>Modificateur à la RD</td></tr><tr CLASS="premier"><td>Informe<sup>[[#NOTE3|1]]</sup></td><td>×1/2</td></tr><tr><td>[[Intangible (capacité)|Intangible]]</td><td>×0 (×1 si la RD est dûe à un effet de force ou à une armure spectrale)</td></tr><tr><td>Nuée de créatures TP</td><td>×1/2</td></tr><tr><td>Nuée de créatures Min</td><td>×1/4</td></tr><tr><td>Nuée de créatures I</td><td>×0</td></tr><tr CLASS="note"><td COLSPAN="3">*{s:Reference|NOTE3}(1) Élémentaux, vases, créatures de type vase et toutes celles qui possèdent la capacité défensive [[Amorphe (capacité)|amorphe]].*</td></tr></table>
+
 </div></div>**Créatures inhabituelles et [[Réduction de dégâts (capacité)|RD]]/armure.** Les créatures informes ([[Amorphe (capacité)|amorphes]]) et les créatures [[Intangible (capacité)|intangibles]] ont des facilités pour passer outre la RD/armure. Quand une créature informe attaque une créature possédant une RD/armure, le montant de sa RD est généralement divisé. Parallèlement, les attaques des créatures [[Intangible (capacité)|intangibles]] ignorent entièrement la RD, sauf dans le cas où la RD vient d’un effet de force ou d’une armure possédant la propriété spectrale. Ces traits sont détaillés dans la table "[[Larmure comme RD#TABINHABITUELLES|Créatures inhabituelles et RD/armure]]" ci-contre.
 
 {s:ClearRight}

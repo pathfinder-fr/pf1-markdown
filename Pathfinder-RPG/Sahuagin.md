@@ -118,22 +118,9 @@ Les règles suivantes illustrent une large variété de sahuagins.
 #### Dons
 Voici quelques dons très appréciés des sahuagins.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Avantage aquatique]]</td><td><sup>CM</sup></td><td>[[Attaques réflexes]], vitesse de nage naturelle</td><td>Les créatures qui n'ont pas de vitesse de nage provoquent des attaques d'opportunité lorsqu'elles attaquent le personnage</td></tr><tr CLASS="premier"><td>[[Frénésie du sang supérieure]]</td><td><sup>CM</sup></td><td>Pouvoir [[Sahuagin|frénésie inspirée par le sang]], [[sahuagin]]</td><td>Pas de malus à la CA et gain du pouvoir éventration lorsque la frénésie inspirée par le sang est active</td></tr><tr><td>&emsp;[[Marée de sang]]</td><td><sup>CM</sup></td><td>[[Expertise du combat]], [[Frénésie du sang supérieure]], [[BBA]] +6, [[sahuagin]]</td><td>Abandonne les attaques normales pour en obtenir plus contre tous les adversaires blessé qui saignent</td></tr></table>
 
-|- CLASS="premier"
-| [[Avantage aquatique]] || <sup>CM</sup> || [[Attaques réflexes]], vitesse de nage naturelle || Les créatures qui n'ont pas de vitesse de nage provoquent des attaques d'opportunité lorsqu'elles attaquent le personnage
-
-|- CLASS="premier"
-| [[Frénésie du sang supérieure]] || <sup>CM</sup> || Pouvoir [[Sahuagin|frénésie inspirée par le sang]], [[sahuagin]] || Pas de malus à la CA et gain du pouvoir éventration lorsque la frénésie inspirée par le sang est active
-|-
-| &emsp;[[Marée de sang]] || <sup>CM</sup> || [[Expertise du combat]], [[Frénésie du sang supérieure]], [[BBA]] +6, [[sahuagin]] || Abandonne les attaques normales pour en obtenir plus contre tous les adversaires blessé qui saignent
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Sorts

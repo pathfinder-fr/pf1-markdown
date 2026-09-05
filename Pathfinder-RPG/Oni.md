@@ -10,37 +10,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux onis
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Atamahuta]] || 11
-|-
-| [[Esprit Oni]] || 2
-|-
-| [[Ja Noi]] || 5
-|-
-| [[Kuwa]] || 4
-|-
-| [[Nogitsune]] || 7
-|-
-| [[Ogre mage]] || 8
-|-
-| [[Yai de glace]] || 14
-|-
-| [[Yai de leau|Yai de l'eau]] || 18
-|-
-| [[Yai de la terre]] || 13
-|-
-| [[Yai du feu]] || 15
-|-
-| [[Yai du vent]] || 16
-|-
-| [[Yai du vide]] || 20
-|-
-| [[Yamabushi tengu]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux onis</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Atamahuta]]</td><td>11</td></tr><tr><td>[[Esprit Oni]]</td><td>2</td></tr><tr><td>[[Ja Noi]]</td><td>5</td></tr><tr><td>[[Kuwa]]</td><td>4</td></tr><tr><td>[[Nogitsune]]</td><td>7</td></tr><tr><td>[[Ogre mage]]</td><td>8</td></tr><tr><td>[[Yai de glace]]</td><td>14</td></tr><tr><td>[[Yai de leau|Yai de l'eau]]</td><td>18</td></tr><tr><td>[[Yai de la terre]]</td><td>13</td></tr><tr><td>[[Yai du feu]]</td><td>15</td></tr><tr><td>[[Yai du vent]]</td><td>16</td></tr><tr><td>[[Yai du vide]]</td><td>20</td></tr><tr><td>[[Yamabushi tengu]]</td><td>5</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 3 p.204.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type métamorphe|métamorphe]], [[sous-type natif|natif]], [[sous-type oni|oni]]).*
 

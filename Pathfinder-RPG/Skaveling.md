@@ -42,21 +42,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de chauve-souris
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Chauve-souris]] || 1/8
-|-
-| [[Chauve-souris sanguinaire]] || 2
-|-
-| [[Mobat]] || 3
-|-
-| [[Nuée de chauves-souris]] || 2
-|-
-| [[Skaveling]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de chauve-souris</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Chauve-souris]]</td><td>1/8</td></tr><tr><td>[[Chauve-souris sanguinaire]]</td><td>2</td></tr><tr><td>[[Mobat]]</td><td>3</td></tr><tr><td>[[Nuée de chauves-souris]]</td><td>2</td></tr><tr><td>[[Skaveling]]</td><td>5</td></tr></table>
+
 </div>*La chair marbrée de cette chauve-souris morte-vivante de taille monstrueuse est partiellement décomposée. Ses yeux brillent d’une lueur maudite de couleur verdâtre.*
 
 Les skavelings, également appelés chauves-souris-goules

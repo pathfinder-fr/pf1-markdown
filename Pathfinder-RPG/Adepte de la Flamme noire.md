@@ -12,53 +12,9 @@ Categories:
 Les [[Gardien des failles|gardiens des failles]] s'opposent diamétralement aux adeptes de la Flamme noire. Alors que les adeptes cherchent à maîtriser le pouvoir des Plans Extérieurs maléfiques pour leur propre compte, en ouvrant constamment des passerelles planaires afin de peut-être avoir ne serait-ce qu'un petit aperçu de cette Flamme noire élusive, les gardiens des failles essaient plutôt de fermer ces portails. Puisque que les gardiens des failles font obstacle aux efforts des adeptes de la Flamme Noire, ces invocateurs saisissent toutes les opportunités possibles pour saboter ou corrompre leurs rivaux.''
 
 <center>
-{| CLASS="tablo"
-|+ L'adepte de la Flamme noire
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Adepte de la Flamme noire#CONVOCATIONSACREE|Convocation sacrée]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Adepte de la Flamme noire#SOUILLUREDELAFLAMMENOIRE|Souillure de la Flamme noire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-
-| 3 || +1 || +1 || +1 || +2
-| CLASS="gauche" | Premier [[Adepte de la Flamme noire#PACTEDELAFLAMMENOIRE|pacte de la Flamme noire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Adepte de la Flamme noire#ERUPTIONDEFLAMMESNOIRES|Éruption de flammes noires]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-
-| 5 || +2 || +2 || +2 || +3
-| CLASS="gauche" | [[Adepte de la Flamme noire#BRECHE|Brèche]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +3
-| CLASS="gauche" | Deuxième [[Adepte de la Flamme noire#PACTEDELAFLAMMENOIRE|pacte de la Flamme noire]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-
-| 7 || +3 || +2 || +2 || +4
-| CLASS="gauche" | [[Adepte de la Flamme noire#LEGIONDELABRECHE|Légion de la brèche]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|- CLASS="alt"
-| 8 || +4 || +3 || +3 || +4
-| CLASS="gauche" | [[Adepte de la Flamme noire#COMPASSIONMAUDITE|Compassion maudite]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|-CLASS="alt"
-| 9 || +4 || +3 || +3 || +5
-| CLASS="gauche" | Troisième [[Adepte de la Flamme noire#PACTEDELAFLAMMENOIRE|pacte de la Flamme noire]]
-| CLASS="gauche" | -
-|-
-| 10 || +5 || +3 || +3 || +5
-| CLASS="gauche" | [[Adepte de la Flamme noire#RUPTUREDELAPROTECTIONDEFAILLES|Rupture de la protection de failles]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]
-|}
+
+<table CLASS="tablo"><caption>L'adepte de la Flamme noire</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Adepte de la Flamme noire#CONVOCATIONSACREE|Convocation sacrée]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Adepte de la Flamme noire#SOUILLUREDELAFLAMMENOIRE|Souillure de la Flamme noire]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Premier [[Adepte de la Flamme noire#PACTEDELAFLAMMENOIRE|pacte de la Flamme noire]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Adepte de la Flamme noire#ERUPTIONDEFLAMMESNOIRES|Éruption de flammes noires]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>5</td><td>+2</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Adepte de la Flamme noire#BRECHE|Brèche]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Deuxième [[Adepte de la Flamme noire#PACTEDELAFLAMMENOIRE|pacte de la Flamme noire]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Adepte de la Flamme noire#LEGIONDELABRECHE|Légion de la brèche]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Adepte de la Flamme noire#COMPASSIONMAUDITE|Compassion maudite]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr><tr CLASS="alt"><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">Troisième [[Adepte de la Flamme noire#PACTEDELAFLAMMENOIRE|pacte de la Flamme noire]]</td><td CLASS="gauche">-</td></tr><tr><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Adepte de la Flamme noire#RUPTUREDELAPROTECTIONDEFAILLES|Rupture de la protection de failles]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts existante]]</td></tr></table>
+
 </center>
 
 **Dés de vie.** d6.

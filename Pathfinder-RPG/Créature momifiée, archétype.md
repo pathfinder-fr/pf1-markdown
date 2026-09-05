@@ -21,21 +21,9 @@ LastModified: 2019-01-29 16:44
 - **Faiblesses.** Le processus de momification rend la créature momifiée vulnérable à un type d’énergie destructive. Choisissez ou déterminez au hasard cette vulnérabilité grâce à la liste suivante.
 
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| d10 || Énergie destructive
-|- CLASS="premier"
-| 1 || Électricité
-|-
-| 2-3 || Acide
-|-
-| 4-7 || Feu
-|-
-| 8-9 || Froid
-|-
-| 10 || Son
-|-
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>d10</td><td>Énergie destructive</td></tr><tr CLASS="premier"><td>1</td><td>Électricité</td></tr><tr><td>2-3</td><td>Acide</td></tr><tr><td>4-7</td><td>Feu</td></tr><tr><td>8-9</td><td>Froid</td></tr><tr><td>10</td><td>Son</td></tr></table>
+
 
 Par mesure de sécurité en cas de rébellion, une marque discrète en forme de hiéroglyphe est inscrite sur une partie peu visible du corps ou des bandelettes : elle permet d’identifier le type d’énergie destructive à laquelle la créature momifiée est vulnérable. Un test de Perception DD 20 réussi est nécessaire pour découvrir cette marque, mais il faut également réussir un test de Linguistique DD 25 pour déchiffrer la signification du hiéroglyphe.
 

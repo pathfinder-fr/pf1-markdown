@@ -41,15 +41,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'oursin géant
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Oursin chasseur]] || 1
-|-
-| [[Oursin lancier]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'oursin géant</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Oursin chasseur]]</td><td>1</td></tr><tr><td>[[Oursin lancier]]</td><td>4</td></tr></table>
+
 </div>*Des milliers d’épines violettes dont la pointe vire à un noir inquiétant couvrent le corps sphérique de cette créature.*
 
 Les oursins géants sont des prédateurs opportunistes qui attendent que les marées apportent leurs proies à leur portée pour les attaquer.

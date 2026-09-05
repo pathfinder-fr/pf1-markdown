@@ -39,56 +39,12 @@ Les symptômes les plus sérieux des plaies ne se manifestent que de temps à au
 Voici les tables de plaies mineures et majeures. Quand le personnage doit déterminer une plaie au hasard, il lance un dé dans la table appropriée.
 
 <table width="100%"><tr style="vertical-align: top"><td width="50%">
-{| CLASS="tablo centre autoalt"
-|+ Les plaies mineures aléatoires
-|- CLASS="titre"
-| D10 || Résultat
-|- CLASS="premier"
-| 1 || [[description des plaies magiques#DECONCENTRATIONDUMAGE|Déconcentration du mage]]
-|-
-| 2 || [[description des plaies magiques#COASSEMENTDUMAGE|Coassement du mage]]
-|-
-| 3 || [[description des plaies magiques#CONFUSIONDINCANTATION|Confusion d’incantation]]
-|-
-| 4 || [[description des plaies magiques#DISSOCIATION|Dissociation]]
-|-
-| 5 || [[description des plaies magiques#YEUXDEBENE|Yeux d’ébène]]
-|-
-| 6 || [[description des plaies magiques#ETRANGEFIEVRE|Étrange fièvre]]
-|-
-| 7 || [[description des plaies magiques#HEMOCULYSIS|Hémoculysis]]
-|-
-| 8 || [[description des plaies magiques#LASSITUDE|Lassitude]]
-|-
-| 9 || [[description des plaies magiques#OBSESSIONRITUELLE|Obsession rituelle]]
-|-
-| 10 || [[description des plaies magiques#ACCROAUXSORTS|Accro aux sorts]]
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les plaies mineures aléatoires</caption><tr CLASS="titre"><td>D10</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>[[description des plaies magiques#DECONCENTRATIONDUMAGE|Déconcentration du mage]]</td></tr><tr><td>2</td><td>[[description des plaies magiques#COASSEMENTDUMAGE|Coassement du mage]]</td></tr><tr><td>3</td><td>[[description des plaies magiques#CONFUSIONDINCANTATION|Confusion d’incantation]]</td></tr><tr><td>4</td><td>[[description des plaies magiques#DISSOCIATION|Dissociation]]</td></tr><tr><td>5</td><td>[[description des plaies magiques#YEUXDEBENE|Yeux d’ébène]]</td></tr><tr><td>6</td><td>[[description des plaies magiques#ETRANGEFIEVRE|Étrange fièvre]]</td></tr><tr><td>7</td><td>[[description des plaies magiques#HEMOCULYSIS|Hémoculysis]]</td></tr><tr><td>8</td><td>[[description des plaies magiques#LASSITUDE|Lassitude]]</td></tr><tr><td>9</td><td>[[description des plaies magiques#OBSESSIONRITUELLE|Obsession rituelle]]</td></tr><tr><td>10</td><td>[[description des plaies magiques#ACCROAUXSORTS|Accro aux sorts]]</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt"
-|+ Les plaies majeures aléatoires
-|- CLASS="titre"
-| D10 || Résultat
-|- CLASS="premier"
-| 1 || [[description des plaies magiques#ETRANGECATARACTE|Étrange cataracte]]
-|-
-| 2 || [[description des plaies magiques#TERREURSANSNOM|Terreur sans nom]]
-|-
-| 3 || [[description des plaies magiques#NEGATION|Négation]]
-|-
-| 4 || [[description des plaies magiques#FIXATIONOBSESSIONNELLE|Fixation obsessionnelle]]
-|-
-| 5 || [[description des plaies magiques#PLAIEDEPHASE|Plaie de phase]]
-|-
-| 6 || [[description des plaies magiques#BRULUREDESORT|Brûlure de sort]]
-|-
-| 7 || [[description des plaies magiques#SORTASSOMMANT|Sort assommant]]
-|-
-| 8 || [[description des plaies magiques#BLOCUSDETRANSMISSION|Blocus de transmission]]
-|-
-| 9 || [[description des plaies magiques#VERTIGE|Vertige]]
-|-
-| 10 || Jeter deux fois le dé dans la table des plaies mineures.  
-Le lanceur de sorts est affecté par les deux plaies.
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les plaies majeures aléatoires</caption><tr CLASS="titre"><td>D10</td><td>Résultat</td></tr><tr CLASS="premier"><td>1</td><td>[[description des plaies magiques#ETRANGECATARACTE|Étrange cataracte]]</td></tr><tr><td>2</td><td>[[description des plaies magiques#TERREURSANSNOM|Terreur sans nom]]</td></tr><tr><td>3</td><td>[[description des plaies magiques#NEGATION|Négation]]</td></tr><tr><td>4</td><td>[[description des plaies magiques#FIXATIONOBSESSIONNELLE|Fixation obsessionnelle]]</td></tr><tr><td>5</td><td>[[description des plaies magiques#PLAIEDEPHASE|Plaie de phase]]</td></tr><tr><td>6</td><td>[[description des plaies magiques#BRULUREDESORT|Brûlure de sort]]</td></tr><tr><td>7</td><td>[[description des plaies magiques#SORTASSOMMANT|Sort assommant]]</td></tr><tr><td>8</td><td>[[description des plaies magiques#BLOCUSDETRANSMISSION|Blocus de transmission]]</td></tr><tr><td>9</td><td>[[description des plaies magiques#VERTIGE|Vertige]]</td></tr><tr><td>10</td><td>Jeter deux fois le dé dans la table des plaies mineures.  
+Le lanceur de sorts est affecté par les deux plaies.</td></tr></table>
+
 </td></tr></table>

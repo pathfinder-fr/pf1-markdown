@@ -35,15 +35,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de sanglier
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Sanglier]] || 2
-|-
-| [[Sanglier sanguinaire]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de sanglier</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Sanglier]]</td><td>2</td></tr><tr><td>[[Sanglier sanguinaire]]</td><td>4</td></tr></table>
+
 </div>''Le dos de ce grand sanglier forme une crête acérée. Ses yeux sont entourés
 de saletés et ses flancs hirsutes, de centaines de mouches.''
 

@@ -31,51 +31,16 @@ Dragon, CN
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon lunaire
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon lunaire]] || &nbsp; || 9
-|-
-| [[Dragon lunaire adulte]] || &nbsp; || 13
-|-
-| [[Dragon lunaire vénérable]] || &nbsp; || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon lunaire</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon lunaire]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon lunaire adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon lunaire vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Un halo scintillant entoure la tête couronnée d’une crête de ce majestueux dragon. Des reflets ondoient sur ses grandes ailes comme du tulle laiteux sous les rayons de la lune.*
 
 Les dragons lunaires interagissent souvent avec les mortels et passent de longues heures à observer ce qui se passe sur les planètes qui les intéressent.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet  || Souffle déconcertant, immunité au froid, argent lunaire || -
-|-
-| Très jeune || Réflexion de la lumière ||   -
-|-
-| Jeune  || Lumières dansantes || 1
-|-
-| Adolescent || Présence étrangère, bulle de vie || 3
-|-
-| Jeune adulte || RD 5/magie, résistance à la magie || 5
-|-
-| Adulte || Pleine lune || 7
-|-
-| Âge mûr || RD 10/magie || 9
-|-
-| Vieux || Froid absolu, scrutation || 11
-|-
-| Très vieux || RD 15/magie || 13
-|-
-| Vénérable || Réflexion des rayons || 15
-|-
-| Dracosire || RD 20/magie || 17
-|-
-| Grand dracosire || Scrutation suprême, nuit polaire || 19
-|-
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Souffle déconcertant, immunité au froid, argent lunaire</td><td>-</td></tr><tr><td>Très jeune</td><td>Réflexion de la lumière</td><td>-</td></tr><tr><td>Jeune</td><td>Lumières dansantes</td><td>1</td></tr><tr><td>Adolescent</td><td>Présence étrangère, bulle de vie</td><td>3</td></tr><tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr><tr><td>Adulte</td><td>Pleine lune</td><td>7</td></tr><tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr><tr><td>Vieux</td><td>Froid absolu, scrutation</td><td>11</td></tr><tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr><tr><td>Vénérable</td><td>Réflexion des rayons</td><td>15</td></tr><tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr><tr><td>Grand dracosire</td><td>Scrutation suprême, nuit polaire</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

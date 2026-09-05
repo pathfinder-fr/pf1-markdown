@@ -38,21 +38,11 @@ Quand un personnage essaye de lancer un sort, son adversaire peut faire un test 
 
 Le contre de duel est une [[action immédiate]] qui ne provoque pas d’[[attaque dopportunité|attaque d’opportunité]]. Pour tenter le contre, le personnage doit dépenser un sort ou un [[emplacement de sort]] d’un niveau égal ou supérieur à celui du sort lancé. Notez que les personnages qui lancent des sorts spontanés (comme les [[barde|bardes]] ou les [[ensorceleur|ensorceleurs]]) doivent choisir le sort exact qu’ils utilisent pour le [[contresort]] en plus du niveau d’emplacement utilisé. Celui qui contre un sort doit faire un [[test de niveau de lanceur de sorts]] contre un [[DD]] de 15 + niveau du sort. À moins que le personnage ne lance un vrai [[contresort]] (ce qui demande de [[Actions modifiant linitiative#PREPARER|préparer son action]]), même s’il dépense une copie exacte du sort à contrer, il n’est pas sûr d’y arriver. Le lanceur de sorts qui tente le contre reçoit un bonus ou malus au test en fonction du niveau de sort dépensé et du sort utilisé, comme indiqué dans la table ci-dessous. S’il réussit le test, il contre le sort qui est alors annulé et perdu. Sinon, le sort produit l’effet prévu et le personnage qui tentait de le contrer subit un malus de -2 aux [[jet de sauvegarde|jets de sauvegarde]] contre les effets du sort.
 
-{| CLASS="tablo fright"
-|+ Les modificateurs de contre de duel
-|- CLASS="titre"
-| Circonstance || Modificateur du test
-|- CLASS="premier"
-| Sort d’une école différente || -2
-|- CLASS="alt"
-| Sort différent mais de la même école || +2
-|-
-| Sort d’un niveau supérieur à celui  
- du sort contré || +1 par niveau de sort  
-supplémentaire
-|- CLASS="alt"
-| Même sort que celui à contrer || +10
-|}
+
+<table CLASS="tablo fright"><caption>Les modificateurs de contre de duel</caption><tr CLASS="titre"><td>Circonstance</td><td>Modificateur du test</td></tr><tr CLASS="premier"><td>Sort d’une école différente</td><td>-2</td></tr><tr CLASS="alt"><td>Sort différent mais de la même école</td><td>+2</td></tr><tr><td>Sort d’un niveau supérieur à celui  
+ du sort contré</td><td>+1 par niveau de sort  
+supplémentaire</td></tr><tr CLASS="alt"><td>Même sort que celui à contrer</td><td>+10</td></tr></table>
+
 
 Un lanceur de sorts peut aussi utiliser *[[dissipation de la magie]]* ou *[[dissipation suprême]]* lors d’un contre de duel. Dans ce cas, il n’a pas besoin d’identifier le sort lancé, il peut contrer un sort de n’importe quel niveau et il doit réussir un [[test de niveau de lanceur de sorts]] avec un [[DD]] de 11 + niveau du lanceur de sorts. Quand il utilise *[[dissipation de la magie]]* pour faire un contre de duel, il n’applique pas les modificateurs de circonstance de la table ci-contre.
 

@@ -7,63 +7,9 @@ LastModified: 2023-07-28 16:20
 {s:MenuEquipement}De nombreux aventuriers aiment s’asseoir de temps à autres et jouer, pour faire passer le temps ou pour gagner un peu d’argent facile.
 
 <div class="article_2col">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|+ Jeux
-|- CLASS="titre"
-| Objet || Prix || Poids
-|- CLASS="premier"
-| [[Jeux#Balle|↓]] [[Balle (objet)|Balle (12 cm de diamètre)]] || 2 pa || —
-|-
-| [[Jeux#Balle|↓]] [[Balle (objet)|Balle (25 cm de diamètre)]] || 6 po || 0,5 kg
-|-
-| [[Jeux#Balle|↓]] [[Balle (objet)|Balle (5 cm de diamètre)]] || 8 pc || —
-|-
-| [[Jeux#Bâtons du diable halfelins|↓]] [[Bâtons du diable halfelins (objet)|Bâtons du diable halfelins]] || 25 po || 0,5 kg
-|-
-| [[Jeux#Boîte à secrets|↓]] [[Boîte à secrets (objet)|Boîte à secrets]] || 1 po–1.000 po || 0,5 kg–2,5 kg
-|-
-| [[Jeux#Cartes marquées|↓]] [[Cartes marquées (objet)|Cartes marquées]] || 1 po || 0,5 kg
-|-
-| [[Jeux#Cerf-volant|↓]] [[Cerf-volant (objet)|Cerf-volant]] || 1 pa–2.000 po || 0,5 kg–2,5 kg
-|-
-| [[Jeux#Cerf-volant de terreur|↓]] [[Cerf-volant de terreur (objet)|Cerf-volant de terreur]] || 20 po || —
-|-
-| [[Jeux#Dés|↓]] [[Dés (objet)|Dés (pipés)]] || 10 po || —
-|-
-| [[Jeux#Dés|↓]] [[Dés (objet)|Dés (pipés, supérieurs)]] || 50 po || —
-|-
-| [[Jeux#Dés|↓]] [[Dés (objet)|Dés (standards)]] || 1 pa || —
-|-
-| [[Jeux#Dominos|↓]] [[Dominos (objet)|Dominos]] || 1 pa–25 po || 0,5 kg
-|-
-| [[Jeux#Fer à cheval|↓]] [[Fer à cheval (objet)|Fer à cheval]] || 5 pa || 1,5 kg
-|-
-| [[Jeux#Jeu de bowling|↓]] [[Jeu de bowling (objet)|Jeu de bowling]] || 5 pa–10 po || 7,5 kg
-|-
-| [[Jeux#Jeu de cartes|↓]] [[Jeu de cartes (objet)|Jeu de cartes]] || 1 pa–100 po || 0,5 kg
-|-
-| [[Jeux#Jeu de fléchettes|↓]] [[Jeu de fléchettes (objet)|Jeu de fléchettes]] || 5 pa || 5 kg
-|-
-| [[Jeux#Jeu de société|↓]] [[Jeu de société (objet)|Jeu de société]] || 1 pa–10 po || 1 kg
-|-
-| [[Jeux#Jeu du tourment|↓]] [[Jeu du tourment (objet)|Jeu du tourment]] || 100 po || —
-|-
-| [[Jeux#Mallette de baseball|↓]] [[Mallette de baseball (objet)|Mallette de baseball]] || 1 pa || 0,25 kg
-|-
-| [[Jeux#Mallette de billard|↓]] [[Mallette de billard (objet)|Mallette de billard]] || 5 pa || 4 kg
-|-
-| [[Jeux#Mallette de croquet|↓]] [[Mallette de croquet (objet)|Mallette de croquet]] || 5 pa || 5 kg
-|-
-| [[Jeux#Mallette de polo|↓]] [[Mallette de polo (objet)|Mallette de polo]] || 5 pa || 2,5 kg
-|-
-| [[Jeux#Mallette de tennis|↓]] [[Mallette de tennis (objet)|Mallette de tennis]] || 3 pa || 1,5 kg
-|-
-| [[Jeux#Mots croisés|↓]] [[Mots croisés (objet)|Mots croisés]] || 1 pc–1 pa || —
-|-
-| [[Jeux#Recueil dénigmes|↓]] [[Recueil dénigmes (objet)|Recueil d'énigmes]] || 50 po || 0,5 kg
-|-
-| [[Jeux#Trousse de cerfs-volants de communication|↓]] [[Trousse de cerfs-volants de communication (objet)|Trousse de cerfs-volants de communication]] || 5 po || —
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Jeux</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Jeux#Balle|↓]] [[Balle (objet)|Balle (12 cm de diamètre)]]</td><td>2 pa</td><td>—</td></tr><tr><td>[[Jeux#Balle|↓]] [[Balle (objet)|Balle (25 cm de diamètre)]]</td><td>6 po</td><td>0,5 kg</td></tr><tr><td>[[Jeux#Balle|↓]] [[Balle (objet)|Balle (5 cm de diamètre)]]</td><td>8 pc</td><td>—</td></tr><tr><td>[[Jeux#Bâtons du diable halfelins|↓]] [[Bâtons du diable halfelins (objet)|Bâtons du diable halfelins]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Jeux#Boîte à secrets|↓]] [[Boîte à secrets (objet)|Boîte à secrets]]</td><td>1 po–1.000 po</td><td>0,5 kg–2,5 kg</td></tr><tr><td>[[Jeux#Cartes marquées|↓]] [[Cartes marquées (objet)|Cartes marquées]]</td><td>1 po</td><td>0,5 kg</td></tr><tr><td>[[Jeux#Cerf-volant|↓]] [[Cerf-volant (objet)|Cerf-volant]]</td><td>1 pa–2.000 po</td><td>0,5 kg–2,5 kg</td></tr><tr><td>[[Jeux#Cerf-volant de terreur|↓]] [[Cerf-volant de terreur (objet)|Cerf-volant de terreur]]</td><td>20 po</td><td>—</td></tr><tr><td>[[Jeux#Dés|↓]] [[Dés (objet)|Dés (pipés)]]</td><td>10 po</td><td>—</td></tr><tr><td>[[Jeux#Dés|↓]] [[Dés (objet)|Dés (pipés, supérieurs)]]</td><td>50 po</td><td>—</td></tr><tr><td>[[Jeux#Dés|↓]] [[Dés (objet)|Dés (standards)]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Jeux#Dominos|↓]] [[Dominos (objet)|Dominos]]</td><td>1 pa–25 po</td><td>0,5 kg</td></tr><tr><td>[[Jeux#Fer à cheval|↓]] [[Fer à cheval (objet)|Fer à cheval]]</td><td>5 pa</td><td>1,5 kg</td></tr><tr><td>[[Jeux#Jeu de bowling|↓]] [[Jeu de bowling (objet)|Jeu de bowling]]</td><td>5 pa–10 po</td><td>7,5 kg</td></tr><tr><td>[[Jeux#Jeu de cartes|↓]] [[Jeu de cartes (objet)|Jeu de cartes]]</td><td>1 pa–100 po</td><td>0,5 kg</td></tr><tr><td>[[Jeux#Jeu de fléchettes|↓]] [[Jeu de fléchettes (objet)|Jeu de fléchettes]]</td><td>5 pa</td><td>5 kg</td></tr><tr><td>[[Jeux#Jeu de société|↓]] [[Jeu de société (objet)|Jeu de société]]</td><td>1 pa–10 po</td><td>1 kg</td></tr><tr><td>[[Jeux#Jeu du tourment|↓]] [[Jeu du tourment (objet)|Jeu du tourment]]</td><td>100 po</td><td>—</td></tr><tr><td>[[Jeux#Mallette de baseball|↓]] [[Mallette de baseball (objet)|Mallette de baseball]]</td><td>1 pa</td><td>0,25 kg</td></tr><tr><td>[[Jeux#Mallette de billard|↓]] [[Mallette de billard (objet)|Mallette de billard]]</td><td>5 pa</td><td>4 kg</td></tr><tr><td>[[Jeux#Mallette de croquet|↓]] [[Mallette de croquet (objet)|Mallette de croquet]]</td><td>5 pa</td><td>5 kg</td></tr><tr><td>[[Jeux#Mallette de polo|↓]] [[Mallette de polo (objet)|Mallette de polo]]</td><td>5 pa</td><td>2,5 kg</td></tr><tr><td>[[Jeux#Mallette de tennis|↓]] [[Mallette de tennis (objet)|Mallette de tennis]]</td><td>3 pa</td><td>1,5 kg</td></tr><tr><td>[[Jeux#Mots croisés|↓]] [[Mots croisés (objet)|Mots croisés]]</td><td>1 pc–1 pa</td><td>—</td></tr><tr><td>[[Jeux#Recueil dénigmes|↓]] [[Recueil dénigmes (objet)|Recueil d'énigmes]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Jeux#Trousse de cerfs-volants de communication|↓]] [[Trousse de cerfs-volants de communication (objet)|Trousse de cerfs-volants de communication]]</td><td>5 po</td><td>—</td></tr></table>
+
 </div>
 
 ### Description des jeux

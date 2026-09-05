@@ -81,25 +81,9 @@ R : (Ross Byers) C'est dans la version papier, mais ni le PDF ni le PRD ne le mo
 **Q : [[Lignage Aberrant]] - Longs membres. Est-ce sensé supposer qu'au niveau 11, l'[[allonge]] du personnage augmente de 3 m (2 {s:c}), et qu'au niveau 17 elle est augmentée de 4,50 m (3 {s:c}) ?**
 
 R : (Jason Bulmahn) Les valeurs suivantes sont correctes et oui, c'est supposer être un peu effrayant lorsqu'on l'utilise.
-{| CLASS="tablo"
-|+ Tableau des allonges du lignage Aberrant
-|- CLASS="titre"
-| class="gauche" | Niveau
-| class="gauche" | Allonge en m (cases)
-|- CLASS="premier"
-| class="gauche" | 1
-| class="gauche" | 1,50 m (1 {s:c}) (= adjacent)
-|- CLASS="alt"
-| class="gauche" | 3
-| class="gauche" | 3 m (2 {s:c}) (1,50 m + 1,50 m)
-|-
-| class="gauche" | 11
-| class="gauche" | 4,50 m (3 {s:c}) (1,50 m + 3 m)
-|- CLASS="alt"
-| class="gauche" | 17
-| class="gauche" | 6 m (4 {s:c}) (1,50 m + 4,50 m)
 
-|}
+<table CLASS="tablo"><caption>Tableau des allonges du lignage Aberrant</caption><tr CLASS="titre"><td class="gauche">Niveau</td><td class="gauche">Allonge en m (cases)</td></tr><tr CLASS="premier"><td class="gauche">1</td><td class="gauche">1,50 m (1 {s:c}) (= adjacent)</td></tr><tr CLASS="alt"><td class="gauche">3</td><td class="gauche">3 m (2 {s:c}) (1,50 m + 1,50 m)</td></tr><tr><td class="gauche">11</td><td class="gauche">4,50 m (3 {s:c}) (1,50 m + 3 m)</td></tr><tr CLASS="alt"><td class="gauche">17</td><td class="gauche">6 m (4 {s:c}) (1,50 m + 4,50 m)</td></tr></table>
+
 
 **Q : Je suis en train de lire les [[lignages]] d'[[ensorceleur]]. A propos du [[lignage féerique]]. Le Toucher rieur ne mentionne aucun [[jet de sauvegarde]]. Est-ce normal ? Il n'y a pas de [[jet de sauvegarde|JS]] contre le Toucher rieur d'un [[ensorceleur]] de [[lignage féerique]] ?**
 

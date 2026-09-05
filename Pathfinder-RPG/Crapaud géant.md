@@ -38,17 +38,9 @@ Categories:
 {s:BDTexte|**Peau empoisonnée (Ext).** Toutes les créatures qui touchent un crapaud géant à l’aide d’une attaque à main nue ou d’une arme naturelle sont exposées à la peau empoisonnée du crapaud. Peau — contact ; JdS Vigueur DD 14 ; fréquence 1/round pendant 4 rounds ; effet affaiblissement temporaire 1d2 Sagesse ; guérison 1 réussite.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crapaud
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Crapaud]] || 1/8
-|-
-| [[Crapaud des glaciers]] || 6
-|-
-| [[Crapaud géant]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crapaud</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crapaud]]</td><td>1/8</td></tr><tr><td>[[Crapaud des glaciers]]</td><td>6</td></tr><tr><td>[[Crapaud géant]]</td><td>2</td></tr></table>
+
 </div>*De grosses verrues parsèment la peau de ce crapaud brun de la taille d’un cheval. Sa gorge se boursoufle et ondule comme s’il était sur le point de coasser.*
 
 La plupart des crapauds géants vivent dans

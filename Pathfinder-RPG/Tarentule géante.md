@@ -39,26 +39,8 @@ Categories:
 {s:BDTexte|**Poison (Ext).** Morsure — blessure ; *JdS* [[Vigueur]] [[DD]] 24 ; *fréquence* 1/[[round]] pendant 6 [[round|rounds]] ; *effet* [[affaiblissement temporaire]] 1d6 [[Force|For]] ; *guérison* 2 réussites consécutives. Le [[DD]] du [[jet de sauvegarde]] dépend de la [[Constitution]] et comporte un bonus racial de +2.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'araignée
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Araignée écarlate]] || 1/4
-|-
-| [[Araignée goliath]] || 11
-|-
-| [[Araignée lunaire]] || 2
-|-
-| [[Araignée ogre]] || 5
-|-
-| [[Araignée-crabe géante]] || 1/2
-|-
-| [[Nuée daraignées|Nuée d'araignées]] || 1
-|-
-| [[Tarentule géante]] || 8
-|-
-| [[Veuve noire géante]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'araignée</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Araignée écarlate]]</td><td>1/4</td></tr><tr><td>[[Araignée goliath]]</td><td>11</td></tr><tr><td>[[Araignée lunaire]]</td><td>2</td></tr><tr><td>[[Araignée ogre]]</td><td>5</td></tr><tr><td>[[Araignée-crabe géante]]</td><td>1/2</td></tr><tr><td>[[Nuée daraignées|Nuée d'araignées]]</td><td>1</td></tr><tr><td>[[Tarentule géante]]</td><td>8</td></tr><tr><td>[[Veuve noire géante]]</td><td>3</td></tr></table>
+
 </div>*Une gigantesque tarentule recouverte de poils hérissés s’avance à pas calculés, ses huit yeux scrutant les environs à la recherche d’une proie.*
 </div></td></tr></table>

@@ -9,21 +9,9 @@ RedirectTo: Dragon
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Catégories de dragons
-|- CLASS="titre"
-| Dragons métalliques
-|- CLASS="premier"
-| [[Dragon dairain|Dragon d'airain]]
-|-
-| [[Dragon dargent|Dragon d'argent]]
-|-
-| [[Dragon de bronze]]
-|-
-| [[Dragon de cuivre]]
-|-
-| [[Dragon dor|Dragon d'or]]
-|}
+
+<table CLASS="tablo autoalt"><caption>Catégories de dragons</caption><tr CLASS="titre"><td>Dragons métalliques</td></tr><tr CLASS="premier"><td>[[Dragon dairain|Dragon d'airain]]</td></tr><tr><td>[[Dragon dargent|Dragon d'argent]]</td></tr><tr><td>[[Dragon de bronze]]</td></tr><tr><td>[[Dragon de cuivre]]</td></tr><tr><td>[[Dragon dor|Dragon d'or]]</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire, p.94</div>
 <ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[Dragon|dragons]].***</li></ul>
 

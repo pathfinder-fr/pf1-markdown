@@ -45,27 +45,5 @@ Le personnage a dévoué sa vie et son âme au bien et à tout ce qui est pur.
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine du Bien
-| Sous-domaine des Agathions || Sous-domaine des Archons || Sous-domaine des Azatas || Sous-domaine de l'Amitié || Sous-domaine de la Rédemption
-|- CLASS="premier"
-| 1er || *[[protection contre le Mal]]* || *[[bouclier de la foi]]* || *[[faveur divine]]* || *[[repli expéditif]]* || *idem* || *idem*
-|-
-| 2e || *[[arme alignée]]* (lancé comme un sort du Bien seulement) || *idem* || *idem* || *idem* || *[[protection dautrui|protection d'autrui]]* || *[[scrupule]]*
-|-
-| 3e || *[[cercle magique contre le Mal]]* || *[[don des langues]]* || *[[prière]]* || *[[sort vol|vol]]* || *idem* || *idem*
-|-
-| 4e || *[[châtiment sacré]]* || *idem* || *idem* || *idem* || *idem* || *[[repentir forcé]]*
-|-
-| 5e || *[[rejet du Mal]]* || *idem* || *idem* || *idem* || *[[lien télépathique]]* || *[[pénitence]]*
-|-
-| 6e || *[[barrière de lames]]* || *[[allié majeur doutreplan|allié majeur d'outreplan]]* (agathions seulement) || *[[allié majeur doutreplan|allié majeur d'outreplan]]* (archons seulement) || *[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas seulement) || *idem* || *idem*
-|-
-| 7e || *[[parole sacrée]]* || *idem* || *idem* || *idem* || *idem* || *idem*
-|-
-| 8e || *[[aura sacrée]]* || *idem* || *idem* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[convocation de monstres IX]]* (lancé comme un sort du Bien seulement) || *idem* || *idem* || *idem* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine du Bien</td><td>Sous-domaine des Agathions</td><td>Sous-domaine des Archons</td><td>Sous-domaine des Azatas</td><td>Sous-domaine de l'Amitié</td><td>Sous-domaine de la Rédemption</td></tr><tr CLASS="premier"><td>1er</td><td>*[[protection contre le Mal]]*</td><td>*[[bouclier de la foi]]*</td><td>*[[faveur divine]]*</td><td>*[[repli expéditif]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>2e</td><td>*[[arme alignée]]* (lancé comme un sort du Bien seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[protection dautrui|protection d'autrui]]*</td><td>*[[scrupule]]*</td></tr><tr><td>3e</td><td>*[[cercle magique contre le Mal]]*</td><td>*[[don des langues]]*</td><td>*[[prière]]*</td><td>*[[sort vol|vol]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>4e</td><td>*[[châtiment sacré]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[repentir forcé]]*</td></tr><tr><td>5e</td><td>*[[rejet du Mal]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[lien télépathique]]*</td><td>*[[pénitence]]*</td></tr><tr><td>6e</td><td>*[[barrière de lames]]*</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (agathions seulement)</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (archons seulement)</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (azatas seulement)</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[parole sacrée]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>8e</td><td>*[[aura sacrée]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[convocation de monstres IX]]* (lancé comme un sort du Bien seulement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>

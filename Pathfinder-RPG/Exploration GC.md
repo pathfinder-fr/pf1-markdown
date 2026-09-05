@@ -21,41 +21,15 @@ Ce type de jeu non-linéaire encourage les PJ à se lancer dans le monde, à che
 ### Déplacement
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ {s:Reference|TEMPSDEVOYAGE}Temps de voyage (1 hexagone)
-|- CLASS="titre"
-| WIDTH="32%" | VD du groupe
-| WIDTH="34%" | Plaines
-| WIDTH="33%" | Tout autre environnement
-|- CLASS="premier"
-| 4,5 m || 11 heures || 16 heures
-|-
-| 6 m || 8 heures || 12 heures
-|-
-| 9 m || 5 heures || 8 heures
-|-
-| 12 m || 4 heures || 6 heures
-|-
-| 15 m || 3 heures || 5 heures
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TEMPSDEVOYAGE}Temps de voyage (1 hexagone)</caption><tr CLASS="titre"><td WIDTH="32%">VD du groupe</td><td WIDTH="34%">Plaines</td><td WIDTH="33%">Tout autre environnement</td></tr><tr CLASS="premier"><td>4,5 m</td><td>11 heures</td><td>16 heures</td></tr><tr><td>6 m</td><td>8 heures</td><td>12 heures</td></tr><tr><td>9 m</td><td>5 heures</td><td>8 heures</td></tr><tr><td>12 m</td><td>4 heures</td><td>6 heures</td></tr><tr><td>15 m</td><td>3 heures</td><td>5 heures</td></tr></table>
+
 </div></div>
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ {s:Reference|TEMPSDEXPLORATION}Temps d’exploration (1 hexagone)
-|- CLASS="titre"
-| VD du groupe || Plaines ou collines || Désert, forêt ou marais || Montagnes
-|- CLASS="premier"
-| 4,5 m || 3 jours || 4 jours || 5 jours
-|-
-| 6 m || 2 jours || 3 jours || 4 jours
-|-
-| 9 m || 1 journée || 2 jours || 3 jours
-|-
-| 12 m || 1 journée || 1 journée || 2 jours
-|-
-| 15 m || 1 journée || 1 journée || 1 journée
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TEMPSDEXPLORATION}Temps d’exploration (1 hexagone)</caption><tr CLASS="titre"><td>VD du groupe</td><td>Plaines ou collines</td><td>Désert, forêt ou marais</td><td>Montagnes</td></tr><tr CLASS="premier"><td>4,5 m</td><td>3 jours</td><td>4 jours</td><td>5 jours</td></tr><tr><td>6 m</td><td>2 jours</td><td>3 jours</td><td>4 jours</td></tr><tr><td>9 m</td><td>1 journée</td><td>2 jours</td><td>3 jours</td></tr><tr><td>12 m</td><td>1 journée</td><td>1 journée</td><td>2 jours</td></tr><tr><td>15 m</td><td>1 journée</td><td>1 journée</td><td>1 journée</td></tr></table>
+
 </div></div>Chaque hexagone de la carte correspond à 20 kilomètres d’un coin à l’autre et représente une zone d’un peu moins de 250 km2. Les hexagones servent à suivre les déplacements du groupe tandis qu’il est en exploration et aident à définir l’étendue des différents types d’environnements. Dans ces règles, les rapports d’exploration diffèrent des rapports de voyage que l’on trouve dans le Manuel des Joueurs puisque les personnages sont également censés prendre le temps d’explorer complètement chaque zone découverte, ce qui est nettement plus long que de simplement la traverser.
 
 Pour déterminer combien de temps il faut aux PJ pour traverser un hexagone ou l’explorer complètement, définissez la vitesse de déplacement de base du groupe (fixée par le membre le plus lent du groupe) et consultez la table "[[Exploration GC#TEMPSDEVOYAGE|Temps de voyage (1 hexagone)]]" ou la table "[[Exploration GC#TEMPSDEXPLORATION|Temps d’exploration (1 hexagone)]]". Ces durées représentent le déplacement et l’exploration au sein d’un hexagone normal du type d’environnement spécifié : les règles présentées plus loin dans cette section modifient le temps qu’il faut pour traverser ou explorer complètement un hexagone.
@@ -84,16 +58,9 @@ Le fait de se perdre répond aux règles normales (Manuel des Joueurs, p. 430) �
 ### Les rencontres aléatoires
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| d100 || Résultat
-|- CLASS="premier"
-| 01-50 || Pas de rencontre
-|-
-| 51-60 || Danger
-|-
-| 61-100 || Monstre
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>d100</td><td>Résultat</td></tr><tr CLASS="premier"><td>01-50</td><td>Pas de rencontre</td></tr><tr><td>51-60</td><td>Danger</td></tr><tr><td>61-100</td><td>Monstre</td></tr></table>
+
 </div></div>Les catastrophes naturelles peuvent se produire n’importe où. Les régions sauvages accueillent souvent toute une variété de monstres. Vous pouvez ajouter quelques dangers de plus à vos sessions d’exploration en incluant des rencontres aléatoires, qu’elles prennent la forme de dangers naturels ou de monstres vivant dans l’environnement donné.
 
 Lancez un dé sur la table suivante une fois par jour (ou une fois par hexagone si les PJ pénètrent dans plusieurs hexagones en une journée). Pour les dangers, consultez la section [[Exploration GC#DANGERS|Les dangers]]. Pour les rencontres de monstres, dans la plupart des cas les PJ affrontent une créature adaptée à l’environnement donné, mais une crise de famine, de sécheresse, une guerre ou une épidémie pourrait forcer un monstre à quitter son territoire normal et à intégrer un environnement étrange.
@@ -228,46 +195,15 @@ Les plaines peuvent être des champs de hautes herbes, une toundra toujours gel�
 ### La génération de cartes aléatoires
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| WIDTH="30%" | d20
-| WIDTH="70%" | Type d'environnement
-|- CLASS="premier"
-| 1-3 || [[Exploration GC#FORET|Forêt]]
-|-
-| 4-6 || [[Exploration GC#COLLINES|Collines]]
-|-
-| 7-8 || [[Exploration GC#MARAIS|Marais]]
-|-
-| 9-10 || [[Exploration GC#MONTAGNES|Montagnes]]
-|-
-| 11-13 || [[Exploration GC#PLAINES|Plaines]]
-|-
-| 14 || [[Exploration GC#COLONIE|Colonie]]
-|-
-| 15-16 || [[Exploration GC#EAUX|Eaux]]
-|-
-| 17-20 || Même type d’environnement que le précédent
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td WIDTH="30%">d20</td><td WIDTH="70%">Type d'environnement</td></tr><tr CLASS="premier"><td>1-3</td><td>[[Exploration GC#FORET|Forêt]]</td></tr><tr><td>4-6</td><td>[[Exploration GC#COLLINES|Collines]]</td></tr><tr><td>7-8</td><td>[[Exploration GC#MARAIS|Marais]]</td></tr><tr><td>9-10</td><td>[[Exploration GC#MONTAGNES|Montagnes]]</td></tr><tr><td>11-13</td><td>[[Exploration GC#PLAINES|Plaines]]</td></tr><tr><td>14</td><td>[[Exploration GC#COLONIE|Colonie]]</td></tr><tr><td>15-16</td><td>[[Exploration GC#EAUX|Eaux]]</td></tr><tr><td>17-20</td><td>Même type d’environnement que le précédent</td></tr></table>
+
 </div></div>
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| d20 || Élément environnemental
-|- CLASS="premier"
-| 1-3 || Difficile
-|-
-| 4-6 || Caractéristiques
-|-
-| 7-10 || Terrain de chasse
-|-
-| 11-12 || Ressources
-|-
-| 13-14 || Secrets
-|-
-| 15-20 || Normal
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>d20</td><td>Élément environnemental</td></tr><tr CLASS="premier"><td>1-3</td><td>Difficile</td></tr><tr><td>4-6</td><td>Caractéristiques</td></tr><tr><td>7-10</td><td>Terrain de chasse</td></tr><tr><td>11-12</td><td>Ressources</td></tr><tr><td>13-14</td><td>Secrets</td></tr><tr><td>15-20</td><td>Normal</td></tr></table>
+
 </div></div>Tout le monde n’a pas forcément le temps de créer des cartes détaillées pour le jeu. Vous trouverez un exemple de carte à photocopier et à utiliser facilement en jeu, à la page 168, mais vos joueurs et vous-même pouvez également utiliser les règles qui suivent pour créer aléatoirement une carte inédite en cours de jeu. Ceci pourrait permettre à vos joueurs de découvrir le monde vierge qui les entoure. Les options suivantes sont spécifiquement prévues pour correspondre à des types génériques d’environnements tempérés : il vous appartient de les ajuster à votre jeu. Dans les terres stériles gelées, les hexagones de plaines pourraient représenter de grandes étendues de glace tandis que dans un climat aride, ce pourrait être de gigantesques sebkhas. Servez-vous de ces exemples comme d’un tremplin pour créer une campagne d’exploration unique.
 
 Pour créer une nouvelle carte, commencez par choisir un hexagone comme point de départ sur votre carte vierge. Puis décidez du type d’environnement qu’il accueillera (comme, par exemple, une colonie au milieu d’une forêt). À partir de là, les rênes de l’exploration sont entre les mains de vos joueurs. Laissez-les décider de la direction qu’ils veulent suivre et laissez-les générer à tour de rôle les hexagones qui suivent en lançant 1d20 deux fois pour déterminer le type d’environnement puis l’élément environnemental de l’hexagone en utilisant les tables ci-contre.

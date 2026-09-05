@@ -40,15 +40,9 @@ Categories:
 </td>
 <td>
 <div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de serpent d'eau
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Serpent deau|Serpent d'eau]] || 1
-|-
-| [[Serpent deau géant|Serpent d'eau géant]] || 7
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de serpent d'eau</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Serpent deau|Serpent d'eau]]</td><td>1</td></tr><tr><td>[[Serpent deau géant|Serpent d'eau géant]]</td><td>7</td></tr></table>
+
 </div>
 *Ce serpent aux écailles bleu-vert glisse à la surface de l’eau dans un ballet sinueux de muscles gracieux et agiles.*
 

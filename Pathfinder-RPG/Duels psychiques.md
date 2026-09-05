@@ -59,28 +59,9 @@ Une fois que le créateur a déterminé le type d’attaque de la manifestation,
 PM dépensés pour les dégâts Nombre de dés de dégâts
 
 <center>
-{| CLASS="tablo autoalt"  WIDTH="80%"
-|- CLASS="titre"
-| PM dépensés pour les dégâts || Nombre de dés de dégâts
-|- CLASS="premier"
-| 1 PM || 1 dé
-|-
-| 2 PM || 4 dés
-|-
-| 3 PM || 6 dés
-|-
-| 4 PM || 8 dés
-|-
-| 5 PM || 10 dés
-|-
-| 6 PM || 12 dés
-|-
-| 7 PM || 14 dés
-|-
-| 8 PM || 16 dés
-|-
-| 9 PM || 1 dé par niveau de manifestation du créateur (20 dés au maximum)
-|}
+
+<table CLASS="tablo autoalt"  WIDTH="80%"><tr CLASS="titre"><td>PM dépensés pour les dégâts</td><td>Nombre de dés de dégâts</td></tr><tr CLASS="premier"><td>1 PM</td><td>1 dé</td></tr><tr><td>2 PM</td><td>4 dés</td></tr><tr><td>3 PM</td><td>6 dés</td></tr><tr><td>4 PM</td><td>8 dés</td></tr><tr><td>5 PM</td><td>10 dés</td></tr><tr><td>6 PM</td><td>12 dés</td></tr><tr><td>7 PM</td><td>14 dés</td></tr><tr><td>8 PM</td><td>16 dés</td></tr><tr><td>9 PM</td><td>1 dé par niveau de manifestation du créateur (20 dés au maximum)</td></tr></table>
+
 </center>
 
 Le type de dé de dégâts de la manifestation dépend de la source des PM de la manifestation. Les sorts et pouvoirs magiques psychiques sacrifiés donnent des d8. Les sorts profanes et les autres pouvoirs magiques donnent des d6. Toutes les autres méthodes de génération (y compris les méthodes mixtes) donnent des d4. Si l’attaque de la manifestation se résout contre la [[CA]] ou la [[valeurs de combat#ATTAQUESDECONTACT|CA au contact]], c’est un critique potentiel infligeant le double des dégâts normaux en cas de 20 naturel. Si la manifestation autorise un jet de sauvegarde, le créateur peut dépenser des PM supplémentaires pour ajouter l’un des états préjudiciables issus de la liste donnée plus bas (il doit tout de même dépenser 1 PM pour les dégâts). Un jet de sauvegarde réussi annule toujours cet état. Les états préjudiciables reçus lors d’un duel psychique se dissipent si le duel se termine avant la fin de leur durée normale. En dehors des exceptions et ajouts indiqués dans la liste des états préjudiciables suivante, ces états fonctionnent comme à l’accoutumée.

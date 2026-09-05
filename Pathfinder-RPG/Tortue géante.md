@@ -47,15 +47,9 @@ charge transportée.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de tortue
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Tortue géante]] || 1
-|-
-| [[Tortue immense]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de tortue</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Tortue géante]]</td><td>1</td></tr><tr><td>[[Tortue immense]]</td><td>8</td></tr></table>
+
 </div>*Cette tortue est moitié moins grande qu’un humain et possède une carapace en dôme, un cuir tanné et un long cou.*
 
 Les tortues géantes vivent généralement sur des

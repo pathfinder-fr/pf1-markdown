@@ -14,53 +14,9 @@ Le faux prêtre, un des plus puissants servants du dieu, offre ses dons à la po
 Un dévoué qui souhaite devenir un des prêtres les plus dignes de confiance du faux dieu doit subir un rituel très long dans la capitale de la Théocratie du Dieu vivant. Il est dit que le faux dieu lui-même conduit les dernières étapes du rituel, en bénissant le nouveau prêtre et en jugeant de sa pureté. Ceux qui sont jugés dignes émergent de ce procédé mystérieux en croyants absolus, alors que ceux qui ont été jugés inadéquats ne sont plus jamais revus. Un nouveau prêtre se retrouve très vite sur le chemin du pouvoir, du prestige et de la fortune, puisque la hiérarchie de la foi du dieu vivant traite la plupart des prêtres comme des supérieurs. En effet, plusieurs faux prêtres se retrouvent à monter prestement les échelons pour devenir de grands dirigeants ou posséder un pouvoir encore plus grand très rapidement.''
 
 <center>
-{| CLASS="tablo"
-|+ Le faux prêtre
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#PREMIERRITUEL|premier rituel]]
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 1d6
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | [[Prêtre razmirien#MAITRESDESMENSONGES|Maître des mensonges]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|- CLASS="alt"
-| 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 2d6
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | [[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#DEUXIEMERITUEL|deuxième rituel]]
-| CLASS="gauche" | —
-|- CLASS="alt"
-| 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 3d6
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [[Prêtre razmirien#CONVERSION|Conversion]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|- CLASS="alt"
-| 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 4d6
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|-
-| 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [[Prêtre razmirien#TROISIEMERITUEL|Troisième rituel]]
-| CLASS="gauche" | —
-|-
-| 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 5d6, [[Prêtre razmirien#VERITABLEIMPOSTEUR|véritable imposteur]]
-| CLASS="gauche" | [[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]
-|}
+
+<table CLASS="tablo"><caption>Le faux prêtre</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#PREMIERRITUEL|premier rituel]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 1d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Prêtre razmirien#MAITRESDESMENSONGES|Maître des mensonges]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 2d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Prêtre razmirien#DOMAINEDUFAUXDIEU|Domaine du faux dieu]], [[Prêtre razmirien#DEUXIEMERITUEL|deuxième rituel]]</td><td CLASS="gauche">—</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 3d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Prêtre razmirien#CONVERSION|Conversion]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 4d6</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Prêtre razmirien#TROISIEMERITUEL|Troisième rituel]]</td><td CLASS="gauche">—</td></tr><tr><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Prêtre razmirien#FAUSSECANALISATION|Fausse canalisation]] 5d6, [[Prêtre razmirien#VERITABLEIMPOSTEUR|véritable imposteur]]</td><td CLASS="gauche">[[Classes de prestige#SORTSPARJOUR|+1 niveau dans une classe de lanceur de sorts profanes existante]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d8.

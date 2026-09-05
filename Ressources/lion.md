@@ -4,32 +4,4 @@ Title: Guerrier du Lion
 LastModified: 2019-01-04 11:38
 ---
 
-{| CLASS="tablo autoalt"
-|+ le guerrier du lion
-|- CLASS="titre"
-| niveau || BBA || réflexes || vigueur || volonté || spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +2 || +2 || frappe brulante(1d6), techniques du lion, reserve stellaire
-|-
-| 2 || +2 || +1 || +2 || +3 || résistance au feu
-|-
-| 3 || +3 || +1 || +3 || +4 || frappe brulante(2d6)
-|-
-| 4 || +4 || +1 || +4 || +4 || aura du lion
-|-
-| 5 || +5 || +1 || +4 || +4 || frappe brulante(3d6)
-|-
-| 6 || +6 || +2 || +4 || +4 || techniques de maitre du lion
-|-
-| 7 || +7 || +2 || +4 || +5 || frappe brulante(4d6)
-|-
-| 8 || +8 || +3 || +5 || +5 || immunité au feu
-|-
-| 9 || +9 || +3 || +5 || +5 || frappe brulante(5d6)
-|-
-| 10 || +10 || +3 || +6 || +6 || déchaînement du lion
-
-
-###### réserve stellaire
-
-|}
+<table CLASS="tablo autoalt"><caption>le guerrier du lion</caption><tr CLASS="titre"><td>niveau</td><td>BBA</td><td>réflexes</td><td>vigueur</td><td>volonté</td><td>spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+2</td><td>frappe brulante(1d6), techniques du lion, reserve stellaire</td></tr><tr><td>2</td><td>+2</td><td>+1</td><td>+2</td><td>+3</td><td>résistance au feu</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+4</td><td>frappe brulante(2d6)</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+4</td><td>aura du lion</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+4</td><td>frappe brulante(3d6)</td></tr><tr><td>6</td><td>+6</td><td>+2</td><td>+4</td><td>+4</td><td>techniques de maitre du lion</td></tr><tr><td>7</td><td>+7</td><td>+2</td><td>+4</td><td>+5</td><td>frappe brulante(4d6)</td></tr><tr><td>8</td><td>+8</td><td>+3</td><td>+5</td><td>+5</td><td>immunité au feu</td></tr><tr><td>9</td><td>+9</td><td>+3</td><td>+5</td><td>+5</td><td>frappe brulante(5d6)</td></tr><tr><td>10</td><td>+10</td><td>+3</td><td>+6</td><td>+6</td><td>déchaînement du lion</td></tr></table>

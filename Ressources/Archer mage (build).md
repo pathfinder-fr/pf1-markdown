@@ -139,48 +139,5 @@ Flèches enflammées,
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution de l'archer-mage
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Chasseur divin (paladin).ashx|Chasseur divin]] 1 || +1 || - || [[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision.ashx|Tir de précision (don cadeau)]]
-|-
-| 02 || [[Pathfinder-RPG.Chasseur divin (paladin).ashx|Chasseur divin]] 2 || +2 || - || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 1 || +2 || 1 || [[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]
-|-
-| 04 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 2 || +3 || 2 || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 3 || +3 || 3 || [[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]
-|-
-| 06 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 4 || +4 || 4 || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 5 || +4 || 5 || [[Pathfinder-RPG.Viser.ashx|Viser]]
-|-
-| 08 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 6 || +5 || 6 || &nbsp;
-|-
-| 09 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 1 || +6 || 6 || [[Pathfinder-RPG.Port de larmure magique.ashx|Port de l'armure magique]], [[Pathfinder-RPG.champion occultiste.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : [[Pathfinder-RPG.Feu nourri.ashx|feu nourri]]
-|-
-| 10 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 2 || +7 || 7 || &nbsp;
-|-
-| 11 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 3 || +8 || 8 || [[Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]]
-|-
-| 12 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 4 || +9 || 9 || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 5 || +10 || 10 || [[Pathfinder-RPG.Arme de prédilection.ashx|Arme de prédilection]] (arc long), [[Pathfinder-RPG.champion occultiste.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : [[Pathfinder-RPG.Spécialisation martiale.ashx|spécialisation martiale]] (arc long)
-|-
-| 14 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 6 || +11 || 11 || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 7 || +12 || 12 || [[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]]
-|-
-| 16 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 8 || +13 || 13 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 9 || +14 || 14 || Don au choix, [[Pathfinder-RPG.champion occultiste.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : don au choix
-|-
-| 18 || [[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 10 || +15 || 15 || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 7 || +15 || 16 || Don au choix
-|-
-| 20 || [[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 8 || +16 || 17 || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution de l'archer-mage</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Chasseur divin (paladin).ashx|Chasseur divin]] 1</td><td>+1</td><td>-</td><td>[[Pathfinder-RPG.Tir à bout portant.ashx|Tir à bout portant]], [[Pathfinder-RPG.Tir de précision.ashx|Tir de précision (don cadeau)]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Chasseur divin (paladin).ashx|Chasseur divin]] 2</td><td>+2</td><td>-</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 1</td><td>+2</td><td>1</td><td>[[Pathfinder-RPG.Tir rapide.ashx|Tir rapide]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 2</td><td>+3</td><td>2</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 3</td><td>+3</td><td>3</td><td>[[Pathfinder-RPG.Frappe magique.ashx|Frappe magique]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 4</td><td>+4</td><td>4</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 5</td><td>+4</td><td>5</td><td>[[Pathfinder-RPG.Viser.ashx|Viser]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 6</td><td>+5</td><td>6</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 1</td><td>+6</td><td>6</td><td>[[Pathfinder-RPG.Port de larmure magique.ashx|Port de l'armure magique]], [[Pathfinder-RPG.champion occultiste.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : [[Pathfinder-RPG.Feu nourri.ashx|feu nourri]]</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 2</td><td>+7</td><td>7</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 3</td><td>+8</td><td>8</td><td>[[Pathfinder-RPG.Tirs groupés.ashx|Tirs groupés]]</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 4</td><td>+9</td><td>9</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 5</td><td>+10</td><td>10</td><td>[[Pathfinder-RPG.Arme de prédilection.ashx|Arme de prédilection]] (arc long), [[Pathfinder-RPG.champion occultiste.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : [[Pathfinder-RPG.Spécialisation martiale.ashx|spécialisation martiale]] (arc long)</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 6</td><td>+11</td><td>11</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 7</td><td>+12</td><td>12</td><td>[[Pathfinder-RPG.Science du tir de précision.ashx|Science du tir de précision]]</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 8</td><td>+13</td><td>13</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 9</td><td>+14</td><td>14</td><td>Don au choix, [[Pathfinder-RPG.champion occultiste.ashx#DONSUPPLEMENTAIRE|don supplémentaire]] : don au choix</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Champion occultiste.ashx|Champion Occultiste]] 10</td><td>+15</td><td>15</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 7</td><td>+15</td><td>16</td><td>Don au choix</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Ensorceleur.ashx|Ensorceleur]] 8</td><td>+16</td><td>17</td><td>&nbsp;</td></tr></table>

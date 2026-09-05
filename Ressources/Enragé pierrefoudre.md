@@ -5,53 +5,9 @@ LastModified: 2017-01-28 10:49
 ---
 
 <center>
-{| CLASS="tablo"
-|+ L'Enragé pierrefoudre
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Nombre de sorts par jour
-|- CLASS="premier"
-| 1 || +1 || +0 || +0 || +1
-| CLASS="gauche" | Rage des pierres, Furie des vents, Synergie explosive
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | Pouvoir de fureur
-| CLASS="gauche" | /
-|-CLASS="alt"
-| 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | Sort d'aéroche, Sort explosif
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +2
-| CLASS="gauche" | Pouvoir de fureur
-| CLASS="gauche" | /
-|-
-| 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | Marteau de pierrefoudre
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|- CLASS="alt"
-| 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | Pouvoir de fureur
-| CLASS="gauche" | /
-|-
-| 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | /
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|- CLASS="alt"
-| 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | Pouvoir de fureur
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|-
-| 9 || 6 || +3 || +3 || +5
-| CLASS="gauche" | /
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|- CLASS="alt"
-| 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | Pouvoir de fureur
-| CLASS="gauche" | Sorts: +1 niveau dans une classe existante
-|}
+
+<table CLASS="tablo"><caption>L'Enragé pierrefoudre</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Nombre de sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">Rage des pierres, Furie des vents, Synergie explosive</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">/</td></tr><tr CLASS="alt"><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Sort d'aéroche, Sort explosif</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">/</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Marteau de pierrefoudre</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">/</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">/</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr><td>9</td><td>6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">/</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">Pouvoir de fureur</td><td CLASS="gauche">Sorts: +1 niveau dans une classe existante</td></tr></table>
+
 </center>
 
 **Rôle.** Les enragés pierrefoudre sont plutôt offensifs, notamment grâce à leur maîtrise de la magie élémentaire brute.

@@ -105,48 +105,5 @@ Pour les autres, il y a toujours la lance longue et/ou la morgenstern.
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du prêtre combattant
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Prêtre|Prêtre]] 1 || +0 || 1 || [[Pathfinder-RPG.Science de linitiative.ashx|Science de l'initiative]]
-|-
-| 02 || [[Pathfinder-RPG.Prêtre|Prêtre]] 2 || +1 || 2 || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Prêtre|Prêtre]] 3 || +2 || 3 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]
-|-
-| 04 || [[Pathfinder-RPG.Prêtre|Prêtre]] 4 || +3 || 4 || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Prêtre|Prêtre]] 5 || +3 || 5 || [[Pathfinder-RPG.Sort éloigné.ashx|Métamagie : sort éloigné]]
-|-
-| 06 || [[Pathfinder-RPG.Prêtre|Prêtre]] 6 || +4 || 6 || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Prêtre|Prêtre]] 7 || +5 || 7 || [[Pathfinder-RPG.Incantation rapide.ashx|Métamagie : incantation rapide]]
-|-
-| 08 || [[Pathfinder-RPG.Prêtre|Prêtre]] 8 || +6 || 8 || &nbsp;
-|-
-| 09 || [[Pathfinder-RPG.Prêtre|Prêtre]] 9 || +6 || 9 || [[Pathfinder-RPG.Fente.ashx|Fente]]
-|-
-| 10 || [[Pathfinder-RPG.Prêtre|Prêtre]] 10 || +7 || 10 || &nbsp;
-|-
-| 11 || [[Pathfinder-RPG.Prêtre|Prêtre]] 11 || +8 || 11 || [[Pathfinder-RPG.Interférence divine.ashx|Interférence divine]]
-|-
-| 12 || [[Pathfinder-RPG.Prêtre|Prêtre]] 12 || +9 || 12 || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Prêtre|Prêtre]] 13 || +9 || 13 || [[Pathfinder-RPG.Sort persistant.ashx|Métamagie : sort persistant]]
-|-
-| 14 || [[Pathfinder-RPG.Prêtre|Prêtre]] 14 || +10 || 14 || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Prêtre|Prêtre]] 15 || +11 ||  15 || [[Pathfinder-RPG.Perfection magique.ashx|Perfection magique]]
-|-
-| 16 || [[Pathfinder-RPG.Prêtre|Prêtre]] 16 || +12 || 16 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Prêtre|Prêtre]] 17 || +12 || 17 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]
-|-
-| 18 || [[Pathfinder-RPG.Prêtre|Prêtre]] 18 || +13 || 18 || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Prêtre|Prêtre]] 19 || +14 || 19 || [[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]
-|-
-| 20 || [[Pathfinder-RPG.Prêtre|Prêtre]] 20 || +15 || 20 || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du prêtre combattant</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 1</td><td>+0</td><td>1</td><td>[[Pathfinder-RPG.Science de linitiative.ashx|Science de l'initiative]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 2</td><td>+1</td><td>2</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 3</td><td>+2</td><td>3</td><td>[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 4</td><td>+3</td><td>4</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 5</td><td>+3</td><td>5</td><td>[[Pathfinder-RPG.Sort éloigné.ashx|Métamagie : sort éloigné]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 6</td><td>+4</td><td>6</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 7</td><td>+5</td><td>7</td><td>[[Pathfinder-RPG.Incantation rapide.ashx|Métamagie : incantation rapide]]</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 8</td><td>+6</td><td>8</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 9</td><td>+6</td><td>9</td><td>[[Pathfinder-RPG.Fente.ashx|Fente]]</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 10</td><td>+7</td><td>10</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 11</td><td>+8</td><td>11</td><td>[[Pathfinder-RPG.Interférence divine.ashx|Interférence divine]]</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 12</td><td>+9</td><td>12</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 13</td><td>+9</td><td>13</td><td>[[Pathfinder-RPG.Sort persistant.ashx|Métamagie : sort persistant]]</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 14</td><td>+10</td><td>14</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 15</td><td>+11</td><td>15</td><td>[[Pathfinder-RPG.Perfection magique.ashx|Perfection magique]]</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 16</td><td>+12</td><td>16</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 17</td><td>+12</td><td>17</td><td>[[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 18</td><td>+13</td><td>18</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 19</td><td>+14</td><td>19</td><td>[[Pathfinder-RPG.tableau récapitulatif des dons.ashx|Don au choix]]</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Prêtre|Prêtre]] 20</td><td>+15</td><td>20</td><td>&nbsp;</td></tr></table>

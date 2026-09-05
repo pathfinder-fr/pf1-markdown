@@ -228,63 +228,9 @@ Poussés par l’amertume ou par la soif de pouvoirs magiques toujours plus gran
 
 #### Dons
 <center>
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Chanteur de la nature]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 13, capacité de classe [[représentation bardique]], [[elfe]] ou [[demi-elfe]]</td><td>Améliore les représentations en forêt et contre les fées</td></tr><tr CLASS="premier"><td>[[Descendance pure]]</td><td><sup>*ISR*</sup></td><td>Deux [[Types de créatures|sous-types]], trait racial sang elfique ou sang orque</td><td>N'est pas considéré comme étant de ses sous-types ou de sa race dans le cadre des effets qui en dépendent</td></tr><tr CLASS="premier"><td>[[Enfant de deux destins]]</td><td><sup>*ISR*</sup></td><td>5 rangs en [[Connaissances]] (folklore local), [[demi-elfe]]</td><td>Accède à un don de travail d'équipe d'un allié humain ou elfe temporairement</td></tr><tr CLASS="premier"><td>[[Esprit elfique]]</td><td><sup>MR</sup></td><td>[[Demi-elfe]]</td><td>Gain du trait magie elfique</td></tr><tr CLASS="premier"><td>[[Esprit humain]]</td><td><sup>MR</sup></td><td>[[Demi-elfe]]</td><td>Gain d'1 point de compétence par dé de vie (maximum 4)</td></tr><tr CLASS="premier"><td>[[Intuition partagée]]</td><td><sup>MJRA</sup></td><td>[[Sag]] 13, [[demi-elfe]]</td><td>Donner un bonus de +2 aux tests de Perception aux alliés</td></tr><tr CLASS="premier"><td>[[Maîtrise des talents multiples]]</td><td><sup>MR</sup></td><td>Personnage de niveau 5, [[demi-elfe]], trait racial [[Demi-elfe#Traits_raciaux_standards_6|talents multiples]]</td><td>Considère toutes les classes comme des classes de prédilection</td></tr><tr CLASS="premier"><td>[[Manipulation partagée]]</td><td><sup>MR</sup></td><td>[[Cha]] 13, [[demi-elfe]]</td><td>+2 aux tests de Bluff et d'Intimidation des alliés proches</td></tr><tr CLASS="premier"><td>[[Parangon demi-drow]]</td><td><sup>MR</sup></td><td>Traits raciaux [[Demi-elfe#Traits_raciaux_alternatifs_7|sang de drow]] et [[Demi-elfe#Traits_raciaux_alternatifs_7|magie drow]], [[demi-elfe]]</td><td>Le personnage est traité comme un drow pour les effets qui se comportent différement avec eux</td></tr><tr CLASS="premier"><td>[[Passer pour un humain]]</td><td><sup>MJRA</sup></td><td>[[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte)</td><td>+10 aux tests de Déguisement pour ressembler à un humain</td></tr><tr CLASS="premier"><td>[[Regard perspicace]]</td><td><sup>MR</sup></td><td>[[Elfe]] ou [[demi-elfe]], trait racial sens aiguisés</td><td>+2 aux jets de sauvegarde contre les illusions et aux tests de Linguistique pour détecter les contrefaçons</td></tr><tr CLASS="premier"><td>[[Sociable]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 13, [[demi-elfe]]</td><td>Donner aux alliés un bonus de +2 aux tests de Diplomatie</td></tr><tr CLASS="premier"><td>[[Talent magique]]</td><td><sup>MJRA</sup></td><td>[[Cha]] 10; [[elfe]], [[demi-elfe]] ou [[gnome]]</td><td>Lancer un sort de niveau 0 trois par jour comme un pouvoir magique</td></tr><tr CLASS="premier"><td>[[Talent inspirant]]</td><td><sup>*ISR*</sup></td><td>[[Demi-elfe]], trait racial adaptabilité ou armes ancestrales</td><td>Accède au Talent ou aux formations martiales d'un allié dans certaines situations</td></tr><tr CLASS="premier"><td>[[Voie de lexilé|Voie de l'exilé]]</td><td><sup>MR</sup></td><td>[[Demi-elfe]]</td><td>1 fois par jour, relance un jet de Volonté contre un effet d'enchantement</td></tr><tr><td>&emsp;[[Visible et invisible]]</td><td><sup>MR</sup></td><td>[[Voie de lexilé|Voie de l'exilé]], personnage de niveau 5, [[demi-elfe]]</td><td>+2 aux jets de sauvegarde contre les effets de divination et de scrutation, +2 aux tests de Discrétion, malus de -4 pour pister le personnage</td></tr><tr><td>&emsp;&emsp;[[Ni elfe ni humain]]</td><td><sup>MR</sup></td><td>[[Voie de lexilé|Voie de l'exilé]], [[Visible et invisible]], personnage de niveau 11, [[demi-elfe]]</td><td>Ingnore les effets qui se comportent différemment sur les elfes et les humains</td></tr></table>
 
-|- CLASS="premier"
-| [[Chanteur de la nature]] || <sup>MJRA</sup> || [[Cha]] 13, capacité de classe [[représentation bardique]], [[elfe]] ou [[demi-elfe]] || Améliore les représentations en forêt et contre les fées
-
-|- CLASS="premier"
-| [[Descendance pure]] || <sup>*ISR*</sup> || Deux [[Types de créatures|sous-types]], trait racial sang elfique ou sang orque || N'est pas considéré comme étant de ses sous-types ou de sa race dans le cadre des effets qui en dépendent
-
-|- CLASS="premier"
-| [[Enfant de deux destins]] || <sup>*ISR*</sup> || 5 rangs en [[Connaissances]] (folklore local), [[demi-elfe]] || Accède à un don de travail d'équipe d'un allié humain ou elfe temporairement
-
-|- CLASS="premier"
-| [[Esprit elfique]] || <sup>MR</sup> || [[Demi-elfe]] || Gain du trait magie elfique
-
-|- CLASS="premier"
-| [[Esprit humain]] || <sup>MR</sup> || [[Demi-elfe]] || Gain d'1 point de compétence par dé de vie (maximum 4)
-
-|- CLASS="premier"
-| [[Intuition partagée]] || <sup>MJRA</sup> || [[Sag]] 13, [[demi-elfe]] || Donner un bonus de +2 aux tests de Perception aux alliés
-
-|- CLASS="premier"
-| [[Maîtrise des talents multiples]] || <sup>MR</sup> || Personnage de niveau 5, [[demi-elfe]], trait racial [[Demi-elfe#Traits_raciaux_standards_6|talents multiples]] || Considère toutes les classes comme des classes de prédilection
-
-|- CLASS="premier"
-| [[Manipulation partagée]] || <sup>MR</sup> || [[Cha]] 13, [[demi-elfe]] || +2 aux tests de Bluff et d'Intimidation des alliés proches
-
-|- CLASS="premier"
-| [[Parangon demi-drow]] || <sup>MR</sup> || Traits raciaux [[Demi-elfe#Traits_raciaux_alternatifs_7|sang de drow]] et [[Demi-elfe#Traits_raciaux_alternatifs_7|magie drow]], [[demi-elfe]] || Le personnage est traité comme un drow pour les effets qui se comportent différement avec eux
-
-|- CLASS="premier"
-| [[Passer pour un humain]] || <sup>MJRA</sup> || [[Demi-elfe]], [[demi-orque]], ou [[halfelin]] (voir texte) || +10 aux tests de Déguisement pour ressembler à un humain
-
-|- CLASS="premier"
-| [[Regard perspicace]] || <sup>MR</sup> || [[Elfe]] ou [[demi-elfe]], trait racial sens aiguisés || +2 aux jets de sauvegarde contre les illusions et aux tests de Linguistique pour détecter les contrefaçons
-
-|- CLASS="premier"
-| [[Sociable]] || <sup>MJRA</sup> || [[Cha]] 13, [[demi-elfe]] || Donner aux alliés un bonus de +2 aux tests de Diplomatie
-
-|- CLASS="premier"
-| [[Talent magique]] || <sup>MJRA</sup> || [[Cha]] 10; [[elfe]], [[demi-elfe]] ou [[gnome]] || Lancer un sort de niveau 0 trois par jour comme un pouvoir magique
-
-|- CLASS="premier"
-| [[Talent inspirant]] || <sup>*ISR*</sup> || [[Demi-elfe]], trait racial adaptabilité ou armes ancestrales || Accède au Talent ou aux formations martiales d'un allié dans certaines situations
-
-|- CLASS="premier"
-| [[Voie de lexilé|Voie de l'exilé]] || <sup>MR</sup> || [[Demi-elfe]] || 1 fois par jour, relance un jet de Volonté contre un effet d'enchantement
-|-
-| &emsp;[[Visible et invisible]] || <sup>MR</sup> || [[Voie de lexilé|Voie de l'exilé]], personnage de niveau 5, [[demi-elfe]] || +2 aux jets de sauvegarde contre les effets de divination et de scrutation, +2 aux tests de Discrétion, malus de -4 pour pister le personnage
-|-
-| &emsp;&emsp;[[Ni elfe ni humain]] || <sup>MR</sup> || [[Voie de lexilé|Voie de l'exilé]], [[Visible et invisible]], personnage de niveau 11, [[demi-elfe]] || Ingnore les effets qui se comportent différemment sur les elfes et les humains
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classes

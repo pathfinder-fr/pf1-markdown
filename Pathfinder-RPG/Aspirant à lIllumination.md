@@ -15,27 +15,9 @@ Categories:
 
 {s:Reference|TABLEASPIRANTALILLUMINATION}
 <center>
-{| CLASS="tablo"
-|+ L'aspirant à l'Illumination
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +0 || +2 || +2
-| CLASS="gauche" | [[Aspirant à lIllumination#REVELATIONDEPRESAGE|révélation de présage]], [[Aspirant à lIllumination#PELERINELU|pèlerin élu]]
-|- CLASS="alt"
-| 2 || +1 || +0 || +3 || +3
-| CLASS="gauche" | [[Aspirant à lIllumination#CANALISATIONDINCARNATIONANTERIEURE|canalisation d’incarnation antérieure]], [[Aspirant à lIllumination#QUIETUDE|quiétude]]
-|-
-| 3 || +2 || +1 || +3 || +3
-| CLASS="gauche" | [[Aspirant à lIllumination#TERRAINDENTENTE|terrain d’entente]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]] 1/jour
-|- CLASS="alt"
-| 4 || +3 || +1 || +4 || +4
-| CLASS="gauche" | [[Aspirant à lIllumination#FUSIONAVECLANATURE|fusion avec la nature]], [[Aspirant à lIllumination#AURADEQUIETUDE|aura de quiétude]]
-|-
-| 5 || +3 || +1 || +4 || +4
-| CLASS="gauche" | [[Aspirant à lIllumination#RENAISSANCE|renaissance]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]] 2/jour
-|}
+
+<table CLASS="tablo"><caption>L'aspirant à l'Illumination</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Aspirant à lIllumination#REVELATIONDEPRESAGE|révélation de présage]], [[Aspirant à lIllumination#PELERINELU|pèlerin élu]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Aspirant à lIllumination#CANALISATIONDINCARNATIONANTERIEURE|canalisation d’incarnation antérieure]], [[Aspirant à lIllumination#QUIETUDE|quiétude]]</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Aspirant à lIllumination#TERRAINDENTENTE|terrain d’entente]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]] 1/jour</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Aspirant à lIllumination#FUSIONAVECLANATURE|fusion avec la nature]], [[Aspirant à lIllumination#AURADEQUIETUDE|aura de quiétude]]</td></tr><tr><td>5</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td CLASS="gauche">[[Aspirant à lIllumination#RENAISSANCE|renaissance]], [[Aspirant à lIllumination#FORMEANIMALE|forme animale]] 2/jour</td></tr></table>
+
 </center>
 
 **Dés de vie.** d8.

@@ -41,15 +41,9 @@ volonté.
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'hippocampe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hippocampe géant]] || 3
-|-
-| [[Hippocampe tueur]] || 5
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'hippocampe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hippocampe géant]]</td><td>3</td></tr><tr><td>[[Hippocampe tueur]]</td><td>5</td></tr></table>
+
 </div>*Cette créature des mers associe les caractéristiques physiques d’un poisson et d’un cheval. Elle est dotée de petites nageoires latérales et d’une queue délicatement recourbée.*
 
 Ces hippocampes sont les versions géantes des créatures

@@ -6,32 +6,9 @@ LastModified: 2018-01-12 16:09
 
 Chaque PJ mythique gagne plusieurs aptitudes de base partagées par tous les personnages mythiques, en plus des aptitudes spécifiques à chacune des voies mythiques. Ces aptitudes sont obtenues en fonction du grade mythique atteint.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Aptitudes mythiques de base
-|- CLASS="titre"
-| Grade mythique || Valeur de  carac. || Don  mythique || Aptitudes mythiques  de base
-|- CLASS="premier"
-| 1er || — || 1er || [[Temps-AptiudesMytiquesBase#DifficileTuer|Difficile à tuer]], [[Temps-AptiudesMytiquesBase#PouvoirMythique|Pouvoir mythique]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)
-|-
-| 2ème || 1er || — || [[Temps-AptiudesMytiquesBase#ExcellenteInitiative|Excellente initiative]]
-|-
-| 3ème || — || 2ème || [[Temps-AptiudesMytiquesBase#Retablissement|Rétablissement]]
-|-
-| 4ème || 2ème || — || [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)
-|-
-| 5ème || — || 3ème || [[Temps-AptiudesMytiquesBase#JDSMythique|Jets de sauvegarde mythiques]]
-|-
-| 6ème || 3ème || — || [[Temps-AptiudesMytiquesBase#ForceVolonté|Force de volonté]]
-|-
-| 7ème || — || 4ème || [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)
-|-
-| 8ème || 4ème || — || [[Temps-AptiudesMytiquesBase#Indomptable|Indomptable]]
-|-
-| 9ème || — || 5ème || [[Temps-AptiudesMytiquesBase#Immortel|Immortel]]
-|-
-| 10ème || 5ème || — || [[Temps-AptiudesMytiquesBase#HeroLegendaire|Héros légendaire]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)
-|-
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Aptitudes mythiques de base</caption><tr CLASS="titre"><td>Grade mythique</td><td>Valeur de  carac.</td><td>Don  mythique</td><td>Aptitudes mythiques  de base</td></tr><tr CLASS="premier"><td>1er</td><td>—</td><td>1er</td><td>[[Temps-AptiudesMytiquesBase#DifficileTuer|Difficile à tuer]], [[Temps-AptiudesMytiquesBase#PouvoirMythique|Pouvoir mythique]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d6)</td></tr><tr><td>2ème</td><td>1er</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#ExcellenteInitiative|Excellente initiative]]</td></tr><tr><td>3ème</td><td>—</td><td>2ème</td><td>[[Temps-AptiudesMytiquesBase#Retablissement|Rétablissement]]</td></tr><tr><td>4ème</td><td>2ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d8)</td></tr><tr><td>5ème</td><td>—</td><td>3ème</td><td>[[Temps-AptiudesMytiquesBase#JDSMythique|Jets de sauvegarde mythiques]]</td></tr><tr><td>6ème</td><td>3ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#ForceVolonté|Force de volonté]]</td></tr><tr><td>7ème</td><td>—</td><td>4ème</td><td>[[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d10)</td></tr><tr><td>8ème</td><td>4ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#Indomptable|Indomptable]]</td></tr><tr><td>9ème</td><td>—</td><td>5ème</td><td>[[Temps-AptiudesMytiquesBase#Immortel|Immortel]]</td></tr><tr><td>10ème</td><td>5ème</td><td>—</td><td>[[Temps-AptiudesMytiquesBase#HeroLegendaire|Héros légendaire]], [[Temps-AptiudesMytiquesBase#MonteeEnPuissanceMythique|montée en puissance]] (+1d12)</td></tr></table>
+
 
 {s:Reference|ValeurCaracMythique}
 - **Valeur de caractéristique.** En atteignant le 2ème grade mythique, une valeur de caractéristique de votre choix augmente définitivement de 2 points. Aux grades 4, 6, 8 et 10, vous renouvelez cette opération qui peut être appliquée sur une même caractéristique ou sur une caractéristique différente. 

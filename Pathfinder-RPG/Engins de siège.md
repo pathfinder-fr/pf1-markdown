@@ -38,23 +38,9 @@ Tous les engins de siège sont des objets de [[taille]] G au minimum, souvent pl
 **Assembler un engin de siège.** On démonte les machines de siège avant de les transporter et on les assemble une fois sur le champ de bataille, ce qui demande du temps et une force de travail (comme indiqué plus bas). Chaque ouvrier doit réussir un test d’[[Artisanat]] (engin de siège) [[DD]] 10. S’il n’est pas formé, il ne peut pas faire 10. En passant deux fois plus de temps que nécessaire, on peut assembler un engin avec deux fois moins de monde qu’indiqué. S’il n’y a pas au moins la moitié des ouvriers nécessaires, on ne peut pas monter l’arme.
 
 <center>
-{| CLASS="tablo"
-|+ Assemblage d’un engin de siège
-|- CLASS="titre"
-| Taille de la machine || Nombre d’ouvriers || Temps requis nécessaires
-|- CLASS="premier"
-| &emsp;P || 1 || 1 min
-|- CLASS="alt"
-| &emsp;M || 2 || 10 min
-|-
-| &emsp;G || 4 || 1 h
-|- CLASS="alt"
-| &emsp;TG || 6 || 2 h
-|-
-| &emsp;Gig || 8 || 4 h
-|- CLASS="alt"
-| &emsp;Col || 12 || 8 h
-|}
+
+<table CLASS="tablo"><caption>Assemblage d’un engin de siège</caption><tr CLASS="titre"><td>Taille de la machine</td><td>Nombre d’ouvriers</td><td>Temps requis nécessaires</td></tr><tr CLASS="premier"><td>&emsp;P</td><td>1</td><td>1 min</td></tr><tr CLASS="alt"><td>&emsp;M</td><td>2</td><td>10 min</td></tr><tr><td>&emsp;G</td><td>4</td><td>1 h</td></tr><tr CLASS="alt"><td>&emsp;TG</td><td>6</td><td>2 h</td></tr><tr><td>&emsp;Gig</td><td>8</td><td>4 h</td></tr><tr CLASS="alt"><td>&emsp;Col</td><td>12</td><td>8 h</td></tr></table>
+
 </center>
 
 ### Propriétés des engins de siège
@@ -94,18 +80,7 @@ De plus, elle subit un malus de -2 au jet d’attaque à chaque fois qu’une ca
 **Attaque indirecte.** Pour tirer avec une arme de siège indirecte, le chef d’équipe doit faire un test de visée contre le [[DD]] de l’engin de siège. Ce test tient compte du [[BBA|bonus de base à l’attaque]], du modificateur d’[[Intelligence]] ou du modificateur de [[Connaissances]] (ingénierie) si le personnage possède des rangs dans cette compétence, des malus liés à l’absence de formation au maniement des engins de siège et des modificateurs de la table 3-12. Si le personnage réussit son test, le projectile touche la case visée et inflige les dégâts indiqués ou affecte les créatures ou les objets qui s’y trouvent. Une créature peut faire un [[jet de sauvegarde]] pour limiter l’effet de l’attaque, en fonction du type de munition utilisé. Si l’attaque rate la case choisie, lancez 1d8 pour savoir dans quelle direction elle a dévié. Un 1 indique un tir trop court (qui tombe en direction de l’engin de siège) et les nombres de 2 à 8 désignent les cases adjacentes à la cible suivante, dans le sens des aiguilles d’une montre. Lancez 1d4 par [[facteur de portée]] qui sépare l’engin de la cible (1d4 si la cible se trouve dans le premier facteur de portée, 2d4 si elle est dans le deuxième etc.) Le total des dés indique le nombre de cases qui séparent le point d’impact de la cible, la direction de l’erreur étant toujours indiquée par le d8. Le projectile applique ses dégâts et ses effets dans la case où il atterrit.
 
 <center>
-{| CLASS="tablo"
-|+ Les modificateurs d’attaque indirecte
-|- CLASS="titre"
-| Condition || Modificateur
-|- CLASS="premier"
-| &emsp;Pas de ligne de mire jusqu’à la case cible || -6
-|- CLASS="alt"
-| &emsp;Tirs successifs (l’équipe voit où atterrissent les tirs ratés les plus récents) || +2 (cumulables) par échec (+10 au maximum)
-|-
-| &emsp;Tirs successifs (l’équipe ne voit pas où atterrissent les tirs ratés les plus récents, mais un observateur l’en informe) || +1 (cumulable) par échec (+5 au maximum)
-|- CLASS="alt"
-| &emsp;Tirs successifs après un coup au but || +10
-|-
-|}
+
+<table CLASS="tablo"><caption>Les modificateurs d’attaque indirecte</caption><tr CLASS="titre"><td>Condition</td><td>Modificateur</td></tr><tr CLASS="premier"><td>&emsp;Pas de ligne de mire jusqu’à la case cible</td><td>-6</td></tr><tr CLASS="alt"><td>&emsp;Tirs successifs (l’équipe voit où atterrissent les tirs ratés les plus récents)</td><td>+2 (cumulables) par échec (+10 au maximum)</td></tr><tr><td>&emsp;Tirs successifs (l’équipe ne voit pas où atterrissent les tirs ratés les plus récents, mais un observateur l’en informe)</td><td>+1 (cumulable) par échec (+5 au maximum)</td></tr><tr CLASS="alt"><td>&emsp;Tirs successifs après un coup au but</td><td>+10</td></tr></table>
+
 </center>

@@ -11,117 +11,13 @@ Categories:
 Le système des compétences fusionnées réduit le nombre de compétences de 35 à 12. Nombre de compétences de [[Connaissances]] ont été regroupées dans des catégories plus vastes au thème similaire. La compétence Connaissances (mystères), par exemple, fusionne avec [[UOM|Utilisation d’objets magiques]] et [[Art de la magie]]. La liste des nouvelles compétences apparaît dans la table "[[Compétences fusionnées#COMPETENCESFUSIONNEES|Compétences fusionnées]]", accompagnée de la caractéristique associée à chacune d’elles et des compétences de base qu’elles remplacent. Plusieurs compétences ont été éliminées de ce système. Cette suppression est indiquée par un tiret (-) dans la table "[[Compétences fusionnées#CONVERSIONDESCOMPETENCESDEBASE|Conversion des compétences de base]]". Les compétences éliminées sont généralement celles qui s’avèrent moins importantes lors des aventures mais il est possible de les réintégrer dans vos parties en utilisant la variante des [[Compétences contextuelles]]. Les compétences peuvent être converties du système de base à celui-ci, et vice-versa, en utilisant la table "Conversion des compétences de base". Cette table est des plus utiles si vous menez des aventures publiées ou si vous utilisez des monstres créés en appliquant les règles de base.
 
 <table width="100%"><tr><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ {s:Reference|COMPETENCESFUSIONNEES}Compétences fusionnées
-|- CLASS="titre"
-| Nouvelle compétence || Sans formation || Caractéristique || Compétences de base incluses
-|- CLASS="premier"
-| [[Compétences fusionnées, Acrobaties|Acrobaties]] || Oui || [[Dex]]* || [[Acrobaties]] (sauf pour sauter), [[Équitation]], [[Évasion]], [[Vol]]
-|-
-| [[Compétences fusionnées, Art de la magie|Art de la magie]] || Non || [[Int]] || [[Art de la magie]], [[Connaissances]] (mystères), [[UOM|Utilisation d’objets magiques]]
-|-
-| [[Compétences fusionnées, Athlétisme|Athlétisme]] || Oui || [[For]]* || [[Acrobaties]] (pour sauter), [[Escalade]], [[Natation]]
-|-
-| [[Compétences fusionnées, Discrétion|Discrétion]] || Oui || [[Dex]]* || [[Discrétion]]
-|-
-| [[Compétences fusionnées, Finesse|Finesse]] || Non || [[Dex]]* || [[Escamotage]], [[Sabotage]]
-|-
-| [[Compétences fusionnées, Influence|Influence]] || Oui || [[Cha]] || [[Bluff]], [[Diplomatie]], [[Intimidation]]
-|-
-| [[Compétences fusionnées, Nature|Nature]] || Non || [[Int]] || [[Connaissances]] (exploration souterraine, géographie, nature), [[Dressage]]
-|-
-| [[Compétences fusionnées, Perception|Perception]] || Oui || [[Sag]] || [[Perception]], [[Psychologie]]
-|-
-| [[Compétences fusionnées, Religion|Religion]] || Non || [[Int]] || [[Connaissances]] (plans, religion)
-|-
-| [[Compétences fusionnées, Représentation|Représentation]] || Oui || [[Cha]] || [[Déguisement]], [[Représentation]]
-|-
-| [[Compétences fusionnées, Société|Société]] || Non || [[Int]] || [[Connaissances]] (folklore local, histoire,noblesse), [[Linguistique]]
-|-
-| [[Compétences fusionnées, Survie|Survie]] || Oui || [[Sag]] || [[Premiers secours]], [[Survie]]
-|- CLASS="note"
-| | COLSPAN="4" | *(*) Le malus d’armure au test s’applique.*
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|COMPETENCESFUSIONNEES}Compétences fusionnées</caption><tr CLASS="titre"><td>Nouvelle compétence</td><td>Sans formation</td><td>Caractéristique</td><td>Compétences de base incluses</td></tr><tr CLASS="premier"><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td><td>Oui</td><td>[[Dex]]*</td><td>[[Acrobaties]] (sauf pour sauter), [[Équitation]], [[Évasion]], [[Vol]]</td></tr><tr><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td><td>Non</td><td>[[Int]]</td><td>[[Art de la magie]], [[Connaissances]] (mystères), [[UOM|Utilisation d’objets magiques]]</td></tr><tr><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td><td>Oui</td><td>[[For]]*</td><td>[[Acrobaties]] (pour sauter), [[Escalade]], [[Natation]]</td></tr><tr><td>[[Compétences fusionnées, Discrétion|Discrétion]]</td><td>Oui</td><td>[[Dex]]*</td><td>[[Discrétion]]</td></tr><tr><td>[[Compétences fusionnées, Finesse|Finesse]]</td><td>Non</td><td>[[Dex]]*</td><td>[[Escamotage]], [[Sabotage]]</td></tr><tr><td>[[Compétences fusionnées, Influence|Influence]]</td><td>Oui</td><td>[[Cha]]</td><td>[[Bluff]], [[Diplomatie]], [[Intimidation]]</td></tr><tr><td>[[Compétences fusionnées, Nature|Nature]]</td><td>Non</td><td>[[Int]]</td><td>[[Connaissances]] (exploration souterraine, géographie, nature), [[Dressage]]</td></tr><tr><td>[[Compétences fusionnées, Perception|Perception]]</td><td>Oui</td><td>[[Sag]]</td><td>[[Perception]], [[Psychologie]]</td></tr><tr><td>[[Compétences fusionnées, Religion|Religion]]</td><td>Non</td><td>[[Int]]</td><td>[[Connaissances]] (plans, religion)</td></tr><tr><td>[[Compétences fusionnées, Représentation|Représentation]]</td><td>Oui</td><td>[[Cha]]</td><td>[[Déguisement]], [[Représentation]]</td></tr><tr><td>[[Compétences fusionnées, Société|Société]]</td><td>Non</td><td>[[Int]]</td><td>[[Connaissances]] (folklore local, histoire,noblesse), [[Linguistique]]</td></tr><tr><td>[[Compétences fusionnées, Survie|Survie]]</td><td>Oui</td><td>[[Sag]]</td><td>[[Premiers secours]], [[Survie]]</td></tr><tr CLASS="note"><td | COLSPAN="4">*(*) Le malus d’armure au test s’applique.*</td></tr></table>
+
 </td><td width="50%">
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ {s:Reference|CONVERSIONDESCOMPETENCESDEBASE}Conversion des compétences de base
-|- CLASS="titre"
-| Compétence de base || Compétence fusionnée
-|- CLASS="premier"
-| [[Acrobaties]]* (pour sauter) || [[Compétences fusionnées, Athlétisme|Athlétisme]]
-|-
-| [[Acrobaties]] (sauf pour sauter) || [[Compétences fusionnées, Acrobaties|Acrobaties]]
-|-
-| [[Art de la magie]] || [[Compétences fusionnées, Art de la magie|Art de la magie]]
-|-
-| [[Artisanat]] || -
-|-
-| [[Bluff]] || [[Compétences fusionnées, Influence|Influence]]
-|-
-| [[Connaissances]] (exploration souterraine) || [[Compétences fusionnées, Nature|Nature]]
-|-
-| [[Connaissances]] (folklore local) || [[Compétences fusionnées, Société|Société]]
-|-
-| [[Connaissances]] (géographie) || [[Compétences fusionnées, Nature|Nature]]
-|-
-| [[Connaissances]] (histoire) || [[Compétences fusionnées, Société|Société]]
-|-
-| [[Connaissances]] (ingénierie) || -
-|-
-| [[Connaissances]] (mystères) || [[Compétences fusionnées, Art de la magie|Art de la magie]]
-|-
-| [[Connaissances]] (nature) || [[Compétences fusionnées, Nature|Nature]]
-|-
-| [[Connaissances]] (noblesse) || [[Compétences fusionnées, Société|Société]]
-|-
-| [[Connaissances]] (plans) || [[Compétences fusionnées, Religion|Religion]]
-|-
-| [[Connaissances]] (religion) || [[Compétences fusionnées, Religion|Religion]]
-|-
-| [[Déguisement]] || [[Compétences fusionnées, Représentation|Représentation]]
-|-
-| [[Diplomatie]] || [[Compétences fusionnées, Influence|Influence]]
-|-
-| [[Discrétion]] || [[Compétences fusionnées, Discrétion|Discrétion]]
-|-
-| [[Dressage]]* || [[Compétences fusionnées, Nature|Nature]]
-|-
-| [[Équitation]] || [[Compétences fusionnées, Acrobaties|Acrobaties]]
-|-
-| [[Escalade]] || [[Compétences fusionnées, Athlétisme|Athlétisme]]
-|-
-| [[Escamotage]] || [[Compétences fusionnées, Finesse|Finesse]]
-|-
-| [[Estimation]] || -
-|-
-| [[Évasion]] || [[Compétences fusionnées, Acrobaties|Acrobaties]]
-|-
-| [[Intimidation]] || [[Compétences fusionnées, Influence|Influence]]
-|-
-| [[Linguistique]] || [[Compétences fusionnées, Société|Société]]
-|-
-| [[Natation]] || [[Compétences fusionnées, Athlétisme|Athlétisme]]
-|-
-| [[Perception]] || [[Compétences fusionnées, Perception|Perception]]
-|-
-| [[Premiers secours]] || [[Compétences fusionnées, Survie|Survie]]
-|-
-| [[Profession]] || -
-|-
-| [[Psychologie]] || [[Compétences fusionnées, Perception|Perception]]
-|-
-| [[Représentation]] || [[Compétences fusionnées, Représentation|Représentation]]
-|-
-| [[Sabotage]] || [[Compétences fusionnées, Finesse|Finesse]]
-|-
-| [[Survie]] || [[Compétences fusionnées, Survie|Survie]]
-|-
-| [[UOM|Utilisation d’objets magiques]]* || [[Compétences fusionnées, Art de la magie|Art de la magie]]
-|-
-| [[Vol]] || [[Compétences fusionnées, Acrobaties|Acrobaties]]
-|- CLASS="note"
-| | COLSPAN="2" | *(*) La caractéristique associée à cette compétence est différente avec le système des compétences fusionnées.*
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:Reference|CONVERSIONDESCOMPETENCESDEBASE}Conversion des compétences de base</caption><tr CLASS="titre"><td>Compétence de base</td><td>Compétence fusionnée</td></tr><tr CLASS="premier"><td>[[Acrobaties]]* (pour sauter)</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>[[Acrobaties]] (sauf pour sauter)</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr><td>[[Art de la magie]]</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>[[Artisanat]]</td><td>-</td></tr><tr><td>[[Bluff]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr><tr><td>[[Connaissances]] (exploration souterraine)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Connaissances]] (folklore local)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Connaissances]] (géographie)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Connaissances]] (histoire)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Connaissances]] (ingénierie)</td><td>-</td></tr><tr><td>[[Connaissances]] (mystères)</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>[[Connaissances]] (nature)</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Connaissances]] (noblesse)</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Connaissances]] (plans)</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr><tr><td>[[Connaissances]] (religion)</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr><tr><td>[[Déguisement]]</td><td>[[Compétences fusionnées, Représentation|Représentation]]</td></tr><tr><td>[[Diplomatie]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr><tr><td>[[Discrétion]]</td><td>[[Compétences fusionnées, Discrétion|Discrétion]]</td></tr><tr><td>[[Dressage]]*</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>[[Équitation]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr><td>[[Escalade]]</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>[[Escamotage]]</td><td>[[Compétences fusionnées, Finesse|Finesse]]</td></tr><tr><td>[[Estimation]]</td><td>-</td></tr><tr><td>[[Évasion]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr><td>[[Intimidation]]</td><td>[[Compétences fusionnées, Influence|Influence]]</td></tr><tr><td>[[Linguistique]]</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>[[Natation]]</td><td>[[Compétences fusionnées, Athlétisme|Athlétisme]]</td></tr><tr><td>[[Perception]]</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr><tr><td>[[Premiers secours]]</td><td>[[Compétences fusionnées, Survie|Survie]]</td></tr><tr><td>[[Profession]]</td><td>-</td></tr><tr><td>[[Psychologie]]</td><td>[[Compétences fusionnées, Perception|Perception]]</td></tr><tr><td>[[Représentation]]</td><td>[[Compétences fusionnées, Représentation|Représentation]]</td></tr><tr><td>[[Sabotage]]</td><td>[[Compétences fusionnées, Finesse|Finesse]]</td></tr><tr><td>[[Survie]]</td><td>[[Compétences fusionnées, Survie|Survie]]</td></tr><tr><td>[[UOM|Utilisation d’objets magiques]]*</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>[[Vol]]</td><td>[[Compétences fusionnées, Acrobaties|Acrobaties]]</td></tr><tr CLASS="note"><td | COLSPAN="2">*(*) La caractéristique associée à cette compétence est différente avec le système des compétences fusionnées.*</td></tr></table>
+
 </td></tr></table>
 ### Description des compétences
 Cette section décrit toutes les compétences fusionnées, leur fonctionnement en jeu et fournit la liste des compétences de base qu’elles remplacent. Utilisez ces descriptions au lieu de celles du Manuel des Joueurs, même si nombre d’entre elles renvoient à la description des [[Compétences|compétences de cet ouvrage]] pour obtenir des explications détaillées. Chaque compétence de la liste ci-dessous se décompose en plusieurs sections où sont décrites en détails ses différentes fonctions. Y sont détaillés l’action nécessaire pour utiliser la fonction de la compétence, s’il est possible d’effectuer de nouvelles tentatives en cas de test raté, les avantages spéciaux qui s’appliquent à la fonction et les circonstances spéciales qui permettent ou non d’utiliser cette fonction sans formation.
@@ -132,49 +28,15 @@ Cette section décrit toutes les compétences fusionnées, leur fonctionnement e
 #### Encart : Identifications des monstres
 <div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Rareté du monstre || DD du test de compétence
-|- CLASS="premier"
-| Commun (gobelin) || 5 + [[FP]] du monstre
-|-
-| La plupart des monstres || 10 + [[FP]] du monstre
-|-
-| Rare (tarasque) || 15 + [[FP]] du monstre
-|}</div></div>Le personnage peut utiliser certaines compétences pour identifier les monstres, leurs pouvoirs spéciaux et leurs vulnérabilités. Un test réussi lui permet de connaitre quelques informations utiles à propos d’un monstre particulier. Pour chaque tranche de 5 points entre son résultat et le [[DD]] du test, il se souvient d’une information utile en plus.
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Rareté du monstre</td><td>DD du test de compétence</td></tr><tr CLASS="premier"><td>Commun (gobelin)</td><td>5 + [[FP]] du monstre</td></tr><tr><td>La plupart des monstres</td><td>10 + [[FP]] du monstre</td></tr><tr><td>Rare (tarasque)</td><td>15 + [[FP]] du monstre</td></tr></table></div></div>Le personnage peut utiliser certaines compétences pour identifier les monstres, leurs pouvoirs spéciaux et leurs vulnérabilités. Un test réussi lui permet de connaitre quelques informations utiles à propos d’un monstre particulier. Pour chaque tranche de 5 points entre son résultat et le [[DD]] du test, il se souvient d’une information utile en plus.
+
 
 {s:ClearRight}<div style="float:right; background-color: #fff; padding: 0 0 4px 8px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Type de créature || Compétence
-|- CLASS="premier"
-| Aberration || [[Compétences fusionnées, Nature|Nature]]
-|-
-| Animal || [[Compétences fusionnées, Nature|Nature]]
-|-
-| Créature artificielle || [[Compétences fusionnées, Art de la magie|Art de la magie]]
-|-
-| Créature magique || [[Compétences fusionnées, Art de la magie|Art de la magie]]
-|-
-| Dragon || [[Compétences fusionnées, Art de la magie|Art de la magie]]
-|-
-| Extérieur || [[Compétences fusionnées, Religion|Religion]]
-|-
-| Fée || [[Compétences fusionnées, Nature|Nature]]
-|-
-| Humanoïde monstrueux || [[Compétences fusionnées, Nature|Nature]]
-|-
-| Humanoïde || [[Compétences fusionnées, Société|Société]]
-|-
-| Mort-vivant || [[Compétences fusionnées, Religion|Religion]]
-|-
-| Plante || [[Compétences fusionnées, Nature|Nature]]
-|-
-| Vase || [[Compétences fusionnées, Nature|Nature]]
-|-
-| Vermine || [[Compétences fusionnées, Nature|Nature]]
-|}</div></div>La liste ci-contre indique la compétence à utiliser pour chaque type de monstres.
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Type de créature</td><td>Compétence</td></tr><tr CLASS="premier"><td>Aberration</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>Animal</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>Créature artificielle</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>Créature magique</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>Dragon</td><td>[[Compétences fusionnées, Art de la magie|Art de la magie]]</td></tr><tr><td>Extérieur</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr><tr><td>Fée</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>Humanoïde monstrueux</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>Humanoïde</td><td>[[Compétences fusionnées, Société|Société]]</td></tr><tr><td>Mort-vivant</td><td>[[Compétences fusionnées, Religion|Religion]]</td></tr><tr><td>Plante</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>Vase</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr><tr><td>Vermine</td><td>[[Compétences fusionnées, Nature|Nature]]</td></tr></table></div></div>La liste ci-contre indique la compétence à utiliser pour chaque type de monstres.
+
 
 **Action.** Aucune.
 

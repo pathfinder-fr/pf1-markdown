@@ -36,15 +36,9 @@ LastModified: 2021-02-23 17:22
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de moufette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Moufette]] || 1/4
-|-
-| [[Moufette géante]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de moufette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Moufette]]</td><td>1/4</td></tr><tr><td>[[Moufette géante]]</td><td>3</td></tr></table>
+
 </div>*Semblable à un petit blaireau, cette créature a une fourrure noire rayée de blanc de son museau à sa queue touffue relevée en signe d’avertissement.*
 
 Plus grandes que leur cousines passives, les moufettes géantes sont agressives. Ayant une corpulence plus importante à entretenir, elles ne se nourrissent pas simplement de larves et d’insectes mais chassent aussi les petits mammifères et les reptiles pendant la nuit, en plus des insectes géants. Si les moufettes géantes sont dangereuses pour les villages alentours, les fermiers trouvent un aspect positif à leur présence : leur goût pour les insectes géants et autres vermines dangereuses.

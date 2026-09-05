@@ -70,17 +70,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Les vishkanyas ont accès à ce don.
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | &nbsp;
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Venin de sommeil]]</td><td><sup>MR</sup></td><td>[[Vishkanya (race)|Vishkanya]]</td><td>Le poison du vishkanya endort ses cibles</td></tr></table>
 
-|- CLASS="premier"
-| [[Venin de sommeil]] || <sup>MR</sup> || [[Vishkanya (race)|Vishkanya]] || Le poison du vishkanya endort ses cibles
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

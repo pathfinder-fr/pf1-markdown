@@ -41,16 +41,8 @@ LastModified: 2025-04-18 15:19
 Par [Faenil](http://www.pathfinder-fr.org/Forum/yaf_profile164_faenil.aspx). Voici quelques fées que j'ai créées pour ma propre campagne. Certaines d'entre elles peuvent faire office de familier à condition d'avoir exactement le même alignement que la fée.
 
 
-{| CLASS="tablo"
-|+ Liste des fées
-|- CLASS="titre"
-| Nom || FP || Alignement || Allégeance || Niveau requis pour   
-servir de familier
-|- CLASS="premier"
-| [[Fée sombre]] || 2 || Chaotique mauvais || Cour invisible || 7
-|- CLASS="alt"
-| [[Fée des lumières]] || 2 || Chaotique bon || Cour visible || 7
-|-
-| [[Fée des ondées]] || 2 || Chaotique neutre || Cour visible || 7
-|}
+
+<table CLASS="tablo"><caption>Liste des fées</caption><tr CLASS="titre"><td>Nom</td><td>FP</td><td>Alignement</td><td>Allégeance</td><td>Niveau requis pour   
+servir de familier</td></tr><tr CLASS="premier"><td>[[Fée sombre]]</td><td>2</td><td>Chaotique mauvais</td><td>Cour invisible</td><td>7</td></tr><tr CLASS="alt"><td>[[Fée des lumières]]</td><td>2</td><td>Chaotique bon</td><td>Cour visible</td><td>7</td></tr><tr><td>[[Fée des ondées]]</td><td>2</td><td>Chaotique neutre</td><td>Cour visible</td><td>7</td></tr></table>
+
 </div></div>

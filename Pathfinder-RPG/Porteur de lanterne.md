@@ -11,42 +11,9 @@ Categories:
 
 Bien que les porteurs de lanterne se concentrent sur les Tréfonds (surtout pour combattre les machinations des drows), ils ont commencé à retourner vers la surface où la corruption démoniaque similaire à celle qui cause l'expansion des drows a commencé à jaillir. La Faille démoniaque a également vu un nombre considérable de porteurs de lanterne rejoindre la croisade. Les porteurs de lanterne sont cependant de plus en plus observables à travers plusieurs régions, surtout puisque les agents drows et leur influence sur le monde de la surface deviennent de plus en plus apparents.''
 
-{| CLASS="tablo centre autoalt"
-|+ Le porteur de lanterne
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +0 || +1 || +0
-| CLASS="gauche" | [[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#PUISSANCELUMINEUSE|puissance lumineuse]]
-|-
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | Premier [[Porteur de lanterne#ENNEMIJURE|ennemi juré]], [[Porteur de lanterne#ARMEMENTGLACIAL|armement glacial]]
-|-
-| 3 || +3 || +2 || +2 || +1
-| CLASS="gauche" | [[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#PERCEPTIONSUPERIEURE|perception supérieure]]
-|-
-| 4 || +4 || +2 || +2 || +1
-| CLASS="gauche" | [[Porteur de lanterne#LIBERTEDEMOUVEMENT|Liberté de mouvement]]
-|-
-| 5 || +5 || +3 || +3 || +2
-| CLASS="gauche" | [[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#MAITRISEIRREFUTABLEDESARMES|maîtrise irréfutable des armes]]
-|-
-| 6 || +6 || +3 || +3 || +2
-| CLASS="gauche" | [[Porteur de lanterne#ARSENALCELESTE|Arsenal céleste]]
-|-
-| 7 || +7 || +4 || +4 || +2
-| CLASS="gauche" | [[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#SEFONDREDANSLEDECOR|se fondre dans le décor]]
-|-
-| 8 || +8 || +4 || +4 || +3
-| CLASS="gauche" | Deuxième [[Porteur de lanterne#ENNEMIJURE|ennemi juré]]
-|-
-| 9 || +9 || +5 || +5 || +3
-| CLASS="gauche" | [[Porteur de lanterne#CONNEXIONAUXPORTESSELFIQUES|Connexion aux portes elfiques]]
-|-
-| 10 || +10 || +5 || +5 || +3
-| CLASS="gauche" | [[Porteur de lanterne#HERAUTDELUMIERE|Héraut de lumière]]
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Le porteur de lanterne</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+0</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#PUISSANCELUMINEUSE|puissance lumineuse]]</td></tr><tr><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">Premier [[Porteur de lanterne#ENNEMIJURE|ennemi juré]], [[Porteur de lanterne#ARMEMENTGLACIAL|armement glacial]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#PERCEPTIONSUPERIEURE|perception supérieure]]</td></tr><tr><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Porteur de lanterne#LIBERTEDEMOUVEMENT|Liberté de mouvement]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#MAITRISEIRREFUTABLEDESARMES|maîtrise irréfutable des armes]]</td></tr><tr><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Porteur de lanterne#ARSENALCELESTE|Arsenal céleste]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Porteur de lanterne#ARCANEDELALANTERNE|Arcane de la lanterne]], [[Porteur de lanterne#SEFONDREDANSLEDECOR|se fondre dans le décor]]</td></tr><tr><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">Deuxième [[Porteur de lanterne#ENNEMIJURE|ennemi juré]]</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Porteur de lanterne#CONNEXIONAUXPORTESSELFIQUES|Connexion aux portes elfiques]]</td></tr><tr><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Porteur de lanterne#HERAUTDELUMIERE|Héraut de lumière]]</td></tr></table>
+
 
 **Dé de vie.** d10.
 

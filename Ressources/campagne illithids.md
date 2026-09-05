@@ -22,53 +22,11 @@ Bonne lecture à toi
 ### Avancement du projet
 Trouvable ci-dessous l'avancement de mon projet. Il n'avancera pas vite, mais au moins, cher lecteur, tu sauras où j'en suis (et moi aussi :D).
 
-{| CLASS="tablo centre"
-|+ Avancement global du projet
-|- CLASS="titre alt lignesup"
-| COLSPAN="4" | Guide du joueur
-|- CLASS="soustitre"
-| Partie || Ecriture || Relecture || Finition
-|-
-| Race || 100% || 0% || 0%
-|-
-| Classe || 100% || 0% || 0%
-|-
-| Traits de campagne || 100% || 0% || 0%
-|-
-| Systèmes et règles optionnels || 0% || 0% || 0%
-|   
- </br>
-|- CLASS="titre alt lignesup"
-| COLSPAN="4" | Campagne
-|- CLASS="soustitre"
-| Partie || Ecriture || Relecture || Finition
-|-
-| Synopsis || 100% || 0% || 0%
-|-
-| Résumé des chapitres || 100% || 0% || 0%
-|-
-| Chapitre 1 - Mystère au centre du monde || 0% || 0% || 0%
-|-
-| Chapitre 2 - Quand le voile s'épaissi || 0% || 0% || 0%
-|-
-| Chapitre 3 - Recherche immatérielle || 0% || 0% || 0%
-|-
-| Chapitre 4 - Rencontre du troisième type || 0% || 0% || 0%
-|-
-| Chapitre 5 - Mystère dévoilée || 0% || 0% || 0%
-|-
-| Chapitre 6 - Voyage en terre inconnue || 0% || 0% || 0%
-|   
- </br>
-|- CLASS="titre alt lignesup"
-| COLSPAN="4" | Annexe
-|- CLASS="soustitre"
-| Partie || Ecriture || Relecture || Finition
-|-
-| Ecologie des illithids || 0% || 0% || 0%
-|-
-| Ecologie des dévoreurs d'intellect || 0% || 0% || 0%
-|}
+
+<table CLASS="tablo centre"><caption>Avancement global du projet</caption><tr CLASS="titre alt lignesup"><td COLSPAN="4">Guide du joueur</td></tr><tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr><tr><td>Race</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Classe</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Traits de campagne</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Systèmes et règles optionnels</td><td>0%</td><td>0%</td><td>0%</td><td>  
+ </br></td></tr><tr CLASS="titre alt lignesup"><td COLSPAN="4">Campagne</td></tr><tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr><tr><td>Synopsis</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Résumé des chapitres</td><td>100%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 1 - Mystère au centre du monde</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 2 - Quand le voile s'épaissi</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 3 - Recherche immatérielle</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 4 - Rencontre du troisième type</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 5 - Mystère dévoilée</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Chapitre 6 - Voyage en terre inconnue</td><td>0%</td><td>0%</td><td>0%</td><td>  
+ </br></td></tr><tr CLASS="titre alt lignesup"><td COLSPAN="4">Annexe</td></tr><tr CLASS="soustitre"><td>Partie</td><td>Ecriture</td><td>Relecture</td><td>Finition</td></tr><tr><td>Ecologie des illithids</td><td>0%</td><td>0%</td><td>0%</td></tr><tr><td>Ecologie des dévoreurs d'intellect</td><td>0%</td><td>0%</td><td>0%</td></tr></table>
+
   
 
 

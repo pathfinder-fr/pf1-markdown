@@ -36,24 +36,8 @@ LastModified: 2023-10-23 00:05
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de serpent
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Vipère]] || 1/2
-|-
-| [[Anaconda géant]] || 10
-|-
-| [[Cobra impérial]] || 5
-|-
-| [[Nuée de serpents]] || 2
-|-
-| [[Nuée de serpents venimeux]] || 4
-|-
-| [[Serpent constricteur]] || 2
-|-
-| [[Serpent venimeux]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de serpent</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Vipère]]</td><td>1/2</td></tr><tr><td>[[Anaconda géant]]</td><td>10</td></tr><tr><td>[[Cobra impérial]]</td><td>5</td></tr><tr><td>[[Nuée de serpents]]</td><td>2</td></tr><tr><td>[[Nuée de serpents venimeux]]</td><td>4</td></tr><tr><td>[[Serpent constricteur]]</td><td>2</td></tr><tr><td>[[Serpent venimeux]]</td><td>1</td></tr></table>
+
 </div>*Des serpents venimeux se glissent et rampent les uns sur les autres en une masse déchaînée, leurs crochets dégoulinant de poison scintillant dans la lumière.*
 </div></td></tr></table>

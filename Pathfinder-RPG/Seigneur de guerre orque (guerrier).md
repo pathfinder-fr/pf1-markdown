@@ -37,35 +37,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[flèches (arme)|flèche]] de [[Feu (propriété)|feu]] +1*, *[[potions magiques|potions]] de [[soins modérés]]* (2) ; **Équipement divers** *[[harnois (armure)|harnois +1]]*,  *[[Hache double orque (arme)|hache double d'orque +1/+1]]*, [[arc court composite (arme)|arc court composite de maître]] (For +4) avec [[Flèches (arme)|20 flèches]], 88 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'orque
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Orque]] || 1/3
-|-
-| [[Sergent orque]] || 2
-|-
-| [[Mystique orque]] || 2
-|-
-| [[Brigand orque]] || 3
-|-
-| [[Tambour de guerre orque]] || 3
-|-
-| [[Lieutenant orque]] || 4
-|-
-| [[Éclaireur orque]] || 5
-|-
-| [[Chevaucheur de gorthek]] || 6
-|-
-| [[Seigneur de guerre orque (barbare)]] || 6
-|-
-| [[Gorthek]] || 7
-|-
-| [[Sorcier docteur orque]] || 8
-|-
-| [[Seigneur de guerre orque (guerrier)]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'orque</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Orque]]</td><td>1/3</td></tr><tr><td>[[Sergent orque]]</td><td>2</td></tr><tr><td>[[Mystique orque]]</td><td>2</td></tr><tr><td>[[Brigand orque]]</td><td>3</td></tr><tr><td>[[Tambour de guerre orque]]</td><td>3</td></tr><tr><td>[[Lieutenant orque]]</td><td>4</td></tr><tr><td>[[Éclaireur orque]]</td><td>5</td></tr><tr><td>[[Chevaucheur de gorthek]]</td><td>6</td></tr><tr><td>[[Seigneur de guerre orque (barbare)]]</td><td>6</td></tr><tr><td>[[Gorthek]]</td><td>7</td></tr><tr><td>[[Sorcier docteur orque]]</td><td>8</td></tr><tr><td>[[Seigneur de guerre orque (guerrier)]]</td><td>9</td></tr></table>
+
 </div> Le commandement des tribus ou des hordes d’orques ne
 revient pas aux plus intelligents ni aux plus futés mais aux
 plus forts.

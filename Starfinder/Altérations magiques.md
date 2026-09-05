@@ -7,93 +7,9 @@ LastModified: 2019-08-28 00:08
 Vous apprenez votre première altération magique au niveau 2 et vous en apprenez une de plus tous les 3 niveaux suivants. Quand vous lancez un sort, vous ne pouvez utiliser qu’une seule altération magique qui modifie ses attributs (tel que sort distant ou sort prolongé). Si une altération magique autorise un jet de sauvegarde pour résister à ses effets, le DD est égal à 10 + la moitié de votre niveau de technomancien + votre modificateur d’Intelligence.
 
 <center>
-{| CLASS="tablo toutgauche autoalt" ID="tabexploit"
-|+ Altérations magiques
-| Nom
-| Niv
-| Nom
-| Niv
-|- CLASS="premier"
-| [[Altérations magiques#ANALYSERAPIDE|Analyse rapide]]
-| 2
-| [[Altérations magiques#ARMESURCHAGEE|Arme surchargée]]
-| 2
-|-
-| [[Altérations magiques#CIBLAGESELECTIF|Ciblage sélectif]]
-| 2
-| [[Altérations magiques#CONTRESMESURESANTISORTS|Contres-mesures anti-sorts]]
-| 2
-|-
-| [[Altérations magiques#CONTRETECHNOLOGIE|Contre-technologie]]
-| 2
-| [[Altérations magiques#CREATIONTECHNOLOGIQUE|Création technologique]]
-| 2
-|-
-| [[Altérations magiques#INFLUENCEROBOTIQUE|Influence robotique]]
-| 2
-| [[Altérations magiques#MAITRISETECHNOMANCIENNE|Maîtrise technomancienne]]
-| 2
-|-
-| [[Altérations magiques#SORTALIMENTE|Sort alimenté]]
-| 2
-| [[Altérations magiques#SORTSOFFENSIFS|Sorts offensifs]]
-| 2
-|-
-| [[Altérations magiques#CHOCDERECHARGE|Choc de recharge]]
-| 5
-| [[Altérations magiques#DEBOGAGEDESORT|Débogage de sort]]
-| 5
-|-
-| [[Altérations magiques#FABRICATIONDARMES|Fabrication d'armes]]
-| 5
-| [[Altérations magiques#GRENADEENCHANTEE|Grenade enchantée]]
-| 5
-|-
-| [[Altérations magiques#NEGATIONDELAMAGIE|Négation de la magie]]
-| 5
-| [[Altérations magiques#SORTDISTANT|Sort distant]]
-| 5
-|-
-| [[Altérations magiques#SORTPROLONGE|Sort prolongé]]
-| 5
-| -
-| -
-|-
-| [[Altérations magiques#CONTRESMESURESTECHNOLOGIQUES|Contres-mesures technologiques]]
-| 8
-| [[Altérations magiques#ECOUTEDIVATOIRE|Écoute divinatoire]]
-| 8
-|-
-| [[Altérations magiques#MARQUEMENTALE|Marque mentale]]
-| 8
-| [[Altérations magiques#SORTELARGI|Sort élargi]]
-| 8
-|-
-| [[Altérations magiques#TELEPORTATIONECLAIR|Téléportation éclair]]
-| 8
-| [[Altérations magiques#TIRDESORTILEGE|Tir de sortilège]]
-| 8
-|-
-| [[Altérations magiques#REINITIALISATIONMENTALE|Réinitialisation mentale]]
-| 11
-| [[Altérations magiques#SENTINELLEDECONTRETECHNOLOGIE|Sentinelle de contre-technologie]]
-| 11
-|-
-| [[Altérations magiques#SORTETERNEL|Sort éternel]]
-| 11
-| [[Altérations magiques#TIRAUTOGUIDE|Tir autoguidé]]
-| 11
-|-
-| [[Altérations magiques#BIBLIOTHEQUEDESORTS|Bibliothèque de sorts]]
-| 14
-| [[Altérations magiques#PLUIEDEFEU|Pluie de feu]]
-| 14
-|-
-| [[Altérations magiques#SORTRAPIDE|Sort rapide]]
-| 14
-| [[Altérations magiques#TIRDEPHASE|Tir déphasé]]
-| 14
-|}
+
+<table CLASS="tablo toutgauche autoalt" ID="tabexploit"><caption>Altérations magiques</caption><tr><td>Nom</td><td>Niv</td><td>Nom</td><td>Niv</td></tr><tr CLASS="premier"><td>[[Altérations magiques#ANALYSERAPIDE|Analyse rapide]]</td><td>2</td><td>[[Altérations magiques#ARMESURCHAGEE|Arme surchargée]]</td><td>2</td></tr><tr><td>[[Altérations magiques#CIBLAGESELECTIF|Ciblage sélectif]]</td><td>2</td><td>[[Altérations magiques#CONTRESMESURESANTISORTS|Contres-mesures anti-sorts]]</td><td>2</td></tr><tr><td>[[Altérations magiques#CONTRETECHNOLOGIE|Contre-technologie]]</td><td>2</td><td>[[Altérations magiques#CREATIONTECHNOLOGIQUE|Création technologique]]</td><td>2</td></tr><tr><td>[[Altérations magiques#INFLUENCEROBOTIQUE|Influence robotique]]</td><td>2</td><td>[[Altérations magiques#MAITRISETECHNOMANCIENNE|Maîtrise technomancienne]]</td><td>2</td></tr><tr><td>[[Altérations magiques#SORTALIMENTE|Sort alimenté]]</td><td>2</td><td>[[Altérations magiques#SORTSOFFENSIFS|Sorts offensifs]]</td><td>2</td></tr><tr><td>[[Altérations magiques#CHOCDERECHARGE|Choc de recharge]]</td><td>5</td><td>[[Altérations magiques#DEBOGAGEDESORT|Débogage de sort]]</td><td>5</td></tr><tr><td>[[Altérations magiques#FABRICATIONDARMES|Fabrication d'armes]]</td><td>5</td><td>[[Altérations magiques#GRENADEENCHANTEE|Grenade enchantée]]</td><td>5</td></tr><tr><td>[[Altérations magiques#NEGATIONDELAMAGIE|Négation de la magie]]</td><td>5</td><td>[[Altérations magiques#SORTDISTANT|Sort distant]]</td><td>5</td></tr><tr><td>[[Altérations magiques#SORTPROLONGE|Sort prolongé]]</td><td>5</td><td>-</td><td>-</td></tr><tr><td>[[Altérations magiques#CONTRESMESURESTECHNOLOGIQUES|Contres-mesures technologiques]]</td><td>8</td><td>[[Altérations magiques#ECOUTEDIVATOIRE|Écoute divinatoire]]</td><td>8</td></tr><tr><td>[[Altérations magiques#MARQUEMENTALE|Marque mentale]]</td><td>8</td><td>[[Altérations magiques#SORTELARGI|Sort élargi]]</td><td>8</td></tr><tr><td>[[Altérations magiques#TELEPORTATIONECLAIR|Téléportation éclair]]</td><td>8</td><td>[[Altérations magiques#TIRDESORTILEGE|Tir de sortilège]]</td><td>8</td></tr><tr><td>[[Altérations magiques#REINITIALISATIONMENTALE|Réinitialisation mentale]]</td><td>11</td><td>[[Altérations magiques#SENTINELLEDECONTRETECHNOLOGIE|Sentinelle de contre-technologie]]</td><td>11</td></tr><tr><td>[[Altérations magiques#SORTETERNEL|Sort éternel]]</td><td>11</td><td>[[Altérations magiques#TIRAUTOGUIDE|Tir autoguidé]]</td><td>11</td></tr><tr><td>[[Altérations magiques#BIBLIOTHEQUEDESORTS|Bibliothèque de sorts]]</td><td>14</td><td>[[Altérations magiques#PLUIEDEFEU|Pluie de feu]]</td><td>14</td></tr><tr><td>[[Altérations magiques#SORTRAPIDE|Sort rapide]]</td><td>14</td><td>[[Altérations magiques#TIRDEPHASE|Tir déphasé]]</td><td>14</td></tr></table>
+
 </center>
 
 ### ALTÉRATIONS MAGIQUES NIVEAU 2

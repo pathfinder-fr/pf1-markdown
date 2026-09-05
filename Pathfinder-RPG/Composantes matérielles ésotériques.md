@@ -28,51 +28,9 @@ On peut trouver les composantes matérielles ésotériques sous forme de matièr
 
 L’[[Composantes matérielles ésotériques#Yliastre|yliastre]], composante ésotérique rare, est un cas à part. On ne le trouve que dans des trésors importants, surtout quand ceux-ci appartiennent à de puissants lanceurs de sorts. Un [[MJ]] qui n’apprécie pas les effets de l’[[Composantes matérielles ésotériques#Yliastre|yliastre]] peut se contenter d’utiliser les composantes ésotériques courantes pour éclipser totalement cette rareté du jeu.
 
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|+ {s:Reference|PRIX}Prix des composantes matérielles ésotériques
-|- CLASS="titre"
-| NLS || 0 || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9
-|- CLASS="premier"
-| 1 || 5 pa || 1 po || — || — || — || — || — || — || — || —
-|-
-| 2 || 1 po || 2 po || — || — || — || — || — || — || — || —
-|-
-| 3 || 1 po, 5 pa || 3 po || 6 po || — || — || — || — || — || — || —
-|-
-| 4 || 2 po || 4 po || 8 po || — || — || — || — || — || — || —
-|-
-| 5 || 2 po, 5 pa || 5 po || 10 po || 15 po || — || — || — || — || — || —
-|-
-| 6 || 3 po || 6 po || 12 po || 18 po || — || — || — || — || — || —
-|-
-| 7 || 3 po, 5 pa || 7 po || 14 po || 21 po || 28 po || — || — || — || — || —
-|-
-| 8 || 4 po || 8 po || 16 po || 24 po || 32 po || — || — || — || — || —
-|-
-| 9 || 4 po, 5 pa || 9 po || 18 po || 27 po || 36 po || 45 po || — || — || — || —
-|-
-| 10 || 5 po || 10 po || 20 po || 30 po || 40 po || 50 po || — || — || — || —
-|-
-| 11 || 5 po, 5 pa || 11 po || 22 po || 33 po || 44 po || 55 po || 66 po || — || — || —
-|-
-| 12 || 6 po || 12 po || 24 po || 36 po || 48 po || 60 po || 72 po || — || — || —
-|-
-| 13 || 6 po, 5 pa || 13 po || 26 po || 39 po || 52 po || 65 po || 78 po || 91 po || — || —
-|-
-| 14 || 7 po || 14 po || 28 po || 42 po || 56 po || 70 po || 84 po || 98 po || — || —
-|-
-| 15 || 7 po, 5 pa || 15 po || 30 po || 45 po || 60 po || 75 po || 90 po || 105 po || 120 po || —
-|-
-| 16 || 8 po || 16 po || 32 po || 48 po || 64 po || 80 po || 96 po || 112 po || 128 po || —
-|-
-| 17 || 8 po, 5 pa || 17 po || 34 po || 51 po || 68 po || 85 po || 102 po || 119 po || 136 po || 153 po
-|-
-| 18 || 9 po || 18 po || 36 po || 54 po || 72 po || 90 po || 108 po || 126 po || 144 po || 162 po
-|-
-| 19 || 9 po, 5 pa || 19 po || 38 po || 57 po || 76 po || 95 po || 114 po || 133 po || 152 po || 171 po
-|-
-| 20 || 10 po || 20 po || 40 po || 60 po || 80 po || 100 po || 120 po || 140 po || 160 po || 180 po
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>{s:Reference|PRIX}Prix des composantes matérielles ésotériques</caption><tr CLASS="titre"><td>NLS</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr CLASS="premier"><td>1</td><td>5 pa</td><td>1 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2</td><td>1 po</td><td>2 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3</td><td>1 po, 5 pa</td><td>3 po</td><td>6 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4</td><td>2 po</td><td>4 po</td><td>8 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5</td><td>2 po, 5 pa</td><td>5 po</td><td>10 po</td><td>15 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6</td><td>3 po</td><td>6 po</td><td>12 po</td><td>18 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7</td><td>3 po, 5 pa</td><td>7 po</td><td>14 po</td><td>21 po</td><td>28 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8</td><td>4 po</td><td>8 po</td><td>16 po</td><td>24 po</td><td>32 po</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9</td><td>4 po, 5 pa</td><td>9 po</td><td>18 po</td><td>27 po</td><td>36 po</td><td>45 po</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10</td><td>5 po</td><td>10 po</td><td>20 po</td><td>30 po</td><td>40 po</td><td>50 po</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11</td><td>5 po, 5 pa</td><td>11 po</td><td>22 po</td><td>33 po</td><td>44 po</td><td>55 po</td><td>66 po</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12</td><td>6 po</td><td>12 po</td><td>24 po</td><td>36 po</td><td>48 po</td><td>60 po</td><td>72 po</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13</td><td>6 po, 5 pa</td><td>13 po</td><td>26 po</td><td>39 po</td><td>52 po</td><td>65 po</td><td>78 po</td><td>91 po</td><td>—</td><td>—</td></tr><tr><td>14</td><td>7 po</td><td>14 po</td><td>28 po</td><td>42 po</td><td>56 po</td><td>70 po</td><td>84 po</td><td>98 po</td><td>—</td><td>—</td></tr><tr><td>15</td><td>7 po, 5 pa</td><td>15 po</td><td>30 po</td><td>45 po</td><td>60 po</td><td>75 po</td><td>90 po</td><td>105 po</td><td>120 po</td><td>—</td></tr><tr><td>16</td><td>8 po</td><td>16 po</td><td>32 po</td><td>48 po</td><td>64 po</td><td>80 po</td><td>96 po</td><td>112 po</td><td>128 po</td><td>—</td></tr><tr><td>17</td><td>8 po, 5 pa</td><td>17 po</td><td>34 po</td><td>51 po</td><td>68 po</td><td>85 po</td><td>102 po</td><td>119 po</td><td>136 po</td><td>153 po</td></tr><tr><td>18</td><td>9 po</td><td>18 po</td><td>36 po</td><td>54 po</td><td>72 po</td><td>90 po</td><td>108 po</td><td>126 po</td><td>144 po</td><td>162 po</td></tr><tr><td>19</td><td>9 po, 5 pa</td><td>19 po</td><td>38 po</td><td>57 po</td><td>76 po</td><td>95 po</td><td>114 po</td><td>133 po</td><td>152 po</td><td>171 po</td></tr><tr><td>20</td><td>10 po</td><td>20 po</td><td>40 po</td><td>60 po</td><td>80 po</td><td>100 po</td><td>120 po</td><td>140 po</td><td>160 po</td><td>180 po</td></tr></table>
+
 
 {s:Reference|APPLICATION}
 ### Application des composantes ésotériques

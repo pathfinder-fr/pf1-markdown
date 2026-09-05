@@ -31,27 +31,9 @@ La Garde du Quartier s’appelle les Manteaux Gris, une unité composée exclusi
 
 *Prix en pièces d'or ; Loyer par mois*
 
-{| CLASS="tablo"
-|+ Prix du logement
-|- CLASS="titre"
-| Type de logement || Achat || Location
-|- CLASS="premier"
-| Palace || 500 000 || Ø
-|-
-| Donjon || Ø || 10 000
-|-
-| Manoir || 200 000 || 2 500
-|-
-| Villa || 120 000 || 1 000
-|-
-| Maison || 80 000 || 600
-|-
-| Appartement || 20-70 000 || 300
-|-
-| Chambre || 5-20 000 || 50-200
-|-
-| Dortoir || 500-1 000 || 5-10
-|}
+
+<table CLASS="tablo"><caption>Prix du logement</caption><tr CLASS="titre"><td>Type de logement</td><td>Achat</td><td>Location</td></tr><tr CLASS="premier"><td>Palace</td><td>500 000</td><td>Ø</td></tr><tr><td>Donjon</td><td>Ø</td><td>10 000</td></tr><tr><td>Manoir</td><td>200 000</td><td>2 500</td></tr><tr><td>Villa</td><td>120 000</td><td>1 000</td></tr><tr><td>Maison</td><td>80 000</td><td>600</td></tr><tr><td>Appartement</td><td>20-70 000</td><td>300</td></tr><tr><td>Chambre</td><td>5-20 000</td><td>50-200</td></tr><tr><td>Dortoir</td><td>500-1 000</td><td>5-10</td></tr></table>
+
 
 (((
 Nourriture : 150% (x1.5){br}

@@ -15,35 +15,10 @@ Manipulations :
 - Recalcul de Siggy  (bouton 26 [[Ressources.MH-MonPerso|ici]]) -> **chrono 8** (entre étape 5 et 6)
 - Cliquez sur l'onglet "Inventaire" (bouton 13 [[Ressources.MH-MonPerso|ici]]) qui est le changement de tab le plus long -> **chrono 9** (entre étape 6 et 7)
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| v 0.1 || iPad Air || iPhone 5S || iPad 4 || Nexus 10 || Oppo  Find 7+ || Nexus 7 || SGS II || HP Slate 7+ || wiko cink king
-|- CLASS="premier"
-| #1 || 12.4 || 11.3 || 17.7 || 30.5 || 32 || 41 || 53.4 || 54.7 || 61
-|-
-| #2 || 2.8 || 3.8 || 3.1 || 4.3 || 5.9 || 5 || 6.5 || 7.3 || 8.6
-|-
-| #3 || 1.7 || 2.1 || 2.4 || 3.1 || 3 || 8 || 4 || 6.5 || 4.1
-|-
-| #4 || 2 || 2.9 || 2.7 || 2.5 || 4.2 || 9 || 4.6 || 5 || 7.4
-|-
-| #5 || 3.1 || 8.4 || 6.4 || 8.2 || 9.7 || 5 || 15.9 || 13.9 || 19.1
-|-
-| #6 || 5.9 || 12.8 || 15.4 || 11.8 || 37 || 30 || 40.3 || 42.6 || 53
-|-
-| #7 || 1.3 || 1.2 || 3.4 || 2.5 || 2.1 || 5 || 2.4 || 2.9 || 4.9
-|-
-| #8 || 3.6 || 5.2 || 6.7 || 10.2 || 15.5 || 15 || 3.3 (?) || 19.6 || 25.8
-|-
-| #9 || 3.6 || 2.3 || 5.1 || 3 || 3.3 || 7 || 7 || 10 || 10.5
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>v 0.1</td><td>iPad Air</td><td>iPhone 5S</td><td>iPad 4</td><td>Nexus 10</td><td>Oppo  Find 7+</td><td>Nexus 7</td><td>SGS II</td><td>HP Slate 7+</td><td>wiko cink king</td></tr><tr CLASS="premier"><td>#1</td><td>12.4</td><td>11.3</td><td>17.7</td><td>30.5</td><td>32</td><td>41</td><td>53.4</td><td>54.7</td><td>61</td></tr><tr><td>#2</td><td>2.8</td><td>3.8</td><td>3.1</td><td>4.3</td><td>5.9</td><td>5</td><td>6.5</td><td>7.3</td><td>8.6</td></tr><tr><td>#3</td><td>1.7</td><td>2.1</td><td>2.4</td><td>3.1</td><td>3</td><td>8</td><td>4</td><td>6.5</td><td>4.1</td></tr><tr><td>#4</td><td>2</td><td>2.9</td><td>2.7</td><td>2.5</td><td>4.2</td><td>9</td><td>4.6</td><td>5</td><td>7.4</td></tr><tr><td>#5</td><td>3.1</td><td>8.4</td><td>6.4</td><td>8.2</td><td>9.7</td><td>5</td><td>15.9</td><td>13.9</td><td>19.1</td></tr><tr><td>#6</td><td>5.9</td><td>12.8</td><td>15.4</td><td>11.8</td><td>37</td><td>30</td><td>40.3</td><td>42.6</td><td>53</td></tr><tr><td>#7</td><td>1.3</td><td>1.2</td><td>3.4</td><td>2.5</td><td>2.1</td><td>5</td><td>2.4</td><td>2.9</td><td>4.9</td></tr><tr><td>#8</td><td>3.6</td><td>5.2</td><td>6.7</td><td>10.2</td><td>15.5</td><td>15</td><td>3.3 (?)</td><td>19.6</td><td>25.8</td></tr><tr><td>#9</td><td>3.6</td><td>2.3</td><td>5.1</td><td>3</td><td>3.3</td><td>7</td><td>7</td><td>10</td><td>10.5</td></tr></table>
+
 
   
-{| CLASS="tablo"
-|- CLASS="titre"
-| v 0.2 || iPhone 6 || iPad Air || iPhone 5S || iPad 4 || Nexus 10 || Oppo  Find 7+ || Nexus 7 || SGS II || HP Slate 7+ || wiko cink king
-|- CLASS="premier"
-| #1 || 7.8 || 9.4 || ? || 14.5 || 15 || 23.6 || ? || ? || ? || 45
-|-
-| #8 || 3.6 || 4.1 || ? || 7.3 || 8.1 || 13.4 || ? || ? || ? || 21.5
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>v 0.2</td><td>iPhone 6</td><td>iPad Air</td><td>iPhone 5S</td><td>iPad 4</td><td>Nexus 10</td><td>Oppo  Find 7+</td><td>Nexus 7</td><td>SGS II</td><td>HP Slate 7+</td><td>wiko cink king</td></tr><tr CLASS="premier"><td>#1</td><td>7.8</td><td>9.4</td><td>?</td><td>14.5</td><td>15</td><td>23.6</td><td>?</td><td>?</td><td>?</td><td>45</td></tr><tr><td>#8</td><td>3.6</td><td>4.1</td><td>?</td><td>7.3</td><td>8.1</td><td>13.4</td><td>?</td><td>?</td><td>?</td><td>21.5</td></tr></table>

@@ -131,37 +131,9 @@ Au lieu de délocaliser une organisation entière, votre personnage peut décide
 ### Les salles
 Vous pouvez utiliser les salles suivantes pour construire des bâtiments.
 
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
-|+ {s:Reference|TABLE}Liste des salles
-|- CLASS="titre"
-| Nom
-|- CLASS="premier"
-| [[Salles et employés#ABRI POUR ANIMAUX|Abri pour animaux]] || [[Salles et employés#BRETÈCHE|Bretèche]] || [[Salles et employés#CRÈCHE|Crèche]] || [[Salles et employés#ISSUE DE SECOURS|Issue de secours]] || [[Salles et employés#POSTE DE TRAVAIL|Poste de travail]] || [[Salles et employés#SALLE DES TROPHÉES|Salle des trophées]]
-|-
-| [[Salles et employés#ACCÈS AUX ÉGOUTS|Accès aux égouts]] || [[Salles et employés#BUREAU|Bureau]] || [[Salles et employés#CRYPTE|Crypte]] || [[Salles et employés#JARDIN|Jardin]] || [[Salles et employés#QUAI|Quai]] || [[Salles et employés#SALLE DU TRÔNE|Salle du trône]]
-|-
-| [[Salles et employés#ARMURERIE|Armurerie]] || [[Salles et employés#CABANON|Cabanon]] || [[Salles et employés#CUISINE|Cuisine]] || [[Salles et employés#LABORATOIRE D’ALCHIMIE|Laboratoire d'alchimie]] || [[Salles et employés#RELIQUAIRE|Reliquaire]] || [[Salles et employés#SALLE PIÉGÉE|Salle piégée]]
-|-
-| [[Salles et employés#ATELIER DE COUTURE|Atelier de couture]] || [[Salles et employés#CELLULE|Cellule]] || [[Salles et employés#DOJO|Dojo]] || [[Salles et employés#LABYRINTHE|Labyrinthe]] || [[Salles et employés#REMISE|Remise]] || [[Salles et employés#SALON|Salon]]
-|-
-| [[Salles et employés#ATELIER D’ARTISAN|Atelier d'artisan]] || [[Salles et employés#CHAMBREACOUCHER|Chambre à coucher]] || [[Salles et employés#DÔME D’OBSERVATION|Dôme d'observation]] || [[Salles et employés#LATRINES|Latrines]] || [[Salles et employés#SALLE À MÂCHICOULIS|Salle à mâchicoulis]] || [[Salles et employés#SANCTUAIRE|Sanctuaire]]
-|-
-| [[Salles et employés#ATELIER DE MÉCANIQUE|Atelier de mécanique]] || [[Salles et employés#CHAMBRE DE DIVINATION|Chambre de divination]] || [[Salles et employés#DORTOIR|Dortoir]] || [[Salles et employés#LAVOIR|Lavoir]] || [[Salles et employés#SALLE COMMUNE|Salle commune]] || [[Salles et employés#SAUNA|Sauna]]
-|-
-| [[Salles et employés#ATELIER DE TANNEUR|Atelier de tanneur]] || [[Salles et employés#CHAMBRE DE TORTURE|Chambre de torture]] || [[Salles et employés#ÉCLOSERIE|Écloserie]] || [[Salles et employés#LOGEMENT|Logement]] || [[Salles et employés#SALLE DE BAIN|Salle de bain]] || [[Salles et employés#SCRIPTORIUM|Scriptorum]]
-|-
-| [[Salles et employés#AUDITORIUM|Auditorium]] || [[Salles et employés#CHAMBRE D’INVOCATION|Chambre d'invocation]] || [[Salles et employés#ENCLOS|Enclos]] || [[Salles et employés#MEULE|Meule]] || [[Salles et employés#SALLE DE BAL|Salle de bal]] || [[Salles et employés#SERRE|Serre]]
-|-
-| [[Salles et employés#AUTEL|Autel]] || [[Salles et employés#CHAMBRE-FORTE|Chambre-forte]] || [[Salles et employés#ÉTALAGE|Étalage]] || [[Salles et employés#MUR DÉFENSIF|Mur défensif]] || [[Salles et employés#SALLE DE CÉRÉMONIE|Salle de cérémonie]] || [[Salles et employés#SITE FUNÉRAIRE|Site funéraire]]
-|-
-| [[Salles et employés#BAR|Bar]] || [[Salles et employés#CHAMP|Champ]] || [[Salles et employés#FORGE|Forge]] || [[Salles et employés#PÉAGE|Péage]] || [[Salles et employés#SALLE DE CLASSE|Salle de classe]] || [[Salles et employés#SOCIÉTÉ DE FAÇADE|Société de façade]]
-|-
-| [[Salles et employés#BIBLIOTHÈQUE|Bibliothèque]] || [[Salles et employés#CLOCHER|Clocher]] || [[Salles et employés#FOSSE|Fosse]] || [[Salles et employés#PIÈCE SECRÈTE|Pièce secrète]] || [[Salles et employés#SALLE DE COMBAT|Salle de combat]] || [[Salles et employés#STABULATION|Stabulation]]
-|-
-| [[Salles et employés#BIBLIOTHÈQUE MAGIQUE|Bibliothèque magique]] || [[Salles et employés#CONFESSIONNAL|Confessionnal]] || [[Salles et employés#IMPRIMERIE|Imprimerie]] || [[Salles et employés#PONT-LEVIS|Pont-levis]] || [[Salles et employés#SALLE DE GUERRE|Salle de guerre]] || [[Salles et employés#STATUE|Statue]]
-|-
-| [[Salles et employés#BRASSERIE|Brasserie]] || [[Salles et employés#COUR|Cour]] || [[Salles et employés#INFIRMERIE|Infirmerie]] || [[Salles et employés#POSTE DE GARDE|Poste de garde]] || [[Salles et employés#SALLE DE JEUX|Salle de jeux]] || [[Salles et employés#TERRAIN DE SPORT|Terrain de sport]]
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><caption>{s:Reference|TABLE}Liste des salles</caption><tr CLASS="titre"><td>Nom</td></tr><tr CLASS="premier"><td>[[Salles et employés#ABRI POUR ANIMAUX|Abri pour animaux]]</td><td>[[Salles et employés#BRETÈCHE|Bretèche]]</td><td>[[Salles et employés#CRÈCHE|Crèche]]</td><td>[[Salles et employés#ISSUE DE SECOURS|Issue de secours]]</td><td>[[Salles et employés#POSTE DE TRAVAIL|Poste de travail]]</td><td>[[Salles et employés#SALLE DES TROPHÉES|Salle des trophées]]</td></tr><tr><td>[[Salles et employés#ACCÈS AUX ÉGOUTS|Accès aux égouts]]</td><td>[[Salles et employés#BUREAU|Bureau]]</td><td>[[Salles et employés#CRYPTE|Crypte]]</td><td>[[Salles et employés#JARDIN|Jardin]]</td><td>[[Salles et employés#QUAI|Quai]]</td><td>[[Salles et employés#SALLE DU TRÔNE|Salle du trône]]</td></tr><tr><td>[[Salles et employés#ARMURERIE|Armurerie]]</td><td>[[Salles et employés#CABANON|Cabanon]]</td><td>[[Salles et employés#CUISINE|Cuisine]]</td><td>[[Salles et employés#LABORATOIRE D’ALCHIMIE|Laboratoire d'alchimie]]</td><td>[[Salles et employés#RELIQUAIRE|Reliquaire]]</td><td>[[Salles et employés#SALLE PIÉGÉE|Salle piégée]]</td></tr><tr><td>[[Salles et employés#ATELIER DE COUTURE|Atelier de couture]]</td><td>[[Salles et employés#CELLULE|Cellule]]</td><td>[[Salles et employés#DOJO|Dojo]]</td><td>[[Salles et employés#LABYRINTHE|Labyrinthe]]</td><td>[[Salles et employés#REMISE|Remise]]</td><td>[[Salles et employés#SALON|Salon]]</td></tr><tr><td>[[Salles et employés#ATELIER D’ARTISAN|Atelier d'artisan]]</td><td>[[Salles et employés#CHAMBREACOUCHER|Chambre à coucher]]</td><td>[[Salles et employés#DÔME D’OBSERVATION|Dôme d'observation]]</td><td>[[Salles et employés#LATRINES|Latrines]]</td><td>[[Salles et employés#SALLE À MÂCHICOULIS|Salle à mâchicoulis]]</td><td>[[Salles et employés#SANCTUAIRE|Sanctuaire]]</td></tr><tr><td>[[Salles et employés#ATELIER DE MÉCANIQUE|Atelier de mécanique]]</td><td>[[Salles et employés#CHAMBRE DE DIVINATION|Chambre de divination]]</td><td>[[Salles et employés#DORTOIR|Dortoir]]</td><td>[[Salles et employés#LAVOIR|Lavoir]]</td><td>[[Salles et employés#SALLE COMMUNE|Salle commune]]</td><td>[[Salles et employés#SAUNA|Sauna]]</td></tr><tr><td>[[Salles et employés#ATELIER DE TANNEUR|Atelier de tanneur]]</td><td>[[Salles et employés#CHAMBRE DE TORTURE|Chambre de torture]]</td><td>[[Salles et employés#ÉCLOSERIE|Écloserie]]</td><td>[[Salles et employés#LOGEMENT|Logement]]</td><td>[[Salles et employés#SALLE DE BAIN|Salle de bain]]</td><td>[[Salles et employés#SCRIPTORIUM|Scriptorum]]</td></tr><tr><td>[[Salles et employés#AUDITORIUM|Auditorium]]</td><td>[[Salles et employés#CHAMBRE D’INVOCATION|Chambre d'invocation]]</td><td>[[Salles et employés#ENCLOS|Enclos]]</td><td>[[Salles et employés#MEULE|Meule]]</td><td>[[Salles et employés#SALLE DE BAL|Salle de bal]]</td><td>[[Salles et employés#SERRE|Serre]]</td></tr><tr><td>[[Salles et employés#AUTEL|Autel]]</td><td>[[Salles et employés#CHAMBRE-FORTE|Chambre-forte]]</td><td>[[Salles et employés#ÉTALAGE|Étalage]]</td><td>[[Salles et employés#MUR DÉFENSIF|Mur défensif]]</td><td>[[Salles et employés#SALLE DE CÉRÉMONIE|Salle de cérémonie]]</td><td>[[Salles et employés#SITE FUNÉRAIRE|Site funéraire]]</td></tr><tr><td>[[Salles et employés#BAR|Bar]]</td><td>[[Salles et employés#CHAMP|Champ]]</td><td>[[Salles et employés#FORGE|Forge]]</td><td>[[Salles et employés#PÉAGE|Péage]]</td><td>[[Salles et employés#SALLE DE CLASSE|Salle de classe]]</td><td>[[Salles et employés#SOCIÉTÉ DE FAÇADE|Société de façade]]</td></tr><tr><td>[[Salles et employés#BIBLIOTHÈQUE|Bibliothèque]]</td><td>[[Salles et employés#CLOCHER|Clocher]]</td><td>[[Salles et employés#FOSSE|Fosse]]</td><td>[[Salles et employés#PIÈCE SECRÈTE|Pièce secrète]]</td><td>[[Salles et employés#SALLE DE COMBAT|Salle de combat]]</td><td>[[Salles et employés#STABULATION|Stabulation]]</td></tr><tr><td>[[Salles et employés#BIBLIOTHÈQUE MAGIQUE|Bibliothèque magique]]</td><td>[[Salles et employés#CONFESSIONNAL|Confessionnal]]</td><td>[[Salles et employés#IMPRIMERIE|Imprimerie]]</td><td>[[Salles et employés#PONT-LEVIS|Pont-levis]]</td><td>[[Salles et employés#SALLE DE GUERRE|Salle de guerre]]</td><td>[[Salles et employés#STATUE|Statue]]</td></tr><tr><td>[[Salles et employés#BRASSERIE|Brasserie]]</td><td>[[Salles et employés#COUR|Cour]]</td><td>[[Salles et employés#INFIRMERIE|Infirmerie]]</td><td>[[Salles et employés#POSTE DE GARDE|Poste de garde]]</td><td>[[Salles et employés#SALLE DE JEUX|Salle de jeux]]</td><td>[[Salles et employés#TERRAIN DE SPORT|Terrain de sport]]</td></tr></table>
+
 
 <table class="page espace-col deuxcol"><tr><td>
 {s:Reference|ABRI POUR ANIMAUX}
@@ -1093,21 +1065,9 @@ Le prix d’une extension de piège dans une salle est le même que celui d’un
 ### Les employés
 Votre personnage peut recruter les employés suivants et les associer à d’autres afin de créer un grand nombre d’organisations diverses et variées.
 
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="96%"
-|+ {s:Reference|TABLE}Liste des employés
-|- CLASS="titre"
-| Nom
-|- CLASS="premier"
-| [[Salles et employés#ACOLYTE|Acolyte]] || [[Salles et employés#ARTISANS|Artisans]] || [[Salles et employés#CURÉ|Curé]] || [[Salles et employés#LAQUAIS|Laquais]] || [[Salles et employés#SOLDATS|Soldats]]
-|-
-| [[Salles et employés#APPRENTI-MAGE|Apprenti-mage]] || [[Salles et employés#BUREAUCRATES|Bureaucrates]] || [[Salles et employés#FRAUDEURS|Fraudeurs]] || [[Salles et employés#MAGE|Mage]] || [[Salles et employés#SOLDATS D’ÉLITE|Soldats d’élite]]
-|-
-| [[Salles et employés#ARCHERS|Archers]] || [[Salles et employés#CAMBRIOLEURS|Cambrioleurs]] || [[Salles et employés#GARDES|Gardes]] || [[Salles et employés#MARINS|Marins]] || [[Salles et employés#TIRE-LAINE|Tire-laine]]
-|-
-| [[Salles et employés#ARCHERS D’ÉLITE|Archers d’élite]] || [[Salles et employés#CAVALIERS|Cavaliers]] || [[Salles et employés#GARDES D’ÉLITE|Gardes d’élite]] || [[Salles et employés#SAGE|Sage]] || [[Salles et employés#TRAVAILLEURS|Travailleurs]]
-|-
-| [[Salles et employés#ARCHERS MONTÉS|Archers montés]] || [[Salles et employés#CONDUCTEUR D’ATTELAGE|Conducteur d’attelage]] || &emsp; || &emsp; || &emsp;
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="96%"><caption>{s:Reference|TABLE}Liste des employés</caption><tr CLASS="titre"><td>Nom</td></tr><tr CLASS="premier"><td>[[Salles et employés#ACOLYTE|Acolyte]]</td><td>[[Salles et employés#ARTISANS|Artisans]]</td><td>[[Salles et employés#CURÉ|Curé]]</td><td>[[Salles et employés#LAQUAIS|Laquais]]</td><td>[[Salles et employés#SOLDATS|Soldats]]</td></tr><tr><td>[[Salles et employés#APPRENTI-MAGE|Apprenti-mage]]</td><td>[[Salles et employés#BUREAUCRATES|Bureaucrates]]</td><td>[[Salles et employés#FRAUDEURS|Fraudeurs]]</td><td>[[Salles et employés#MAGE|Mage]]</td><td>[[Salles et employés#SOLDATS D’ÉLITE|Soldats d’élite]]</td></tr><tr><td>[[Salles et employés#ARCHERS|Archers]]</td><td>[[Salles et employés#CAMBRIOLEURS|Cambrioleurs]]</td><td>[[Salles et employés#GARDES|Gardes]]</td><td>[[Salles et employés#MARINS|Marins]]</td><td>[[Salles et employés#TIRE-LAINE|Tire-laine]]</td></tr><tr><td>[[Salles et employés#ARCHERS D’ÉLITE|Archers d’élite]]</td><td>[[Salles et employés#CAVALIERS|Cavaliers]]</td><td>[[Salles et employés#GARDES D’ÉLITE|Gardes d’élite]]</td><td>[[Salles et employés#SAGE|Sage]]</td><td>[[Salles et employés#TRAVAILLEURS|Travailleurs]]</td></tr><tr><td>[[Salles et employés#ARCHERS MONTÉS|Archers montés]]</td><td>[[Salles et employés#CONDUCTEUR D’ATTELAGE|Conducteur d’attelage]]</td><td>&emsp;</td><td>&emsp;</td><td>&emsp;</td></tr></table>
+
 
 <table class="page espace-col deuxcol"><tr><td>
 {s:Reference|ACOLYTE}

@@ -33,20 +33,8 @@ Categories:
 La liche mythique est un lanceur de sorts mort-vivant qui a renoncé à ses aptitudes de voie mythique en échange de pouvoirs qui préservent son existence et améliorent sa puissance surnaturelle.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Aptitudes de la liche mythique
-|- CLASS="titre"
-| FP de la liche de base || Rang mythique || Aptitudes mythiques
-|- CLASS="premier"
-| 12-13 || 6 || Paralysie insidieuse, phylactère mythique, puissance mythique, résistance à la canalisation +8, résistance à la magie, sorts mythiques
-|-
-| 14-15 || 7 || Incantation augmentée, perception des sorts
-|-
-| 16-17 || 8 || Contresort immédiat, Résistance à la canalisation +12
-|-
-| 18-19 || 9 || Incantation améliorée, nourri par la magie
-|-
-| 20 et plus || 10 || Animation redoutable, résistance à la canalisation (immunité)
-|}
+
+<table CLASS="tablo toutgauche"><caption>Aptitudes de la liche mythique</caption><tr CLASS="titre"><td>FP de la liche de base</td><td>Rang mythique</td><td>Aptitudes mythiques</td></tr><tr CLASS="premier"><td>12-13</td><td>6</td><td>Paralysie insidieuse, phylactère mythique, puissance mythique, résistance à la canalisation +8, résistance à la magie, sorts mythiques</td></tr><tr><td>14-15</td><td>7</td><td>Incantation augmentée, perception des sorts</td></tr><tr><td>16-17</td><td>8</td><td>Contresort immédiat, Résistance à la canalisation +12</td></tr><tr><td>18-19</td><td>9</td><td>Incantation améliorée, nourri par la magie</td></tr><tr><td>20 et plus</td><td>10</td><td>Animation redoutable, résistance à la canalisation (immunité)</td></tr></table>
+
 </center>
 </div></td></tr></table>

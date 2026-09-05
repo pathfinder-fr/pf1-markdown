@@ -50,23 +50,9 @@ La majorité de ces troupes est constituée d'[[homme darme|hommes d'armes]], la
 #### Machines de guerre
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre"
-|+ {s:reference|MACHINESDEGUERRE}Les machines de guerre
-|- CLASS="titre"
-| Machine de guerre || Prix || Dégâts || Critique || Facteur de portée || Serviteurs
-|- CLASS="premier"
-| [[Milieu urbain#BALISTE|Baliste]] || 500 po || 3d8 || 19-20 || 36 m || 1
-|- CLASS="alt"
-| [[Milieu urbain#BELIER|Bélier]] || 1&nbsp;000&nbsp;po || 3d6* || — || — || 10
-|-
-| [[Milieu urbain#CATAPULTELEGERE|Catapulte légère]] || 550 po || 4d6 || — || 45 m (30 m minimum) || 2
-|- CLASS="alt"
-| [[Milieu urbain#CATAPULTE LOURDE|Catapulte lourde]] || 800 po || 6d6 || — || 60 m (30 m minimum) || 4
-|-
-| [[Milieu urbain#TOURDESIEGE|Tour de siège]] || 2&nbsp;000&nbsp;po || — || — || — || 20
-|-
-| COLSPAN="6" CLASS="note" | (*) Se référer à la description pour ce qui est des règles spéciales.
-|}
+
+<table CLASS="tablo centre"><caption>{s:reference|MACHINESDEGUERRE}Les machines de guerre</caption><tr CLASS="titre"><td>Machine de guerre</td><td>Prix</td><td>Dégâts</td><td>Critique</td><td>Facteur de portée</td><td>Serviteurs</td></tr><tr CLASS="premier"><td>[[Milieu urbain#BALISTE|Baliste]]</td><td>500 po</td><td>3d8</td><td>19-20</td><td>36 m</td><td>1</td></tr><tr CLASS="alt"><td>[[Milieu urbain#BELIER|Bélier]]</td><td>1&nbsp;000&nbsp;po</td><td>3d6*</td><td>—</td><td>—</td><td>10</td></tr><tr><td>[[Milieu urbain#CATAPULTELEGERE|Catapulte légère]]</td><td>550 po</td><td>4d6</td><td>—</td><td>45 m (30 m minimum)</td><td>2</td></tr><tr CLASS="alt"><td>[[Milieu urbain#CATAPULTE LOURDE|Catapulte lourde]]</td><td>800 po</td><td>6d6</td><td>—</td><td>60 m (30 m minimum)</td><td>4</td></tr><tr><td>[[Milieu urbain#TOURDESIEGE|Tour de siège]]</td><td>2&nbsp;000&nbsp;po</td><td>—</td><td>—</td><td>—</td><td>20</td></tr><tr><td COLSPAN="6" CLASS="note">(*) Se référer à la description pour ce qui est des règles spéciales.</td></tr></table>
+
 </div></div>
 {s:Desambi|L’*Art de la guerre* introduit des règles avancées relatives aux [[engins de siège]].}Ces armes et ces structures temporaires sont habituellement utilisées lors des sièges.
 
@@ -82,22 +68,14 @@ Un bélier à une taille de 9 m de long. Au combat, les créatures qui le manipu
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre"
-|+ Modificateur d’attaque des catapultes
-|- CLASS="titre"
-| Conditions || Modificateur
-|- CLASS="premier"
-| Pas de ligne de mire avec la cible || –6
-|- CLASS="alt"
-| Tirs successifs (les serviteurs voient où se   
-sont écrasés les derniers projectiles) || +2 cumulatif par échec précédent  
- (+10 max)
-|-
-| Tirs successifs (les serviteurs ne voient   
+
+<table CLASS="tablo centre"><caption>Modificateur d’attaque des catapultes</caption><tr CLASS="titre"><td>Conditions</td><td>Modificateur</td></tr><tr CLASS="premier"><td>Pas de ligne de mire avec la cible</td><td>–6</td></tr><tr CLASS="alt"><td>Tirs successifs (les serviteurs voient où se   
+sont écrasés les derniers projectiles)</td><td>+2 cumulatif par échec précédent  
+ (+10 max)</td></tr><tr><td>Tirs successifs (les serviteurs ne voient   
 pas où se sont écrasés les derniers   
-projectiles mais un guetteur les guide) || +1 cumulatif par échec précédent   
-(+5 max)
-|}
+projectiles mais un guetteur les guide)</td><td>+1 cumulatif par échec précédent   
+(+5 max)</td></tr></table>
+
 </div></div>
 {s:Reference|CATAPULTELOURDE}**Catapulte lourde.** Cette machine de guerre lance des pierres et autres objets lourds avec une force terrible. Comme elle tire ses projectiles selon un arc de cercle, elle est capable de frapper des cibles se trouvant en dehors de sa ligne de mire. Pour s’en servir, son responsable effectue un test de [[DD]] 15 ([[BBA|bonus de base à l’attaque]], modificateur d’[[Intelligence]], malus de portée et modificateur de la table ci-dessus. En cas de réussite, la catapulte touche la case visée, infligeant les dégâts indiqués à tout objet ou personnage s’y trouvant. Les personnages qui réussissent un test de [[jet de sauvegarde|Réflexes]] ([[DD]] 15) ne subissent que la moitié des dégâts. Dès lors que la pierre a touché une case, les tirs suivants la touchent automatiquement, à moins que le vent ne change de direction ou de vitesse.
 

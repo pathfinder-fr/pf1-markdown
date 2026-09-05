@@ -9,94 +9,9 @@ L’équipement d’aventure sont décrits ci-dessous, avec tous les avantages s
 **Les trousses**. Cette section inclut plusieurs trousses d’équipement présélectionné pour chaque classe de personnage du Guide des classes, Règles avancées ou qui peut s’avérer utile dans des situations spécifiques. Le MJ peut se servir de ces trousses pour compléter rapidement l’équipement d’un PNJ. Les joueurs peuvent les utiliser pour équiper de nouveaux PJ à la hâte ou équiper rapidement les compagnons d’armes, les suivants, les sbires et les mercenaires. Le prix indiqué pour une trousse inclut une petite remise pour l’achat groupé de ces objets. Les objets d’une trousse qui ont été épuisés, détruits ou perdus se remplacent au prix fort.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Équipement d’aventure
-|- CLASS="titre"
-| Objet || Prix  || Poids
-|- CLASS="premier"
-| [[Temp Equipementaventure MCA#ANNEAUX DE CRYPTAGE|Anneaux de cryptage]] || 10 po || —
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#APPEAU|Appeau]] || 1 pa || —
-|-
-| [[Temp Equipementaventure MCA#BOUTEILLE|Bouteille en verre de sucre]] || 1 po || —
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#BRACELET|Bracelet en braille]] || 25 po || —
-|-
-| [[Temp Equipementaventure MCA#CALUMET|Calumet]] || 20 po || —
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#COLONIE|Colonie de scarabées charognards]] || 3 po || 0,5 kg
-|-
-| [[Temp Equipementaventure MCA#CORDON|Cordon à grimoire]] || 3 pa || 0,25 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#ÉPISSOIR|Épissoir]] || 8 pa || 0,25 kg
-|-
-| [[Temp Equipementaventure MCA#ÉTUI|Étui de manche]] || 100 po || 0,5 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#FOURREAU|Fourreau du tricheur]] || 100 po || 1 kg
-|-
-| [[Temp Equipementaventure MCA#GRAISSE|Graisse de lutteur (pot)]] || 5 po || 0,25 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#HÔPITAL|Hôpital mobile]] || 1 000 po || 250 kg
-|-
-| [[Temp Equipementaventure MCA#JARDIN|Jardin de voyage]] || 200 po || 250 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#MEULE|Meule à bras circulaire]] || 10 po || 10 kg
-|-
-| [[Temp Equipementaventure MCA#MISSEL|Missel de guerre]] || 50 po || 0,25 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#OBOLES|Oboles (12)]] || 12 po || 0,5 kg
-|-
-| [[Temp Equipementaventure MCA#PLATREDECOPIEDEMPREINTE|Plâtre de copie d'empreintes]] || 2 po || 0,5 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#POMPE|Pompe à incendie]] || 200 po || 250 kg
-|-
-| [[Temp Equipementaventure MCA#PRISON|Prison portable]] || 200 po || 150 po
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#RECUEIL|Recueil d’énigmes]] || 50 po || 0,5 kg
-|-
-| [[Temp Equipementaventure MCA#RUCHE|Ruche de voyage]] || 10 po || 5 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#TABATIÈRE|Tabatière en étain ou en bois]] || 5 po || —
-|-
-| [[Temp Equipementaventure MCA#TABATIÈRE|Tabatière en ivoire ou en métal précieux]] || 300 po || —
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#TABATIÈRE|Tabatière en os ou en écaille de tortue]] || 25 po || —
-|-
-| [[Temp Equipementaventure MCA#TOME|Tome d’épopées]] || 50 po || 1,5 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#TRAMPOLINE|Trampoline pliant]] || 50 po || 5 kg
-|-
-| [[Temp Equipementaventure MCA#D’ARCANISTE|Trousse d’arcaniste]] || 21 po || 17 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#D’ENQUÊTEUR|Trousse d’enquêteur]] || 40 po || 12 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|-
-| [[Temp Equipementaventure MCA#BRETTEUR|Trousse de bretteur]] || 9 po || 21 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#CHAMAN|Trousse de chaman]] || 9 po || 14,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|-
-| [[Temp Equipementaventure MCA#CHASSEUR|Trousse de chasseur]] || 15 po || 22 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#COURTISANE|Trousse de courtisane]] || 10 po || 2,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|-
-| [[Temp Equipementaventure MCA#LUTTEUR|Trousse de lutteur]] || 9 po || 18,25 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#MUSC|Trousse de musc]] || 25 po || 0,5 kg
-|-
-| [[Temp Equipementaventure MCA#COMBATTANT|Trousse de prêtre combattant]] || 16 po || 15,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#SANGUIN|Trousse de sanguin]] || 9 po || 13,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|-
-| [[Temp Equipementaventure MCA#SCALDE|Trousse de scalde]] || 37 po || 33,75 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#TUEUR|Trousse de tueur]] || 22 po || 21,75 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup>
-|-
-| [[Temp Equipementaventure MCA#Tyrolienne|Tyrolienne]] || 50 po || 1,5 kg
-|- CLASS="alt"
-| [[Temp Equipementaventure MCA#Veste|Veste en liège]] || 25 po || 0,5 kg
-|-
-| [[Temp Equipementaventure MCA#Viseur|Viseur du chasseur]] || 100 po || —
-|-
-|}
+
+<table CLASS="tablo col1centre"><caption>Équipement d’aventure</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td></tr><tr CLASS="premier"><td>[[Temp Equipementaventure MCA#ANNEAUX DE CRYPTAGE|Anneaux de cryptage]]</td><td>10 po</td><td>—</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#APPEAU|Appeau]]</td><td>1 pa</td><td>—</td></tr><tr><td>[[Temp Equipementaventure MCA#BOUTEILLE|Bouteille en verre de sucre]]</td><td>1 po</td><td>—</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#BRACELET|Bracelet en braille]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Temp Equipementaventure MCA#CALUMET|Calumet]]</td><td>20 po</td><td>—</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#COLONIE|Colonie de scarabées charognards]]</td><td>3 po</td><td>0,5 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#CORDON|Cordon à grimoire]]</td><td>3 pa</td><td>0,25 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#ÉPISSOIR|Épissoir]]</td><td>8 pa</td><td>0,25 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#ÉTUI|Étui de manche]]</td><td>100 po</td><td>0,5 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#FOURREAU|Fourreau du tricheur]]</td><td>100 po</td><td>1 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#GRAISSE|Graisse de lutteur (pot)]]</td><td>5 po</td><td>0,25 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#HÔPITAL|Hôpital mobile]]</td><td>1 000 po</td><td>250 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#JARDIN|Jardin de voyage]]</td><td>200 po</td><td>250 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#MEULE|Meule à bras circulaire]]</td><td>10 po</td><td>10 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#MISSEL|Missel de guerre]]</td><td>50 po</td><td>0,25 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#OBOLES|Oboles (12)]]</td><td>12 po</td><td>0,5 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#PLATREDECOPIEDEMPREINTE|Plâtre de copie d'empreintes]]</td><td>2 po</td><td>0,5 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#POMPE|Pompe à incendie]]</td><td>200 po</td><td>250 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#PRISON|Prison portable]]</td><td>200 po</td><td>150 po</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#RECUEIL|Recueil d’énigmes]]</td><td>50 po</td><td>0,5 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#RUCHE|Ruche de voyage]]</td><td>10 po</td><td>5 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#TABATIÈRE|Tabatière en étain ou en bois]]</td><td>5 po</td><td>—</td></tr><tr><td>[[Temp Equipementaventure MCA#TABATIÈRE|Tabatière en ivoire ou en métal précieux]]</td><td>300 po</td><td>—</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#TABATIÈRE|Tabatière en os ou en écaille de tortue]]</td><td>25 po</td><td>—</td></tr><tr><td>[[Temp Equipementaventure MCA#TOME|Tome d’épopées]]</td><td>50 po</td><td>1,5 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#TRAMPOLINE|Trampoline pliant]]</td><td>50 po</td><td>5 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#D’ARCANISTE|Trousse d’arcaniste]]</td><td>21 po</td><td>17 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#D’ENQUÊTEUR|Trousse d’enquêteur]]</td><td>40 po</td><td>12 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr><td>[[Temp Equipementaventure MCA#BRETTEUR|Trousse de bretteur]]</td><td>9 po</td><td>21 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#CHAMAN|Trousse de chaman]]</td><td>9 po</td><td>14,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr><td>[[Temp Equipementaventure MCA#CHASSEUR|Trousse de chasseur]]</td><td>15 po</td><td>22 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#COURTISANE|Trousse de courtisane]]</td><td>10 po</td><td>2,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr><td>[[Temp Equipementaventure MCA#LUTTEUR|Trousse de lutteur]]</td><td>9 po</td><td>18,25 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#MUSC|Trousse de musc]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#COMBATTANT|Trousse de prêtre combattant]]</td><td>16 po</td><td>15,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#SANGUIN|Trousse de sanguin]]</td><td>9 po</td><td>13,5 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr><td>[[Temp Equipementaventure MCA#SCALDE|Trousse de scalde]]</td><td>37 po</td><td>33,75 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#TUEUR|Trousse de tueur]]</td><td>22 po</td><td>21,75 kg<sup>[[Temp Equipementaventure MCA#NOTE1|1]]</sup></td></tr><tr><td>[[Temp Equipementaventure MCA#Tyrolienne|Tyrolienne]]</td><td>50 po</td><td>1,5 kg</td></tr><tr CLASS="alt"><td>[[Temp Equipementaventure MCA#Veste|Veste en liège]]</td><td>25 po</td><td>0,5 kg</td></tr><tr><td>[[Temp Equipementaventure MCA#Viseur|Viseur du chasseur]]</td><td>100 po</td><td>—</td></tr></table>
+
 </center>
 *{s:Reference|NOTE1}(1)  Ces objets pèsent environ les trois-quarts du poids indiqué pour les personnages de taille P. Les contenants pour les personnages de taille P contiennent un-quart de la quantité normale.*
 

@@ -17,21 +17,9 @@ La table ci-dessous indique la probabilité que chaque case contienne un éléme
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| ROWSPAN="2" | &emsp;
-| COLSPAN="3" CLASS="avecsoustitre" | Catégories de forêt
-|- CLASS="soustitre"
-| Clairsemée || Intermédiaire || Dense
-|- CLASS="premier"
-| Arbres normaux || 50% || 70% || 80%
-|- CLASS="alt"
-| Arbres massifs || — || 10% || 20%
-|-
-| Broussailles légères || 50% || 70% || 50%
-|- CLASS="alt"
-| Broussailles épaisses || — || 20% || 50%
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td ROWSPAN="2">&emsp;</td><td COLSPAN="3" CLASS="avecsoustitre">Catégories de forêt</td></tr><tr CLASS="soustitre"><td>Clairsemée</td><td>Intermédiaire</td><td>Dense</td></tr><tr CLASS="premier"><td>Arbres normaux</td><td>50%</td><td>70%</td><td>80%</td></tr><tr CLASS="alt"><td>Arbres massifs</td><td>—</td><td>10%</td><td>20%</td></tr><tr><td>Broussailles légères</td><td>50%</td><td>70%</td><td>50%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>—</td><td>20%</td><td>50%</td></tr></table>
+
 </center>
 </div></div>
 **Arbres.** Les arbres constituent les éléments principaux d’une forêt. Une créature qui se trouve dans la même case qu’un arbre bénéficie d’un bonus de +2 à la [[CA|classe d’armure]] et d’un bonus de +1 aux [[jet de sauvegarde|jets de Réflexes]] (ces bonus ne sont pas cumulables avec d’autres bonus d’abri). En dehors de cela, la présence d’un arbre n’affecte pas l’espace de combat d’une créature car on part du principe que celle-ci tire le meilleur parti possible de cet arbre. Le tronc a une [[CA]] de 4, une solidité de 5 et 150 pv. Un test d’[[Escalade]] [[DD]] 15 permet d’y grimper.

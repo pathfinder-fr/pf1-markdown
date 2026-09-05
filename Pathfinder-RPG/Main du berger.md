@@ -22,24 +22,9 @@ Une *[[main spectrale]]* apparaît. Le lanceur de sort peut ensuite l’envoyer 
 La main prend forme face au lanceur de sorts, qui lui décrit physiquement l’individu (ou la créature) qu’il souhaite retrouver (race, sexe, apparence, mais aucun concept abstrait ou ambigu comme le [[niveau]], l’[[alignement]] ou la [[classe]]). Une fois la description achevée, la main part à la recherche d’une créature qui y ressemble. Le temps nécessaire pour la retrouver dépend de la distance qui la sépare du [[prêtre]] :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Distance || Temps nécessaire à la localisation
-|- CLASS="premier"
-| Jusqu’à 30 m || 1 [[round]]
-|- CLASS="alt"
-| 300 m || 1 minute
-|-
-| 1,5 km || 10 minutes
-|- CLASS="alt"
-| 3 km || 1 heure
-|-
-| 4,5 km || 2 heures
-|- CLASS="alt"
-| 6 km || 3 heures
-|-
-| 7,5 km || 4 heures
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Distance</td><td>Temps nécessaire à la localisation</td></tr><tr CLASS="premier"><td>Jusqu’à 30 m</td><td>1 [[round]]</td></tr><tr CLASS="alt"><td>300 m</td><td>1 minute</td></tr><tr><td>1,5 km</td><td>10 minutes</td></tr><tr CLASS="alt"><td>3 km</td><td>1 heure</td></tr><tr><td>4,5 km</td><td>2 heures</td></tr><tr CLASS="alt"><td>6 km</td><td>3 heures</td></tr><tr><td>7,5 km</td><td>4 heures</td></tr></table>
+
 </center>
 
 Une fois la cible localisée, la main effectue des signes pour l’inciter à la suivre. Si l’individu s’exécute, la main indique la direction dans laquelle se trouve le [[prêtre]] et le guide jusqu’à lui en empruntant le chemin le plus rapide possible. Elle lévite à trois mètres devant la cible et adapte sa [[vitesse de déplacement]] à la sienne (son déplacement maximum est de 72 m par round). La main disparaît dès que l’individu qu’elle devait ramener arrive près du [[prêtre]].

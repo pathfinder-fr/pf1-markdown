@@ -10,64 +10,18 @@ LastModified: 2024-08-23 20:26
 Les anneaux confèrent des avantages magiques à leur porteur. Tout le monde peut utiliser ces anneaux mais un personnage ne peut profiter des avantages conférés par plus de deux anneaux magiques en même temps.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Anneaux (AO)
-|- CLASS="titre"
-| Faible || Intermédiaire || Puissante || Anneau || Prix de vente
-|- CLASS="premier"
-| — || — || — || *[[Anneau de maîtrise psychique|de maîtrise psychique]]* || 50 000 po
-|- CLASS="alt"
-| — || — || — || *[[Anneau de psyché secrète|de psyché secrète]]* || 160 000 po
-|}
+
+<table CLASS="tablo col1centre"><caption>Anneaux (AO)</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Anneau</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>—</td><td>—</td><td>*[[Anneau de maîtrise psychique|de maîtrise psychique]]*</td><td>50 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>—</td><td>*[[Anneau de psyché secrète|de psyché secrète]]*</td><td>160 000 po</td></tr></table>
+
 </center>
 
 ### Sceptres
 Ces objets en forme de sceptre produisent des effets magiques uniques en leur genre et ne contiennent généralement aucune charge. Tout le monde peut utiliser un sceptre (mais les sceptres de métamagie ne produisent aucun effet s’ils sont utilisés par des créatures incapables de lancer des sorts). Les sceptres de métamagie normaux s’utilisent avec des sorts de niveau 6 ou moins, les sceptres mineurs avec des sorts de niveau 3 ou moins et les sceptres supérieurs avec des sorts de niveau 9 ou moins.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Sceptres (AO)
-|- CLASS="titre"
-| Intermédiaire || Puissante || Sceptre || Prix de vente
-|- CLASS="premier"
-| — || — || *[[Sceptre de métamagie|Métamagie mineure]], Sort furieux* || 3 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de métamagie|Métamagie mineure]], Sort logique* || 3 000 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie mineure]], Sort marquant* || 3 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de focalisation]]* || 5 000 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie mineure]], Sort terrifiant* || 9 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de métamagie|Métamagie mineure]], Sort traumatisant* || 9 000 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie modérée]], Sort furieux* || 11 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de métamagie|Métamagie modérée]], Sort logique* || 11 000 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie modérée]], Sort marquant* || 11 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de métamagie|Métamagie majeure]], Sort furieux* || 24 500 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie majeure]], Sort logique* || 24 500 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de bouillonnement]]* || 25 000 po
-|-
-| — || — || *[[Sceptre de sourcier]]* || 31 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de métamagie|Métamagie modérée]], Sort terrifiant* || 32 500 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie modérée]], Sort traumatisant* || 32 500 po
-|- CLASS="alt"
-| — || — || *[[Sceptre de métamagie|Métamagie majeure]], Sort terrifiant* || 73 000 po
-|-
-| — || — || *[[Sceptre de métamagie|Métamagie majeure]], Sort traumatisant* || 73 000 po
-|- CLASS="alt"
-| — || — || *[[Sceptre creux]]* || 121 500 po
-|-
-| — || — || *[[Sceptre du caducée]]* || 142 000 po
-|}
+
+<table CLASS="tablo col1centre"><caption>Sceptres (AO)</caption><tr CLASS="titre"><td>Intermédiaire</td><td>Puissante</td><td>Sceptre</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie mineure]], Sort furieux*</td><td>3 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie mineure]], Sort logique*</td><td>3 000 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie mineure]], Sort marquant*</td><td>3 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de focalisation]]*</td><td>5 000 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie mineure]], Sort terrifiant*</td><td>9 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie mineure]], Sort traumatisant*</td><td>9 000 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie modérée]], Sort furieux*</td><td>11 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie modérée]], Sort logique*</td><td>11 000 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie modérée]], Sort marquant*</td><td>11 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie majeure]], Sort furieux*</td><td>24 500 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie majeure]], Sort logique*</td><td>24 500 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de bouillonnement]]*</td><td>25 000 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de sourcier]]*</td><td>31 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie modérée]], Sort terrifiant*</td><td>32 500 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie modérée]], Sort traumatisant*</td><td>32 500 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie majeure]], Sort terrifiant*</td><td>73 000 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre de métamagie|Métamagie majeure]], Sort traumatisant*</td><td>73 000 po</td></tr><tr CLASS="alt"><td>—</td><td>—</td><td>*[[Sceptre creux]]*</td><td>121 500 po</td></tr><tr><td>—</td><td>—</td><td>*[[Sceptre du caducée]]*</td><td>142 000 po</td></tr></table>
+
 </center>
 
 ### Parchemins
@@ -75,30 +29,18 @@ On différencie les parchemins en fonction du type de magie utilisée pour les c
 En règle générale, il y a 70 % de chances qu’un parchemin soit profane et 30 % de chances qu’il soit divin. Le MJ doit plutôt utiliser la table ci-dessous s’il détermine aléatoirement les trésors pour une aventure dans laquelle la [[la magie psychique|magie psychique]] est présente.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Détermination aléatoire des parchemins magiques
-|- CLASS="titre"
-| D100 || Type de parchemin
-|- CLASS="premier"
-| 1-59 || Parchemin [[magie profane|profane]]
-|- CLASS="alt"
-| 60-84 || Parchemin [[magie divine|divin]]
-|-
-| 85-100 || Parchemin [[la magie psychique|psychique]]
-|}
+
+<table CLASS="tablo col1centre"><caption>Détermination aléatoire des parchemins magiques</caption><tr CLASS="titre"><td>D100</td><td>Type de parchemin</td></tr><tr CLASS="premier"><td>1-59</td><td>Parchemin [[magie profane|profane]]</td></tr><tr CLASS="alt"><td>60-84</td><td>Parchemin [[magie divine|divin]]</td></tr><tr><td>85-100</td><td>Parchemin [[la magie psychique|psychique]]</td></tr></table>
+
 </center>
 
 ### Bâtons
 Un bâton est un long bout de bois contenant plusieurs sorts. Les bâtons contiennent généralement des sorts groupés autour d’un même thème et possèdent parfois d’autres pouvoirs que leur manieur peut utiliser. Un bâton nouvellement créé contient 10 charges mais un lanceur de sorts peut le recharger avec les sorts appropriés.
 
 <center>
-{| CLASS="tablo col1centre"
-|+ Bâtons (AO)
-|- CLASS="titre"
-| Intermédiaire || Puissante || Bâton || Prix de vente
-|- CLASS="premier"
-| — || — || *[[Bâton vril|Vril]]* || 200 000 po
-|}
+
+<table CLASS="tablo col1centre"><caption>Bâtons (AO)</caption><tr CLASS="titre"><td>Intermédiaire</td><td>Puissante</td><td>Bâton</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>—</td><td>*[[Bâton vril|Vril]]*</td><td>200 000 po</td></tr></table>
+
 </center>
 
 ### Objets merveilleux
@@ -109,73 +51,15 @@ Il existe deux grandes catégories d’objets merveilleux : les objets à emplac
 {s:Reference|FAIBLE}
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
-{| CLASS="tablo"
-|+ Objets merveilleux de faible puissance
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[les talismans#Vents avantageux|Talisman de vents avantageux]] (mineur)* || 50 po
-|- CLASS="alt"
-| — || *[[Pièce factice]]* || 375 po
-|-
-| — || *[[Les talismans#Convocations sécurisées|Talisman de convocations sécurisées]] (mineur)* || 450 po
-|- CLASS="alt"
-| — || *[[les talismans#Courage du guerrier|Talisman de courage du guerrier]] (mineur)* || 450 po
-|-
-| — || *[[Figurine de cire]]* || 500 po
-|- CLASS="alt"
-| — || *[[les talismans#Vents avantageux|Talisman de vents avantageux]] (majeur)* || 500 po
-|-
-| — || *[[les talismans#Protection contre les projectiles|Talisman de protection contre les projectiles]] (mineur)* || 600 po
-|- CLASS="alt"
-| — || *[[les talismans#Sens du danger|Talisman de sens du danger]] (mineur)* || 750 po
-|-
-| — || *[[Encens de revitalisation des esprits]]* || 800 po
-|- CLASS="alt"
-| — || *[[les talismans#Liberté|Talisman de liberté]] (mineur)* || 900 po
-|-
-| — || *[[les talismans#Protection contre les flammes|Talisman de protection contre les flammes]] (mineur)* || 1 250 po
-|- CLASS="alt"
-| — || *[[Encens de réalité corporelle]]* || 1 400 po
-|-
-| — || *[[Pot de divination animale]]* || 1 400 po
-|- CLASS="alt"
-| — || *[[Poudre fantôme]]* || 1 400 po
-|}
+
+<table CLASS="tablo"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[les talismans#Vents avantageux|Talisman de vents avantageux]] (mineur)*</td><td>50 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Pièce factice]]*</td><td>375 po</td></tr><tr><td>—</td><td>*[[Les talismans#Convocations sécurisées|Talisman de convocations sécurisées]] (mineur)*</td><td>450 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Courage du guerrier|Talisman de courage du guerrier]] (mineur)*</td><td>450 po</td></tr><tr><td>—</td><td>*[[Figurine de cire]]*</td><td>500 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Vents avantageux|Talisman de vents avantageux]] (majeur)*</td><td>500 po</td></tr><tr><td>—</td><td>*[[les talismans#Protection contre les projectiles|Talisman de protection contre les projectiles]] (mineur)*</td><td>600 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Sens du danger|Talisman de sens du danger]] (mineur)*</td><td>750 po</td></tr><tr><td>—</td><td>*[[Encens de revitalisation des esprits]]*</td><td>800 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Liberté|Talisman de liberté]] (mineur)*</td><td>900 po</td></tr><tr><td>—</td><td>*[[les talismans#Protection contre les flammes|Talisman de protection contre les flammes]] (mineur)*</td><td>1 250 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Encens de réalité corporelle]]*</td><td>1 400 po</td></tr><tr><td>—</td><td>*[[Pot de divination animale]]*</td><td>1 400 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Poudre fantôme]]*</td><td>1 400 po</td></tr></table>
+
 </center>
 </td><td width="2%"></td><td width="49%">
 <center>
-{| CLASS="tablo"
-|+ Objets merveilleux de faible puissance
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Cierge de protection contre les esprits]]* || 1 500 po
-|-
-| — || *[[les talismans#Chance|Talisman de chance]] (mineur)* || 1 680 po
-|- CLASS="alt"
-| — || *[[les talismans#Puissance curative|Talisman de puissance curative]] (mineur)* || 2 400 po
-|-
-| — || *[[Attrape-rêves]]* || 2 800 po
-|- CLASS="alt"
-| — || *[[Encens de réceptivité mentale]]* || 2 800 po
-|-
-| — || *[[les talismans#Souffle de vie|Talisman de souffle de vie]] (mineur)* || 3 500 po
-|- CLASS="alt"
-| — || *[[Trèfle à quatre feuilles]]* || 3 750 po
-|-
-| — || *[[Poudre thaumaturgique]]* || 4 000 po
-|- CLASS="alt"
-| — || *[[Les talismans#Convocations sécurisées|Talisman de convocations sécurisées]] (majeur)* || 4 500 po
-|-
-| — || *[[les talismans#Courage du guerrier|Talisman de courage du guerrier]] (majeur)* || 4 500 po
-|- CLASS="alt"
-| — || *[[les talismans#Protection contre les projectiles|Talisman de protection contre les projectiles]] (majeur)* || 6 000 po
-|-
-| — || *[[Fer à cheval porte-bonheur]]* || 6 800 po
-|- CLASS="alt"
-| — || *[[les talismans#Sens du danger|Talisman de sens du danger]] (majeur)* || 7 500 po
-|}
+
+<table CLASS="tablo"><caption>Objets merveilleux de faible puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Cierge de protection contre les esprits]]*</td><td>1 500 po</td></tr><tr><td>—</td><td>*[[les talismans#Chance|Talisman de chance]] (mineur)*</td><td>1 680 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Puissance curative|Talisman de puissance curative]] (mineur)*</td><td>2 400 po</td></tr><tr><td>—</td><td>*[[Attrape-rêves]]*</td><td>2 800 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Encens de réceptivité mentale]]*</td><td>2 800 po</td></tr><tr><td>—</td><td>*[[les talismans#Souffle de vie|Talisman de souffle de vie]] (mineur)*</td><td>3 500 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Trèfle à quatre feuilles]]*</td><td>3 750 po</td></tr><tr><td>—</td><td>*[[Poudre thaumaturgique]]*</td><td>4 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Les talismans#Convocations sécurisées|Talisman de convocations sécurisées]] (majeur)*</td><td>4 500 po</td></tr><tr><td>—</td><td>*[[les talismans#Courage du guerrier|Talisman de courage du guerrier]] (majeur)*</td><td>4 500 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Protection contre les projectiles|Talisman de protection contre les projectiles]] (majeur)*</td><td>6 000 po</td></tr><tr><td>—</td><td>*[[Fer à cheval porte-bonheur]]*</td><td>6 800 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[les talismans#Sens du danger|Talisman de sens du danger]] (majeur)*</td><td>7 500 po</td></tr></table>
+
 </center>
 </td></tr></table>
 
@@ -183,51 +67,15 @@ Il existe deux grandes catégories d’objets merveilleux : les objets à emplac
 {s:Reference|FAIBLE}
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
-{| CLASS="tablo"
-|+ Objets merveilleux de puissance intermédiaire
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[les talismans#Liberté|Talisman de liberté]] (majeur)* || 9 000 po
-|- CLASS="alt"
-| — || *[[Ardoise spirituelle]]* || 12 000 po
-|-
-| — || *[[Pendentif dinsoumission|Pendentif d'insoumission]]* || 12 000 po
-|- CLASS="alt"
-| — || *[[Pierres de lithomancie]]* || 12 000 po
-|-
-| — || *[[les talismans#Protection contre les flammes|Talisman de protection contre les flammes]] (majeur)* || 12 500 po
-|- CLASS="alt"
-| — || *[[Manuel dorigamis animaux|Manuel d'origamis animaux]]* || 13 500 po
-|-
-| — || *[[Calotte en fer blanc]]* || 15 000 po
-|- CLASS="alt"
-| — || *[[Fer à cheval porte-bonheur]] (collectif)* || 15 000 po
-|}
+
+<table CLASS="tablo"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[les talismans#Liberté|Talisman de liberté]] (majeur)*</td><td>9 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Ardoise spirituelle]]*</td><td>12 000 po</td></tr><tr><td>—</td><td>*[[Pendentif dinsoumission|Pendentif d'insoumission]]*</td><td>12 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Pierres de lithomancie]]*</td><td>12 000 po</td></tr><tr><td>—</td><td>*[[les talismans#Protection contre les flammes|Talisman de protection contre les flammes]] (majeur)*</td><td>12 500 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Manuel dorigamis animaux|Manuel d'origamis animaux]]*</td><td>13 500 po</td></tr><tr><td>—</td><td>*[[Calotte en fer blanc]]*</td><td>15 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Fer à cheval porte-bonheur]] (collectif)*</td><td>15 000 po</td></tr></table>
+
 </center>
 </td><td width="2%"></td><td width="49%">
 <center>
-{| CLASS="tablo"
-|+ Objets merveilleux de puissance intermédiaire
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Poupée ganji]]* || 16 000 po
-|-
-| — || *[[les talismans#Chance|Talisman de chance]] (majeur)* || 16 800 po
-|- CLASS="alt"
-| — || *[[Diadème de cinétiste]] (mineur)* || 18 000 po
-|-
-| — || *[[Miroir aux esprits]]* || 18 900 po
-|- CLASS="alt"
-| — || *[[Ouija magique]]* || 20 000 po
-|-
-| — || *[[les talismans#Puissance curative|Talisman de puissance curative]] (majeur)* || 24 000 po
-|- CLASS="alt"
-| — || *[[Masque dhypnotiseur|Masque d'hypnotiseur]]* || 25 000 po
-|-
-| — || *[[Cagoule de privation sensorielle]] * || 27 500 po
-|}
+
+<table CLASS="tablo"><caption>Objets merveilleux de puissance intermédiaire</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Poupée ganji]]*</td><td>16 000 po</td></tr><tr><td>—</td><td>*[[les talismans#Chance|Talisman de chance]] (majeur)*</td><td>16 800 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Diadème de cinétiste]] (mineur)*</td><td>18 000 po</td></tr><tr><td>—</td><td>*[[Miroir aux esprits]]*</td><td>18 900 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Ouija magique]]*</td><td>20 000 po</td></tr><tr><td>—</td><td>*[[les talismans#Puissance curative|Talisman de puissance curative]] (majeur)*</td><td>24 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Masque dhypnotiseur|Masque d'hypnotiseur]]*</td><td>25 000 po</td></tr><tr><td>—</td><td>*[[Cagoule de privation sensorielle]] *</td><td>27 500 po</td></tr></table>
+
 </center>
 </td></tr></table>
 
@@ -236,36 +84,14 @@ Il existe deux grandes catégories d’objets merveilleux : les objets à emplac
 {s:Reference|INTERMEDIAIRE}
 <table width="100%"><tr style="vertical-align: top"><td width="49%">
 <center>
-{| CLASS="tablo"
-|+ Objets merveilleux de grande puissance
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Miroir de capture des âmes]]* || 33 000 po
-|-
-| — || *[[les talismans#Souffle de vie|Talisman de souffle de vie]] (majeur)* || 35 000 po
-|- CLASS="alt"
-| — || *[[Poupée ganji]] (supérieure)* || 36 000 po
-|-
-| — || *[[Accumulateur dorgone|Accumulateur d'orgone]]* || 48 000 po
-|- CLASS="alt"
-| — || *[[Diadème de cinétiste]]* || 50 000 po
-|}
+
+<table CLASS="tablo"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Miroir de capture des âmes]]*</td><td>33 000 po</td></tr><tr><td>—</td><td>*[[les talismans#Souffle de vie|Talisman de souffle de vie]] (majeur)*</td><td>35 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Poupée ganji]] (supérieure)*</td><td>36 000 po</td></tr><tr><td>—</td><td>*[[Accumulateur dorgone|Accumulateur d'orgone]]*</td><td>48 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Diadème de cinétiste]]*</td><td>50 000 po</td></tr></table>
+
 </center>
 </td><td width="2%"></td><td width="49%">
 <center>
-{| CLASS="tablo"
-|+ Objets merveilleux de grande puissance
-|- CLASS="titre"
-| 1d100 || Objet || Prix de vente
-|- CLASS="premier"
-| — || *[[Chaloupe volante]]* || 80 000 po
-|-
-| — || *[[Tête réduite]] * || 90 000 po
-|- CLASS="alt"
-| — || *[[Diadème de cinétiste]] (majeur)* || 98 000 po
-|-
-| — || *[[Skiff volant]]* || 180 000 po
-|}
+
+<table CLASS="tablo"><caption>Objets merveilleux de grande puissance</caption><tr CLASS="titre"><td>1d100</td><td>Objet</td><td>Prix de vente</td></tr><tr CLASS="premier"><td>—</td><td>*[[Chaloupe volante]]*</td><td>80 000 po</td></tr><tr><td>—</td><td>*[[Tête réduite]] *</td><td>90 000 po</td></tr><tr CLASS="alt"><td>—</td><td>*[[Diadème de cinétiste]] (majeur)*</td><td>98 000 po</td></tr><tr><td>—</td><td>*[[Skiff volant]]*</td><td>180 000 po</td></tr></table>
+
 </center>
 </td></tr></table>

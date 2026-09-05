@@ -16,42 +16,18 @@ Une baguette est un fin bout de bois contenant un sort unique du 4e niveau ou mo
 **Propriétés spéciales.** Lancer un dé. Sur un 01–30, un indice sur les fonctions de la baguette figure quelque part à sa surface (dessin, inscription, etc.), et sur 31–100, elle n’a aucune propriété spéciale.
 
 <table width="100%"><tr><td width="49%">
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|DETERMINATION}Baguettes
-|- CLASS="titre"
-| Faible || Intermédiaire || Puissante || Niveau   
-du sort || Niveau   
-du lanceur
-|- CLASS="premier"
-| 01–05 || — || — || 0 || 1
-|-
-| 06–60 || — || — || 1er || 1
-|-
-| 61–100 || 01–60 || — || 2e || 3
-|-
-| — || 61–100 || 01–60 || 3e || 5
-|-
-| — || — || 61–100 || 4e || 7
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|DETERMINATION}Baguettes</caption><tr CLASS="titre"><td>Faible</td><td>Intermédiaire</td><td>Puissante</td><td>Niveau   
+du sort</td><td>Niveau   
+du lanceur</td></tr><tr CLASS="premier"><td>01–05</td><td>—</td><td>—</td><td>0</td><td>1</td></tr><tr><td>06–60</td><td>—</td><td>—</td><td>1er</td><td>1</td></tr><tr><td>61–100</td><td>01–60</td><td>—</td><td>2e</td><td>3</td></tr><tr><td>—</td><td>61–100</td><td>01–60</td><td>3e</td><td>5</td></tr><tr><td>—</td><td>—</td><td>61–100</td><td>4e</td><td>7</td></tr></table>
+
 </td><td width="2%">
 </td><td width="49%">
-{| CLASS="tablo centre autoalt"
-|+ Coût des baguettes
-|- CLASS="titre"
-| Niveau   
-du sort || Prêtre,   
+
+<table CLASS="tablo centre autoalt"><caption>Coût des baguettes</caption><tr CLASS="titre"><td>Niveau   
+du sort</td><td>Prêtre,   
 druide,   
-magicien || Ensorceleur || Barde || Paladin,   
-rôdeur
-|- CLASS="premier"
-| 0 || 375 po || 375 po || 375 po || —
-|-
-| 1er || 750 po || 750 po || 750 po || 750 po
-|-
-| 2e || 4 500 po || 6 000 po || 6 000 po || 6 000 po
-|-
-| 3e || 11 250 po || 13 500 po || 15 750 po || 15 750 po
-|-
-| 4e || 21 000 po || 24 000 po || 30 000 po || 30 000 po
-|}
+magicien</td><td>Ensorceleur</td><td>Barde</td><td>Paladin,   
+rôdeur</td></tr><tr CLASS="premier"><td>0</td><td>375 po</td><td>375 po</td><td>375 po</td><td>—</td></tr><tr><td>1er</td><td>750 po</td><td>750 po</td><td>750 po</td><td>750 po</td></tr><tr><td>2e</td><td>4 500 po</td><td>6 000 po</td><td>6 000 po</td><td>6 000 po</td></tr><tr><td>3e</td><td>11 250 po</td><td>13 500 po</td><td>15 750 po</td><td>15 750 po</td></tr><tr><td>4e</td><td>21 000 po</td><td>24 000 po</td><td>30 000 po</td><td>30 000 po</td></tr></table>
+
 </td></tr></table>

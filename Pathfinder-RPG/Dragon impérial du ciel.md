@@ -32,51 +32,17 @@ Categories:
 {s:BDTexte|**Vision dans les nuages (Sur).** Un très jeune dragon du ciel, ou un dragon plus âgé, n’est pas gêné par les nuages ou la brume, ni par les sorts générant des zones de brume.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon du ciel
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon du ciel]] || &nbsp; || 9
-|-
-| [[Dragon du ciel adulte]] || &nbsp; || 13
-|-
-| [[Dragon du ciel vénérable]] || &nbsp; || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon du ciel</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon du ciel]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon du ciel adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon du ciel vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon impérial|dragons impériaux]].***</li></ul>''Pourtant dépourvu d’ailes, ce dragon sillonne le ciel en serpentant avec
 grâce, ses écailles réfléchissant les nuances changeantes des cieux.''
 
 Nobles et bienveillants, les dragons du ciel, ou tianlongs, sont les redoutables champions du Bien et les protecteurs des faibles. Leurs conseils pleins de sagesse sont souvent recherchés même s’ils ne les accordent qu’aux êtres sincères et méritants.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || [[Immunité (capacité)|immunité]] à l’électricité, porté par les airs || —
-|- CLASS="alt"
-| Très jeune || Vision dans les nuages || —
-|-
-| Jeune || Changement de forme, *[[détection du Mal]]* || 1
-|- CLASS="alt"
-| Adolescent || *[[Feuille morte]]*, [[Présence terrifiante (capacité)|présence terrifiante]] || 3
-|-
-| Jeune adulte || [[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]] || 5
-|- CLASS="alt"
-| Adulte || *[[Bourrasque]]* || 7
-|-
-| Âge mûr || [[Réduction de dégâts (capacité)|RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || *[[Appel de la foudre]]*, foudre primale || 11
-|-
-| Très vieux || [[Réduction de dégâts (capacité)|RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[Contrôle des vents]]*, souffle terrassant || 15
-|-
-| Dracosire || [[Réduction de dégâts (capacité)|RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || Émissaire céleste, *[[nuées dorage|nuées d’orage]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>[[Immunité (capacité)|immunité]] à l’électricité, porté par les airs</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>Vision dans les nuages</td><td>—</td></tr><tr><td>Jeune</td><td>Changement de forme, *[[détection du Mal]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[Feuille morte]]*, [[Présence terrifiante (capacité)|présence terrifiante]]</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[Réduction de dégâts (capacité)|RD]] 5/magie, [[Résistance à la magie (capacité)|résistance à la magie]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[Bourrasque]]*</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[Réduction de dégâts (capacité)|RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>*[[Appel de la foudre]]*, foudre primale</td><td>11</td></tr><tr><td>Très vieux</td><td>[[Réduction de dégâts (capacité)|RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[Contrôle des vents]]*, souffle terrassant</td><td>15</td></tr><tr><td>Dracosire</td><td>[[Réduction de dégâts (capacité)|RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>Émissaire céleste, *[[nuées dorage|nuées d’orage]]*</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

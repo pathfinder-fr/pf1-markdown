@@ -23,18 +23,9 @@ Categories:
 Ce sort bien plus puissant qu’*[[animation des morts]]* offre la possibilité de créer des [[type mort-vivant|morts-vivants]] autrement plus dangereux : [[goule|goules]], [[goule|blêmes]], [[momie|momies]] et [[mohrg|mohrgs]]. Le type de [[type mort-vivant|morts-vivants]] pouvant être animé résulte du [[NLS|niveau de lanceur de sorts]] du personnage :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| NLS || Mort-vivant créé
-|- CLASS="premier"
-| 11 ou moins || [[Goule]]
-|- CLASS="alt"
-| 12–14 || [[Goule|Blême]]
-|-
-| 15–17 || [[Momie]]
-|- CLASS="alt"
-| 18 ou plus || [[Mohrg]]
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>NLS</td><td>Mort-vivant créé</td></tr><tr CLASS="premier"><td>11 ou moins</td><td>[[Goule]]</td></tr><tr CLASS="alt"><td>12–14</td><td>[[Goule|Blême]]</td></tr><tr><td>15–17</td><td>[[Momie]]</td></tr><tr CLASS="alt"><td>18 ou plus</td><td>[[Mohrg]]</td></tr></table>
+
 </center>
 
 S’il le désire, le personnage peut donner naissance à des [[type mort-vivant|morts-vivants]] plus faibles que ce que lui permet son niveau. Le [[type mort-vivant|mort-vivant]] qui se forme n’est pas systématiquement sous le contrôle de son créateur. Si le lanceur de sorts est capable de contrôler les [[type mort-vivant|morts-vivants]], il peut tenter de le faire au moment où la créature se forme.

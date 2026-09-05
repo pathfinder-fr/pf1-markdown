@@ -14,29 +14,15 @@ Il existe 4 variété de corne mais chacune paraît normale tant que l’on a pa
 
 Les [[barbare|barbares]] invoqués sont des [[créatures artificielles]], et pas de véritables êtres vivants (bien qu'ils en aient l'air). Ils apparaissent équipés et combattent les ennemis de l’invocateur jusqu’à ce qu’ils soient morts ou pendant une heure au maximum.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d100 || Cor || [[barbare|Barbares]]
-| CLASS="gauche" | Condition d’utilisation
-|- CLASS="premier"
-| 01-40 || Argent || 2d4+2,  
- niveau 2
-| CLASS="gauche" | Aucune
-|-
-| 41-75 || Cuivre || 2d4+1,  
- niveau 3
-| CLASS="gauche" | NLS 1
-|-
-| 76-90 || Bronze || 2d4,  
- niveau 4
-| CLASS="gauche" | Formé au [[maniement dune arme de guerre|maniement des armes de guerre]]  
- ou capacité de [[représentation bardique]]
-|-
-| 91-100 || Acier || 1d4+1,  
- niveau 5
-| CLASS="gauche" | Formé au [[maniement dune arme de guerre|maniement des armes de guerre]]  
- ou capacité de [[représentation bardique]]
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>Cor</td><td>[[barbare|Barbares]]</td><td CLASS="gauche">Condition d’utilisation</td></tr><tr CLASS="premier"><td>01-40</td><td>Argent</td><td>2d4+2,  
+ niveau 2</td><td CLASS="gauche">Aucune</td></tr><tr><td>41-75</td><td>Cuivre</td><td>2d4+1,  
+ niveau 3</td><td CLASS="gauche">NLS 1</td></tr><tr><td>76-90</td><td>Bronze</td><td>2d4,  
+ niveau 4</td><td CLASS="gauche">Formé au [[maniement dune arme de guerre|maniement des armes de guerre]]  
+ ou capacité de [[représentation bardique]]</td></tr><tr><td>91-100</td><td>Acier</td><td>1d4+1,  
+ niveau 5</td><td CLASS="gauche">Formé au [[maniement dune arme de guerre|maniement des armes de guerre]]  
+ ou capacité de [[représentation bardique]]</td></tr></table>
+
 (((Création)))
 **Conditions** [[Création dobjets merveilleux|Création d'objets merveilleux]], *[[convocation de monstres VI]]* ; **Coût** 25 000 po
 </div>

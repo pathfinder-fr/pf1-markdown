@@ -150,16 +150,9 @@ L’os est un matériau durable quand il est traité correctement. Il peut rempl
 
 **Type** objet en os ; **Niveau** 0 ; **Prix** 1 pa par Encombrement
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-|  || Solidité || PV || Seuil de bris
-|- CLASS="premier"
-| Objets minces || 4 || 16 || 8
-|-
-| Objets || 6 || 24 || 12
-|-
-| Bâtiments || 12 || 48 || 24
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>|| Solidité</td><td>PV</td><td>Seuil de bris</td></tr><tr CLASS="premier"><td>Objets minces</td><td>4</td><td>16</td><td>8</td></tr><tr><td>Objets</td><td>6</td><td>24</td><td>12</td></tr><tr><td>Bâtiments</td><td>12</td><td>48</td><td>24</td></tr></table>
+
 
 </div>
 
@@ -171,15 +164,8 @@ La pierre est l’un des premiers matériaux utilisés pour créer des outils, e
 **Type** objet de pierre de basse qualité ; **Niveau** 0 ; **Prix** 1 pa par Encombrement
 
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-|  || Solidité || PV || Seuil de bris
-|- CLASS="premier"
-| Objets minces || 4 || 16 || 8
-|-
-| Objets || 7 || 24 || 12
-|-
-| Bâtiments || 14 || 48 || 24
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>|| Solidité</td><td>PV</td><td>Seuil de bris</td></tr><tr CLASS="premier"><td>Objets minces</td><td>4</td><td>16</td><td>8</td></tr><tr><td>Objets</td><td>7</td><td>24</td><td>12</td></tr><tr><td>Bâtiments</td><td>14</td><td>48</td><td>24</td></tr></table>
+
 
 </div>

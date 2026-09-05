@@ -47,17 +47,9 @@ Categories:
 <td>
 <div>
 <div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de cyclope
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cyclope]] || 5
-|-
-| [[Cyclope kabandha]] || 9
-|-
-| [[Grand cyclope]] || 12
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de cyclope</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cyclope]]</td><td>5</td></tr><tr><td>[[Cyclope kabandha]]</td><td>9</td></tr><tr><td>[[Grand cyclope]]</td><td>12</td></tr></table>
+
 </div>*Ce géant imposant n’a pas de tête. Au lieu de cela, son visage doté d’un unique oeil se trouve au milieu de son large torse.*
 
 

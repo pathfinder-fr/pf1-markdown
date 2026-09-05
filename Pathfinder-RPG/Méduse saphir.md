@@ -37,19 +37,9 @@ LastModified: 2021-02-23 16:25
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de méduse
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Méduse à tête de mort]] || 1
-|-
-| [[Méduse géante]] || 7
-|-
-| [[Méduse saphir]] || 11
-|-
-| [[Nuée de méduses]] || 6
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de méduse</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Méduse à tête de mort]]</td><td>1</td></tr><tr><td>[[Méduse géante]]</td><td>7</td></tr><tr><td>[[Méduse saphir]]</td><td>11</td></tr><tr><td>[[Nuée de méduses]]</td><td>6</td></tr></table>
+
 </div>*Cette impressionnante méduse translucide brille d’une lueur interne bleutée et, tout autour de son ombrelle, l’eau vibre d’électricité.*
 
 Comme les autres méduses géantes, la méduse saphir est une chasseresse active. Elle stocke de puissantes charges électriques au sein de son ombrelle en forme de dôme, de 4,80 mètres de diamètre. Ses tentacules sensoriels sont deux fois plus longs, mais ses dangereux tentacules toxiques se trouvent à une demi-douzaine de mètres sous l’ombrelle.

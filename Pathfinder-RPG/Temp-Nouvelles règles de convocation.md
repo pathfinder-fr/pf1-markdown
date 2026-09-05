@@ -58,37 +58,15 @@ Il existe deux manières d'utiliser ces tableaux au choix du MJ :
 Les personnages ont accès à un don de **Convocation étendue** qui permet d'ajouter aux tableaux de convocation traditionnels deux créatures par niveau au choix parmi ces nouveaux tableaux de convocation.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Convocation étendue de monstres
-|- CLASS="titre"
-| Description
-|- CLASS="premier"
-| *Le personnage a appris à convoquer des alliés au-delà de la portée de la plupart des conjurateurs.*
-|- CLASS="alt"
-| **Conditions. ** Capacité de lancer [[Convocation de Monstres]] avec un sort ou un pouvoir magique.
-|- CLASS="alt"
-| **Avantage. ** Pour chaque niveau de sorts de 1 à 9, sélectionnez deux créatures des nouveaux tableaux de convocation ci-dessous. Vous ajoutez ensuite ces créatures à chaque [[Convocation de Monstres|tableau de convocation de monstres]] du même niveau. Le personnage peut les convoquer avec le sort approprié. Une fois réalisés, ces choix ne peuvent plus être modifiés.
-|- CLASS="alt"
-| **Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il ajoute deux autres monstres des nouveaux tableaux de convocation ci-dessous pour chaque niveau.
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo toutgauche"><caption>Convocation étendue de monstres</caption><tr CLASS="titre"><td>Description</td></tr><tr CLASS="premier"><td>*Le personnage a appris à convoquer des alliés au-delà de la portée de la plupart des conjurateurs.*</td></tr><tr CLASS="alt"><td>**Conditions. ** Capacité de lancer [[Convocation de Monstres]] avec un sort ou un pouvoir magique.</td></tr><tr CLASS="alt"><td>**Avantage. ** Pour chaque niveau de sorts de 1 à 9, sélectionnez deux créatures des nouveaux tableaux de convocation ci-dessous. Vous ajoutez ensuite ces créatures à chaque [[Convocation de Monstres|tableau de convocation de monstres]] du même niveau. Le personnage peut les convoquer avec le sort approprié. Une fois réalisés, ces choix ne peuvent plus être modifiés.</td></tr><tr CLASS="alt"><td>**Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il ajoute deux autres monstres des nouveaux tableaux de convocation ci-dessous pour chaque niveau.</td></tr><tr CLASS="alt"></tr></table>
+
 </center>
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Convocation étendue d'alliés naturels
-|- CLASS="titre"
-| Description
-|- CLASS="premier"
-| *Le personnage a appris à convoquer des alliés de la nature au-delà de la portée de la plupart des conjurateurs.*
-|- CLASS="alt"
-| **Conditions. ** Capacité de lancer [[Convocation dalliés naturels|Convocation d'Alliés naturels]] avec un sort ou un pouvoir magique.
-|- CLASS="alt"
-| **Avantage. ** Pour chaque niveau de sorts de 1 à 9, sélectionnez deux créatures des nouveaux tableaux de convocation ci-dessous parmi la liste suivante : [[type animal|animaux]], [[type fée|fées]], [[type créature magique|créatures magiques]], [[type vermine|vermines]], géants, [[type vase|vases]], [[type plante|plantes]] et [[type extérieur|Extérieurs]] de sous-type [[élémentaire]], [[agathion]], [[créature foo]] ou [[kami]]. Vous ajoutez ensuite ces créatures à chaque [[Convocation dalliés naturels|tableau de convocation d'alliés naturels]] du même niveau. Le personnage peut les convoquer avec le sort approprié. Une fois réalisés, ces choix ne peuvent plus être modifiés.
-|- CLASS="alt"
-| **Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il ajoute deux autres créatures naturelles des nouveaux tableaux de convocation ci-dessous pour chaque niveau.
-|- CLASS="alt"
-|}
+
+<table CLASS="tablo toutgauche"><caption>Convocation étendue d'alliés naturels</caption><tr CLASS="titre"><td>Description</td></tr><tr CLASS="premier"><td>*Le personnage a appris à convoquer des alliés de la nature au-delà de la portée de la plupart des conjurateurs.*</td></tr><tr CLASS="alt"><td>**Conditions. ** Capacité de lancer [[Convocation dalliés naturels|Convocation d'Alliés naturels]] avec un sort ou un pouvoir magique.</td></tr><tr CLASS="alt"><td>**Avantage. ** Pour chaque niveau de sorts de 1 à 9, sélectionnez deux créatures des nouveaux tableaux de convocation ci-dessous parmi la liste suivante : [[type animal|animaux]], [[type fée|fées]], [[type créature magique|créatures magiques]], [[type vermine|vermines]], géants, [[type vase|vases]], [[type plante|plantes]] et [[type extérieur|Extérieurs]] de sous-type [[élémentaire]], [[agathion]], [[créature foo]] ou [[kami]]. Vous ajoutez ensuite ces créatures à chaque [[Convocation dalliés naturels|tableau de convocation d'alliés naturels]] du même niveau. Le personnage peut les convoquer avec le sort approprié. Une fois réalisés, ces choix ne peuvent plus être modifiés.</td></tr><tr CLASS="alt"><td>**Spécial. ** Ce don peut être choisi plusieurs fois, à chaque fois il ajoute deux autres créatures naturelles des nouveaux tableaux de convocation ci-dessous pour chaque niveau.</td></tr><tr CLASS="alt"></tr></table>
+
 </center>
 
 **Choix étendu**
@@ -121,276 +99,56 @@ Les sorts de *[[Convocation dalliés naturels|convocation d'alliés naturel]]* u
 
 <table width="100%"><tr style="vertical-align: top"><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 1
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Antilope|Antilope]]* (Animal de troupeau) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Chien|Babouin]]* (primate) || —
-|-
-| [[Pathfinder-RPG.Blaireau|Blaireau]]* || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Grand-Duc|Grand-Duc]]* (oiseau) || —
-|-
-| [[Pathfinder-RPG.Kangourou|Kangourou]]* (marsupial) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tortue happante|Tortue happante]]* (tortue) || —
-|-
-| [[Pathfinder-RPG.Raie à aiguillon|Raie à aiguillon]]* || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Thylacine|Thylacine]]* (marsupial) || —
-|-
-| [[Pathfinder-RPG.Cygne trompette|Cygne trompette]]* (oiseau) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Vautour|Vautour]]* (oiseau) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 1</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Antilope|Antilope]]* (Animal de troupeau)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Chien|Babouin]]* (primate)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Blaireau|Blaireau]]*</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Grand-Duc|Grand-Duc]]* (oiseau)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Kangourou|Kangourou]]* (marsupial)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tortue happante|Tortue happante]]* (tortue)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Raie à aiguillon|Raie à aiguillon]]*</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Thylacine|Thylacine]]* (marsupial)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Cygne trompette|Cygne trompette]]* (oiseau)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Vautour|Vautour]]* (oiseau)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 2
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Dromadaire|Dromadaire]]* (animal de troupeau) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Compsognathus|Compsognathus]]* (dinosaure) || —
-|-
-| [[Pathfinder-RPG.Dimorphodon|Dimorphodon]]* (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Gar|Gar]]* || —
-|-
-| [[Pathfinder-RPG.Gecko géant|Gecko géant]]* (lézard) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tortue géante|Tortue géante]]* (tortue) || —
-|-
-| [[Pathfinder-RPG.Belette géante|Belette géante]]* (mégafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Raie manta|Raie manta]]* || —
-|-
-| [[Pathfinder-RPG.Bélier|Bélier]]* (animal de troupeau) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Cerf|Cerf]]* (animal de troupeau) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 2</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Dromadaire|Dromadaire]]* (animal de troupeau)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Compsognathus|Compsognathus]]* (dinosaure)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Dimorphodon|Dimorphodon]]* (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Gar|Gar]]*</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Gecko géant|Gecko géant]]* (lézard)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tortue géante|Tortue géante]]* (tortue)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Belette géante|Belette géante]]* (mégafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Raie manta|Raie manta]]*</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Bélier|Bélier]]* (animal de troupeau)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Cerf|Cerf]]* (animal de troupeau)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 3
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Arbitre|Arbitre]] (inévitable) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Augure|Augure]] (Kyton) || —
-|-
-| [[Pathfinder-RPG.Fer de hache|Fer de hache]]* (oiseau) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Requin bouledogue|Requin bouledogue]]* (requin) || —
-|-
-| [[Pathfinder-RPG.Cacodaémon|Cacodaémon]] (daemon) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Cassisien|Cassisien]] (ange) || —
-|-
-| [[Pathfinder-RPG.Cythnigot|Cythnigot]] (qlippoth) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Blaireau sanguinaire|Blaireau sanguinaire]]* (mégafaune) || —
-|-
-| [[Pathfinder-RPG.Div doru|Doru]] (div) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Chien foo|Chien foo]] (Créature foo) || —
-|-
-| [[Pathfinder-RPG.Porc-épic géant|Porc-épic géant]]* (mégafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Lyrakien|Lyrakien]] (azata) || —
-|-
-| [[Pathfinder-RPG.Paraclétus|Paraclétus]] (aéon) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Silvanshie|Silvanshie]] (agathion) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Thoqqua|Thoqqua]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tripurasura|Tripurasura]] (asura) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Vélociraptor|Vélociraptor]]* (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Ver du néant|Ver du néant]] (protéen) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 3</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Arbitre|Arbitre]] (inévitable)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Augure|Augure]] (Kyton)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Fer de hache|Fer de hache]]* (oiseau)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Requin bouledogue|Requin bouledogue]]* (requin)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Cacodaémon|Cacodaémon]] (daemon)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Cassisien|Cassisien]] (ange)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Cythnigot|Cythnigot]] (qlippoth)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Blaireau sanguinaire|Blaireau sanguinaire]]* (mégafaune)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Div doru|Doru]] (div)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Chien foo|Chien foo]] (Créature foo)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Porc-épic géant|Porc-épic géant]]* (mégafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Lyrakien|Lyrakien]] (azata)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Paraclétus|Paraclétus]] (aéon)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Silvanshie|Silvanshie]] (agathion)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Thoqqua|Thoqqua]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tripurasura|Tripurasura]] (asura)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Vélociraptor|Vélociraptor]]* (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Ver du néant|Ver du néant]] (protéen)</td><td>—</td></tr></table>
+
 </center>
 </td></tr><tr><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 4
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Crysmal|Crysmal]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Dimétrodon|Dimétrodon]]* (Dinosaure) || —
-|-
-| [[Pathfinder-RPG.Belette sanguinaire|Belette sanguinaire]]* (mégafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Dziriak|D’ziriak]] || —
-|-
-| [[Pathfinder-RPG.lion foo|Lion foo]] (créature foo) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Hippocampe géant|Hippocampe géant]]* (mégafaune) || —
-|-
-| [[Pathfinder-RPG.Moufette géante|Moufette géante]]* (mégafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Vautour géant|Vautour géant]]* (mégafaune) || —
-|-
-| [[Pathfinder-RPG.Girafe|Girafe]]* (animal de troupeau) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Grand requin blanc|Grand requin blanc]]* (requin) || —
-|-
-| [[Pathfinder-RPG.Hurleur|Hurleur]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Magmatique|Magmatique]] || —
-|-
-| [[Pathfinder-RPG.Mégalocéros|mégalocéros]]* (mégafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Pachycéphalosaure|Pachycéphalosaure]]* (dinosaure) || —
-|-
-| [[Pathfinder-RPG.Parasaurolophus|Parasaurolophus]]* (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Ariès|Ariès]] (démon) || —
-|-
-| [[Pathfinder-RPG.Vulnudaémon|Vulnudaémon]] (daemon) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 4</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Crysmal|Crysmal]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Dimétrodon|Dimétrodon]]* (Dinosaure)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Belette sanguinaire|Belette sanguinaire]]* (mégafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Dziriak|D’ziriak]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.lion foo|Lion foo]] (créature foo)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Hippocampe géant|Hippocampe géant]]* (mégafaune)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Moufette géante|Moufette géante]]* (mégafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Vautour géant|Vautour géant]]* (mégafaune)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Girafe|Girafe]]* (animal de troupeau)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Grand requin blanc|Grand requin blanc]]* (requin)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Hurleur|Hurleur]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Magmatique|Magmatique]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Mégalocéros|mégalocéros]]* (mégafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pachycéphalosaure|Pachycéphalosaure]]* (dinosaure)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Parasaurolophus|Parasaurolophus]]* (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Ariès|Ariès]] (démon)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Vulnudaémon|Vulnudaémon]] (daemon)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 5
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Achaïéraï|Achaïéraï]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Archelon|Archelon]]* (mégafaune) || —
-|-
-| [[Pathfinder-RPG.Fumigon|Fumigon]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Cerbère|Cerbère]] || —
-|-
-| [[Pathfinder-RPG.Cobra impérial|Cobra impérial]]* (serpent) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Gar géant|Gar géant]]* (mégafaune) || —
-|-
-| [[Pathfinder-RPG.Glyptodonte|Glyptodon]]* (mégafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Hippopotame|Hippopotame]]* || —
-|-
-| [[Pathfinder-RPG.Diable de lost|Diable de l'ost]] (diable) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Hypnalis|Hypnalis]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Iguanodon|Iguanodon]]* (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Incube|Incube]] (démon) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Ceustodaémon|Ceustodaémon]] (daemon) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Mégathérium|Mégathérium]]* (megafaune) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Seigneur de boue|Seigneur de boue]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Kyton Ostiarius|Ostiarius]] (kyton) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Dogue dombre|Dogue d’ombre]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Styracosaure|Styracosaure]]* (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tojanida|Tojanida]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Vulpinal|Vulpinal]] (agathion) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 5</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Achaïéraï|Achaïéraï]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Archelon|Archelon]]* (mégafaune)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Fumigon|Fumigon]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Cerbère|Cerbère]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Cobra impérial|Cobra impérial]]* (serpent)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Gar géant|Gar géant]]* (mégafaune)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Glyptodonte|Glyptodon]]* (mégafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Hippopotame|Hippopotame]]*</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Diable de lost|Diable de l'ost]] (diable)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Hypnalis|Hypnalis]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Iguanodon|Iguanodon]]* (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Incube|Incube]] (démon)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Ceustodaémon|Ceustodaémon]] (daemon)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Mégathérium|Mégathérium]]* (megafaune)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Seigneur de boue|Seigneur de boue]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Kyton Ostiarius|Ostiarius]] (kyton)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Dogue dombre|Dogue d’ombre]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Styracosaure|Styracosaure]]* (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tojanida|Tojanida]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Vulpinal|Vulpinal]] (agathion)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 6
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Bulette|Bulette]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élasmosaure|Élasmosaure]] (dinosaure) || —
-|-
-| [[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille TG) || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Éléphant|Éléphant]] || —
-|-
-| [[Pathfinder-RPG.Géant des collines|Géant des collines]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Géant des pierres|Géant des pierres]] || [[Pathfinder-RPG.sous-type Terre|Terre]]
-|-
-| [[Pathfinder-RPG.Ours sanguinaire|Ours sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Pieuvre géante|Pieuvre géante]] || —
-|-
-| [[Pathfinder-RPG.Stégosaure|Stégosaure]] (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tigre sanguinaire|Tigre sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Tricératops|Tricératops]] (dinosaure) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 6</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Bulette|Bulette]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élasmosaure|Élasmosaure]] (dinosaure)</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Élémentaire|Élémentaire]] (taille TG)</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Éléphant|Éléphant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Géant des collines|Géant des collines]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Géant des pierres|Géant des pierres]]</td><td>[[Pathfinder-RPG.sous-type Terre|Terre]]</td></tr><tr><td>[[Pathfinder-RPG.Ours sanguinaire|Ours sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pieuvre géante|Pieuvre géante]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Stégosaure|Stégosaure]] (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tigre sanguinaire|Tigre sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Tricératops|Tricératops]] (dinosaure)</td><td>—</td></tr></table>
+
 </center>
 </td></tr><tr><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 7
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Brachiosaure|Brachiosaure]] (dinosaure) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Calmar géant|Calmar géant]] || —
-|-
-| [[Pathfinder-RPG.Crocodile sanguinaire|Crocodile sanguinaire]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élémentaire|Élémentaire noble]] || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|-
-| [[Pathfinder-RPG.Géant du feu|Géant du feu]] || [[Pathfinder-RPG.sous-type Feu|Feu]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Géant du froid|Géant du froid]] || [[Pathfinder-RPG.sous-type Froid|Froid]]
-|-
-| [[Pathfinder-RPG.Mastodonte|Mastodonte]] (éléphant) || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Requin sanguinaire|Requin sanguinaire]] || —
-|-
-| [[Pathfinder-RPG.Roc|Roc]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Tyrannosaure|Tyrannosaure]] (dinosaure) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 7</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Brachiosaure|Brachiosaure]] (dinosaure)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Calmar géant|Calmar géant]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Crocodile sanguinaire|Crocodile sanguinaire]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élémentaire|Élémentaire noble]]</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr><td>[[Pathfinder-RPG.Géant du feu|Géant du feu]]</td><td>[[Pathfinder-RPG.sous-type Feu|Feu]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Géant du froid|Géant du froid]]</td><td>[[Pathfinder-RPG.sous-type Froid|Froid]]</td></tr><tr><td>[[Pathfinder-RPG.Mastodonte|Mastodonte]] (éléphant)</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Requin sanguinaire|Requin sanguinaire]]</td><td>—</td></tr><tr><td>[[Pathfinder-RPG.Roc|Roc]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Tyrannosaure|Tyrannosaure]] (dinosaure)</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 8
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Géant des nuages|Géant des nuages]] || [[Pathfinder-RPG.sous-type Air|Air]]
-|- CLASS="alt"
-| [[Pathfinder-RPG.Élémentaire|Seigneur élémentaire]] || [[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]
-|-
-| [[Pathfinder-RPG.Ver pourpre|Ver pourpre]] || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 8</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Géant des nuages|Géant des nuages]]</td><td>[[Pathfinder-RPG.sous-type Air|Air]]</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Élémentaire|Seigneur élémentaire]]</td><td>[[Pathfinder-RPG.sous-type Élémentaire|Élémentaire]]</td></tr><tr><td>[[Pathfinder-RPG.Ver pourpre|Ver pourpre]]</td><td>—</td></tr></table>
+
 </center>
 </td><td width="33%">
 <center>
-{| CLASS="tablo"
-|+ Niveau 9
-|- CLASS="titre"
-| Créature || Sous-type
-|- CLASS="premier"
-| [[Pathfinder-RPG.Géant des tempêtes|Géant des tempêtes]] || —
-|- CLASS="alt"
-| [[Pathfinder-RPG.Pixie|Pixie]] (avec *[[Pathfinder-RPG.danse irrésistible|danse irrésistible]]* et flèche endormante) || —
-|}
+
+<table CLASS="tablo"><caption>Niveau 9</caption><tr CLASS="titre"><td>Créature</td><td>Sous-type</td></tr><tr CLASS="premier"><td>[[Pathfinder-RPG.Géant des tempêtes|Géant des tempêtes]]</td><td>—</td></tr><tr CLASS="alt"><td>[[Pathfinder-RPG.Pixie|Pixie]] (avec *[[Pathfinder-RPG.danse irrésistible|danse irrésistible]]* et flèche endormante)</td><td>—</td></tr></table>
+
 </center>
 </td></tr></table>

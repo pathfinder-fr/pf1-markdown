@@ -15,58 +15,7 @@ Une poignée d’expert s’entrainent à parfaire l’usage des boucliers en pl
 
 *Les dons marqués d'un astérisque (*) sont des dons de combat.*
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau récapitulatif des dons de maîtrise de bouclier
-|- CLASS="titre"
-| WIDTH="22%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="45%" | Conditions
-| WIDTH="30%" | Avantages
 
-|- CLASS="premier donprincipal"
-| [[Appui protégé]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +3 ou [[guerrier]] de niveau 1 || Protège un allié ou soi-même pendant qu'il se relève
+<table CLASS="tablo toutgauche"><caption>Tableau récapitulatif des dons de maîtrise de bouclier</caption><tr CLASS="titre"><td WIDTH="22%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="45%">Conditions</td><td WIDTH="30%">Avantages</td></tr><tr CLASS="premier donprincipal"><td>[[Appui protégé]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +3 ou [[guerrier]] de niveau 1</td><td>Protège un allié ou soi-même pendant qu'il se relève</td></tr><tr CLASS="premier alt donprincipal"><td>[[Bouclier amortissant]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4</td><td>Transfère la moitié des dégâts de chute au bouclier</td></tr><tr CLASS="premier donprincipal"><td>[[Bouclier contre les rayons supérieur]]*</td><td><sup>*AMH*</sup></td><td>[[Dex]] 17, [[Bouclier contre les projectiles]], [[Bouclier contre les rayons]], [[Briseur de sorts]]</td><td>Le bouclier n'est pas affecté par l'utilisation de Bouclier contre les rayons</td></tr><tr CLASS="premier alt donprincipal"><td>[[Bouclier léger]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4, maniement des [[targe (armure)|targes]]</td><td>Consiède la main qui tient une targe comme libre</td></tr><tr CLASS="premier donprincipal"><td>[[Charge prudente]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4</td><td>Ne provoque pas d'attaque d'opportunité à cause d'une bousculade ou d'un renversement effectué dans le cadre d'une charge</td></tr><tr CLASS="premier alt donprincipal"><td>[[Coup de bouclier déstabilisant]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[Science du coup de bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4</td><td>Impose un malus à la CA des adversaires qui subissent un coup de bouclier</td></tr><tr CLASS="donprérequis0"><td>&emsp;[[Coup de bouclier renversant]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[Coup de bouclier déstabilisant]], [[Science du coup de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8</td><td>Tente un croc-en-jambe contre les adversaires qui subissent un coup de bouclier</td></tr><tr CLASS="premier donprincipal"><td>[[Coup de bouclier renversant]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[Coup de bouclier déstabilisant]], [[Science du coup de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8</td><td>Tente un croc-en-jambe contre les adversaires qui subissent un coup de bouclier</td></tr><tr CLASS="premier alt donprincipal"><td>[[Défenseur attentif]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4, 1 rang en [[Psychologie]].</td><td>Augmente le DD pour feinter le personnage</td></tr><tr CLASS="premier donprincipal"><td>[[Expertise des matériaux de bouclier]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4</td><td>Gain d’une capacité en fonction du matériau du bouclier</td></tr><tr CLASS="alt donprérequis0"><td>&emsp;[[Maîtrise des matériaux de bouclier]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[Expertise des matériaux de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8</td><td>Utilise Expertise des matériaux de bouclier deux fois de plus par jour</td></tr><tr CLASS="premier alt donprincipal"><td>[[Lancier protégé]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]] ; [[BBA]] +3 ou [[guerrier]] de niveau 1 ; maniement des [[rondache (armure)|rondaches]], des [[écu (armure)|écus]] ou des [[pavois (armure)|pavois]]</td><td>Manie une arme d'hast ou une lance tout en utilisant un bouclier</td></tr><tr CLASS="premier donprincipal"><td>[[Mage au bouclier]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +3 ou [[guerrier]] de niveau 1</td><td>Lance des sorts tout en utilisant un bouclier</td></tr><tr CLASS="premier alt donprincipal"><td>[[Maîtrise des matériaux de bouclier]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[Expertise des matériaux de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8</td><td>Utilise Expertise des matériaux de bouclier deux fois de plus par jour</td></tr><tr CLASS="premier donprincipal"><td>[[Mouvement protégé]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4</td><td>+2 à la CA contre les attaques d'opportunité</td></tr><tr CLASS="premier alt donprincipal"><td>[[Spécialiste du pavois]]*</td><td><sup>*AMH*</sup></td><td>[[Art du bouclier]], [[Maniement du pavois]], [[BBA]] +11 ou [[guerrier]] de niveau 8</td><td>Réduit le malus d'armure aux tests des pavois</td></tr></table>
 
-|- CLASS="premier alt donprincipal"
-| [[Bouclier amortissant]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4 || Transfère la moitié des dégâts de chute au bouclier
-
-|- CLASS="premier donprincipal"
-| [[Bouclier contre les rayons supérieur]]* || <sup>*AMH*</sup> || [[Dex]] 17, [[Bouclier contre les projectiles]], [[Bouclier contre les rayons]], [[Briseur de sorts]] || Le bouclier n'est pas affecté par l'utilisation de Bouclier contre les rayons
-
-|- CLASS="premier alt donprincipal"
-| [[Bouclier léger]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4, maniement des [[targe (armure)|targes]] || Consiède la main qui tient une targe comme libre
-
-|- CLASS="premier donprincipal"
-| [[Charge prudente]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4 || Ne provoque pas d'attaque d'opportunité à cause d'une bousculade ou d'un renversement effectué dans le cadre d'une charge
-
-|- CLASS="premier alt donprincipal"
-| [[Coup de bouclier déstabilisant]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[Science du coup de bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4 || Impose un malus à la CA des adversaires qui subissent un coup de bouclier
-|- CLASS="donprérequis0"
-| &emsp;[[Coup de bouclier renversant]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[Coup de bouclier déstabilisant]], [[Science du coup de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8 || Tente un croc-en-jambe contre les adversaires qui subissent un coup de bouclier
-
-|- CLASS="premier donprincipal"
-| [[Coup de bouclier renversant]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[Coup de bouclier déstabilisant]], [[Science du coup de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8 || Tente un croc-en-jambe contre les adversaires qui subissent un coup de bouclier
-
-|- CLASS="premier alt donprincipal"
-| [[Défenseur attentif]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4, 1 rang en [[Psychologie]]. || Augmente le DD pour feinter le personnage
-
-|- CLASS="premier donprincipal"
-| [[Expertise des matériaux de bouclier]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4 || Gain d’une capacité en fonction du matériau du bouclier
-|- CLASS="alt donprérequis0"
-| &emsp;[[Maîtrise des matériaux de bouclier]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[Expertise des matériaux de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8 || Utilise Expertise des matériaux de bouclier deux fois de plus par jour
-
-|- CLASS="premier alt donprincipal"
-| [[Lancier protégé]]* || <sup>*AMH*</sup> || [[Art du bouclier]] ; [[BBA]] +3 ou [[guerrier]] de niveau 1 ; maniement des [[rondache (armure)|rondaches]], des [[écu (armure)|écus]] ou des [[pavois (armure)|pavois]] || Manie une arme d'hast ou une lance tout en utilisant un bouclier
-
-|- CLASS="premier donprincipal"
-| [[Mage au bouclier]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +3 ou [[guerrier]] de niveau 1 || Lance des sorts tout en utilisant un bouclier
-
-|- CLASS="premier alt donprincipal"
-| [[Maîtrise des matériaux de bouclier]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[Expertise des matériaux de bouclier]], [[BBA]] +11 ou [[guerrier]] de niveau 8 || Utilise Expertise des matériaux de bouclier deux fois de plus par jour
-
-|- CLASS="premier donprincipal"
-| [[Mouvement protégé]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[BBA]] +6 ou [[guerrier]] de niveau 4 || +2 à la CA contre les attaques d'opportunité
-
-|- CLASS="premier alt donprincipal"
-| [[Spécialiste du pavois]]* || <sup>*AMH*</sup> || [[Art du bouclier]], [[Maniement du pavois]], [[BBA]] +11 ou [[guerrier]] de niveau 8 || Réduit le malus d'armure aux tests des pavois
-|}
 </center>

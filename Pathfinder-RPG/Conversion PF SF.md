@@ -29,82 +29,16 @@ Starfinder utilise une panoplie d’actions différente de celle de Pathfinder. 
 
 Il est important de noter que Starfinder n’utilise pas certains types de bonus. Si une capacité ou un effet octroie un bonus de l’un des types cités ci-dessous, vous devrez le convertir (Souvenez que les bonus de même types ne se cumulent pas). Dans la plupart des cas, ces modifications sont triviales et ne posent aucun problème, mais vous devriez faire en sorte que les bonus augmentant la CA soient rares. Consultez le livre de base de Starfinder pour en apprendre plus au sujet des types de bonus.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Bonus Pathfinder || Bonus Starfinder
-|- CLASS="premier"
-| Alchimique || Altération (enhancement)
-|-
-| Compétence || Intuition (insight)
-|-
-| Parade (deflection) || Altération (enhancement)
-|-
-| Esquive (dodge) || Intuition (insight)
-|-
-| Malfaisance (profane) || Divin (divine)
-|-
-| Résistance || Altération (enhancement)
-|-
-| Sainteté (sacred) || Divin (divine)
-|-
-| Bouclier (shield) || Altération (enhancement)
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Bonus Pathfinder</td><td>Bonus Starfinder</td></tr><tr CLASS="premier"><td>Alchimique</td><td>Altération (enhancement)</td></tr><tr><td>Compétence</td><td>Intuition (insight)</td></tr><tr><td>Parade (deflection)</td><td>Altération (enhancement)</td></tr><tr><td>Esquive (dodge)</td><td>Intuition (insight)</td></tr><tr><td>Malfaisance (profane)</td><td>Divin (divine)</td></tr><tr><td>Résistance</td><td>Altération (enhancement)</td></tr><tr><td>Sainteté (sacred)</td><td>Divin (divine)</td></tr><tr><td>Bouclier (shield)</td><td>Altération (enhancement)</td></tr></table>
+
 #### Noms des compétences
 
 Les compétences de Pathfinder qui portent le même nom qu’une compétence Pathfinder n’ont besoin d’aucune conversion (mais vous devrez alors utiliser les règles de Starfinder pour ces compétences, bien sûr). Les autres compétences peuvent être converties en les remplaçant par les compétences Starfinder indiquées dans la table ci-dessous. Un trait indique que vous pouvez tout simplement supposer que le personnage réussit automatiquement tous les tests de cette compétence.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Compétence Pathfinder || Compétence Starfinder
-|- CLASS="premier"
-| Estimation || —
-|-
-| Escalade || Athlétisme
-|-
-| Artisanat || Ingénierie, Mysticisme ou Profession (du type approprié)
-|-
-| Sabotage || Ingénierie
-|-
-| Évasion || Acrobaties
-|-
-| Vol || Acrobaties
-|-
-| Dressage || Survie
-|-
-| Premiers secours || Médecine
-|-
-| Connaissances (mystères) || Mysticisme
-|-
-| Connaissances (donjons) || Physique
-|-
-| Connaissances (ingénierie) || Ingénierie
-|-
-| Connaissances (géographie) || Physique
-|-
-| Connaissances (histoire) || Culture
-|-
-| Connaissances (folklore local) || Culture
-|-
-| Connaissances (nature) || Sciences de la vie
-|-
-| Connaissances (noblesse) || Culture
-|-
-| Connaissances (plans) || Mysticisme
-|-
-| Connaissances (religion) || Mysticisme
-|-
-| Linguistique || Culture
-|-
-| Représentation || Profession (du type approprié)
-|-
-| Équitation || Survie
-|-
-| Art de la magie || Mysticisme
-|-
-| Natation || Athlétisme
-|-
-| Utilisation d’objets magiques || —
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Compétence Pathfinder</td><td>Compétence Starfinder</td></tr><tr CLASS="premier"><td>Estimation</td><td>—</td></tr><tr><td>Escalade</td><td>Athlétisme</td></tr><tr><td>Artisanat</td><td>Ingénierie, Mysticisme ou Profession (du type approprié)</td></tr><tr><td>Sabotage</td><td>Ingénierie</td></tr><tr><td>Évasion</td><td>Acrobaties</td></tr><tr><td>Vol</td><td>Acrobaties</td></tr><tr><td>Dressage</td><td>Survie</td></tr><tr><td>Premiers secours</td><td>Médecine</td></tr><tr><td>Connaissances (mystères)</td><td>Mysticisme</td></tr><tr><td>Connaissances (donjons)</td><td>Physique</td></tr><tr><td>Connaissances (ingénierie)</td><td>Ingénierie</td></tr><tr><td>Connaissances (géographie)</td><td>Physique</td></tr><tr><td>Connaissances (histoire)</td><td>Culture</td></tr><tr><td>Connaissances (folklore local)</td><td>Culture</td></tr><tr><td>Connaissances (nature)</td><td>Sciences de la vie</td></tr><tr><td>Connaissances (noblesse)</td><td>Culture</td></tr><tr><td>Connaissances (plans)</td><td>Mysticisme</td></tr><tr><td>Connaissances (religion)</td><td>Mysticisme</td></tr><tr><td>Linguistique</td><td>Culture</td></tr><tr><td>Représentation</td><td>Profession (du type approprié)</td></tr><tr><td>Équitation</td><td>Survie</td></tr><tr><td>Art de la magie</td><td>Mysticisme</td></tr><tr><td>Natation</td><td>Athlétisme</td></tr><tr><td>Utilisation d’objets magiques</td><td>—</td></tr></table>
+
 
 #### Attaques de contact
 
@@ -201,50 +135,9 @@ Les classes de base de Starfinder peuvent simuler une grande variété de concep
 
 Chaque classe Starfinder possède une caractéristique-clef, qui est l’une des six caractéristiques, dont le modificateur est utilisé dans un certain nombre de calculs (comme le DD des capacités). Si vous utilisez une classe Pathfinder, vous devrez lui attribuer une caractéristique-clef. Dans certains cas, c’est plutôt évident : la caractéristique-clef d’une classe de lanceur de sorts est souvent celle qui donne des sorts en bonus. Le tableau qui suit suggère des caractéristiques-clefs pour plusieurs classes de Pathfinder. Dans le cas des classes où plusieurs caractéristiques sont citées, c’est au joueur de choisir celle qui est la plus importante pour lui, au regard de ses effets mécaniques et de ses implications thématiques.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Classe Pathfinder || Caractéristique-clef
-|- CLASS="premier"
-| Alchimiste || Intelligence
-|-
-| Barbare || Constitution
-|-
-| Barde || Charisme
-|-
-| Cavalier || Force ou Dextérité
-|-
-| Prêtre || Sagesse
-|-
-| Druide || Sagesse
-|-
-| Guerrier || Force ou Dextérité
-|-
-| Pistolier || Dextérité
-|-
-| Inquisiteur || Sagesse
-|-
-| Magus || Intelligence
-|-
-| Moine || Sagesse
-|-
-| Oracle || Charisme
-|-
-| Paladin || Charisme
-|-
-| Rôdeur || Dextérité ou Sagesse
-|-
-| Roublard || Dextérité
-|-
-| Ensorceleur || Charisme
-|-
-| Invocateur || Charisme
-|-
-| Vigilante || Charisme
-|-
-| Sorcière || Intelligence
-|-
-| Magicien || Intelligence
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Classe Pathfinder</td><td>Caractéristique-clef</td></tr><tr CLASS="premier"><td>Alchimiste</td><td>Intelligence</td></tr><tr><td>Barbare</td><td>Constitution</td></tr><tr><td>Barde</td><td>Charisme</td></tr><tr><td>Cavalier</td><td>Force ou Dextérité</td></tr><tr><td>Prêtre</td><td>Sagesse</td></tr><tr><td>Druide</td><td>Sagesse</td></tr><tr><td>Guerrier</td><td>Force ou Dextérité</td></tr><tr><td>Pistolier</td><td>Dextérité</td></tr><tr><td>Inquisiteur</td><td>Sagesse</td></tr><tr><td>Magus</td><td>Intelligence</td></tr><tr><td>Moine</td><td>Sagesse</td></tr><tr><td>Oracle</td><td>Charisme</td></tr><tr><td>Paladin</td><td>Charisme</td></tr><tr><td>Rôdeur</td><td>Dextérité ou Sagesse</td></tr><tr><td>Roublard</td><td>Dextérité</td></tr><tr><td>Ensorceleur</td><td>Charisme</td></tr><tr><td>Invocateur</td><td>Charisme</td></tr><tr><td>Vigilante</td><td>Charisme</td></tr><tr><td>Sorcière</td><td>Intelligence</td></tr><tr><td>Magicien</td><td>Intelligence</td></tr></table>
+
 
 ### Points de vie, d’endurance et de persévérance
 
@@ -253,18 +146,9 @@ Les personnages Starfinder ne se reposent pas seulement sur des points de vie po
 
 Comme tous les personnages Starfinder, un personnage possédant des niveaux dans une classe Pathfinder convertie reçoit un nombre de points de persévérance égal à la moitié de son niveau plus le modificateur de sa caractéristique-clef.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| DV à Pathfinder || Points de vie || Points d’endurance
-|- CLASS="premier"
-| d6 || 5 || 5 + modificateur de Con
-|-
-| d8 || 6 || 6 + modificateur de Con
-|-
-| d10 || 7 || 7 + modificateur de Con
-|-
-| d12 || 8 || 8 + modificateur de Con
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>DV à Pathfinder</td><td>Points de vie</td><td>Points d’endurance</td></tr><tr CLASS="premier"><td>d6</td><td>5</td><td>5 + modificateur de Con</td></tr><tr><td>d8</td><td>6</td><td>6 + modificateur de Con</td></tr><tr><td>d10</td><td>7</td><td>7 + modificateur de Con</td></tr><tr><td>d12</td><td>8</td><td>8 + modificateur de Con</td></tr></table>
+
 
 ### Compétences de classe et rangs par niveau
 
@@ -272,18 +156,9 @@ La liste des compétences de classe d’un personnage Pathfinder sera nécessair
 
 Trouvez le nombre de rangs par niveau de la classe convertie dans le tableau ci-dessous pour déterminer le nouveau nombre de rangs de compétence que la classe reçoit à chaque niveau à Starfinder. Vous pouvez choisir de réduire le nombre de rangs de compétence si vous le désirez mais vous devriez éviter d’en donner plus qu’indiqué.
 
-{| CLASS="tablo"
-|- CLASS="titre"
-| Rangs par niveau à Pathfinder || Rangs par niveau à Starfinder
-|- CLASS="premier"
-| 2 + modificateur d’Intelligence || 4 + modificateur d’Intelligence
-|-
-| 4 + modificateur d’Intelligence || 4 + modificateur d’Intelligence
-|-
-| 6 + modificateur d’Intelligence || 6 + modificateur d’Intelligence
-|-
-| 8 + modificateur d’Intelligence || 8 + modificateur d’Intelligence
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Rangs par niveau à Pathfinder</td><td>Rangs par niveau à Starfinder</td></tr><tr CLASS="premier"><td>2 + modificateur d’Intelligence</td><td>4 + modificateur d’Intelligence</td></tr><tr><td>4 + modificateur d’Intelligence</td><td>4 + modificateur d’Intelligence</td></tr><tr><td>6 + modificateur d’Intelligence</td><td>6 + modificateur d’Intelligence</td></tr><tr><td>8 + modificateur d’Intelligence</td><td>8 + modificateur d’Intelligence</td></tr></table>
+
 
 ### Formation au port des armures
 

@@ -226,48 +226,5 @@ Pour l'armure, on optera pour une cuirasse dès que possible, puis une cuirasse 
 ### Évolution proposée
 
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du *sanguin abyssal*
-|- CLASS="titre"
-| Niveau || Classe || BBA || NLS || Dons, capacités de classe
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Sanguin|Sanguin]] 1 || +1 || - || [[Pathfinder-RPG.Attaques réflexes|Attaques réflexes]];
-|-
-| 02 || [[Pathfinder-RPG.Sanguin|Sanguin]] 2 || +2 || - || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Sanguin|Sanguin]] 3 || +3 || - || [[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]];
-|-
-| 04 || [[Pathfinder-RPG.Sanguin|Sanguin]] 4 || +4 || 4 || Pouvoir de lignage : [[Pathfinder-RPG.lignage abyssal (sanguin).ashx#Taille_démoniaque_Sur_1|Taille démoniaque]];
-|-
-| 05 || [[Pathfinder-RPG.Sanguin|Sanguin]] 5 || +5 || 5 || [[Pathfinder-RPG.Frappe magique|Frappe magique]];
-|-
-| 06 || [[Pathfinder-RPG.Sanguin|Sanguin]] 6 || +6 || 6 || don de lignage : [[Pathfinder-RPG.Enchaînement|Enchaînement]];
-|-
-| 07 || [[Pathfinder-RPG.Sanguin|Sanguin]] 7 || +7 || 7 || [[Pathfinder-RPG.Enchaînement final|Enchaînement final]];
-|-
-| 08 || [[Pathfinder-RPG.Sanguin|Sanguin]] 8 || +8 || 8 || Pouvoirs de rage : [[Pathfinder-RPG.pouvoirs de rage.ashx#TOTEMFIELONMINEUR|Totem fiélon mineur]], [[Pathfinder-RPG.pouvoirs de rage.ashx#ESPRITVIDE|Esprit vide]];
-|-
-| 09 || [[Pathfinder-RPG.Oracle|Oracle]] 1 || +8 || 8 || [[Pathfinder-RPG.Rossée du cornugon|Rossée du cornugon]];
-|-
-| 10 || [[Pathfinder-RPG.Sanguin|Sanguin]] 9 || +9 || 9 || Don de lignage : [[Pathfinder-RPG.Force intimidante|Force intimidante]];
-|-
-| 11 || [[Pathfinder-RPG.Sanguin|Sanguin]] 10 || +10 || 10 || [[Pathfinder-RPG.Blessant|Blessant]];
-|-
-| 12 || [[Pathfinder-RPG.Sanguin|Sanguin]] 11 || +11 || 11 || [[Pathfinder-RPG.Sanguin.ashx#RAGEDEGRANDSANGUIN|Rage de grand sanguin]];
-|-
-| 13 || [[Pathfinder-RPG.Sanguin|Sanguin]] 12 || +12 || 12 || [[Pathfinder-RPG.Frappe magique sanguine|Frappe magique sanguine]] ; Don de lignage : [[Pathfinder-RPG.Robustesse|Robustesse]]; Pouvoirs de rage : [[Pathfinder-RPG.pouvoirs de rage.ashx#EGRATIGNURE|Égratignure]], [[Pathfinder-RPG.pouvoirs de rage.ashx#COUPINATTENDU|Coup inattendu]];
-|-
-| 14 || [[Pathfinder-RPG.Sanguin|Sanguin]] 13 || +13 || 13 || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Guerrier|Guerrier]] 1 || +14 || 13 || [[Pathfinder-RPG.Art du bouclier|Art du bouclier]] ; don bonus : [Unhindering shield](https://aonprd.com/FeatDisplay.aspx?ItemName=Unhindering%20Shield);
-|-
-| 16 || [[Pathfinder-RPG.Sanguin|Sanguin]] 14 || +15 || 14 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Sanguin|Sanguin]] 15 || +16 || 15 || [[Pathfinder-RPG.Science de linitiative|Science de l'initiative]] ; Don de lignage : [[Pathfinder-RPG.Vigueur surhumaine|Vigueur surhumaine]];
-|-
-| 18 || [[Pathfinder-RPG.Sanguin|Sanguin]] 16 || +17 || 16 || Pouvoirs de rage : [[Pathfinder-RPG.pouvoirs de rage.ashx#PICDEFORCE|Pic de force]], [[Pathfinder-RPG.pouvoirs de rage.ashx#REPOUSSERLENNEMI|Repousser l'ennemi]];
-|-
-| 19 || [[Pathfinder-RPG.Sanguin|Sanguin]] 17 || +18 || 17 || [[Pathfinder-RPG.Armure de la Fosse|Armure de la Fosse]];
-|-
-| 20 || [[Pathfinder-RPG.Sanguin|Sanguin]] 18 || +19 || 18 || Don de lignage : [[Pathfinder-RPG.Science de la bousculade|Science de la bousculade]];
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du *sanguin abyssal*</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>NLS</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 1</td><td>+1</td><td>-</td><td>[[Pathfinder-RPG.Attaques réflexes|Attaques réflexes]];</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 2</td><td>+2</td><td>-</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 3</td><td>+3</td><td>-</td><td>[[Pathfinder-RPG.Attaque en puissance|Attaque en puissance]];</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 4</td><td>+4</td><td>4</td><td>Pouvoir de lignage : [[Pathfinder-RPG.lignage abyssal (sanguin).ashx#Taille_démoniaque_Sur_1|Taille démoniaque]];</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 5</td><td>+5</td><td>5</td><td>[[Pathfinder-RPG.Frappe magique|Frappe magique]];</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 6</td><td>+6</td><td>6</td><td>don de lignage : [[Pathfinder-RPG.Enchaînement|Enchaînement]];</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 7</td><td>+7</td><td>7</td><td>[[Pathfinder-RPG.Enchaînement final|Enchaînement final]];</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 8</td><td>+8</td><td>8</td><td>Pouvoirs de rage : [[Pathfinder-RPG.pouvoirs de rage.ashx#TOTEMFIELONMINEUR|Totem fiélon mineur]], [[Pathfinder-RPG.pouvoirs de rage.ashx#ESPRITVIDE|Esprit vide]];</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Oracle|Oracle]] 1</td><td>+8</td><td>8</td><td>[[Pathfinder-RPG.Rossée du cornugon|Rossée du cornugon]];</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 9</td><td>+9</td><td>9</td><td>Don de lignage : [[Pathfinder-RPG.Force intimidante|Force intimidante]];</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 10</td><td>+10</td><td>10</td><td>[[Pathfinder-RPG.Blessant|Blessant]];</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 11</td><td>+11</td><td>11</td><td>[[Pathfinder-RPG.Sanguin.ashx#RAGEDEGRANDSANGUIN|Rage de grand sanguin]];</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 12</td><td>+12</td><td>12</td><td>[[Pathfinder-RPG.Frappe magique sanguine|Frappe magique sanguine]] ; Don de lignage : [[Pathfinder-RPG.Robustesse|Robustesse]]; Pouvoirs de rage : [[Pathfinder-RPG.pouvoirs de rage.ashx#EGRATIGNURE|Égratignure]], [[Pathfinder-RPG.pouvoirs de rage.ashx#COUPINATTENDU|Coup inattendu]];</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 13</td><td>+13</td><td>13</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Guerrier|Guerrier]] 1</td><td>+14</td><td>13</td><td>[[Pathfinder-RPG.Art du bouclier|Art du bouclier]] ; don bonus : [Unhindering shield](https://aonprd.com/FeatDisplay.aspx?ItemName=Unhindering%20Shield);</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 14</td><td>+15</td><td>14</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 15</td><td>+16</td><td>15</td><td>[[Pathfinder-RPG.Science de linitiative|Science de l'initiative]] ; Don de lignage : [[Pathfinder-RPG.Vigueur surhumaine|Vigueur surhumaine]];</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 16</td><td>+17</td><td>16</td><td>Pouvoirs de rage : [[Pathfinder-RPG.pouvoirs de rage.ashx#PICDEFORCE|Pic de force]], [[Pathfinder-RPG.pouvoirs de rage.ashx#REPOUSSERLENNEMI|Repousser l'ennemi]];</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 17</td><td>+18</td><td>17</td><td>[[Pathfinder-RPG.Armure de la Fosse|Armure de la Fosse]];</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Sanguin|Sanguin]] 18</td><td>+19</td><td>18</td><td>Don de lignage : [[Pathfinder-RPG.Science de la bousculade|Science de la bousculade]];</td></tr></table>

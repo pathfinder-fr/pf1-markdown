@@ -48,36 +48,9 @@ voir p. 68 de cet ouvrage)}
 {s:BDTexte|**Équipement de combat** *[[potions magiques|potions]] de [[soins modérés]]* (2), *[[parchemins magiques|parchemins]] de [[Tentacules noirs|tentacule noir]]* (2) ; **Équipement divers** *[[dague (arme)|dague +2]]*, *[[amulette darmure naturelle|amulette d’armure naturelle +1]]*, *[[cape de résistance|cape de résistance +1]]*, *[[bandeau de belle allure|bandeau de belle allure +2]]*, *[[anneau de protection|anneau de protection +1]]*, 198 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Gnoll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gnoll]] || 1
-|-
-| [[Flind]] || 3
-|-
-| [[Cogneur gnoll]] || 3
-|-
-| [[Enragé-né gnoll]] || 3
-|-
-| [[Sergent gnoll]] || 4
-|-
-| [[OEil de Lamashtu]] || 5
-|-
-| [[Lieutenant gnoll]] || 6
-|-
-| [[Chef de meute gnoll]] || 9
-|-
-| [[Gardien gnoll]] || 10
-|-
-| [[Saccageur gnoll]] || 11
-|-
-| [[Élue de Lamashtu]] || 12
-|-
-| [[Buda gnoll]] || 13
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Gnoll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gnoll]]</td><td>1</td></tr><tr><td>[[Flind]]</td><td>3</td></tr><tr><td>[[Cogneur gnoll]]</td><td>3</td></tr><tr><td>[[Enragé-né gnoll]]</td><td>3</td></tr><tr><td>[[Sergent gnoll]]</td><td>4</td></tr><tr><td>[[OEil de Lamashtu]]</td><td>5</td></tr><tr><td>[[Lieutenant gnoll]]</td><td>6</td></tr><tr><td>[[Chef de meute gnoll]]</td><td>9</td></tr><tr><td>[[Gardien gnoll]]</td><td>10</td></tr><tr><td>[[Saccageur gnoll]]</td><td>11</td></tr><tr><td>[[Élue de Lamashtu]]</td><td>12</td></tr><tr><td>[[Buda gnoll]]</td><td>13</td></tr></table>
+
 </div>La buda est une source de pouvoir et de mystère au sein de la société gnoll. C’est la conseillère de la meute mais elle prépare toujours sa magie en secret.
 
 La buda veille sur la meute mais reste un être énigmatique et insondable, même pour les gnolls qui ont grandi à ses côtés, car la magie profane demeure un grand mystère pour les gnolls qui préfèrent généralement l’éviter. Comme le savoir des budas est une chose étrangère à la société des gnolls, la sorcière doit prouver sa valeur avant d’être reconnue comme une buda révérée.

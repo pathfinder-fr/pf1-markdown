@@ -23,21 +23,10 @@ Categories:
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Type d’objet en adamantium || Modificateur au   
-prix de vente
-|- CLASS="premier"
-| Munitions (pièce) || +60 po
-|- CLASS="alt"
-| Arme (ou bouclier) || +3 000 po
-|-
-| Armure légère || +5 000 po
-|- CLASS="alt"
-| Armure intermédiaire || +10 000 po
-|-
-| Armure lourde || +15 000 po
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Type d’objet en adamantium</td><td>Modificateur au   
+prix de vente</td></tr><tr CLASS="premier"><td>Munitions (pièce)</td><td>+60 po</td></tr><tr CLASS="alt"><td>Arme (ou bouclier)</td><td>+3 000 po</td></tr><tr><td>Armure légère</td><td>+5 000 po</td></tr><tr CLASS="alt"><td>Armure intermédiaire</td><td>+10 000 po</td></tr><tr><td>Armure lourde</td><td>+15 000 po</td></tr></table>
+
 </center></div></div>
 Ce métal d’une dureté exceptionnelle, issu des roches tombées du ciel, permet de fabriquer armes et des armures. {br}
 Les armures en adamantium confèrent à leur propriétaire un bonus à la CA contre le jet de confirmation d'un coup critique. Ce bonus est de +2 pour une armure légère, +4 pour une intermédiaire et de +6 pour une armure lourde. De plus si le jet de confirmation du coup critique est raté de plus de dix points, le porteur ne subit aucun dégâts au contraire de l'arme de l'attaquant qui subit l'intégralité de ceux-ci (on prend cependant en compte la solidité de l'arme en compte). {br}

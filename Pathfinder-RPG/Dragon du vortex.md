@@ -28,51 +28,16 @@ LastModified: 2021-07-14 10:05
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon du néant
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon du vortex]] || &nbsp; || 10
-|-
-| [[Dragon du vortex adulte]] || &nbsp; || 14
-|-
-| [[Dragon du vortex vénérable]] || &nbsp; || 19
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon du néant</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon du vortex]]</td><td>&nbsp;</td><td>10</td></tr><tr><td>[[Dragon du vortex adulte]]</td><td>&nbsp;</td><td>14</td></tr><tr><td>[[Dragon du vortex vénérable]]</td><td>&nbsp;</td><td>19</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Ce dragon s’agite si vite qu’il est difficile de le suivre du regard. Ses ailes et ses cornes, recourbées le long de son cou, émettent une lumière qui semble venir tout droit des étoiles.*
 
 Les dragons du vortex sont les maîtres incontestés du voyage intergalactique. Ce sont les messagers et les sentinelles des plus grands dragons sidéraux et des entités quasi-divines du Grand Au-delà.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet  || Agile, immunité contre le feu || -
-|-
-| Très jeune || Anticipation du danger ||   -
-|-
-| Jeune  || Émissaire galactique || 1
-|-
-| Adolescent || Présence étrangère, bouclier entropique || 3
-|-
-| Jeune adulte || RD 5/magie, résistance à la magie || 5
-|-
-| Adulte || Frappe fragmentée || 7
-|-
-| Âge mûr || RD 10/magie || 9
-|-
-| Vieux || Porte dimensionnelle || 11
-|-
-| Très vieux || RD 15/magie || 13
-|-
-| Vénérable || Effondrement spatial, téléportation suprême || 15
-|-
-| Dracosire || RD 20/magie || 17
-|-
-| Grand dracosire || Voyage interplanétaire || 19
-|-
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Agile, immunité contre le feu</td><td>-</td></tr><tr><td>Très jeune</td><td>Anticipation du danger</td><td>-</td></tr><tr><td>Jeune</td><td>Émissaire galactique</td><td>1</td></tr><tr><td>Adolescent</td><td>Présence étrangère, bouclier entropique</td><td>3</td></tr><tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr><tr><td>Adulte</td><td>Frappe fragmentée</td><td>7</td></tr><tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr><tr><td>Vieux</td><td>Porte dimensionnelle</td><td>11</td></tr><tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr><tr><td>Vénérable</td><td>Effondrement spatial, téléportation suprême</td><td>15</td></tr><tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr><tr><td>Grand dracosire</td><td>Voyage interplanétaire</td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

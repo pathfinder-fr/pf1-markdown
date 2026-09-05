@@ -14,76 +14,23 @@ Categories:
 « Créature empaillée » est un archétype acquis qui peut s’ajouter sur n’importe quelle créature tangible (autre que les [[type Mort-vivant|morts-vivants]] et les [[type Créature artificielle|créatures artificielles]]). Cette créature tangible est ensuite appelée créature de base.
 - **FP.** Cette valeur dépend du nombre de dés de vie initial de la créature, comme indiqué dans la table suivante. Elle est également modifiée par la taille, comme indiqué dans le paragraphe [[DV]].
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Dés de vie || FP
-|- CLASS="premier"
-| 1 || 1/4
-|-
-| 2 || 1/2
-|-
-| 3-4 || 1
-|-
-| 5-6 || 2
-|-
-| 7-8 || 3
-|-
-| 9-10 || 4
-|-
-| 11-12 || 5
-|-
-| 13-16 || 6
-|-
-| 17-20 || 7
-|-
-| 21-24 || 8
-|-
-| 25-28 || 9
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Dés de vie</td><td>FP</td></tr><tr CLASS="premier"><td>1</td><td>1/4</td></tr><tr><td>2</td><td>1/2</td></tr><tr><td>3-4</td><td>1</td></tr><tr><td>5-6</td><td>2</td></tr><tr><td>7-8</td><td>3</td></tr><tr><td>9-10</td><td>4</td></tr><tr><td>11-12</td><td>5</td></tr><tr><td>13-16</td><td>6</td></tr><tr><td>17-20</td><td>7</td></tr><tr><td>21-24</td><td>8</td></tr><tr><td>25-28</td><td>9</td></tr></table>
+
 - **Alignement.** Toujours Neutre.
 - **Type.** La créature devient de type [[type Créature artificielle|créature artificielle]] mais conserve ses sous-types, à l’exception des sous-types d’alignement (comme [[sous-type Bon|Bon]]) et des sous-types indiquant une espèce. Elle n’acquiert pas le sous-type [[sous-type Altéré|altéré]] et conserve les statistiques et les pouvoirs spéciaux de la créature de base, en dehors de ce qui suit.
 - **Sens.** La créature obtient la [[Vision dans le noir (capacité)|vision dans le noir]] à 18 m et la [[Vision nocturne (capacité)|vision nocturne]], à moins qu’elle n’en dispose déjà.
 - **Classe d’armure.** Le bonus d’armure naturelle de la créature empaillée dépend de sa taille.
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Taille || Bonus d’armure naturelle
-|- CLASS="premier"
-| TP ou inférieure || +0
-|-
-| P || +1
-|-
-| M || +2
-|-
-| G || +3
-|-
-| TG || +4
-|-
-| Gig || +7
-|-
-| C || +11
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille</td><td>Bonus d’armure naturelle</td></tr><tr CLASS="premier"><td>TP ou inférieure</td><td>+0</td></tr><tr><td>P</td><td>+1</td></tr><tr><td>M</td><td>+2</td></tr><tr><td>G</td><td>+3</td></tr><tr><td>TG</td><td>+4</td></tr><tr><td>Gig</td><td>+7</td></tr><tr><td>C</td><td>+11</td></tr></table>
+
 - **Dés de vie.** Supprimez tous les [[DV]] issus de niveaux de classe (sans descendre au-dessous de 1 DV) et remplacez tous les DV raciaux par des d10. Comme les créatures empaillées sont des [[type Créature artificielle|créatures artificielles]], elles gagnent un nombre de points de vie supplémentaires dépendant de leur taille, comme indiqué dans la table suivante. Elles gagnent également des DV supplémentaires en fonction de leur taille, comme indiqué dans la table suivante.
 
-{| CLASS="tablo centre toutgauche autoalt"
-|- CLASS="titre"
-| Taille || DV  
-supplémentaires || pv</br>supplémentaires || Augmentation</br>du FP
-|- CLASS="premier"
-| TP ou inférieure || — || — || —
-|-
-| P || — || +10 || —
-|-
-| M || — || +20 || —
-|-
-| G || +1 DV || +30 || +1
-|-
-| TG || +2 DV || +40 || +1
-|-
-| Gig || +3 DV || +60 || +1
-|-
-| C || +4 DV || +80 || +2
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><tr CLASS="titre"><td>Taille</td><td>DV  
+supplémentaires</td><td>pv</br>supplémentaires</td><td>Augmentation</br>du FP</td></tr><tr CLASS="premier"><td>TP ou inférieure</td><td>—</td><td>—</td><td>—</td></tr><tr><td>P</td><td>—</td><td>+10</td><td>—</td></tr><tr><td>M</td><td>—</td><td>+20</td><td>—</td></tr><tr><td>G</td><td>+1 DV</td><td>+30</td><td>+1</td></tr><tr><td>TG</td><td>+2 DV</td><td>+40</td><td>+1</td></tr><tr><td>Gig</td><td>+3 DV</td><td>+60</td><td>+1</td></tr><tr><td>C</td><td>+4 DV</td><td>+80</td><td>+2</td></tr></table>
+
 - **Jets de sauvegarde.** Voici les bonus de base de la créature pour les [[jds|jets de sauvegarde]] : Réf +1/3 DV, Vig +1/3 DV, Vol +1/3 DV.
 - **Capacités défensives.** Les créatures empaillées perdent leurs capacités défensives et gagnent les pouvoirs et immunités associés au type [[type Créature artificielle|créature artificielle]].
 - **Faiblesses.** Une créature empaillée acquiert les faiblesses suivantes.

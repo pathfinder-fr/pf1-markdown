@@ -43,34 +43,16 @@ Ce sort ressemble à *[[scrutation]]*, sauf pour ce qui est des détails indiqu�
 Ce sort permet d’espionner une créature qui peut se trouver à n’importe quelle distance. Si la cible réussit un jet de [[Volonté]], le sort échoue. La difficulté dépend de la connaissance que le lanceur de sorts a du sujet et des liens qui les unissent. Si la cible se trouve dans un autre plan d’existence, elle bénéficie d'un bonus de +5 à son jet de [[Volonté]].
 
 <table width="100%"><tr><td width="49%">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Connaissance || Modificateur du  
-jet de Volonté
-|- CLASS="premier"
-| Aucune* || +10
-|-
-| Rapportée (le personnage a seulement entendu parler du sujet) || +5
-|-
-| Personnelle (le personnage a déjà rencontré le sujet) || +0
-|-
-| Grande (le personnage connaît bien le sujet) || -5
-|- CLASS="note"
-| COLSPAN="2" | *(*) Pour pouvoir l’espionner, le lanceur de sorts doit posséder un lien le rapprochant d’une créature qu’il ne connaît pas (voir ci-dessous).*
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Connaissance</td><td>Modificateur du  
+jet de Volonté</td></tr><tr CLASS="premier"><td>Aucune*</td><td>+10</td></tr><tr><td>Rapportée (le personnage a seulement entendu parler du sujet)</td><td>+5</td></tr><tr><td>Personnelle (le personnage a déjà rencontré le sujet)</td><td>+0</td></tr><tr><td>Grande (le personnage connaît bien le sujet)</td><td>-5</td></tr><tr CLASS="note"><td COLSPAN="2">*(*) Pour pouvoir l’espionner, le lanceur de sorts doit posséder un lien le rapprochant d’une créature qu’il ne connaît pas (voir ci-dessous).*</td></tr></table>
+
 </td><td width="2%">
 </td><td width="49%">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Lien || Modificateur du  
-jet de Volonté
-|- CLASS="premier"
-| Esquisse ou portrait || -2
-|-
-| Possession matérielle ou vêtement || -4
-|-
-| Partie du corps (mèche de cheveux, rognures d’ongles, etc.) || -10
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Lien</td><td>Modificateur du  
+jet de Volonté</td></tr><tr CLASS="premier"><td>Esquisse ou portrait</td><td>-2</td></tr><tr><td>Possession matérielle ou vêtement</td><td>-4</td></tr><tr><td>Partie du corps (mèche de cheveux, rognures d’ongles, etc.)</td><td>-10</td></tr></table>
+
 </td></tr></table>
 
 En cas d’échec au [[jet de sauvegarde]], le personnage voit et entend le sujet et ses environs immédiats (trois mètres dans toutes les directions). Si le sujet se déplace, le capteur le suit à une vitesse allant jusqu’à 45 m par round.

@@ -57,48 +57,5 @@ Tous les points de caractéristiques bonus seront placés en Force.
 
 ### Évolution proposée
 
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution de l'alchimiste bestial
-|- CLASS="titre"
-| Niveau || Classe || BBA || Capacités de classe, dons
-|- CLASS="premier"
-| 01 || [[Pathfinder-RPG.Barbare.ashx|Barbare]] 1 || +1 || [[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]], [[Pathfinder-RPG.Rage supplémentaire.ashx|rage supplémentaire]]
-|-
-| 02 || [[Pathfinder-RPG.Barbare.ashx|Barbare]] 2 || +2 || &nbsp;
-|-
-| 03 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 1 || +2 || [[Pathfinder-RPG.Force intimidante.ashx|Force intimidante]]
-|-
-| 04 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 2 || +3 || &nbsp;
-|-
-| 05 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 3 || +4 || [[Pathfinder-RPG.Pouvoir de rage supplémentaire.ashx|Pouvoir de rage supplémentaire]] : [[Pathfinder-RPG.pouvoirs de rage.ashx#REPOUSSERLENNEMI|repousser l'ennemi]]
-|-
-| 06 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 4 || +5 || &nbsp;
-|-
-| 07 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 5 || +5 || &nbsp;
-|-
-| 08 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 6 || +6 || &nbsp;
-|-
-| 09 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 7 || +7 || &nbsp;
-|-
-| 10 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 8 || +8 || &nbsp;
-|-
-| 11 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 9 || +8 || &nbsp;
-|-
-| 12 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 10 || +9 || &nbsp;
-|-
-| 13 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 11 || +10 || &nbsp;
-|-
-| 14 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 12 || +11 || &nbsp;
-|-
-| 15 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 13 || +11 || &nbsp;
-|-
-| 16 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 14 || +12 || &nbsp;
-|-
-| 17 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 15 || +13 || &nbsp;
-|-
-| 18 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 16 || +14 || &nbsp;
-|-
-| 19 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 17 || +14 || &nbsp;
-|-
-| 20 || [[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 18 || +15 || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution de l'alchimiste bestial</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>Capacités de classe, dons</td></tr><tr CLASS="premier"><td>01</td><td>[[Pathfinder-RPG.Barbare.ashx|Barbare]] 1</td><td>+1</td><td>[[Pathfinder-RPG.Attaque en puissance.ashx|Attaque en puissance]], [[Pathfinder-RPG.Rage supplémentaire.ashx|rage supplémentaire]]</td></tr><tr><td>02</td><td>[[Pathfinder-RPG.Barbare.ashx|Barbare]] 2</td><td>+2</td><td>&nbsp;</td></tr><tr><td>03</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 1</td><td>+2</td><td>[[Pathfinder-RPG.Force intimidante.ashx|Force intimidante]]</td></tr><tr><td>04</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 2</td><td>+3</td><td>&nbsp;</td></tr><tr><td>05</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 3</td><td>+4</td><td>[[Pathfinder-RPG.Pouvoir de rage supplémentaire.ashx|Pouvoir de rage supplémentaire]] : [[Pathfinder-RPG.pouvoirs de rage.ashx#REPOUSSERLENNEMI|repousser l'ennemi]]</td></tr><tr><td>06</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 4</td><td>+5</td><td>&nbsp;</td></tr><tr><td>07</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 5</td><td>+5</td><td>&nbsp;</td></tr><tr><td>08</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 6</td><td>+6</td><td>&nbsp;</td></tr><tr><td>09</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 7</td><td>+7</td><td>&nbsp;</td></tr><tr><td>10</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 8</td><td>+8</td><td>&nbsp;</td></tr><tr><td>11</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 9</td><td>+8</td><td>&nbsp;</td></tr><tr><td>12</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 10</td><td>+9</td><td>&nbsp;</td></tr><tr><td>13</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 11</td><td>+10</td><td>&nbsp;</td></tr><tr><td>14</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 12</td><td>+11</td><td>&nbsp;</td></tr><tr><td>15</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 13</td><td>+11</td><td>&nbsp;</td></tr><tr><td>16</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 14</td><td>+12</td><td>&nbsp;</td></tr><tr><td>17</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 15</td><td>+13</td><td>&nbsp;</td></tr><tr><td>18</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 16</td><td>+14</td><td>&nbsp;</td></tr><tr><td>19</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 17</td><td>+14</td><td>&nbsp;</td></tr><tr><td>20</td><td>[[Pathfinder-RPG.Alchimiste.ashx|Alchimiste]] 18</td><td>+15</td><td>&nbsp;</td></tr></table>

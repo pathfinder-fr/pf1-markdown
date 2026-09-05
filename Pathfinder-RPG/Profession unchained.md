@@ -38,19 +38,9 @@ La véritable fonction de la compétence de Profession consiste à gérer avec s
 
 **Grande entreprise.** Les activités de l’entreprise du personnage sont d’une ampleur certaine et fonctionnent soit sous la forme de plusieurs entreprises moyennes disséminées au sein d’une petite ville ou d’une communauté plus importante, soit sous la forme de plusieurs entreprises de tailles diverses établies dans plusieurs petites bourgades ou communautés plus importantes.
 
-{| CLASS="tablo centre autoalt" WIDTH="100%"
-|+ {s:Reference|TAILLEETCREATIONDUNEENTREPRISE}Taille et création d’une entreprise
-|- CLASS="titre"
-| Taille de l’entreprise || Facteur de travail || Nombre minimum d’employés || Nombre maximum d’employés || Temps d’installation || Coûts de création/de développement || Facteur de bénéfices mensuels
-|- CLASS="premier"
-| Itinérante || 0 || 0 || 2 || 1 journée || 1 po/rang || 5
-|-
-| Petite || -2 || 2 || 4 || 1 semaine || 100 po/rang || 10
-|-
-| Moyenne || -5 || 5 || 10 || 2 semaines || 1 000 po/rang || 100
-|-
-| Grande || -10 || 10 || 20 || 1 mois || 5 000 po/rang || 1 000
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="100%"><caption>{s:Reference|TAILLEETCREATIONDUNEENTREPRISE}Taille et création d’une entreprise</caption><tr CLASS="titre"><td>Taille de l’entreprise</td><td>Facteur de travail</td><td>Nombre minimum d’employés</td><td>Nombre maximum d’employés</td><td>Temps d’installation</td><td>Coûts de création/de développement</td><td>Facteur de bénéfices mensuels</td></tr><tr CLASS="premier"><td>Itinérante</td><td>0</td><td>0</td><td>2</td><td>1 journée</td><td>1 po/rang</td><td>5</td></tr><tr><td>Petite</td><td>-2</td><td>2</td><td>4</td><td>1 semaine</td><td>100 po/rang</td><td>10</td></tr><tr><td>Moyenne</td><td>-5</td><td>5</td><td>10</td><td>2 semaines</td><td>1 000 po/rang</td><td>100</td></tr><tr><td>Grande</td><td>-10</td><td>10</td><td>20</td><td>1 mois</td><td>5 000 po/rang</td><td>1 000</td></tr></table>
+
 
 ### Gestion d'une entreprise
 La gestion d’une entreprise via la compétence de Profession demande beaucoup de temps de la part des personnages. Voilà pourquoi la plupart des héros ne mènent pas activement ce genre d’opérations. Ceux qui décident tout de même de créer une entreprise délèguent la plupart des tâches quotidiennes à des subordonnés pour qu’eux-mêmes puissent continuer à partir à l’aventure. Un personnage peut embaucher et superviser des apprentis et des assistants qualifiés pour l’aider à gérer son entreprise. Chaque assistant ou apprenti que le personnage embauche pour l’aider à gérer l’affaire réduit de 25% le temps que le personnage doit consacrer à participer de manière active aux activités de son entreprise. Ainsi, aidé d’un assistant, le personnage doit travailler au sein de l’entreprise pendant 75% de son temps, le reste étant du temps libre. Aidé de deux assistants, le personnage doit travailler à mi-temps dans l’entreprise et peut consacrer le reste aux activités de son choix, et ce, jusqu’à quatre assistants qui gèrent l’ensemble des activités de l’entreprise en son nom. Le personnage décide, pour chaque journée, semaine ou mois, quand il travaille pour l’entreprise et quand il consacre son temps à d’autres activités. Chaque assistant embauché au delà du nombre minimum impose un malus de -1 sur le test de compétence effectué par le personnage pour déterminer les bénéfices. Voir la table "[[Profession unchained#TAILLEETCREATIONDUNEENTREPRISE|Taille et installation d’une entreprise]]".

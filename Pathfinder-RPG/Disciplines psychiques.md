@@ -20,19 +20,9 @@ L’esprit du personnage est impur car corrompu par des forces extérieures. Cel
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| d100 || [[RD|Réduction des dégâts]]
-|- CLASS="premier"
-| 1-35
-| CLASS="gauche" | [[RD]] 5/contondant
-|-
-| 36-60
-| CLASS="gauche" | [[RD]] 5/fer froid
-|-
-| 61-100
-| CLASS="gauche" | [[RD]] 5/magie
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>d100</td><td>[[RD|Réduction des dégâts]]</td></tr><tr CLASS="premier"><td>1-35</td><td CLASS="gauche">[[RD]] 5/contondant</td></tr><tr><td>36-60</td><td CLASS="gauche">[[RD]] 5/fer froid</td></tr><tr><td>61-100</td><td CLASS="gauche">[[RD]] 5/magie</td></tr></table>
+
 </div></div>*Forme morphique (Ext).* Au niveau 5, quand il manifeste sa sombre moitié, le personnage bénéficie d’une [[RD]] 5. Cette réduction des dégâts peut être ignorée par un type de dégâts défini aléatoirement à chaque fois qu’il manifeste sa sombre moitié. Déterminez ce type de dégâts grâce à la table ci-dessous.
 
 *Résistance psychique (Sur).* Au niveau 13, le personnage bénéficie d’une protection mentale permanente qui lui permet d’obtenir une résistance à la magie égale à 8 + son niveau de lanceur de sorts. Quand il manifeste sa sombre moitié, cette résistance à la magie passe à 16 + son niveau de lanceur de sorts.

@@ -65,52 +65,17 @@ LastModified: 2021-07-14 10:22
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon solaire
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon solaire]] || &nbsp; || 9
-|-
-| [[Dragon solaire adulte]] || &nbsp; || 13
-|-
-| [[Dragon solaire vénérable]] || &nbsp; || 18
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon solaire</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon solaire]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Dragon solaire adulte]]</td><td>&nbsp;</td><td>13</td></tr><tr><td>[[Dragon solaire vénérable]]</td><td>&nbsp;</td><td>18</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon sidéral|dragons sidéraux]].***</li></ul>*Ce majestueux dragon brille comme le soleil. Ses ailes polies luisent de couleurs flamboyantes et une couronne de cornes orne sa tête.*
 
 Arrogants et fiers, les dragons solaires se considèrent comme les géniteurs de la lumière et de la vie dans l’immensité de l’espace. Ils considèrent toutes les créatures vivantes comme leurs propres créations.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet  || Canalisation de vie, immunité contre le feu || -
-|-
-| Très jeune || Feu primordial ||   -
-|-
-| Jeune  || Détection de la magie || 1
-|-
-| Adolescent || Présence étrangère, lumière brûlante || 3
-|-
-| Jeune adulte || RD 5/magie, résistance à la magie || 5
-|-
-| Adulte || Coupe de poussière || 7
-|-
-| Âge mûr || RD 10/magie || 9
-|-
-| Vieux || Flétrissement végétal, canalisation des radiations || 11
-|-
-| Très vieux || RD 15/magie || 13
-|-
-| Vénérable || Animation des plantes, création majeure || 15
-|-
-| Dracosire || RD 20/magie || 17
-|-
-| Grand dracosire || Rai de lumière, contrôle des plantes || 19
-|-
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>Canalisation de vie, immunité contre le feu</td><td>-</td></tr><tr><td>Très jeune</td><td>Feu primordial</td><td>-</td></tr><tr><td>Jeune</td><td>Détection de la magie</td><td>1</td></tr><tr><td>Adolescent</td><td>Présence étrangère, lumière brûlante</td><td>3</td></tr><tr><td>Jeune adulte</td><td>RD 5/magie, résistance à la magie</td><td>5</td></tr><tr><td>Adulte</td><td>Coupe de poussière</td><td>7</td></tr><tr><td>Âge mûr</td><td>RD 10/magie</td><td>9</td></tr><tr><td>Vieux</td><td>Flétrissement végétal, canalisation des radiations</td><td>11</td></tr><tr><td>Très vieux</td><td>RD 15/magie</td><td>13</td></tr><tr><td>Vénérable</td><td>Animation des plantes, création majeure</td><td>15</td></tr><tr><td>Dracosire</td><td>RD 20/magie</td><td>17</td></tr><tr><td>Grand dracosire</td><td>Rai de lumière, contrôle des plantes</td><td>19</td></tr></table>
+
 
 </center>
 </div></td></tr></table>

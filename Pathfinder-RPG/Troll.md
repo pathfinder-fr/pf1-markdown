@@ -39,34 +39,9 @@ Categories:
 {s:ImageDroite|Bestiaire/Troll.jpg|80%}
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Troll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Troll des égouts]] || 2
-|-
-| [[Troll]] || 5
-|-
-| [[Acolyte troll]] || 6
-|-
-| [[Gardien troll]] || 6
-|-
-| [[Brute troll]] || 7
-|-
-| [[Étripeur troll]] || 8
-|-
-| [[Troll furieux]] || 8
-|-
-| [[Berserker troll]] || 9
-|-
-| [[Éventreur troll]] || 10
-|-
-| [[Matrone âgée troll]] || 10
-|-
-| [[Monarque troll]] || 15
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Troll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr><tr><td>[[Troll]]</td><td>5</td></tr><tr><td>[[Acolyte troll]]</td><td>6</td></tr><tr><td>[[Gardien troll]]</td><td>6</td></tr><tr><td>[[Brute troll]]</td><td>7</td></tr><tr><td>[[Étripeur troll]]</td><td>8</td></tr><tr><td>[[Troll furieux]]</td><td>8</td></tr><tr><td>[[Berserker troll]]</td><td>9</td></tr><tr><td>[[Éventreur troll]]</td><td>10</td></tr><tr><td>[[Matrone âgée troll]]</td><td>10</td></tr><tr><td>[[Monarque troll]]</td><td>15</td></tr></table>
+
 </div>''Cette grande créature a la peau verte et rugueuse, des mains griffues et un
 visage bestial et prognathe orné de défenses.''
 
@@ -155,29 +130,9 @@ Les trolls sont principalement réputés pour leurs attaques naturelles dangereu
 #### Dons
 Les trolls peuvent choisir les dons suivants.
 <center>
-{| CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"
 
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH="3%" | Src
-| WIDTH="30%" | Conditions
-| WIDTH="37%" | Avantages
+<table CLASS="tablo autoalt toutgauche filtrable" WIDTH="100%"><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH="3%">Src</td><td WIDTH="30%">Conditions</td><td WIDTH="37%">Avantages</td></tr><tr CLASS="premier"><td>[[Éventration à deux]]*</td><td><sup>CM</sup></td><td>Pouvoir [[éventration (capacité)|éventration]], [[troll]]</td><td>Utilise l'éventration beaucoup plus facilement</td></tr><tr CLASS="premier"><td>[[Éventration supérieure]]*</td><td><sup>CM</sup></td><td>Attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]]</td><td>Inflige des dégâts supplémentaire avec l'éventration pendant une morsure</td></tr><tr CLASS="premier"><td>[[Morsure suprême]]*</td><td><sup>CM</sup></td><td>[[BBA]] +6, attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]]</td><td>Augmente la zone de critique de l'attaque de morsure en éventrant la cible</td></tr><tr CLASS="premier"><td>[[Régénération musculaire]]</td><td><sup>CM</sup></td><td>[[Attaque en puissance]], pouvoir [[régénération (capacité)|régénération]], [[troll]]</td><td>Transfert la puissance de régénération à la force physique</td></tr><tr CLASS="premier"><td>[[Régénération rageuse]]</td><td><sup>CM</sup></td><td>Capacité de classe [[Barbare#RAGE|rage]], pouvoir [[régénération (capacité)|régénération]], [[troll]]</td><td>Empêche la régénération de s'arrêter pendant une rage</td></tr></table>
 
-|- CLASS="premier"
-| [[Éventration à deux]]* || <sup>CM</sup> || Pouvoir [[éventration (capacité)|éventration]], [[troll]] || Utilise l'éventration beaucoup plus facilement
-
-|- CLASS="premier"
-| [[Éventration supérieure]]* || <sup>CM</sup> || Attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]] || Inflige des dégâts supplémentaire avec l'éventration pendant une morsure
-
-|- CLASS="premier"
-| [[Morsure suprême]]* || <sup>CM</sup> || [[BBA]] +6, attaque de morsure, pouvoir [[éventration (capacité)|éventration]], [[troll]] || Augmente la zone de critique de l'attaque de morsure en éventrant la cible
-
-|- CLASS="premier"
-| [[Régénération musculaire]] || <sup>CM</sup> || [[Attaque en puissance]], pouvoir [[régénération (capacité)|régénération]], [[troll]] || Transfert la puissance de régénération à la force physique
-
-|- CLASS="premier"
-| [[Régénération rageuse]] || <sup>CM</sup> || Capacité de classe [[Barbare#RAGE|rage]], pouvoir [[régénération (capacité)|régénération]], [[troll]] || Empêche la régénération de s'arrêter pendant une rage
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

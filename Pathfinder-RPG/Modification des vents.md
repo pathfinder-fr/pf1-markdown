@@ -23,19 +23,5 @@ Categories:
 
 Le personnage augmente ou réduit subtilement les effets des vents naturels de la zone d'effet du sort, qui se trouve être une émanation immobile centrée sur le point ciblé au moment du lancer du sort. Dans cette zone, l'effet des vents naturels (mais pas des vents magiques) est réduit ou augmenté d'un niveau d'intensité (voir "[[Vents|Les vents]]"). Le niveau de force de vent maximum que le personnage peut modifier dépend de son [[NLS|niveau de lanceur de sorts]], comme indiqué dans la table suivante. *Modification des vents* n'a aucun effet sur un vent magique.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Niveau de lanceur de sorts || Force du vent
-|- CLASS="premier"
-| CLASS="centre" | 1-3
-| CLASS="gauche" | Léger
-|-
-| CLASS="centre" | 4-9
-| CLASS="gauche" | modéré
-|-
-| CLASS="centre" | 10-15
-| CLASS="gauche" | fort
-|-
-| CLASS="centre" | 16 ou plus
-| CLASS="gauche" | violent
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Niveau de lanceur de sorts</td><td>Force du vent</td></tr><tr CLASS="premier"><td CLASS="centre">1-3</td><td CLASS="gauche">Léger</td></tr><tr><td CLASS="centre">4-9</td><td CLASS="gauche">modéré</td></tr><tr><td CLASS="centre">10-15</td><td CLASS="gauche">fort</td></tr><tr><td CLASS="centre">16 ou plus</td><td CLASS="gauche">violent</td></tr></table>

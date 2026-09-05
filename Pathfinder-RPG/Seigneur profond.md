@@ -54,17 +54,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de profond
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hybride profond]] || 1/2
-|-
-| [[Profond]] || 1
-|-
-| [[Seigneur profond]] || 14
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de profond</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hybride profond]]</td><td>1/2</td></tr><tr><td>[[Profond]]</td><td>1</td></tr><tr><td>[[Seigneur profond]]</td><td>14</td></tr></table>
+
 </div>*Cette immense monstruosité a le corps d’un humanoïde, mais son visage ichtyologique est celui d’un prédateur des fonds marins.*
 
 Quelques rares profonds ne cessent de grandir au fil de leur interminable vie. Nombre de seigneurs profonds s’approprient le nom de dieux et de monstres, Mère Hydra et Père Dagon étant deux des membres les plus légendaires de ce type. Les seigneurs profonds bénéficient du statut de quasi-dieu au sein de la société des profonds et dominent leurs semblables inférieurs en régnant sur leurs cités englouties. Les seigneurs profonds sont l’objet de vénération et adorent, à leur tour, les Grands anciens et les dieux Extérieurs.

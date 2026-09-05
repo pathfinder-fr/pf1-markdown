@@ -48,17 +48,9 @@ Categories:
 
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de profond
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Hybride profond]] || 1/2
-|-
-| [[Profond]] || 1
-|-
-| [[Seigneur profond]] || 14
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de profond</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Hybride profond]]</td><td>1/2</td></tr><tr><td>[[Profond]]</td><td>1</td></tr><tr><td>[[Seigneur profond]]</td><td>14</td></tr></table>
+
 </div>*La large bouche, les yeux fixes et les mains palmées de cet homme âgé évoquent une sinistre perversion de sa lignée.*
 
 Les hybrides profonds sont les rejetons d’humains et de profonds. C’est parmi les leurs qu’ils se sentent le plus à l’aise et ils se rassemblent généralement au sein de petites communautés insulaires où ils peuvent occuper des postes à responsabilités. Ils imposent l’obéissance et la soumission aux humains présents dans leurs communautés et veillent à ce que les habitants sachent qu’il vaut mieux ne pas contrevenir aux lois locales. Les profonds sont extrêmement religieux, mais camouflent leur véritable croyance sous une façade de pratique religieuse plus conventionnelle, en estimant que ce souci de discrétion leur permet d’éviter les soupçons de la part des visiteurs et des communautés voisines.

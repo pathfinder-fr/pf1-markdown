@@ -30,17 +30,9 @@ Inscrivez ci-dessous les manuels dont vous souhaitez vous charger sous le format
 Sur chaque page ainsi créée, devra figurer un tableau reprenant le modèle et le format habituel à partir duquel il ne reste plus qu'à intégrer les dons
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
-|+ Tableau récapitulatif des dons
-|- CLASS="titre"
-| WIDTH="30%" | Dons
-| WIDTH= "3%" | Src
-| WIDTH="25%" | Conditions
-| WIDTH="42%" | Avantages
 
-|-
-| Don 1 || DTT || condition lambda || Fait le café en une action immédiate
-|}
+<table CLASS="tablo autoalt toutgauche"><caption>Tableau récapitulatif des dons</caption><tr CLASS="titre"><td WIDTH="30%">Dons</td><td WIDTH= "3%">Src</td><td WIDTH="25%">Conditions</td><td WIDTH="42%">Avantages</td></tr><tr><td>Don 1</td><td>DTT</td><td>condition lambda</td><td>Fait le café en une action immédiate</td></tr></table>
+
 </center>
 
 L'intérêt de ce travail préliminaire, c'est que lorsque le manuel finira par être traduit, il pourra plus facilement être intégré sera de permettre à ceux qui s'occupent de cette intégration de profiter de ce travail et également facilitera la gestion des pages.

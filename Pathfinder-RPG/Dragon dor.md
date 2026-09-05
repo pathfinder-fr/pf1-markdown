@@ -33,17 +33,9 @@ Categories:
 {s:BDTexte|**Vol rapide (Ext).** On détermine la vitesse de vol des dragons d'or jeunes ou plus âgés comme s'ils appartenaient à la catégorie de taille directement supérieure à la leur.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon d'or
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon dor|Jeune dragon d'or]] || &nbsp; || 11
-|-
-| [[Dragon dor adulte|Dragon d'or adulte]] || &nbsp; || 15
-|-
-| [[Dragon dor vénérable|Dragon d'or vénérable]] || &nbsp; || 20
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon d'or</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon dor|Jeune dragon d'or]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon dor adulte|Dragon d'or adulte]]</td><td>&nbsp;</td><td>15</td></tr><tr><td>[[Dragon dor vénérable|Dragon d'or vénérable]]</td><td>&nbsp;</td><td>20</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon métallique|dragons métalliques]].***</li></ul>*Des écailles dorées recouvrent le corps de ce majestueux dragon au regard sage et perçant dont la tête est ornée d’une couronne de cornes.*
 
 Les dragons d’or sont l’exemple même de la vertu. Les autres dragons
@@ -53,35 +45,9 @@ dragons, et ils viennent même
 leur demander aide et conseils.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS<sup>*</sup>
-|- CLASS="premier"
-| Dragonnet || souffle affaiblissant, sous-type [[sous-type Feu|Feu]] || —
-|- CLASS="alt"
-| Très jeune || changement de forme, *[[détection du Mal]]* || —
-|-
-| Jeune || détection des pierres précieuses, vol rapide || 1
-|- CLASS="alt"
-| Adolescent || *[[bénédiction]]* || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || chance, *[[lumière du jour]]*, [[présence terrifiante]] || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || aura de feu, *[[quête]]* || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[explosion de lumière]]* || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || aide divine, *[[prémonition]]* || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS<sup>*</sup></td></tr><tr CLASS="premier"><td>Dragonnet</td><td>souffle affaiblissant, sous-type [[sous-type Feu|Feu]]</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>changement de forme, *[[détection du Mal]]*</td><td>—</td></tr><tr><td>Jeune</td><td>détection des pierres précieuses, vol rapide</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[bénédiction]]*</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>chance, *[[lumière du jour]]*, [[présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>aura de feu, *[[quête]]*</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[explosion de lumière]]*</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>aide divine, *[[prémonition]]*</td><td>19</td></tr></table>
+
 </center>
 
 - Un dragon d'or peut lancer les sorts divins comme s'il s'agissait de sorts profanes.

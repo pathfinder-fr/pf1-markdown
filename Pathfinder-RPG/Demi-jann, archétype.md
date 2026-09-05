@@ -17,21 +17,9 @@ Categories:
 - **Pouvoirs magiques.** Un demi-jann ayant une valeur d’Intelligence ou de Sagesse de 8 ou plus a des pouvoirs magiques, dépendants de son niveau, comme indiqué sur la table ci-dessous. Ces pouvoirs se cumulent.
 Le niveau de lanceur de sorts est égal à celui de la créature de base et le DD des jets de sauvegarde est basé sur le Charisme.
 
-{| CLASS="tablo centre"
-|- CLASS="titre"
-| Niveau || Pouvoirs
-|- CLASS="premier"
-| 1-2 || *[[Communication avec les animaux]]* 3/jour
-|-
-| 3-6 || *[[Agrandissement]]* ou *[[rapetissement]]* 2/jour sous n’importe quelle combinaison
-|-
-| 7-8 || *[[Invisibilité]]* (personnelle) 3/jour
-|-
-| 9-14 || *[[Création de nourriture et deau|Création de nourriture et d’eau]]* 1/jour
-|-
-| 15-16 || *[[Forme éthérée]]* 1/jour
-|-
-|}
+
+<table CLASS="tablo centre"><tr CLASS="titre"><td>Niveau</td><td>Pouvoirs</td></tr><tr CLASS="premier"><td>1-2</td><td>*[[Communication avec les animaux]]* 3/jour</td></tr><tr><td>3-6</td><td>*[[Agrandissement]]* ou *[[rapetissement]]* 2/jour sous n’importe quelle combinaison</td></tr><tr><td>7-8</td><td>*[[Invisibilité]]* (personnelle) 3/jour</td></tr><tr><td>9-14</td><td>*[[Création de nourriture et deau|Création de nourriture et d’eau]]* 1/jour</td></tr><tr><td>15-16</td><td>*[[Forme éthérée]]* 1/jour</td></tr></table>
+
 - **Particularités.** Le demi-jann a toutes les particularités de la créature de base en plus des suivantes.
   - [[Vision dans le noir (capacité)|Vision dans le noir]] à 18 mètres
   - [[Immunité (capacité)|Immunité]] contre les maladies

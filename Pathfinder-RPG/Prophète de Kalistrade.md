@@ -11,62 +11,9 @@ Categories:
 
 Malgré leurs excentricités, personne ne peut nier que dans la majorité des cas, les restrictions de ces prophéties ont l'air d'amener ses suivants vers une grande fortune. La force de volonté extrême nécessaire pour suivre les Prophéties ont l'air de transformer les prophètes en individus prodigieusement calmes et concentrés, qui sont aussi impitoyable dans le commerce qu'ils sont bons pour jouer avec les mots et pour formuler des failles juridiques dans tous les contrats.''
 
-{| CLASS="tablo centre"
-|+ Le disciple des Prophéties
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| ROWSPAN="2" | BBA
-| ROWSPAN="2" | Réflexes
-| ROWSPAN="2" | Vigueur
-| ROWSPAN="2" | Volonté
-| ROWSPAN="2" CLASS="gauche" | Spécial
-| COLSPAN="4" CLASS="avecsoustitre" | [[Prophète de Kalistrade#SORTS|Sorts par jour]]
-|- CLASS="soustitre"
-| 1er
-| 2e
-| 3e
-| 4e
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +1
-| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +1
-| 1 || - || - || -
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[Prophète de Kalistrade#ACHATDESORTS|Achat de sorts]]
-| 2 || - || - || -
-|-
-| 3 || +2 || +1 || +1 || +2
-| CLASS="gauche" | -
-| 3 || - || - || -
-|- CLASS="alt"
-| 4 || +3 || +1 || +1 || +2
-| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +2, [[Prophète de Kalistrade#PERSPICACITECOMMERCIALE|perspicacité commerciale]]
-| 3 || 1 || - || -
-|-
-| 5 || +3 || +2 || +2 || +3
-| CLASS="gauche" | -
-| 4 || 2 || - || -
-|- CLASS="alt"
-| 6 || +4 || +2 || +2 || +3
-| CLASS="gauche" | [[Prophète de Kalistrade#CONTACTSMYSTIQUES|Contacts mystiques]]
-| 4 || 3 || - || -
-|-
-| 7 || +5 || +2 || +2 || +4
-| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +3
-| 4 || 3 || 1 || -
-|- CLASS="alt"
-| 8 || +6 || +3 || +3 || +4
-| CLASS="gauche" | [[Prophète de Kalistrade#COFFREDUPROPHETE|Coffre du prophète]]
-| 4 || 4 || 2 || -
-|-
-| 9 || +6 || +3 || +3 || +5
-| CLASS="gauche" | [[Prophète de Kalistrade#CONTACTSPLANAIRES|Contacts planaires]]
-| 5 || 4 || 3 || -
-|- CLASS="alt"
-| 10 || +7 || +3 || +3 || +5
-| CLASS="gauche" | [[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +4
-| 5 || 4 || 3 || 1
-|}
+
+<table CLASS="tablo centre"><caption>Le disciple des Prophéties</caption><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td ROWSPAN="2">BBA</td><td ROWSPAN="2">Réflexes</td><td ROWSPAN="2">Vigueur</td><td ROWSPAN="2">Volonté</td><td ROWSPAN="2" CLASS="gauche">Spécial</td><td COLSPAN="4" CLASS="avecsoustitre">[[Prophète de Kalistrade#SORTS|Sorts par jour]]</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td CLASS="gauche">[[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +1</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Prophète de Kalistrade#ACHATDESORTS|Achat de sorts]]</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">-</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+1</td><td>+2</td><td CLASS="gauche">[[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +2, [[Prophète de Kalistrade#PERSPICACITECOMMERCIALE|perspicacité commerciale]]</td><td>3</td><td>1</td><td>-</td><td>-</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">-</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+2</td><td>+3</td><td CLASS="gauche">[[Prophète de Kalistrade#CONTACTSMYSTIQUES|Contacts mystiques]]</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+2</td><td>+4</td><td CLASS="gauche">[[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +3</td><td>4</td><td>3</td><td>1</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+3</td><td>+4</td><td CLASS="gauche">[[Prophète de Kalistrade#COFFREDUPROPHETE|Coffre du prophète]]</td><td>4</td><td>4</td><td>2</td><td>-</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Prophète de Kalistrade#CONTACTSPLANAIRES|Contacts planaires]]</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+3</td><td>+5</td><td CLASS="gauche">[[Prophète de Kalistrade#DEMONSTRATIONDAUSPICE|Démonstration d'auspice]] +4</td><td>5</td><td>4</td><td>3</td><td>1</td></tr></table>
+
 
 **Dés de vie.** d8.
 
@@ -93,46 +40,9 @@ Un disciple des Prophéties ne gagne aucune formation supplémentaire au manieme
 #### Sorts
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo centre toutgauche"
-|- CLASS="titre"
-| ROWSPAN="2" | Niveau
-| COLSPAN="4" CLASS="avecsoustitre" | Sorts connus
-|- CLASS="soustitre"
-| 1er
-| 2e
-| 3e
-| 4e
-|- CLASS="premier"
-| 1
-| 2 || - || - || -
-|- CLASS="alt"
-| 2
-| 3 || - || - || -
-|-
-| 3
-| 4 || - || - || -
-|- CLASS="alt"
-| 4
-| 4 || 2 || - || -
-|-
-| 5
-| 4 || 3 || - || -
-|- CLASS="alt"
-| 6
-| 4 || 4 || - || -
-|-
-| 7
-| 5 || 4 || 2 || -
-|- CLASS="alt"
-| 8
-| 5 || 4 || 3 || -
-|-
-| 9
-| 5 || 4 || 4 || -
-|- CLASS="alt"
-| 10
-| 5 || 5 || 4 || 2
-|}
+
+<table CLASS="tablo centre toutgauche"><tr CLASS="titre"><td ROWSPAN="2">Niveau</td><td COLSPAN="4" CLASS="avecsoustitre">Sorts connus</td></tr><tr CLASS="soustitre"><td>1er</td><td>2e</td><td>3e</td><td>4e</td></tr><tr CLASS="premier"><td>1</td><td>2</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>2</td><td>3</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3</td><td>4</td><td>-</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>4</td><td>4</td><td>2</td><td>-</td><td>-</td></tr><tr><td>5</td><td>4</td><td>3</td><td>-</td><td>-</td></tr><tr CLASS="alt"><td>6</td><td>4</td><td>4</td><td>-</td><td>-</td></tr><tr><td>7</td><td>5</td><td>4</td><td>2</td><td>-</td></tr><tr CLASS="alt"><td>8</td><td>5</td><td>4</td><td>3</td><td>-</td></tr><tr><td>9</td><td>5</td><td>4</td><td>4</td><td>-</td></tr><tr CLASS="alt"><td>10</td><td>5</td><td>5</td><td>4</td><td>2</td></tr></table>
+
 </div></div>
 Un disciple des Prophéties est capable de lancer des sorts profanes tirés de la [[Liste des sorts densorceleursmagiciens|liste des sorts d'ensorceleurs/magiciens]], mais il est limité aux sorts de l'école de [[divination]] et d'[[enchantement]]. Il peut lancer n'importe quel sort qu'il connaît sans les préparer à l'avance. Pour lancer un sort, un disciple des Prophéties doit avoir une valeur de [[Charisme]] au moins égale à 10 + le niveau du sort. Ses [[Caractéristiques#TABLEAUCARACTERISTIQUES|sorts bonus]] se basent sur le Charisme, et les [[jds|jets de sauvegarde]] contre ces sorts ont un [[DD]] de 10 + niveau du sort + modificateur de Charisme du disciple des Prophéties (s'il en a un). Sa sélection de sorts est très limitée – à chaque niveau de disciple des Prophéties, il gagne un sort ou plus, comme indiqué ci-contre. Aux niveaux 4, 6, 8 et 10, il peut décider d'échanger un sort qu'il connaissait déjà pour en apprendre un autre, tant que le niveau des deux sorts sont du même niveau.
 

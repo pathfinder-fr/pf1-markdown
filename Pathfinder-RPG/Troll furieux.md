@@ -45,34 +45,9 @@ Categories:
 </div>
 
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Troll
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Troll des égouts]] || 2
-|-
-| [[Troll]] || 5
-|-
-| [[Acolyte troll]] || 6
-|-
-| [[Gardien troll]] || 6
-|-
-| [[Brute troll]] || 7
-|-
-| [[Étripeur troll]] || 8
-|-
-| [[Troll furieux]] || 8
-|-
-| [[Berserker troll]] || 9
-|-
-| [[Éventreur troll]] || 10
-|-
-| [[Matrone âgée troll]] || 10
-|-
-| [[Monarque troll]] || 15
-|-
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Troll</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Troll des égouts]]</td><td>2</td></tr><tr><td>[[Troll]]</td><td>5</td></tr><tr><td>[[Acolyte troll]]</td><td>6</td></tr><tr><td>[[Gardien troll]]</td><td>6</td></tr><tr><td>[[Brute troll]]</td><td>7</td></tr><tr><td>[[Étripeur troll]]</td><td>8</td></tr><tr><td>[[Troll furieux]]</td><td>8</td></tr><tr><td>[[Berserker troll]]</td><td>9</td></tr><tr><td>[[Éventreur troll]]</td><td>10</td></tr><tr><td>[[Matrone âgée troll]]</td><td>10</td></tr><tr><td>[[Monarque troll]]</td><td>15</td></tr></table>
+
 </div>Le troll furieux est un intendant aguerri de la nature, qui veille sur les trolls et les tribus du coin afin de s’assurer qu’ils ne dévorent pas trop de gibier.
 
 Le premier devoir du troll furieux consiste à veiller au bien-être de sa tribu et de s’assurer de sa prospérité à long terme. La surveillance attentive des terres qui l’entourent, l’observation des schémas de migration des populations animales et le respect des enseignements de ses prédécesseurs permettent au troll furieux d’anticiper les périodes d’abondance et les périodes de nécessité, puis d’amasser ou de conserver en fonction des besoins. Bien que les trolls furieux ne hâtent jamais les décisions qui pourraient mettre la tribu en danger, ils instruisent leur propre tribu ou les nouveaux venus sur le territoire de se déplacer quand il y a le moindre risque que les terrains de chasse se retrouvent épuisés de leurs ressources. Les tribus avisées quittent la région quand le troll furieux le leur demande mais, parfois, celui-ci doit les en chasser par le feu et le poison afin que les animaux aient le temps de se reproduire.

@@ -34,33 +34,9 @@ Les créatures artificielles possèdent les traits suivant (sauf mention contrai
 - Les créatures artificielles sont difficiles à détruire et gagnent un bonus de point de vie qui dépend de leur taille, comme indiqué dans la table suivante :
 
 <center>
-{| CLASS="tablo"
-|+ taille de la créature artificielle
-|- CLASS="titre"
-| class="gauche" | Taille de la créature artificielle
-| Bonus de point de vie
-|- CLASS="premier"
-| class="gauche" | Très Petit ou plus petit
-| -
-|- CLASS="alt"
-| class="gauche" | Petit
-| +10
-|-
-| class="gauche" | Moyen
-| +20
-|- CLASS="alt"
-| class="gauche" | Grand
-| +30
-|-
-| class="gauche" | très Grand
-| +40
-|- CLASS="alt"
-| class="gauche" | Gigantesque
-| +60
-|-
-| class="gauche" | Colossal
-| +80
-|}
+
+<table CLASS="tablo"><caption>taille de la créature artificielle</caption><tr CLASS="titre"><td class="gauche">Taille de la créature artificielle</td><td>Bonus de point de vie</td></tr><tr CLASS="premier"><td class="gauche">Très Petit ou plus petit</td><td>-</td></tr><tr CLASS="alt"><td class="gauche">Petit</td><td>+10</td></tr><tr><td class="gauche">Moyen</td><td>+20</td></tr><tr CLASS="alt"><td class="gauche">Grand</td><td>+30</td></tr><tr><td class="gauche">très Grand</td><td>+40</td></tr><tr CLASS="alt"><td class="gauche">Gigantesque</td><td>+60</td></tr><tr><td class="gauche">Colossal</td><td>+80</td></tr></table>
+
 </center>
 
 - Formées seulement au maniement de leurs armes naturelles sauf si elles possèdent une forme vaguement humanoïde, auquel cas elles sont formées au maniement de toutes les armes citées dans leur profil.

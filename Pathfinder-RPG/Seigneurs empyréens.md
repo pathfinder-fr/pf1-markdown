@@ -6,17 +6,9 @@ LastModified: 2021-07-15 17:38
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux seigneurs empyréens
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Cernunnos]] || 30
-|-
-| [[Korada]] || 26
-|-
-| [[Vildéïs]] || 28
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux seigneurs empyréens</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Cernunnos]]</td><td>30</td></tr><tr><td>[[Korada]]</td><td>26</td></tr><tr><td>[[Vildéïs]]</td><td>28</td></tr></table>
+
 </div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs empyréens (capacité)|traits des seigneurs empyréens]].***
 ***Voir la description des [[Agathion|agathions]].***
 ***Voir la description des [[Ange|anges]].***

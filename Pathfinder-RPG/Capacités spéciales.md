@@ -37,19 +37,9 @@ Uniquement si le prérequis cite explicitement le nom d’un sort. Par exemple, 
 
 **Pouvoirs surnaturels (Sur).** Les pouvoirs surnaturels sont magiques mais n’agissent pas comme des sorts. Ces pouvoirs ne sont pas soumis à la [[RM|résistance à la magie]] mais ne fonctionnent pas au sein d’une *[[zone dantimagie|zone d’antimagie]]* ou dans tout autre endroit où la magie est supprimée ou réprimée. Les effets d’un pouvoir surnaturel ne peuvent pas être dissipés et ils ne peuvent pas être affectés par un [[contresort]]. Voir la Table ci-après pour un résumé des pouvoirs spéciaux.
 
-{| CLASS="tablo centre autoalt"
-|+ Les types de pouvoirs spéciaux
-|- CLASS="titre"
-| &emsp; || Extraordinaire || Magique || Surnaturel
-|- CLASS="premier"
-| [[attaque dopportunité|Attaque d’opportunité]] || Non || Oui || Non
-|-
-| *[[Dissipation de la magie]]* || Non || Oui || Non
-|-
-| [[RM|Résistance à la magie]] || Non || Oui || Non
-|-
-| *[[Zone dantimagie|Zone d’antimagie]]* || Non || Oui || Oui
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Les types de pouvoirs spéciaux</caption><tr CLASS="titre"><td>&emsp;</td><td>Extraordinaire</td><td>Magique</td><td>Surnaturel</td></tr><tr CLASS="premier"><td>[[attaque dopportunité|Attaque d’opportunité]]</td><td>Non</td><td>Oui</td><td>Non</td></tr><tr><td>*[[Dissipation de la magie]]*</td><td>Non</td><td>Oui</td><td>Non</td></tr><tr><td>[[RM|Résistance à la magie]]</td><td>Non</td><td>Oui</td><td>Non</td></tr><tr><td>*[[Zone dantimagie|Zone d’antimagie]]*</td><td>Non</td><td>Oui</td><td>Oui</td></tr></table>
+
 
 *Attaque d’opportunité* : l’utilisation de ce type de pouvoir provoque-t-elle une [[attaque dopportunité|attaque d’opportunité]], au même titre que le fait de lancer un sort ?
 
@@ -141,31 +131,9 @@ L’invisibilité ne confère pas en soi l’immunité contre les [[coup critiqu
 
 En général, on peut repérer une créature invisible en mouvement et distante de moins de 9 m pour peu que l’on réussisse un test de [[Perception]] ([[DD]] 20). L’observateur éprouve la sensation qu’il y a quelqu’un (ou quelque chose) à proximité, mais sans savoir exactement où se trouve la créature en question. Si la créature invisible est immobile (ou ne bouge presque pas), il est bien plus difficile de la détecter ([[DD]] +20). Localiser précisément la créature ou l’objet est presque impossible (+20 au [[DD]] du test de [[Perception]]) et, même si le personnage réussit ce test, la créature invisible bénéficie toujours d’un [[camouflage]] total (50% de risque de rater). Certains modificateurs s’appliquent au [[DD]] si la créature est en train de bouger ou fait quelque chose de bruyant.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| La créature invisible... || Mod. au DD du test de Perception
-|- CLASS="premier"
-| Se bat ou parle || -20
-|-
-| Se déplace à la moitié de sa vitesse || -5
-|-
-| Se déplace à sa vitesse normale || -10
-|-
-| Court ou charge || -20
-|-
-| Ne bouge pas || +20 (*)
-|-
-| Utilise sa Discrétion || Jet de discrétion +20
-|-
-| Est éloignée || +1 par tranche de 3 m
-|-
-| Derrière un obstacle (porte) || +5
-|-
-| Derrière un obstacle (mur de pierre) || +15
-|-
-| Localiser précisément la créature invisible || +20
-|  |
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>La créature invisible...</td><td>Mod. au DD du test de Perception</td></tr><tr CLASS="premier"><td>Se bat ou parle</td><td>-20</td></tr><tr><td>Se déplace à la moitié de sa vitesse</td><td>-5</td></tr><tr><td>Se déplace à sa vitesse normale</td><td>-10</td></tr><tr><td>Court ou charge</td><td>-20</td></tr><tr><td>Ne bouge pas</td><td>+20 (*)</td></tr><tr><td>Utilise sa Discrétion</td><td>Jet de discrétion +20</td></tr><tr><td>Est éloignée</td><td>+1 par tranche de 3 m</td></tr><tr><td>Derrière un obstacle (porte)</td><td>+5</td></tr><tr><td>Derrière un obstacle (mur de pierre)</td><td>+15</td></tr><tr><td>Localiser précisément la créature invisible</td><td>+20</td></tr></table>
+
 
 Le personnage peut tâtonner à sa recherche, c’est-à-dire user d’une [[action simple]] pour effectuer une attaque à mains nues ou avec une arme, dans une zone équivalente à deux pas de déplacement. Si une créature invisible s’y trouve, il a toujours 50% de chance de la manquer. S’il réussit, il ne fait aucun dégât mais parvient à localiser sa position avec précision. Si cette créature se déplace et quitte l’endroit où elle était, le personnage devra recommencer.
 

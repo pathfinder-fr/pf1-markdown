@@ -19,27 +19,9 @@ Libre à vous de placer vos bâtiments comme bon vous semble. Vous pouvez commen
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 300px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ {s:Reference|TAILLEETVALEURDEBASE}Taille et valeur de base d’une communaute
-|- CLASS="titre"
-| Population || Taille || Valeur de base
-|- CLASS="premier"
-| Moins de 21 || lieu-dit || 50 po
-|-
-| 21-60 || hameau || 200 po
-|-
-| 61-200 || village || 500 po
-|-
-| 201-2 000 || petite bourgade || 1 000 po
-|-
-| 2 001-5 000 || grosse bourgade || 2 000 po
-|-
-| 5 001-10 000 || petite ville || 4 000 po
-|-
-| 10 001-25 000 || grande ville || 8 000 po
-|-
-| Plus de 25 000 || métropole || 16 000 po
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>{s:Reference|TAILLEETVALEURDEBASE}Taille et valeur de base d’une communaute</caption><tr CLASS="titre"><td>Population</td><td>Taille</td><td>Valeur de base</td></tr><tr CLASS="premier"><td>Moins de 21</td><td>lieu-dit</td><td>50 po</td></tr><tr><td>21-60</td><td>hameau</td><td>200 po</td></tr><tr><td>61-200</td><td>village</td><td>500 po</td></tr><tr><td>201-2 000</td><td>petite bourgade</td><td>1 000 po</td></tr><tr><td>2 001-5 000</td><td>grosse bourgade</td><td>2 000 po</td></tr><tr><td>5 001-10 000</td><td>petite ville</td><td>4 000 po</td></tr><tr><td>10 001-25 000</td><td>grande ville</td><td>8 000 po</td></tr><tr><td>Plus de 25 000</td><td>métropole</td><td>16 000 po</td></tr></table>
+
 </div></div>
 {s:Reference|CONSTRUCTION}**Construction.** La construction se déroule lors du tour où vous payez les [[Royaumes et guerre#POINTSDECONSTRUCTION|PC]] du bâtiment, quelle que soit sa taille. Les avantages liés à un bâtiment s’appliquent de suite. Si le [[MJ]] le souhaite, vous pouvez utiliser une magie de construction (comme une *[[lyre de bâtisseur]]*, un sort de *[[fabrication]]* ou un *[[mur de pierre]]*) pour réduire de 2 PC le prix d’un unique bâtiment (0 au minimum). C’est une réduction que vous ne pouvez utiliser qu’une fois par tour, quelles que soient les quantités de magie utilisées.
 
@@ -134,35 +116,9 @@ Si vous vous montrez trop zélé dans certains types de construction, le [[MJ]] 
 **Communauté.** Cette section indique les [[Villes#Les_modificateurs_de_communauté_2|modificateurs de communauté]] affectant des compétences spécifiques. Ces modificateurs restent constants d’un tour sur l’autre mais s’appliquent uniquement aux tests de compétences effectués dans la communauté concernée, pas dans les autres communautés de l’hexagone ni dans le reste du royaume. Notez que le Guide du Maître utilise une statistique appelée Économie. Pour éviter la confusion avec l’Économie du royaume, ici, nous renommerons l’Économie d’une communauté « Productivité. »
 
 #### Liste des bâtiments
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Liste des bâtiments
-|- CLASS="titre"
-| COLSPAN="6" | Nom
-|- CLASS="premier"
-| [[Communautés et quartiers#ACADEMIE|Académie]] || [[Communautés et quartiers#CASERNE|Caserne]] || [[Communautés et quartiers#ECURIE|Écurie]] || [[Communautés et quartiers#LAMPADAIRESMAGIQUES|Lampadaires magiques]] || [[Communautés et quartiers#ORPHELINAT|Orphelinat]] || [[Communautés et quartiers#TANNERIE|Tannerie]]
-|-
-| [[Communautés et quartiers#ALCHIMISTE|Alchimiste]] || [[Communautés et quartiers#CATHEDRALE|Cathédrale]] || [[Communautés et quartiers#ENCLOSABETAIL|Enclos à bétail]] || [[Communautés et quartiers#MAISON|Maison]] || [[Communautés et quartiers#PALAIS|Palais]] || [[Communautés et quartiers#TAVERNE|Taverne]]
-|-
-| [[Communautés et quartiers#APPARTEMENT|Appartement]] || [[Communautés et quartiers#CHATEAU|Château]] || [[Communautés et quartiers#FONDERIE|Fonderie]] || [[Communautés et quartiers#MAISONDELAGUILDE|Maison de la guilde]] || [[Communautés et quartiers#PARC|Parc]] || [[Communautés et quartiers#TEMPLE|Temple]]
-|-
-| [[Communautés et quartiers#ARENE|Arène]] || [[Communautés et quartiers#CIMETIERE|Cimetière]] || [[Communautés et quartiers#FORGE|Forge]] || [[Communautés et quartiers#MANOIR|Manoir]] || [[Communautés et quartiers#PONT|Pont]] || [[Communautés et quartiers#THEATRE|Théâtre]]
-|-
-| [[Communautés et quartiers#ARTISANEXOTIQUE|Artisan exotique]] || [[Communautés et quartiers#CITERNE|Citerne]] || [[Communautés et quartiers#FRONTDEMER|Front de mer]] || [[Communautés et quartiers#MARCHE|Marché]] || [[Communautés et quartiers#PRISON|Prison]] || [[Communautés et quartiers#TOURDEGUET|Tour de guet]]
-|-
-| [[Communautés et quartiers#AUBERGE|Auberge]] || [[Communautés et quartiers#COMMERCE|Commerce]] || [[Communautés et quartiers#GARNISON|Garnison]] || [[Communautés et quartiers#MARCHENOIR|Marché noir]] || [[Communautés et quartiers#QUAI|Quai]] || [[Communautés et quartiers#TOURDUMAGE|Tour du mage]]
-|-
-| [[Communautés et quartiers#BANQUE|Banque]] || [[Communautés et quartiers#COMPLEXEDEBUREAUX|Complexe de bureaux]] || [[Communautés et quartiers#GRANGE|Grange]] || [[Communautés et quartiers#MONASTERE|Monastère]] || [[Communautés et quartiers#QUARTIERDESETRANGERS|Quartier des étrangers]] || [[Communautés et quartiers#UNIVERSITE|Université]]
-|-
-| [[Communautés et quartiers#BIBLIOTHEQUE|Bibliothèque]] || [[Communautés et quartiers#DECHARGE|Décharge]] || [[Communautés et quartiers#HERBORISTE|Herboriste]] || [[Communautés et quartiers#MONUMENT|Monument]] || [[Communautés et quartiers#RESEAUDEGOUTS|Réseau d’égouts]] || [[Communautés et quartiers#VILLADENOBLE|Villa de noble]]
-|-
-| [[Communautés et quartiers#BOUTIQUE|Boutique]] || [[Communautés et quartiers#DOUVE|Douve]] || [[Communautés et quartiers#HERSEDEAU|Herse d’eau]] || [[Communautés et quartiers#MOULIN|Moulin]] || [[Communautés et quartiers#RUESPAVEES|Rues pavées]] || [[Communautés et quartiers#VOIENAVIGABLE|Voie navigable]]
-|-
-| [[Communautés et quartiers#BOUTIQUEDELUXE|Boutique de luxe]] || [[Communautés et quartiers#ECOLEDEMAGIE|École de magie]] || [[Communautés et quartiers#HOPITAL|Hôpital]] || [[Communautés et quartiers#MURDENCEINTE|Mur d’enceinte]] || [[Communautés et quartiers#SALLEDEBAL|Salle de bal]] || [[Communautés et quartiers#ZOO|Zoo]]
-|-
-| [[Communautés et quartiers#BOUTIQUEDEMAGIE|Boutique de magie]] || [[Communautés et quartiers#ECOLEDESBARDES|École des bardes]] || [[Communautés et quartiers#HOTELDELAMONNAIE|Hôtel de la monnaie]] || [[Communautés et quartiers#MUSEE|Musée]] || [[Communautés et quartiers#SANCTUAIRE|Sanctuaire]] || &emsp;
-|-
-| [[Communautés et quartiers#BRASSERIE|Brasserie]] || [[Communautés et quartiers#ECOLEMILITAIRE|École militaire]] || [[Communautés et quartiers#HOTELDEVILLE|Hôtel de ville]] || [[Communautés et quartiers#OBSERVATOIRE|Observatoire]] || [[Communautés et quartiers#SOURCEETERNELLE|Source éternelle]] || &emsp;
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Liste des bâtiments</caption><tr CLASS="titre"><td COLSPAN="6">Nom</td></tr><tr CLASS="premier"><td>[[Communautés et quartiers#ACADEMIE|Académie]]</td><td>[[Communautés et quartiers#CASERNE|Caserne]]</td><td>[[Communautés et quartiers#ECURIE|Écurie]]</td><td>[[Communautés et quartiers#LAMPADAIRESMAGIQUES|Lampadaires magiques]]</td><td>[[Communautés et quartiers#ORPHELINAT|Orphelinat]]</td><td>[[Communautés et quartiers#TANNERIE|Tannerie]]</td></tr><tr><td>[[Communautés et quartiers#ALCHIMISTE|Alchimiste]]</td><td>[[Communautés et quartiers#CATHEDRALE|Cathédrale]]</td><td>[[Communautés et quartiers#ENCLOSABETAIL|Enclos à bétail]]</td><td>[[Communautés et quartiers#MAISON|Maison]]</td><td>[[Communautés et quartiers#PALAIS|Palais]]</td><td>[[Communautés et quartiers#TAVERNE|Taverne]]</td></tr><tr><td>[[Communautés et quartiers#APPARTEMENT|Appartement]]</td><td>[[Communautés et quartiers#CHATEAU|Château]]</td><td>[[Communautés et quartiers#FONDERIE|Fonderie]]</td><td>[[Communautés et quartiers#MAISONDELAGUILDE|Maison de la guilde]]</td><td>[[Communautés et quartiers#PARC|Parc]]</td><td>[[Communautés et quartiers#TEMPLE|Temple]]</td></tr><tr><td>[[Communautés et quartiers#ARENE|Arène]]</td><td>[[Communautés et quartiers#CIMETIERE|Cimetière]]</td><td>[[Communautés et quartiers#FORGE|Forge]]</td><td>[[Communautés et quartiers#MANOIR|Manoir]]</td><td>[[Communautés et quartiers#PONT|Pont]]</td><td>[[Communautés et quartiers#THEATRE|Théâtre]]</td></tr><tr><td>[[Communautés et quartiers#ARTISANEXOTIQUE|Artisan exotique]]</td><td>[[Communautés et quartiers#CITERNE|Citerne]]</td><td>[[Communautés et quartiers#FRONTDEMER|Front de mer]]</td><td>[[Communautés et quartiers#MARCHE|Marché]]</td><td>[[Communautés et quartiers#PRISON|Prison]]</td><td>[[Communautés et quartiers#TOURDEGUET|Tour de guet]]</td></tr><tr><td>[[Communautés et quartiers#AUBERGE|Auberge]]</td><td>[[Communautés et quartiers#COMMERCE|Commerce]]</td><td>[[Communautés et quartiers#GARNISON|Garnison]]</td><td>[[Communautés et quartiers#MARCHENOIR|Marché noir]]</td><td>[[Communautés et quartiers#QUAI|Quai]]</td><td>[[Communautés et quartiers#TOURDUMAGE|Tour du mage]]</td></tr><tr><td>[[Communautés et quartiers#BANQUE|Banque]]</td><td>[[Communautés et quartiers#COMPLEXEDEBUREAUX|Complexe de bureaux]]</td><td>[[Communautés et quartiers#GRANGE|Grange]]</td><td>[[Communautés et quartiers#MONASTERE|Monastère]]</td><td>[[Communautés et quartiers#QUARTIERDESETRANGERS|Quartier des étrangers]]</td><td>[[Communautés et quartiers#UNIVERSITE|Université]]</td></tr><tr><td>[[Communautés et quartiers#BIBLIOTHEQUE|Bibliothèque]]</td><td>[[Communautés et quartiers#DECHARGE|Décharge]]</td><td>[[Communautés et quartiers#HERBORISTE|Herboriste]]</td><td>[[Communautés et quartiers#MONUMENT|Monument]]</td><td>[[Communautés et quartiers#RESEAUDEGOUTS|Réseau d’égouts]]</td><td>[[Communautés et quartiers#VILLADENOBLE|Villa de noble]]</td></tr><tr><td>[[Communautés et quartiers#BOUTIQUE|Boutique]]</td><td>[[Communautés et quartiers#DOUVE|Douve]]</td><td>[[Communautés et quartiers#HERSEDEAU|Herse d’eau]]</td><td>[[Communautés et quartiers#MOULIN|Moulin]]</td><td>[[Communautés et quartiers#RUESPAVEES|Rues pavées]]</td><td>[[Communautés et quartiers#VOIENAVIGABLE|Voie navigable]]</td></tr><tr><td>[[Communautés et quartiers#BOUTIQUEDELUXE|Boutique de luxe]]</td><td>[[Communautés et quartiers#ECOLEDEMAGIE|École de magie]]</td><td>[[Communautés et quartiers#HOPITAL|Hôpital]]</td><td>[[Communautés et quartiers#MURDENCEINTE|Mur d’enceinte]]</td><td>[[Communautés et quartiers#SALLEDEBAL|Salle de bal]]</td><td>[[Communautés et quartiers#ZOO|Zoo]]</td></tr><tr><td>[[Communautés et quartiers#BOUTIQUEDEMAGIE|Boutique de magie]]</td><td>[[Communautés et quartiers#ECOLEDESBARDES|École des bardes]]</td><td>[[Communautés et quartiers#HOTELDELAMONNAIE|Hôtel de la monnaie]]</td><td>[[Communautés et quartiers#MUSEE|Musée]]</td><td>[[Communautés et quartiers#SANCTUAIRE|Sanctuaire]]</td><td>&emsp;</td></tr><tr><td>[[Communautés et quartiers#BRASSERIE|Brasserie]]</td><td>[[Communautés et quartiers#ECOLEMILITAIRE|École militaire]]</td><td>[[Communautés et quartiers#HOTELDEVILLE|Hôtel de ville]]</td><td>[[Communautés et quartiers#OBSERVATOIRE|Observatoire]]</td><td>[[Communautés et quartiers#SOURCEETERNELLE|Source éternelle]]</td><td>&emsp;</td></tr></table>
+
 
 <table width="100%"><tr><td width="49%">
 {s:Reference|ACADEMIE}

@@ -37,15 +37,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de gar
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Gar]] || 1
-|-
-| [[Gar géant]] || 6
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de gar</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Gar]]</td><td>1</td></tr><tr><td>[[Gar géant]]</td><td>6</td></tr></table>
+
 </div>*Cet énorme poisson est un prédateur agile doté d’épaisses écailles chitineuses et de longues mâchoires garnies de dents effilées.*
 
 Comme si les [[gar|gars]] normaux n’étaient pas suffisamment effrayants, plusieurs récits parlent d’énormes gars qui se tapiraient dans les rivières et les lacs les plus profonds. Ces créatures sont de véritables monstruosités pouvant atteindre des longueurs de 9 mètres ou plus et capables d’engloutir un cheval et son cavalier en une seule bouchée. Heureusement, les gars géants sont beaucoup plus rares que leurs cousins de taille normale.

@@ -18,76 +18,9 @@ Pour ceux qui tendent à défendre les causes de la Loi et du Bien, le chemin du
 
 {s:Reference|TABLEMETAMORPHE}
 <center>
-{| CLASS="tablo"
-|+ Le Métamorphe
-|- CLASS="titre"
-| Niveau
-| BBA
-| Réflexes
-| Vigueur
-| Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +2 || +2 || +0
-| CLASS="gauche" | [[Métamorphe#ASPECT|aspect du métamorphe]], [[Métamorphe#EMPATHIESAUVAGE|empathie sauvage]], [[Métamorphe#GRIFFES|griffes du métamorphe]]
-|- CLASS="alt"
-| 2 || +2 || +3 || +3 || +0
-| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif]], [[Métamorphe#PISTAGE|pistage]]
-|-
-| 3 || +3 || +3 || +3 || +1
-| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]], [[Métamorphe#DEPLACEMENTFACILITE|déplacement facilité]]
-|- CLASS="alt"
-| 4 || +4 || +4 || +4 || +1
-| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+1)]], [[Métamorphe#FORMEANIMALE|forme animale]]
-|-
-| 5 || +5 || +4 || +4 || +1
-| CLASS="gauche" | [[Métamorphe#ASPECT|deuxième aspect]], [[Métamorphe#ABSENCEDETRACES|absence de traces]]
-|- CLASS="alt"
-| 6 || +6/+1 || +5 || +5 || +2
-| CLASS="gauche" | [[Métamorphe#FURIEDUMETAMORPHE|furie du métamorphe]]
-|-
-| 7 || +7/+2 || +5 || +5 || +2
-| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
-|- CLASS="alt"
-| 8 || +8/+3 || +6 || +6 || +2
-| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+2)]]
-|-
-| 9 || +9/+4 || +6 || +6 || +3
-| CLASS="gauche" | [[Métamorphe#ASPECTCHIMERIQUE|aspect chimérique]]
-|- CLASS="alt"
-| 10 || +10/+5 || +7 || +7 || +3
-| CLASS="gauche" | [[Métamorphe#ASPECT|troisième aspect]]
-|-
-| 11 || +11/+6/+1 || +7 || +7 || +3
-| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
-|- CLASS="alt"
-| 12 || +12/+7/+2 || +8 || +8 || +4
-| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+3)]]
-|-
-| 13 || +13/+8/+3 || +8 || +8 || +4
-| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
-|- CLASS="alt"
-| 14 || +14/+9/+4 || +9 || +9 || +4
-| CLASS="gauche" | [[Métamorphe#ASPECTCHIMERIQUESUPERIEUR|aspect chimérique supérieur]]
-|-
-| 15 || +15/+10/+5 || +9 || +9 || +5
-| CLASS="gauche" | [[Métamorphe#ASPECT|quatrième aspect]]
-|- CLASS="alt"
-| 16 || +16/+11/+6/+1 || +10 || +10 || +5
-| CLASS="gauche" | [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+4)]]
-|-
-| 17 || +17/+12/+7/+2 || +10 || +10 || +5
-| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
-|- CLASS="alt"
-| 18 || +18/+13/+8/+3 || +11 || +11 || +6
-| CLASS="gauche" | [[Métamorphe#ETERNELLEJEUNESSE|éternelle jeunesse]], [[Métamorphe#MILLEVISAGES|mille visages]]
-|-
-| 19 || +19/+14/+9/+4 || +11 || +11 || +6
-| CLASS="gauche" | [[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]
-|- CLASS="alt"
-| 20 || +20/+15/+10/+5 || +12 || +12 || +6
-| CLASS="gauche" | [[Métamorphe#ASPECTFINAL|aspect final]], [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+5)]]
-|}
+
+<table CLASS="tablo"><caption>Le Métamorphe</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td CLASS="gauche">[[Métamorphe#ASPECT|aspect du métamorphe]], [[Métamorphe#EMPATHIESAUVAGE|empathie sauvage]], [[Métamorphe#GRIFFES|griffes du métamorphe]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+3</td><td>+3</td><td>+0</td><td CLASS="gauche">[[Métamorphe#INSTINCTDEFENSIF|instinct défensif]], [[Métamorphe#PISTAGE|pistage]]</td></tr><tr><td>3</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td CLASS="gauche">[[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]], [[Métamorphe#DEPLACEMENTFACILITE|déplacement facilité]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+1)]], [[Métamorphe#FORMEANIMALE|forme animale]]</td></tr><tr><td>5</td><td>+5</td><td>+4</td><td>+4</td><td>+1</td><td CLASS="gauche">[[Métamorphe#ASPECT|deuxième aspect]], [[Métamorphe#ABSENCEDETRACES|absence de traces]]</td></tr><tr CLASS="alt"><td>6</td><td>+6/+1</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Métamorphe#FURIEDUMETAMORPHE|furie du métamorphe]]</td></tr><tr><td>7</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+2</td><td CLASS="gauche">[[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]</td></tr><tr CLASS="alt"><td>8</td><td>+8/+3</td><td>+6</td><td>+6</td><td>+2</td><td CLASS="gauche">[[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+2)]]</td></tr><tr><td>9</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+3</td><td CLASS="gauche">[[Métamorphe#ASPECTCHIMERIQUE|aspect chimérique]]</td></tr><tr CLASS="alt"><td>10</td><td>+10/+5</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Métamorphe#ASPECT|troisième aspect]]</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+7</td><td>+7</td><td>+3</td><td CLASS="gauche">[[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]</td></tr><tr CLASS="alt"><td>12</td><td>+12/+7/+2</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+3)]]</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+8</td><td>+8</td><td>+4</td><td CLASS="gauche">[[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]</td></tr><tr CLASS="alt"><td>14</td><td>+14/+9/+4</td><td>+9</td><td>+9</td><td>+4</td><td CLASS="gauche">[[Métamorphe#ASPECTCHIMERIQUESUPERIEUR|aspect chimérique supérieur]]</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+9</td><td>+9</td><td>+5</td><td CLASS="gauche">[[Métamorphe#ASPECT|quatrième aspect]]</td></tr><tr CLASS="alt"><td>16</td><td>+16/+11/+6/+1</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+4)]]</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+10</td><td>+10</td><td>+5</td><td CLASS="gauche">[[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]</td></tr><tr CLASS="alt"><td>18</td><td>+18/+13/+8/+3</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Métamorphe#ETERNELLEJEUNESSE|éternelle jeunesse]], [[Métamorphe#MILLEVISAGES|mille visages]]</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+11</td><td>+11</td><td>+6</td><td CLASS="gauche">[[Métamorphe#GRIFFES|amélioration des griffes du métamorphe]]</td></tr><tr CLASS="alt"><td>20</td><td>+20/+15/+10/+5</td><td>+12</td><td>+12</td><td>+6</td><td CLASS="gauche">[[Métamorphe#ASPECTFINAL|aspect final]], [[Métamorphe#INSTINCTDEFENSIF|instinct défensif (+5)]]</td></tr></table>
+
 </center>
 
 {s:ImageDroite|PCUP/Iconics/Zova.jpeg|35%}**Rôle.** Le métamorphe est tellement en harmonie avec la nature et les bêtes sauvages du monde qu'il peut faire appel à leurs pouvoirs pour renforcer sa propre existence de manière mystique. Fluide dans la forme et dans la fonction il peut se sculpter lui-même pour venir à bout des difficultés et aider ceux avec lesquels il s'est lié d'amitié ou qu'il sert.

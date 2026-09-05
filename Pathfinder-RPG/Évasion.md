@@ -19,34 +19,10 @@ LastModified: 2020-03-25 12:27
 La table suivante indique les [[DD]] associés aux différentes formes d’entraves.
 
 <center>
-{| CLASS="tablo"
-|+ Entraves
-|- CLASS="titre"
-| Entraves
-| DD du test d’Évasion
-|- CLASS="premier"
-| cordes, personnage ligoté
-| 20 + [[BMO]] de l’individu  
- qui a ligoté le personnage
-|- CLASS="alt"
-| [[Tableau récapitulatif des armes|filet]], sorts de *[[contrôle des plantes]]*, *[[corde animée]]*, *[[empire végétal]]* ou *[[enchevêtrement]]*
-| 20
-|-
-| sort de *[[collet]]*
-| 23
-|- CLASS="alt"
-| menottes
-| 30
-|-
-| conduit étroit
-| 30
-|- CLASS="alt"
-| menottes de qualité supérieure
-| 35
-|-
-| situation de [[lutte]]
-| [[DMD]] de l’adversaire
-|}
+
+<table CLASS="tablo"><caption>Entraves</caption><tr CLASS="titre"><td>Entraves</td><td>DD du test d’Évasion</td></tr><tr CLASS="premier"><td>cordes, personnage ligoté</td><td>20 + [[BMO]] de l’individu  
+ qui a ligoté le personnage</td></tr><tr CLASS="alt"><td>[[Tableau récapitulatif des armes|filet]], sorts de *[[contrôle des plantes]]*, *[[corde animée]]*, *[[empire végétal]]* ou *[[enchevêtrement]]*</td><td>20</td></tr><tr><td>sort de *[[collet]]*</td><td>23</td></tr><tr CLASS="alt"><td>menottes</td><td>30</td></tr><tr><td>conduit étroit</td><td>30</td></tr><tr CLASS="alt"><td>menottes de qualité supérieure</td><td>35</td></tr><tr><td>situation de [[lutte]]</td><td>[[DMD]] de l’adversaire</td></tr></table>
+
 </center>
 
 **Cordes.** Le [[DD]] du test d’Évasion du personnage est égal à 20 + le [[BMO|bonus de manœuvre offensive]] de l’individu qui l’a ligoté.

@@ -47,35 +47,9 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[parchemins magiques|parchemin]] de [[cacophonie]]*, *[[parchemins magiques|parchemin]] de [[convocation de monstres II]]* ; **Équipement divers** [[cuirasse (armure)|cuirasse]], [[hache darmes (arme)|hache de guerre]], [[javeline (arme)|javelines]] (4), *[[cape de résistance|cape de résistance +1]]*, [[Symbole sacré (objet)|symbole sacré en bois]], 135 po}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'orque
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Orque]] || 1/3
-|-
-| [[Sergent orque]] || 2
-|-
-| [[Mystique orque]] || 2
-|-
-| [[Brigand orque]] || 3
-|-
-| [[Tambour de guerre orque]] || 3
-|-
-| [[Lieutenant orque]] || 4
-|-
-| [[Éclaireur orque]] || 5
-|-
-| [[Chevaucheur de gorthek]] || 6
-|-
-| [[Seigneur de guerre orque (barbare)]] || 6
-|-
-| [[Gorthek]] || 7
-|-
-| [[Sorcier docteur orque]] || 8
-|-
-| [[Seigneur de guerre orque (guerrier)]] || 9
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'orque</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Orque]]</td><td>1/3</td></tr><tr><td>[[Sergent orque]]</td><td>2</td></tr><tr><td>[[Mystique orque]]</td><td>2</td></tr><tr><td>[[Brigand orque]]</td><td>3</td></tr><tr><td>[[Tambour de guerre orque]]</td><td>3</td></tr><tr><td>[[Lieutenant orque]]</td><td>4</td></tr><tr><td>[[Éclaireur orque]]</td><td>5</td></tr><tr><td>[[Chevaucheur de gorthek]]</td><td>6</td></tr><tr><td>[[Seigneur de guerre orque (barbare)]]</td><td>6</td></tr><tr><td>[[Gorthek]]</td><td>7</td></tr><tr><td>[[Sorcier docteur orque]]</td><td>8</td></tr><tr><td>[[Seigneur de guerre orque (guerrier)]]</td><td>9</td></tr></table>
+
 </div> Redoutés pour leur capacité à communier avec les
 violentes divinités du panthéon des orques, les mystiques
 orques sont nettement plus pieux que leurs frères. Cela dit,

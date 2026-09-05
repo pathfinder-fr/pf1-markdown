@@ -12,42 +12,9 @@ Categories:
 La classe de prestige de chroniqueur attire tous ceux qui voient le monde comme un grand mystère à éclaircir et ses rangs, très variés, sont composés de [[guerrier|guerriers]], de [[barde|bardes]], de [[magicien|magiciens]] et de [[prêtre|prêtres]], plus tout ce qui se trouve entre. Cependant, à cause de leur rôle d'historiens et de gardiens de la postérité, les aspirants chroniqueurs doivent être lettrés et érudits. Ce sont bien plus que de simples chasseurs de trésor.''
 
 <center>
-{| CLASS="tablo"
-|+ Le chroniqueur
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +0 || +1 || +0 || +1
-| CLASS="gauche" | [[chroniqueur#SAVOIRBARDIQUE|Savoir bardique]], [[chroniqueur#POCHESPROFONDES|poches profondes]], [[chroniqueur#MAITRESCRIBE|maître scribe]]
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[chroniqueur#SURVIVREPOURRACONTER|Survivre pour raconter]], [[chroniqueur#DECOUVERTEDESSENTIERS|découverte des sentiers]]
-|-
-| 3 || +2 || +2 || +1 || +2
-| CLASS="gauche" | [[chroniqueur#REPRESENTATIONBARDIQUE|Représentation bardique]], [[chroniqueur#AIDESUPERIEURE|aide supérieure]]
-|- CLASS="alt"
-| 4 || +3 || +2 || +1 || +2
-| CLASS="gauche" | [[chroniqueur#SAGASEPIQUES|Sagas épiques]]
-|-
-| 5 || +3 || +3 || +2 || +3
-| CLASS="gauche" | [[chroniqueur#RUMEURS|Rumeurs]]
-|- CLASS="alt"
-| 6 || +4 || +3 || +2 || +3
-| CLASS="gauche" | [[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (mouvement)
-|-
-| 7 || +5 || +4 || +2 || +4
-| CLASS="gauche" | [[chroniqueur#INVOQUERLESLEGENDES|Invoquer les légendes]]
-|- CLASS="alt"
-| 8 || +6 || +4 || +3 || +4
-| CLASS="gauche" | [[chroniqueur#SAGASEPIQUESLEGENDAIRES|Sagas épiques légendaires]]
-|-
-| 9 || +6 || +5 || +3 || +5
-| CLASS="gauche" | [[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (simple)
-|- CLASS="alt"
-| 10 || +7 || +5 || +3 || +5
-| CLASS="gauche" | [[chroniqueur#LAIDESMORTSHONORES|Lai des morts honorés]]
-|}
+
+<table CLASS="tablo"><caption>Le chroniqueur</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+1</td><td>+0</td><td>+1</td><td CLASS="gauche">[[chroniqueur#SAVOIRBARDIQUE|Savoir bardique]], [[chroniqueur#POCHESPROFONDES|poches profondes]], [[chroniqueur#MAITRESCRIBE|maître scribe]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[chroniqueur#SURVIVREPOURRACONTER|Survivre pour raconter]], [[chroniqueur#DECOUVERTEDESSENTIERS|découverte des sentiers]]</td></tr><tr><td>3</td><td>+2</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[chroniqueur#REPRESENTATIONBARDIQUE|Représentation bardique]], [[chroniqueur#AIDESUPERIEURE|aide supérieure]]</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+2</td><td>+1</td><td>+2</td><td CLASS="gauche">[[chroniqueur#SAGASEPIQUES|Sagas épiques]]</td></tr><tr><td>5</td><td>+3</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[chroniqueur#RUMEURS|Rumeurs]]</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+3</td><td>+2</td><td>+3</td><td CLASS="gauche">[[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (mouvement)</td></tr><tr><td>7</td><td>+5</td><td>+4</td><td>+2</td><td>+4</td><td CLASS="gauche">[[chroniqueur#INVOQUERLESLEGENDES|Invoquer les légendes]]</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+4</td><td>+3</td><td>+4</td><td CLASS="gauche">[[chroniqueur#SAGASEPIQUESLEGENDAIRES|Sagas épiques légendaires]]</td></tr><tr><td>9</td><td>+6</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[chroniqueur#INSPIRERUNEACTION|Inspirer une action]] (simple)</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+5</td><td>+3</td><td>+5</td><td CLASS="gauche">[[chroniqueur#LAIDESMORTSHONORES|Lai des morts honorés]]</td></tr></table>
+
 </center>
 
 **Rôle.** Au cours de ses missions, le chroniqueur assume souvent le rôle de chef et les aventures que son groupe vit résultent ou tournent autour de ses quêtes sans fin.

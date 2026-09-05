@@ -9,42 +9,9 @@ LastModified: 2015-04-27 21:46
 Etant donné la corruption et le danger que représentent ces créatures, il n'est pas rare qu'une opértion ait des séquelles durables, cependant elle convient aux [[Pathfinder-RPG.guerrier|guerriers]], [[Pathfinder-RPG.barbare|barbares]] et autres combattants n'ayant pas peur du sacrifice pour parvenir à  leurs fins, leur conférant des pouvoirs issus de la corruption même de leur corps. Les gigantesques armes à deux mains qu'ils manient sont souvent témoins de leur force.''
 
 <center>
-{| CLASS="tablo"
-|+ La Lame abyssale
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +1 || +1 || +0
-| CLASS="gauche" | [[Lame Abyssale#FORCEABYSSE|Force des Abysses]], [[Lame Abyssale#SANG FURIEUX|Sang Furieux]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
-|-
-| 3 || +3 || +2 || +2 || +1
-| CLASS="gauche" | [[Lame Abyssale#REGENRAPIDE|Regénération Rapide]]
-|- CLASS="alt"
-| 4 || +4 || +2 || +2 || +1
-| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
-|-
-| 5 || +5 || +3 || +3 || +2
-| CLASS="gauche" | [[Lame Abyssale#VERITASPECT|Véritable Aspect]]
-|- CLASS="alt"
-| 6 || +6 || +3 || +3 || +2
-| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
-|-
-| 7 || +7 || +4 || +4 || +2
-| CLASS="gauche" | [[Lame Abyssale#FURIESUP|Furie Supérieure]]
-|- CLASS="alt"
-| 8 || +8 || +4 || +4 || +3
-| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]
-|-
-| 9 || +9 || +5 || +5 || +3
-| CLASS="gauche" | [[Lame Abyssale#BORDABYSSE|Au Bord de l'Abysse]]
-|- CLASS="alt"
-| 10 || +10 || +5 || +5 || +3
-| CLASS="gauche" | [[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]], [[Lame Abyssale#VERITLAME|Véritable Lame]]
-|}
+
+<table CLASS="tablo"><caption>La Lame abyssale</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+1</td><td>+0</td><td CLASS="gauche">[[Lame Abyssale#FORCEABYSSE|Force des Abysses]], [[Lame Abyssale#SANG FURIEUX|Sang Furieux]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Lame Abyssale#REGENRAPIDE|Regénération Rapide]]</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+2</td><td>+1</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Lame Abyssale#VERITASPECT|Véritable Aspect]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+3</td><td>+2</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+4</td><td>+2</td><td CLASS="gauche">[[Lame Abyssale#FURIESUP|Furie Supérieure]]</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+4</td><td>+3</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]]</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Lame Abyssale#BORDABYSSE|Au Bord de l'Abysse]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+5</td><td>+3</td><td CLASS="gauche">[[Lame Abyssale#POUVOIRSOUILLE|Pouvoir Souillé]], [[Lame Abyssale#VERITLAME|Véritable Lame]]</td></tr></table>
+
 </center>
 
 **Rôle.** Les lames abyssales sont parmi les plus dangereux combattants au corps à corps, disposant d'une variété de talents et de capacités surhumaines pour triompher de leurs ennemis. Ils peuvent également entrer dans un état instable et dangereux, libérant l'abomination en eux, devenant une véritable menace pour leurs ennemis... et parfois tout autant pour eux-mêmes.

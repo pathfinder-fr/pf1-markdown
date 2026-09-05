@@ -9,23 +9,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux sphinx
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Androsphinx]] || &nbsp; || 9
-|-
-| [[Criosphinx]] || &nbsp; || 7
-|-
-| [[Gynosphinx]] || &nbsp; || 8
-|-
-| [[Hiéracosphinx]] || &nbsp; || 5
-|-
-| **Membres mythiques** || **FP** || **RMY**
-|- CLASS="premier"
-| [[Sphinx mythique]] || 10 || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux sphinx</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Androsphinx]]</td><td>&nbsp;</td><td>9</td></tr><tr><td>[[Criosphinx]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Gynosphinx]]</td><td>&nbsp;</td><td>8</td></tr><tr><td>[[Hiéracosphinx]]</td><td>&nbsp;</td><td>5</td></tr><tr><td>**Membres mythiques**</td><td>**FP**</td><td>**RMY**</td></tr><tr CLASS="premier"><td>[[Sphinx mythique]]</td><td>10</td><td>4</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 3.</div>
 *Types/Sous-types associés : [[type Créature magique|Créature magique]]*
 

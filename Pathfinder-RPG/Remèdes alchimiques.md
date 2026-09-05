@@ -9,74 +9,9 @@ Categories:
 {s:MenuEquipement}Les remèdes alchimiques sont des substances utilisées pour soigner des états négatifs ou protéger contre un certain type d’attaque. Les personnages utilisent la plupart de ces remèdes en les ingérant ou en les appliquant sur la peau ou les vêtements. Un personnage ayant la compétence [[Artisanat]] (alchimie) peut fabriquer chacune de ces substances. Le [[DD]] de fabrication est précisé dans la table ci-dessous.
 
 <div class="article_2col">
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|+ Remèdes alchimiques
-|- CLASS="titre"
-| Objet || Prix || Poids || DD
-|- CLASS="premier"
-| [[Remèdes alchimiques#Ambroisie|↓]] [[Ambroisie (objet)|Ambroisie (fiole)]] || 100 po || 0,5 kg || 25
-|-
-| [[Remèdes alchimiques#Anti-maladie|↓]] [[Anti-maladie (objet)|Anti-maladie]] || 50 po || — || 25
-|-
-| [[Remèdes alchimiques#Antitoxine|↓]] [[Antitoxine (objet)|Antitoxine]] || 50 po || — || 25
-|-
-| [[Remèdes alchimiques#Anti-vermine|↓]] [[Anti-vermine (objet)|Anti-vermine]] || 5 po || — || 20
-|-
-| [[Remèdes alchimiques#Apaise-tripes|↓]] [[Apaise-tripes (objet)|Apaise-tripes (fiole)]] || 50 po || — || 25
-|-
-| [[Remèdes alchimiques#Baume antipoison|↓]] [[Baume antipoison (objet)|Baume antipoison]] || 15 po || — || 15
-|-
-| [[Remèdes alchimiques#Baume coagulant|↓]] [[Baume coagulant (objet)|Baume coagulant]] || 30 po || — || 20
-|-
-| [[Remèdes alchimiques#Besace desprit guerrier|↓]] [[Besace desprit guerrier (objet)|Besace d'esprit guerrier]] || 50 po || — || 20
-|-
-| [[Remèdes alchimiques#Bismuth salix|↓]] [[Bismuth salix (objet)|Bismuth salix]] || 30 po || — || 20
-|-
-| [[Remèdes alchimiques#Bonté de lalchimiste|↓]] [[Bonté de lalchimiste (objet)|Bonté de l'alchimiste]] || 1 po || — || 20
-|-
-| [[Remèdes alchimiques#Confiture alchimique|↓]] [[Confiture alchimique (objet)|Confiture alchimique]] || 50 po || — || 20
-|-
-| [[Remèdes alchimiques#Énergisant spirituel|↓]] [[Énergisant spirituel (objet)|Énergisant spirituel]] || 300 po || — || 30
-|-
-| [[Remèdes alchimiques#Gardelame|↓]] [[Gardelame (objet)|Gardelame]] || 40 po || — || 15
-|-
-| [[Remèdes alchimiques#Gel de protection contre le froid|↓]] [[Gel de protection contre le froid (objet)|Gel de protection contre le froid]] || 150 po || 0,5 kg || 25
-|-
-| [[Remèdes alchimiques#Gel ignifuge|↓]] [[Gel ignifuge (objet)|Gel ignifuge]] || 150 po || 0,5 kg || 25
-|-
-| [[Remèdes alchimiques#Graisse alchimique|↓]] [[Graisse alchimique (objet)|Graisse alchimique]] || 5 po || 0,5 kg || 15
-|-
-| [[Remèdes alchimiques#Huile alaire|↓]] [[Huile alaire (objet)|Huile alaire]] || 1 po || — || 20
-|-
-| [[Remèdes alchimiques#Huile de troll|↓]] [[Huile de troll (objet)|Huile de troll]] || 50 po || 0,5 kg || 30
-|-
-| [[Remèdes alchimiques#Myrrhe curative|↓]] [[Myrrhe curative (objet)|Myrrhe curative]] || 50 po || — || 20
-|-
-| [[Remèdes alchimiques#Padzahr|↓]] [[Padzahr (objet)|Padzahr]] || 80 po || — || 25
-|-
-| [[Remèdes alchimiques#Racine veloutée|↓]] [[Racine veloutée (objet)|Racine veloutée (fiole)]] || 25 po || — || 20
-|-
-| [[Remèdes alchimiques#Sang alchimique|↓]] [[Sang alchimique (objet)|Sang alchimique]] || 40 po || 0,5 kg || 40
-|-
-| [[Remèdes alchimiques#Secours du forcené|↓]] [[Secours du forcené (objet)|Secours du forcené]] || 25 po || — || 25
-|-
-| [[Remèdes alchimiques#Sels odorants|↓]] [[Sels odorants (objet)|Sels odorants]] || 25 po || — || 25
-|-
-| [[Remèdes alchimiques#Sève terreuse distillée|↓]] [[Sève terreuse distillée (objet)|Sève terreuse distillée]] || 30 po || 0,25 kg || 15
-|-
-| [[Remèdes alchimiques#Sirop apaisant|↓]] [[Sirop apaisant (objet)|Sirop apaisant]] || 25 po || 0,25 kg || 15
-|-
-| [[Remèdes alchimiques#Styptique de troll|↓]] [[Styptique de troll (objet)|Styptique de troll]] || 100 po || — || 25
-|-
-| [[Remèdes alchimiques#Tabac antiémétique|↓]] [[Tabac antiémétique (objet)|Tabac antiémétique]] || 50 po || — || 25
-|-
-| [[Remèdes alchimiques#Thé de méditation|↓]] [[Thé de méditation (objet)|Thé de méditation]] || 30 po || — || 20
-|-
-| [[Remèdes alchimiques#Tic tonique|↓]] [[Tic tonique (objet)|Tic tonique]] || 45 po || — || 25
-|-
-| [[Remèdes alchimiques#Tonique|↓]] [[Tonique (objet)|Tonique]] || 20 po || 0,5 kg || 20
-|-
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><caption>Remèdes alchimiques</caption><tr CLASS="titre"><td>Objet</td><td>Prix</td><td>Poids</td><td>DD</td></tr><tr CLASS="premier"><td>[[Remèdes alchimiques#Ambroisie|↓]] [[Ambroisie (objet)|Ambroisie (fiole)]]</td><td>100 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Anti-maladie|↓]] [[Anti-maladie (objet)|Anti-maladie]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Antitoxine|↓]] [[Antitoxine (objet)|Antitoxine]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Anti-vermine|↓]] [[Anti-vermine (objet)|Anti-vermine]]</td><td>5 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Apaise-tripes|↓]] [[Apaise-tripes (objet)|Apaise-tripes (fiole)]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Baume antipoison|↓]] [[Baume antipoison (objet)|Baume antipoison]]</td><td>15 po</td><td>—</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Baume coagulant|↓]] [[Baume coagulant (objet)|Baume coagulant]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Besace desprit guerrier|↓]] [[Besace desprit guerrier (objet)|Besace d'esprit guerrier]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Bismuth salix|↓]] [[Bismuth salix (objet)|Bismuth salix]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Bonté de lalchimiste|↓]] [[Bonté de lalchimiste (objet)|Bonté de l'alchimiste]]</td><td>1 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Confiture alchimique|↓]] [[Confiture alchimique (objet)|Confiture alchimique]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Énergisant spirituel|↓]] [[Énergisant spirituel (objet)|Énergisant spirituel]]</td><td>300 po</td><td>—</td><td>30</td></tr><tr><td>[[Remèdes alchimiques#Gardelame|↓]] [[Gardelame (objet)|Gardelame]]</td><td>40 po</td><td>—</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Gel de protection contre le froid|↓]] [[Gel de protection contre le froid (objet)|Gel de protection contre le froid]]</td><td>150 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Gel ignifuge|↓]] [[Gel ignifuge (objet)|Gel ignifuge]]</td><td>150 po</td><td>0,5 kg</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Graisse alchimique|↓]] [[Graisse alchimique (objet)|Graisse alchimique]]</td><td>5 po</td><td>0,5 kg</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Huile alaire|↓]] [[Huile alaire (objet)|Huile alaire]]</td><td>1 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Huile de troll|↓]] [[Huile de troll (objet)|Huile de troll]]</td><td>50 po</td><td>0,5 kg</td><td>30</td></tr><tr><td>[[Remèdes alchimiques#Myrrhe curative|↓]] [[Myrrhe curative (objet)|Myrrhe curative]]</td><td>50 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Padzahr|↓]] [[Padzahr (objet)|Padzahr]]</td><td>80 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Racine veloutée|↓]] [[Racine veloutée (objet)|Racine veloutée (fiole)]]</td><td>25 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Sang alchimique|↓]] [[Sang alchimique (objet)|Sang alchimique]]</td><td>40 po</td><td>0,5 kg</td><td>40</td></tr><tr><td>[[Remèdes alchimiques#Secours du forcené|↓]] [[Secours du forcené (objet)|Secours du forcené]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Sels odorants|↓]] [[Sels odorants (objet)|Sels odorants]]</td><td>25 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Sève terreuse distillée|↓]] [[Sève terreuse distillée (objet)|Sève terreuse distillée]]</td><td>30 po</td><td>0,25 kg</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Sirop apaisant|↓]] [[Sirop apaisant (objet)|Sirop apaisant]]</td><td>25 po</td><td>0,25 kg</td><td>15</td></tr><tr><td>[[Remèdes alchimiques#Styptique de troll|↓]] [[Styptique de troll (objet)|Styptique de troll]]</td><td>100 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Tabac antiémétique|↓]] [[Tabac antiémétique (objet)|Tabac antiémétique]]</td><td>50 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Thé de méditation|↓]] [[Thé de méditation (objet)|Thé de méditation]]</td><td>30 po</td><td>—</td><td>20</td></tr><tr><td>[[Remèdes alchimiques#Tic tonique|↓]] [[Tic tonique (objet)|Tic tonique]]</td><td>45 po</td><td>—</td><td>25</td></tr><tr><td>[[Remèdes alchimiques#Tonique|↓]] [[Tonique (objet)|Tonique]]</td><td>20 po</td><td>0,5 kg</td><td>20</td></tr></table>
+
 </div>
 
 ### Description des remèdes alchimiques

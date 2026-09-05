@@ -26,42 +26,9 @@ Categories:
 - **Compétences.** Si le demi-fiélon a des [[DV]] raciaux, il possède un nombre de rangs de [[compétences]] par [[DV]] racial égal à 6 + son modificateur d'[[Intelligence]]. Les compétences de classes raciales restent inchangées, de même que les rangs de compétence provenant des niveaux de classe.
 </div>
 
-{| CLASS="tablo"
-|+ Table des pouvoirs magiques du demi-fiélon
-|- CLASS="titre"
-| class="gauche" | DV
-| class="gauche" | Pouvoir magique
-|- CLASS="premier"
-| class="gauche" | 1-2
-| class="gauche" | *[[ténèbres]]* (3/jour)
-|- CLASS="alt"
-| class="gauche" | 3-4
-| class="gauche" | *[[profanation]]*
-|-
-| class="gauche" | 5-6
-| class="gauche" | *[[ténèbres maudites]]*
-|- CLASS="alt"
-| class="gauche" | 7-8
-| class="gauche" | *[[empoisonnement]]* (3/jour)
-|-
-| class="gauche" | 9-10
-| class="gauche" | *[[contagion]]*
-|- CLASS="alt"
-| class="gauche" | 11-12
-| class="gauche" | *[[blasphème]]*
-|-
-| class="gauche" | 13-14
-| class="gauche" | *[[aura maudite]]* (3/jour), *[[sanctification maléfique]]*
-|- CLASS="alt"
-| class="gauche" | 15-16
-| class="gauche" | *[[flétrissure]]*
-|-
-| class="gauche" | 17-18
-| class="gauche" | *[[convocation de monstres IX]]* (uniquement des fiélons)
-|- CLASS="alt"
-| class="gauche" | 19-20
-| class="gauche" | *[[sort Destruction|destruction]]*
-|}
+
+<table CLASS="tablo"><caption>Table des pouvoirs magiques du demi-fiélon</caption><tr CLASS="titre"><td class="gauche">DV</td><td class="gauche">Pouvoir magique</td></tr><tr CLASS="premier"><td class="gauche">1-2</td><td class="gauche">*[[ténèbres]]* (3/jour)</td></tr><tr CLASS="alt"><td class="gauche">3-4</td><td class="gauche">*[[profanation]]*</td></tr><tr><td class="gauche">5-6</td><td class="gauche">*[[ténèbres maudites]]*</td></tr><tr CLASS="alt"><td class="gauche">7-8</td><td class="gauche">*[[empoisonnement]]* (3/jour)</td></tr><tr><td class="gauche">9-10</td><td class="gauche">*[[contagion]]*</td></tr><tr CLASS="alt"><td class="gauche">11-12</td><td class="gauche">*[[blasphème]]*</td></tr><tr><td class="gauche">13-14</td><td class="gauche">*[[aura maudite]]* (3/jour), *[[sanctification maléfique]]*</td></tr><tr CLASS="alt"><td class="gauche">15-16</td><td class="gauche">*[[flétrissure]]*</td></tr><tr><td class="gauche">17-18</td><td class="gauche">*[[convocation de monstres IX]]* (uniquement des fiélons)</td></tr><tr CLASS="alt"><td class="gauche">19-20</td><td class="gauche">*[[sort Destruction|destruction]]*</td></tr></table>
+
 
 </td><td><div>Voir un exemple : le [[minotaure demi-fiélon]].
 

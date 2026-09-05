@@ -15,18 +15,9 @@ Il existe deux types de marécages : les landes sèches et les marais croupis. T
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Catégories de marais || Landes || Marais
-|- CLASS="premier"
-| Tourbières peu profondes || 20% || 40%
-|- CLASS="alt"
-| Tourbières profondes || 5% || 20%
-|-
-| Broussailles légères || 30% || 20%
-|- CLASS="alt"
-| Broussailles épaisses || 10% || 20%
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Catégories de marais</td><td>Landes</td><td>Marais</td></tr><tr CLASS="premier"><td>Tourbières peu profondes</td><td>20%</td><td>40%</td></tr><tr CLASS="alt"><td>Tourbières profondes</td><td>5%</td><td>20%</td></tr><tr><td>Broussailles légères</td><td>30%</td><td>20%</td></tr><tr CLASS="alt"><td>Broussailles épaisses</td><td>10%</td><td>20%</td></tr></table>
+
 </center>
 </div></div>
 **Tourbières.** Si une case fait partie d’une tourbière peu profonde, elle contient trente centimètres de boue ou d’eau stagnante. Pour y entrer, il faut dépenser 2 cases de déplacement et le [[DD]] des tests d’[[Acrobaties]] augmente de 2 points.

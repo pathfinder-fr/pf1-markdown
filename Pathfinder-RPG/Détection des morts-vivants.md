@@ -37,18 +37,9 @@ Troisième [[round]] : intensité et emplacement de chacune des auras. Si une au
 **Intensité de l’aura.** La puissance de l’aura dépend du nombre de [[DV]] du [[type mort-vivant|mort-vivant]] dont elle émane :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| DV du mort-vivant || Intensité de l’aura || Persistance
-|- CLASS="premier"
-| 1 ou moins || Faible || 1d6 [[round|rounds]]
-|- CLASS="alt"
-| 2–4 || Modérée || 1d6 minutes
-|-
-| 5–10 || Puissante || 1d6x10 minutes
-|- CLASS="alt"
-| 11 ou plus || Surpuissante || 1d6 jours
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>DV du mort-vivant</td><td>Intensité de l’aura</td><td>Persistance</td></tr><tr CLASS="premier"><td>1 ou moins</td><td>Faible</td><td>1d6 [[round|rounds]]</td></tr><tr CLASS="alt"><td>2–4</td><td>Modérée</td><td>1d6 minutes</td></tr><tr><td>5–10</td><td>Puissante</td><td>1d6x10 minutes</td></tr><tr CLASS="alt"><td>11 ou plus</td><td>Surpuissante</td><td>1d6 jours</td></tr></table>
+
 </center>
 
 **Aura persistante.** L’aura de [[type mort-vivant|mort-vivant]] ne disparaît pas immédiatement lorsque sa source est détruite. Un sort de *détection des morts-vivants* ciblant la zone en question révèle une aura ténue (moins puissante qu’une aura faible). Le temps pendant lequel l’aura persiste dépend de la puissance du [[type mort-vivant|mort-vivant]], comme indiqué sur la table ci-dessus.

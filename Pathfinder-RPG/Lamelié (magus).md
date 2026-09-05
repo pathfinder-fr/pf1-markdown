@@ -41,79 +41,9 @@ Chaque lame a une mission et, même s’il arrive que deux lames ou plus travail
 Certaines lames noires sont très ouvertes au sujet de leur mission mais d’autres gardent jalousement le secret. Certains sages supposent qu’une main invisible ou une puissance magique dirige ces armes.
 
 <center>
-{| CLASS="tablo"
-|+ La progression des lames noires
-|- CLASS="titre"
-| Niveau du magus
-| Bonus d'altération
-| Int
-| Sag/Cha
-| Ego
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 3-4
-| +1
-| 11
-| 7
-| 5
-| CLASS="gauche" | frappe de lame noire, incassable, télépathie, vigilance
-|- CLASS="alt"
-| 5-6
-| +2
-| 12
-| 8
-| 8
-| CLASS="gauche" | harmonisation d’énergie
-|-
-| 7-8
-| +2
-| 13
-| 9
-| 10
-| CLASS="gauche" | –
-|- CLASS="alt"
-| 9-10
-| +3
-| 14
-| 10
-| 12
-| CLASS="gauche" | téléportation de lame
-|-
-| 11-12
-| +3
-| 15
-| 11
-| 14
-| CLASS="gauche" | –
-|- CLASS="alt"
-| 13-14
-| +4
-| 16
-| 12
-| 16
-| CLASS="gauche" | transfert d’arcane
-|-
-| 15-16
-| +4
-| 17
-| 13
-| 18
-| CLASS="gauche" | –
-|- CLASS="alt"
-| 17-18
-| +5
-| 18
-| 14
-| 22
-| CLASS="gauche" | défense magique
-|-
-| 19-20
-| +5
-| 19
-| 15
-| 24
-| CLASS="gauche" | buveuse de vie
-|}
+
+<table CLASS="tablo"><caption>La progression des lames noires</caption><tr CLASS="titre"><td>Niveau du magus</td><td>Bonus d'altération</td><td>Int</td><td>Sag/Cha</td><td>Ego</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>3-4</td><td>+1</td><td>11</td><td>7</td><td>5</td><td CLASS="gauche">frappe de lame noire, incassable, télépathie, vigilance</td></tr><tr CLASS="alt"><td>5-6</td><td>+2</td><td>12</td><td>8</td><td>8</td><td CLASS="gauche">harmonisation d’énergie</td></tr><tr><td>7-8</td><td>+2</td><td>13</td><td>9</td><td>10</td><td CLASS="gauche">–</td></tr><tr CLASS="alt"><td>9-10</td><td>+3</td><td>14</td><td>10</td><td>12</td><td CLASS="gauche">téléportation de lame</td></tr><tr><td>11-12</td><td>+3</td><td>15</td><td>11</td><td>14</td><td CLASS="gauche">–</td></tr><tr CLASS="alt"><td>13-14</td><td>+4</td><td>16</td><td>12</td><td>16</td><td CLASS="gauche">transfert d’arcane</td></tr><tr><td>15-16</td><td>+4</td><td>17</td><td>13</td><td>18</td><td CLASS="gauche">–</td></tr><tr CLASS="alt"><td>17-18</td><td>+5</td><td>18</td><td>14</td><td>22</td><td CLASS="gauche">défense magique</td></tr><tr><td>19-20</td><td>+5</td><td>19</td><td>15</td><td>24</td><td CLASS="gauche">buveuse de vie</td></tr></table>
+
 </center>
 
 **Profil de base de la lame noire.** La lame noire est liée à un magus particulier, un peu comme un familier, mais selon une relation qui ressemble plus à un partenariat qu’à un rapport maître/serviteur.

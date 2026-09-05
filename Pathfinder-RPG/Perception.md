@@ -25,101 +25,13 @@ En revanche, cela ne signifie pas forcément que le MJ ou le joueur doit lancer 
 
 La compétence de Perception permet également de remarquer certains détails dans l’environnement du personnage. Le [[DD]] du test dépend alors de la distance, de l’environnement et de la difficulté à percevoir le détail en question. La table qui suit donne quelques indications pour déterminer le [[DD]] du test.
 
-{| CLASS="tablo centre autoalt"
-|+ tests de Perception
-|- CLASS="titre"
-| Détail
-| DD du test de Perception
-|- CLASS="premier"
-| Entendre les bruits d’un combat
-| -10
-|-
-| Sentir l’odeur de détritus en putréfaction
-| -10
-|-
-| Sentir l’odeur de la fumée
-| 0
-|-
-| Entendre les détails d’une conversation
-| 0
-|-
-| Voir une créature visible
-| 0
-|-
-| Déterminer si de la nourriture est avariée
-| 5
-|-
-| Entendre les pas d’une créature
-| 10
-|-
-| Entendre les détails d’une conversation à voix basse
-| 15
-|-
-| Trouver une porte cachée de difficulté moyenne
-| 15
-|-
-| Entendre le son d’une clef tournant dans une serrure
-| 20
-|-
-| Trouver une porte secrète de difficulté moyenne
-| 20
-|-
-| Entendre le son d’un arc dont on tend la corde
-| 25
-|-
-| Percevoir les vibrations d’une créature souterraine passant sous le personnage
-| 25
-|-
-| Remarquer un pickpocket
-| opposé au test d’[[Escamotage]]
-|-
-| Remarquer une créature utilisant la compétence de [[Discrétion]]
-| opposé au test de [[Discrétion]]
-|-
-| Trouver un [[pièges|piège]] caché
-| variable selon le [[pièges|piège]]
-|-
-| Identifier les effets d’une potion en la goûtant
-| 15 + [[NLS]] de la potion
-|}
 
-{| CLASS="tablo centre autoalt" WIDTH="80%"
-|+ modificateur des tests de Perception
-|- CLASS="titre"
-| Circonstances
-| Modificateur au DD du test de Perception
-|- CLASS="premier"
-| Distance entre le personnage et la source/l’objet/la créature
-| +1 par 3 m (2 cases)
-|-
-| À travers une porte fermée
-| +5
-|-
-| À travers un mur
-| +10 par 30 cm d’épaisseur
-|-
-| Conditions favorables<sup>[[Perception#NOTE1|1]]</sup>
-| -2
-|-
-| Conditions défavorables<sup>[[Perception#NOTE1|1]]</sup>
-| +2
-|-
-| Conditions exécrables<sup>[[Perception#NOTE2|2]]</sup>
-| +5
-|-
-| Le personnage qui réalise le test de Perception est distrait
-| +5
-|-
-| Le personnage qui réalise le test de Perception est endormi
-| +10
-|-
-| La créature/l’objet est invisible
-| +20
-|-
-| COLSPAN="2" CLASS="note" | {s:Reference|NOTE1}*(1) Les conditions favorables et défavorables dépendent du sens qui est employé. Par exemple, une lumière forte peut faciliter les tests liés à la vue alors les tests effectués à la lueur d’une torche ou de la lune seront plus difficiles ; des bruits de fond peuvent augmenter le DD d’un test basé sur l’ouïe ; un mélange d’odeurs peut compliquer les tests relatifs à l’[[odorat]].*
-|-
-| COLSPAN="2" CLASS="note" | {s:Reference|NOTE2}*(2) Il s’agit de conditions plus extrêmes que les conditions défavorables. Par exemple, un test lié à la vue à la lueur d’une bougie, un test lié à l’ouïe à côté d’un dragon qui rugit ou un test lié à l’[[odorat]] dans une zone où règne une puanteur écrasante.*
-|}
+<table CLASS="tablo centre autoalt"><caption>tests de Perception</caption><tr CLASS="titre"><td>Détail</td><td>DD du test de Perception</td></tr><tr CLASS="premier"><td>Entendre les bruits d’un combat</td><td>-10</td></tr><tr><td>Sentir l’odeur de détritus en putréfaction</td><td>-10</td></tr><tr><td>Sentir l’odeur de la fumée</td><td>0</td></tr><tr><td>Entendre les détails d’une conversation</td><td>0</td></tr><tr><td>Voir une créature visible</td><td>0</td></tr><tr><td>Déterminer si de la nourriture est avariée</td><td>5</td></tr><tr><td>Entendre les pas d’une créature</td><td>10</td></tr><tr><td>Entendre les détails d’une conversation à voix basse</td><td>15</td></tr><tr><td>Trouver une porte cachée de difficulté moyenne</td><td>15</td></tr><tr><td>Entendre le son d’une clef tournant dans une serrure</td><td>20</td></tr><tr><td>Trouver une porte secrète de difficulté moyenne</td><td>20</td></tr><tr><td>Entendre le son d’un arc dont on tend la corde</td><td>25</td></tr><tr><td>Percevoir les vibrations d’une créature souterraine passant sous le personnage</td><td>25</td></tr><tr><td>Remarquer un pickpocket</td><td>opposé au test d’[[Escamotage]]</td></tr><tr><td>Remarquer une créature utilisant la compétence de [[Discrétion]]</td><td>opposé au test de [[Discrétion]]</td></tr><tr><td>Trouver un [[pièges|piège]] caché</td><td>variable selon le [[pièges|piège]]</td></tr><tr><td>Identifier les effets d’une potion en la goûtant</td><td>15 + [[NLS]] de la potion</td></tr></table>
+
+
+
+<table CLASS="tablo centre autoalt" WIDTH="80%"><caption>modificateur des tests de Perception</caption><tr CLASS="titre"><td>Circonstances</td><td>Modificateur au DD du test de Perception</td></tr><tr CLASS="premier"><td>Distance entre le personnage et la source/l’objet/la créature</td><td>+1 par 3 m (2 cases)</td></tr><tr><td>À travers une porte fermée</td><td>+5</td></tr><tr><td>À travers un mur</td><td>+10 par 30 cm d’épaisseur</td></tr><tr><td>Conditions favorables<sup>[[Perception#NOTE1|1]]</sup></td><td>-2</td></tr><tr><td>Conditions défavorables<sup>[[Perception#NOTE1|1]]</sup></td><td>+2</td></tr><tr><td>Conditions exécrables<sup>[[Perception#NOTE2|2]]</sup></td><td>+5</td></tr><tr><td>Le personnage qui réalise le test de Perception est distrait</td><td>+5</td></tr><tr><td>Le personnage qui réalise le test de Perception est endormi</td><td>+10</td></tr><tr><td>La créature/l’objet est invisible</td><td>+20</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE1}*(1) Les conditions favorables et défavorables dépendent du sens qui est employé. Par exemple, une lumière forte peut faciliter les tests liés à la vue alors les tests effectués à la lueur d’une torche ou de la lune seront plus difficiles ; des bruits de fond peuvent augmenter le DD d’un test basé sur l’ouïe ; un mélange d’odeurs peut compliquer les tests relatifs à l’[[odorat]].*</td></tr><tr><td COLSPAN="2" CLASS="note">{s:Reference|NOTE2}*(2) Il s’agit de conditions plus extrêmes que les conditions défavorables. Par exemple, un test lié à la vue à la lueur d’une bougie, un test lié à l’ouïe à côté d’un dragon qui rugit ou un test lié à l’[[odorat]] dans une zone où règne une puanteur écrasante.*</td></tr></table>
+
 
 
 ### Action

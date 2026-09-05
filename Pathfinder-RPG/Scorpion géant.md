@@ -42,25 +42,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de scorpion
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Scorpion dard-vert]] || 1/4
-|-
-| [[Scorpion des cavernes]] || 1
-|-
-| [[Scorpion empereur géant]] || 11
-|-
-| [[Scorpion fantomatique]] || 1/2
-|-
-| [[Scorpion géant]] || 3
-|-
-| [[Scorpion noir]] || 15
-|-
-| [[Scorpion piégeur]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de scorpion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Scorpion dard-vert]]</td><td>1/4</td></tr><tr><td>[[Scorpion des cavernes]]</td><td>1</td></tr><tr><td>[[Scorpion empereur géant]]</td><td>11</td></tr><tr><td>[[Scorpion fantomatique]]</td><td>1/2</td></tr><tr><td>[[Scorpion géant]]</td><td>3</td></tr><tr><td>[[Scorpion noir]]</td><td>15</td></tr><tr><td>[[Scorpion piégeur]]</td><td>8</td></tr></table>
+
 </div>*Ce scorpion de 5 m agite ses dangereuses pinces en signe de défi. Sa queue et son dard forment une arche au-dessus de son dos.*
 
 Les scorpions géants sont des versions monstrueuses des scorpions communs du désert qui attaquent généralement tout ce qui s’approche d’eux. Ils commencent par charger leur adversaire, puis ils l’étreignent dans leurs pinces et le frappent avec leur queue segmentée jusqu’à ce que le venin injecté les tue.
@@ -78,43 +62,9 @@ Il existe d’autres espèces de scorpions de tailles différentes (certaines pl
 Les variantes les plus courantes sont reprises dans la table ci-dessous :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| class="gauche" | Espèce
-| FP
-| Taille
-| DV
-|- CLASS="premier"
-| class="gauche" | Scorpion à queue verte
-| 1/4
-| TP
-| 1d8
-|- CLASS="alt"
-| class="gauche" | Scorpion fantomatique
-| 1/2
-| P
-| 2d8
-|-
-| class="gauche" | Scorpion des grottes
-| 1
-| M
-| 3d8
-|- CLASS="alt"
-| class="gauche" | Scorpion piégeur
-| 8
-| TG
-| 10d8
-|-
-| class="gauche" | Scorpion empereur géant
-| 11
-| Gig
-| 16d8
-|- CLASS="alt"
-| class="gauche" | Scorpion noir
-| 15
-| Col
-| 22d8
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td class="gauche">Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td class="gauche">Scorpion à queue verte</td><td>1/4</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td class="gauche">Scorpion fantomatique</td><td>1/2</td><td>P</td><td>2d8</td></tr><tr><td class="gauche">Scorpion des grottes</td><td>1</td><td>M</td><td>3d8</td></tr><tr CLASS="alt"><td class="gauche">Scorpion piégeur</td><td>8</td><td>TG</td><td>10d8</td></tr><tr><td class="gauche">Scorpion empereur géant</td><td>11</td><td>Gig</td><td>16d8</td></tr><tr CLASS="alt"><td class="gauche">Scorpion noir</td><td>15</td><td>Col</td><td>22d8</td></tr></table>
+
 </center>
 
 #### Le scorpion géant comme compagnon animal

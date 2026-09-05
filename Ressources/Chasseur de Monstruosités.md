@@ -16,93 +16,9 @@ LastModified: 2022-08-08 19:58
 <tr style="vertical-align: bottom">
 <td width="65%">
 <center>
-{| CLASS="tablo"
-|+ Le Chasseur de Monstruosités
-|- CLASS="titre"
-| Grade
-| Bonus de caractéristique
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1
-| +1
-| CLASS="gauche" | [[Chasseur de Monstruosités#ARTDUSANG|Voie du chasseur]], [[Chasseur de Monstruosités#ECHOSDESANG|Caractéristique principale]],[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 2
-| +1
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 3
-| +1
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 4
-| +1
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 5
-| +1
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 6
-| +2
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 7
-| +2
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 8
-| +2
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 9
-| +2
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 10
-| +2
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 11
-| +3
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 12
-| +3
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 13
-| +3
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 14
-| +3
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 15
-| +3
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 16
-| +4
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 17
-| +4
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 18
-| +4
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|-
-| 19
-| +4
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|- CLASS="alt"
-| 20
-| +4
-| CLASS="gauche" | [[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]
-|}
+
+<table CLASS="tablo"><caption>Le Chasseur de Monstruosités</caption><tr CLASS="titre"><td>Grade</td><td>Bonus de caractéristique</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td CLASS="gauche">[[Chasseur de Monstruosités#ARTDUSANG|Voie du chasseur]], [[Chasseur de Monstruosités#ECHOSDESANG|Caractéristique principale]],[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>3</td><td>+1</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>4</td><td>+1</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>5</td><td>+1</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>6</td><td>+2</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>7</td><td>+2</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>8</td><td>+2</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>9</td><td>+2</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>10</td><td>+2</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>11</td><td>+3</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>12</td><td>+3</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>13</td><td>+3</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>14</td><td>+3</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>15</td><td>+3</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>16</td><td>+4</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>17</td><td>+4</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>18</td><td>+4</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr><td>19</td><td>+4</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr><tr CLASS="alt"><td>20</td><td>+4</td><td CLASS="gauche">[[Chasseur de Monstruosités#CAPACITESAUCHOIX|Capacité de monstre]]</td></tr></table>
+
 </center>
 </td>
 <td width="35%">

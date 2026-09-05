@@ -23,18 +23,9 @@ L’énergie dans laquelle le livre puise son pouvoir est telle que, à chaque f
 Considérez que chaque sort est lancé comme si le personnage utilisait un [[parchemins magiques|parchemin]] pour ce qui est de déterminer le temps d’activation, le risque d’échec des sorts, etc.
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Circonstance || Chance que la page se tourne
-|- CLASS="premier"
-| Pratiquant de la magie employant un sort utilisable par sa classe et à son niveau || 10 %
-|- CLASS="alt"
-| Pratiquant de la magie employant un sort ne correspondant pas à sa classe et à son niveau || 20 %
-|-
-| Non-pratiquant de la magie employant un sort divin || 25 %
-|- CLASS="alt"
-| Non-pratiquant de la magie employant un sort profane || 30 %
-|}
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Circonstance</td><td>Chance que la page se tourne</td></tr><tr CLASS="premier"><td>Pratiquant de la magie employant un sort utilisable par sa classe et à son niveau</td><td>10 %</td></tr><tr CLASS="alt"><td>Pratiquant de la magie employant un sort ne correspondant pas à sa classe et à son niveau</td><td>20 %</td></tr><tr><td>Non-pratiquant de la magie employant un sort divin</td><td>25 %</td></tr><tr CLASS="alt"><td>Non-pratiquant de la magie employant un sort profane</td><td>30 %</td></tr></table>
+
 </center>
 
 (((Destruction)))

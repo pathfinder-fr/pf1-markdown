@@ -33,19 +33,9 @@ LastModified: 2020-09-20 02:44
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de lézard
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Caméléon géant]] || 3
-|-
-| [[Gecko géant]] || 1
-|-
-| [[Lézard à collerette géant]] || 5
-|-
-| [[Varan]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de lézard</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Caméléon géant]]</td><td>3</td></tr><tr><td>[[Gecko géant]]</td><td>1</td></tr><tr><td>[[Lézard à collerette géant]]</td><td>5</td></tr><tr><td>[[Varan]]</td><td>2</td></tr></table>
+
 </div>*En plus de ses grands yeux globuleux lui permettant de repérer ses proies de loin, ce lézard surdimensionné aux écailles lisses a des pieds palmés écartés et une mâchoire aux dents pointues*
 
 Ces lézards sont souvent dociles et prennent la fuite plutôt que d'attaquer des créatures plus grandes qu'un chat ou un chien. Malgré leur timidité, ce sont des créatures curieuses qui s'approchent souvent des créatures plus grandes qu'elles dans le simple but d'observer. Bien entendu, le gecko géant est tout à fait capable de se défendre, mordant les créatures qui réagissent violemment face à eux lorsqu'ils ne peuvent pas fuir. Certains humanoïdes dressent les geckos géants pour en faire des gardiens. Les humanoïdes plus petits (surtout les gobelins) peuvent même les utiliser comme montures, tirant profit de leurs compétences supérieures en escalade pour attaquer depuis des positions et des angles apparemment impossibles. Le gecko géant mesure 2,40 mètres du museau à la queue et pèse 60 kilos. La couleur des geckos géant varie grandement de l'un à l'autre, même si la plupart d'entre eux sont de teintes vertes.

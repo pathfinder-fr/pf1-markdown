@@ -19,33 +19,9 @@ Categories:
 Cette compétence s’utilise sous la forme de tests opposés aux tests de [[Psychologie]] des victimes. Lorsque le personnage utilise la compétence de Bluff pour tromper quelqu’un, un test réussi lui permet de convaincre sa victime qu’il lui dit la vérité. Les résultats des tests de Bluff sont modifiés selon la crédibilité du mensonge. Les modificateurs suivants s’appliquent aux résultats du jet de dé de la créature qui tente de mentir. Il est important de noter que certains mensonges sont si incroyables qu’il est impossible de convaincre qui que ce soit qu’il s’agit de la vérité (ces cas sont laissés à l’appréciation du MJ).
 
 <center>
-{| CLASS="tablo"
-|+ Tests de bluff
-|- CLASS="titre"
-| Circonstances
-| Modificateur au test de Bluff
-|- CLASS="premier"
-| La cible veut croire le personnage.
-| +5
-|- CLASS="alt"
-| Le mensonge est crédible.
-| +0
-|-
-| Le mensonge est peu crédible.
-| -5
-|- CLASS="alt"
-| Le mensonge est très peu crédible.
-| -10
-|-
-| Le mensonge est impossible à croire.
-| -20
-|- CLASS="alt"
-| La cible est saoule ou ses capacités sont affaiblies pour une raison ou une autre.
-| +5
-|-
-| Le personnage possède une preuve convaincante.
-| jusqu’à +10
-|}
+
+<table CLASS="tablo"><caption>Tests de bluff</caption><tr CLASS="titre"><td>Circonstances</td><td>Modificateur au test de Bluff</td></tr><tr CLASS="premier"><td>La cible veut croire le personnage.</td><td>+5</td></tr><tr CLASS="alt"><td>Le mensonge est crédible.</td><td>+0</td></tr><tr><td>Le mensonge est peu crédible.</td><td>-5</td></tr><tr CLASS="alt"><td>Le mensonge est très peu crédible.</td><td>-10</td></tr><tr><td>Le mensonge est impossible à croire.</td><td>-20</td></tr><tr CLASS="alt"><td>La cible est saoule ou ses capacités sont affaiblies pour une raison ou une autre.</td><td>+5</td></tr><tr><td>Le personnage possède une preuve convaincante.</td><td>jusqu’à +10</td></tr></table>
+
 </center>
 
 **Feinter en combat.** Le personnage peut également utiliser la compétence de Bluff pour tromper son adversaire lors d’un combat et lui enlever le bénéfice de son bonus de [[Dextérité]] à la [[CA]] jusqu’à sa prochaine attaque. Le [[DD]] de ce test est égal à 10 + le [[BBA|bonus de base à l’attaque]] de l’adversaire + le modificateur de [[Sagesse]] de l’adversaire. Si l’adversaire possède une formation dans la compétence de [[Psychologie]], le [[DD]] du test vaut 10 + le bonus de [[Psychologie]] de l’adversaire, si ce résultat est plus élevé. Pour plus d’informations sur les feintes en combat, reportez-vous [[feinte|ici]].

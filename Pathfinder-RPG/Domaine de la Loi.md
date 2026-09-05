@@ -64,27 +64,5 @@ Le personnage suit un ensemble de règles strictes et précises et, grâce à ce
 </td></tr></table>
 
 ### Sorts de domaine
-{| CLASS="tablo centre autoalt toutgauche" WIDTH="100%"
-|- CLASS="titre"
-| WIDTH="4%" | Niv
-| WIDTH="26%" | Domaine de la Loi
-| Sous-domaine des Archons || Sous-domaine des Diables || Sous-domaine de l'Esclavage || Sous-domaine de la Fidélité || Sous-domaine des Inévitables || Sous-domaine du Jugement || Sous-domaine des Kytons || Sous-domaine de la Tyrannie
-|- CLASS="premier"
-| 1er || *[[protection contre le Chaos]]* || *[[faveur divine]]* || *[[injonction]]* || *[[charme-personne]]* || *[[regain dassurance|regain d'assurance]]* || *idem* || *idem* || *[[retardement de la douleur]]* || *[[injonction]]*
-|-
-| 2e || *[[arme alignée]]* || *idem* || *idem* || *idem* || *idem* || *idem* || *[[fustiger]]* || *[[instrument dagonie|instrument d'agonie]]* || *idem*
-|-
-| 3e || *[[cercle magique contre le Chaos]]* || *[[prière]]* || *[[suggestion]]* || *idem* || *idem* || *[[contrôle mineur des morts-vivants]]* || *idem* || *[[hurlement dagonie|hurlement d'agonie]]* || *[[sort Malédiction|malédiction]]*
-|-
-| 4e || *[[courroux de lordre|courroux de l’ordre]]* || *idem* || *idem* || *idem* || *idem* || *idem* || *[[réprimande]]* || *idem* || *idem*
-|-
-| 5e || *[[rejet du Chaos]]* || *idem* || *idem* || *[[domination]]* || *[[injonction suprême]]* || *[[injonction suprême]]* || *[[marque de la justice]]* || *[[symbole de douleur]]* || *idem*
-|-
-| 6e || *[[immobilisation de monstre]]* || *[[allié majeur doutreplan|allié majeur d'outreplan]]* (archons uniquement) || *[[contrat intermédiaire]]* (diables uniquement) || *idem* || *idem* || *[[contrat intermédiaire]]* (inévitables uniquement) || *idem* || *idem* || *idem*
-|-
-| 7e || *[[décret]]* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *[[symbole de persuasion]]*
-|-
-| 8e || *[[bouclier de la Loi]]]* || *idem* || *idem* || *[[entrave]]* || *idem* || *idem* || *idem* || *idem* || *idem*
-|-
-| 9e || *[[convocation de monstres IX]]* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem* || *idem*
-|}
+
+<table CLASS="tablo centre autoalt toutgauche" WIDTH="100%"><tr CLASS="titre"><td WIDTH="4%">Niv</td><td WIDTH="26%">Domaine de la Loi</td><td>Sous-domaine des Archons</td><td>Sous-domaine des Diables</td><td>Sous-domaine de l'Esclavage</td><td>Sous-domaine de la Fidélité</td><td>Sous-domaine des Inévitables</td><td>Sous-domaine du Jugement</td><td>Sous-domaine des Kytons</td><td>Sous-domaine de la Tyrannie</td></tr><tr CLASS="premier"><td>1er</td><td>*[[protection contre le Chaos]]*</td><td>*[[faveur divine]]*</td><td>*[[injonction]]*</td><td>*[[charme-personne]]*</td><td>*[[regain dassurance|regain d'assurance]]*</td><td>*idem*</td><td>*idem*</td><td>*[[retardement de la douleur]]*</td><td>*[[injonction]]*</td></tr><tr><td>2e</td><td>*[[arme alignée]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[fustiger]]*</td><td>*[[instrument dagonie|instrument d'agonie]]*</td><td>*idem*</td></tr><tr><td>3e</td><td>*[[cercle magique contre le Chaos]]*</td><td>*[[prière]]*</td><td>*[[suggestion]]*</td><td>*idem*</td><td>*idem*</td><td>*[[contrôle mineur des morts-vivants]]*</td><td>*idem*</td><td>*[[hurlement dagonie|hurlement d'agonie]]*</td><td>*[[sort Malédiction|malédiction]]*</td></tr><tr><td>4e</td><td>*[[courroux de lordre|courroux de l’ordre]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[réprimande]]*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>5e</td><td>*[[rejet du Chaos]]*</td><td>*idem*</td><td>*idem*</td><td>*[[domination]]*</td><td>*[[injonction suprême]]*</td><td>*[[injonction suprême]]*</td><td>*[[marque de la justice]]*</td><td>*[[symbole de douleur]]*</td><td>*idem*</td></tr><tr><td>6e</td><td>*[[immobilisation de monstre]]*</td><td>*[[allié majeur doutreplan|allié majeur d'outreplan]]* (archons uniquement)</td><td>*[[contrat intermédiaire]]* (diables uniquement)</td><td>*idem*</td><td>*idem*</td><td>*[[contrat intermédiaire]]* (inévitables uniquement)</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>7e</td><td>*[[décret]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*[[symbole de persuasion]]*</td></tr><tr><td>8e</td><td>*[[bouclier de la Loi]]]*</td><td>*idem*</td><td>*idem*</td><td>*[[entrave]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr><tr><td>9e</td><td>*[[convocation de monstres IX]]*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td><td>*idem*</td></tr></table>

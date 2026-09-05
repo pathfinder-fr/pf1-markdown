@@ -94,27 +94,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Ces dons sont accessibles aux fetchelins :
 
 <center>
-{| CLASS="tablo autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | &nbsp;
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">&nbsp;</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Arpenteur des ombres]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres</td><td>Le personnage peut utiliser *[[porte dimensionnelle]]* comme pouvoir magique</td></tr><tr CLASS="premier"><td>[[Fantôme dombre|Fantôme d’ombre]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres</td><td>Le personnage dispose d'une utilisation par jour de plus son pouvoir traversée des ombres</td></tr><tr CLASS="premier"><td>[[Frappe obscure]]*</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], [[Combat en aveugle]]</td><td>+1 au jet d'attaque dans les endroits sombres</td></tr><tr CLASS="premier"><td>[[Vision obscure]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]]</td><td>Vision dans le noir à 27 m (18 {s:c})</td></tr><tr><td>&emsp;[[Vision ténébreuse]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], [[Vision obscure]]</td><td>Les personnages a une vision limitée dans les ténèbres magiques</td></tr><tr><td>&emsp;&emsp;[[Vision ténébreuse supérieure]]</td><td><sup>UM</sup></td><td>[[Fetchelin (race)|Fetchelin]], [[Vision obscure]], [[Vision ténébreuse]]</td><td>le personnage gagne la capacité de [[vision dans les ténèbres]]</td></tr></table>
 
-|- CLASS="premier"
-| [[Arpenteur des ombres]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres || Le personnage peut utiliser *[[porte dimensionnelle]]* comme pouvoir magique
-|- CLASS="premier"
-| [[Fantôme dombre|Fantôme d’ombre]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], pouvoir magique traversée des ombres || Le personnage dispose d'une utilisation par jour de plus son pouvoir traversée des ombres
-|- CLASS="premier"
-| [[Frappe obscure]]* || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Combat en aveugle]] || +1 au jet d'attaque dans les endroits sombres
-|- CLASS="premier"
-| [[Vision obscure]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]] || Vision dans le noir à 27 m (18 {s:c})
-|-
-| &emsp;[[Vision ténébreuse]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Vision obscure]] || Les personnages a une vision limitée dans les ténèbres magiques
-|-
-| &emsp;&emsp;[[Vision ténébreuse supérieure]] || <sup>UM</sup> || [[Fetchelin (race)|Fetchelin]], [[Vision obscure]], [[Vision ténébreuse]] || le personnage gagne la capacité de [[vision dans les ténèbres]]
-|}
 </center>
 <div class="wiki-row"><div class="wiki-col wiki-col-6">
 #### Archétypes de classes

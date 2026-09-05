@@ -6,67 +6,9 @@ LastModified: 2021-02-08 15:29
 
 {s:MenuEquipement}
 <center>
-{| CLASS="tablo" WIDTH="85%"
-|+ Marchandises
-|- CLASS="titre"
-| WIDTH="8%" | Prix
-| CLASS="gauche" WIDTH="94%" | Article
-|- CLASS="premier"
-| 1 pc
-| CLASS="gauche" | cochon d’Inde, rat, blé (0,5 kg)
-|- CLASS="alt"
-| 2 pc
-| CLASS="gauche" | haricots (0,5 kg), fromage (0,5 kg), poulet, farine (0,5 kg), pommes de terre (0,5 kg), navets (0,5 kg)
-|-
-| 3 pc
-| CLASS="gauche" | charbon de bois (10 kg), agrumes (0,5 kg), noix (0,5 kg), tourbe (10 kg)
-|- CLASS="alt"
-| 5 pc
-| CLASS="gauche" | café en grains (0,5 kg), charbon (10 kg), pierre de taille (0,5 kg), sucre (0,5 kg)
-|-
-| 1 pa
-| CLASS="gauche" | fer (0,5 kg)
-|- CLASS="alt"
-| 5 pa
-| CLASS="gauche" | cuivre (0,5 kg), ail (0,5 kg), menthe (0,5 kg), moutarde (0,5 kg), origan (0,5 kg), cuir fin (0,8 m2), tabac (0,5 kg)
-|-
-| 1 po
-| CLASS="gauche" | piment aromatique (0,5 kg), basilic (0,5 kg), cannelle (0,5 kg), aneth (0,5 kg), verre (0,5 kg), chèvre, miel (0,5 kg), sirop d’érable (0,5 kg), muscade (0,5 kg), romarin (0,5 kg)
-|- CLASS="alt"
-| 2 po
-| CLASS="gauche" | fourrure de castor, piment (0,5 kg), cardamone (0,5 kg), cumin (0,5 kg), fenouil (0,5 kg), gingembre (0,5 kg), poivre (0,5 kg), safran (0,5 kg), mouton, vanille (0,5 kg)
-|-
-| 3 po
-| CLASS="gauche" | fourrure de renard, fourrure de vison, cochon, cuir épais (0,8 m2)
-|- CLASS="alt"
-| 4 po
-| CLASS="gauche" | fourrure d’hermine, lin (0,8 m2)
-|-
-| 5 po
-| CLASS="gauche" | marbre (0,5 kg), sel (0,5 kg), fourrure de phoque, argent (0,5 kg)
-|- CLASS="alt"
-| 6 po
-| CLASS="gauche" | laine (0,5 kg ou 0,8 m2)
-|-
-| 8 po
-| CLASS="gauche" | coton (0,5 kg ou 0,8 m2)
-|- CLASS="alt"
-| 10 po
-| CLASS="gauche" | chocolat (0,5 kg), vache, ébénite (0,5 kg), soie (0,8 m2)
-|-
-| 15 po
-| CLASS="gauche" | clous de girofle (0,5 kg), boeuf, safran (0,5 kg)
-|- CLASS="alt"
-| 50 po
-| CLASS="gauche" | fer froid (0,5 kg), or (0,5 kg)
-|-
-| 300 po
-| CLASS="gauche" | adamantium (0,5 kg)
-|- CLASS="alt"
-| 500 po
-| CLASS="gauche" | mithral (0,5 kg), platine (0,5 kg)
-|-
-|}
+
+<table CLASS="tablo" WIDTH="85%"><caption>Marchandises</caption><tr CLASS="titre"><td WIDTH="8%">Prix</td><td CLASS="gauche" WIDTH="94%">Article</td></tr><tr CLASS="premier"><td>1 pc</td><td CLASS="gauche">cochon d’Inde, rat, blé (0,5 kg)</td></tr><tr CLASS="alt"><td>2 pc</td><td CLASS="gauche">haricots (0,5 kg), fromage (0,5 kg), poulet, farine (0,5 kg), pommes de terre (0,5 kg), navets (0,5 kg)</td></tr><tr><td>3 pc</td><td CLASS="gauche">charbon de bois (10 kg), agrumes (0,5 kg), noix (0,5 kg), tourbe (10 kg)</td></tr><tr CLASS="alt"><td>5 pc</td><td CLASS="gauche">café en grains (0,5 kg), charbon (10 kg), pierre de taille (0,5 kg), sucre (0,5 kg)</td></tr><tr><td>1 pa</td><td CLASS="gauche">fer (0,5 kg)</td></tr><tr CLASS="alt"><td>5 pa</td><td CLASS="gauche">cuivre (0,5 kg), ail (0,5 kg), menthe (0,5 kg), moutarde (0,5 kg), origan (0,5 kg), cuir fin (0,8 m2), tabac (0,5 kg)</td></tr><tr><td>1 po</td><td CLASS="gauche">piment aromatique (0,5 kg), basilic (0,5 kg), cannelle (0,5 kg), aneth (0,5 kg), verre (0,5 kg), chèvre, miel (0,5 kg), sirop d’érable (0,5 kg), muscade (0,5 kg), romarin (0,5 kg)</td></tr><tr CLASS="alt"><td>2 po</td><td CLASS="gauche">fourrure de castor, piment (0,5 kg), cardamone (0,5 kg), cumin (0,5 kg), fenouil (0,5 kg), gingembre (0,5 kg), poivre (0,5 kg), safran (0,5 kg), mouton, vanille (0,5 kg)</td></tr><tr><td>3 po</td><td CLASS="gauche">fourrure de renard, fourrure de vison, cochon, cuir épais (0,8 m2)</td></tr><tr CLASS="alt"><td>4 po</td><td CLASS="gauche">fourrure d’hermine, lin (0,8 m2)</td></tr><tr><td>5 po</td><td CLASS="gauche">marbre (0,5 kg), sel (0,5 kg), fourrure de phoque, argent (0,5 kg)</td></tr><tr CLASS="alt"><td>6 po</td><td CLASS="gauche">laine (0,5 kg ou 0,8 m2)</td></tr><tr><td>8 po</td><td CLASS="gauche">coton (0,5 kg ou 0,8 m2)</td></tr><tr CLASS="alt"><td>10 po</td><td CLASS="gauche">chocolat (0,5 kg), vache, ébénite (0,5 kg), soie (0,8 m2)</td></tr><tr><td>15 po</td><td CLASS="gauche">clous de girofle (0,5 kg), boeuf, safran (0,5 kg)</td></tr><tr CLASS="alt"><td>50 po</td><td CLASS="gauche">fer froid (0,5 kg), or (0,5 kg)</td></tr><tr><td>300 po</td><td CLASS="gauche">adamantium (0,5 kg)</td></tr><tr CLASS="alt"><td>500 po</td><td CLASS="gauche">mithral (0,5 kg), platine (0,5 kg)</td></tr></table>
+
 </center>
 ### Descriptions
 Les marchands échangent couramment des marchandises sans utiliser de devises.

@@ -10,51 +10,9 @@ Categories:
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px"><center>
-{| CLASS="tablo"
-|+ L'homme du peuple
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-|- CLASS="premier"
-| 1 || +0 || +0 || +0 || +0
-|- CLASS="alt"
-| 2 || +1 || +0 || +0 || +0
-|-
-| 3 || +1 || +1 || +1 || +1
-|- CLASS="alt"
-| 4 || +2 || +1 || +1 || +1
-|-
-| 5 || +2 || +1 || +1 || +1
-|- CLASS="alt"
-| 6 || +3 || +2 || +2 || +2
-|-
-| 7 || +3 || +2 || +2 || +2
-|- CLASS="alt"
-| 8 || +4 || +2 || +2 || +2
-|-
-| 9 || +4 || +3 || +3 || +3
-|- CLASS="alt"
-| 10 || +5 || +3 || +3 || +3
-|-
-| 11 || +5 || +3 || +3 || +3
-|- CLASS="alt"
-| 12 || +6/+1 || +4 || +4 || +4
-|-
-| 13 || +6/+1 || +4 || +4 || +4
-|- CLASS="alt"
-| 14 || +7/+2 || +4 || +4 || +4
-|-
-| 15 || +7/+2 || +5 || +5 || +5
-|- CLASS="alt"
-| 16 || +8/+3 || +5 || +5 || +5
-|-
-| 17 || +8/+3 || +5 || +5 || +5
-|- CLASS="alt"
-| 18 || +9/+4 || +6 || +6 || +6
-|-
-| 19 || +9/+4 || +6 || +6 || +6
-|- CLASS="alt"
-| 20 || +10/+5 || +6 || +6 || +6
-|}
+
+<table CLASS="tablo"><caption>L'homme du peuple</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+0</td><td>+0</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+0</td><td>+0</td><td>+0</td></tr><tr><td>3</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td></tr><tr CLASS="alt"><td>4</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td></tr><tr><td>5</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td></tr><tr CLASS="alt"><td>6</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>7</td><td>+3</td><td>+2</td><td>+2</td><td>+2</td></tr><tr CLASS="alt"><td>8</td><td>+4</td><td>+2</td><td>+2</td><td>+2</td></tr><tr><td>9</td><td>+4</td><td>+3</td><td>+3</td><td>+3</td></tr><tr CLASS="alt"><td>10</td><td>+5</td><td>+3</td><td>+3</td><td>+3</td></tr><tr><td>11</td><td>+5</td><td>+3</td><td>+3</td><td>+3</td></tr><tr CLASS="alt"><td>12</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+4</td></tr><tr><td>13</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+4</td></tr><tr CLASS="alt"><td>14</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+4</td></tr><tr><td>15</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+5</td></tr><tr CLASS="alt"><td>16</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+5</td></tr><tr><td>17</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+5</td></tr><tr CLASS="alt"><td>18</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+6</td></tr><tr><td>19</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+6</td></tr><tr CLASS="alt"><td>20</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+6</td></tr></table>
+
 </center></div></div>
 **Alignement.** tous.
 

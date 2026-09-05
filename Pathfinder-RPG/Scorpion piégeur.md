@@ -38,25 +38,9 @@ LastModified: 2022-06-10 21:49
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de scorpion
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Scorpion dard-vert]] || 1/4
-|-
-| [[Scorpion des cavernes]] || 1
-|-
-| [[Scorpion empereur géant]] || 11
-|-
-| [[Scorpion fantomatique]] || 1/2
-|-
-| [[Scorpion géant]] || 3
-|-
-| [[Scorpion noir]] || 15
-|-
-| [[Scorpion piégeur]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de scorpion</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Scorpion dard-vert]]</td><td>1/4</td></tr><tr><td>[[Scorpion des cavernes]]</td><td>1</td></tr><tr><td>[[Scorpion empereur géant]]</td><td>11</td></tr><tr><td>[[Scorpion fantomatique]]</td><td>1/2</td></tr><tr><td>[[Scorpion géant]]</td><td>3</td></tr><tr><td>[[Scorpion noir]]</td><td>15</td></tr><tr><td>[[Scorpion piégeur]]</td><td>8</td></tr></table>
+
 </div>*D’épaisses couches de mousse et autres débris de la forêt pendent de la carapace vert foncé de cet énorme scorpion.*
 
 L’énorme scorpion piégeur est étonnamment discret pour une créature de cette taille. Le scorpion piégeur est ainsi nommé car il installe ses repaires dans les creux des arbres tombés. Il recouvre sa carapace, déjà dans des teintes de camouflage, de mousse et de vieilles branches et se tapit en embuscade en attendant qu’une proie passe à proximité. Il préfère entraîner sa proie jusqu’à ses tanières dissimulées pour la dévorer.

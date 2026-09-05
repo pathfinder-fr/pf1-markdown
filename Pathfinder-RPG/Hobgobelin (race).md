@@ -94,50 +94,9 @@ Certaines options s’accompagnent d’une limite numéraire fixe, une fois cett
 Voici les options accessibles aux hobgobelins, d’autres races adaptées peuvent s’en servir si le MJ donne son accord.
 
 #### Dons
-{| CLASS="tablo centre autoalt toutgauche"
 
-|- CLASS="titre"
-| WIDTH="25%" | Dons
-| WIDTH= "6%" | Source
-| WIDTH="25%" | Conditions
-| WIDTH="44%" | Avantages
+<table CLASS="tablo centre autoalt toutgauche"><tr CLASS="titre"><td WIDTH="25%">Dons</td><td WIDTH= "6%">Source</td><td WIDTH="25%">Conditions</td><td WIDTH="44%">Avantages</td></tr><tr CLASS="premier"><td>[[Belliciste]]</td><td><sup>CM</sup></td><td>[[Cha]] 13, [[Hobgobelin (race)|hobgobelin]]</td><td>Bluff et Diplomatie deviennent des compétences de classe et bénéficient d'un bonus de +4 pour convaincre des créatures de se battre</td></tr><tr CLASS="premier"><td>[[Commandant des gobelinoïdes]]</td><td><sup>CM</sup></td><td>[[Cha]] 13, [[Hobgobelin (race)|hobgobelin]]</td><td>Confère un bonus lors du commandement de créatures gobelinoïdes</td></tr><tr CLASS="premier"><td>[[Discipline hobgobeline]]</td><td><sup>MR</sup></td><td>[[hobgobelin (race)|Hobgobelin]], [[BBA]] +1</td><td>En bande, le hobgobelin bénéficie d'un bonus de +1 aux jets de sauvegarde</td></tr><tr><td>&emsp;[[Coup de focalisation]]</td><td><sup>MR</sup></td><td>[[hobgobelin (race)|Hobgobelin]], [[Discipline hobgobeline]]</td><td>Subir des dégâts infligés par un autre hobgobelin permettent de se débarrasser d'un effet mental</td></tr><tr CLASS="premier"><td>[[Coup de fouet démoralisant]]</td><td><sup>MR</sup></td><td>[[hobgobelin (race)|Hobgobelin]], [[BBA]] +1, 1 rang en [[Intimidation]]</td><td>Les attaques de fouet prolongent d'un round les effets de l'Intimidation</td></tr><tr><td>&emsp;[[Maître des opérations]]</td><td><sup>MR</sup></td><td>[[hobgobelin (race)|Hobgobelin]], [[Coup de fouet démoralisant]], 5 rangs en [[Intimidation]]</td><td>La présence du hobgobelin permet de donner à ses alliés plus faibles à se montrer téméraires</td></tr><tr><td>&emsp;&emsp;[[Démonstration terrifiante]]</td><td><sup>MR</sup></td><td>[[hobgobelin (race)|Hobgobelin]], [[Démonstration]], [[Coup de fouet démoralisant]], [[Maître des opérations]], [[Arme de prédilection]], 10 rangs en [[Intimidation]],  maniement de l’arme choisie</td><td>La Démonstration du hobgobelin conduit ses alliés à se montrer téméraires</td></tr><tr CLASS="premier"><td>[[Esprit déquipe|Esprit d'équipe]]</td><td><sup>CM</sup></td><td>—</td><td>Duplique les bonus de moral dont bénéficient les alliés</td></tr><tr CLASS="premier"><td>[[Explosion assourdissante]]</td><td><sup>MR</sup></td><td>[[hobgobelin (race)|Hobgobelin]], Aptitude de classe Bombe</td><td>La bombe du hobgobelin assourdit la créature touchée</td></tr><tr CLASS="premier"><td>[[Lancer boomerang]]</td><td><sup>*ISR*</sup></td><td>[[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]]</td><td>Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement</td></tr><tr CLASS="premier"><td>[[Motivation pour la marche]]</td><td><sup>CM</sup></td><td>—</td><td>Réduit les dégâts subits lors du commandement d'une marche forcée</td></tr><tr CLASS="premier"><td>[[Pedigree de commandant]]</td><td><sup>CM</sup></td><td>[[Hobgobelin (race)|Hobgobelin]]</td><td>Ajoute le niveau de classe aux tests de Moral pendant un combat de masse</td></tr><tr CLASS="premier"><td>[[Succession de défis]]</td><td><sup>CM</sup></td><td>Capacité de classe [[Chevalier#DEFI|défi]], personnage de niveau 7</td><td>Déclenche un nouveau défi immédiatement après la fin de l'ancien</td></tr></table>
 
-|- CLASS="premier"
-| [[Belliciste]] || <sup>CM</sup> || [[Cha]] 13, [[Hobgobelin (race)|hobgobelin]] || Bluff et Diplomatie deviennent des compétences de classe et bénéficient d'un bonus de +4 pour convaincre des créatures de se battre
-
-|- CLASS="premier"
-| [[Commandant des gobelinoïdes]] || <sup>CM</sup> || [[Cha]] 13, [[Hobgobelin (race)|hobgobelin]] || Confère un bonus lors du commandement de créatures gobelinoïdes
-
-|- CLASS="premier"
-| [[Discipline hobgobeline]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[BBA]] +1 || En bande, le hobgobelin bénéficie d'un bonus de +1 aux jets de sauvegarde
-|-
-| &emsp;[[Coup de focalisation]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[Discipline hobgobeline]] || Subir des dégâts infligés par un autre hobgobelin permettent de se débarrasser d'un effet mental
-
-|- CLASS="premier"
-| [[Coup de fouet démoralisant]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[BBA]] +1, 1 rang en [[Intimidation]] || Les attaques de fouet prolongent d'un round les effets de l'Intimidation
-|-
-| &emsp;[[Maître des opérations]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[Coup de fouet démoralisant]], 5 rangs en [[Intimidation]] || La présence du hobgobelin permet de donner à ses alliés plus faibles à se montrer téméraires
-|-
-| &emsp;&emsp;[[Démonstration terrifiante]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], [[Démonstration]], [[Coup de fouet démoralisant]], [[Maître des opérations]], [[Arme de prédilection]], 10 rangs en [[Intimidation]],  maniement de l’arme choisie || La Démonstration du hobgobelin conduit ses alliés à se montrer téméraires
-
-|- CLASS="premier"
-| [[Esprit déquipe|Esprit d'équipe]] || <sup>CM</sup> || — || Duplique les bonus de moral dont bénéficient les alliés
-
-|- CLASS="premier"
-| [[Explosion assourdissante]] || <sup>MR</sup> || [[hobgobelin (race)|Hobgobelin]], Aptitude de classe Bombe || La bombe du hobgobelin assourdit la créature touchée
-
-|- CLASS="premier"
-| [[Lancer boomerang]] || <sup>*ISR*</sup> || [[Tir à bout portant]], [[Tir de précision]], 3 rangs en [[Escamotage]], sous-type [[sous-type gobelinoïde|gobelinoïde]] || Lorsqu'un allié avec ce don rate une attaque d'arme de jet, le personnage peut la rattraper au vol et attaquer la cible originale immédiatement
-
-|- CLASS="premier"
-| [[Motivation pour la marche]] || <sup>CM</sup> || — || Réduit les dégâts subits lors du commandement d'une marche forcée
-
-|- CLASS="premier"
-| [[Pedigree de commandant]] || <sup>CM</sup> || [[Hobgobelin (race)|Hobgobelin]] || Ajoute le niveau de classe aux tests de Moral pendant un combat de masse
-
-|- CLASS="premier"
-| [[Succession de défis]] || <sup>CM</sup> || Capacité de classe [[Chevalier#DEFI|défi]], personnage de niveau 7 || Déclenche un nouveau défi immédiatement après la fin de l'ancien
-|}
 
 <table width="100%"><tr><td width="49%">
 #### Archétypes de classe

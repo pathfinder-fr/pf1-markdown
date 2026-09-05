@@ -30,69 +30,9 @@ La règle ne doit pas augmenter la puissance brute des lanceur de sort, mais seu
 ### Liste des caractéristiques primordiales et secondaires par classe
 
 <center>
-{| CLASS="tablo"
-|+ Caractéristiques des laceurs de sorts
-|- CLASS="titre"
-| Nom de la classe
-| Caractéristique principale
-| Caractéristique secondaire
-|- CLASS="premier"
-| [[pathfinder-RPG.alchimiste|L'alchimiste]]
-| [[pathfinder-RPG.Intelligence|Intelligence]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|- CLASS="alt"
-| [[pathfinder-RPG.antipaladin|L'anti-paladin]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|-
-| [[pathfinder-RPG.barde|Le barde]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|- CLASS="alt"
-| [[pathfinder-RPG.conjurateur|Le conjurateur]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|-
-| [[pathfinder-RPG.druide|Le druide]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-|- CLASS="alt"
-| [[pathfinder-RPG.ensorceleur|L'ensorceleur]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-| [[pathfinder-RPG.Intelligence|Intelligence]]
-|-
-| [[pathfinder-RPG.inquisiteur|L'inquisiteur]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-|- CLASS="alt"
-| [[pathfinder-RPG.magicien|Le magicien]]
-| [[pathfinder-RPG.Intelligence|Intelligence]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|-
-| [[pathfinder-RPG.magus|Le magus]]
-| [[pathfinder-RPG.Intelligence|Intelligence]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|- CLASS="alt"
-| [[pathfinder-RPG.oracle|L'oracle]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|-
-| [[pathfinder-RPG.paladin|Le paladin]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|- CLASS="alt"
-| [[pathfinder-RPG.prêtre|Le prêtre]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-| [[pathfinder-RPG.Intelligence|Intelligence]]
-|-
-| [[pathfinder-RPG.rôdeur|Le rôdeur]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-| [[pathfinder-RPG.Charisme|Charisme]]
-|- CLASS="alt"
-| [[pathfinder-RPG.sorcière|La sorcière]]
-| [[pathfinder-RPG.Intelligence|Intelligence]]
-| [[pathfinder-RPG.Sagesse|Sagesse]]
-|}
+
+<table CLASS="tablo"><caption>Caractéristiques des laceurs de sorts</caption><tr CLASS="titre"><td>Nom de la classe</td><td>Caractéristique principale</td><td>Caractéristique secondaire</td></tr><tr CLASS="premier"><td>[[pathfinder-RPG.alchimiste|L'alchimiste]]</td><td>[[pathfinder-RPG.Intelligence|Intelligence]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.antipaladin|L'anti-paladin]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr><td>[[pathfinder-RPG.barde|Le barde]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.conjurateur|Le conjurateur]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr><td>[[pathfinder-RPG.druide|Le druide]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.ensorceleur|L'ensorceleur]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td><td>[[pathfinder-RPG.Intelligence|Intelligence]]</td></tr><tr><td>[[pathfinder-RPG.inquisiteur|L'inquisiteur]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.magicien|Le magicien]]</td><td>[[pathfinder-RPG.Intelligence|Intelligence]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr><td>[[pathfinder-RPG.magus|Le magus]]</td><td>[[pathfinder-RPG.Intelligence|Intelligence]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.oracle|L'oracle]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr><td>[[pathfinder-RPG.paladin|Le paladin]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.prêtre|Le prêtre]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td><td>[[pathfinder-RPG.Intelligence|Intelligence]]</td></tr><tr><td>[[pathfinder-RPG.rôdeur|Le rôdeur]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td><td>[[pathfinder-RPG.Charisme|Charisme]]</td></tr><tr CLASS="alt"><td>[[pathfinder-RPG.sorcière|La sorcière]]</td><td>[[pathfinder-RPG.Intelligence|Intelligence]]</td><td>[[pathfinder-RPG.Sagesse|Sagesse]]</td></tr></table>
+
 </center>
 
 

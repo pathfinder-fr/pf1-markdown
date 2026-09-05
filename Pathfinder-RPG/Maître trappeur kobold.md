@@ -41,36 +41,8 @@ Categories:
 {s:BDTexte|**Équipement de combat** *[[Collier à boules de feu|collier de boules de feu I]]* ; **Équipement divers** *[[chemise de mailles (armure)|chemise de mailles +1]]*, [[dague (arme)|dague]], [[arc court (arme)|arc court]] avec [[Flèches (arme)|20 flèches]], [[Outils dartisan (objet)|outils d’artisan de qualité supérieure]], 62 po}
 </div></td>
 <td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de Kobold
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Kobold]] || 1/4
-|-
-| [[Mage des écailles kobold]] || 1/2
-|-
-| [[monstre Sniper kobold|Sniper kobold]] || 1/2
-|-
-| [[Bombardier kobold]] || 1
-|-
-| [[Palefrenier des monstres kobold]] || 1
-|-
-| [[Escrimeur kobold]] || 3
-|-
-| [[Kyrane]] || 3
-|-
-| [[Maître trappeur kobold]] || 4
-|-
-| [[Mage rusé kobold]] || 5
-|-
-| [[Maître de guerre kobold]] || 6
-|-
-| [[Aboyeur kobold]] || 7
-|-
-| [[Parle-diable kobold]] || 7
-|-
-| [[Chef kobold]] || 8
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de Kobold</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Kobold]]</td><td>1/4</td></tr><tr><td>[[Mage des écailles kobold]]</td><td>1/2</td></tr><tr><td>[[monstre Sniper kobold|Sniper kobold]]</td><td>1/2</td></tr><tr><td>[[Bombardier kobold]]</td><td>1</td></tr><tr><td>[[Palefrenier des monstres kobold]]</td><td>1</td></tr><tr><td>[[Escrimeur kobold]]</td><td>3</td></tr><tr><td>[[Kyrane]]</td><td>3</td></tr><tr><td>[[Maître trappeur kobold]]</td><td>4</td></tr><tr><td>[[Mage rusé kobold]]</td><td>5</td></tr><tr><td>[[Maître de guerre kobold]]</td><td>6</td></tr><tr><td>[[Aboyeur kobold]]</td><td>7</td></tr><tr><td>[[Parle-diable kobold]]</td><td>7</td></tr><tr><td>[[Chef kobold]]</td><td>8</td></tr></table>
+
 </div>Les escrocs kobolds sont particulièrement doués pour fabriquer des pièges, magiques ou non, et frapper depuis leur abri, pendant que leurs ennemis se laissent distraire par les effets du piège.
 </div></td></tr></table>

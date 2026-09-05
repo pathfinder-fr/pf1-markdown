@@ -35,15 +35,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de solifuge
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Solifuge albinos des cavernes]] || 4
-|-
-| [[Solifuge géant]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de solifuge</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Solifuge albinos des cavernes]]</td><td>4</td></tr><tr><td>[[Solifuge géant]]</td><td>1</td></tr></table>
+
 </div>*Les pattes avant de cette espèce d’araignée se terminent par d’immenses pinces préhensiles. Sa gueule comporte une paire de mandibules verticales gigantesques.*
 
 Le solifuge albinos des cavernes est tristement célèbre pour son comportement de chasseur agressif. Ses pattes ont une envergure de 1,50 mètres et il pèse 50 kg.

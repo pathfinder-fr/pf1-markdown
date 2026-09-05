@@ -40,27 +40,9 @@ Categories:
 {s:BDTexte|**souffle (Su)** Les effets du souffle de la chimère dépendent de la couleur de sa tête de [[type dragon|dragon]], comme indiqué dans la table ci-dessous. Dans tous les cas, la chimère peut utiliser son souffle une fois tous les 1d4 rounds, celui-ci inflige 6d8 points de dégâts et un jet de [[Réflexes]] de [[DD]] 17 permet de réduire les dégâts de moitié. Pour déterminer aléatoirement la couleur de la tête de [[type dragon|dragon]] et le type de souffle, lancez 1d10 et consultez la table ci-dessous.}
 
 <center>
-{| CLASS="tablo"
-|+ Tableau des types de souffles
-|- CLASS="titre"
-| d10 || Tête
-| class="gauche" | Type de souffle
-|- CLASS="premier"
-| 1-2 || blanche
-| class="gauche" | [[cône]] de froid de 6 m (4 {s:c})
-|- CLASS="alt"
-| 3-4 || bleue
-| class="gauche" | [[ligne]] d'électricité de 12 m (8 {s:c})
-|-
-| 5-6 || noire
-| class="gauche" | [[ligne]] d'acide de 12 m (8 {s:c})
-|- CLASS="alt"
-| 7-8 || rouge
-| class="gauche" | [[cône]] de feu de 6 m (4 {s:c})
-|-
-| 9-10 || verte
-| class="gauche" | [[cône]] d'acide de 6 m (4 {s:c})
-|}</center>
+
+<table CLASS="tablo"><caption>Tableau des types de souffles</caption><tr CLASS="titre"><td>d10</td><td>Tête</td><td class="gauche">Type de souffle</td></tr><tr CLASS="premier"><td>1-2</td><td>blanche</td><td class="gauche">[[cône]] de froid de 6 m (4 {s:c})</td></tr><tr CLASS="alt"><td>3-4</td><td>bleue</td><td class="gauche">[[ligne]] d'électricité de 12 m (8 {s:c})</td></tr><tr><td>5-6</td><td>noire</td><td class="gauche">[[ligne]] d'acide de 12 m (8 {s:c})</td></tr><tr CLASS="alt"><td>7-8</td><td>rouge</td><td class="gauche">[[cône]] de feu de 6 m (4 {s:c})</td></tr><tr><td>9-10</td><td>verte</td><td class="gauche">[[cône]] d'acide de 6 m (4 {s:c})</td></tr></table></center>
+
 </td><td><div>''Ce monstre ailé a le corps d’un lion mais sa tête féline est flanquée de deux
 autres têtes : une de dragon et une de chèvre cornue.''
 

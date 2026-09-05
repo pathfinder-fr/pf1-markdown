@@ -27,17 +27,9 @@ celui du souffle du dragon annule la [[diminution permanente]].}
 {s:BDTexte|**Renversement de navires (Ext).** Un dragon de saumure vieux ou plus âgé peut tenter de faire sombrer un bateau ou un navire en effectuant une [[charge]] et en réalisant un test de manoeuvre de combat. Le DD de ce test est égal à 25 ou au résultat d’un test de Profession (marin) réalisé par le capitaine du navire si celui-ci est plus élevé. Si le navire est plus grand que le dragon de saumure, le test subit un malus cumulatif de –10 par catégorie de taille de différence.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de dragon de saumure
-|- CLASS="titre"
-| Nom || &nbsp; || FP
-|- CLASS="premier"
-| [[Jeune dragon de saumure]] || &nbsp; || 7
-|-
-| [[Dragon de saumure adulte]] || &nbsp; || 11
-|-
-| [[Dragon de saumure vénérable]] || &nbsp; || 16
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de dragon de saumure</caption><tr CLASS="titre"><td>Nom</td><td>&nbsp;</td><td>FP</td></tr><tr CLASS="premier"><td>[[Jeune dragon de saumure]]</td><td>&nbsp;</td><td>7</td></tr><tr><td>[[Dragon de saumure adulte]]</td><td>&nbsp;</td><td>11</td></tr><tr><td>[[Dragon de saumure vénérable]]</td><td>&nbsp;</td><td>16</td></tr></table>
+
 </div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [[dragon primaire|dragons primaires]].***</li></ul>*La collerette vert-bleu qui orne la tête de ce dragon s’incurve vers l’arrière, en direction de son corps couvert d’écailles brillantes et de crêtes semblables à des ailerons.*
 
 Même s’ils ne sont pas foncièrement maléfiques, les dragons
@@ -53,34 +45,8 @@ ou même des
 [[sahuagin|sahuagins]].
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Tableau des gains de capacités
-|- CLASS="titre"
-| Catégorie d'âge  || Capacités spéciales || NLS
-|- CLASS="premier"
-| Dragonnet || immunité contre l'acide, respiration aquatique || —
-|- CLASS="alt"
-| Très jeune || *[[communication avec les animaux]]* (poissons) || —
-|-
-| Jeune || *[[brume de dissimulation]]* || 1
-|- CLASS="alt"
-| Adolescent || *[[respiration aquatique]]* || 3
-|-
-| Jeune adulte || [[RD]] 5/magie ; [[RM]] || 5
-|- CLASS="alt"
-| Adulte || *[[contrôle de leau|contrôle de l’eau]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]] || 7
-|-
-| Âge mûr || [[RD]] 10/magie || 9
-|- CLASS="alt"
-| Vieux || renversement de navires || 11
-|-
-| Très vieux || [[RD]] 15/magie || 13
-|- CLASS="alt"
-| Vénérable || *[[flétrissure]]*, morsure déshydratante || 15
-|-
-| Dracosire || [[RD]] 20/magie || 17
-|- CLASS="alt"
-| Grand dracosire || coups douloureux, *[[tsunami]]*<sup>*</sup> || 19
-|}
+
+<table CLASS="tablo toutgauche"><caption>Tableau des gains de capacités</caption><tr CLASS="titre"><td>Catégorie d'âge</td><td>Capacités spéciales</td><td>NLS</td></tr><tr CLASS="premier"><td>Dragonnet</td><td>immunité contre l'acide, respiration aquatique</td><td>—</td></tr><tr CLASS="alt"><td>Très jeune</td><td>*[[communication avec les animaux]]* (poissons)</td><td>—</td></tr><tr><td>Jeune</td><td>*[[brume de dissimulation]]*</td><td>1</td></tr><tr CLASS="alt"><td>Adolescent</td><td>*[[respiration aquatique]]*</td><td>3</td></tr><tr><td>Jeune adulte</td><td>[[RD]] 5/magie ; [[RM]]</td><td>5</td></tr><tr CLASS="alt"><td>Adulte</td><td>*[[contrôle de leau|contrôle de l’eau]]*, [[dragon#PRESENCETERRIFIANTE|présence terrifiante]]</td><td>7</td></tr><tr><td>Âge mûr</td><td>[[RD]] 10/magie</td><td>9</td></tr><tr CLASS="alt"><td>Vieux</td><td>renversement de navires</td><td>11</td></tr><tr><td>Très vieux</td><td>[[RD]] 15/magie</td><td>13</td></tr><tr CLASS="alt"><td>Vénérable</td><td>*[[flétrissure]]*, morsure déshydratante</td><td>15</td></tr><tr><td>Dracosire</td><td>[[RD]] 20/magie</td><td>17</td></tr><tr CLASS="alt"><td>Grand dracosire</td><td>coups douloureux, *[[tsunami]]*<sup>*</sup></td><td>19</td></tr></table>
+
 </center>
 </div></td></tr></table>

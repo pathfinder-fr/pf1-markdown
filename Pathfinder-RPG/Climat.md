@@ -88,34 +88,12 @@ Qu’il prenne la forme d’une nappe épaisse ou de vapeur s’élevant du sol,
 ### Vents
 Le vent peut soulever le sable ou la terre, alimenter un brasier, faire chavirer une barque, ou encore pousser des émanations nocives. S’il est assez violent, il peut même renverser les personnages (comme indiqué dans la table ci-dessous), gêner les attaques à distance ou donner un malus à certains tests de compétence.
 
-{| CLASS="tablo centre autoalt" WIDTH="96%"
-|+ {s:reference|EFFETSDUVENT}Effets du vent
-|- CLASS="titre"
-| Force du vent || Vitesse du vent || Attaques à distance/  
-machines de guerre<sup>[[Climat#NOTE3|3]]</sup> || Taille des   
-créatures affectée<sup>[[Climat#NOTE4|4]]</sup> || Taille des   
-créatures emportées<sup>[[Climat#NOTE5|5]]</sup> || Malus de vol
-|- CLASS="premier"
-| Léger || 0–15 km/h || —/— || — || — || —
-|-
-| Modéré || 16–30 km/h || —/— || — || — || —
-|-
-| Important || 31–45 km/h || –2/— || TP || — || -2
-|-
-| Violent || 46–75 km/h || –4/— || P || TP || -4
-|-
-| Tempête || 76–120 km/h || Impossible/–4 || M || P || -8
-|-
-| Ouragan || 121–280 km/h || Impossible/–8 || G || M || -12
-|-
-| Tornade || 281–500 km/h || Impossible/impossible || TG || G || -16
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE3}(3) Les [[Milieu urbain#Machines_de_guerre_2|machines de guerre]] incluent balistes et catapultes, mais aussi les rochers lancés par les géants.
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE4}(4) Créatures affectées : Les créatures de cette taille et les créatures de taille inférieure sont incapables d’avancer contre le vent à moins de réussir un test de [[Force]] [[DD]] 10 (si elles se trouvent au sol) ou [[Vol]] [[DD]] 20 si elles volent.
-|- CLASS="note"
-| COLSPAN="6" | {s:Reference|NOTE5}(5) Emportées : Les créatures terrestres sont renversées et roulent sur 1d4 x 3 mètres, ce qui leur inflige 1d4 points de dégâts non-létaux par tranche de 3 mètres à moins de réussir un test de [[Force]] [[DD]] 15. Les créatures volantes sont repoussées sur 2d6 x 3 mètres, tandis que les vents violents leur infligent 2d6 points de [[dégâts non-létaux]] à moins de réussir un test de Vol DD 25.
-|}
+
+<table CLASS="tablo centre autoalt" WIDTH="96%"><caption>{s:reference|EFFETSDUVENT}Effets du vent</caption><tr CLASS="titre"><td>Force du vent</td><td>Vitesse du vent</td><td>Attaques à distance/  
+machines de guerre<sup>[[Climat#NOTE3|3]]</sup></td><td>Taille des   
+créatures affectée<sup>[[Climat#NOTE4|4]]</sup></td><td>Taille des   
+créatures emportées<sup>[[Climat#NOTE5|5]]</sup></td><td>Malus de vol</td></tr><tr CLASS="premier"><td>Léger</td><td>0–15 km/h</td><td>—/—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Modéré</td><td>16–30 km/h</td><td>—/—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>Important</td><td>31–45 km/h</td><td>–2/—</td><td>TP</td><td>—</td><td>-2</td></tr><tr><td>Violent</td><td>46–75 km/h</td><td>–4/—</td><td>P</td><td>TP</td><td>-4</td></tr><tr><td>Tempête</td><td>76–120 km/h</td><td>Impossible/–4</td><td>M</td><td>P</td><td>-8</td></tr><tr><td>Ouragan</td><td>121–280 km/h</td><td>Impossible/–8</td><td>G</td><td>M</td><td>-12</td></tr><tr><td>Tornade</td><td>281–500 km/h</td><td>Impossible/impossible</td><td>TG</td><td>G</td><td>-16</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE3}(3) Les [[Milieu urbain#Machines_de_guerre_2|machines de guerre]] incluent balistes et catapultes, mais aussi les rochers lancés par les géants.</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE4}(4) Créatures affectées : Les créatures de cette taille et les créatures de taille inférieure sont incapables d’avancer contre le vent à moins de réussir un test de [[Force]] [[DD]] 10 (si elles se trouvent au sol) ou [[Vol]] [[DD]] 20 si elles volent.</td></tr><tr CLASS="note"><td COLSPAN="6">{s:Reference|NOTE5}(5) Emportées : Les créatures terrestres sont renversées et roulent sur 1d4 x 3 mètres, ce qui leur inflige 1d4 points de dégâts non-létaux par tranche de 3 mètres à moins de réussir un test de [[Force]] [[DD]] 15. Les créatures volantes sont repoussées sur 2d6 x 3 mètres, tandis que les vents violents leur infligent 2d6 points de [[dégâts non-létaux]] à moins de réussir un test de Vol DD 25.</td></tr></table>
+
 
 **Vent léger.** légère brise sans effets en termes de jeu.
 

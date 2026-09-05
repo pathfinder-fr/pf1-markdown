@@ -38,15 +38,9 @@ LastModified: 2020-09-21 18:12
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de sauterelle
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Nuée de sauterelles]] || 2
-|-
-| [[Sauterelle géante]] || 3
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de sauterelle</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Nuée de sauterelles]]</td><td>2</td></tr><tr><td>[[Sauterelle géante]]</td><td>3</td></tr></table>
+
 </div>*En quête de nourriture, cette énorme sauterelle creuse à l’aide de ses mandibules qui produisent une sorte de crissement.*
 
 Les sauterelles géantes sont tout aussi voraces que leurs homologues de taille inférieure, mais elles se rassemblent rarement par milliers pour former des nuées comme le font les sauterelles ordinaires. Une sauterelle géante arrivée à maturité mesure plus de 1,20 mètre de long et pèse 25 kilogrammes.

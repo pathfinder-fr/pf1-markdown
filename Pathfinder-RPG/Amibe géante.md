@@ -36,15 +36,9 @@ Categories:
 {s:BDTexte|**Trésor** aucun}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes d'amibe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Amibe géante]] || 1
-|-
-| [[Nuée damibes|Nuée d'amibes]] || 1
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes d'amibe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Amibe géante]]</td><td>1</td></tr><tr><td>[[Nuée damibes|Nuée d'amibes]]</td><td>1</td></tr></table>
+
 </div>*Cet amas de protoplasme est translucide, ce qui permet d’apercevoir en son sein les os des repas en cours de digestion et un noyau sombre.*
 
 Une amibe géante est une masse informe de protoplasme liquide vivant. Cette chose naturellement translucide et parsemée de points plus sombres possède une surface légèrement collante qui a tendance à récolter la poussière et les débris qui se trouvent dans son environnement. C’est ainsi que les amibes géantes en mouvement acquièrent plutôt l’apparence de l’eau boueuse. Plus faible que ses cousins éloignés tels que les vases grises et les poudings noirs, l’amibe géante est en fait le résultat d’une mutation qui a affecté une créature inoffensive et bien trop petite pour être vue à l’oeil nu et l’a fait dangereusement grandir. L’amibe géante pourrait se satisfaire de proies plus petites qu’elle, mais sa faim constante la pousse souvent à s’attaquer à des cibles plus grandes comme les humanoïdes.

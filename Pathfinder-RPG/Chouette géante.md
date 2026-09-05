@@ -43,17 +43,9 @@ Categories:
 
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de chouette
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Chouette]] || 1/3
-|-
-| [[Chouette géante]] || 5
-|-
-| [[Grand-duc]] || 1/2
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de chouette</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Chouette]]</td><td>1/3</td></tr><tr><td>[[Chouette géante]]</td><td>5</td></tr><tr><td>[[Grand-duc]]</td><td>1/2</td></tr></table>
+
 </div>*Malgré sa taille imposante, cette énorme chouette possède une aura de sagesse et de grâce silencieuse.*
 
 Cette noble chouette géante niche dans les arbres les plus hauts ou dans les hautes grottes situées près des forêts où elle vit. Plus que de simples animaux, les chouettes géantes peuvent se targuer d’être des créatures intelligentes et de très bonnes juges des caractères. Il n’y a pas grand-chose qui échappe à l’œil vigilant de la chouette géante au sein de ses forêts natales. Ce qu’elle n’observe pas directement, elle l’apprend de ses vastes réseaux d’informateurs animaux. Les chouettes géantes se considèrent davantage comme des observatrices que comme des actrices, n’interférant que rarement dans les affaires des autres, sauf quand leurs repaires sont menacés. Les chouettes géantes mesurent 5,40 mètres pour une envergure de 9 mètres mais pèsent rarement plus de 300 kilos.

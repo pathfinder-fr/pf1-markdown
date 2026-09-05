@@ -59,40 +59,18 @@ des murailles tellement leur force de recul est puissante. Le [[DD]] de visée d
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre"
-|+ Les ponts et les échelles
-|- CLASS="titre"
-| Engin d’assaut || Taille/Largeur || Longueur/hauteur
-|- CLASS="premier"
-| &emsp;G || 1,50 m || 6 m
-|- CLASS="alt"
-| &emsp;TG || 1,50 m || 9 m
-|-
-| &emsp;Gig || 3 m || 12 m
-|- CLASS="alt"
-| &emsp;Col || 3 m || 18 m
-|-
-|}
+
+<table CLASS="tablo centre"><caption>Les ponts et les échelles</caption><tr CLASS="titre"><td>Engin d’assaut</td><td>Taille/Largeur</td><td>Longueur/hauteur</td></tr><tr CLASS="premier"><td>&emsp;G</td><td>1,50 m</td><td>6 m</td></tr><tr CLASS="alt"><td>&emsp;TG</td><td>1,50 m</td><td>9 m</td></tr><tr><td>&emsp;Gig</td><td>3 m</td><td>12 m</td></tr><tr CLASS="alt"><td>&emsp;Col</td><td>3 m</td><td>18 m</td></tr></table>
+
 </div></div>{s:Reference|Échelle}**Échelle.** Une échelle est munie de piques à sa base, pour plus de stabilité, et le dernier mètre cinquante est renforcé de métal avec une [[solidité]] de 10 et 20 points de vie. Le reste de l’échelle est en bois et possède une [[solidité]] de 5 pour un nombre de points de vie basé sur sa [[taille]]. Une échelle G a 20 points de vie, une TG 30 pv, une Gig 80 pv et une Col 120 pv. Il est impossible de mettre une [[Tableau récapitulatif des armures|armure]] à une échelle.
 
 {s:Reference|Galerie}**Galerie.** Défense mobile temporaire, la galerie ressemble à un bâtiment de peau ou de bois. La plupart sont fragiles mais il existe de rares galeries plus robustes (utilisez les règles des armures des engins de siège et ajustez la [[CA]] la [[solidité]] et les points de vie en fonction). Une galerie se compose presque toujours d’une section de « mur » mobile et d’une autre qui sert de « toit. » (Les galeries conçues pour abriter un bélier sont une exception et comportent généralement deux sections de mur et de toit reliées.) Comme la galerie est partiellement ouverte, elle n’offre pas la même protection qu’un bâtiment : une créature située dans la galerie bénéficie d’un [[abri]] si elle est de la même [[taille]] qu’elle, d’un [[abri|abri amélioré]] si elle est d’une catégorie de [[taille]] de moins que la galerie et d’un [[abri|abri total]] si elle est au moins de deux catégories de moins. La taille des galeries est indexée sur celle des créatures : une galerie G protège le même espace qu’une créature G etc. On peut déplacer une galerie de bois sur des roues, à une vitesse de 3 m si l’équipe qui la manie est au complet ou à une vitesse de 1,50 m s’il y a au moins la moitié de ses membres. Une galerie a une vitesse de base de 4,50 m (ou de 3 m si elle est renforcée par une [[armure intermédiaire]] ou [[armure lourde|lourde]]). Une galerie a une [[solidité]] de 5 et un nombre de points de vie basé sur sa [[taille]]. Une galerie G a 30 points de vie, une TG 120 pv, une Gig 320 pv et une Col 625 pv.
 
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px">
-{| CLASS="tablo centre"
-|+ Compléments des tours de siège
-|- CLASS="titre"
-| Taille || Soldats
-|- CLASS="premier"
-| &emsp;G || 5
-|- CLASS="alt"
-| &emsp;TG || 20
-|-
-| &emsp;Gig || 50
-|- CLASS="alt"
-| &emsp;Col || 200
-|-
-|}
+
+<table CLASS="tablo centre"><caption>Compléments des tours de siège</caption><tr CLASS="titre"><td>Taille</td><td>Soldats</td></tr><tr CLASS="premier"><td>&emsp;G</td><td>5</td></tr><tr CLASS="alt"><td>&emsp;TG</td><td>20</td></tr><tr><td>&emsp;Gig</td><td>50</td></tr><tr CLASS="alt"><td>&emsp;Col</td><td>200</td></tr></table>
+
 </div></div>{s:Reference|Pontdassaut}**Pont d’assaut.** Ce pont sert à franchir un fossé, une douve ou un autre creux. Pour jeter un pont, il faut passer une [[action complexe]] par section de 1,50 m. Quatre créatures au maximum peuvent coopérer pour manoeuvrer le pont. Ce temps double pour chaque catégorie de [[taille]] qui sépare la créature du pont. Un pont d’assaut G a 40 points de vie, un TG 60 pv, un Gig 160 pv et un Col 240 pv.
 
 {s:Reference|Tourdesiège}**Tour de siège.** Une tour de siège est une galerie de bois robuste composée d’une haute coquille protectrice et d’un toit. Le rez-de-chaussée de la tour abrite l’équipe qui la fait avancer et lui offre un [[abri|abri total]]. Une tour de siège brisée avance à la moitié de sa vitesse. Si elle est détruite, elle s’effondre, ce qui fonctionne comme un éboulement. La partie supérieure de la tour de siège offre un [[abri|abri amélioré]] à un certain nombre de soldats (voir plus bas). Ses murs sont parfois percés pour leur permettre de tirer sur les côtés. Le toit peut être doté de créneaux, d’un éventuel engin de siège de la taille de la tour ou moins et d’un corbeau. Une tour de siège a une vitesse de base de 4,50 m (ou de 3 m si elle est protégée par une [[armure intermédiaire]] ou [[armure lourde|lourde]]). Une tour de siège a une [[solidité]] de 5 et un nombre de points de vie basé sur sa [[taille]]. Une tour G a 60 points de vie, une TG 240 pv, une Gig 640 pv et une Col 1 250 pv.

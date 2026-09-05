@@ -6,19 +6,9 @@ LastModified: 2021-07-15 17:26
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux protéens
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Imentesh]] || 10
-|-
-| [[Kékétar]] || 17
-|-
-| [[Naunet]] || 7
-|-
-| [[Ver du néant]] || 2
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux protéens</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Imentesh]]</td><td>10</td></tr><tr><td>[[Kékétar]]</td><td>17</td></tr><tr><td>[[Naunet]]</td><td>7</td></tr><tr><td>[[Ver du néant]]</td><td>2</td></tr></table>
+
 </div></div><div class="description">**Source :** Bestiaire 2 p.223.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type extraplanaire|extraplanaire]], [[sous-type métamorphe|métamorphe]], [[sous-type protéen|protéen]])*
 
@@ -113,68 +103,5 @@ vague déformante, lancez 1d20 et consultez la table ci-dessous
 pour déterminer l’effet des énergies entropiques :
 
 
-{| CLASS="tablo centre"
-|- CLASS="titre"
-| d20
-| CLASS="gauche" | Effet de la vague déformante
-|- CLASS="premier"
-| 1
-| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] de 2 points de [[Force]].
-|- CLASS="alt"
-| 2
-| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Dextérité]].
-|-
-| 3
-| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Constitution]].
-|- CLASS="alt"
-| 4
-| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points d'[[Intelligence]].
-|-
-| 5
-| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Sagesse]].
-|- CLASS="alt"
-| 6
-| CLASS="gauche" | La cible subit un [[affaiblissement temporaire]] 2 points de [[Charisme]].
-|-
-| 7
-| CLASS="gauche" | La cible subit 1 [[niveau négatif]].
-|- CLASS="alt"
-| 8
-| CLASS="gauche" | La cible est [[aveuglé|aveuglée]] pendant 1d4 rounds.
-|-
-| 9
-| CLASS="gauche" | La cible est [[confus|confuse]] pendant 1d4 rounds.
-|- CLASS="alt"
-| 10
-| CLASS="gauche" | La cible est [[enchevêtré|enchevêtrée]] par des filaments d'énergie pendant 1d4 rounds.
-|-
-| 11
-| CLASS="gauche" | La cible est [[fatigué|fatiguée]] (ou [[épuisé|épuisée]] si elle est déjà [[fatigué|fatiguée]]).
-|- CLASS="alt"
-| 12
-| CLASS="gauche" | La cible devient [[nauséeux|nauséeuse]] pendant 1d4 rounds.
-|-
-| 13
-| CLASS="gauche" | La cible est [[étourdi|étourdie]] pendant 1d4 rounds.
-|- CLASS="alt"
-| 14
-| CLASS="gauche" | La cible est [[fiévreux|fiévreuse]] pendant 1d4 rounds.
-|-
-| 15
-| CLASS="gauche" | La cible est [[chancelant|chancelante]] pendant 1d4 rounds.
-|- CLASS="alt"
-| 16
-| CLASS="gauche" | La cible gagne 4d6 [[point de vie temporaire|points de vie temporaire]].
-|-
-| 17
-| CLASS="gauche" | La cible est affectée par un sort de *[[guérison suprême]]* (NLS égal au FP du protéen).
-|- CLASS="alt"
-| 18
-| CLASS="gauche" | La cible est [[pétrifié|pétrifiée]].
-|-
-| 19
-| CLASS="gauche" | La cible est affectée par une *[[métamorphose funeste]]* (NLS égal au FP du protéen).
-|- CLASS="alt"
-| 20
-| CLASS="gauche" | Certaines parties du corps de la cible s’enflamment, crépitent ou sont affectées par un type d’énergie choisi aléatoirement (entre acide, électricité, feu et froid), ce qui lui inflige 4d6 points de dégâts du type d’énergie en question.
-|}
+
+<table CLASS="tablo centre"><tr CLASS="titre"><td>d20</td><td CLASS="gauche">Effet de la vague déformante</td></tr><tr CLASS="premier"><td>1</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] de 2 points de [[Force]].</td></tr><tr CLASS="alt"><td>2</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Dextérité]].</td></tr><tr><td>3</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Constitution]].</td></tr><tr CLASS="alt"><td>4</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points d'[[Intelligence]].</td></tr><tr><td>5</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Sagesse]].</td></tr><tr CLASS="alt"><td>6</td><td CLASS="gauche">La cible subit un [[affaiblissement temporaire]] 2 points de [[Charisme]].</td></tr><tr><td>7</td><td CLASS="gauche">La cible subit 1 [[niveau négatif]].</td></tr><tr CLASS="alt"><td>8</td><td CLASS="gauche">La cible est [[aveuglé|aveuglée]] pendant 1d4 rounds.</td></tr><tr><td>9</td><td CLASS="gauche">La cible est [[confus|confuse]] pendant 1d4 rounds.</td></tr><tr CLASS="alt"><td>10</td><td CLASS="gauche">La cible est [[enchevêtré|enchevêtrée]] par des filaments d'énergie pendant 1d4 rounds.</td></tr><tr><td>11</td><td CLASS="gauche">La cible est [[fatigué|fatiguée]] (ou [[épuisé|épuisée]] si elle est déjà [[fatigué|fatiguée]]).</td></tr><tr CLASS="alt"><td>12</td><td CLASS="gauche">La cible devient [[nauséeux|nauséeuse]] pendant 1d4 rounds.</td></tr><tr><td>13</td><td CLASS="gauche">La cible est [[étourdi|étourdie]] pendant 1d4 rounds.</td></tr><tr CLASS="alt"><td>14</td><td CLASS="gauche">La cible est [[fiévreux|fiévreuse]] pendant 1d4 rounds.</td></tr><tr><td>15</td><td CLASS="gauche">La cible est [[chancelant|chancelante]] pendant 1d4 rounds.</td></tr><tr CLASS="alt"><td>16</td><td CLASS="gauche">La cible gagne 4d6 [[point de vie temporaire|points de vie temporaire]].</td></tr><tr><td>17</td><td CLASS="gauche">La cible est affectée par un sort de *[[guérison suprême]]* (NLS égal au FP du protéen).</td></tr><tr CLASS="alt"><td>18</td><td CLASS="gauche">La cible est [[pétrifié|pétrifiée]].</td></tr><tr><td>19</td><td CLASS="gauche">La cible est affectée par une *[[métamorphose funeste]]* (NLS égal au FP du protéen).</td></tr><tr CLASS="alt"><td>20</td><td CLASS="gauche">Certaines parties du corps de la cible s’enflamment, crépitent ou sont affectées par un type d’énergie choisi aléatoirement (entre acide, électricité, feu et froid), ce qui lui inflige 4d6 points de dégâts du type d’énergie en question.</td></tr></table>

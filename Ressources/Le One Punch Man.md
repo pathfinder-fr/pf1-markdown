@@ -77,38 +77,5 @@ Notons que si on prend  l’archétype lutteur mutagénique, il y a d'autres cho
 Pour les objets, pas grand chose à conseiller à part les basiques : cape de protection, amulette des poings invincibles, ... Mis à part deux choses : essayez de mettre la main sur un bandeau d'inspiration au plus vite pour vos JdS mais aussi pour vos tests de sagesse de "exploiter les faiblesse" ainsi que pour atteindre le 13 qui vous permettra d'utiliser le poing élémentaire à son plein potentielle (grâce à la férocité du dragon, vous l'utiliserez comme un moine des quatre vents donc avec une progression des dégâts et pour un nombre de fois par jour égale à votre niveau). Vous aurez aussi besoin d'un ceinturon de dextérité du chat à un moment (au niveau 12). En effet, je rappelle que l'on a choisit la chaîne de dons permettant l’accès à la contre droite. Cependant, ce don nécessite une dextérité de 18 aussi il faudra débourser un peu. (mais quel profit on y gagne... une attaque bonus/round, c'est bonheur et cela vient avec les avantages d'une haute dextérité comme l'initiative). Enfin, une robe de moine nous permettra de rattraper notre retard de 1 niveau dans la classe pour ce qui est des statistiques (dégâts des mains nus et CA pour être précis)
 
 ### Évolution proposée
-{| CLASS="tablo autoalt" width="100%"
-|+ Évolution du *nom du build*
-|- CLASS="titre"
-| Niveau || Classe || BBA || Dons, capacités de classe
-|- CLASS="premier"
-| 01 ||  ||  || &nbsp;
-|-
-| 02 ||  ||  || &nbsp;
-|-
-| 03 ||  ||  || &nbsp;
-|-
-| 04 ||  ||  || &nbsp;
-|-
-| 05 ||  ||  || &nbsp;
-|-
-| 06 ||  ||  || &nbsp;
-|-
-| 07 ||  ||  || &nbsp;
-|-
-| 08 ||  ||  || &nbsp;
-|-
-| 09 ||  ||  || &nbsp;
-|-
-| 10 ||  ||  || &nbsp;
-|-
-| 11 ||  ||  || &nbsp;
-|-
-| 12 ||  ||  || &nbsp;
-|-
-| 13 ||  ||  || &nbsp;
-|-
-| 14 ||  ||  || &nbsp;
-|-
-| 15 ||  ||  || &nbsp;
-|}
+
+<table CLASS="tablo autoalt" width="100%"><caption>Évolution du *nom du build*</caption><tr CLASS="titre"><td>Niveau</td><td>Classe</td><td>BBA</td><td>Dons, capacités de classe</td></tr><tr CLASS="premier"><td>01</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>02</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>03</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>04</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>05</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>06</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>07</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>08</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>09</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>10</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>11</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>12</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>13</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>14</td><td></td><td></td><td>&nbsp;</td></tr><tr><td>15</td><td></td><td></td><td>&nbsp;</td></tr></table>

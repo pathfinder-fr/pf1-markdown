@@ -12,53 +12,9 @@ Categories:
 Les prophètes enragés sont toujours des barbares/oracles mais certains ont quelques niveaux dans d’autres classes. Chez les prophètes enragés, le mystère le plus populaire reste bien sûr celui de la guerre car les talents de combattant sont très respectés dans la société barbare, mais les autres oracles trouvent tous un chemin vers des positions élevées comme chef de guerre, conseiller ou chef. Certains prophètes enragés préfèrent vivre à l’écart ou mener une vie de champions errants, suivant la volonté des esprits plutôt que les ordres d’un chef ou d’un conseil tribal. Même si les chefs tribaux se méfient parfois de ces vagabonds, ils sont très populaires auprès des barbares qui voient en eux le meilleur exemple de la force, de la vertu et de la puissance des gens libres qui ne doivent rien à personne à part le ciel au-dessus de leur tête, la terre sous leur pied et les esprits qui les habitent.''
 
 <center>
-{| CLASS="tablo"
-|+ Le prophète enragé
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-| CLASS="gauche" | Sorts par jour
-|- CLASS="premier"
-| 1 || +0 || +0 || +1 || +1
-| CLASS="gauche" | [[prophète enragé#FEROCEDEVIN|Féroce devin]], [[prophète enragé#GUIDESPIRITUEL|guide spirituel]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 2 || +1 || +1 || +1 || +1
-| CLASS="gauche" | [[prophète enragé#GUERISSEURENRAGE|Guérisseur enragé]], [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 3 || +2 || +1 || +2 || +2
-| CLASS="gauche" | [[prophète enragé#MAGEINDOMPTABLE|Mage indomptable]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|- CLASS="alt"
-| 4 || +3 || +1 || +2 || +2
-| CLASS="gauche" | [[prophète enragé#MAGEENRAGE|Mage enragé]] (niveau de lanceur de sorts), [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 5 || +3 || +2 || +3 || +3
-| CLASS="gauche" | [[prophète enragé#ESPRITGARDIEN|Esprit gardien]]
-| CLASS="gauche" | -
-|- CLASS="alt"
-| 6 || +4 || +2 || +3 || +3
-| CLASS="gauche" | [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGEPROLONGEE|rage prolongée]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|-
-| 7 || +5 || +2 || +4 || +4
-| CLASS="gauche" | [[prophète enragé#MAGEENRAGE|Mage enragé]] (DD)
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|- CLASS="alt"
-| 8 || +6 || +3 || +4 || +4
-| CLASS="gauche" | [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#SORTENRAGE|sort enragé]]
-| CLASS="gauche" | -
-|-
-| 9 || +6 || +3 || +5 || +5
-| CLASS="gauche" | [[prophète enragé#GUERRIERSPIRITUEL|Guerrier spirituel]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|- CLASS="alt"
-| 10 || +7 || +3 || +5 || +5
-| CLASS="gauche" | [[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGESUPREME|rage suprême]]
-| CLASS="gauche" | +1 niveau de lanceur de sorts divins
-|}
+
+<table CLASS="tablo"><caption>Le prophète enragé</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td><td CLASS="gauche">Sorts par jour</td></tr><tr CLASS="premier"><td>1</td><td>+0</td><td>+0</td><td>+1</td><td>+1</td><td CLASS="gauche">[[prophète enragé#FEROCEDEVIN|Féroce devin]], [[prophète enragé#GUIDESPIRITUEL|guide spirituel]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>2</td><td>+1</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[prophète enragé#GUERISSEURENRAGE|Guérisseur enragé]], [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>3</td><td>+2</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[prophète enragé#MAGEINDOMPTABLE|Mage indomptable]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>4</td><td>+3</td><td>+1</td><td>+2</td><td>+2</td><td CLASS="gauche">[[prophète enragé#MAGEENRAGE|Mage enragé]] (niveau de lanceur de sorts), [[prophète enragé#MYSTEREDUPROPHETEENRAGE|mystère du prophète enragé]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>5</td><td>+3</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[prophète enragé#ESPRITGARDIEN|Esprit gardien]]</td><td CLASS="gauche">-</td></tr><tr CLASS="alt"><td>6</td><td>+4</td><td>+2</td><td>+3</td><td>+3</td><td CLASS="gauche">[[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGEPROLONGEE|rage prolongée]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr><td>7</td><td>+5</td><td>+2</td><td>+4</td><td>+4</td><td CLASS="gauche">[[prophète enragé#MAGEENRAGE|Mage enragé]] (DD)</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>8</td><td>+6</td><td>+3</td><td>+4</td><td>+4</td><td CLASS="gauche">[[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#SORTENRAGE|sort enragé]]</td><td CLASS="gauche">-</td></tr><tr><td>9</td><td>+6</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[prophète enragé#GUERRIERSPIRITUEL|Guerrier spirituel]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr><tr CLASS="alt"><td>10</td><td>+7</td><td>+3</td><td>+5</td><td>+5</td><td CLASS="gauche">[[prophète enragé#MYSTEREDUPROPHETEENRAGE|Mystère du prophète enragé]], [[prophète enragé#RAGESUPREME|rage suprême]]</td><td CLASS="gauche">+1 niveau de lanceur de sorts divins</td></tr></table>
+
 </center>
 
 **Rôle.** Le prophète enragé possède des talents de lanceur de sorts non négligeables mais il s’en sert généralement pour améliorer ses prouesses martiales. Ces dernières sont d’ailleurs considérables et il se montre capable de poursuivre n’importe quel combat et de concentrer sa rage physique et ses pouvoirs surnaturels afin de bénéficier d’une hausse de puissance et de polyvalence inattendue qui lui permet de surmonter tous les défis.

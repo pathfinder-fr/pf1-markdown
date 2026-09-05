@@ -12,42 +12,9 @@ Categories:
 Puisque que cette classe de prestige demande de maîtriser plusieurs dons, les seigneurs des épées ont souvent des niveaux dans la classe de [[guerrier]], dont la majorité est faite d'[[humain|humains]] avec une [[Intelligence]] au-dessus de la moyenne, ce qui les aide à remplir rapidement les conditions de compétence, mais ce n'est pas la seule route possible. Les [[Rôdeur|rôdeurs]], les [[roublard|roublards]] et les [[bretteur|bretteurs]] peuvent également rechercher à maîtriser l'art signature du duel à l'épée en gagnant des niveaux dans la classe de seigneur des épées, même si dans la majorité des cas ils devront attendre plus longtemps que les guerriers pour remplir les conditions. Beaucoup de capacités du seigneur des épées se reposent sur les règles des [[duels]]. Cette classe de prestige fonctionne bien en conjonction avec l'archétype de guerrier [Duelliste défenseur](https://aonprd.com/ArchetypeDisplay.aspx?FixedName=Fighter%20Aldori%20Defender), bien qu'il ne soit pas obligatoire de prendre l'un ou l'autre pour avoir accès à l'archétype ou à la classe de prestige.''
 
 <center>
-{| CLASS="tablo"
-|+ Le seigneur des épées
-|- CLASS="titre"
-| Niveau || BBA || Réflexes || Vigueur || Volonté
-| CLASS="gauche" | Spécial
-|- CLASS="premier"
-| 1 || +1 || +1 || +0 || +0
-| CLASS="gauche" | [[Seigneur des épées Aldori#ARMEENMAIN|Arme en main]], [[Seigneur des épées Aldori#PERCEEHABILE|percée habile]]
-|- CLASS="alt"
-| 2 || +2 || +1 || +1 || +1
-| CLASS="gauche" | [[Seigneur des épées Aldori#DEMONSTRATIONDETALENT|Démonstration de talent]]
-|-
-| 3 || +3 || +2 || +1 || +1
-| CLASS="gauche" | [[Seigneur des épées Aldori#PARADEDEFENSIVE|Parade défensive]] +1
-|- CLASS="alt"
-| 4 || +4 || +2 || +1 || +1
-| CLASS="gauche" | [[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 1
-|-
-| 5 || +5 || +3 || +2 || +2
-| CLASS="gauche" | [[Seigneur des épées Aldori#BRISERLACONFIANCE|Briser la confiance]]
-|- CLASS="alt"
-| 6 || +6 || +3 || +2 || +2
-| CLASS="gauche" | [[Seigneur des épées Aldori#TAILLADEGARDIENNE|Taillade gardienne]]
-|-
-| 7 || +7 || +4 || +2 || +2
-| CLASS="gauche" | [[Seigneur des épées Aldori#DUELLISTEAGILE|Duelliste agile]], [[Seigneur des épées Aldori#PARADEDEFENSIVE|parade défensive]] +2
-|- CLASS="alt"
-| 8 || +8 || +4 || +3 || +3
-| CLASS="gauche" | [[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 2
-|-
-| 9 || +9 || +5 || +3 || +3
-| CLASS="gauche" | [[Seigneur des épées Aldori#TAILLADEGARDIENNESUPERIEURE|Taillade gardienne supérieure]]
-|- CLASS="alt"
-| 10 || +10 || +5 || +3 || +3
-| CLASS="gauche" | [[Seigneur des épées Aldori#DUELLISTEETOURDISSANT|Duelliste étourdissant]]
-|}
+
+<table CLASS="tablo"><caption>Le seigneur des épées</caption><tr CLASS="titre"><td>Niveau</td><td>BBA</td><td>Réflexes</td><td>Vigueur</td><td>Volonté</td><td CLASS="gauche">Spécial</td></tr><tr CLASS="premier"><td>1</td><td>+1</td><td>+1</td><td>+0</td><td>+0</td><td CLASS="gauche">[[Seigneur des épées Aldori#ARMEENMAIN|Arme en main]], [[Seigneur des épées Aldori#PERCEEHABILE|percée habile]]</td></tr><tr CLASS="alt"><td>2</td><td>+2</td><td>+1</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur des épées Aldori#DEMONSTRATIONDETALENT|Démonstration de talent]]</td></tr><tr><td>3</td><td>+3</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur des épées Aldori#PARADEDEFENSIVE|Parade défensive]] +1</td></tr><tr CLASS="alt"><td>4</td><td>+4</td><td>+2</td><td>+1</td><td>+1</td><td CLASS="gauche">[[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 1</td></tr><tr><td>5</td><td>+5</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur des épées Aldori#BRISERLACONFIANCE|Briser la confiance]]</td></tr><tr CLASS="alt"><td>6</td><td>+6</td><td>+3</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur des épées Aldori#TAILLADEGARDIENNE|Taillade gardienne]]</td></tr><tr><td>7</td><td>+7</td><td>+4</td><td>+2</td><td>+2</td><td CLASS="gauche">[[Seigneur des épées Aldori#DUELLISTEAGILE|Duelliste agile]], [[Seigneur des épées Aldori#PARADEDEFENSIVE|parade défensive]] +2</td></tr><tr CLASS="alt"><td>8</td><td>+8</td><td>+4</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Seigneur des épées Aldori#TACTIQUESADAPTATIVES|Tactiques adaptatives]] 2</td></tr><tr><td>9</td><td>+9</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Seigneur des épées Aldori#TAILLADEGARDIENNESUPERIEURE|Taillade gardienne supérieure]]</td></tr><tr CLASS="alt"><td>10</td><td>+10</td><td>+5</td><td>+3</td><td>+3</td><td CLASS="gauche">[[Seigneur des épées Aldori#DUELLISTEETOURDISSANT|Duelliste étourdissant]]</td></tr></table>
+
 </center>
 
 **Dé de vie.** d10.

@@ -51,16 +51,8 @@ Categories:
 Les escargots fléaux sont des gastéropodes intelligents qui se nourrissent de champignons, de moisissures et de vermines, même s’ils peuvent attaquer des créatures plus grandes pour se défendre. Connus pour leur coquille capable de déformer la magie et pour leurs tentacules en forme de massues, les escargots fléaux errent lentement dans les cavernes souterraines, écrivant de grandes épopées avec leurs traces de bave.
 
 <center>
-{| CLASS="tablo toutgauche"
-|+ Effets de la "Distorsion de la magie"
-|-
-| 1-3 || Le sort fait long-feu. Pendant les 1d4 [[round|rounds]] suivants, le lanceur doit réussir un test de [[concentration]] de [[DD]] 15 pour réussir à lancer ses sorts.
-|-
-| 4-6 || Le sort fait long-feu. La créature la plus proche de l’escargot fléau est affecté comme si elle était la cible originelle du sort.
-|-
-| 7-9 || Le sort échoue. Rien ne se passe.
-|-
-| 10 || Le sort revient sur le lanceur (comme un *[[renvoi des sorts]]*).
-|}
+
+<table CLASS="tablo toutgauche"><caption>Effets de la "Distorsion de la magie"</caption><tr><td>1-3</td><td>Le sort fait long-feu. Pendant les 1d4 [[round|rounds]] suivants, le lanceur doit réussir un test de [[concentration]] de [[DD]] 15 pour réussir à lancer ses sorts.</td></tr><tr><td>4-6</td><td>Le sort fait long-feu. La créature la plus proche de l’escargot fléau est affecté comme si elle était la cible originelle du sort.</td></tr><tr><td>7-9</td><td>Le sort échoue. Rien ne se passe.</td></tr><tr><td>10</td><td>Le sort revient sur le lanceur (comme un *[[renvoi des sorts]]*).</td></tr></table>
+
 </center>
 </div></td></tr></table>

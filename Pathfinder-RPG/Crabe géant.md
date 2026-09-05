@@ -37,21 +37,9 @@ Categories:
 {s:BDTexte|**Besoin d'eau (Ext)** Les crabes géants peuvent survivre hors de l'eau une heure par point de [[Constitution]]. Au-delà de cette limite, ils courent le risque de suffoquer, comme s'ils se noyaient.}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">
-{| CLASS="tablo autoalt"
-|+ Variantes de crabe
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| Familier, [[Crabe royal]] || 1/4
-|-
-| [[Crabe géant]] || 2
-|-
-| [[Crabe mangeur de requins]] || 7
-|-
-| [[Crabe naufrageur]] || 13
-|-
-| [[Nuée de crabes]] || 4
-|}
+
+<table CLASS="tablo autoalt"><caption>Variantes de crabe</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>Familier, [[Crabe royal]]</td><td>1/4</td></tr><tr><td>[[Crabe géant]]</td><td>2</td></tr><tr><td>[[Crabe mangeur de requins]]</td><td>7</td></tr><tr><td>[[Crabe naufrageur]]</td><td>13</td></tr><tr><td>[[Nuée de crabes]]</td><td>4</td></tr></table>
+
 </div>*Ce large crabe à la carapace robuste fait la taille d’un nain. Ses pinces gigantesques balaient l’air d’une manière menaçante.*
 
 Les crabes géants ont un comportement similaire à celui de leurs
@@ -73,22 +61,9 @@ Les variantes les plus courantes
 sont reprises dans la table ci-dessous :
 
 <center>
-{| CLASS="tablo"
-|- CLASS="titre"
-| Espèce || FP || Taille || DV
-|- CLASS="premier"
-| Tourteau || 1/4 || TP || 1d8
-|- CLASS="alt"
-| Crabe de cocotier || 1/2 || P || 1d8
-|-
-| Crabe Rocailleux || 4 || G || 5d8
-|- CLASS="alt"
-| Crabe mangeur de requins || 7 || TG || 8d8
-|-
-| Grand crabe des récifs || 10 || Gig || 11d8
-|-
-| Crabe naufrageur || 13 || Col || 14d8
-|}</center>
+
+<table CLASS="tablo"><tr CLASS="titre"><td>Espèce</td><td>FP</td><td>Taille</td><td>DV</td></tr><tr CLASS="premier"><td>Tourteau</td><td>1/4</td><td>TP</td><td>1d8</td></tr><tr CLASS="alt"><td>Crabe de cocotier</td><td>1/2</td><td>P</td><td>1d8</td></tr><tr><td>Crabe Rocailleux</td><td>4</td><td>G</td><td>5d8</td></tr><tr CLASS="alt"><td>Crabe mangeur de requins</td><td>7</td><td>TG</td><td>8d8</td></tr><tr><td>Grand crabe des récifs</td><td>10</td><td>Gig</td><td>11d8</td></tr><tr><td>Crabe naufrageur</td><td>13</td><td>Col</td><td>14d8</td></tr></table></center>
+
 
 #### Le crabe géant comme compagnon animal
 **Caractéristiques de départ.** **Taille P** ; **Vitesse** 9 m (6 {s:c}), nage 6 m (4 {s:c}) ; **Attaque** 2 pinces (1d3 plus [[étreinte]]) ; **Attaque spéciale** [[constriction]] (1d3) ; **Particularités** [[sous-type aquatique|aquatique]], dépendant de l’eau (peut survivre hors de l’eau pendant 1 heure par point de Constitution, ensuite, il suffoque, comme s’il se noyait), [[vision dans le noir]] ; **DMD** croc-en-jambe +12 ; **Caractéristiques** [[Force|For]] 13, [[Dextérité|Dex]] 14, [[Constitution|Con]] 13, [[Intelligence|Int]] –, [[Sagesse|Sag]] 11, [[Charisme|Cha]] 4 ; **CA** armure naturelle +5

@@ -19,111 +19,17 @@ Trois facteurs déterminent la réputation du personnage : la Renommée, la Sph
 ### La renommée
 Le personnage commence le jeu avec une Renommée égale à son niveau de personnage + son modificateur de [[Charisme]]. Sa Renommée peut aller de -100 à 100, 0 correspondant à une notoriété nulle. Au fil de la campagne, le personnage construit sa réputation à travers ses mots et ses actes. Bien qu’un aventurier puisse accomplir de nombreuses actions, toutes ne sont pas forcément assez importantes pour justifier un changement dans la Renommée. Le MJ devrait s’en tenir aux actions qui affectent directement l’histoire ou la campagne et ne pas accorder de points pour les victoires mineures. Il appartient en principe au MJ de juger de l’importance des actions spécifiques présente en détail quelques exemples particuliers. Si jamais la Renommée du personnage devait tomber en dessous de 0, consultez [[Réputation et renommée#DISCREDIT|Discrédit et infamie]].
 
-{| CLASS="tablo centre autoalt"
-|+ Évènements porteurs de renommée
-|- CLASS="titre"
-| Évènement || Modificateur de renommée
-|- CLASS="premier"
-| COLSPAN=2 | **Évènements positifs**
-|-
-| &emsp;Acquérir un trésor remarquable auprès d’un digne ennemi<sup>[[Réputation et renommée#NOTE1|1]]</sup> || +1
-|-
-| &emsp;Confirmer deux coups critiques de suite dans une rencontre de FP approprié || +1
-|-
-| &emsp;Consacrer un temple à sa divinité || +1
-|-
-| &emsp;Fabriquer un puissant objet magique<sup>[[Réputation et renommée#NOTE2|2]]</sup> || +1
-|-
-| &emsp;Gagner un niveau dans une classe de PJ || +1
-|-
-| &emsp;Localiser et désarmer trois pièges de suite ou plus de FP approprié || +1
-|-
-| &emsp;Faire une grande découverte historique, scientifique ou magique<sup>[[Réputation et renommée#NOTE3|3]]</sup> || +1
-|-
-| &emsp;Posséder un objet ou un artefact légendaire<sup>[[Réputation et renommée#NOTE4|4]]</sup> || +1
-|-
-| &emsp;Recevoir une médaille ou un honneur similaire des mains d’une personnalité publique || +1
-|-
-| &emsp;Rendre un objet magique ou une relique d’importance à son propriétaire || +1
-|-
-| &emsp;Piller la place-forte d’un puissant noble || +1
-|-
-| &emsp;Vaincre seul un adversaire ayant un FP supérieur au niveau du personnage<sup>[[Réputation et renommée#NOTE5|5]]</sup> || +1
-|-
-| &emsp;Remporter un combat contre un FP égal au niveau moyen du groupe +3 ou plus || +1
-|-
-| &emsp;Vaincre en combat une personne qui vous a publiquement diffamé || +2
-|-
-| &emsp;Réussir un test d’[[Artisanat]] de DD 30 ou plus pour créer une œuvre d’art ou un objet de maître<sup>[[Réputation et renommée#NOTE6|6]]</sup> || +2
-|-
-| &emsp;Réussir un test public de [[Diplomatie]] ou d’[[Intimidation]] de DD 30 ou plus<sup>[[Réputation et renommée#NOTE6|6]]</sup> || +2
-|-
-| &emsp;Réussir un test public de [[Représentation]] de DD 30 ou plus6 || +2
-|-
-| &emsp;Achever une aventure au [[FP]] approprié au [[Rencontres#TABLENIVEAURENCONTRE|niveau moyen du groupe]]<sup>[[Réputation et renommée#NOTE7|7]]</sup> || +3
-|-
-| &emsp;Gagner un titre officiel (dame, seigneur, chevalier, etc.) || +3
-|-
-| &emsp;Vaincre un ennemi-clé en combat || +5
-|-
-| COLSPAN=2 | **Évènements négatifs**
-|-
-| &emsp;Être accusé d’un crime mineur || -1
-|-
-| &emsp;Fréquenter quelqu’un de mauvaise réputation<sup>[[Réputation et renommée#NOTE8|8]]</sup> || -1
-|-
-| &emsp;Être accusé d’un crime grave non-violent || -2
-|-
-| &emsp;Fuir publiquement une rencontre de FP inférieur au niveau moyen du groupe || -3
-|-
-| &emsp;Attaquer des innocents || -5
-|-
-| &emsp;Être accusé d’un crime grave et violent || -5
-|-
-| &emsp;Perdre publiquement une rencontre de FP égal ou inférieur au niveau moyen du groupe || -5
-|-
-| &emsp;Être accusé de meurtre || -8
-|-
-| &emsp;Être accusé de trahison || -10
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE1}*(1) Inclut la récupération du trésor d’un monstre ou d’un rival vaincu. Les personnages Mauvais, peuvent voler le trésor plutôt que de le récupérer à la loyale.*
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE2}*(2) Par tranche de 40 000 po du prix de l’objet.*
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE3}*(3) Comme trouver les ruines d’une cité perdue, redécouvrir un savoir oublié ou créer un nouveau sort utile.*
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE4}*(4) Par tranche de 40 000 po du prix de l’objet. Les artefacts sans prix comptent comme des objets de 200 000 po (5 PP) dans ce cas.*
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE5}*(5) Par point de FP supérieur au niveau du personnage.*
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE6}*(6) Le personnage ne peut pas améliorer plus d’une fois par mois sa Renommée de cette manière.*
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE7}''(7) Environ la longueur d’un module ou d’une campagne Pathfinder.
-|- CLASS="note"
-| COLSPAN="2" | {s:Reference|NOTE8}*(8) Par semaine d’étroite association.*
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Évènements porteurs de renommée</caption><tr CLASS="titre"><td>Évènement</td><td>Modificateur de renommée</td></tr><tr CLASS="premier"><td COLSPAN=2>**Évènements positifs**</td></tr><tr><td>&emsp;Acquérir un trésor remarquable auprès d’un digne ennemi<sup>[[Réputation et renommée#NOTE1|1]]</sup></td><td>+1</td></tr><tr><td>&emsp;Confirmer deux coups critiques de suite dans une rencontre de FP approprié</td><td>+1</td></tr><tr><td>&emsp;Consacrer un temple à sa divinité</td><td>+1</td></tr><tr><td>&emsp;Fabriquer un puissant objet magique<sup>[[Réputation et renommée#NOTE2|2]]</sup></td><td>+1</td></tr><tr><td>&emsp;Gagner un niveau dans une classe de PJ</td><td>+1</td></tr><tr><td>&emsp;Localiser et désarmer trois pièges de suite ou plus de FP approprié</td><td>+1</td></tr><tr><td>&emsp;Faire une grande découverte historique, scientifique ou magique<sup>[[Réputation et renommée#NOTE3|3]]</sup></td><td>+1</td></tr><tr><td>&emsp;Posséder un objet ou un artefact légendaire<sup>[[Réputation et renommée#NOTE4|4]]</sup></td><td>+1</td></tr><tr><td>&emsp;Recevoir une médaille ou un honneur similaire des mains d’une personnalité publique</td><td>+1</td></tr><tr><td>&emsp;Rendre un objet magique ou une relique d’importance à son propriétaire</td><td>+1</td></tr><tr><td>&emsp;Piller la place-forte d’un puissant noble</td><td>+1</td></tr><tr><td>&emsp;Vaincre seul un adversaire ayant un FP supérieur au niveau du personnage<sup>[[Réputation et renommée#NOTE5|5]]</sup></td><td>+1</td></tr><tr><td>&emsp;Remporter un combat contre un FP égal au niveau moyen du groupe +3 ou plus</td><td>+1</td></tr><tr><td>&emsp;Vaincre en combat une personne qui vous a publiquement diffamé</td><td>+2</td></tr><tr><td>&emsp;Réussir un test d’[[Artisanat]] de DD 30 ou plus pour créer une œuvre d’art ou un objet de maître<sup>[[Réputation et renommée#NOTE6|6]]</sup></td><td>+2</td></tr><tr><td>&emsp;Réussir un test public de [[Diplomatie]] ou d’[[Intimidation]] de DD 30 ou plus<sup>[[Réputation et renommée#NOTE6|6]]</sup></td><td>+2</td></tr><tr><td>&emsp;Réussir un test public de [[Représentation]] de DD 30 ou plus6</td><td>+2</td></tr><tr><td>&emsp;Achever une aventure au [[FP]] approprié au [[Rencontres#TABLENIVEAURENCONTRE|niveau moyen du groupe]]<sup>[[Réputation et renommée#NOTE7|7]]</sup></td><td>+3</td></tr><tr><td>&emsp;Gagner un titre officiel (dame, seigneur, chevalier, etc.)</td><td>+3</td></tr><tr><td>&emsp;Vaincre un ennemi-clé en combat</td><td>+5</td></tr><tr><td COLSPAN=2>**Évènements négatifs**</td></tr><tr><td>&emsp;Être accusé d’un crime mineur</td><td>-1</td></tr><tr><td>&emsp;Fréquenter quelqu’un de mauvaise réputation<sup>[[Réputation et renommée#NOTE8|8]]</sup></td><td>-1</td></tr><tr><td>&emsp;Être accusé d’un crime grave non-violent</td><td>-2</td></tr><tr><td>&emsp;Fuir publiquement une rencontre de FP inférieur au niveau moyen du groupe</td><td>-3</td></tr><tr><td>&emsp;Attaquer des innocents</td><td>-5</td></tr><tr><td>&emsp;Être accusé d’un crime grave et violent</td><td>-5</td></tr><tr><td>&emsp;Perdre publiquement une rencontre de FP égal ou inférieur au niveau moyen du groupe</td><td>-5</td></tr><tr><td>&emsp;Être accusé de meurtre</td><td>-8</td></tr><tr><td>&emsp;Être accusé de trahison</td><td>-10</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE1}*(1) Inclut la récupération du trésor d’un monstre ou d’un rival vaincu. Les personnages Mauvais, peuvent voler le trésor plutôt que de le récupérer à la loyale.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE2}*(2) Par tranche de 40 000 po du prix de l’objet.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE3}*(3) Comme trouver les ruines d’une cité perdue, redécouvrir un savoir oublié ou créer un nouveau sort utile.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE4}*(4) Par tranche de 40 000 po du prix de l’objet. Les artefacts sans prix comptent comme des objets de 200 000 po (5 PP) dans ce cas.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE5}*(5) Par point de FP supérieur au niveau du personnage.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE6}*(6) Le personnage ne peut pas améliorer plus d’une fois par mois sa Renommée de cette manière.*</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE7}''(7) Environ la longueur d’un module ou d’une campagne Pathfinder.</td></tr><tr CLASS="note"><td COLSPAN="2">{s:Reference|NOTE8}*(8) Par semaine d’étroite association.*</td></tr></table>
+
 
 {s:Reference|SPHÈREDINFLUENCE}
 ### La sphère d'influence
 <div style="float:right; background-color: #fff; padding: 0 0 16px 16px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo centre toutgauche autoalt"
-|+ Les modificateurs de la Sphère d’influence
-|- CLASS="titre"
-| Action || Modificateur au test
-|- CLASS="premier"
-| Les alliés ou les sbires du personnage content ses exploits avant qu’il n’arrive || +5
-|-
-| Un [[barde]] conte les exploits du personnage ou en fait des chansons avant que celui-ci n’arrive || +1/2 niveau du barde
-|-
-| Le personnage a des [[contacts]] PNJ dans le village || +1
-|-
-| Le personnage a des ennemis dans le village || +1
-|-
-| Le personnage s’éloigne de sa Sphère d’influence || -1 par tranche de 16 km
-|-
-| La langue principale du village est différente de celle du personnage || -5
-|}
+
+<table CLASS="tablo centre toutgauche autoalt"><caption>Les modificateurs de la Sphère d’influence</caption><tr CLASS="titre"><td>Action</td><td>Modificateur au test</td></tr><tr CLASS="premier"><td>Les alliés ou les sbires du personnage content ses exploits avant qu’il n’arrive</td><td>+5</td></tr><tr><td>Un [[barde]] conte les exploits du personnage ou en fait des chansons avant que celui-ci n’arrive</td><td>+1/2 niveau du barde</td></tr><tr><td>Le personnage a des [[contacts]] PNJ dans le village</td><td>+1</td></tr><tr><td>Le personnage a des ennemis dans le village</td><td>+1</td></tr><tr><td>Le personnage s’éloigne de sa Sphère d’influence</td><td>-1 par tranche de 16 km</td></tr><tr><td>La langue principale du village est différente de celle du personnage</td><td>-5</td></tr></table>
+
 </div></div>La réputation du personnage ne s’étend pas plus loin que le récit de ses exploits. Même si c’est un grand héros dans son pays, il découvrira très vite que, lorsqu’il voyage dans d’autres territoires, sa réputation décroît jusqu’à ce qu’il atteigne des régions où il est complètement inconnu. Plus sa réputation est grande, plus elle se répand, plus sa Sphère d’influence s’élargit.
 
 La Renommée du personnage détermine la portée maximale de sa Sphère d’influence. Celle-ci a un rayon de 150 km qui s’étend généralement de 150 km de plus quand sa Renommée atteint 10, 20, 30, 40 et 55. L’élargissement de la Sphère d’influence du personnage n’est pas toujours systématique et le joueur a droit à la parole quand il s’agit de définir où la réputation de son personnage a du poids. Par exemple, vous pourriez demander à ce que la Sphère d’influence de votre personnage s’étende davantage au sud, vers une cité majeure, et ignore les tribus barbares de l’est ou s’étende vers l’intérieur des terres, vers un autre pays plutôt qu’en direction des océans.
@@ -226,23 +132,9 @@ Si un évènement devait accroître la Renommée du personnage, celui-ci pourrai
 
 Si le personnage a une Renommée négative, les PNJ non-Mauvais ont souvent des réactions inamicales ou hostiles à son égard. Notez que si le personnage a la réputation d’être quelqu’un de puissant et dangereux, les PNJ pourraient l’éviter plutôt que de l’affronter.
 
-{| CLASS="tablo centre autoalt toutgauche"
-|+ Réactions face à une renommée négative
-|- CLASS="titre"
-| Renommée || Réaction
-|- CLASS="premier"
-| -5 || Les marchands, les employés et les aubergistes imposent une surtaxe de 10% au personnage pour le dissuader de faire des affaires dans leur communauté -8 Les marchands, les employés et les aubergistes refusent de faire affaire avec le personnage. S’il entre dans un commerce, on lui demande aussitôt de partir. S’il refuse, le propriétaire appelle les autorités ou les gens du coin pour le mettre dehors.
-|-
-| -10 || Quand le personnage approche, les commerces ferment leurs portes et occultent leurs vitrines. La plupart des citoyens refusent de discuter avec lui. Les autres exigent du personnage qu’il parte sur-le-champ. S’il reste plus de 24 heures ou s’oppose aux citoyens, sa Renommée baisse de 5 et les citoyens se rassemblent pour le chasser de la ville.
-|-
-| -15 || Outrée que le personnage ait le toupet d’entrer dans sa communauté, une foule en colère se rassemble. Si le personnage ne part pas dans les minutes qui suivent, la foule commence à le lapider avec des fruits, des bâtons et des cailloux.
-|-
-| -20 || Une foule en colère se forme peu de temps après que le personnage est entré en ville. Refusant d’attendre un procès potentiellement corrompu, elle tente de capturer le personnage et de l’exécuter pour ses crimes.
-|-
-| -25 || Une figure d’autorité a délivré un mandat d’arrêt à l’encontre du personnage, incluant une récompense pour quiconque le capture. Tout le monde est au courant et beaucoup sont prêts à remporter la mise.
-|-
-| -30 || Une figure d’autorité a mis la tête du personnage à prix. Tout le monde est au courant et beaucoup sont prêts à remporter la mise.
-|}
+
+<table CLASS="tablo centre autoalt toutgauche"><caption>Réactions face à une renommée négative</caption><tr CLASS="titre"><td>Renommée</td><td>Réaction</td></tr><tr CLASS="premier"><td>-5</td><td>Les marchands, les employés et les aubergistes imposent une surtaxe de 10% au personnage pour le dissuader de faire des affaires dans leur communauté -8 Les marchands, les employés et les aubergistes refusent de faire affaire avec le personnage. S’il entre dans un commerce, on lui demande aussitôt de partir. S’il refuse, le propriétaire appelle les autorités ou les gens du coin pour le mettre dehors.</td></tr><tr><td>-10</td><td>Quand le personnage approche, les commerces ferment leurs portes et occultent leurs vitrines. La plupart des citoyens refusent de discuter avec lui. Les autres exigent du personnage qu’il parte sur-le-champ. S’il reste plus de 24 heures ou s’oppose aux citoyens, sa Renommée baisse de 5 et les citoyens se rassemblent pour le chasser de la ville.</td></tr><tr><td>-15</td><td>Outrée que le personnage ait le toupet d’entrer dans sa communauté, une foule en colère se rassemble. Si le personnage ne part pas dans les minutes qui suivent, la foule commence à le lapider avec des fruits, des bâtons et des cailloux.</td></tr><tr><td>-20</td><td>Une foule en colère se forme peu de temps après que le personnage est entré en ville. Refusant d’attendre un procès potentiellement corrompu, elle tente de capturer le personnage et de l’exécuter pour ses crimes.</td></tr><tr><td>-25</td><td>Une figure d’autorité a délivré un mandat d’arrêt à l’encontre du personnage, incluant une récompense pour quiconque le capture. Tout le monde est au courant et beaucoup sont prêts à remporter la mise.</td></tr><tr><td>-30</td><td>Une figure d’autorité a mis la tête du personnage à prix. Tout le monde est au courant et beaucoup sont prêts à remporter la mise.</td></tr></table>
+
 
 ### La renommée partagée
 Certaines situations devraient parfois prendre en compte la valeur de Renommée de différents personnages. Cela arrive généralement quand tous les PJ agissent continuellement comme une entité unique, comme les Chevaliers arthuriens de la Table Ronde, les Joyeux compagnons de Robin des Bois ou les hommes d’équipage du Capitaine Kidd. Ce n’est alors pas la gloire individuelle de chacun qui contribue à la gloire du groupe : la Renommée du groupe est indépendante des membres qui le composent (un groupe peut commencer dans la première catégorie puis évoluer et passer dans la deuxième catégorie à mesure qu’il accueille plus de membres et que le fondateur joue un rôle moins direct dans ses activités). Un groupe comme celui-là développe sa propre Renommée : si le personnage appartient à ce genre de groupe, il utilise la Renommée du groupe plutôt que la sienne. Si ses alliés et lui-même font partie d’un tel groupe, les règles de Renommée fonctionnent de la même manière à la seule différence que le MJ ne suit que la valeur de Renommée de tout le groupe, non la valeur de Renommée individuelle de chaque PJ : les actions de chacun des personnages qui augmenteraient ou diminueraient la Renommée participent à cette valeur. Le personnage gagne et dépense quand même ses propres points de prestige mais utilise la Renommée du groupe pour tout le reste.

@@ -19,89 +19,9 @@ Chaque personnage débute avec un certain nombre de pièces d’or qu’il peut 
 
 {s:Reference|TABLERICHESSEDEPARTPJ}
 <center>
-{| CLASS="tablo"
-|+ Richesse de départ des personnages
-|- CLASS="titre"
-| Classe || Source || Richesse de départ (po) || Moyenne (po)
-|- CLASS="premier"
-| [[Arcaniste]] || MCA || 2d6×10 || 70
-|-
-| [[Alchimiste]] || MJRA || 3d6×10 || 105
-|-
-| [[Barbare]] || MJ || 3d6x10 || 105
-|-
-| [[Barde]] || MJ || 3d6x10 || 105
-|-
-| [[Bretteur]] || MCA || 5d6×10 || 175
-|-
-| [[Chaman]] || MCA || 3d6×10 || 105
-|-
-| [[Chasseur]] || MCA || 4d6×10 || 140
-|-
-| [[Chevalier]] || MJRA || 5d6×10 || 175
-|-
-| [[Cinétiste]] || AO || 1d6×10 || 35
-|-
-| [[Conjurateur]] || MJRA || 2d6×10 || 70
-|-
-| [[Druide]] || MJ || 2d6x10 || 70
-|-
-| [[Enquêteur]] || MCA || 3d6×10 || 105
-|-
-| [[Ensorceleur]] || MJ || 2d6x10 || 70
-|-
-| [[Guerrier]] || MJ || 5d6x10 || 175
-|-
-| [[Hypnotiseur]] || AO || 3d6×10 || 105
-|-
-| [[Inquisiteur]] || MJRA || 4d6×10 || 140
-|-
-| [[Justicier]] || *UI* || 5d6x10 || 175
-|-
-| [[Lutteur]] || MCA || 3d6×10 || 105
-|-
-| [[Magicien]] || MJ || 2d6x10 || 70
-|-
-| [[Magus]] || UM || 4d6×10 || 140
-|-
-| [[Médium]] || AO || 4d6×10 || 140
-|-
-| [[Métamorphe]] || *UW* || 3d6×10 || 105
-|-
-| [[Moine]] || MJ || 1d6x10 || 35
-|-
-| [[Ninja]] || AG || 4d6x10 || 140
-|-
-| [[Occultiste]] || AO || 4d6×10 || 140
-|-
-| [[Oracle]] || MJRA || 3d6×10 || 105
-|-
-| [[Paladin]] || MJ || 5d6x10 || 175
-|-
-| [[Pistolier]] || AG || 5d6x10 || 175
-|-
-| [[Prêtre]] || MJ || 4d6x10 || 140
-|-
-| [[Prêtre combattant]] || MCA || 5d6×10 || 175
-|-
-| [[Psychiste]] || AO || 2d6×10 || 70
-|-
-| [[Rôdeur]] || MJ || 5d6x10 || 175
-|-
-| [[Roublard]] || MJ || 4d6x10 || 140
-|-
-| [[Samouraï]] || AG || 5d6×10 || 175
-|-
-| [[Sanguin]] || MCA || 3d6×10 || 105
-|-
-| [[Scalde]] || MCA || 3d6×10 || 105
-|-
-| [[Sorcière]] || MJRA || 3d6×10 || 105
-|-
-| [[Spirite]] || AO || 2d6×10 || 70
-|-
-| [[Tueur]] || MCA || 5d6×10 || 175
-|}
+
+<table CLASS="tablo"><caption>Richesse de départ des personnages</caption><tr CLASS="titre"><td>Classe</td><td>Source</td><td>Richesse de départ (po)</td><td>Moyenne (po)</td></tr><tr CLASS="premier"><td>[[Arcaniste]]</td><td>MCA</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Alchimiste]]</td><td>MJRA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Barbare]]</td><td>MJ</td><td>3d6x10</td><td>105</td></tr><tr><td>[[Barde]]</td><td>MJ</td><td>3d6x10</td><td>105</td></tr><tr><td>[[Bretteur]]</td><td>MCA</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Chaman]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Chasseur]]</td><td>MCA</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Chevalier]]</td><td>MJRA</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Cinétiste]]</td><td>AO</td><td>1d6×10</td><td>35</td></tr><tr><td>[[Conjurateur]]</td><td>MJRA</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Druide]]</td><td>MJ</td><td>2d6x10</td><td>70</td></tr><tr><td>[[Enquêteur]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Ensorceleur]]</td><td>MJ</td><td>2d6x10</td><td>70</td></tr><tr><td>[[Guerrier]]</td><td>MJ</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Hypnotiseur]]</td><td>AO</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Inquisiteur]]</td><td>MJRA</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Justicier]]</td><td>*UI*</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Lutteur]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Magicien]]</td><td>MJ</td><td>2d6x10</td><td>70</td></tr><tr><td>[[Magus]]</td><td>UM</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Médium]]</td><td>AO</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Métamorphe]]</td><td>*UW*</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Moine]]</td><td>MJ</td><td>1d6x10</td><td>35</td></tr><tr><td>[[Ninja]]</td><td>AG</td><td>4d6x10</td><td>140</td></tr><tr><td>[[Occultiste]]</td><td>AO</td><td>4d6×10</td><td>140</td></tr><tr><td>[[Oracle]]</td><td>MJRA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Paladin]]</td><td>MJ</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Pistolier]]</td><td>AG</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Prêtre]]</td><td>MJ</td><td>4d6x10</td><td>140</td></tr><tr><td>[[Prêtre combattant]]</td><td>MCA</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Psychiste]]</td><td>AO</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Rôdeur]]</td><td>MJ</td><td>5d6x10</td><td>175</td></tr><tr><td>[[Roublard]]</td><td>MJ</td><td>4d6x10</td><td>140</td></tr><tr><td>[[Samouraï]]</td><td>AG</td><td>5d6×10</td><td>175</td></tr><tr><td>[[Sanguin]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Scalde]]</td><td>MCA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Sorcière]]</td><td>MJRA</td><td>3d6×10</td><td>105</td></tr><tr><td>[[Spirite]]</td><td>AO</td><td>2d6×10</td><td>70</td></tr><tr><td>[[Tueur]]</td><td>MCA</td><td>5d6×10</td><td>175</td></tr></table>
+
 </center>
 
 ### La monnaie
@@ -112,19 +32,9 @@ Une pièce pèse environ 10 grammes et cent pièces pèsent un kilo.
 
 {s:Reference|TABLEDIFFERENTSTYPESDEPIECES}
 <center>
-{| CLASS="tablo"
-|+ Les différents types de pièces
-|- CLASS="titre"
-| Valeur d'échange || PC || PA || PO || PP
-|- CLASS="premier"
-| Pièce de cuivre (pc) || 1 || 1/10 || 1/100 || 1/1 000
-|- CLASS="alt"
-| Pièce d’argent (pa) || 10 || 1 || 1/10 || 1/100
-|-
-| Pièce d’or (po) || 100 || 10 || 1 || 1/10
-|- CLASS="alt"
-| Pièce de platine (pp) || 1 000 || 100 || 10 || 1
-|}
+
+<table CLASS="tablo"><caption>Les différents types de pièces</caption><tr CLASS="titre"><td>Valeur d'échange</td><td>PC</td><td>PA</td><td>PO</td><td>PP</td></tr><tr CLASS="premier"><td>Pièce de cuivre (pc)</td><td>1</td><td>1/10</td><td>1/100</td><td>1/1 000</td></tr><tr CLASS="alt"><td>Pièce d’argent (pa)</td><td>10</td><td>1</td><td>1/10</td><td>1/100</td></tr><tr><td>Pièce d’or (po)</td><td>100</td><td>10</td><td>1</td><td>1/10</td></tr><tr CLASS="alt"><td>Pièce de platine (pp)</td><td>1 000</td><td>100</td><td>10</td><td>1</td></tr></table>
+
 </center>
 
 ### La revente du butin
@@ -138,50 +48,8 @@ Les produits de consommation courante constituent une exception. Ce terme désig
 Souvent, la richesse des gens ne se calcule pas en pièces d’or. Voici le prix de certains produits de consommation courante.
 
 <center>
-{| CLASS="tablo"
-|+ Produits de consommation courante
-|- CLASS="titre"
-| Prix
-| CLASS="gauche" | Article
-|- CLASS="premier"
-| 1 pc
-| CLASS="gauche" | Une livre* de blé
-|- CLASS="alt"
-| 2 pc
-| CLASS="gauche" | Une livre* de farine ou un poulet
-|-
-| 1 pa
-| CLASS="gauche" | Une livre* de fer
-|- CLASS="alt"
-| 5 pa
-| CLASS="gauche" | Une livre* de tabac ou de cuivre
-|-
-| 1 po
-| CLASS="gauche" | Une livre* de cannelle ou une chèvre
-|- CLASS="alt"
-| 2 po
-| CLASS="gauche" | Une livre* de gingembre ou de poivre ou un mouton
-|-
-| 3 po
-| CLASS="gauche" | Un cochon
-|- CLASS="alt"
-| 4 po
-| CLASS="gauche" | Un mètre carré de lin
-|-
-| 5 po
-| CLASS="gauche" | Une livre* d’argent ou de sel
-|- CLASS="alt"
-| 10 po
-| CLASS="gauche" | Un mètre carré de soie, ou une vache
-|-
-| 15 po
-| CLASS="gauche" | Une livre* de safran ou de clous de girofle, ou un bœuf
-|- CLASS="alt"
-| 50 po
-| CLASS="gauche" | Une livre* d’or
-|-
-| 500 po
-| CLASS="gauche" | Une livre* de platine
-|}
+
+<table CLASS="tablo"><caption>Produits de consommation courante</caption><tr CLASS="titre"><td>Prix</td><td CLASS="gauche">Article</td></tr><tr CLASS="premier"><td>1 pc</td><td CLASS="gauche">Une livre* de blé</td></tr><tr CLASS="alt"><td>2 pc</td><td CLASS="gauche">Une livre* de farine ou un poulet</td></tr><tr><td>1 pa</td><td CLASS="gauche">Une livre* de fer</td></tr><tr CLASS="alt"><td>5 pa</td><td CLASS="gauche">Une livre* de tabac ou de cuivre</td></tr><tr><td>1 po</td><td CLASS="gauche">Une livre* de cannelle ou une chèvre</td></tr><tr CLASS="alt"><td>2 po</td><td CLASS="gauche">Une livre* de gingembre ou de poivre ou un mouton</td></tr><tr><td>3 po</td><td CLASS="gauche">Un cochon</td></tr><tr CLASS="alt"><td>4 po</td><td CLASS="gauche">Un mètre carré de lin</td></tr><tr><td>5 po</td><td CLASS="gauche">Une livre* d’argent ou de sel</td></tr><tr CLASS="alt"><td>10 po</td><td CLASS="gauche">Un mètre carré de soie, ou une vache</td></tr><tr><td>15 po</td><td CLASS="gauche">Une livre* de safran ou de clous de girofle, ou un bœuf</td></tr><tr CLASS="alt"><td>50 po</td><td CLASS="gauche">Une livre* d’or</td></tr><tr><td>500 po</td><td CLASS="gauche">Une livre* de platine</td></tr></table>
+
 <nowiki>*</nowiki>une livre = 500 g
 </center>

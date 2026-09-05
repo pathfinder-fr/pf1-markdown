@@ -66,35 +66,9 @@ Quand un personnage se trouve sur un cheval lancé au galop, à bord d’un char
 #### Sort
 Si le personnage est la cible d’un sort alors que lui-même tente d’en lancer un, il doit réussir un [[lancer des sorts#TESTCONCENTRATION|test de Concentration]] afin de terminer son incantation. Si le sort qui l’agresse lui inflige des dégâts, le [[DD]] passe à 10 + points de dégâts subis + niveau du sort qu’il tente de jeter. Si le sort adverse sert juste à le distraire, le [[DD]] est égal au [[DD]] du jet de sauvegarde du sort de l’agresseur + le niveau du sort que le personnage essaie de lancer. Pour les sorts n’autorisant pas de jet de sauvegarde, on prend en compte le [[DD]] que son jet de sauvegarde devrait avoir s’il en permettait un (10 + niveau du sort + valeur de caractéristique du lanceur de sorts).
 
-{| CLASS="tablo centre autoalt"
-|+ {s:Reference|TABLEDDTESTSCONCENTRATION}DD des tests de concentration
-|- CLASS="titre"
-| Situation || DD du test de concentration
-|- CLASS="premier"
-| [[lancer des sorts#INCANTATIONSURLADEFENSIVE|Incantation sur la défensive]] || 15 + niveau du sort x2
-|-
-| [[lancer des sorts#BLESSURE|Blessé pendant l’incantation]] || 10 + dégâts reçus + niveau du sort
-|-
-| [[lancer des sorts#BLESSURE|Dégâts continus pendant l’incantation]] || 10 + 1/2 dégâts reçus + niveau du sort
-|-
-| [[lancer des sorts#SORT|Affecté par un sort qui ne blesse pas pendant l’incantation]] || DD du sort + niveau du sort
-|-
-| [[lancer des sorts#LUTTEETIMMOBILISATION|Agrippé ou immobilisé pendant l’incantation]] || 10 + BMO de l’adversaire + niveau du sort
-|-
-| [[lancer des sorts#MOUVEMENTVIOLENT|Mouvement violent pendant l’incantation]] || 10 + niveau du sort
-|-
-| [[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement très violent pendant l’incantation]] || 15 + niveau du sort
-|-
-| [[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement extrêmement violent pendant l’incantation]] || 20 + niveau du sort
-|-
-| [[lancer des sorts#INTEMPERIES|Vent et pluie ou neige fondue pendant l’incantation]] || 5 + niveau du sort
-|-
-| [[lancer des sorts#INTEMPERIES|Vent et grêle ou débris pendant l’incantation]] || 10 + niveau du sort
-|-
-| [[lancer des sorts#INTEMPERIES|Intempérie causée par un sort]] || voir le sort
-|-
-| [[lancer des sorts#ENCHEVETREMENT|Enchevêtré pendant l’incantation]] || 15 + niveau du sort
-|}
+
+<table CLASS="tablo centre autoalt"><caption>{s:Reference|TABLEDDTESTSCONCENTRATION}DD des tests de concentration</caption><tr CLASS="titre"><td>Situation</td><td>DD du test de concentration</td></tr><tr CLASS="premier"><td>[[lancer des sorts#INCANTATIONSURLADEFENSIVE|Incantation sur la défensive]]</td><td>15 + niveau du sort x2</td></tr><tr><td>[[lancer des sorts#BLESSURE|Blessé pendant l’incantation]]</td><td>10 + dégâts reçus + niveau du sort</td></tr><tr><td>[[lancer des sorts#BLESSURE|Dégâts continus pendant l’incantation]]</td><td>10 + 1/2 dégâts reçus + niveau du sort</td></tr><tr><td>[[lancer des sorts#SORT|Affecté par un sort qui ne blesse pas pendant l’incantation]]</td><td>DD du sort + niveau du sort</td></tr><tr><td>[[lancer des sorts#LUTTEETIMMOBILISATION|Agrippé ou immobilisé pendant l’incantation]]</td><td>10 + BMO de l’adversaire + niveau du sort</td></tr><tr><td>[[lancer des sorts#MOUVEMENTVIOLENT|Mouvement violent pendant l’incantation]]</td><td>10 + niveau du sort</td></tr><tr><td>[[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement très violent pendant l’incantation]]</td><td>15 + niveau du sort</td></tr><tr><td>[[lancer des sorts#MOUVEMENTTRESVIOLENT|Mouvement extrêmement violent pendant l’incantation]]</td><td>20 + niveau du sort</td></tr><tr><td>[[lancer des sorts#INTEMPERIES|Vent et pluie ou neige fondue pendant l’incantation]]</td><td>5 + niveau du sort</td></tr><tr><td>[[lancer des sorts#INTEMPERIES|Vent et grêle ou débris pendant l’incantation]]</td><td>10 + niveau du sort</td></tr><tr><td>[[lancer des sorts#INTEMPERIES|Intempérie causée par un sort]]</td><td>voir le sort</td></tr><tr><td>[[lancer des sorts#ENCHEVETREMENT|Enchevêtré pendant l’incantation]]</td><td>15 + niveau du sort</td></tr></table>
+
 
 {s:Reference|CONTRESORT}
 ### Les contresorts
@@ -129,37 +103,13 @@ Certains sorts sont capables de contrer d’autres sorts spécifiques, souvent s
 La puissance d’un sort dépend souvent du niveau de lanceur de sorts de celui qui le lance. Elle est généralement égale à son niveau de classe dans la classe utilisée pour lancer le sort.
 
 
-{| CLASS="tablo"
-|+ NLS
-|- CLASS="titre"
-| Niveau   
-du sort || Niveau du [[druide]],   
-[[magicien]], [[prêtre]] || Niveau de l'[[ensorceleur]] || Niveau du [[barde]] || Niveau du [[paladin]]*,   
-[[rôdeur]]*
-|- CLASS="premier"
-| 0 || 1 || 1 || 1 || 4**
-|- CLASS="alt"
-| 1er || 1 || 1 || 1 || 5
-|-
-| 2e || 3 || 4 || 4 || 8
-|- CLASS="alt"
-| 3e || 5 || 6 || 7 || 11
-|-
-| 4e || 7 || 8 || 10 || 14
-|- CLASS="alt"
-| 5e || 9 || 10 || 13 || —
-|-
-| 6e || 11 || 12 || 16 || —
-|- CLASS="alt"
-| 7e || 13 || 14 || — || —
-|-
-| 8e || 15 || 16 || — || —
-|- CLASS="alt"
-| 9e || 17 || 18 || — || —
-|- CLASS="note"
-| COLSPAN="5" | *(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.  
-(**) Aucun sort sauf sorts bonus octroyés par un Charisme (Paladin) ou une Sagesse (Rodeur) élevée.*
-|}
+
+<table CLASS="tablo"><caption>NLS</caption><tr CLASS="titre"><td>Niveau   
+du sort</td><td>Niveau du [[druide]],   
+[[magicien]], [[prêtre]]</td><td>Niveau de l'[[ensorceleur]]</td><td>Niveau du [[barde]]</td><td>Niveau du [[paladin]]*,   
+[[rôdeur]]*</td></tr><tr CLASS="premier"><td>0</td><td>1</td><td>1</td><td>1</td><td>4**</td></tr><tr CLASS="alt"><td>1er</td><td>1</td><td>1</td><td>1</td><td>5</td></tr><tr><td>2e</td><td>3</td><td>4</td><td>4</td><td>8</td></tr><tr CLASS="alt"><td>3e</td><td>5</td><td>6</td><td>7</td><td>11</td></tr><tr><td>4e</td><td>7</td><td>8</td><td>10</td><td>14</td></tr><tr CLASS="alt"><td>5e</td><td>9</td><td>10</td><td>13</td><td>—</td></tr><tr><td>6e</td><td>11</td><td>12</td><td>16</td><td>—</td></tr><tr CLASS="alt"><td>7e</td><td>13</td><td>14</td><td>—</td><td>—</td></tr><tr><td>8e</td><td>15</td><td>16</td><td>—</td><td>—</td></tr><tr CLASS="alt"><td>9e</td><td>17</td><td>18</td><td>—</td><td>—</td></tr><tr CLASS="note"><td COLSPAN="5">*(*) Le [[NLS|niveau du lanceur de sorts]] est égal au niveau de la classe de personnage -3.  
+(**) Aucun sort sauf sorts bonus octroyés par un Charisme (Paladin) ou une Sagesse (Rodeur) élevée.*</td></tr></table>
+
 
 Exemple : pour lancer des sorts de niveau 2, un prêtre doit être de niveau 3.
 Donc, pour lancer un sort de niveau 2, le NLS minimum est de 3.

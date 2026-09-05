@@ -51,18 +51,7 @@ Afin de voir comment le sort se comporte, jetez 1d100 et référez-vous à la ta
 
 *Incident.* Le personnage (et ceux qui l’accompagnent éventuellement) connaît un incident de parcours, une déchirure dans la trame de la réalité qui lui occasionne 1d10 points de dégâts. Il lance aussitôt 1d20+80 pour voir où il arrive. Chaque fois que le résultat indique « Incident », les dégâts se cumulent et le personnage doit relancer les dés.
 
-{| CLASS="tablo centre autoalt"
-|- CLASS="titre"
-| Degré de familiarité || Sur l'objectif || Translation || Lieu similaire || Incident
-|- CLASS="premier"
-| Très familier || 01–97 || 98–99 || 00 || —
-|-
-| Soigneusement étudié || 01–94 || 95–97 || 98–99 || 00
-|-
-| Vu à l’occasion || 01–88 || 89–94 || 95–98 || 99–00
-|-
-| Vu une fois || 01–76 || 77–88 || 89–96 || 97–00
-|-
-| Destination erronée (1d20+80) || — || — || 81–92 || 93–00
-|}
+
+<table CLASS="tablo centre autoalt"><tr CLASS="titre"><td>Degré de familiarité</td><td>Sur l'objectif</td><td>Translation</td><td>Lieu similaire</td><td>Incident</td></tr><tr CLASS="premier"><td>Très familier</td><td>01–97</td><td>98–99</td><td>00</td><td>—</td></tr><tr><td>Soigneusement étudié</td><td>01–94</td><td>95–97</td><td>98–99</td><td>00</td></tr><tr><td>Vu à l’occasion</td><td>01–88</td><td>89–94</td><td>95–98</td><td>99–00</td></tr><tr><td>Vu une fois</td><td>01–76</td><td>77–88</td><td>89–96</td><td>97–00</td></tr><tr><td>Destination erronée (1d20+80)</td><td>—</td><td>—</td><td>81–92</td><td>93–00</td></tr></table>
+
 )))

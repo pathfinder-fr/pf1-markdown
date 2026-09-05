@@ -17,15 +17,9 @@ Vous ne pouvez pas faire 20 à un test de Culture pour déchiffrer des écrits �
 Les DD des tests de Culture pour déchiffrer des écrits dépendent de la complexité du texte ainsi que d’autres circonstances déterminées par le MJ.
 
 <Center>
-{| CLASS="tablo"
-|+ TESTS DE CULTURE
-|- CLASS="titre"
-| COMPLEXITÉ || DD
-|- CLASS="premier"
-|/ Message simple || 20
-|/ Texte standard || 25
-|/ Écrit complexe, exotique ou très ancien || 30
-|}
+
+<table CLASS="tablo"><caption>TESTS DE CULTURE</caption><tr CLASS="titre"><td>COMPLEXITÉ</td><td>DD</td></tr><tr CLASS="premier"></tr><tr><td>Message simple</td><td>20</td></tr><tr><td>Texte standard</td><td>25</td></tr><tr><td>Écrit complexe, exotique ou très ancien</td><td>30</td></tr></table>
+
 </Center>
 
 

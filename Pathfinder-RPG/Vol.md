@@ -27,27 +27,9 @@ Non. Puisque le jeu est généralement supposé être joué en deux dimensions, 
 Non, n’importe qu’elle créature qui perd toutes ses actions est incapable d’entreprendre une action pour tenter un test de <u>[[Vol]]</u> afin de rester en vol stationnaire et tombe donc automatiquement. Cela inclut les créatures [[paralysé|paralysées]], [[étourdi|étourdies]], et [[hébété|hébétées]]. Le vol magique n’agit pas différemment, même avec la paralysie, puisque ce n’est pas une action purement mentale. Une créature avec 0 en Dextérité ne peut pas voler, et la paralysie passe la Dextérité d’une créature à 0. Bien que la compétence Vol mentionne que les bonus et les malus de manœuvrabilité s’appliquent aux créatures avec une vitesse de vol naturelle, ils s’appliquent à tout type de vitesse de vol. S’ils ne s’appliquaient pas aux créatures qui gagnent la capacité de voler artificiellement ou par magie, alors ces manœuvrabilités (comme la manœuvrabilité bonne listée dans le sort *[[sort vol|vol]]*) n’aurait aucun effet en jeu. Enfin, la phrase « le personnage n’est pas considéré comme pris au dépourvu lorsqu’il vole » signifie que voler (contrairement à se tenir en équilibre avec Acrobaties ou escalader) ne rend pas le personnage automatiquement [[pris au dépourvu]] et ne le force pas à être privé de son bonus de Dextérité à la CA ; il ne veut pas dire que voler immunise le personnage à l’état pris au dépourvu.}En règle générale, un test de Vol n’est requis que pour des manœuvres complexes. Une créature volante ne doit pas faire de test pour rester en vol à la fin de son tour, pour autant qu’elle se soit déplacée d’une distance au moins égale à la moitié de sa vitesse. Elle peut également virer à 45° en sacrifiant 1,50 m de mouvement, voler vers le haut selon un angle de 45° à la moitié de sa vitesse ou voler vers le bas (selon n’importe quel angle) à sa vitesse normale. Ces restrictions s’appliquent uniquement aux déplacements effectués au cours d’un tour en combat. Dès le début du tour suivant, la créature peut se déplacer dans une direction différente de celle suivie lors du tour précédent sans devoir faire un test de compétence. Toutes les actions qui violent ces règles nécessitent un test de Vol. Le DD de ce test dépend de la manœuvre que la créature volante tente, comme indiqué dans la table suivante.
 
 <center>
-{| CLASS="tablo"
-|+ Manœuvres aériennes
-|- CLASS="titre"
-| Manœuvre aérienne
-| DD du test de Vol
-|- CLASS="premier"
-| Se déplacer sur une distance inférieure à la moitié de sa vitesse et rester en vol
-| 10
-|- CLASS="alt"
-| Faire du surplace/vol stationnaire
-| 15
-|-
-| Virer de plus de 45° en sacrifiant 1,50 m de mouvement
-| 15
-|- CLASS="alt"
-| Virer à 180° en sacrifiant 3 m de mouvement
-| 20
-|-
-| Voler vers le haut selon un angle de plus de 45°
-| 20
-|}
+
+<table CLASS="tablo"><caption>Manœuvres aériennes</caption><tr CLASS="titre"><td>Manœuvre aérienne</td><td>DD du test de Vol</td></tr><tr CLASS="premier"><td>Se déplacer sur une distance inférieure à la moitié de sa vitesse et rester en vol</td><td>10</td></tr><tr CLASS="alt"><td>Faire du surplace/vol stationnaire</td><td>15</td></tr><tr><td>Virer de plus de 45° en sacrifiant 1,50 m de mouvement</td><td>15</td></tr><tr CLASS="alt"><td>Virer à 180° en sacrifiant 3 m de mouvement</td><td>20</td></tr><tr><td>Voler vers le haut selon un angle de plus de 45°</td><td>20</td></tr></table>
+
 </center>
 
 **Être attaqué en vol.** Une créature volante n’est pas forcément considérée comme prise au dépourvu lorsqu’elle vole. Si elle utilise des ailes et qu’elle subit des dégâts en vol, elle doit réussir un test de Vol (DD 10) pour éviter de perdre 3 m d’altitude. Ce mouvement vers le bas ne provoque pas d’attaque d’opportunité et ne compte pas dans la limite de mouvement que la créature peut effectuer chaque round.
@@ -58,57 +40,9 @@ Non, n’importe qu’elle créature qui perd toutes ses actions est incapable d
 
 **Vents forts.** Les vents forts imposent des malus aux tests de Vol, comme indiqué dans la table ci-dessous. Les créatures dont la taille est inférieure ou égale à celle indiquée dans la colonne « Créatures stoppées » doivent réussir un test de Vol (DD 20) pour pouvoir se déplacer et ce aussi longtemps que les vents persistent. Les créatures dont la taille est inférieure ou égale à celle indiquée dans la colonne « Créatures emportées » doivent réussir un test de Vol (DD 25) pour éviter d’être emportées par le vent sur 2d6 × 3 m et de subir 2d6 points de dégâts non-létaux. Ces tests se répètent chaque round où la créature reste en vol. Une créature qui est emportée doit également réussir un test de Vol (DD 20) pour éviter d’être stoppée par le vent.
 
-{| CLASS="tablo centre autoalt"
-|+ Effet du vent sur les créatures volantes
-|- CLASS="titre"
-| Force du vent
-| Vitesse du vent
-| Créatures stoppées
-| Créatures emportées
-| Malus aux tests de Vol
-|- CLASS="premier"
-| léger
-| 0–15 km/h
-| —
-| —
-| —
-|-
-| modéré
-| 15–30 km/h
-| —
-| —
-| —
-|-
-| fort
-| 30–50 km/h
-| TP
-| —
-| -2
-|-
-| violent
-| 50–80 km/h
-| P
-| TP
-| -4
-|-
-| tempête
-| 80–120 km/h
-| M
-| P
-| -8
-|-
-| ouragan
-| 120–280 km/h
-| G
-| M
-| -12
-|-
-| tornade
-| 280+ km/h
-| TG
-| G
-| -16
-|}
+
+<table CLASS="tablo centre autoalt"><caption>Effet du vent sur les créatures volantes</caption><tr CLASS="titre"><td>Force du vent</td><td>Vitesse du vent</td><td>Créatures stoppées</td><td>Créatures emportées</td><td>Malus aux tests de Vol</td></tr><tr CLASS="premier"><td>léger</td><td>0–15 km/h</td><td>—</td><td>—</td><td>—</td></tr><tr><td>modéré</td><td>15–30 km/h</td><td>—</td><td>—</td><td>—</td></tr><tr><td>fort</td><td>30–50 km/h</td><td>TP</td><td>—</td><td>-2</td></tr><tr><td>violent</td><td>50–80 km/h</td><td>P</td><td>TP</td><td>-4</td></tr><tr><td>tempête</td><td>80–120 km/h</td><td>M</td><td>P</td><td>-8</td></tr><tr><td>ouragan</td><td>120–280 km/h</td><td>G</td><td>M</td><td>-12</td></tr><tr><td>tornade</td><td>280+ km/h</td><td>TG</td><td>G</td><td>-16</td></tr></table>
+
 
 ### Action
 

@@ -31,26 +31,7 @@ Un personnage peut utiliser la compétence Nature pour identifier les monstres d
 Le personnage peut utiliser la compétence Nature pour se remémorer des informations à propos de la faune, de la flore, du climat, des saisons et de leur cycle, de la spéléologie et de l’environnement. Voir l’encart [[Compétences fusionnées#SEREMEMORERDESCONNAISSANCES|Se remémorer des connaissances]] pour plus de détails. Utilisez les DD de la table suivante pour certaines tâches.
 
 <center>
-{| CLASS="tablo autoalt"
-|- CLASS="titre"
-| Tâche || DD du test de Nature
-|- CLASS="premier"
-| Identifier une plante ou un animal courant || 10
-|-
-| Identifier un minéral, une pierre ou un métal || 10
-|-
-| Déterminer l’inclinaison d’une pente || 15
-|-
-| Identifier un phénomène climatique anormal || 15
-|-
-| Reconnaître les caractéristiques environnementales d’une région || 15
-|-
-| Identifier un danger naturel ou souterrain || 15 + FP du danger
-|-
-| Déterminer la part d’artificiel dans un élément d’apparence naturelle || 20
-|-
-| Déterminer la profondeur sous terre || 20
-|-
-| Connaître l’emplacement du site remarquable le plus proche || 20
-|}
+
+<table CLASS="tablo autoalt"><tr CLASS="titre"><td>Tâche</td><td>DD du test de Nature</td></tr><tr CLASS="premier"><td>Identifier une plante ou un animal courant</td><td>10</td></tr><tr><td>Identifier un minéral, une pierre ou un métal</td><td>10</td></tr><tr><td>Déterminer l’inclinaison d’une pente</td><td>15</td></tr><tr><td>Identifier un phénomène climatique anormal</td><td>15</td></tr><tr><td>Reconnaître les caractéristiques environnementales d’une région</td><td>15</td></tr><tr><td>Identifier un danger naturel ou souterrain</td><td>15 + FP du danger</td></tr><tr><td>Déterminer la part d’artificiel dans un élément d’apparence naturelle</td><td>20</td></tr><tr><td>Déterminer la profondeur sous terre</td><td>20</td></tr><tr><td>Connaître l’emplacement du site remarquable le plus proche</td><td>20</td></tr></table>
+
 </center>

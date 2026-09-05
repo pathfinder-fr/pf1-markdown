@@ -6,29 +6,9 @@ LastModified: 2021-07-15 17:32
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
 <div style="border: 1px solid #4b3124; padding: 4px; max-width: 260px;">
-{| CLASS="tablo autoalt"
-|+ Les principaux seigneurs démons
-|- CLASS="titre"
-| Nom || FP
-|- CLASS="premier"
-| [[Baphomet]] || 27
-|-
-| [[Dagon]] || 28
-|-
-| [[Deskari]] || 29
-|-
-| [[Kostchtchie]] || 26
-|-
-| [[Nocticula]] || 30
-|-
-| [[Pazuzu]] || 30
-|-
-| [[Shax]] || 28
-|-
-| [[Sifkesh]] || 28
-|-
-| [[Xoveron]] || 27
-|}
+
+<table CLASS="tablo autoalt"><caption>Les principaux seigneurs démons</caption><tr CLASS="titre"><td>Nom</td><td>FP</td></tr><tr CLASS="premier"><td>[[Baphomet]]</td><td>27</td></tr><tr><td>[[Dagon]]</td><td>28</td></tr><tr><td>[[Deskari]]</td><td>29</td></tr><tr><td>[[Kostchtchie]]</td><td>26</td></tr><tr><td>[[Nocticula]]</td><td>30</td></tr><tr><td>[[Pazuzu]]</td><td>30</td></tr><tr><td>[[Shax]]</td><td>28</td></tr><tr><td>[[Sifkesh]]</td><td>28</td></tr><tr><td>[[Xoveron]]</td><td>27</td></tr></table>
+
 </div></div><div style="float:right">***Voir aussi les [[Traits des seigneurs démons (capacité)|traits des seigneurs démons]].***
 ***Voir la description des [[Démon|démons]].***</div><div class="description">**Source :** Bestiaire 4.</div>
 *Types/Sous-types associés : [[type Extérieur|Extérieur]] ([[sous-type Chaos|Chaos]], [[sous-type démon|démon]], [[sous-type extraplanaire|extraplanaire]], [[sous-type Mal|Mal]])*
@@ -204,19 +184,5 @@ prédilection et aux domaines du Chaos et du Mal, en plus de
 deux autres domaines qui varient en fonction de leurs intérêts
 et de leurs thèmes de prédilection.
 
-{| CLASS="tablo"
-|+ Statistiques des Seigneurs Démons Naissants selon leur FP
-|- CLASS="titre"
-| FP || Points de vie || Classe d’armure || Attaque forte || Attaque faible || Dégâts moyens  Élevés || Dégâts moyens faibles ||  DD des capacités principales ||  DD des capacités secondaires || JS fort || JS faible
-|- CLASS="premier"
-| **21** || 400 || 37 || 31 || 24 || 130 || 98 || 27 || 20 || 23 || 18
-|-
-| **22** || 440 || 39  || 32 ||  25 ||  140 ||  105 ||  28 ||  21 ||  23 ||  18
-|-
-| **23** ||  480 ||  40 ||  33 ||  26 ||  150 ||  113 ||  29 ||  22 ||  24 ||  19
-|-
-| **24** ||  520 ||  42 ||  35 ||  27 ||  165 ||  124 ||  30 ||  23 ||  25 ||  20
-|-
-| **25** ||  560  || 43 ||  36 ||  28  || 180 ||  135 ||  30 ||  24 ||  26  || 21
-|-
-|}
+
+<table CLASS="tablo"><caption>Statistiques des Seigneurs Démons Naissants selon leur FP</caption><tr CLASS="titre"><td>FP</td><td>Points de vie</td><td>Classe d’armure</td><td>Attaque forte</td><td>Attaque faible</td><td>Dégâts moyens  Élevés</td><td>Dégâts moyens faibles</td><td>DD des capacités principales</td><td>DD des capacités secondaires</td><td>JS fort</td><td>JS faible</td></tr><tr CLASS="premier"><td>**21**</td><td>400</td><td>37</td><td>31</td><td>24</td><td>130</td><td>98</td><td>27</td><td>20</td><td>23</td><td>18</td></tr><tr><td>**22**</td><td>440</td><td>39</td><td>32</td><td>25</td><td>140</td><td>105</td><td>28</td><td>21</td><td>23</td><td>18</td></tr><tr><td>**23**</td><td>480</td><td>40</td><td>33</td><td>26</td><td>150</td><td>113</td><td>29</td><td>22</td><td>24</td><td>19</td></tr><tr><td>**24**</td><td>520</td><td>42</td><td>35</td><td>27</td><td>165</td><td>124</td><td>30</td><td>23</td><td>25</td><td>20</td></tr><tr><td>**25**</td><td>560</td><td>43</td><td>36</td><td>28</td><td>180</td><td>135</td><td>30</td><td>24</td><td>26</td><td>21</td></tr></table>
