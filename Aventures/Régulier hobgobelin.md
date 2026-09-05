@@ -13,8 +13,8 @@ Ce sont les soldats de base des armées hobgobelines.
 {s:BDTexte|*Source : Fan*}
 {s:BDTexte|**XP** 400}
 {s:BDTexte|Hobgobelin, homme d'arme 2 (PNJ de base) }
-{s:BDTexte|[++Pathfinder-RPG.type humanoïde|Humanoïde] ([++Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [++Pathfinder-RPG.vision dans le noir|vision dans le noir] (12 cases) ; [++Pathfinder-RPG.Perception|Perception] +3}
+{s:BDTexte|[[Pathfinder-RPG.type humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 19, contact 11, pris au dépourvu 18 (cote de maille +6, écu en acier +2, Dex +1)}
 {s:BDTexte|**pv** 18 (2d10+4+3)}

@@ -19,6 +19,6 @@ Mais, c’est sous Kaer Maga que se trouve le plus vaste réseau de salles et de
 {s:ImageCentre|/Illustrations/Lieux/Plan KaerMaga VO.jpg|75%}
 
 {s:VoirAussiAvant}
-- Plus d'informations sur Kaer Maga dans le [++Aventures.Présentation AP1#AP1-1|troisième volume] ("Le massacre de la montagne crochue") de la campagne [++Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes].
-- Voir aussi le module [++Aventures.Présentation modules#D2|Les sept épées du péché].
+- Plus d'informations sur Kaer Maga dans le [[Aventures.Présentation AP1#AP1-1|troisième volume]] ("Le massacre de la montagne crochue") de la campagne [[Aventures.Présentation AP1|L'Éveil des Seigneurs des Runes]].
+- Voir aussi le module [[Aventures.Présentation modules#D2|Les sept épées du péché]].
 {s:VoirAussiAprès}

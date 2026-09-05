@@ -4,20 +4,20 @@ Title: La Tour aux Chandelles
 LastModified: 2013-09-08 19:13
 ---
 
-*[^http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx|Retour au Sommaire]*
+*[Retour au Sommaire](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx)*
 
-*D'après un [^http://paizo.com/threads/rzs2lhd3?Candlemere-Tower#1|post] de Tem sur le blog de Paizo.*
+*D'après un [post](http://paizo.com/threads/rzs2lhd3?Candlemere-Tower#1) de Tem sur le blog de Paizo.*
 {s:ImageExt|http://kingmakercampaign.pbworks.com/f/Candlemere%20Tower.jpg|300|fright}
 
 <nav class="wiki-toc"></nav>
 
 Voilà une autre modification glanée sur les forums de Païzo que je compte appliquer à mes campagnes Kingmaker.
-Cette modification concerne la Tour de l'île aux Chandelles de "Quand les Rivières se teintent de Rouge" et utilise les [^http://paizo.com/pathfinderRPG/prd/mastery/haunts.html|Apparitions] (Guide du Maître p242)
+Cette modification concerne la Tour de l'île aux Chandelles de "Quand les Rivières se teintent de Rouge" et utilise les [Apparitions](http://paizo.com/pathfinderRPG/prd/mastery/haunts.html) (Guide du Maître p242)
 
 ### La Tour de l'île aux Chandelles
 
 Toute personne passant une nuit sur l'île subira des terreurs nocturnes.{br}
-Chaque PJ devra réussir un jet de <u>Volonté DD17</u> ou être affecté par le sort *[^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.sort%20Cauchemar.ashx|Cauchemar]*.{br}
+Chaque PJ devra réussir un jet de <u>Volonté DD17</u> ou être affecté par le sort *[Cauchemar](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.sort%20Cauchemar.ashx)*.{br}
 Ils rêvent de nuées de boules lumineuses virevoltantes, de bruits crissants abrutissants, et entr'aperçoivent une masse gigantesque de tentacules.{br}
 
 #### Zone A : En dehors de la Tour
@@ -25,7 +25,7 @@ Ils rêvent de nuées de boules lumineuses virevoltantes, de bruits crissants ab
 La **Tour** est en fait constituée d'un bâtiment d'un niveau adossé à une tour de 15m de haut à une extrémité. La seule entrée se fait par la porte du bâtiment bas se trouvant à l'opposé de la tour. Bien qu'en perpétuelle effondrement, la tour se *reconstruit* avec le temps, apparaissant toujours dans le même état de délabrement.
 
 
-A 30m de la tour, les PJs doivent réussir une jet de <u>Volonté DD20</u> ou être secoué, comme indiqué dans le scénario original. Un **[^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Feu-follet.ashx|Feu-Follet]** (FP6) sera rencontré la première fois que le groupe approche à cette distance.
+A 30m de la tour, les PJs doivent réussir une jet de <u>Volonté DD20</u> ou être secoué, comme indiqué dans le scénario original. Un **[Feu-Follet](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Feu-follet.ashx)** (FP6) sera rencontré la première fois que le groupe approche à cette distance.
 
 A 9m de l'entrée, les PJs déclencheront la première apparition :{br}
 <div class="BD">
@@ -33,7 +33,7 @@ A 9m de l'entrée, les PJs déclencheront la première apparition :{br}
 - **Repérage** Perception DD15 (pour entendre le bruit d'une foule se précipitant vers la porte à l'intérieur).
 (((Effet)))
 - **Pv** 8 ; **Déclencheur** Proximité ; **Réinitialisation** 1 jour
-- **Effet** Des Cultistes se précipitent à travers la porte (bien qu'elle reste close, comme si c'étaient des fantômes) horrifiés alors qu'ils fuient le complexe. Certains hurlent, alors que d'autres courent avec les yeux révulsés. Leur panique instille la peur (comme le sort *[^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Effroi.ashx|Effroi]* - <u>Volonté DD16</u>) à toute les créatures à moins de 9m de la porte.
+- **Effet** Des Cultistes se précipitent à travers la porte (bien qu'elle reste close, comme si c'étaient des fantômes) horrifiés alors qu'ils fuient le complexe. Certains hurlent, alors que d'autres courent avec les yeux révulsés. Leur panique instille la peur (comme le sort *[Effroi](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Effroi.ashx)* - <u>Volonté DD16</u>) à toute les créatures à moins de 9m de la porte.
 - **Autre** Un des PJs qui fuiraient à plus de 30m de la tour, attireraient l'attention d'un autre Feu-Follet
 </div>
 
@@ -46,7 +46,7 @@ A 9m de l'entrée, les PJs déclencheront la première apparition :{br}
 - **Repérage** Perception DD20 (pour apercevoir de rapides mouvements et entendre de secs commentaires en provenance des coins).
 (((Effet)))
 - **Pv** 10 ; **Déclencheur** Proximité ; **Réinitialisation** 1 jour
-- **Effet** La paranoïa envahit ceux présents. Soudainement, vous avez la sensation que tous ceux présents n'attendent que l'opportunité de vous tuer. Effet identique au poison [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Poisons.ashx|Vapeur de Cauchemard] (<u>Vigueur DD20</u> - 1 / rd pendant 6 rds, Sagesse -1 et confus 1rd, 2 JS réussi).
+- **Effet** La paranoïa envahit ceux présents. Soudainement, vous avez la sensation que tous ceux présents n'attendent que l'opportunité de vous tuer. Effet identique au poison [Vapeur de Cauchemard](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Poisons.ashx) (<u>Vigueur DD20</u> - 1 / rd pendant 6 rds, Sagesse -1 et confus 1rd, 2 JS réussi).
 </div>
 
 
@@ -55,7 +55,7 @@ A 9m de l'entrée, les PJs déclencheront la première apparition :{br}
 *A l'opposé des portes, se trouve une estrade où se dresse un autel de pierre, une cavité en son centre.*
 
 
-Dans les débris de cette zone, un test de <u>Perception DD20</u> permettra de découvrir une *dague courbe +1 tueuse d'humains*. Elle est maudite, cependant, et ne fonctionne qu'en tant que dague +1 jusqu'à ce qu'elle soit utilisée pour un [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Modificateurs%20de%20combat.ashx#Cible_sans_défense_3|coup-de-grâce] contre un humain. A ce moment, elle brillera d'une aura rouge, indiquant que sa capacité de tueuse d'humain est activée pour 24h. Toute personne touchant la dague, activera l"apparition suivante :{br}
+Dans les débris de cette zone, un test de <u>Perception DD20</u> permettra de découvrir une *dague courbe +1 tueuse d'humains*. Elle est maudite, cependant, et ne fonctionne qu'en tant que dague +1 jusqu'à ce qu'elle soit utilisée pour un [coup-de-grâce](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Modificateurs%20de%20combat.ashx#Cible_sans_défense_3) contre un humain. A ce moment, elle brillera d'une aura rouge, indiquant que sa capacité de tueuse d'humain est activée pour 24h. Toute personne touchant la dague, activera l"apparition suivante :{br}
 
 <div class="BD">
 {s:BDTitre|Offrandes Macabres  (apparition) |FP 4}
@@ -75,14 +75,14 @@ La fosse fait actuellement 18m de profondeur avec un sol boueux (*dégâts de ch
 
 <div class="BD">
 {s:BDTitre|Horreur Tentaculaire (apparition) |FP 4}
-- **Repérage** Perception DD20 (pour voir les tentacules qui s'élèvent des profondeurs de la fosse) ou [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.D%C3%A9tection%20du%20Mal.ashx|Détection du Mal] avant la manifestation
+- **Repérage** Perception DD20 (pour voir les tentacules qui s'élèvent des profondeurs de la fosse) ou [Détection du Mal](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.D%C3%A9tection%20du%20Mal.ashx) avant la manifestation
 (((Effet)))
 - **Pv** 18 ; **Déclencheur** Proximité ; **Permanent**
-- **Effet** Toute personne tentant de descendre dans la fosse est attaqué par les tentacules du monstre qui tente de l'attraper et de l'emmener dans les profondeurs. Son contact est suffisant pour causer une peur paralysante. C'est un effet similaire à un sort de [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Cacophonie.ashx|Cacophonie] (<u>Vigueur DD13</u>) pour chaque round qu'une personne se trouve entièrement sous les rebords de la fosse.
+- **Effet** Toute personne tentant de descendre dans la fosse est attaqué par les tentacules du monstre qui tente de l'attraper et de l'emmener dans les profondeurs. Son contact est suffisant pour causer une peur paralysante. C'est un effet similaire à un sort de [Cacophonie](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Cacophonie.ashx) (<u>Vigueur DD13</u>) pour chaque round qu'une personne se trouve entièrement sous les rebords de la fosse.
 </div>
 
 
-**Monstre :** Au fond de la fosse se trouve un [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Bab%C3%A9lien.ashx|Babélien] [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Arch%C3%A9types.ashx#Créature_géante_FP_+B_4|Géant] (FP6).{br}
+**Monstre :** Au fond de la fosse se trouve un [Babélien](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Bab%C3%A9lien.ashx) [Géant](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Arch%C3%A9types.ashx#Créature_géante_FP_+B_4) (FP6).{br}
 La fosse s'élargit vers le fond jusqu'a 12m de diamètre. Le sol spongieux rend les déplacement difficile pour tout autre que le babélien.{br}
 
 **Trésor :** *Anneau de Restauration Terrifiante*{br}
@@ -102,7 +102,7 @@ Toutes tentatives pour déchiffrer les inscriptions, déclenchera l'Apparition s
 - **'Repérage** Perception DD25 (pour entendre un murmure répétant les mots alors qu'ils sont déchiffrés).
 (((Effet)))
 - **Pv** 8 ; **Déclencheur** Lecture ; **Réinitialisation** 1 jour
-- **Effet** La victime commence à s'exprimer en Aklo et répète les mots déchiffrés sur les murs en une litanie obsessionnelle d'une voix de plus en plus forte. Les mots (bien qu'ils n'aient pas de sens apparents) occupent complètement les pensées de la victime et l'affectent d'un [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Idiotie.ashx|Idiotie] (pas de sauvegarde) qui dure 24 heures.
+- **Effet** La victime commence à s'exprimer en Aklo et répète les mots déchiffrés sur les murs en une litanie obsessionnelle d'une voix de plus en plus forte. Les mots (bien qu'ils n'aient pas de sens apparents) occupent complètement les pensées de la victime et l'affectent d'un [Idiotie](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Idiotie.ashx) (pas de sauvegarde) qui dure 24 heures.
 </div>
 
 
@@ -111,7 +111,7 @@ Toutes tentatives pour déchiffrer les inscriptions, déclenchera l'Apparition s
 
 ### La Tour aux Chandelles - Lever la Malédiction
 
-Pour pouvoir lever la malédiction de l'île, il est nécessaire de lancer un [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Rejet%20du%20Chaos.ashx|Rejet du Chaos] et de réussir un test de niveau de lanceur de sort (d20 + NLS) de DD30. Ce qui signifie que les PJs devront être au 11ème niveau pour avoir une chance raisonnable d'y arriver. Des PJs faisant quelques recherches pourront prendre l'ampleur de la magie, à laquelle ils veulent s'attaquer.
+Pour pouvoir lever la malédiction de l'île, il est nécessaire de lancer un [Rejet du Chaos](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Rejet%20du%20Chaos.ashx) et de réussir un test de niveau de lanceur de sort (d20 + NLS) de DD30. Ce qui signifie que les PJs devront être au 11ème niveau pour avoir une chance raisonnable d'y arriver. Des PJs faisant quelques recherches pourront prendre l'ampleur de la magie, à laquelle ils veulent s'attaquer.
 
 Puisque les Apparitions se réinitialisent, ils doivent rester prudent dans leur approche de la tour, mais ne devraient pas leur poser trop de problèmes. La vrai difficulté, est qu'il y a de grande chance que les PJs n'arrivent à lever la malédiction qu'en restant sur l'île au moins une nuit (déclenchant ainsi les cauchemars, et de possibles attaques par des Feu-Follets), sans être mortel, ceci peut être très ennuyeux pour les PJs.
 
@@ -123,7 +123,7 @@ Une fois que les PJs arrivent à lancer le sort à l'intérieur de la tour, et r
 
 {s:ImageExt|http://lovecraftiancreations.files.wordpress.com/2012/01/1139746-yog_s_large.jpg|300|fright}
 
-#### Nuée de Feu Follet (FP 14) ou [^http://lovecraftiancreations.wordpress.com/2012/01/11/yog-sothoth/|l'Avatar de Yog-Sothoth]
+#### Nuée de Feu Follet (FP 14) ou [l'Avatar de Yog-Sothoth](http://lovecraftiancreations.wordpress.com/2012/01/11/yog-sothoth/)
 <div class="BD">
 {s:BDTitre|Nuée de Feu Follet |FP 14}
 - Aberration (Nuée) de taille Gigantesque, CM

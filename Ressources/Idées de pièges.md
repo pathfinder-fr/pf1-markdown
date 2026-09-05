@@ -4,15 +4,15 @@ Title: It's a trap!
 LastModified: 2015-10-18 21:52
 ---
 
-Dans cette section vous trouverez quelques pièges pour pimenter vos aventures. N'hésitez pas à en proposer d'autres [^http://www.pathfinder-fr.org/Forum/yaf_postst11007_It-s-a-trap.aspx#post457008|ici].
+Dans cette section vous trouverez quelques pièges pour pimenter vos aventures. N'hésitez pas à en proposer d'autres [ici](http://www.pathfinder-fr.org/Forum/yaf_postst11007_It-s-a-trap.aspx#post457008).
 
 Vous pouvez également consulter les sections génériques du wiki sur :
 
-- [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.pi%c3%a8ges.ashx|Les pièges]
+- [Les pièges](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.pi%c3%a8ges.ashx)
 
-- [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Exemples%20de%20pi%c3%a8ges.ashx|Les exemples de pièges]
+- [Les exemples de pièges](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Exemples%20de%20pi%c3%a8ges.ashx)
 
-- [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Conception%20de%20pi%c3%a8ges.ashx|La conception des pièges]
+- [La conception des pièges](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Conception%20de%20pi%c3%a8ges.ashx)
 
 
 ### Obstacles

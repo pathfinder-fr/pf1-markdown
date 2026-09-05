@@ -13,8 +13,8 @@ Il s'agit de jeunes soldats n'ayant jamais connu la guerre.
 {s:BDTexte|*Source : Fan*}
 {s:BDTexte|**XP** 200}
 {s:BDTexte|Hobgobelin, homme d'arme 1 (PNJ de base) }
-{s:BDTexte|[++Pathfinder-RPG.type humanoïde|Humanoïde] ([++Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]) de taille M, LM}
-{s:BDTexte|**Init** +1 ; **Sens** [++Pathfinder-RPG.vision dans le noir|vision dans le noir] (12 cases) ; [++Pathfinder-RPG.Perception|Perception] +3}
+{s:BDTexte|[[Pathfinder-RPG.type humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +1 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +3}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 11, pris au dépourvu 14 (armure de cuir cloutée +3, rondache en acier +1, Dex +1)}
 {s:BDTexte|**pv** 11 (1d10+2+3)}

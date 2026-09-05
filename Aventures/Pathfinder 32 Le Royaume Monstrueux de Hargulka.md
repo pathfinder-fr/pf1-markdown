@@ -4,9 +4,9 @@ Title: Le Royaume Monstrueux de Hargulka
 LastModified: 2013-06-02 20:13
 ---
 
-*[^http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx|Retour au Sommaire]*
+*[Retour au Sommaire](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx)*
 
-*D'après un [^http://paizo.com/threads...argulkas-Monster-Kingdom|post] de DM_aka_Dudemeister sur le blog de Paizo.*
+*D'après un [post](http://paizo.com/threads...argulkas-Monster-Kingdom) de DM_aka_Dudemeister sur le blog de Paizo.*
 {s:ImageExt|http://paizo.com/image/content/Kingmaker/PZO9032-Troll.jpg|300|fright}
 
 <nav class="wiki-toc"></nav>
@@ -79,7 +79,7 @@ J'espère que cela devrait encourager les PJs à mener l'enquête au Nid des Fé
 
 **Pervilash le Dragon Féérique** est présent, et refuse de sortir à moins que les PJs ne l'encourage d'un manière ou d'une autre (il est corruptible à l'aide de cookies, du lait ou de l'alcool fort connu sous la dénomination de *la bonne Bibine*). Pervilash est triste car son meilleur ami du monde entier **Tyg-Titter-Tut** a été kidnappé par un Troll particulièrement cruel du nom de **Thruggnir**. **Thruggnir** a dit à **Pervilash** que s'il ne jouait pas des tours aux habitants du royaume des PJs, il arracherait une à une les pattes de **Tyg**. **Pervilash** a surnommé **Truggnik** le ***Troll Oeuf Pourri*** (en référence à l'odeur des trolls décuplée par la proximité de *la Mouffete*).
 
-Malheureusement **Pervilash** n'est pas aussi serviable. Il continu de sangloter et de pleurer plutôt que de parler. Il est nécessaire de réussir un test de <u>Diplomatie</u> pour le convaincre de parler (sa peur d'enrager **Thruggnir** est tellement grande qu'il est considéré [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Diplomatie.ashx|inamical] pour ce test). Si les PJs ne peuvent convaincre **Pervilash** de parler, il y a suffisamment de preuves réparties autour du Nid pour indiquer ce qu'il s'est passé.
+Malheureusement **Pervilash** n'est pas aussi serviable. Il continu de sangloter et de pleurer plutôt que de parler. Il est nécessaire de réussir un test de <u>Diplomatie</u> pour le convaincre de parler (sa peur d'enrager **Thruggnir** est tellement grande qu'il est considéré [inamical](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Diplomatie.ashx) pour ce test). Si les PJs ne peuvent convaincre **Pervilash** de parler, il y a suffisamment de preuves réparties autour du Nid pour indiquer ce qu'il s'est passé.
 
 - <u>Perception DD 10</u> - *De larges marques de griffes tout de long de l'arbre qui abrite le Nid* (par là où Thruggnir a grimpé pour attraper Tyg).{br}
 - <u>Perception DD 15</u> - *Des branches cassées et broussailles écrasées mènent en dehors de la zone du Nid vers l'ouest*{br}
@@ -102,7 +102,7 @@ Si les PJs attendent un peu, **Thuggnir** disparait rageur dans la forêt en qu�
 
 Autrement, les PJs peuvent s'approcher discrètement pour libérer **Tyg**, (le pieux peut être retiré du sol avec un test de <u>FOR  DD20</u>, ou l'on peut déverrouiller ses menottes avec un test de <u>Sabotage DD15</u>). **Thuggnir** garde la clé dans une bourse à sa ceinture (Test opposé d'<u>Escamotage</u> contre la <u>Perception</u> de Thuggnir)
 
-**Thuggnir** [^http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Troll.ashx|Troll Male] (pv 98) (remplacez Talent (Perception) par Talent (Bluff)), modifiez aussi les compétences comme suit : Bluff +3, Intimidation +9, Perception +3. {br}
+**Thuggnir** [Troll Male](http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Troll.ashx) (pv 98) (remplacez Talent (Perception) par Talent (Bluff)), modifiez aussi les compétences comme suit : Bluff +3, Intimidation +9, Perception +3. {br}
 **Thuggnir** est fatigué (n'a pas pu dormir depuis des jours, du fait de **Tyg**), mais est en bonne santé du fait de sa résidence à proximité de **la Mare aux Grenouilles** depuis quelques temps.
 
 Si les PJs tentent de négocier avec **Thuggnir** il leur affirme qu'ils peuvent récupérer **Tyg-Titter-Tut** pour la rançon princière de *1000po*, ils doivent délivrer la somme dans la grange d'un fermier à minuit dans trois nuits à partir d'aujourd'hui. Il laissera **Tyg** enchainé dans la même grange lorsqu'il aura récupéré l'argent. (Un jet de <u>Psychologie</u> opposé à son <u>Bluff </u>de +3 est suffisant pour révéler qu'il ne dit pas tout.)

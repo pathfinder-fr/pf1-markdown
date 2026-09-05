@@ -1,0 +1,11 @@
+---
+Name: Pathfinder-RPG.pouvoir légendaire
+Title: pouvoir légendaire
+LastModified: 2020-02-18 10:33
+Categories:
+- Campagne mythique
+- Redirection
+RedirectTo: Aptitudes des objets légendaires#POUVOIRLEGENDAIRE
+---
+
+>>> [[Aptitudes des objets légendaires#POUVOIRLEGENDAIRE]]

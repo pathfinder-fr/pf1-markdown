@@ -4,7 +4,7 @@ Title: utiliser les armes exotiques orientales comme des armes classiques
 LastModified: 2013-08-26 09:09
 ---
 
-Suite à une discussion sur le forum de la partie maîtrisée par Nan2tyx : Le régent de Jade, nous avons eu une [^http://www.pathfinder-fr.org/Forum/yaf_postsm228319_-HRP-Discutons-convoi--histoire-qu-on-voit-ou-ca-nous-mene.aspx#post228319|discussion] sur la possibilité pour les PJ d'utiliser les armes exotiques ayant une signification et un RP dans le cadre de la campagne sans que les PJ ne dispose du don qui permettrait de les utiliser (maniement d'une arme exotique)
+Suite à une discussion sur le forum de la partie maîtrisée par Nan2tyx : Le régent de Jade, nous avons eu une [discussion](http://www.pathfinder-fr.org/Forum/yaf_postsm228319_-HRP-Discutons-convoi--histoire-qu-on-voit-ou-ca-nous-mene.aspx#post228319) sur la possibilité pour les PJ d'utiliser les armes exotiques ayant une signification et un RP dans le cadre de la campagne sans que les PJ ne dispose du don qui permettrait de les utiliser (maniement d'une arme exotique)
 
 
 Voici la règle maison proposée et l'option qui permet de ne pas vendre les armes un peu symboliques tout en leur conservant un emploi.

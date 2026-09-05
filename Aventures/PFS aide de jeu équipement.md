@@ -6,7 +6,7 @@ LastModified: 2013-08-20 13:23
 
 {s:ImageGaucheExt|http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fIllustrations%2fPFS%2flettrine%20PFS%20C.jpg&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|100px}ette aide de jeu vous permettra d'équiper efficacement votre éclaireur pour qu'il puisse sortir vainqueur des différentes épreuves qu'il est susceptible de rencontrer lors de ses missions pour la Société des Éclaireurs.
 
-Source VO: D'après un [^http://paizo.com/threads/rzs2pqqh?How-to-help-weak-players-once-they-reach#8|post] de Sammy T sur le blog de paizo *(Traduction : Lithrac)*
+Source VO: D'après un [post](http://paizo.com/threads/rzs2pqqh?How-to-help-weak-players-once-they-reach#8) de Sammy T sur le blog de paizo *(Traduction : Lithrac)*
 
 #### Bas niveaux (1-3)
 
@@ -32,7 +32,7 @@ Source VO: D'après un [^http://paizo.com/threads/rzs2pqqh?How-to-help-weak-play
 **Réduction des dommages.** Des monstres peuvent avoir une RD qui ne peut être vaincue que par des armes en fer froid/argent alchimique/adamantium. Une huile de bénédiction des armes ou d’arme alignée sont les bienvenues pour passer les RD liées à l’alignement.
 
 
-**Invisibilité/Intangibilité.** Des monstres avec ces capacités commencent à apparaître. *Poussière scintillante*, *lueur féérique* et *détection de l’invisibilité* vous permettent de retrouver une créature invisible. Les archers peuvent investir dans l’enduit [^http://www.archivesofnethys.com/EquipmentMiscDisplay.aspx?ItemName=Weapon%20blanch%20%28ghost%20salt%29|ghost salt] pour vaincre des adversaires intangibles.
+**Invisibilité/Intangibilité.** Des monstres avec ces capacités commencent à apparaître. *Poussière scintillante*, *lueur féérique* et *détection de l’invisibilité* vous permettent de retrouver une créature invisible. Les archers peuvent investir dans l’enduit [ghost salt](http://www.archivesofnethys.com/EquipmentMiscDisplay.aspx?ItemName=Weapon%20blanch%20%28ghost%20salt%29) pour vaincre des adversaires intangibles.
 
 **Le saviez-vous ?** Les huiles ou potions de troisième niveau comme *vol*, *lumière du Jour*, *guérison de la cécité*, *respiration aquatique*, *forme gazeuse*, etc. ne coûtent que 2 PP. Bien que vous ne puissiez dépenser que 2 PP de cette manière par scénario, vous pouvez peu à peu vous constituer une réserve de ces potions "indispensables" suivant la situation rencontrée. De même, une potion de *caresse de la mer* est peu chère et peut vous sauver la mise.
 

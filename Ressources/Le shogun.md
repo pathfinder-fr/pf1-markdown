@@ -28,7 +28,7 @@ Au niveau 11, il peut utiliser cette capacité par une action simple.
 
 - =**Dur à cuire**= (niveau 4)
 
-Au niveau 4, le shogun gagne le don «[++Pathfinder-RPG.Dur à cuire|Dur à cuire]», même s'il ne remplit pas les pré-requis.
+Au niveau 4, le shogun gagne le don «[[Pathfinder-RPG.Dur à cuire|Dur à cuire]]», même s'il ne remplit pas les pré-requis.
 
 Cette capacité remplace « archer monté »
 

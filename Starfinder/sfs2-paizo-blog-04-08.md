@@ -4,7 +4,7 @@ Title: Bienvenue dans la Starfinder Society !
 LastModified: 2025-04-16 21:17
 ---
 
-*Traduction de [^https://paizo.com/community/blog/v5748dyo6znhl?Welcome-to-Starfinder-Society|Welcome to Starfinder Society]article paru le 8 Avril 2025 sur le site de Paizo*
+*Traduction de [Welcome to Starfinder Society](https://paizo.com/community/blog/v5748dyo6znhl?Welcome-to-Starfinder-Society)article paru le 8 Avril 2025 sur le site de Paizo*
 {s:ImageExt|https://cdn.paizo.com/a7d62ac8-7f03-00ef-f1f0-83fb8bf332e2/e3a8d932-f1b2-4d55-a3a3-787375092652/StarfinderSociety_2ELogo_1500x500.png|80%|centre}
 ### Salutations, Starfinders !
 Aujourd’hui, Jessica et moi sommes ravis d’annoncer officiellement la Starfinder Society Seconde Édition, qui sera lancée durant la Gen Con 2025 !

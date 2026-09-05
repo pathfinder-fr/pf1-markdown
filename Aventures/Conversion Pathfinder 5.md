@@ -4,7 +4,7 @@ Title: Conversion Pathfinder
 LastModified: 2011-07-18 08:15
 ---
 
-Ces conversions sont la traduction de celles existantes sur le Pathfinder SRD ([^http://www.d20pfsrd.com/bestiary/fan-conversions/paizo-adventure-paths/pf-05-sins-of-the-saviors|lien vers les conversions en VO]).
+Ces conversions sont la traduction de celles existantes sur le Pathfinder SRD ([lien vers les conversions en VO](http://www.d20pfsrd.com/bestiary/fan-conversions/paizo-adventure-paths/pf-05-sins-of-the-saviors)).
 
 <div class="BD">
 {s:BDTitre|Le Gribouilleur|FP 14}

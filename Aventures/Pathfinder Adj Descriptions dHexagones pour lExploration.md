@@ -4,9 +4,9 @@ Title: Descriptions d'hexagones pour l'exploration
 LastModified: 2015-08-28 14:11
 ---
 
-*[^http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx|Retour au Sommaire]*
+*[Retour au Sommaire](http://www.pathfinder-fr.org/Wiki/Aventures.Aides%20de%20jeu%20Pathfinder%2032.ashx)*
 
-*D'après un [^http://http://paizo.com/threads/rzs2ppuf?Kingmaker-Hex-Description-for-Exploration|post] de Dark_Scarab sur le blog de Paizo.*
+*D'après un [post](http://http://paizo.com/threads/rzs2ppuf?Kingmaker-Hex-Description-for-Exploration) de Dark_Scarab sur le blog de Paizo.*
 {s:ImageExt|http://www.pathfinder-fr.org/Media/gs/handler/getmediaobject.ashx?moid=357&dt=3&g=1|300|fright}
 
 <nav class="wiki-toc"></nav>

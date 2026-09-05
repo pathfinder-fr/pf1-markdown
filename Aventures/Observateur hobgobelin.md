@@ -18,8 +18,8 @@ Ils agissent généralement seul, avant de revenir pour guider les **forces d'in
 {s:BDTexte|*Source : Fan*}
 {s:BDTexte|**XP** 800}
 {s:BDTexte|Hobgobelin, Voleur 3 (PNJ héroïque) }
-{s:BDTexte|[++Pathfinder-RPG.type humanoïde|Humanoïde] ([++Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]) de taille M, LM}
-{s:BDTexte|**Init** +3 ; **Sens** [++Pathfinder-RPG.vision dans le noir|vision dans le noir] (12 cases) ; [++Pathfinder-RPG.Perception|Perception] +8}
+{s:BDTexte|[[Pathfinder-RPG.type humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +8}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 14, pris au dépourvu 12 (armure +2, Dex +3)}
 {s:BDTexte|**pv** 16 (3d8+3)}
@@ -31,8 +31,8 @@ Ils agissent généralement seul, avant de revenir pour guider les **forces d'in
 {s:BDSousTitre|Caractéristiques}
 {s:BDTexte|**For** 8, **Dex** 17, **Con** 12, **Int** 13, **Sag** 14, **Cha** 12}
 {s:BDTexte|**BBA** +2, **BMO** -1, **DMD** 14}
-{s:BDTexte|**Dons** [++Pathfinder-RPG.Discret|Discret], [++Pathfinder-RPG.Rapide|Rapide]}
-{s:BDTexte|**Talent** : [++Pathfinder-RPG.Talents#DISCRETRAPIDE|Discret et rapide], [++Pathfinder-RPG.Roublard#ESQUIVETOTALE|Esquive totale]}
-{s:BDTexte|**Compétences** Acrobaties +9, Bluff +8, Déguisement +8, [++Pathfinder-RPG.Discrétion|Discrétion] +15, Escamotage +9, Évasion +11, Linguistique +7, [++Pathfinder-RPG.Perception|Perception] +8, Sabotage +9; **Modificateurs raciaux** [++Pathfinder-RPG.Discrétion|Discrétion] +4}
+{s:BDTexte|**Dons** [[Pathfinder-RPG.Discret|Discret]], [[Pathfinder-RPG.Rapide|Rapide]]}
+{s:BDTexte|**Talent** : [[Pathfinder-RPG.Talents#DISCRETRAPIDE|Discret et rapide]], [[Pathfinder-RPG.Roublard#ESQUIVETOTALE|Esquive totale]]}
+{s:BDTexte|**Compétences** Acrobaties +9, Bluff +8, Déguisement +8, [[Pathfinder-RPG.Discrétion|Discrétion]] +15, Escamotage +9, Évasion +11, Linguistique +7, [[Pathfinder-RPG.Perception|Perception]] +8, Sabotage +9; **Modificateurs raciaux** [[Pathfinder-RPG.Discrétion|Discrétion]] +4}
 {s:BDTexte|**Langues** commun, gobelin et 3 langues au choix du MJ}
 </div>

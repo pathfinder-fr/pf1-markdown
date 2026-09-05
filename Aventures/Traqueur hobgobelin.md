@@ -15,8 +15,8 @@ Il repère les mouvements adverses, traques les fuyards, et abattent à distance
 {s:BDTexte|*Source : Fan*}
 {s:BDTexte|**XP** 800}
 {s:BDTexte|Hobgobelin, rôdeur 3 (PNJ héroïque) }
-{s:BDTexte|[++Pathfinder-RPG.type humanoïde|Humanoïde] ([++Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]) de taille M, LM}
-{s:BDTexte|**Init** +3 ; **Sens** [++Pathfinder-RPG.vision dans le noir|vision dans le noir] (12 cases) ; [++Pathfinder-RPG.Perception|Perception] +10}
+{s:BDTexte|[[Pathfinder-RPG.type humanoïde|Humanoïde]] ([[Pathfinder-RPG.sous-type gobelinoïde|gobelinoïde]]) de taille M, LM}
+{s:BDTexte|**Init** +3 ; **Sens** [[Pathfinder-RPG.vision dans le noir|vision dans le noir]] (12 cases) ; [[Pathfinder-RPG.Perception|Perception]] +10}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 15, contact 13, pris au dépourvu 12 (armure +2, Dex +3)}
 {s:BDTexte|**pv** 23 (3d10+6)}

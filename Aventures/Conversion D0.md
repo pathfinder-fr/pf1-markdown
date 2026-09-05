@@ -4,7 +4,7 @@ Title: Conversion D0
 LastModified: 2014-01-09 21:03
 ---
 
-Cliquez [^http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fConversions%20D0.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1|ici] pour télécharger le pdf de ces conversions *(aide de jeu mise en page par MilesTEG)*
+Cliquez [ici](http://www.pathfinder-fr.org/Wiki/GetFile.aspx?File=%2fADJ%2fAventures%2fConversions%20D0.pdf&AsStreamAttachment=1&Provider=ScrewTurn.Wiki.FilesStorageProvider&NoHit=1) pour télécharger le pdf de ces conversions *(aide de jeu mise en page par MilesTEG)*
 
 <div class="BD">
 {s:BDTitre|Grung, Langue-tranchante|FP 1/2}
